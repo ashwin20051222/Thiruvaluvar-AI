@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 126,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.616039678+00:00",
+  "kurals": [
+    {
+      "kural_number": 1251,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நாணம் என்னும் தாழ்ப்பாள் பொருந்திய நிறை என்று சொல்லப்படும் கதவை காமம் ஆகிய கோடாலி உடைத்து விடுகிறதே.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The axe of lust can break the door of chastity which is bolted with the bolt of modesty.",
+        "story_title_ta": "நிறையழிதல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Reserve Overcome — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நிறையழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1251 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1251 from 'Reserve Overcome', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதல் வேட்கை இருக்கிறதே, அது ஒரு கோடரியாக மாறி, நாணம் எனும் தாழ்ப்பாள் போடப்பட்ட மன அடக்கம் என்கிற கதவையே உடைத்தெறிந்து விடுகின்றது.",
+        "moral_en": "Moral: Of womanly reserve love's axe breaks through the door, Barred by the bolt of shame before.",
+        "game_blank_word_ta": "வீழ்த்த",
+        "game_options_ta": [
+          "காமம்",
+          "எனவொன்றோ",
+          "கண்ணின்றென்",
+          "வீழ்த்த"
+        ],
+        "game_options_en": [
+          "The thing called lust is a heartless power It sways my mind at midnight hour",
+          "How to hide this lust which shows Itself while I sneeze unawares!",
+          "I was proud of my sex-reserve Lo lust betrays what I preserve",
+          "Passion's axe shall break the door Of reserve bolted with my honour"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நிறையழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1251, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாணம் என்னும் தாழ்பாளைக் கோத்திருக்கும் நிறை எனப்படும் கதவைக் காதல் விருப்பமாகிய கோடரி பிளக்கின்றதே! கலைஞர் உரை கூறுவது: காதல் வேட்கை இருக்கிறதே, அது ஒரு கோடரியாக மாறி, நாணம் எனும் தாழ்ப்பாள் போடப்பட்ட மன அடக்கம் என்கிற கதவையே உடைத்தெறிந்து விடுகின்றது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Reserve Overcome (Post-marital Love), Kural 1251 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The axe of lust can break the door of chastity which is bolted with the bolt of modesty. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நிறையழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Reserve Overcome'.",
+        "quiz_question_ta": "'நிறையழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1251 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1251 from Chapter 'Reserve Overcome'?",
+        "quiz_options_ta": [
+          "( காதலரைப் பெறாதபோது) பெறாமைக்கு அஞ்சும்; பெற்றால் பிரிவை நினைத்து அஞ்சும்; ( இவ்வாறாக) என் நெஞ்சம் தீராத துன்பம் உடையதாகின்றது.",
+          "அறக்கடலாக விளங்கும் கடவுளின் திருவடிகளைப் பொருந்தி நினைக்கின்றவர் அல்லாமல், மற்றவர் பொருளும் இன்பமுமாகிய மற்ற கடல்களைக் கடக்க முடியாது",
+          "இல்வாழ்க்கைக்கு ஏற்ற நற்பண்பு உடையவளாகித் தன்கணவனுடைய பொருள் வளத்துக்குத் தக்க வாழ்க்கை நடத்துகிறவளே வாழ்க்கைத்துணை ஆவாள்.",
+          "நாணம் என்னும் தாழ்ப்பாள் பொருந்திய நிறை என்று சொல்லப்படும் கதவை காமம் ஆகிய கோடாலி உடைத்து விடுகிறதே."
+        ],
+        "quiz_options_en": [
+          "Frets to gain and fears loss in gain O my heart suffers ceaseless pain",
+          "Who swims the sea of vice is he Who clasps the feet of Virtue's sea",
+          "A good housewife befits the house, Spending with thrift the mate's resource",
+          "Passion's axe shall break the door Of reserve bolted with my honour"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நிறையழிதல்) பகுதியில் குறள் 1251 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நாணம் என்னும் தாழ்ப்பாள் பொருந்திய நிறை என்று சொல்லப்படும் கதவை காமம் ஆகிய கோடாலி உடைத்து விடுகிறதே. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, தலைமகள் மனத்து அடக்கற்பாலனவற்றை வேட்கை மிகுதியான் அடக்க மாட்டாது வாய்விடுதல். 'நிறையெனப்படுவது மறைபிறர் அறியாமை'(கலித். நெய்தல்.16) என்றார் பிறரும். அஃது அழிதற்காரணம் நெஞ்சொடு கிளந்தமையின் , இதுநெஞ்சொடு கிளத்தலின் பின் வைக்கப்பட்டது.] (நாணும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 126: 'Reserve Overcome'), Kural 1251 distills a foundational ethical insight: \"Of womanly reserve love's axe breaks through the door, Barred by the bolt of shame before\" Philosophically, The axe of lust can break the door of chastity which is bolted with the bolt of modesty.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "love",
+        "humility",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1252,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: காமம் என்று சொல்லப்படுகின்ற ஒன்று கண்ணோட்டம் இல்லாதது. அது என் நெஞ்சத்தை நள்ளிரவில் ஏவல் கொண்டு ஆள்கிறது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Even at midnight is my mind worried by lust, and this one thing, alas! is without mercy.",
+        "story_title_ta": "நிறையழிதல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Reserve Overcome — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நிறையழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1252 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1252 from 'Reserve Overcome', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதல் வேட்கை எனப்படும் ஒன்று இரக்கமே இல்லாதது; ஏனெனில் அது என் நெஞ்சில் நள்ளிரவிலும் ஆதிக்கம் செலுத்தி அலைக்கழிக்கிறது.",
+        "moral_en": "Moral: What men call love is the one thing of merciless power; It gives my soul no rest, e'en in the midnight hour.",
+        "game_blank_word_ta": "தொழில்",
+        "game_options_ta": [
+          "தொழில்",
+          "காமக்",
+          "கணிச்சி",
+          "உடைக்கும்"
+        ],
+        "game_options_en": [
+          "The thing called lust is a heartless power It sways my mind at midnight hour",
+          "Passion's axe shall break the door Of reserve bolted with my honour",
+          "How to hide this lust which shows Itself while I sneeze unawares!",
+          "I was proud of my sex-reserve Lo lust betrays what I preserve"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நிறையழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1252, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எல்லாரும் வேலையின்றி உறங்கும் நடுச்சாமத்திலும் என் நெஞ்சத்தைத் தண்டித்து வேலை வாங்குவதால் காதல் என்று சொல்லப்படும் ஒன்று இரக்கமற்றதாக இருக்கிறது. கலைஞர் உரை கூறுவது: காதல் வேட்கை எனப்படும் ஒன்று இரக்கமே இல்லாதது; ஏனெனில் அது என் நெஞ்சில் நள்ளிரவிலும் ஆதிக்கம் செலுத்தி அலைக்கழிக்கிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Reserve Overcome (Post-marital Love), Kural 1252 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even at midnight is my mind worried by lust, and this one thing, alas! is without mercy. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நிறையழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Reserve Overcome'.",
+        "quiz_question_ta": "'நிறையழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1252 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1252 from Chapter 'Reserve Overcome'?",
+        "quiz_options_ta": [
+          "காமம் என்று சொல்லப்படுகின்ற ஒன்று கண்ணோட்டம் இல்லாதது. அது என் நெஞ்சத்தை நள்ளிரவில் ஏவல் கொண்டு ஆள்கிறது.",
+          "காதலரைப் பிரிந்து தனியே இருந்து அவருடைய தவறுகளை நினைத்தபோது என் நெஞ்சம் என்னைத் தின்பது போல் துன்பம் செய்வதாக இருந்தது.",
+          "கேட்காதசெவி, பார்க்காத கண் போன்ற எண் குணங்களை உடைய கடவுளின் திருவடிகளை வணங்காதவரின் தலைகள் பயனற்றவைகளாம்",
+          "இல்வாழ்க்கைக்கு தக்க நற்பண்பு மனைவியிடம் இல்லையானால், ஒருவனுடைய வாழ்க்கை வேறு எவ்வளவு சிறப்புடையதானாலும் பயன் இல்லை."
+        ],
+        "quiz_options_en": [
+          "The thing called lust is a heartless power It sways my mind at midnight hour",
+          "My itching mind eats me anon As I muse on him all alone",
+          "Like senses stale that head is vain Which bows not to Eight-Virtued Divine",
+          "Bright is home when wife is chaste If not all greatness is but waste"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நிறையழிதல்) பகுதியில் குறள் 1252 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காமம் என்று சொல்லப்படுகின்ற ஒன்று கண்ணோட்டம் இல்லாதது. அது என் நெஞ்சத்தை நள்ளிரவில் ஏவல் கொண்டு ஆள்கிறது. பரிமேலழகர் உரை நுட்பம்: (நெஞ்சின்கண் தோன்றிய காமம் நெஞ்சால் அடக்கப்படும் என்றாட்குச் சொல்லியது.) யாமத்தும் என் நெஞ்சத்தைத் தொழில் ஆளும் - எல்லாரும் தொழிலொழியும் இடை யாமத்தும் என் நெஞ்சத்தை ஒறுத்துத் தொழில் கொள்ளா நின்றது; காமம் என ஒன்று கண் இன்று - ஆகலாற் காமம் என்று சொல்லப்பட்ட...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 126: 'Reserve Overcome'), Kural 1252 distills a foundational ethical insight: \"What men call love is the one thing of merciless power; It gives my soul no rest, e'en in the midnight hour\" Philosophically, Even at midnight is my mind worried by lust, and this one thing, alas! is without mercy.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "time",
+        "self-mastery",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1253,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: யான் காமத்தை என்னுள்‌ளே மறைக்க முயல்வேன்; ஆனால் அதுவே என் குறிப்பின்படி நிற்காமல் தும்மல் போல் தானே வெளிப்பட்டு விடுகிறது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: I would conceal my lust, but alas, it yields not to my will but breaks out like a sneeze.",
+        "story_title_ta": "நிறையழிதல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Reserve Overcome — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நிறையழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1253 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1253 from 'Reserve Overcome', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: எவ்வளவுதான் அடக்க முயன்றாலும் கட்டுப்படாமல் தும்மல் நம்மையும் மீறி வெளிப்படுகிறதல்லவா; அதைப் போன்றதுதான் காதல் உணர்ச்சியும்; என்னதான் மறைத்தாலும் காட்டிக் கொடுத்துவிடும்.",
+        "moral_en": "Moral: I would my love conceal, but like a sneezeIt shows itself, and gives no warning sign.",
+        "game_blank_word_ta": "விடும்",
+        "game_options_ta": [
+          "காமக்",
+          "விடும்",
+          "கணிச்சி",
+          "உடைக்கும்"
+        ],
+        "game_options_en": [
+          "Passion's axe shall break the door Of reserve bolted with my honour",
+          "How to hide this lust which shows Itself while I sneeze unawares!",
+          "The thing called lust is a heartless power It sways my mind at midnight hour",
+          "I was proud of my sex-reserve Lo lust betrays what I preserve"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நிறையழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1253, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் காதல் ஆசையை நான் மறைக்கவே எண்ணுவேன்; ஆனால், அது எனக்கும் தெரியாமல் தும்மலைப் போல் வெளிப்பட்டு விடுகிறது. கலைஞர் உரை கூறுவது: எவ்வளவுதான் அடக்க முயன்றாலும் கட்டுப்படாமல் தும்மல் நம்மையும் மீறி வெளிப்படுகிறதல்லவா; அதைப் போன்றதுதான் காதல் உணர்ச்சியும்; என்னதான் மறைத்தாலும் காட்டிக் கொடுத்துவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Reserve Overcome (Post-marital Love), Kural 1253 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I would conceal my lust, but alas, it yields not to my will but breaks out like a sneeze. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நிறையழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Reserve Overcome'.",
+        "quiz_question_ta": "'நிறையழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1253 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1253 from Chapter 'Reserve Overcome'?",
+        "quiz_options_ta": [
+          "காதலனை மறக்க முடியாத என்னுடைய சிறப்பில்லாத மட நெஞ்சினோடு சேர்ந்து, மறக்கத் தகாததாகிய நாணத்தையும் மறந்து விடடேன்.",
+          "யான் காமத்தை என்னுள்‌ளே மறைக்க முயல்வேன்; ஆனால் அதுவே என் குறிப்பின்படி நிற்காமல் தும்மல் போல் தானே வெளிப்பட்டு விடுகிறது.",
+          "இறைவனுடைய திருவடிகளை பொருந்தி நினைக்கின்றவர் பிறவியாகிய பெரிய கடலைக் கடக்க முடியும். மற்றவர் கடக்க முடியாது",
+          "மனைவி நற்பண்பு உடையவளானால் வாழ்க்கையில் இல்லாதது என்ன? அவள் நற்பண்பு இல்லாதவளானால் வாழ்க்கையில் இருப்பது என்ன?"
+        ],
+        "quiz_options_en": [
+          "I forget shame but not his thought In mean foolish mind I'm caught",
+          "How to hide this lust which shows Itself while I sneeze unawares!",
+          "The sea of births they alone swim Who clench His feet and cleave to Him",
+          "What is rare when wife is good What can be there when she is bad?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நிறையழிதல்) பகுதியில் குறள் 1253 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யான் காமத்தை என்னுள்‌ளே மறைக்க முயல்வேன்; ஆனால் அதுவே என் குறிப்பின்படி நிற்காமல் தும்மல் போல் தானே வெளிப்பட்டு விடுகிறது. பரிமேலழகர் உரை நுட்பம்: (மகளிர் காமம் மறைக்கப்படும், என்றாட்குச் சொல்லியது.) காமத்தை யான் மறைப்பேன் - இக்காமத்தை யான் என்னுள்ளே மறைக்கக் கருதுவேன்; குறிப்பு இன்றித் தும்மல் போல் தோன்றிவிடும் - அதனாலென், இஃது என் கருத்தின் வாராது தும்மல் போல் வெளிப்பட்டே விடாநின்றது. ('மன்' ஒழியிசைக...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 126: 'Reserve Overcome'), Kural 1253 distills a foundational ethical insight: \"I would my love conceal, but like a sneezeIt shows itself, and gives no warning sign\" Philosophically, I would conceal my lust, but alas, it yields not to my will but breaks out like a sneeze.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "education",
+        "speech",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1254,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: யான் இதுவரையில் நிறையோடிருப்பதாக எண்ணிக கொண்டிருந்தேன். ஆனால் என் காமம் என்னுள் மறைந்திருத்தலைக் கடந்து மன்றத்தில் வெளிப்படுகின்றது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: I say I would be firm, but alas, my malady breaks out from its concealment and appears in public.",
+        "story_title_ta": "நிறையழிதல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Reserve Overcome — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நிறையழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1254 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1254 from 'Reserve Overcome', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: மன உறுதிகொண்டவள் நான் என்பதே என் நம்பிக்கை; ஆனால் என் காதல், நான் மறைப்பதையும் மீறிக்கொண்டு மன்றத்திலேயே வெளிப்பட்டு விடுகிறதே.",
+        "moral_en": "Moral: In womanly reserve I deemed myself beyond assail; But love will come abroad, and casts away the veil.",
+        "game_blank_word_ta": "என்பேன்மன்",
+        "game_options_ta": [
+          "காமக்",
+          "கணிச்சி",
+          "என்பேன்மன்",
+          "உடைக்கும்"
+        ],
+        "game_options_en": [
+          "Passion's axe shall break the door Of reserve bolted with my honour",
+          "The thing called lust is a heartless power It sways my mind at midnight hour",
+          "I was proud of my sex-reserve Lo lust betrays what I preserve",
+          "How to hide this lust which shows Itself while I sneeze unawares!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நிறையழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1254, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இன்றுவரை நான் என்னை மன அடக்கம் உடையவள் என்றுதான் எண்ணிக் கொண்டிருந்தேன். ஆனால் இன்றோ என் காதல் ஆசை, மறைத்தலைக் கடந்து ஊரவர் அறிய வெளிப்பட்டுவிட்டது. கலைஞர் உரை கூறுவது: மன உறுதிகொண்டவள் நான் என்பதே என் நம்பிக்கை; ஆனால் என் காதல், நான் மறைப்பதையும் மீறிக்கொண்டு மன்றத்திலேயே வெளிப்பட்டு விடுகிறதே. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Reserve Overcome (Post-marital Love), Kural 1254 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I say I would be firm, but alas, my malady breaks out from its concealment and appears in public. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நிறையழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Reserve Overcome'.",
+        "quiz_question_ta": "'நிறையழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1254 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1254 from Chapter 'Reserve Overcome'?",
+        "quiz_options_ta": [
+          "உயரின் மேல் காதல் கொண்ட என் நெஞ்சம், பிரிந்த காதலரை இகழ்ந்தால் இழிவாகும் என்று எண்ணி அவருடைய உயர்ந்த பண்புகளையே நினைக்கின்றது.",
+          "மழை பெய்ய உலகம் வாழ்ந்து வருவதால், மழையானது உலகத்து வாழும் உயிர்களுக்கு அமிழ்தம் என்று உணரத்தக்கதாகும்",
+          "யான் இதுவரையில் நிறையோடிருப்பதாக எண்ணிக கொண்டிருந்தேன். ஆனால் என் காமம் என்னுள் மறைந்திருத்தலைக் கடந்து மன்றத்தில் வெளிப்படுகின்றது.",
+          "இல்வாழ்க்கையில் கற்பு என்னும் உறுதிநிலை இருக்கப் பெற்றால், பெண்ணைவிட பெருமையுடையவை வேறு என்ன இருக்கின்றன?"
+        ],
+        "quiz_options_en": [
+          "My heart living in love of him Hails his glory ignoring blame",
+          "The genial rain ambrosia call: The world but lasts while rain shall fall",
+          "I was proud of my sex-reserve Lo lust betrays what I preserve",
+          "What greater fortune is for men Than a constant chaste woman?"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நிறையழிதல்) பகுதியில் குறள் 1254 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யான் இதுவரையில் நிறையோடிருப்பதாக எண்ணிக கொண்டிருந்தேன். ஆனால் என் காமம் என்னுள் மறைந்திருத்தலைக் கடந்து மன்றத்தில் வெளிப்படுகின்றது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) யான் நிறையுடையேன் என்பேன் - இன்றினூங்கெல்லாம் யான் என்னை நிறையுடையேன் என்று கருதியிருந்தேன்; என் காமம் மறை இறந்து மன்றுபடும் - இன்று என் காமம் மறைத்தலைக் கடந்து மன்றின்கண் வெளிப்படா நின்றது. (மன்னும் ஓவும் மேலவற்றின்கண் வந்தன, மன்று படுதல...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 126: 'Reserve Overcome'), Kural 1254 distills a foundational ethical insight: \"In womanly reserve I deemed myself beyond assail; But love will come abroad, and casts away the veil\" Philosophically, I say I would be firm, but alas, my malady breaks out from its concealment and appears in public.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "speech",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1255,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தம்மை வெறுத்து நீங்கியவரின் பின் செல்லாமல் மானத்தோடு நிற்கும் பெருந்தகைமை, காமநோய் உற்றவர் அறியும் தன்மையது அனறு.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The dignity that would not go after an absent lover is not known to those who are sticken by love.",
+        "story_title_ta": "நிறையழிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Reserve Overcome — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நிறையழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1255 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1255 from 'Reserve Overcome', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: தம்மைப் பிரிந்து சென்ற காதலரைப் பகையாகக் கருதி அவரைத் தொடர்ந்து மன அடக்கம், காதல் நோயுற்றவர்க்கு இருப்பதில்லை.",
+        "moral_en": "Moral: The dignity that seeks not him who acts as foe, Is the one thing that loving heart can never know.",
+        "game_blank_word_ta": "பெருந்தகைமை",
+        "game_options_ta": [
+          "காமக்",
+          "கணிச்சி",
+          "உடைக்கும்",
+          "பெருந்தகைமை"
+        ],
+        "game_options_en": [
+          "Passion's axe shall break the door Of reserve bolted with my honour",
+          "The thing called lust is a heartless power It sways my mind at midnight hour",
+          "How to hide this lust which shows Itself while I sneeze unawares!",
+          "Dignity seeks not a deserter But Love-sick is its innovator"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நிறையழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1255, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்னைப் பிரிந்து சென்றவர் பின்னே செல்லாது, தானும் அவரை விட்டுப் பிரிந்து நிற்கும் மன அடக்கத்தைக் காதல் நோயை அறியாதவர் பெற முடியும். அறிந்தவரால் பெற முடியாது. கலைஞர் உரை கூறுவது: தம்மைப் பிரிந்து சென்ற காதலரைப் பகையாகக் கருதி அவரைத் தொடர்ந்து மன அடக்கம், காதல் நோயுற்றவர்க்கு இருப்பதில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Reserve Overcome (Post-marital Love), Kural 1255 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The dignity that would not go after an absent lover is not known to those who are sticken by love. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நிறையழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Reserve Overcome'.",
+        "quiz_question_ta": "'நிறையழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1255 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1255 from Chapter 'Reserve Overcome'?",
+        "quiz_options_ta": [
+          "ஒருவர்க்குத் துன்பம் வந்தபோது, தாம் உரிமையாகப் பெற்றுள்ள நெஞ்சமே துணையாகா விட்டால், வேறு யார் துணையாவார்?",
+          "உண்பவர்க்குத் தக்க உணவுப் பொருள்களை விளைவித்துத் தருவதோடு, பருகுவோர்க்குத் தானும் ஓர் உணவாக இருப்பது மழையாகும்",
+          "வேறு தெய்வம் தொழாதவளாய்த் தன் கணவனையே தெய்வமாகக் கொண்டு தொழுது துயிலெழுகின்றவள் பெய் என்றால் மழை பெய்யும்.",
+          "தம்மை வெறுத்து நீங்கியவரின் பின் செல்லாமல் மானத்தோடு நிற்கும் பெருந்தகைமை, காமநோய் உற்றவர் அறியும் தன்மையது அனறு."
+        ],
+        "quiz_options_en": [
+          "Who support a man in grief If lover's heart denies relief?",
+          "The rain begets the food we eat",
+          "Her spouse before God who adores, Is like rain that at request pours",
+          "Dignity seeks not a deserter But Love-sick is its innovator"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நிறையழிதல்) பகுதியில் குறள் 1255 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம்மை வெறுத்து நீங்கியவரின் பின் செல்லாமல் மானத்தோடு நிற்கும் பெருந்தகைமை, காமநோய் உற்றவர் அறியும் தன்மையது அனறு. பரிமேலழகர் உரை நுட்பம்: (நம்மை மறந்தாரை நாமும் மறக்கற்பாலம் என்றாட்குச் சொல்லியது.) செற்றார்பின் செல்லாப் பெருந்தகைமை - தம்மை அகன்று சென்றார்பின் செல்லாது தாமும் அகன்று நிற்கும் நிறையுடைமை; காமநோய் உற்றார் அறிவது ஒன்று அன்று - காமநோயினை உறாதார் அறிவதொன்று அன்றி உற்றார் அறிவதொன்று...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 126: 'Reserve Overcome'), Kural 1255 distills a foundational ethical insight: \"The dignity that seeks not him who acts as foe, Is the one thing that loving heart can never know\" Philosophically, The dignity that would not go after an absent lover is not known to those who are sticken by love.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "courage",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1256,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: வெறுத்து நீங்கிய காதலரின் பின் செல்ல விரும்பிய நிலையில் இருப்பதால் என்னை அடைந்த இந்த காமநோய் எத்தன்மையானது? அந்‌தோ!",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The sorrow I have endured by desiring to go after my absent lover, in what way is it excellent?",
+        "story_title_ta": "நிறையழிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Reserve Overcome — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நிறையழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1256 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1256 from 'Reserve Overcome', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: வெறுத்துப் பிரிந்ததையும் பொறுத்துக் கொண்டு அவர் பின்னே செல்லும் நிலையை என் நெஞ்சுக்கு ஏற்படுத்திய காதல் நோயின் தன்மைதான் என்னே.",
+        "moral_en": "Moral: My grief how full of grace, I pray you see!It seeks to follow him that hateth me.",
+        "game_blank_word_ta": "அளித்தரோ",
+        "game_options_ta": [
+          "அளித்தரோ",
+          "காமக்",
+          "கணிச்சி",
+          "உடைக்கும்"
+        ],
+        "game_options_en": [
+          "O Grief, my deserter you seek Of your caprice what shall I speak!",
+          "Passion's axe shall break the door Of reserve bolted with my honour",
+          "The thing called lust is a heartless power It sways my mind at midnight hour",
+          "How to hide this lust which shows Itself while I sneeze unawares!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நிறையழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1256, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என்னைப் பிரிந்து சென்றவர் பின்னே நான் போய்ச் சேர வேண்டும் என்று என்னைப் பிடித்த இந்தக் காதல் நோய் தூண்டுவதால் இது மிகமிகக் கொடியது. கலைஞர் உரை கூறுவது: வெறுத்துப் பிரிந்ததையும் பொறுத்துக் கொண்டு அவர் பின்னே செல்லும் நிலையை என் நெஞ்சுக்கு ஏற்படுத்திய காதல் நோயின் தன்மைதான் என்னே. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Reserve Overcome (Post-marital Love), Kural 1256 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The sorrow I have endured by desiring to go after my absent lover, in what way is it excellent? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நிறையழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Reserve Overcome'.",
+        "quiz_question_ta": "'நிறையழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1256 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1256 from Chapter 'Reserve Overcome'?",
+        "quiz_options_ta": [
+          "வெறுத்து நீங்கிய காதலரின் பின் செல்ல விரும்பிய நிலையில் இருப்பதால் என்னை அடைந்த இந்த காமநோய் எத்தன்மையானது? அந்‌தோ!",
+          "ஒருவர்க்கு தாம் உரிமையாகப் பெற்ற நெஞ்சமே உறவாகாதபோது அயலார் உறவில்லாதவராக இருப்பது எளிதேயாகும்.",
+          "மழை பெய்யாமல் பொய்படுமானால், கடல் சூழ்ந்த அகன்ற உலகமாக இருந்தும் பசி உள்ளே நிலைத்து நின்று உயிர்களை வருத்தும்",
+          "கற்பு நெறியில் தன்னையும் காத்துக்கொண்டு, தன்கணவனையும் காப்பாற்றி, தகுதியமைந்த புகழையும் காத்து உறுதி தளராமல் வாழ்கின்றவளே பெண்."
+        ],
+        "quiz_options_en": [
+          "O Grief, my deserter you seek Of your caprice what shall I speak!",
+          "Why wonder if strangers disown When one's own heart is not his own?",
+          "Let clouds their visits stay, and dearth Distresses all the sea-girt earth",
+          "The good wife guards herself from blame, She tends her spouse and brings him fame"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நிறையழிதல்) பகுதியில் குறள் 1256 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வெறுத்து நீங்கிய காதலரின் பின் செல்ல விரும்பிய நிலையில் இருப்பதால் என்னை அடைந்த இந்த காமநோய் எத்தன்மையானது? அந்‌தோ! பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) செற்றவர் பின் சேறல் வேண்டி - என்னை அகன்று சென்றார் பின்னே யான் சேறலை வேண்டுதலான்; என்னை உற்ற துயர் எற்று அளித்து - என்னை உற்ற துயர் எத்தன்மையது? சால நன்று. (செற்றவர் என்றது ஈண்டும், அப்பொருட்டு. 'வேண்ட' என்பது, 'வேண்டி' எனத் திரிந்து நின்றது...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 126: 'Reserve Overcome'), Kural 1256 distills a foundational ethical insight: \"My grief how full of grace, I pray you see!It seeks to follow him that hateth me\" Philosophically, The sorrow I have endured by desiring to go after my absent lover, in what way is it excellent?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "harmony",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1257,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நாம் விரும்பிய காதலர் காமத்தால் நமக்கு விருப்பமானவற்றைச் செய்வாரானால். நாணம் என்று சொல்லப்படும் ஒரு பண்பையும் அறியாமல் இருப்போம்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: I know nothing like shame when my beloved does from love (just) what is desired (by me).",
+        "story_title_ta": "நிறையழிதல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Reserve Overcome — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நிறையழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1257 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1257 from 'Reserve Overcome', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நமது அன்புக்குரியவர் நம்மீது கொண்ட காதலால் நமக்கு விருப்பமானவற்றைச் செய்யும்போது, நாணம் எனும் ஒரு பண்பு இருப்பதையே நாம் அறிவதில்லை.",
+        "moral_en": "Moral: No sense of shame my gladdened mind shall prove, When he returns my longing heart to bless with love.",
+        "game_blank_word_ta": "பேணியார்",
+        "game_options_ta": [
+          "காமக்",
+          "பேணியார்",
+          "கணிச்சி",
+          "உடைக்கும்"
+        ],
+        "game_options_en": [
+          "Passion's axe shall break the door Of reserve bolted with my honour",
+          "When lover's love does what it desires We forget all shame unawares",
+          "The thing called lust is a heartless power It sways my mind at midnight hour",
+          "How to hide this lust which shows Itself while I sneeze unawares!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நிறையழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1257, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என்னால் விரும்பப்பட்டவர் காதல் ஆசையில் நான் விரும்பியதையே செய்தபோது, நாணம் என்று சொல்லப்படும் ஒன்றை அறியாமலேயே இருந்தேன். கலைஞர் உரை கூறுவது: நமது அன்புக்குரியவர் நம்மீது கொண்ட காதலால் நமக்கு விருப்பமானவற்றைச் செய்யும்போது, நாணம் எனும் ஒரு பண்பு இருப்பதையே நாம் அறிவதில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Reserve Overcome (Post-marital Love), Kural 1257 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I know nothing like shame when my beloved does from love (just) what is desired (by me). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நிறையழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Reserve Overcome'.",
+        "quiz_question_ta": "'நிறையழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1257 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1257 from Chapter 'Reserve Overcome'?",
+        "quiz_options_ta": [
+          "( ஊடும்போது அவர் அடைகின்ற) துன்ப நோயைச் சிறிது காண்போம்; அதற்காக அவரைத் தழுவாமலிருந்து பிணங்குவாயாக.",
+          "நாம் விரும்பிய காதலர் காமத்தால் நமக்கு விருப்பமானவற்றைச் செய்வாரானால். நாணம் என்று சொல்லப்படும் ஒரு பண்பையும் அறியாமல் இருப்போம்.",
+          "மழை என்னும் வருவாய் வளம் குன்றி விட்டால், ( உணவுப் பொருள்களை உண்டாக்கும்) உழவரும் ஏர் கொண்டு உழமாட்டார்",
+          "மகளிரைக் காவல் வைத்துக் காக்கும் காப்பு முறை என்ன பயனை உண்டாக்கும்? அவர்கள் நிறை என்னும் பண்பால் தம்மைத் தான் காக்கும் கற்பே சிறிந்தது."
+        ],
+        "quiz_options_en": [
+          "Feign sulk; embrace him not so that We can see his distress a bit",
+          "When lover's love does what it desires We forget all shame unawares",
+          "Unless the fruitful shower descend, The ploughman's sacred toil must end",
+          "Of what avail are watch and ward? Their purity is women's guard"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நிறையழிதல்) பகுதியில் குறள் 1257 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நாம் விரும்பிய காதலர் காமத்தால் நமக்கு விருப்பமானவற்றைச் செய்வாரானால். நாணம் என்று சொல்லப்படும் ஒரு பண்பையும் அறியாமல் இருப்போம். பரிமேலழகர் உரை நுட்பம்: (பரத்தையிற் பிரிந்து வந்த தலைமகனோடு நிறையழிவாற் கூடிய தலைமகள் 'நீ புலவாமைக்குக் காரணம் யாது?' என்ற தோழிக்குச் சொல்லியது.) பேணியார் காமத்தாற் பெட்பசெயின் - நம்மால் விரும்பப்பட்டவர் வந்து காமத்தால் நாம் விரும்பியவற்றைச் செய்யுமளவில்; நாண் என ஒன்றோ அறியலம...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 126: 'Reserve Overcome'), Kural 1257 distills a foundational ethical insight: \"No sense of shame my gladdened mind shall prove, When he returns my longing heart to bless with love\" Philosophically, I know nothing like shame when my beloved does from love (just) what is desired (by me).",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "speech",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1258,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நம்முடைய பெண்மையாகிய அரணை அழிக்கும் படையாக இருப்பது, பல மாயங்களில் வல்ல, கள்வனான காதலரடைய பணிவுடைய மொழி அன்றோ?",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Are not the enticing words of my trick-abounding roguish lover the weapon that breaks away my feminine firmness?",
+        "story_title_ta": "நிறையழிதல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Reserve Overcome — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நிறையழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1258 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1258 from 'Reserve Overcome', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நம்முடைய பெண்மை எனும் உறுதியை உடைக்கும் படைக்கலனாக இருப்பது, பல மாயங்களில் வல்ல கள்வராம் காதலரின் பணிவான பாகுமொழியன்றோ?",
+        "moral_en": "Moral: The words of that deceiver, versed in every wily art, Are instruments that break through every guard of woman's heart.",
+        "game_blank_word_ta": "பெண்மை",
+        "game_options_ta": [
+          "காமக்",
+          "கணிச்சி",
+          "பெண்மை",
+          "உடைக்கும்"
+        ],
+        "game_options_en": [
+          "Passion's axe shall break the door Of reserve bolted with my honour",
+          "The thing called lust is a heartless power It sways my mind at midnight hour",
+          "The cheater of many wily arts His tempting words break through women's hearts",
+          "How to hide this lust which shows Itself while I sneeze unawares!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நிறையழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1258, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் மன அடக்கமாகிய கோட்டையை அழிக்கும் ஆயுதம், பல பொய்த் தொழிலும் வல்ல இந்த மனத்திருடனின் பணிவான சொற்கள் அன்றோ! கலைஞர் உரை கூறுவது: நம்முடைய பெண்மை எனும் உறுதியை உடைக்கும் படைக்கலனாக இருப்பது, பல மாயங்களில் வல்ல கள்வராம் காதலரின் பணிவான பாகுமொழியன்றோ? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Reserve Overcome (Post-marital Love), Kural 1258 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Are not the enticing words of my trick-abounding roguish lover the weapon that breaks away my feminine firmness? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நிறையழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Reserve Overcome'.",
+        "quiz_question_ta": "'நிறையழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1258 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1258 from Chapter 'Reserve Overcome'?",
+        "quiz_options_ta": [
+          "உப்பு, உணவில் அளவோடு அமைந்திருப்பதைப் போன்றது ஊடல்; ஊடலை அளவு கடந்து நீட்டித்தல், அந்த உப்பு சிறிதளவு மிகுதியாக இருப்பதைப் போன்றது.",
+          "பெய்யாமல் வாழ்வைக் கெடுக்க வல்லதும் மழை; மழையில்லாமல் வளம் கெட்டு நொந்தவர்க்கும் துணையாய் அவ்வாறே காக்க வல்லதும் மழையாகும்",
+          "நம்முடைய பெண்மையாகிய அரணை அழிக்கும் படையாக இருப்பது, பல மாயங்களில் வல்ல, கள்வனான காதலரடைய பணிவுடைய மொழி அன்றோ?",
+          "கணவனைப் போற்றிக் கடமையைச் செய்யப்பெற்றால் மகளிர் பெரிய சிறப்பை உடைய மேலுலகவாழ்வைப் பெறுவர்."
+        ],
+        "quiz_options_en": [
+          "Sulking is the salt of love; but Too much of it spoils the taste Wife Addresses Husband",
+          "Destruction it may sometimes pour But only rain can life restore",
+          "The cheater of many wily arts His tempting words break through women's hearts",
+          "Women who win their husbands' heart Shall flourish where the gods resort"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நிறையழிதல்) பகுதியில் குறள் 1258 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நம்முடைய பெண்மையாகிய அரணை அழிக்கும் படையாக இருப்பது, பல மாயங்களில் வல்ல, கள்வனான காதலரடைய பணிவுடைய மொழி அன்றோ? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நம் பெண்மை உடைக்கும் படை - நம் நிறையாகிய அரணை அழிக்கும் தானை; பல் மாயக் கள்வன் பணிமொழியன்றோ - பல பொய்களை வல்ல கள்வனுடைய தாழ்ந்த சொற்களன்றோ? ஆனபின் அது நிற்குமாறென்னை? (பெண்மை ஈண்டுத் தலைமைபற்றி நிறைமேல் நின்றது. 'வந்தாற் புலக்கக் கடவேம...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 126: 'Reserve Overcome'), Kural 1258 distills a foundational ethical insight: \"The words of that deceiver, versed in every wily art, Are instruments that break through every guard of woman's heart\" Philosophically, Are not the enticing words of my trick-abounding roguish lover the weapon that breaks away my feminine firmness?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "leadership",
+        "speech",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 1259,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஊடுவேன் என்று எண்ணிக் கொண்டு சென்றேன்; ஆனால் என் நெஞ்சம் என்னை விட்டு அவரோடு கூடுவதை கண்டு தழுவினேன்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: I said I would feign dislike and so went (away); (but) I embraced him the moment I say my mind began to unite with him!",
+        "story_title_ta": "நிறையழிதல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Reserve Overcome — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நிறையழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1259 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1259 from 'Reserve Overcome', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ஊடல் கொண்டு பிணங்குவோம் என நினைத்துதான் சென்றேன்; ஆனால் என் நெஞ்சம் என்னை விடுத்து அவருடன் கூடுவதைக் கண்டு என் பிடிவாதத்தை மறந்து தழுவிக் கொண்டேன்.",
+        "moral_en": "Moral: 'I 'll shun his greeting'; saying thus with pride away I went:I held him in my arms, for straight I felt my heart relent.",
+        "game_blank_word_ta": "கண்டு",
+        "game_options_ta": [
+          "காமக்",
+          "கணிச்சி",
+          "உடைக்கும்",
+          "கண்டு"
+        ],
+        "game_options_en": [
+          "Passion's axe shall break the door Of reserve bolted with my honour",
+          "The thing called lust is a heartless power It sways my mind at midnight hour",
+          "How to hide this lust which shows Itself while I sneeze unawares!",
+          "In huff I went and felt at ease Heat to heart in sweet embrace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நிறையழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1259, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவர் வந்தபோது ஊடல் கொள்ளலாம் என்று எண்ணி, அவர்முன் நில்லாது அப்பால் போனேன்; நான் போன போதும், என் நெஞ்சம் அடக்கம் இல்லாமல் அவரோடு கலக்கத் தொடங்குவதைக் கண்டு இனி அது முடியாது என்று அவரைத் தழுவினேன். கலைஞர் உரை கூறுவது: ஊடல் கொண்டு பிணங்குவோம் என நினைத்துதான் சென்றேன்; ஆனால் என் நெஞ்சம் என்னை விடுத்து அவருடன் கூடுவதைக் கண்டு என் பிடிவாதத்தை மறந்து தழுவிக் கொண்டேன். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Reserve Overcome (Post-marital Love), Kural 1259 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I said I would feign dislike and so went (away); (but) I embraced him the moment I say my mind began to unite with him! Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நிறையழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Reserve Overcome'.",
+        "quiz_question_ta": "'நிறையழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1259 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1259 from Chapter 'Reserve Overcome'?",
+        "quiz_options_ta": [
+          "தம்மோடு பிணங்கியவரை ஊடலுணர்த்தித் தழுவாமல் விடுதல், துன்பத்தால் வருந்தியவரை மேலும் துன்ப நோய் செய்து வரத்தினாற் போன்றது.",
+          "வானத்திலிருந்து மழைத்துளி வீழ்ந்தால் அல்லாமல், உலகத்தில் ஓரறிவுயிராகிய பசும்புல்லின் தலையையும் காண முடியாது",
+          "புகழைக் காக்க விரும்பும் மனைவி இல்லாதவர்க்கு, இகழ்ந்து பேசும் பகைவர் முன் காளை போல் நடக்கும் பெருமித நடை இல்லை.",
+          "ஊடுவேன் என்று எண்ணிக் கொண்டு சென்றேன்; ஆனால் என் நெஞ்சம் என்னை விட்டு அவரோடு கூடுவதை கண்டு தழுவினேன்."
+        ],
+        "quiz_options_en": [
+          "To leave the sulker unembraced Is to grieve the one sorely grieved",
+          "No grassy blade its head will rear, If from the cloud no drop appear",
+          "A cuckold has not the lion-like gait Before his detractors aright",
+          "In huff I went and felt at ease Heat to heart in sweet embrace"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நிறையழிதல்) பகுதியில் குறள் 1259 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஊடுவேன் என்று எண்ணிக் கொண்டு சென்றேன்; ஆனால் என் நெஞ்சம் என்னை விட்டு அவரோடு கூடுவதை கண்டு தழுவினேன். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) புலப்பல் எனச் சென்றேன் - அவர் வந்த பொழுது புலக்கக் கடவேன் என்று கருதி, முன் நில்லாது பிறிதோரிடத்துப் போயினேன்; நெஞ்சம் கலத்தலுறுவது கண்டு புல்லினேன் - போயும், என் நெஞ்சம் நிறையின் நில்லாது அறைபோய் அவரோடு கலத்தல் தொடங்குதலை அறிந்து, 'இனி அது...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 126: 'Reserve Overcome'), Kural 1259 distills a foundational ethical insight: \"'I 'll shun his greeting'; saying thus with pride away I went:I held him in my arms, for straight I felt my heart relent\" Philosophically, I said I would feign dislike and so went (away); (but) I embraced him the moment I say my mind began to unite with him!",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "self-mastery",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1260,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கொழுப்பைத் தீயில் இட்டால் போன்ற உருகும் நெஞ்சுடைய என்னைப் போன்றவர்க்கு, இசைந்து ஊடி நிற்போம் என்று ஊடும் தன்மை உண்டோ?",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Is it possible for those whose hearts melt like fat in the fire to say they can feign a strong dislike and remain so?",
+        "story_title_ta": "நிறையழிதல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Reserve Overcome — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நிறையழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1260 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1260 from 'Reserve Overcome', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நெருப்பிலிட்ட கொழுப்பைப் போல் உருகிடும் நெஞ்சம் உடையவர்கள், கூடிக் களித்தபின் ஊடல் கொண்டு அதில் உறுதியாக இருக்க முடியுமா?",
+        "moral_en": "Moral: 'We 'll stand aloof and then embrace': is this for them to say, Whose hearts are as the fat that in the blaze dissolves away.",
+        "game_blank_word_ta": "நிணந்தீயில்",
+        "game_options_ta": [
+          "நிணந்தீயில்",
+          "காமக்",
+          "கணிச்சி",
+          "உடைக்கும்"
+        ],
+        "game_options_en": [
+          "To feign dislike is it not rare For mates who melt like fat in fire?",
+          "Passion's axe shall break the door Of reserve bolted with my honour",
+          "The thing called lust is a heartless power It sways my mind at midnight hour",
+          "How to hide this lust which shows Itself while I sneeze unawares!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நிறையழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1260, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கொழுப்பைத் தீயிலே போட்டால் அது உருகுவது போலத் தம் காதலரைக் கண்டால் மன அடக்கம் இன்றி உருகும் நெஞ்சினையுடைய பெண்களுக்கு, அவர் கூடவும், நாம் ஊடவும் பின்பு ஏதும் தெரியாத நிலையிலேயே நிற்போம் என்ற நிலை உண்டாகுமோ? கலைஞர் உரை கூறுவது: நெருப்பிலிட்ட கொழுப்பைப் போல் உருகிடும் நெஞ்சம் உடையவர்கள், கூடிக் களித்தபின் ஊடல் கொண்டு அதில் உறுதியாக இருக்க முடியுமா? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Reserve Overcome (Post-marital Love), Kural 1260 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Is it possible for those whose hearts melt like fat in the fire to say they can feign a strong dislike and remain so? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நிறையழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Reserve Overcome'.",
+        "quiz_question_ta": "'நிறையழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1260 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1260 from Chapter 'Reserve Overcome'?",
+        "quiz_options_ta": [
+          "கொழுப்பைத் தீயில் இட்டால் போன்ற உருகும் நெஞ்சுடைய என்னைப் போன்றவர்க்கு, இசைந்து ஊடி நிற்போம் என்று ஊடும் தன்மை உண்டோ?",
+          "பிணங்கியவரை ஊடலுணர்த்தி அன்பு செய்யாமல் இருத்தல், முன்னமே வாடியுள்ள கொடியை அதன் அடியிலேயே அறுத்தல் போன்றது.",
+          "மேகம் கடலிலிருந்து நீரைக் கொண்டு அதனிடத்திலேயே பெய்யாமல் விடுமானால், பெரிய கடலும் தன் வளம் குன்றிப் போகும்",
+          "மனைவியின் நற்பண்பே இல்வாழ்க்கைக்கு மங்கலம் என்று கூறுவர்: நல்ல மக்களைப் பெறுதலே அதற்கு நல்லணிகலம் என்று கூறுவர்."
+        ],
+        "quiz_options_en": [
+          "To feign dislike is it not rare For mates who melt like fat in fire?",
+          "To comfort not lady in pout Is to cut the fading plant at root He within Himself",
+          "The ocean's wealth will waste away, Except the cloud its stores repay",
+          "An honest wife is home's delight And children good are jewels abright"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நிறையழிதல்) பகுதியில் குறள் 1260 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கொழுப்பைத் தீயில் இட்டால் போன்ற உருகும் நெஞ்சுடைய என்னைப் போன்றவர்க்கு, இசைந்து ஊடி நிற்போம் என்று ஊடும் தன்மை உண்டோ? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நிணம் தீயில் இட்டன்ன நெஞ்சினார்க்கு - நிணத்தைத் தீயின்கண்ணே யிட்டால் அஃது உருகுமாறு போலத் தம் காதலரைக் கண்டால் நிறையழிந்து உருகும் நெஞ்சினையுடைய மகளிர்க்கு; புணர்ந்து ஊடி நிற்பேம் எனல் உண்டோ - அவர் புணர யாம் ஊடிப் பின்பு உணராது அந்நிலையே...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 126: 'Reserve Overcome'), Kural 1260 distills a foundational ethical insight: \"'We 'll stand aloof and then embrace': is this for them to say, Whose hearts are as the fat that in the blaze dissolves away\" Philosophically, Is it possible for those whose hearts melt like fat in the fire to say they can feign a strong dislike and remain so?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "speech",
+        "harmony"
+      ]
+    }
+  ]
+}

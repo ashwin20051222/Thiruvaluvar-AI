@@ -1,0 +1,585 @@
+{
+  "adhikaram_id": 106,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.435180595+00:00",
+  "kurals": [
+    {
+      "kural_number": 1051,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: இரந்து கேட்க தக்கவரைக் கண்டால் அவனிடம் இரக்க வேண்டும், அவர் இல்லை என்று ஒளிப்பாரானால் அது அவர்க்கு பழி, தமக்கு பழி அன்று.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: If you meet with those that may be begged of, you may beg; (but) if they withhold (their gift) it is their blame and not yours.",
+        "story_title_ta": "இரவு — நிலா கற்ற பாடம்",
+        "story_title_en": "Mendicancy — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவு' என்ற அதிகாரத்திலிருந்து குறள் 1051 பற்றிக் கதை சொன்னார். 'ஏதும்‌ இல்லா நிலையில், எவரிடம் ஏற்பது இழிவாகாது என்று தோன்றுகிழதோ அவரிடம் பிச்சை ஏற்கலாம்; அவர் தர மறுத்து, மறைத்தால் பழி அவர்க்கே; இரப்பவர்க்கு அன்று.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 106, 'Mendicancy', centered on Kural 1051: If you meet with those that may be begged of, you may beg; (but) if they withhold (their gift) it is their blame and not yours. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கொடுக்கக்கூடிய தகுதி படைத்தவரிடத்திலே ஒன்றைக் கேட்டு, அதை அவர் இருந்தும் இல்லையென்று சொன்னால், அப்படிச் சொன்னவருக்குத்தான் பழியே தவிர கேட்டவருக்கு அல்ல.",
+        "moral_en": "Moral: When those you find from whom 'tis meet to ask,- for aid apply; Theirs is the sin, not yours, if they the gift deny.",
+        "game_blank_word_ta": "இரத்தக்கார்க்",
+        "game_options_ta": [
+          "இன்பம்",
+          "ஒருவற்கு",
+          "இரத்தல்",
+          "இரத்தக்கார்க்"
+        ],
+        "game_options_en": [
+          "Even demand becomes a joy When the things comes without annoy",
+          "Request has charm form open hearts Who know the duty on their part",
+          "Like giving even asking seems From those who hide not even in dreams",
+          "Demand from those who can supply Default is theirs when they deny"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1051, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஏதும்‌ இல்லா நிலையில், எவரிடம் ஏற்பது இழிவாகாது என்று தோன்றுகிழதோ அவரிடம் பிச்சை ஏற்கலாம்; அவர் தர மறுத்து, மறைத்தால் பழி அவர்க்கே; இரப்பவர்க்கு அன்று. கலைஞர் உரை கூறுவது: கொடுக்கக்கூடிய தகுதி படைத்தவரிடத்திலே ஒன்றைக் கேட்டு, அதை அவர் இருந்தும் இல்லையென்று சொன்னால், அப்படிச் சொன்னவருக்குத்தான் பழியே தவிர கேட்டவருக்கு அல்ல. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mendicancy (Citizenship & Miscellaneous), Kural 1051 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If you meet with those that may be begged of, you may beg; (but) if they withhold (their gift) it is their blame and not yours. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவு' அதிகாரத்தில் வரும் திருக்குறள் 1051 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1051 from Chapter 'Mendicancy'?",
+        "quiz_options_ta": [
+          "என்னை நேராகக் குறித்துப் பார்க்காத அத் தன்மையே அல்லாமல், ஒரு கண்ணைச் சுருக்கினவள் போல் என்னைப் பார்த்து தனக்குள் மகிழ்வாள்.",
+          "இவர் நெஞ்சை நிறுத்தும் நிறை இல்லாதவர், மிகவும் இரங்கத்தக்கவர் என்று கருதாமல் காமம் மறைந்திருத்தலைக் கடந்து மன்றத்திலும் வெளிப்படுகின்றதே.",
+          "விரும்பிய காதலர்க்கு அன்று பிரிவை உடன்பட்டேன்; பிரிந்தபின் பசலை உற்ற என் தன்மையை வேறு யார்க்குச் சென்று சொல்வேன்?",
+          "இரந்து கேட்க தக்கவரைக் கண்டால் அவனிடம் இரக்க வேண்டும், அவர் இல்லை என்று ஒளிப்பாரானால் அது அவர்க்கு பழி, தமக்கு பழி அன்று."
+        ],
+        "quiz_options_en": [
+          "No direct gaze; a side-long glance She darts at me and smiles askance",
+          "Lust betrays itself in haste Though women are highly soft and chaste",
+          "My lover's parting, I allowed Whom to complain my hue pallid?",
+          "Demand from those who can supply Default is theirs when they deny"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவு) பகுதியில் குறள் 1051 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இரந்து கேட்க தக்கவரைக் கண்டால் அவனிடம் இரக்க வேண்டும், அவர் இல்லை என்று ஒளிப்பாரானால் அது அவர்க்கு பழி, தமக்கு பழி அன்று. பரிமேலழகர் உரை நுட்பம்: இரத்தக்கார்க் காணின் இரக்க - நல்கூர்ந்தார் இரத்தற்கு ஏற்புடையாரைக் காணின், அவர்மாட்டு இரக்க; கரப்பின் அவர் பழி தம் பழி அன்று - இரந்தால் அவர் கரந்தாராயின் அவர்க்குப் பழியாவதல்லது தமக்குப் பழியாகாமையான். ('இரவு' என்னும் முதனிலைத் தொழிற்பெயரது இறுதிக்கண் நான்கன...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 106: 'Mendicancy'), Kural 1051 distills a foundational ethical insight: \"When those you find from whom 'tis meet to ask,- for aid apply; Theirs is the sin, not yours, if they the gift deny\" Philosophically, If you meet with those that may be begged of, you may beg; (but) if they withhold (their gift) it is their blame and not yours.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "love",
+        "leadership",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1052,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: இரந்து கேட்ட பொருள் துன்பமுறாமல் கிடைக்குமானால், அவ்வாறு இரத்தலும் இன்பம் என்று சொல்லத் தக்கதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Even begging may be pleasant, if what is begged for is obtained without grief (to him that begs).",
+        "story_title_ta": "இரவு — அன்பு கற்ற பாடம்",
+        "story_title_en": "Mendicancy — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவு' என்ற அதிகாரத்திலிருந்து குறள் 1052 பற்றிக் கதை சொன்னார். 'நாம் கேட்டதைப் பிறர் மனவருத்தம் இல்லாமல் தந்தால், பிச்சை எடுப்பது கூட ஒருவனுக்கு இன்பமே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 106, 'Mendicancy', centered on Kural 1052: Even begging may be pleasant, if what is begged for is obtained without grief (to him that begs). Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வழங்குபவர், வாங்குபவர் ஆகிய இருவர் மனத்திற்கும் துன்பம் எதுவுமின்றி ஒரு பொருள் கிடைக்குமானால், அப்பொருள் இரந்து பெற்றதாக இருப்பினும் அதனால் இன்பமே உண்டாகும்.",
+        "moral_en": "Moral: Even to ask an alms may pleasure give, If what you ask without annoyance you receive.",
+        "game_blank_word_ta": "இரத்தல்",
+        "game_options_ta": [
+          "இரத்தல்",
+          "இரக்க",
+          "இரத்தக்கார்க்",
+          "காணின்"
+        ],
+        "game_options_en": [
+          "Even demand becomes a joy When the things comes without annoy",
+          "Demand from those who can supply Default is theirs when they deny",
+          "Request has charm form open hearts Who know the duty on their part",
+          "Like giving even asking seems From those who hide not even in dreams"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1052, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாம் கேட்டதைப் பிறர் மனவருத்தம் இல்லாமல் தந்தால், பிச்சை எடுப்பது கூட ஒருவனுக்கு இன்பமே. கலைஞர் உரை கூறுவது: வழங்குபவர், வாங்குபவர் ஆகிய இருவர் மனத்திற்கும் துன்பம் எதுவுமின்றி ஒரு பொருள் கிடைக்குமானால், அப்பொருள் இரந்து பெற்றதாக இருப்பினும் அதனால் இன்பமே உண்டாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mendicancy (Citizenship & Miscellaneous), Kural 1052 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even begging may be pleasant, if what is begged for is obtained without grief (to him that begs). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவு' அதிகாரத்தில் வரும் திருக்குறள் 1052 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1052 from Chapter 'Mendicancy'?",
+        "quiz_options_ta": [
+          "இரந்து கேட்ட பொருள் துன்பமுறாமல் கிடைக்குமானால், அவ்வாறு இரத்தலும் இன்பம் என்று சொல்லத் தக்கதாகும்.",
+          "புறத்தே அயலார் போல் அன்பில்லாத சொற்களைச் சொன்னாலும், அகத்தே பகையில்லாதவரின் சொல் என்பது விரைவில் அறியப்படும்.",
+          "அமைதியாய் இருந்ததால் எல்லோரும் அறியவில்லை என்று கருதி என்னுடைய காமம் தெருவில் பரவி மயங்கிச் சுழல்கின்றது.",
+          "அந்தக் காதலர் உண்டாக்கினார் என்னும் பெருமிதத்தோடு இந்தப் பசலை நிறம் என்னுடைய மேனிமேல் ஏறி ஊர்ந்து பரவி வருகிறது."
+        ],
+        "quiz_options_en": [
+          "Even demand becomes a joy When the things comes without annoy",
+          "Their words at first seem an offence But quick we feel them friendly ones",
+          "My perplexed love roves public street Believing that none knows its secret",
+          "Claiming it is begot through him Pallor creeps and rides over my frame"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவு) பகுதியில் குறள் 1052 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இரந்து கேட்ட பொருள் துன்பமுறாமல் கிடைக்குமானால், அவ்வாறு இரத்தலும் இன்பம் என்று சொல்லத் தக்கதாகும். பரிமேலழகர் உரை நுட்பம்: ஒருவற் கிரத்தல் இன்பம் - ஒருவற்கு இரத்தல்தானும் இன்பத்திற்கு ஏதுவாம்; இரந்தவை துன்பம் உறாஅவரின் - இரந்த பொருள்கள் ஈவாரது உணர்வு உடைமையால் தான் துன்புறாமல் வருமாயின். (இன்பம் - ஆகுபெயர். 'உறாமல்' என்பது கடைக்குறைந்து நின்றது. துன்பம் - சாதியொருமைப் பெயர...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 106: 'Mendicancy'), Kural 1052 distills a foundational ethical insight: \"Even to ask an alms may pleasure give, If what you ask without annoyance you receive\" Philosophically, Even begging may be pleasant, if what is begged for is obtained without grief (to him that begs).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "wealth",
+        "time",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1053,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒளிப்பு இல்லாத நெஞ்சும், கடைமையுணர்ச்சியும், உள்ளவரின் முன்னே நின்று இரந்து பொருள் கேட்பதும் ஓர் அழகு உடையதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: There is even a beauty in standing before and begging of those who are liberal in their gifts and understand their duty (to beggars).",
+        "story_title_ta": "இரவு — இனியா கற்ற பாடம்",
+        "story_title_en": "Mendicancy — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவு' என்ற அதிகாரத்திலிருந்து குறள் 1053 பற்றிக் கதை சொன்னார். 'ஒளிவு மறைவு இல்லாத மனம் உடையவராய், இது என்கடமை என்று அறிபவர் முன்னே நின்று, ஒன்றை அவரிடம் கேட்பதும் கேட்பவர்க்கு அழகுதான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 106, 'Mendicancy', centered on Kural 1053: There is even a beauty in standing before and begging of those who are liberal in their gifts and understand their duty (to beggars). Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உள்ளதை ஒளிக்காத உள்ளமும், கடமையுணர்வும் கொண்டவரிடத்தில் தனது வறுமை காரணமாக இரந்து கேட்பதும் பெருமையுடையதே யாகும்.",
+        "moral_en": "Moral: The men who nought deny, but know what's due, before their faceTo stand as suppliants affords especial grace.",
+        "game_blank_word_ta": "முன்நின்று",
+        "game_options_ta": [
+          "இரக்க",
+          "முன்நின்று",
+          "இரத்தக்கார்க்",
+          "காணின்"
+        ],
+        "game_options_en": [
+          "Demand from those who can supply Default is theirs when they deny",
+          "Request has charm form open hearts Who know the duty on their part",
+          "Even demand becomes a joy When the things comes without annoy",
+          "Like giving even asking seems From those who hide not even in dreams"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1053, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒளிவு மறைவு இல்லாத மனம் உடையவராய், இது என்கடமை என்று அறிபவர் முன்னே நின்று, ஒன்றை அவரிடம் கேட்பதும் கேட்பவர்க்கு அழகுதான். கலைஞர் உரை கூறுவது: உள்ளதை ஒளிக்காத உள்ளமும், கடமையுணர்வும் கொண்டவரிடத்தில் தனது வறுமை காரணமாக இரந்து கேட்பதும் பெருமையுடையதே யாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mendicancy (Citizenship & Miscellaneous), Kural 1053 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is even a beauty in standing before and begging of those who are liberal in their gifts and understand their duty (to beggars). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவு' அதிகாரத்தில் வரும் திருக்குறள் 1053 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1053 from Chapter 'Mendicancy'?",
+        "quiz_options_ta": [
+          "பகை கொள்ளாத கடுஞ்சொல்லும், பகைவர் போல் பார்க்கும் பார்வையும் புறத்தே அயலார் போல் இருந்து அகத்தே அன்பு கொண்டவரின் குறிப்பாகும்.",
+          "ஒளிப்பு இல்லாத நெஞ்சும், கடைமையுணர்ச்சியும், உள்ளவரின் முன்னே நின்று இரந்து பொருள் கேட்பதும் ஓர் அழகு உடையதாகும்.",
+          "யாம் பட்ட துன்பங்களைத் தாம் படாமையால் அறிவில்லாதவர் யாம் கண்ணால் காணுமாறு எம் எதிரில் எம்மைக்கண்டு நகைக்கின்றனர்.",
+          "காம நோயையும் பசலை நிறத்தையும் எனக்குக் கைம்மாறாக ‌‌கொடுத்து விட்டு, என் சாயலையும் நாணத்தையும் அவர் என்னிடமிருந்து பெற்றுக் கொண்டார்."
+        ],
+        "quiz_options_en": [
+          "Harsh little words; offended looks, Are feigned consenting love-lorn tricks",
+          "Request has charm form open hearts Who know the duty on their part",
+          "Fools laugh at me before my eyes For they feel not my pangs and sighs",
+          "He seized my beauty and modesty Leaving pangs and Pallor to me"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவு) பகுதியில் குறள் 1053 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒளிப்பு இல்லாத நெஞ்சும், கடைமையுணர்ச்சியும், உள்ளவரின் முன்னே நின்று இரந்து பொருள் கேட்பதும் ஓர் அழகு உடையதாகும். பரிமேலழகர் உரை நுட்பம்: கரப்பிலா நெஞ்சின் கடன் அறிவார் முன் நின்று இரப்பும் - கரத்தல் இல்லாத நெஞ்சினையுடைய மானம் அறிவார் முன்னர் நின்று அவர் மாட்டு ஒன்று இரத்தலும்; ஓர் ஏஎர் உடைத்து - நல்கூர்ந்தார்க்கு ஓர் அழகு உடைத்து. ('சிறிய சுருக்கத்து வேண்டும் உயர்வு' (குறள்-963) என்றதனால...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 106: 'Mendicancy'), Kural 1053 distills a foundational ethical insight: \"The men who nought deny, but know what's due, before their faceTo stand as suppliants affords especial grace\" Philosophically, There is even a beauty in standing before and begging of those who are liberal in their gifts and understand their duty (to beggars).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "love",
+        "kindness",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 1054,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: உள்ளதை மறைத்துக் கூறும் தன்மையைக் கனவிலும் அறியாதவரிடத்தில் இரந்து கேட்பதும் பிறர்க்கு கொடுப்பதைப் போன்ற சிறப்புடையது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: To beg of such as never think of withholding (their charity) even in their dreams, is in fact the same as giving (it oneself);.",
+        "story_title_ta": "இரவு — முகில் கற்ற பாடம்",
+        "story_title_en": "Mendicancy — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவு' என்ற அதிகாரத்திலிருந்து குறள் 1054 பற்றிக் கதை சொன்னார். 'ஒளிவு மறைவு என்பதைக் கனவிலும் எண்ணிப் பாராதவரிடம் சென்று, ஒன்றைக் கேட்பதும், பிறர்க்குக் கொடுப்பதைப் போன்றதே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 106, 'Mendicancy', centered on Kural 1054: To beg of such as never think of withholding (their charity) even in their dreams, is in fact the same as giving (it oneself);. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இருக்கும்போது இல்லையென்று கைவிரிப்பதைக் கனவிலும் நினைக்காதவரிடத்தில், இல்லாதார் இரந்து கேட்பது பிறருக்கு ஈவது போன்ற பெருமையுடையதாகும்.",
+        "moral_en": "Moral: Like giving alms, may even asking pleasant seem, From men who of denial never even dream.",
+        "game_blank_word_ta": "கனவிலும்",
+        "game_options_ta": [
+          "இரக்க",
+          "இரத்தக்கார்க்",
+          "கனவிலும்",
+          "காணின்"
+        ],
+        "game_options_en": [
+          "Demand from those who can supply Default is theirs when they deny",
+          "Even demand becomes a joy When the things comes without annoy",
+          "Like giving even asking seems From those who hide not even in dreams",
+          "Request has charm form open hearts Who know the duty on their part"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1054, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒளிவு மறைவு என்பதைக் கனவிலும் எண்ணிப் பாராதவரிடம் சென்று, ஒன்றைக் கேட்பதும், பிறர்க்குக் கொடுப்பதைப் போன்றதே. கலைஞர் உரை கூறுவது: இருக்கும்போது இல்லையென்று கைவிரிப்பதைக் கனவிலும் நினைக்காதவரிடத்தில், இல்லாதார் இரந்து கேட்பது பிறருக்கு ஈவது போன்ற பெருமையுடையதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mendicancy (Citizenship & Miscellaneous), Kural 1054 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To beg of such as never think of withholding (their charity) even in their dreams, is in fact the same as giving (it oneself);. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவு' அதிகாரத்தில் வரும் திருக்குறள் 1054 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1054 from Chapter 'Mendicancy'?",
+        "quiz_options_ta": [
+          "யான் நோக்கும் போது அதற்காக அன்பு கொண்டவனாய் மெல்லச் சிரிப்பாள், அசையும் மெல்லிய இயல்பை உடைய அவளுக்கு அப்போது ஓர் அழகு உள்ளது.",
+          "(எம் காதலைப் பற்றி) அலர் எழுவதால் அறிய உயிர் போகாமல் நிற்கின்றது, எம் நல்வினைப் பயனால் பலரும் அறியாமலிருக்கின்றனர்.",
+          "உள்ளதை மறைத்துக் கூறும் தன்மையைக் கனவிலும் அறியாதவரிடத்தில் இரந்து கேட்பதும் பிறர்க்கு கொடுப்பதைப் போன்ற சிறப்புடையது.",
+          "யான் அவருடைய நல்லியல்புகளை நினைக்கின்றேன்; யான் உரைப்பதும் அவற்றையே; அவ்வாறிருந்தும் பசலை வந்தது வஞ்சனையோ? வேறு வகையோ?"
+        ],
+        "quiz_options_en": [
+          "What a grace the slim maid has! As I look she slightly smiles",
+          "Rumour sustains my existence Good luck! many know not its sense",
+          "Like giving even asking seems From those who hide not even in dreams",
+          "He is my thought, his praise my theme Yet this pallor steals over my frame"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவு) பகுதியில் குறள் 1054 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உள்ளதை மறைத்துக் கூறும் தன்மையைக் கனவிலும் அறியாதவரிடத்தில் இரந்து கேட்பதும் பிறர்க்கு கொடுப்பதைப் போன்ற சிறப்புடையது. பரிமேலழகர் உரை நுட்பம்: கரத்தல் கனவிலும் தேற்றாதார்மாட்டு இரத்தலும் - தமக்குள்ளது கரத்தலைக் கனவின்கண்ணும் அறியாதார்மாட்டுச் சென்று ஒன்றனை இரத்தலும்; ஈதலே போலும் - வறியார்க்கு ஈதலே போலும். (உம்மை ஈண்டும் அவ்வாறு நின்றது. தான் புகழ் பயவாதாயினும் முன்னுளதாய புகழ் கெட வாராமையின் 'ஈதலே...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 106: 'Mendicancy'), Kural 1054 distills a foundational ethical insight: \"Like giving alms, may even asking pleasant seem, From men who of denial never even dream\" Philosophically, To beg of such as never think of withholding (their charity) even in their dreams, is in fact the same as giving (it oneself);.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "leadership",
+        "education",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1055,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒருவர் முன் நின்று இரப்பவர் அந்த இரத்தலை மேற்கொள்வது, உள்ளதை இல்லை என்று ஒளித்துக்கூறாத நன்மைகள் உலகத்தில் இருப்பதால் தான்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: As there are in the world those that give without refusing, there are (also) those that prefer to beg by simply standing before them.",
+        "story_title_ta": "இரவு — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Mendicancy — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவு' என்ற அதிகாரத்திலிருந்து குறள் 1055 பற்றிக் கதை சொன்னார். 'கண் எதிரே நின்று, வறுமைப்பட்டவர் வாயால் கேட்காமல் கண்ணால் கேட்கத் தொடங்குவது, ஒளிவுமறைவு இல்லாமல் அவருக்குக் கொடுப்பவர் இவ்வுலகத்தில் இருப்பதால்தான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 106, 'Mendicancy', centered on Kural 1055: As there are in the world those that give without refusing, there are (also) those that prefer to beg by simply standing before them. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உள்ளதை இல்லையென்று மறைக்காமல் வழங்கிடும் பண்புடையோர் உலகில் இருப்பதால்தான் இல்லாதவர்கள், அவர்களிடம் சென்று இரத்தலை மேற்கொண்டுள்ளனர்.",
+        "moral_en": "Moral: Because on earth the men exist, who never say them nay, Men bear to stand before their eyes for help to pray.",
+        "game_blank_word_ta": "மேற்கொள்",
+        "game_options_ta": [
+          "இரக்க",
+          "இரத்தக்கார்க்",
+          "காணின்",
+          "மேற்கொள்"
+        ],
+        "game_options_en": [
+          "Demand from those who can supply Default is theirs when they deny",
+          "Even demand becomes a joy When the things comes without annoy",
+          "Request has charm form open hearts Who know the duty on their part",
+          "The needy demand for help because The world has men who don't refuse"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1055, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கண் எதிரே நின்று, வறுமைப்பட்டவர் வாயால் கேட்காமல் கண்ணால் கேட்கத் தொடங்குவது, ஒளிவுமறைவு இல்லாமல் அவருக்குக் கொடுப்பவர் இவ்வுலகத்தில் இருப்பதால்தான். கலைஞர் உரை கூறுவது: உள்ளதை இல்லையென்று மறைக்காமல் வழங்கிடும் பண்புடையோர் உலகில் இருப்பதால்தான் இல்லாதவர்கள், அவர்களிடம் சென்று இரத்தலை மேற்கொண்டுள்ளனர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mendicancy (Citizenship & Miscellaneous), Kural 1055 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As there are in the world those that give without refusing, there are (also) those that prefer to beg by simply standing before them. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவு' அதிகாரத்தில் வரும் திருக்குறள் 1055 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1055 from Chapter 'Mendicancy'?",
+        "quiz_options_ta": [
+          "புறத்தே அயலார்போல் அன்பில்லாத பொது நோக்கம் கொண்டு பார்த்தல், அகத்தே காதல் கொண்டவரிடம் உள்ள இயல்பாகும்.",
+          "மலர் போன்ற கண்ணை உடைய இவளுடைய அருமை அறியாமல், இந்த ஊரார் எளியவளாகக் கருதி அலர் கூறி எமக்கு உதவி செய்தனர்.",
+          "அதோ பார்! எம்முடைய காதலர் பிரிந்து செல்கின்றார்; இதோ பார்! என்னுடைய மேனியில் பசலை நிறம் வந்து படர்கிறது.",
+          "ஒருவர் முன் நின்று இரப்பவர் அந்த இரத்தலை மேற்கொள்வது, உள்ளதை இல்லை என்று ஒளித்துக்கூறாத நன்மைகள் உலகத்தில் இருப்பதால் தான்."
+        ],
+        "quiz_options_en": [
+          "Between lovers we do discern A stranger's look of unconcern",
+          "Rumour gives me the flower-like belle People know not what rare angel",
+          "My lover departed me there And pallor usurped my body here",
+          "The needy demand for help because The world has men who don't refuse"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவு) பகுதியில் குறள் 1055 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவர் முன் நின்று இரப்பவர் அந்த இரத்தலை மேற்கொள்வது, உள்ளதை இல்லை என்று ஒளித்துக்கூறாத நன்மைகள் உலகத்தில் இருப்பதால் தான். பரிமேலழகர் உரை நுட்பம்: கண்ணின்று இரப்பவர் மேற்கொள்வது - சொல்லுதன் மாட்டாது முன் நிற்றல் மாத்திரத்தான் இரப்பார் உயிரோம்பற்பொருட்டு அதனை மேற்கொண்டு போதுகின்றது; கரப்பு இலார் வையகத்து உண்மையான் - அவர்க்கு உள்ளது கரவாது கொடுப்பார் சிலர் உலகத்து உளராய தன்மையானே, பிறிதொன்றான் அன்று...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 106: 'Mendicancy'), Kural 1055 distills a foundational ethical insight: \"Because on earth the men exist, who never say them nay, Men bear to stand before their eyes for help to pray\" Philosophically, As there are in the world those that give without refusing, there are (also) those that prefer to beg by simply standing before them.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "love",
+        "ethics",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 1056,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: உள்ளதை ஒளிக்கும் துன்பநிலை இல்லாதவரைக் கண்டால், இரப்பவரின் வறுமைத் துன்பம் எல்லாம் ஒரு சேரக் கெடும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: All the evil of begging will be removed at the sight of those who are far from the evil of refusing.",
+        "story_title_ta": "இரவு — கவின் கற்ற பாடம்",
+        "story_title_en": "Mendicancy — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவு' என்ற அதிகாரத்திலிருந்து குறள் 1056 பற்றிக் கதை சொன்னார். 'இருப்பதை மறைப்பதாகிய நோய் இல்லாதவரைக் கண்டால், இல்லாமையாகிய நோய் எல்லாம் மொத்தமாக அழியும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 106, 'Mendicancy', centered on Kural 1056: All the evil of begging will be removed at the sight of those who are far from the evil of refusing. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இருப்பதைக் கொடுக்க மனமின்றி மறைத்திடும் இழிநிலை இல்லாதவர்களைக் கண்டாலே, இரப்போரின் வறுமைத் துன்பம் அகன்று விடும்.",
+        "moral_en": "Moral: It those you find from evil of 'denial' free, At once all plague of poverty will flee.",
+        "game_blank_word_ta": "கெடும்",
+        "game_options_ta": [
+          "கெடும்",
+          "இரக்க",
+          "இரத்தக்கார்க்",
+          "காணின்"
+        ],
+        "game_options_en": [
+          "The pain of poverty shall die Before the free who don't deny",
+          "Demand from those who can supply Default is theirs when they deny",
+          "Even demand becomes a joy When the things comes without annoy",
+          "Request has charm form open hearts Who know the duty on their part"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1056, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இருப்பதை மறைப்பதாகிய நோய் இல்லாதவரைக் கண்டால், இல்லாமையாகிய நோய் எல்லாம் மொத்தமாக அழியும். கலைஞர் உரை கூறுவது: இருப்பதைக் கொடுக்க மனமின்றி மறைத்திடும் இழிநிலை இல்லாதவர்களைக் கண்டாலே, இரப்போரின் வறுமைத் துன்பம் அகன்று விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mendicancy (Citizenship & Miscellaneous), Kural 1056 speaks directly to teens navigating studies, friendships, leadership, and digital choices: All the evil of begging will be removed at the sight of those who are far from the evil of refusing. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவு' அதிகாரத்தில் வரும் திருக்குறள் 1056 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1056 from Chapter 'Mendicancy'?",
+        "quiz_options_ta": [
+          "உள்ளதை ஒளிக்கும் துன்பநிலை இல்லாதவரைக் கண்டால், இரப்பவரின் வறுமைத் துன்பம் எல்லாம் ஒரு சேரக் கெடும்.",
+          "கண்களோடு கண்கள் நோக்காமல் ஒத்திருந்து அன்பு செய்யுமானால் வாய்ச் சொற்கள் என்ன பயனும் இல்லாமற் போகின்றன.",
+          "ஊரார் எல்லோரும் அறிந்துள்ள அலர் நமக்குப் பொருந்தாதோ, (பொருந்தும்) அந்த அலர் பெறமுடியாமலிருந்து பெற்றார் போன்ற நன்மை உடையதாக இருக்கின்றது.",
+          "விளக்கினுடைய மறைவைப் பார்த்துக் காத்திருக்கின்ற இருளைப் போலவே, தலைவனுடைய தழுவுதலின் ‌சோர்வைப் பார்த்துக் காத்திருக்கினறது."
+        ],
+        "quiz_options_en": [
+          "The pain of poverty shall die Before the free who don't deny",
+          "The words of mouth are of no use When eye to eye agrees the gaze",
+          "I profit by this public rumour Having not, I feel, I have her",
+          "Just as darkness waits for light-off Pallor looks for lover's arms-off"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவு) பகுதியில் குறள் 1056 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உள்ளதை ஒளிக்கும் துன்பநிலை இல்லாதவரைக் கண்டால், இரப்பவரின் வறுமைத் துன்பம் எல்லாம் ஒரு சேரக் கெடும். பரிமேலழகர் உரை நுட்பம்: கரப்பு இடும்பை இல்லாரைக் காணின் - உள்ளது கரத்தலாகிய நோயில்லாரைக் கண்டால்; நிரப்பு இடும்பை எல்லாம் ஒருங்கு கெடும் - மானம்விடாது இரப்பார்க்கு நிரப்பான் வரும் துன்பங்களெல்லாம் சேரக் கெடும். ('கரத்தல்', ஒருவற்கு வேண்டுவதொன்றன்மையின், அதனை 'நோய்' என்றும், அஃது...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 106: 'Mendicancy'), Kural 1056 distills a foundational ethical insight: \"It those you find from evil of 'denial' free, At once all plague of poverty will flee\" Philosophically, All the evil of begging will be removed at the sight of those who are far from the evil of refusing.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "love",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1057,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: இகழ்ந்து எள்ளாமல் பொருள் கொடுப்பவரைக் கண்டால், இரப்பவரின் உள்ளம் மகிழ்ந்து உள்ளுக்குள்ளே உவகை அடையும் தன்மையுடையதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Beggars rejoice exceedingly when they behold those who bestow (their alms) with kindness and courtesy.",
+        "story_title_ta": "இரவு — நிலா கற்ற பாடம்",
+        "story_title_en": "Mendicancy — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவு' என்ற அதிகாரத்திலிருந்து குறள் 1057 பற்றிக் கதை சொன்னார். 'அவமதிக்காமல், இழிவாகப் பேசாமல் எடுத்துக் கொடுப்பவரைக் கண்டால், பிச்சை கேட்பவரின் மனம் மகிழ்ந்து உள்ளுக்குள்ளே உவகை கொள்ளும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 106, 'Mendicancy', centered on Kural 1057: Beggars rejoice exceedingly when they behold those who bestow (their alms) with kindness and courtesy. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இழித்துப் பேசாமலும், ஏளனம் புரியாமலும் வழங்கிடும் வள்ளல் தன்மை உடையவர்களைக் காணும்போது, இரப்போர் உள்ளம் மகிழ்ச்சியால் இன்பமுறும்.",
+        "moral_en": "Moral: If men are found who give and no harsh words of scorn employ, The minds of askers, through and through, will thrill with joy.",
+        "game_blank_word_ta": "இகழ்ந்தெள்ளாது",
+        "game_options_ta": [
+          "இரக்க",
+          "இகழ்ந்தெள்ளாது",
+          "இரத்தக்கார்க்",
+          "காணின்"
+        ],
+        "game_options_en": [
+          "Demand from those who can supply Default is theirs when they deny",
+          "When givers without scorn impart A thrill of delight fills the heart",
+          "Even demand becomes a joy When the things comes without annoy",
+          "Request has charm form open hearts Who know the duty on their part"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1057, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவமதிக்காமல், இழிவாகப் பேசாமல் எடுத்துக் கொடுப்பவரைக் கண்டால், பிச்சை கேட்பவரின் மனம் மகிழ்ந்து உள்ளுக்குள்ளே உவகை கொள்ளும். கலைஞர் உரை கூறுவது: இழித்துப் பேசாமலும், ஏளனம் புரியாமலும் வழங்கிடும் வள்ளல் தன்மை உடையவர்களைக் காணும்போது, இரப்போர் உள்ளம் மகிழ்ச்சியால் இன்பமுறும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mendicancy (Citizenship & Miscellaneous), Kural 1057 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Beggars rejoice exceedingly when they behold those who bestow (their alms) with kindness and courtesy. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவு' அதிகாரத்தில் வரும் திருக்குறள் 1057 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1057 from Chapter 'Mendicancy'?",
+        "quiz_options_ta": [
+          "கண்டும் கேட்டும் உண்டும் முகர்ந்தும் உற்றும் அறிகின்ற ஐந்து புலன்களாகிய இன்பங்களும் ஒளி பொருந்திய வளையல் அணிந்த இவளிடத்தில் உள்ளன.",
+          "இகழ்ந்து எள்ளாமல் பொருள் கொடுப்பவரைக் கண்டால், இரப்பவரின் உள்ளம் மகிழ்ந்து உள்ளுக்குள்ளே உவகை அடையும் தன்மையுடையதாகும்.",
+          "எம் காமம் ஊரார் சொல்லுகின்ற அலரால் வளர்வதாயிற்று, அந்த அலர் இல்லையானால் அது தன் தன்மை இழந்து சுருங்கிப் போய்விடும்.",
+          "தலைவனைத் தழுவிக் கிடந்தேன்; பக்கத்தே சிறிது அகன்றேன்; அவ்வளவிலேயே பசலை நிறம் அள்ளிக் கொள்வதுபோல் வந்து பரவி விட்டதே!"
+        ],
+        "quiz_options_en": [
+          "In this bangled beauty dwell The joys of sight sound touch taste smell",
+          "When givers without scorn impart A thrill of delight fills the heart",
+          "Rumour inflames the love I seek Or else it becomes bleak and weak",
+          "From his embrace I turned a nonce This pallor swallowed me at once"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவு) பகுதியில் குறள் 1057 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இகழ்ந்து எள்ளாமல் பொருள் கொடுப்பவரைக் கண்டால், இரப்பவரின் உள்ளம் மகிழ்ந்து உள்ளுக்குள்ளே உவகை அடையும் தன்மையுடையதாகும். பரிமேலழகர் உரை நுட்பம்: இகழ்ந்து எள்ளாது ஈவாரைக் காணின் - தம்மை அவமதித்து இழிவு சொல்லாது பொருள் கொடுப்பாரைக் கண்டால்; உள்ளம் மகிழ்ந்து உள்ளுள் உவப்பது உடைத்து - அவ்விரப்பாரது உள்ளம் மகிழ்ந்து உள்ளுள்ளே உவக்கும் தன்மையுடைத்து. (இகழ்ந்து எள்ளாது எனவே, நன்கு மதித்தலும் இனியவை கூறலும...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 106: 'Mendicancy'), Kural 1057 distills a foundational ethical insight: \"If men are found who give and no harsh words of scorn employ, The minds of askers, through and through, will thrill with joy\" Philosophically, Beggars rejoice exceedingly when they behold those who bestow (their alms) with kindness and courtesy.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "kindness",
+        "love",
+        "speech",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1058,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: இரப்பவர் இல்லையானால், இப் பெரிய உலகின் இயக்கம் மரத்தால் செய்த பாவை கயிற்றினால் ஆட்டப்பட்டுச் சென்று வந்தாற் போன்றதாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If there were no beggars, (the actions done in) the cool wide world would only resemble the movement of a puppet.",
+        "story_title_ta": "இரவு — அன்பு கற்ற பாடம்",
+        "story_title_en": "Mendicancy — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவு' என்ற அதிகாரத்திலிருந்து குறள் 1058 பற்றிக் கதை சொன்னார். 'பிச்சை ஏற்பார் என்பவர் இல்லாது போய் விட்டால், குளி்ர்ந்த பெரிய இவ்வுலகத்தில் வாழ்பவரின் வாழ்க்கை, வெறும் மரப்பொம்மைகளின் போக்குவரத்தாகவே ஆகிவிடும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 106, 'Mendicancy', centered on Kural 1058: If there were no beggars, (the actions done in) the cool wide world would only resemble the movement of a puppet. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வறுமையின் காரணமாக யாசிப்பவர்கள், தம்மை நெருங்கக் கூடாது என்கிற மனிதர்களுக்கும், மரத்தால் செய்யப்பட்டு இயக்கப்படும் பதுமைகளுக்கும் வேறுபாடே இல்லை.",
+        "moral_en": "Moral: If askers cease, the mighty earth, where cooling fountains flow, Will be a stage where wooden puppets come and go.",
+        "game_blank_word_ta": "இல்லாயின்",
+        "game_options_ta": [
+          "இரக்க",
+          "இரத்தக்கார்க்",
+          "இல்லாயின்",
+          "காணின்"
+        ],
+        "game_options_en": [
+          "Demand from those who can supply Default is theirs when they deny",
+          "Even demand becomes a joy When the things comes without annoy",
+          "This grand cool world shall move to and fro Sans Askers like a puppet show",
+          "Request has charm form open hearts Who know the duty on their part"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1058, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிச்சை ஏற்பார் என்பவர் இல்லாது போய் விட்டால், குளி்ர்ந்த பெரிய இவ்வுலகத்தில் வாழ்பவரின் வாழ்க்கை, வெறும் மரப்பொம்மைகளின் போக்குவரத்தாகவே ஆகிவிடும். கலைஞர் உரை கூறுவது: வறுமையின் காரணமாக யாசிப்பவர்கள், தம்மை நெருங்கக் கூடாது என்கிற மனிதர்களுக்கும், மரத்தால் செய்யப்பட்டு இயக்கப்படும் பதுமைகளுக்கும் வேறுபாடே இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mendicancy (Citizenship & Miscellaneous), Kural 1058 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If there were no beggars, (the actions done in) the cool wide world would only resemble the movement of a puppet. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவு' அதிகாரத்தில் வரும் திருக்குறள் 1058 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1058 from Chapter 'Mendicancy'?",
+        "quiz_options_ta": [
+          "நோய்களுக்கு மருந்து வேறு பொருள்களாக இருக்கின்றன, ஆனால் அணிகலன் அணிந்த இவளால் வளர்ந்த நோய்க்கு இவளே மருந்தாக இருக்கின்றாள்.",
+          "காமம் அலரால் வெளிப்பட இனியதாதல், கள்ளுண்பவர் கள்ளுண்டு மயங்க மயங்க அக் கள்ளுண்பதையே விரும்பினாற் போன்றது.",
+          "இரப்பவர் இல்லையானால், இப் பெரிய உலகின் இயக்கம் மரத்தால் செய்த பாவை கயிற்றினால் ஆட்டப்பட்டுச் சென்று வந்தாற் போன்றதாகும்.",
+          "இவள் பிரிவால் வருத்திப் பசலை நிறம் அடைந்தாள் என்ற பழி சொல்வதே அல்லாமல், இவளைக் காதலர் விட்டுப் பிரிந்தார் என்று சொல்பவர் இல்லையே!"
+        ],
+        "quiz_options_en": [
+          "The cure for ailment is somewhere For fair maid's ill she is the cure",
+          "Drink delights as liquor flows Love delights as rumour grows",
+          "This grand cool world shall move to and fro Sans Askers like a puppet show",
+          "On my pallor they cast a slur But none says \\\"lo he parted her\\\""
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவு) பகுதியில் குறள் 1058 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இரப்பவர் இல்லையானால், இப் பெரிய உலகின் இயக்கம் மரத்தால் செய்த பாவை கயிற்றினால் ஆட்டப்பட்டுச் சென்று வந்தாற் போன்றதாகும். பரிமேலழகர் உரை நுட்பம்: இரப்பார் இல்லாயின் - வறுமையுற்று இரப்பார் இல்லையாயின்; ஈர்ங்கண்மா ஞாலம் - குளிர்ந்த இடத்தையுடைய பெரிய ஞாலத்துள்ளார் செலவு வரவுகள்; மரப்பாவை சென்று வந்தற்று - உயிரில்லாத மரப்பாவை இயந்திரக் கயிற்றால் சென்று வந்தாற்போலும். (ஐகாரம், அசைநிலை. ஞாலம் என்னும...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 106: 'Mendicancy'), Kural 1058 distills a foundational ethical insight: \"If askers cease, the mighty earth, where cooling fountains flow, Will be a stage where wooden puppets come and go\" Philosophically, If there were no beggars, (the actions done in) the cool wide world would only resemble the movement of a puppet.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1059,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பொருள் இல்லை என்று இரந்து அதைப் பெற்றுக் கொள்ள விரும்புவோர் இல்லாதபோது, பொருள் கொடுப்பவனிடத்தில் என்ன புகழ் உண்டாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: What (praise) would there be to givers (of alms) if there were no beggars to ask for and reveive (them).",
+        "story_title_ta": "இரவு — இனியா கற்ற பாடம்",
+        "story_title_en": "Mendicancy — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவு' என்ற அதிகாரத்திலிருந்து குறள் 1059 பற்றிக் கதை சொன்னார். 'தம்மிடம் வந்து ஒன்றைப் பிச்சையாகக் கேட்பவர் இல்லாதபொழுது, கொடுக்கும் மனம் உள்ளவர்க்குப் புகழ் ஏது?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 106, 'Mendicancy', centered on Kural 1059: What (praise) would there be to givers (of alms) if there were no beggars to ask for and reveive (them). Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இரந்து பொருள் பெறுபவர் இல்லாத நிலையில், பொருள் கொடுத்துப் புகழ் பெறுவதற்கான வாய்ப்பு இல்லாமற் போய்விடும்.",
+        "moral_en": "Moral: What glory will there be to men of generous soul, When none are found to love the askers' role.",
+        "game_blank_word_ta": "இரந்துகோள்",
+        "game_options_ta": [
+          "இரக்க",
+          "இரத்தக்கார்க்",
+          "காணின்",
+          "இரந்துகோள்"
+        ],
+        "game_options_en": [
+          "Demand from those who can supply Default is theirs when they deny",
+          "Even demand becomes a joy When the things comes without annoy",
+          "Request has charm form open hearts Who know the duty on their part",
+          "Where stands the glory of givers Without obligation seekers?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1059, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம்மிடம் வந்து ஒன்றைப் பிச்சையாகக் கேட்பவர் இல்லாதபொழுது, கொடுக்கும் மனம் உள்ளவர்க்குப் புகழ் ஏது? கலைஞர் உரை கூறுவது: இரந்து பொருள் பெறுபவர் இல்லாத நிலையில், பொருள் கொடுத்துப் புகழ் பெறுவதற்கான வாய்ப்பு இல்லாமற் போய்விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mendicancy (Citizenship & Miscellaneous), Kural 1059 speaks directly to teens navigating studies, friendships, leadership, and digital choices: What (praise) would there be to givers (of alms) if there were no beggars to ask for and reveive (them). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவு' அதிகாரத்தில் வரும் திருக்குறள் 1059 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1059 from Chapter 'Mendicancy'?",
+        "quiz_options_ta": [
+          "தாமரைக் கண்ணனுடைய உலகம், தாம் விரும்பும் காதலியரின் மெல்லிய தோள்களில் துயிலும் துயில் போல் இனிமை உடையதோ.",
+          "காதலரைக் கண்டது ஒருநாள் தான், அதனால் உண்டாகிய அலரோ, திங்களைப் பாம்பு கொண்ட செய்தி போல் எங்கும் பரந்து விட்டது.",
+          "பிரிவுக்கு உடன்படச் செய்த காதலர் நல்ல நிலையுடையவர் ஆவார் என்றால், என்னுடைய மேனி உள்ளபடி பசலை நிறம் அடைவதாக.",
+          "பொருள் இல்லை என்று இரந்து அதைப் பெற்றுக் கொள்ள விரும்புவோர் இல்லாதபோது, பொருள் கொடுப்பவனிடத்தில் என்ன புகழ் உண்டாகும்."
+        ],
+        "quiz_options_en": [
+          "Is lotus-eyed lord's heaven so sweet As sleep in lover's arms so soft?",
+          "One lasting day we met alone Lasting rumours eclipse our moon",
+          "Let all my body become pale If he who took my leave fares well",
+          "Where stands the glory of givers Without obligation seekers?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவு) பகுதியில் குறள் 1059 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருள் இல்லை என்று இரந்து அதைப் பெற்றுக் கொள்ள விரும்புவோர் இல்லாதபோது, பொருள் கொடுப்பவனிடத்தில் என்ன புகழ் உண்டாகும். பரிமேலழகர் உரை நுட்பம்: இரந்துகோள் மேவார் இலாஅக் கடை - அவர்பாற்சென்று ஒன்றனை இரந்துகோடலை விரும்புவார் இல்வழி; ஈவார்கண் தோற்றம் என் உண்டாம் - கொடுப்பார் மாட்டு என்ன புகழுண்டாம்? யாதுமில்லை. (தோற்றம் - ஆகுபெயர். மேவுவார் என்பது விகாரமாயிற்று. கொடுத்தல் வண்மை வெளிப்படாமையின் அதனால...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 106: 'Mendicancy'), Kural 1059 distills a foundational ethical insight: \"What glory will there be to men of generous soul, When none are found to love the askers' role\" Philosophically, What (praise) would there be to givers (of alms) if there were no beggars to ask for and reveive (them).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "kindness",
+        "love",
+        "time",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1060,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: இரப்பவன் எவரிடத்திலும் சினம் கொள்ளாதிருக்க வேண்டும், அவன் அடைந்துள்ள வறுமைத் துன்பமே அவனுக்கு அறிவு புகட்டும் சான்றாக அமையும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: He who begs ought not to be angry (at a refusal); for even the misery of (his own) poverty should be a sufficient reason (for so doing).",
+        "story_title_ta": "இரவு — முகில் கற்ற பாடம்",
+        "story_title_en": "Mendicancy — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவு' என்ற அதிகாரத்திலிருந்து குறள் 1060 பற்றிக் கதை சொன்னார். 'பிச்சை ஏற்பவன் அது கிடைக்காதபோது கோபங்கொள்ளக்கூடாது; வேண்டும்பொழுது பொருள் கிடைக்காது என்பதற்கு அவனுக்கு ஏற்பட்டுள்ள துன்பமே போதுமான சான்றாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 106, 'Mendicancy', centered on Kural 1060: He who begs ought not to be angry (at a refusal); for even the misery of (his own) poverty should be a sufficient reason (for so doing). Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இல்லை என்பவரிடம், இரப்பவன் கோபம் கொள்ளக்கூடாது தன்னைப் போலவே பிறர் நிலைமையும் இருக்கலாம் என்பதற்குத் தன் வறுமையே சான்றாக இருக்கிறதே.",
+        "moral_en": "Moral: Askers refused from wrath must stand aloof; The plague of poverty itself is ample proof.",
+        "game_blank_word_ta": "தானேயும்",
+        "game_options_ta": [
+          "தானேயும்",
+          "இரக்க",
+          "இரத்தக்கார்க்",
+          "காணின்"
+        ],
+        "game_options_en": [
+          "The needy should not scowl at \\\"No\\\" His need another's need must show * Saint valluvar talks of two kinds of Asking:() Asking help for public causes or enterprises () Begging when one is able to work and this is condemned",
+          "Demand from those who can supply Default is theirs when they deny",
+          "Even demand becomes a joy When the things comes without annoy",
+          "Request has charm form open hearts Who know the duty on their part"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1060, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிச்சை ஏற்பவன் அது கிடைக்காதபோது கோபங்கொள்ளக்கூடாது; வேண்டும்பொழுது பொருள் கிடைக்காது என்பதற்கு அவனுக்கு ஏற்பட்டுள்ள துன்பமே போதுமான சான்றாகும். கலைஞர் உரை கூறுவது: இல்லை என்பவரிடம், இரப்பவன் கோபம் கொள்ளக்கூடாது தன்னைப் போலவே பிறர் நிலைமையும் இருக்கலாம் என்பதற்குத் தன் வறுமையே சான்றாக இருக்கிறதே. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mendicancy (Citizenship & Miscellaneous), Kural 1060 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who begs ought not to be angry (at a refusal); for even the misery of (his own) poverty should be a sufficient reason (for so doing). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவு' அதிகாரத்தில் வரும் திருக்குறள் 1060 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1060 from Chapter 'Mendicancy'?",
+        "quiz_options_ta": [
+          "இரப்பவன் எவரிடத்திலும் சினம் கொள்ளாதிருக்க வேண்டும், அவன் அடைந்துள்ள வறுமைத் துன்பமே அவனுக்கு அறிவு புகட்டும் சான்றாக அமையும்.",
+          "நீங்கினால் சுடுகின்றது, அணுகினால் குளிர்ச்சியாக இருக்கின்றது, இத்தகைய புதுமையானத் தீயை இவள் எவ்விடத்திலிருந்து பெற்றாள்.",
+          "இந்தக் காம நோய் ஊராரின் அலர் தூற்றலே எருவாகவும் அன்னை கடிந்து சொல்லும் கடுஞ்சொல்லே நீராகவும் கொண்டு செழித்து வளர்கின்றது.",
+          "பிரிவுக்கு உடன்படச் செய்த காதலர் பிரிந்து வருத்துதலைப் பிறர் தூற்றாமல் இருப்பாரானால், யான் பசலை உற்றதாக பெயர் எடுத்தல் நல்லதே."
+        ],
+        "quiz_options_en": [
+          "The needy should not scowl at \\\"No\\\" His need another's need must show * Saint valluvar talks of two kinds of Asking:() Asking help for public causes or enterprises () Begging when one is able to work and this is condemned",
+          "Away it burns and cools anear Wherefrom did she get this fire?",
+          "Scandal manures; mother's refrain Waters the growth of this love-pain",
+          "Let people call me all pallid But my lover let them not deride"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவு) பகுதியில் குறள் 1060 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இரப்பவன் எவரிடத்திலும் சினம் கொள்ளாதிருக்க வேண்டும், அவன் அடைந்துள்ள வறுமைத் துன்பமே அவனுக்கு அறிவு புகட்டும் சான்றாக அமையும். பரிமேலழகர் உரை நுட்பம்: இரப்பான் வெகுளாமை வேண்டும் - ஈவானுக்குப் பொருள் உதவாவழி இவன் எனக்கு ஈகின்றிலன் என்று அவனை இரப்பான் வெகுளாதொழிதல் வேண்டும்; நிரப்பு இடும்பை தானேயும் கரிசாலும் - அது வேண்டிய பொழுது உதவாது என்பதற்கு வேறு சான்று வேண்டா, நிரப்பாகிய தன் இடும்பை தானேயும் சான்றாதல...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 106: 'Mendicancy'), Kural 1060 distills a foundational ethical insight: \"Askers refused from wrath must stand aloof; The plague of poverty itself is ample proof\" Philosophically, He who begs ought not to be angry (at a refusal); for even the misery of (his own) poverty should be a sufficient reason (for so doing).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "leadership",
+        "kindness",
+        "speech"
+      ]
+    }
+  ]
+}

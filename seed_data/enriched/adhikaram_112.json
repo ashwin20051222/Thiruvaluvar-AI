@@ -1,0 +1,582 @@
+{
+  "adhikaram_id": 112,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.486405090+00:00",
+  "kurals": [
+    {
+      "kural_number": 1111,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அனிச்சப்பூவே நல்ல மென்மை தன்மை பெற்றிறுக்கின்றாய், நீ வாழ்க, யாம் விரும்பும் காதலி உன்னை விட மெல்லியத் தன்மை கொண்டவள்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: May you flourish, O Anicham! you have a delicate nature But my beloved is more delicate than you.",
+        "story_title_ta": "நலம் புனைந்து உரைத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Praise of her Beauty — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நலம் புனைந்து உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1111 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1111 from 'The Praise of her Beauty', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: அனிச்ச மலரின் மென்மையைப் புகழ்ந்து பாராட்டுகிறேன்; ஆனால் அந்த மலரைவிட மென்மையானவள் என் காதலி.",
+        "moral_en": "Moral: O flower of the sensitive plant! than theeMore tender's the maiden beloved by me.",
+        "game_blank_word_ta": "அனிச்சமே",
+        "game_options_ta": [
+          "மலர்காணின்",
+          "மையாத்தி",
+          "நெஞ்சே",
+          "அனிச்சமே"
+        ],
+        "game_options_en": [
+          "You can't liken flowers by many eyed, To her bright eyes, O mind dismayed",
+          "The bamboo-shouldered has pearl-like smiles Fragrant breath and lance-like eyes",
+          "Lily droops down to ground and says I can't equal the jewelled-one's eyes",
+          "Soft blessed anicha flower, hail On whom I dote is softer still"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நலம் புனைந்து உரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1111, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அனிச்சம் பூவே! நீ எல்லாப் பூக்களிலுமே மென்மையால் சிறந்த இயல்பை உடையை வாழ்ந்து போ! ஒன்று உனக்குத் தெரியுமா? என்னால் விரும்பப்படும் என் மனைவி உன்னைக் காட்டிலும் மென்மையானவள்! கலைஞர் உரை கூறுவது: அனிச்ச மலரின் மென்மையைப் புகழ்ந்து பாராட்டுகிறேன்; ஆனால் அந்த மலரைவிட மென்மையானவள் என் காதலி. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of her Beauty (Pre-marital Love), Kural 1111 speaks directly to teens navigating studies, friendships, leadership, and digital choices: May you flourish, O Anicham! you have a delicate nature But my beloved is more delicate than you. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நலம் புனைந்து உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Praise of her Beauty'.",
+        "quiz_question_ta": "'நலம் புனைந்து உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1111 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1111 from Chapter 'The Praise of her Beauty'?",
+        "quiz_options_ta": [
+          "காத்துக் கொள்வதானால் காதலராக அமைந்தவரின் பிரிவு நேராமல் காக்க வேண்டும், அவர் பிரிந்து நீங்கினால் மீண்டும் கூடுதல் அரிது.",
+          "தான் விரும்பும் காதலரின் இனிய சொல்லைப் பெறாமல் உலகத்தில் ( பிரிவுத் துன்பத்தைப் பொறுத்து) வாழ்கின்றவரைப் போல் வன்கண்மை உடையவர் இல்லை.",
+          "நெஞ்சே! ( காதலால் வளர்ந்த) இத் துன்ப நோயைத் தீர்க்கும் மருந்து ஏதாவது ஒன்றை நீ நினைத்துப் பார்த்து எனக்குச் சொல்ல மாட்டாயோ?",
+          "அனிச்சப்பூவே நல்ல மென்மை தன்மை பெற்றிறுக்கின்றாய், நீ வாழ்க, யாம் விரும்பும் காதலி உன்னை விட மெல்லியத் தன்மை கொண்டவள்."
+        ],
+        "quiz_options_en": [
+          "Stop his parting -my life to save Meeting is rare if he would leave",
+          "None is so firm as she who loves Without kind words from whom she dotes",
+          "Think of, O heart, some remedy To cure this chronic malady",
+          "Soft blessed anicha flower, hail On whom I dote is softer still"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நலம் புனைந்து உரைத்தல்) பகுதியில் குறள் 1111 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அனிச்சப்பூவே நல்ல மென்மை தன்மை பெற்றிறுக்கின்றாய், நீ வாழ்க, யாம் விரும்பும் காதலி உன்னை விட மெல்லியத் தன்மை கொண்டவள். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது , தலைமகன் தலைமகள் நலத்தைப் புனைந்து சொல்லியது . இது , புணர்ச்சி மகிழ்ந்துழி நிகழ்வதாகலின் , புணர்ச்சி மகிழ்தலின் பின் வைக்கப்பட்டது .] (இயற்கைப்புணர்ச்சி இறுதிக்கண் சொல்லியது.) அனிச்சமே வாழி நன்னீரை - அனிச்சப்பூவே, வாழ்வாயாக, மென்மையால் நீ எல்லாப...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 112: 'The Praise of her Beauty'), Kural 1111 distills a foundational ethical insight: \"O flower of the sensitive plant! than theeMore tender's the maiden beloved by me\" Philosophically, May you flourish, O Anicham! you have a delicate nature But my beloved is more delicate than you.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1112,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நெஞ்சமே! இவளுடைய கண்கள் பலரும் காண்கின்ற மலர்களை ஒத்திருக்கின்றன, என்று நினைத்து ஒத்த மலர்களைக் கண்டால் நீ மயங்குகின்றாய்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: O my soul, fancying that flowers which are seen by many can resemble her eyes, you become confused at the sight of them.",
+        "story_title_ta": "நலம் புனைந்து உரைத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Praise of her Beauty — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நலம் புனைந்து உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1112 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1112 from 'The Praise of her Beauty', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: மலரைக்கண்டு மயங்குகின்ற நெஞ்சமே! இவளுடைய கண்ணைப் பார்; பலரும் கண்டு வியக்கும் மலராகவே திகழ்கிறது.",
+        "moral_en": "Moral: You deemed, as you saw the flowers, her eyes were as flowers, my soul, That many may see; it was surely some folly that over you stole.",
+        "game_blank_word_ta": "என்று",
+        "game_options_ta": [
+          "என்று",
+          "நன்னீரை",
+          "அனிச்சமே",
+          "நின்னினும்"
+        ],
+        "game_options_en": [
+          "You can't liken flowers by many eyed, To her bright eyes, O mind dismayed",
+          "Soft blessed anicha flower, hail On whom I dote is softer still",
+          "The bamboo-shouldered has pearl-like smiles Fragrant breath and lance-like eyes",
+          "Lily droops down to ground and says I can't equal the jewelled-one's eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நலம் புனைந்து உரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1112, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நெஞ்சே நான் ஒருவனே காணும் என் மனைவியின் கண்கள், பலருங் காணும் பூக்களைப் போல் இருக்கும் என்று எண்ணி மலர்களைக் கண்டு மயங்குகிறாயே! (இதோ பார்). கலைஞர் உரை கூறுவது: மலரைக்கண்டு மயங்குகின்ற நெஞ்சமே! இவளுடைய கண்ணைப் பார்; பலரும் கண்டு வியக்கும் மலராகவே திகழ்கிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of her Beauty (Pre-marital Love), Kural 1112 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O my soul, fancying that flowers which are seen by many can resemble her eyes, you become confused at the sight of them. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நலம் புனைந்து உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Praise of her Beauty'.",
+        "quiz_question_ta": "'நலம் புனைந்து உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1112 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1112 from Chapter 'The Praise of her Beauty'?",
+        "quiz_options_ta": [
+          "நெஞ்சமே! இவளுடைய கண்கள் பலரும் காண்கின்ற மலர்களை ஒத்திருக்கின்றன, என்று நினைத்து ஒத்த மலர்களைக் கண்டால் நீ மயங்குகின்றாய்.",
+          "பிரிவைப்பற்றி தெரிவிக்கும் அளவிற்குக் கல் நெஞ்சம் உடையவரானால் , அத்தகையவர் திரும்பிவந்து அன்பு செய்வார் என்னும் ஆசை பயனற்றது.",
+          "யான் விரும்பிய காதலர் மீண்டு வந்து அன்பு செய்யமாட்டார் என்றாலும், அவரைப் பற்றிய புகழைக் ‌கேட்பதும் என் செவிக்கு இன்பமாக இருக்கின்றது.",
+          "என் நெஞ்சே! வாழ்க! அவர் நம்மிடம் காதல் இல்லாதவராக இருக்க, நீ மட்டும் அவரை நினைந்து வருந்துவது உன் அறியாமையே!"
+        ],
+        "quiz_options_en": [
+          "You can't liken flowers by many eyed, To her bright eyes, O mind dismayed",
+          "His hardness says, \\\"I leave you now\\\" Is there hope of his renewed love?",
+          "The lover accords not my desires And yet his words sweeten my ears",
+          "Bless O mind! you pine in vain For me he has no love serene"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நலம் புனைந்து உரைத்தல்) பகுதியில் குறள் 1112 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெஞ்சமே! இவளுடைய கண்கள் பலரும் காண்கின்ற மலர்களை ஒத்திருக்கின்றன, என்று நினைத்து ஒத்த மலர்களைக் கண்டால் நீ மயங்குகின்றாய். பரிமேலழகர் உரை நுட்பம்: (இடந்தலைப்பாட்டின்கண் சொல்லியது.) நெஞ்சே - நெஞ்சே; இவள் கண் பலர்காணும் பூ ஒக்கும் என்று - யானே காணப்பெற்ற இவள் கண்களைப் பலரானும் காணப்படும் பூக்கள் ஒக்கும் என்று கருதி; மலர் காணின் மையாத்தி - தாமரை குவளை நீலம் முதலிய மலர்களைக் கண்டால் மயங்கா நின்றாய...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 112: 'The Praise of her Beauty'), Kural 1112 distills a foundational ethical insight: \"You deemed, as you saw the flowers, her eyes were as flowers, my soul, That many may see; it was surely some folly that over you stole\" Philosophically, O my soul, fancying that flowers which are seen by many can resemble her eyes, you become confused at the sight of them.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "family",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1113,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மூங்கில் போன்ற தோளை உடைய இவளுக்குத் தளிரே மேன், முத்தே பல், இயற்கை மணமே மணம், வேலே மை உண்ட கண்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The complexion of this bamboo-shouldered one is that of a shoot; her teeth, are pearls; her breath,.",
+        "story_title_ta": "நலம் புனைந்து உரைத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Praise of her Beauty — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நலம் புனைந்து உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1113 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1113 from 'The Praise of her Beauty', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: முத்துப்பல் வரிசை, மூங்கிலனைய தோள், மாந்தளிர் மேனி, மயக்கமூட்டும் நறுமணம், மையெழுதிய வேல்விழி; அவளே என் காதலி!",
+        "moral_en": "Moral: As tender shoot her frame; teeth, pearls; around her odours blend; Darts are the eyes of her whose shoulders like the bambu bend.",
+        "game_blank_word_ta": "முறிமேனி",
+        "game_options_ta": [
+          "நன்னீரை",
+          "முறிமேனி",
+          "அனிச்சமே",
+          "நின்னினும்"
+        ],
+        "game_options_en": [
+          "Soft blessed anicha flower, hail On whom I dote is softer still",
+          "The bamboo-shouldered has pearl-like smiles Fragrant breath and lance-like eyes",
+          "You can't liken flowers by many eyed, To her bright eyes, O mind dismayed",
+          "Lily droops down to ground and says I can't equal the jewelled-one's eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நலம் புனைந்து உரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1113, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மூங்கில் போன்ற தோளை உடைய அவளுக்கு மேனி இளந்தளிர்; பல்லோ முத்து; உடல் மணமோ நறுமணம்; மையூட்டப் பெற்ற கண்களோ வேல்! கலைஞர் உரை கூறுவது: முத்துப்பல் வரிசை, மூங்கிலனைய தோள், மாந்தளிர் மேனி, மயக்கமூட்டும் நறுமணம், மையெழுதிய வேல்விழி; அவளே என் காதலி! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of her Beauty (Pre-marital Love), Kural 1113 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The complexion of this bamboo-shouldered one is that of a shoot; her teeth, are pearls; her breath,. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நலம் புனைந்து உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Praise of her Beauty'.",
+        "quiz_question_ta": "'நலம் புனைந்து உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1113 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1113 from Chapter 'The Praise of her Beauty'?",
+        "quiz_options_ta": [
+          "என் மெலிவால் முன் கையில் இறை கடந்து கழலும் வளையல்கள், தலைவன் விட்டுப் பிரிந்த செய்தியைப் பலரறியத் தெரிவித்துத் தூற்றாமலிருக்குமோ.",
+          "மூங்கில் போன்ற தோளை உடைய இவளுக்குத் தளிரே மேன், முத்தே பல், இயற்கை மணமே மணம், வேலே மை உண்ட கண்.",
+          "நெஞ்சமே! நீ வாழி! அன்பு இல்லாதவரிடம் உன் மிகுந்த துன்பத்தைச் சொல்கின்றாய்! அதை விட எளிதாகக் கடலைத் தூர்ப்பாயாக.",
+          "நெஞ்சே (என்னுடன்) இருந்து அவரை நினைந்து வருந்துவது ஏன்? இந்தத் துன்பநோயை உண்டாக்கியவரிடம் இவ்வாறு அன்பு கொண்டு நினைக்கும் தன்மை இல்லையே!"
+        ],
+        "quiz_options_en": [
+          "Will not my gliding bangles' cry The parting of my lord betray?",
+          "The bamboo-shouldered has pearl-like smiles Fragrant breath and lance-like eyes",
+          "You tell your grief to listless he Bless my heart! rather fill up sea!",
+          "O mind, why pine and sit moody? Who made you so pale lacks pity"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நலம் புனைந்து உரைத்தல்) பகுதியில் குறள் 1113 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மூங்கில் போன்ற தோளை உடைய இவளுக்குத் தளிரே மேன், முத்தே பல், இயற்கை மணமே மணம், வேலே மை உண்ட கண். பரிமேலழகர் உரை நுட்பம்: (கூட்டுதலுற்ற பாங்கற்குத் தலைமகன் தலைமகளது இயல்பு கூறியது.) வேய்த்தோளவட்கு - வேய் போலும் தோளினையுடையவட்கு; மேனி முறி - நிறம் தளிர் நிறமாயிருக்கும்; முறுவல் முத்தம் - பல் முத்தமாயிருக்கும்; நாற்றம் வெறி - இயல்பாய நாற்றம் நறுநாற்றமாயிருக்கும்; உண்கண் வேல...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 112: 'The Praise of her Beauty'), Kural 1113 distills a foundational ethical insight: \"As tender shoot her frame; teeth, pearls; around her odours blend; Darts are the eyes of her whose shoulders like the bambu bend\" Philosophically, The complexion of this bamboo-shouldered one is that of a shoot; her teeth, are pearls; her breath,.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1114,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: குவளை மலர்கள் காணும் தன்மைப் பெற்றுக் கண்டால், இவளுடைய கண்களுக்கு தாம் ஒப்பாக வில்லையே என்று தலை கவிழ்ந்து நிலத்தை நோக்கும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If the blue lotus could see, it would stoop and look at the ground saying, \"I can never resemble the eyes of this excellent jewelled one.\".",
+        "story_title_ta": "நலம் புனைந்து உரைத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Praise of her Beauty — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நலம் புனைந்து உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1114 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1114 from 'The Praise of her Beauty', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என் காதலியைக் குவளை மலர்கள் காண முடிந்தால், ``இவள் கண்களுக்கு நாம் ஒப்பாக முடியவில்லையே!'' எனத் தலைகுனிந்து நிலம் நோக்கும்.",
+        "moral_en": "Moral: The lotus, seeing her, with head demiss, the ground would eye, And say, 'With eyes of her, rich gems who wears, we cannot vie.'.",
+        "game_blank_word_ta": "குவளை",
+        "game_options_ta": [
+          "நன்னீரை",
+          "அனிச்சமே",
+          "குவளை",
+          "நின்னினும்"
+        ],
+        "game_options_en": [
+          "Soft blessed anicha flower, hail On whom I dote is softer still",
+          "You can't liken flowers by many eyed, To her bright eyes, O mind dismayed",
+          "Lily droops down to ground and says I can't equal the jewelled-one's eyes",
+          "The bamboo-shouldered has pearl-like smiles Fragrant breath and lance-like eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நலம் புனைந்து உரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1114, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: குவளைப் பூக்களால் காண முடியுமானால், சிறந்த அணிகளைப் பூண்டிருக்கும் என் மனைவியின் கண்ணைப் போல தாம் இருக்கமாட்டோம் என்று எண்ணி நாணத்தால் தலைகுனிந்து நிலத்தைப் பார்க்கும். கலைஞர் உரை கூறுவது: என் காதலியைக் குவளை மலர்கள் காண முடிந்தால், ``இவள் கண்களுக்கு நாம் ஒப்பாக முடியவில்லையே!'' எனத் தலைகுனிந்து நிலம் நோக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of her Beauty (Pre-marital Love), Kural 1114 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If the blue lotus could see, it would stoop and look at the ground saying, \"I can never resemble the eyes of this excellent jewelled one.\". Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நலம் புனைந்து உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Praise of her Beauty'.",
+        "quiz_question_ta": "'நலம் புனைந்து உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1114 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1114 from Chapter 'The Praise of her Beauty'?",
+        "quiz_options_ta": [
+          "இனத்தவராக நம்மேல் அன்புடையார் இல்லாத ஊரில் வாழ்தல் துன்பமானது, இனியக் காதலரின் பிரிவு அதை விடத் துன்பமானது.",
+          "நினைத்தாலும் தீராத பெரிய மகிழ்ச்சியைச் செய்தலால் ( உண்டபோது மட்டும் மகிழ்ச்சி தரும் ) கள்ளை விட காமம் இன்பமானதாகும்.",
+          "குவளை மலர்கள் காணும் தன்மைப் பெற்றுக் கண்டால், இவளுடைய கண்களுக்கு தாம் ஒப்பாக வில்லையே என்று தலை கவிழ்ந்து நிலத்தை நோக்கும்.",
+          "நெஞ்சே! நீ அவரிடம் செல்லும்போது என் கண்களையும் உடன் கொண்டு செல்வாயாக; அவரைக் காணவேண்டும் என்று இவை என்னைப் பிடுங்கித் தின்கின்றன."
+        ],
+        "quiz_options_en": [
+          "Bitter is life in friendless place; Worse is parting love's embrace!",
+          "Love is sweeter than wine; for vast Is its delight at very thought",
+          "Lily droops down to ground and says I can't equal the jewelled-one's eyes",
+          "Take these eyes and meet him, O heart Or their hunger will eat me out"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நலம் புனைந்து உரைத்தல்) பகுதியில் குறள் 1114 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: குவளை மலர்கள் காணும் தன்மைப் பெற்றுக் கண்டால், இவளுடைய கண்களுக்கு தாம் ஒப்பாக வில்லையே என்று தலை கவிழ்ந்து நிலத்தை நோக்கும். பரிமேலழகர் உரை நுட்பம்: (பாங்கற்கூட்டத்துச் சென்று சார்தலுறுவான் சொல்லியது.) குவளை - குவளைப் பூக்கள் தாமும்; காணின் - காண்டல் தொழிலையுடையவாயின்; மாண் இழை கண் ஒவ்வேம் என்று கவிழ்ந்து நிலன் நோக்கும் - மாண்ட இழையினை உடையாள் கண்களை யாம் ஒவ்வேம் என்று கருதி அந்நாணினால் இறைஞ்சி நிலத்தினை...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 112: 'The Praise of her Beauty'), Kural 1114 distills a foundational ethical insight: \"The lotus, seeing her, with head demiss, the ground would eye, And say, 'With eyes of her, rich gems who wears, we cannot vie.'\" Philosophically, If the blue lotus could see, it would stoop and look at the ground saying, \"I can never resemble the eyes of this excellent jewelled one.\".",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "family",
+        "speech",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 1115,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அவள் தன் மென்மை அறியாமல் அனிச்ச மலர்களைக் காம்பு களையாமல் சூடினால், அவற்றால் நொந்து வருத்தும் அவளுடைய இடைக்குப் பறைகள் நல்லனவாய் ஒலியா.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: No merry drums will be beaten for the (tender) waist of her who has adorned herself with the anicham without having removed its stem.",
+        "story_title_ta": "நலம் புனைந்து உரைத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Praise of her Beauty — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நலம் புனைந்து உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1115 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1115 from 'The Praise of her Beauty', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: அவளுக்காக நல்லபறை ஒலிக்கவில்லை; ஏனெனில் அவள் இடை ஒடிந்து வீழ்ந்துவிட்டாள்; காரணம், அவள் அனிச்ச மலர்களைக் காம்பு நீக்காமல் தலையில் வைத்துக்கொண்டதுதான்.",
+        "moral_en": "Moral: The flowers of the sensitive plant as a girdle around her she placed; The stems she forgot to nip off; they 'll weigh down the delicate waist.",
+        "game_blank_word_ta": "படாஅ",
+        "game_options_ta": [
+          "நன்னீரை",
+          "அனிச்சமே",
+          "நின்னினும்",
+          "படாஅ"
+        ],
+        "game_options_en": [
+          "Soft blessed anicha flower, hail On whom I dote is softer still",
+          "You can't liken flowers by many eyed, To her bright eyes, O mind dismayed",
+          "The bamboo-shouldered has pearl-like smiles Fragrant breath and lance-like eyes",
+          "Anicha flower with stem she wears To her breaking waist sad-drum-blares!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நலம் புனைந்து உரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1115, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் மனைவி தன் மென்மையை எண்ணாமல் அனிச்சம்பூவை அதன் காம்பின் அடிப்பகுதியைக் களையாமல் அப்படியே சூடிவிட்டாள். அதனால் நொந்து வருந்தும் இவள் இடுப்பிற்கு நல்ல மங்கல ஒலி இனி ஒலிக்காது. கலைஞர் உரை கூறுவது: அவளுக்காக நல்லபறை ஒலிக்கவில்லை; ஏனெனில் அவள் இடை ஒடிந்து வீழ்ந்துவிட்டாள்; காரணம், அவள் அனிச்ச மலர்களைக் காம்பு நீக்காமல் தலையில் வைத்துக்கொண்டதுதான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of her Beauty (Pre-marital Love), Kural 1115 speaks directly to teens navigating studies, friendships, leadership, and digital choices: No merry drums will be beaten for the (tender) waist of her who has adorned herself with the anicham without having removed its stem. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நலம் புனைந்து உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Praise of her Beauty'.",
+        "quiz_question_ta": "'நலம் புனைந்து உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1115 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1115 from Chapter 'The Praise of her Beauty'?",
+        "quiz_options_ta": [
+          "நெருப்பு, தன்னைத் தொட்டால் சுடுமே அல்லாமல் காமநோய் போல் தன்னை விட்டு நீங்கிய பொழுது சுடவல்லதாகுமோ.",
+          "தாம் விரும்புகின்ற காதலர் தம்மை நினைத்தலும் பிரிவால் வரக்கூடிய துன்பம் இல்லாமல் போகின்றது. அதனால் காமம் எவ்வளவாயினும் இன்பம் தருவதே ஆகும்.",
+          "நெஞ்சே! யாம் விரும்பி நாடினாலும் எம்மை நாடாத அவர் நம்மை வெறுத்து விட்டார் என்று எண்ணிக் கைவிட முடியும‌ோ?",
+          "அவள் தன் மென்மை அறியாமல் அனிச்ச மலர்களைக் காம்பு களையாமல் சூடினால், அவற்றால் நொந்து வருத்தும் அவளுடைய இடைக்குப் பறைகள் நல்லனவாய் ஒலியா."
+        ],
+        "quiz_options_en": [
+          "Can fire that burns by touch burn like Parting of the hearts love-sick?",
+          "Pains are off at the lover's thought In all aspects this love is sweet",
+          "He spurns our love and yet, O mind, Can we desert him as unkind?",
+          "Anicha flower with stem she wears To her breaking waist sad-drum-blares!"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நலம் புனைந்து உரைத்தல்) பகுதியில் குறள் 1115 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அவள் தன் மென்மை அறியாமல் அனிச்ச மலர்களைக் காம்பு களையாமல் சூடினால், அவற்றால் நொந்து வருத்தும் அவளுடைய இடைக்குப் பறைகள் நல்லனவாய் ஒலியா. பரிமேலழகர் உரை நுட்பம்: (பகற்குறிக்கண் பூ அணி கண்டு சொல்லியது.) அனிச்சப்பூக் கால் களையாள் பெய்தாள் - இவள் தன் மென்மை கருதாது அனிச்சப்பூவை முகிழ் களையாது சூடினாள்; நுசுப்பிற்கு நல்ல பறை படா - இனி இவள் இடைக்கு நல்ல பறைகள் ஒலியா. (அம் 'முகிழ்ப்பாரம் பொறாமையின் இடை முரியும். முரிந்தால...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 112: 'The Praise of her Beauty'), Kural 1115 distills a foundational ethical insight: \"The flowers of the sensitive plant as a girdle around her she placed; The stems she forgot to nip off; they 'll weigh down the delicate waist\" Philosophically, No merry drums will be beaten for the (tender) waist of her who has adorned herself with the anicham without having removed its stem.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "family",
+        "leadership",
+        "education",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1116,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: விண்மீன்கள் திங்களையும் இவளுடைய முகத்தையும் வேறுபாடு கண்டு அறியமுடியாமல் தம் நிலையில் நிற்காமல் கலங்கித் திரிகின்றன.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The stars have become confused in their places not being able to distinguish between the moon and the maid's countenance.",
+        "story_title_ta": "நலம் புனைந்து உரைத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Praise of her Beauty — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நலம் புனைந்து உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1116 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1116 from 'The Praise of her Beauty', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: மங்கையின் முகத்துக்கும், நிலவுக்கும் வேறுபாடு தெரியாமல் விண்மீன்கள் மயங்கிக் தவிக்கின்றன.",
+        "moral_en": "Moral: The stars perplexed are rushing wildly from their spheres; For like another moon this maiden's face appears.",
+        "game_blank_word_ta": "மதியும்",
+        "game_options_ta": [
+          "மதியும்",
+          "நன்னீரை",
+          "அனிச்சமே",
+          "நின்னினும்"
+        ],
+        "game_options_en": [
+          "Stars are confused to know which is The moon and which is woman's face",
+          "Soft blessed anicha flower, hail On whom I dote is softer still",
+          "You can't liken flowers by many eyed, To her bright eyes, O mind dismayed",
+          "The bamboo-shouldered has pearl-like smiles Fragrant breath and lance-like eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நலம் புனைந்து உரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1116, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அதோ, நிலாவிற்கும் என் மனைவியின் முகத்திற்கும் வேறுபாடு தெரியாது நட்சத்திரங்கள், தாம் இருந்த இடத்திலிருந்து இடம் விட்டுக் கலங்கித் திரிகின்றன! கலைஞர் உரை கூறுவது: மங்கையின் முகத்துக்கும், நிலவுக்கும் வேறுபாடு தெரியாமல் விண்மீன்கள் மயங்கிக் தவிக்கின்றன. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of her Beauty (Pre-marital Love), Kural 1116 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The stars have become confused in their places not being able to distinguish between the moon and the maid's countenance. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நலம் புனைந்து உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Praise of her Beauty'.",
+        "quiz_question_ta": "'நலம் புனைந்து உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1116 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1116 from Chapter 'The Praise of her Beauty'?",
+        "quiz_options_ta": [
+          "விண்மீன்கள் திங்களையும் இவளுடைய முகத்தையும் வேறுபாடு கண்டு அறியமுடியாமல் தம் நிலையில் நிற்காமல் கலங்கித் திரிகின்றன.",
+          "பிரிய முடியாத பிரிவிற்கு உடன்பட்டு,( பிரியும் போது) துன்பத்தால் கலங்குவதையும், விட்டு பிரிந்த பின் பொருத்திருந்து பின்னும் உயிரோடிருந்து வாழ்வோர் உலகில் பலர்.",
+          "தும்மல் வருவது போலிருந்து வாராமல் அடங்குகின்றதே! என் காதலர் என்னை நினைப்பவர் போலிருந்து நினையாமல் விடுகின்றாரோ?",
+          "என் நெஞ்சே! ஊடியபோது கூடி ஊடல் உணர்த்த வல்ல காதலரைக் கண்டபோது நீ பிணங்கி உணர மாட்டாய்; பொய்யான சினங்கொண்டு காய்கினறாய்."
+        ],
+        "quiz_options_en": [
+          "Stars are confused to know which is The moon and which is woman's face",
+          "Many survive pangs of parting Not I this sore so distressing",
+          "To sneeze I tried hence but could not Me he tried to think but did not",
+          "Wrath is false, O heart, face-to face Sans huff, you rush to his sweet embrace"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நலம் புனைந்து உரைத்தல்) பகுதியில் குறள் 1116 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: விண்மீன்கள் திங்களையும் இவளுடைய முகத்தையும் வேறுபாடு கண்டு அறியமுடியாமல் தம் நிலையில் நிற்காமல் கலங்கித் திரிகின்றன. பரிமேலழகர் உரை நுட்பம்: (இரவுக்குறிக்கண் மதி கண்டு சொல்லியது.) மீன் - வானத்து மீன்கள்; மதியும் மடந்தை முகனும் அறியா - வேறுபாடு பெரிதாகவும் தம் மதியினையும் எம்மடந்தை முகத்தினையும் இதுமதி, இதுமுகம் என்று அறியமாட்டாது; பதியின் கலங்கிய - தம் நிலையினின்றும் கலங்கித் திரியா நின்றன...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 112: 'The Praise of her Beauty'), Kural 1116 distills a foundational ethical insight: \"The stars perplexed are rushing wildly from their spheres; For like another moon this maiden's face appears\" Philosophically, The stars have become confused in their places not being able to distinguish between the moon and the maid's countenance.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1117,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: குறைந்த இடமெல்லாம் படிப்படியாக நிறைந்து விளங்குகின்ற திங்களிடம் உள்ளது போல் இந்த மாதர் முகத்தில் களங்கம் உண்டோ.இல்லையே.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Could there be spots in the face of this maid like those in the bright full moon ?",
+        "story_title_ta": "நலம் புனைந்து உரைத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Praise of her Beauty — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நலம் புனைந்து உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1117 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1117 from 'The Praise of her Beauty', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: தேய்ந்தும், வளர்ந்தும் ஒளிபொழியும் நிலவில் உள்ள சிறுகளங்கம்கூட, இந்த மங்கை நல்லாள் முகத்தில் கிடையாதே!",
+        "moral_en": "Moral: In moon, that waxing waning shines, as sports appear, Are any spots discerned in face of maiden here.",
+        "game_blank_word_ta": "மறுவுண்டோ",
+        "game_options_ta": [
+          "நன்னீரை",
+          "மறுவுண்டோ",
+          "அனிச்சமே",
+          "நின்னினும்"
+        ],
+        "game_options_en": [
+          "Soft blessed anicha flower, hail On whom I dote is softer still",
+          "Are there spots on the lady's face Just as in moon that changes phase?",
+          "You can't liken flowers by many eyed, To her bright eyes, O mind dismayed",
+          "The bamboo-shouldered has pearl-like smiles Fragrant breath and lance-like eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நலம் புனைந்து உரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1117, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நட்சத்திரங்கள் ஏன் கலங்க வேண்டும்? தேய்ந்து முழுமை பெறும் ஒளிமிக்க நிலாவில் இருப்பது போல என் மனைவியின் முகத்தில் மறு ஏதும் உண்டா என்ன? கலைஞர் உரை கூறுவது: தேய்ந்தும், வளர்ந்தும் ஒளிபொழியும் நிலவில் உள்ள சிறுகளங்கம்கூட, இந்த மங்கை நல்லாள் முகத்தில் கிடையாதே! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of her Beauty (Pre-marital Love), Kural 1117 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Could there be spots in the face of this maid like those in the bright full moon ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நலம் புனைந்து உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Praise of her Beauty'.",
+        "quiz_question_ta": "'நலம் புனைந்து உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1117 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1117 from Chapter 'The Praise of her Beauty'?",
+        "quiz_options_ta": [
+          "இக் காமநோயைப் பிறர் அறியாமல் யான் மறைப்பேன், ஆனால் இது இறைப்பவர்க்கு ஊற்று நீர் மிகுவது போல் மிகுகின்றது.",
+          "குறைந்த இடமெல்லாம் படிப்படியாக நிறைந்து விளங்குகின்ற திங்களிடம் உள்ளது போல் இந்த மாதர் முகத்தில் களங்கம் உண்டோ.இல்லையே.",
+          "எம்முடைய நெஞ்சில் காதலராகிய அவர் இருக்கின்றாரே! ( அது போலவே) யாமும் அவருடைய நெஞ்சத்தில் நீங்காமல் இருக்கின்றோ‌மோ?",
+          "நல்ல நெஞ்சே! ஒன்று காமத்தை விட்டு விடு; அல்லது நாணத்தை விட்டு விடு; இந்த இரண்டையும் பொறுத்துக் கொண்டிருக்க என்னால் முடியாது."
+        ],
+        "quiz_options_en": [
+          "It swells out like baled out spring How to bear this pain so writhing?",
+          "Are there spots on the lady's face Just as in moon that changes phase?",
+          "Have I a place within his heart? Ah from mine he will never depart",
+          "Off with love O mind, or shame I cannot endure both of them"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நலம் புனைந்து உரைத்தல்) பகுதியில் குறள் 1117 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: குறைந்த இடமெல்லாம் படிப்படியாக நிறைந்து விளங்குகின்ற திங்களிடம் உள்ளது போல் இந்த மாதர் முகத்தில் களங்கம் உண்டோ.இல்லையே. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) (அம்மீன்கள் அங்ஙனம் கலங்குதற்குக் காரணம் யாது?) அறுவாய் நிறைந்த அவிர் மதிக்குப்போல - முன் குறைந்த இடம் வந்து நிரம்பியே விளங்கும் மதிக்கண் போல; மாதர் முகத்து மறு உண்டோ - இம்மாதர் முகத்து மறு உண்டோ? (இடம் - கலை, மதிக்கு என்பது வேற்றுமை மயக்கம...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 112: 'The Praise of her Beauty'), Kural 1117 distills a foundational ethical insight: \"In moon, that waxing waning shines, as sports appear, Are any spots discerned in face of maiden here\" Philosophically, Could there be spots in the face of this maid like those in the bright full moon ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "justice",
+        "speech",
+        "wisdom",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1118,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: திங்களே! இம் மாதரின் முகத்தைப் போல உண்ணால் ஒளி வீச முடியுமானால், நீயும் இவள் போல் என் காதலுக்கு உரிமை பெறுவாய்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If you can indeed shine like the face of women, flourish, O moon, for then would you be worth loving ?",
+        "story_title_ta": "நலம் புனைந்து உரைத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Praise of her Beauty — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நலம் புனைந்து உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1118 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1118 from 'The Praise of her Beauty', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: முழுமதியே! என் காதலுக்குரியவளாக நீயும் ஆக வேண்டுமெனில், என் காதலியின் முகம் போல ஒளிதவழ நீடு வாழ்வாயாக.",
+        "moral_en": "Moral: Farewell, O moon! If that thine orb could shineBright as her face, thou shouldst be love of mine.",
+        "game_blank_word_ta": "ஒளிவிட",
+        "game_options_ta": [
+          "நன்னீரை",
+          "அனிச்சமே",
+          "ஒளிவிட",
+          "நின்னினும்"
+        ],
+        "game_options_en": [
+          "Soft blessed anicha flower, hail On whom I dote is softer still",
+          "You can't liken flowers by many eyed, To her bright eyes, O mind dismayed",
+          "Like my lady's face if you shine All my love to you; hail O moon!",
+          "The bamboo-shouldered has pearl-like smiles Fragrant breath and lance-like eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நலம் புனைந்து உரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1118, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நிலவே! நீ வாழ்க! என் மனைவியின் முகம்போல் நான் மகிழும்படி ஒளிவீசுவாய் என்றால் நீயும் என் காதலைப் பெறுவாய். கலைஞர் உரை கூறுவது: முழுமதியே! என் காதலுக்குரியவளாக நீயும் ஆக வேண்டுமெனில், என் காதலியின் முகம் போல ஒளிதவழ நீடு வாழ்வாயாக. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of her Beauty (Pre-marital Love), Kural 1118 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If you can indeed shine like the face of women, flourish, O moon, for then would you be worth loving ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நலம் புனைந்து உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Praise of her Beauty'.",
+        "quiz_question_ta": "'நலம் புனைந்து உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1118 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1118 from Chapter 'The Praise of her Beauty'?",
+        "quiz_options_ta": [
+          "இக் காமநோயைப் பிறர் அறியாமல் முற்றிலும் மறைக்கவும் முடியவில்லை, நோய் செய்த காதலர்க்குச் சொல்வதும் நாணம் தருகின்றது.",
+          "தம்முடைய நெஞ்சில் எம்மை வரவிடாது காவல் கொண்ட காதலர், எம்முடைய நெஞ்சில் தாம் ஓயாமல் வரவதைப் பற்றி நாணமாட்டாரோ?",
+          "திங்களே! இம் மாதரின் முகத்தைப் போல உண்ணால் ஒளி வீச முடியுமானால், நீயும் இவள் போல் என் காதலுக்கு உரிமை பெறுவாய்.",
+          "என் நெஞ்சே! பிரிவுத் துன்பத்தால் வருந்தி அவர் வந்து அன்பு செய்ய வில்லையே என்று ஏங்கி பிரிந்தவரின் பின் செல்கின்றாய் பேதை."
+        ],
+        "quiz_options_en": [
+          "I can't conceal this nor complain For shame to him who caused this pain",
+          "Shame! My heart often he enters Banning me entry into his",
+          "Like my lady's face if you shine All my love to you; hail O moon!",
+          "Without pity he would depart! You sigh and seek his favour, poor heart!"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நலம் புனைந்து உரைத்தல்) பகுதியில் குறள் 1118 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: திங்களே! இம் மாதரின் முகத்தைப் போல உண்ணால் ஒளி வீச முடியுமானால், நீயும் இவள் போல் என் காதலுக்கு உரிமை பெறுவாய். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) மதி வாழி - மதியே வாழ்வாயாக; மாதர் முகம் போல ஒளி விடவல்லையேல் காதலை - இம்மாதர்முகம் போல யான் மகிழும் வகை ஒளிவீச வல்லையாயின், நீயும் என் காதலையுடையையாதி ('மறு உடைமையின் அது மாட்டாய்; மாட்டாமையின் என்னால் காதலிக்கவும்படாய்', என்பதாம். 'வாழி...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 112: 'The Praise of her Beauty'), Kural 1118 distills a foundational ethical insight: \"Farewell, O moon! If that thine orb could shineBright as her face, thou shouldst be love of mine\" Philosophically, If you can indeed shine like the face of women, flourish, O moon, for then would you be worth loving ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "education",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1119,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: திங்களே! மலர்போன்ற கண்களை உடைய இவளுடைய முகத்தை ஒத்திருக்க விரும்பினால், நீ பலரும் காணும்படியாகத் தோன்றாதே.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: O moon, if you wish to resemble the face of her whose eyes are like (these) flowers, do not appear so as to be seen by all.",
+        "story_title_ta": "நலம் புனைந்து உரைத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Praise of her Beauty — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நலம் புனைந்து உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1119 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1119 from 'The Praise of her Beauty', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நிலவே! முலரனைய கண்களையுடைய என் காதல் மங்கையின் முகத்திற்கு ஒப்பாக நீயிருப்பதாய் பெருமைப்பட்டுக் கொள்ள வேண்டுமேயானால் (அந்தப் போட்டியில் நீ தோல்வியுறாமல் இருந்திட) பலரும் காணும்படியாக நீ தோன்றாது இருப்பதே மேல்.",
+        "moral_en": "Moral: If as her face, whose eyes are flowers, thou wouldst have charms for me, Shine for my eyes alone, O moon, shine not for all to see.",
+        "game_blank_word_ta": "யாயின்",
+        "game_options_ta": [
+          "நன்னீரை",
+          "அனிச்சமே",
+          "நின்னினும்",
+          "யாயின்"
+        ],
+        "game_options_en": [
+          "Soft blessed anicha flower, hail On whom I dote is softer still",
+          "You can't liken flowers by many eyed, To her bright eyes, O mind dismayed",
+          "The bamboo-shouldered has pearl-like smiles Fragrant breath and lance-like eyes",
+          "Like the face of my flower-eyed one If you look, then shine alone O moon!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நலம் புனைந்து உரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1119, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நிலவே மலர் போன்ற கண்ணை உடைய என் மனைவியின் முகம் போல ஆக நீ விரும்பினால் நான் மட்டும் காணத் தோன்று; பலரும் காணும்படி தோன்றாதே. கலைஞர் உரை கூறுவது: நிலவே! முலரனைய கண்களையுடைய என் காதல் மங்கையின் முகத்திற்கு ஒப்பாக நீயிருப்பதாய் பெருமைப்பட்டுக் கொள்ள வேண்டுமேயானால் (அந்தப் போட்டியில் நீ தோல்வியுறாமல் இருந்திட) பலரும் காணும்படியாக நீ தோன்றாது இருப்பதே மேல். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of her Beauty (Pre-marital Love), Kural 1119 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O moon, if you wish to resemble the face of her whose eyes are like (these) flowers, do not appear so as to be seen by all. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நலம் புனைந்து உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Praise of her Beauty'.",
+        "quiz_question_ta": "'நலம் புனைந்து உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1119 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1119 from Chapter 'The Praise of her Beauty'?",
+        "quiz_options_ta": [
+          "துன்பத்தைப் பொருக்காமல் வருந்துகின்ற என் உடம்பினிடத்தில் உயிரே காவடித்தண்டாகக் கொண்டு காமநோயும் நாணமும் இருப்பக்கமாக தொங்குகின்றன.",
+          "காதலராகிய அவரோடு யான் பொருந்தியிருந்த நாட்களை நினைத்துக் கொள்வதால்தான் உயிரோடு இருக்கின்றேன்; வேறு எதனால் உயிர் வாழ்கின்றேன்?",
+          "என் நெஞ்சே! காதலர் உன் உள்ளத்தில் உள்ளவராக இருக்கும்போது நீ அவரை நினைத்து யாரிடம் தேடிச் செல்கின்றாய்?",
+          "திங்களே! மலர்போன்ற கண்களை உடைய இவளுடைய முகத்தை ஒத்திருக்க விரும்பினால், நீ பலரும் காணும்படியாகத் தோன்றாதே."
+        ],
+        "quiz_options_en": [
+          "In life -poles of this wearied frame Are poised the weights of lust and shame",
+          "Beyond the thought of life with him What else of life can I presume?",
+          "The lover lives in Self you know; Whom you think, mind to whom you go?",
+          "Like the face of my flower-eyed one If you look, then shine alone O moon!"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நலம் புனைந்து உரைத்தல்) பகுதியில் குறள் 1119 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: திங்களே! மலர்போன்ற கண்களை உடைய இவளுடைய முகத்தை ஒத்திருக்க விரும்பினால், நீ பலரும் காணும்படியாகத் தோன்றாதே. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) மதி - மதியே; மலர் அன்ன கண்ணாள் முகம் ஒத்தியாயின் -இம்மலர் போலும் கண்ணையுடையாள் முகத்தை நீ ஒக்க வேண்டுதியாயின்; பலர் காணத்தோன்றல் - இதுபோல யான் காணத் தோன்று; பலர் காணத் தோன்றாதொழி. (தானே முகத்தின் நலம் முழுதும் கண்டு அனுபவித்தான் ஆகலின...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 112: 'The Praise of her Beauty'), Kural 1119 distills a foundational ethical insight: \"If as her face, whose eyes are flowers, thou wouldst have charms for me, Shine for my eyes alone, O moon, shine not for all to see\" Philosophically, O moon, if you wish to resemble the face of her whose eyes are like (these) flowers, do not appear so as to be seen by all.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "education",
+        "kindness",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 1120,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அனிச்ச மலரும், அன்னப்பறவையின் இறகும் ஆகிய இவைகள் மாதரின் மெல்லிய அடிகளுக்கு நெருஞ்சிமுள் போன்றவை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The anicham and the feathers of the swan are to the feet of females, like the fruit of the (thorny) Nerunji.",
+        "story_title_ta": "நலம் புனைந்து உரைத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Praise of her Beauty — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நலம் புனைந்து உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1120 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1120 from 'The Praise of her Beauty', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: அனிச்ச மலராயினும், அன்னப்பறவை இறகாயினும் இரண்டுமே நெருஞ்சி முள் தைத்தது போல் துன்புறுத்தக் கூடிய அளவுக்கு, என் காதலியின் காலடிகள்அவ்வளவு மென்மையானவை.",
+        "moral_en": "Moral: The flower of the sensitive plant, and the down on the swan's white breast, As the thorn are harsh, by the delicate feet of this maiden pressed.",
+        "game_blank_word_ta": "அனிச்சமும்",
+        "game_options_ta": [
+          "அனிச்சமும்",
+          "நன்னீரை",
+          "அனிச்சமே",
+          "நின்னினும்"
+        ],
+        "game_options_en": [
+          "The soft flower and the swan's down are Like nettles to the feet of the fair",
+          "Soft blessed anicha flower, hail On whom I dote is softer still",
+          "You can't liken flowers by many eyed, To her bright eyes, O mind dismayed",
+          "The bamboo-shouldered has pearl-like smiles Fragrant breath and lance-like eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நலம் புனைந்து உரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1120, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உலகம் மென்மைக்குச் சொல்லும் அனிச்சம் பூவும், அன்னப் பறவையின் இளஞ்சிறகும், என் மனைவியின் பாதங்களுக்கு நெருஞ்சிப்பழம் போல வருத்தம் தரும். கலைஞர் உரை கூறுவது: அனிச்ச மலராயினும், அன்னப்பறவை இறகாயினும் இரண்டுமே நெருஞ்சி முள் தைத்தது போல் துன்புறுத்தக் கூடிய அளவுக்கு, என் காதலியின் காலடிகள்அவ்வளவு மென்மையானவை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of her Beauty (Pre-marital Love), Kural 1120 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The anicham and the feathers of the swan are to the feet of females, like the fruit of the (thorny) Nerunji. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நலம் புனைந்து உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Praise of her Beauty'.",
+        "quiz_question_ta": "'நலம் புனைந்து உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1120 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1120 from Chapter 'The Praise of her Beauty'?",
+        "quiz_options_ta": [
+          "அனிச்ச மலரும், அன்னப்பறவையின் இறகும் ஆகிய இவைகள் மாதரின் மெல்லிய அடிகளுக்கு நெருஞ்சிமுள் போன்றவை.",
+          "காமநோயாகிய கடல் இருக்கின்றது. ஆனால் அதை நீந்திக்கடந்து செல்வதற்கு வேண்டிய காவலான ‌தோணியோ இல்லை.",
+          "( காதலரை ) மறந்தறியாமல் நினைத்தாலும் உள்ளத்தைப் பிரிவுத் துன்பம் சுடுகின்றதே! நினைக்காமல் மறந்து விட்டால் என்ன ஆவேனோ?",
+          "நம்மோடு பொருந்தி இருக்காமல் கைவிட்டுச சென்ற காதலரை நெஞ்சில் வைத்திருக்கும்போது இன்னும் மெலிந்து அழகை இழந்து வருகின்றோம்."
+        ],
+        "quiz_options_en": [
+          "The soft flower and the swan's down are Like nettles to the feet of the fair",
+          "My lust is a sea; I do not see A raft to go across safely",
+          "What will happen if I forget When his memory burns my heart?",
+          "Without a thought he deserted us To think of him will make us worse"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நலம் புனைந்து உரைத்தல்) பகுதியில் குறள் 1120 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அனிச்ச மலரும், அன்னப்பறவையின் இறகும் ஆகிய இவைகள் மாதரின் மெல்லிய அடிகளுக்கு நெருஞ்சிமுள் போன்றவை. பரிமேலழகர் உரை நுட்பம்: (உடன் போக்கு உரைத்த தோழிக்கு அதனது அருமை கூறி மறுத்தது.) அனிச்சமும் அன்னத்தின் தூவியும் - உலகத்தாரான் மென்மைக்கு எடுக்கப்பட்ட அனிச்சப்பூவும் அன்னப்புள்ளின் சிறகும் ஆகிய இரண்டும்; மாதர் அடிக்கு நெருஞ்சிப்பழம் - மாதரடிக்கு நெருஞ்சிப் பழம்போல வருத்தஞ் செய்யும...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 112: 'The Praise of her Beauty'), Kural 1120 distills a foundational ethical insight: \"The flower of the sensitive plant, and the down on the swan's white breast, As the thorn are harsh, by the delicate feet of this maiden pressed\" Philosophically, The anicham and the feathers of the swan are to the feet of females, like the fruit of the (thorny) Nerunji.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "justice",
+        "speech",
+        "family",
+        "harmony"
+      ]
+    }
+  ]
+}

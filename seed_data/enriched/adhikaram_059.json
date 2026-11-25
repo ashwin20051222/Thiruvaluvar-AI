@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 59,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.989573422+00:00",
+  "kurals": [
+    {
+      "kural_number": 581,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒற்றரும் புகழ் அமைந்த நீதிநூலும் ஆகிய இவ்விருவகைக் கருவிகளையும் அரசன் தன்னுடைய கண்களாகத் தெளியவேணடும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Let a king consider as his eyes these two things, a spy and a book (of laws) universally esteemed.",
+        "story_title_ta": "ஒற்றாடல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Detectives — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'ஒற்றாடல்' என்ற அதிகாரத்திலிருந்து குறள் 581 பற்றிக் கதை சொன்னார். 'ஒற்று, புகழும் தெளிவும் உள்ள நீதிநூல் இவ்விரண்டும் ஆட்சியாளரின் இரு கண் என்று அறிக.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 59, 'Detectives', centered on Kural 581: Let a king consider as his eyes these two things, a spy and a book (of laws) universally esteemed. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நேர்மையும் திறனும் கொண்ட ஒற்றரும், நீதியுரைக்கும் அறநூலும் ஓர் அரசின் கண்களாகக் கருதப்பட வேண்டும்.",
+        "moral_en": "Moral: These two: the code renowned and spies, In these let king confide as eyes.",
+        "game_blank_word_ta": "மன்னவன்",
+        "game_options_ta": [
+          "எல்லார்க்கும்",
+          "மன்னவன்",
+          "எல்லாம்",
+          "நிகழ்பவை"
+        ],
+        "game_options_en": [
+          "All that happens, always, to all The king should know in full detail",
+          "A king should treat these two as eyes The code of laws and careful spies",
+          "Conquests are not for the monarch Who cares not for the Spy's remark",
+          "His officers, kinsmen and foes Who watch keenly are worthy spies"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒற்றாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 581, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒற்று, புகழும் தெளிவும் உள்ள நீதிநூல் இவ்விரண்டும் ஆட்சியாளரின் இரு கண் என்று அறிக. கலைஞர் உரை கூறுவது: நேர்மையும் திறனும் கொண்ட ஒற்றரும், நீதியுரைக்கும் அறநூலும் ஓர் அரசின் கண்களாகக் கருதப்பட வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Detectives (Royalty & Polity), Kural 581 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let a king consider as his eyes these two things, a spy and a book (of laws) universally esteemed. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'ஒற்றாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Detectives' thoughtfully.",
+        "quiz_question_ta": "'ஒற்றாடல்' அதிகாரத்தில் வரும் திருக்குறள் 581 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 581 from Chapter 'Detectives'?",
+        "quiz_options_ta": [
+          "விடாமல் மேன் மேலும் துன்பம் வந்தபோதிலும் கலங்காமலிருக்கும் ஆற்றலுடையவன் அடைந்த துன்பமே துன்பப்பட்டு போகும்.",
+          "ஒற்றரும் புகழ் அமைந்த நீதிநூலும் ஆகிய இவ்விருவகைக் கருவிகளையும் அரசன் தன்னுடைய கண்களாகத் தெளியவேணடும்.",
+          "மனம் தளராமல் ஆராய்ந்து துணிந்து ஏற்றத் தொழிலைச் சோர்வு கொள்ளாமல் காலந் தாழ்த்தாமல் செய்து முடிக்க வேண்டும்.",
+          "சொற்களின் தொகுதி அறிந்த தூய்மை உடையவர், அவைக்களத்தின் தன்மை அறிந்து ஏற்றச் சொற்களை ஆராய்ந்து சொல்ல வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Before the brave grief grieves and goes Who dare a host of pressing woes",
+          "A king should treat these two as eyes The code of laws and careful spies",
+          "Waver not; do wakefully The deed resolved purposefully",
+          "The pure in thought and eloquence Adapt their words to audience"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (ஒற்றாடல்) பகுதியில் குறள் 581 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒற்றரும் புகழ் அமைந்த நீதிநூலும் ஆகிய இவ்விருவகைக் கருவிகளையும் அரசன் தன்னுடைய கண்களாகத் தெளியவேணடும். பரிமேலழகர் உரை நுட்பம்: ஒற்றும் உரைசான்ற நூலும் இவை இரண்டும் - ஒற்றும் புகழமைந்த நீதிநூலுமாகிய இவை இரண்டனையும்; மன்னவன்கண் தெற்றென்க - அரசன் தன் இரண்டு கண்ணுமாகத் தெளிக. (ஒற்றுத் தன் கண் செல்லமாட்டாத பரப்பெலாம் சென்று கண்டு ஆண்டு நிகழ்ந்தன எல்லாம் உணர்த்தலானும், நூல...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 59: 'Detectives'), Kural 581 distills a foundational ethical insight: \"These two: the code renowned and spies, In these let king confide as eyes\" Philosophically, Let a king consider as his eyes these two things, a spy and a book (of laws) universally esteemed.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "justice",
+        "family",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 582,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: எல்லாரிடத்திலும் நிகழ்கின்றவை எல்லாவற்றையும் எக்காலத்திலும் (ஒற்றரைக் கொண்டு) விரைந்து அறிதல் அரசனுக்குரிய தொழிலாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: 'Tis duty of the king to learn with speed.",
+        "story_title_ta": "ஒற்றாடல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Detectives — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'ஒற்றாடல்' என்ற அதிகாரத்திலிருந்து குறள் 582 பற்றிக் கதை சொன்னார். 'பகைவர், நண்பர், பொதுவானவர் என எல்லாரிடத்திலும் நிகழ்வான எல்லாவற்றையும், எப்போதும் ஒற்றால் விரைந்து அறிந்து கொள்ள வேண்டியது அரசின் வேலை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 59, 'Detectives', centered on Kural 582: 'Tis duty of the king to learn with speed. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நண்பர், பகைவர், நடுநிலையாளர் ஆகிய எல்லாரிடத்திலும் நிகழும் எல்லா நிகழ்வுகளையும், எல்லாக் காலங்களிலும் ஒற்றரைக் கொண்டு விரைவாக அறிந்து கொள்வது அரசுக்குரிய கடமையாகும்.",
+        "moral_en": "Moral: Each day, of every subject every deed,'Tis duty of the king to learn with speed.",
+        "game_blank_word_ta": "எல்லாம்",
+        "game_options_ta": [
+          "ஒற்றும்",
+          "உரைசான்ற",
+          "எல்லாம்",
+          "நூலும்"
+        ],
+        "game_options_en": [
+          "A king should treat these two as eyes The code of laws and careful spies",
+          "Conquests are not for the monarch Who cares not for the Spy's remark",
+          "All that happens, always, to all The king should know in full detail",
+          "His officers, kinsmen and foes Who watch keenly are worthy spies"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒற்றாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 582, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகைவர், நண்பர், பொதுவானவர் என எல்லாரிடத்திலும் நிகழ்வான எல்லாவற்றையும், எப்போதும் ஒற்றால் விரைந்து அறிந்து கொள்ள வேண்டியது அரசின் வேலை. கலைஞர் உரை கூறுவது: நண்பர், பகைவர், நடுநிலையாளர் ஆகிய எல்லாரிடத்திலும் நிகழும் எல்லா நிகழ்வுகளையும், எல்லாக் காலங்களிலும் ஒற்றரைக் கொண்டு விரைவாக அறிந்து கொள்வது அரசுக்குரிய கடமையாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Detectives (Royalty & Polity), Kural 582 speaks directly to teens navigating studies, friendships, leadership, and digital choices: 'Tis duty of the king to learn with speed. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'ஒற்றாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Detectives' thoughtfully.",
+        "quiz_question_ta": "'ஒற்றாடல்' அதிகாரத்தில் வரும் திருக்குறள் 582 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 582 from Chapter 'Detectives'?",
+        "quiz_options_ta": [
+          "செல்வம் வந்த போது இதைப்பெற்றோமே என்று பற்றுக்கொண்டு காத்தறியாதவர் வறுமை வந்த போது இழந்தோமே என்று அல்லல்படுவரோ.",
+          "(முடிவில்) இன்பம் கொடுக்கும் தொழிலைச் செய்யும் போது துன்பம் மிக வந்த போதிலும் துணிவு மேற்கொண்டு செய்து முடிக்க வேண்டும்.",
+          "எல்லாரிடத்திலும் நிகழ்கின்றவை எல்லாவற்றையும் எக்காலத்திலும் (ஒற்றரைக் கொண்டு) விரைந்து அறிதல் அரசனுக்குரிய தொழிலாகும்.",
+          "சொற்களின் தன்மையை ஆராய்ந்த நன்மை உடையவர், அவையின் செவ்வியை ஆராய்ந்து நன்றாக உணர்ந்து சொல்ல வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "The wise that never gloat in gain Do not fret in fateful ruin",
+          "Do with firm will though pains beset The deed that brings delight at last",
+          "All that happens, always, to all The king should know in full detail",
+          "Who know the art of speech shall suit Their chosen words to time in fact"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (ஒற்றாடல்) பகுதியில் குறள் 582 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எல்லாரிடத்திலும் நிகழ்கின்றவை எல்லாவற்றையும் எக்காலத்திலும் (ஒற்றரைக் கொண்டு) விரைந்து அறிதல் அரசனுக்குரிய தொழிலாகும். பரிமேலழகர் உரை நுட்பம்: எல்லார்க்கும் நிகழ்பவை எல்லாம் எஞ்ஞான்றும் வல்அறிதல் - எல்லார்கண்ணும் நிகழ்வன எல்லாவற்றையும் நாள்தோறும் ஒற்றான் விரைந்தறிதல்; வேந்தன் தொழில் - அரசனுக்கு உரிய தொழில். ('எல்லார்க்கும்' என்றது மூன்று திறத்தாரையும். நான்காவது ஏழாவதன் பொருட்கண் வந்தது. 'நிகழ்வன...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 59: 'Detectives'), Kural 582 distills a foundational ethical insight: \"Each day, of every subject every deed,'Tis duty of the king to learn with speed\" Philosophically, 'Tis duty of the king to learn with speed.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "family",
+        "ethics",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 583,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒற்றரால் (நாட்டு நிகழ்ச்சிகளை) அறிந்து அவற்றின் பயனை ஆராய்ந்துணராத அரசன் வெற்றிபெறத்தக்க வழி வேறு இல்லை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: There is no way for a king to obtain conquests, who knows not the advantage of discoveries made by a spy.",
+        "story_title_ta": "ஒற்றாடல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Detectives — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'ஒற்றாடல்' என்ற அதிகாரத்திலிருந்து குறள் 583 பற்றிக் கதை சொன்னார். 'எல்லார் இடத்தும் நிகழ்வனவற்றை ஒற்றரைக் கொண்டு அறிந்து, நடப்பை தெரிந்து கொள்ளாத ஆட்சி, நிலைத்து வெற்றி பெற வேறொரு வழியே இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 59, 'Detectives', centered on Kural 583: There is no way for a king to obtain conquests, who knows not the advantage of discoveries made by a spy. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நாட்டு நிலவரத்தை ஒற்றர்களைக் கொண்டு அறிந்து அதன் விளைவுகளை ஆராய்ந்து நடந்திடாத அரசின் கொற்றம் தழைத்திட வழியே இல்லை.",
+        "moral_en": "Moral: By spies who spies, not weighing things they bring, Nothing can victory give to that unwary king.",
+        "game_blank_word_ta": "ஒற்றிப்",
+        "game_options_ta": [
+          "ஒற்றும்",
+          "உரைசான்ற",
+          "நூலும்",
+          "ஒற்றிப்"
+        ],
+        "game_options_en": [
+          "A king should treat these two as eyes The code of laws and careful spies",
+          "All that happens, always, to all The king should know in full detail",
+          "His officers, kinsmen and foes Who watch keenly are worthy spies",
+          "Conquests are not for the monarch Who cares not for the Spy's remark"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒற்றாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 583, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எல்லார் இடத்தும் நிகழ்வனவற்றை ஒற்றரைக் கொண்டு அறிந்து, நடப்பை தெரிந்து கொள்ளாத ஆட்சி, நிலைத்து வெற்றி பெற வேறொரு வழியே இல்லை. கலைஞர் உரை கூறுவது: நாட்டு நிலவரத்தை ஒற்றர்களைக் கொண்டு அறிந்து அதன் விளைவுகளை ஆராய்ந்து நடந்திடாத அரசின் கொற்றம் தழைத்திட வழியே இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Detectives (Royalty & Polity), Kural 583 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is no way for a king to obtain conquests, who knows not the advantage of discoveries made by a spy. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'ஒற்றாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Detectives' thoughtfully.",
+        "quiz_question_ta": "'ஒற்றாடல்' அதிகாரத்தில் வரும் திருக்குறள் 583 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 583 from Chapter 'Detectives'?",
+        "quiz_options_ta": [
+          "மேலோர், உடம்பு துன்பத்திற்கு இலக்கமானது என்று உணர்ந்து, (துன்பம் வந்த போது) கலங்குவதை ஒழுக்க நெறியாகக் கொள்ளமாட்டர்.",
+          "வேறு எத்தகைய உறுதி உடையவராக இருந்தாலும், செய்யும் தொழிலில் உறுதி இல்லாதவரை உலகம் விரும்பிப் போற்றாது.",
+          "அவையின் தன்மை அறியாமல் சொல்லுதலை மேற்கொள்கின்றவர், சொற்களின் வகை அறியாதவரே, அவர் சொல்லவல்லதும் இல்லை.",
+          "ஒற்றரால் (நாட்டு நிகழ்ச்சிகளை) அறிந்து அவற்றின் பயனை ஆராய்ந்துணராத அரசன் வெற்றிபெறத்தக்க வழி வேறு இல்லை."
+        ],
+        "quiz_options_en": [
+          "The wise worry no more of woes Knowing body's butt of sorrows",
+          "The world merits no other strength But strength of will-to-do at length",
+          "They speak in vain at length who talk Words unversed which ears don't take",
+          "Conquests are not for the monarch Who cares not for the Spy's remark"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (ஒற்றாடல்) பகுதியில் குறள் 583 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒற்றரால் (நாட்டு நிகழ்ச்சிகளை) அறிந்து அவற்றின் பயனை ஆராய்ந்துணராத அரசன் வெற்றிபெறத்தக்க வழி வேறு இல்லை. பரிமேலழகர் உரை நுட்பம்: ஒற்றினான் ஒற்றிப் பொருள் தெரியா மன்னவன் - ஒற்றினானே எல்லார்கண்ணும் நிகழ்ந்தவற்றை ஒற்றுவித்து அவற்றான் எய்தும் பயனை ஆராயாத அரசன்; கொற்றம் கொளக் கிடந்தது இல் - வென்றியடையக் கிடந்தது வேறொரு நெறி இல்லை. (அந்நிகழ்ந்தனவும் பயனும் அறியாது பகைக்கு எளியனாதல் பிறிதின...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 59: 'Detectives'), Kural 583 distills a foundational ethical insight: \"By spies who spies, not weighing things they bring, Nothing can victory give to that unwary king\" Philosophically, There is no way for a king to obtain conquests, who knows not the advantage of discoveries made by a spy.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "wealth",
+        "time",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 584,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தம்முடைய தொழிலைச் செய்கின்றவர், தம் சுற்றத்தார், தம் பகைவர் என்றுக்கூறப்படும் எல்லாரையும் ஆராய்வதே ஒற்றரின் தொழிலாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: He is a spy who watches all men, to wit, those who are in the king's employment, his relatives, and his enemies.",
+        "story_title_ta": "ஒற்றாடல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Detectives — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'ஒற்றாடல்' என்ற அதிகாரத்திலிருந்து குறள் 584 பற்றிக் கதை சொன்னார். 'அரசுப் பணியாளர், ஆளும் கட்சி, அதன் எதிர்கட்சியினர், அயலவர் என்று அனைவரின் சொல், செயல் கொண்டு அவர்தம் மனக்கருத்தை அறிபவரே ஒற்றர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 59, 'Detectives', centered on Kural 584: He is a spy who watches all men, to wit, those who are in the king's employment, his relatives, and his enemies. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஓர் அரசில் உளவறியும் ஒற்றர் வேலை பார்ப்பவர்கள், வேண்டியவர், வேண்டாதவர், சுற்றத்தார் என்றெல்லாம் பாகுபாடு கருதாமல் பணிபுரிந்தால்தான் அவர்களை நேர்மையான ஒற்றர்கள் எனக் கூற முடியும்.",
+        "moral_en": "Moral: His officers, his friends, his enemies, All these who watch are trusty spies.",
+        "game_blank_word_ta": "என்றாங்கு",
+        "game_options_ta": [
+          "என்றாங்கு",
+          "ஒற்றும்",
+          "உரைசான்ற",
+          "நூலும்"
+        ],
+        "game_options_en": [
+          "His officers, kinsmen and foes Who watch keenly are worthy spies",
+          "A king should treat these two as eyes The code of laws and careful spies",
+          "All that happens, always, to all The king should know in full detail",
+          "Conquests are not for the monarch Who cares not for the Spy's remark"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒற்றாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 584, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அரசுப் பணியாளர், ஆளும் கட்சி, அதன் எதிர்கட்சியினர், அயலவர் என்று அனைவரின் சொல், செயல் கொண்டு அவர்தம் மனக்கருத்தை அறிபவரே ஒற்றர். கலைஞர் உரை கூறுவது: ஓர் அரசில் உளவறியும் ஒற்றர் வேலை பார்ப்பவர்கள், வேண்டியவர், வேண்டாதவர், சுற்றத்தார் என்றெல்லாம் பாகுபாடு கருதாமல் பணிபுரிந்தால்தான் அவர்களை நேர்மையான ஒற்றர்கள் எனக் கூற முடியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Detectives (Royalty & Polity), Kural 584 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He is a spy who watches all men, to wit, those who are in the king's employment, his relatives, and his enemies. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'ஒற்றாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Detectives' thoughtfully.",
+        "quiz_question_ta": "'ஒற்றாடல்' அதிகாரத்தில் வரும் திருக்குறள் 584 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 584 from Chapter 'Detectives'?",
+        "quiz_options_ta": [
+          "தம்முடைய தொழிலைச் செய்கின்றவர், தம் சுற்றத்தார், தம் பகைவர் என்றுக்கூறப்படும் எல்லாரையும் ஆராய்வதே ஒற்றரின் தொழிலாகும்.",
+          "இன்பமானதை விரும்பாதவனாய்த் துன்பம் இயற்கையானது என்று தெளிந்திருப்பவன், துன்பம் வந்த போது துன்ப முறுவது இல்லை.",
+          "ஆராய்ந்து எண்ணுவதற்கு எல்லை துணிவு கொள்வதே ஆகும், அவ்வாறு கொண்ட துணிவு காலந் தாழ்த்து நிற்பது குற்றமாகும்.",
+          "அறிவிற் சிறந்தவரின் முன் தானும் அறிவிற் சிறந்தவராக நடந்து கொள்ள வேண்டும், அறிவில்லாதவர் முன் தாமும் வெண் கண்ணம் போல் அறிவில்லாதவராய் இருக்க வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "His officers, kinsmen and foes Who watch keenly are worthy spies",
+          "Who seek not joy, deem grief norm By sorrows do not come to harm",
+          "When counsel takes a resolve strong Weak delay of action is wrong",
+          "Before the bright be brilliant light Before the muff be mortar white"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (ஒற்றாடல்) பகுதியில் குறள் 584 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம்முடைய தொழிலைச் செய்கின்றவர், தம் சுற்றத்தார், தம் பகைவர் என்றுக்கூறப்படும் எல்லாரையும் ஆராய்வதே ஒற்றரின் தொழிலாகும். பரிமேலழகர் உரை நுட்பம்: தம் வினை செய்வார் சுற்றம் வேண்டாதார் என்ற அனைவரையும் ஆராய்வது - தம் காரியம் செய்வார் சுற்றத்தார், பகைவர் என்று சொல்லப்பட்ட அனைவரையும் சொல் செயல்களான் ஆராய்வானே; ஒற்று - ஒற்றனாவான். ('தம்' என்றது, அரசனோடு உளப்படுத்தி. அவனுக்குக்காரியம் செய்வார் செய்வனவும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 59: 'Detectives'), Kural 584 distills a foundational ethical insight: \"His officers, his friends, his enemies, All these who watch are trusty spies\" Philosophically, He is a spy who watches all men, to wit, those who are in the king's employment, his relatives, and his enemies.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "courage",
+        "leadership",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 585,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஐயுற முடியாத உருவத்தோடு, பார்த்தவருடைய கண் பார்வைக்கு அஞ்சாமல் எவ்விடத்திலும் மனதிலுள்ளதை வெளிப்படுத்தாமல் இருக்க வல்லவனே ஒற்றன் ஆவன்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: A spy is one who is able to assume an appearance which may create no suspicion (in the minds of others), who fears no man's face, and who never reveals (his purpose).",
+        "story_title_ta": "ஒற்றாடல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Detectives — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'ஒற்றாடல்' என்ற அதிகாரத்திலிருந்து குறள் 585 பற்றிக் கதை சொன்னார். 'பிறர் சந்தேகப்படாத வேடத்‌தோடு சென்று, சந்தேகப்பட்டுச் சினந்தால் அஞ்சாது நின்று, சாமதானபேத தண்டம் என எந்த உபாயம் செய்தாலும் ரகசியத்தைச் சொல்லாத வல்லமை பெற்றவரே ஒற்றர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 59, 'Detectives', centered on Kural 585: A spy is one who is able to assume an appearance which may create no suspicion (in the minds of others), who fears no man's face, and who never reveals (his purpose). Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சந்தேகப்பட முடியாத தோற்றத்துடனும் அப்படிச் சந்தேகப்பட்டுப் பார்ப்பவர்களுக்கு அஞ்சாமலும், என்ன நேர்ந்தாலும் மனத்தில் உள்ளதை வெளிப்படுத்தாமலும் உள்ளவர்களே ஒற்றர்களாகப் பணியாற்ற முடியும்.",
+        "moral_en": "Moral: Of unsuspected mien and all-unfearing eyes, Who let no secret out, are trusty spies.",
+        "game_blank_word_ta": "உகாஅமை",
+        "game_options_ta": [
+          "ஒற்றும்",
+          "உகாஅமை",
+          "உரைசான்ற",
+          "நூலும்"
+        ],
+        "game_options_en": [
+          "A king should treat these two as eyes The code of laws and careful spies",
+          "Fearless gaze, suspectless guise Guarding secrets mark the spies",
+          "All that happens, always, to all The king should know in full detail",
+          "Conquests are not for the monarch Who cares not for the Spy's remark"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒற்றாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 585, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர் சந்தேகப்படாத வேடத்‌தோடு சென்று, சந்தேகப்பட்டுச் சினந்தால் அஞ்சாது நின்று, சாமதானபேத தண்டம் என எந்த உபாயம் செய்தாலும் ரகசியத்தைச் சொல்லாத வல்லமை பெற்றவரே ஒற்றர். கலைஞர் உரை கூறுவது: சந்தேகப்பட முடியாத தோற்றத்துடனும் அப்படிச் சந்தேகப்பட்டுப் பார்ப்பவர்களுக்கு அஞ்சாமலும், என்ன நேர்ந்தாலும் மனத்தில் உள்ளதை வெளிப்படுத்தாமலும் உள்ளவர்களே ஒற்றர்களாகப் பணியாற்ற முடியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Detectives (Royalty & Polity), Kural 585 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A spy is one who is able to assume an appearance which may create no suspicion (in the minds of others), who fears no man's face, and who never reveals (his purpose). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'ஒற்றாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Detectives' thoughtfully.",
+        "quiz_question_ta": "'ஒற்றாடல்' அதிகாரத்தில் வரும் திருக்குறள் 585 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 585 from Chapter 'Detectives'?",
+        "quiz_options_ta": [
+          "இன்பம் வந்திக் காலத்தில் அந்த இன்பத்தை விரும்பிப் போற்றாதவன் துன்பம் வந்த காலத்தில் அந்தத் துன்பத்தை அடைவது இல்லை.",
+          "ஐயுற முடியாத உருவத்தோடு, பார்த்தவருடைய கண் பார்வைக்கு அஞ்சாமல் எவ்விடத்திலும் மனதிலுள்ளதை வெளிப்படுத்தாமல் இருக்க வல்லவனே ஒற்றன் ஆவன்.",
+          "காலந்தாழ்த்தி செய்யத் தக்கவற்றைக் காலந்தாழ்ந்தே செய்ய வேண்டும், காலந்தாழ்த்தாமல் விரைந்து செய்யவேண்டிய செயல்களைச் செய்ய காலந்தாழ்த்தக் கூடாது.",
+          "அறிவு மிகுந்தவரிடையே முந்திச் சென்று பேசாத அடக்கம் ஒருவனுக்கு நன்மை என்று சொல்லப்பட்டவை எல்லாவற்றிலும நல்லது."
+        ],
+        "quiz_options_en": [
+          "In joy to joy who is not bound In grief he grieves not dual round!",
+          "Fearless gaze, suspectless guise Guarding secrets mark the spies",
+          "Delay such acts as need delay Delay not acts that need display",
+          "Modest restraint all good excels Which argues not before elders"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (ஒற்றாடல்) பகுதியில் குறள் 585 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஐயுற முடியாத உருவத்தோடு, பார்த்தவருடைய கண் பார்வைக்கு அஞ்சாமல் எவ்விடத்திலும் மனதிலுள்ளதை வெளிப்படுத்தாமல் இருக்க வல்லவனே ஒற்றன் ஆவன். பரிமேலழகர் உரை நுட்பம்: கடாஅ உருவொடு - ஒற்றப்பட்டார் கண்டால் ஐயுறாத வடிவோடு பொருந்தி; கண் அஞ்சாது - அவர் ஐயுற்று அறியலுறின் செயிர்த்து நோக்கிய அவர் கண்ணிற்கு அஞ்சாது நின்று; யாண்டும் உகாஅமைவல்லதே ஒற்று - நான்கு உபாயமும் செய்தாலும் மனத்துக் கொண்டவற்றை உமிழாமை வல்லனே ஒற்றனாவான...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 59: 'Detectives'), Kural 585 distills a foundational ethical insight: \"Of unsuspected mien and all-unfearing eyes, Who let no secret out, are trusty spies\" Philosophically, A spy is one who is able to assume an appearance which may create no suspicion (in the minds of others), who fears no man's face, and who never reveals (his purpose).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "love",
+        "education",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 586,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: துறந்தவரின் வடிவத்தை உடையவராய், அறிய இடங்களிலெல்லாம் சென்று ஆராய்ந்து (ஐயுற்றவர்) என்ன செய்தாலும் சோர்ந்து விடாதவரே ஒற்றர் ஆவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: He is a spy who, assuming the appearance of an ascetic, goes into (whatever place he wishes), examines into (all, that is needful), and never discovers himself, whatever may be done to him.",
+        "story_title_ta": "ஒற்றாடல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Detectives — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'ஒற்றாடல்' என்ற அதிகாரத்திலிருந்து குறள் 586 பற்றிக் கதை சொன்னார். 'செல்ல முடியாத இடங்களுக்கும் கூடத் துறவியர் வேடத்தில் சென்று, அறிய வேண்டுவற்றை அறிந்து, அங்கே பிடிபட்டால், பிடித்தவர் எத்தகைய துன்பம் செய்தாலும் ரகசியத்தைச் சொல்லாதவரே ஒற்றர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 59, 'Detectives', centered on Kural 586: He is a spy who, assuming the appearance of an ascetic, goes into (whatever place he wishes), examines into (all, that is needful), and never discovers himself, whatever may be done to him. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஆராய்ந்திட வந்த நிகழ்வில் தொடர்பற்றவரைப் போலக் காட்டிக்கொண்டு, அதனைத் தீர ஆராய்ந்து, அதில் எத்துணைத் துன்பம் வரினும் தாங்கிக் கொண்டு, தம்மை யாரென்று வெளிப்படுத்திக் கொள்ளாதவரே சிறந்த ஒற்றர்.",
+        "moral_en": "Moral: As monk or devotee, through every hindrance making way, A spy, whate'er men do, must watchful mind display.",
+        "game_blank_word_ta": "சோர்விலது",
+        "game_options_ta": [
+          "ஒற்றும்",
+          "உரைசான்ற",
+          "சோர்விலது",
+          "நூலும்"
+        ],
+        "game_options_en": [
+          "A king should treat these two as eyes The code of laws and careful spies",
+          "All that happens, always, to all The king should know in full detail",
+          "Guised as monks they gather secrets They betray them not under threats",
+          "Conquests are not for the monarch Who cares not for the Spy's remark"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒற்றாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 586, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செல்ல முடியாத இடங்களுக்கும் கூடத் துறவியர் வேடத்தில் சென்று, அறிய வேண்டுவற்றை அறிந்து, அங்கே பிடிபட்டால், பிடித்தவர் எத்தகைய துன்பம் செய்தாலும் ரகசியத்தைச் சொல்லாதவரே ஒற்றர். கலைஞர் உரை கூறுவது: ஆராய்ந்திட வந்த நிகழ்வில் தொடர்பற்றவரைப் போலக் காட்டிக்கொண்டு, அதனைத் தீர ஆராய்ந்து, அதில் எத்துணைத் துன்பம் வரினும் தாங்கிக் கொண்டு, தம்மை யாரென்று வெளிப்படுத்திக் கொள்ளாதவரே சிறந்த ஒற்றர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Detectives (Royalty & Polity), Kural 586 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He is a spy who, assuming the appearance of an ascetic, goes into (whatever place he wishes), examines into (all, that is needful), and never discovers himself, whatever may be done to him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'ஒற்றாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Detectives' thoughtfully.",
+        "quiz_question_ta": "'ஒற்றாடல்' அதிகாரத்தில் வரும் திருக்குறள் 586 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 586 from Chapter 'Detectives'?",
+        "quiz_options_ta": [
+          "ஒருவன் துன்பத்தையே தனக்கு இன்பமாகக் கருதிக்கொள்வானானால் அவனுடைய பகைவரும் விரும்பத்தக்க சிறப்பு உண்டாகும்.",
+          "இயலுமிடத்தில் எல்லாம் செயலைச் செய்து முடித்தல் நல்லது, இயலாவில்லையானால் பயன்படும் இடம் நோக்கியாவது செய்ய வேண்டும்.",
+          "துறந்தவரின் வடிவத்தை உடையவராய், அறிய இடங்களிலெல்லாம் சென்று ஆராய்ந்து (ஐயுற்றவர்) என்ன செய்தாலும் சோர்ந்து விடாதவரே ஒற்றர் ஆவர்.",
+          "விரிவான அறிவுத்துறைகளை அறிந்து உணர்கின்றவரின் முன்னே குற்றப்படுதல், ஒழுக்கநெறியிலிருந்து நிலைத் தளர்ந்து கெடுவதைப் போன்றதாகும்."
+        ],
+        "quiz_options_en": [
+          "His glory is esteemed by foes Who sees weal in wanton woes!",
+          "It's best to act when feasible If not see what is possible",
+          "Guised as monks they gather secrets They betray them not under threats",
+          "Tongue-slip before the talented wise is like slipping from righteous ways"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (ஒற்றாடல்) பகுதியில் குறள் 586 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: துறந்தவரின் வடிவத்தை உடையவராய், அறிய இடங்களிலெல்லாம் சென்று ஆராய்ந்து (ஐயுற்றவர்) என்ன செய்தாலும் சோர்ந்து விடாதவரே ஒற்றர் ஆவர். பரிமேலழகர் உரை நுட்பம்: துறந்தார் படிவத்தர் ஆகி இறந்து ஆராய்ந்து - முற்றும் துறந்தாராயும் விரதஒழுக்கினராயும் உள்புகுதற்கு அரிய இடங்களெல்லாம் உள்புக்கு ஆராயவேண்டுவன ஆராய்ந்தறிந்து; என் செயினும் சோர்வு இலது ஒற்று - ஆண்டையார் ஐயுற்றுப் பிடித்து எல்லாத்துன்பமும் செய்து கேட்டாலும் தன்னை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 59: 'Detectives'), Kural 586 distills a foundational ethical insight: \"As monk or devotee, through every hindrance making way, A spy, whate'er men do, must watchful mind display\" Philosophically, He is a spy who, assuming the appearance of an ascetic, goes into (whatever place he wishes), examines into (all, that is needful), and never discovers himself, whatever may be done to him.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "self-mastery",
+        "education",
+        "family",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 587,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மறைந்த செய்திகளையும் கேட்டறிய வல்லவனாய் அறிந்த செய்திகளை ஐயப்படாமல் துணிய வல்லவனாய் உள்ளவனே ஒற்றன் ஆவான்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: A spy is one who is able to discover what is hidden and who retains no doubt concerning what he has known.",
+        "story_title_ta": "ஒற்றாடல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Detectives — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'ஒற்றாடல்' என்ற அதிகாரத்திலிருந்து குறள் 587 பற்றிக் கதை சொன்னார். 'ரகசியமாக நடந்த செயல்களையும் அவற்றைச் செய்தவர் வாயாலேயே கேட்டு அறியும் ஆற்றல் படைத்தவராய், கேட்டவற்றுள் எத்தகைய சந்தேகமும் இல்லாதவராய் இருப்பவரே ஒற்றர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 59, 'Detectives', centered on Kural 587: A spy is one who is able to discover what is hidden and who retains no doubt concerning what he has known. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மற்றவர்கள் மறைவாகக் கூடிச்செய்யும் காரியங்களை, அவர்களுடன் இருப்பவர் வாயிலாகக் கேட்டறிந்து அவற்றின் உண்மையைத் தெளிவாகத் தெரிந்து கொள்வதே உளவறியும் திறனாகும்.",
+        "moral_en": "Moral: A spy must search each hidden matter out, And full report must render, free from doubt.",
+        "game_blank_word_ta": "ஒற்று",
+        "game_options_ta": [
+          "ஒற்றும்",
+          "உரைசான்ற",
+          "நூலும்",
+          "ஒற்று"
+        ],
+        "game_options_en": [
+          "A king should treat these two as eyes The code of laws and careful spies",
+          "All that happens, always, to all The king should know in full detail",
+          "Conquests are not for the monarch Who cares not for the Spy's remark",
+          "A spy draws out other's secrets Beyond a doubt he clears his facts"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒற்றாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 587, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ரகசியமாக நடந்த செயல்களையும் அவற்றைச் செய்தவர் வாயாலேயே கேட்டு அறியும் ஆற்றல் படைத்தவராய், கேட்டவற்றுள் எத்தகைய சந்தேகமும் இல்லாதவராய் இருப்பவரே ஒற்றர். கலைஞர் உரை கூறுவது: மற்றவர்கள் மறைவாகக் கூடிச்செய்யும் காரியங்களை, அவர்களுடன் இருப்பவர் வாயிலாகக் கேட்டறிந்து அவற்றின் உண்மையைத் தெளிவாகத் தெரிந்து கொள்வதே உளவறியும் திறனாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Detectives (Royalty & Polity), Kural 587 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A spy is one who is able to discover what is hidden and who retains no doubt concerning what he has known. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'ஒற்றாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Detectives' thoughtfully.",
+        "quiz_question_ta": "'ஒற்றாடல்' அதிகாரத்தில் வரும் திருக்குறள் 587 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 587 from Chapter 'Detectives'?",
+        "quiz_options_ta": [
+          "செயலுக்கு உரிய கருவியும், ஏற்றக் காலமும், செய்யும் வகையும் செய்யப்படும் அறியச் செயலும் சிறப்படையச் செய்ய வல்லவன் அமைச்சன்.",
+          "செய்யத்தொடங்கியச் செயல், கொண்ட பகை என்று இவ்விரண்டின் குறை ஆராய்ந்து பார்த்தால், தீயின் குறைபோல் தெரியாமல் வளர்ந்து கெடுக்கும்.",
+          "குற்றமறச்சொற்களை ஆராயவதில் வ ல்ல அறிஞர்களிடத்தில் பல நூல்களைக் கற்றறிந்தவரின் கல்வியானது நன்றாக விளங்கித் தொன்றும்.",
+          "மறைந்த செய்திகளையும் கேட்டறிய வல்லவனாய் அறிந்த செய்திகளை ஐயப்படாமல் துணிய வல்லவனாய் உள்ளவனே ஒற்றன் ஆவான்."
+        ],
+        "quiz_options_en": [
+          "He is minister who chooses Right means, time, mode and rare ventures",
+          "Work or foe left unfinished Flare up like fire unextinguished",
+          "The learning of the learned shines Valued by flawless scholar-minds",
+          "A spy draws out other's secrets Beyond a doubt he clears his facts"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (ஒற்றாடல்) பகுதியில் குறள் 587 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மறைந்த செய்திகளையும் கேட்டறிய வல்லவனாய் அறிந்த செய்திகளை ஐயப்படாமல் துணிய வல்லவனாய் உள்ளவனே ஒற்றன் ஆவான். பரிமேலழகர் உரை நுட்பம்: மறைந்தவை கேட்க வற்று ஆகி - ஒற்றப்பட்டார் மறையச் செய்த செயல்களை அவர்க்கு உள்ளாயினாரால் கேட்க வல்லனாய்; அறிந்தவை ஐயப்பாடு இல்லதே ஒற்று - கேட்டறிந்த செயல்களில் பின் ஐயப்படாது துணியவல்லவனே ஒற்றனாவான். (மறைந்தவை சொல்லுவாரை அறிந்து, அவர் அயிராமல் சென்று ஒட்டித...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 59: 'Detectives'), Kural 587 distills a foundational ethical insight: \"A spy must search each hidden matter out, And full report must render, free from doubt\" Philosophically, A spy is one who is able to discover what is hidden and who retains no doubt concerning what he has known.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "truth",
+        "kindness",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 588,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஓர் ஒற்றன் மறைந்து கேட்டுத் தெரிவித்தச் செய்தியையும் மற்றோர் ஒற்றனால் கேட்டு வரச் செய்து ஒப்புமை கண்டபின் உண்மை என்றுக் கொள்ள வேண்டும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Let not a king receive the information which a spy has discovered and made known to him, until he has examined it by another spy.",
+        "story_title_ta": "ஒற்றாடல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Detectives — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'ஒற்றாடல்' என்ற அதிகாரத்திலிருந்து குறள் 588 பற்றிக் கதை சொன்னார். 'ஓர் ஒற்றர் கொண்டு வந்த செய்தியை இன்னும் ஓர் ஒற்றர் தரும் செய்தியோடு சரி பார்த்துக் கொள்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 59, 'Detectives', centered on Kural 588: Let not a king receive the information which a spy has discovered and made known to him, until he has examined it by another spy. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஓர் உளவாளி, தனது திறமையினால் அறிந்து சொல்லும் செய்தியைக் கூட மற்றோர் உளவாளி வாயிலாகவும் அறிந்து வரச் செய்து, இரு செய்திகளையும் ஒப்பிட்டுப் பார்த்த பிறகே அது, உண்மையா அல்லவா என்ற முடிவுக்கு வரவேண்டும்.",
+        "moral_en": "Moral: Spying by spies, the things they tellTo test by other spies is well.",
+        "game_blank_word_ta": "ஒற்றொற்றித்",
+        "game_options_ta": [
+          "ஒற்றொற்றித்",
+          "ஒற்றும்",
+          "உரைசான்ற",
+          "நூலும்"
+        ],
+        "game_options_en": [
+          "The reports given by one spy By another spy verify",
+          "A king should treat these two as eyes The code of laws and careful spies",
+          "All that happens, always, to all The king should know in full detail",
+          "Conquests are not for the monarch Who cares not for the Spy's remark"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒற்றாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 588, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஓர் ஒற்றர் கொண்டு வந்த செய்தியை இன்னும் ஓர் ஒற்றர் தரும் செய்தியோடு சரி பார்த்துக் கொள்க. கலைஞர் உரை கூறுவது: ஓர் உளவாளி, தனது திறமையினால் அறிந்து சொல்லும் செய்தியைக் கூட மற்றோர் உளவாளி வாயிலாகவும் அறிந்து வரச் செய்து, இரு செய்திகளையும் ஒப்பிட்டுப் பார்த்த பிறகே அது, உண்மையா அல்லவா என்ற முடிவுக்கு வரவேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Detectives (Royalty & Polity), Kural 588 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let not a king receive the information which a spy has discovered and made known to him, until he has examined it by another spy. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'ஒற்றாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Detectives' thoughtfully.",
+        "quiz_question_ta": "'ஒற்றாடல்' அதிகாரத்தில் வரும் திருக்குறள் 588 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 588 from Chapter 'Detectives'?",
+        "quiz_options_ta": [
+          "ஓர் ஒற்றன் மறைந்து கேட்டுத் தெரிவித்தச் செய்தியையும் மற்றோர் ஒற்றனால் கேட்டு வரச் செய்து ஒப்புமை கண்டபின் உண்மை என்றுக் கொள்ள வேண்டும்.",
+          "அஞ்சாமையும், குடிபிறப்பும், காக்கும் திறனும், கற்றறிந்த அறிவும் முயற்சியும் ஆகிய இவ்வைந்தும் திருந்தப்பெற்றவன் அமைச்சன்.",
+          "வேண்டிய பொருள், ஏற்றக்கருவி, தக்க காலம், மேற்கொண்ட தொழில், உரிய இடம் ஆகிய ஐந்தினையும் மயக்கம் தீர எண்ணிச் செய்ய வேண்டும்.",
+          "தாமே உணர்கின்ற தன்மை உடையவரின் முன் கற்றவர் பேசுதல், தானே வளரும் பயிருள்ள பாத்தியில் நீரைச் சொரிந்தாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "The reports given by one spy By another spy verify",
+          "With these he guards people, -by his Knowledge, firmness and manliness",
+          "Money and means, time, place and deed Decide these five and then proceed",
+          "To address understanding ones Is to water beds of growing grains"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (ஒற்றாடல்) பகுதியில் குறள் 588 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஓர் ஒற்றன் மறைந்து கேட்டுத் தெரிவித்தச் செய்தியையும் மற்றோர் ஒற்றனால் கேட்டு வரச் செய்து ஒப்புமை கண்டபின் உண்மை என்றுக் கொள்ள வேண்டும். பரிமேலழகர் உரை நுட்பம்: ஒற்று ஒற்றித் தந்த பொருளையும் - ஒரொற்றன் ஒற்றிவந்து அறிவித்த காரியந்தன்னையும்; மற்றும் ஓர் ஒற்றனால் ஒற்றிக் கொளல் - பிறனோர் ஒற்றனாலும் ஒற்றுவித்து ஒப்புமை கண்டுகொள்க. (ஒற்றப்பட்டாரோடு ஒத்து நின்று மாறுபடக் கூறலும் கூடுமாகலின், ஒருவன் மாற்றம் தேறப்படாது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 59: 'Detectives'), Kural 588 distills a foundational ethical insight: \"Spying by spies, the things they tellTo test by other spies is well\" Philosophically, Let not a king receive the information which a spy has discovered and made known to him, until he has examined it by another spy.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "kindness",
+        "truth",
+        "family",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 589,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஓர் ஒற்றனை மற்றோர் ஒற்றன் அறியாதபடி ஆள வேண்டும், அவ்வாறு ஆளப்பட்ட ஒற்றர் மூவரின் சொல் ஒத்திருந்தால் அவை உண்மை எனத் தெளியப்படும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Let a king employ spies so that one may have no knowledge of the other; and when the information of three agrees together, let him receive it.",
+        "story_title_ta": "ஒற்றாடல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Detectives — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'ஒற்றாடல்' என்ற அதிகாரத்திலிருந்து குறள் 589 பற்றிக் கதை சொன்னார். 'ஒற்றரை இயக்கும்போது ஓர் ஒற்றரை இன்னுமோர் ஒற்றர் அறிந்துகொள்ளாதபடி இயக்குக; ஒரு காரியத்திற்கு மூவர் சொல்லும் ஒன்றுபோலவே இருந்தாலும் அதையும் ஆய்ந்து பிறகு ஏற்றுக்கொள்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 59, 'Detectives', centered on Kural 589: Let a king employ spies so that one may have no knowledge of the other; and when the information of three agrees together, let him receive it. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஓர் ஒற்றரை மற்றோர் ஒற்றர் அறியமுடியாதபடி மூன்று ஒற்றர்களை இயங்கவைத்து அம்மூவரும் சொல்வது ஒத்திருந்தால் அது உண்மையெனக் கொள்ளலாம்.",
+        "moral_en": "Moral: One spy must not another see: contrive it so; And things by three confirmed as truth you know.",
+        "game_blank_word_ta": "றுணராமை",
+        "game_options_ta": [
+          "ஒற்றும்",
+          "றுணராமை",
+          "உரைசான்ற",
+          "நூலும்"
+        ],
+        "game_options_en": [
+          "A king should treat these two as eyes The code of laws and careful spies",
+          "Engage the spies alone, apart When three agree confirm report",
+          "All that happens, always, to all The king should know in full detail",
+          "Conquests are not for the monarch Who cares not for the Spy's remark"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒற்றாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 589, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒற்றரை இயக்கும்போது ஓர் ஒற்றரை இன்னுமோர் ஒற்றர் அறிந்துகொள்ளாதபடி இயக்குக; ஒரு காரியத்திற்கு மூவர் சொல்லும் ஒன்றுபோலவே இருந்தாலும் அதையும் ஆய்ந்து பிறகு ஏற்றுக்கொள்க. கலைஞர் உரை கூறுவது: ஓர் ஒற்றரை மற்றோர் ஒற்றர் அறியமுடியாதபடி மூன்று ஒற்றர்களை இயங்கவைத்து அம்மூவரும் சொல்வது ஒத்திருந்தால் அது உண்மையெனக் கொள்ளலாம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Detectives (Royalty & Polity), Kural 589 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let a king employ spies so that one may have no knowledge of the other; and when the information of three agrees together, let him receive it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'ஒற்றாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Detectives' thoughtfully.",
+        "quiz_question_ta": "'ஒற்றாடல்' அதிகாரத்தில் வரும் திருக்குறள் 589 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 589 from Chapter 'Detectives'?",
+        "quiz_options_ta": [
+          "பகைவர்ககு துணையானவரைப் பிரித்தலும், தம்மிடம் உள்ளவரைக் காத்தலும், பிரிந்து கொண்டவரை மீண்டும் சேர்த்துக்கொள்ளலும் வல்லவன் அமைச்சன்.",
+          "ஓர் ஒற்றனை மற்றோர் ஒற்றன் அறியாதபடி ஆள வேண்டும், அவ்வாறு ஆளப்பட்ட ஒற்றர் மூவரின் சொல் ஒத்திருந்தால் அவை உண்மை எனத் தெளியப்படும்.",
+          "செயலை முடிக்கும் வகையும், வரக்கூடிய இடையூறும், முடிந்த போது கிடைக்கும் பெரும்பயனும் ஆகியவற்றை ஆராய்ந்து செய்ய வேண்டும்.",
+          "நல்ல அறிஞரின் அவையில் நல்ல பொருளைப் மனதில் பதியுமாறு சொல்லவல்லவர், அறிவில்லாதவரின் கூட்டத்தில் மறந்தும் பேசக் கூடாது."
+        ],
+        "quiz_options_en": [
+          "A minister cherishes friends Divides foes and the parted blends",
+          "Engage the spies alone, apart When three agree confirm report",
+          "Weigh well the end, hindrance, profit And then pursue a fitting act",
+          "O ye who speak before the keen Forgetful, address not the mean"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (ஒற்றாடல்) பகுதியில் குறள் 589 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஓர் ஒற்றனை மற்றோர் ஒற்றன் அறியாதபடி ஆள வேண்டும், அவ்வாறு ஆளப்பட்ட ஒற்றர் மூவரின் சொல் ஒத்திருந்தால் அவை உண்மை எனத் தெளியப்படும். பரிமேலழகர் உரை நுட்பம்: ஒற்று ஒற்று உணராமை ஆள்க - ஒற்றாரையாளும் இடத்து ஒருவனையொருவன் அறியாமல் ஆள்க; உடன் மூவர் சொல் தொக்க தேறப்படும் - அங்ஙனம் ஆண்ட ஒற்றர் மூவரை ஒரு பொருள்மேல் வேறுவேறு விட்டால் அம்மூவர் சொல்லும் பயனால் ஒத்தனவாயின், அது மெய் என்று தெளியப்படும். ('ஆயின்' என்பது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 59: 'Detectives'), Kural 589 distills a foundational ethical insight: \"One spy must not another see: contrive it so; And things by three confirmed as truth you know\" Philosophically, Let a king employ spies so that one may have no knowledge of the other; and when the information of three agrees together, let him receive it.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "truth",
+        "family",
+        "speech",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 590,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒற்றனிடத்தில் செய்யும் சிறப்பைப் பிறர் அறியுமாறு செய்யக்கூடாது, செய்தால் மறைபொருளைத்தானே வெளிப்படுத்தியவன் ஆவான்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Let not a king publicly confer on a spy any marks of his favour; if he does, he will divulge his own secret.",
+        "story_title_ta": "ஒற்றாடல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Detectives — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'ஒற்றாடல்' என்ற அதிகாரத்திலிருந்து குறள் 590 பற்றிக் கதை சொன்னார். 'மறைவாக நிகழ்வனவற்றைஅறிந்து சொல்லும் ஒற்றருக்குப் பரிசு தருக; மறைவாகவே தருக; ஊர் அறியத் தருவது மறைவையும் ஒற்றரையும் தானே வெளிப்படுத்தியது போல் ஆகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 59, 'Detectives', centered on Kural 590: Let not a king publicly confer on a spy any marks of his favour; if he does, he will divulge his own secret. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஓர் ஒற்றரின் திறனை வியந்து பிறர் அறியச் சிறப்புச் செய்தால், ஒளிவு மறைவாக இருக்கவேண்டிய செய்தியை, வெளிப்படுத்தியதாகிவிடும்.",
+        "moral_en": "Moral: Reward not trusty spy in others' sight, Or all the mystery will come to light.",
+        "game_blank_word_ta": "செய்யற்க",
+        "game_options_ta": [
+          "ஒற்றும்",
+          "உரைசான்ற",
+          "செய்யற்க",
+          "நூலும்"
+        ],
+        "game_options_en": [
+          "A king should treat these two as eyes The code of laws and careful spies",
+          "All that happens, always, to all The king should know in full detail",
+          "Give not the spy open reward It would divulge the secret heard!",
+          "Conquests are not for the monarch Who cares not for the Spy's remark"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒற்றாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 590, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மறைவாக நிகழ்வனவற்றைஅறிந்து சொல்லும் ஒற்றருக்குப் பரிசு தருக; மறைவாகவே தருக; ஊர் அறியத் தருவது மறைவையும் ஒற்றரையும் தானே வெளிப்படுத்தியது போல் ஆகும். கலைஞர் உரை கூறுவது: ஓர் ஒற்றரின் திறனை வியந்து பிறர் அறியச் சிறப்புச் செய்தால், ஒளிவு மறைவாக இருக்கவேண்டிய செய்தியை, வெளிப்படுத்தியதாகிவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Detectives (Royalty & Polity), Kural 590 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let not a king publicly confer on a spy any marks of his favour; if he does, he will divulge his own secret. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'ஒற்றாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Detectives' thoughtfully.",
+        "quiz_question_ta": "'ஒற்றாடல்' அதிகாரத்தில் வரும் திருக்குறள் 590 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 590 from Chapter 'Detectives'?",
+        "quiz_options_ta": [
+          "(செய்யத்தக்க செயலை) ஆராய்தலும், அதற்குரிய வழிகளை ஆராய்ந்து செய்தலும், துணிவாகக் கருத்தைச் சொல்லுதலும் வல்லவன் அமைச்சன்.",
+          "செயலைச் செய்கின்றவன் செய்ய வேண்டிய முறை, அச் செயலின் உண்மையான இயல்பை அறிந்தவனுடையக் கருத்தைத் தான் ஏற்றுக் கொள்ளவதாகும்",
+          "ஒற்றனிடத்தில் செய்யும் சிறப்பைப் பிறர் அறியுமாறு செய்யக்கூடாது, செய்தால் மறைபொருளைத்தானே வெளிப்படுத்தியவன் ஆவான்.",
+          "தன் இனத்தார் அல்லாதவரின் கூட்டத்தில் முன் ஒரு பொருளைப்பற்றி பேசுதல், தூய்மையில்லாத முற்றத்தில் சிந்திய அமிழ்தம் போன்றது."
+        ],
+        "quiz_options_en": [
+          "A minister must sift reflect Select and say surely one fact",
+          "Know first the secret from experts That is the way of fruitful acts",
+          "Give not the spy open reward It would divulge the secret heard!",
+          "To hostiles who wise words utters Pours ambrosia into gutters"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (ஒற்றாடல்) பகுதியில் குறள் 590 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒற்றனிடத்தில் செய்யும் சிறப்பைப் பிறர் அறியுமாறு செய்யக்கூடாது, செய்தால் மறைபொருளைத்தானே வெளிப்படுத்தியவன் ஆவான். பரிமேலழகர் உரை நுட்பம்: ஒற்றின்கண் சிறப்பு அறியச் செய்யற்க - மறைந்தவை அறிந்து கூறிய ஒற்றின்கண் செய்யும் சிறப்பினை அரசன் பிறர் அறியச் செய்யாதொழிக; செய்யின் மறை புறப்படுத்தான் ஆகும் - செய்தானாயின் தன்னகத்து அடக்கப்படும் மறையைத் தானே புறத்திட்டான் ஆம். (மறையாவது அவன் ஒற்றனாயதூஉம் அவன...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 59: 'Detectives'), Kural 590 distills a foundational ethical insight: \"Reward not trusty spy in others' sight, Or all the mystery will come to light\" Philosophically, Let not a king publicly confer on a spy any marks of his favour; if he does, he will divulge his own secret.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "kindness",
+        "love",
+        "family",
+        "speech"
+      ]
+    }
+  ]
+}

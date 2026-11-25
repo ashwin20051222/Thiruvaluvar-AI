@@ -1,0 +1,588 @@
+{
+  "adhikaram_id": 91,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.300717850+00:00",
+  "kurals": [
+    {
+      "kural_number": 901,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மனைவியை விரும்பி அவள் சொன்னபடி நடப்பவர், சிறந்த பயனை அடையமாட்டார், கடமையைச் செய்தலை விரும்புகின்றவர் வேண்டாத பொருளும் அதுவே.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Those who lust after their wives will not attain the excellence of virtue; and it is just this that is not desired by those who are bent on acquiring wealth.",
+        "story_title_ta": "பெண்வழிச் சேறல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Being led by Women — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெண்வழிச் சேறல்' என்ற அதிகாரத்திலிருந்து குறள் 901 பற்றிக் கதை சொன்னார். 'மனைவியை விரும்பி அவள் சொல்லையே கேட்டு வாழ்பவர் சிறந்த அறப்பயனை அடையமாட்டார், செயல் ஆற்ற விரும்புவார் விரும்பாத இன்பம் அது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 91, 'Being led by Women', centered on Kural 901: Those who lust after their wives will not attain the excellence of virtue; and it is just this that is not desired by those who are bent on acquiring wealth. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கடமையுடன் கூடிய செயல்புரியக் கிளம்பியவர்கள் இல்லற சுகத்தைப் பெரிதெனக் கருதினால் சிறப்பான புகழைப் பெற மாட்டார்கள்.",
+        "moral_en": "Moral: Who give their soul to love of wife acquire not nobler gain; Who give their soul to strenuous deeds such meaner joys disdain.",
+        "game_blank_word_ta": "மாண்பயன்",
+        "game_options_ta": [
+          "பேணாது",
+          "மாண்பயன்",
+          "பெண்விழைவான்",
+          "ஆக்கம்"
+        ],
+        "game_options_en": [
+          "Who dotes, unmanly, on his dame His wealth to him and all is shame",
+          "Who dote on wives lose mighty gain That lust, dynamic men disdain",
+          "Who's servile to his wife always Shy he feels before the wise",
+          "Fearing his wife salvationless The weaklings' action has no grace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெண்வழிச் சேறல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 901, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனைவியை விரும்பி அவள் சொல்லையே கேட்டு வாழ்பவர் சிறந்த அறப்பயனை அடையமாட்டார், செயல் ஆற்ற விரும்புவார் விரும்பாத இன்பம் அது. கலைஞர் உரை கூறுவது: கடமையுடன் கூடிய செயல்புரியக் கிளம்பியவர்கள் இல்லற சுகத்தைப் பெரிதெனக் கருதினால் சிறப்பான புகழைப் பெற மாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Being led by Women (Ministers & Elements of State), Kural 901 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who lust after their wives will not attain the excellence of virtue; and it is just this that is not desired by those who are bent on acquiring wealth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெண்வழிச் சேறல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Being led by Women' thoughtfully.",
+        "quiz_question_ta": "'பெண்வழிச் சேறல்' அதிகாரத்தில் வரும் திருக்குறள் 901 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 901 from Chapter 'Being led by Women'?",
+        "quiz_options_ta": [
+          "மாறுபாடில்லாதா உணவை அளவு மீறாமல் மறுத்து அளவோடு உண்டால், உயிர் உடம்பில் வாழ்வதற்கு இடையூறான நோய் இல்லை.",
+          "மனைவியை விரும்பி அவள் சொன்னபடி நடப்பவர், சிறந்த பயனை அடையமாட்டார், கடமையைச் செய்தலை விரும்புகின்றவர் வேண்டாத பொருளும் அதுவே.",
+          "சால்பு என்னும் வலிமை உண்டாகப் பெற்றால் ஒருவனுக்குப் பொருள் இல்லாத குறையாகிய வறுமை இழிவானது அன்று.",
+          "உலகம் பல தொழில் செய்து சுழன்றாலும் ஏர்த் தொழிலின் பின் நிற்கின்றது, அதனால் எவ்வளவு துன்புற்றாலும் உழவுத் தொழிலே சிறந்தது."
+        ],
+        "quiz_options_en": [
+          "With fasting adjusted food right Cures ills of life and makes you bright",
+          "Who dote on wives lose mighty gain That lust, dynamic men disdain",
+          "No shame there is in poverty To one strong in good quality",
+          "Farming though hard is foremost trade Men ply at will but ploughmen lead"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பெண்வழிச் சேறல்) பகுதியில் குறள் 901 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனைவியை விரும்பி அவள் சொன்னபடி நடப்பவர், சிறந்த பயனை அடையமாட்டார், கடமையைச் செய்தலை விரும்புகின்றவர் வேண்டாத பொருளும் அதுவே. பரிமேலழகர் உரை நுட்பம்: மனை விழைவார் மாண் பயன் எய்தார் - இன்பம் காரணமாகத் தம் மனையாளை விழைந்து அவள் தன்மையராய் ஒழுகுவார், தமக்கு இன்துணையாய அறத்தினை எய்தார்; வினை விழைவார் வேண்டாப் பொருளும் அது - இனிப் பொருள் செய்தலை முயல்வார் அதற்கு இடையீடென்று இகழும் பொருளும் அவ்வின்பம். (மனையும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 91: 'Being led by Women'), Kural 901 distills a foundational ethical insight: \"Who give their soul to love of wife acquire not nobler gain; Who give their soul to strenuous deeds such meaner joys disdain\" Philosophically, Those who lust after their wives will not attain the excellence of virtue; and it is just this that is not desired by those who are bent on acquiring wealth.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "discipline",
+        "family",
+        "wealth",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 902,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: கடமையை விரும்பாமல் மனைவியின் பெண்மையை விரும்புகின்றவனுடைய ஆக்கம், பெரியதொரு நாணத்தக்கச் செயலாக நாணத்தைக் கொடுக்கும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The wealth of him who, regardless (of his manliness), devotes himself to his wife's feminine nature will cause great shame (to ali men) and to himself;.",
+        "story_title_ta": "பெண்வழிச் சேறல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Being led by Women — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெண்வழிச் சேறல்' என்ற அதிகாரத்திலிருந்து குறள் 902 பற்றிக் கதை சொன்னார். 'தன் ஆண்மையை எண்ணாமல் மனைவியின் விருப்பத்தையே விரும்புபவன் வசம் இருக்கும் செல்வம், ஆண்களுக்கு எல்லாம் வெட்கம் தருவதுடன் அவனுக்கும் வெட்கம் உண்டாக்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 91, 'Being led by Women', centered on Kural 902: The wealth of him who, regardless (of his manliness), devotes himself to his wife's feminine nature will cause great shame (to ali men) and to himself;. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எற்றுக்கொண்ட கொள்கையினைப் பேணிக் காத்திடாமல் பெண்ணை நாடி அவள் பின்னால் திரிபவனுடைய நிலை வெட்கித் தலைகுனிய வேண்டியதாக ஆகிவிடும்.",
+        "moral_en": "Moral: Who gives himself to love of wife, careless of noble nameHis wealth will clothe him with o'erwhelming shame.",
+        "game_blank_word_ta": "தரும்",
+        "game_options_ta": [
+          "மனைவிழைவார்",
+          "மாண்பயன்",
+          "தரும்",
+          "எய்தார்"
+        ],
+        "game_options_en": [
+          "Who dote on wives lose mighty gain That lust, dynamic men disdain",
+          "Who's servile to his wife always Shy he feels before the wise",
+          "Who dotes, unmanly, on his dame His wealth to him and all is shame",
+          "Fearing his wife salvationless The weaklings' action has no grace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெண்வழிச் சேறல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 902, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் ஆண்மையை எண்ணாமல் மனைவியின் விருப்பத்தையே விரும்புபவன் வசம் இருக்கும் செல்வம், ஆண்களுக்கு எல்லாம் வெட்கம் தருவதுடன் அவனுக்கும் வெட்கம் உண்டாக்கும். கலைஞர் உரை கூறுவது: எற்றுக்கொண்ட கொள்கையினைப் பேணிக் காத்திடாமல் பெண்ணை நாடி அவள் பின்னால் திரிபவனுடைய நிலை வெட்கித் தலைகுனிய வேண்டியதாக ஆகிவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Being led by Women (Ministers & Elements of State), Kural 902 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The wealth of him who, regardless (of his manliness), devotes himself to his wife's feminine nature will cause great shame (to ali men) and to himself;. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெண்வழிச் சேறல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Being led by Women' thoughtfully.",
+        "quiz_question_ta": "'பெண்வழிச் சேறல்' அதிகாரத்தில் வரும் திருக்குறள் 902 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 902 from Chapter 'Being led by Women'?",
+        "quiz_options_ta": [
+          "குறைந்த அளவு இன்னதென்று அறிந்து உண்பவனிடத்தில் இன்பம் நிலைநிற்பது போல, மிகப்பெரிதும் உண்பவனிடத்தில் நோய் நிற்க்கும்.",
+          "சால்பு என்னும் தன்மைக்குக் கடல் என்று புகழப்படுகின்றவர், ஊழிக்காலத்தின் வேறுபாடுகளே நேர்ந்தாலும் தாம் வேறுபடாமல் இருப்பர்.",
+          "கடமையை விரும்பாமல் மனைவியின் பெண்மையை விரும்புகின்றவனுடைய ஆக்கம், பெரியதொரு நாணத்தக்கச் செயலாக நாணத்தைக் கொடுக்கும்.",
+          "உழவு செய்ய முடியாமல் உயிர் வாழ்கின்றவர், எல்லாரையும் தாங்குவதால், உழவு செய்கின்றவர் உலகத்தாற்கு அச்சாணி போன்றவர்."
+        ],
+        "quiz_options_en": [
+          "Who eats with clean stomach gets health With greedy glutton abides ill-health",
+          "Aeons may change but not the seer Who is a sea of virtue pure",
+          "Who dotes, unmanly, on his dame His wealth to him and all is shame",
+          "Tillers are linch-pin of mankind Bearing the rest who cannot tend"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பெண்வழிச் சேறல்) பகுதியில் குறள் 902 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கடமையை விரும்பாமல் மனைவியின் பெண்மையை விரும்புகின்றவனுடைய ஆக்கம், பெரியதொரு நாணத்தக்கச் செயலாக நாணத்தைக் கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: பேணாது பெண் விழைவான் ஆக்கம் - தன் ஆண்மையை விட்டு மனையாளது பெண்மையை விழைவான் எய்தி நின்ற செல்வம்; பெரியது ஓர் நாண் ஆக நாணுத் தரும் - இவ்வுலகத்து ஆண்பாலார்க் கெல்லாம் பெரியதோர் நாண் உண்டாகத் தனக்கும் நாணுதலைக் கொடுக்கும். (எய்தி நின்றதாயிற்று, படைக்கும் ஆற்றல...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 91: 'Being led by Women'), Kural 902 distills a foundational ethical insight: \"Who gives himself to love of wife, careless of noble nameHis wealth will clothe him with o'erwhelming shame\" Philosophically, The wealth of him who, regardless (of his manliness), devotes himself to his wife's feminine nature will cause great shame (to ali men) and to himself;.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "discipline",
+        "speech",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 903,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மனைவியிடத்தில் தாழ்ந்து நடக்கும் இழிந்த தன்மை ஒருவனுக்கு எப்போதும் நல்லவரிடையே இருக்கும் போது நாணத்தைச் தரும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The frailty that stoops to a wife will always make (her husband) feel ashamed among the good.",
+        "story_title_ta": "பெண்வழிச் சேறல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Being led by Women — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெண்வழிச் சேறல்' என்ற அதிகாரத்திலிருந்து குறள் 903 பற்றிக் கதை சொன்னார். 'மனைவியிடம் பணிந்து போகும் பயம் ஒருவனிடம் இருந்தால், இது இல்லாத நல்லவர் முன்னே அவனுக்கு எப்போதும் வெட்கத்தைக் கொடுக்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 91, 'Being led by Women', centered on Kural 903: The frailty that stoops to a wife will always make (her husband) feel ashamed among the good. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நற்குணமில்லாத மனைவியைத் திருத்த முனையாமல் பணிந்து போகிற கணவன், நல்லோர் முன்னிலையில் நாணமுற்று நிற்கும் நிலைக்கு ஆளாக நேரிடும்.",
+        "moral_en": "Moral: Who to his wife submits, his strange, unmanly moodWill daily bring him shame among the good.",
+        "game_blank_word_ta": "இல்லாள்கண்",
+        "game_options_ta": [
+          "மனைவிழைவார்",
+          "மாண்பயன்",
+          "எய்தார்",
+          "இல்லாள்கண்"
+        ],
+        "game_options_en": [
+          "Who dote on wives lose mighty gain That lust, dynamic men disdain",
+          "Who dotes, unmanly, on his dame His wealth to him and all is shame",
+          "Fearing his wife salvationless The weaklings' action has no grace",
+          "Who's servile to his wife always Shy he feels before the wise"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெண்வழிச் சேறல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 903, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனைவியிடம் பணிந்து போகும் பயம் ஒருவனிடம் இருந்தால், இது இல்லாத நல்லவர் முன்னே அவனுக்கு எப்போதும் வெட்கத்தைக் கொடுக்கும். கலைஞர் உரை கூறுவது: நற்குணமில்லாத மனைவியைத் திருத்த முனையாமல் பணிந்து போகிற கணவன், நல்லோர் முன்னிலையில் நாணமுற்று நிற்கும் நிலைக்கு ஆளாக நேரிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Being led by Women (Ministers & Elements of State), Kural 903 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The frailty that stoops to a wife will always make (her husband) feel ashamed among the good. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெண்வழிச் சேறல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Being led by Women' thoughtfully.",
+        "quiz_question_ta": "'பெண்வழிச் சேறல்' அதிகாரத்தில் வரும் திருக்குறள் 903 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 903 from Chapter 'Being led by Women'?",
+        "quiz_options_ta": [
+          "பசித்தீயின் அளவின் படி அல்லாமல், அதை ஆராயாமல் மிகுதியாக உண்டால் , அதனால் நோய்கள் அளவில்லாமல் ஏற்ப்பட்டு விடும்.",
+          "சான்றோரின் சால்பு நிறைந்த பண்பு குறைபடுமானால் இந்தப் பெரிய நிலவுலகமும் தன் பாரத்தைத் தாங்க முடியாமற் போய் விடும்.",
+          "உழவு செய்து அதனால் கிடைத்ததைக் கொண்டு வாழ்கின்றவரே உரிமையோடு வாழ்கின்றவர், மற்றவர் எல்லோரும் பிறரைத் தொழுது உண்டு பின் செல்கின்றவரே.",
+          "மனைவியிடத்தில் தாழ்ந்து நடக்கும் இழிந்த தன்மை ஒருவனுக்கு எப்போதும் நல்லவரிடையே இருக்கும் போது நாணத்தைச் தரும்."
+        ],
+        "quiz_options_en": [
+          "who glut beyond the hunger's fire Suffer from untold diseases here",
+          "The world will not more bear its weight If from high virtue fall the great",
+          "They live who live to plough and eat The rest behind them bow and eat",
+          "Who's servile to his wife always Shy he feels before the wise"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பெண்வழிச் சேறல்) பகுதியில் குறள் 903 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனைவியிடத்தில் தாழ்ந்து நடக்கும் இழிந்த தன்மை ஒருவனுக்கு எப்போதும் நல்லவரிடையே இருக்கும் போது நாணத்தைச் தரும். பரிமேலழகர் உரை நுட்பம்: இல்லாள்கண் தாழ்ந்த இயல்பு இன்மை - ஒருவன் இல்லாள் மாட்டுத் தாழ்தற்கு ஏதுவாய அச்சம்; நல்லாருள் நாணு எஞ்ஞான்றும் தரும் - அஃது இலராய நல்லாரிடைச் செல்லுங்கால் நாணுதலை அவனுக்கு எக்காலத்தும் கொடுக்கும். (அவள் தான் அஞ்சி ஒழுகுதல் இயல்பாகலின், அவளை அஞ்சுதல...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 91: 'Being led by Women'), Kural 903 distills a foundational ethical insight: \"Who to his wife submits, his strange, unmanly moodWill daily bring him shame among the good\" Philosophically, The frailty that stoops to a wife will always make (her husband) feel ashamed among the good.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "discipline",
+        "speech",
+        "wisdom",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 904,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: மனைவிக்கு அஞ்சி நடக்கின்ற மறுமைப் பயன் இல்லாத ஒருவன், செயல் ஆற்றுந்தன்மை பெருமை பெற்று விளங்க முடிவதில்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The undertaking of one, who fears his wife and is therefore destitute of (bliss), will never be applauded.",
+        "story_title_ta": "பெண்வழிச் சேறல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Being led by Women — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெண்வழிச் சேறல்' என்ற அதிகாரத்திலிருந்து குறள் 904 பற்றிக் கதை சொன்னார். 'தன் மனைவிக்குப் பயந்து நடக்கும் மறுமைப் பயன் இல்லாதவனின் செயல்திறம் நல்லவரால் பாராட்டப்படாது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 91, 'Being led by Women', centered on Kural 904: The undertaking of one, who fears his wife and is therefore destitute of (bliss), will never be applauded. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மணம் புரிந்து புதுவாழ்வின் பயனை அடையாமல் குடும்பம் நடத்த அஞ்சுகின்றவனின் செயலாற்றல் சிறப்பாக அமைவதில்லை.",
+        "moral_en": "Moral: No glory crowns e'en manly actions wroughtBy him who dreads his wife, nor gives the other world a thought.",
+        "game_blank_word_ta": "அஞ்சும்",
+        "game_options_ta": [
+          "அஞ்சும்",
+          "மனைவிழைவார்",
+          "மாண்பயன்",
+          "எய்தார்"
+        ],
+        "game_options_en": [
+          "Fearing his wife salvationless The weaklings' action has no grace",
+          "Who dote on wives lose mighty gain That lust, dynamic men disdain",
+          "Who dotes, unmanly, on his dame His wealth to him and all is shame",
+          "Who's servile to his wife always Shy he feels before the wise"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெண்வழிச் சேறல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 904, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் மனைவிக்குப் பயந்து நடக்கும் மறுமைப் பயன் இல்லாதவனின் செயல்திறம் நல்லவரால் பாராட்டப்படாது. கலைஞர் உரை கூறுவது: மணம் புரிந்து புதுவாழ்வின் பயனை அடையாமல் குடும்பம் நடத்த அஞ்சுகின்றவனின் செயலாற்றல் சிறப்பாக அமைவதில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Being led by Women (Ministers & Elements of State), Kural 904 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The undertaking of one, who fears his wife and is therefore destitute of (bliss), will never be applauded. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெண்வழிச் சேறல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Being led by Women' thoughtfully.",
+        "quiz_question_ta": "'பெண்வழிச் சேறல்' அதிகாரத்தில் வரும் திருக்குறள் 904 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 904 from Chapter 'Being led by Women'?",
+        "quiz_options_ta": [
+          "மனைவிக்கு அஞ்சி நடக்கின்ற மறுமைப் பயன் இல்லாத ஒருவன், செயல் ஆற்றுந்தன்மை பெருமை பெற்று விளங்க முடிவதில்லை.",
+          "நோய் இன்னதென்று ஆராய்ந்து, நோயின் காரணம் ஆராய்ந்து, அதைத் தணிக்கும் வழியையும் ஆராய்ந்து, உடலுக்கு பொருந்தும் படியாகச் செய்யவேண்டும்.",
+          "பண்பு உடையவராக வாழும் நல்வழியை, யாரிடத்திலும் எளிய செவ்வியுடன் இருப்பதால் அடைவது எளிது என்று கூறுவர்.",
+          "நெல் வளம் உடைய தண்ணளி பொருந்திய உழவர், பல அரசரின் குடை நிழல்களையும் தம் குடையின் கீழ் காணவல்லவர் ஆவர்."
+        ],
+        "quiz_options_en": [
+          "Fearing his wife salvationless The weaklings' action has no grace",
+          "Test disease, its cause and cure And apply remedy that is sure",
+          "To the polite free of access Easily comes courteousness",
+          "Who have the shade of cornful crest Under their umbra umbrellas rest"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பெண்வழிச் சேறல்) பகுதியில் குறள் 904 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனைவிக்கு அஞ்சி நடக்கின்ற மறுமைப் பயன் இல்லாத ஒருவன், செயல் ஆற்றுந்தன்மை பெருமை பெற்று விளங்க முடிவதில்லை. பரிமேலழகர் உரை நுட்பம்: மனையாளை அஞ்சும் மறுமை இலாளன் - தன் மனையாளை அஞ்சி ஒழுகுகின்ற மறுமைப்பயன் இல்லாதானுக்கு; வினை ஆண்மை வீறு எய்தல் இன்று - வினையை ஆளுந்தன்மை உண்டாய வழியும் நல்லோரால் கொண்டாடப்படாது. ('உண்டாய வழியும்' என்பது அவாய் நிலையான் வந்தது. இல்லறம் செய்தற்குரிய நன்மை...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 91: 'Being led by Women'), Kural 904 distills a foundational ethical insight: \"No glory crowns e'en manly actions wroughtBy him who dreads his wife, nor gives the other world a thought\" Philosophically, The undertaking of one, who fears his wife and is therefore destitute of (bliss), will never be applauded.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "kindness",
+        "discipline",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 905,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மனைவிக்கு அஞ்சி வாழ்கின்றவன் எப்போதும் நல்லவர்க்கு நன்மையான கடமையைச் செய்வதற்கு அஞ்சி நடப்பான்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: He that fears his wife will always be afraid of doing good deeds (even) to the good.",
+        "story_title_ta": "பெண்வழிச் சேறல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Being led by Women — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெண்வழிச் சேறல்' என்ற அதிகாரத்திலிருந்து குறள் 905 பற்றிக் கதை சொன்னார். 'தன் மனைவிக்குப் பயப்படுபவன் நல்லார்க்கும் கூட நல்லது செய்ய எப்போதும் அஞ்சுவான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 91, 'Being led by Women', centered on Kural 905: He that fears his wife will always be afraid of doing good deeds (even) to the good. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எப்போதுமே நல்லோர்க்கு நன்மை செய்வதில் தவறு ஏற்பட்டுவிடக் கூடாதே என்று அஞ்சுகிறவன் தவறு நேராமல் கண்காணிக்கும் மனைவிக்கு அஞ்சி நடப்பான்.",
+        "moral_en": "Moral: Who quakes before his wife will ever tremble too, Good deeds to men of good deserts to do.",
+        "game_blank_word_ta": "அஞ்சுமற்",
+        "game_options_ta": [
+          "மனைவிழைவார்",
+          "அஞ்சுமற்",
+          "மாண்பயன்",
+          "எய்தார்"
+        ],
+        "game_options_en": [
+          "Who dote on wives lose mighty gain That lust, dynamic men disdain",
+          "Who fears his wife fears always Good to do to the good and wise",
+          "Who dotes, unmanly, on his dame His wealth to him and all is shame",
+          "Who's servile to his wife always Shy he feels before the wise"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெண்வழிச் சேறல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 905, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் மனைவிக்குப் பயப்படுபவன் நல்லார்க்கும் கூட நல்லது செய்ய எப்போதும் அஞ்சுவான். கலைஞர் உரை கூறுவது: எப்போதுமே நல்லோர்க்கு நன்மை செய்வதில் தவறு ஏற்பட்டுவிடக் கூடாதே என்று அஞ்சுகிறவன் தவறு நேராமல் கண்காணிக்கும் மனைவிக்கு அஞ்சி நடப்பான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Being led by Women (Ministers & Elements of State), Kural 905 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He that fears his wife will always be afraid of doing good deeds (even) to the good. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெண்வழிச் சேறல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Being led by Women' thoughtfully.",
+        "quiz_question_ta": "'பெண்வழிச் சேறல்' அதிகாரத்தில் வரும் திருக்குறள் 905 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 905 from Chapter 'Being led by Women'?",
+        "quiz_options_ta": [
+          "மருத்துவ நூலைக் கற்றவன், நோயுற்றவனுடைய வயது முதலியவற்றையும், நோயின் அளவையும், காலத்தையும் ஆராய்ந்து செய்ய வேண்டும்.",
+          "மனைவிக்கு அஞ்சி வாழ்கின்றவன் எப்போதும் நல்லவர்க்கு நன்மையான கடமையைச் செய்வதற்கு அஞ்சி நடப்பான்.",
+          "அன்புடையவராக இருத்தல், உயர்ந்த குடியில் பிறந்த தன்மை அமைந்திருத்தல் ஆகிய இவ் விரண்டும் பண்பு உடையவராக வாழும் நல்வழியாகும்.",
+          "கையால் தொழில் செய்து உணவு தேடி உண்ணும் இயல்புடைய தொழிலாளர், பிறரிடம் சென்று இரக்கமாட்டார், தம்மிடம் இரந்தவர்க்கு ஒளிக்காமல் ஒரு பொருள் ஈவார்."
+        ],
+        "quiz_options_en": [
+          "Let the skilful doctor note The sickmen, sickness, season and treat",
+          "Who fears his wife fears always Good to do to the good and wise",
+          "Humanity and noble birth Develop courtesy and moral worth",
+          "Who till and eat, beg not; nought hide But give to those who are in need"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பெண்வழிச் சேறல்) பகுதியில் குறள் 905 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனைவிக்கு அஞ்சி வாழ்கின்றவன் எப்போதும் நல்லவர்க்கு நன்மையான கடமையைச் செய்வதற்கு அஞ்சி நடப்பான். பரிமேலழகர் உரை நுட்பம்: இல்லாளை அஞ்சுவான் - தன் மனையாளை அஞ்சுவான்; நல்லார்க்கு நல்ல செயல் எஞ்ஞான்றும் அஞ்சும் - தான் தேடிய பொருளே யாயினும் அதனால் நல்லார்க்கு நல்லன செய்தலை எஞ்ஞான்றும் அஞ்சாநிற்கும். (நல்லார் - தேவர், அருந்தவர், சான்றோர், இருமுதுகுரவர் முதலாயினாரும் நல்விருந்தினரும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 91: 'Being led by Women'), Kural 905 distills a foundational ethical insight: \"Who quakes before his wife will ever tremble too, Good deeds to men of good deserts to do\" Philosophically, He that fears his wife will always be afraid of doing good deeds (even) to the good.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "discipline",
+        "ethics",
+        "wisdom",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 906,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: மனைவியின் தோளுக்கு அஞ்சி வாழ்கின்றவர் தேவரைப் போல் இவ்வுலகில் சிறப்பான நிலையில் வாழ்ந்த போதிலும் பெருமை இல்லாதவரே ஆவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: They that fear the bamboo-like shoulders of their wives will be destitute of manliness though they may flourish like the Gods.",
+        "story_title_ta": "பெண்வழிச் சேறல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Being led by Women — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெண்வழிச் சேறல்' என்ற அதிகாரத்திலிருந்து குறள் 906 பற்றிக் கதை சொன்னார். 'தேவர்களைப் போல வாழ்ந்தாலும் மனைவியின் மூங்கில் போன்ற தோளுக்குப் பயப்படுபவர், ஆண்மையால் வரும் பெருமை இல்லாதவரே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 91, 'Being led by Women', centered on Kural 906: They that fear the bamboo-like shoulders of their wives will be destitute of manliness though they may flourish like the Gods. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அறிவும் பண்பும் இல்லாத மனைவி, அழகாக இருக்கிறாள் என்பதற்காக மட்டும் அவளுக்கு அடங்கி நடப்பவர்கள், தங்களைத் தேவாம்சம் படைத்தவர்கள் என்று கற்பனையாகக் காட்டிக் கொண்டாலும் அவர்களுக்கு உண்மையில் எந்தப் பெருமையும் கிடையாது.",
+        "moral_en": "Moral: Though, like the demi-gods, in bliss they dwell secure from harm, Those have no dignity who fear the housewife's slender arm.",
+        "game_blank_word_ta": "இல்லாள்",
+        "game_options_ta": [
+          "மனைவிழைவார்",
+          "மாண்பயன்",
+          "இல்லாள்",
+          "எய்தார்"
+        ],
+        "game_options_en": [
+          "Who dote on wives lose mighty gain That lust, dynamic men disdain",
+          "Who dotes, unmanly, on his dame His wealth to him and all is shame",
+          "Who fear douce arms of their wives Look petty even with god-like lives",
+          "Who's servile to his wife always Shy he feels before the wise"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெண்வழிச் சேறல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 906, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தேவர்களைப் போல வாழ்ந்தாலும் மனைவியின் மூங்கில் போன்ற தோளுக்குப் பயப்படுபவர், ஆண்மையால் வரும் பெருமை இல்லாதவரே. கலைஞர் உரை கூறுவது: அறிவும் பண்பும் இல்லாத மனைவி, அழகாக இருக்கிறாள் என்பதற்காக மட்டும் அவளுக்கு அடங்கி நடப்பவர்கள், தங்களைத் தேவாம்சம் படைத்தவர்கள் என்று கற்பனையாகக் காட்டிக் கொண்டாலும் அவர்களுக்கு உண்மையில் எந்தப் பெருமையும் கிடையாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Being led by Women (Ministers & Elements of State), Kural 906 speaks directly to teens navigating studies, friendships, leadership, and digital choices: They that fear the bamboo-like shoulders of their wives will be destitute of manliness though they may flourish like the Gods. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெண்வழிச் சேறல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Being led by Women' thoughtfully.",
+        "quiz_question_ta": "'பெண்வழிச் சேறல்' அதிகாரத்தில் வரும் திருக்குறள் 906 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 906 from Chapter 'Being led by Women'?",
+        "quiz_options_ta": [
+          "நோயுற்றவன், நோய் தீர்க்கும் மருத்துவன், மருந்து, மருந்தை அங்கிருந்து கொடுப்பவன் என்று மருத்துவ முறை அந்த நான்குவகைப் பாகுபாடு உடையது.",
+          "உடம்பால் ஒத்திருத்தல் மக்களோடு ஒப்புமை அன்று, பொருந்தத்தக்கப் பண்பால் ஒத்திருத்தலே கொள்ளத்தக்க ஒப்புமையாகும்.",
+          "மனைவியின் தோளுக்கு அஞ்சி வாழ்கின்றவர் தேவரைப் போல் இவ்வுலகில் சிறப்பான நிலையில் வாழ்ந்த போதிலும் பெருமை இல்லாதவரே ஆவர்.",
+          "உழவருடைய கை, தொழில் செய்யாமல் மடங்கியிருக்குமானால், விரும்புகின்ற எந்தப் பற்றையும் விட்டுவிட்டோம் என்று கூறும் துறவிகளுக்கும் வாழ்வு இல்லை."
+        ],
+        "quiz_options_en": [
+          "Patient, doctor, medicine and nurse Are four-fold codes of treating course",
+          "Likeness in limbs is not likeness It's likeness in kind courteousness",
+          "Who fear douce arms of their wives Look petty even with god-like lives",
+          "Should ploughmen sit folding their hands Desire-free monks too suffer wants"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பெண்வழிச் சேறல்) பகுதியில் குறள் 906 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனைவியின் தோளுக்கு அஞ்சி வாழ்கின்றவர் தேவரைப் போல் இவ்வுலகில் சிறப்பான நிலையில் வாழ்ந்த போதிலும் பெருமை இல்லாதவரே ஆவர். பரிமேலழகர் உரை நுட்பம்: இல்லாள் அமை ஆர் தோள் அஞ்சுபவர் - தம் இல்லாளுடைய வேய் போலும் தோளினை அஞ்சுவார்; இமையாரின் வாழினும் பாடு இலர் - வீரத்தால் துறக்கம் எய்திய அமரர் போல இவ்வுலகத்து வாழ்ந்தாராயினும், ஆண்மையிலர். (அமரர்போல் வாழ்தலாவது, பகைத்த வீரர் தோள்களை எல்லாம் வேறலான் நன்கு...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 91: 'Being led by Women'), Kural 906 distills a foundational ethical insight: \"Though, like the demi-gods, in bliss they dwell secure from harm, Those have no dignity who fear the housewife's slender arm\" Philosophically, They that fear the bamboo-like shoulders of their wives will be destitute of manliness though they may flourish like the Gods.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "discipline",
+        "truth",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 907,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மனைவியின் ஏவலைச் செய்து நடக்கின்றவனுடைய ஆண்மையைவிட, நாணத்தை தன் இயல்பாக உடையவளின் பெண்மையே பெருமை உடையது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Even shame faced womanhood is more to be esteemed than the shameless manhood that performs.",
+        "story_title_ta": "பெண்வழிச் சேறல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Being led by Women — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெண்வழிச் சேறல்' என்ற அதிகாரத்திலிருந்து குறள் 907 பற்றிக் கதை சொன்னார். 'மனைவி ஏவ, அதையே செய்து நடக்கும் ஆண்மையைக் காட்டிலும், வெட்கப்படுதலை உடைய பெண் தன்மையே சிறந்தது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 91, 'Being led by Women', centered on Kural 907: Even shame faced womanhood is more to be esteemed than the shameless manhood that performs. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒரு பெண்ணின் காலைச் சுற்றிக் கொண்டு கிடைக்கும் ஒருவனின் ஆண்மையைக் காட்டிலும், மான உணர்வுள்ள ஒருத்தியின் பெண்மையே பெருமைக்குரியதாகும்.",
+        "moral_en": "Moral: The dignity of modest womanhood excelsHis manliness, obedient to a woman's law who dwells.",
+        "game_blank_word_ta": "பெண்ணே",
+        "game_options_ta": [
+          "மனைவிழைவார்",
+          "மாண்பயன்",
+          "எய்தார்",
+          "பெண்ணே"
+        ],
+        "game_options_en": [
+          "Who dote on wives lose mighty gain That lust, dynamic men disdain",
+          "Who dotes, unmanly, on his dame His wealth to him and all is shame",
+          "Who's servile to his wife always Shy he feels before the wise",
+          "Esteemed more is women bashful Than man servile unto her will"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெண்வழிச் சேறல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 907, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனைவி ஏவ, அதையே செய்து நடக்கும் ஆண்மையைக் காட்டிலும், வெட்கப்படுதலை உடைய பெண் தன்மையே சிறந்தது. கலைஞர் உரை கூறுவது: ஒரு பெண்ணின் காலைச் சுற்றிக் கொண்டு கிடைக்கும் ஒருவனின் ஆண்மையைக் காட்டிலும், மான உணர்வுள்ள ஒருத்தியின் பெண்மையே பெருமைக்குரியதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Being led by Women (Ministers & Elements of State), Kural 907 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even shame faced womanhood is more to be esteemed than the shameless manhood that performs. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெண்வழிச் சேறல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Being led by Women' thoughtfully.",
+        "quiz_question_ta": "'பெண்வழிச் சேறல்' அதிகாரத்தில் வரும் திருக்குறள் 907 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 907 from Chapter 'Being led by Women'?",
+        "quiz_options_ta": [
+          "நடுவு நிமையும் நாணமும் உயர்குடியில் பிறந்தவனிடத்தில் அல்லாமல் மற்றவரிடத்தில் இயல்பாக ஒருசேர அமைவதில்லை.",
+          "நீதியையும் நன்மையையும் விரும்பிப் பிறர்க்குப் பயன்பட வாழும் பெரியோரின் நல்லப் பண்பை உலகத்தார் போற்றிக் கொண்டாடுவர்.",
+          "ஒரு பலம் புழுதி கால்பலம் ஆகும்படி உழுது காயவிட்டால், ஒரு பிடி எருவும் இடவேண்டாமல் அந் நிலத்தில் பயிர் செலுத்தி செழித்து விளையும்.",
+          "மனைவியின் ஏவலைச் செய்து நடக்கின்றவனுடைய ஆண்மையைவிட, நாணத்தை தன் இயல்பாக உடையவளின் பெண்மையே பெருமை உடையது."
+        ],
+        "quiz_options_en": [
+          "Right-sense and bashfulness adorn By nature only the noble-born",
+          "The world applauds those helpful men Whose actions are just and benign",
+          "Moulds dried to quarter-dust ensure Rich crops without handful manure",
+          "Esteemed more is women bashful Than man servile unto her will"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பெண்வழிச் சேறல்) பகுதியில் குறள் 907 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனைவியின் ஏவலைச் செய்து நடக்கின்றவனுடைய ஆண்மையைவிட, நாணத்தை தன் இயல்பாக உடையவளின் பெண்மையே பெருமை உடையது. பரிமேலழகர் உரை நுட்பம்: பெண் ஏவல் செய்து ஒழுகும் ஆண்மையின் - நாண் இன்றித் தன் இல்லாளது ஏவல்தொழிலைச் செய்து திரிகின்றவனது ஆண் தன்மையின்; நாண் உடைப் பெண்ணே பெருமை உடைத்து - நாணி¢னையுடைய அவள் பெண் தன்மையே மேம்பாடு உடைத்து. ('நாணுடைப் பெண்' என வேண்டாது கூறியது, அவள் ஏவல் செய்வானது...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 91: 'Being led by Women'), Kural 907 distills a foundational ethical insight: \"The dignity of modest womanhood excelsHis manliness, obedient to a woman's law who dwells\" Philosophically, Even shame faced womanhood is more to be esteemed than the shameless manhood that performs.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "humility",
+        "discipline",
+        "speech",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 908,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: மனைவி விரும்பியபடி செய்து நடப்பவர், தமது நண்பர்க்கு உற்ற குறையையும் செய்து முடிக்க மாட்டார், அறத்தையும் செய்ய மாட்டார்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Those who yield to the wishes of their wives will neither relieve the wants of (their) friends nor perform virtuous deeds.",
+        "story_title_ta": "பெண்வழிச் சேறல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Being led by Women — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெண்வழிச் சேறல்' என்ற அதிகாரத்திலிருந்து குறள் 908 பற்றிக் கதை சொன்னார். 'தம் மனைவி விரும்பியபடியே வாழ்பவர், தம் நண்பர்க்கு ஏற்பட்ட குறையைப் போக்கமாட்டார் நல்லதும் செய்யமாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 91, 'Being led by Women', centered on Kural 908: Those who yield to the wishes of their wives will neither relieve the wants of (their) friends nor perform virtuous deeds. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒரு பெண்ணின் அழகுக்காகவே அவளிடம் மயங்கி அறிவிழந்து நடப்பவர்கள், நண்பர்களைப்பற்றியும் கவலைப்படமாட்டார்கள்; நற்பணிகளையும் ஆற்றிட மாட்டார்கள்.",
+        "moral_en": "Moral: Who to the will of her with beauteous brow their lives conform, Aid not their friends in need, nor acts of charity perform.",
+        "game_blank_word_ta": "ஒழுகு",
+        "game_options_ta": [
+          "ஒழுகு",
+          "மனைவிழைவார்",
+          "மாண்பயன்",
+          "எய்தார்"
+        ],
+        "game_options_en": [
+          "By fair-browed wives who are governed Help no friends nor goodness tend",
+          "Who dote on wives lose mighty gain That lust, dynamic men disdain",
+          "Who dotes, unmanly, on his dame His wealth to him and all is shame",
+          "Who's servile to his wife always Shy he feels before the wise"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெண்வழிச் சேறல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 908, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம் மனைவி விரும்பியபடியே வாழ்பவர், தம் நண்பர்க்கு ஏற்பட்ட குறையைப் போக்கமாட்டார் நல்லதும் செய்யமாட்டார். கலைஞர் உரை கூறுவது: ஒரு பெண்ணின் அழகுக்காகவே அவளிடம் மயங்கி அறிவிழந்து நடப்பவர்கள், நண்பர்களைப்பற்றியும் கவலைப்படமாட்டார்கள்; நற்பணிகளையும் ஆற்றிட மாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Being led by Women (Ministers & Elements of State), Kural 908 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who yield to the wishes of their wives will neither relieve the wants of (their) friends nor perform virtuous deeds. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெண்வழிச் சேறல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Being led by Women' thoughtfully.",
+        "quiz_question_ta": "'பெண்வழிச் சேறல்' அதிகாரத்தில் வரும் திருக்குறள் 908 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 908 from Chapter 'Being led by Women'?",
+        "quiz_options_ta": [
+          "மனைவி விரும்பியபடி செய்து நடப்பவர், தமது நண்பர்க்கு உற்ற குறையையும் செய்து முடிக்க மாட்டார், அறத்தையும் செய்ய மாட்டார்.",
+          "உயர் குடியில் பிறந்தவர் ஒழுக்கமும் வாய்மையும் நாணமும் ஆகிய இம் மூன்றிலிருந்தும் வழுவாமல் இயல்பாகவே நன்னெறியில் வாழ்வர்.",
+          "ஒருவனை இகழ்ந்து பேசுதல் விளையாட்டிலும் துன்பம் தருவதாகும், பிறருடைய இயல்பை அறிந்து நடப்பவரிடத்தில் பகைமையிலும் நல்லப் பண்புகள் உள்ளன.",
+          "ஏர் உழுதலை விட எரு இடுதல் நல்லது, இந்த இரண்டும் சேர்ந்துக் களை நீக்கிய பின், நீர் பாய்ச்சுதலை விடக் காவல்காத்தல் நல்லது."
+        ],
+        "quiz_options_en": [
+          "By fair-browed wives who are governed Help no friends nor goodness tend",
+          "The noble-born lack not these three: Good conduct, truth and modesty",
+          "The courteous don't even foes detest For contempt offends even in jest",
+          "Better manure than plough; then weed; Than irrigating, better guard"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பெண்வழிச் சேறல்) பகுதியில் குறள் 908 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனைவி விரும்பியபடி செய்து நடப்பவர், தமது நண்பர்க்கு உற்ற குறையையும் செய்து முடிக்க மாட்டார், அறத்தையும் செய்ய மாட்டார். பரிமேலழகர் உரை நுட்பம்: நல்நுதலாள் பெட்டாங்கு ஒழுகுபவர் - தாம் வேண்டியவாறன்றித் தம் மனையாள் வேண்டியவாறு ஒழுகுவார்; நட்டார் குறை முடியார் - தம்மொடு நட்புச் செய்தார் உற்ற குறை முடிக்கமாட்டார்; நன்று ஆற்றார் - அதுவேயன்றி மறுமைக்குத் துணையாய அறஞ்செய்யவும் மாட்டார். ('நல்நுதலாள்' என்பதனை...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 91: 'Being led by Women'), Kural 908 distills a foundational ethical insight: \"Who to the will of her with beauteous brow their lives conform, Aid not their friends in need, nor acts of charity perform\" Philosophically, Those who yield to the wishes of their wives will neither relieve the wants of (their) friends nor perform virtuous deeds.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "discipline",
+        "justice",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 909,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அறச் செயலும் அதற்க்கு காரணமாக அமைந்த பொருள் முயற்சியும், மற்றக் கடமைகளும் மனைவியின் ஏவலைச் செய்வோரிடத்தில் இல்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: From those who obey the commands of their wives are to be expected neither deeds of virtue, nor those of wealth nor (even) those of pleasure.",
+        "story_title_ta": "பெண்வழிச் சேறல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Being led by Women — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெண்வழிச் சேறல்' என்ற அதிகாரத்திலிருந்து குறள் 909 பற்றிக் கதை சொன்னார். 'அறச்செயலும் சிறந்த பொருட்செயலும், பிற இன்பச் செயல்களும் மனைவி சொல்லைக் கேட்டுச் செய்பவரிடம் இருக்கமாட்டா.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 91, 'Being led by Women', centered on Kural 909: From those who obey the commands of their wives are to be expected neither deeds of virtue, nor those of wealth nor (even) those of pleasure. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஆணவங்கொண்ட பெண்கள் இடுகின்ற ஆணைகளுக்கு அடங்கி இயங்குகின்ற பெண்பித்தர்களிடம் அறநெறிச் செயல்களையோ சிறந்த அறிவாற்றலையோ எதிர்பார்க்க முடியாது.",
+        "moral_en": "Moral: No virtuous deed, no seemly wealth, no pleasure, restsWith them who live obedient to their wives' behests.",
+        "game_blank_word_ta": "பிறவினையும்",
+        "game_options_ta": [
+          "மனைவிழைவார்",
+          "பிறவினையும்",
+          "மாண்பயன்",
+          "எய்தார்"
+        ],
+        "game_options_en": [
+          "Who dote on wives lose mighty gain That lust, dynamic men disdain",
+          "No virtue riches nor joy is seen In those who submit to women",
+          "Who dotes, unmanly, on his dame His wealth to him and all is shame",
+          "Who's servile to his wife always Shy he feels before the wise"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெண்வழிச் சேறல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 909, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறச்செயலும் சிறந்த பொருட்செயலும், பிற இன்பச் செயல்களும் மனைவி சொல்லைக் கேட்டுச் செய்பவரிடம் இருக்கமாட்டா. கலைஞர் உரை கூறுவது: ஆணவங்கொண்ட பெண்கள் இடுகின்ற ஆணைகளுக்கு அடங்கி இயங்குகின்ற பெண்பித்தர்களிடம் அறநெறிச் செயல்களையோ சிறந்த அறிவாற்றலையோ எதிர்பார்க்க முடியாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Being led by Women (Ministers & Elements of State), Kural 909 speaks directly to teens navigating studies, friendships, leadership, and digital choices: From those who obey the commands of their wives are to be expected neither deeds of virtue, nor those of wealth nor (even) those of pleasure. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெண்வழிச் சேறல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Being led by Women' thoughtfully.",
+        "quiz_question_ta": "'பெண்வழிச் சேறல்' அதிகாரத்தில் வரும் திருக்குறள் 909 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 909 from Chapter 'Being led by Women'?",
+        "quiz_options_ta": [
+          "உண்மையான உயர்குடியில் பிறந்தவர்க்கு முகமலர்ச்சி, ஈகை, இனிய சொல், பிறரை இகழ்ந்து கூறாமை ஆகிய நான்கும் நல்லப் பண்புகள் என்பர்.",
+          "அறச் செயலும் அதற்க்கு காரணமாக அமைந்த பொருள் முயற்சியும், மற்றக் கடமைகளும் மனைவியின் ஏவலைச் செய்வோரிடத்தில் இல்லை.",
+          "பண்பு உடையவரிடத்தில் பொருந்தியிருப்பதால் உலகம் உள்ளதாய் இயங்குகின்றது, அஃது இல்லையானால் மண்ணில் புகுந்து அழிந்து போகும்.",
+          "நிலத்திற்கு உரியவன் நிலத்தைச் சென்று பார்க்காமல் வாளா இருந்தால் அந் நிலம் அவனுடைய மனைவியைப் போல் வெறுத்து அவனோடு பிணங்கிவிடும்."
+        ],
+        "quiz_options_en": [
+          "Smile, gift, sweet words and courtesy These four mark true nobility",
+          "No virtue riches nor joy is seen In those who submit to women",
+          "The world rests with the mannered best Or it crumbles and falls to dust",
+          "If landsmen sit sans moving about The field like wife will sulk and pout"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பெண்வழிச் சேறல்) பகுதியில் குறள் 909 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறச் செயலும் அதற்க்கு காரணமாக அமைந்த பொருள் முயற்சியும், மற்றக் கடமைகளும் மனைவியின் ஏவலைச் செய்வோரிடத்தில் இல்லை. பரிமேலழகர் உரை நுட்பம்: அறவினையும் - அறச்செயலும்; ஆன்ற பொருளும் - அது முடித்தற்கு ஏதுவாகிய பொருட்செயலும்; பிறவினையும் - இவ்விரண்டின் வேறாய இன்பச் செயல்களும்; பெண் ஏவல் செய்¢வார்கண் இல் - தம் மனையாள் ஏவல் செய்வார்மாட்டு உளவாகா. (புலன்கள் ஐந்து ஆகலின், 'பிற வினை' எனப் பன்மையாயிற்று...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 91: 'Being led by Women'), Kural 909 distills a foundational ethical insight: \"No virtuous deed, no seemly wealth, no pleasure, restsWith them who live obedient to their wives' behests\" Philosophically, From those who obey the commands of their wives are to be expected neither deeds of virtue, nor those of wealth nor (even) those of pleasure.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "discipline",
+        "wealth",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 910,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நன்றாக எண்ணுதல், பொருந்திய நெஞ்சத்தோடு தக்க நிலையும் உடையார்க்கு எக்காலத்திலும் மனைவியின் ஏவலுக்கு இணங்கும் அறியாமை இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The foolishness that results from devotion to a wife will never be found in those who possess a reflecting mind and a prosperity (flowing) therefrom.",
+        "story_title_ta": "பெண்வழிச் சேறல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Being led by Women — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெண்வழிச் சேறல்' என்ற அதிகாரத்திலிருந்து குறள் 910 பற்றிக் கதை சொன்னார். 'சிந்திக்கும் மனமும் செல்வமும் உடையவர்களிடம் மனைவி சொல்லை மட்டுமே கேட்டுச் செய்யும் அறியாமை ஒருபோதும் இராது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 91, 'Being led by Women', centered on Kural 910: The foolishness that results from devotion to a wife will never be found in those who possess a reflecting mind and a prosperity (flowing) therefrom. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சிந்திக்கும் ஆற்றலும் நெஞ்சுறுதியும் கொண்டவர்கள் காமாந்தகாரர்களாகப் பெண்களையே சுற்றிக் கொண்டு கிடக்க மாட்டார்கள்.",
+        "moral_en": "Moral: Where pleasures of the mind, that dwell in realms of thought, abound, Folly, that springs from overweening woman's love, is never found.",
+        "game_blank_word_ta": "பெண்சேர்ந்தாம்",
+        "game_options_ta": [
+          "மனைவிழைவார்",
+          "மாண்பயன்",
+          "பெண்சேர்ந்தாம்",
+          "எய்தார்"
+        ],
+        "game_options_en": [
+          "Who dote on wives lose mighty gain That lust, dynamic men disdain",
+          "Who dotes, unmanly, on his dame His wealth to him and all is shame",
+          "Thinkers strong and broad of heart By folly on fair sex do not dote",
+          "Who's servile to his wife always Shy he feels before the wise"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெண்வழிச் சேறல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 910, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சிந்திக்கும் மனமும் செல்வமும் உடையவர்களிடம் மனைவி சொல்லை மட்டுமே கேட்டுச் செய்யும் அறியாமை ஒருபோதும் இராது. கலைஞர் உரை கூறுவது: சிந்திக்கும் ஆற்றலும் நெஞ்சுறுதியும் கொண்டவர்கள் காமாந்தகாரர்களாகப் பெண்களையே சுற்றிக் கொண்டு கிடக்க மாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Being led by Women (Ministers & Elements of State), Kural 910 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The foolishness that results from devotion to a wife will never be found in those who possess a reflecting mind and a prosperity (flowing) therefrom. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெண்வழிச் சேறல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Being led by Women' thoughtfully.",
+        "quiz_question_ta": "'பெண்வழிச் சேறல்' அதிகாரத்தில் வரும் திருக்குறள் 910 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 910 from Chapter 'Being led by Women'?",
+        "quiz_options_ta": [
+          "பல கோடிப் பொருளைப் பெறுவதாக இருந்தாலும் உயர்குடியில் பிறந்தவர் தம் குடியின் சிறப்புக் குன்றுவதற்கு காரணமான குற்றங்களைச் செய்வதில்லை.",
+          "மக்களுக்கு உரிய பண்பு இல்லாதவர் அரம் போல் கூர்மையான அறிவுடையவரானாலும், ஓரறிவுயிராகிய மரத்தைப் போன்றவரே ஆவர்.",
+          "நன்றாக எண்ணுதல், பொருந்திய நெஞ்சத்தோடு தக்க நிலையும் உடையார்க்கு எக்காலத்திலும் மனைவியின் ஏவலுக்கு இணங்கும் அறியாமை இல்லை.",
+          "எம்மிடம் ஒரு பொருளும் இல்லை என்று எண்ணி வறுமையால் சோம்பியிருப்பவரைக் கண்டால், நிலமகள் தன்னுள் சிரிப்பாள்."
+        ],
+        "quiz_options_en": [
+          "Even for crores, the noble mood Cannot bend to degrading deed",
+          "The mannerless though sharp like file Are like wooden blocks indocile",
+          "Thinkers strong and broad of heart By folly on fair sex do not dote",
+          "Fair good earth will laugh to see Idlers pleading poverty"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பெண்வழிச் சேறல்) பகுதியில் குறள் 910 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நன்றாக எண்ணுதல், பொருந்திய நெஞ்சத்தோடு தக்க நிலையும் உடையார்க்கு எக்காலத்திலும் மனைவியின் ஏவலுக்கு இணங்கும் அறியாமை இல்லை. பரிமேலழகர் உரை நுட்பம்: எண் சேர்ந்த நெஞ்சத்து இடன் உடையார்க்கு - கருமச்சூழ்ச்சிக்கண் சென்ற நெஞ்சத்தினையும், அதனினாய செல்வத்தினையும் உடையராய வேந்தர்க்கு; பெண் சேர்ந்து ஆம் பேதைமை எஞ்ஞான்றும் இல் - மனையாளைச் சேர்தலான் விளையும் பேதைமை எக்காலத்தும உண்டாகாது. ('இடன் இல் பருவத்தும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 91: 'Being led by Women'), Kural 910 distills a foundational ethical insight: \"Where pleasures of the mind, that dwell in realms of thought, abound, Folly, that springs from overweening woman's love, is never found\" Philosophically, The foolishness that results from devotion to a wife will never be found in those who possess a reflecting mind and a prosperity (flowing) therefrom.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "discipline",
+        "education",
+        "justice"
+      ]
+    }
+  ]
+}

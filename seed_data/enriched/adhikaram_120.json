@@ -1,0 +1,582 @@
+{
+  "adhikaram_id": 120,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.562173008+00:00",
+  "kurals": [
+    {
+      "kural_number": 1191,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தாம் விரும்பும் காதலர் தம்மை விரும்புகின்ற பேறு பெற்றவர், காதல் வாழ்க்கையின் பயனாகிய விதை இல்லாத பழத்தைப் பெற்றவரே ஆவார்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The women who are beloved by those whom they love, have they have not got the stone-less fruit of sexual delight ?",
+        "story_title_ta": "தனிப்படர் மிகுதி — இனியா கற்ற பாடம்",
+        "story_title_en": "The Solitary Anguish — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தனிப்படர் மிகுதி' என்ற அதிகாரத்தில் வரும் குறள் 1191 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1191 from 'The Solitary Anguish', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: தம்மால் விரும்பப்படும் காதலர், தம்மை விரும்புகிற பேறு பெற்றவர் விதையில்லாத பழத்தைப் போன்ற காதல் வாழ்க்கையின் பயனைப் பெற்றவராவார்.",
+        "moral_en": "Moral: The bliss to be beloved by those they love who gains, Of love the stoneless, luscious fruit obtains.",
+        "game_blank_word_ta": "பெற்றாரே",
+        "game_options_ta": [
+          "வாழ்வார்க்கு",
+          "வானம்",
+          "பயந்தற்றால்",
+          "பெற்றாரே"
+        ],
+        "game_options_en": [
+          "The lover-and-beloved's self-givings Are like rains to living beings",
+          "The pride of living is for those Whose love is returned by love so close",
+          "Whose love is void of love in turn Are luckless with all esteems they earn",
+          "Stoneless fruit of love they have Who are beloved by those they love"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தனிப்படர் மிகுதி (கற்பியல்) பிரிவில் அமைந்த குறள் 1191, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தாம் விரும்புபவராலேயே விரும்பப்பட்ட பெண்கள்தாம் காதல் இன்பம் என்னும் விதை இல்லாத கனியைப் பெற்றவர் ஆவர். கலைஞர் உரை கூறுவது: தம்மால் விரும்பப்படும் காதலர், தம்மை விரும்புகிற பேறு பெற்றவர் விதையில்லாத பழத்தைப் போன்ற காதல் வாழ்க்கையின் பயனைப் பெற்றவராவார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Solitary Anguish (Post-marital Love), Kural 1191 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The women who are beloved by those whom they love, have they have not got the stone-less fruit of sexual delight ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தனிப்படர் மிகுதி' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Solitary Anguish'.",
+        "quiz_question_ta": "'தனிப்படர் மிகுதி' அதிகாரத்தில் வரும் திருக்குறள் 1191 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1191 from Chapter 'The Solitary Anguish'?",
+        "quiz_options_ta": [
+          "வளையல்களும் கழன்று பழைய அழகும் கெட்டு, வாடிய தோள்கள் (என் துன்பம் உணராத) கொடியவரி்ன கொடுமையைப் பிறர் அறியச் சொல்கின்றன.",
+          "எம்முடைய காதலர் நேற்றுதான் பிரிந்து சென்றார்; யாமும் மேனி பசலை நிறம் அடைந்து ஏழு நாட்கள் ஆய்விட்ட நிலையில் இருக்கின்றோம்.",
+          "அவரிடம் தவறு ஒன்றும் இல்லையானலும், அவரோடு ஊடுதல், அவர் நம்மேல் மிகுதியாக அன்பு செலுத்துமாறு செய்ய வல்லது.",
+          "தாம் விரும்பும் காதலர் தம்மை விரும்புகின்ற பேறு பெற்றவர், காதல் வாழ்க்கையின் பயனாகிய விதை இல்லாத பழத்தைப் பெற்றவரே ஆவார்."
+        ],
+        "quiz_options_en": [
+          "Bereft of bracelets and old beauty Arms tell the cruel's cruelty",
+          "My lover parted but yesterday; With sallowness it is seventh day The Maid Tells Him",
+          "He is flawless; but I do pout So that his loving ways show out",
+          "Stoneless fruit of love they have Who are beloved by those they love"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (தனிப்படர் மிகுதி) பகுதியில் குறள் 1191 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தாம் விரும்பும் காதலர் தம்மை விரும்புகின்ற பேறு பெற்றவர், காதல் வாழ்க்கையின் பயனாகிய விதை இல்லாத பழத்தைப் பெற்றவரே ஆவார். பரிமேலழகர் உரை நுட்பம்: [அது , தனியாகிய படர் மிகுதி என விரியும் .அஃதாவது , படர் மிகுதி தலைவன்கண் இன்றித் தன்கண்ணதேயாதல் கூறுதல் .அறமும் பொருளும் நோக்கிப் பிரிதலின் , அவன்கண் இல்லையாயிற்று . இது , பசப்புற்று வருந்தியாட்கு உரியதாகலின் , பசப்புறு பருவரலின் பின் வைக்கப்பட்டது...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 120: 'The Solitary Anguish'), Kural 1191 distills a foundational ethical insight: \"The bliss to be beloved by those they love who gains, Of love the stoneless, luscious fruit obtains\" Philosophically, The women who are beloved by those whom they love, have they have not got the stone-less fruit of sexual delight ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1192,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தம்மை விரும்புகின்றவர்க்குக் காதலர் அளிக்கும் அன்பு, உயிர் வாழ்கினறவர்க்கு மேகம் மழை பெய்து காப்பாற்றுதலைப் போன்றது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The bestowal of love by the beloved on those who love them is like the rain raining (at the proper season) on those who live by it.",
+        "story_title_ta": "தனிப்படர் மிகுதி — முகில் கற்ற பாடம்",
+        "story_title_en": "The Solitary Anguish — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தனிப்படர் மிகுதி' என்ற அதிகாரத்தில் வரும் குறள் 1192 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1192 from 'The Solitary Anguish', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதலர்கள் ஒருவரையொருவர் உரிய நேரத்தில் சந்தித்து அன்பு பொழிவது, வாழ்வதற்குத் தேவையான பருவமழை பொழிவது போன்றதாகும்.",
+        "moral_en": "Moral: As heaven on living men showers blessings from above, Is tender grace by lovers shown to those they love.",
+        "game_blank_word_ta": "பயந்தற்றால்",
+        "game_options_ta": [
+          "பயந்தற்றால்",
+          "தாம்வீழ்வார்",
+          "தம்வீழப்",
+          "பெற்றவர்"
+        ],
+        "game_options_en": [
+          "The lover-and-beloved's self-givings Are like rains to living beings",
+          "Stoneless fruit of love they have Who are beloved by those they love",
+          "The pride of living is for those Whose love is returned by love so close",
+          "Whose love is void of love in turn Are luckless with all esteems they earn"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தனிப்படர் மிகுதி (கற்பியல்) பிரிவில் அமைந்த குறள் 1192, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவர் இன்றி வாழ முடியாத மனைவிக்கு, அவள் இன்றி அமையாத கணவர் காட்டும் அன்பு, தன்னை நோக்கி உயிர்வாழும் உலகத்தவர்க்கு வானம் உரிய நேரம் மழை தந்தது போலாம். கலைஞர் உரை கூறுவது: காதலர்கள் ஒருவரையொருவர் உரிய நேரத்தில் சந்தித்து அன்பு பொழிவது, வாழ்வதற்குத் தேவையான பருவமழை பொழிவது போன்றதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Solitary Anguish (Post-marital Love), Kural 1192 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The bestowal of love by the beloved on those who love them is like the rain raining (at the proper season) on those who live by it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தனிப்படர் மிகுதி' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Solitary Anguish'.",
+        "quiz_question_ta": "'தனிப்படர் மிகுதி' அதிகாரத்தில் வரும் திருக்குறள் 1192 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1192 from Chapter 'The Solitary Anguish'?",
+        "quiz_options_ta": [
+          "தம்மை விரும்புகின்றவர்க்குக் காதலர் அளிக்கும் அன்பு, உயிர் வாழ்கினறவர்க்கு மேகம் மழை பெய்து காப்பாற்றுதலைப் போன்றது.",
+          "வளையல்கள் கழன்று தோள்களும் மெலிவடைவதால் (அவற்றைக் காண்போர்) காதலரைக் கொடியவர் என்று கூறுவதைக் கேட்டு வருந்துகின்றேன்.",
+          "தன்னுடைய வளையல்களை நோக்கி, மெல்லிய தோள்களையும் நோக்கித் தன்னுடைய அடிகளையும் நோக்கி அவள் செய்த குறிப்பு உடன்போக்காகிய அதுவேயாகும்.",
+          "ஊடுதலால் உண்டாகின்ற சிறிய துன்பம், காதலர் செய்கின்ற நல்ல அன்பு வாடிவிடக் காரணமாக இருந்தாலும் பெருமை பெறும்."
+        ],
+        "quiz_options_en": [
+          "The lover-and-beloved's self-givings Are like rains to living beings",
+          "Arms thin, armlets loose make you call My sire cruel; that pains my soul",
+          "She views her armlets, her tender arms And then her feet; these are her norms",
+          "Fading first, love blooms and outlives The petty pricks that pouting gives"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (தனிப்படர் மிகுதி) பகுதியில் குறள் 1192 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம்மை விரும்புகின்றவர்க்குக் காதலர் அளிக்கும் அன்பு, உயிர் வாழ்கினறவர்க்கு மேகம் மழை பெய்து காப்பாற்றுதலைப் போன்றது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) வீழ்வார்க்கு வீழ்வார் அளிக்கும் அளி - அறமும் பொருளும் நோக்கிப் பிரிந்தால், தம்மை இன்றியமையா மகளிர்க்கு அவரை இன்றியமையாக் கணவர் அளவறிந்து வந்து செய்யும் தலையளி; வாழ்வார்க்கு வானம் பயந்தற்று - தன்னையே நோக்கி உயிர் வாழ்வார்க்கு வானம் அளவறிந்து...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 120: 'The Solitary Anguish'), Kural 1192 distills a foundational ethical insight: \"As heaven on living men showers blessings from above, Is tender grace by lovers shown to those they love\" Philosophically, The bestowal of love by the beloved on those who love them is like the rain raining (at the proper season) on those who live by it.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "family",
+        "time",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1193,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: காதலரால் விரும்பப்படுகின்றவர்க்கும் ( பிரிவுத் துன்பம் இருந்தாலும்) மீண்டும் வந்தபின் வாழ்வோம் என்று இருக்கும் செருக்குத் தகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The pride that says \"we shall live\" suits only those who are loved by their beloved (husbands).",
+        "story_title_ta": "தனிப்படர் மிகுதி — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Solitary Anguish — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தனிப்படர் மிகுதி' என்ற அதிகாரத்தில் வரும் குறள் 1193 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1193 from 'The Solitary Anguish', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதலன்பில் கட்டுண்டு பிரியாமல் இணைந்திருப்பவர்களுக்குத்தான் இன்புற்று வாழ்கிறோம் எனும் பெருமிதம் ஏற்படும்.",
+        "moral_en": "Moral: Who love and are beloved to them aloneBelongs the boast, 'We've made life's very joys our own.'.",
+        "game_blank_word_ta": "அமையுமே",
+        "game_options_ta": [
+          "தாம்வீழ்வார்",
+          "அமையுமே",
+          "தம்வீழப்",
+          "பெற்றவர்"
+        ],
+        "game_options_en": [
+          "Stoneless fruit of love they have Who are beloved by those they love",
+          "The pride of living is for those Whose love is returned by love so close",
+          "The lover-and-beloved's self-givings Are like rains to living beings",
+          "Whose love is void of love in turn Are luckless with all esteems they earn"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தனிப்படர் மிகுதி (கற்பியல்) பிரிவில் அமைந்த குறள் 1193, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தாம் விரும்பும் கணவனால் விரும்பப்பட்ட பெண்ணுக்கே (எப்படியும் விரைவில் அவர் வருவார் என்ற உறுதியினால்) வாழ்வோம் என்னும் செருக்கு, பொருத்தமாக இருக்கும். கலைஞர் உரை கூறுவது: காதலன்பில் கட்டுண்டு பிரியாமல் இணைந்திருப்பவர்களுக்குத்தான் இன்புற்று வாழ்கிறோம் எனும் பெருமிதம் ஏற்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Solitary Anguish (Post-marital Love), Kural 1193 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The pride that says \"we shall live\" suits only those who are loved by their beloved (husbands). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தனிப்படர் மிகுதி' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Solitary Anguish'.",
+        "quiz_question_ta": "'தனிப்படர் மிகுதி' அதிகாரத்தில் வரும் திருக்குறள் 1193 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1193 from Chapter 'The Solitary Anguish'?",
+        "quiz_options_ta": [
+          "நெஞ்சே! கொடியவர் என்று சொல்லப்படுகின்ற காதலர்க்கு என் மெலிந்த தோள்களின் ஆரவாரத்தை உரைத்து, அந்த உதவியால் பெருமை அடைவாயோ?",
+          "காதலரால் விரும்பப்படுகின்றவர்க்கும் ( பிரிவுத் துன்பம் இருந்தாலும்) மீண்டும் வந்தபின் வாழ்வோம் என்று இருக்கும் செருக்குத் தகும்.",
+          "கண்ணினால் காமநோயைத் தெரிவித்துப் பிரியாமல் இருக்குமாறு இரத்தல், பெண் தன்மைக்கு மேலும் பெண் தன்மை உடையது என்று கூறுவர்.",
+          "நிலத்தோடு நீர் பொருந்தி கலந்தாற் போன்ற அன்புடைய காதலரிடத்தில் ஊடுவதை விட இன்பம் தருகின்ற தேவருலம் இருக்கின்றதோ."
+        ],
+        "quiz_options_en": [
+          "Go and tell the cruel, O mind Bruit ov'r my arms and glory find",
+          "The pride of living is for those Whose love is returned by love so close",
+          "To express love-pangs by eyes and pray Is womanhood's womanly way",
+          "Is there a heaven like sulk beneath Of hearts that join like water and earth?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (தனிப்படர் மிகுதி) பகுதியில் குறள் 1193 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காதலரால் விரும்பப்படுகின்றவர்க்கும் ( பிரிவுத் துன்பம் இருந்தாலும்) மீண்டும் வந்தபின் வாழ்வோம் என்று இருக்கும் செருக்குத் தகும். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) வீழுநர் வீழப்படுவார்க்கு அமையுமே - தாம் விழையும் கணவரான் விழையப்படும் மகளிர்க்கு ஏற்புடைத்து ; வாழுநம் என்னும் செருக்கு - காதலர் பிரிந்தாராயினும் நம்மை நினைந்து கடிதின் வருவர்; வந்தால் நாம் இன்புற்று வாழ்தும் என்றிருக்கும் தருக்கு. ('நாம...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 120: 'The Solitary Anguish'), Kural 1193 distills a foundational ethical insight: \"Who love and are beloved to them aloneBelongs the boast, 'We've made life's very joys our own.'\" Philosophically, The pride that says \"we shall live\" suits only those who are loved by their beloved (husbands).",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "humility",
+        "love",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1194,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தாம் விரும்பும் காதலரால் விரும்பப்படாவிட்டால் உலகத்தாரால் விரும்பப்படும் நிலையில் உள்ளவரும் நல்வினை பொருந்தியவர் அல்லர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Even those who are esteemed (by other women) are devoid of excellence, if they are not loved by their beloved.",
+        "story_title_ta": "தனிப்படர் மிகுதி — கவின் கற்ற பாடம்",
+        "story_title_en": "The Solitary Anguish — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தனிப்படர் மிகுதி' என்ற அதிகாரத்தில் வரும் குறள் 1194 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1194 from 'The Solitary Anguish', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: விரும்பப்படாத நிலை ஏற்படின், அந்தக் காதலர் நட்புணர்வு இல்லாதவராகவே கருதப்படுவார்.",
+        "moral_en": "Moral: Those well-beloved will luckless prove, Unless beloved by those they love.",
+        "game_blank_word_ta": "வீழப்",
+        "game_options_ta": [
+          "தாம்வீழ்வார்",
+          "தம்வீழப்",
+          "வீழப்",
+          "பெற்றவர்"
+        ],
+        "game_options_en": [
+          "Stoneless fruit of love they have Who are beloved by those they love",
+          "The lover-and-beloved's self-givings Are like rains to living beings",
+          "Whose love is void of love in turn Are luckless with all esteems they earn",
+          "The pride of living is for those Whose love is returned by love so close"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தனிப்படர் மிகுதி (கற்பியல்) பிரிவில் அமைந்த குறள் 1194, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தாம் விரும்பும் கணவனால் விரும்பப்படாதவளாக மனைவி இருந்துவிடுவாளானால், அவள் தீவினை வசப்பட்டவளே. கலைஞர் உரை கூறுவது: விரும்பப்படாத நிலை ஏற்படின், அந்தக் காதலர் நட்புணர்வு இல்லாதவராகவே கருதப்படுவார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Solitary Anguish (Post-marital Love), Kural 1194 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even those who are esteemed (by other women) are devoid of excellence, if they are not loved by their beloved. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தனிப்படர் மிகுதி' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Solitary Anguish'.",
+        "quiz_question_ta": "'தனிப்படர் மிகுதி' அதிகாரத்தில் வரும் திருக்குறள் 1194 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1194 from Chapter 'The Solitary Anguish'?",
+        "quiz_options_ta": [
+          "தழுவிய கை‌களைத் தளர்த்தியவுடனே, பைந்தொடி அணிந்த காதலியின் நெற்றி, ( அவ்வளவு சிறியதாகிய பிரிவையும் பொறுக்காமல்) பசலை நிறம் அடைந்தது.",
+          "நினைத்த அளவிலே களிப்படைதலும் கண்ட அளவிலே மகிழ்ச்சி அடைதலும் ஆகிய இந்த இருவகை தன்மையும் கள்ளுக்கு இல்‌லை; காமத்திற்கு உண்டு",
+          "தாம் விரும்பும் காதலரால் விரும்பப்படாவிட்டால் உலகத்தாரால் விரும்பப்படும் நிலையில் உள்ளவரும் நல்வினை பொருந்தியவர் அல்லர்.",
+          "காதலரைத் தழுவிக்கொண்டு விடாமலிருப்பதற்கு காரணமான ஊடலுள், என்னுடைய உள்ளத்தை உடைக்க வல்ல படை தோன்றுகிறது."
+        ],
+        "quiz_options_en": [
+          "The front of this fair one O paled As my clasping arms loosed their hold",
+          "Rapture at thought and joy when seen Belong to love and not to wine",
+          "Whose love is void of love in turn Are luckless with all esteems they earn",
+          "In long pout after embrace sweet A weapon is up to break my heart"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (தனிப்படர் மிகுதி) பகுதியில் குறள் 1194 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தாம் விரும்பும் காதலரால் விரும்பப்படாவிட்டால் உலகத்தாரால் விரும்பப்படும் நிலையில் உள்ளவரும் நல்வினை பொருந்தியவர் அல்லர். பரிமேலழகர் உரை நுட்பம்: ('காதலரை இயற்பழித்தலை அஞ்சி அவரருளின்மை மறைத்த நீ கடவுட் கற்பினையாகலின், கற்புடை மகளிரால் நன்கு மதிக்கப்படுதி', என்ற தோழிக்குச் சொல்லியது.) வீழப்படுவார் - கற்புடை மகளிரால் நன்கு மதிக்கப்படுவாரும்; தாம் வீழ்வார் வீழப்படார் எனின் கெழீஇயிலர் - தாம் விரும்பும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 120: 'The Solitary Anguish'), Kural 1194 distills a foundational ethical insight: \"Those well-beloved will luckless prove, Unless beloved by those they love\" Philosophically, Even those who are esteemed (by other women) are devoid of excellence, if they are not loved by their beloved.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "family",
+        "friendship",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1195,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நாம் காதல் கொண்ட காதலர் தாமும் அவ்வாறே நம்மிடம் காதல் கொள்ளாதபோது, நமக்கு அவர் என்ன நன்மை செய்வார்?",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: He who is beloved by me, what will he do to me, if I am not beloved by him ?",
+        "story_title_ta": "தனிப்படர் மிகுதி — நிலா கற்ற பாடம்",
+        "story_title_en": "The Solitary Anguish — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தனிப்படர் மிகுதி' என்ற அதிகாரத்தில் வரும் குறள் 1195 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1195 from 'The Solitary Anguish', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நான் விரும்பிக் காதல் கொள்வது போன்று அவர் என்னை விரும்பிக் காதல் கொள்ளாத நிலையில் அவரால் எனக்கு என்ன இன்பம் கிடைக்கப் போகிறது?",
+        "moral_en": "Moral: From him I love to me what gain can be, Unless, as I love him, he loveth me.",
+        "game_blank_word_ta": "கொண்டார்",
+        "game_options_ta": [
+          "தாம்வீழ்வார்",
+          "தம்வீழப்",
+          "பெற்றவர்",
+          "கொண்டார்"
+        ],
+        "game_options_en": [
+          "Stoneless fruit of love they have Who are beloved by those they love",
+          "The lover-and-beloved's self-givings Are like rains to living beings",
+          "The pride of living is for those Whose love is returned by love so close",
+          "What can our lover do us now If he does not requite our love?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தனிப்படர் மிகுதி (கற்பியல்) பிரிவில் அமைந்த குறள் 1195, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாம் காதலித்தவர் நம்மைக் காதலிக்கவில்லை என்றால் நமக்கு எத்தகைய மகிழ்ச்சியைத் தருவார்? கலைஞர் உரை கூறுவது: நான் விரும்பிக் காதல் கொள்வது போன்று அவர் என்னை விரும்பிக் காதல் கொள்ளாத நிலையில் அவரால் எனக்கு என்ன இன்பம் கிடைக்கப் போகிறது? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Solitary Anguish (Post-marital Love), Kural 1195 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who is beloved by me, what will he do to me, if I am not beloved by him ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தனிப்படர் மிகுதி' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Solitary Anguish'.",
+        "quiz_question_ta": "'தனிப்படர் மிகுதி' அதிகாரத்தில் வரும் திருக்குறள் 1195 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1195 from Chapter 'The Solitary Anguish'?",
+        "quiz_options_ta": [
+          "தழுவுதலுக்கு இடையே குளி்ந்த காற்று நுழைய, காதலியின் பெரிய மழை போன்ற கண்கள் பசலை நிறம் அடைந்தன.",
+          "காமம் பனையளவாக நிறைய வரும்போது காதலரோடு தினையளவாகச் சிறிதேனும் ஊடல் கொள்ளாமல் இருக்க வேண்டும்.",
+          "தவறு இல்லாத போதும் ஊடலுக்கு ஆளாகித் தாம் விரும்பும் மகளிரின் மெல்லிய தோள்களை நீங்கி இருக்கும் போது ஓர் இன்பம் உள்ளது.",
+          "நாம் காதல் கொண்ட காதலர் தாமும் அவ்வாறே நம்மிடம் காதல் கொள்ளாதபோது, நமக்கு அவர் என்ன நன்மை செய்வார்?"
+        ],
+        "quiz_options_en": [
+          "Cool breeze crept between our embrace Her large rain-cloud-eyes paled at once",
+          "When passion grows palmyra-tall Sulking is wrong though millet-small",
+          "Though free form faults, one feels the charms Of feigned release from lover's arms",
+          "What can our lover do us now If he does not requite our love?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (தனிப்படர் மிகுதி) பகுதியில் குறள் 1195 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நாம் காதல் கொண்ட காதலர் தாமும் அவ்வாறே நம்மிடம் காதல் கொள்ளாதபோது, நமக்கு அவர் என்ன நன்மை செய்வார்? பரிமேலழகர் உரை நுட்பம்: ('அவர்மேற் காதலுடைமையின் அவர் கருத்தறிந்து ஆற்றினாய்', என்ற தோழிக்குச் சொல்லியது.) நாம் காதல் கொண்டார் நமக்கு எவன் செய்ப - நம்மால் காதல் செய்யப்பட்டவர் நமக்கு என்ன இன்பத்தைச் செய்வர்; தாம் காதல் கொள்ளாக்கடை - அவ்வாறே தாமும் நம்கண் காதல் செய்யாவழி. (எச்ச உம்மை...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 120: 'The Solitary Anguish'), Kural 1195 distills a foundational ethical insight: \"From him I love to me what gain can be, Unless, as I love him, he loveth me\" Philosophically, He who is beloved by me, what will he do to me, if I am not beloved by him ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1196,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: காதல் ஒரு பக்கமாக இருத்தல் துன்பமானது; காவடியின் பாரம் போல் இருபக்கமாகவும் ஒத்திருப்பது இன்பமானதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Lust, like the weight of the KAVADI, pains if it lies in one end only but pleases if it is in both.",
+        "story_title_ta": "தனிப்படர் மிகுதி — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Solitary Anguish — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தனிப்படர் மிகுதி' என்ற அதிகாரத்தில் வரும் குறள் 1196 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1196 from 'The Solitary Anguish', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காவடித் தண்டின் இரண்டு பக்கங்களும் ஒரே அளவு கனமாக இருப்பதுபோல், காதலும் ஆண், பெண் எனும் இருவரிடத்திலும் மலர வேண்டும்; ஒரு பக்கம் மட்டுமே ஏற்படும் காதலால் பயனுமில்லை; துயரமும் உருவாகும்.",
+        "moral_en": "Moral: Love on one side is bad; like balanced loadBy porter borne, love on both sides is good.",
+        "game_blank_word_ta": "காமம்காப்",
+        "game_options_ta": [
+          "காமம்காப்",
+          "தாம்வீழ்வார்",
+          "தம்வீழப்",
+          "பெற்றவர்"
+        ],
+        "game_options_en": [
+          "One sided pains; love in both souls Poises well like shoulder poles",
+          "Stoneless fruit of love they have Who are beloved by those they love",
+          "The lover-and-beloved's self-givings Are like rains to living beings",
+          "The pride of living is for those Whose love is returned by love so close"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தனிப்படர் மிகுதி (கற்பியல்) பிரிவில் அமைந்த குறள் 1196, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆண், பெண் என்னும் இரு பக்கத்தில் ஒரு பக்கம் மட்டுமே காதல் இருந்தால் அது கொடுமை காவடியின் பாரத்தைப் போல இருபக்கமும் இருந்தால்தான் இனிது. கலைஞர் உரை கூறுவது: காவடித் தண்டின் இரண்டு பக்கங்களும் ஒரே அளவு கனமாக இருப்பதுபோல், காதலும் ஆண், பெண் எனும் இருவரிடத்திலும் மலர வேண்டும்; ஒரு பக்கம் மட்டுமே ஏற்படும் காதலால் பயனுமில்லை; துயரமும் உருவாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Solitary Anguish (Post-marital Love), Kural 1196 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Lust, like the weight of the KAVADI, pains if it lies in one end only but pleases if it is in both. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தனிப்படர் மிகுதி' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Solitary Anguish'.",
+        "quiz_question_ta": "'தனிப்படர் மிகுதி' அதிகாரத்தில் வரும் திருக்குறள் 1196 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1196 from Chapter 'The Solitary Anguish'?",
+        "quiz_options_ta": [
+          "காதல் ஒரு பக்கமாக இருத்தல் துன்பமானது; காவடியின் பாரம் போல் இருபக்கமாகவும் ஒத்திருப்பது இன்பமானதாகும்.",
+          "காதலியின் ஒளி பொருந்திய நெற்றி, பசலை நிறம் உற்றதைக் கண்டு, அவளுடைய க்ண்களில் பசலையும் துன்பம் அடைந்து விட்டது.",
+          "என்னை விரும்பாமல் புறக்கணித்துத் தனக்கு விருப்பமானவற்றையே செய்து ஒழுகினாலும், என்னுடைய கண்கள் காதலனைக் காணாமல் பொருந்தவில்லை.",
+          "உண்பதை விட முன் உண்ட உணவுச் செரிப்பது இன்பமானது, அதுபோல் காமத்தில் கூடுவதைவிட ஊடுதல் இன்பமானது."
+        ],
+        "quiz_options_en": [
+          "One sided pains; love in both souls Poises well like shoulder poles",
+          "Pale eyes pained seeing the pallor Of the bright forehead of this fair",
+          "Though slighting me he acts his will My restless eyes would see him still",
+          "Sweeter than meal is digestion And sulk in love than union"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (தனிப்படர் மிகுதி) பகுதியில் குறள் 1196 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காதல் ஒரு பக்கமாக இருத்தல் துன்பமானது; காவடியின் பாரம் போல் இருபக்கமாகவும் ஒத்திருப்பது இன்பமானதாகும். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) காமம் ஒரு தலையான் இன்னாது - மகளிர் ஆடவர் என்னும் இரு தலையினும் வேட்கை ஒருதலைக்கண்ணேயாயின், அஃது இன்னாது; காப்போல இருதலையானும் இனிது - காவினது பாரம்போல இருதலைக்கண்ணும் ஒப்பின் அஃது இனிது. (மூன்றன் உருபுகள் ஏழன் பொருண்மைக் கண் வந்தன. கா...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 120: 'The Solitary Anguish'), Kural 1196 distills a foundational ethical insight: \"Love on one side is bad; like balanced loadBy porter borne, love on both sides is good\" Philosophically, Lust, like the weight of the KAVADI, pains if it lies in one end only but pleases if it is in both.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "harmony",
+        "kindness",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 1197,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ( காதலர் இருவரிடத்திலும் ஒத்திருக்காமல்) ஒருவரிடத்தில் மட்டும் காமன் நின்று இயங்குவதால், என்னுடைய துன்பத்தையும் வருத்தத்தையும் அறியானோ?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Would not cupid who abides and contends in one party (only) witness the pain and sorrow (in that party)?",
+        "story_title_ta": "தனிப்படர் மிகுதி — இனியா கற்ற பாடம்",
+        "story_title_en": "The Solitary Anguish — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தனிப்படர் மிகுதி' என்ற அதிகாரத்தில் வரும் குறள் 1197 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1197 from 'The Solitary Anguish', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காமன், ஒரு பக்கமாக மட்டும் இருப்பதால், என்னைக் காதல் நோய் வருத்துவதையும், என் மேனியில் பசலை படர்வதையும் கண்டு கொள்ளமாட்டான் போலும்!",
+        "moral_en": "Moral: While Kaman rushes straight at me alone, Is all my pain and wasting grief unknown.",
+        "game_blank_word_ta": "காமன்",
+        "game_options_ta": [
+          "தாம்வீழ்வார்",
+          "காமன்",
+          "தம்வீழப்",
+          "பெற்றவர்"
+        ],
+        "game_options_en": [
+          "Stoneless fruit of love they have Who are beloved by those they love",
+          "This cupid aims at me alone; Knows he not my pallor and pain?",
+          "The lover-and-beloved's self-givings Are like rains to living beings",
+          "The pride of living is for those Whose love is returned by love so close"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தனிப்படர் மிகுதி (கற்பியல்) பிரிவில் அமைந்த குறள் 1197, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆண், பெண் இருவரிடமும் இருந்து செயல் ஆற்றாமல் ஒருவரிடம் மட்டுமே போரிடும் காமன், இன்னொருவரின் மேனி நிற வேறுபாட்டால் வரும் துன்பத்தையும் வருத்தத்தையும் அறிய மாட்டானோ? கலைஞர் உரை கூறுவது: காமன், ஒரு பக்கமாக மட்டும் இருப்பதால், என்னைக் காதல் நோய் வருத்துவதையும், என் மேனியில் பசலை படர்வதையும் கண்டு கொள்ளமாட்டான் போலும்! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Solitary Anguish (Post-marital Love), Kural 1197 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Would not cupid who abides and contends in one party (only) witness the pain and sorrow (in that party)? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தனிப்படர் மிகுதி' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Solitary Anguish'.",
+        "quiz_question_ta": "'தனிப்படர் மிகுதி' அதிகாரத்தில் வரும் திருக்குறள் 1197 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1197 from Chapter 'The Solitary Anguish'?",
+        "quiz_options_ta": [
+          "நெஞ்சே! ( காதலால் வளர்ந்த) இத் துன்ப நோயைத் தீர்க்கும் மருந்து ஏதாவது ஒன்றை நீ நினைத்துப் பார்த்து எனக்குச் சொல்ல மாட்டாயோ?",
+          "( காதலர் இருவரிடத்திலும் ஒத்திருக்காமல்) ஒருவரிடத்தில் மட்டும் காமன் நின்று இயங்குவதால், என்னுடைய துன்பத்தையும் வருத்தத்தையும் அறியானோ?",
+          "தோழி! யான் அவரோடு ஊடுவதற்காகச் சென்றேன்; ஆனால், என்னுடைய நெஞ்சம் அந்த நோக்கத்தை மறந்து அவரோடு கூடுவதற்காகச் சென்றது.",
+          "ஊடலில் தோற்றவரே வெற்றி பெற்றவர் ஆவர், அந்த உண்மை,ஊடல் முடிந்த பின் கூடிமகிழும் நிலையில் காணப்படும்."
+        ],
+        "quiz_options_en": [
+          "Think of, O heart, some remedy To cure this chronic malady",
+          "This cupid aims at me alone; Knows he not my pallor and pain?",
+          "Huff I would, maid, but I forget; And leap to embrace him direct",
+          "The yielder wins in lover's pout Reunited joy brings it out"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (தனிப்படர் மிகுதி) பகுதியில் குறள் 1197 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ( காதலர் இருவரிடத்திலும் ஒத்திருக்காமல்) ஒருவரிடத்தில் மட்டும் காமன் நின்று இயங்குவதால், என்னுடைய துன்பத்தையும் வருத்தத்தையும் அறியானோ? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) ஒருவர்கண் நின்று ஒழுகுவான் காமன் - காமம் நுகர்தற்கு உரிய இருவரிடத்தும் ஒப்பநிற்றல் ஒழிந்து ஒருவரிடத்தே நின்று பொருகின்ற காமக் கடவுள்; பருவரலும் பைதலும் காணான்கொல் - அவ்விடத்துப் பசப்பானாய பருவரலும் படர் மிகுதியும் அறியான் கொல்லோ. ('விழைவும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 120: 'The Solitary Anguish'), Kural 1197 distills a foundational ethical insight: \"While Kaman rushes straight at me alone, Is all my pain and wasting grief unknown\" Philosophically, Would not cupid who abides and contends in one party (only) witness the pain and sorrow (in that party)?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1198,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தான் விரும்பும் காதலரின் இனிய சொல்லைப் பெறாமல் உலகத்தில் ( பிரிவுத் துன்பத்தைப் பொறுத்து) வாழ்கின்றவரைப் போல் வன்கண்மை உடையவர் இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: There is no one in the world so hard-hearted as those who can live without receiving (even) a kind word from their beloved.",
+        "story_title_ta": "தனிப்படர் மிகுதி — முகில் கற்ற பாடம்",
+        "story_title_en": "The Solitary Anguish — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தனிப்படர் மிகுதி' என்ற அதிகாரத்தில் வரும் குறள் 1198 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1198 from 'The Solitary Anguish', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பிரிந்து சென்ற காதலரிடமிருந்து ஓர் இனிய சொல்கூட வராத நிலையில், உலகில் வாழ்கின்றவரைப் போல், கல் நெஞ்சம் உடையவர் யாரும் இருக்க முடியாது.",
+        "moral_en": "Moral: Who hear from lover's lips no pleasant word from day to day, Yet in the world live out their life,- no braver souls than they.",
+        "game_blank_word_ta": "வாழ்வாரின்",
+        "game_options_ta": [
+          "தாம்வீழ்வார்",
+          "தம்வீழப்",
+          "வாழ்வாரின்",
+          "பெற்றவர்"
+        ],
+        "game_options_en": [
+          "Stoneless fruit of love they have Who are beloved by those they love",
+          "The lover-and-beloved's self-givings Are like rains to living beings",
+          "None is so firm as she who loves Without kind words from whom she dotes",
+          "The pride of living is for those Whose love is returned by love so close"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தனிப்படர் மிகுதி (கற்பியல்) பிரிவில் அமைந்த குறள் 1198, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம்மால் விரும்பப்படும் கணவனிடமிருந்து ஓர் இன்சொல் கூடப் பெறாமல் உயிர் வாழும் மனைவியைப் போன்ற கொடியவர் இவ்வுலகத்தில் வேறு இல்லை. கலைஞர் உரை கூறுவது: பிரிந்து சென்ற காதலரிடமிருந்து ஓர் இனிய சொல்கூட வராத நிலையில், உலகில் வாழ்கின்றவரைப் போல், கல் நெஞ்சம் உடையவர் யாரும் இருக்க முடியாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Solitary Anguish (Post-marital Love), Kural 1198 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is no one in the world so hard-hearted as those who can live without receiving (even) a kind word from their beloved. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தனிப்படர் மிகுதி' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Solitary Anguish'.",
+        "quiz_question_ta": "'தனிப்படர் மிகுதி' அதிகாரத்தில் வரும் திருக்குறள் 1198 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1198 from Chapter 'The Solitary Anguish'?",
+        "quiz_options_ta": [
+          "என் நெஞ்சே! வாழ்க! அவர் நம்மிடம் காதல் இல்லாதவராக இருக்க, நீ மட்டும் அவரை நினைந்து வருந்துவது உன் அறியாமையே!",
+          "மை தீட்டும் நேரத்தில் தீட்டு் கோலைக் காணாத கண்களைப் போல், காதலனைக் கண்டபோது மட்டும் அவனுடைய குற்றத்தை நினைக்காமல் மறந்து விடுகின்றேன்.",
+          "தான் விரும்பும் காதலரின் இனிய சொல்லைப் பெறாமல் உலகத்தில் ( பிரிவுத் துன்பத்தைப் பொறுத்து) வாழ்கின்றவரைப் போல் வன்கண்மை உடையவர் இல்லை.",
+          "நெற்றி வியர்க்கும் படியாக கூடுவதில் உளதாகும் இனிமையை ஊடியிருந்து உணர்வதன் பயனாக இனியும் பெறுவோமோ."
+        ],
+        "quiz_options_en": [
+          "Bless O mind! you pine in vain For me he has no love serene",
+          "When close I see not lord's blemish Like eyes that see not painter's brush",
+          "None is so firm as she who loves Without kind words from whom she dotes",
+          "Shall not our pouting again give The dew-browed joy of joint love?"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (தனிப்படர் மிகுதி) பகுதியில் குறள் 1198 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தான் விரும்பும் காதலரின் இனிய சொல்லைப் பெறாமல் உலகத்தில் ( பிரிவுத் துன்பத்தைப் பொறுத்து) வாழ்கின்றவரைப் போல் வன்கண்மை உடையவர் இல்லை. பரிமேலழகர் உரை நுட்பம்: (தலைமகன் தூது வரக்காணாது சொல்லியது.) வீழ்வாரின் இன்சொல் பெறாது வாழ்வாரின் - தம்மால் விரும்பப்படும் காதலர் திறத்துநின்றும்ஓர் இன்சொல்லளவும் பெறாதே பிரிவாற்றி உயிர் வாழ்கின்ற மகளிர் போல; வன்கணார் உலகத்து இல் - வன்கண்மையுடையார் இவ்வுலகத்து இல்லை...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 120: 'The Solitary Anguish'), Kural 1198 distills a foundational ethical insight: \"Who hear from lover's lips no pleasant word from day to day, Yet in the world live out their life,- no braver souls than they\" Philosophically, There is no one in the world so hard-hearted as those who can live without receiving (even) a kind word from their beloved.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "love",
+        "family",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1199,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: யான் விரும்பிய காதலர் மீண்டு வந்து அன்பு செய்யமாட்டார் என்றாலும், அவரைப் பற்றிய புகழைக் ‌கேட்பதும் என் செவிக்கு இன்பமாக இருக்கின்றது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Though my beloved bestows no love on one, still are his words sweet to my ears.",
+        "story_title_ta": "தனிப்படர் மிகுதி — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Solitary Anguish — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தனிப்படர் மிகுதி' என்ற அதிகாரத்தில் வரும் குறள் 1199 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1199 from 'The Solitary Anguish', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என் அன்புக்குரியவர் என்னிடம் அன்பு காட்டாதவராகப் பிரிந்து இருப்பினும், அவரைப் பற்றிய புகழ் உரை என் செவிக்குச் செந்தேனாகும்.",
+        "moral_en": "Moral: Though he my heart desires no grace accords to me, Yet every accent of his voice is melody.",
+        "game_blank_word_ta": "எனினும்",
+        "game_options_ta": [
+          "தாம்வீழ்வார்",
+          "தம்வீழப்",
+          "பெற்றவர்",
+          "எனினும்"
+        ],
+        "game_options_en": [
+          "Stoneless fruit of love they have Who are beloved by those they love",
+          "The lover-and-beloved's self-givings Are like rains to living beings",
+          "The pride of living is for those Whose love is returned by love so close",
+          "The lover accords not my desires And yet his words sweeten my ears"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தனிப்படர் மிகுதி (கற்பியல்) பிரிவில் அமைந்த குறள் 1199, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நான் காதலிக்கும் என் கணவர் என்மீது அன்பற்றவர்தாம் என்றாலும், அவரிடம் இருந்து வரும் எந்தச் சொல்லும் என் செவிக்கு இனிமையானதே. கலைஞர் உரை கூறுவது: என் அன்புக்குரியவர் என்னிடம் அன்பு காட்டாதவராகப் பிரிந்து இருப்பினும், அவரைப் பற்றிய புகழ் உரை என் செவிக்குச் செந்தேனாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Solitary Anguish (Post-marital Love), Kural 1199 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though my beloved bestows no love on one, still are his words sweet to my ears. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தனிப்படர் மிகுதி' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Solitary Anguish'.",
+        "quiz_question_ta": "'தனிப்படர் மிகுதி' அதிகாரத்தில் வரும் திருக்குறள் 1199 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1199 from Chapter 'The Solitary Anguish'?",
+        "quiz_options_ta": [
+          "நெஞ்சே (என்னுடன்) இருந்து அவரை நினைந்து வருந்துவது ஏன்? இந்தத் துன்பநோயை உண்டாக்கியவரிடம் இவ்வாறு அன்பு கொண்டு நினைக்கும் தன்மை இல்லையே!",
+          "காதலரைக் யான் காணும்போது ( அவருடைய செயல்களில்) தவறானவற்றைக் காண்பதில்லை; அவரைக் காணாதபோது தவறு அல்லாத நன்மைகளைக் காண்பதில்லை.",
+          "காதலி இன்னும் ஊடுவாளாக, அந்த ஊடலைத் தணிக்கும் பொருட்டு யாம் இரந்து நிற்குமாறு இராக்காலம் இன்னும் நீட்டிப்பதாக.",
+          "யான் விரும்பிய காதலர் மீண்டு வந்து அன்பு செய்யமாட்டார் என்றாலும், அவரைப் பற்றிய புகழைக் ‌கேட்பதும் என் செவிக்கு இன்பமாக இருக்கின்றது."
+        ],
+        "quiz_options_en": [
+          "O mind, why pine and sit moody? Who made you so pale lacks pity",
+          "When he's with me I see not fault And nought but fault when he is not",
+          "Sulk on O belle of shining jewels! Prolong O night! our delight swells!",
+          "The lover accords not my desires And yet his words sweeten my ears"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (தனிப்படர் மிகுதி) பகுதியில் குறள் 1199 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யான் விரும்பிய காதலர் மீண்டு வந்து அன்பு செய்யமாட்டார் என்றாலும், அவரைப் பற்றிய புகழைக் ‌கேட்பதும் என் செவிக்கு இன்பமாக இருக்கின்றது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நசைஇயார் நல்கார் எனினும் - என்னால் நச்சப்பட்ட காதலர் என்மாட்டு அன்பிலரேயாயினும்; அவர்மாட்டு இசையும் செவிக்கு இனிய - அவர் திறத்து யாதானும் ஓர் சொல்லும் என் செவிக்கு இனியவாம். (இழிவு சிறப்பு உம்மை, 'அவர் வாரார் என்னுஞ் சொல்லாயினும் அமையும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 120: 'The Solitary Anguish'), Kural 1199 distills a foundational ethical insight: \"Though he my heart desires no grace accords to me, Yet every accent of his voice is melody\" Philosophically, Though my beloved bestows no love on one, still are his words sweet to my ears.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "love",
+        "harmony",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1200,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நெஞ்சமே! நீ வாழி! அன்பு இல்லாதவரிடம் உன் மிகுந்த துன்பத்தைச் சொல்கின்றாய்! அதை விட எளிதாகக் கடலைத் தூர்ப்பாயாக.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Live, O my soul, would you who relate your great sorrow to strangers, try rather to fill up your own sea (of sorrow).",
+        "story_title_ta": "தனிப்படர் மிகுதி — கவின் கற்ற பாடம்",
+        "story_title_en": "The Solitary Anguish — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தனிப்படர் மிகுதி' என்ற அதிகாரத்தில் வரும் குறள் 1200 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1200 from 'The Solitary Anguish', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நெஞ்சமே! நீ வாழ்க! உன்னிடம் அன்பு இல்லாதவரிடம் உனது துன்பத்தைச் சொல்லி ஆறுதல் பெறுவதைக் காட்டிலும் கடலைத் தூர்ப்பது எளிதான வேலையாகும்.",
+        "moral_en": "Moral: Tell him thy pain that loves not thee?Farewell, my soul, fill up the sea.",
+        "game_blank_word_ta": "கடலைச்",
+        "game_options_ta": [
+          "கடலைச்",
+          "தாம்வீழ்வார்",
+          "தம்வீழப்",
+          "பெற்றவர்"
+        ],
+        "game_options_en": [
+          "You tell your grief to listless he Bless my heart! rather fill up sea!",
+          "Stoneless fruit of love they have Who are beloved by those they love",
+          "The lover-and-beloved's self-givings Are like rains to living beings",
+          "The pride of living is for those Whose love is returned by love so close"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தனிப்படர் மிகுதி (கற்பியல்) பிரிவில் அமைந்த குறள் 1200, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நெஞ்சே நீ வாழ்க! பாவம், நீ ஏன் உன்னோடு உறவில்லாதவர்க்கு உன் அளவற்ற துன்பத்தைச் சொல்லிக் கொண்டிருக்கிறாய்? (அதற்குப் பதில்) உன்னைத் துன்புறுத்தும் கடலைத் தூர்க்க முயற்சி செய்; அது முடியும். கலைஞர் உரை கூறுவது: நெஞ்சமே! நீ வாழ்க! உன்னிடம் அன்பு இல்லாதவரிடம் உனது துன்பத்தைச் சொல்லி ஆறுதல் பெறுவதைக் காட்டிலும் கடலைத் தூர்ப்பது எளிதான வேலையாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Solitary Anguish (Post-marital Love), Kural 1200 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Live, O my soul, would you who relate your great sorrow to strangers, try rather to fill up your own sea (of sorrow). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தனிப்படர் மிகுதி' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Solitary Anguish'.",
+        "quiz_question_ta": "'தனிப்படர் மிகுதி' அதிகாரத்தில் வரும் திருக்குறள் 1200 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1200 from Chapter 'The Solitary Anguish'?",
+        "quiz_options_ta": [
+          "நெஞ்சமே! நீ வாழி! அன்பு இல்லாதவரிடம் உன் மிகுந்த துன்பத்தைச் சொல்கின்றாய்! அதை விட எளிதாகக் கடலைத் தூர்ப்பாயாக.",
+          "நெஞ்சே! நீ அவரிடம் செல்லும்போது என் கண்களையும் உடன் கொண்டு செல்வாயாக; அவரைக் காணவேண்டும் என்று இவை என்னைப் பிடுங்கித் தின்கின்றன.",
+          "வெள்ளம் இழுத்துச் செல்வதை அறிந்திருந்தும் ஓட் நீரில் பாய்கின்றவரைப் போல், பயன்படாமை அறிந்திருந்திருந்தும் ஊடல் கொள்வதால் பயன் ன்னெ?",
+          "காமத்திற்கு இன்பம் தருவது ஊடுதல் ஆகும், ஊடல் முடிந்த பின் கூடித் தழுவப் பெற்றால் அந்த ஊடலுக்கு இன்பமாகும்."
+        ],
+        "quiz_options_en": [
+          "You tell your grief to listless he Bless my heart! rather fill up sea!",
+          "Take these eyes and meet him, O heart Or their hunger will eat me out",
+          "To leap in stream which carries off When lord is close to feign a huff",
+          "Bouderie is lovers' delight Its delight grows when they unite"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (தனிப்படர் மிகுதி) பகுதியில் குறள் 1200 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெஞ்சமே! நீ வாழி! அன்பு இல்லாதவரிடம் உன் மிகுந்த துன்பத்தைச் சொல்கின்றாய்! அதை விட எளிதாகக் கடலைத் தூர்ப்பாயாக. பரிமேலழகர் உரை நுட்பம்: (தலைமகன் தூது வரப்பெறாது தான் தூதுவிடக் கருதியாள் நெஞ்சோடு சொல்லியது.) உறார்க்கு உறுநோய் உரைப்பாய் நெஞ்சு - நின்னோடு உறாதார்க்கு நின் நோயை உரைக்கலுற்ற நெஞ்சே; கடலைச் செறாய் - நீ ஆற்றாயாயினும் அரிதாய அதனையொழிந்து, நினக்குத் துயரஞ் செய்கின்ற கடலைத் தூர்க்க...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 120: 'The Solitary Anguish'), Kural 1200 distills a foundational ethical insight: \"Tell him thy pain that loves not thee?Farewell, my soul, fill up the sea\" Philosophically, Live, O my soul, would you who relate your great sorrow to strangers, try rather to fill up your own sea (of sorrow).",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "ethics",
+        "self-mastery",
+        "speech"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "adhikaram_id": 99,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.372080781+00:00",
+  "kurals": [
+    {
+      "kural_number": 981,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கடமை இவை என்று அறிந்து சான்றான்மை மேற்கொண்டு நடப்பவர்க்கு நல்லவை எல்லாம் இயல்பான கடமை என்று கூறுவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: It is said that those who are conscious of their duty and behave with a perfect goodness will regard as natural all that is good.",
+        "story_title_ta": "சான்றாண்மை — இனியா கற்ற பாடம்",
+        "story_title_en": "Perfectness — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சான்றாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 981 பற்றிக் கதை சொன்னார். 'நாம் செய்யத்தக்க கடமை இது என்று சான்றாண்மையை மேற்கொண்டு வாழ்பவர்க்கு, நல்ல குணங்கள் எல்லாம் இயல்பாக இருக்கும் என்று கூறுவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 99, 'Perfectness', centered on Kural 981: It is said that those who are conscious of their duty and behave with a perfect goodness will regard as natural all that is good. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஆற்ற வேண்டிய கடமைகளை உணர்ந்து, அவற்றைப் பண்பார்ந்த முறையில் நிறைவேற்ற மேற்கொள்ளப்படும் முயற்சிகள் அனைத்தும் நல்ல கடமைகள் என்றே கொள்ளப்படும்.",
+        "moral_en": "Moral: All goodly things are duties to the men, they sayWho set themselves to walk in virtue's perfect way.",
+        "game_blank_word_ta": "நல்லவை",
+        "game_options_ta": [
+          "குணநலம்",
+          "நல்லவை",
+          "சான்றோர்",
+          "நலனே"
+        ],
+        "game_options_en": [
+          "Good in the great is character Than that there is nothing better",
+          "All goodness is duty to them Who are dutiful and sublime",
+          "Love, truth, regard, modesty, grace These five are virtue's resting place",
+          "Not to kill is penance pure Not to slander virtue sure"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சான்றாண்மை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 981, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாம் செய்யத்தக்க கடமை இது என்று சான்றாண்மையை மேற்கொண்டு வாழ்பவர்க்கு, நல்ல குணங்கள் எல்லாம் இயல்பாக இருக்கும் என்று கூறுவர். கலைஞர் உரை கூறுவது: ஆற்ற வேண்டிய கடமைகளை உணர்ந்து, அவற்றைப் பண்பார்ந்த முறையில் நிறைவேற்ற மேற்கொள்ளப்படும் முயற்சிகள் அனைத்தும் நல்ல கடமைகள் என்றே கொள்ளப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Perfectness (Citizenship & Miscellaneous), Kural 981 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is said that those who are conscious of their duty and behave with a perfect goodness will regard as natural all that is good. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சான்றாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Perfectness' thoughtfully.",
+        "quiz_question_ta": "'சான்றாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 981 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 981 from Chapter 'Perfectness'?",
+        "quiz_options_ta": [
+          "குற்றம் இல்லாதவனாய்க் குடி உயர்வதற்கான செயல் செய்து வாழ்கின்றவனை உலகத்தார் சுற்றமாக விரும்பிச் சூழ்ந்து கொள்வர்.",
+          "கடமை இவை என்று அறிந்து சான்றான்மை மேற்கொண்டு நடப்பவர்க்கு நல்லவை எல்லாம் இயல்பான கடமை என்று கூறுவர்.",
+          "இரத்தல் என்னும் காவல் இல்லாத மரக்கலம் உள்ளதை ஒளித்துவைக்கும் தன்மையாகிய வன்னிலம் தாக்கினால் உடைந்து விடும்.",
+          "அனிச்சப்பூவே நல்ல மென்மை தன்மை பெற்றிறுக்கின்றாய், நீ வாழ்க, யாம் விரும்பும் காதலி உன்னை விட மெல்லியத் தன்மை கொண்டவள்."
+        ],
+        "quiz_options_en": [
+          "Who keeps his house without a blame People around, his kinship claim",
+          "All goodness is duty to them Who are dutiful and sublime",
+          "The hapless bark of beggary splits On the rock of refusing hits",
+          "Soft blessed anicha flower, hail On whom I dote is softer still"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (சான்றாண்மை) பகுதியில் குறள் 981 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கடமை இவை என்று அறிந்து சான்றான்மை மேற்கொண்டு நடப்பவர்க்கு நல்லவை எல்லாம் இயல்பான கடமை என்று கூறுவர். பரிமேலழகர் உரை நுட்பம்: கடன் அறிந்து சான்றாண்மை மேற்கொள்பவர்க்கு - நமக்குத் தகுவது இது என்று அறிந்து சான்றாண்மையை மேற்கொண்டொழுகுவார்க்கு; நல்லவை எல்லாம் கடன் என்ப - நல்லனவாய குணங்கள் எல்லாம் இயல்பாயிருக்கும் என்று சொல்லுவர் நூலோர். (சில குணங்கள் இலவாயவழியும், உள்ளன செய்துகொண்டனவாய...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 99: 'Perfectness'), Kural 981 distills a foundational ethical insight: \"All goodly things are duties to the men, they sayWho set themselves to walk in virtue's perfect way\" Philosophically, It is said that those who are conscious of their duty and behave with a perfect goodness will regard as natural all that is good.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "time",
+        "justice",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 982,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: சான்றோரின் நலம் என்று கூறப்படுவது அவறுடைய பண்புகளின் நலமே, மற்ற நலம் வேறு எந்த நலத்திலும் சேர்ந்துள்ளதும் அன்று.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The only delight of the perfect is that of their goodness; all other (sensual) delights are not to be included among any (true) delights.",
+        "story_title_ta": "சான்றாண்மை — முகில் கற்ற பாடம்",
+        "story_title_en": "Perfectness — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சான்றாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 982 பற்றிக் கதை சொன்னார். 'சான்றோர் என்பவர்க்கு அழகு, குறங்களால் ஆகிய அழகே; பிற புற அழகெல்லாம் எந்த அழகிலும் சேரா.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 99, 'Perfectness', centered on Kural 982: The only delight of the perfect is that of their goodness; all other (sensual) delights are not to be included among any (true) delights. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நற்பண்பு ஒன்றே சான்றோர்க்கான அழகாகும் வேறு எந்த அழகும் அழகல்ல.",
+        "moral_en": "Moral: The good of inward excellence they claim, The perfect men; all other good is only good in name.",
+        "game_blank_word_ta": "நலனே",
+        "game_options_ta": [
+          "கடன்என்ப",
+          "நல்லவை",
+          "நலனே",
+          "எல்லாம்"
+        ],
+        "game_options_en": [
+          "All goodness is duty to them Who are dutiful and sublime",
+          "Love, truth, regard, modesty, grace These five are virtue's resting place",
+          "Good in the great is character Than that there is nothing better",
+          "Not to kill is penance pure Not to slander virtue sure"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சான்றாண்மை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 982, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சான்றோர் என்பவர்க்கு அழகு, குறங்களால் ஆகிய அழகே; பிற புற அழகெல்லாம் எந்த அழகிலும் சேரா. கலைஞர் உரை கூறுவது: நற்பண்பு ஒன்றே சான்றோர்க்கான அழகாகும் வேறு எந்த அழகும் அழகல்ல. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Perfectness (Citizenship & Miscellaneous), Kural 982 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The only delight of the perfect is that of their goodness; all other (sensual) delights are not to be included among any (true) delights. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சான்றாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Perfectness' thoughtfully.",
+        "quiz_question_ta": "'சான்றாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 982 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 982 from Chapter 'Perfectness'?",
+        "quiz_options_ta": [
+          "ஒருவனுக்கு நல்ல ஆண்மை என்று சொல்லப்படுவது தான் பிறந்த குடியை ஆளும் சிறப்பைத் தனக்கு உண்டாக்கி கொள்வதாகும்.",
+          "இரத்தலின் கொடுமையை நினைத்தால் உள்ளம் கரைந்து உருகும், உள்ளதை ஒழிக்கும் கொடுமையை நினைத்தால் உருகுமளவும் இல்லாமல் அழியும்.",
+          "சான்றோரின் நலம் என்று கூறப்படுவது அவறுடைய பண்புகளின் நலமே, மற்ற நலம் வேறு எந்த நலத்திலும் சேர்ந்துள்ளதும் அன்று.",
+          "நெஞ்சமே! இவளுடைய கண்கள் பலரும் காண்கின்ற மலர்களை ஒத்திருக்கின்றன, என்று நினைத்து ஒத்த மலர்களைக் கண்டால் நீ மயங்குகின்றாய்."
+        ],
+        "quiz_options_en": [
+          "Who raise their race which gave them birth Are deemed as men of manly worth",
+          "The heart at thought of beggars melts; It dies at repulsing insults",
+          "Good in the great is character Than that there is nothing better",
+          "You can't liken flowers by many eyed, To her bright eyes, O mind dismayed"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (சான்றாண்மை) பகுதியில் குறள் 982 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சான்றோரின் நலம் என்று கூறப்படுவது அவறுடைய பண்புகளின் நலமே, மற்ற நலம் வேறு எந்த நலத்திலும் சேர்ந்துள்ளதும் அன்று. பரிமேலழகர் உரை நுட்பம்: சான்றோர் நலன் குணநலமே - சான்றோர் நலமாவது குணங்களானாய நலமே; பிற நலம் எந்நலத்தும் உள்ளது அன்று - அஃது ஒழிந்த உறுப்புக்களானாய நலம் ஒரு நலத்தினும் உள்ளதன்று. (அகநலத்தை முன்னே பிரித்தமையின், ஏனைப் புறநலத்தைப் 'பிற நலம்' என்றும், அது குடிப் பிறப்பும் கல்வியும...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 99: 'Perfectness'), Kural 982 distills a foundational ethical insight: \"The good of inward excellence they claim, The perfect men; all other good is only good in name\" Philosophically, The only delight of the perfect is that of their goodness; all other (sensual) delights are not to be included among any (true) delights.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 983,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அன்பு, நாணம்,ஒப்புரவு, கண்ணோட்டம், வாய்மை, என்னும் ஐந்து பண்புகளும், சால்பு என்பதைத் தாங்கியுள்ள தூண்களாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Affection, fear (of sin), benevolence, favour and truthfulness; these are the five pillars on which perfect goodness rests.",
+        "story_title_ta": "சான்றாண்மை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Perfectness — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சான்றாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 983 பற்றிக் கதை சொன்னார். 'மற்றவரிடம் அன்பு, பழி பாவங்களுக்கு நாணுதல், சேர்த்ததைப் பிறர்க்கும் வழங்கும் ஒப்புரவு, நெடுங்காலப் பழக்கத்தாரிடம் முக தாட்சண்யம், உண்மை பேசுதல் என்னும் ஐந்தும் சான்றாண்மை என்னும் மாளிகையைத் தாங்கும் தூண்கள்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 99, 'Perfectness', centered on Kural 983: Affection, fear (of sin), benevolence, favour and truthfulness; these are the five pillars on which perfect goodness rests. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அன்பு கொள்ளுதல், பழிபுரிந்திட நாணுதல், உலக ஒழுக்கம் போற்றுதல், இரக்கச் செயலாற்றுதல், வாய்மை கடைப்பிடித்தல் ஆகிய ஐந்தும் சான்றாண்மையைத் தாங்கும் தூண்களாகும்.",
+        "moral_en": "Moral: Love, modesty, beneficence, benignant grace, With truth, are pillars five of perfect virtue's resting-place.",
+        "game_blank_word_ta": "ஊன்றிய",
+        "game_options_ta": [
+          "கடன்என்ப",
+          "நல்லவை",
+          "எல்லாம்",
+          "ஊன்றிய"
+        ],
+        "game_options_en": [
+          "All goodness is duty to them Who are dutiful and sublime",
+          "Good in the great is character Than that there is nothing better",
+          "Not to kill is penance pure Not to slander virtue sure",
+          "Love, truth, regard, modesty, grace These five are virtue's resting place"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சான்றாண்மை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 983, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மற்றவரிடம் அன்பு, பழி பாவங்களுக்கு நாணுதல், சேர்த்ததைப் பிறர்க்கும் வழங்கும் ஒப்புரவு, நெடுங்காலப் பழக்கத்தாரிடம் முக தாட்சண்யம், உண்மை பேசுதல் என்னும் ஐந்தும் சான்றாண்மை என்னும் மாளிகையைத் தாங்கும் தூண்கள். கலைஞர் உரை கூறுவது: அன்பு கொள்ளுதல், பழிபுரிந்திட நாணுதல், உலக ஒழுக்கம் போற்றுதல், இரக்கச் செயலாற்றுதல், வாய்மை கடைப்பிடித்தல் ஆகிய ஐந்தும் சான்றாண்மையைத் தாங்கும் தூண்களாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Perfectness (Citizenship & Miscellaneous), Kural 983 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Affection, fear (of sin), benevolence, favour and truthfulness; these are the five pillars on which perfect goodness rests. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சான்றாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Perfectness' thoughtfully.",
+        "quiz_question_ta": "'சான்றாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 983 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 983 from Chapter 'Perfectness'?",
+        "quiz_options_ta": [
+          "போர்க்களத்தில் பலரிடையே பொறுப்பை ஏற்றுக் கொள்ளும் அஞ்சாத வீரரைப் போல் குடியில் பிறந்தவரிடையிலும் தாங்க வல்லவர் மேல் தான் பொறுப்பு உள்ளது.",
+          "இரப்பவர் இல்லை என்று சொல்கின்ற அளவிலேயே உயிர் போகின்றதே, உள்ளதை இல்லை என்று ஒளிப்பவர்க்கு உயிர் எங்கு ஒளிந்திருக்குமோ.",
+          "மூங்கில் போன்ற தோளை உடைய இவளுக்குத் தளிரே மேன், முத்தே பல், இயற்கை மணமே மணம், வேலே மை உண்ட கண்.",
+          "அன்பு, நாணம்,ஒப்புரவு, கண்ணோட்டம், வாய்மை, என்னும் ஐந்து பண்புகளும், சால்பு என்பதைத் தாங்கியுள்ள தூண்களாகும்."
+        ],
+        "quiz_options_en": [
+          "Like dauntless heroes in battle field The home-burden rests on the bold",
+          "The word \\\"No\\\" kills the begger's life Where can the niggard's life be safe?",
+          "The bamboo-shouldered has pearl-like smiles Fragrant breath and lance-like eyes",
+          "Love, truth, regard, modesty, grace These five are virtue's resting place"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (சான்றாண்மை) பகுதியில் குறள் 983 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன்பு, நாணம்,ஒப்புரவு, கண்ணோட்டம், வாய்மை, என்னும் ஐந்து பண்புகளும், சால்பு என்பதைத் தாங்கியுள்ள தூண்களாகும். பரிமேலழகர் உரை நுட்பம்: அன்பு - சுற்றத்தார் மேலேயன்றிப் பிறர்மேலும் உளதாய அன்பும்; நாண் - பழி பாவங்களின் நாணலும்; ஒப்புரவு-யாவர் மாட்டும் ஒப்புரவு செய்தலும்; கண்ணோட்டம் - பழையார்மேல் கண்ணோடலும்; வாய்மையொடு- எவ்விடத்தும் மெய்ம்மை கூறலும் என; சால்பு ஊன்றிய தூண் ஐந்து - சால்பு என்னும...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 99: 'Perfectness'), Kural 983 distills a foundational ethical insight: \"Love, modesty, beneficence, benignant grace, With truth, are pillars five of perfect virtue's resting-place\" Philosophically, Affection, fear (of sin), benevolence, favour and truthfulness; these are the five pillars on which perfect goodness rests.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "truth",
+        "speech",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 984,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தவம் ஓர் உயிரையும் கொல்லாத அறத்தை அடிப்படையாகக் கொண்டது, சால்பு பிறருடையத் தீமையை எடுத்துச் சொல்லாத நற்பண்பை அடிப்படையாகக் கொண்டது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Penance consists in the goodness that kills not , and perfection in the goodness that tells not others' faults.",
+        "story_title_ta": "சான்றாண்மை — கவின் கற்ற பாடம்",
+        "story_title_en": "Perfectness — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சான்றாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 984 பற்றிக் கதை சொன்னார். 'பிற உயிர்களைக் கொல்லாதிருப்பது தனத்திற்கு அழகு; பிறர் குறைகளைப் பேசாதிருப்பது சான்றாண்மைக்கு அழகு.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 99, 'Perfectness', centered on Kural 984: Penance consists in the goodness that kills not , and perfection in the goodness that tells not others' faults. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உயிரைக் கொல்லாத அறத்தை அடிப்படையாகக் கொண்டது நோன்பு பிறர் செய்யும் தீமையைச் சுட்டிக் சொல்லாத பண்பைக் குறிப்பது சால்பு.",
+        "moral_en": "Moral: The type of 'penitence' is virtuous good that nothing slays; To speak no ill of other men is perfect virtue's praise.",
+        "game_blank_word_ta": "கொல்லா",
+        "game_options_ta": [
+          "கொல்லா",
+          "கடன்என்ப",
+          "நல்லவை",
+          "எல்லாம்"
+        ],
+        "game_options_en": [
+          "Not to kill is penance pure Not to slander virtue sure",
+          "All goodness is duty to them Who are dutiful and sublime",
+          "Good in the great is character Than that there is nothing better",
+          "Love, truth, regard, modesty, grace These five are virtue's resting place"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சான்றாண்மை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 984, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிற உயிர்களைக் கொல்லாதிருப்பது தனத்திற்கு அழகு; பிறர் குறைகளைப் பேசாதிருப்பது சான்றாண்மைக்கு அழகு. கலைஞர் உரை கூறுவது: உயிரைக் கொல்லாத அறத்தை அடிப்படையாகக் கொண்டது நோன்பு பிறர் செய்யும் தீமையைச் சுட்டிக் சொல்லாத பண்பைக் குறிப்பது சால்பு. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Perfectness (Citizenship & Miscellaneous), Kural 984 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Penance consists in the goodness that kills not , and perfection in the goodness that tells not others' faults. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சான்றாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Perfectness' thoughtfully.",
+        "quiz_question_ta": "'சான்றாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 984 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 984 from Chapter 'Perfectness'?",
+        "quiz_options_ta": [
+          "தவம் ஓர் உயிரையும் கொல்லாத அறத்தை அடிப்படையாகக் கொண்டது, சால்பு பிறருடையத் தீமையை எடுத்துச் சொல்லாத நற்பண்பை அடிப்படையாகக் கொண்டது.",
+          "குடி உயர்வதற்கான செயல் செய்கின்றவர்க்கு உரிய காலம் என்று ஒன்று இல்லை, சோம்பல் கொண்டு தம் மானத்தைக் கருதுவாரானால் குடிப்பெருமைக் கெடும்.",
+          "மக்களே போல் இருப்பார் கயவர், அவர் மக்களை ஒத்திருப்பது போன்ற ஒப்புமை வேறு எந்த இருவகைப் பொருள்களிடத்திலும் யாம் கண்டதில்லை.",
+          "குவளை மலர்கள் காணும் தன்மைப் பெற்றுக் கண்டால், இவளுடைய கண்களுக்கு தாம் ஒப்பாக வில்லையே என்று தலை கவிழ்ந்து நிலத்தை நோக்கும்."
+        ],
+        "quiz_options_en": [
+          "Not to kill is penance pure Not to slander virtue sure",
+          "No season have they who raise their race Sloth and pride will honour efface",
+          "The mean seem men only in form We have never seen such a sham",
+          "Lily droops down to ground and says I can't equal the jewelled-one's eyes"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (சான்றாண்மை) பகுதியில் குறள் 984 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தவம் ஓர் உயிரையும் கொல்லாத அறத்தை அடிப்படையாகக் கொண்டது, சால்பு பிறருடையத் தீமையை எடுத்துச் சொல்லாத நற்பண்பை அடிப்படையாகக் கொண்டது. பரிமேலழகர் உரை நுட்பம்: நோன்மை கொல்லா நலத்தது - பிற அறங்களும் வேண்டுமாயினும், தவம் ஓர் உயிரையும் கொல்லாத அறத்தின் கண்ணதாம்; சால்பு பிறர் தீமை சொல்லா நலத்தது - அது போலப் பிற குணங்களும் வேண்டுமாயினும் சால்பு பிறர் குற்றத்தைச் சொல்லாத குணத்தின் கண்ணதாம். (நலம் என்னும் ஆகுபெயர்ப் பொருள...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 99: 'Perfectness'), Kural 984 distills a foundational ethical insight: \"The type of 'penitence' is virtuous good that nothing slays; To speak no ill of other men is perfect virtue's praise\" Philosophically, Penance consists in the goodness that kills not , and perfection in the goodness that tells not others' faults.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "ethics",
+        "self-mastery",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 985,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஆற்றலுடையவரின் ஆற்றலாவது பணிவுடன் நடத்தலாகும், அது சான்றோர் தம் பகைவரைப் பகைமையிலிருந்து மாற்றுகின்ற கருவியாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Stooping (to inferiors) is the strength of those who can accomplish (an undertaking); and that is the weapon with which the great avert their foes.",
+        "story_title_ta": "சான்றாண்மை — நிலா கற்ற பாடம்",
+        "story_title_en": "Perfectness — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சான்றாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 985 பற்றிக் கதை சொன்னார். 'ஒரு செயலைச் செய்து முடிப்பவர் திறமை, தம்முடன் பணி ஆற்றுபவரிடம் பணிந்து வேலை வாங்குதலே; சான்றாண்மை தம் பகைவரையும் நண்பராக்கப் பயன்படுத்தும் ஆயுதமும் அதுவே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 99, 'Perfectness', centered on Kural 985: Stooping (to inferiors) is the strength of those who can accomplish (an undertaking); and that is the weapon with which the great avert their foes. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஆணவமின்றிப் பணிவுடன் நடத்தலே, ஆற்றலாளரின் ஆற்றல் என்பதால் அதுவே பகைமையை மாற்றுகின்ற படையாகச் சான்றோர்க்கு அமைவதாகும்.",
+        "moral_en": "Moral: Submission is the might of men of mighty acts; the sageWith that same weapon stills his foeman's rage.",
+        "game_blank_word_ta": "ஆற்றல்",
+        "game_options_ta": [
+          "கடன்என்ப",
+          "ஆற்றல்",
+          "நல்லவை",
+          "எல்லாம்"
+        ],
+        "game_options_en": [
+          "All goodness is duty to them Who are dutiful and sublime",
+          "Humility is valour's strength A force that averts foes at length",
+          "Good in the great is character Than that there is nothing better",
+          "Love, truth, regard, modesty, grace These five are virtue's resting place"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சான்றாண்மை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 985, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு செயலைச் செய்து முடிப்பவர் திறமை, தம்முடன் பணி ஆற்றுபவரிடம் பணிந்து வேலை வாங்குதலே; சான்றாண்மை தம் பகைவரையும் நண்பராக்கப் பயன்படுத்தும் ஆயுதமும் அதுவே. கலைஞர் உரை கூறுவது: ஆணவமின்றிப் பணிவுடன் நடத்தலே, ஆற்றலாளரின் ஆற்றல் என்பதால் அதுவே பகைமையை மாற்றுகின்ற படையாகச் சான்றோர்க்கு அமைவதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Perfectness (Citizenship & Miscellaneous), Kural 985 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Stooping (to inferiors) is the strength of those who can accomplish (an undertaking); and that is the weapon with which the great avert their foes. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சான்றாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Perfectness' thoughtfully.",
+        "quiz_question_ta": "'சான்றாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 985 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 985 from Chapter 'Perfectness'?",
+        "quiz_options_ta": [
+          "தன் குடிக்கு வரக்குடிய குற்றத்தை வராமல் நீக்க முயல்கின்ற ஒருவனுடைய உடம்பு துன்பத்திற்கே இருப்பிடமானதோ.",
+          "ஆற்றலுடையவரின் ஆற்றலாவது பணிவுடன் நடத்தலாகும், அது சான்றோர் தம் பகைவரைப் பகைமையிலிருந்து மாற்றுகின்ற கருவியாகும்.",
+          "நன்மை அறிந்தவரை விடக் கயவரே நல்ல பேறு உடையவர், ஏன் என்றால், கயவர் தம் நெஞ்சில் எதைப் பற்றியும் கவலை இல்லாதவர்.",
+          "அவள் தன் மென்மை அறியாமல் அனிச்ச மலர்களைக் காம்பு களையாமல் சூடினால், அவற்றால் நொந்து வருத்தும் அவளுடைய இடைக்குப் பறைகள் நல்லனவாய் ஒலியா."
+        ],
+        "quiz_options_en": [
+          "Is not his frame a vase for woes Who from mishaps shields his house?",
+          "Humility is valour's strength A force that averts foes at length",
+          "The base seem richer than the good For no care enters their heart or head",
+          "Anicha flower with stem she wears To her breaking waist sad-drum-blares!"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (சான்றாண்மை) பகுதியில் குறள் 985 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஆற்றலுடையவரின் ஆற்றலாவது பணிவுடன் நடத்தலாகும், அது சான்றோர் தம் பகைவரைப் பகைமையிலிருந்து மாற்றுகின்ற கருவியாகும். பரிமேலழகர் உரை நுட்பம்: ஆற்றுவார் ஆற்றல் பணிதல் - ஒரு கருமத்தைச் செய்து முடிப்பாரது ஆற்றலாவது, அதற்குத் துணையாவாரைத் தாழ்ந்து கூட்டிக் கொள்ளுதல்; சான்றோர் மாற்றாரை மாற்றும் படை அது - இனிச் சால்புடையார் தம் பகைவரைப் பகைமையொழிக்கும் கருவியும் அதுவே. (ஆற்றல், அது வல்லராந்தன்மை. இறந்தது...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 99: 'Perfectness'), Kural 985 distills a foundational ethical insight: \"Submission is the might of men of mighty acts; the sageWith that same weapon stills his foeman's rage\" Philosophically, Stooping (to inferiors) is the strength of those who can accomplish (an undertaking); and that is the weapon with which the great avert their foes.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "leadership",
+        "humility",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 986,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: சால்புக்கு உரைகல் போல் மதிப்பிடும் கருவி எது என்றால் தமக்கு ஒப்பில்லாத தாழ்ந்தோரிடத்திலும்தோல்வியை ஏற்றுக் கொள்ளும் பண்பாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The touch-stone of perfection is to receive a defeat even at the hands of one's inferiors.",
+        "story_title_ta": "சான்றாண்மை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Perfectness — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சான்றாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 986 பற்றிக் கதை சொன்னார். 'சான்றாண்மையை உரைத்துப் பார்த்துக் கண்டு அறியப்படும் உரைகல் எதுவென்றால், சிறியவர்களிடம் கூடத் தன் தோல்வியை ஒத்துக் கொள்வதே ஆகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 99, 'Perfectness', centered on Kural 986: The touch-stone of perfection is to receive a defeat even at the hands of one's inferiors. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சமநிலையில் இல்லாதவர்களால் தனக்கு ஏற்படும் தோல்வியைக்கூட ஒப்புக் கொள்ளும் மனப்பக்குவம்தான் ஒருவரின் மேன்மைக்கு உரைகல்லாகும்.",
+        "moral_en": "Moral: What is perfection's test? The equal mindTo bear repulse from even meaner men resigned.",
+        "game_blank_word_ta": "கொளல்",
+        "game_options_ta": [
+          "கடன்என்ப",
+          "நல்லவை",
+          "கொளல்",
+          "எல்லாம்"
+        ],
+        "game_options_en": [
+          "All goodness is duty to them Who are dutiful and sublime",
+          "Good in the great is character Than that there is nothing better",
+          "To bear repulse e'en from the mean Is the touch-stone of worthy men",
+          "Love, truth, regard, modesty, grace These five are virtue's resting place"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சான்றாண்மை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 986, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சான்றாண்மையை உரைத்துப் பார்த்துக் கண்டு அறியப்படும் உரைகல் எதுவென்றால், சிறியவர்களிடம் கூடத் தன் தோல்வியை ஒத்துக் கொள்வதே ஆகும். கலைஞர் உரை கூறுவது: சமநிலையில் இல்லாதவர்களால் தனக்கு ஏற்படும் தோல்வியைக்கூட ஒப்புக் கொள்ளும் மனப்பக்குவம்தான் ஒருவரின் மேன்மைக்கு உரைகல்லாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Perfectness (Citizenship & Miscellaneous), Kural 986 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The touch-stone of perfection is to receive a defeat even at the hands of one's inferiors. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சான்றாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Perfectness' thoughtfully.",
+        "quiz_question_ta": "'சான்றாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 986 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 986 from Chapter 'Perfectness'?",
+        "quiz_options_ta": [
+          "துன்பம் வந்த போது உடனிருந்து தாங்க வல்ல நல்ல ஆள் இல்லாத குடி, துன்பமாகிய கோடாரி அடியில் வெட்டி வீழ்த்த விழுந்துவிடும்.",
+          "கயவரும் தேவரைப் போல் தான் விரும்புகின்றவைகளைச் செய்து மனம் போன போக்கில் நடத்தலால், கயவர் தேவரைப் போன்றவர்.",
+          "சால்புக்கு உரைகல் போல் மதிப்பிடும் கருவி எது என்றால் தமக்கு ஒப்பில்லாத தாழ்ந்தோரிடத்திலும்தோல்வியை ஏற்றுக் கொள்ளும் பண்பாகும்.",
+          "விண்மீன்கள் திங்களையும் இவளுடைய முகத்தையும் வேறுபாடு கண்டு அறியமுடியாமல் தம் நிலையில் நிற்காமல் கலங்கித் திரிகின்றன."
+        ],
+        "quiz_options_en": [
+          "A house will fall by a mishap With no good man to prop it up",
+          "The base are like gods; for they too As prompted by their desire do",
+          "To bear repulse e'en from the mean Is the touch-stone of worthy men",
+          "Stars are confused to know which is The moon and which is woman's face"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (சான்றாண்மை) பகுதியில் குறள் 986 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சால்புக்கு உரைகல் போல் மதிப்பிடும் கருவி எது என்றால் தமக்கு ஒப்பில்லாத தாழ்ந்தோரிடத்திலும்தோல்வியை ஏற்றுக் கொள்ளும் பண்பாகும். பரிமேலழகர் உரை நுட்பம்: சால்பிற்குக் கட்டளை யாது எனின் - சால்பாகிய பொன்னின் அளவறிதற்கு உரைகல்லாகிய செயல் யாது எனின்; தோல்வி துலை அல்லார்கண்ணும் கொளல் - அது தம்மின் உயர்ந்தார் மாட்டுக் கொள்ளும் தோல்வியை இழிந்தார் மாட்டும் கோடல். (துலை - ஒப்பு. எச்ச உம்மையான் இருதிறத்தார் கண்ணும...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 99: 'Perfectness'), Kural 986 distills a foundational ethical insight: \"What is perfection's test? The equal mindTo bear repulse from even meaner men resigned\" Philosophically, The touch-stone of perfection is to receive a defeat even at the hands of one's inferiors.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 987,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: துன்பமானவற்றைச் செய்தவர்க்கும் இனிய உதவிகளைச் செய்யா விட்டால், சான்றோரின் சால்பு என்ன பயன் உடையதாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Of what avail is perfect goodness if it cannot do pleasing things even to those who have pained (it) ?",
+        "story_title_ta": "சான்றாண்மை — இனியா கற்ற பாடம்",
+        "story_title_en": "Perfectness — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சான்றாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 987 பற்றிக் கதை சொன்னார். 'தமக்குத் தீமை செய்தவர்க்கும் நன்மையே செய்யா விட்டால் சான்றான்மையினால் பயன்தான் என்ன?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 99, 'Perfectness', centered on Kural 987: Of what avail is perfect goodness if it cannot do pleasing things even to those who have pained (it) ? Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தமக்குத் தீமை செய்வதற்கும் திரும்ப நன்மை செய்யாமல் விட்டுவிட்டால் சான்றாண்மை எனும் நல்ல பண்பு இருந்தும் அதனால் என்ன பயன்?",
+        "moral_en": "Moral: What fruit doth your perfection yield you, say!Unless to men who work you ill good repay.",
+        "game_blank_word_ta": "இன்னாசெய்",
+        "game_options_ta": [
+          "கடன்என்ப",
+          "நல்லவை",
+          "எல்லாம்",
+          "இன்னாசெய்"
+        ],
+        "game_options_en": [
+          "All goodness is duty to them Who are dutiful and sublime",
+          "Good in the great is character Than that there is nothing better",
+          "Love, truth, regard, modesty, grace These five are virtue's resting place",
+          "Of perfection what is the gain If it returns not joy for pain?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சான்றாண்மை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 987, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தமக்குத் தீமை செய்தவர்க்கும் நன்மையே செய்யா விட்டால் சான்றான்மையினால் பயன்தான் என்ன? கலைஞர் உரை கூறுவது: தமக்குத் தீமை செய்வதற்கும் திரும்ப நன்மை செய்யாமல் விட்டுவிட்டால் சான்றாண்மை எனும் நல்ல பண்பு இருந்தும் அதனால் என்ன பயன்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Perfectness (Citizenship & Miscellaneous), Kural 987 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Of what avail is perfect goodness if it cannot do pleasing things even to those who have pained (it) ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சான்றாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Perfectness' thoughtfully.",
+        "quiz_question_ta": "'சான்றாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 987 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 987 from Chapter 'Perfectness'?",
+        "quiz_options_ta": [
+          "உலகம் பல தொழில் செய்து சுழன்றாலும் ஏர்த் தொழிலின் பின் நிற்கின்றது, அதனால் எவ்வளவு துன்புற்றாலும் உழவுத் தொழிலே சிறந்தது.",
+          "கீழ் மக்கள் தமக்கு கீழ் பட்டவராய் நடப்பவரைக் கண்டால், அவரை விடத் தாம் மேம்பாடு உடையவராய் இறுமாப்படைவர்.",
+          "குறைந்த இடமெல்லாம் படிப்படியாக நிறைந்து விளங்குகின்ற திங்களிடம் உள்ளது போல் இந்த மாதர் முகத்தில் களங்கம் உண்டோ.இல்லையே.",
+          "துன்பமானவற்றைச் செய்தவர்க்கும் இனிய உதவிகளைச் செய்யா விட்டால், சான்றோரின் சால்பு என்ன பயன் உடையதாகும்."
+        ],
+        "quiz_options_en": [
+          "Farming though hard is foremost trade Men ply at will but ploughmen lead",
+          "When the base meets a rake so vile Him he will exceed, exult and smile",
+          "Are there spots on the lady's face Just as in moon that changes phase?",
+          "Of perfection what is the gain If it returns not joy for pain?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (சான்றாண்மை) பகுதியில் குறள் 987 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: துன்பமானவற்றைச் செய்தவர்க்கும் இனிய உதவிகளைச் செய்யா விட்டால், சான்றோரின் சால்பு என்ன பயன் உடையதாகும். பரிமேலழகர் உரை நுட்பம்: இன்னா செய்தார்க்கும் இனியவே செய்யக்கால் - தமக்கு இன்னாதவற்றைச் செய்தார்க்கும் சால்புடையார் இனியவற்றைச் செய்யாராயின்; சால்பு என்ன பயத்தது - அச்சால்பு வேறு என்ன பயனை உடைத்து? (சிறப்பு உம்மை அவர் இன்னாசெய்தற்கு இடனாதல் விளக்கி நின்றது. ஓகாரம், அசை. வினா...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 99: 'Perfectness'), Kural 987 distills a foundational ethical insight: \"What fruit doth your perfection yield you, say!Unless to men who work you ill good repay\" Philosophically, Of what avail is perfect goodness if it cannot do pleasing things even to those who have pained (it) ?",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "gratitude",
+        "kindness",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 988,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: சால்பு என்னும் வலிமை உண்டாகப் பெற்றால் ஒருவனுக்குப் பொருள் இல்லாத குறையாகிய வறுமை இழிவானது அன்று.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Poverty is no disgrace to one who abounds in good qualities.",
+        "story_title_ta": "சான்றாண்மை — முகில் கற்ற பாடம்",
+        "story_title_en": "Perfectness — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சான்றாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 988 பற்றிக் கதை சொன்னார். 'சான்றாண்மை எனப்படும் மன ஆற்றல் மட்டும் ஒருவனிடம் இருந்து விடுமானால், வறுமை அவனுக்கு இழிவு ஆகாது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 99, 'Perfectness', centered on Kural 988: Poverty is no disgrace to one who abounds in good qualities. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சால்பு என்கிற உறுதியைச் செல்வமெனக் கொண்டவருக்கு வறுமை என்பது இழிவு தரக் கூடியதல்ல.",
+        "moral_en": "Moral: To soul with perfect virtue's strength endued, Brings no disgrace the lack of every earthly good.",
+        "game_blank_word_ta": "ஒருவற்கு",
+        "game_options_ta": [
+          "ஒருவற்கு",
+          "கடன்என்ப",
+          "நல்லவை",
+          "எல்லாம்"
+        ],
+        "game_options_en": [
+          "No shame there is in poverty To one strong in good quality",
+          "All goodness is duty to them Who are dutiful and sublime",
+          "Good in the great is character Than that there is nothing better",
+          "Love, truth, regard, modesty, grace These five are virtue's resting place"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சான்றாண்மை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 988, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சான்றாண்மை எனப்படும் மன ஆற்றல் மட்டும் ஒருவனிடம் இருந்து விடுமானால், வறுமை அவனுக்கு இழிவு ஆகாது. கலைஞர் உரை கூறுவது: சால்பு என்கிற உறுதியைச் செல்வமெனக் கொண்டவருக்கு வறுமை என்பது இழிவு தரக் கூடியதல்ல. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Perfectness (Citizenship & Miscellaneous), Kural 988 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Poverty is no disgrace to one who abounds in good qualities. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சான்றாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Perfectness' thoughtfully.",
+        "quiz_question_ta": "'சான்றாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 988 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 988 from Chapter 'Perfectness'?",
+        "quiz_options_ta": [
+          "சால்பு என்னும் வலிமை உண்டாகப் பெற்றால் ஒருவனுக்குப் பொருள் இல்லாத குறையாகிய வறுமை இழிவானது அன்று.",
+          "உழவு செய்ய முடியாமல் உயிர் வாழ்கின்றவர், எல்லாரையும் தாங்குவதால், உழவு செய்கின்றவர் உலகத்தாற்கு அச்சாணி போன்றவர்.",
+          "கீழ் மக்களின் ஆசாரத்திற்கு காரணமாக இருப்பது அச்சமே, எஞ்சியவற்றில் அவா உண்டானால் அதனாலும் சிறிதளவு ஆசாரம் உண்டாகும்.",
+          "திங்களே! இம் மாதரின் முகத்தைப் போல உண்ணால் ஒளி வீச முடியுமானால், நீயும் இவள் போல் என் காதலுக்கு உரிமை பெறுவாய்."
+        ],
+        "quiz_options_en": [
+          "No shame there is in poverty To one strong in good quality",
+          "Tillers are linch-pin of mankind Bearing the rest who cannot tend",
+          "Fear forms the conduct of the low Craving avails a bit below",
+          "Like my lady's face if you shine All my love to you; hail O moon!"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (சான்றாண்மை) பகுதியில் குறள் 988 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சால்பு என்னும் வலிமை உண்டாகப் பெற்றால் ஒருவனுக்குப் பொருள் இல்லாத குறையாகிய வறுமை இழிவானது அன்று. பரிமேலழகர் உரை நுட்பம்: சால்பு என்னும் திண்மை உண்டாகப் பெறின் - சால்பு என்று சொல்லப்படும் வலி உண்டாகப்பெறின்; ஒருவற்கு இன்மை இளிவு அன்று - ஒருவனுக்கு நல்குரவு இளிவாகாது. (தளராமை நாட்டுதலின், வலியாயிற்று. இன்மையான் வருவதனை இன்மை தானாக உபசரித்துக் கூறினார். சால்புடையார...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 99: 'Perfectness'), Kural 988 distills a foundational ethical insight: \"To soul with perfect virtue's strength endued, Brings no disgrace the lack of every earthly good\" Philosophically, Poverty is no disgrace to one who abounds in good qualities.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "kindness",
+        "harmony",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 989,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: சால்பு என்னும் தன்மைக்குக் கடல் என்று புகழப்படுகின்றவர், ஊழிக்காலத்தின் வேறுபாடுகளே நேர்ந்தாலும் தாம் வேறுபடாமல் இருப்பர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Those who are said to be the shore of the sea of perfection will never change, though ages may change.",
+        "story_title_ta": "சான்றாண்மை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Perfectness — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சான்றாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 989 பற்றிக் கதை சொன்னார். 'சான்றாண்மை எனப்படும் கடலுக்குக் கரை எனப்படும் சான்றோர், காலம் மாறினாலும் தாம் மாறமாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 99, 'Perfectness', centered on Kural 989: Those who are said to be the shore of the sea of perfection will never change, though ages may change. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தமக்குரிய கடமைகளைக் கண்ணியத்துடன் ஆற்றுகின்ற சான்றோர் எல்லாக் கடல்களும் தடம் புரண்டு மாறுகின்ற ஊழிக்காலம் ஏற்பட்டாலும்கூடத், தம்நிலை மாறாத கடலாகத் திகழ்வார்கள்.",
+        "moral_en": "Moral: Call them of perfect virtue's sea the shore, Who, though the fates should fail, fail not for evermore.",
+        "game_blank_word_ta": "தாம்பெயரார்",
+        "game_options_ta": [
+          "கடன்என்ப",
+          "தாம்பெயரார்",
+          "நல்லவை",
+          "எல்லாம்"
+        ],
+        "game_options_en": [
+          "All goodness is duty to them Who are dutiful and sublime",
+          "Aeons may change but not the seer Who is a sea of virtue pure",
+          "Good in the great is character Than that there is nothing better",
+          "Love, truth, regard, modesty, grace These five are virtue's resting place"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சான்றாண்மை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 989, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சான்றாண்மை எனப்படும் கடலுக்குக் கரை எனப்படும் சான்றோர், காலம் மாறினாலும் தாம் மாறமாட்டார். கலைஞர் உரை கூறுவது: தமக்குரிய கடமைகளைக் கண்ணியத்துடன் ஆற்றுகின்ற சான்றோர் எல்லாக் கடல்களும் தடம் புரண்டு மாறுகின்ற ஊழிக்காலம் ஏற்பட்டாலும்கூடத், தம்நிலை மாறாத கடலாகத் திகழ்வார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Perfectness (Citizenship & Miscellaneous), Kural 989 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who are said to be the shore of the sea of perfection will never change, though ages may change. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சான்றாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Perfectness' thoughtfully.",
+        "quiz_question_ta": "'சான்றாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 989 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 989 from Chapter 'Perfectness'?",
+        "quiz_options_ta": [
+          "உழவு செய்து அதனால் கிடைத்ததைக் கொண்டு வாழ்கின்றவரே உரிமையோடு வாழ்கின்றவர், மற்றவர் எல்லோரும் பிறரைத் தொழுது உண்டு பின் செல்கின்றவரே.",
+          "சால்பு என்னும் தன்மைக்குக் கடல் என்று புகழப்படுகின்றவர், ஊழிக்காலத்தின் வேறுபாடுகளே நேர்ந்தாலும் தாம் வேறுபடாமல் இருப்பர்.",
+          "கயவர், தாம் கேட்டறிந்த மறைப்பொருளைப் பிறர்க்கு வலிய கொண்டுபோய்ச் சொல்லுவதலால், அறையப்படும் பறை போன்றவர்.",
+          "திங்களே! மலர்போன்ற கண்களை உடைய இவளுடைய முகத்தை ஒத்திருக்க விரும்பினால், நீ பலரும் காணும்படியாகத் தோன்றாதே."
+        ],
+        "quiz_options_en": [
+          "They live who live to plough and eat The rest behind them bow and eat",
+          "Aeons may change but not the seer Who is a sea of virtue pure",
+          "The base are like the beaten drum Since other's secrets they proclaim",
+          "Like the face of my flower-eyed one If you look, then shine alone O moon!"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (சான்றாண்மை) பகுதியில் குறள் 989 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சால்பு என்னும் தன்மைக்குக் கடல் என்று புகழப்படுகின்றவர், ஊழிக்காலத்தின் வேறுபாடுகளே நேர்ந்தாலும் தாம் வேறுபடாமல் இருப்பர். பரிமேலழகர் உரை நுட்பம்: சான்றாண்மைக்கு ஆழி எனப்படுவார் - சால்புடைமையாகிய கடற்குக் கரை என்று சொல்லப்படுவார்; ஊழி பெயரினும் தாம் பெயரார் - ஏனைக்கடலும் கரையுள் நில்லாமற் காலந்திரிந்தாலும் தாம் திரியார். (சான்றாண்மையது பெருமை தோன்ற அதனைக் கடலாக்கியும், அதனைத் தாங்கிக் கொண்டு நிற்றலின...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 99: 'Perfectness'), Kural 989 distills a foundational ethical insight: \"Call them of perfect virtue's sea the shore, Who, though the fates should fail, fail not for evermore\" Philosophically, Those who are said to be the shore of the sea of perfection will never change, though ages may change.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "love",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 990,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: சான்றோரின் சால்பு நிறைந்த பண்பு குறைபடுமானால் இந்தப் பெரிய நிலவுலகமும் தன் பாரத்தைத் தாங்க முடியாமற் போய் விடும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If there is a defect in the character of the perfect, (even) the great world cannot bear (its) burden.",
+        "story_title_ta": "சான்றாண்மை — கவின் கற்ற பாடம்",
+        "story_title_en": "Perfectness — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சான்றாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 990 பற்றிக் கதை சொன்னார். 'சான்றோர் தம் சான்றாண்மைப் பண்பிலிருந்து விலகிக் குறைவுபடுவார் என்றால், இப்பூவுலகம் தன் பாரம் தாங்காமல் அழியும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 99, 'Perfectness', centered on Kural 990: If there is a defect in the character of the perfect, (even) the great world cannot bear (its) burden. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சான்றோரின் நற்பண்பே குறையத்தொடங்கினால் அதனை இந்த உலகம் பொறுமையுடன் தாங்கிக் கொள்ளாது.",
+        "moral_en": "Moral: The mighty earth its burthen to sustain must cease, If perfect virtue of the perfect men decrease.",
+        "game_blank_word_ta": "சான்றவர்",
+        "game_options_ta": [
+          "கடன்என்ப",
+          "நல்லவை",
+          "சான்றவர்",
+          "எல்லாம்"
+        ],
+        "game_options_en": [
+          "All goodness is duty to them Who are dutiful and sublime",
+          "Good in the great is character Than that there is nothing better",
+          "The world will not more bear its weight If from high virtue fall the great",
+          "Love, truth, regard, modesty, grace These five are virtue's resting place"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சான்றாண்மை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 990, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சான்றோர் தம் சான்றாண்மைப் பண்பிலிருந்து விலகிக் குறைவுபடுவார் என்றால், இப்பூவுலகம் தன் பாரம் தாங்காமல் அழியும். கலைஞர் உரை கூறுவது: சான்றோரின் நற்பண்பே குறையத்தொடங்கினால் அதனை இந்த உலகம் பொறுமையுடன் தாங்கிக் கொள்ளாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Perfectness (Citizenship & Miscellaneous), Kural 990 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If there is a defect in the character of the perfect, (even) the great world cannot bear (its) burden. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சான்றாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Perfectness' thoughtfully.",
+        "quiz_question_ta": "'சான்றாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 990 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 990 from Chapter 'Perfectness'?",
+        "quiz_options_ta": [
+          "நெல் வளம் உடைய தண்ணளி பொருந்திய உழவர், பல அரசரின் குடை நிழல்களையும் தம் குடையின் கீழ் காணவல்லவர் ஆவர்.",
+          "கயவர் தம் கன்னத்தை இடித்து உடைக்கும் படி வளைந்த கை உடையவரல்லாத மற்றவர்க்கு உண்ட எச்சில் கையையும் உதற மாட்டார்.",
+          "சான்றோரின் சால்பு நிறைந்த பண்பு குறைபடுமானால் இந்தப் பெரிய நிலவுலகமும் தன் பாரத்தைத் தாங்க முடியாமற் போய் விடும்.",
+          "அனிச்ச மலரும், அன்னப்பறவையின் இறகும் ஆகிய இவைகள் மாதரின் மெல்லிய அடிகளுக்கு நெருஞ்சிமுள் போன்றவை."
+        ],
+        "quiz_options_en": [
+          "Who have the shade of cornful crest Under their umbra umbrellas rest",
+          "The base their damp hand will not shake But for fists clenched their jaws to break",
+          "The world will not more bear its weight If from high virtue fall the great",
+          "The soft flower and the swan's down are Like nettles to the feet of the fair"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (சான்றாண்மை) பகுதியில் குறள் 990 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சான்றோரின் சால்பு நிறைந்த பண்பு குறைபடுமானால் இந்தப் பெரிய நிலவுலகமும் தன் பாரத்தைத் தாங்க முடியாமற் போய் விடும். பரிமேலழகர் உரை நுட்பம்: சான்றவர் சான்றாண்மை குன்றின் - பல குணங்களானும் நிறைந்தவர் தம் தன்மை குன்றுவராயின்; இரு நிலந்தான் பொறை தாங்காது - மற்றை இரு நிலந்தானும் தன் பொறையைத் தாங்காதாய் முடியும். ('தானும்' என்னும் எச்சவும்மை விகாரத்தால் தொக்கது. அவர்க்கு அது குன்றாமையும் அதற்கு அது...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 99: 'Perfectness'), Kural 990 distills a foundational ethical insight: \"The mighty earth its burthen to sustain must cease, If perfect virtue of the perfect men decrease\" Philosophically, If there is a defect in the character of the perfect, (even) the great world cannot bear (its) burden.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "ethics",
+        "self-mastery"
+      ]
+    }
+  ]
+}

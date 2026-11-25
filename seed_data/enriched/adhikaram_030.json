@@ -1,0 +1,586 @@
+{
+  "adhikaram_id": 30,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.717220512+00:00",
+  "kurals": [
+    {
+      "kural_number": 291,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: வாய்மை என்று கூறப்படுவது எது என்றால், அது மற்றவர்க்கு ஒரு சிறிதும் தீங்கு இல்லாத சொற்களைக் சொல்லுதல் ஆகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Truth is the speaking of such words as are free from the least degree of evil (to others).",
+        "story_title_ta": "வாய்மை — இனியா கற்ற பாடம்",
+        "story_title_en": "Veracity — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வாய்மை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 291 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உண்மை என்று சொல்லப்படுவது எது என்றால், எவர்க்கும் எத்தகைய தீங்கையும் தராத சொற்களைச் சொல்வதே ஆகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Veracity'. Grandpa shared Kural 291 and explained in simple words: Truth is the speaking of such words as are free from the least degree of evil (to others). The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறருக்கு எள்முனையளவு தீமையும் ஏற்படாத ஒரு சொல்லைச் சொல்வதுதான் வாய்மை எனப்படும்.",
+        "moral_en": "Moral: You ask, in lips of men what 'truth' may be;'Tis speech from every taint of evil free.",
+        "game_blank_word_ta": "யாதொன்றும்",
+        "game_options_ta": [
+          "பொய்மையும்",
+          "வாய்மை",
+          "யிடத்த",
+          "யாதொன்றும்"
+        ],
+        "game_options_en": [
+          "E'en falsehood may for truth suffice, When good it brings removing vice",
+          "Let not a man knowingly lie; Conscience will scorch and make him sigh",
+          "He lives in loving hearts of all Who serves the Truth serene in soul",
+          "If \\\"What is truth\\\"? the question be, It is to speak out evil-free"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வாய்மை (துறவறவியல்) பிரிவில் அமைந்த குறள் 291, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உண்மை என்று சொல்லப்படுவது எது என்றால், எவர்க்கும் எத்தகைய தீங்கையும் தராத சொற்களைச் சொல்வதே ஆகும். கலைஞர் உரை கூறுவது: பிறருக்கு எள்முனையளவு தீமையும் ஏற்படாத ஒரு சொல்லைச் சொல்வதுதான் வாய்மை எனப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Veracity (Ascetic Virtue), Kural 291 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Truth is the speaking of such words as are free from the least degree of evil (to others). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வாய்மை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Veracity' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வாய்மை' அதிகாரத்தில் வரும் திருக்குறள் 291 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 291 from Chapter 'Veracity'?",
+        "quiz_options_ta": [
+          "நாவை அடக்கி விக்கல் மேலெழுவதற்கு முன்னே (இறப்பு நெருங்குவதற்கு முன்) நல்ல அறச்செயலை விரைந்து செய்யத்தக்கதாகும்.",
+          "வரவேண்டிய துன்பங்கள் வந்து வருத்தாமல் நீங்குமானால் நுகரும் பொருள் இல்லாத வறியவர் துறவறம் மேற்க்கொள்வர்.",
+          "அறிவு அழிவு வராமல் காக்கும் கருவியாகும், அன்றியும் பகைகொண்டு எதிர்ப்பவர்க்கும் அழிக்க முடியாத உள்ளரணும் ஆகும்.",
+          "வாய்மை என்று கூறப்படுவது எது என்றால், அது மற்றவர்க்கு ஒரு சிறிதும் தீங்கு இல்லாத சொற்களைக் சொல்லுதல் ஆகும்."
+        ],
+        "quiz_options_en": [
+          "Ere tongue benumbs and hiccough comes Rise up to do good deeds betimes",
+          "The destitute desire will quit If fate with ills visit them not",
+          "Wisdom's weapon wards off all woes It is a fort defying foes",
+          "If \\\"What is truth\\\"? the question be, It is to speak out evil-free"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வாய்மை) பகுதியில் குறள் 291 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வாய்மை என்று கூறப்படுவது எது என்றால், அது மற்றவர்க்கு ஒரு சிறிதும் தீங்கு இல்லாத சொற்களைக் சொல்லுதல் ஆகும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது மெய்யினது தன்மை. பெரும்பான்மையும் காமமும் பொருளும் பற்றி நிகழ்வதாய பொய்ம்மையை விலக்கலின் , இது 'கூடா ஒழுக்கம்' , 'கள்ளாமை' களின் பின் வைக்கப்பட்டது.) வாய்மை எனப்படுவது யாது எனின் - மெய்ம்மை என்று சிறப்பித்துச் சொல்லப்படுவது யாது என்று வினவின், தீமை...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 30: 'Veracity'), Kural 291 distills a foundational ethical insight: \"You ask, in lips of men what 'truth' may be;'Tis speech from every taint of evil free\" Philosophically, Truth is the speaking of such words as are free from the least degree of evil (to others).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "speech",
+        "truth",
+        "ethics",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 292,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: குற்றம் தீர்த்த நன்மையை விளைக்குமானால் பொய்யாச் சொற்களும் வாய்மை என்று கருதத் தக்க இடத்தைப் பெறும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Even falsehood has the nature of truth, if it confer a benefit that is free from fault.",
+        "story_title_ta": "வாய்மை — முகில் கற்ற பாடம்",
+        "story_title_en": "Veracity — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வாய்மை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 292 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'குற்றம் அற்ற நன்மையைத் தரும் என்றால் உண்மை சொல்ல வேண்டிய இடத்தில் பொய்யும் சொல்லலாம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Veracity'. Grandpa shared Kural 292 and explained in simple words: Even falsehood has the nature of truth, if it confer a benefit that is free from fault. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: குற்றமற்ற நன்மையை விளைவிக்கக் கூடுமானால் பொய்யான சொல்லும்கூட வாய்மை என்று கூறத்தக்க இடத்தைப் பெற்றுவிடும்.",
+        "moral_en": "Moral: Falsehood may take the place of truthful word, If blessing, free from fault, it can afford.",
+        "game_blank_word_ta": "பயக்கும்",
+        "game_options_ta": [
+          "பயக்கும்",
+          "வாய்மை",
+          "எனப்படுவது",
+          "யாதெனின்"
+        ],
+        "game_options_en": [
+          "E'en falsehood may for truth suffice, When good it brings removing vice",
+          "If \\\"What is truth\\\"? the question be, It is to speak out evil-free",
+          "Let not a man knowingly lie; Conscience will scorch and make him sigh",
+          "He lives in loving hearts of all Who serves the Truth serene in soul"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வாய்மை (துறவறவியல்) பிரிவில் அமைந்த குறள் 292, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: குற்றம் அற்ற நன்மையைத் தரும் என்றால் உண்மை சொல்ல வேண்டிய இடத்தில் பொய்யும் சொல்லலாம். கலைஞர் உரை கூறுவது: குற்றமற்ற நன்மையை விளைவிக்கக் கூடுமானால் பொய்யான சொல்லும்கூட வாய்மை என்று கூறத்தக்க இடத்தைப் பெற்றுவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Veracity (Ascetic Virtue), Kural 292 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even falsehood has the nature of truth, if it confer a benefit that is free from fault. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வாய்மை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Veracity' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வாய்மை' அதிகாரத்தில் வரும் திருக்குறள் 292 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 292 from Chapter 'Veracity'?",
+        "quiz_options_ta": [
+          "குற்றம் தீர்த்த நன்மையை விளைக்குமானால் பொய்யாச் சொற்களும் வாய்மை என்று கருதத் தக்க இடத்தைப் பெறும்.",
+          "நேற்று இருந்தவன் ஒருவன் இன்று இல்லாமல் இறந்து போனான் என்று சொல்லப்படும் நிலையாமைஆகிய பெருமை உடையது இவ்வுலகம்.",
+          "நல்வினை விளையும் போது நல்லவை எனக் கருதி மகிழ்கின்றனர், தீவினை விளையும் போது துன்பப்பட்டுக் கலங்குவது ஏனோ.",
+          "மனத்தை சென்ற இடத்தில் செல்லவிடாமல், தீமையானதிலிருந்து நீக்கிக் காத்து நன்மையானதில் செல்லவிடுவதே அறிவாகும்."
+        ],
+        "quiz_options_en": [
+          "E'en falsehood may for truth suffice, When good it brings removing vice",
+          "One was yesterday; not today!",
+          "Who good in time of good perceive In evil time why should they grieve?",
+          "Wisdom checks the straying senses Expels evils, impels goodness"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வாய்மை) பகுதியில் குறள் 292 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: குற்றம் தீர்த்த நன்மையை விளைக்குமானால் பொய்யாச் சொற்களும் வாய்மை என்று கருதத் தக்க இடத்தைப் பெறும். பரிமேலழகர் உரை நுட்பம்: புரை தீர்ந்த நன்மை பயக்கும் எனின் - பிறர்க்குக் குற்றம் தீர்ந்த நன்மையைப் பயக்குமாயின் , பொய்ம்மையும் வாய்மை இடத்த - பொய்ம்மைச் சொற்களும் மெய்ம்மைச் சொற்களின் பால ஆம். (குற்றம் தீர்ந்த நன்மை : அறம். அதனைப் பயத்தலாவது, கேடாதல் சாக்காடாதல் எய்த நின்றதோர் உயிர...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 30: 'Veracity'), Kural 292 distills a foundational ethical insight: \"Falsehood may take the place of truthful word, If blessing, free from fault, it can afford\" Philosophically, Even falsehood has the nature of truth, if it confer a benefit that is free from fault.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "truth",
+        "speech",
+        "ethics",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 293,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவன் தன் நெஞ்சம் அறிவதாகிய ஒன்றைக்குறித்துப் பொய்ச் சொல்லக்கூடாது, பொய் சொன்னால் அதைக்குறித்துத் தன் நெஞ்சமே தன்னை வருத்தும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Let not a man knowingly tell a lie; for after he has told the lie, his mind will burn him (with the memory of his guilt).",
+        "story_title_ta": "வாய்மை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Veracity — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வாய்மை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 293 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொய் என்று உள்ளம் உணர்த்துவதைச் சொல்ல வேண்டா. சொன்னால், அதைப் பொய் என்று உலகு அறிய நேரும்போது தன் மனமே தன்னைச் சுடும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Veracity'. Grandpa shared Kural 293 and explained in simple words: Let not a man knowingly tell a lie; for after he has told the lie, his mind will burn him (with the memory of his guilt). The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மனச்சாட்சிக்கு எதிராகப் பொய் சொல்லக்கூடாது; அப்படிச் சொன்னால், சொன்னவரின் மனமே அவரைத் தண்டிக்கும்.",
+        "moral_en": "Moral: Speak not a word which false thy own heart knowsSelf-kindled fire within the false one's spirit glows.",
+        "game_blank_word_ta": "சுடும்",
+        "game_options_ta": [
+          "வாய்மை",
+          "சுடும்",
+          "எனப்படுவது",
+          "யாதெனின்"
+        ],
+        "game_options_en": [
+          "If \\\"What is truth\\\"? the question be, It is to speak out evil-free",
+          "Let not a man knowingly lie; Conscience will scorch and make him sigh",
+          "E'en falsehood may for truth suffice, When good it brings removing vice",
+          "He lives in loving hearts of all Who serves the Truth serene in soul"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வாய்மை (துறவறவியல்) பிரிவில் அமைந்த குறள் 293, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொய் என்று உள்ளம் உணர்த்துவதைச் சொல்ல வேண்டா. சொன்னால், அதைப் பொய் என்று உலகு அறிய நேரும்போது தன் மனமே தன்னைச் சுடும். கலைஞர் உரை கூறுவது: மனச்சாட்சிக்கு எதிராகப் பொய் சொல்லக்கூடாது; அப்படிச் சொன்னால், சொன்னவரின் மனமே அவரைத் தண்டிக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Veracity (Ascetic Virtue), Kural 293 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let not a man knowingly tell a lie; for after he has told the lie, his mind will burn him (with the memory of his guilt). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வாய்மை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Veracity' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வாய்மை' அதிகாரத்தில் வரும் திருக்குறள் 293 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 293 from Chapter 'Veracity'?",
+        "quiz_options_ta": [
+          "அறிவில்லாதவர் ஒரு வேளையாவது வாழ்க்கையின் தன்மையை ஆராய்ந்து அறிவதில்லை.ஆனால் வீணீல் எண்ணுவனவோ ஒரு கோடியும் அல்ல, மிகப்பல எண்ணங்கள்.",
+          "ஒருவன் தன் நெஞ்சம் அறிவதாகிய ஒன்றைக்குறித்துப் பொய்ச் சொல்லக்கூடாது, பொய் சொன்னால் அதைக்குறித்துத் தன் நெஞ்சமே தன்னை வருத்தும்.",
+          "ஊழை விட மிக்க வலிமையுள்ளவை வேறு எவை உள்ளன, ஊழை விலக்கும் பொருட்டு மற்றோரு வழியைஆராய்ந்தாலும் அங்கும் தானே முன் வந்து நிற்கும்.",
+          "எப்பொருளை யார் யார் இடம் கேட்டாலும் (கேட்டவாறே கொள்ளாமல்) அப் பொருளின் மெய்யானப் பொருளைக் காண்பதே அறிவாகும்."
+        ],
+        "quiz_options_en": [
+          "Man knows not his next moment On crores of things he is intent",
+          "Let not a man knowingly lie; Conscience will scorch and make him sigh",
+          "What power surpasses fate? Its will Persists against the human skill",
+          "To grasp the Truth from everywhere From everyone is wisdom fair"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வாய்மை) பகுதியில் குறள் 293 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் தன் நெஞ்சம் அறிவதாகிய ஒன்றைக்குறித்துப் பொய்ச் சொல்லக்கூடாது, பொய் சொன்னால் அதைக்குறித்துத் தன் நெஞ்சமே தன்னை வருத்தும். பரிமேலழகர் உரை நுட்பம்: தன் நெஞ்சு அறிவது பொய்யற்க - ஒருவன் தன் நெஞ்சு அறிவது ஒன்றனைப் பிறர் அறிந்திலர் என்று பொய்யாதொழிக,பொய்த்தபின் தன் நெஞ்சே தன்னைச் சுடும் - பொய்த்த தாயின் அதனை அறிந்த தன் நெஞ்சே அப்பாவத்திற்குக் கரியாய் நின்று, தன்னை அதன் பயனாய துன்பத்தை எய்துவிக்கும். (நெஞ்சு...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 30: 'Veracity'), Kural 293 distills a foundational ethical insight: \"Speak not a word which false thy own heart knowsSelf-kindled fire within the false one's spirit glows\" Philosophically, Let not a man knowingly tell a lie; for after he has told the lie, his mind will burn him (with the memory of his guilt).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "truth",
+        "speech",
+        "family",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 294,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவன் தன் உள்ளம் அறியப் பொய் இல்லாமல் நடப்பானானால் அத்தகையவன் உலகத்தாரின் உள்ளங்களில் எல்லாம் இருப்பவனாவான்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: He who, in his conduct, preserves a mind free from deceit, will dwell in the minds of all men.",
+        "story_title_ta": "வாய்மை — கவின் கற்ற பாடம்",
+        "story_title_en": "Veracity — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வாய்மை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 294 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உள்ளம் அறியப் பொய் சொல்லாமல் ஒருவன் வாழ்ந்தால் அவன் உயர்ந்தவர் உள்ளத்துள் எல்லாம் குடி இருப்பான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Veracity'. Grandpa shared Kural 294 and explained in simple words: He who, in his conduct, preserves a mind free from deceit, will dwell in the minds of all men. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மனத்தால்கூடப் பொய்யை நினைக்காமல் வாழ்பவர்கள், மக்கள் மனத்தில் நிலையான இடத்தைப் பெறுவார்கள்.",
+        "moral_en": "Moral: True to his inmost soul who lives,- enshrinedHe lives in souls of all mankind.",
+        "game_blank_word_ta": "உள்ளத்தாற்",
+        "game_options_ta": [
+          "வாய்மை",
+          "எனப்படுவது",
+          "உள்ளத்தாற்",
+          "யாதெனின்"
+        ],
+        "game_options_en": [
+          "If \\\"What is truth\\\"? the question be, It is to speak out evil-free",
+          "E'en falsehood may for truth suffice, When good it brings removing vice",
+          "He lives in loving hearts of all Who serves the Truth serene in soul",
+          "Let not a man knowingly lie; Conscience will scorch and make him sigh"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வாய்மை (துறவறவியல்) பிரிவில் அமைந்த குறள் 294, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உள்ளம் அறியப் பொய் சொல்லாமல் ஒருவன் வாழ்ந்தால் அவன் உயர்ந்தவர் உள்ளத்துள் எல்லாம் குடி இருப்பான். கலைஞர் உரை கூறுவது: மனத்தால்கூடப் பொய்யை நினைக்காமல் வாழ்பவர்கள், மக்கள் மனத்தில் நிலையான இடத்தைப் பெறுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Veracity (Ascetic Virtue), Kural 294 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who, in his conduct, preserves a mind free from deceit, will dwell in the minds of all men. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வாய்மை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Veracity' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வாய்மை' அதிகாரத்தில் வரும் திருக்குறள் 294 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 294 from Chapter 'Veracity'?",
+        "quiz_options_ta": [
+          "உடம்போடு உயிர்க்கு உள்ள உறவு, தான் இருந்த கூடு தனியே இருக்க அதை விட்டு வேறிடத்திற்குப் பறவை பறந்தாற் போன்றது.",
+          "படை குடி கூழ் அமைச்சு நட்பு அரண் என்று கூறப்படும் ஆறு அங்கங்களையும் உடையவனே அரசருள் ஆண் சிங்கம் போனறவன்.",
+          "ஒருவன் தன் உள்ளம் அறியப் பொய் இல்லாமல் நடப்பானானால் அத்தகையவன் உலகத்தாரின் உள்ளங்களில் எல்லாம் இருப்பவனாவான்.",
+          "தான் சொல்லுவன எளிய பொருளையுடையனவாகப் பதியுமாறு சொல்லி, தான் பிறரிடம் கேட்பவற்றின் நுட்பமானப் பொருளையும் ஆராய்ந்து காண்பது அறிவாகும்."
+        ],
+        "quiz_options_en": [
+          "The soul from body any day Like bird from egg-shell flies away",
+          "People, troops, wealth, forts, council, friends Who owns these six is lion of kings",
+          "He lives in loving hearts of all Who serves the Truth serene in soul",
+          "Speaking out thoughts in clear trends Wisdom subtle sense comprehends"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வாய்மை) பகுதியில் குறள் 294 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் தன் உள்ளம் அறியப் பொய் இல்லாமல் நடப்பானானால் அத்தகையவன் உலகத்தாரின் உள்ளங்களில் எல்லாம் இருப்பவனாவான். பரிமேலழகர் உரை நுட்பம்: உள்ளத்தால் பொய்யாது ஒழுகின் - ஒருவன் தன்னுள்ளத்திற்கேற்பப் பொய் கூறாது ஒழுகுவானாயின், உலகத்தார் உள்ளத்துள் எல்லாம் உளன் - அவன் உயர்ந்தோர் உள்ளத்தின்கண் எல்லாம் உளனாம். ('உள்ளத்தால்' என்பது வேற்றுமை மயக்கம். பொய் கூறாது ஒழுகுதலாவது மெய் கூறி ஒழுகுதல் அவனது...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 30: 'Veracity'), Kural 294 distills a foundational ethical insight: \"True to his inmost soul who lives,- enshrinedHe lives in souls of all mankind\" Philosophically, He who, in his conduct, preserves a mind free from deceit, will dwell in the minds of all men.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "truth",
+        "speech",
+        "family",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 295,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒருவன் தன் மனதோடு பொருந்த உண்மை பேசுவானானால் அவன் தவத்தேடு தானமும் ஒருங்கே செய்வாரை விடச் சிறந்தவன்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: He, who speaks truth with all his heart, is superior to those who make gifts and practise austerities.",
+        "story_title_ta": "வாய்மை — நிலா கற்ற பாடம்",
+        "story_title_en": "Veracity — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வாய்மை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 295 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உள்ளம் அறிய உண்மை பேசுபவன், தவமும் தானமும் செய்பவரைக் காட்டிலும் உயர்ந்தவன் ஆவான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Veracity'. Grandpa shared Kural 295 and explained in simple words: He, who speaks truth with all his heart, is superior to those who make gifts and practise austerities. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உதட்டளவில் இன்றி உளமார வாய்மை பேசுகிறவர்கள் தவமும், தானமும் செய்கின்றவர்களைவிட உயர்ந்தவர்களாவார்கள்.",
+        "moral_en": "Moral: Greater is he who speaks the truth with full consenting mindThan men whose lives have penitence and charity combined.",
+        "game_blank_word_ta": "வாய்மை",
+        "game_options_ta": [
+          "எனப்படுவது",
+          "யாதெனின்",
+          "யாதொன்றும்",
+          "வாய்மை"
+        ],
+        "game_options_en": [
+          "If \\\"What is truth\\\"? the question be, It is to speak out evil-free",
+          "E'en falsehood may for truth suffice, When good it brings removing vice",
+          "Let not a man knowingly lie; Conscience will scorch and make him sigh",
+          "To speak the truth from heart sincere Is more than giving and living austere"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வாய்மை (துறவறவியல்) பிரிவில் அமைந்த குறள் 295, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உள்ளம் அறிய உண்மை பேசுபவன், தவமும் தானமும் செய்பவரைக் காட்டிலும் உயர்ந்தவன் ஆவான். கலைஞர் உரை கூறுவது: உதட்டளவில் இன்றி உளமார வாய்மை பேசுகிறவர்கள் தவமும், தானமும் செய்கின்றவர்களைவிட உயர்ந்தவர்களாவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Veracity (Ascetic Virtue), Kural 295 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He, who speaks truth with all his heart, is superior to those who make gifts and practise austerities. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வாய்மை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Veracity' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வாய்மை' அதிகாரத்தில் வரும் திருக்குறள் 295 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 295 from Chapter 'Veracity'?",
+        "quiz_options_ta": [
+          "இறப்பு எனப்படுவது ஒருவனுக்குஉறக்கம் வருதலைப் போன்றது, பிறப்பு எனப்படுவது உறக்கம் நீங்கி விழித்துக் கொள்வதைப் போன்றது.",
+          "அஞ்சாமை, ஈகை , அறிவுடைமை, ஊக்கமுடைமை இந்த நான்கு பண்புகளும் குறைவு படாமல் இருத்தலே அரசனுக்கு இயல்பாகும்.",
+          "உலகத்து உயர்ந்தவரை நட்பாக்கி கொள்வது சிறந்த அறிவு, முன்னே மகிழ்ந்து விரிதலும் பின்னே வருந்திக் குவிதலும் இல்லாத அறிவு.",
+          "ஒருவன் தன் மனதோடு பொருந்த உண்மை பேசுவானானால் அவன் தவத்தேடு தானமும் ஒருங்கே செய்வாரை விடச் சிறந்தவன்."
+        ],
+        "quiz_options_en": [
+          "Death is like a slumber deep And birth like waking from that sleep",
+          "Courage, giving, knowledge and zeal Are four failless features royal",
+          "The wise-world the wise befriend They bloom nor gloom, equal in mind",
+          "To speak the truth from heart sincere Is more than giving and living austere"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வாய்மை) பகுதியில் குறள் 295 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் தன் மனதோடு பொருந்த உண்மை பேசுவானானால் அவன் தவத்தேடு தானமும் ஒருங்கே செய்வாரை விடச் சிறந்தவன். பரிமேலழகர் உரை நுட்பம்: மனத்தொடு வாய்மை மொழியின் - ஒருவன் தன்மனத்தொடு பொருந்த வாய்மையைச் சொல்வானாயின், தவத்தொடு தானம் செய்வாரின் தலை - அவன் தவமும் தானமும் ஒருங்கு செய்வாரினும் சிறப்புடையன். (மனத்தொடு பொருந்துதல் - மனத்திற்கு ஏறுதல். புறமாகிய மெய்யால் செய்யும் அவற்றினும் அகமாகிய மனம...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 30: 'Veracity'), Kural 295 distills a foundational ethical insight: \"Greater is he who speaks the truth with full consenting mindThan men whose lives have penitence and charity combined\" Philosophically, He, who speaks truth with all his heart, is superior to those who make gifts and practise austerities.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "truth",
+        "speech",
+        "love",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 296,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒருவனுக்கு பொய் இல்லாமல் வாழ்தலை விடப் புகழ் நிலை வேறொன்றும் இல்லை, அஃது அவன் அறியாமலேயெ அவனுக்கு எல்லா அறமும் கொடுக்கும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: There is no praise like the praise of never uttering a falsehood: without causing any suffering, it will lead to every virtue.",
+        "story_title_ta": "வாய்மை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Veracity — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வாய்மை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 296 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொய் சொல்லாமல் இருப்பது போலப் புகழ் தருவது இல்லை. அது அவன் அறியாமலேயே அவனுக்கு எல்லாப் புண்ணியங்களையும் தரும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Veracity'. Grandpa shared Kural 296 and explained in simple words: There is no praise like the praise of never uttering a falsehood: without causing any suffering, it will lead to every virtue. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பொய் இல்லாமல் வாழ்வது போன்ற புகழ் மிக்க வாழ்வு வேறு எதுவுமில்லை; என்றும் நீங்காத அறவழி நலன்களை அளிப்பது அந்த வாழ்வேயாகும்.",
+        "moral_en": "Moral: No praise like that of words from falsehood free; This every virtue yields spontaneously.",
+        "game_blank_word_ta": "புகழில்லை",
+        "game_options_ta": [
+          "புகழில்லை",
+          "வாய்மை",
+          "எனப்படுவது",
+          "யாதெனின்"
+        ],
+        "game_options_en": [
+          "Not to lie brings all the praise All virtues from Truth arise",
+          "If \\\"What is truth\\\"? the question be, It is to speak out evil-free",
+          "E'en falsehood may for truth suffice, When good it brings removing vice",
+          "Let not a man knowingly lie; Conscience will scorch and make him sigh"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வாய்மை (துறவறவியல்) பிரிவில் அமைந்த குறள் 296, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொய் சொல்லாமல் இருப்பது போலப் புகழ் தருவது இல்லை. அது அவன் அறியாமலேயே அவனுக்கு எல்லாப் புண்ணியங்களையும் தரும். கலைஞர் உரை கூறுவது: பொய் இல்லாமல் வாழ்வது போன்ற புகழ் மிக்க வாழ்வு வேறு எதுவுமில்லை; என்றும் நீங்காத அறவழி நலன்களை அளிப்பது அந்த வாழ்வேயாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Veracity (Ascetic Virtue), Kural 296 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is no praise like the praise of never uttering a falsehood: without causing any suffering, it will lead to every virtue. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வாய்மை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Veracity' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வாய்மை' அதிகாரத்தில் வரும் திருக்குறள் 296 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 296 from Chapter 'Veracity'?",
+        "quiz_options_ta": [
+          "ஒருவனுக்கு பொய் இல்லாமல் வாழ்தலை விடப் புகழ் நிலை வேறொன்றும் இல்லை, அஃது அவன் அறியாமலேயெ அவனுக்கு எல்லா அறமும் கொடுக்கும்.",
+          "(நோய்களுக்கு இடமாகிய) உடம்பில் ஒரு மூலையில் குடியிருந்த உயிர்க்கு, நிலையாகப் புகுந்திருக்கும் வீடு இதுவரையில் அமையவில்லையோ.",
+          "காலம் தாழ்த்தாத தன்மை, கல்வியுடைமை, துணிவுடைமை இந்த மூன்று பண்புகளும் நிலத்தை ஆளும் அரசனுக்கு நீங்காமல் இருக்க வேண்டியவை.",
+          "உலகம் எவ்வாறு நடைபெறுகின்றதோ, உலகத்தோடு பொருந்திய வகையில் தானும் அவ்வாறு நடப்பதே அறிவாகும்."
+        ],
+        "quiz_options_en": [
+          "Not to lie brings all the praise All virtues from Truth arise",
+          "The life berthed in this body shows A fixed home it never knows",
+          "Alertness, learning bravery Are adjuncts three of monarchy",
+          "As moves the world so move the wise In tune with changing times and ways"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வாய்மை) பகுதியில் குறள் 296 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவனுக்கு பொய் இல்லாமல் வாழ்தலை விடப் புகழ் நிலை வேறொன்றும் இல்லை, அஃது அவன் அறியாமலேயெ அவனுக்கு எல்லா அறமும் கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: பொய்யாமை அன்ன புகழ் இல்லை - ஒருவனுக்கு இம்மைக்குப் பொய்யாமையை ஒத்த புகழ்க் காரணம் இல்லை. எய்யாமை எல்லா அறமும் தரும் - மறுமைக்கு மெய் வருந்தாமல் அவனுக்கு எல்லா அறங்களையும தானே கொடுக்கும். ('புகழ்' ஈண்டு ஆகுபெயர். இல்லத்திற்குப் பொருள் கூட்டல் முதலியவற்றானும...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 30: 'Veracity'), Kural 296 distills a foundational ethical insight: \"No praise like that of words from falsehood free; This every virtue yields spontaneously\" Philosophically, There is no praise like the praise of never uttering a falsehood: without causing any suffering, it will lead to every virtue.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "truth",
+        "speech",
+        "ethics",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 297,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பொய்யாமை ஆகிய அறத்தை உண்மையாகவே போற்றி வாழ முடிந்தால் மற்ற அறங்களைச் செய்தலும் நல்லது ஆகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: If a man has the power to abstain from falsehood, it will be well with him, even though he practise no other virtue.",
+        "story_title_ta": "வாய்மை — இனியா கற்ற பாடம்",
+        "story_title_en": "Veracity — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வாய்மை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 297 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொய் சொல்லாமல் ஒருவன் வாழ்ந்தால் பிற அறங்களைச் செய்யாமல் இருப்பதுகூட, அவனுக்கு நல்லதாகிவிடும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Veracity'. Grandpa shared Kural 297 and explained in simple words: If a man has the power to abstain from falsehood, it will be well with him, even though he practise no other virtue. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: செய்யக்கூடாததைச் செய்யாததால் விளையும் நன்மையைவிடப் பொய் கூறாத பண்பு பொய்த்துப் போகாமல் கடைப்பிடிக்கும் அறவழி நன்மை தருவதாகும்.",
+        "moral_en": "Moral: If all your life be utter truth, the truth alone,'Tis well, though other virtuous acts be left undone.",
+        "game_blank_word_ta": "அறம்பிற",
+        "game_options_ta": [
+          "வாய்மை",
+          "அறம்பிற",
+          "எனப்படுவது",
+          "யாதெனின்"
+        ],
+        "game_options_en": [
+          "If \\\"What is truth\\\"? the question be, It is to speak out evil-free",
+          "Lie not lie not Naught else you need All virtues are in Truth indeed",
+          "E'en falsehood may for truth suffice, When good it brings removing vice",
+          "Let not a man knowingly lie; Conscience will scorch and make him sigh"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வாய்மை (துறவறவியல்) பிரிவில் அமைந்த குறள் 297, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொய் சொல்லாமல் ஒருவன் வாழ்ந்தால் பிற அறங்களைச் செய்யாமல் இருப்பதுகூட, அவனுக்கு நல்லதாகிவிடும். கலைஞர் உரை கூறுவது: செய்யக்கூடாததைச் செய்யாததால் விளையும் நன்மையைவிடப் பொய் கூறாத பண்பு பொய்த்துப் போகாமல் கடைப்பிடிக்கும் அறவழி நன்மை தருவதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Veracity (Ascetic Virtue), Kural 297 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If a man has the power to abstain from falsehood, it will be well with him, even though he practise no other virtue. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வாய்மை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Veracity' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வாய்மை' அதிகாரத்தில் வரும் திருக்குறள் 297 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 297 from Chapter 'Veracity'?",
+        "quiz_options_ta": [
+          "ஒருவன் எந்தப் பொருளிலிருந்து, எந்தப் பொருளிலிருந்து பற்று நீங்கியவனாக இருக்கின்றானோ, அந்தந்தப் பொருளால் அவன் துன்பம் அடைவதில்லை.",
+          "பொய்யாமை ஆகிய அறத்தை உண்மையாகவே போற்றி வாழ முடிந்தால் மற்ற அறங்களைச் செய்தலும் நல்லது ஆகும்.",
+          "ஆட்சி முறைக்கு உரிய அறத்தில் தவறாமல் அறமல்லாதவற்றை நீக்கி வீரத்தில் குறைபடாத மானத்தை உடையவனே சிறந்த அரசன் ஆவான்.",
+          "அறிவுடையோர் எதிர்காலத்தில் நிகழப்போவதை முன்னே எண்ணி அறியவல்லார், அறிவில்லாதவர் அதனை அறிய முடியாதவர்."
+        ],
+        "quiz_options_en": [
+          "From what from what a man is free From that, from that his torments flee",
+          "Lie not lie not Naught else you need All virtues are in Truth indeed",
+          "A brave noble king refrains from vice Full of virtue and enterprise",
+          "The wise foresee what is to come The unwise lack in that wisdom"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வாய்மை) பகுதியில் குறள் 297 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொய்யாமை ஆகிய அறத்தை உண்மையாகவே போற்றி வாழ முடிந்தால் மற்ற அறங்களைச் செய்தலும் நல்லது ஆகும். பரிமேலழகர் உரை நுட்பம்: பொய்யாமை பொய்யாமை ஆற்றின் - ஒருவன் பொய்யாமையையே, பொய்யாமையையே செய்ய வல்லவனாயின், பிற அறம் செய்யாமை செய்யாமை நன்று - அவன் பிற அறங்களைச் செய்யாமையே செய்யாமையே நன்று (அடுக்கு இரண்டனுள் முதலது இடைவிடாமை மேற்று, ஏனையது துணிவின் மேற்று. 'பல அறங்களையும் மேற்கொண்டு...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 30: 'Veracity'), Kural 297 distills a foundational ethical insight: \"If all your life be utter truth, the truth alone,'Tis well, though other virtuous acts be left undone\" Philosophically, If a man has the power to abstain from falsehood, it will be well with him, even though he practise no other virtue.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "truth",
+        "ethics",
+        "speech",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 298,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: புறத்தே தூய்மையாக விளங்குதல் நீரினால் ஏற்ப்படும், அதுபோல அகத்தே தூய்மையாக விளங்குதல் வாய்மையால் உண்டாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Purity of body is produced by water and purity of mind by truthfulness.",
+        "story_title_ta": "வாய்மை — முகில் கற்ற பாடம்",
+        "story_title_en": "Veracity — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வாய்மை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 298 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உடம்பு தண்ணீரால் சுத்தமாகும்; உள்ளம் உண்மையால் சுத்தமாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Veracity'. Grandpa shared Kural 298 and explained in simple words: Purity of body is produced by water and purity of mind by truthfulness. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நீரில் குளிப்பதால் உடலின் அழுக்கு மட்டுமே நீங்கும்; மனம் அழுக்குப்படாமல் தூய்மையுடன் விளங்கிட, சொல்லிலும் செயலிலும் வாய்மை வேண்டும்.",
+        "moral_en": "Moral: Outward purity the water will bestow; Inward purity from truth alone will flow.",
+        "game_blank_word_ta": "வாய்மையால்",
+        "game_options_ta": [
+          "வாய்மை",
+          "எனப்படுவது",
+          "வாய்மையால்",
+          "யாதெனின்"
+        ],
+        "game_options_en": [
+          "If \\\"What is truth\\\"? the question be, It is to speak out evil-free",
+          "E'en falsehood may for truth suffice, When good it brings removing vice",
+          "Water makes you pure outward Truth renders you pure inward",
+          "Let not a man knowingly lie; Conscience will scorch and make him sigh"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வாய்மை (துறவறவியல்) பிரிவில் அமைந்த குறள் 298, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உடம்பு தண்ணீரால் சுத்தமாகும்; உள்ளம் உண்மையால் சுத்தமாகும். கலைஞர் உரை கூறுவது: நீரில் குளிப்பதால் உடலின் அழுக்கு மட்டுமே நீங்கும்; மனம் அழுக்குப்படாமல் தூய்மையுடன் விளங்கிட, சொல்லிலும் செயலிலும் வாய்மை வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Veracity (Ascetic Virtue), Kural 298 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Purity of body is produced by water and purity of mind by truthfulness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வாய்மை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Veracity' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வாய்மை' அதிகாரத்தில் வரும் திருக்குறள் 298 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 298 from Chapter 'Veracity'?",
+        "quiz_options_ta": [
+          "துன்பமில்லாத நிலைமை வேண்டுமானால் எல்லாப் பொருள்களும் உள்ள காலத்திலேயெ துறக்க வேண்டும்,துறந்த பின் இங்குப் பெறக்கூடும் இன்பங்கள் பல.",
+          "பொருள் வரும் வழிகளை மேன்மேலும் இயற்றலும் வந்த பொருள்களைச் சேர்த்தலும், காத்தலும் காத்தவற்றை வகுத்துச் செலவு செய்தலும் வல்லவன் அரசன்.",
+          "புறத்தே தூய்மையாக விளங்குதல் நீரினால் ஏற்ப்படும், அதுபோல அகத்தே தூய்மையாக விளங்குதல் வாய்மையால் உண்டாகும்.",
+          "அஞ்சத்தக்கதைக் கண்டு அஞ்சாதிருப்பது அறியாமையாகும், அஞ்சத் தக்கதைக் கண்டு அஞ்சுவதே அறிவுடையவரின் தொழிலாகும்."
+        ],
+        "quiz_options_en": [
+          "Give up all to gain the True And endless joys shall hence seek you",
+          "The able king gets, stores and guards And spends them for people's safeguards",
+          "Water makes you pure outward Truth renders you pure inward",
+          "Fear the frightful and act wisely Not to fear the frightful's folly"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வாய்மை) பகுதியில் குறள் 298 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: புறத்தே தூய்மையாக விளங்குதல் நீரினால் ஏற்ப்படும், அதுபோல அகத்தே தூய்மையாக விளங்குதல் வாய்மையால் உண்டாகும். பரிமேலழகர் உரை நுட்பம்: புறம் தூய்மை நீரான் அமையும் - ஒருவனுக்கு உடம்பு தூய்தாந் தன்மை நீரானே உண்டாம்: அகம் தூய்மை வாய்மையான் காணப்படும். - அதுபோல, மனம் தூய்தாந் தன்மை வாய்மையான் உண்டாம். \"(காணப்படுவது உளதாகலின் , 'உண்டாம்' என்று உரைக்கப்பட்டது. உடம்பு தூய்தாதல்: வாலாமை நீங்குதல...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 30: 'Veracity'), Kural 298 distills a foundational ethical insight: \"Outward purity the water will bestow; Inward purity from truth alone will flow\" Philosophically, Purity of body is produced by water and purity of mind by truthfulness.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "truth",
+        "speech",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 299,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: (புறத்தில் உள்ள இருளை நீக்கும்) விளக்குகள் எல்லாம் விளக்குகள் அல்ல, சான்றோர்க்கு (அகத்து இருள் நீக்கும்) பொய்யாமையாகிய விளக்கே விளக்கு ஆகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: All lamps of nature are not lamps; the lamp of truth is the lamp of the wise.",
+        "story_title_ta": "வாய்மை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Veracity — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வாய்மை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 299 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உலகத்து இருட்டைப் போக்கும் விளக்குகள், விளக்கு ஆகா; பொய் சொல்லாமை என்னும் விளக்கே சான்றோர்க்கு விளக்கு ஆகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Veracity'. Grandpa shared Kural 299 and explained in simple words: All lamps of nature are not lamps; the lamp of truth is the lamp of the wise. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: புறத்தின் இருளைப் போக்கும் விளக்குகளைவிட அகத்தின் இருளைப் போக்கும் பொய்யாமை எனும் விளக்கே ஒருவனை உயர்ந்தோன் எனக் காட்டும் ஒளிமிக்க விளக்காகும்.",
+        "moral_en": "Moral: Every lamp is not a lamp in wise men's sight; That's the lamp with truth's pure radiance bright.",
+        "game_blank_word_ta": "விளக்கே",
+        "game_options_ta": [
+          "வாய்மை",
+          "எனப்படுவது",
+          "யாதெனின்",
+          "விளக்கே"
+        ],
+        "game_options_en": [
+          "If \\\"What is truth\\\"? the question be, It is to speak out evil-free",
+          "E'en falsehood may for truth suffice, When good it brings removing vice",
+          "Let not a man knowingly lie; Conscience will scorch and make him sigh",
+          "All lights are not lights for the wise; Truth light is light bright like Sun-light"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வாய்மை (துறவறவியல்) பிரிவில் அமைந்த குறள் 299, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உலகத்து இருட்டைப் போக்கும் விளக்குகள், விளக்கு ஆகா; பொய் சொல்லாமை என்னும் விளக்கே சான்றோர்க்கு விளக்கு ஆகும். கலைஞர் உரை கூறுவது: புறத்தின் இருளைப் போக்கும் விளக்குகளைவிட அகத்தின் இருளைப் போக்கும் பொய்யாமை எனும் விளக்கே ஒருவனை உயர்ந்தோன் எனக் காட்டும் ஒளிமிக்க விளக்காகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Veracity (Ascetic Virtue), Kural 299 speaks directly to teens navigating studies, friendships, leadership, and digital choices: All lamps of nature are not lamps; the lamp of truth is the lamp of the wise. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வாய்மை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Veracity' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வாய்மை' அதிகாரத்தில் வரும் திருக்குறள் 299 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 299 from Chapter 'Veracity'?",
+        "quiz_options_ta": [
+          "ஐம்பொறிகளுக்கும் உரிய ஐந்து புலன்களின் ஆசையையும் வெல்லுதல் வேண்டும், அவற்றிற்கு வேண்டிய பொருள்களை எல்லாம் ஒரு சேர விட வேண்டும்.",
+          "காண்பதற்கு எளியவனாய்க் கடுஞ்சொல் கூறாதவாய் இருந்தால் அந்த மன்னனுடைய ஆட்சிக்கு உட்பட்ட நாட்டை உலகம் புகழும்.",
+          "வரப்போவதை முன்னே அறிந்து காத்துக் கொள்ளவல்ல அறிவுடையவர்க்கு, அவர் நடுங்கும் படியாக வரக்கூடிய துன்பம் ஒன்றும் இல்லை.",
+          "(புறத்தில் உள்ள இருளை நீக்கும்) விளக்குகள் எல்லாம் விளக்குகள் அல்ல, சான்றோர்க்கு (அகத்து இருள் நீக்கும்) பொய்யாமையாகிய விளக்கே விளக்கு ஆகும்."
+        ],
+        "quiz_options_en": [
+          "Curb the senses five and renounce The carving desires all at once",
+          "That land prospers where the king is Easy to see, not harsh of words",
+          "No frightful evil shocks the wise Who guard themselves against surprise",
+          "All lights are not lights for the wise; Truth light is light bright like Sun-light"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வாய்மை) பகுதியில் குறள் 299 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (புறத்தில் உள்ள இருளை நீக்கும்) விளக்குகள் எல்லாம் விளக்குகள் அல்ல, சான்றோர்க்கு (அகத்து இருள் நீக்கும்) பொய்யாமையாகிய விளக்கே விளக்கு ஆகும். பரிமேலழகர் உரை நுட்பம்: எல்லா விளக்கும் விளக்கு அல்ல - புறத்து இருள் கடியும் உலகத்தார் விளக்குகள் எல்லாம் விளக்கு ஆகா, சான்றோர்க்கு விளக்கு பொய்யா விளக்கே - துறவான் அமைந்தார்க்கு விளக்காவது மனத்து இருள் கடியும் பொய்யாமை ஆகிய விளக்கே. (உலகத்தார் விளக்காவன: ஞாயிறு,திங்கள், தீ என்பன...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 30: 'Veracity'), Kural 299 distills a foundational ethical insight: \"Every lamp is not a lamp in wise men's sight; That's the lamp with truth's pure radiance bright\" Philosophically, All lamps of nature are not lamps; the lamp of truth is the lamp of the wise.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "truth",
+        "speech",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 300,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: யாம் உண்மையாக கண்ட பொருள்களுள் வாய்மைவிடத் எத்தன்மையாலும் சிறந்தவைகளாகச் சொல்லத்தக்கவை வேறு இல்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Amidst all that we have seen (described) as real (excellence), there is nothing so good as truthfulness.",
+        "story_title_ta": "வாய்மை — கவின் கற்ற பாடம்",
+        "story_title_en": "Veracity — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வாய்மை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 300 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'சிறந்தவை என்று நான் கண்டு அறிந்த நூல்களுள் சொல்லப்பட்டவற்றுள், உண்மையைவிட, நல்லதாகச் சொல்லப்பட்ட அறம் வேறு ஒன்றும் இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Veracity'. Grandpa shared Kural 300 and explained in simple words: Amidst all that we have seen (described) as real (excellence), there is nothing so good as truthfulness. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வாய்மையைப் போல் சிறந்த பண்பு வேறொன்றுமே இல்லை என்பதுதான் ஆராய்ந்து உணரப்பட்ட உண்மையாகும்.",
+        "moral_en": "Moral: Of all good things we've scanned with studious care, There's nought that can with truthfulness compare.",
+        "game_blank_word_ta": "யாமெய்யாக்",
+        "game_options_ta": [
+          "யாமெய்யாக்",
+          "வாய்மை",
+          "எனப்படுவது",
+          "யாதெனின்"
+        ],
+        "game_options_en": [
+          "Of all the things we here have seen Nothing surpasses Truth serene!",
+          "If \\\"What is truth\\\"? the question be, It is to speak out evil-free",
+          "E'en falsehood may for truth suffice, When good it brings removing vice",
+          "Let not a man knowingly lie; Conscience will scorch and make him sigh"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வாய்மை (துறவறவியல்) பிரிவில் அமைந்த குறள் 300, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சிறந்தவை என்று நான் கண்டு அறிந்த நூல்களுள் சொல்லப்பட்டவற்றுள், உண்மையைவிட, நல்லதாகச் சொல்லப்பட்ட அறம் வேறு ஒன்றும் இல்லை. கலைஞர் உரை கூறுவது: வாய்மையைப் போல் சிறந்த பண்பு வேறொன்றுமே இல்லை என்பதுதான் ஆராய்ந்து உணரப்பட்ட உண்மையாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Veracity (Ascetic Virtue), Kural 300 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Amidst all that we have seen (described) as real (excellence), there is nothing so good as truthfulness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வாய்மை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Veracity' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வாய்மை' அதிகாரத்தில் வரும் திருக்குறள் 300 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 300 from Chapter 'Veracity'?",
+        "quiz_options_ta": [
+          "யாம் உண்மையாக கண்ட பொருள்களுள் வாய்மைவிடத் எத்தன்மையாலும் சிறந்தவைகளாகச் சொல்லத்தக்கவை வேறு இல்லை.",
+          "தவம் செய்தவற்கு ஒரு பற்றும் இல்லாதிருத்தல் இயல்பாகும், பற்று உடையவராக இருத்தல் மீண்டும் மயங்குவதற்கு வழியாகும்.",
+          "இனியச் சொற்களுடன் தக்கவர்க்குப் பொருளை உதவிக் காக்க வல்ல அரசனுக்கு இவ்வுலகம் தன் புகழோடு தான் கருதியபடி அமைவதாகும்.",
+          "அறிவுடையவர் (வேறொன்றும் இல்லாதிருப்பினும்) எல்லாம் உடையவரே ஆவர், அறிவில்லாதவர் வேறு என்ன உடையவராக இருப்பினும் ஒன்றும் இல்லாதவரே ஆவர்."
+        ],
+        "quiz_options_en": [
+          "Of all the things we here have seen Nothing surpasses Truth serene!",
+          "To have nothing is law of vows Having the least deludes and snares",
+          "The world commends and acts his phrase Who sweetly speaks and gives with grace",
+          "Who have wisdom they are all full Whatev'r they own, misfits are nil"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வாய்மை) பகுதியில் குறள் 300 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யாம் உண்மையாக கண்ட பொருள்களுள் வாய்மைவிடத் எத்தன்மையாலும் சிறந்தவைகளாகச் சொல்லத்தக்கவை வேறு இல்லை. பரிமேலழகர் உரை நுட்பம்: யாம் மெய்யாக் கண்டவற்றுள் - யாம் மெய்ந்நூல்களாகக் கண்ட நூல்களுள், எனைத்து ஒன்றும் வாய்மையின் நல்ல பிற இல்லை - யாதொரு தன்மையாலும் வாய்மையின் மிக்கனவாகச் சொல்லப்பட்ட பிற அறங்கள் இல்லை. (மெய் உணர்த்துவனவற்றை 'மெய்' என்றார். அவையாவன: தம்கண் மயக்கம் இன்மையின...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 30: 'Veracity'), Kural 300 distills a foundational ethical insight: \"Of all good things we've scanned with studious care, There's nought that can with truthfulness compare\" Philosophically, Amidst all that we have seen (described) as real (excellence), there is nothing so good as truthfulness.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "truth",
+        "speech",
+        "love",
+        "wisdom"
+      ]
+    }
+  ]
+}

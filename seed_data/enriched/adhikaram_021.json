@@ -1,0 +1,577 @@
+{
+  "adhikaram_id": 21,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.629888903+00:00",
+  "kurals": [
+    {
+      "kural_number": 201,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தீயவை செய்தலாகிய செருக்கைத் தீவினை உடைய பாவிகள் அஞ்சார், தீவினை இல்லாத மேலோர் மட்டுமே அஞ்சுவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Those who have experience of evil deeds will not fear, but the excellent will fear the pride of sin.",
+        "story_title_ta": "தீவினையச்சம் — இனியா கற்ற பாடம்",
+        "story_title_en": "Dread of Evil Deeds — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தீவினையச்சம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 201 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தீமை என்னும் மயக்கத்தைச் செய்ய, முன்னைத் தீவினை உடையவர் பயப்படமாட்டார்; பெரியவர்களோ பயப்படுவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Dread of Evil Deeds'. Grandpa shared Kural 201 and explained in simple words: Those who have experience of evil deeds will not fear, but the excellent will fear the pride of sin. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தீயவர்கள் தீவினை செய்ய அஞ்சமாட்டார்கள்; தீவினையால் மகிழ்ச்சி ஏற்படுவதாயினும் அதனைச் செய்திடச் சான்றோர் அஞ்சி நடுங்குவார்கள்.",
+        "moral_en": "Moral: With sinful act men cease to feel the dread of ill within, The excellent will dread the wanton pride of cherished sin.",
+        "game_blank_word_ta": "என்னும்",
+        "game_options_ta": [
+          "தீயவை",
+          "என்னும்",
+          "பயத்தலால்",
+          "தீயினும்"
+        ],
+        "game_options_en": [
+          "Since evil begets evil dire Fear ye evil more than fire",
+          "Sinners fear not the pride of sin The worthy dread the ill within",
+          "The wisest of the wise are those Who injure not even their foes",
+          "His ruin virtue plots who plans The ruin of another man's"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தீவினையச்சம் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 201, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தீமை என்னும் மயக்கத்தைச் செய்ய, முன்னைத் தீவினை உடையவர் பயப்படமாட்டார்; பெரியவர்களோ பயப்படுவர். கலைஞர் உரை கூறுவது: தீயவர்கள் தீவினை செய்ய அஞ்சமாட்டார்கள்; தீவினையால் மகிழ்ச்சி ஏற்படுவதாயினும் அதனைச் செய்திடச் சான்றோர் அஞ்சி நடுங்குவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Dread of Evil Deeds (Domestic Virtue), Kural 201 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who have experience of evil deeds will not fear, but the excellent will fear the pride of sin. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தீவினையச்சம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Dread of Evil Deeds' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தீவினையச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 201 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 201 from Chapter 'Dread of Evil Deeds'?",
+        "quiz_options_ta": [
+          "அருளுடையவராக வாழ்கின்றவர்களுக்குத் துன்பம் இல்லை, காற்று இயங்குகின்ற வளம் பெரிய உலகத்தில் வாழ்வோரே இதற்குச் சான்று ஆவர்.",
+          "தீயவை செய்தலாகிய செருக்கைத் தீவினை உடைய பாவிகள் அஞ்சார், தீவினை இல்லாத மேலோர் மட்டுமே அஞ்சுவர்.",
+          "அளவறிந்து வாழ்கின்றவரின் நெஞ்சில் நிற்கும் அறம் போல் களவு செய்து பழகி அறிந்தவரின் நெஞ்சில் வஞ்சம் நிற்கும்.",
+          "நிலையில்லாதவைகளை நிலையானவை என்று மயங்கி உணரும் புல்லறிவு உடையவராக இருத்தல் வாழ்க்கையில் இழிந்த நிலையாகும்."
+        ],
+        "quiz_options_en": [
+          "The wide wind-fed world witness bears: Men of mercy meet not sorrows",
+          "Sinners fear not the pride of sin The worthy dread the ill within",
+          "Virtue abides in righteous hearts Into minds of frauds deceit darts",
+          "The worst of follies it is told The fleeting as lasting to hold"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (தீவினையச்சம்) பகுதியில் குறள் 201 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தீயவை செய்தலாகிய செருக்கைத் தீவினை உடைய பாவிகள் அஞ்சார், தீவினை இல்லாத மேலோர் மட்டுமே அஞ்சுவர். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, பாவங்களாயின செய்தற்கு அஞ்சுதல். இதனான் மெய்யின்கண் நிகழும் பாவங்கள் எல்லாம் தொகுத்து விளக்குகின்றார் ஆகலின்.இது பயன்இல சொல்லாமையின்பின் வைக்கப்பட்டது.) தீவினை என்னும் செருக்கு - தீவினை என்று சொல்லப்படும் மயக்கத்தை, தீவினையார் அஞ்சார் - முன் செய்த...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 21: 'Dread of Evil Deeds'), Kural 201 distills a foundational ethical insight: \"With sinful act men cease to feel the dread of ill within, The excellent will dread the wanton pride of cherished sin\" Philosophically, Those who have experience of evil deeds will not fear, but the excellent will fear the pride of sin.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "humility",
+        "ethics",
+        "courage"
+      ]
+    },
+    {
+      "kural_number": 202,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தீயசெயல்கள் தீமையை விளைவிக்கும் தன்மை உடையனவாக இருத்தலால், அத் தீயச் செயல்கள் தீயைவிடக் கொடியனவாகக் கருதி அஞ்சப்படும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Because evil produces evil, therefore should evil be feared more than fire.",
+        "story_title_ta": "தீவினையச்சம் — முகில் கற்ற பாடம்",
+        "story_title_en": "Dread of Evil Deeds — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தீவினையச்சம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 202 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நமக்கு நன்மை என்று பிறருக்குச் செய்யும் தீமைகள், நமக்குத் தீமையே தருவதால், தீமைகளைத் தீயினும் கொடியனவாக எண்ணிச் செய்ய அஞ்ச வேண்டும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Dread of Evil Deeds'. Grandpa shared Kural 202 and explained in simple words: Because evil produces evil, therefore should evil be feared more than fire. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தீய செயல்களால் தீமையே விளையும் என்பதால் அச்செயல்களைத் தீயை விடக் கொடுமையானவையாகக் கருதி அவற்றைச் செய்திட அஞ்சிட வேண்டும்.",
+        "moral_en": "Moral: Since evils new from evils ever grow, Evil than fire works out more dreaded woe.",
+        "game_blank_word_ta": "தீயினும்",
+        "game_options_ta": [
+          "தீவினையார்",
+          "அஞ்சார்",
+          "தீயினும்",
+          "விழுமியார்"
+        ],
+        "game_options_en": [
+          "Sinners fear not the pride of sin The worthy dread the ill within",
+          "The wisest of the wise are those Who injure not even their foes",
+          "Since evil begets evil dire Fear ye evil more than fire",
+          "His ruin virtue plots who plans The ruin of another man's"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தீவினையச்சம் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 202, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நமக்கு நன்மை என்று பிறருக்குச் செய்யும் தீமைகள், நமக்குத் தீமையே தருவதால், தீமைகளைத் தீயினும் கொடியனவாக எண்ணிச் செய்ய அஞ்ச வேண்டும். கலைஞர் உரை கூறுவது: தீய செயல்களால் தீமையே விளையும் என்பதால் அச்செயல்களைத் தீயை விடக் கொடுமையானவையாகக் கருதி அவற்றைச் செய்திட அஞ்சிட வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Dread of Evil Deeds (Domestic Virtue), Kural 202 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Because evil produces evil, therefore should evil be feared more than fire. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தீவினையச்சம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Dread of Evil Deeds' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தீவினையச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 202 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 202 from Chapter 'Dread of Evil Deeds'?",
+        "quiz_options_ta": [
+          "அருள் இல்லாதவராய் அறமல்லாதவைகளைச் செய்து நடப்பவர்களை, உறுதிப்பொருளாகிய அறத்திலிருந்து நீங்கித் தம் வாழ்க்கையின் குறிக்கோளை மறந்தவர் என்பார்.",
+          "களவு செய்தலைத் தவிர மற்ற நல்லவழிகளைத் நம்பித் தெளியாதவர் அளவு அல்லாத செயல்களைச் செய்து அப்போதே கெட்டழிவர்.",
+          "தீயசெயல்கள் தீமையை விளைவிக்கும் தன்மை உடையனவாக இருத்தலால், அத் தீயச் செயல்கள் தீயைவிடக் கொடியனவாகக் கருதி அஞ்சப்படும்.",
+          "பெரிய செல்வம் வந்து சேர்தல், கூத்தாடும் இடத்தில் கூட்டம் சேர்வதைப் போன்றது, அது நீங்கிப் போதலும் கூத்து முடிந்ததும் கூட்டம் கலைவதைப் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Who grace forsake and graceless act The former loss and woes forget",
+          "They perish in their perfidy Who know nothing but pilfery",
+          "Since evil begets evil dire Fear ye evil more than fire",
+          "Like a drama-crowd wealth gathers Like passing show its pride too goes"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (தீவினையச்சம்) பகுதியில் குறள் 202 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தீயசெயல்கள் தீமையை விளைவிக்கும் தன்மை உடையனவாக இருத்தலால், அத் தீயச் செயல்கள் தீயைவிடக் கொடியனவாகக் கருதி அஞ்சப்படும். பரிமேலழகர் உரை நுட்பம்: தீயவை தீய பயத்தலான் - தனக்கு இன்பம் பயத்தலைக் கருதிச் செய்யும் தீவினைகள், பின் அஃது ஒழித்துத் துன்பமே பயத்தலான், தீயவை தீயினும் அஞ்சப்படும்- அத்தன்மையாகிய தீவினைகள் ஒருவனால் தீயினும் அஞ்சப்படும். (பிறிதொரு காலத்தும், பிறிதொரு தேயத்தும், பிறிதோர் உடம்பினும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 21: 'Dread of Evil Deeds'), Kural 202 distills a foundational ethical insight: \"Since evils new from evils ever grow, Evil than fire works out more dreaded woe\" Philosophically, Because evil produces evil, therefore should evil be feared more than fire.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "education",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 203,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தம்மை வருத்துவோர்க்கும் தீய செயல்களைச் செய்யாமலிருத்தலை, அறிவு எல்லாவற்றிலும் தலையான அறிவு என்று கூறுவர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: So shalt thou wisdom's highest law, 'tis said, fulfil.",
+        "story_title_ta": "தீவினையச்சம் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Dread of Evil Deeds — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தீவினையச்சம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 203 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தனக்குத் தீமை செய்பவர்க்கும் தீமை செய்யாது இருப்பதே, அறிவில் எல்லாம் முதன்மை அறிவு என்று கூறுவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Dread of Evil Deeds'. Grandpa shared Kural 203 and explained in simple words: So shalt thou wisdom's highest law, 'tis said, fulfil. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தீமை செய்தவர்க்கு அதையே திருப்பிச் செய்யாமலிருத்தலை, எல்லா அறிவிலும் முதன்மையான அறிவு என்று போற்றுவர்.",
+        "moral_en": "Moral: Even to those that hate make no return of ill; So shalt thou wisdom's highest law, 'tis said, fulfil.",
+        "game_blank_word_ta": "விடல்",
+        "game_options_ta": [
+          "தீவினையார்",
+          "அஞ்சார்",
+          "விழுமியார்",
+          "விடல்"
+        ],
+        "game_options_en": [
+          "Sinners fear not the pride of sin The worthy dread the ill within",
+          "Since evil begets evil dire Fear ye evil more than fire",
+          "His ruin virtue plots who plans The ruin of another man's",
+          "The wisest of the wise are those Who injure not even their foes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தீவினையச்சம் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 203, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தனக்குத் தீமை செய்பவர்க்கும் தீமை செய்யாது இருப்பதே, அறிவில் எல்லாம் முதன்மை அறிவு என்று கூறுவர். கலைஞர் உரை கூறுவது: தீமை செய்தவர்க்கு அதையே திருப்பிச் செய்யாமலிருத்தலை, எல்லா அறிவிலும் முதன்மையான அறிவு என்று போற்றுவர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Dread of Evil Deeds (Domestic Virtue), Kural 203 speaks directly to teens navigating studies, friendships, leadership, and digital choices: So shalt thou wisdom's highest law, 'tis said, fulfil. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தீவினையச்சம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Dread of Evil Deeds' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தீவினையச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 203 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 203 from Chapter 'Dread of Evil Deeds'?",
+        "quiz_options_ta": [
+          "பொருள் இல்லாதவர்க்கு இவ்வுலகத்து வாழ்க்கை இல்லாதவாறு போல உயிர்களிடத்தில் அருள் இல்லாதவர்க்கு அவ்வுலகத்து வாழ்க்கை இல்லையாம்.",
+          "களவு செய்வார்க்கு உடலில் உயிர் வாழும் வாழ்வும் தவறிப் போகும், களவு செய்யாமல் வாழ்வோர்க்கு தேவருலகும் வாய்க்கத் தவறாது.",
+          "செல்வம் நிலைக்காத இயல்பை உடையது, அத்தகைய செல்வத்தைப்பெற்றால், பெற்ற அப்போதே நிலையான அறங்களைச் செய்ய வேண்டும்.",
+          "தம்மை வருத்துவோர்க்கும் தீய செயல்களைச் செய்யாமலிருத்தலை, அறிவு எல்லாவற்றிலும் தலையான அறிவு என்று கூறுவர்."
+        ],
+        "quiz_options_en": [
+          "This world is not for weathless ones That world is not for graceless swines",
+          "Even the body rejects thieves; The honest men, heaven receives",
+          "Wealth wanes away; but when it comes Take care to do enduring things",
+          "The wisest of the wise are those Who injure not even their foes"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (தீவினையச்சம்) பகுதியில் குறள் 203 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம்மை வருத்துவோர்க்கும் தீய செயல்களைச் செய்யாமலிருத்தலை, அறிவு எல்லாவற்றிலும் தலையான அறிவு என்று கூறுவர். பரிமேலழகர் உரை நுட்பம்: அறிவினுள் எல்லாம் தலை என்ப - தமக்கு உறுதி நாடும் அறிவுரைகள் எல்லாவற்றுள்ளும் தலையாய அறிவு என்று சொல்லுவார் நல்லோர், செறுவார்க்கும் தீய செய்யா விடல் - தம்மைச் செறுவார் மாட்டும் தீவினைகளைச் செய்யாது விடுதலை. (விடுதற்குக் காரணம் ஆகிய அறிவை 'விடுதல்' என்றும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 21: 'Dread of Evil Deeds'), Kural 203 distills a foundational ethical insight: \"Even to those that hate make no return of ill; So shalt thou wisdom's highest law, 'tis said, fulfil\" Philosophically, So shalt thou wisdom's highest law, 'tis said, fulfil.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wisdom",
+        "courage",
+        "justice",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 204,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பிறனுக்கு கேட்டைத் தரும் தீய செயல்களை ஒருவன் மறந்தும் கூட எண்ணக்கூடாது, எண்ணினால் எண்ணியவனுக்கு கேடு விளையுமாறு அறம் எண்ணும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Even though forgetfulness meditate not the ruin of another Virtue will meditate the ruin of him who thus meditates.",
+        "story_title_ta": "தீவினையச்சம் — கவின் கற்ற பாடம்",
+        "story_title_en": "Dread of Evil Deeds — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தீவினையச்சம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 204 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மறந்தும் பிறர்க்குத் தீமை செய்ய எண்ணாதே; எண்ணினால் எண்ணியவனுக்கு அறக்கடவுளே தீமையைத் தர எண்ணும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Dread of Evil Deeds'. Grandpa shared Kural 204 and explained in simple words: Even though forgetfulness meditate not the ruin of another Virtue will meditate the ruin of him who thus meditates. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மறந்தும்கூட மற்றவர்க்குக் கேடு செய்ய நினைக்கக் கூடாது; அப்படி நினைத்தால் அவனுக்குக் கேடு உண்டாக்க அவனை அறம் முற்றுகையிட்டு விடும்.",
+        "moral_en": "Moral: Though good thy soul forget, plot not thy neighbour's fall, Thy plans shall 'virtue's Power' by ruin to thyself forestall.",
+        "game_blank_word_ta": "மறந்தும்",
+        "game_options_ta": [
+          "மறந்தும்",
+          "தீவினையார்",
+          "அஞ்சார்",
+          "விழுமியார்"
+        ],
+        "game_options_en": [
+          "His ruin virtue plots who plans The ruin of another man's",
+          "Sinners fear not the pride of sin The worthy dread the ill within",
+          "Since evil begets evil dire Fear ye evil more than fire",
+          "The wisest of the wise are those Who injure not even their foes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தீவினையச்சம் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 204, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மறந்தும் பிறர்க்குத் தீமை செய்ய எண்ணாதே; எண்ணினால் எண்ணியவனுக்கு அறக்கடவுளே தீமையைத் தர எண்ணும். கலைஞர் உரை கூறுவது: மறந்தும்கூட மற்றவர்க்குக் கேடு செய்ய நினைக்கக் கூடாது; அப்படி நினைத்தால் அவனுக்குக் கேடு உண்டாக்க அவனை அறம் முற்றுகையிட்டு விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Dread of Evil Deeds (Domestic Virtue), Kural 204 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even though forgetfulness meditate not the ruin of another Virtue will meditate the ruin of him who thus meditates. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தீவினையச்சம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Dread of Evil Deeds' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தீவினையச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 204 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 204 from Chapter 'Dread of Evil Deeds'?",
+        "quiz_options_ta": [
+          "பிறனுக்கு கேட்டைத் தரும் தீய செயல்களை ஒருவன் மறந்தும் கூட எண்ணக்கூடாது, எண்ணினால் எண்ணியவனுக்கு கேடு விளையுமாறு அறம் எண்ணும்.",
+          "பொருள் இல்லாதவர் ஒரு காலத்தில் வளம் பெற்று விளங்குவர், அருள் இல்லாதவர் வாழ்க்கையின் பயம் அற்றவரே அவர் ஒரு காலத்திலும் சிறந்து விளங்குதல் இல்லை.",
+          "வாய்மை என்று கூறப்படுவது எது என்றால், அது மற்றவர்க்கு ஒரு சிறிதும் தீங்கு இல்லாத சொற்களைக் சொல்லுதல் ஆகும்.",
+          "வாழ்க்கையை ஆராய்ந்து உணர்வாரைப் பெற்றால் நாள் என்பது ஒரு கால அளவுகோல்காட்டி, உயிரை உடம்பிலிருந்து பிரித்து அறுக்கும் வாளாக உள்ளது."
+        ],
+        "quiz_options_en": [
+          "His ruin virtue plots who plans The ruin of another man's",
+          "The wealthless may prosper one day; The graceless never bloom agay",
+          "If \\\"What is truth\\\"? the question be, It is to speak out evil-free",
+          "The showy day is but a saw Your life, know that, to file and gnaw"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (தீவினையச்சம்) பகுதியில் குறள் 204 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறனுக்கு கேட்டைத் தரும் தீய செயல்களை ஒருவன் மறந்தும் கூட எண்ணக்கூடாது, எண்ணினால் எண்ணியவனுக்கு கேடு விளையுமாறு அறம் எண்ணும். பரிமேலழகர் உரை நுட்பம்: பிறன் கேடு மறந்தும் சூழற்க - ஒருவன் பிறனுக்குக் கேடு பயக்கும் வினையை மறந்தும் எண்ணாதொழிக, சூழின் சூழ்ந்தவன் கேடு அறம் சூழும் - எண்ணுவானாயின், தனக்குக் கேடு பயக்கும் வினையை அறக்கடவுள் எண்ணும். ('கேடு' என்பன ஆகுபெயர். சூழ்கின்ற பொழுதேதானும் உடன் சூழ்தலின், இவன...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 21: 'Dread of Evil Deeds'), Kural 204 distills a foundational ethical insight: \"Though good thy soul forget, plot not thy neighbour's fall, Thy plans shall 'virtue's Power' by ruin to thyself forestall\" Philosophically, Even though forgetfulness meditate not the ruin of another Virtue will meditate the ruin of him who thus meditates.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 205,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: யான் வறியவன் என்று நினைத்துத் தீய செயல்களைச் செய்யக்கூடாது, செய்தால் மீண்டும் வறியவன் ஆகி வருந்துவான்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Commit not evil, saying, \"I am poor\": if you do, you will become poorer still.",
+        "story_title_ta": "தீவினையச்சம் — நிலா கற்ற பாடம்",
+        "story_title_en": "Dread of Evil Deeds — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தீவினையச்சம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 205 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தன் ஏழ்மையைப் போக்கப் பிறர்க்குத் தீமை செய்யாதே, செய்தால் மேலும் ஏழை ஆவாய்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Dread of Evil Deeds'. Grandpa shared Kural 205 and explained in simple words: Commit not evil, saying, \"I am poor\": if you do, you will become poorer still. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வறுமையின் காரணமாக ஒருவன் தீய செயல்களில் ஈடுபடக்கூடாது; அப்படி ஈடுபட்டால் மீண்டும் அவன் வறுமையிலேயே வாட வேண்டியிருக்கும்.",
+        "moral_en": "Moral: Make not thy poverty a plea for ill; Thy evil deeds will make thee poorer still.",
+        "game_blank_word_ta": "செய்யற்க",
+        "game_options_ta": [
+          "தீவினையார்",
+          "செய்யற்க",
+          "அஞ்சார்",
+          "விழுமியார்"
+        ],
+        "game_options_en": [
+          "Sinners fear not the pride of sin The worthy dread the ill within",
+          "Who makes poverty plea for ill Shall reduce himself poorer still",
+          "Since evil begets evil dire Fear ye evil more than fire",
+          "The wisest of the wise are those Who injure not even their foes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தீவினையச்சம் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 205, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் ஏழ்மையைப் போக்கப் பிறர்க்குத் தீமை செய்யாதே, செய்தால் மேலும் ஏழை ஆவாய். கலைஞர் உரை கூறுவது: வறுமையின் காரணமாக ஒருவன் தீய செயல்களில் ஈடுபடக்கூடாது; அப்படி ஈடுபட்டால் மீண்டும் அவன் வறுமையிலேயே வாட வேண்டியிருக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Dread of Evil Deeds (Domestic Virtue), Kural 205 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Commit not evil, saying, \"I am poor\": if you do, you will become poorer still. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தீவினையச்சம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Dread of Evil Deeds' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தீவினையச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 205 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 205 from Chapter 'Dread of Evil Deeds'?",
+        "quiz_options_ta": [
+          "அருள் மேற்கொள்ளாதவன் செய்கின்ற அறச்செயலை ஆராய்ந்தால், அஃது அறிவு தெளியாதவன் ஒரு நூலின் உண்மைப் பொருளைக் கண்டாற் போன்றது.",
+          "யான் வறியவன் என்று நினைத்துத் தீய செயல்களைச் செய்யக்கூடாது, செய்தால் மீண்டும் வறியவன் ஆகி வருந்துவான்.",
+          "குற்றம் தீர்த்த நன்மையை விளைக்குமானால் பொய்யாச் சொற்களும் வாய்மை என்று கருதத் தக்க இடத்தைப் பெறும்.",
+          "நாவை அடக்கி விக்கல் மேலெழுவதற்கு முன்னே (இறப்பு நெருங்குவதற்கு முன்) நல்ல அறச்செயலை விரைந்து செய்யத்தக்கதாகும்."
+        ],
+        "quiz_options_en": [
+          "Like Truth twisted by confused mind Wisdom is vain in hearts unkind",
+          "Who makes poverty plea for ill Shall reduce himself poorer still",
+          "E'en falsehood may for truth suffice, When good it brings removing vice",
+          "Ere tongue benumbs and hiccough comes Rise up to do good deeds betimes"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (தீவினையச்சம்) பகுதியில் குறள் 205 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யான் வறியவன் என்று நினைத்துத் தீய செயல்களைச் செய்யக்கூடாது, செய்தால் மீண்டும் வறியவன் ஆகி வருந்துவான். பரிமேலழகர் உரை நுட்பம்: இலன் என்று தீயவை செய்யற்க -யான் வறியன் என்று கருதி அது தீர்தற்பொருட்டுப் பிறர்க்குத் தீவினைகளை ஒருவன் செய்யாது ஒழிக, செய்யின் பெயர்த்தும் இலன் ஆகும் - செய்வானாயின் பெயர்த்தும் வறியன் ஆம். (அத் தீவினையால் பிறவிதோறும் இலன் ஆம் என்பதாம். அன் விகுதி முன...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 21: 'Dread of Evil Deeds'), Kural 205 distills a foundational ethical insight: \"Make not thy poverty a plea for ill; Thy evil deeds will make thee poorer still\" Philosophically, Commit not evil, saying, \"I am poor\": if you do, you will become poorer still.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "wealth",
+        "education",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 206,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: துன்பம் செய்யும் தீவினைகள் தன்னை வருத்துதலை விரும்பாதவன், தீயசெயல்களைத் தான் பிறருக்குச் செய்யாமலிருக்க வேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Let him not do evil to others who desires not that sorrows should pursue him.",
+        "story_title_ta": "தீவினையச்சம் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Dread of Evil Deeds — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தீவினையச்சம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 206 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'துன்பம் தருவன தன்னைச் சூழ்ந்து வருத்த விரும்பாதவன், பிறர்க்குத் தீமை செய்யக்கூடாது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Dread of Evil Deeds'. Grandpa shared Kural 206 and explained in simple words: Let him not do evil to others who desires not that sorrows should pursue him. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வேதனை விளைவிக்கும் தீய செயல்கள் தன்னைத் தாக்கலாகாது என எண்ணுகிறவன் அவனும் அத்தீங்குகளைப் பிறருக்குச் செய்யாமல் இருக்க வேண்டும்.",
+        "moral_en": "Moral: What ranks as evil spare to do, if thou would'st shunAffliction sore through ill to thee by others done.",
+        "game_blank_word_ta": "செய்யற்க",
+        "game_options_ta": [
+          "தீவினையார்",
+          "அஞ்சார்",
+          "செய்யற்க",
+          "விழுமியார்"
+        ],
+        "game_options_en": [
+          "Sinners fear not the pride of sin The worthy dread the ill within",
+          "Since evil begets evil dire Fear ye evil more than fire",
+          "From wounding others let him refrain Who would from harm himself remain",
+          "The wisest of the wise are those Who injure not even their foes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தீவினையச்சம் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 206, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: துன்பம் தருவன தன்னைச் சூழ்ந்து வருத்த விரும்பாதவன், பிறர்க்குத் தீமை செய்யக்கூடாது. கலைஞர் உரை கூறுவது: வேதனை விளைவிக்கும் தீய செயல்கள் தன்னைத் தாக்கலாகாது என எண்ணுகிறவன் அவனும் அத்தீங்குகளைப் பிறருக்குச் செய்யாமல் இருக்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Dread of Evil Deeds (Domestic Virtue), Kural 206 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let him not do evil to others who desires not that sorrows should pursue him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தீவினையச்சம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Dread of Evil Deeds' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தீவினையச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 206 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 206 from Chapter 'Dread of Evil Deeds'?",
+        "quiz_options_ta": [
+          "(அருள் இல்லாதவன் ) தன்னை விட மெலிந்தவர் மேல் துன்புறுத்த செல்லும் போது, தன்னை விட வலியவரின் முன் தான் அஞ்சி நிற்கும் நிலைமையை நினைக்க வேண்டும்.",
+          "ஒருவன் தன் நெஞ்சம் அறிவதாகிய ஒன்றைக்குறித்துப் பொய்ச் சொல்லக்கூடாது, பொய் சொன்னால் அதைக்குறித்துத் தன் நெஞ்சமே தன்னை வருத்தும்.",
+          "துன்பம் செய்யும் தீவினைகள் தன்னை வருத்துதலை விரும்பாதவன், தீயசெயல்களைத் தான் பிறருக்குச் செய்யாமலிருக்க வேண்டும்.",
+          "நேற்று இருந்தவன் ஒருவன் இன்று இல்லாமல் இறந்து போனான் என்று சொல்லப்படும் நிலையாமைஆகிய பெருமை உடையது இவ்வுலகம்."
+        ],
+        "quiz_options_en": [
+          "Think how you feel before the strong When to the feeble you do wrong",
+          "Let not a man knowingly lie; Conscience will scorch and make him sigh",
+          "From wounding others let him refrain Who would from harm himself remain",
+          "One was yesterday; not today!"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (தீவினையச்சம்) பகுதியில் குறள் 206 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: துன்பம் செய்யும் தீவினைகள் தன்னை வருத்துதலை விரும்பாதவன், தீயசெயல்களைத் தான் பிறருக்குச் செய்யாமலிருக்க வேண்டும். பரிமேலழகர் உரை நுட்பம்: நோய்ப்பால தன்னை அடல் வேண்டாதான் - துன்பம் செய்யும் கூற்றவாகிய பாவங்கள் தன்னைப் பின் வந்து வருத்துதலை வேண்டாதவன், தீப்பால தான் பிறர்கண் செய்யற்க - தீமைக்கூற்றவாகிய வினைகளைத் தான் பிறர்மாட்டுச் செய்யாது ஒழிக. (செய்யின் அப்பாவங்கள் அடுதல் ஒருதலை என்பதாம்.).",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 21: 'Dread of Evil Deeds'), Kural 206 distills a foundational ethical insight: \"What ranks as evil spare to do, if thou would'st shunAffliction sore through ill to thee by others done\" Philosophically, Let him not do evil to others who desires not that sorrows should pursue him.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "love",
+        "self-mastery",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 207,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: எவ்வளவு கொடிய பகை உடையவரும் தப்பி வாழ முடியும், ஆனால் தீயவை செய்தால் வரும் தீவினையாகிய பகை நீங்காமல் பின் சென்று வருத்தும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: However great be the enmity men have incurred they may still live The enmity of sin will incessantly pursue and kill.",
+        "story_title_ta": "தீவினையச்சம் — இனியா கற்ற பாடம்",
+        "story_title_en": "Dread of Evil Deeds — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தீவினையச்சம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 207 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எவ்வளவு பெரிய பகையைப் பெற்றவரும் தப்பித்துக் கொள்வர்; ஆனால் தீமை செய்வதால் வரும் பகையோ, அழியாமல் நம் பின் வந்து, நம்மை அழிக்கும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Dread of Evil Deeds'. Grandpa shared Kural 207 and explained in simple words: However great be the enmity men have incurred they may still live The enmity of sin will incessantly pursue and kill. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவர் நேரடியான பகைக்குத் தப்பி வாழ முடியும்; ஆனால், அவர் செய்யும் தீய வினைகள் பெரும் பகையாகி அவரைத் தொடர்ந்து வருத்திக்கொண்டே இருக்கும்.",
+        "moral_en": "Moral: From every enmity incurred there is to 'scape, a way; The wrath of evil deeds will dog men's steps, and slay.",
+        "game_blank_word_ta": "வீயாது",
+        "game_options_ta": [
+          "தீவினையார்",
+          "அஞ்சார்",
+          "விழுமியார்",
+          "வீயாது"
+        ],
+        "game_options_en": [
+          "Sinners fear not the pride of sin The worthy dread the ill within",
+          "Since evil begets evil dire Fear ye evil more than fire",
+          "The wisest of the wise are those Who injure not even their foes",
+          "Men may escape other foes and live But sin its deadly blow will give"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தீவினையச்சம் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 207, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எவ்வளவு பெரிய பகையைப் பெற்றவரும் தப்பித்துக் கொள்வர்; ஆனால் தீமை செய்வதால் வரும் பகையோ, அழியாமல் நம் பின் வந்து, நம்மை அழிக்கும். கலைஞர் உரை கூறுவது: ஒருவர் நேரடியான பகைக்குத் தப்பி வாழ முடியும்; ஆனால், அவர் செய்யும் தீய வினைகள் பெரும் பகையாகி அவரைத் தொடர்ந்து வருத்திக்கொண்டே இருக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Dread of Evil Deeds (Domestic Virtue), Kural 207 speaks directly to teens navigating studies, friendships, leadership, and digital choices: However great be the enmity men have incurred they may still live The enmity of sin will incessantly pursue and kill. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தீவினையச்சம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Dread of Evil Deeds' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தீவினையச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 207 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 207 from Chapter 'Dread of Evil Deeds'?",
+        "quiz_options_ta": [
+          "தன் உடம்பைப் பெருக்கச் செய்வதற்காகத் தான் மற்றோர் உயிரின் உடம்பைத் தின்கின்றவன் எவ்வாறு அருளுடையவனாக இருக்க முடியும்.",
+          "ஒருவன் தன் உள்ளம் அறியப் பொய் இல்லாமல் நடப்பானானால் அத்தகையவன் உலகத்தாரின் உள்ளங்களில் எல்லாம் இருப்பவனாவான்.",
+          "அறிவில்லாதவர் ஒரு வேளையாவது வாழ்க்கையின் தன்மையை ஆராய்ந்து அறிவதில்லை.ஆனால் வீணீல் எண்ணுவனவோ ஒரு கோடியும் அல்ல, மிகப்பல எண்ணங்கள்.",
+          "எவ்வளவு கொடிய பகை உடையவரும் தப்பி வாழ முடியும், ஆனால் தீயவை செய்தால் வரும் தீவினையாகிய பகை நீங்காமல் பின் சென்று வருத்தும்."
+        ],
+        "quiz_options_en": [
+          "What graciousness can one command who feeds his flesh by flesh gourmand",
+          "He lives in loving hearts of all Who serves the Truth serene in soul",
+          "Man knows not his next moment On crores of things he is intent",
+          "Men may escape other foes and live But sin its deadly blow will give"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (தீவினையச்சம்) பகுதியில் குறள் 207 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எவ்வளவு கொடிய பகை உடையவரும் தப்பி வாழ முடியும், ஆனால் தீயவை செய்தால் வரும் தீவினையாகிய பகை நீங்காமல் பின் சென்று வருத்தும். பரிமேலழகர் உரை நுட்பம்: எனைப்பகை உற்றாரும் உய்வர் - எத்துணைப் பெரிய பகை உடையாரும் அதனை ஒருவாற்றால் தப்புவர், வினைப்பகை வீயாது பின் சென்று அடும் - அவ்வாறன்றித் தீவினை ஆகிய பகை நீங்காது புக்குழிப் புக்குக் கொல்லும் ('வீயாது உடம்பொடு நின்ற உயிரும் இல்லை.' (புறநா.363) என்புழியும் வீயாமை...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 21: 'Dread of Evil Deeds'), Kural 207 distills a foundational ethical insight: \"From every enmity incurred there is to 'scape, a way; The wrath of evil deeds will dog men's steps, and slay\" Philosophically, However great be the enmity men have incurred they may still live The enmity of sin will incessantly pursue and kill.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "courage",
+        "ethics",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 208,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தீய செயல்களைச் செய்தவர் கேட்டை அடைதல், ஒருவனுடைய நிழல் அவனை விடாமல் வந்து அடியில் தங்கியிருத்தலைப் போன்றது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Destruction will dwell at the heels of those who commit evil even as their shadow that leaves them not.",
+        "story_title_ta": "தீவினையச்சம் — முகில் கற்ற பாடம்",
+        "story_title_en": "Dread of Evil Deeds — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தீவினையச்சம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 208 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறர்க்குத் தீமை செய்தவர் அழிவது, அவரை அவரது நிழல் விடாது கால்களின் கீழே தங்கியிருப்பது போலாம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Dread of Evil Deeds'. Grandpa shared Kural 208 and explained in simple words: Destruction will dwell at the heels of those who commit evil even as their shadow that leaves them not. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவருடைய நிழல் அவருடனேயே ஒன்றியிருப்பதைப்போல், தீய செயல்களில் ஈடுபடுகிறவர்களை விட்டுத் தீமையும் விலகாமல், தொடர்ந்து ஒட்டிக் கொண்டிருக்கும்.",
+        "moral_en": "Moral: Man's shadow dogs his steps where'er he wends; Destruction thus on sinful deeds attends.",
+        "game_blank_word_ta": "அஇஉறைந்",
+        "game_options_ta": [
+          "அஇஉறைந்",
+          "தீவினையார்",
+          "அஞ்சார்",
+          "விழுமியார்"
+        ],
+        "game_options_en": [
+          "Ruin follows who evil do As shadow follows as they go",
+          "Sinners fear not the pride of sin The worthy dread the ill within",
+          "Since evil begets evil dire Fear ye evil more than fire",
+          "The wisest of the wise are those Who injure not even their foes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தீவினையச்சம் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 208, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர்க்குத் தீமை செய்தவர் அழிவது, அவரை அவரது நிழல் விடாது கால்களின் கீழே தங்கியிருப்பது போலாம். கலைஞர் உரை கூறுவது: ஒருவருடைய நிழல் அவருடனேயே ஒன்றியிருப்பதைப்போல், தீய செயல்களில் ஈடுபடுகிறவர்களை விட்டுத் தீமையும் விலகாமல், தொடர்ந்து ஒட்டிக் கொண்டிருக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Dread of Evil Deeds (Domestic Virtue), Kural 208 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Destruction will dwell at the heels of those who commit evil even as their shadow that leaves them not. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தீவினையச்சம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Dread of Evil Deeds' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தீவினையச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 208 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 208 from Chapter 'Dread of Evil Deeds'?",
+        "quiz_options_ta": [
+          "தீய செயல்களைச் செய்தவர் கேட்டை அடைதல், ஒருவனுடைய நிழல் அவனை விடாமல் வந்து அடியில் தங்கியிருத்தலைப் போன்றது.",
+          "பொருளுடையவராக இருக்கும் சிறப்பு அப்பொருளை வைத்துக் காப்பாற்றாதவர்க்கு இல்லை, அருளுடையவராக இருக்கும் சிறப்பு புலால் தின்பவர்க்கு இல்லை.",
+          "ஒருவன் தன் மனதோடு பொருந்த உண்மை பேசுவானானால் அவன் தவத்தேடு தானமும் ஒருங்கே செய்வாரை விடச் சிறந்தவன்.",
+          "உடம்போடு உயிர்க்கு உள்ள உறவு, தான் இருந்த கூடு தனியே இருக்க அதை விட்டு வேறிடத்திற்குப் பறவை பறந்தாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Ruin follows who evil do As shadow follows as they go",
+          "The thriftless have no property And flesh-eaters have no pity",
+          "To speak the truth from heart sincere Is more than giving and living austere",
+          "The soul from body any day Like bird from egg-shell flies away"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (தீவினையச்சம்) பகுதியில் குறள் 208 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தீய செயல்களைச் செய்தவர் கேட்டை அடைதல், ஒருவனுடைய நிழல் அவனை விடாமல் வந்து அடியில் தங்கியிருத்தலைப் போன்றது. பரிமேலழகர் உரை நுட்பம்: தீயவை செய்தார் கெடுதல் - பிறர்க்குத் தீவினை செய்தார் தாம் கெடுதல் எத்தன்மைத்து எனின், நிழல் தன்னை வீயாது அடி உறைந்தற்று - ஒருவன் நிழல் நெடிதாகப் போயும், அவன்றன்னை விடாது வந்து அடியின்கண் தங்கியதன்மைத்து. (இவ்வுவமையைத் தன் காலம் வருந்துணையும் புலனாகாது...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 21: 'Dread of Evil Deeds'), Kural 208 distills a foundational ethical insight: \"Man's shadow dogs his steps where'er he wends; Destruction thus on sinful deeds attends\" Philosophically, Destruction will dwell at the heels of those who commit evil even as their shadow that leaves them not.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 209,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவன் தன்னைத் தான் விரும்பி வாழ்பவனாயின், தீய செயலாகிய பகுதியை எவ்வளவு சிறியதாயினும் பொருந்தாமல் நீங்க வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: If a man love himself, let him not commit any sin however small.",
+        "story_title_ta": "தீவினையச்சம் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Dread of Evil Deeds — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தீவினையச்சம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 209 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தன்மீது அன்புள்ளவன், எவ்வளவு சிறிது என்றாலும் சரி, மற்றவர்க்குத் தீமை செயய வேண்டா.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Dread of Evil Deeds'. Grandpa shared Kural 209 and explained in simple words: If a man love himself, let him not commit any sin however small. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தனது நலத்தை விரும்புகிறவன் தீய செயல்களின் பக்கம் சிறிதளவுகூட நெருங்கலாகாது.",
+        "moral_en": "Moral: Beware, if to thyself thyself is dear, Lest thou to aught that ranks as ill draw near.",
+        "game_blank_word_ta": "தீவினைப்",
+        "game_options_ta": [
+          "தீவினையார்",
+          "தீவினைப்",
+          "அஞ்சார்",
+          "விழுமியார்"
+        ],
+        "game_options_en": [
+          "Sinners fear not the pride of sin The worthy dread the ill within",
+          "Let none who loves himself at all Think of evil however small",
+          "Since evil begets evil dire Fear ye evil more than fire",
+          "The wisest of the wise are those Who injure not even their foes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தீவினையச்சம் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 209, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்மீது அன்புள்ளவன், எவ்வளவு சிறிது என்றாலும் சரி, மற்றவர்க்குத் தீமை செயய வேண்டா. கலைஞர் உரை கூறுவது: தனது நலத்தை விரும்புகிறவன் தீய செயல்களின் பக்கம் சிறிதளவுகூட நெருங்கலாகாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Dread of Evil Deeds (Domestic Virtue), Kural 209 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If a man love himself, let him not commit any sin however small. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தீவினையச்சம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Dread of Evil Deeds' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தீவினையச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 209 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 209 from Chapter 'Dread of Evil Deeds'?",
+        "quiz_options_ta": [
+          "ஓர் உயிரின் உடம்பைச் சுவையாக உண்டவரின் மனம் கொலைக்கருவியைக் கையில் கொண்டவரின் நெஞ்சம் போல் நன்மையாகி அருளைப் போற்றாது.",
+          "ஒருவன் தன்னைத் தான் விரும்பி வாழ்பவனாயின், தீய செயலாகிய பகுதியை எவ்வளவு சிறியதாயினும் பொருந்தாமல் நீங்க வேண்டும்.",
+          "ஒருவனுக்கு பொய் இல்லாமல் வாழ்தலை விடப் புகழ் நிலை வேறொன்றும் இல்லை, அஃது அவன் அறியாமலேயெ அவனுக்கு எல்லா அறமும் கொடுக்கும்.",
+          "இறப்பு எனப்படுவது ஒருவனுக்குஉறக்கம் வருதலைப் போன்றது, பிறப்பு எனப்படுவது உறக்கம் நீங்கி விழித்துக் கொள்வதைப் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Who wields a steel is steel-hearted Who tastes body is hard-hearted",
+          "Let none who loves himself at all Think of evil however small",
+          "Not to lie brings all the praise All virtues from Truth arise",
+          "Death is like a slumber deep And birth like waking from that sleep"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (தீவினையச்சம்) பகுதியில் குறள் 209 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் தன்னைத் தான் விரும்பி வாழ்பவனாயின், தீய செயலாகிய பகுதியை எவ்வளவு சிறியதாயினும் பொருந்தாமல் நீங்க வேண்டும். பரிமேலழகர் உரை நுட்பம்: தன்னைத் தான் காதலன் ஆயின் - ஒருவன் தன்னைத்தான் காதல் செய்தல் உடையனாயின், தீவினைப்பால் எனைத்து ஒன்றும் துன்னற்க - தீவினையாகிய பகுதி எத்துணையும் சிறிது ஒன்றாயினும் பிறர்மாட்டுச் செய்யாது ஒழிக. (நல்வினை தீவினை என வினைப்பகுதி இரண்டாகலின், தீவினைப் பால் என்றார...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 21: 'Dread of Evil Deeds'), Kural 209 distills a foundational ethical insight: \"Beware, if to thyself thyself is dear, Lest thou to aught that ranks as ill draw near\" Philosophically, If a man love himself, let him not commit any sin however small.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "love",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 210,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவன் தவறான நெறியில் சென்று தீயசெயல் செய்யாதிருப்பானானால் அவன் கேடு இல்லாதவன் என்று அறியலாம்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Know ye that he is freed from destruction who commits no evil, going to neither side of the right path.",
+        "story_title_ta": "தீவினையச்சம் — கவின் கற்ற பாடம்",
+        "story_title_en": "Dread of Evil Deeds — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தீவினையச்சம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 210 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தீய வழிகளில் பிறர்க்குத் தீமை செய்யாது வாழ்பவனே கேடு இல்லாதவன் என்று அறிக.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Dread of Evil Deeds'. Grandpa shared Kural 210 and explained in simple words: Know ye that he is freed from destruction who commits no evil, going to neither side of the right path. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வழிதவறிச் சென்று பிறர்க்குத் தீங்கு விளைவிக்காதவர்க்கு எந்தக் கேடும் ஏற்படாது என்பதை அறிந்து கொள்க.",
+        "moral_en": "Moral: The man, to devious way of sin that never turned aside, From ruin rests secure, whatever ills betide.",
+        "game_blank_word_ta": "அருங்கேடன்",
+        "game_options_ta": [
+          "தீவினையார்",
+          "அஞ்சார்",
+          "அருங்கேடன்",
+          "விழுமியார்"
+        ],
+        "game_options_en": [
+          "Sinners fear not the pride of sin The worthy dread the ill within",
+          "Since evil begets evil dire Fear ye evil more than fire",
+          "He is secure, know ye, from ills Who slips not right path to do evils",
+          "The wisest of the wise are those Who injure not even their foes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தீவினையச்சம் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 210, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தீய வழிகளில் பிறர்க்குத் தீமை செய்யாது வாழ்பவனே கேடு இல்லாதவன் என்று அறிக. கலைஞர் உரை கூறுவது: வழிதவறிச் சென்று பிறர்க்குத் தீங்கு விளைவிக்காதவர்க்கு எந்தக் கேடும் ஏற்படாது என்பதை அறிந்து கொள்க. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Dread of Evil Deeds (Domestic Virtue), Kural 210 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Know ye that he is freed from destruction who commits no evil, going to neither side of the right path. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தீவினையச்சம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Dread of Evil Deeds' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தீவினையச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 210 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 210 from Chapter 'Dread of Evil Deeds'?",
+        "quiz_options_ta": [
+          "அருள் எது என்றால் ஓர் உயிரையும் கொல்லாமலிருத்தல் அருளல்லாது எது என்றால் உயிர்களைக்கொள்ளுதல் அதன் உடம்பைத் தின்னுதல் அறம் அல்லாதது.",
+          "பொய்யாமை ஆகிய அறத்தை உண்மையாகவே போற்றி வாழ முடிந்தால் மற்ற அறங்களைச் செய்தலும் நல்லது ஆகும்.",
+          "ஒருவன் தவறான நெறியில் சென்று தீயசெயல் செய்யாதிருப்பானானால் அவன் கேடு இல்லாதவன் என்று அறியலாம்.",
+          "(நோய்களுக்கு இடமாகிய) உடம்பில் ஒரு மூலையில் குடியிருந்த உயிர்க்கு, நிலையாகப் புகுந்திருக்கும் வீடு இதுவரையில் அமையவில்லையோ."
+        ],
+        "quiz_options_en": [
+          "If merciless it is to kill, To kill and eat is disgraceful",
+          "Lie not lie not Naught else you need All virtues are in Truth indeed",
+          "He is secure, know ye, from ills Who slips not right path to do evils",
+          "The life berthed in this body shows A fixed home it never knows"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (தீவினையச்சம்) பகுதியில் குறள் 210 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் தவறான நெறியில் சென்று தீயசெயல் செய்யாதிருப்பானானால் அவன் கேடு இல்லாதவன் என்று அறியலாம். பரிமேலழகர் உரை நுட்பம்: மருங்கு ஓடித் தீவினை செய்யான் எனின் - ஒருவன் செந்நெறிக் கண் செல்லாது கொடுநெறிக்கண் சென்று பிறர்மாட்டுத் தீவினைகளைச் செய்யானாயின், அருங்கேடன் என்பது அறிக - அவன் அரிதாகிய கேட்டையுடையவன் என்பது அறிக. (அருமை: இன்மை.. அருங்கேடன் என்பதனை, 'சென்று சேக்கல்லாப் புள்ள...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 21: 'Dread of Evil Deeds'), Kural 210 distills a foundational ethical insight: \"The man, to devious way of sin that never turned aside, From ruin rests secure, whatever ills betide\" Philosophically, Know ye that he is freed from destruction who commits no evil, going to neither side of the right path.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "discipline"
+      ]
+    }
+  ]
+}

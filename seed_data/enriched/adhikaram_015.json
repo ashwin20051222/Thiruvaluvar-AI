@@ -1,0 +1,586 @@
+{
+  "adhikaram_id": 15,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.572940112+00:00",
+  "kurals": [
+    {
+      "kural_number": 141,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பிறனுடைய உரிமையாகிய மனைவியை விரும்பி நடக்கும் அறியாமை, உலகத்தில் அறமும் பொருளும் ஆராய்ந்து கண்டவரிடம் இல்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The folly of desiring her who is the property of another will not be found in those who know (the attributes of) virtue and (the rights of) property.",
+        "story_title_ta": "பிறனில் விழையாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Not coveting another\"s Wife — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'பிறனில் விழையாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 141 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'இவ்வுலகில் அறத்தையும், பொருளையும் கற்று அறிந்தவரிடம் அடுத்தவனின் உரிமை ஆகிய மனைவி மீது ஆசைப்பட்டு வாழும் அறியாமை இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Not coveting another\"s Wife'. Grandpa shared Kural 141 and explained in simple words: The folly of desiring her who is the property of another will not be found in those who know (the attributes of) virtue and (the rights of) property. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறன் மனைவியிடத்து விருப்பம் கொள்ளும் அறியாமை, உலகில் அறநூல்களையும் பொருள் நூல்களையும் ஆராய்ந்து உணர்ந்தவர்களிடம் இல்லை.",
+        "moral_en": "Moral: Who laws of virtue and possession's rights have known, Indulge no foolish love of her by right another's own.",
+        "game_blank_word_ta": "ஞாலத்து",
+        "game_options_ta": [
+          "அறன்கடை",
+          "ஞாலத்து",
+          "நின்றாருள்",
+          "எல்லாம்"
+        ],
+        "game_options_en": [
+          "He is the worst law breaking boor Who haunts around his neighbour's door",
+          "Who know the wealth and virtue's way After other's wife do not stray",
+          "The vile are dead who evil aim And put faithful friends' wives to shame",
+          "Their boasted greatness means nothing When to another's wife they cling"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிறனில் விழையாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 141, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இவ்வுலகில் அறத்தையும், பொருளையும் கற்று அறிந்தவரிடம் அடுத்தவனின் உரிமை ஆகிய மனைவி மீது ஆசைப்பட்டு வாழும் அறியாமை இல்லை. கலைஞர் உரை கூறுவது: பிறன் மனைவியிடத்து விருப்பம் கொள்ளும் அறியாமை, உலகில் அறநூல்களையும் பொருள் நூல்களையும் ஆராய்ந்து உணர்ந்தவர்களிடம் இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not coveting another\"s Wife (Domestic Virtue), Kural 141 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The folly of desiring her who is the property of another will not be found in those who know (the attributes of) virtue and (the rights of) property. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'பிறனில் விழையாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not coveting another\"s Wife' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'பிறனில் விழையாமை' அதிகாரத்தில் வரும் திருக்குறள் 141 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 141 from Chapter 'Not coveting another\"s Wife'?",
+        "quiz_options_ta": [
+          "அறத்தை நல்லதென்று போற்றும் நெஞ்சம் இல்லாததன்மை, ஒருவன் மற்றவனைப் பற்றிப் புறங்கூறுகின்ற சிறுமையால் காணப்படும்.",
+          "பிறனுடைய உரிமையாகிய மனைவியை விரும்பி நடக்கும் அறியாமை, உலகத்தில் அறமும் பொருளும் ஆராய்ந்து கண்டவரிடம் இல்லை.",
+          "தாம் சேர்த்து வைத்துள்ள பொருளைப் பிறருக்குக் கொடுக்காமல் வைத்திருந்து பின் இழந்து விடும் வன் கண்மை உடையவர், பிறர்க்கு கொடுத்து மகிழும் மகிழ்ச்சியை அறியாரோ.",
+          "வஞ்சமனம் உடையவனது பொய்யொழுக்கத்தை அவனுடைய உடம்பில் கலந்து நிற்க்கும் ஐந்து பூதங்களும் கண்டு தம்முள் சிரிக்கும்."
+        ],
+        "quiz_options_en": [
+          "Who turns to slander makes it plain His praise of virtue is in vain",
+          "Who know the wealth and virtue's way After other's wife do not stray",
+          "The joy of give and take they lose Hard-hearted rich whose hoarding fails",
+          "Elements five of feigned life Of a sly hypocrite within laugh"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (பிறனில் விழையாமை) பகுதியில் குறள் 141 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறனுடைய உரிமையாகிய மனைவியை விரும்பி நடக்கும் அறியாமை, உலகத்தில் அறமும் பொருளும் ஆராய்ந்து கண்டவரிடம் இல்லை. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, காம மயக்கத்தால் பிறனுடைய இல்லாளை விழையாமை.இஃது ஒழுக்கம் உடையார்மாட்டே நிகழ்வதாகலின், ஒழுக்கம் உடைமையின்பின் வைக்கப்பட்டது.) பிறன் பொருளாள் பெட்டு ஒழுகும் பேதைமை - பிறனுக்குப் பொருளாம் தன்மையுடையாளைக் காதலித்து ஒழுகுகின்ற அறியாமை, ஞாலத்து அறம் பொருள...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 15: 'Not coveting another\"s Wife'), Kural 141 distills a foundational ethical insight: \"Who laws of virtue and possession's rights have known, Indulge no foolish love of her by right another's own\" Philosophically, The folly of desiring her who is the property of another will not be found in those who know (the attributes of) virtue and (the rights of) property.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "wealth",
+        "love",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 142,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அறத்தை விட்டுத் தீநெறியில் நின்றவர் எல்லாரிலும் பிறன் மனைவியை விரும்பி அவனுடைய வாயிலில் சென்று நின்றவரைப் போல் அறிவிலிகள் இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Among all those who stand on the outside of virtue, there are no greater fools than those who stand outside their neighbour's door.",
+        "story_title_ta": "பிறனில் விழையாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Not coveting another\"s Wife — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'பிறனில் விழையாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 142 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பாவ வழியில் நடக்கும் மனிதருள் எல்லாம், அடுத்தவன் மனைவியை விரும்பி அவன் வாசலில் நிற்கும் மூடனைப் போன்ற கடை நிலை மனிதர் வேறு இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Not coveting another\"s Wife'. Grandpa shared Kural 142 and explained in simple words: Among all those who stand on the outside of virtue, there are no greater fools than those who stand outside their neighbour's door. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறன் மனைவியை அடைவதற்குத் துணிந்தவர்கள் அறவழியை விடுத்துத் தீயவழியில் செல்லும் கடைநிலை மனிதர்களைக் காட்டிலும் கீழானவர்கள்.",
+        "moral_en": "Moral: No fools, of all that stand from virtue's pale shut out, Like those who longing lurk their neighbour's gate without.",
+        "game_blank_word_ta": "நின்றாரின்",
+        "game_options_ta": [
+          "பிறன்பொருளாள்",
+          "பெட்டொழுகும்",
+          "நின்றாரின்",
+          "பேதைமை"
+        ],
+        "game_options_en": [
+          "Who know the wealth and virtue's way After other's wife do not stray",
+          "The vile are dead who evil aim And put faithful friends' wives to shame",
+          "He is the worst law breaking boor Who haunts around his neighbour's door",
+          "Their boasted greatness means nothing When to another's wife they cling"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிறனில் விழையாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 142, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பாவ வழியில் நடக்கும் மனிதருள் எல்லாம், அடுத்தவன் மனைவியை விரும்பி அவன் வாசலில் நிற்கும் மூடனைப் போன்ற கடை நிலை மனிதர் வேறு இல்லை. கலைஞர் உரை கூறுவது: பிறன் மனைவியை அடைவதற்குத் துணிந்தவர்கள் அறவழியை விடுத்துத் தீயவழியில் செல்லும் கடைநிலை மனிதர்களைக் காட்டிலும் கீழானவர்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not coveting another\"s Wife (Domestic Virtue), Kural 142 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Among all those who stand on the outside of virtue, there are no greater fools than those who stand outside their neighbour's door. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'பிறனில் விழையாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not coveting another\"s Wife' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'பிறனில் விழையாமை' அதிகாரத்தில் வரும் திருக்குறள் 142 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 142 from Chapter 'Not coveting another\"s Wife'?",
+        "quiz_options_ta": [
+          "மற்றவனைப் பற்றிப் புறங்கூறுகின்றவன், அவனுடைய பழிகள் பலவற்றிலும் நோகத்தக்கவை ஆராய்ந்து கூறிப் பிறரால் பழிக்கப்படுவான்.",
+          "பொருளின் குறைபாட்டை நிரப்புவதற்க்காக உள்ளதைப் பிறர்க்கு ஈயாமல் தாமே தமியராய் உண்பது வறுமையால் இறப்பதை விடத் துன்பமானது.",
+          "அறத்தை விட்டுத் தீநெறியில் நின்றவர் எல்லாரிலும் பிறன் மனைவியை விரும்பி அவனுடைய வாயிலில் சென்று நின்றவரைப் போல் அறிவிலிகள் இல்லை.",
+          "தன் மனம் தான் அறிந்த குற்றத்தில் தங்குமானால் வானத்தைப் போல் உயர்ந்துள்ள தவக்கோலம் ஒருவனுக்கு என்ன பயன் செய்யும்."
+        ],
+        "quiz_options_en": [
+          "His failings will be found and shown, Who makes another's failings known",
+          "Worse than begging is that boarding Alone what one's greed is hoarding",
+          "He is the worst law breaking boor Who haunts around his neighbour's door",
+          "Of what avail are sky-high shows When guild the conscience gnaws and knows"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (பிறனில் விழையாமை) பகுதியில் குறள் 142 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறத்தை விட்டுத் தீநெறியில் நின்றவர் எல்லாரிலும் பிறன் மனைவியை விரும்பி அவனுடைய வாயிலில் சென்று நின்றவரைப் போல் அறிவிலிகள் இல்லை. பரிமேலழகர் உரை நுட்பம்: 'அறன்கடை' நின்றாருள் எல்லாம் - காமம் காரணமாகப் பாவத்தின்கண் நின்றார் எல்லாருள்ளும்; பிறன்கடை நின்றாரின் பேதையார் இல்- பிறன் இல்லாளைக் காதலித்து, அவன் வாயிற்கண் சென்று நின்றார் போலப் பேதையார் இல்லை. (அறத்தின் நீக்கப்பட்டமையின் அறன்கடை என்றார். அறன்கடை நின்ற...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 15: 'Not coveting another\"s Wife'), Kural 142 distills a foundational ethical insight: \"No fools, of all that stand from virtue's pale shut out, Like those who longing lurk their neighbour's gate without\" Philosophically, Among all those who stand on the outside of virtue, there are no greater fools than those who stand outside their neighbour's door.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "family",
+        "discipline",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 143,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஐயமில்லாமல் தெளிந்து நம்பியவருடைய மனைவியிடத்தே விருப்பம் கொண்டு தீமையைச் செய்து நடப்பவர், செத்தவரை விட வேறுபட்டவர் அல்லர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Certainly they are no better than dead men who desire evil towards the wife of those who.",
+        "story_title_ta": "பிறனில் விழையாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Not coveting another\"s Wife — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'பிறனில் விழையாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 143 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தன்னைச் சந்தேகப்படாதவரின் வீட்டிற்குள் நுழைந்து, அடுத்தவரின் மனைவியுடன் தவறான தொடர்பு கொண்டு வாழ்பவன், இறந்து போனவனே அன்றி உயிருடன் வாழ்பவன் அல்லன்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Not coveting another\"s Wife'. Grandpa shared Kural 143 and explained in simple words: Certainly they are no better than dead men who desire evil towards the wife of those who. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நம்பிக் பழகியவர் வீட்டில், அவரது மனைவியிடம் தகாத செயலில் ஈடுபட முனைகிறவன், உயிர் இருந்தும் பிணத்திற்கு ஒப்பானவனேயாவான்.",
+        "moral_en": "Moral: They're numbered with the dead, e'en while they live, -how otherwise?With wife of sure confiding friend who evil things devise.",
+        "game_blank_word_ta": "ஒழுகு",
+        "game_options_ta": [
+          "பிறன்பொருளாள்",
+          "பெட்டொழுகும்",
+          "பேதைமை",
+          "ஒழுகு"
+        ],
+        "game_options_en": [
+          "Who know the wealth and virtue's way After other's wife do not stray",
+          "He is the worst law breaking boor Who haunts around his neighbour's door",
+          "Their boasted greatness means nothing When to another's wife they cling",
+          "The vile are dead who evil aim And put faithful friends' wives to shame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிறனில் விழையாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 143, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்னைச் சந்தேகப்படாதவரின் வீட்டிற்குள் நுழைந்து, அடுத்தவரின் மனைவியுடன் தவறான தொடர்பு கொண்டு வாழ்பவன், இறந்து போனவனே அன்றி உயிருடன் வாழ்பவன் அல்லன். கலைஞர் உரை கூறுவது: நம்பிக் பழகியவர் வீட்டில், அவரது மனைவியிடம் தகாத செயலில் ஈடுபட முனைகிறவன், உயிர் இருந்தும் பிணத்திற்கு ஒப்பானவனேயாவான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not coveting another\"s Wife (Domestic Virtue), Kural 143 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Certainly they are no better than dead men who desire evil towards the wife of those who. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'பிறனில் விழையாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not coveting another\"s Wife' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'பிறனில் விழையாமை' அதிகாரத்தில் வரும் திருக்குறள் 143 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 143 from Chapter 'Not coveting another\"s Wife'?",
+        "quiz_options_ta": [
+          "மகிழும்படியாகப் பேசி நட்புக் கொள்ளுதல் நன்மை என்று தெளியாதவர் தம்மை விட்டு நீங்கும்படியாகப் புறம் கூறி நண்பரையும் பிரித்து விடுவர்.",
+          "சாவதை விடத் துன்பமானது வேறொன்றும் இல்லை, ஆனால் வறியவர்க்கு ஒரு பொருள் கொடுக்க முடியாதநிலை வந்தபோது அச் சாதலும் இனியதே ஆகும்.",
+          "மனத்தை அடக்கும் வல்லமை இல்லாதவன் மேற்கொண்ட வலிய தவக்கோலம், புலியின் தோலைப் போர்த்திக் கொண்டு பயிரை பசு மேய்ந்தாற் போன்றது.",
+          "ஐயமில்லாமல் தெளிந்து நம்பியவருடைய மனைவியிடத்தே விருப்பம் கொண்டு தீமையைச் செய்து நடப்பவர், செத்தவரை விட வேறுபட்டவர் அல்லர்."
+        ],
+        "quiz_options_en": [
+          "By pleasing words who make not friends Sever their hearts by hostile trends",
+          "Nothing is more painful than death Yet more is pain of giftless dearth",
+          "Vaunting sainthood while week within Seems a grazer with tiger skin",
+          "The vile are dead who evil aim And put faithful friends' wives to shame"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (பிறனில் விழையாமை) பகுதியில் குறள் 143 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஐயமில்லாமல் தெளிந்து நம்பியவருடைய மனைவியிடத்தே விருப்பம் கொண்டு தீமையைச் செய்து நடப்பவர், செத்தவரை விட வேறுபட்டவர் அல்லர். பரிமேலழகர் உரை நுட்பம்: தெளிந்தார் இல் தீமை புரிந்து ஒழுகுவார் - தம்மை ஐயுறாதார் இல்லாள் கண்ணே பாவஞ்செய்தலை விரும்பி ஒழுகுவார், விளிந்தாரின் வேறு அல்லர் மன்ற- உயிருடையவரேனும் இறந்தாரே ஆவர். (அறம் பொருள் இன்பங்கள் ஆகிய பயன் உயிர் எய்தாமையின், 'விளிந்தாரின் வேறல்லர்', என்றும், அவர...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 15: 'Not coveting another\"s Wife'), Kural 143 distills a foundational ethical insight: \"They're numbered with the dead, e'en while they live, -how otherwise?With wife of sure confiding friend who evil things devise\" Philosophically, Certainly they are no better than dead men who desire evil towards the wife of those who.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "friendship",
+        "ethics",
+        "wisdom",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 144,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தினையளவும் ஆராய்ந்து பார்க்காமல் பிறனுடைய மனைவியிடம் செல்லுதல், எவ்வளவு பெருமையை உடையவராயினும் என்னவாக முடியும்?",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: However great one may be, what does it avail if, without at all considering his guilt, he goes unto the wife of another ?",
+        "story_title_ta": "பிறனில் விழையாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Not coveting another\"s Wife — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'பிறனில் விழையாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 144 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அடுத்தவன் மனைவியை விரும்பித் தன் பிழையைச் சிறிதும் எணணாமல் அவ்வீட்டில் நுழைபவன் எத்தனைப் பெருமை உடையவனாய் இருந்துதான் என்ன?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Not coveting another\"s Wife'. Grandpa shared Kural 144 and explained in simple words: However great one may be, what does it avail if, without at all considering his guilt, he goes unto the wife of another ? The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிழை புரிகிறோம் என்பதைத் தினையளவுகூடச் சிந்தித்துப் பாராமல், பிறன் மனைவியிடம் விருப்பம் கொள்வது, எத்துணைப் பெருமையுடையவரையும் மதிப்பிழக்கச் செய்துவிடும்.",
+        "moral_en": "Moral: How great soe'er they be, what gain have they of life, Who, not a whit reflecting, seek a neighbour's wife.",
+        "game_blank_word_ta": "தேரான்",
+        "game_options_ta": [
+          "தேரான்",
+          "பிறன்பொருளாள்",
+          "பெட்டொழுகும்",
+          "பேதைமை"
+        ],
+        "game_options_en": [
+          "Their boasted greatness means nothing When to another's wife they cling",
+          "Who know the wealth and virtue's way After other's wife do not stray",
+          "He is the worst law breaking boor Who haunts around his neighbour's door",
+          "The vile are dead who evil aim And put faithful friends' wives to shame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிறனில் விழையாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 144, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடுத்தவன் மனைவியை விரும்பித் தன் பிழையைச் சிறிதும் எணணாமல் அவ்வீட்டில் நுழைபவன் எத்தனைப் பெருமை உடையவனாய் இருந்துதான் என்ன? கலைஞர் உரை கூறுவது: பிழை புரிகிறோம் என்பதைத் தினையளவுகூடச் சிந்தித்துப் பாராமல், பிறன் மனைவியிடம் விருப்பம் கொள்வது, எத்துணைப் பெருமையுடையவரையும் மதிப்பிழக்கச் செய்துவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not coveting another\"s Wife (Domestic Virtue), Kural 144 speaks directly to teens navigating studies, friendships, leadership, and digital choices: However great one may be, what does it avail if, without at all considering his guilt, he goes unto the wife of another ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'பிறனில் விழையாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not coveting another\"s Wife' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'பிறனில் விழையாமை' அதிகாரத்தில் வரும் திருக்குறள் 144 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 144 from Chapter 'Not coveting another\"s Wife'?",
+        "quiz_options_ta": [
+          "தினையளவும் ஆராய்ந்து பார்க்காமல் பிறனுடைய மனைவியிடம் செல்லுதல், எவ்வளவு பெருமையை உடையவராயினும் என்னவாக முடியும்?",
+          "நெருங்கிப் பழகியவரின் குற்றத்தையும் புறங்கூறித் தூற்றும் இயல்புடையவர், பழகாத அயலாரிடத்து என்ன செய்வாரோ?",
+          "வறியவர்க்கு ஈதல் வேண்டும் அதனால் புகழ் உண்டாக வாழ வேண்டும், அப் புகழ் அல்லாமல் உயிர்க்கு ஊதியமானது வேறொன்றும் இல்லை.",
+          "தவக்கோலத்தில் மறைந்து கொண்டு தவம் அல்லாத தீயச்செயல்களைச் செய்தல், புதரில் மறைந்து கொண்டு வேடன் பறவைகளை வலைவீசிப் பிடித்தலைப் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Their boasted greatness means nothing When to another's wife they cling",
+          "What will they not to strangers do Who bring their friends' defects to view?",
+          "They gather fame who freely give The greatest gain for all that live",
+          "Sinning in saintly show is like Fowlers in ambush birds to strike"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (பிறனில் விழையாமை) பகுதியில் குறள் 144 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தினையளவும் ஆராய்ந்து பார்க்காமல் பிறனுடைய மனைவியிடம் செல்லுதல், எவ்வளவு பெருமையை உடையவராயினும் என்னவாக முடியும்? பரிமேலழகர் உரை நுட்பம்: எனைத்துணையர் ஆயினும் என்னாம் - எத்துணைப் பெருமையுடையார் ஆயினும் ஒருவர்க்கு யாதாய் முடியும், தினைத்துணையும் தேரான் பிறன் இல் புகழ் - காம மயக்கத்தால் தினையளவும் தம் பிழையை ஓராது பிறனுடைய இல்லின்கண் புகுதல். (இந்திரன் போல எல்லாப் பெருமையும் இழந்து சிறுமை எய்தல...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 15: 'Not coveting another\"s Wife'), Kural 144 distills a foundational ethical insight: \"How great soe'er they be, what gain have they of life, Who, not a whit reflecting, seek a neighbour's wife\" Philosophically, However great one may be, what does it avail if, without at all considering his guilt, he goes unto the wife of another ?",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "humility",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 145,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: இச்செயல் எளியது என எண்ணிப் பிறனுடைய மனைவியிடம் நெறி தவறிச் செல்கின்றவன், ‌எப்போதும் அழியாமல் நிலைநிற்கும் பழியை அடைவான்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: He who thinks lightly of going into the wife of another acquires guilt that will abide with him imperishably and for ever.",
+        "story_title_ta": "பிறனில் விழையாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Not coveting another\"s Wife — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'பிறனில் விழையாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 145 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அடைவது எளிது என எண்ணி அடுத்தவன் மனைவியுடன் தவறான தொடர்பு கொள்பவன், சாவாமல் எப்போதும் நிற்கும் பழியைப் பெறுவான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Not coveting another\"s Wife'. Grandpa shared Kural 145 and explained in simple words: He who thinks lightly of going into the wife of another acquires guilt that will abide with him imperishably and for ever. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: எளிதாக அடையலாம் என எண்ணிப் பிறனுடைய மனைவியிடம் முறைகேடாக நடப்பவன் என்றும் அழியாத பழிக்கு ஆளாவான்.",
+        "moral_en": "Moral: 'Mere triflel' saying thus, invades the home, so he ensuresA gain of guilt that deathless aye endures.",
+        "game_blank_word_ta": "இல்லிறப்பான்",
+        "game_options_ta": [
+          "பிறன்பொருளாள்",
+          "இல்லிறப்பான்",
+          "பெட்டொழுகும்",
+          "பேதைமை"
+        ],
+        "game_options_en": [
+          "Who know the wealth and virtue's way After other's wife do not stray",
+          "Who trifles with another's wife His guilty stain will last for life",
+          "He is the worst law breaking boor Who haunts around his neighbour's door",
+          "The vile are dead who evil aim And put faithful friends' wives to shame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிறனில் விழையாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 145, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடைவது எளிது என எண்ணி அடுத்தவன் மனைவியுடன் தவறான தொடர்பு கொள்பவன், சாவாமல் எப்போதும் நிற்கும் பழியைப் பெறுவான். கலைஞர் உரை கூறுவது: எளிதாக அடையலாம் என எண்ணிப் பிறனுடைய மனைவியிடம் முறைகேடாக நடப்பவன் என்றும் அழியாத பழிக்கு ஆளாவான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not coveting another\"s Wife (Domestic Virtue), Kural 145 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who thinks lightly of going into the wife of another acquires guilt that will abide with him imperishably and for ever. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'பிறனில் விழையாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not coveting another\"s Wife' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'பிறனில் விழையாமை' அதிகாரத்தில் வரும் திருக்குறள் 145 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 145 from Chapter 'Not coveting another\"s Wife'?",
+        "quiz_options_ta": [
+          "ஒருவர் நேரில் இல்லாதது கண்டு பழிச்‌சொல் கூறுவோனுடைய உடல் பாரத்தை, இவனையும் சுமப்பதே எனக்கு அறம் என்று கருதி நிலம் சுமக்கின்றதோ?",
+          "இச்செயல் எளியது என எண்ணிப் பிறனுடைய மனைவியிடம் நெறி தவறிச் செல்கின்றவன், ‌எப்போதும் அழியாமல் நிலைநிற்கும் பழியை அடைவான்",
+          "புகழ்ந்து சொல்கின்றவர் சொல்பவை எல்லாம் வறுமையால் இரப்பவர்க்கு ஒரு பொருள் கொடுத்து உதவுகின்றவரின் மேல் நிற்கின்ற புகழேயாகும்.",
+          "பற்றுக்களைத் துறந்தோம் என்று சொல்கின்றவரின் பொய்யொழுக்கம் என்ன செய்தோம் என்ன செய்தோம் என்று வருந்தும் படியான துன்பம் பலவும் தரும்."
+        ],
+        "quiz_options_en": [
+          "The world in mercy bears his load Who rants behind words untoward",
+          "Who trifles with another's wife His guilty stain will last for life",
+          "The glory of the alms-giver Is praised aloud as popular",
+          "Who false within but freedom feign Shall moan \\\"What have we done\\\" with pain"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (பிறனில் விழையாமை) பகுதியில் குறள் 145 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இச்செயல் எளியது என எண்ணிப் பிறனுடைய மனைவியிடம் நெறி தவறிச் செல்கின்றவன், ‌எப்போதும் அழியாமல் நிலைநிற்கும் பழியை அடைவான். பரிமேலழகர் உரை நுட்பம்: எளிது என இல் இறப்பான் - 'எய்துதல் எளிது' என்று கருதிப் பின்விளைவு கருதாது பிறன் இல்லின்கண் இறப்பான், விளியாது எஞ்ஞான்றும் நிற்கும் பழி எய்தும் - மாய்தல் இன்றி எஞ்ஞான்றும் நிலைநிற்கும் குடிப்பழியினை எய்தும். (இல்லின்கண் இறத்தல் - இல்லாள்கண் நெறிகடந்து சேறல்.).",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 15: 'Not coveting another\"s Wife'), Kural 145 distills a foundational ethical insight: \"'Mere triflel' saying thus, invades the home, so he ensuresA gain of guilt that deathless aye endures\" Philosophically, He who thinks lightly of going into the wife of another acquires guilt that will abide with him imperishably and for ever.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "education",
+        "discipline",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 146,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பகை பாவம் அச்சம் பழி என்னும் இந்நான்கு குற்றங்களும் பிறன் மனைவியிடத்து நெறி தவறி நடப்பவனிடத்திலிருந்து நீங்காவாம்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Hatred, sin, fear, disgrace; these four will never leave him who goes in to his neighbour's wife.",
+        "story_title_ta": "பிறனில் விழையாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Not coveting another\"s Wife — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'பிறனில் விழையாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 146 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அடுத்தவன் மனைவியிடம் வரம்பு கடந்து செல்பவனை விட்டுப் பகை, பாவம், பயம், பழி என்ற நான்கும் விலகமாட்டா.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Not coveting another\"s Wife'. Grandpa shared Kural 146 and explained in simple words: Hatred, sin, fear, disgrace; these four will never leave him who goes in to his neighbour's wife. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறன் மனைவியிடம் முறைகேடாக நடக்க நினைப்பவனிடமிருந்து பகை, தீமை, அச்சம், பழி ஆகிய நான்கும் நீங்குவதில்லை.",
+        "moral_en": "Moral: Who home ivades, from him pass nevermore, Hatred and sin, fear, foul disgrace; these four.",
+        "game_blank_word_ta": "பழியென",
+        "game_options_ta": [
+          "பிறன்பொருளாள்",
+          "பெட்டொழுகும்",
+          "பழியென",
+          "பேதைமை"
+        ],
+        "game_options_en": [
+          "Who know the wealth and virtue's way After other's wife do not stray",
+          "He is the worst law breaking boor Who haunts around his neighbour's door",
+          "Hatred, sin, fear, and shame-these four Stain adulterers ever more",
+          "The vile are dead who evil aim And put faithful friends' wives to shame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிறனில் விழையாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 146, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடுத்தவன் மனைவியிடம் வரம்பு கடந்து செல்பவனை விட்டுப் பகை, பாவம், பயம், பழி என்ற நான்கும் விலகமாட்டா. கலைஞர் உரை கூறுவது: பிறன் மனைவியிடம் முறைகேடாக நடக்க நினைப்பவனிடமிருந்து பகை, தீமை, அச்சம், பழி ஆகிய நான்கும் நீங்குவதில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not coveting another\"s Wife (Domestic Virtue), Kural 146 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Hatred, sin, fear, disgrace; these four will never leave him who goes in to his neighbour's wife. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'பிறனில் விழையாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not coveting another\"s Wife' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'பிறனில் விழையாமை' அதிகாரத்தில் வரும் திருக்குறள் 146 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 146 from Chapter 'Not coveting another\"s Wife'?",
+        "quiz_options_ta": [
+          "அயலாருடைய குற்றத்தைக் காண்பது போல் தம் குற்றத்தையும் காண வல்லவரானால், நிலைபெற்ற உயிர் வாழ்க்கைக்குத் துன்பம் உண்ட‌ோ?",
+          "உயர்ந்த புகழ் அல்லாமல் உலகத்தில் ஒப்பற்ற ஒரு பொருளாக அழியாமல் நிலைநிற்க வல்லது வேறொன்றும் இல்லை.",
+          "பகை பாவம் அச்சம் பழி என்னும் இந்நான்கு குற்றங்களும் பிறன் மனைவியிடத்து நெறி தவறி நடப்பவனிடத்திலிருந்து நீங்காவாம்.",
+          "மனத்தில் பற்றுக்களைத் துறக்காமல் துறந்தவரைப் போல் வஞ்சனைச் செய்து வாழ்கின்றவரைப் போல் இரக்கமற்றவர் எவரும் இல்லை."
+        ],
+        "quiz_options_en": [
+          "No harm would fall to any man If each his own defect could scan",
+          "Nothing else lasts on earth for e'er Saving high fame of the giver!",
+          "Hatred, sin, fear, and shame-these four Stain adulterers ever more",
+          "Vilest is he who seems a saint Cheating the world without restraint"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (பிறனில் விழையாமை) பகுதியில் குறள் 146 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பகை பாவம் அச்சம் பழி என்னும் இந்நான்கு குற்றங்களும் பிறன் மனைவியிடத்து நெறி தவறி நடப்பவனிடத்திலிருந்து நீங்காவாம். பரிமேலழகர் உரை நுட்பம்: இல் இறப்பான்கண் - பிறன் இல்லாள்கண் நெறிகடந்து செல்வானிடத்து, பகை பாவம் அச்சம் பழி என நான்கும் இகவாவாம் - பகையும், பாவமும், அச்சமும், குடிப்பழியும் என்னும் இந்நான்கு குற்றமும் ஒருகாலும் நீங்காவாம். (எனவே, இருமையும் இழத்தல் பெற்றாம். இவை ஆறு பாட்டானும் பிறன...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 15: 'Not coveting another\"s Wife'), Kural 146 distills a foundational ethical insight: \"Who home ivades, from him pass nevermore, Hatred and sin, fear, foul disgrace; these four\" Philosophically, Hatred, sin, fear, disgrace; these four will never leave him who goes in to his neighbour's wife.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "courage",
+        "speech",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 147,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அறத்தின் இயல்போடு பொருந்தி இல்வாழ்க்கை வாழ்பவன், பிறனுக்கு உரிமையானவளின் பெண் தன்மையை விரும்பாதவனே.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: He who desires not the womanhood of her who should walk according to the will of another will be praised as a virtuous house-holder.",
+        "story_title_ta": "பிறனில் விழையாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Not coveting another\"s Wife — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'பிறனில் விழையாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 147 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அடுத்தவனுக்கு உரிமையானவனின் பெண்மையை விரும்பாதவன் அறத்துடன் குடும்பம் நடத்துபவன் எனப்படுவான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Not coveting another\"s Wife'. Grandpa shared Kural 147 and explained in simple words: He who desires not the womanhood of her who should walk according to the will of another will be praised as a virtuous house-holder. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறன் மனைவியிடம் பெண்மை இன்பத்தை நாடிச் செல்லாதவனே அறவழியில் இல்வாழ்க்கை மேற்கொண்டவன் எனப்படுவான்.",
+        "moral_en": "Moral: Who sees the wife, another's own, with no desiring eyeIn sure domestic bliss he dwelleth ever virtuously.",
+        "game_blank_word_ta": "அறனியலான்",
+        "game_options_ta": [
+          "பிறன்பொருளாள்",
+          "பெட்டொழுகும்",
+          "பேதைமை",
+          "அறனியலான்"
+        ],
+        "game_options_en": [
+          "Who know the wealth and virtue's way After other's wife do not stray",
+          "He is the worst law breaking boor Who haunts around his neighbour's door",
+          "The vile are dead who evil aim And put faithful friends' wives to shame",
+          "He is the righteous householder His neighbour's wife who covets never"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிறனில் விழையாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 147, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடுத்தவனுக்கு உரிமையானவனின் பெண்மையை விரும்பாதவன் அறத்துடன் குடும்பம் நடத்துபவன் எனப்படுவான். கலைஞர் உரை கூறுவது: பிறன் மனைவியிடம் பெண்மை இன்பத்தை நாடிச் செல்லாதவனே அறவழியில் இல்வாழ்க்கை மேற்கொண்டவன் எனப்படுவான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not coveting another\"s Wife (Domestic Virtue), Kural 147 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who desires not the womanhood of her who should walk according to the will of another will be praised as a virtuous house-holder. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'பிறனில் விழையாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not coveting another\"s Wife' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'பிறனில் விழையாமை' அதிகாரத்தில் வரும் திருக்குறள் 147 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 147 from Chapter 'Not coveting another\"s Wife'?",
+        "quiz_options_ta": [
+          "கேட்டவர் பலரும் வெறுக்கும் படியாகப் பயனில்லாத சொற்களைச் சொல்லுகின்றவன், எல்லாராலும் இகழப்படுவான்",
+          "நிலவுலகின் எல்லையில் நெடுங்காலம் நிற்கவல்ல புகழைச் செய்தால், வானுலகம் (அவ்வாறு புகழ் செய்தாரைப் போற்றுமே அல்லாமல்) தேவரைப் போற்றாது..",
+          "புறத்தில் குன்றிமணிப்போல் செம்மையானவராய் காணப்பட்டாராயினும் அகத்தில் குன்றிமணியின் மூக்குப்போல் கருத்திருப்பவர் உலகில் உணடு.",
+          "அறத்தின் இயல்போடு பொருந்தி இல்வாழ்க்கை வாழ்பவன், பிறனுக்கு உரிமையானவளின் பெண் தன்மையை விரும்பாதவனே"
+        ],
+        "quiz_options_en": [
+          "With silly words who insults all Is held in contempt as banal",
+          "From hailing gods heavens will cease To hail the men of lasting praise",
+          "Berry-red is his outward view, Black like its nose his inward hue",
+          "He is the righteous householder His neighbour's wife who covets never"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (பிறனில் விழையாமை) பகுதியில் குறள் 147 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறத்தின் இயல்போடு பொருந்தி இல்வாழ்க்கை வாழ்பவன், பிறனுக்கு உரிமையானவளின் பெண் தன்மையை விரும்பாதவனே. பரிமேலழகர் உரை நுட்பம்: அறன் இயலான் இல்வாழ்வான் என்பான் - அறனாகிய இயல்போடு கூடி இல்வாழ்வான் என்று சொல்லப்படுவான், பிறன் இயலாள் பெண்மை நயவாதவன் - பிறனுக்கு உரிமை பூண்டு அவனுடைய இயல்பின்கண்ணே நிற்பாளது பெண் தன்மையை விரும்பாதவன். (ஆன் உருபு ஈண்டு உடன் நிகழ்ச்சிக்கண் வந்தது. இல்லறஞ...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 15: 'Not coveting another\"s Wife'), Kural 147 distills a foundational ethical insight: \"Who sees the wife, another's own, with no desiring eyeIn sure domestic bliss he dwelleth ever virtuously\" Philosophically, He who desires not the womanhood of her who should walk according to the will of another will be praised as a virtuous house-holder.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "ethics",
+        "discipline",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 148,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பிறனுடைய மனைவியை விரும்பி நோக்காத ‌பெரிய ஆண்மை, சான்றோர்க்கு அறம் மட்டும் அன்று; நிறைந்த ஒழுக்கமுமாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: That noble manliness which looks not at the wife of another is the virtue and dignity of the great.",
+        "story_title_ta": "பிறனில் விழையாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Not coveting another\"s Wife — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'பிறனில் விழையாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 148 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அடுத்தவன் மனைவியை மனத்துள் எண்ணாத பேராண்மை அறம் மட்டும் அன்று; சான்றோர்க்கு நிறைவான ஒழுக்கமும் ஆகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Not coveting another\"s Wife'. Grandpa shared Kural 148 and explained in simple words: That noble manliness which looks not at the wife of another is the virtue and dignity of the great. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வெறொருவன் மனைவியைக் காம எண்ணத்துடன் நோக்காத பெருங்குணம் அறநெறி மட்டுமன்று; அது ஒழுக்கத்தின் சிகரமும் ஆகும்.",
+        "moral_en": "Moral: Manly excellence, that looks not on another's wife, Is not virtue merely, 'tis full 'propriety' of life.",
+        "game_blank_word_ta": "நோக்காத",
+        "game_options_ta": [
+          "நோக்காத",
+          "பிறன்பொருளாள்",
+          "பெட்டொழுகும்",
+          "பேதைமை"
+        ],
+        "game_options_en": [
+          "They lead a high-souled manly life The pure who eye not another's wife",
+          "Who know the wealth and virtue's way After other's wife do not stray",
+          "He is the worst law breaking boor Who haunts around his neighbour's door",
+          "The vile are dead who evil aim And put faithful friends' wives to shame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிறனில் விழையாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 148, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடுத்தவன் மனைவியை மனத்துள் எண்ணாத பேராண்மை அறம் மட்டும் அன்று; சான்றோர்க்கு நிறைவான ஒழுக்கமும் ஆகும். கலைஞர் உரை கூறுவது: வெறொருவன் மனைவியைக் காம எண்ணத்துடன் நோக்காத பெருங்குணம் அறநெறி மட்டுமன்று; அது ஒழுக்கத்தின் சிகரமும் ஆகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not coveting another\"s Wife (Domestic Virtue), Kural 148 speaks directly to teens navigating studies, friendships, leadership, and digital choices: That noble manliness which looks not at the wife of another is the virtue and dignity of the great. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'பிறனில் விழையாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not coveting another\"s Wife' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'பிறனில் விழையாமை' அதிகாரத்தில் வரும் திருக்குறள் 148 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 148 from Chapter 'Not coveting another\"s Wife'?",
+        "quiz_options_ta": [
+          "பிறனுடைய மனைவியை விரும்பி நோக்காத ‌பெரிய ஆண்மை, சான்றோர்க்கு அறம் மட்டும் அன்று; நிறைந்த ஒழுக்கமுமாகும்.",
+          "பலர் முன்னே பயனில்லாத சொற்களைச் சொல்லுதல், நண்பரிடத்தில் அறம் இல்லா செயல்களைச் செய்தலை விடத் தீமையானதாகும்.",
+          "புகழுடம்பு மேம்படுதலாகும் வாழ்வில் கேடும், புகழ் நிலை நிற்பதாகும் சாவும் அறிவில் சிறந்தவர்க்கு அல்லாமல் மற்றவர்க்கு இல்லை.",
+          "மனத்தில் மாசு இருக்க, தவத்தால் மாண்பு பெற்றவரைப்போல், நீரில் மறைந்து நடக்கும் வஞ்சனை உடைய மாந்தர் உலகில் பலர் உள்ளனர்."
+        ],
+        "quiz_options_en": [
+          "They lead a high-souled manly life The pure who eye not another's wife",
+          "Vain talk before many is worse Than doing to friends deeds adverse",
+          "Fame in fall and life in death Are rare but for the soulful worth",
+          "Filthy in mind some bathe in streams Hiding sins in showy extremes"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (பிறனில் விழையாமை) பகுதியில் குறள் 148 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறனுடைய மனைவியை விரும்பி நோக்காத ‌பெரிய ஆண்மை, சான்றோர்க்கு அறம் மட்டும் அன்று; நிறைந்த ஒழுக்கமுமாகும். பரிமேலழகர் உரை நுட்பம்: பிறன் மனை நோக்காத பேர் ஆண்மை - பிறன் மனையாளை உட்கொள்ளாத பெரிய ஆண்தகைமை, சான்றோர்க்கு அறன் ஒன்றோ ஆன்ற ஒழுக்கு - சால்புடையார்க்கு அறனும் ஆம், நிரம்பிய ஒழுக்கமும் ஆம். (புறப் பகைகளை அடக்கும் ஆண்மையுடையார்க்கும், உட்பகை ஆகிய காமம் அடக்குதற்கு அருமையின், அதனை...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 15: 'Not coveting another\"s Wife'), Kural 148 distills a foundational ethical insight: \"Manly excellence, that looks not on another's wife, Is not virtue merely, 'tis full 'propriety' of life\" Philosophically, That noble manliness which looks not at the wife of another is the virtue and dignity of the great.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "ethics",
+        "discipline",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 149,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கடல் சூழ்ந்த உலகத்தில் நன்மைக்கு உரியவர் யார் என்றொல் பிறனுக்கு உரிமையானவளின் தோளைப் பொருந்தாதவரே ஆவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Is it asked, \"who are those who shall obtain good in this world surrounded by the terror-producing sea ?\" Those who touch not the shoulder of her who belongs to another.",
+        "story_title_ta": "பிறனில் விழையாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Not coveting another\"s Wife — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'பிறனில் விழையாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 149 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அச்சந்தரும் கடலால் சூழப்பட்ட இவ்வுலகில் எல்லா நன்மைகளும் அடைவதற்கு உரியவர் எவர் என்றால், அடுத்தவனுக்கு உரியவளின் தோளைச் சேராதவரே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Not coveting another\"s Wife'. Grandpa shared Kural 149 and explained in simple words: Is it asked, \"who are those who shall obtain good in this world surrounded by the terror-producing sea ?\" Those who touch not the shoulder of her who belongs to another. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறன் மனைவியின் தோளைத் தீண்டாதவரே கடல் சூழ் இவ்வுலகின் பெருமைகளை அடைவதற்குத் தகுதியுடையவர்.",
+        "moral_en": "Moral: Who 're good indeed, on earth begirt by ocean's gruesome tide?The men who touch not her that is another's bride.",
+        "game_blank_word_ta": "தோள்தோயா",
+        "game_options_ta": [
+          "பிறன்பொருளாள்",
+          "தோள்தோயா",
+          "பெட்டொழுகும்",
+          "பேதைமை"
+        ],
+        "game_options_en": [
+          "Who know the wealth and virtue's way After other's wife do not stray",
+          "Good in storm bound earth is with those Who clasp not arms of another's spouse",
+          "He is the worst law breaking boor Who haunts around his neighbour's door",
+          "The vile are dead who evil aim And put faithful friends' wives to shame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிறனில் விழையாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 149, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அச்சந்தரும் கடலால் சூழப்பட்ட இவ்வுலகில் எல்லா நன்மைகளும் அடைவதற்கு உரியவர் எவர் என்றால், அடுத்தவனுக்கு உரியவளின் தோளைச் சேராதவரே. கலைஞர் உரை கூறுவது: பிறன் மனைவியின் தோளைத் தீண்டாதவரே கடல் சூழ் இவ்வுலகின் பெருமைகளை அடைவதற்குத் தகுதியுடையவர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not coveting another\"s Wife (Domestic Virtue), Kural 149 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Is it asked, \"who are those who shall obtain good in this world surrounded by the terror-producing sea ?\" Those who touch not the shoulder of her who belongs to another. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'பிறனில் விழையாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not coveting another\"s Wife' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'பிறனில் விழையாமை' அதிகாரத்தில் வரும் திருக்குறள் 149 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 149 from Chapter 'Not coveting another\"s Wife'?",
+        "quiz_options_ta": [
+          "ஒருவன் பயனில்லா பொருள்களைப் பற்றி விரிவாகச் சொல்லும் சொற்கள், அவன் அறம் இல்லாதவன் என்பதை அறிவிக்கும்.",
+          "கடல் சூழ்ந்த உலகத்தில் நன்மைக்கு உரியவர் யார் என்றொல் பிறனுக்கு உரிமையானவளின் தோளைப் பொருந்தாதவரே ஆவர்",
+          "ஒரு துறையில் முற்பட்டுத் தோன்றுவதானால் புகழோடு தோன்ற வேண்டும், அத்தகைய சிறப்பு இல்லாதவர் அங்குத் தோன்றுவதைவிடத் தோன்றாமலிருப்பதே நல்லது.",
+          "நேராகத் தோன்றினும் அம்பு கொடியது; வளைவுடன் தோன்றினாலும் யாழின் கொம்பு நன்மையானது. மக்களின் பண்புகளையும் செயல்வகையால் உணர்ந்துகொள்ள வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "The babbler's hasty lips proclaim That \\\"good-for-nothing\\\" is his name",
+          "Good in storm bound earth is with those Who clasp not arms of another's spouse",
+          "Be born with fame if birth you want If not of birth you must not vaunt",
+          "Know men by acts and not by forms Strait arrow kills, bent lute but charms"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (பிறனில் விழையாமை) பகுதியில் குறள் 149 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கடல் சூழ்ந்த உலகத்தில் நன்மைக்கு உரியவர் யார் என்றொல் பிறனுக்கு உரிமையானவளின் தோளைப் பொருந்தாதவரே ஆவர். பரிமேலழகர் உரை நுட்பம்: நாம நீர் வைப்பின் - அச்சம் தரும் கடலால் சூழப்பட்ட உலகத்து; நலக்கு உரியார் யார் எனின் - எல்லா நன்மைகளும் எய்துதற்கு உரியார் யார் எனின், பிறர்க்கு உரியாள் தோள் தோயாதார் - பிறனொருவனுக்கு உரிமை ஆகியாளுடைய தோளைச் சேராதார். (அகலம், ஆழம், பொருளுடைமை முதலியவற்றான...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 15: 'Not coveting another\"s Wife'), Kural 149 distills a foundational ethical insight: \"Who 're good indeed, on earth begirt by ocean's gruesome tide?The men who touch not her that is another's bride\" Philosophically, Is it asked, \"who are those who shall obtain good in this world surrounded by the terror-producing sea ?\" Those who touch not the shoulder of her who belongs to another.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "humility",
+        "family",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 150,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவன் அறநெறியில் நிற்காமல் அறமில்லாதவைகளைச் செய்தாலும், பிறனுக்கு உரியவளின் பெண்மையை விரும்பாமல் வாழ்தல் நல்லது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Though a man perform no virtuous deeds and commit (every) vice, it will be well if he desire not the womanhood of her who is within the limit (of the house) of another.",
+        "story_title_ta": "பிறனில் விழையாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Not coveting another\"s Wife — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'பிறனில் விழையாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 150 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அறம் செய்யாமல் பாவத்தையே செய்பவனாக இருந்தாலும் அடுத்தவனின் உரிமை ஆகிய மனைவிமேல் ஆசைப்படாமல் இருப்பது நல்லது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Not coveting another\"s Wife'. Grandpa shared Kural 150 and explained in simple words: Though a man perform no virtuous deeds and commit (every) vice, it will be well if he desire not the womanhood of her who is within the limit (of the house) of another. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறன் மனைவியை விரும்பிச் செயல்படுவது அறவழியில் நடக்காதவர் செயலைவிடத் தீமையானதாகும்.",
+        "moral_en": "Moral: Though virtue's bounds he pass, and evil deeds hath wrought; At least, 'tis good if neighbour's wife he covet not.",
+        "game_blank_word_ta": "பிறன்வரையாள்",
+        "game_options_ta": [
+          "பிறன்பொருளாள்",
+          "பெட்டொழுகும்",
+          "பிறன்வரையாள்",
+          "பேதைமை"
+        ],
+        "game_options_en": [
+          "Who know the wealth and virtue's way After other's wife do not stray",
+          "He is the worst law breaking boor Who haunts around his neighbour's door",
+          "Sinners breaking virtue's behest Lust not for another's wife at least",
+          "The vile are dead who evil aim And put faithful friends' wives to shame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிறனில் விழையாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 150, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறம் செய்யாமல் பாவத்தையே செய்பவனாக இருந்தாலும் அடுத்தவனின் உரிமை ஆகிய மனைவிமேல் ஆசைப்படாமல் இருப்பது நல்லது. கலைஞர் உரை கூறுவது: பிறன் மனைவியை விரும்பிச் செயல்படுவது அறவழியில் நடக்காதவர் செயலைவிடத் தீமையானதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not coveting another\"s Wife (Domestic Virtue), Kural 150 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though a man perform no virtuous deeds and commit (every) vice, it will be well if he desire not the womanhood of her who is within the limit (of the house) of another. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'பிறனில் விழையாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not coveting another\"s Wife' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'பிறனில் விழையாமை' அதிகாரத்தில் வரும் திருக்குறள் 150 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 150 from Chapter 'Not coveting another\"s Wife'?",
+        "quiz_options_ta": [
+          "பயனோடு பொருந்தாத பண்பு இல்லாத சொற்களைப் பலரிடத்தும் சொல்லுதல், அறத்தோடு பொருந்தாமல் நன்மையிலிருந்து நீங்கச் செய்யும்.",
+          "தமக்குப் புகழ் உண்டாகுமாறு வாழமுடியாதவர் தம்மைத் தாம் நொந்து கொள்ளாமல் தம்மை இகழ்கின்றவரை நொந்து கொள்ளக் காரணம் என்ன?",
+          "ஒருவன் அறநெறியில் நிற்காமல் அறமில்லாதவைகளைச் செய்தாலும், பிறனுக்கு உரியவளின் பெண்மையை விரும்பாமல் வாழ்தல் நல்லது",
+          "உலகம் பழிக்கும் தீயொழுக்கத்தை விட்டு விட்டால் மொட்டை அடித்தலும் சடை வளர்த்தலுமாகிய புறக்கோலங்கள் வேண்டா."
+        ],
+        "quiz_options_en": [
+          "Vain words before an assembly Will make all gains and goodness flee",
+          "Why grieve at those who blame the shame Of those who cannot live in fame?",
+          "Sinners breaking virtue's behest Lust not for another's wife at least",
+          "No balding nor tangling the hair! Abstain from condemned acts with care"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (பிறனில் விழையாமை) பகுதியில் குறள் 150 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் அறநெறியில் நிற்காமல் அறமில்லாதவைகளைச் செய்தாலும், பிறனுக்கு உரியவளின் பெண்மையை விரும்பாமல் வாழ்தல் நல்லது. பரிமேலழகர் உரை நுட்பம்: அறன் வரையான் அல்ல செயினும் - ஒருவன் அறத்தைத் தனக்குரித்தாகச் செய்யாது பாவங்களைச் செய்யுமாயினும், பிறன் வரையாள் பெண்மை நயவாமை நன்று - அவனுக்குப் பிறன் எல்லைக்கண் நிற்பாளது பெண்மையை விரும்பாமை உண்டாயின், அது நன்று. (இக்குணமே மேற்பட்டுத் தோன்றும் என்பதாம். இவை...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 15: 'Not coveting another\"s Wife'), Kural 150 distills a foundational ethical insight: \"Though virtue's bounds he pass, and evil deeds hath wrought; At least, 'tis good if neighbour's wife he covet not\" Philosophically, Though a man perform no virtuous deeds and commit (every) vice, it will be well if he desire not the womanhood of her who is within the limit (of the house) of another.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "family",
+        "discipline",
+        "leadership"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "adhikaram_id": 7,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.492635930+00:00",
+  "kurals": [
+    {
+      "kural_number": 61,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பெறத்தகுந்த பேறுகளில் அறிய வேண்டியவைகளை அறியும் நன்மக்களைப் பெறுவதைத் தவிர, மற்றப்பேறுகளை யாம் மதிப்பதில்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Among all the benefits that may be acquired, we know no greater benefit than the acquisition of intelligent children.",
+        "story_title_ta": "மக்கட்பேறு — நிலா கற்ற பாடம்",
+        "story_title_en": "The Wealth of Children — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மக்கட்பேறு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 61 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அறியவேண்டுவனவற்றை அறியும் அறிவு படைத்த பிள்ளைச் செல்வத்தைத் தவிர மற்றவற்றை ஒருவன் பெறும் நன்மையாக நான் எண்ணுவதில்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Wealth of Children'. Grandpa shared Kural 61 and explained in simple words: Among all the benefits that may be acquired, we know no greater benefit than the acquisition of intelligent children. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அறிவில் சிறந்த நல்ல பிள்ளைகளைவிட இல்வாழ்க்கையில் சிறந்த பேறு வேறு எதுவுமில்லை.",
+        "moral_en": "Moral: Of all that men acquire, we know not any greater gain, Than that which by the birth of learned children men obtain.",
+        "game_blank_word_ta": "யாமறிவது",
+        "game_options_ta": [
+          "எழுபிறப்பும்",
+          "யாமறிவது",
+          "தீயவை",
+          "தீண்டா"
+        ],
+        "game_options_en": [
+          "No evil comes and no blemish; Noble sons bring all we wish",
+          "The world no higher bliss bestows Than children virtuous and wise",
+          "Children are one's wealth indeed Their wealth is measured by their deed",
+          "The food is more than nectar sweet In which one's children hands insert"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மக்கட்பேறு (இல்லறவியல்) பிரிவில் அமைந்த குறள் 61, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறியவேண்டுவனவற்றை அறியும் அறிவு படைத்த பிள்ளைச் செல்வத்தைத் தவிர மற்றவற்றை ஒருவன் பெறும் நன்மையாக நான் எண்ணுவதில்லை. கலைஞர் உரை கூறுவது: அறிவில் சிறந்த நல்ல பிள்ளைகளைவிட இல்வாழ்க்கையில் சிறந்த பேறு வேறு எதுவுமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Wealth of Children (Domestic Virtue), Kural 61 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Among all the benefits that may be acquired, we know no greater benefit than the acquisition of intelligent children. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மக்கட்பேறு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Wealth of Children' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மக்கட்பேறு' அதிகாரத்தில் வரும் திருக்குறள் 61 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 61 from Chapter 'The Wealth of Children'?",
+        "quiz_options_ta": [
+          "கைமாறாகச் செய்யும் உதவி முன் செய்த உதவியின் அளவை உடையது அன்று, உதவி செய்யப்பட்டவற்றின் பண்புக்கு ஏற்ற அளவை உடையதாகும்.",
+          "பெறத்தகுந்த பேறுகளில் அறிய வேண்டியவைகளை அறியும் நன்மக்களைப் பெறுவதைத் தவிர, மற்றப்பேறுகளை யாம் மதிப்பதில்லை.",
+          "பிறனுடைய மனைவியை விரும்பி நோக்காத ‌பெரிய ஆண்மை, சான்றோர்க்கு அறம் மட்டும் அன்று; நிறைந்த ஒழுக்கமுமாகும்.",
+          "கேட்டவர் பலரும் வெறுக்கும் படியாகப் பயனில்லாத சொற்களைச் சொல்லுகின்றவன், எல்லாராலும் இகழப்படுவான்"
+        ],
+        "quiz_options_en": [
+          "A help is not the help's measure It is gainer's worth and pleasure",
+          "The world no higher bliss bestows Than children virtuous and wise",
+          "They lead a high-souled manly life The pure who eye not another's wife",
+          "With silly words who insults all Is held in contempt as banal"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (மக்கட்பேறு) பகுதியில் குறள் 61 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பெறத்தகுந்த பேறுகளில் அறிய வேண்டியவைகளை அறியும் நன்மக்களைப் பெறுவதைத் தவிர, மற்றப்பேறுகளை யாம் மதிப்பதில்லை. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, இருபிறப்பாளர் மூவரானும் இயல்பாக இறுக்கப்படுங் கடன் மூன்றனுள் முனிவர் கடன்கேள்வியானும், தேவர் கடன் வேள்வியானும், தென்புலத்தார் கடன் புதல்வரைப் பெறுதலானும் அல்லது இறுக்கப்படாமையின் ,அக்கடன் இறுத்தற்பொருட்டு நன்மக்களைப் பெறுதல்.அதிகார முறைமை மேலே...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 7: 'The Wealth of Children'), Kural 61 distills a foundational ethical insight: \"Of all that men acquire, we know not any greater gain, Than that which by the birth of learned children men obtain\" Philosophically, Among all the benefits that may be acquired, we know no greater benefit than the acquisition of intelligent children.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "wisdom",
+        "wealth",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 62,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பழி இல்லாத நல்ல பண்பு உடைய மக்களைப்பெற்றால் ஒருவனுக்கு ஏழு பிறவியிலும் தீவினைப் பயனாகிய துன்பங்கள் சென்று சேரா.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The evils of the seven births shall not touch those who abtain children of a good disposition, free from vice.",
+        "story_title_ta": "மக்கட்பேறு — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Wealth of Children — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மக்கட்பேறு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 62 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பழிக்கப்படாத நல்ல குணங்களை உடைய பிள்ளைகளைப் பெற்றால், பெற்றவளை அவனுடைய பிறவிகள்தோறும் துன்பங்கள் தொடமாட்டா.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Wealth of Children'. Grandpa shared Kural 62 and explained in simple words: The evils of the seven births shall not touch those who abtain children of a good disposition, free from vice. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பெற்றெடுக்கும் மக்கள் பழிபடராத பண்புடையவர்களாக இருப்பின், ஏழேழு தலைமுறை எனும் அளவுக்குக் காலமெல்லாம் எந்தத் தீமையும் தீண்டாது.",
+        "moral_en": "Moral: Who children gain, that none reproach, of virtuous worth, No evils touch them, through the sev'n-fold maze of birth.",
+        "game_blank_word_ta": "பெறின்",
+        "game_options_ta": [
+          "பெறுமவற்றுள்",
+          "யாமறிவது",
+          "பெறின்",
+          "இல்லை"
+        ],
+        "game_options_en": [
+          "The world no higher bliss bestows Than children virtuous and wise",
+          "Children are one's wealth indeed Their wealth is measured by their deed",
+          "No evil comes and no blemish; Noble sons bring all we wish",
+          "The food is more than nectar sweet In which one's children hands insert"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மக்கட்பேறு (இல்லறவியல்) பிரிவில் அமைந்த குறள் 62, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பழிக்கப்படாத நல்ல குணங்களை உடைய பிள்ளைகளைப் பெற்றால், பெற்றவளை அவனுடைய பிறவிகள்தோறும் துன்பங்கள் தொடமாட்டா. கலைஞர் உரை கூறுவது: பெற்றெடுக்கும் மக்கள் பழிபடராத பண்புடையவர்களாக இருப்பின், ஏழேழு தலைமுறை எனும் அளவுக்குக் காலமெல்லாம் எந்தத் தீமையும் தீண்டாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Wealth of Children (Domestic Virtue), Kural 62 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The evils of the seven births shall not touch those who abtain children of a good disposition, free from vice. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மக்கட்பேறு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Wealth of Children' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மக்கட்பேறு' அதிகாரத்தில் வரும் திருக்குறள் 62 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 62 from Chapter 'The Wealth of Children'?",
+        "quiz_options_ta": [
+          "குற்றமற்றவரின் உறவை எப்போதும் மறக்கலாகாது: துன்பம் வந்த காலத்தில் உறுதுணையாய் உதவியவர்களின் நட்பை எப்போதும் விடாலாகாது .",
+          "கடல் சூழ்ந்த உலகத்தில் நன்மைக்கு உரியவர் யார் என்றொல் பிறனுக்கு உரிமையானவளின் தோளைப் பொருந்தாதவரே ஆவர்",
+          "பழி இல்லாத நல்ல பண்பு உடைய மக்களைப்பெற்றால் ஒருவனுக்கு ஏழு பிறவியிலும் தீவினைப் பயனாகிய துன்பங்கள் சென்று சேரா.",
+          "பலர் முன்னே பயனில்லாத சொற்களைச் சொல்லுதல், நண்பரிடத்தில் அறம் இல்லா செயல்களைச் செய்தலை விடத் தீமையானதாகும்."
+        ],
+        "quiz_options_en": [
+          "Forget not friendship of the pure Forsake not timely helpers sure",
+          "Good in storm bound earth is with those Who clasp not arms of another's spouse",
+          "No evil comes and no blemish; Noble sons bring all we wish",
+          "Vain talk before many is worse Than doing to friends deeds adverse"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (மக்கட்பேறு) பகுதியில் குறள் 62 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பழி இல்லாத நல்ல பண்பு உடைய மக்களைப்பெற்றால் ஒருவனுக்கு ஏழு பிறவியிலும் தீவினைப் பயனாகிய துன்பங்கள் சென்று சேரா. பரிமேலழகர் உரை நுட்பம்: எழுபிறப்பும் தீயவை தீண்டா - வினைவயத்தால் பிறக்கும் பிறப்பு ஏழின்கண்ணும் ஒருவனைத் துன்பங்கள் சென்றடையா; பழி பிறங்காப் பண்பு உடை மக்கட்பெறின் - பிறரால் பழிக்கப்படாத நற்குணங்களை உடைய புதல்வரைப் பெறுவான் ஆயின். ('அவன் தீவினை வளராது தேய்தற்குக் காரணம் ஆகிய...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 7: 'The Wealth of Children'), Kural 62 distills a foundational ethical insight: \"Who children gain, that none reproach, of virtuous worth, No evils touch them, through the sev'n-fold maze of birth\" Philosophically, The evils of the seven births shall not touch those who abtain children of a good disposition, free from vice.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "wealth",
+        "harmony",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 63,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தம்மக்களே தம்முடைய பொருள்கள் என்று அறிஞர் கூறுவர். மக்களாகிய அவர்தம் பொருள்கள் அவரவருடைய வினையின் பயனால் வந்து சேரும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Men will call their sons their wealth, because it flows to them through the deeds which they (sons) perform on their behalf.",
+        "story_title_ta": "மக்கட்பேறு — இனியா கற்ற பாடம்",
+        "story_title_en": "The Wealth of Children — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மக்கட்பேறு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 63 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிள்ளைகளைத் தம் செல்வம் என்று அறிந்தோர் கூறுவர். அப்பிள்ளைகள் உள்ளபடியே செல்வமாவது அவரவர் செய்யும் நற்செயல்களால் அமையும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'The Wealth of Children'. Grandpa shared Kural 63 and explained in simple words: Men will call their sons their wealth, because it flows to them through the deeds which they (sons) perform on their behalf. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தம் பொருள் என்பது தம்மக்களையேயாம் அம்மக்களின் பொருள்கள் அவரவர் செயல்களின் விளைவாக வரக்கூடியவை.",
+        "moral_en": "Moral: 'Man's children are his fortune,' say the wise; From each one's deeds his varied fortunes rise.",
+        "game_blank_word_ta": "தம்பொருள்",
+        "game_options_ta": [
+          "பெறுமவற்றுள்",
+          "யாமறிவது",
+          "இல்லை",
+          "தம்பொருள்"
+        ],
+        "game_options_en": [
+          "The world no higher bliss bestows Than children virtuous and wise",
+          "No evil comes and no blemish; Noble sons bring all we wish",
+          "The food is more than nectar sweet In which one's children hands insert",
+          "Children are one's wealth indeed Their wealth is measured by their deed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மக்கட்பேறு (இல்லறவியல்) பிரிவில் அமைந்த குறள் 63, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிள்ளைகளைத் தம் செல்வம் என்று அறிந்தோர் கூறுவர். அப்பிள்ளைகள் உள்ளபடியே செல்வமாவது அவரவர் செய்யும் நற்செயல்களால் அமையும். கலைஞர் உரை கூறுவது: தம் பொருள் என்பது தம்மக்களையேயாம் அம்மக்களின் பொருள்கள் அவரவர் செயல்களின் விளைவாக வரக்கூடியவை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Wealth of Children (Domestic Virtue), Kural 63 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Men will call their sons their wealth, because it flows to them through the deeds which they (sons) perform on their behalf. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மக்கட்பேறு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Wealth of Children' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மக்கட்பேறு' அதிகாரத்தில் வரும் திருக்குறள் 63 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 63 from Chapter 'The Wealth of Children'?",
+        "quiz_options_ta": [
+          "தம்முடைய துன்பத்தைப் போக்கி உதவியவரின் நட்பைப் பல்வேறு வகையான பிறவியிலும் மறவாமல் போற்றுவர் பெரியோர்.",
+          "ஒருவன் அறநெறியில் நிற்காமல் அறமில்லாதவைகளைச் செய்தாலும், பிறனுக்கு உரியவளின் பெண்மையை விரும்பாமல் வாழ்தல் நல்லது",
+          "ஒருவன் பயனில்லா பொருள்களைப் பற்றி விரிவாகச் சொல்லும் சொற்கள், அவன் அறம் இல்லாதவன் என்பதை அறிவிக்கும்.",
+          "தம்மக்களே தம்முடைய பொருள்கள் என்று அறிஞர் கூறுவர். மக்களாகிய அவர்தம் பொருள்கள் அவரவருடைய வினையின் பயனால் வந்து சேரும்."
+        ],
+        "quiz_options_en": [
+          "Through sevenfold births, in memory fares The willing friend who wiped one's tears",
+          "Sinners breaking virtue's behest Lust not for another's wife at least",
+          "The babbler's hasty lips proclaim That \\\"good-for-nothing\\\" is his name",
+          "Children are one's wealth indeed Their wealth is measured by their deed"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (மக்கட்பேறு) பகுதியில் குறள் 63 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம்மக்களே தம்முடைய பொருள்கள் என்று அறிஞர் கூறுவர். மக்களாகிய அவர்தம் பொருள்கள் அவரவருடைய வினையின் பயனால் வந்து சேரும். பரிமேலழகர் உரை நுட்பம்: தம் மக்கள் தம் பொருள் என்ப - தம் புதல்வரைத் தம் பொருள் என்று சொல்லுவர் அறிந்தோர்; அவர் பொருள் தம் தம் வினையான் வரும் - அப்புதல்வர் செய்த பொருள் தம்மை நோக்கி அவர் செய்யும் நல்வினையானே தம்பால் வரும் ஆதலான். ('தம்தம் வினை' என்புழித் தொக்கு நின்ற ஆறாம் வேற்றுமை...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 7: 'The Wealth of Children'), Kural 63 distills a foundational ethical insight: \"'Man's children are his fortune,' say the wise; From each one's deeds his varied fortunes rise\" Philosophically, Men will call their sons their wealth, because it flows to them through the deeds which they (sons) perform on their behalf.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "wealth",
+        "wisdom",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 64,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தம்முடைய மக்களின் சிறு கைகளால் அளாவப்பெற்ற உணவு, பெற்றோர்க்கு அமிழ்தத்தை விட மிக்க இனிமை உடையதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The rice in which the little hand of their children has dabbled will be far sweeter (to the parent) than ambrosia.",
+        "story_title_ta": "மக்கட்பேறு — முகில் கற்ற பாடம்",
+        "story_title_en": "The Wealth of Children — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மக்கட்பேறு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 64 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தம் பிள்ளைகளின் சிறு கையால் பிசையப்பட்ட கூழ், அமிழ்தைக் காட்டிலும் மிக இனிது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'The Wealth of Children'. Grandpa shared Kural 64 and explained in simple words: The rice in which the little hand of their children has dabbled will be far sweeter (to the parent) than ambrosia. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: சிறந்த பொருளை அமிழ்தம் எனக் குறிப்பிட்டாலுங்கூடத் தம்முடைய குழந்தைகளின் பிஞ்சுக்கரத்தால் அளாவப்பட்ட கூழ் அந்த அமிழ்தத்தைவிடச் சுவையானதாகிவிடுகிறது.",
+        "moral_en": "Moral: Than God's ambrosia sweeter far the food before men laid, In which the little hands of children of their own have play'd.",
+        "game_blank_word_ta": "சிறுகை",
+        "game_options_ta": [
+          "சிறுகை",
+          "பெறுமவற்றுள்",
+          "யாமறிவது",
+          "இல்லை"
+        ],
+        "game_options_en": [
+          "The food is more than nectar sweet In which one's children hands insert",
+          "The world no higher bliss bestows Than children virtuous and wise",
+          "No evil comes and no blemish; Noble sons bring all we wish",
+          "Children are one's wealth indeed Their wealth is measured by their deed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மக்கட்பேறு (இல்லறவியல்) பிரிவில் அமைந்த குறள் 64, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம் பிள்ளைகளின் சிறு கையால் பிசையப்பட்ட கூழ், அமிழ்தைக் காட்டிலும் மிக இனிது. கலைஞர் உரை கூறுவது: சிறந்த பொருளை அமிழ்தம் எனக் குறிப்பிட்டாலுங்கூடத் தம்முடைய குழந்தைகளின் பிஞ்சுக்கரத்தால் அளாவப்பட்ட கூழ் அந்த அமிழ்தத்தைவிடச் சுவையானதாகிவிடுகிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Wealth of Children (Domestic Virtue), Kural 64 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The rice in which the little hand of their children has dabbled will be far sweeter (to the parent) than ambrosia. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மக்கட்பேறு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Wealth of Children' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மக்கட்பேறு' அதிகாரத்தில் வரும் திருக்குறள் 64 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 64 from Chapter 'The Wealth of Children'?",
+        "quiz_options_ta": [
+          "தம்முடைய மக்களின் சிறு கைகளால் அளாவப்பெற்ற உணவு, பெற்றோர்க்கு அமிழ்தத்தை விட மிக்க இனிமை உடையதாகும்.",
+          "ஒருவரர்முன்செய்த நன்மையை மறப்பது அறம் அன்று; அவர் செய்த தீமையைச் செய்த அப்‌பொழுதே மறந்து விடுவது அறம்.",
+          "தன்னை வெட்டுவோரையும் விழாமல் தாங்குகின்ற நிலம் போல், தம்மை இகழ்வாரையும் பொறுப்பதே தலையான பண்பாகும்",
+          "பயனோடு பொருந்தாத பண்பு இல்லாத சொற்களைப் பலரிடத்தும் சொல்லுதல், அறத்தோடு பொருந்தாமல் நன்மையிலிருந்து நீங்கச் செய்யும்."
+        ],
+        "quiz_options_en": [
+          "The food is more than nectar sweet In which one's children hands insert",
+          "To forget good turns is not good Good it is over wrong not to brood",
+          "As earth bears up with diggers too To bear revilers is prime virtue",
+          "Vain words before an assembly Will make all gains and goodness flee"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (மக்கட்பேறு) பகுதியில் குறள் 64 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம்முடைய மக்களின் சிறு கைகளால் அளாவப்பெற்ற உணவு, பெற்றோர்க்கு அமிழ்தத்தை விட மிக்க இனிமை உடையதாகும். பரிமேலழகர் உரை நுட்பம்: அமிழ்தினும் ஆற்ற இனிதே - சுவையான அமிழ்தத்தினும் மிக இனிமையுடைத்து; தம் மக்கள் சிறுகை அளாவிய கூழ் - தம் மக்களது சிறுகையான் அளாவப்பட்ட சோறு. (சிறுகையான் அளாவலாவது, 'இட்டும் தொட்டும் கவ்வியும் துழந்தும் - நெய்யுடை அடிசில் மெய்பட விதிர்த்தல். புறநா.188).",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 7: 'The Wealth of Children'), Kural 64 distills a foundational ethical insight: \"Than God's ambrosia sweeter far the food before men laid, In which the little hands of children of their own have play'd\" Philosophically, The rice in which the little hand of their children has dabbled will be far sweeter (to the parent) than ambrosia.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "speech",
+        "wealth",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 65,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மக்களின் உடம்பைத் தொடுதல் உடம்பிற்கு இன்பம் தருவதாகும்: அம் மக்களின் மழலைச் சொற்களைக் கேட்டால் செவிக்கு இன்பம் தருவதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The touch of children gives pleasure to the body, and the hearing of their words, pleasure to the ear.",
+        "story_title_ta": "மக்கட்பேறு — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Wealth of Children — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மக்கட்பேறு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 65 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பெற்ற பிள்ளைகளின் உடலைத் தழுவுவது உடலுக்கு இன்பம். அவர்களின் பேச்சைக் கேட்பது காதிற்கு இன்பம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'The Wealth of Children'. Grandpa shared Kural 65 and explained in simple words: The touch of children gives pleasure to the body, and the hearing of their words, pleasure to the ear. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தம் குழந்தைகளைத் தழுவி மகிழ்வது உடலுக்கு இன்பத்தையும், அந்தக் குழந்தைகளின் மழலை மொழி கேட்பது செவிக்கு இன்பத்தையும் வழங்கும்.",
+        "moral_en": "Moral: To patent sweet the touch of children dear; Their voice is sweetest music to his ear.",
+        "game_blank_word_ta": "உடற்கின்பம்",
+        "game_options_ta": [
+          "பெறுமவற்றுள்",
+          "உடற்கின்பம்",
+          "யாமறிவது",
+          "இல்லை"
+        ],
+        "game_options_en": [
+          "The world no higher bliss bestows Than children virtuous and wise",
+          "Children's touch delights the body Sweet to ears are their words lovely",
+          "No evil comes and no blemish; Noble sons bring all we wish",
+          "Children are one's wealth indeed Their wealth is measured by their deed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மக்கட்பேறு (இல்லறவியல்) பிரிவில் அமைந்த குறள் 65, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெற்ற பிள்ளைகளின் உடலைத் தழுவுவது உடலுக்கு இன்பம். அவர்களின் பேச்சைக் கேட்பது காதிற்கு இன்பம். கலைஞர் உரை கூறுவது: தம் குழந்தைகளைத் தழுவி மகிழ்வது உடலுக்கு இன்பத்தையும், அந்தக் குழந்தைகளின் மழலை மொழி கேட்பது செவிக்கு இன்பத்தையும் வழங்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Wealth of Children (Domestic Virtue), Kural 65 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The touch of children gives pleasure to the body, and the hearing of their words, pleasure to the ear. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மக்கட்பேறு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Wealth of Children' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மக்கட்பேறு' அதிகாரத்தில் வரும் திருக்குறள் 65 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 65 from Chapter 'The Wealth of Children'?",
+        "quiz_options_ta": [
+          "முன் உதவி செய்தவர் பின்பு ‌கொன்றார் போன்ற துன்பத்தைச் செய்தாரானாலும், அவர் முன் செய்த ஒரு நன்மையை நினைத்தாலும் அந்தத் துன்பம் கெடும்.",
+          "மக்களின் உடம்பைத் தொடுதல் உடம்பிற்கு இன்பம் தருவதாகும்: அம் மக்களின் மழலைச் சொற்களைக் கேட்டால் செவிக்கு இன்பம் தருவதாகும்.",
+          "வரம்பு கடந்து பிறர் செய்யும் தீங்கை எப்போதும் பொறுக்க வேண்டும்; அத் தீங்கை நினைவிலும் கொள்ளாமல் மறந்து விடுதல் பொறுத்தலை விட நல்லது.",
+          "பயனில்லாத சொற்களை நல்ல பண்பு உடையவர் சொல்லுவாரானால், அவனுடைய மேம்பாடு அவர்க்குரிய மதிப்போடு நீங்கிவிடும்."
+        ],
+        "quiz_options_en": [
+          "Let deadly harms be forgotten While remembering one good-turn",
+          "Children's touch delights the body Sweet to ears are their words lovely",
+          "Forgive insults is a good habit Better it is to forget it",
+          "Glory and grace will go away When savants silly nonsense say"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (மக்கட்பேறு) பகுதியில் குறள் 65 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மக்களின் உடம்பைத் தொடுதல் உடம்பிற்கு இன்பம் தருவதாகும்: அம் மக்களின் மழலைச் சொற்களைக் கேட்டால் செவிக்கு இன்பம் தருவதாகும். பரிமேலழகர் உரை நுட்பம்: உடற்கு இன்பம் மக்கள்மெய் தீண்டல் - ஒருவன் மெய்க்கு இன்பமாவது மக்களது மெய்யைத் தீண்டுதல்; செவிக்கு இன்பம் அவர் சொல் கேட்டல் - செவிக்கு இன்பமாவது அவரது சொல்லைக் கேட்டல். ('மற்று' வினைமாற்று. மக்களது மழலைச் சொல்லே அன்றி அவர் கற்றறிவுடையராய்ச் சொல்லுஞ் சொல்லும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 7: 'The Wealth of Children'), Kural 65 distills a foundational ethical insight: \"To patent sweet the touch of children dear; Their voice is sweetest music to his ear\" Philosophically, The touch of children gives pleasure to the body, and the hearing of their words, pleasure to the ear.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "speech",
+        "wealth",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 66,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தம் மக்களின் மழலைச் சொல்லைக் கேட்டு அதன் இனிமையை நுகராதவரே குழலின் இசை இனியது யாழின் இசை இனியது என்று கூறுவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: \"The pipe is sweet, the lute is sweet,\" say those who have not heard the prattle of their own children.",
+        "story_title_ta": "மக்கட்பேறு — கவின் கற்ற பாடம்",
+        "story_title_en": "The Wealth of Children — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மக்கட்பேறு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 66 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பெற்ற பிள்ளைகள் பேசும் பொருளற்ற மழலைச் சொல்லைக் கேட்காதவர்தாம், குழலும் யாழும் கேட்க இனியவை என்பர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'The Wealth of Children'. Grandpa shared Kural 66 and explained in simple words: \"The pipe is sweet, the lute is sweet,\" say those who have not heard the prattle of their own children. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தங்கள் குழந்தைகளின் மழலைச் சொல்லைக் கேட்காதவர்கள்தான் குழலோசை, யாழோசை ஆகிய இரண்டும் இனிமையானவை என்று கூறுவார்கள்.",
+        "moral_en": "Moral: 'The pipe is sweet,' 'the lute is sweet,' by them't will be averred, Who music of their infants' lisping lips have never heard.",
+        "game_blank_word_ta": "குழல்இனிது",
+        "game_options_ta": [
+          "பெறுமவற்றுள்",
+          "யாமறிவது",
+          "குழல்இனிது",
+          "இல்லை"
+        ],
+        "game_options_en": [
+          "The world no higher bliss bestows Than children virtuous and wise",
+          "No evil comes and no blemish; Noble sons bring all we wish",
+          "The flute and lute are sweet they say Deaf to baby's babble's lay!",
+          "Children are one's wealth indeed Their wealth is measured by their deed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மக்கட்பேறு (இல்லறவியல்) பிரிவில் அமைந்த குறள் 66, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெற்ற பிள்ளைகள் பேசும் பொருளற்ற மழலைச் சொல்லைக் கேட்காதவர்தாம், குழலும் யாழும் கேட்க இனியவை என்பர். கலைஞர் உரை கூறுவது: தங்கள் குழந்தைகளின் மழலைச் சொல்லைக் கேட்காதவர்கள்தான் குழலோசை, யாழோசை ஆகிய இரண்டும் இனிமையானவை என்று கூறுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Wealth of Children (Domestic Virtue), Kural 66 speaks directly to teens navigating studies, friendships, leadership, and digital choices: \"The pipe is sweet, the lute is sweet,\" say those who have not heard the prattle of their own children. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மக்கட்பேறு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Wealth of Children' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மக்கட்பேறு' அதிகாரத்தில் வரும் திருக்குறள் 66 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 66 from Chapter 'The Wealth of Children'?",
+        "quiz_options_ta": [
+          "எந்த அறத்தை அழித்தவர்க்கும் தப்பிப் பிழைக்க வழி உண்டாகும்; ஒருவர் செய்த உதவியை மறந்து அழித்தவனுக்கு உய்வு இல்லை.",
+          "வறுமையுள் வறுமை, விருந்தினரைப் போற்றாமல் நீக்குதல்; வல்லமையுள் வல்லமை என்பது அறிவிலார் தீங்கு செய்தலைப் பொறுத்தலாகும்.",
+          "தம் மக்களின் மழலைச் சொல்லைக் கேட்டு அதன் இனிமையை நுகராதவரே குழலின் இசை இனியது யாழின் இசை இனியது என்று கூறுவர்.",
+          "பயனில்லாத சொற்களைப் பலமுறையும் சொல்லுகின்ற ஒருவனை மனிதன் என்று சொல்லக்கூடாது, மக்களுள் பதர் என்று சொல்லவேண்டும்."
+        ],
+        "quiz_options_en": [
+          "The virtue-killer may be saved Not benefit-killer who is damned",
+          "Neglect the guest is dearth of dearth To bear with fools is strength of strength",
+          "The flute and lute are sweet they say Deaf to baby's babble's lay!",
+          "Call him a human chaff who prides Himself in weightless idle words"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (மக்கட்பேறு) பகுதியில் குறள் 66 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம் மக்களின் மழலைச் சொல்லைக் கேட்டு அதன் இனிமையை நுகராதவரே குழலின் இசை இனியது யாழின் இசை இனியது என்று கூறுவர். பரிமேலழகர் உரை நுட்பம்: குழல் இனிது யாழ் இனிது என்ப - குழலிசை இனிது யாழிசை இனிது என்று சொல்லுவர்; தம் மக்கள் மழலைச் சொல் கேளாதவர் - தம் புதல்வருடைய குதலைச் சொற்களைக் கேளாதவர். ('குழல்', 'யாழ்' என்பன ஆகுபெயர். கேட்டவர் அவற்றினும் மழலைச்சொல் இனிது என்பர் என்பது குறிப்பெச்சம். இனிமை...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 7: 'The Wealth of Children'), Kural 66 distills a foundational ethical insight: \"'The pipe is sweet,' 'the lute is sweet,' by them't will be averred, Who music of their infants' lisping lips have never heard\" Philosophically, \"The pipe is sweet, the lute is sweet,\" say those who have not heard the prattle of their own children.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "speech",
+        "wealth",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 67,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தந்தை தன் மகனுக்குச் செய்யத்தக்க நல்லுதவி, கற்றவர் கூட்டத்தில் தன் மகன் முந்தியிருக்கும்படியாக அவனைக் கல்வியில் மேம்படச் செய்தலாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The benefit which a father should confer on his son is to give him precedence in the assembly of the learned.",
+        "story_title_ta": "மக்கட்பேறு — நிலா கற்ற பாடம்",
+        "story_title_en": "The Wealth of Children — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மக்கட்பேறு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 67 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தகப்பன் தன் பிள்ளைக்குச் செய்யும் நன்மை, கற்றவர் அவையில் முதன்மைப் பெறச் செய்வதே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Wealth of Children'. Grandpa shared Kural 67 and explained in simple words: The benefit which a father should confer on his son is to give him precedence in the assembly of the learned. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தந்தை தன் மக்களுக்குச் செய்யவேண்டிய நல்லுதவி அவர்களை அறிஞர்கள் அவையில் புகழுடன் விளங்குமாறு ஆக்குதலே ஆகும்.",
+        "moral_en": "Moral: Sire greatest boon on son confers, who makes him meet, In councils of the wise to fill the highest seat.",
+        "game_blank_word_ta": "முந்தி",
+        "game_options_ta": [
+          "பெறுமவற்றுள்",
+          "யாமறிவது",
+          "இல்லை",
+          "முந்தி"
+        ],
+        "game_options_en": [
+          "The world no higher bliss bestows Than children virtuous and wise",
+          "No evil comes and no blemish; Noble sons bring all we wish",
+          "Children are one's wealth indeed Their wealth is measured by their deed",
+          "A father's duty to his son is To seat him in front of the wise"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மக்கட்பேறு (இல்லறவியல்) பிரிவில் அமைந்த குறள் 67, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தகப்பன் தன் பிள்ளைக்குச் செய்யும் நன்மை, கற்றவர் அவையில் முதன்மைப் பெறச் செய்வதே. கலைஞர் உரை கூறுவது: தந்தை தன் மக்களுக்குச் செய்யவேண்டிய நல்லுதவி அவர்களை அறிஞர்கள் அவையில் புகழுடன் விளங்குமாறு ஆக்குதலே ஆகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Wealth of Children (Domestic Virtue), Kural 67 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The benefit which a father should confer on his son is to give him precedence in the assembly of the learned. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மக்கட்பேறு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Wealth of Children' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மக்கட்பேறு' அதிகாரத்தில் வரும் திருக்குறள் 67 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 67 from Chapter 'The Wealth of Children'?",
+        "quiz_options_ta": [
+          "அந்தந்தப் பகுதிதோறும் முறையோடு பொருந்தி ஒழுகப்பெற்றால், நடுவுநிலைமை என்று கூறப்படும் அறம் நன்மையாகும்.",
+          "நிறை உடையவனாக இருக்கும் தன்மை தன்னை விட்டு நீங்காமல் இருக்க வேண்டினால், பொறுமையைப் போற்றி ஒழுக வேண்டும்.",
+          "அறம் இல்லாதவற்றைச் சொன்னாலும் சொல்லலாம், சான்றோர் பயன் இல்லாத சொற்களைச் சொல்லாமல் இருத்தல் நன்மையாகும்.",
+          "தந்தை தன் மகனுக்குச் செய்யத்தக்க நல்லுதவி, கற்றவர் கூட்டத்தில் தன் மகன் முந்தியிருக்கும்படியாக அவனைக் கல்வியில் மேம்படச் செய்தலாகும்."
+        ],
+        "quiz_options_en": [
+          "Equity is supreme virtue It is to give each man his due",
+          "Practice of patient quality Retains intact itegrity",
+          "Let not men of worth vainly quack Even if they would roughly speak",
+          "A father's duty to his son is To seat him in front of the wise"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (மக்கட்பேறு) பகுதியில் குறள் 67 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தந்தை தன் மகனுக்குச் செய்யத்தக்க நல்லுதவி, கற்றவர் கூட்டத்தில் தன் மகன் முந்தியிருக்கும்படியாக அவனைக் கல்வியில் மேம்படச் செய்தலாகும். பரிமேலழகர் உரை நுட்பம்: தந்தை மகற்கு ஆற்றும் நன்றி - தந்தை புதல்வனுக்குச் செய்யும் நன்மையாவது;அவையத்து முந்தி இருப்பச் செயல் - கற்றார் அவையின்கண் அவரினும் மிக்கு இருக்குமாறு கல்வியுடையன் ஆக்குதல். (பொருளுடையான் ஆக்குதல் முதலாயின துன்பம் பயத்தலின் நன்மை ஆகா என்பது கருத்து. இதனான...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 7: 'The Wealth of Children'), Kural 67 distills a foundational ethical insight: \"Sire greatest boon on son confers, who makes him meet, In councils of the wise to fill the highest seat\" Philosophically, The benefit which a father should confer on his son is to give him precedence in the assembly of the learned.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "education",
+        "gratitude",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 68,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தம் மக்களின் அறிவுடைமை தமக்கு இன்பம் பயப்பதை விட உலகத்து உயிர்களுக்கேல்லாம் மிகுந்த இன்பம் பயப்பதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: That their children should possess knowledge is more pleasing to all men of this great earth than to themselves.",
+        "story_title_ta": "மக்கட்பேறு — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Wealth of Children — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மக்கட்பேறு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 68 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தம் பிள்ளைகள் அறிவு மிக்கவராக இருப்பது, தம்மைக் காட்டிலும், இப்பெரிய பூமியில் அழியாமல் தொடரும் உயிர்களுக்கு எல்லாம் இனிது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Wealth of Children'. Grandpa shared Kural 68 and explained in simple words: That their children should possess knowledge is more pleasing to all men of this great earth than to themselves. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பெற்றோரைக் காட்டிலும் பிள்ளைகள் அறிவிற் சிறந்து விளங்கினால், அது பெற்றோருக்கு மட்டுமேயன்றி உலகில் வாழும் அனைவருக்கும் அக மகிழ்ச்சி தருவதாகும்.",
+        "moral_en": "Moral: Their children's wisdom greater than their own confessed, Through the wide world is sweet to every human breast.",
+        "game_blank_word_ta": "கெல்லாம்",
+        "game_options_ta": [
+          "கெல்லாம்",
+          "பெறுமவற்றுள்",
+          "யாமறிவது",
+          "இல்லை"
+        ],
+        "game_options_en": [
+          "With joy the hearts of parents swell To see their children themselves excel",
+          "The world no higher bliss bestows Than children virtuous and wise",
+          "No evil comes and no blemish; Noble sons bring all we wish",
+          "Children are one's wealth indeed Their wealth is measured by their deed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மக்கட்பேறு (இல்லறவியல்) பிரிவில் அமைந்த குறள் 68, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம் பிள்ளைகள் அறிவு மிக்கவராக இருப்பது, தம்மைக் காட்டிலும், இப்பெரிய பூமியில் அழியாமல் தொடரும் உயிர்களுக்கு எல்லாம் இனிது. கலைஞர் உரை கூறுவது: பெற்றோரைக் காட்டிலும் பிள்ளைகள் அறிவிற் சிறந்து விளங்கினால், அது பெற்றோருக்கு மட்டுமேயன்றி உலகில் வாழும் அனைவருக்கும் அக மகிழ்ச்சி தருவதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Wealth of Children (Domestic Virtue), Kural 68 speaks directly to teens navigating studies, friendships, leadership, and digital choices: That their children should possess knowledge is more pleasing to all men of this great earth than to themselves. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மக்கட்பேறு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Wealth of Children' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மக்கட்பேறு' அதிகாரத்தில் வரும் திருக்குறள் 68 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 68 from Chapter 'The Wealth of Children'?",
+        "quiz_options_ta": [
+          "தம் மக்களின் அறிவுடைமை தமக்கு இன்பம் பயப்பதை விட உலகத்து உயிர்களுக்கேல்லாம் மிகுந்த இன்பம் பயப்பதாகும்.",
+          "நடுவுநிலைமை உடையவனின் செல்வவளம் அழிவில்லாமல் அவனுடைய வழியில் உள்ளார்க்கும் உறுதியான நன்மை தருவதாகும்.",
+          "( தீங்கு செய்தவரைப்) பொறுக்காமல் வருத்தினவரை உலகத்தார் ஒரு பொருளாக மதியார்; ஆனால், பொறுத்தவரைப் பொன்போல் மனத்துள் வைத்து மதிப்பர்.",
+          "அருமையான பயன்களை ஆராயவல்ல அறிவை உடைய அறிஞர், மிக்க பயன் இல்லாத சொற்களை ஒருபோதும் சொல்லமாட்டார்"
+        ],
+        "quiz_options_en": [
+          "With joy the hearts of parents swell To see their children themselves excel",
+          "Wealth of the man of equity Grows and lasts to posterity",
+          "Vengeance is not in esteem held Patience is praised as hidden gold",
+          "The wise who weigh the worth refrain From words that have no grain and brain"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (மக்கட்பேறு) பகுதியில் குறள் 68 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம் மக்களின் அறிவுடைமை தமக்கு இன்பம் பயப்பதை விட உலகத்து உயிர்களுக்கேல்லாம் மிகுந்த இன்பம் பயப்பதாகும். பரிமேலழகர் உரை நுட்பம்: தம் மக்கள் அறிவுடைமை - தம் மக்களது அறிவுடைமை; மாநிலத்து மன்உயிர்க்கு எல்லாம் தம்மின் இனிது - பெரிய நிலத்து மன்னா நின்ற உயிர்கட்கு எல்லாம் தம்மினும் இனிது ஆம். (ஈண்டு 'அறிவு' என்றது இயல்பாகிய அறிவோடு கூடிய கல்வியறிவினை. 'மன்னுயிர்' என்றது ஈண்டு அறிவுடையார...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 7: 'The Wealth of Children'), Kural 68 distills a foundational ethical insight: \"Their children's wisdom greater than their own confessed, Through the wide world is sweet to every human breast\" Philosophically, That their children should possess knowledge is more pleasing to all men of this great earth than to themselves.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "harmony",
+        "wisdom",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 69,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தன் மகனை நற்பண்பு நிறைந்தவன் என பிறர் சொல்லக் கேள்வியுற்ற தாய், தான் அவனை பெற்றக் காலத்தில் உற்ற மகிழ்ச்சியை விடப் பெரிதும் மகிழ்வாள்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The mother who hears her son called \"a wise man\" will rejoice more than she did at his birth.",
+        "story_title_ta": "மக்கட்பேறு — இனியா கற்ற பாடம்",
+        "story_title_en": "The Wealth of Children — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மக்கட்பேறு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 69 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தம் மகனைக் கல்வி ஒழுக்கங்களால் நிறைந்தவன் என்று அறிவுடையோர் கூற அதைக் கேட்ட தாய், அவனைப் பெற்ற பொழுதைக் காட்டிலும் மிகுதியாக மகிழ்வாள்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'The Wealth of Children'. Grandpa shared Kural 69 and explained in simple words: The mother who hears her son called \"a wise man\" will rejoice more than she did at his birth. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நல்ல மகனைப் பெற்றெடுத்தவள் என்று ஊரார் பாராட்டும் பொழுது அவனைப் பெற்றபொழுது அடைந்த மகிழ்ச்சியைவிட அதிக மகிழ்ச்சியை அந்தத் தாய் அடைவாள்.",
+        "moral_en": "Moral: When mother hears him named 'fulfill'd of wisdom's lore,'Far greater joy she feels, than when her son she bore.",
+        "game_blank_word_ta": "தன்மகனைச்",
+        "game_options_ta": [
+          "பெறுமவற்றுள்",
+          "தன்மகனைச்",
+          "யாமறிவது",
+          "இல்லை"
+        ],
+        "game_options_en": [
+          "The world no higher bliss bestows Than children virtuous and wise",
+          "The mother, hearing her son's merit Delights more than when she begot",
+          "No evil comes and no blemish; Noble sons bring all we wish",
+          "Children are one's wealth indeed Their wealth is measured by their deed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மக்கட்பேறு (இல்லறவியல்) பிரிவில் அமைந்த குறள் 69, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம் மகனைக் கல்வி ஒழுக்கங்களால் நிறைந்தவன் என்று அறிவுடையோர் கூற அதைக் கேட்ட தாய், அவனைப் பெற்ற பொழுதைக் காட்டிலும் மிகுதியாக மகிழ்வாள். கலைஞர் உரை கூறுவது: நல்ல மகனைப் பெற்றெடுத்தவள் என்று ஊரார் பாராட்டும் பொழுது அவனைப் பெற்றபொழுது அடைந்த மகிழ்ச்சியைவிட அதிக மகிழ்ச்சியை அந்தத் தாய் அடைவாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Wealth of Children (Domestic Virtue), Kural 69 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The mother who hears her son called \"a wise man\" will rejoice more than she did at his birth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மக்கட்பேறு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Wealth of Children' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மக்கட்பேறு' அதிகாரத்தில் வரும் திருக்குறள் 69 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 69 from Chapter 'The Wealth of Children'?",
+        "quiz_options_ta": [
+          "தீமை பயக்காமல் நன்மையே தருவதானாலும் நடுவு நி‌லைமை தவறி உண்டாகும் ஆக்கத்தை அப்போதே கைவிட வேண்டும்.",
+          "தன் மகனை நற்பண்பு நிறைந்தவன் என பிறர் சொல்லக் கேள்வியுற்ற தாய், தான் அவனை பெற்றக் காலத்தில் உற்ற மகிழ்ச்சியை விடப் பெரிதும் மகிழ்வாள்.",
+          "தீங்கு செய்தவரைப் பொறுக்காமல் வருத்தினவர்க்கு ஒருநாள் இன்பமே; பொறுத்தவர்க்கு உலகம் அழியும் வரைக்கும் புகழ் உண்டு.",
+          "மயக்கத்திலிருந்து தெளிந்த மாசற்ற அறிவை உடையவர், பயன் நீங்கிய சொற்களை ஒருகால் மறந்தும் சொல்லமாட்டார்."
+        ],
+        "quiz_options_en": [
+          "Though profitable, turn away From unjust gains without delay",
+          "The mother, hearing her son's merit Delights more than when she begot",
+          "Revenge accords but one day's joy Patience carries its praise for aye",
+          "The wise of spotless self-vision Slip not to silly words-mention"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (மக்கட்பேறு) பகுதியில் குறள் 69 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன் மகனை நற்பண்பு நிறைந்தவன் என பிறர் சொல்லக் கேள்வியுற்ற தாய், தான் அவனை பெற்றக் காலத்தில் உற்ற மகிழ்ச்சியை விடப் பெரிதும் மகிழ்வாள். பரிமேலழகர் உரை நுட்பம்: ஈன்ற பொழுதின் பெரிது உவக்கும் - தான் பெற்ற பொழுதை மகிழ்ச்சியினும் மிக மகிழும்; தன் மகனைச் சான்றோன் எனக் கேட்ட தாய் - தன் மகனைக் கல்வி கேள்விகளால் நிறைந்தான் என்று அறிவுடையோர் சொல்லக் கேட்ட தாய். (கவானின் கண்கண்ட பொது உவகையினும் சால்புடையான் எனக்கேட்ட சிறப்பு...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 7: 'The Wealth of Children'), Kural 69 distills a foundational ethical insight: \"When mother hears him named 'fulfill'd of wisdom's lore,'Far greater joy she feels, than when her son she bore\" Philosophically, The mother who hears her son called \"a wise man\" will rejoice more than she did at his birth.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "wealth",
+        "wisdom",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 70,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: மகன் தன் தந்தைக்குச் செய்யத் தக்க கைம்மாறு, இவன் தந்தை இவனை மகனாகப் பெற என்ன தவம் செய்தானோ என்று பிறர் புகழ்ந்து சொல்லும் சொல்லாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: (So to act) that it may be said \"by what great penance did his father beget him,\" is the benefit which a son should render to his father.",
+        "story_title_ta": "மக்கட்பேறு — முகில் கற்ற பாடம்",
+        "story_title_en": "The Wealth of Children — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மக்கட்பேறு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 70 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தன்னைக் கல்வி அறிவு உடையவனாய் ஆளாக்கிய தந்தைக்கு மகன் செய்யும் கைம்மாறு, பிள்ளையின் ஒழுக்கத்தையும் அறிவையும் கண்டவர், இப்பிள்ளையைப் பெறுவதற்கு இவன் தகப்பன் என்ன தவம் செய்தானோ என்று சொல்லும் சொல்லைப் பெற்றுத் தருவதே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'The Wealth of Children'. Grandpa shared Kural 70 and explained in simple words: (So to act) that it may be said \"by what great penance did his father beget him,\" is the benefit which a son should render to his father. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ``ஆகா! இவனைப் பிள்ளையாகப் பெற்றது இவன் தந்தை பெற்ற பெறும்பேறு'', என்று ஒரு மகன் புகழப்படுவதுதான், அவன் தன்னுடைய தந்தைக்குச் செய்யக்கூடிய கைம்மாறு எனப்படும்.",
+        "moral_en": "Moral: To sire, what best requital can by grateful child be done?To make men say, 'What merit gained the father such a son?'.",
+        "game_blank_word_ta": "என்நோற்றான்",
+        "game_options_ta": [
+          "பெறுமவற்றுள்",
+          "யாமறிவது",
+          "என்நோற்றான்",
+          "இல்லை"
+        ],
+        "game_options_en": [
+          "The world no higher bliss bestows Than children virtuous and wise",
+          "No evil comes and no blemish; Noble sons bring all we wish",
+          "The son to sire this word is debt \\\"What penance such a son begot!\\\"",
+          "Children are one's wealth indeed Their wealth is measured by their deed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மக்கட்பேறு (இல்லறவியல்) பிரிவில் அமைந்த குறள் 70, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்னைக் கல்வி அறிவு உடையவனாய் ஆளாக்கிய தந்தைக்கு மகன் செய்யும் கைம்மாறு, பிள்ளையின் ஒழுக்கத்தையும் அறிவையும் கண்டவர், இப்பிள்ளையைப் பெறுவதற்கு இவன் தகப்பன் என்ன தவம் செய்தானோ என்று சொல்லும் சொல்லைப் பெற்றுத் தருவதே. கலைஞர் உரை கூறுவது: ``ஆகா! இவனைப் பிள்ளையாகப் பெற்றது இவன் தந்தை பெற்ற பெறும்பேறு'', என்று ஒரு மகன் புகழப்படுவதுதான், அவன் தன்னுடைய தந்தைக்குச் செய்யக்கூடிய கைம்மாறு எனப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Wealth of Children (Domestic Virtue), Kural 70 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (So to act) that it may be said \"by what great penance did his father beget him,\" is the benefit which a son should render to his father. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மக்கட்பேறு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Wealth of Children' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மக்கட்பேறு' அதிகாரத்தில் வரும் திருக்குறள் 70 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 70 from Chapter 'The Wealth of Children'?",
+        "quiz_options_ta": [
+          "நடுவுநிலைமை உடையவர் நடுவுநிலை‌மை இல்லாதவர் என்பது அவரவர்க்குப் பின் எஞ்சி நிற்கும் புகழாலும் பழியாலும் காணப்படும்.",
+          "தகுதி அல்லாதவைகளைத் தனக்குப் பிறர் செய்த போதிலும், அதனால், அவர்க்கு வரும் துன்பத்திற்காக நொந்து, அறம் அல்லாதவைகளைச் செய்யாதிருத்தல் நல்லது.",
+          "மகன் தன் தந்தைக்குச் செய்யத் தக்க கைம்மாறு, இவன் தந்தை இவனை மகனாகப் பெற என்ன தவம் செய்தானோ என்று பிறர் புகழ்ந்து சொல்லும் சொல்லாகும்.",
+          "சொற்களில் பயன் உடைய சொற்களை மட்டுமே சொல்லவேண்டும், பயன் இல்லாதவைகளாகிய சொற்களை சொல்லவே கூடாது."
+        ],
+        "quiz_options_en": [
+          "The worthy and the unworthy Are seen in their posterity",
+          "Though others cause you wanton pain Grieve not; from unjust harm refrain",
+          "The son to sire this word is debt \\\"What penance such a son begot!\\\"",
+          "To purpose speak the fruitful word And never indulge in useless load"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (மக்கட்பேறு) பகுதியில் குறள் 70 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மகன் தன் தந்தைக்குச் செய்யத் தக்க கைம்மாறு, இவன் தந்தை இவனை மகனாகப் பெற என்ன தவம் செய்தானோ என்று பிறர் புகழ்ந்து சொல்லும் சொல்லாகும். பரிமேலழகர் உரை நுட்பம்: தந்தைக்கு மகன் ஆற்றும் உதவி - கல்வியுடையனாக்கிய தந்தைக்கு மகன் செய்யும் கைம்மாறாவது; இவன் தந்தை என்நோற்றான் கொல் எனும் சொல் - தன்னறிவும் ஒழுக்கமுங் கண்டார் இவன் தந்தை இவனைப் பெறுதற்கு என்ன தவஞ் செய்தான் கொல்லோ வென்று சொல்லுஞ் சொல்லை நிகழ்த்துதல். ('சொல...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 7: 'The Wealth of Children'), Kural 70 distills a foundational ethical insight: \"To sire, what best requital can by grateful child be done?To make men say, 'What merit gained the father such a son?'\" Philosophically, (So to act) that it may be said \"by what great penance did his father beget him,\" is the benefit which a son should render to his father.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "speech",
+        "gratitude",
+        "wealth"
+      ]
+    }
+  ]
+}

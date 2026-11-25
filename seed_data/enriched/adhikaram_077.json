@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 77,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.164298010+00:00",
+  "kurals": [
+    {
+      "kural_number": 761,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: எல்லா உறுப்புக்களும் நிறைந்ததாய் இடையூறுகளுக்கு அஞ்சாததாய் உள்ள வெற்றி தரும் படை, அரசனுடைய செல்வங்கள் எல்லாவற்றிலும் சிறந்ததாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The army which is complete in (its) parts and conquers without fear of wounds is the chief wealth of the king.",
+        "story_title_ta": "படை மாட்சி — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Excellence of an Army — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 761 பற்றிக் கதை சொன்னார். 'தரைப்படை, கப்பல் படை, விமானப்படை, காவல்துறை என நாட்டைக் காப்போர் பிரிவினால் நிறைந்து, போர்க்களத்தில் புண்பட அஞ்சாது, பகைவரை வெல்லும் படையே ஆட்சியாளரின் செல்வத்துள் எல்லாம் முதன்மையான செல்வம் ஆகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 77, 'The Excellence of an Army', centered on Kural 761: The army which is complete in (its) parts and conquers without fear of wounds is the chief wealth of the king. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எல்லா வகைகளும் நிறைந்ததாகவும், இடையூறுகளுக்கு அஞ்சாமல் போரிடக்கூடியதாகவும் உள்ள படை ஓர் அரசின் மிகச்சிறந்த செல்வமாகும்.",
+        "moral_en": "Moral: A conquering host, complete in all its limbs, that fears no wound, Mid treasures of the king is chiefest found.",
+        "game_blank_word_ta": "எல்லாம்",
+        "game_options_ta": [
+          "உலைவிடத்து",
+          "எல்லாம்",
+          "ஊறஞ்சா",
+          "வன்கண்"
+        ],
+        "game_options_en": [
+          "Through shots and wounds brave heroes hold Quailing not in fall, the field",
+          "The daring well-armed winning force Is king's treasure and main resource",
+          "Sea-like ratfoes roar What if? They perish at a cobra's whiff",
+          "The army guards its genial flame Not crushed, routed nor marred in name"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 761, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தரைப்படை, கப்பல் படை, விமானப்படை, காவல்துறை என நாட்டைக் காப்போர் பிரிவினால் நிறைந்து, போர்க்களத்தில் புண்பட அஞ்சாது, பகைவரை வெல்லும் படையே ஆட்சியாளரின் செல்வத்துள் எல்லாம் முதன்மையான செல்வம் ஆகும். கலைஞர் உரை கூறுவது: எல்லா வகைகளும் நிறைந்ததாகவும், இடையூறுகளுக்கு அஞ்சாமல் போரிடக்கூடியதாகவும் உள்ள படை ஓர் அரசின் மிகச்சிறந்த செல்வமாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Excellence of an Army (Ministers & Elements of State), Kural 761 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The army which is complete in (its) parts and conquers without fear of wounds is the chief wealth of the king. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Excellence of an Army' thoughtfully.",
+        "quiz_question_ta": "'படை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 761 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 761 from Chapter 'The Excellence of an Army'?",
+        "quiz_options_ta": [
+          "வருந்ததக்க செயல்களை நண்பர் செய்தால் அதற்குக் காரணம் அறியாமை என்றாவது மிகுந்த உரிமை என்றாவது உணரவேண்டும்.",
+          "எல்லா உறுப்புக்களும் நிறைந்ததாய் இடையூறுகளுக்கு அஞ்சாததாய் உள்ள வெற்றி தரும் படை, அரசனுடைய செல்வங்கள் எல்லாவற்றிலும் சிறந்ததாகும்.",
+          "தனக்கு நன்மையானவற்றை பிறர் ஏவினாலும் செய்யாதவனாய், தானாகவும் உணர்ந்து தெளியாதவனாய் உள்ளவனுடைய உயிர் போகுமளவும் ஒரு நோயாகும்.",
+          "மேற்கொண்ட செயலைச் செய்து முடிக்க வல்லவரின் ஆற்றலை இகழாதிருத்தல், காப்பவர் செய்து கொள்ளும் காவல் எல்லாவற்றிலும் சிறந்தது."
+        ],
+        "quiz_options_en": [
+          "Offence of friends feel it easy As folloy or close intimacy",
+          "The daring well-armed winning force Is king's treasure and main resource",
+          "He listens not nor himself knows Plague is his life until it goes",
+          "Not to spite the mighty ones Safest safeguard to living brings"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படை மாட்சி) பகுதியில் குறள் 761 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எல்லா உறுப்புக்களும் நிறைந்ததாய் இடையூறுகளுக்கு அஞ்சாததாய் உள்ள வெற்றி தரும் படை, அரசனுடைய செல்வங்கள் எல்லாவற்றிலும் சிறந்ததாகும். பரிமேலழகர் உரை நுட்பம்: உறுப்பு அமைந்து ஊறு அஞ்சா வெல்படை - யானை முதலிய நான்கு உறுப்பானும் நிறைந்து போரின்கண் ஊறுபடுதற்கு அஞ்சாது நின்று பகையை வெல்வதாய படை; வேந்தன் வெறுக்கையுள் எல்லாம் தலை - அரசன் செல்வங்கள் எல்லாவற்றுள்ளும் தலையாய செல்வம். (ஈண்டுப் படை என்றது, அந்நான்கன் தொகுதியை...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 77: 'The Excellence of an Army'), Kural 761 distills a foundational ethical insight: \"A conquering host, complete in all its limbs, that fears no wound, Mid treasures of the king is chiefest found\" Philosophically, The army which is complete in (its) parts and conquers without fear of wounds is the chief wealth of the king.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "wealth",
+        "family",
+        "courage"
+      ]
+    },
+    {
+      "kural_number": 762,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: போரில் அழிவு வந்தவிடத்தில் வலிமைக் குன்றினாலும், இடையூறுகளுக்கு அஞ்சாத அஞ்சாமை தொன்றுதொட்டுப் பெருமை உடையபடைக்கு அல்லாமல் முடியாது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Ancient army can alone have the valour which makes it stand by its king at the time of defeat, fearless of wounds and unmindful of its reduced strength.",
+        "story_title_ta": "படை மாட்சி — கவின் கற்ற பாடம்",
+        "story_title_en": "The Excellence of an Army — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 762 பற்றிக் கதை சொன்னார். 'தம் அரசுக்கு ஓர் அபாயம் வரும்போது, தாம் எண்ணிக்கையில் குறைவாக இருந்தாலும்‌, தமக்கு ஏற்படும் அழிவிற்கு அஞ்சாது நின்று போரிடும் வீரம், பரம்பரை பரம்பரையாக வாழும் சொந்த நாட்டு மக்களுக்கே அன்றி, மற்றவர்க்கு வருவது கடினம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 77, 'The Excellence of an Army', centered on Kural 762: Ancient army can alone have the valour which makes it stand by its king at the time of defeat, fearless of wounds and unmindful of its reduced strength. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: போரில் சேதமுற்று வலிமை குன்றியபோதும், எவ்வித இடையூறுகளுக்கும் அஞ்சாத நெஞ்சுறுதி, பழம்பெருமை கொண்ட படைக்கு அல்லாமல் வேறு எந்தப் படைக்கும் இருக்க முடியாது.",
+        "moral_en": "Moral: In adverse hour, to face undaunted might of conquering foe, Is bravery that only veteran host can show.",
+        "game_blank_word_ta": "அரிது",
+        "game_options_ta": [
+          "உறுப்பமைந்து",
+          "ஊறஞ்சா",
+          "அரிது",
+          "வெல்படை"
+        ],
+        "game_options_en": [
+          "The daring well-armed winning force Is king's treasure and main resource",
+          "Sea-like ratfoes roar What if? They perish at a cobra's whiff",
+          "Through shots and wounds brave heroes hold Quailing not in fall, the field",
+          "The army guards its genial flame Not crushed, routed nor marred in name"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 762, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம் அரசுக்கு ஓர் அபாயம் வரும்போது, தாம் எண்ணிக்கையில் குறைவாக இருந்தாலும்‌, தமக்கு ஏற்படும் அழிவிற்கு அஞ்சாது நின்று போரிடும் வீரம், பரம்பரை பரம்பரையாக வாழும் சொந்த நாட்டு மக்களுக்கே அன்றி, மற்றவர்க்கு வருவது கடினம். கலைஞர் உரை கூறுவது: போரில் சேதமுற்று வலிமை குன்றியபோதும், எவ்வித இடையூறுகளுக்கும் அஞ்சாத நெஞ்சுறுதி, பழம்பெருமை கொண்ட படைக்கு அல்லாமல் வேறு எந்தப் படைக்கும் இருக்க முடியாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Excellence of an Army (Ministers & Elements of State), Kural 762 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Ancient army can alone have the valour which makes it stand by its king at the time of defeat, fearless of wounds and unmindful of its reduced strength. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Excellence of an Army' thoughtfully.",
+        "quiz_question_ta": "'படை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 762 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 762 from Chapter 'The Excellence of an Army'?",
+        "quiz_options_ta": [
+          "உரிமை வாழ்வின் எல்லையில் நின்றவர், தமக்கு அழிவுநேர்ந்தவிடத்திலும் பழைமையாய் உறவு கொண்டு நின்றவரின் தொடர்பைக் கைவிட மாட்டார்.",
+          "அறிவு இல்லாதவனுக்கு அறிவிப்பவன் தானே அறிவில்லாதவனாய் நிற்பான், அறிவு இல்லாதவனோ தான் அறிந்த வகையால் அறிவுடையவனாகத் தோன்றுவான்.",
+          "போரில் அழிவு வந்தவிடத்தில் வலிமைக் குன்றினாலும், இடையூறுகளுக்கு அஞ்சாத அஞ்சாமை தொன்றுதொட்டுப் பெருமை உடையபடைக்கு அல்லாமல் முடியாது.",
+          "ஆற்றல் மிகுந்த பெரியாரை விரும்பி மதிக்காமல் நடந்தால், அது அப் பெரியாரால் நீங்காத துன்பத்தைத் தருவதாகும்."
+        ],
+        "quiz_options_en": [
+          "They forsake not but continue In friendship's bounds though loss ensue",
+          "Sans Self-sight in vain one opens Sight To the blind who bet their sight as right",
+          "Through shots and wounds brave heroes hold Quailing not in fall, the field",
+          "To walk unmindful of the great Shall great troubles ceaseless create"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படை மாட்சி) பகுதியில் குறள் 762 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: போரில் அழிவு வந்தவிடத்தில் வலிமைக் குன்றினாலும், இடையூறுகளுக்கு அஞ்சாத அஞ்சாமை தொன்றுதொட்டுப் பெருமை உடையபடைக்கு அல்லாமல் முடியாது. பரிமேலழகர் உரை நுட்பம்: தொலைவிடத்து உலைவிடத்து ஊறு அஞ்சா வன்கண் - தான் சிறியதாய வழியும் அரசற்குப் போரின்கண் உலைவுவந்தால் தன் மேலுறுவதற்கஞ்சாது நின்று தாங்கும் வன்கண்மை; தொல்படைக் கல்லால் அரிது - அவன் முன்னோரைத் தொடங்கிவரும் படைக்கல்லது உளதாகாது. (இழிவு சிறப்பு உம்மை விகாரத்தால...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 77: 'The Excellence of an Army'), Kural 762 distills a foundational ethical insight: \"In adverse hour, to face undaunted might of conquering foe, Is bravery that only veteran host can show\" Philosophically, Ancient army can alone have the valour which makes it stand by its king at the time of defeat, fearless of wounds and unmindful of its reduced strength.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "courage",
+        "love",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 763,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: எலியாகிய பகைக்கூடி கடல் போல் ஒலித்தாலும் என்ன தீங்கு ஏற்ப்படும், பாம்பு மூச்சு விட்ட அளவில் அவைக் கெட்டழியும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: What if (a host of) hostile rats roar like the sea ? They will perish at the mere breath of the cobra.",
+        "story_title_ta": "படை மாட்சி — நிலா கற்ற பாடம்",
+        "story_title_en": "The Excellence of an Army — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 763 பற்றிக் கதை சொன்னார். 'பாம்பென நிற்கும் சிறுபடை முன் கடல் என வீரர்கள் திரண்டிருந்தாலும், திரண்டவர்கள் மனத்தால் எலியாக இருந்தால் என்ன ஆகும்? பாம்பு மூச்சு விட்ட அளவிலேயே எலிப்படை அத்தனையும் அழியும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 77, 'The Excellence of an Army', centered on Kural 763: What if (a host of) hostile rats roar like the sea ? They will perish at the mere breath of the cobra. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எலிகள் கூடி கடல்போல் முழங்கிப், பகையைக் கக்கினாலும், நாகத்தின் மூச்சொலிக்கு முன்னால் நிற்க முடியுமா? அதுபோலத்தான் வீரன் வெகுண்டு எழுந்தால் வீணர்கள் வீழந்துபடுவார்கள்.",
+        "moral_en": "Moral: Though, like the sea, the angry mice send forth their battle cry; What then? The dragon breathes upon them, and they die.",
+        "game_blank_word_ta": "ஒலித்தக்கால்",
+        "game_options_ta": [
+          "உறுப்பமைந்து",
+          "ஊறஞ்சா",
+          "வெல்படை",
+          "ஒலித்தக்கால்"
+        ],
+        "game_options_en": [
+          "The daring well-armed winning force Is king's treasure and main resource",
+          "Through shots and wounds brave heroes hold Quailing not in fall, the field",
+          "The army guards its genial flame Not crushed, routed nor marred in name",
+          "Sea-like ratfoes roar What if? They perish at a cobra's whiff"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 763, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பாம்பென நிற்கும் சிறுபடை முன் கடல் என வீரர்கள் திரண்டிருந்தாலும், திரண்டவர்கள் மனத்தால் எலியாக இருந்தால் என்ன ஆகும்? பாம்பு மூச்சு விட்ட அளவிலேயே எலிப்படை அத்தனையும் அழியும். கலைஞர் உரை கூறுவது: எலிகள் கூடி கடல்போல் முழங்கிப், பகையைக் கக்கினாலும், நாகத்தின் மூச்சொலிக்கு முன்னால் நிற்க முடியுமா? அதுபோலத்தான் வீரன் வெகுண்டு எழுந்தால் வீணர்கள் வீழந்துபடுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Excellence of an Army (Ministers & Elements of State), Kural 763 speaks directly to teens navigating studies, friendships, leadership, and digital choices: What if (a host of) hostile rats roar like the sea ? They will perish at the mere breath of the cobra. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Excellence of an Army' thoughtfully.",
+        "quiz_question_ta": "'படை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 763 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 763 from Chapter 'The Excellence of an Army'?",
+        "quiz_options_ta": [
+          "அன்புடன் தொன்றுதொட்டு வந்த உறவை உடையவர், அழிவுதரும் செயல்களை பழகியவர் செய்த போதிலும் தம் அன்பு நீங்காமலிருப்பர்.",
+          "உலகத்தார் உண்டு என்று சொல்வதை இல்லை என்று கூறுகின்ற ஒருவன், உலகத்தில் காணப்படும் ஒரு பேயாகக் கருதி விலக்கப்படுவான்.",
+          "அழிக்க வேண்டுமானால் அவ்வாறே செய்து முடிக்க வல்லவரிடத்தில் தவறு செய்தலை, ஒருவன் கெட வேண்டுமானால் கேளாமலேச் செய்யலாம்.",
+          "எலியாகிய பகைக்கூடி கடல் போல் ஒலித்தாலும் என்ன தீங்கு ஏற்ப்படும், பாம்பு மூச்சு விட்ட அளவில் அவைக் கெட்டழியும்."
+        ],
+        "quiz_options_en": [
+          "Comrades established in firm love Though ruin comes waive not their vow",
+          "To people's \\\"Yes\\\" who proffer \\\"No\\\" Deemed as ghouls on earth they go",
+          "Heed not and do, if ruin you want Offence against the mighty great",
+          "Sea-like ratfoes roar What if? They perish at a cobra's whiff"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படை மாட்சி) பகுதியில் குறள் 763 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எலியாகிய பகைக்கூடி கடல் போல் ஒலித்தாலும் என்ன தீங்கு ஏற்ப்படும், பாம்பு மூச்சு விட்ட அளவில் அவைக் கெட்டழியும். பரிமேலழகர் உரை நுட்பம்: எலிப்பகை உவரி ஒலித்தக்கால் என்னாம் - எலியாய பகை திரண்டு கடல் போல ஒலித்தால் நாகத்திற்கு என்ன ஏதம் வரும்? நாகம் உயிர்ப்பக் கெடும் - அந்நாகம் உயிர்த்த துணையானே அது தானே கெடும். (உவமைச்சொல் தொக்கு நின்றது. இத்தொழில் உவமத்தால் திரட்சி பெற்றாம். வீரரல்லாதார் பலர...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 77: 'The Excellence of an Army'), Kural 763 distills a foundational ethical insight: \"Though, like the sea, the angry mice send forth their battle cry; What then? The dragon breathes upon them, and they die\" Philosophically, What if (a host of) hostile rats roar like the sea ? They will perish at the mere breath of the cobra.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "courage",
+        "speech",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 764,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: (போர் முனையில்) அழிவு இல்லாததாய்(பகைவருடைய) வஞ்சனைக்கு இரையாகாததாய், தொன்று தொட்டுவந்த அஞ்சாமை உடையதே படையாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: That indeed is an army which has stood firm of old without suffering destruction or deserting (to the enemy).",
+        "story_title_ta": "படை மாட்சி — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Excellence of an Army — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 764 பற்றிக் கதை சொன்னார். 'போரில் தோற்காமலும், பகைவரின் சதிக்குத் துணை போகாமலும், தொன்று தொட்டு வரும் வீரத்தை உடையதே படை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 77, 'The Excellence of an Army', centered on Kural 764: That indeed is an army which has stood firm of old without suffering destruction or deserting (to the enemy). Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எந்த நிலையிலும் அழியாததும், சூழ்ச்சிக்கு இரையாகததும், பரம்பரையாகவே பயமற்ற உறுதி உடையதும்தான் உண்மையான படை எனப்படும்.",
+        "moral_en": "Moral: That is a host, by no defeats, by no desertions shamed, For old hereditary courage famed.",
+        "game_blank_word_ta": "ணதுவே",
+        "game_options_ta": [
+          "ணதுவே",
+          "உறுப்பமைந்து",
+          "ஊறஞ்சா",
+          "வெல்படை"
+        ],
+        "game_options_en": [
+          "The army guards its genial flame Not crushed, routed nor marred in name",
+          "The daring well-armed winning force Is king's treasure and main resource",
+          "Through shots and wounds brave heroes hold Quailing not in fall, the field",
+          "Sea-like ratfoes roar What if? They perish at a cobra's whiff"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 764, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: போரில் தோற்காமலும், பகைவரின் சதிக்குத் துணை போகாமலும், தொன்று தொட்டு வரும் வீரத்தை உடையதே படை. கலைஞர் உரை கூறுவது: எந்த நிலையிலும் அழியாததும், சூழ்ச்சிக்கு இரையாகததும், பரம்பரையாகவே பயமற்ற உறுதி உடையதும்தான் உண்மையான படை எனப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Excellence of an Army (Ministers & Elements of State), Kural 764 speaks directly to teens navigating studies, friendships, leadership, and digital choices: That indeed is an army which has stood firm of old without suffering destruction or deserting (to the enemy). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Excellence of an Army' thoughtfully.",
+        "quiz_question_ta": "'படை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 764 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 764 from Chapter 'The Excellence of an Army'?",
+        "quiz_options_ta": [
+          "(போர் முனையில்) அழிவு இல்லாததாய்(பகைவருடைய) வஞ்சனைக்கு இரையாகாததாய், தொன்று தொட்டுவந்த அஞ்சாமை உடையதே படையாகும்.",
+          "பழகிய நண்பர் செய்த தவறு பற்றிப் பிறர் சொன்னாலும், கேளாமலிருக்கும் உரிமை வல்லவர்க்கு, அந்த நண்பர் தவறுசெய்வாரானால் அது பயனுள்ள நாளாகும்.",
+          "எல்லா உயிர்களுக்கும் மற்ற உயிர்களோடு பொருந்தாமல் வேறுபடுதலாகிய தீயப் பண்பை வளர்க்கும் நோய் இகழ் (மாறுபாடு) என்று சொல்வர் அறிஞர்.",
+          "ஆற்றல் உடையவர்க்கு ஆற்றல் இல்லாதவர் தீமை செய்தல், தானே வந்து அழிக்க வல்ல எமனைக் கைகாட்டி அழைத்தாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "The army guards its genial flame Not crushed, routed nor marred in name",
+          "Fast friends who list not tales of ill Though wronged they say \\\"that day is well\\\"",
+          "Hatred is a plague that divides And rouses illwill on all sides",
+          "The weak who insult men of might Death with their own hands invite"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படை மாட்சி) பகுதியில் குறள் 764 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (போர் முனையில்) அழிவு இல்லாததாய்(பகைவருடைய) வஞ்சனைக்கு இரையாகாததாய், தொன்று தொட்டுவந்த அஞ்சாமை உடையதே படையாகும். பரிமேலழகர் உரை நுட்பம்: அழிவு இன்றி - போரின்கண் கெடுதல் இன்றி; அறை போகாதாகி - பகைவரால் கீழறுக்கப்படாததாய்: வழிவந்த வன்கணதுவே படை - தொன்று தொட்டு வந்த தறுகண்மையை உடையதே அரசனுக்குப் படையாவது. (அழிவின்மையான் மற மானங்கள் உடைமையும், அறை போகாமையான் அரசர்மாட்டு அன்புடைமையும் பெறப்பட்டன...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 77: 'The Excellence of an Army'), Kural 764 distills a foundational ethical insight: \"That is a host, by no defeats, by no desertions shamed, For old hereditary courage famed\" Philosophically, That indeed is an army which has stood firm of old without suffering destruction or deserting (to the enemy).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "courage",
+        "discipline",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 765,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: எமனே சினங்கொண்டு தன் மேல் எதிர்த்து வந்தாலும் ஒன்றாகத் திரண்டு எதிர்த்து நிற்க்கும் ஆற்றல் உடையதே படையாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: That indeed is an army which is capable of offering a united resistance, even if Yama advances against it with fury.",
+        "story_title_ta": "படை மாட்சி — இனியா கற்ற பாடம்",
+        "story_title_en": "The Excellence of an Army — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 765 பற்றிக் கதை சொன்னார். 'எமனே எதிர்த்து வந்தாலும், கூடி நின்று எதிர்த்துச் சண்டை இடும் ஆற்றலை உடையதே படை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 77, 'The Excellence of an Army', centered on Kural 765: That indeed is an army which is capable of offering a united resistance, even if Yama advances against it with fury. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உயிரைப் பறிக்கும் சாவு எதிர்கொண்டு வந்தாலும் அஞ்சாமல் ஒன்றுபட்டு எதிர்த்து நிற்கும் ஆற்றல் உடையதற்கே படை என்ற பெயர் பொருந்தும்.",
+        "moral_en": "Moral: That is a 'host' that joins its ranks, and mightily withstands, Though death with sudden wrath should fall upon its bands.",
+        "game_blank_word_ta": "கூற்றுடன்று",
+        "game_options_ta": [
+          "உறுப்பமைந்து",
+          "கூற்றுடன்று",
+          "ஊறஞ்சா",
+          "வெல்படை"
+        ],
+        "game_options_en": [
+          "The daring well-armed winning force Is king's treasure and main resource",
+          "The real army with rallied force Resists even Death-God fierce",
+          "Through shots and wounds brave heroes hold Quailing not in fall, the field",
+          "Sea-like ratfoes roar What if? They perish at a cobra's whiff"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 765, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எமனே எதிர்த்து வந்தாலும், கூடி நின்று எதிர்த்துச் சண்டை இடும் ஆற்றலை உடையதே படை. கலைஞர் உரை கூறுவது: உயிரைப் பறிக்கும் சாவு எதிர்கொண்டு வந்தாலும் அஞ்சாமல் ஒன்றுபட்டு எதிர்த்து நிற்கும் ஆற்றல் உடையதற்கே படை என்ற பெயர் பொருந்தும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Excellence of an Army (Ministers & Elements of State), Kural 765 speaks directly to teens navigating studies, friendships, leadership, and digital choices: That indeed is an army which is capable of offering a united resistance, even if Yama advances against it with fury. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Excellence of an Army' thoughtfully.",
+        "quiz_question_ta": "'படை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 765 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 765 from Chapter 'The Excellence of an Army'?",
+        "quiz_options_ta": [
+          "உரிமை கெடாமல் தொன்று தொட்டு வந்த உறவு உடையவரின் தொடர்பைக் கைவிடாதவரை உலகம் விரும்பிப் போற்றும்.",
+          "எமனே சினங்கொண்டு தன் மேல் எதிர்த்து வந்தாலும் ஒன்றாகத் திரண்டு எதிர்த்து நிற்க்கும் ஆற்றல் உடையதே படையாகும்.",
+          "ஒருவன் தன்னோடு பொருந்தாமல் வேறுபடுதலைக் கருதி அன்பில்லாதவற்றைச் செய்தாலும் தான் இகழ் கொண்டு அவர்க்கு துன்பம் செய்யாதிருத்தல் சிறந்ததாகும்.",
+          "மிக்க வலிமை உள்ள அரசனால் வெகுளப்பட்டவர், அவனிடமிருந்து தப்புவதற்க்காக எங்கே சென்றாலும் எங்கும் வாழ முடியாது."
+        ],
+        "quiz_options_en": [
+          "To love such friends the world desires Whose friendship has unbroken ties",
+          "The real army with rallied force Resists even Death-God fierce",
+          "Rouse not hatred and confusion Though foes provoke disunion",
+          "Where can they go and thrive where Pursued by powerful monarch's ire?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படை மாட்சி) பகுதியில் குறள் 765 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எமனே சினங்கொண்டு தன் மேல் எதிர்த்து வந்தாலும் ஒன்றாகத் திரண்டு எதிர்த்து நிற்க்கும் ஆற்றல் உடையதே படையாகும். பரிமேலழகர் உரை நுட்பம்: கூற்று உடன்று மேல் வரினும் - கூற்றுவன் தானே வெகுண்டு மேல் வந்தாலும்; கூடி எதிர்நிற்கும ஆற்றலதுவே படை- நெஞ்சு ஒத்து எதிர்நின்று தாங்கும் ஆற்றலையுடையதே படையாவது. ('மருந்தில் கூற்று' ஆகலின், (புற.நா.3) உம்மை சிறப்பும்மை. மிகப்பலர் நெஞ்சொத்தற்குக் காரணம...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 77: 'The Excellence of an Army'), Kural 765 distills a foundational ethical insight: \"That is a 'host' that joins its ranks, and mightily withstands, Though death with sudden wrath should fall upon its bands\" Philosophically, That indeed is an army which is capable of offering a united resistance, even if Yama advances against it with fury.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "truth",
+        "wisdom",
+        "courage"
+      ]
+    },
+    {
+      "kural_number": 766,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: வீரம், மானம், சிறந்த வழியில் நடக்கும் நடக்கை, தலைவரால் நம்பித் தெளியப்படுதல் ஆகிய இந்த நான்கு பண்புகளும் படைக்கு சிறந்தவையாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Valour, honour, following in the excellent-footsteps (of its predecessors) and trust-worthiness; these four alone constitute the safeguard of an army.",
+        "story_title_ta": "படை மாட்சி — முகில் கற்ற பாடம்",
+        "story_title_en": "The Excellence of an Army — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 766 பற்றிக் கதை சொன்னார். 'வீரம், மானம், நல்ல வழியில் நடத்தல், அரசி்ன நம்பிக்கைக்கு உரியது ஆதல் எனும் நான்கும் படைக்கு காவல் அரண்களாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 77, 'The Excellence of an Army', centered on Kural 766: Valour, honour, following in the excellent-footsteps (of its predecessors) and trust-worthiness; these four alone constitute the safeguard of an army. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வீரம், மான உணர்வு, முன்னோர் சென்ற வழி நடத்தல், தலைவனின் நம்பிக்கையைப் பெறுதல் ஆகிய நான்கும் படையைப் பாதுகாக்கும் பண்புகளாகும்.",
+        "moral_en": "Moral: Valour with honour, sure advance in glory's path, with confidence; To warlike host these four are sure defence.",
+        "game_blank_word_ta": "தேற்றம்",
+        "game_options_ta": [
+          "உறுப்பமைந்து",
+          "ஊறஞ்சா",
+          "தேற்றம்",
+          "வெல்படை"
+        ],
+        "game_options_en": [
+          "The daring well-armed winning force Is king's treasure and main resource",
+          "Through shots and wounds brave heroes hold Quailing not in fall, the field",
+          "Manly army has merits four:- Stately-march, faith, honour, valour",
+          "Sea-like ratfoes roar What if? They perish at a cobra's whiff"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 766, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வீரம், மானம், நல்ல வழியில் நடத்தல், அரசி்ன நம்பிக்கைக்கு உரியது ஆதல் எனும் நான்கும் படைக்கு காவல் அரண்களாகும். கலைஞர் உரை கூறுவது: வீரம், மான உணர்வு, முன்னோர் சென்ற வழி நடத்தல், தலைவனின் நம்பிக்கையைப் பெறுதல் ஆகிய நான்கும் படையைப் பாதுகாக்கும் பண்புகளாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Excellence of an Army (Ministers & Elements of State), Kural 766 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Valour, honour, following in the excellent-footsteps (of its predecessors) and trust-worthiness; these four alone constitute the safeguard of an army. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Excellence of an Army' thoughtfully.",
+        "quiz_question_ta": "'படை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 766 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 766 from Chapter 'The Excellence of an Army'?",
+        "quiz_options_ta": [
+          "(தவறு செய்த போதிலும்)பழகிய நண்பரிடத்தில் தம் உரிமை பண்பிலிருந்து மாறாதவர், தம் பகைவராலும் விரும்பப்படுதற்குறிய சிறப்பை அடைவர்",
+          "ஒருவன் இகல் என்று சொல்லப்படும் துன்ப நோயை நீக்கி விட்டால் அஃது அவனுக்கு அழிவில்லாத நிலையான புகழைக் கொடுக்கும்.",
+          "வீரம், மானம், சிறந்த வழியில் நடக்கும் நடக்கை, தலைவரால் நம்பித் தெளியப்படுதல் ஆகிய இந்த நான்கு பண்புகளும் படைக்கு சிறந்தவையாகும்.",
+          "தீயால் சுடப்பட்டாலும் ஒருகால் உயிர் பிழைத்து வாழ முடியும், ஆற்றல் மிகுந்த பெரியவரிடத்தில் தவறு செய்து நடப்பவர் தப்பி பிழைக்க முடியாது."
+        ],
+        "quiz_options_en": [
+          "Even foes love for better ends Those who leave not long-standing friends",
+          "Shun the plague of enmity And win everlasting glory",
+          "Manly army has merits four:- Stately-march, faith, honour, valour",
+          "One can escape in fire caught The great who offends escapes not"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படை மாட்சி) பகுதியில் குறள் 766 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வீரம், மானம், சிறந்த வழியில் நடக்கும் நடக்கை, தலைவரால் நம்பித் தெளியப்படுதல் ஆகிய இந்த நான்கு பண்புகளும் படைக்கு சிறந்தவையாகும். பரிமேலழகர் உரை நுட்பம்: மறம் மானம் மாண்ட வழிச்செலவு தேற்றம் என நான்கே- தறுகண்மையும், மானமும், முன் வீரராயினார் சென்ற நன்னெறிக்கண் சேறலும், அரசனால் தேறப்படுதலும் என இந்நான்கு குணமுமே; படைக்கு ஏமம் - படைக்கு அரணாவது. (இவற்றுள் முறையே பகைவரைக் கடிதிற்கொன்று நிற்றலும், அரசனுக்குத...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 77: 'The Excellence of an Army'), Kural 766 distills a foundational ethical insight: \"Valour with honour, sure advance in glory's path, with confidence; To warlike host these four are sure defence\" Philosophically, Valour, honour, following in the excellent-footsteps (of its predecessors) and trust-worthiness; these four alone constitute the safeguard of an army.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "courage",
+        "discipline",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 767,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தன் மேல் எதிர்த்து வந்த பகைவரின் போரைத்தாங்கி, வெல்லும் தன்மை அறிந்து அவனுடைய தூசிப்படையை எதிர்த்துச் செல்லவல்லதே படையாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: That is an army which knowing the art of warding off an impending struggle, can bear against the dust-van (of a hostile force).",
+        "story_title_ta": "படை மாட்சி — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Excellence of an Army — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 767 பற்றிக் கதை சொன்னார். 'தன்மீது வந்த பகைவரின் போரைத் தடுக்கும் முறையை அறிந்து அவர்களில் முதலாவதாக வந்து சண்டையிடும் காலாட்படை ( தூசிப்படை, தேர்ப்படை, கொடிப்படை, முன்னணிச் சேனை என்றும் பெயர்) தன்மீது வராமல் தடுப்பதே படை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 77, 'The Excellence of an Army', centered on Kural 767: That is an army which knowing the art of warding off an impending struggle, can bear against the dust-van (of a hostile force). Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: களத்தில், முதலில் எதிர்கொள்ளும் போரைத் தாங்கித் தகர்க்கும் ஆற்றலை அறிந்திருப்பின், அதுவே வெற்றி மாலை தாங்கிச் செல்லக்கூடிய சிறந்த படையாகும்.",
+        "moral_en": "Moral: A valiant army bears the onslaught, onward goes, Well taught with marshalled ranks to meet their coming foes.",
+        "game_blank_word_ta": "அறிந்து",
+        "game_options_ta": [
+          "உறுப்பமைந்து",
+          "ஊறஞ்சா",
+          "வெல்படை",
+          "அறிந்து"
+        ],
+        "game_options_en": [
+          "The daring well-armed winning force Is king's treasure and main resource",
+          "Through shots and wounds brave heroes hold Quailing not in fall, the field",
+          "Sea-like ratfoes roar What if? They perish at a cobra's whiff",
+          "Army sets on to face to foes Knowing how the trend of war goes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 767, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்மீது வந்த பகைவரின் போரைத் தடுக்கும் முறையை அறிந்து அவர்களில் முதலாவதாக வந்து சண்டையிடும் காலாட்படை ( தூசிப்படை, தேர்ப்படை, கொடிப்படை, முன்னணிச் சேனை என்றும் பெயர்) தன்மீது வராமல் தடுப்பதே படை. கலைஞர் உரை கூறுவது: களத்தில், முதலில் எதிர்கொள்ளும் போரைத் தாங்கித் தகர்க்கும் ஆற்றலை அறிந்திருப்பின், அதுவே வெற்றி மாலை தாங்கிச் செல்லக்கூடிய சிறந்த படையாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Excellence of an Army (Ministers & Elements of State), Kural 767 speaks directly to teens navigating studies, friendships, leadership, and digital choices: That is an army which knowing the art of warding off an impending struggle, can bear against the dust-van (of a hostile force). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Excellence of an Army' thoughtfully.",
+        "quiz_question_ta": "'படை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 767 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 767 from Chapter 'The Excellence of an Army'?",
+        "quiz_options_ta": [
+          "அன்பு மிகுதியால் பருகுவார் போல் தோன்றினாலும் நற்பண்பு இல்லாதவரின் நட்பு, வளர்ந்து பெருகுவதை விடத் தேய்ந்து குறைவது நல்லது.",
+          "இகல் என்று சொல்லப்படும் துன்பங்களில் கொடிய துன்பம் கெட்டுவிட்டால், அஃது அவனுக்கு இன்பங்களில் சிறந்த இன்பத்தை கொடுக்கும்.",
+          "தகுதியால் சிறப்புற்ற பெரியவர் ஒருவனை வெகுண்டால் அவனுக்கு பலவகையால் மாண்புற்ற வாழ்க்கையும் பெரும் பொருளும் இருந்தும் என்ன பயன்.",
+          "தன் மேல் எதிர்த்து வந்த பகைவரின் போரைத்தாங்கி, வெல்லும் தன்மை அறிந்து அவனுடைய தூசிப்படையை எதிர்த்துச் செல்லவல்லதே படையாகும்."
+        ],
+        "quiz_options_en": [
+          "Swallowing love of soulless men Had better wane than wax anon",
+          "Hate-the woe of woes destroy; Then joy of joys you can enjoy",
+          "If holy mighty sages frown Stately gifts and stores who can own?",
+          "Army sets on to face to foes Knowing how the trend of war goes"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படை மாட்சி) பகுதியில் குறள் 767 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன் மேல் எதிர்த்து வந்த பகைவரின் போரைத்தாங்கி, வெல்லும் தன்மை அறிந்து அவனுடைய தூசிப்படையை எதிர்த்துச் செல்லவல்லதே படையாகும். பரிமேலழகர் உரை நுட்பம்: தலை வந்த போர் தாங்கும் தன்மை அறிந்து - மாற்றாரால் வகுக்கப்பட்டுத் தன்மேல் வந்த படையின் போரைவிலக்கும் வகுப்பு அறிந்து வகுத்துக் கொண்டு; தார் தாங்கிச் செல்வது தானை - அவர் தூசியைத் தன்மேல் வாராமல் தடுத்துத்தான் அதன்மேற்செல்வதே படையாவது. (படை வகுப்பாவது: வியூகம...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 77: 'The Excellence of an Army'), Kural 767 distills a foundational ethical insight: \"A valiant army bears the onslaught, onward goes, Well taught with marshalled ranks to meet their coming foes\" Philosophically, That is an army which knowing the art of warding off an impending struggle, can bear against the dust-van (of a hostile force).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "courage",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 768,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: போர் செய்யும் வீரமும்( எதிர்ப்பைத் தாங்கும்) ஆற்றலுமும் இல்லையானால் படைத்தன்னுடைய அணிவகுப்பால் பெருமை பெறும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Though destitute of courage to fight and strength (to endure), an army may yet gain renown by the splendour of its appearance.",
+        "story_title_ta": "படை மாட்சி — கவின் கற்ற பாடம்",
+        "story_title_en": "The Excellence of an Army — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 768 பற்றிக் கதை சொன்னார். 'பகைவர் மேல் சென்று வெல்லும் வீரமும், பகைவர் வந்தால் தடுக்கும் பயிற்சியும் ஆற்றலும் படைக்கு இல்லை என்றாலும், அது தன் கட்டுப்பாடான அணிவகுப்பின் காட்சி அழகால் பெருமை பெறும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 77, 'The Excellence of an Army', centered on Kural 768: Though destitute of courage to fight and strength (to endure), an army may yet gain renown by the splendour of its appearance. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: போர் புரியும் வீரம், எதிர்த்து நிற்கும் வல்லமை ஆகிய இரண்டையும் விட ஒரு படையின் அணிவகுப்புத் தோற்றம் சிறப்புடையதாக அமைய வேண்டும்.",
+        "moral_en": "Moral: Though not in war offensive or defensive skilled; An army gains applause when well equipped and drilled.",
+        "game_blank_word_ta": "படைத்தகையால்",
+        "game_options_ta": [
+          "படைத்தகையால்",
+          "உறுப்பமைந்து",
+          "ஊறஞ்சா",
+          "வெல்படை"
+        ],
+        "game_options_en": [
+          "Army gains force by grand array Lacking in stay or dash in fray",
+          "The daring well-armed winning force Is king's treasure and main resource",
+          "Through shots and wounds brave heroes hold Quailing not in fall, the field",
+          "Sea-like ratfoes roar What if? They perish at a cobra's whiff"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 768, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகைவர் மேல் சென்று வெல்லும் வீரமும், பகைவர் வந்தால் தடுக்கும் பயிற்சியும் ஆற்றலும் படைக்கு இல்லை என்றாலும், அது தன் கட்டுப்பாடான அணிவகுப்பின் காட்சி அழகால் பெருமை பெறும். கலைஞர் உரை கூறுவது: போர் புரியும் வீரம், எதிர்த்து நிற்கும் வல்லமை ஆகிய இரண்டையும் விட ஒரு படையின் அணிவகுப்புத் தோற்றம் சிறப்புடையதாக அமைய வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Excellence of an Army (Ministers & Elements of State), Kural 768 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though destitute of courage to fight and strength (to endure), an army may yet gain renown by the splendour of its appearance. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Excellence of an Army' thoughtfully.",
+        "quiz_question_ta": "'படை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 768 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 768 from Chapter 'The Excellence of an Army'?",
+        "quiz_options_ta": [
+          "போர் செய்யும் வீரமும்( எதிர்ப்பைத் தாங்கும்) ஆற்றலுமும் இல்லையானால் படைத்தன்னுடைய அணிவகுப்பால் பெருமை பெறும்.",
+          "தமக்கு பயன் உள்ள போது நட்பு செய்து பயன் இல்லாத போது நீங்கிவிடும் தகுதியில்லாதவரின் நட்பைப் பெற்றாலும் என்ன பயன், இழந்தாலும் என்ன பயன்.",
+          "இகலை எதிர்த்து நிற்காமல் அதன் எதிரே சாய்ந்து நடக்க வல்லவரை வெல்லக் கருதுகின்ற ஆற்றல் உடையவர் யார்.",
+          "மலை போன்ற பெரியவர் கெட நினைத்தால். உலகில் அழியாமல் நிலைபெற்றாற் போல் உள்ளவரும் தம் குடியோடு அழிவர்."
+        ],
+        "quiz_options_en": [
+          "Army gains force by grand array Lacking in stay or dash in fray",
+          "Who fawn in wealth and fail in dearth Gain or lose; such friends have no worth",
+          "Who can overcome them in glory That are free from enmity?",
+          "When hill-like sages are held small The firm on earth lose home and all"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படை மாட்சி) பகுதியில் குறள் 768 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: போர் செய்யும் வீரமும்( எதிர்ப்பைத் தாங்கும்) ஆற்றலுமும் இல்லையானால் படைத்தன்னுடைய அணிவகுப்பால் பெருமை பெறும். பரிமேலழகர் உரை நுட்பம்: தானை - தானை; அடல் தகையும் ஆற்றல் இல் எனினும் - பகைமேல் தான் சென்று அடும் தறுகண்மையும், அது தன்மேல் வந்தால் பொறுக்கும் ஆற்றலும் இல்லையாயினும்; படைத்தகையால் பாடு பெறும் - தன்தோற்றப்பொலிவானே பெருமை எய்தும். ('இல்லெனினும்' எனவே, அவற்றது இன்றியமையாமை பெறப்பட்டது...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 77: 'The Excellence of an Army'), Kural 768 distills a foundational ethical insight: \"Though not in war offensive or defensive skilled; An army gains applause when well equipped and drilled\" Philosophically, Though destitute of courage to fight and strength (to endure), an army may yet gain renown by the splendour of its appearance.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "courage",
+        "family",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 769,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தன் அளவு சிறிதாகத் தேய்தலும், தலைவரிடம் நீங்காத வெறுப்பும் வறுமையும் இல்லாதிருக்குமானால் அத்தகைய படை வெற்றி பெறும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: An army can triumph (over its foes) if it is free from diminution; irremediable aversion and poverty.",
+        "story_title_ta": "படை மாட்சி — நிலா கற்ற பாடம்",
+        "story_title_en": "The Excellence of an Army — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 769 பற்றிக் கதை சொன்னார். 'எண்ணிக்கையில் சிறுமை, அரசி்ன் மீது மனத்தை விட்டு விலகாத வெறுப்பு, வறுமை இவை எல்லாம் இல்லை என்றால் அந்தப் படை வெற்றி பெறும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 77, 'The Excellence of an Army', centered on Kural 769: An army can triumph (over its foes) if it is free from diminution; irremediable aversion and poverty. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சிறுத்துவிடாமலும், தலைவனை வெறுத்து விடாமலும், பயன்படாத நிலை இல்லாமலும் உள்ள படைதான் வெற்றி பெற முடியும்.",
+        "moral_en": "Moral: Where weakness, clinging fear and povertyAre not, the host will gain the victory.",
+        "game_blank_word_ta": "செல்லாத்",
+        "game_options_ta": [
+          "உறுப்பமைந்து",
+          "செல்லாத்",
+          "ஊறஞ்சா",
+          "வெல்படை"
+        ],
+        "game_options_en": [
+          "The daring well-armed winning force Is king's treasure and main resource",
+          "Army shall win if it is free From weakness, aversion, poverty",
+          "Through shots and wounds brave heroes hold Quailing not in fall, the field",
+          "Sea-like ratfoes roar What if? They perish at a cobra's whiff"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 769, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எண்ணிக்கையில் சிறுமை, அரசி்ன் மீது மனத்தை விட்டு விலகாத வெறுப்பு, வறுமை இவை எல்லாம் இல்லை என்றால் அந்தப் படை வெற்றி பெறும். கலைஞர் உரை கூறுவது: சிறுத்துவிடாமலும், தலைவனை வெறுத்து விடாமலும், பயன்படாத நிலை இல்லாமலும் உள்ள படைதான் வெற்றி பெற முடியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Excellence of an Army (Ministers & Elements of State), Kural 769 speaks directly to teens navigating studies, friendships, leadership, and digital choices: An army can triumph (over its foes) if it is free from diminution; irremediable aversion and poverty. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Excellence of an Army' thoughtfully.",
+        "quiz_question_ta": "'படை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 769 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 769 from Chapter 'The Excellence of an Army'?",
+        "quiz_options_ta": [
+          "கிடைக்கும் பயனை அளந்து பார்க்கும் நண்பரும், அன்பைக் கொள்ளாமல் பெறுகின்ற பொருளைக் கொள்ளும் விலை மகளிரும், கள்வரும் ஒரு நிகரானவர்.",
+          "தன் அளவு சிறிதாகத் தேய்தலும், தலைவரிடம் நீங்காத வெறுப்பும் வறுமையும் இல்லாதிருக்குமானால் அத்தகைய படை வெற்றி பெறும்.",
+          "இகல் கொள்வதால் வெல்லுதல் இனியது என்று கருதுகின்றவனுடைய வாழ்க்கை தவறிபோதலும் அழிதலும் விரைவவில் உள்ளனவாம்.",
+          "உயர்ந்த கொள்கையுடைய பெரியவர் சீறினால் நாட்டை ஆளும் அரசனும் இடை நடுவே முறிந்து அரசு இழந்து கெடுவான்."
+        ],
+        "quiz_options_en": [
+          "Cunning friends who calculate Are like thieves and whores wicked",
+          "Army shall win if it is free From weakness, aversion, poverty",
+          "His fall and ruin are quite near Who holds enmity sweet and dear",
+          "Before the holy sage's rage Ev'n Indra's empire meets damage"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படை மாட்சி) பகுதியில் குறள் 769 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன் அளவு சிறிதாகத் தேய்தலும், தலைவரிடம் நீங்காத வெறுப்பும் வறுமையும் இல்லாதிருக்குமானால் அத்தகைய படை வெற்றி பெறும். பரிமேலழகர் உரை நுட்பம்: சிறுமையும் செல்லாத் துனியும் வறுமையும் இல்லாயின் - தான் தேய்ந்து சிறிதாகலும், மனத்தினின்று நீங்காத வெறுப்பும், நல்குரவும் தனக்கு இல்லையாயின்: படைவெல்லும் - படை பகையை வெல்லும். (விட்டுப்போதலும் நின்றது நல்கூர்தலும் அரசன் பொருள் கொடாமையான் வருவன. செல்லாத...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 77: 'The Excellence of an Army'), Kural 769 distills a foundational ethical insight: \"Where weakness, clinging fear and povertyAre not, the host will gain the victory\" Philosophically, An army can triumph (over its foes) if it is free from diminution; irremediable aversion and poverty.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "wealth",
+        "courage",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 770,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நெடுங்காலமாக நிலைத்திருக்கும் வீரர் பலரை உடையதே ஆனாலும், தலைமைதாங்கும் தலைவர் இல்லாத போது படைக்குப் பெருமை இல்லையாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Though an army may contain a large number of permanent soldiers, it cannot last if it has no generals.",
+        "story_title_ta": "படை மாட்சி — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Excellence of an Army — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 770 பற்றிக் கதை சொன்னார். 'சிறந்த வீரர்கள் அதிகம் இருந்தாலும், படைக்கு நல்ல தலைவன் இல்லை என்றால் அந்தப் படை போரில் நிலைத்து நிற்காது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 77, 'The Excellence of an Army', centered on Kural 770: Though an army may contain a large number of permanent soldiers, it cannot last if it has no generals. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உறுதிவாய்ந்த வீரர்களை அதிகம் உடையதாக இருந்தாலும் தலைமை தாங்கும் தலைவர்கள் இல்லாவிட்டால் அந்தப் படை நிலைத்து நிற்க முடியாது.",
+        "moral_en": "Moral: Though men abound, all ready for the war, No army is where no fit leaders are.",
+        "game_blank_word_ta": "தலைமக்கள்",
+        "game_options_ta": [
+          "உறுப்பமைந்து",
+          "ஊறஞ்சா",
+          "தலைமக்கள்",
+          "வெல்படை"
+        ],
+        "game_options_en": [
+          "The daring well-armed winning force Is king's treasure and main resource",
+          "Through shots and wounds brave heroes hold Quailing not in fall, the field",
+          "With troops in large numbers on rolls Army can't march missing gen'rals",
+          "Sea-like ratfoes roar What if? They perish at a cobra's whiff"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 770, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சிறந்த வீரர்கள் அதிகம் இருந்தாலும், படைக்கு நல்ல தலைவன் இல்லை என்றால் அந்தப் படை போரில் நிலைத்து நிற்காது. கலைஞர் உரை கூறுவது: உறுதிவாய்ந்த வீரர்களை அதிகம் உடையதாக இருந்தாலும் தலைமை தாங்கும் தலைவர்கள் இல்லாவிட்டால் அந்தப் படை நிலைத்து நிற்க முடியாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Excellence of an Army (Ministers & Elements of State), Kural 770 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though an army may contain a large number of permanent soldiers, it cannot last if it has no generals. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Excellence of an Army' thoughtfully.",
+        "quiz_question_ta": "'படை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 770 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 770 from Chapter 'The Excellence of an Army'?",
+        "quiz_options_ta": [
+          "போர் வந்த போது களத்தில் தள்ளிவிட்டு ஓடும் அறிவில்லாத குதிரை போன்றவரின் உறவை விட, ஒரு நட்பும் இல்லாமல் தனித்திருத்தலே சிறந்தது.",
+          "இகலை விரும்புகின்ற தீய அறிவை உடையவர் வெற்றி பொருந்துதலுக்குக் காரணமான உண்மைப் பொருளை அறியமாட்டார்.",
+          "நெடுங்காலமாக நிலைத்திருக்கும் வீரர் பலரை உடையதே ஆனாலும், தலைமைதாங்கும் தலைவர் இல்லாத போது படைக்குப் பெருமை இல்லையாகும்.",
+          "மிகச் சிறப்பாக அமைந்த பெருமையுடையவர் வெகுண்டால் அளவு கடந்து அமைந்துள்ள சார்புகள் உடையவரானாலும் தப்பி பிழைக்க முடியாது."
+        ],
+        "quiz_options_en": [
+          "Better be alone than trust in those That throw in field like faithless horse",
+          "They cannot see the supreme Truth Who hate and injure without ruth",
+          "With troops in large numbers on rolls Army can't march missing gen'rals",
+          "Even mighty aided men shall quail If the enraged holy seers will"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படை மாட்சி) பகுதியில் குறள் 770 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெடுங்காலமாக நிலைத்திருக்கும் வீரர் பலரை உடையதே ஆனாலும், தலைமைதாங்கும் தலைவர் இல்லாத போது படைக்குப் பெருமை இல்லையாகும். பரிமேலழகர் உரை நுட்பம்: நிலை மக்கள் சால உடைத்து எனினும் - போரின்கண் நிலையுடைய வீரரை மிக உடைத்தே யாயினும்; தலைமக்கள் இல்வழித் தானை இல் - தனக்குத் தலைவராகிய வீரர் இல்லாதவழித் தானை நில்லாது. (படைத்தலைவர் நிலையுடையரன்றிப் போவாராயின், காண்போர் இல்லெனப் பொராது தானும் போம் என்பார...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 77: 'The Excellence of an Army'), Kural 770 distills a foundational ethical insight: \"Though men abound, all ready for the war, No army is where no fit leaders are\" Philosophically, Though an army may contain a large number of permanent soldiers, it cannot last if it has no generals.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "discipline",
+        "family",
+        "ethics"
+      ]
+    }
+  ]
+}

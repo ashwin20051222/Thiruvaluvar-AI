@@ -1,0 +1,585 @@
+{
+  "adhikaram_id": 111,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.477730223+00:00",
+  "kurals": [
+    {
+      "kural_number": 1101,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கண்டும் கேட்டும் உண்டும் முகர்ந்தும் உற்றும் அறிகின்ற ஐந்து புலன்களாகிய இன்பங்களும் ஒளி பொருந்திய வளையல் அணிந்த இவளிடத்தில் உள்ளன.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The (simultaneous) enjoyment of the five senses of sight, hearing, taste, smell and touch can only be found with bright braceleted (women).",
+        "story_title_ta": "புணர்ச்சி மகிழ்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Rejoicing in the Embrace — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி மகிழ்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1101 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1101 from 'Rejoicing in the Embrace', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: வளையல் அணிந்த இந்த வடிவழகியிடம்; கண்டு மகிழவும், கேட்டு மகிழவும், தொட்டு மகிழவும், முகர்ந்துண்டு மகிழவுமான ஐம்புல இன்பங்களும் நிறைந்துள்ளன.",
+        "moral_en": "Moral: All joys that senses five- sight, hearing, taste, smell, touch- can give, In this resplendent armlets-bearing damsel live.",
+        "game_blank_word_ta": "ஐம்புலனும்",
+        "game_options_ta": [
+          "பிணிக்கு",
+          "ஐம்புலனும்",
+          "மருந்து",
+          "பிறமன்"
+        ],
+        "game_options_en": [
+          "The cure for ailment is somewhere For fair maid's ill she is the cure",
+          "In this bangled beauty dwell The joys of sight sound touch taste smell",
+          "Is lotus-eyed lord's heaven so sweet As sleep in lover's arms so soft?",
+          "Away it burns and cools anear Wherefrom did she get this fire?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி மகிழ்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1101, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: விழியால் பார்த்து, செவியால்கேட்டு, நாவால் உண்டு, மூக்கால் மோந்து, உடம்பால் தீண்டி என் ஐம்பொறிகளாலும் அனுபவிக்கும்படும் இன்பம் ஒளிமிக்க வளையல்களை அணிந்த மனைவியிடம் மட்டுமே உண்டு. கலைஞர் உரை கூறுவது: வளையல் அணிந்த இந்த வடிவழகியிடம்; கண்டு மகிழவும், கேட்டு மகிழவும், தொட்டு மகிழவும், முகர்ந்துண்டு மகிழவுமான ஐம்புல இன்பங்களும் நிறைந்துள்ளன. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Rejoicing in the Embrace (Pre-marital Love), Kural 1101 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The (simultaneous) enjoyment of the five senses of sight, hearing, taste, smell and touch can only be found with bright braceleted (women). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி மகிழ்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Rejoicing in the Embrace'.",
+        "quiz_question_ta": "'புணர்ச்சி மகிழ்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1101 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1101 from Chapter 'Rejoicing in the Embrace'?",
+        "quiz_options_ta": [
+          "காமம் அலரால் வெளிப்பட இனியதாதல், கள்ளுண்பவர் கள்ளுண்டு மயங்க மயங்க அக் கள்ளுண்பதையே விரும்பினாற் போன்றது.",
+          "கண்டும் கேட்டும் உண்டும் முகர்ந்தும் உற்றும் அறிகின்ற ஐந்து புலன்களாகிய இன்பங்களும் ஒளி பொருந்திய வளையல் அணிந்த இவளிடத்தில் உள்ளன.",
+          "இவள் பிரிவால் வருத்திப் பசலை நிறம் அடைந்தாள் என்ற பழி சொல்வதே அல்லாமல், இவளைக் காதலர் விட்டுப் பிரிந்தார் என்று சொல்பவர் இல்லையே!",
+          "இத்துன்பத்தை நமக்கு விட்டு விட்டுத் தொலைவில் உள்ள நாட்டுக்குச் சென்ற காதலரை நினைந்து அழுதமையால் கண்கள் அழகு இழந்து நறுமலர்களுக்கு நாணி விட்டன."
+        ],
+        "quiz_options_en": [
+          "Drink delights as liquor flows Love delights as rumour grows",
+          "In this bangled beauty dwell The joys of sight sound touch taste smell",
+          "On my pallor they cast a slur But none says \\\"lo he parted her\\\"",
+          "To lift from want he left me afar His thought makes my eyes blush the flower"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (புணர்ச்சி மகிழ்தல்) பகுதியில் குறள் 1101 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கண்டும் கேட்டும் உண்டும் முகர்ந்தும் உற்றும் அறிகின்ற ஐந்து புலன்களாகிய இன்பங்களும் ஒளி பொருந்திய வளையல் அணிந்த இவளிடத்தில் உள்ளன. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது , அங்ஙனம் குறிப்பறிந்து புணர்ந்த தலைமகன் அப்புணர்ச்சியினை மகிழ்ந்து கூறல் .அதிகார முறைமையும் இதனானே விளங்கும்.] (இயற்கைப் புணர்ச்சி இறுதிக்கண் சொல்லியது.) கண்டு கேட்டு உண்டு உயிர்த்து உற்று அறியும் ஐம்புலனும் -கண்ணால் கண்டும் செவியால் கேட்டும் நாவால...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 111: 'Rejoicing in the Embrace'), Kural 1101 distills a foundational ethical insight: \"All joys that senses five- sight, hearing, taste, smell, touch- can give, In this resplendent armlets-bearing damsel live\" Philosophically, The (simultaneous) enjoyment of the five senses of sight, hearing, taste, smell and touch can only be found with bright braceleted (women).",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "kindness",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1102,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நோய்களுக்கு மருந்து வேறு பொருள்களாக இருக்கின்றன, ஆனால் அணிகலன் அணிந்த இவளால் வளர்ந்த நோய்க்கு இவளே மருந்தாக இருக்கின்றாள்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The remedy for a disease is always something different (from it); but for the disease caused by this jewelled maid, she is herself the cure.",
+        "story_title_ta": "புணர்ச்சி மகிழ்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Rejoicing in the Embrace — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி மகிழ்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1102 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1102 from 'Rejoicing in the Embrace', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நோய்களைத் தீர்க்கும் மருந்துகள் பல உள்ளன; ஆனால் காதல் நோயைத் தீர்க்கும் மருந்து அந்தக் காதலியே ஆவாள்.",
+        "moral_en": "Moral: Disease and medicine antagonists we surely see; This maid, to pain she gives, herself is remedy.",
+        "game_blank_word_ta": "பிறமன்",
+        "game_options_ta": [
+          "கண்டுகேட்டு",
+          "உண்டுயிர்த்து",
+          "பிறமன்",
+          "உற்றறியும்"
+        ],
+        "game_options_en": [
+          "In this bangled beauty dwell The joys of sight sound touch taste smell",
+          "Is lotus-eyed lord's heaven so sweet As sleep in lover's arms so soft?",
+          "The cure for ailment is somewhere For fair maid's ill she is the cure",
+          "Away it burns and cools anear Wherefrom did she get this fire?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி மகிழ்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1102, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நோய்களுக்கு மருந்து பெரும்பாலும், அந்நோய்களுக்கு மாறான இயல்பை உடையவையே. ஆனால் இவள் தந்த நோய்க்கு இவளே மருந்து. கலைஞர் உரை கூறுவது: நோய்களைத் தீர்க்கும் மருந்துகள் பல உள்ளன; ஆனால் காதல் நோயைத் தீர்க்கும் மருந்து அந்தக் காதலியே ஆவாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Rejoicing in the Embrace (Pre-marital Love), Kural 1102 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The remedy for a disease is always something different (from it); but for the disease caused by this jewelled maid, she is herself the cure. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி மகிழ்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Rejoicing in the Embrace'.",
+        "quiz_question_ta": "'புணர்ச்சி மகிழ்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1102 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1102 from Chapter 'Rejoicing in the Embrace'?",
+        "quiz_options_ta": [
+          "காதலரைக் கண்டது ஒருநாள் தான், அதனால் உண்டாகிய அலரோ, திங்களைப் பாம்பு கொண்ட செய்தி போல் எங்கும் பரந்து விட்டது.",
+          "பிரிவுக்கு உடன்படச் செய்த காதலர் நல்ல நிலையுடையவர் ஆவார் என்றால், என்னுடைய மேனி உள்ளபடி பசலை நிறம் அடைவதாக.",
+          "நோய்களுக்கு மருந்து வேறு பொருள்களாக இருக்கின்றன, ஆனால் அணிகலன் அணிந்த இவளால் வளர்ந்த நோய்க்கு இவளே மருந்தாக இருக்கின்றாள்.",
+          "பசலை நிறம் அடைந்து நீர் சொரியும் கண்கள், நாம் விரும்பிய காதலர் நமக்கு அன்பு செய்யாத தன்மையைப் ( பிறர்க்குச்) சொல்வன போல் உள்ளன."
+        ],
+        "quiz_options_en": [
+          "One lasting day we met alone Lasting rumours eclipse our moon",
+          "Let all my body become pale If he who took my leave fares well",
+          "The cure for ailment is somewhere For fair maid's ill she is the cure",
+          "My pale tearful eyes betray The hardness of my husband, away"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (புணர்ச்சி மகிழ்தல்) பகுதியில் குறள் 1102 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நோய்களுக்கு மருந்து வேறு பொருள்களாக இருக்கின்றன, ஆனால் அணிகலன் அணிந்த இவளால் வளர்ந்த நோய்க்கு இவளே மருந்தாக இருக்கின்றாள். பரிமேலழகர் உரை நுட்பம்: (இடந்தலைப் பாட்டின்கண் சொல்லியது) பிணிக்கு மருந்து பிற - வாதம் முதலிய பிணிகட்கு மருந்தாவன அவற்றிற்கு நிதானமாயினவன்றி மாறாய இயல்பினையுடையனவாம்; அணியிழை தன்நோய்க்கு மருந்து தானே - அவ்வாறன்றி இவ்வணியிழையினை உடையாள் தன்னினாய பிணிக்கு மருந்தும் தானேயாயினாள...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 111: 'Rejoicing in the Embrace'), Kural 1102 distills a foundational ethical insight: \"Disease and medicine antagonists we surely see; This maid, to pain she gives, herself is remedy\" Philosophically, The remedy for a disease is always something different (from it); but for the disease caused by this jewelled maid, she is herself the cure.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "justice",
+        "kindness",
+        "wealth",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1103,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தாமரைக் கண்ணனுடைய உலகம், தாம் விரும்பும் காதலியரின் மெல்லிய தோள்களில் துயிலும் துயில் போல் இனிமை உடையதோ.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Can the lotus-eyed Vishnu's heaven be indeed as sweet to those who delight to sleep in the delicate arms of their beloved ?",
+        "story_title_ta": "புணர்ச்சி மகிழ்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Rejoicing in the Embrace — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி மகிழ்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1103 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1103 from 'Rejoicing in the Embrace', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: தாமரைக் கண்ணான் உலகம் என்றெல்லாம் சொல்கிறார்களே, அது என்ன! அன்பு நிறைந்த காதலியின் தோளில் சாய்ந்து துயில்வது போல அவ்வளவு இனிமை வாய்ந்ததா?",
+        "moral_en": "Moral: Than rest in her soft arms to whom the soul is giv'n, Is any sweeter joy in his, the Lotus-eyed-one's heaven.",
+        "game_blank_word_ta": "தாமரைக்",
+        "game_options_ta": [
+          "கண்டுகேட்டு",
+          "உண்டுயிர்த்து",
+          "உற்றறியும்",
+          "தாமரைக்"
+        ],
+        "game_options_en": [
+          "In this bangled beauty dwell The joys of sight sound touch taste smell",
+          "The cure for ailment is somewhere For fair maid's ill she is the cure",
+          "Away it burns and cools anear Wherefrom did she get this fire?",
+          "Is lotus-eyed lord's heaven so sweet As sleep in lover's arms so soft?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி மகிழ்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1103, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தாம் விரும்பும் மனைவியின் மெல்லிய தோளைத் தழுவித் தூங்கும் உறக்கத்தைவிடத் தாமரைக் கண்ணனாகிய திருமாலின் உலகம் இனிமை ஆனதோ? கலைஞர் உரை கூறுவது: தாமரைக் கண்ணான் உலகம் என்றெல்லாம் சொல்கிறார்களே, அது என்ன! அன்பு நிறைந்த காதலியின் தோளில் சாய்ந்து துயில்வது போல அவ்வளவு இனிமை வாய்ந்ததா? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Rejoicing in the Embrace (Pre-marital Love), Kural 1103 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Can the lotus-eyed Vishnu's heaven be indeed as sweet to those who delight to sleep in the delicate arms of their beloved ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி மகிழ்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Rejoicing in the Embrace'.",
+        "quiz_question_ta": "'புணர்ச்சி மகிழ்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1103 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1103 from Chapter 'Rejoicing in the Embrace'?",
+        "quiz_options_ta": [
+          "இந்தக் காம நோய் ஊராரின் அலர் தூற்றலே எருவாகவும் அன்னை கடிந்து சொல்லும் கடுஞ்சொல்லே நீராகவும் கொண்டு செழித்து வளர்கின்றது.",
+          "பிரிவுக்கு உடன்படச் செய்த காதலர் பிரிந்து வருத்துதலைப் பிறர் தூற்றாமல் இருப்பாரானால், யான் பசலை உற்றதாக பெயர் எடுத்தல் நல்லதே.",
+          "கூடியிருந்த காலத்தில் மகிழ்ந்து பூரித்திருந்த தோள்கள், ( இப்போது மெலிந்தும்) காதலருடைய பிரிவை நன்றாக அறிவிப்பவை போல் உள்ளன.",
+          "தாமரைக் கண்ணனுடைய உலகம், தாம் விரும்பும் காதலியரின் மெல்லிய தோள்களில் துயிலும் துயில் போல் இனிமை உடையதோ."
+        ],
+        "quiz_options_en": [
+          "Scandal manures; mother's refrain Waters the growth of this love-pain",
+          "Let people call me all pallid But my lover let them not deride",
+          "These arms that swelled on nuptial day Now shrunk proclaim \\\"He is away\\\"",
+          "Is lotus-eyed lord's heaven so sweet As sleep in lover's arms so soft?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (புணர்ச்சி மகிழ்தல்) பகுதியில் குறள் 1103 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தாமரைக் கண்ணனுடைய உலகம், தாம் விரும்பும் காதலியரின் மெல்லிய தோள்களில் துயிலும் துயில் போல் இனிமை உடையதோ. பரிமேலழகர் உரை நுட்பம்: (நிரதிசய இன்பத்திற்குரிய நீ இச்சிற்றின்பத்திற்கு இன்னையாதல் தகாது என்ற பாங்கற்குத் தலைவன் சொல்லியது.) தாம் வீழ்வார் மென்தோள் துயிலின் இனிதுகொல் - ஐம்புலன்களையும் நுகர்வார்க்குத் தாம் விரும்பும் மகளிர் மெல்லிய தோளின்கண் துயிலும் துயில் போல வருந்தாமல் எய்தலாமோ...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 111: 'Rejoicing in the Embrace'), Kural 1103 distills a foundational ethical insight: \"Than rest in her soft arms to whom the soul is giv'n, Is any sweeter joy in his, the Lotus-eyed-one's heaven\" Philosophically, Can the lotus-eyed Vishnu's heaven be indeed as sweet to those who delight to sleep in the delicate arms of their beloved ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "harmony",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1104,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நீங்கினால் சுடுகின்றது, அணுகினால் குளிர்ச்சியாக இருக்கின்றது, இத்தகைய புதுமையானத் தீயை இவள் எவ்விடத்திலிருந்து பெற்றாள்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: From whence has she got this fire that burns when I withdraw and cools when I approach ?",
+        "story_title_ta": "புணர்ச்சி மகிழ்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Rejoicing in the Embrace — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி மகிழ்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1104 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1104 from 'Rejoicing in the Embrace', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நீங்கினால் சுடக்கூடியதும் நெருங்கினால் குளிரக் கூடியதுமான புதுமையான நெருப்பை இந்த மங்கை எங்கிருந்து பெற்றாள்.",
+        "moral_en": "Moral: Withdraw, it burns; approach, it soothes the pain; Whence did the maid this wondrous fire obtain.",
+        "game_blank_word_ta": "பெற்றாள்",
+        "game_options_ta": [
+          "பெற்றாள்",
+          "கண்டுகேட்டு",
+          "உண்டுயிர்த்து",
+          "உற்றறியும்"
+        ],
+        "game_options_en": [
+          "Away it burns and cools anear Wherefrom did she get this fire?",
+          "In this bangled beauty dwell The joys of sight sound touch taste smell",
+          "The cure for ailment is somewhere For fair maid's ill she is the cure",
+          "Is lotus-eyed lord's heaven so sweet As sleep in lover's arms so soft?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி மகிழ்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1104, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்னை நீங்கினால் சுடும், நெருங்கினால் குளிரும் ஒரு தீயை என் உள்ளத்தில் ஏற்ற, இவள் அதை எங்கிருந்து பெற்றாள்? கலைஞர் உரை கூறுவது: நீங்கினால் சுடக்கூடியதும் நெருங்கினால் குளிரக் கூடியதுமான புதுமையான நெருப்பை இந்த மங்கை எங்கிருந்து பெற்றாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Rejoicing in the Embrace (Pre-marital Love), Kural 1104 speaks directly to teens navigating studies, friendships, leadership, and digital choices: From whence has she got this fire that burns when I withdraw and cools when I approach ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி மகிழ்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Rejoicing in the Embrace'.",
+        "quiz_question_ta": "'புணர்ச்சி மகிழ்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1104 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1104 from Chapter 'Rejoicing in the Embrace'?",
+        "quiz_options_ta": [
+          "நீங்கினால் சுடுகின்றது, அணுகினால் குளிர்ச்சியாக இருக்கின்றது, இத்தகைய புதுமையானத் தீயை இவள் எவ்விடத்திலிருந்து பெற்றாள்.",
+          "அலர் கூறுவதால் காமத்தை அடக்குவோம் என்று முயலுதல், நெய்யால் நெருப்பை அவிப்போம் என்று முயல்வதைப் போன்றது.",
+          "தாம் விரும்பும் காதலர் தம்மை விரும்புகின்ற பேறு பெற்றவர், காதல் வாழ்க்கையின் பயனாகிய விதை இல்லாத பழத்தைப் பெற்றவரே ஆவார்.",
+          "துணைவர் விட்டு நீங்கியதால் பழைய அழகு கெட்டு வாடிய தோள்கள், பருத்த தன்மை கெட்டு மெலிந்து வளையல்களும் கழலச் செய்கின்றன."
+        ],
+        "quiz_options_en": [
+          "Away it burns and cools anear Wherefrom did she get this fire?",
+          "To quench the lust by rumour free Is to quench fire by pouring ghee",
+          "Stoneless fruit of love they have Who are beloved by those they love",
+          "Bracelets slip off the arms that have Lost old beauty for He took leave"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (புணர்ச்சி மகிழ்தல்) பகுதியில் குறள் 1104 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நீங்கினால் சுடுகின்றது, அணுகினால் குளிர்ச்சியாக இருக்கின்றது, இத்தகைய புதுமையானத் தீயை இவள் எவ்விடத்திலிருந்து பெற்றாள். பரிமேலழகர் உரை நுட்பம்: (பாங்கற் கூட்டத்து இறுதிக்கண் சொல்லியது.) நீங்கின் தெறூஉம் குறுகுங்கால் தண் என்னும் தீ - தன்னை அகன்றுழிச் சுடா நிற்கும், அணுகுழிக் குளிராநிற்கும் இப்பெற்றித்தாய தீயை; இவள் யாண்டுப் பெற்றாள் - என்கண் தருதற்கு இவள் எவ்வுலகத்துப் பெற்றாள். (கூடாமுன...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 111: 'Rejoicing in the Embrace'), Kural 1104 distills a foundational ethical insight: \"Withdraw, it burns; approach, it soothes the pain; Whence did the maid this wondrous fire obtain\" Philosophically, From whence has she got this fire that burns when I withdraw and cools when I approach ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1105,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மலரணிந்த கூந்தலை உடைய இவளுடைய தோள்கள் விருப்பமான பொருள்களை நினைத்து விரும்பிய பொழுது அவ்வப் பொருள்களைப் போலவே இன்பம் செய்கின்றன.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Each varied form of joy the soul can wish is found.",
+        "story_title_ta": "புணர்ச்சி மகிழ்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Rejoicing in the Embrace — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி மகிழ்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1105 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1105 from 'Rejoicing in the Embrace', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: விருப்பமான பொருள் ஒன்று, விரும்பிய பொழுதெல்லாம் வந்து இன்பம் வழங்கினால் எப்படியிருக்குமோ அதைப் போலவே பூ முடித்த பூவையின் தோள்கள் இன்பம் வழங்குகின்றன.",
+        "moral_en": "Moral: In her embrace, whose locks with flowery wreaths are bound, Each varied form of joy the soul can wish is found.",
+        "game_blank_word_ta": "பொழுதின்",
+        "game_options_ta": [
+          "கண்டுகேட்டு",
+          "பொழுதின்",
+          "உண்டுயிர்த்து",
+          "உற்றறியும்"
+        ],
+        "game_options_en": [
+          "In this bangled beauty dwell The joys of sight sound touch taste smell",
+          "The arms of my flower-tressed maid Whatever I wish that that accord",
+          "The cure for ailment is somewhere For fair maid's ill she is the cure",
+          "Is lotus-eyed lord's heaven so sweet As sleep in lover's arms so soft?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி மகிழ்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1105, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாம் விரும்பும் பொருள்கள் விரும்பியபொழுது விரும்பியவாறே இன்பம் தருவது போல, பூச்சூடிய கூந்தலை உடைய இவள் தோள்கள் இவளுடன் எப்போது கூடினாலும் இன்பம் தருகின்றன. கலைஞர் உரை கூறுவது: விருப்பமான பொருள் ஒன்று, விரும்பிய பொழுதெல்லாம் வந்து இன்பம் வழங்கினால் எப்படியிருக்குமோ அதைப் போலவே பூ முடித்த பூவையின் தோள்கள் இன்பம் வழங்குகின்றன. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Rejoicing in the Embrace (Pre-marital Love), Kural 1105 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Each varied form of joy the soul can wish is found. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி மகிழ்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Rejoicing in the Embrace'.",
+        "quiz_question_ta": "'புணர்ச்சி மகிழ்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1105 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1105 from Chapter 'Rejoicing in the Embrace'?",
+        "quiz_options_ta": [
+          "அஞ்ச வேண்டா என்று அன்று உறுதிகூறியவர், இன்று பலரும் நாணும்படியாக நம்மை விட்டுப் பிரிந்தால் அதனால் அலருக்கு நாணியிருக்க முடியுமோ.",
+          "மலரணிந்த கூந்தலை உடைய இவளுடைய தோள்கள் விருப்பமான பொருள்களை நினைத்து விரும்பிய பொழுது அவ்வப் பொருள்களைப் போலவே இன்பம் செய்கின்றன.",
+          "தம்மை விரும்புகின்றவர்க்குக் காதலர் அளிக்கும் அன்பு, உயிர் வாழ்கினறவர்க்கு மேகம் மழை பெய்து காப்பாற்றுதலைப் போன்றது.",
+          "வளையல்களும் கழன்று பழைய அழகும் கெட்டு, வாடிய தோள்கள் (என் துன்பம் உணராத) கொடியவரி்ன கொடுமையைப் பிறர் அறியச் சொல்கின்றன."
+        ],
+        "quiz_options_en": [
+          "Who said \\\"fear not\\\" flared up rumour Why then should I blush this clamour?",
+          "The arms of my flower-tressed maid Whatever I wish that that accord",
+          "The lover-and-beloved's self-givings Are like rains to living beings",
+          "Bereft of bracelets and old beauty Arms tell the cruel's cruelty"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (புணர்ச்சி மகிழ்தல்) பகுதியில் குறள் 1105 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மலரணிந்த கூந்தலை உடைய இவளுடைய தோள்கள் விருப்பமான பொருள்களை நினைத்து விரும்பிய பொழுது அவ்வப் பொருள்களைப் போலவே இன்பம் செய்கின்றன. பரிமேலழகர் உரை நுட்பம்: (தோழியிற் கூட்டத்து இறுதிக்கண் சொல்லியது) வேட்ட பொழுதின் அவையவை போலுமே - மிக இனியவாய பொருள்களைப் பெறாது அவற்றின்மேல் விருப்பங்கூர்ந்த பொழுதின்கண் அவையவை தாமே வந்து இன்பஞ்செய்யுமாறு போல இன்பஞ் செய்யும்; தோட்டார் கதுப்பினாள் தோள் - எப்பொழுதும் பெற்றுப...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 111: 'Rejoicing in the Embrace'), Kural 1105 distills a foundational ethical insight: \"In her embrace, whose locks with flowery wreaths are bound, Each varied form of joy the soul can wish is found\" Philosophically, Each varied form of joy the soul can wish is found.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "harmony",
+        "education",
+        "speech",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 1106,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பொருந்து போதெல்லாம் உயிர் தளிர்க்கும் படியாகத் தீண்டுதலால் இவளுக்கு தோள்கள் அமிழ்தத்தால் செய்யப்பட்டிருக்க வேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The shoulders of this fair one are made of ambrosia, for they revive me with pleasure every time I embrace them.",
+        "story_title_ta": "புணர்ச்சி மகிழ்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Rejoicing in the Embrace — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி மகிழ்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1106 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1106 from 'Rejoicing in the Embrace', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: இந்த இளமங்கையைத் தழுவும் போதெல்லாம் நான் புத்துயிர் பெறுவதற்கு இவளின் அழகிய தோள்கள் அமிழ்தத்தினால் ஆனவை என்பதுதான் காரணம் போலும்.",
+        "moral_en": "Moral: Ambrosia are the simple maiden's arms; when I attainTheir touch, my withered life puts forth its buds again.",
+        "game_blank_word_ta": "தீண்டலால்",
+        "game_options_ta": [
+          "கண்டுகேட்டு",
+          "உண்டுயிர்த்து",
+          "தீண்டலால்",
+          "உற்றறியும்"
+        ],
+        "game_options_en": [
+          "In this bangled beauty dwell The joys of sight sound touch taste smell",
+          "The cure for ailment is somewhere For fair maid's ill she is the cure",
+          "My simple maid has nectar arms Each embrace brings life-thrilling charms",
+          "Is lotus-eyed lord's heaven so sweet As sleep in lover's arms so soft?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி மகிழ்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1106, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இவளை அணைக்கும்போது எல்லாம் வாடிக் கிடந்த என் உயிர் தளிர்க்கும்படி என்னைத் தொடுவதால், இவளின் தோள்கள் அமிழ்தத்தில் செய்யப்பட்டவை போலும். கலைஞர் உரை கூறுவது: இந்த இளமங்கையைத் தழுவும் போதெல்லாம் நான் புத்துயிர் பெறுவதற்கு இவளின் அழகிய தோள்கள் அமிழ்தத்தினால் ஆனவை என்பதுதான் காரணம் போலும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Rejoicing in the Embrace (Pre-marital Love), Kural 1106 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The shoulders of this fair one are made of ambrosia, for they revive me with pleasure every time I embrace them. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி மகிழ்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Rejoicing in the Embrace'.",
+        "quiz_question_ta": "'புணர்ச்சி மகிழ்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1106 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1106 from Chapter 'Rejoicing in the Embrace'?",
+        "quiz_options_ta": [
+          "யாம் விரும்புகின்ற அலரை இவ்வூரார் எடுத்துக்கூறுகின்றனர், அதனால் இனிமேல் காதலர் விரும்பினால் விரும்பியவாறு அதனை உதவுவார்.",
+          "காதலரால் விரும்பப்படுகின்றவர்க்கும் ( பிரிவுத் துன்பம் இருந்தாலும்) மீண்டும் வந்தபின் வாழ்வோம் என்று இருக்கும் செருக்குத் தகும்.",
+          "பொருந்து போதெல்லாம் உயிர் தளிர்க்கும் படியாகத் தீண்டுதலால் இவளுக்கு தோள்கள் அமிழ்தத்தால் செய்யப்பட்டிருக்க வேண்டும்.",
+          "வளையல்கள் கழன்று தோள்களும் மெலிவடைவதால் (அவற்றைக் காண்போர்) காதலரைக் கொடியவர் என்று கூறுவதைக் கேட்டு வருந்துகின்றேன்."
+        ],
+        "quiz_options_en": [
+          "Town raising this cry, I desire Consent is easy from my sire",
+          "The pride of living is for those Whose love is returned by love so close",
+          "My simple maid has nectar arms Each embrace brings life-thrilling charms",
+          "Arms thin, armlets loose make you call My sire cruel; that pains my soul"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (புணர்ச்சி மகிழ்தல்) பகுதியில் குறள் 1106 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருந்து போதெல்லாம் உயிர் தளிர்க்கும் படியாகத் தீண்டுதலால் இவளுக்கு தோள்கள் அமிழ்தத்தால் செய்யப்பட்டிருக்க வேண்டும். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) உயிர் உறுதோறு தளிர்ப்பத் தீண்டலால்- தன்னைப் பெறாது வாடிய என்னுயிர் பெற்றுறுந்தோறும் தளிர்க்கும் வகை தீண்டுதலான்; பேதைக்குத் தோள் அமிழ்தின் இயன்றன - இப்பேதைக்குத் தோள்கள் தீண்டப்படுவதோர் அமிழ்தினால் செய்யப்பட்டன. (ஏதுவாகலான் தீண்டல் அமிழ்திற்கு...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 111: 'Rejoicing in the Embrace'), Kural 1106 distills a foundational ethical insight: \"Ambrosia are the simple maiden's arms; when I attainTheir touch, my withered life puts forth its buds again\" Philosophically, The shoulders of this fair one are made of ambrosia, for they revive me with pleasure every time I embrace them.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "kindness",
+        "justice",
+        "speech",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 1107,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அழகிய மா நிறம் உடைய இவளுடைய தழுவுதல், தம்முடைய வீட்டிலிருந்து தாம் ஈட்டிய பொருளைப் பகுந்து கொடுத்து உண்டாற் போன்றது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The embraces of a gold-complexioned beautiful female are as pleasant as to dwell in one's own house and live by one's own (earnings) after distributing (a portion of it in charity).",
+        "story_title_ta": "புணர்ச்சி மகிழ்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Rejoicing in the Embrace — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி மகிழ்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1107 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1107 from 'Rejoicing in the Embrace', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: தானே உழைத்துச் சேர்த்ததைப் பலருக்கும் பகுத்து வழங்கி உண்டு களிப்பதில் ஏற்படும் இன்பம், தனது அழகிய காதல் மனைவியைத் தழுவுகின்ற இன்பத்துக்கு ஒப்பானது.",
+        "moral_en": "Moral: As when one eats from household store, with kindly graceSharing his meal: such is this golden maid's embrace.",
+        "game_blank_word_ta": "இருந்து",
+        "game_options_ta": [
+          "கண்டுகேட்டு",
+          "உண்டுயிர்த்து",
+          "உற்றறியும்",
+          "இருந்து"
+        ],
+        "game_options_en": [
+          "In this bangled beauty dwell The joys of sight sound touch taste smell",
+          "The cure for ailment is somewhere For fair maid's ill she is the cure",
+          "Is lotus-eyed lord's heaven so sweet As sleep in lover's arms so soft?",
+          "Ah the embrace of this fair dame Is like sharing one's food at home"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி மகிழ்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1107, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அழகிய மா நிறப் பெண்ணாகிய என் மனைவியிடம் கூடிப் பெறும் சுகம், தன் சொந்த வீட்டில் இருந்து கொண்டு, தன் உழைப்பில் வந்தவற்றைத் தனக்குரியவர்களுடன் பகிர்ந்து உண்ண வரும் சுகம் போன்றது. கலைஞர் உரை கூறுவது: தானே உழைத்துச் சேர்த்ததைப் பலருக்கும் பகுத்து வழங்கி உண்டு களிப்பதில் ஏற்படும் இன்பம், தனது அழகிய காதல் மனைவியைத் தழுவுகின்ற இன்பத்துக்கு ஒப்பானது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Rejoicing in the Embrace (Pre-marital Love), Kural 1107 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The embraces of a gold-complexioned beautiful female are as pleasant as to dwell in one's own house and live by one's own (earnings) after distributing (a portion of it in charity). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி மகிழ்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Rejoicing in the Embrace'.",
+        "quiz_question_ta": "'புணர்ச்சி மகிழ்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1107 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1107 from Chapter 'Rejoicing in the Embrace'?",
+        "quiz_options_ta": [
+          "பிரிந்து செல்லாத நிலைமை இருந்தால் எனக்குச் சொல், பிரிந்து சென்று விரைந்து வருதலைப் பற்றியானால் அதுவரையில் உயிர்வாழ வல்லவர்க்குச் சொல்.",
+          "தாம் விரும்பும் காதலரால் விரும்பப்படாவிட்டால் உலகத்தாரால் விரும்பப்படும் நிலையில் உள்ளவரும் நல்வினை பொருந்தியவர் அல்லர்.",
+          "நெஞ்சே! கொடியவர் என்று சொல்லப்படுகின்ற காதலர்க்கு என் மெலிந்த தோள்களின் ஆரவாரத்தை உரைத்து, அந்த உதவியால் பெருமை அடைவாயோ?",
+          "அழகிய மா நிறம் உடைய இவளுடைய தழுவுதல், தம்முடைய வீட்டிலிருந்து தாம் ஈட்டிய பொருளைப் பகுந்து கொடுத்து உண்டாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Tell me if you but do not leave, Your quick return to those who live",
+          "Whose love is void of love in turn Are luckless with all esteems they earn",
+          "Go and tell the cruel, O mind Bruit ov'r my arms and glory find",
+          "Ah the embrace of this fair dame Is like sharing one's food at home"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (புணர்ச்சி மகிழ்தல்) பகுதியில் குறள் 1107 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அழகிய மா நிறம் உடைய இவளுடைய தழுவுதல், தம்முடைய வீட்டிலிருந்து தாம் ஈட்டிய பொருளைப் பகுந்து கொடுத்து உண்டாற் போன்றது. பரிமேலழகர் உரை நுட்பம்: (இவளை நீ வரைந்துகொண்டு உலகோர் தம் இல்லிருந்து தமது பாத்துண்ணும் இல்லறத்தோடு படல் வேண்டும் என்ற தோழிக்குச் சொல்லியது ) அம்மா அரிவை முயக்கம் - அழகிய மாமை நிறத்தையுடைய அரிவையது முயக்கம்; தம்மில் இருந்து தமது பாத்து உண்டற்று - இன்பம் பயத்தற்கண் தமக்குரிய...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 111: 'Rejoicing in the Embrace'), Kural 1107 distills a foundational ethical insight: \"As when one eats from household store, with kindly graceSharing his meal: such is this golden maid's embrace\" Philosophically, The embraces of a gold-complexioned beautiful female are as pleasant as to dwell in one's own house and live by one's own (earnings) after distributing (a portion of it in charity).",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "family",
+        "kindness",
+        "justice",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 1108,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: காற்று இடையறுத்துச் செல்லாதபடி தழுவும் தழுவுதல், ஒருவரை ஒருவர் விரும்பிய காதலர் இருவருக்கும் இனிமை உடையதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: To ardent lovers sweet is the embrace that cannot be penetrated even by a breath of breeze.",
+        "story_title_ta": "புணர்ச்சி மகிழ்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Rejoicing in the Embrace — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி மகிழ்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1108 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1108 from 'Rejoicing in the Embrace', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதலர்க்கு மிக இனிமை தருவது, காற்றுகூட இடையில் நுழைய முடியாத அளவுக்கு இருவரும் இறுகத் தழுவி மகிழ்வதாகும்.",
+        "moral_en": "Moral: Sweet is the strict embrace of those whom fond affection binds, Where no dissevering breath of discord entrance finds.",
+        "game_blank_word_ta": "இனிதே",
+        "game_options_ta": [
+          "இனிதே",
+          "கண்டுகேட்டு",
+          "உண்டுயிர்த்து",
+          "உற்றறியும்"
+        ],
+        "game_options_en": [
+          "Joy is the fast embrace that doth Not admit e'en air between both",
+          "In this bangled beauty dwell The joys of sight sound touch taste smell",
+          "The cure for ailment is somewhere For fair maid's ill she is the cure",
+          "Is lotus-eyed lord's heaven so sweet As sleep in lover's arms so soft?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி மகிழ்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1108, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இறுக அணைத்துக் கிடப்பதால் காற்றும் ஊடே நுழைய முடியாதபடி கூடிப் பெறும் சுகம், விரும்பிக் காதலிப்பார் இருவர்க்கும் இனிமையானதே. கலைஞர் உரை கூறுவது: காதலர்க்கு மிக இனிமை தருவது, காற்றுகூட இடையில் நுழைய முடியாத அளவுக்கு இருவரும் இறுகத் தழுவி மகிழ்வதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Rejoicing in the Embrace (Pre-marital Love), Kural 1108 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To ardent lovers sweet is the embrace that cannot be penetrated even by a breath of breeze. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி மகிழ்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Rejoicing in the Embrace'.",
+        "quiz_question_ta": "'புணர்ச்சி மகிழ்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1108 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1108 from Chapter 'Rejoicing in the Embrace'?",
+        "quiz_options_ta": [
+          "காற்று இடையறுத்துச் செல்லாதபடி தழுவும் தழுவுதல், ஒருவரை ஒருவர் விரும்பிய காதலர் இருவருக்கும் இனிமை உடையதாகும்.",
+          "அவருடைய பார்வை முன்பு இன்பம் உடையதாக இருந்தது, இப்போது அவருடைய கூட்டம் பிரிவுக்கு அஞ்சுகின்ற துன்பம் உடையதாக இருக்கின்றது.",
+          "நாம் காதல் கொண்ட காதலர் தாமும் அவ்வாறே நம்மிடம் காதல் கொள்ளாதபோது, நமக்கு அவர் என்ன நன்மை செய்வார்?",
+          "தழுவிய கை‌களைத் தளர்த்தியவுடனே, பைந்தொடி அணிந்த காதலியின் நெற்றி, ( அவ்வளவு சிறியதாகிய பிரிவையும் பொறுக்காமல்) பசலை நிறம் அடைந்தது."
+        ],
+        "quiz_options_en": [
+          "Joy is the fast embrace that doth Not admit e'en air between both",
+          "His sight itself was pleasing, near Embrace pains now by partings fear",
+          "What can our lover do us now If he does not requite our love?",
+          "The front of this fair one O paled As my clasping arms loosed their hold"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (புணர்ச்சி மகிழ்தல்) பகுதியில் குறள் 1108 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காற்று இடையறுத்துச் செல்லாதபடி தழுவும் தழுவுதல், ஒருவரை ஒருவர் விரும்பிய காதலர் இருவருக்கும் இனிமை உடையதாகும். பரிமேலழகர் உரை நுட்பம்: (ஒத்த அன்புடைய நுமக்கு ஒரு பொழுதும் விடாத முயக்கமே இனியது என வரைவுகடாய தோழிக்குச் சொல்லியது.) (நீ சொல்லுகின்ற தொக்கும்) வளி இடை போழப்படா முயக்கு - ஒரு பொழுதும் நெகிழாமையின் காற்றால் இடையறுக்கப்படாத முயக்கம்; வீழும் இருவர்க்கு இனிதே - ஒருவரையொருவர் விழைவார...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 111: 'Rejoicing in the Embrace'), Kural 1108 distills a foundational ethical insight: \"Sweet is the strict embrace of those whom fond affection binds, Where no dissevering breath of discord entrance finds\" Philosophically, To ardent lovers sweet is the embrace that cannot be penetrated even by a breath of breeze.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1109,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஊடுதல், ஊடலை உணர்ந்து விடுதல், அதன்பின் கூடுதல் ஆகிய இவை காதல் வாழ்வு நிறைவேறப் பெற்றவர் பெற்ற பயன்களாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Love quarrel, reconciliation and intercourse - these are the advantages reaped by those who marry for lust.",
+        "story_title_ta": "புணர்ச்சி மகிழ்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Rejoicing in the Embrace — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி மகிழ்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1109 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1109 from 'Rejoicing in the Embrace', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ஊடல் கொள்வதும், அதனால் விளையும் இன்பம் போதுமென உணர்ந்து அதற்கும் மேலான இன்பம் காணப் புணர்ந்து மயங்குவதும் காதல் வாழ்வினர் பெற்றிடும் பயன்களாகும்.",
+        "moral_en": "Moral: The jealous variance, the healing of the strife, reunion gained:These are the fruits from wedded love obtained.",
+        "game_blank_word_ta": "இவைகாமம்",
+        "game_options_ta": [
+          "கண்டுகேட்டு",
+          "இவைகாமம்",
+          "உண்டுயிர்த்து",
+          "உற்றறியும்"
+        ],
+        "game_options_en": [
+          "In this bangled beauty dwell The joys of sight sound touch taste smell",
+          "Sulking, feeling and clasping fast These three are sweets of lover's tryst",
+          "The cure for ailment is somewhere For fair maid's ill she is the cure",
+          "Is lotus-eyed lord's heaven so sweet As sleep in lover's arms so soft?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி மகிழ்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1109, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: படுக்கைக்குப் போகுமுன் சிறு ஊடல் செய்தல், தவறு உணர்ந்து சமாதானம் ஆதல், அதன்பின் கூடல் இவை அல்லவா திருமணம் செய்து கொண்டவர் பெற்ற பயன்கள்! கலைஞர் உரை கூறுவது: ஊடல் கொள்வதும், அதனால் விளையும் இன்பம் போதுமென உணர்ந்து அதற்கும் மேலான இன்பம் காணப் புணர்ந்து மயங்குவதும் காதல் வாழ்வினர் பெற்றிடும் பயன்களாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Rejoicing in the Embrace (Pre-marital Love), Kural 1109 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Love quarrel, reconciliation and intercourse - these are the advantages reaped by those who marry for lust. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி மகிழ்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Rejoicing in the Embrace'.",
+        "quiz_question_ta": "'புணர்ச்சி மகிழ்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1109 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1109 from Chapter 'Rejoicing in the Embrace'?",
+        "quiz_options_ta": [
+          "அறிவுடைய காதலரிடத்தும் பிரிவு ஒரு காலத்தில் உள்ள படியால் அவர் பிரியேன் என்று சொல்லும் உறுதி மொழியை நம்பித் தெளிவது அரிது.",
+          "ஊடுதல், ஊடலை உணர்ந்து விடுதல், அதன்பின் கூடுதல் ஆகிய இவை காதல் வாழ்வு நிறைவேறப் பெற்றவர் பெற்ற பயன்களாகும்.",
+          "காதல் ஒரு பக்கமாக இருத்தல் துன்பமானது; காவடியின் பாரம் போல் இருபக்கமாகவும் ஒத்திருப்பது இன்பமானதாகும்.",
+          "தழுவுதலுக்கு இடையே குளி்ந்த காற்று நுழைய, காதலியின் பெரிய மழை போன்ற கண்கள் பசலை நிறம் அடைந்தன."
+        ],
+        "quiz_options_en": [
+          "On whom shall I lay my trust hence While parting lurks in knowing ones?",
+          "Sulking, feeling and clasping fast These three are sweets of lover's tryst",
+          "One sided pains; love in both souls Poises well like shoulder poles",
+          "Cool breeze crept between our embrace Her large rain-cloud-eyes paled at once"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (புணர்ச்சி மகிழ்தல்) பகுதியில் குறள் 1109 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஊடுதல், ஊடலை உணர்ந்து விடுதல், அதன்பின் கூடுதல் ஆகிய இவை காதல் வாழ்வு நிறைவேறப் பெற்றவர் பெற்ற பயன்களாகும். பரிமேலழகர் உரை நுட்பம்: (கரத்தல் வேண்டாமையின், இடையறிவு இல்லாத கூட்டமே இன்பப் பயனுடைத்து என வரைவு கடாவியாட்குச் சொல்லியது.) ஊடல் உணர்தல் புணர்தல் இவை - புணர்ச்சி இனிதாதற் பொருட்டு வேண்டுவதாய ஊடலும், அதனை அளவறிந்து நீங்குதலும், அதன்பின் நிகழ்வதாய அப்புணர்ச்சிதானும் என இவை அன்றே...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 111: 'Rejoicing in the Embrace'), Kural 1109 distills a foundational ethical insight: \"The jealous variance, the healing of the strife, reunion gained:These are the fruits from wedded love obtained\" Philosophically, Love quarrel, reconciliation and intercourse - these are the advantages reaped by those who marry for lust.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "harmony",
+        "wealth",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 1110,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: செந்நிற அணிகலன்களை அணிந்த இவளிடம் பொருந்துந்தோறும் காதல் உணர்தல்,நூற் பொருள்களை அறிய அறிய அறியாதமைக் கண்டாற் போன்றது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: As (one's) ignorance is discovered the more one learns, so does repeated intercourse with a welladorned female (only create a desire for more).",
+        "story_title_ta": "புணர்ச்சி மகிழ்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Rejoicing in the Embrace — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி மகிழ்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1110 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1110 from 'Rejoicing in the Embrace', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: மாம்பழ மேனியில் அழகிய அணிகலன்கள் பூண்ட மங்கையிடம் இன்பம் நுகரும் போதெல்லாம் ஏற்படும் காதலானது, இதுவரை அறியாதவற்றைப் புதிதுபுதிதாக அறிவதுபோல் இருக்கிறது.",
+        "moral_en": "Moral: The more men learn, the more their lack of learning they detect;'Tis so when I approach the maid with gleaming jewels decked.",
+        "game_blank_word_ta": "செறிதோறும்",
+        "game_options_ta": [
+          "கண்டுகேட்டு",
+          "உண்டுயிர்த்து",
+          "செறிதோறும்",
+          "உற்றறியும்"
+        ],
+        "game_options_en": [
+          "In this bangled beauty dwell The joys of sight sound touch taste smell",
+          "The cure for ailment is somewhere For fair maid's ill she is the cure",
+          "As knowledge reveals past ignorance So is the belle as love gets close",
+          "Is lotus-eyed lord's heaven so sweet As sleep in lover's arms so soft?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி மகிழ்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1110, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நூல்களாலும் நுண் அறிவாலும் அறிய அறிய முன்னைய நம் அறியாமை தெரிவதுபோல, நல்ல அணிகளை அணிந்திருக்கும் என் மனைவியுடன் கூடக் கூட அவள் மீது உள்ள என் காதற்சுவையும் புதிது புதிதாகத் தெரிகிறது. கலைஞர் உரை கூறுவது: மாம்பழ மேனியில் அழகிய அணிகலன்கள் பூண்ட மங்கையிடம் இன்பம் நுகரும் போதெல்லாம் ஏற்படும் காதலானது, இதுவரை அறியாதவற்றைப் புதிதுபுதிதாக அறிவதுபோல் இருக்கிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Rejoicing in the Embrace (Pre-marital Love), Kural 1110 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As (one's) ignorance is discovered the more one learns, so does repeated intercourse with a welladorned female (only create a desire for more). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி மகிழ்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Rejoicing in the Embrace'.",
+        "quiz_question_ta": "'புணர்ச்சி மகிழ்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1110 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1110 from Chapter 'Rejoicing in the Embrace'?",
+        "quiz_options_ta": [
+          "அருள் மிகுந்தவராய் அஞ்ச வேண்டா என்று முன் தேற்றியவர் பிரிந்து செல்வாரானால் அவர் கூறிய உறுதிமொழியை நம்பித் தெளிந்தவர்க்கு குற்றம் உண்டோ.",
+          "( காதலர் இருவரிடத்திலும் ஒத்திருக்காமல்) ஒருவரிடத்தில் மட்டும் காமன் நின்று இயங்குவதால், என்னுடைய துன்பத்தையும் வருத்தத்தையும் அறியானோ?",
+          "செந்நிற அணிகலன்களை அணிந்த இவளிடம் பொருந்துந்தோறும் காதல் உணர்தல்,நூற் பொருள்களை அறிய அறிய அறியாதமைக் கண்டாற் போன்றது.",
+          "காதலியின் ஒளி பொருந்திய நெற்றி, பசலை நிறம் உற்றதைக் கண்டு, அவளுடைய க்ண்களில் பசலையும் துன்பம் அடைந்து விட்டது."
+        ],
+        "quiz_options_en": [
+          "He parts whose love told me -fear not Is my trust in him at default?",
+          "This cupid aims at me alone; Knows he not my pallor and pain?",
+          "As knowledge reveals past ignorance So is the belle as love gets close",
+          "Pale eyes pained seeing the pallor Of the bright forehead of this fair"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (புணர்ச்சி மகிழ்தல்) பகுதியில் குறள் 1110 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செந்நிற அணிகலன்களை அணிந்த இவளிடம் பொருந்துந்தோறும் காதல் உணர்தல்,நூற் பொருள்களை அறிய அறிய அறியாதமைக் கண்டாற் போன்றது. பரிமேலழகர் உரை நுட்பம்: (புணர்ந்து உடன் போகின்றான் தன்னுள்ளே சொல்லியது.) அறிதோறு அறியாமை கண்டற்று - நூல்களானும் நுண்ணுணர்வானும் பொருள்களை அறிய முன்னை அறியாமை கண்டாற்போலக் காணப்படாநின்றது; சேயிழைமாட்டுச் செறிதோறும் காமம் - சிவந்த இழையினையுடையாளை இடைவிடாது செறியச்செறிய இவள்மாட்டுக...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 111: 'Rejoicing in the Embrace'), Kural 1110 distills a foundational ethical insight: \"The more men learn, the more their lack of learning they detect;'Tis so when I approach the maid with gleaming jewels decked\" Philosophically, As (one's) ignorance is discovered the more one learns, so does repeated intercourse with a welladorned female (only create a desire for more).",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "education",
+        "family",
+        "wealth"
+      ]
+    }
+  ]
+}

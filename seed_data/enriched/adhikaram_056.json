@@ -1,0 +1,588 @@
+{
+  "adhikaram_id": 56,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.960599052+00:00",
+  "kurals": [
+    {
+      "kural_number": 551,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: குடிகளை வருத்தும் தொழிலை மேற்கொண்டு, முறையல்லாத செயல்களைச் செய்து நடக்கும் அரசன் கொலைத் தொழிலைக் கொண்டவரை விடக் கொடியவன்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The king who gives himself up to oppression and acts unjustly (towards his subjects) is more cruel than the man who leads the life of a murderer.",
+        "story_title_ta": "கொடுங்கோன்மை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Cruel Sceptre — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கொடுங்கோன்மை' என்ற அதிகாரத்திலிருந்து குறள் 551 பற்றிக் கதை சொன்னார். 'குடிமக்களின் பொருள்மீது ஆசை கொண்டு அவர்களைத் துன்புறுத்தித் தவறாக ஆளும் அரசு பகைகொண்டு பிறரைக் கொலை செய்பவரைக் காட்டிலும் கொடியது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 56, 'The Cruel Sceptre', centered on Kural 551: The king who gives himself up to oppression and acts unjustly (towards his subjects) is more cruel than the man who leads the life of a murderer. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அறவழி மீறிக் குடிமக்களைத் துன்புறுத்தும் அரசு, கொலையைத் தொழிலாகக் கொண்டவரைவிடக் கொடியதாகும்.",
+        "moral_en": "Moral: Than one who plies the murderer's trade, more cruel is the kingWho all injustice works, his subjects harassing.",
+        "game_blank_word_ta": "செய்தொழுகும்",
+        "game_options_ta": [
+          "வேலொடு",
+          "நின்றான்",
+          "இடுவென்",
+          "செய்தொழுகும்"
+        ],
+        "game_options_en": [
+          "Sceptered tyrant exacting gold Is \\\"give\\\" of lanced robber bold",
+          "Spy wrongs daily and do justice Or day by day the realm decays",
+          "The king shall wealth and subjects lose If his sceptre he dares abuse",
+          "The unjust tyrant oppressor Is worse than cruel murderer"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொடுங்கோன்மை (அரசியல்) பிரிவில் அமைந்த குறள் 551, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: குடிமக்களின் பொருள்மீது ஆசை கொண்டு அவர்களைத் துன்புறுத்தித் தவறாக ஆளும் அரசு பகைகொண்டு பிறரைக் கொலை செய்பவரைக் காட்டிலும் கொடியது. கலைஞர் உரை கூறுவது: அறவழி மீறிக் குடிமக்களைத் துன்புறுத்தும் அரசு, கொலையைத் தொழிலாகக் கொண்டவரைவிடக் கொடியதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Cruel Sceptre (Royalty & Polity), Kural 551 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The king who gives himself up to oppression and acts unjustly (towards his subjects) is more cruel than the man who leads the life of a murderer. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கொடுங்கோன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Cruel Sceptre' thoughtfully.",
+        "quiz_question_ta": "'கொடுங்கோன்மை' அதிகாரத்தில் வரும் திருக்குறள் 551 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 551 from Chapter 'The Cruel Sceptre'?",
+        "quiz_options_ta": [
+          "நீர்ப்பூக்களின் தாளின் நீளம் அவை நின்ற நீரின் அளவினவாகும், மக்களின் ஊக்கத்தை அளவினதாகும் வாழ்க்கையின் உயர்வு.",
+          "அறிவுறுத்துவாரின் அறிவையையும் அழித்துத் தானும் அறியாதவனாக அரசன் இருந்தாலும், அமைச்சன் அவனுக்கு உறுதியானவற்றை எடுத்துக்கூறல் க‌டமையாகும்.",
+          "அன்புடையவனாதல், தகுதியானக் குடிப்பிறப்பு உடையவனாதல் அரசர் விரும்பும் சிறந்த பண்பு உடையவனாதல், ஆகிய இவை தூது உரைப்பவனுடையத் தகுதிகள்.",
+          "குடிகளை வருத்தும் தொழிலை மேற்கொண்டு, முறையல்லாத செயல்களைச் செய்து நடக்கும் அரசன் கொலைத் தொழிலைக் கொண்டவரை விடக் கொடியவன்."
+        ],
+        "quiz_options_en": [
+          "Water depth is lotus height Mental strength is men's merit",
+          "The man in place must tell the facts Though the ignorant king refutes",
+          "Love, noble birth, good courtesy Pleasing kings mark true embassy",
+          "The unjust tyrant oppressor Is worse than cruel murderer"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கொடுங்கோன்மை) பகுதியில் குறள் 551 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: குடிகளை வருத்தும் தொழிலை மேற்கொண்டு, முறையல்லாத செயல்களைச் செய்து நடக்கும் அரசன் கொலைத் தொழிலைக் கொண்டவரை விடக் கொடியவன். பரிமேலழகர் உரை நுட்பம்: கொலை மேற்கொண்டாரின் கொடிது - பகைமை பற்றிக் கொல்லுதல்தொழிலைத் தம்மேற்கொண்டு ஒழுகுவாரினும் கொடியன், அலைமேற்கொண்டு அல்லவை செய்து ஒழுகும்வேந்து - பொருள்வெஃகிக் குடிகளை அலைத்தல் தொழிலைத் தன்மேற் கொண்டு முறைஅல்லவற்றைச் செய்து ஒழுகும் வேந்தன். (அவர் செய்வது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 56: 'The Cruel Sceptre'), Kural 551 distills a foundational ethical insight: \"Than one who plies the murderer's trade, more cruel is the kingWho all injustice works, his subjects harassing\" Philosophically, The king who gives himself up to oppression and acts unjustly (towards his subjects) is more cruel than the man who leads the life of a murderer.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "justice",
+        "leadership",
+        "family",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 552,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஆட்சிக்குறிய கோலை ஏந்தி நின்ற அரசன் குடிகளைப் பொருள் கேட்டல் , போகும் வழியில் கள்வன் கொடு என்று கேட்பதைப் போன்றது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The request (for money) of him who holds the sceptre is like the word of a highway robber who stands with a weapon in hand and says \"give up your wealth\".",
+        "story_title_ta": "கொடுங்கோன்மை — கவின் கற்ற பாடம்",
+        "story_title_en": "The Cruel Sceptre — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கொடுங்கோன்மை' என்ற அதிகாரத்திலிருந்து குறள் 552 பற்றிக் கதை சொன்னார். 'தண்டிக்கும் இயல்போடு ஆட்சியாளன் தன் குடிகளிடம் வரி கேட்பது, ஆயுதத்தைப் பிடித்துக் கொண்டு நெடுவழிப் பயணிகளிடம் பணத்தைப் போடு என்று மிரட்டுவதற்குச் சமம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 56, 'The Cruel Sceptre', centered on Kural 552: The request (for money) of him who holds the sceptre is like the word of a highway robber who stands with a weapon in hand and says \"give up your wealth\". Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஆட்சிக்கோல் ஏந்தியிருப்பவர்கள் தமது குடிமக்களிடம் அதிகாரத்தைக் காட்டிப் பொருளைப் பறிப்பது, வேல் ஏந்திய கொள்ளைக்காரனின் மிரட்டலைப் போன்றது.",
+        "moral_en": "Moral: As 'Give' the robber cries with lance uplift, So kings with sceptred hand implore a gift.",
+        "game_blank_word_ta": "வேலொடு",
+        "game_options_ta": [
+          "வேலொடு",
+          "கொலைமேற்கொண்",
+          "டாரிற்",
+          "கொடிதே"
+        ],
+        "game_options_en": [
+          "Sceptered tyrant exacting gold Is \\\"give\\\" of lanced robber bold",
+          "The unjust tyrant oppressor Is worse than cruel murderer",
+          "Spy wrongs daily and do justice Or day by day the realm decays",
+          "The king shall wealth and subjects lose If his sceptre he dares abuse"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொடுங்கோன்மை (அரசியல்) பிரிவில் அமைந்த குறள் 552, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தண்டிக்கும் இயல்போடு ஆட்சியாளன் தன் குடிகளிடம் வரி கேட்பது, ஆயுதத்தைப் பிடித்துக் கொண்டு நெடுவழிப் பயணிகளிடம் பணத்தைப் போடு என்று மிரட்டுவதற்குச் சமம். கலைஞர் உரை கூறுவது: ஆட்சிக்கோல் ஏந்தியிருப்பவர்கள் தமது குடிமக்களிடம் அதிகாரத்தைக் காட்டிப் பொருளைப் பறிப்பது, வேல் ஏந்திய கொள்ளைக்காரனின் மிரட்டலைப் போன்றது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Cruel Sceptre (Royalty & Polity), Kural 552 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The request (for money) of him who holds the sceptre is like the word of a highway robber who stands with a weapon in hand and says \"give up your wealth\". Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கொடுங்கோன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Cruel Sceptre' thoughtfully.",
+        "quiz_question_ta": "'கொடுங்கோன்மை' அதிகாரத்தில் வரும் திருக்குறள் 552 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 552 from Chapter 'The Cruel Sceptre'?",
+        "quiz_options_ta": [
+          "ஆட்சிக்குறிய கோலை ஏந்தி நின்ற அரசன் குடிகளைப் பொருள் கேட்டல் , போகும் வழியில் கள்வன் கொடு என்று கேட்பதைப் போன்றது.",
+          "எண்ணுவதெல்லாம் உயர்வைப்பற்றியே எண்ண வேண்டும், அவ் வுயர்வுக் கைகூடாவிட்டாலும் அவ்வாறு எண்ணுவதை விடக்கூடாது.",
+          "தவறான வழிகளை எண்ணி கூறுகின்ற அமைச்சனை விட எழுபது கோடி பகைவர் பக்கத்தில் இருந்தாலும் நன்மையாகும்.",
+          "அன்பு, அறிவு, ஆராய்ந்து சொல்கின்ற சொல் வன்மை ஆகிய இவை மூன்றும் தூது உரைப்பவர்க்கு இன்றியமையாத மூன்று பண்புகளாகும்."
+        ],
+        "quiz_options_en": [
+          "Sceptered tyrant exacting gold Is \\\"give\\\" of lanced robber bold",
+          "Let thoughts be always great and grand Though they fail their virtues stand",
+          "Seventy crores of foes are better Than a minister with mind bitter",
+          "Envoys must bear love for their prince Knowledge and learned eloquence"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கொடுங்கோன்மை) பகுதியில் குறள் 552 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஆட்சிக்குறிய கோலை ஏந்தி நின்ற அரசன் குடிகளைப் பொருள் கேட்டல் , போகும் வழியில் கள்வன் கொடு என்று கேட்பதைப் போன்றது. பரிமேலழகர் உரை நுட்பம்: வேலொடு நின்றான் - ஆறலைக்கும் இடத்துத்தனியே வேல் கொண்டு நின்ற கள்வன், இடு என்றது போலும் - ஆறுசெல்வானை 'நின் கைப்பொருள் தா' என்று வேண்டுதலோடுஒக்கும், கோலொடு நின்றான் இரவு - ஒறுத்தல் தொழிலோடு நின்றஅரசன் குடிகளைப் பொருள் வேண்டுதல். ('வேலொடு நின்றான்' என்றதனால...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 56: 'The Cruel Sceptre'), Kural 552 distills a foundational ethical insight: \"As 'Give' the robber cries with lance uplift, So kings with sceptred hand implore a gift\" Philosophically, The request (for money) of him who holds the sceptre is like the word of a highway robber who stands with a weapon in hand and says \"give up your wealth\".",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "justice",
+        "leadership",
+        "kindness",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 553,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நாள் தோறும் தன் ஆட்சியில் நன்மை தீமைகளை ஆராய்ந்து முறைசெய்யாத அரசன், நாள் தோறும் (மெல்ல மெல்லத்) தன் நாட்டை இழந்து வருவான்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The country of the king who does not daily examine into the wrongs done and distribute justice, will daily fall to ruin.",
+        "story_title_ta": "கொடுங்கோன்மை — நிலா கற்ற பாடம்",
+        "story_title_en": "The Cruel Sceptre — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கொடுங்கோன்மை' என்ற அதிகாரத்திலிருந்து குறள் 553 பற்றிக் கதை சொன்னார். 'நாட்டில் நடக்கும் தீமைகளை நாளும் பார்த்து, ஆராய்ந்து, ஏற்ற நீதியை வழங்காத ஆட்சியாளன் தன் பதவியை நாளும் இழப்பான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 56, 'The Cruel Sceptre', centered on Kural 553: The country of the king who does not daily examine into the wrongs done and distribute justice, will daily fall to ruin. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஆட்சியினால் விளையும் நன்மை தீமைகளை நாள் தோறும் ஆராய்ந்து அவற்றிக்குத் தக்கவாறு நடந்து கொள்ளாத அரசு அமைந்த நாடு சீர்குலைந்து போய்விடும்.",
+        "moral_en": "Moral: Who makes no daily search for wrongs, nor justly rules, that kingDoth day by day his realm to ruin bring.",
+        "game_blank_word_ta": "முறைசெய்யா",
+        "game_options_ta": [
+          "கொலைமேற்கொண்",
+          "முறைசெய்யா",
+          "டாரிற்",
+          "கொடிதே"
+        ],
+        "game_options_en": [
+          "The unjust tyrant oppressor Is worse than cruel murderer",
+          "Spy wrongs daily and do justice Or day by day the realm decays",
+          "Sceptered tyrant exacting gold Is \\\"give\\\" of lanced robber bold",
+          "The king shall wealth and subjects lose If his sceptre he dares abuse"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொடுங்கோன்மை (அரசியல்) பிரிவில் அமைந்த குறள் 553, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாட்டில் நடக்கும் தீமைகளை நாளும் பார்த்து, ஆராய்ந்து, ஏற்ற நீதியை வழங்காத ஆட்சியாளன் தன் பதவியை நாளும் இழப்பான். கலைஞர் உரை கூறுவது: ஆட்சியினால் விளையும் நன்மை தீமைகளை நாள் தோறும் ஆராய்ந்து அவற்றிக்குத் தக்கவாறு நடந்து கொள்ளாத அரசு அமைந்த நாடு சீர்குலைந்து போய்விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Cruel Sceptre (Royalty & Polity), Kural 553 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The country of the king who does not daily examine into the wrongs done and distribute justice, will daily fall to ruin. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கொடுங்கோன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Cruel Sceptre' thoughtfully.",
+        "quiz_question_ta": "'கொடுங்கோன்மை' அதிகாரத்தில் வரும் திருக்குறள் 553 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 553 from Chapter 'The Cruel Sceptre'?",
+        "quiz_options_ta": [
+          "உடம்பை மறைக்குமளவு அம்புகளால் புண்பட்டும் யானைத் தன் பெருமையை நிலைநிறுத்தும், அதுபோல் ஊக்கம் உடையவர் அழிவு வந்தவிடத்திலும் தளர மாட்டார்.",
+          "நாள் தோறும் தன் ஆட்சியில் நன்மை தீமைகளை ஆராய்ந்து முறைசெய்யாத அரசன், நாள் தோறும் (மெல்ல மெல்லத்) தன் நாட்டை இழந்து வருவான்.",
+          "(செயல்களைச் முடிக்கும்) திறன் இல்லாதவர், முன்னே எண்ணி வைத்திருந்தும் (செய்யும் போது) குறையானவைகளையேச் செய்வர்.",
+          "அரசனிடம் சென்று தன் அரசனுடைய வெற்றிக்கு காரணமானச் செயலைப் பற்றித் தூது உரைப்பவன் திறம் நூலறிந்தவருள் நூல் வல்லவனாக விளங்குதல் ஆகும்."
+        ],
+        "quiz_options_en": [
+          "Elephants are firm when arrows hit Great minds keep fit ev'n in defeat",
+          "Spy wrongs daily and do justice Or day by day the realm decays",
+          "The unresolved, though well designed To fulfil an act they have no mind",
+          "Savant among savants, he pleads Before lanced king, triumphant words"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கொடுங்கோன்மை) பகுதியில் குறள் 553 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நாள் தோறும் தன் ஆட்சியில் நன்மை தீமைகளை ஆராய்ந்து முறைசெய்யாத அரசன், நாள் தோறும் (மெல்ல மெல்லத்) தன் நாட்டை இழந்து வருவான். பரிமேலழகர் உரை நுட்பம்: நாள்தொறும் நாடி முறை செய்யா மன்னவன் - தன் நாட்டு நிகழும் தீமைகளை நாள்தோறும் ஆராய்ந்து அதற்கு ஒக்க முறைமையைச் செய்யாத அரசன், நாள்தொறும் நாடு கெடும் - நாள்தோறும் நாடு இழக்கும். (அரசனுக்கு நாடு, உறுப்பு ஆகலின், அதன் வினை அவன்மேல் நின்றது. இழத்தல்: பயன் எய்தாமை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 56: 'The Cruel Sceptre'), Kural 553 distills a foundational ethical insight: \"Who makes no daily search for wrongs, nor justly rules, that kingDoth day by day his realm to ruin bring\" Philosophically, The country of the king who does not daily examine into the wrongs done and distribute justice, will daily fall to ruin.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "justice",
+        "speech",
+        "leadership",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 554,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: (ஆட்சிமுறை கெட்டுக்) கொடுங்கோலனாகி ஆராயாமல் எதையும் செய்யும் அரசன், பொருளையும் குடிகளையும் ஒரு சேர இழந்து விடுவான்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The king, who, without reflecting (on its evil consequences), perverts justice, will lose at once both his wealth and his subjects.",
+        "story_title_ta": "கொடுங்கோன்மை — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Cruel Sceptre — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கொடுங்கோன்மை' என்ற அதிகாரத்திலிருந்து குறள் 554 பற்றிக் கதை சொன்னார். 'மேல்வருவதை எண்ணாது, தவறாக ஆள்பவன் தன் செல்வத்தையும், செல்வம் தரும் குடிமக்களையும் சேர்ந்தே இழந்துவிடுவான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 56, 'The Cruel Sceptre', centered on Kural 554: The king, who, without reflecting (on its evil consequences), perverts justice, will lose at once both his wealth and his subjects. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நாட்டுநிலை ஆராயாமல் கொடுங்கோல் புரியும் அரசு, நிதி ஆதாரத்தையும் மக்களின் மதிப்பையும் இழந்துவிடும்.",
+        "moral_en": "Moral: Whose rod from right deflects, who counsel doth refuse, At once his wealth and people utterly shall lose.",
+        "game_blank_word_ta": "குடியும்",
+        "game_options_ta": [
+          "கொலைமேற்கொண்",
+          "டாரிற்",
+          "குடியும்",
+          "கொடிதே"
+        ],
+        "game_options_en": [
+          "The unjust tyrant oppressor Is worse than cruel murderer",
+          "Sceptered tyrant exacting gold Is \\\"give\\\" of lanced robber bold",
+          "The king shall wealth and subjects lose If his sceptre he dares abuse",
+          "Spy wrongs daily and do justice Or day by day the realm decays"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொடுங்கோன்மை (அரசியல்) பிரிவில் அமைந்த குறள் 554, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மேல்வருவதை எண்ணாது, தவறாக ஆள்பவன் தன் செல்வத்தையும், செல்வம் தரும் குடிமக்களையும் சேர்ந்தே இழந்துவிடுவான். கலைஞர் உரை கூறுவது: நாட்டுநிலை ஆராயாமல் கொடுங்கோல் புரியும் அரசு, நிதி ஆதாரத்தையும் மக்களின் மதிப்பையும் இழந்துவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Cruel Sceptre (Royalty & Polity), Kural 554 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The king, who, without reflecting (on its evil consequences), perverts justice, will lose at once both his wealth and his subjects. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கொடுங்கோன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Cruel Sceptre' thoughtfully.",
+        "quiz_question_ta": "'கொடுங்கோன்மை' அதிகாரத்தில் வரும் திருக்குறள் 554 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 554 from Chapter 'The Cruel Sceptre'?",
+        "quiz_options_ta": [
+          "ஊக்கம் இல்லாதவர் இவ்வுலகில் யாம் வண்மை உடையேம் என்றுத் தம்மைத் தான் எண்ணி மகிழும் மகிழ்ச்சியை அடையமாடடார்.",
+          "நாவன்மையாகிய நலம் ஒருவகைச் செல்வம் ஆகும், அந்த நாநலம் தனிச்சிறப்புடையது, ஆகையால் மற்ற எந்த நலங்களிலும் அடங்குவது அன்று.",
+          "(ஆட்சிமுறை கெட்டுக்) கொடுங்கோலனாகி ஆராயாமல் எதையும் செய்யும் அரசன், பொருளையும் குடிகளையும் ஒரு சேர இழந்து விடுவான்.",
+          "இயற்கை அறிவு, விரும்பத்தக்கத் தோற்றம், ஆராய்ச்சி உடையக் கல்வி ஆகிய இம் மூன்றின் பொருத்தம் உடையவன் தூது உரைக்கும் தொழிலுக்குச் செல்லலாம்."
+        ],
+        "quiz_options_en": [
+          "Heartless persons cannot boast \\\"We are liberal to our best\\\"",
+          "The goodness called goodness of speech Is goodness which nothing can reach",
+          "The king shall wealth and subjects lose If his sceptre he dares abuse",
+          "Who has these three: good form, sense, lore Can act as bold ambassador"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கொடுங்கோன்மை) பகுதியில் குறள் 554 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (ஆட்சிமுறை கெட்டுக்) கொடுங்கோலனாகி ஆராயாமல் எதையும் செய்யும் அரசன், பொருளையும் குடிகளையும் ஒரு சேர இழந்து விடுவான். பரிமேலழகர் உரை நுட்பம்: சூழாது கோல் கோடிச் செய்யும் அரசு - மேல் விளைவது எண்ணாது முறைதப்பச் செய்யும் அரசன், கூழும் குடியும் ஒருங்கு இழக்கும் - அச்செயலான் முன் ஈட்டிய பொருளையும் பின் ஈட்டுதற்கு ஏதுவாகிய குடிகளையும் சேர இழக்கும். ('கோடல்' என்பது திரிந்து நின்றது. முன் ஈட்டிய பொருள...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 56: 'The Cruel Sceptre'), Kural 554 distills a foundational ethical insight: \"Whose rod from right deflects, who counsel doth refuse, At once his wealth and people utterly shall lose\" Philosophically, The king, who, without reflecting (on its evil consequences), perverts justice, will lose at once both his wealth and his subjects.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "justice",
+        "leadership",
+        "family",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 555,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: (முறை செய்யாதவனுடைய) செல்வத்தைத் தேய்த்து அழிக்க வல்ல படை அவனால் பலர் துன்பப்பட்டுத் துன்பம் பொறுக்க முடியாமல் அழுத கண்ணீர் அன்றோ.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Will not the tears, shed by a people who cannot endure the oppression which they suffer (from their king), become a saw to waste away his wealth ?",
+        "story_title_ta": "கொடுங்கோன்மை — இனியா கற்ற பாடம்",
+        "story_title_en": "The Cruel Sceptre — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கொடுங்கோன்மை' என்ற அதிகாரத்திலிருந்து குறள் 555 பற்றிக் கதை சொன்னார். 'தவறான ஆட்சியால் துன்பப்பட்டு, துன்பம் பொறுக்காத குடிமக்கள் சிந்திய கண்ணீர்தான், ஆட்சியாளரின் செல்வத்தை அழிக்கும் ஆயுதம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 56, 'The Cruel Sceptre', centered on Kural 555: Will not the tears, shed by a people who cannot endure the oppression which they suffer (from their king), become a saw to waste away his wealth ? Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கொடுமை பொறுக்க முடியாமல் மக்கள் சிந்தும் கண்ணீர் ஆட்சியை அழிக்கும் படைக்கருவியாகும்.",
+        "moral_en": "Moral: His people's tears of sorrow past endurance, are not theySharp instruments to wear the monarch's wealth away.",
+        "game_blank_word_ta": "ணீரன்றே",
+        "game_options_ta": [
+          "கொலைமேற்கொண்",
+          "டாரிற்",
+          "கொடிதே",
+          "ணீரன்றே"
+        ],
+        "game_options_en": [
+          "The unjust tyrant oppressor Is worse than cruel murderer",
+          "Sceptered tyrant exacting gold Is \\\"give\\\" of lanced robber bold",
+          "Spy wrongs daily and do justice Or day by day the realm decays",
+          "Groaning tears caused by tyrant's sway File the royal wealth away"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொடுங்கோன்மை (அரசியல்) பிரிவில் அமைந்த குறள் 555, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தவறான ஆட்சியால் துன்பப்பட்டு, துன்பம் பொறுக்காத குடிமக்கள் சிந்திய கண்ணீர்தான், ஆட்சியாளரின் செல்வத்தை அழிக்கும் ஆயுதம். கலைஞர் உரை கூறுவது: கொடுமை பொறுக்க முடியாமல் மக்கள் சிந்தும் கண்ணீர் ஆட்சியை அழிக்கும் படைக்கருவியாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Cruel Sceptre (Royalty & Polity), Kural 555 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Will not the tears, shed by a people who cannot endure the oppression which they suffer (from their king), become a saw to waste away his wealth ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கொடுங்கோன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Cruel Sceptre' thoughtfully.",
+        "quiz_question_ta": "'கொடுங்கோன்மை' அதிகாரத்தில் வரும் திருக்குறள் 555 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 555 from Chapter 'The Cruel Sceptre'?",
+        "quiz_options_ta": [
+          "யானை பருத்த உடம்பை உடையது, கூர்மையானக் கொம்புகளை உடையது, ஆயினும் ஊக்கமுள்ளதாகியப் புலி தாக்கினால் அதற்கு அஞ்சும்.",
+          "ஆக்கமும் கேடும் சொல்லுகின்ற சொல்லால் வருவதால் ஒருவன் தன்னுடைய சொல்லிற்க்கு தவறு நேராமல் காத்துக்கொள்ள வேண்டும்",
+          "பலவற்றைத் தொகுத்து சொல்லியும், அவற்றுள் பயனற்றவைகளை நீக்கியும், மகிழுமாறு சொல்லியும் தன் தலைவனுக்கு நன்மை உண்டாக்குகின்றவன் தூதன்.",
+          "(முறை செய்யாதவனுடைய) செல்வத்தைத் தேய்த்து அழிக்க வல்ல படை அவனால் பலர் துன்பப்பட்டுத் துன்பம் பொறுக்க முடியாமல் அழுத கண்ணீர் அன்றோ."
+        ],
+        "quiz_options_en": [
+          "Huge elephant sharp in tusk quails When tiger, less in form, assails",
+          "Since gain or ruin speeches bring Guard against the slips of tongue",
+          "Not harsh, the envoy's winsome ways Does good by pleasant words concise",
+          "Groaning tears caused by tyrant's sway File the royal wealth away"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கொடுங்கோன்மை) பகுதியில் குறள் 555 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (முறை செய்யாதவனுடைய) செல்வத்தைத் தேய்த்து அழிக்க வல்ல படை அவனால் பலர் துன்பப்பட்டுத் துன்பம் பொறுக்க முடியாமல் அழுத கண்ணீர் அன்றோ. பரிமேலழகர் உரை நுட்பம்: அல்லற்பட்டு ஆற்றாது அழுத கண்ணீர் அன்றே - அரசன் முறை செய்யாமையால் குடிகள் துன்பமுற்று அதனைப் பொறுக்க மாட்டாது அழுத கண்ணீரன்றே, செல்வத்தைத் தேய்க்கும் படை - அவன் செல்வத்தைக் குறைக்கும் கருவி. (அழுத கண்ணீர்: அழுதலான் வந்த கண்ணீர் - 'செல்வமாகிய மரத்தை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 56: 'The Cruel Sceptre'), Kural 555 distills a foundational ethical insight: \"His people's tears of sorrow past endurance, are not theySharp instruments to wear the monarch's wealth away\" Philosophically, Will not the tears, shed by a people who cannot endure the oppression which they suffer (from their king), become a saw to waste away his wealth ?",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "justice",
+        "wealth",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 556,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அரசர்க்கு புகழ் நிலைபெறக் காரணம் செங்கோல் முறையாகும், அஃது இல்லையானால் அரசர்க்கு புகழ் நிலைபெறாமல் போகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Righteous government gives permanence to (the fame of) kings; without that their fame will have no endurance.",
+        "story_title_ta": "கொடுங்கோன்மை — முகில் கற்ற பாடம்",
+        "story_title_en": "The Cruel Sceptre — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கொடுங்கோன்மை' என்ற அதிகாரத்திலிருந்து குறள் 556 பற்றிக் கதை சொன்னார். 'ஆட்சியாளர்க்குப் புகழ் நிலைத்திருக்கக் காரணம் நேர்மையான ஆட்சியே. அந்த ஆட்சி இல்லை என்றால் புகழும் நிலைத்திருக்காது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 56, 'The Cruel Sceptre', centered on Kural 556: Righteous government gives permanence to (the fame of) kings; without that their fame will have no endurance. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நீதிநெறி தவறாக செங்கோன்மைதான் ஓர் அரசுக்கு புகழைத் தரும் இல்லையேல் அந்த அரசின் புகழ் நிலையற்றுச் சரிந்து போகும்.",
+        "moral_en": "Moral: To rulers' rule stability is sceptre right; When this is not, quenched is the rulers' light.",
+        "game_blank_word_ta": "மன்னாவாம்",
+        "game_options_ta": [
+          "மன்னாவாம்",
+          "கொலைமேற்கொண்",
+          "டாரிற்",
+          "கொடிதே"
+        ],
+        "game_options_en": [
+          "Glory endures by sceptre right Without it wanes the royal light",
+          "The unjust tyrant oppressor Is worse than cruel murderer",
+          "Sceptered tyrant exacting gold Is \\\"give\\\" of lanced robber bold",
+          "Spy wrongs daily and do justice Or day by day the realm decays"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொடுங்கோன்மை (அரசியல்) பிரிவில் அமைந்த குறள் 556, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆட்சியாளர்க்குப் புகழ் நிலைத்திருக்கக் காரணம் நேர்மையான ஆட்சியே. அந்த ஆட்சி இல்லை என்றால் புகழும் நிலைத்திருக்காது. கலைஞர் உரை கூறுவது: நீதிநெறி தவறாக செங்கோன்மைதான் ஓர் அரசுக்கு புகழைத் தரும் இல்லையேல் அந்த அரசின் புகழ் நிலையற்றுச் சரிந்து போகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Cruel Sceptre (Royalty & Polity), Kural 556 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Righteous government gives permanence to (the fame of) kings; without that their fame will have no endurance. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கொடுங்கோன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Cruel Sceptre' thoughtfully.",
+        "quiz_question_ta": "'கொடுங்கோன்மை' அதிகாரத்தில் வரும் திருக்குறள் 556 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 556 from Chapter 'The Cruel Sceptre'?",
+        "quiz_options_ta": [
+          "அரசர்க்கு புகழ் நிலைபெறக் காரணம் செங்கோல் முறையாகும், அஃது இல்லையானால் அரசர்க்கு புகழ் நிலைபெறாமல் போகும்.",
+          "ஒருவனுக்கு வலிமையானது ஊக்க மிகுதியே, அவ்வூக்கம் இல்லாதவர் மரங்களே, (வடிவால்) மக்களைப் போல் இருத்தலே வேறுபாடு.",
+          "சொல்லும் போது கேட்டவரைத் தன் வயப்படுத்தும் பண்புகளுடன், கேட்காதவரும் கேட்க விரும்புமாறு கூறப்படுவது சொல்வன்மையாகும்.",
+          "கற்பன கற்று, பிறருடைய பகையான பார்வைக்கு அஞ்சாமல் கேட்பவர் உள்ளத்தில் பதியுமாறு சொல்லி, காலத்திற்க்குப் பொருத்தமானதை அறிகின்றவனே தூதன்."
+        ],
+        "quiz_options_en": [
+          "Glory endures by sceptre right Without it wanes the royal light",
+          "Mental courage is true manhood Lacking that man is like a wood",
+          "A speech is speech that holds ears And attracts ev'n those that are averse",
+          "Learned; fearless, the envoy tends Convincing words which time demands"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கொடுங்கோன்மை) பகுதியில் குறள் 556 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அரசர்க்கு புகழ் நிலைபெறக் காரணம் செங்கோல் முறையாகும், அஃது இல்லையானால் அரசர்க்கு புகழ் நிலைபெறாமல் போகும். பரிமேலழகர் உரை நுட்பம்: மன்னர்க்கு மன்னுதல் செங்கோன்மை - அரசர்க்குப் புகழ்கள்தாம் நிலை பெறுதல் செங்கோன்மையான் ஆம், அஃது இன்றேல் மன்னர்க்கு ஒளி மன்னாவாம் - அச்செங்கோன்மை இல்லை ஆயின், அவர்க்கு அப்புகழ்கள் தாம் உளவாகா. (விகாரத்தால் தொக்க மூன்றாவது விரித்து ஆக்கம் வருவித்து...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 56: 'The Cruel Sceptre'), Kural 556 distills a foundational ethical insight: \"To rulers' rule stability is sceptre right; When this is not, quenched is the rulers' light\" Philosophically, Righteous government gives permanence to (the fame of) kings; without that their fame will have no endurance.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "justice",
+        "leadership",
+        "ethics",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 557,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மழைத்துளி இல்லாதிருத்தல் உலகத்திற்கு எத்தன்மையானதோ, அத்தன்மையானது நாட்டில் வாழும் குடிமக்களுக்கு அரசனுடைய அருள் இல்லாத ஆட்சி.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: As is the world without rain, so live a people whose king is without kindness.",
+        "story_title_ta": "கொடுங்கோன்மை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Cruel Sceptre — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கொடுங்கோன்மை' என்ற அதிகாரத்திலிருந்து குறள் 557 பற்றிக் கதை சொன்னார். 'மழை இல்லாது போனால் எத்தகைய துயரத்தை மக்கள் அடைவார்களோ, அத்தகைய துயரத்தை, நேர்மையில்லாத ஆட்சியின் கீழும் அடைவார்கள்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 56, 'The Cruel Sceptre', centered on Kural 557: As is the world without rain, so live a people whose king is without kindness. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மழையில்லாவிடில் துன்பமுறும் உலகத்தைப் போல் அருள் இல்லாத அரசினால் குடிமக்கள் தொல்லைப்படுவார்கள்.",
+        "moral_en": "Moral: As lack of rain to thirsty lands beneath, Is lack of grace in kings to all that breathe.",
+        "game_blank_word_ta": "அளியின்மை",
+        "game_options_ta": [
+          "கொலைமேற்கொண்",
+          "அளியின்மை",
+          "டாரிற்",
+          "கொடிதே"
+        ],
+        "game_options_en": [
+          "The unjust tyrant oppressor Is worse than cruel murderer",
+          "Dry like the earth without rainfall Is graceless king to creatures all",
+          "Sceptered tyrant exacting gold Is \\\"give\\\" of lanced robber bold",
+          "Spy wrongs daily and do justice Or day by day the realm decays"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொடுங்கோன்மை (அரசியல்) பிரிவில் அமைந்த குறள் 557, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மழை இல்லாது போனால் எத்தகைய துயரத்தை மக்கள் அடைவார்களோ, அத்தகைய துயரத்தை, நேர்மையில்லாத ஆட்சியின் கீழும் அடைவார்கள். கலைஞர் உரை கூறுவது: மழையில்லாவிடில் துன்பமுறும் உலகத்தைப் போல் அருள் இல்லாத அரசினால் குடிமக்கள் தொல்லைப்படுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Cruel Sceptre (Royalty & Polity), Kural 557 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As is the world without rain, so live a people whose king is without kindness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கொடுங்கோன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Cruel Sceptre' thoughtfully.",
+        "quiz_question_ta": "'கொடுங்கோன்மை' அதிகாரத்தில் வரும் திருக்குறள் 557 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 557 from Chapter 'The Cruel Sceptre'?",
+        "quiz_options_ta": [
+          "ஒருவனுக்கு தன் குடியாகிய மங்காத விளக்கு, அவனுடைய சோம்பலாகிய மாசு படிய படிய ஒளி மங்கிக் கெட்டுவிடும்.",
+          "மழைத்துளி இல்லாதிருத்தல் உலகத்திற்கு எத்தன்மையானதோ, அத்தன்மையானது நாட்டில் வாழும் குடிமக்களுக்கு அரசனுடைய அருள் இல்லாத ஆட்சி.",
+          "சொல்லின் திறத்தை அறிந்து சொல்லை வழங்க வேண்டும், அத் தகைய சொல்வன்மையை விடச் சிறந்த அறமும் பொருளும் இல்லை.",
+          "தன் கடமை இன்னதென்று தெளிவாக அறிந்து , அதை செய்வதற்கு ஏற்றக்காலத்தை எதிர்நோக்கி தக்க இடத்தையும் ஆராய்ந்து சொல்கின்றவனே தூதன்."
+        ],
+        "quiz_options_en": [
+          "Quenchless lamp of ancestry goes When foul idleness encloses",
+          "Dry like the earth without rainfall Is graceless king to creatures all",
+          "Weigh thy words and speak; because No wealth or virtue words surpass",
+          "Knowing duty time and place The envoy employs mature phrase"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கொடுங்கோன்மை) பகுதியில் குறள் 557 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மழைத்துளி இல்லாதிருத்தல் உலகத்திற்கு எத்தன்மையானதோ, அத்தன்மையானது நாட்டில் வாழும் குடிமக்களுக்கு அரசனுடைய அருள் இல்லாத ஆட்சி. பரிமேலழகர் உரை நுட்பம்: 'துளி' இன்மை ஞாலத்திற்கு எற்று - மழை இல்லாமை வையத்து வாழும் உயிர்கட்கு எவ்வகைத் துன்பம் பயக்கும், அற்றே வேந்தன் அளியின்மை வாழும் உயிர்க்கு - அவ்வகைத் துன்பம் பயக்கும் அரசன் தண்ணளியில்லாமை அவன் நாட்டு வாழும் குடிகட்கு. (சிறப்புப்பற்றி 'துளி' என்பது மழைமேல...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 56: 'The Cruel Sceptre'), Kural 557 distills a foundational ethical insight: \"As lack of rain to thirsty lands beneath, Is lack of grace in kings to all that breathe\" Philosophically, As is the world without rain, so live a people whose king is without kindness.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "kindness",
+        "family",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 558,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: முறை செய்யாத அரசனுடைய கொடுங்கோல் ஆட்சியின் கீழ் இருக்கப் பெற்றால், பொருள் இல்லாத வறுமை நிலையைவிடச் செல்வநிலை துன்பமானதாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Property gives more sorrow than poverty, to those who live under the sceptre of a king without justice.",
+        "story_title_ta": "கொடுங்கோன்மை — கவின் கற்ற பாடம்",
+        "story_title_en": "The Cruel Sceptre — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கொடுங்கோன்மை' என்ற அதிகாரத்திலிருந்து குறள் 558 பற்றிக் கதை சொன்னார். 'தவறாக ஆள்பவரின் ஆட்சிக்குக் கீழ் ஏழையாய் வாழ்வதைக் காட்டிலும் பணக்காரனாய் வாழ்வது துன்பம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 56, 'The Cruel Sceptre', centered on Kural 558: Property gives more sorrow than poverty, to those who live under the sceptre of a king without justice. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வறுமையின்றி வாழ்ந்தால்கூட அந்த வாழ்க்கை கொடுங்கோல் ஆட்சியின் கீழ் அமைந்துவிட்டால் வறுமைத் துன்பத்தை விட அதிகத் துன்பம் தரக் கூடியது.",
+        "moral_en": "Moral: To poverty it adds a sharper sting, To live beneath the sway of unjust king.",
+        "game_blank_word_ta": "கோற்கீழ்ப்",
+        "game_options_ta": [
+          "கொலைமேற்கொண்",
+          "டாரிற்",
+          "கோற்கீழ்ப்",
+          "கொடிதே"
+        ],
+        "game_options_en": [
+          "The unjust tyrant oppressor Is worse than cruel murderer",
+          "Sceptered tyrant exacting gold Is \\\"give\\\" of lanced robber bold",
+          "To have is worse than having not If ruler is unjust despot",
+          "Spy wrongs daily and do justice Or day by day the realm decays"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொடுங்கோன்மை (அரசியல்) பிரிவில் அமைந்த குறள் 558, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தவறாக ஆள்பவரின் ஆட்சிக்குக் கீழ் ஏழையாய் வாழ்வதைக் காட்டிலும் பணக்காரனாய் வாழ்வது துன்பம். கலைஞர் உரை கூறுவது: வறுமையின்றி வாழ்ந்தால்கூட அந்த வாழ்க்கை கொடுங்கோல் ஆட்சியின் கீழ் அமைந்துவிட்டால் வறுமைத் துன்பத்தை விட அதிகத் துன்பம் தரக் கூடியது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Cruel Sceptre (Royalty & Polity), Kural 558 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Property gives more sorrow than poverty, to those who live under the sceptre of a king without justice. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கொடுங்கோன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Cruel Sceptre' thoughtfully.",
+        "quiz_question_ta": "'கொடுங்கோன்மை' அதிகாரத்தில் வரும் திருக்குறள் 558 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 558 from Chapter 'The Cruel Sceptre'?",
+        "quiz_options_ta": [
+          "தம் குடியைச் சிறப்புடைய குடியாக விளங்குமாறு செய்ய விரும்புகின்றவர் சோம்பலைச் சோம்பலாகக் கொண்டு முயற்சியுடையவராய் நடக்க வேண்டும்.",
+          "வேறோரு சொல் அந்தச் சொல்லை வெல்லும் சொல்லாக இல்லாதிருந்தால் அறிந்த பிறகே சொல்லக்கருதியதைச் சொல்லவேண்டும்.",
+          "முறை செய்யாத அரசனுடைய கொடுங்கோல் ஆட்சியின் கீழ் இருக்கப் பெற்றால், பொருள் இல்லாத வறுமை நிலையைவிடச் செல்வநிலை துன்பமானதாகும்.",
+          "தூய ஒழுக்கம் உடையவனாதல், துணை உடையவனாதல், துணிவு உடையவனாதல் இந்த மூன்றும் வாய்த்திருத்தலே தூது உரைப்பவனுடைய தகுதியாகும்."
+        ],
+        "quiz_options_en": [
+          "To make your home an ideal home Loath sloth as sloth; refuse it room",
+          "Speak out thy world so that no word Can win it and say untoward",
+          "To have is worse than having not If ruler is unjust despot",
+          "The true envoy of three virtues Is pure helpful and bold in views"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கொடுங்கோன்மை) பகுதியில் குறள் 558 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முறை செய்யாத அரசனுடைய கொடுங்கோல் ஆட்சியின் கீழ் இருக்கப் பெற்றால், பொருள் இல்லாத வறுமை நிலையைவிடச் செல்வநிலை துன்பமானதாகும். பரிமேலழகர் உரை நுட்பம்: முறை செய்யா மன்னவன் கோற்கீழ்ப் படின் - முறை செய்யாத அரசனது கொடுங்கோலின்கீழ் வாழின், இன்மையின் உடைமை இன்னாது - யாவர்க்கும் பொருளினது இன்மையினும் உடைமை இன்னாது. (தனக்குரிய பொருளோடு அமையாது மேலும் வெஃகுவோனது நாட்டுக் கைந்நோவயாப்புண்டல் முதலிய வருவது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 56: 'The Cruel Sceptre'), Kural 558 distills a foundational ethical insight: \"To poverty it adds a sharper sting, To live beneath the sway of unjust king\" Philosophically, Property gives more sorrow than poverty, to those who live under the sceptre of a king without justice.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "justice",
+        "leadership",
+        "kindness",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 559,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அரசன் முறை தவறி நாட்டை ஆட்சி செய்வானானால், அந்த நாட்டில் பருவமழை தவறி மேகம் மழை பெய்யாமல் போகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: If the king acts contrary to justice, rain will become unseasonable, and the heavens will withhold their showers.",
+        "story_title_ta": "கொடுங்கோன்மை — நிலா கற்ற பாடம்",
+        "story_title_en": "The Cruel Sceptre — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கொடுங்கோன்மை' என்ற அதிகாரத்திலிருந்து குறள் 559 பற்றிக் கதை சொன்னார். 'ஆட்சியாளர் நீதி தவறினால் நாட்டில் பருவகாலமும் தவறி மழையும் பெய்யாது போகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 56, 'The Cruel Sceptre', centered on Kural 559: If the king acts contrary to justice, rain will become unseasonable, and the heavens will withhold their showers. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: முறை தவறிச் செயல்படும் ஆட்சியில் நீரைத்தேக்கிப் பயனளிக்கும் இடங்கள் பாழ்பட்டுப் போகுமாதலால், வான் வழங்கும் மழையைத் தேக்கி வைத்து வளம் பெறவும் இயலாது.",
+        "moral_en": "Moral: Where king from right deflecting, makes unrighteous gain, The seasons change, the clouds pour down no rain.",
+        "game_blank_word_ta": "பெயல்",
+        "game_options_ta": [
+          "கொலைமேற்கொண்",
+          "டாரிற்",
+          "கொடிதே",
+          "பெயல்"
+        ],
+        "game_options_en": [
+          "The unjust tyrant oppressor Is worse than cruel murderer",
+          "Sceptered tyrant exacting gold Is \\\"give\\\" of lanced robber bold",
+          "Spy wrongs daily and do justice Or day by day the realm decays",
+          "The sky withdraws season's shower If the king misuses his power"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொடுங்கோன்மை (அரசியல்) பிரிவில் அமைந்த குறள் 559, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆட்சியாளர் நீதி தவறினால் நாட்டில் பருவகாலமும் தவறி மழையும் பெய்யாது போகும். கலைஞர் உரை கூறுவது: முறை தவறிச் செயல்படும் ஆட்சியில் நீரைத்தேக்கிப் பயனளிக்கும் இடங்கள் பாழ்பட்டுப் போகுமாதலால், வான் வழங்கும் மழையைத் தேக்கி வைத்து வளம் பெறவும் இயலாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Cruel Sceptre (Royalty & Polity), Kural 559 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If the king acts contrary to justice, rain will become unseasonable, and the heavens will withhold their showers. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கொடுங்கோன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Cruel Sceptre' thoughtfully.",
+        "quiz_question_ta": "'கொடுங்கோன்மை' அதிகாரத்தில் வரும் திருக்குறள் 559 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 559 from Chapter 'The Cruel Sceptre'?",
+        "quiz_options_ta": [
+          "அழிக்கும் இயல்புடைய சோம்பலைத் தன்னிடம் கொண்டு நடக்கும் அறிவவில்லாதவன் பிறந்த குடி அவனுக்கு முன் அழிந்துவிடும்.",
+          "பிறர் விரும்பும் படியாகத் தாம் சொல்லின் பிறர் சொல்லும் போது அச் சொல்லின் பயனை ஆராய்ந்து கொள்ளுதல் மாசற்ற சிறப்புடையவரின் கொள்கையாகும்.",
+          "குற்றமானச் சொற்களை வாய் சோர்ந்தும் சொல்லாத உறுதி உடையவனே அரசன் சொல்லியனுப்பிய சொற்களை மற்ற வேந்தர்க்கு உரைக்கும் தகுதியுடையவன்.",
+          "அரசன் முறை தவறி நாட்டை ஆட்சி செய்வானானால், அந்த நாட்டில் பருவமழை தவறி மேகம் மழை பெய்யாமல் போகும்."
+        ],
+        "quiz_options_en": [
+          "The fool who fosters sluggishness Before he dies ruins his house",
+          "Spotless men speak what is sweet And grasp in others what is meet",
+          "The envoy who ports the king's message Has flawless words and heart's courage",
+          "The sky withdraws season's shower If the king misuses his power"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கொடுங்கோன்மை) பகுதியில் குறள் 559 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அரசன் முறை தவறி நாட்டை ஆட்சி செய்வானானால், அந்த நாட்டில் பருவமழை தவறி மேகம் மழை பெய்யாமல் போகும். பரிமேலழகர் உரை நுட்பம்: மன்னவன் முறை கோடிச் செய்யின் - மன்னவன் தான் செய்யும் பொருளை முறை தப்பச் செய்யுமாயின், உறைகோடி வானம் பெயல் ஒல்லாது - அவன் நாட்டுப் பருவமழை இன்றாம் வகை மேகம் பொழிதலைச் செய்யாது. (இரண்டிடத்தும் 'கோட' என்பன திரிந்து நின்றன. உறைகோடுதலாவது பெய்யும் காலத்துப...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 56: 'The Cruel Sceptre'), Kural 559 distills a foundational ethical insight: \"Where king from right deflecting, makes unrighteous gain, The seasons change, the clouds pour down no rain\" Philosophically, If the king acts contrary to justice, rain will become unseasonable, and the heavens will withhold their showers.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "justice",
+        "family",
+        "leadership",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 560,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நாட்டைக் காக்கும் தலைவன் முறைப்படி காக்காவிட்டால், அந் நாட்டில் பசுக்கள் பால் தருதலாகிய பயன் குன்றும், அந்தணரும் அறநூல்களை மறப்பர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If the guardian (of the country) neglects to guard it, the produce of the cows will fail, and the men of six duties viz, the Brahmins will forget the vedas.",
+        "story_title_ta": "கொடுங்கோன்மை — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Cruel Sceptre — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கொடுங்கோன்மை' என்ற அதிகாரத்திலிருந்து குறள் 560 பற்றிக் கதை சொன்னார். 'காவல் செய்யவேண்டிய ஆட்சியாளர் மக்களைக் காவாத, போனால், அறனற்ற அவர் நாட்டில் பால் வளம் குறையும். ஞானியர் நூல்களை மறந்துவிடுவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 56, 'The Cruel Sceptre', centered on Kural 560: If the guardian (of the country) neglects to guard it, the produce of the cows will fail, and the men of six duties viz, the Brahmins will forget the vedas. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஓர் அரசு நாட்டை முறைப்படி காக்கத் தவறினால் ஆக்கப்பணிகள் எதுவும் நடக்காது; முக்கியமான தொழில்களும் தேய்ந்து விடும்.",
+        "moral_en": "Moral: Where guardian guardeth not, udder of kine grows dry, And Brahmans' sacred lore will all forgotten lie.",
+        "game_blank_word_ta": "ஆபயன்",
+        "game_options_ta": [
+          "ஆபயன்",
+          "கொலைமேற்கொண்",
+          "டாரிற்",
+          "கொடிதே"
+        ],
+        "game_options_en": [
+          "The *six-functioned forget their lore Cows give less if kings guard no more * the six functions are: learning, teaching, giving, getting, sacrificing, kindling sacrifice These are duties of Vedic savants",
+          "The unjust tyrant oppressor Is worse than cruel murderer",
+          "Sceptered tyrant exacting gold Is \\\"give\\\" of lanced robber bold",
+          "Spy wrongs daily and do justice Or day by day the realm decays"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொடுங்கோன்மை (அரசியல்) பிரிவில் அமைந்த குறள் 560, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காவல் செய்யவேண்டிய ஆட்சியாளர் மக்களைக் காவாத, போனால், அறனற்ற அவர் நாட்டில் பால் வளம் குறையும். ஞானியர் நூல்களை மறந்துவிடுவர். கலைஞர் உரை கூறுவது: ஓர் அரசு நாட்டை முறைப்படி காக்கத் தவறினால் ஆக்கப்பணிகள் எதுவும் நடக்காது; முக்கியமான தொழில்களும் தேய்ந்து விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Cruel Sceptre (Royalty & Polity), Kural 560 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If the guardian (of the country) neglects to guard it, the produce of the cows will fail, and the men of six duties viz, the Brahmins will forget the vedas. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கொடுங்கோன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Cruel Sceptre' thoughtfully.",
+        "quiz_question_ta": "'கொடுங்கோன்மை' அதிகாரத்தில் வரும் திருக்குறள் 560 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 560 from Chapter 'The Cruel Sceptre'?",
+        "quiz_options_ta": [
+          "நாட்டைக் காக்கும் தலைவன் முறைப்படி காக்காவிட்டால், அந் நாட்டில் பசுக்கள் பால் தருதலாகிய பயன் குன்றும், அந்தணரும் அறநூல்களை மறப்பர்.",
+          "சோம்பலில் அகப்பட்டு சிறந்த முயற்சி இல்லாதவராய் வாழ்கின்றவர்க்கு குடியின் பெருமை அழிந்து குற்றம் பெருகும்.",
+          "தான் கருதியவற்றை நன்கு சொல்ல வல்லவனாய் சொல்லும் போது சோர்வு இல்லாதவனாய், அஞ்சாதவனாய் உள்ளவனை மாறுபாட்டால் வெல்வது யார்க்கும் முடியாது.",
+          "தனக்கு அழிவே தருவதாக இருந்தாலும் அதற்காக அஞ்சி விட்டுவிடாமல், தன் அரசனுக்கு நன்மை உண்டாகுமாறு செய்கின்றவனே தூதன்."
+        ],
+        "quiz_options_en": [
+          "The *six-functioned forget their lore Cows give less if kings guard no more * the six functions are: learning, teaching, giving, getting, sacrificing, kindling sacrifice These are duties of Vedic savants",
+          "Who strive not high, sunk deep in sloth Ruin their house by evil growth",
+          "No foe defies the speaker clear Flawless, puissant, and free from fear",
+          "Braving death the bold envoy Assures his king's safety and joy"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கொடுங்கோன்மை) பகுதியில் குறள் 560 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நாட்டைக் காக்கும் தலைவன் முறைப்படி காக்காவிட்டால், அந் நாட்டில் பசுக்கள் பால் தருதலாகிய பயன் குன்றும், அந்தணரும் அறநூல்களை மறப்பர். பரிமேலழகர் உரை நுட்பம்: காவலன் காவான் எனின் - காத்தற்குரிய அரசன் உயிர்களைக் காவானாயின், ஆ பயன் குன்றும் - அறன் இல்லாத அவன் நாட்டுப் பசுக்களும் பால் குன்றும், அறு தொழிலோர் நூல் மறப்பர் - அந்தணரும் நூல்களை மறந்துவிடுவர். (ஆ பயன்: ஆவாற்கொள்ளும் பயன். அறுதொழிலாவன: ஓதல், ஓதுவித்தல...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 56: 'The Cruel Sceptre'), Kural 560 distills a foundational ethical insight: \"Where guardian guardeth not, udder of kine grows dry, And Brahmans' sacred lore will all forgotten lie\" Philosophically, If the guardian (of the country) neglects to guard it, the produce of the cows will fail, and the men of six duties viz, the Brahmins will forget the vedas.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "education",
+        "leadership",
+        "kindness",
+        "justice"
+      ]
+    }
+  ]
+}

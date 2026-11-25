@@ -1,0 +1,583 @@
+{
+  "adhikaram_id": 66,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.059847860+00:00",
+  "kurals": [
+    {
+      "kural_number": 651,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒருவனுக்கு வாய்த்த துணையின் நன்மை ஆக்கத்தைக் கொடுக்கும், செய்யும் வினையின் நன்மை அவன் விரும்பிய எல்லாவற்றையும் கொடுக்கும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The efficacy of support will yield (only) wealth; (but) the efficacy of action will yield all that is desired.",
+        "story_title_ta": "வினைத் தூய்மை — இனியா கற்ற பாடம்",
+        "story_title_en": "Purity in Action — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினைத் தூய்மை' என்ற அதிகாரத்திலிருந்து குறள் 651 பற்றிக் கதை சொன்னார். 'நல்ல துணை, செல்வம் தரும்; செயல் சுத்தமோ நாம் விரும்பிய எல்லாவற்றையும் தரும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 66, 'Purity in Action', centered on Kural 651: The efficacy of support will yield (only) wealth; (but) the efficacy of action will yield all that is desired. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவருக்குக் கிடைக்கும் துணைவர்களால் வலிமை பெருகும்; அவர்களுடன் கூடி ஆற்றிடும் நற்செயல்களால் எல்லா நலன்களும் கிட்டும்.",
+        "moral_en": "Moral: The good external help confers is worldly gain; By action good men every needed gift obtain.",
+        "game_blank_word_ta": "துணைநலம்",
+        "game_options_ta": [
+          "என்றும்",
+          "ஒருவுதல்",
+          "வேண்டும்",
+          "துணைநலம்"
+        ],
+        "game_options_en": [
+          "Eschew always acts that do not Bring good nor glory on their part",
+          "Those in the world desire for fame Should shun the deed that dims their name",
+          "Though perils press the faultless wise Shun deeds of mean, shameful device",
+          "Friendship brings gain; but action pure Does every good thing we desire"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினைத் தூய்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 651, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்ல துணை, செல்வம் தரும்; செயல் சுத்தமோ நாம் விரும்பிய எல்லாவற்றையும் தரும். கலைஞர் உரை கூறுவது: ஒருவருக்குக் கிடைக்கும் துணைவர்களால் வலிமை பெருகும்; அவர்களுடன் கூடி ஆற்றிடும் நற்செயல்களால் எல்லா நலன்களும் கிட்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Purity in Action (Ministers & Elements of State), Kural 651 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The efficacy of support will yield (only) wealth; (but) the efficacy of action will yield all that is desired. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினைத் தூய்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Purity in Action' thoughtfully.",
+        "quiz_question_ta": "'வினைத் தூய்மை' அதிகாரத்தில் வரும் திருக்குறள் 651 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 651 from Chapter 'Purity in Action'?",
+        "quiz_options_ta": [
+          "(அரசர் மறைபொருள் பேசும் போது) எப்பொருளையும் உற்றுக் கேட்காமல் தொடர்ந்து வினவாமல் அப்பொருளை அவரே விட்டுச் சொன்னபோது கேட்டறிய வேண்டும்.",
+          "நோயில்லாதிருத்தல், செல்வம், விளை பொருள், வளம், இன்பவாழ்வு, நல்ல காவல் இந்த ஐந்தும் நாட்டிற்கு அழகு என்று கூறுவர்.",
+          "நட்பைப்போல் செய்து கொள்வதற்கு அருமையானவை எவை உள்ளன, அதுபோல் தொழிலுக்கு அரிய காவலாக இருப்பவை எவை உள்ளன.",
+          "ஒருவனுக்கு வாய்த்த துணையின் நன்மை ஆக்கத்தைக் கொடுக்கும், செய்யும் வினையின் நன்மை அவன் விரும்பிய எல்லாவற்றையும் கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "Hear not, ask not the king's secret Hear only when he lets it out",
+          "Rich yield, delight, defence and wealth Are jewels of lands with blooming health",
+          "Like friendship what's so hard to gain? That guards one against acts villain?",
+          "Friendship brings gain; but action pure Does every good thing we desire"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினைத் தூய்மை) பகுதியில் குறள் 651 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவனுக்கு வாய்த்த துணையின் நன்மை ஆக்கத்தைக் கொடுக்கும், செய்யும் வினையின் நன்மை அவன் விரும்பிய எல்லாவற்றையும் கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: துணை நலம் ஆக்கம் தரூஉம் - ஒருவனுக்குத் துணையது நன்மை செல்வம் ஒன்றனையும் கொடுக்கும்; வினை நலம் வேண்டிய எல்லாம் தரும் - அவ்வளவன்றி வினையது நன்மை அவன் வேண்டியன யாவற்றையும் கொடுக்கும். (வேண்டிய எல்லாம் என்றது இம்மைக்கண் அறம், பொருள், இன்பம...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 66: 'Purity in Action'), Kural 651 distills a foundational ethical insight: \"The good external help confers is worldly gain; By action good men every needed gift obtain\" Philosophically, The efficacy of support will yield (only) wealth; (but) the efficacy of action will yield all that is desired.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "self-mastery",
+        "speech",
+        "wealth",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 652,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: புகழையும் அறத்தையும் தாராத (தூய்மை அற்ற) செயல்களை எக்காலத்திலும் ஒருவன் செய்யாமல் விட்டொழிக்க வேண்டும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Ministers should at all times avoid acts which, in addition to fame, yield no benefit (for the future).",
+        "story_title_ta": "வினைத் தூய்மை — முகில் கற்ற பாடம்",
+        "story_title_en": "Purity in Action — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினைத் தூய்மை' என்ற அதிகாரத்திலிருந்து குறள் 652 பற்றிக் கதை சொன்னார். 'இம்மைக்குப் புகழையும் மறுமைக்கு நன்மையையும் தராத செயல்களை எந்தக் காலத்திலும் விட்டுவிட வேண்டும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 66, 'Purity in Action', centered on Kural 652: Ministers should at all times avoid acts which, in addition to fame, yield no benefit (for the future). Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: புகழையும், நன்மையையும் தராத தூய்மையற்ற செயல்களை எந்த நிலையிலும் செய்யாமல் அவற்றை விட்டொழிக்க வேண்டும்.",
+        "moral_en": "Moral: From action evermore thyself restrainOf glory and of good that yields no gain.",
+        "game_blank_word_ta": "நன்றி",
+        "game_options_ta": [
+          "நன்றி",
+          "துணைநலம்",
+          "ஆக்கம்",
+          "த்ருஉம்"
+        ],
+        "game_options_en": [
+          "Eschew always acts that do not Bring good nor glory on their part",
+          "Friendship brings gain; but action pure Does every good thing we desire",
+          "Those in the world desire for fame Should shun the deed that dims their name",
+          "Though perils press the faultless wise Shun deeds of mean, shameful device"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினைத் தூய்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 652, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இம்மைக்குப் புகழையும் மறுமைக்கு நன்மையையும் தராத செயல்களை எந்தக் காலத்திலும் விட்டுவிட வேண்டும். கலைஞர் உரை கூறுவது: புகழையும், நன்மையையும் தராத தூய்மையற்ற செயல்களை எந்த நிலையிலும் செய்யாமல் அவற்றை விட்டொழிக்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Purity in Action (Ministers & Elements of State), Kural 652 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Ministers should at all times avoid acts which, in addition to fame, yield no benefit (for the future). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினைத் தூய்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Purity in Action' thoughtfully.",
+        "quiz_question_ta": "'வினைத் தூய்மை' அதிகாரத்தில் வரும் திருக்குறள் 652 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 652 from Chapter 'Purity in Action'?",
+        "quiz_options_ta": [
+          "புகழையும் அறத்தையும் தாராத (தூய்மை அற்ற) செயல்களை எக்காலத்திலும் ஒருவன் செய்யாமல் விட்டொழிக்க வேண்டும்.",
+          "அரசருடையக் குறிப்பை அறிந்து தக்கக் காலத்தை எதிர்நோக்கி, வெறுப்பில்லாதவற்றையும் விருப்பமானவற்றையும் அவர் விரும்புமாறுச் சொல்ல வேண்டும்.",
+          "முயற்சி செய்து தேடாமலேயே தரும் வளத்தை உடைய நாடுகளைச் சிறந்த நாடுகள் என்று கூறுவர், தேடிமுயன்றால் வளம் தரும் நாடுகள் சிறந்த நாடுகள் அல்ல.",
+          "அறிவுடையவரின் நட்பு பிறை நிறைந்து வருதல் போன்ற தன்மையுடையது, அறிவில்லாதவரின் நட்பு முழுமதி தேய்ந்து பின் செல்லுதல் போன்ற தன்மையுடையன."
+        ],
+        "quiz_options_en": [
+          "Eschew always acts that do not Bring good nor glory on their part",
+          "Discern his mood and time and tell No dislikes but what king likes well",
+          "A land is land which yields unsought Needing hard work the land is nought",
+          "Good friendship shines like waxing moon, The bad withers like waning moon"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினைத் தூய்மை) பகுதியில் குறள் 652 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: புகழையும் அறத்தையும் தாராத (தூய்மை அற்ற) செயல்களை எக்காலத்திலும் ஒருவன் செய்யாமல் விட்டொழிக்க வேண்டும். பரிமேலழகர் உரை நுட்பம்: புகழொடு நன்றி பயவா வினை - தம் அரசனுக்கு இம்மைக்கண் புகழும் மறுமைக்கண் அறமும் பயவாத வினைகளை; என்றும் ஒருவுதல் லேண்டும் - அமைச்சர்க்கு எக்காலத்தும் ஒழிதல் வேண்டும். (பெருகல், சுருங்கல், இடைநிற்றல் என்னும் நிலைவேறுபாடு காலத்தான் வருதலின், 'என்றும்' என்றார...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 66: 'Purity in Action'), Kural 652 distills a foundational ethical insight: \"From action evermore thyself restrainOf glory and of good that yields no gain\" Philosophically, Ministers should at all times avoid acts which, in addition to fame, yield no benefit (for the future).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "gratitude",
+        "leadership",
+        "ethics",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 653,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மேன்மேலும் உயர்வோம் என்று விரும்பி முயல்கின்றவர் தம்முடைய புகழ் கெடுவதற்குக் காரணமான செயலைச் செய்யாமல் விட வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Those who say, \"we will become (better)\" should avoid the performance of acts that would destroy (their fame).",
+        "story_title_ta": "வினைத் தூய்மை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Purity in Action — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினைத் தூய்மை' என்ற அதிகாரத்திலிருந்து குறள் 653 பற்றிக் கதை சொன்னார். 'உயர்ந்து விடவேண்டும் என்று முயல்பவர் தாம் வாழும் காலத்துத் தம் மேன்மையை அழிக்கும் செயல்களைச் செய்வதைத் தவிர்க்க வேண்டும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 66, 'Purity in Action', centered on Kural 653: Those who say, \"we will become (better)\" should avoid the performance of acts that would destroy (their fame). Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மேன்மேலும் உயர்ந்திட வேண்டுமென விரும்புகின்றவர்கள், தம்முடைய செயல்களால் தமது புகழ் கெடாமல் கவனமாக இருந்திட வேண்டும்.",
+        "moral_en": "Moral: Who tell themselves that nobler things shall yet be wonAll deeds that dim the light of glory must they shun.",
+        "game_blank_word_ta": "ஒளிமாழ்கும்",
+        "game_options_ta": [
+          "துணைநலம்",
+          "ஒளிமாழ்கும்",
+          "ஆக்கம்",
+          "த்ருஉம்"
+        ],
+        "game_options_en": [
+          "Friendship brings gain; but action pure Does every good thing we desire",
+          "Those in the world desire for fame Should shun the deed that dims their name",
+          "Eschew always acts that do not Bring good nor glory on their part",
+          "Though perils press the faultless wise Shun deeds of mean, shameful device"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினைத் தூய்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 653, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உயர்ந்து விடவேண்டும் என்று முயல்பவர் தாம் வாழும் காலத்துத் தம் மேன்மையை அழிக்கும் செயல்களைச் செய்வதைத் தவிர்க்க வேண்டும். கலைஞர் உரை கூறுவது: மேன்மேலும் உயர்ந்திட வேண்டுமென விரும்புகின்றவர்கள், தம்முடைய செயல்களால் தமது புகழ் கெடாமல் கவனமாக இருந்திட வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Purity in Action (Ministers & Elements of State), Kural 653 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who say, \"we will become (better)\" should avoid the performance of acts that would destroy (their fame). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினைத் தூய்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Purity in Action' thoughtfully.",
+        "quiz_question_ta": "'வினைத் தூய்மை' அதிகாரத்தில் வரும் திருக்குறள் 653 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 653 from Chapter 'Purity in Action'?",
+        "quiz_options_ta": [
+          "அரசர் விரும்புகின்றவற்றை மட்டும் சொல்லிப் பயனில்லாதவற்றை அவரே கேட்ட போதிலும் சொல்லாமல் விட வேண்டும்.",
+          "மேன்மேலும் உயர்வோம் என்று விரும்பி முயல்கின்றவர் தம்முடைய புகழ் கெடுவதற்குக் காரணமான செயலைச் செய்யாமல் விட வேண்டும்.",
+          "நல்ல அரசன் பொருந்தாத நாடு, மேற்சொன்ன நன்மைகள் எல்லாம் அமைதிருந்த போதிலும் அவற்றால் பயன் இல்லாமல் போகும்.",
+          "பழகப் பழக நற்பண்பு உடையவரின் நட்பு இன்பம் தருதல், நூலின் நற்பொருள் கற்கக் கற்க மேன்மேலும் இன்பம் தருதலைப் போன்றதாகும்."
+        ],
+        "quiz_options_en": [
+          "Tell pleasing things; and never tell Even if pressed what is futile",
+          "Those in the world desire for fame Should shun the deed that dims their name",
+          "Though a land has thus every thing It is worthless without a king",
+          "Like taste in books good friendship grows The more one moves the more he knows"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினைத் தூய்மை) பகுதியில் குறள் 653 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மேன்மேலும் உயர்வோம் என்று விரும்பி முயல்கின்றவர் தம்முடைய புகழ் கெடுவதற்குக் காரணமான செயலைச் செய்யாமல் விட வேண்டும். பரிமேலழகர் உரை நுட்பம்: ஆதும் என்னும் அவர் - மேலாகக்கடவோம் என்று கருதுவார்; ஒளி மாழ்கும் வினை செய் ஓஒதல் வேண்டும் - தம் ஒளி கெடுதற்குக் காரணமாய வினையைச் செய்தலைத் தவிர்க. ('ஓஒதல்வேண்டும்' என்பது ஒரு சொல் நீர்மைத்து. ஓவுதல் என்பது குறைந்து நின்றது. ஒளி - தாம் உள காலத்து எல்லாரானும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 66: 'Purity in Action'), Kural 653 distills a foundational ethical insight: \"Who tell themselves that nobler things shall yet be wonAll deeds that dim the light of glory must they shun\" Philosophically, Those who say, \"we will become (better)\" should avoid the performance of acts that would destroy (their fame).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 654,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அசைவற்ற ‌தெளிந்த அறிவினையுடையவர், துன்பத்தில் சிக்குண்டாலும் (அத் துன்பத்தைத் தீர்ப்பதற்க்காகவும்) இழிவானச் செயல்களைச் செய்யமாட்டார்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Those who have infallible judgement though threatened with peril will not do acts which have brought disgrace (on former ministers).",
+        "story_title_ta": "வினைத் தூய்மை — கவின் கற்ற பாடம்",
+        "story_title_en": "Purity in Action — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினைத் தூய்மை' என்ற அதிகாரத்திலிருந்து குறள் 654 பற்றிக் கதை சொன்னார். 'தடுமாற்றம் இல்லாது தெளிந்த அறிவினை உடையவர் தாம் துன்பப்பட நேர்ந்தாலும் இழிவான செயல்களைச் செய்யமாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 66, 'Purity in Action', centered on Kural 654: Those who have infallible judgement though threatened with peril will not do acts which have brought disgrace (on former ministers). Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தெளிவான அறிவும் உறுதியும் கொண்டவர்கள் துன்பத்திலிருந்து விடுபடுவதற்காகக்கூட இழிவான செயலில் ஈடுபட மாட்டார்கள்.",
+        "moral_en": "Moral: Though troubles press, no shameful deed they do, Whose eyes the ever-during vision view.",
+        "game_blank_word_ta": "செய்யார்",
+        "game_options_ta": [
+          "துணைநலம்",
+          "ஆக்கம்",
+          "செய்யார்",
+          "த்ருஉம்"
+        ],
+        "game_options_en": [
+          "Friendship brings gain; but action pure Does every good thing we desire",
+          "Eschew always acts that do not Bring good nor glory on their part",
+          "Though perils press the faultless wise Shun deeds of mean, shameful device",
+          "Those in the world desire for fame Should shun the deed that dims their name"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினைத் தூய்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 654, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தடுமாற்றம் இல்லாது தெளிந்த அறிவினை உடையவர் தாம் துன்பப்பட நேர்ந்தாலும் இழிவான செயல்களைச் செய்யமாட்டார். கலைஞர் உரை கூறுவது: தெளிவான அறிவும் உறுதியும் கொண்டவர்கள் துன்பத்திலிருந்து விடுபடுவதற்காகக்கூட இழிவான செயலில் ஈடுபட மாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Purity in Action (Ministers & Elements of State), Kural 654 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who have infallible judgement though threatened with peril will not do acts which have brought disgrace (on former ministers). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினைத் தூய்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Purity in Action' thoughtfully.",
+        "quiz_question_ta": "'வினைத் தூய்மை' அதிகாரத்தில் வரும் திருக்குறள் 654 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 654 from Chapter 'Purity in Action'?",
+        "quiz_options_ta": [
+          "(அரசரை) எமக்கு இளையவர், எமக்கு இன்ன முறை உடையவர் என்று இகழாமல் அவருடைய நிலைக்கு ஏற்றவாறு அமைந்த புகழுடன் பொருந்த நடக்க வேண்டும்.",
+          "(படையெடுத்தும்) போர் செய்யச் செல்பவர்க்கும் அரண் சிறந்ததாகும், (படையெடுத்தவர்க்கு) அஞ்சித் தன்னை புகழிடமாக அடைந்தவர்க்கும் அது சிறந்ததாகும்.",
+          "அசைவற்ற ‌தெளிந்த அறிவினையுடையவர், துன்பத்தில் சிக்குண்டாலும் (அத் துன்பத்தைத் தீர்ப்பதற்க்காகவும்) இழிவானச் செயல்களைச் செய்யமாட்டார்.",
+          "நட்புச் செய்தல் ஒருவரோடு ஒருவர் சிரித்து மகிழும் பொருட்டு அன்று, நண்பர் நெறிக்கடந்து செல்லும் போது முற்ப்பட்டுச் சென்று இடித்துரைப்பதற்காகும்."
+        ],
+        "quiz_options_en": [
+          "As young and kinsman do not slight; Look with awe king's light and might",
+          "The fort is vital for offence Who fear the foes has its defence",
+          "Though perils press the faultless wise Shun deeds of mean, shameful device",
+          "Not to laugh is friendship made But to hit when faults exceed"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினைத் தூய்மை) பகுதியில் குறள் 654 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அசைவற்ற ‌தெளிந்த அறிவினையுடையவர், துன்பத்தில் சிக்குண்டாலும் (அத் துன்பத்தைத் தீர்ப்பதற்க்காகவும்) இழிவானச் செயல்களைச் செய்யமாட்டார். பரிமேலழகர் உரை நுட்பம்: இடுக்கண் படினும் இளிவந்த செய்யார் - தாம் இடுக்கணிலே படவரினும், அது தீர்தற்பொருட்டு முன் செய்தார்க்கு இளிவந்த வினைகளைச் செய்யார்; நடுக்கு அற்ற காட்சியவர் - துளக்கம் அற்ற தெளிவினை உடையார். (சிறிதுபோழ்தில் கழிவதாய இடுக்கண் நோக்கி, எஞ்ஞான்றும் கழியாத இளிவு...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 66: 'Purity in Action'), Kural 654 distills a foundational ethical insight: \"Though troubles press, no shameful deed they do, Whose eyes the ever-during vision view\" Philosophically, Those who have infallible judgement though threatened with peril will not do acts which have brought disgrace (on former ministers).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "love",
+        "ethics",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 655,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பிறகு நினைத்து வருந்துவதற்குக் காரணமானச் செயல்களைச் செய்யக் கூடாது, ஒரு கால் தவறிச் செய்தாலும் மீண்டும் அத் தன்மையானவற்றைச் செய்யாதிருத்தல் நல்லது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Let a minister never do acts of which he would have to grieve saying, \"what is this I have done\"; (but) should he do (them), it were good that he grieved not.",
+        "story_title_ta": "வினைத் தூய்மை — நிலா கற்ற பாடம்",
+        "story_title_en": "Purity in Action — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினைத் தூய்மை' என்ற அதிகாரத்திலிருந்து குறள் 655 பற்றிக் கதை சொன்னார். 'என்ன இப்படிச் செய்து விட்டோமே என்று வருந்தும் படியான செயல்களைச் செய்யாது விடுக; ஒருவேளை தவறாகச் செய்துவிட்டால், திரும்பவும் அதைச் செய்யாது இருப்பது நல்லது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 66, 'Purity in Action', centered on Kural 655: Let a minister never do acts of which he would have to grieve saying, \"what is this I have done\"; (but) should he do (them), it were good that he grieved not. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: `என்ன தவறு செய்துவிட்டோம்' என நினைத்துக் கவலைப்படுவதற்குரிய காரியங்களைச் செய்யக்கூடாது ஒருகால் அப்படிச் செய்து விட்டாலும் அச்செயலை மீண்டும் தொடராதிருப்பதே நன்று.",
+        "moral_en": "Moral: Do nought that soul repenting must deplore, If thou hast sinned, 'tis well if thou dost sin no more.",
+        "game_blank_word_ta": "மற்றன்ன",
+        "game_options_ta": [
+          "துணைநலம்",
+          "ஆக்கம்",
+          "த்ருஉம்",
+          "மற்றன்ன"
+        ],
+        "game_options_en": [
+          "Friendship brings gain; but action pure Does every good thing we desire",
+          "Eschew always acts that do not Bring good nor glory on their part",
+          "Those in the world desire for fame Should shun the deed that dims their name",
+          "Do not wrong act and grieve, \\\"Alas\\\" If done, do not repeat it twice"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினைத் தூய்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 655, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என்ன இப்படிச் செய்து விட்டோமே என்று வருந்தும் படியான செயல்களைச் செய்யாது விடுக; ஒருவேளை தவறாகச் செய்துவிட்டால், திரும்பவும் அதைச் செய்யாது இருப்பது நல்லது. கலைஞர் உரை கூறுவது: `என்ன தவறு செய்துவிட்டோம்' என நினைத்துக் கவலைப்படுவதற்குரிய காரியங்களைச் செய்யக்கூடாது ஒருகால் அப்படிச் செய்து விட்டாலும் அச்செயலை மீண்டும் தொடராதிருப்பதே நன்று. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Purity in Action (Ministers & Elements of State), Kural 655 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let a minister never do acts of which he would have to grieve saying, \"what is this I have done\"; (but) should he do (them), it were good that he grieved not. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினைத் தூய்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Purity in Action' thoughtfully.",
+        "quiz_question_ta": "'வினைத் தூய்மை' அதிகாரத்தில் வரும் திருக்குறள் 655 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 655 from Chapter 'Purity in Action'?",
+        "quiz_options_ta": [
+          "அசைவற்ற தெளிந்த அறிவினை உடையவர் யாம் அரசரால் விரும்பப்பட்டோம் என்று எண்ணி அவர் விரும்பாதவற்றைச் செய்யமாட்டார்.",
+          "மணிபோல் தெளிந்த நீரும், வெட்ட வெளியான நிலமும், மலையும், அழகிய நிழல் உடைய காடும் ஆகிய இவை நான்கும் உள்ளதே அரண் ஆகும்.",
+          "நட்புச் செய்வதற்குத் தொடர்பும் பழக்கமும் வேண்டியதில்லை, ஒத்த உணர்ச்சியே நட்பு ஏற்படுத்துவதற்கு வேண்டிய உரிமையைக் கொடுக்கும்.",
+          "பிறகு நினைத்து வருந்துவதற்குக் காரணமானச் செயல்களைச் செய்யக் கூடாது, ஒரு கால் தவறிச் செய்தாலும் மீண்டும் அத் தன்மையானவற்றைச் செய்யாதிருத்தல் நல்லது."
+        ],
+        "quiz_options_en": [
+          "The clear-visioned do nothing base Deeming they have the monarch's grace",
+          "A crystal fount, a space a mount Thick woods form a fort paramount",
+          "No close living nor clasping grip Friendship's feeling heart's fellowship",
+          "Do not wrong act and grieve, \\\"Alas\\\" If done, do not repeat it twice"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினைத் தூய்மை) பகுதியில் குறள் 655 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறகு நினைத்து வருந்துவதற்குக் காரணமானச் செயல்களைச் செய்யக் கூடாது, ஒரு கால் தவறிச் செய்தாலும் மீண்டும் அத் தன்மையானவற்றைச் செய்யாதிருத்தல் நல்லது. பரிமேலழகர் உரை நுட்பம்: எற்று என்று இரங்குவ செய்யற்க - யான் செய்தது எத்தன்மைத்து என்று பின் தானே இரங்கும் வினைகளை ஒருகாலும் செய்யாதொழிக; செய்வானேல் மற்று அன்ன செய்யாமை நன்று - அன்றி ஒருகால் மயங்கி அவற்றைச் செய்யும் தன்மையனாயினான் ஆயின், பின் இருந்து அவ்விரங்கல்களைச் செய்யாதொழிதல...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 66: 'Purity in Action'), Kural 655 distills a foundational ethical insight: \"Do nought that soul repenting must deplore, If thou hast sinned, 'tis well if thou dost sin no more\" Philosophically, Let a minister never do acts of which he would have to grieve saying, \"what is this I have done\"; (but) should he do (them), it were good that he grieved not.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "education",
+        "leadership",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 656,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பெற்ற தாயின் பசியைக் கண்டு வருந்த நேர்ந்தாலும், சான்றோர் பழிப்பதற்குக் காரணமான இழிவுற்றச் செயல்களைச் செய்யக்கூடாது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Though a minister may see his mother starve; let him do not act which the wise would (treat with contempt).",
+        "story_title_ta": "வினைத் தூய்மை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Purity in Action — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினைத் தூய்மை' என்ற அதிகாரத்திலிருந்து குறள் 656 பற்றிக் கதை சொன்னார். 'தன்னைப் பெற்றவனின் பசியைக் காண நேர்ந்தாலும் அதைப் போக்கப் பெருமக்கள் பழிக்கும் செயல்களைச் செய்யாது விடுக.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 66, 'Purity in Action', centered on Kural 656: Though a minister may see his mother starve; let him do not act which the wise would (treat with contempt). Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பசியால் துடிக்கும் தனது தாயின் வேதனையைத் தணிப்பதற்காகக்கூட இழிவான செயலில் ஈடுபடக்கூடாது.",
+        "moral_en": "Moral: Though her that bore thee hung'ring thou behold, no deedDo thou, that men of perfect soul have crime decreed.",
+        "game_blank_word_ta": "ஆயினுஞ்",
+        "game_options_ta": [
+          "ஆயினுஞ்",
+          "துணைநலம்",
+          "ஆக்கம்",
+          "த்ருஉம்"
+        ],
+        "game_options_en": [
+          "Though she who begot thee hungers Shun acts denounced by ancient seers",
+          "Friendship brings gain; but action pure Does every good thing we desire",
+          "Eschew always acts that do not Bring good nor glory on their part",
+          "Those in the world desire for fame Should shun the deed that dims their name"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினைத் தூய்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 656, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்னைப் பெற்றவனின் பசியைக் காண நேர்ந்தாலும் அதைப் போக்கப் பெருமக்கள் பழிக்கும் செயல்களைச் செய்யாது விடுக. கலைஞர் உரை கூறுவது: பசியால் துடிக்கும் தனது தாயின் வேதனையைத் தணிப்பதற்காகக்கூட இழிவான செயலில் ஈடுபடக்கூடாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Purity in Action (Ministers & Elements of State), Kural 656 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though a minister may see his mother starve; let him do not act which the wise would (treat with contempt). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினைத் தூய்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Purity in Action' thoughtfully.",
+        "quiz_question_ta": "'வினைத் தூய்மை' அதிகாரத்தில் வரும் திருக்குறள் 656 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 656 from Chapter 'Purity in Action'?",
+        "quiz_options_ta": [
+          "பெற்ற தாயின் பசியைக் கண்டு வருந்த நேர்ந்தாலும், சான்றோர் பழிப்பதற்குக் காரணமான இழிவுற்றச் செயல்களைச் செய்யக்கூடாது.",
+          "யாம் அரசர்க்கு பழைமையானவராய் உள்ளோம் எனக்கருதித் தகுதி அல்லாதவற்றைச் செய்யும் உரிமை கேட்டைத்தரும்.",
+          "உயரம், அகலம், உறுதி, பகைவரால் அழிக்க முடியாத அருமை ஆகிய இந்த நான்கும் அமைந்திப்பதே அரண் என்று நூலோர் கூறுவர்.",
+          "முகம் மட்டும் மலரும் படியா நட்பு செய்வது நட்பு அன்று, நெஞ்சமும் மலரும் படியாக உள்ளன்பு கொண்டு நட்பு செய்வதே நட்பு ஆகும்."
+        ],
+        "quiz_options_en": [
+          "Though she who begot thee hungers Shun acts denounced by ancient seers",
+          "Worthless acts based on friendship old Shall spell ruin and woe untold",
+          "An ideal fort's so says science: High, broad, strong and hard for access",
+          "Friendship is not more smile on face It is the smiling heart's embrace"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினைத் தூய்மை) பகுதியில் குறள் 656 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பெற்ற தாயின் பசியைக் கண்டு வருந்த நேர்ந்தாலும், சான்றோர் பழிப்பதற்குக் காரணமான இழிவுற்றச் செயல்களைச் செய்யக்கூடாது. பரிமேலழகர் உரை நுட்பம்: ஈன்றாள் பசி காண்பான் ஆயினும் - தன்னைப் பயந்தாளது பசியை வறுமையால் கண்டு இரங்கும் தன்மையினான் எனினும்; சான்றோர் பழிக்கும் வினை செய்யற்க - அது சுட்டி அறிவுடையார் பழிக்கும் வினைகளை ஒருவன் செய்யாதொழிக. ('இறந்த மூப்பினராய இருமுதுகுரவரும் கற்புடை மனைவியும் குழவியும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 66: 'Purity in Action'), Kural 656 distills a foundational ethical insight: \"Though her that bore thee hung'ring thou behold, no deedDo thou, that men of perfect soul have crime decreed\" Philosophically, Though a minister may see his mother starve; let him do not act which the wise would (treat with contempt).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "kindness",
+        "love",
+        "leadership",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 657,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பழியை மேற்கொண்டு இழிதொழில் செய்து பெறும் செல்வத்தை விடச் சான்றோர் வினைத்தூய்மையோடிருந்து பெறும் பொல்லாத வறுமையே சிறந்தது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Far more excellent is the extreme poverty of the wise than wealth obtained by heaping up of sinful.",
+        "story_title_ta": "வினைத் தூய்மை — இனியா கற்ற பாடம்",
+        "story_title_en": "Purity in Action — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினைத் தூய்மை' என்ற அதிகாரத்திலிருந்து குறள் 657 பற்றிக் கதை சொன்னார். 'பழியை ஏற்று அடைந்த செல்வத்தைக் காட்டிலும், பெரியோர் அனுபவிக்கும் வறுமையே உயர்ந்தது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 66, 'Purity in Action', centered on Kural 657: Far more excellent is the extreme poverty of the wise than wealth obtained by heaping up of sinful. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பழிக்கு அஞ்சாமல் இழிவான செயல்களைப் புரிந்து செல்வந்தராக வாழ்வதைவிட, கொடிய வறுமை தாக்கினாலும் கவலைப்படாமல் நேர்மையாளராக வாழ்வதே மேலானதாகும்.",
+        "moral_en": "Moral: Than store of wealth guilt-laden souls obtain, The sorest poverty of perfect soul is richer gain.",
+        "game_blank_word_ta": "சான்றோர்",
+        "game_options_ta": [
+          "துணைநலம்",
+          "சான்றோர்",
+          "ஆக்கம்",
+          "த்ருஉம்"
+        ],
+        "game_options_en": [
+          "Friendship brings gain; but action pure Does every good thing we desire",
+          "Pinching poverty of the wise Is more than wealth hoarded by Vice",
+          "Eschew always acts that do not Bring good nor glory on their part",
+          "Those in the world desire for fame Should shun the deed that dims their name"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினைத் தூய்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 657, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பழியை ஏற்று அடைந்த செல்வத்தைக் காட்டிலும், பெரியோர் அனுபவிக்கும் வறுமையே உயர்ந்தது. கலைஞர் உரை கூறுவது: பழிக்கு அஞ்சாமல் இழிவான செயல்களைப் புரிந்து செல்வந்தராக வாழ்வதைவிட, கொடிய வறுமை தாக்கினாலும் கவலைப்படாமல் நேர்மையாளராக வாழ்வதே மேலானதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Purity in Action (Ministers & Elements of State), Kural 657 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Far more excellent is the extreme poverty of the wise than wealth obtained by heaping up of sinful. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினைத் தூய்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Purity in Action' thoughtfully.",
+        "quiz_question_ta": "'வினைத் தூய்மை' அதிகாரத்தில் வரும் திருக்குறள் 657 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 657 from Chapter 'Purity in Action'?",
+        "quiz_options_ta": [
+          "ஓருவர் சொல்லாமலே அவறுடைய முகத்தை நோக்கி அவர் கருதிய குறிப்பை அறிகின்றவன் எப்போதும் உலகத்திற்க்கு ஓர் அணிகலன் ஆவான்.",
+          "பழியை மேற்கொண்டு இழிதொழில் செய்து பெறும் செல்வத்தை விடச் சான்றோர் வினைத்தூய்மையோடிருந்து பெறும் பொல்லாத வறுமையே சிறந்தது.",
+          "காக்க வேண்டிய இடம் சிறியதாய், மற்ற இடம் பெரிய பரப்புள்ளதாய், தன்னை எதிர்த்துவந்த பகைவரிருடைய ஊக்கத்தை அழிக்க வல்லது அரண் ஆகும்.",
+          "அழிவைத் தரும் தீமைகளிலிருந்து நீக்கி, நல்ல வழியில் நடக்கச் செய்து, அழிவுவந்த காலத்தில் உடனிருந்து துன்பப்படுவதே நட்பாகும்."
+        ],
+        "quiz_options_en": [
+          "Who reads the mind by look, untold Adorns the changeless sea-girt world",
+          "Pinching poverty of the wise Is more than wealth hoarded by Vice",
+          "Ample in space, easy to hold The fort foils enemies bold",
+          "From ruin friendship saves and shares The load of pain and right path shows"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினைத் தூய்மை) பகுதியில் குறள் 657 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பழியை மேற்கொண்டு இழிதொழில் செய்து பெறும் செல்வத்தை விடச் சான்றோர் வினைத்தூய்மையோடிருந்து பெறும் பொல்லாத வறுமையே சிறந்தது. பரிமேலழகர் உரை நுட்பம்: பழி மலைந்து எய்திய ஆக்கத்தின் - சாலாதார் தீய வினைகளைச் செய்து அதனாற் பழியைத் தம்மேற் கொண்டு பெற்ற செல்வத்தின்; சான்றோர் கழி நல்குரவே தலை - அதுமேற் கொள்ளாத சான்றோர் அனுபவிக்கும் மிக்க நல்குரவே உயர்ந்தது. (நிலையாத செல்வத்தின் பொருட்டு நிலையின பழியை மேற்கோடல...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 66: 'Purity in Action'), Kural 657 distills a foundational ethical insight: \"Than store of wealth guilt-laden souls obtain, The sorest poverty of perfect soul is richer gain\" Philosophically, Far more excellent is the extreme poverty of the wise than wealth obtained by heaping up of sinful.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "ethics",
+        "wisdom",
+        "courage"
+      ]
+    },
+    {
+      "kural_number": 658,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஆகாதவை என விலக்கப்பட்ட செயல்களை விலக்கிவிடாமல் மேற்கொண்டு செய்தவர்க்கும், அச் செயல் நிறைவேறினாலும் துன்பமே கொடுக்கும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The actions of those, who have not desisted from doing deeds forbidden (by the great), will, even if they succeed, cause them sorrow.",
+        "story_title_ta": "வினைத் தூய்மை — முகில் கற்ற பாடம்",
+        "story_title_en": "Purity in Action — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினைத் தூய்மை' என்ற அதிகாரத்திலிருந்து குறள் 658 பற்றிக் கதை சொன்னார். 'வேண்டா என்று உயர்ந்தோர் விலக்கிய செயல்களைத் தாமும் விலக்காது, பொருள் சேர்க்க எண்ணிச் செய்தவர்க்கு, அச்செயல்கள் நிறைவேறினாலும் துன்பத்தையே தரும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 66, 'Purity in Action', centered on Kural 658: The actions of those, who have not desisted from doing deeds forbidden (by the great), will, even if they succeed, cause them sorrow. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தகாதவை என ஒதுக்கப்பட்ட செயல்களை ஒதுக்கிவிடாமல் செய்பவர்களுக்கு ஒரு வேளை அச்செயல்கள் நிறைவேறினாலும் துன்பமே ஏற்படும்.",
+        "moral_en": "Moral: To those who hate reproof and do forbidden thingWhat prospers now, in after days shall anguish bring.",
+        "game_blank_word_ta": "முடிந்தாலும்",
+        "game_options_ta": [
+          "துணைநலம்",
+          "ஆக்கம்",
+          "முடிந்தாலும்",
+          "த்ருஉம்"
+        ],
+        "game_options_en": [
+          "Friendship brings gain; but action pure Does every good thing we desire",
+          "Eschew always acts that do not Bring good nor glory on their part",
+          "Those who dare a forbidden deed Suffer troubles though they succeed",
+          "Those in the world desire for fame Should shun the deed that dims their name"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினைத் தூய்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 658, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வேண்டா என்று உயர்ந்தோர் விலக்கிய செயல்களைத் தாமும் விலக்காது, பொருள் சேர்க்க எண்ணிச் செய்தவர்க்கு, அச்செயல்கள் நிறைவேறினாலும் துன்பத்தையே தரும். கலைஞர் உரை கூறுவது: தகாதவை என ஒதுக்கப்பட்ட செயல்களை ஒதுக்கிவிடாமல் செய்பவர்களுக்கு ஒரு வேளை அச்செயல்கள் நிறைவேறினாலும் துன்பமே ஏற்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Purity in Action (Ministers & Elements of State), Kural 658 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The actions of those, who have not desisted from doing deeds forbidden (by the great), will, even if they succeed, cause them sorrow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினைத் தூய்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Purity in Action' thoughtfully.",
+        "quiz_question_ta": "'வினைத் தூய்மை' அதிகாரத்தில் வரும் திருக்குறள் 658 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 658 from Chapter 'Purity in Action'?",
+        "quiz_options_ta": [
+          "ஐயப்படாமல் மனத்தில் உள்ளதை உணரவல்லவனை (அவன் மனிதனே ஆனாலும்) தெய்வத் தோடு ஒப்பாக கொள்ள வேண்டும்.",
+          "பகைவரால் கைப்பற்ற முடியாததாய், தன்னிடம் உணவுபொருள் கொண்டதாய், உள்ளிருப்போர் நிலைத்திருப்பதர்க்கு எளிதாகிய தன்மை உடையது அரண்.",
+          "ஆகாதவை என விலக்கப்பட்ட செயல்களை விலக்கிவிடாமல் மேற்கொண்டு செய்தவர்க்கும், அச் செயல் நிறைவேறினாலும் துன்பமே கொடுக்கும்.",
+          "உடைநெகிழ்ந்தவனுடைய கை, உடனே உதவிக்காப்பது போல் (நண்பனுக்குத் துன்பம் வந்தால்) அப்போதே சென்று துன்பத்தைக் களைவது நட்பு."
+        ],
+        "quiz_options_en": [
+          "Take him as God who reads the thought Of another man with without a doubt",
+          "Impregnable with stores of food Cosy to live-That fort is good",
+          "Those who dare a forbidden deed Suffer troubles though they succeed",
+          "Friendship hastens help in mishaps Like hands picking up dress that slips"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினைத் தூய்மை) பகுதியில் குறள் 658 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஆகாதவை என விலக்கப்பட்ட செயல்களை விலக்கிவிடாமல் மேற்கொண்டு செய்தவர்க்கும், அச் செயல் நிறைவேறினாலும் துன்பமே கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: கடிந்த கடிந்து ஒரார் செய்தார்க்கு - நூலோர் கடிந்த வினைகளைத் தாமும் கடிந்தொழியாது பொருள் நோக்கிச் செய்த அமைச்சர்க்கு; அவைதாம் முடிந்தாலும் பீழை தரும் - அவை தூய அன்மையின் முடியா, ஒருவாற்றான் முடியினும், பின் துன்பத்தையே கொடுக்கும். (முடித்தல் - கருதிய பொருள...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 66: 'Purity in Action'), Kural 658 distills a foundational ethical insight: \"To those who hate reproof and do forbidden thingWhat prospers now, in after days shall anguish bring\" Philosophically, The actions of those, who have not desisted from doing deeds forbidden (by the great), will, even if they succeed, cause them sorrow.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 659,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பிறர் வருந்துமாறு செய்து பெற்ற பொருள் எல்லாம் பெற்றவன் வருந்துமாறு செய்து போய்விடும், நல்வழியில் வந்தவை இழக்கப்பட்டாலும் பிறகு பயன் தரும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: All that has been obtained with tears (to the victim) will depart with tears (to himself); but what has been by fair means; though with loss at first, will afterwards yield fruit.",
+        "story_title_ta": "வினைத் தூய்மை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Purity in Action — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினைத் தூய்மை' என்ற அதிகாரத்திலிருந்து குறள் 659 பற்றிக் கதை சொன்னார். 'பிறர் அழ அவரிடம் இருந்து கவர்ந்த பொருள் எல்லாம் நாம் அழ, நம்மை விட்டுப் போய்விடும். செயல் சுத்தத்தால் பெற்ற பொருளை நாம் இழந்தாலும் அவை நமக்குத் திரும்பவும் பலன் கொடுக்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 66, 'Purity in Action', centered on Kural 659: All that has been obtained with tears (to the victim) will depart with tears (to himself); but what has been by fair means; though with loss at first, will afterwards yield fruit. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பிறர் அழத் திரட்டிய செல்வம் அழ அழப் போய்விடும் நல்வழியில் வந்த செல்வமென்றால் அதனை இழந்தாலும் மீண்டும் வந்து பயன் தரும்.",
+        "moral_en": "Moral: What's gained through tears with tears shall go; From loss good deeds entail harvests of blessings grow.",
+        "game_blank_word_ta": "நற்பா",
+        "game_options_ta": [
+          "துணைநலம்",
+          "ஆக்கம்",
+          "த்ருஉம்",
+          "நற்பா"
+        ],
+        "game_options_en": [
+          "Friendship brings gain; but action pure Does every good thing we desire",
+          "Eschew always acts that do not Bring good nor glory on their part",
+          "Those in the world desire for fame Should shun the deed that dims their name",
+          "Gains from weeping, weeping go Though lost, from good deeds blessings flow"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினைத் தூய்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 659, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர் அழ அவரிடம் இருந்து கவர்ந்த பொருள் எல்லாம் நாம் அழ, நம்மை விட்டுப் போய்விடும். செயல் சுத்தத்தால் பெற்ற பொருளை நாம் இழந்தாலும் அவை நமக்குத் திரும்பவும் பலன் கொடுக்கும். கலைஞர் உரை கூறுவது: பிறர் அழத் திரட்டிய செல்வம் அழ அழப் போய்விடும் நல்வழியில் வந்த செல்வமென்றால் அதனை இழந்தாலும் மீண்டும் வந்து பயன் தரும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Purity in Action (Ministers & Elements of State), Kural 659 speaks directly to teens navigating studies, friendships, leadership, and digital choices: All that has been obtained with tears (to the victim) will depart with tears (to himself); but what has been by fair means; though with loss at first, will afterwards yield fruit. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினைத் தூய்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Purity in Action' thoughtfully.",
+        "quiz_question_ta": "'வினைத் தூய்மை' அதிகாரத்தில் வரும் திருக்குறள் 659 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 659 from Chapter 'Purity in Action'?",
+        "quiz_options_ta": [
+          "(முகம் கண் இவற்றின்) குறிப்புக்களால் உள்ள குறிப்பை உணர வல்லவரை நாட்டின் உறுப்புக்களுள் எதைக் கொடுத்தாவது துணையாக பெற்றுக்கொள்ள வேண்டும்.",
+          "தன்னிடம் (உள்ளவர்க்கு) எல்லாப் பொருளும் உடையதாய், போர் நெருக்கடியானவிடத்தில் உதவ வல்ல நல்ல விரர்களை உடையது அரண் ஆகும்.",
+          "நட்புக்கு சிறந்த நிலை எது என்றால், எப்போதும் வேறுபடுதல் இல்லாமல், முடியும் போதெல்லாம் உதவி செய்து தாங்கும் நிலையாகும்.",
+          "பிறர் வருந்துமாறு செய்து பெற்ற பொருள் எல்லாம் பெற்றவன் வருந்துமாறு செய்து போய்விடும், நல்வழியில் வந்தவை இழக்கப்பட்டாலும் பிறகு பயன் தரும்"
+        ],
+        "quiz_options_en": [
+          "By sign who scans the sign admit At any cost in cabinet",
+          "A fort is full of stores and arms And brave heroes to meet alarms",
+          "Friendship is enthroned on the strength That always helps with utmost warmth",
+          "Gains from weeping, weeping go Though lost, from good deeds blessings flow"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினைத் தூய்மை) பகுதியில் குறள் 659 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறர் வருந்துமாறு செய்து பெற்ற பொருள் எல்லாம் பெற்றவன் வருந்துமாறு செய்து போய்விடும், நல்வழியில் வந்தவை இழக்கப்பட்டாலும் பிறகு பயன் தரும். பரிமேலழகர் உரை நுட்பம்: அழக்கொண்ட எல்லாம் அழப்போம் - ஒருவன், தீயவினைகளைச் செய்து பிறர் இரங்கக் கொண்ட பொருளெல்லாம் இம்மையிலே அவன் தான் இரங்கப் போகாநிற்கும்; நற்பாலவை இழப்பினும் பிற்பயக்கும் - மற்றைத்தூய வினையான் வந்த பொருள்கள் முன் இழந்தானாயினும் அவனுக்குப் பின்னர் வந்து பயன...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 66: 'Purity in Action'), Kural 659 distills a foundational ethical insight: \"What's gained through tears with tears shall go; From loss good deeds entail harvests of blessings grow\" Philosophically, All that has been obtained with tears (to the victim) will depart with tears (to himself); but what has been by fair means; though with loss at first, will afterwards yield fruit.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "wealth",
+        "gratitude",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 660,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: வஞ்சனையான வழியால் பொருளைச்சேர்த்துக் காப்பாற்றுதல், பச்சை மண்கலத்தில் நீரை விட்டு அதைக் காப்பாற்றி வைத்தாற் போன்றது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: (For a minister) to protect (his king) with wealth obtained by foul means is like preserving a vessel of wet clay by filling it with water.",
+        "story_title_ta": "வினைத் தூய்மை — கவின் கற்ற பாடம்",
+        "story_title_en": "Purity in Action — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினைத் தூய்மை' என்ற அதிகாரத்திலிருந்து குறள் 660 பற்றிக் கதை சொன்னார். 'தீய செயல்களால் பொருளைத் திரட்டி, அதைக் காப்பது, சுடாத பச்சைமண் பானையில் நீரை ஊற்றி அதைச் சேமிப்பது போலாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 66, 'Purity in Action', centered on Kural 660: (For a minister) to protect (his king) with wealth obtained by foul means is like preserving a vessel of wet clay by filling it with water. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தவறான வழிகளில் பொருளைச் சேர்த்து அதைக் காப்பாற்ற நினைப்பது, பச்சை மண்ணால் செய்யப்பட்ட பாத்திரத்தில் நீரை ஊற்றி, அதைப் பாதுகாக்க நினைப்பதைப் போன்றதுதான்.",
+        "moral_en": "Moral: In pot of clay unburnt he water pours and would retain, Who seeks by wrong the realm in wealth and safety to maintain.",
+        "game_blank_word_ta": "மார்த்தல்",
+        "game_options_ta": [
+          "மார்த்தல்",
+          "துணைநலம்",
+          "ஆக்கம்",
+          "த்ருஉம்"
+        ],
+        "game_options_en": [
+          "The wealth gathered in guilty ways Is water poured in wet clay vase",
+          "Friendship brings gain; but action pure Does every good thing we desire",
+          "Eschew always acts that do not Bring good nor glory on their part",
+          "Those in the world desire for fame Should shun the deed that dims their name"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினைத் தூய்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 660, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தீய செயல்களால் பொருளைத் திரட்டி, அதைக் காப்பது, சுடாத பச்சைமண் பானையில் நீரை ஊற்றி அதைச் சேமிப்பது போலாம். கலைஞர் உரை கூறுவது: தவறான வழிகளில் பொருளைச் சேர்த்து அதைக் காப்பாற்ற நினைப்பது, பச்சை மண்ணால் செய்யப்பட்ட பாத்திரத்தில் நீரை ஊற்றி, அதைப் பாதுகாக்க நினைப்பதைப் போன்றதுதான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Purity in Action (Ministers & Elements of State), Kural 660 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (For a minister) to protect (his king) with wealth obtained by foul means is like preserving a vessel of wet clay by filling it with water. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினைத் தூய்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Purity in Action' thoughtfully.",
+        "quiz_question_ta": "'வினைத் தூய்மை' அதிகாரத்தில் வரும் திருக்குறள் 660 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 660 from Chapter 'Purity in Action'?",
+        "quiz_options_ta": [
+          "வஞ்சனையான வழியால் பொருளைச்சேர்த்துக் காப்பாற்றுதல், பச்சை மண்கலத்தில் நீரை விட்டு அதைக் காப்பாற்றி வைத்தாற் போன்றது.",
+          "ஒருவன் மனதில் கருதியதை அவன் கூறாமலே அறிந்து கொள்ள வல்லவரோடு மற்றவர் உறுப்பால் ஒத்தவராக இருந்தாலும் அறிவால் வேறுபட்டவர் ஆவார்.",
+          "முற்றுகையிட்டும் முற்றுகையிடாமல் போர் செய்தும், வஞ்சனை செய்தும் எப்படியும் பகைவரால் கைப்பற்ற முடியாத அருமை உடையது அரண் ஆகும்.",
+          "இவர் எமக்கு இத்தன்மையானவர், யாம் இவர்க்கு இத் தன்மையுடையேம் என்று புனைந்துரைத்தாலும் நட்பு சிறப்பிழந்து விடும்."
+        ],
+        "quiz_options_en": [
+          "The wealth gathered in guilty ways Is water poured in wet clay vase",
+          "Untold, he who divines the thought Though same in form is quite apart",
+          "Besieging foes a fort withstands Darts and mines of treacherous hands",
+          "\\\"Such we are and such they are!\\\" Ev'n this boast will friendship mar"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினைத் தூய்மை) பகுதியில் குறள் 660 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வஞ்சனையான வழியால் பொருளைச்சேர்த்துக் காப்பாற்றுதல், பச்சை மண்கலத்தில் நீரை விட்டு அதைக் காப்பாற்றி வைத்தாற் போன்றது. பரிமேலழகர் உரை நுட்பம்: சலத்தால் பொருள் செய்து ஏமார்த்தல் - அமைச்சன் தீய வினைகளாற் பொருள் படைத்து, அதனால் அரசனுக்கு ஏமஞ்செய்தல்; பசுமட்கலத்துள் நீர் பெய்து இரீஇயற்று - பசிய மட்கலத்துள்ளே நீரைப் பெய்து அதற்கு ஏமஞ்செய்ததனோடு ஒக்கும். (முன் ஆக்கம் பயப்பன போல் தோன்றிப் பின் அழிவே...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 66: 'Purity in Action'), Kural 660 distills a foundational ethical insight: \"In pot of clay unburnt he water pours and would retain, Who seeks by wrong the realm in wealth and safety to maintain\" Philosophically, (For a minister) to protect (his king) with wealth obtained by foul means is like preserving a vessel of wet clay by filling it with water.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "leadership",
+        "truth",
+        "discipline"
+      ]
+    }
+  ]
+}

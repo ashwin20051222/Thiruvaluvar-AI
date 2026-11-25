@@ -1,0 +1,581 @@
+{
+  "adhikaram_id": 23,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.648756557+00:00",
+  "kurals": [
+    {
+      "kural_number": 221,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: வறியவர்க்கு ஒரு பொருளைக் கொடுப்பதே ஈகை எனப்படுவது, மற்றவர்க்குக் கொடுப்பதெல்லாம் பயன் எதிர்பார்த்து கொடுக்கும் தன்மை உடையது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: To give to the destitute is true charity All other gifts have the nature of (what is done for) a measured return.",
+        "story_title_ta": "ஈகை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Giving — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஈகை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 221 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஏதும் இல்லாதவர்க்குக் கொடுப்பதே ஈகை; பிற எல்லாம் கொடுத்ததைத் திரும்பப் பெறும் நோக்கம் உடையதே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Giving'. Grandpa shared Kural 221 and explained in simple words: To give to the destitute is true charity All other gifts have the nature of (what is done for) a measured return. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: இல்லாதவர்க்கு வழங்குவதே ஈகைப் பண்பாகும் மற்றவர்களுக்கு வழங்குவது என்பது ஏதோ ஓர் ஆதாயத்தை எதிர்பார்த்து வழங்கப்படுவதாகும்.",
+        "moral_en": "Moral: Call that a gift to needy men thou dost dispense, All else is void of good, seeking for recompense.",
+        "game_blank_word_ta": "துடைத்து",
+        "game_options_ta": [
+          "நல்லாறு",
+          "துடைத்து",
+          "எனினும்",
+          "கொளல்தீது"
+        ],
+        "game_options_en": [
+          "To beg is bad e'en from the good To give is good, were heaven forbid",
+          "To give the poor is charity The rest is loan and vanity",
+          "No pleading, \\\"I am nothing worth,\\\" But giving marks a noble birth",
+          "The cry for alms is painful sight Until the giver sees him bright"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஈகை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 221, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஏதும் இல்லாதவர்க்குக் கொடுப்பதே ஈகை; பிற எல்லாம் கொடுத்ததைத் திரும்பப் பெறும் நோக்கம் உடையதே. கலைஞர் உரை கூறுவது: இல்லாதவர்க்கு வழங்குவதே ஈகைப் பண்பாகும் மற்றவர்களுக்கு வழங்குவது என்பது ஏதோ ஓர் ஆதாயத்தை எதிர்பார்த்து வழங்கப்படுவதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Giving (Domestic Virtue), Kural 221 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To give to the destitute is true charity All other gifts have the nature of (what is done for) a measured return. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஈகை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Giving' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஈகை' அதிகாரத்தில் வரும் திருக்குறள் 221 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 221 from Chapter 'Giving'?",
+        "quiz_options_ta": [
+          "விரும்பிய பயன்களை விரும்பியவாறே அடைய முடியுமாகையால் செய்யத்தக்க தவம் இந்நிலையிலும் (இல்லற வாழ்க்கையிலும்) முயன்று செய்யப்படும்.",
+          "வறியவர்க்கு ஒரு பொருளைக் கொடுப்பதே ஈகை எனப்படுவது, மற்றவர்க்குக் கொடுப்பதெல்லாம் பயன் எதிர்பார்த்து கொடுக்கும் தன்மை உடையது.",
+          "பலச் சுடர்களை உடைய பெரு நெருப்பில் தோய்வது போன்ற துன்பத்தை ஒருவன் செய்த போதிலும் கூடுமானால் அவன் மேல் சினங் கொள்ளாதிருத்தல் நல்லது.",
+          "மெய்ப்பொருள் அல்லாதவைகளை மெய்ப்பொருள் என்று தவறாக உணர்கின்ற மயக்க உணர்வால் சிறப்பில்லாத துன்பப் பிறவி உண்டாகும்."
+        ],
+        "quiz_options_en": [
+          "What they wish as they wish is won Here hence by men penance is done",
+          "To give the poor is charity The rest is loan and vanity",
+          "Save thy soul from burning ire Though tortured like the touch of fire",
+          "That error entails ignoble birth Which deems vain things as things of worth"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஈகை) பகுதியில் குறள் 221 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வறியவர்க்கு ஒரு பொருளைக் கொடுப்பதே ஈகை எனப்படுவது, மற்றவர்க்குக் கொடுப்பதெல்லாம் பயன் எதிர்பார்த்து கொடுக்கும் தன்மை உடையது. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, வறியராய் ஏற்றார்க்கு மாற்றாது கொடுத்தல். இது மறுமை நோக்கியது ஆகலின், இம்மை நோக்கிய ஒப்புரவு அறிதலின் பின் வைக்கப்பட்டது.) வறியார்க்கு ஒன்று ஈவதே ஈகை - ஒரு பொருளும் இல்லாதார்க்கு அவர் வேண்டியது ஒன்றைக் கொடுப்பதே பிறர்க்குக் கொடுத்தலாவது, மற்று...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 23: 'Giving'), Kural 221 distills a foundational ethical insight: \"Call that a gift to needy men thou dost dispense, All else is void of good, seeking for recompense\" Philosophically, To give to the destitute is true charity All other gifts have the nature of (what is done for) a measured return.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "humility",
+        "gratitude",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 222,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பிறரிடம் பொருள் பெற்றுக் கொள்ளுதல் நல்ல நெறி என்றாலும் கொள்ளல் தீமையானது, மேலுலகம் இல்லை என்றாலும் பிறக்குக் கொடுப்பதே சிறந்தது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: To beg is evil, even though it were said that it is a good path (to heaven) To give is good, even though it were said that those who do so cannot obtain heaven.",
+        "story_title_ta": "ஈகை — கவின் கற்ற பாடம்",
+        "story_title_en": "Giving — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஈகை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 222 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நல்லதுதான் என்று எவரேனும் சொன்னாலும் பிறரிடம் ஒன்றைப் பெறுவது தீமை; ஏதும் இல்லாதவர்க்குக் கொடுப்பதால் விண்ணுலகம் கிடைக்காது என்றாலும் கொடுப்பதே நல்லது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Giving'. Grandpa shared Kural 222 and explained in simple words: To beg is evil, even though it were said that it is a good path (to heaven) To give is good, even though it were said that those who do so cannot obtain heaven. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறரிடமிருந்து நல்வழியில் பொருளைப் பெற்றாலும் அது பெருமையல்ல; சிறுமையே ஆகும் கொடை வழங்குவதால் மேலுலகம் என்று சொல்லப்படுவது கிட்டிவிடப் போவதில்லை; எனினும் பிறர்க்குக் கொடுத்து வாழ்வதே சிறந்த வாழ்க்கையாகும்.",
+        "moral_en": "Moral: Though men declare it heavenward path, yet to receive is ill; Though upper heaven were not, to give is virtue still.",
+        "game_blank_word_ta": "ஈதலே",
+        "game_options_ta": [
+          "வறியார்க்கொன்று",
+          "ஈவதே",
+          "ஈதலே",
+          "ஈகைமற்"
+        ],
+        "game_options_en": [
+          "To give the poor is charity The rest is loan and vanity",
+          "No pleading, \\\"I am nothing worth,\\\" But giving marks a noble birth",
+          "To beg is bad e'en from the good To give is good, were heaven forbid",
+          "The cry for alms is painful sight Until the giver sees him bright"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஈகை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 222, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்லதுதான் என்று எவரேனும் சொன்னாலும் பிறரிடம் ஒன்றைப் பெறுவது தீமை; ஏதும் இல்லாதவர்க்குக் கொடுப்பதால் விண்ணுலகம் கிடைக்காது என்றாலும் கொடுப்பதே நல்லது. கலைஞர் உரை கூறுவது: பிறரிடமிருந்து நல்வழியில் பொருளைப் பெற்றாலும் அது பெருமையல்ல; சிறுமையே ஆகும் கொடை வழங்குவதால் மேலுலகம் என்று சொல்லப்படுவது கிட்டிவிடப் போவதில்லை; எனினும் பிறர்க்குக் கொடுத்து வாழ்வதே சிறந்த வாழ்க்கையாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Giving (Domestic Virtue), Kural 222 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To beg is evil, even though it were said that it is a good path (to heaven) To give is good, even though it were said that those who do so cannot obtain heaven. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஈகை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Giving' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஈகை' அதிகாரத்தில் வரும் திருக்குறள் 222 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 222 from Chapter 'Giving'?",
+        "quiz_options_ta": [
+          "தவம் செய்கின்றவரே தமக்குரிய கடமையைச் செய்கின்றவர் ஆவர், அவர் அல்லாத மற்றவர் ஆசை வலையில் அகப்பட்டு வீண் முயற்சி செய்கின்றவரே.",
+          "ஒருவன் தன் மனதால் சினத்தை எண்ணாதிருப்பானானால் நினைத்த நன்மைகளை எல்லாம் அவன் ஒருங்கே பெறுவான்.",
+          "பிறரிடம் பொருள் பெற்றுக் கொள்ளுதல் நல்ல நெறி என்றாலும் கொள்ளல் தீமையானது, மேலுலகம் இல்லை என்றாலும் பிறக்குக் கொடுப்பதே சிறந்தது.",
+          "மயக்கம் நீங்கிக் குற்றம் அற்ற மெய்யுணர்வை உடையவர்க்கு, அம் மெய்யுணர்வு அறியாமையை நீக்கி இன்ப நிலையைக்கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "Who do penance achieve their aim Others desire-rid themselves harm",
+          "Wishes he gains as he wishes If man refrains from rage vicious!",
+          "To beg is bad e'en from the good To give is good, were heaven forbid",
+          "Men of spotless pure insight Enjoy delight devoid of night"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஈகை) பகுதியில் குறள் 222 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறரிடம் பொருள் பெற்றுக் கொள்ளுதல் நல்ல நெறி என்றாலும் கொள்ளல் தீமையானது, மேலுலகம் இல்லை என்றாலும் பிறக்குக் கொடுப்பதே சிறந்தது. பரிமேலழகர் உரை நுட்பம்: கொளல் நல் ஆறு எனினும் தீது - ஏற்றல் வீட்டுலகிற்கு நல்ல நெறி என்பார் உளராயினும் அது தீது, மேல் உலகம் இல் எனினும் ஈதலே நன்று - ஈந்தார்க்கு அவ்வுலகு எய்துதல் இல்லை என்பார் உளராயினும் , ஈதலே நன்று. ('எனினும்' என்பது இரு வழியும் அங்ஙனம் கூறுவார் இன்மை விளக்கி...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 23: 'Giving'), Kural 222 distills a foundational ethical insight: \"Though men declare it heavenward path, yet to receive is ill; Though upper heaven were not, to give is virtue still\" Philosophically, To beg is evil, even though it were said that it is a good path (to heaven) To give is good, even though it were said that those who do so cannot obtain heaven.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "ethics",
+        "discipline",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 223,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: யான் வறியவன் என்னும் துன்பச் சொல்லை ஒருவன் உரைப்பதற்கு முன் அவனுக்கு கொடுக்கும் தன்மை, நல்ல குடி பிறப்பு உடையவனிடம் உண்டு.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: (Even in a low state) not to adopt the mean expedient of saying \"I have nothing,\" but to give, is the characteristic of the mad of noble birth.",
+        "story_title_ta": "ஈகை — நிலா கற்ற பாடம்",
+        "story_title_en": "Giving — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஈகை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 223 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஏழை என்று மற்றவரிடம் சொல்லாதிருப்பதும்,, ஏதும் அற்றவர்க்குத் தருவதும் நல்ல குடும்பத்தில் பிறந்தவனிடம் மட்டுமே உண்டு.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Giving'. Grandpa shared Kural 223 and explained in simple words: (Even in a low state) not to adopt the mean expedient of saying \"I have nothing,\" but to give, is the characteristic of the mad of noble birth. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தமக்குள்ள வறுமைத் துன்பத்தைக் காட்டிக்கொள்ளாமல் பிறருக்கு ஈவது உயர்ந்த குடிப்பிறந்தவரின் பண்பாகும்.",
+        "moral_en": "Moral: 'I've nought' is ne'er the high-born man's reply; He gives to those who raise themselves that cry.",
+        "game_blank_word_ta": "எவ்வம்",
+        "game_options_ta": [
+          "வறியார்க்கொன்று",
+          "ஈவதே",
+          "ஈகைமற்",
+          "எவ்வம்"
+        ],
+        "game_options_en": [
+          "To give the poor is charity The rest is loan and vanity",
+          "To beg is bad e'en from the good To give is good, were heaven forbid",
+          "The cry for alms is painful sight Until the giver sees him bright",
+          "No pleading, \\\"I am nothing worth,\\\" But giving marks a noble birth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஈகை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 223, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஏழை என்று மற்றவரிடம் சொல்லாதிருப்பதும்,, ஏதும் அற்றவர்க்குத் தருவதும் நல்ல குடும்பத்தில் பிறந்தவனிடம் மட்டுமே உண்டு. கலைஞர் உரை கூறுவது: தமக்குள்ள வறுமைத் துன்பத்தைக் காட்டிக்கொள்ளாமல் பிறருக்கு ஈவது உயர்ந்த குடிப்பிறந்தவரின் பண்பாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Giving (Domestic Virtue), Kural 223 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (Even in a low state) not to adopt the mean expedient of saying \"I have nothing,\" but to give, is the characteristic of the mad of noble birth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஈகை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Giving' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஈகை' அதிகாரத்தில் வரும் திருக்குறள் 223 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 223 from Chapter 'Giving'?",
+        "quiz_options_ta": [
+          "புடமிட்டு சுடச்சுட ஒளிவிடுகின்ற பொன்னைப் போல் தவம் செய்கின்றவரை துன்பம் வருத்த வருத்த மெய்யுணர்வு மிகும்",
+          "சினத்தில் அளவு கடந்து சென்றவர் இறந்தவரைப் போன்றவர், சினத்தை அடியோடு துறந்தவர் துறந்தவர்க்கு ஒப்பாவர்.",
+          "ஐயத்திலிருந்து நீங்கி மெய்யுணர்வு பெற்றவர்க்கு அடைந்துள்ள இவ்வுலகை விட அடைய வேண்டிய மேலுலகம் அண்மையில் உள்ளதாகும்.",
+          "யான் வறியவன் என்னும் துன்பச் சொல்லை ஒருவன் உரைப்பதற்கு முன் அவனுக்கு கொடுக்கும் தன்மை, நல்ல குடி பிறப்பு உடையவனிடம் உண்டு."
+        ],
+        "quiz_options_en": [
+          "Pure and bright gets the gold in fire; and so the life by pain austere",
+          "Dead are they who are anger-fed Saints are they from whom wrath has fled",
+          "To doubtless minds whose heart is clear More than earth heaven is near",
+          "No pleading, \\\"I am nothing worth,\\\" But giving marks a noble birth"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஈகை) பகுதியில் குறள் 223 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யான் வறியவன் என்னும் துன்பச் சொல்லை ஒருவன் உரைப்பதற்கு முன் அவனுக்கு கொடுக்கும் தன்மை, நல்ல குடி பிறப்பு உடையவனிடம் உண்டு. பரிமேலழகர் உரை நுட்பம்: 'இலன் என்னும் எவ்வம் உரையாமை - யான் வறியன் என்று இரப்பான் சொல்லும் இளிவரவைத் தான் பிறர்கண் சொல்லாமையும், ஈதல் - அதனைத் தன்கண் சொன்னார்க்கு மாற்றாது ஈதலும், உள குலன் உடையான் கண்ணே- இவை இரண்டும் உளவாவன குடிப் பிறந்தான் கண்ணே. (மேல் தீது என்றது ஒழிதற்கும் நன்று...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 23: 'Giving'), Kural 223 distills a foundational ethical insight: \"'I've nought' is ne'er the high-born man's reply; He gives to those who raise themselves that cry\" Philosophically, (Even in a low state) not to adopt the mean expedient of saying \"I have nothing,\" but to give, is the characteristic of the mad of noble birth.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "love",
+        "family",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 224,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பொருள் வேண்டும் என்ற இரந்தவரின் மகிழ்ந்த முகத்தைக் காணும் வரைக்கும் (இரத்தலைப் போலவே ) இரந்து கேட்கப்படுவதும் துன்பமானது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: To see men begging from us in disagreeable, until we see their pleasant countenance.",
+        "story_title_ta": "ஈகை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Giving — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஈகை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 224 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'கொடுக்க இருப்பவரின் நிலைகூட தம்மிடம் வந்து யாசித்து நிற்பவரின் மலர்ந்த முகத்தைக் காணும் வரை கொடியதே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Giving'. Grandpa shared Kural 224 and explained in simple words: To see men begging from us in disagreeable, until we see their pleasant countenance. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஈதல் பண்புடையவர்க்குத் தம்மை நாடி வரும் இரவலரின் புன்னகை பூத்த முகத்தைக் கண்டு இன்புறும் வரையில், அவருக்காக இரக்கப்படுவதும் ஒரு துன்பமாகவே தோன்றும்.",
+        "moral_en": "Moral: The suppliants' cry for aid yields scant delight, Until you see his face with grateful gladness bright.",
+        "game_blank_word_ta": "இன்னாது",
+        "game_options_ta": [
+          "இன்னாது",
+          "வறியார்க்கொன்று",
+          "ஈவதே",
+          "ஈகைமற்"
+        ],
+        "game_options_en": [
+          "The cry for alms is painful sight Until the giver sees him bright",
+          "To give the poor is charity The rest is loan and vanity",
+          "To beg is bad e'en from the good To give is good, were heaven forbid",
+          "No pleading, \\\"I am nothing worth,\\\" But giving marks a noble birth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஈகை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 224, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கொடுக்க இருப்பவரின் நிலைகூட தம்மிடம் வந்து யாசித்து நிற்பவரின் மலர்ந்த முகத்தைக் காணும் வரை கொடியதே. கலைஞர் உரை கூறுவது: ஈதல் பண்புடையவர்க்குத் தம்மை நாடி வரும் இரவலரின் புன்னகை பூத்த முகத்தைக் கண்டு இன்புறும் வரையில், அவருக்காக இரக்கப்படுவதும் ஒரு துன்பமாகவே தோன்றும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Giving (Domestic Virtue), Kural 224 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To see men begging from us in disagreeable, until we see their pleasant countenance. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஈகை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Giving' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஈகை' அதிகாரத்தில் வரும் திருக்குறள் 224 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 224 from Chapter 'Giving'?",
+        "quiz_options_ta": [
+          "பொருள் வேண்டும் என்ற இரந்தவரின் மகிழ்ந்த முகத்தைக் காணும் வரைக்கும் (இரத்தலைப் போலவே ) இரந்து கேட்கப்படுவதும் துன்பமானது.",
+          "தவ வலிமையால் தன்னுடைய உயிர், தான் என்னும் பற்று நீங்கப் பெற்றவனை மற்ற உயிர்கள் எல்லாம் (அவனுடைய பெருமையை உணர்ந்து) தொழும்.",
+          "சிறப்பைத்தருகின்ற பெருஞ் செல்வத்தைப் பெறுவதாக இருந்தாலும், பிறர்க்குத் துன்பம் செய்யாதிருத்தலே மாசற்றவரின் கொள்கையாம்.",
+          "மெய்யுணர்வு இல்லாதவர்க்கு ஐந்து புலன்களின் வேறுபாட்டால் வளர்ந்த ஐந்து வகை உணர்வும் முற்றப்பெற்ற போதிலும் பயன் இல்லை."
+        ],
+        "quiz_options_en": [
+          "The cry for alms is painful sight Until the giver sees him bright",
+          "He worship wins from every soul Who Master is by soul control",
+          "The pure by faith mean pain to none Though princely wealth by that is won",
+          "Knowledge of five senses is vain Without knowing the Truth within"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஈகை) பகுதியில் குறள் 224 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருள் வேண்டும் என்ற இரந்தவரின் மகிழ்ந்த முகத்தைக் காணும் வரைக்கும் (இரத்தலைப் போலவே ) இரந்து கேட்கப்படுவதும் துன்பமானது. பரிமேலழகர் உரை நுட்பம்: இரக்கப்படுதல் இன்னாது - இரத்தலேயன்றி இரக்கப்படுதலும் இனிது அன்று, இரந்தவர் இன்முகம் காணும் அளவு - ஒரு பொருளை இரந்தவர் அது பெற்றதனால் இனிதாகிய அவர் முகங் காணும் அளவும்; (எச்ச உம்மையும் முற்று உம்மையும் விகாரத்தால் தொக்கன. இரக்கப் படுதல் - 'இரப்பார்க்கு ஈவல...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 23: 'Giving'), Kural 224 distills a foundational ethical insight: \"The suppliants' cry for aid yields scant delight, Until you see his face with grateful gladness bright\" Philosophically, To see men begging from us in disagreeable, until we see their pleasant countenance.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "gratitude",
+        "speech",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 225,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தவ வலிமை உடையவரின் வலிமை பசியை பொறுத்துக் கொள்ளலாகும், அதுவும் அப் பசியை உணவு கொடுத்து மாற்றுகின்றவரின் ஆற்றலுக்குப் பிற்பட்டதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The power of those who perform penance is the power of enduring hunger It is inferior to the power of those who remove the hunger (of others).",
+        "story_title_ta": "ஈகை — இனியா கற்ற பாடம்",
+        "story_title_en": "Giving — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஈகை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 225 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'வல்லவர்க்கு மேலும் வலிமை, தமது பசியைப் பொறுத்துக் கொள்வதே அந்த வலிமையும், பிறர் பசியைப் போக்குபவரின் வலிமைக்கு அடுத்துத்தான் வலிமையாய் அமையும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Giving'. Grandpa shared Kural 225 and explained in simple words: The power of those who perform penance is the power of enduring hunger It is inferior to the power of those who remove the hunger (of others). The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பசியைப் பொறுத்துக் கொள்ளும் நோன்பைக் கடைப்பிடிப்பதைவிடப் பசித்திருக்கும் ஒருவருக்கு உணவு அளிப்பதே சிறந்ததாகும்.",
+        "moral_en": "Moral: 'Mid devotees they're great who hunger's pangs sustain, Who hunger's pangs relieve a higher merit gain.",
+        "game_blank_word_ta": "அப்பசியை",
+        "game_options_ta": [
+          "வறியார்க்கொன்று",
+          "அப்பசியை",
+          "ஈவதே",
+          "ஈகைமற்"
+        ],
+        "game_options_en": [
+          "To give the poor is charity The rest is loan and vanity",
+          "Higher's power which hunger cures Than that of penance which endures",
+          "To beg is bad e'en from the good To give is good, were heaven forbid",
+          "No pleading, \\\"I am nothing worth,\\\" But giving marks a noble birth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஈகை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 225, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வல்லவர்க்கு மேலும் வலிமை, தமது பசியைப் பொறுத்துக் கொள்வதே அந்த வலிமையும், பிறர் பசியைப் போக்குபவரின் வலிமைக்கு அடுத்துத்தான் வலிமையாய் அமையும். கலைஞர் உரை கூறுவது: பசியைப் பொறுத்துக் கொள்ளும் நோன்பைக் கடைப்பிடிப்பதைவிடப் பசித்திருக்கும் ஒருவருக்கு உணவு அளிப்பதே சிறந்ததாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Giving (Domestic Virtue), Kural 225 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The power of those who perform penance is the power of enduring hunger It is inferior to the power of those who remove the hunger (of others). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஈகை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Giving' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஈகை' அதிகாரத்தில் வரும் திருக்குறள் 225 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 225 from Chapter 'Giving'?",
+        "quiz_options_ta": [
+          "தவம் செய்வதால் பெறத்தக்க ஆற்றலைப் பெற்றவர்க்கு (ஓர் இடையூறும் இல்லையாகையால் ) எமனை வெல்லுதலும் கைகூடும்",
+          "தவ வலிமை உடையவரின் வலிமை பசியை பொறுத்துக் கொள்ளலாகும், அதுவும் அப் பசியை உணவு கொடுத்து மாற்றுகின்றவரின் ஆற்றலுக்குப் பிற்பட்டதாகும்.",
+          "ஒருவன் கறுவுகொண்டு துன்பம் செய்த போதிலும் அவனுக்கு திரும்ப துன்பம் செய்யாதிருத்தலே மாசற்றவரின் கொள்கையாகும்.",
+          "எப்பொருள் எத்தன்மையதாய்த் தோன்றினாலும் (அத்தோற்றத்தை மட்டும் கண்டுமங்காமல்) அப் பொருளின் உண்மையான இயல்பை அறிவதே மெய்யுணர்வு."
+        ],
+        "quiz_options_en": [
+          "They can even defy death Who get by penance godly strenth",
+          "Higher's power which hunger cures Than that of penance which endures",
+          "The spotless hearts seek not revenge Though Malice does the worst in rage",
+          "Knowledge is truth of things to find In every case of every kind"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஈகை) பகுதியில் குறள் 225 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தவ வலிமை உடையவரின் வலிமை பசியை பொறுத்துக் கொள்ளலாகும், அதுவும் அப் பசியை உணவு கொடுத்து மாற்றுகின்றவரின் ஆற்றலுக்குப் பிற்பட்டதாகும். பரிமேலழகர் உரை நுட்பம்: ஆற்றுவார் ஆற்றல் பசிஆற்றல் - தவத்தான் வலியார்க்கு வலியாவது தம்மையுற்ற பசியைப் பொறுத்தல், அப்பசியை மாற்றுவார் ஆற்றலின் பின் - அவ் வலிதான் அங்ஙனம் பொறுத்தற்கு அரிய பசியை ஈகையான் ஒழிப்பாரது வலிக்குப்பின். (தாமும் பசித்துப் பிறரையும் அது தீர்க்க மாட்டாதார...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 23: 'Giving'), Kural 225 distills a foundational ethical insight: \"'Mid devotees they're great who hunger's pangs sustain, Who hunger's pangs relieve a higher merit gain\" Philosophically, The power of those who perform penance is the power of enduring hunger It is inferior to the power of those who remove the hunger (of others).",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 226,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: வறியவரின் கடும்பசியைத் தீர்க்க வேண்டும் அதுவே பொருள் பெற்ற ஒருவன் அப் பொருளைத் தனக்குப் பிற்காலத்தில் உதவுமாறு சேர்த்து வைக்கும் இடமாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The removal of the killing hunger of the poor is the place for one to lay up his wealth.",
+        "story_title_ta": "ஈகை — முகில் கற்ற பாடம்",
+        "story_title_en": "Giving — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஈகை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 226 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஏதும் இல்லாதவரின் கடும்பசியைத் தீர்த்து வையுங்கள். பொருளைப் பெற்றவன் சேமித்து வைக்கும் இடம் அதுவே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Giving'. Grandpa shared Kural 226 and explained in simple words: The removal of the killing hunger of the poor is the place for one to lay up his wealth. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பட்டினி எனச் சொல்லி வந்தவரின் பசியைத் தீர்ப்பது வீண் போகாது அதுவே, தான் தேடிய பொருளைப் பிற்காலத்தில் உதவுவதற்கு ஏற்பச் சேமித்து வைக்கக்கூடிய கருவூலமாகும்.",
+        "moral_en": "Moral: Let man relieve the wasting hunger men endure; For treasure gained thus finds he treasure-house secure.",
+        "game_blank_word_ta": "பெற்றான்",
+        "game_options_ta": [
+          "வறியார்க்கொன்று",
+          "ஈவதே",
+          "பெற்றான்",
+          "ஈகைமற்"
+        ],
+        "game_options_en": [
+          "To give the poor is charity The rest is loan and vanity",
+          "To beg is bad e'en from the good To give is good, were heaven forbid",
+          "Drive from the poor their gnawing pains If room you seek to store your gains",
+          "No pleading, \\\"I am nothing worth,\\\" But giving marks a noble birth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஈகை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 226, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஏதும் இல்லாதவரின் கடும்பசியைத் தீர்த்து வையுங்கள். பொருளைப் பெற்றவன் சேமித்து வைக்கும் இடம் அதுவே. கலைஞர் உரை கூறுவது: பட்டினி எனச் சொல்லி வந்தவரின் பசியைத் தீர்ப்பது வீண் போகாது அதுவே, தான் தேடிய பொருளைப் பிற்காலத்தில் உதவுவதற்கு ஏற்பச் சேமித்து வைக்கக்கூடிய கருவூலமாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Giving (Domestic Virtue), Kural 226 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The removal of the killing hunger of the poor is the place for one to lay up his wealth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஈகை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Giving' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஈகை' அதிகாரத்தில் வரும் திருக்குறள் 226 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 226 from Chapter 'Giving'?",
+        "quiz_options_ta": [
+          "ஆற்றல் இல்லாதவர் பலராக உலகில் இருப்பதற்குக் காரணம் தவம் செய்கின்றவர் சிலராகவும், செய்யாதவர் பலராகவும் இருப்பதே ஆகும்.",
+          "தான் ஒன்றும் செய்யாதிருக்கத் தனக்குத் தீங்கு செய்தவர்க்கும் துன்பமானாவற்றைச் செய்தால் செய்தபிறகு தப்பமுடியாத துன்பத்தையே கொடுக்கும்.",
+          "வறியவரின் கடும்பசியைத் தீர்க்க வேண்டும் அதுவே பொருள் பெற்ற ஒருவன் அப் பொருளைத் தனக்குப் பிற்காலத்தில் உதவுமாறு சேர்த்து வைக்கும் இடமாகும்.",
+          "கற்க வேண்டிய வற்றைக் கற்று இங்கு மெய்ப் பொருளை உணர்ந்தவர் , மீண்டும் இப்பிறப்பிற்கு வராத வழியை அடைவர்."
+        ],
+        "quiz_options_en": [
+          "Many are poor and few are rich For they care not for penance much",
+          "Revenging even causeless hate Bad-blood breeds and baneful heat",
+          "Drive from the poor their gnawing pains If room you seek to store your gains",
+          "Who learn and here the Truth discern Enter the path of non-return"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஈகை) பகுதியில் குறள் 226 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வறியவரின் கடும்பசியைத் தீர்க்க வேண்டும் அதுவே பொருள் பெற்ற ஒருவன் அப் பொருளைத் தனக்குப் பிற்காலத்தில் உதவுமாறு சேர்த்து வைக்கும் இடமாகும். பரிமேலழகர் உரை நுட்பம்: அற்றார் அழிபசி தீர்த்தல் - வறியாரது மிக்க பசியை அறன் நோக்கித் தீர்க்க, பொருள் பெற்றான் ஒருவன் வைப்புழி அஃது - பொருள் பெற்றான் ஒருவன் அதனைத் தனக்கு உதவ வைக்கும் இடம் அவ்வறம் ஆகலான். (எல்லா நன்மைகளும் அழிய வருதலின், 'அழி பசி' என்றார். 'அறம் நோக்கி' என்பது எஞ்சி...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 23: 'Giving'), Kural 226 distills a foundational ethical insight: \"Let man relieve the wasting hunger men endure; For treasure gained thus finds he treasure-house secure\" Philosophically, The removal of the killing hunger of the poor is the place for one to lay up his wealth.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "wealth",
+        "truth",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 227,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தான் பெற்ற உணவை பலரோடும் பகிர்ந்து உண்ணும் பழக்கம் உடையவனை பசி என்று கூறப்படும் தீயநோய் அணுகுதல் இல்லை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The fiery disease of hunger shall never touch him who habitually distributes his food to others.",
+        "story_title_ta": "ஈகை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Giving — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஈகை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 227 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பலருடனும் பகிர்ந்து உண்ணப் பழகியவனைப் பசி என்னும் கொடிய நோய் தொடுவதும் அரிது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Giving'. Grandpa shared Kural 227 and explained in simple words: The fiery disease of hunger shall never touch him who habitually distributes his food to others. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பகிர்ந்து உண்ணும் பழக்கம் உடையவர்களைப் பசியென்னும் கொடிய நோய் அணுகுவதில்லை.",
+        "moral_en": "Moral: Whose soul delights with hungry men to share his meal, The hand of hunger's sickness sore shall never feel.",
+        "game_blank_word_ta": "பசியென்னும்",
+        "game_options_ta": [
+          "வறியார்க்கொன்று",
+          "ஈவதே",
+          "ஈகைமற்",
+          "பசியென்னும்"
+        ],
+        "game_options_en": [
+          "To give the poor is charity The rest is loan and vanity",
+          "To beg is bad e'en from the good To give is good, were heaven forbid",
+          "No pleading, \\\"I am nothing worth,\\\" But giving marks a noble birth",
+          "Who shares his food with those who need Hunger shall not harm his creed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஈகை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 227, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பலருடனும் பகிர்ந்து உண்ணப் பழகியவனைப் பசி என்னும் கொடிய நோய் தொடுவதும் அரிது. கலைஞர் உரை கூறுவது: பகிர்ந்து உண்ணும் பழக்கம் உடையவர்களைப் பசியென்னும் கொடிய நோய் அணுகுவதில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Giving (Domestic Virtue), Kural 227 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The fiery disease of hunger shall never touch him who habitually distributes his food to others. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஈகை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Giving' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஈகை' அதிகாரத்தில் வரும் திருக்குறள் 227 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 227 from Chapter 'Giving'?",
+        "quiz_options_ta": [
+          "வஞ்சமனம் உடையவனது பொய்யொழுக்கத்தை அவனுடைய உடம்பில் கலந்து நிற்க்கும் ஐந்து பூதங்களும் கண்டு தம்முள் சிரிக்கும்.",
+          "இன்னா செய்தவரைத் தண்டித்தல் அவரே நாணும் படியாக அவருக்கு நல்லுதவி செய்து அவருடைய தீமையையும் நன்மையையும் மறந்து விடுதலாகும்.",
+          "ஒருவனுடைய உள்ளம் உண்மைப் பொருளை ஆராய்ந்து உறுதியாக உணர்ந்தால், அவனுக்கு மீண்டும் பிறப்பு உள்ள தென எண்ண வேண்டா.",
+          "தான் பெற்ற உணவை பலரோடும் பகிர்ந்து உண்ணும் பழக்கம் உடையவனை பசி என்று கூறப்படும் தீயநோய் அணுகுதல் இல்லை."
+        ],
+        "quiz_options_en": [
+          "Elements five of feigned life Of a sly hypocrite within laugh",
+          "Doing good-turns, put them to shame Thus chide the evil who do harm",
+          "One-minded sage sees inner-truth He is free from thoughts of rebirth",
+          "Who shares his food with those who need Hunger shall not harm his creed"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஈகை) பகுதியில் குறள் 227 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தான் பெற்ற உணவை பலரோடும் பகிர்ந்து உண்ணும் பழக்கம் உடையவனை பசி என்று கூறப்படும் தீயநோய் அணுகுதல் இல்லை. பரிமேலழகர் உரை நுட்பம்: பாத்து ஊண் மரீஇயவனை - எஞ்ஞான்றும் பகுத்து உண்டல் பயின்றவனை, பசி என்னும் தீப்பிணி தீண்டல் அரிது - பசி என்று சொல்லப்படும் தீய நோய் தீண்டல் இல்லை. (இவ்வுடம்பில் நின்று ஞான ஒழுக்கங்களை அழித்து அதனால் வரும் உடம்புகட்கும் துன்பஞ்செய்தலின், 'தீப்பிணி' எனப்பட்டது...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 23: 'Giving'), Kural 227 distills a foundational ethical insight: \"Whose soul delights with hungry men to share his meal, The hand of hunger's sickness sore shall never feel\" Philosophically, The fiery disease of hunger shall never touch him who habitually distributes his food to others.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "friendship",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 228,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தாம் சேர்த்து வைத்துள்ள பொருளைப் பிறருக்குக் கொடுக்காமல் வைத்திருந்து பின் இழந்து விடும் வன் கண்மை உடையவர், பிறர்க்கு கொடுத்து மகிழும் மகிழ்ச்சியை அறியாரோ.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Do the hard-eyed who lay up and lose their possessions not know the happiness which springs from the pleasure of giving ?",
+        "story_title_ta": "ஈகை — கவின் கற்ற பாடம்",
+        "story_title_en": "Giving — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஈகை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 228 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'இல்லாதவர்க்குக் கொடுப்பதால் கொடுப்பவரும் பெறுபவரும் முகத்தாலும் மனத்தாலும் மகிழ்ச்சி அடைவர். பிறர்க்குக் கொடுக்காமல் பொருளைச் சேமித்து வைத்துப் பிறகு அதை இழந்துவிடும் கொடியவர்கள் அம்மகிழ்சியை அறியார்களோ?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Giving'. Grandpa shared Kural 228 and explained in simple words: Do the hard-eyed who lay up and lose their possessions not know the happiness which springs from the pleasure of giving ? The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஏழை எளியோர்க்கு எதுவும் அளித்திடாமல் ஈ.ட்டிய பொருள் அனைத்தையும் இழந்திடும் ஈ.வு இரக்கமற்றோர், பிறர்க்கு வழங்கி மகிழ்வதில் ஏற்படும் இன்பத்தை அறியமாட்டாரோ?",
+        "moral_en": "Moral: Delight of glad'ning human hearts with gifts do they not know.Men of unpitying eye, who hoard their wealth and lose it so.",
+        "game_blank_word_ta": "வைத்திழக்கும்",
+        "game_options_ta": [
+          "வைத்திழக்கும்",
+          "வறியார்க்கொன்று",
+          "ஈவதே",
+          "ஈகைமற்"
+        ],
+        "game_options_en": [
+          "The joy of give and take they lose Hard-hearted rich whose hoarding fails",
+          "To give the poor is charity The rest is loan and vanity",
+          "To beg is bad e'en from the good To give is good, were heaven forbid",
+          "No pleading, \\\"I am nothing worth,\\\" But giving marks a noble birth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஈகை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 228, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இல்லாதவர்க்குக் கொடுப்பதால் கொடுப்பவரும் பெறுபவரும் முகத்தாலும் மனத்தாலும் மகிழ்ச்சி அடைவர். பிறர்க்குக் கொடுக்காமல் பொருளைச் சேமித்து வைத்துப் பிறகு அதை இழந்துவிடும் கொடியவர்கள் அம்மகிழ்சியை அறியார்களோ? கலைஞர் உரை கூறுவது: ஏழை எளியோர்க்கு எதுவும் அளித்திடாமல் ஈ.ட்டிய பொருள் அனைத்தையும் இழந்திடும் ஈ.வு இரக்கமற்றோர், பிறர்க்கு வழங்கி மகிழ்வதில் ஏற்படும் இன்பத்தை அறியமாட்டாரோ? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Giving (Domestic Virtue), Kural 228 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Do the hard-eyed who lay up and lose their possessions not know the happiness which springs from the pleasure of giving ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஈகை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Giving' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஈகை' அதிகாரத்தில் வரும் திருக்குறள் 228 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 228 from Chapter 'Giving'?",
+        "quiz_options_ta": [
+          "தாம் சேர்த்து வைத்துள்ள பொருளைப் பிறருக்குக் கொடுக்காமல் வைத்திருந்து பின் இழந்து விடும் வன் கண்மை உடையவர், பிறர்க்கு கொடுத்து மகிழும் மகிழ்ச்சியை அறியாரோ.",
+          "தன் மனம் தான் அறிந்த குற்றத்தில் தங்குமானால் வானத்தைப் போல் உயர்ந்துள்ள தவக்கோலம் ஒருவனுக்கு என்ன பயன் செய்யும்.",
+          "மற்ற உயிரின் துன்பத்தை தன் துன்பம் போல் கருதிக் காப்பாற்றா விட்டால் பெற்றுள்ள அறிவினால் ஆகும் பயன் உண்டோ.",
+          "பிறவித்துன்பத்திற்கு காரணமான அறியாமை நீங்குமாறு முக்தி எனும் சிறந்த நிலைக்குக் காரணமான செம் பொருளைக் காண்பதே மெய்யுணர்வு."
+        ],
+        "quiz_options_en": [
+          "The joy of give and take they lose Hard-hearted rich whose hoarding fails",
+          "Of what avail are sky-high shows When guild the conscience gnaws and knows",
+          "What does a man from wisdom gain If he pines not at other's pain?",
+          "It is knowledge to know Self-Truth And remove the folly of birth"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஈகை) பகுதியில் குறள் 228 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தாம் சேர்த்து வைத்துள்ள பொருளைப் பிறருக்குக் கொடுக்காமல் வைத்திருந்து பின் இழந்து விடும் வன் கண்மை உடையவர், பிறர்க்கு கொடுத்து மகிழும் மகிழ்ச்சியை அறியாரோ. பரிமேலழகர் உரை நுட்பம்: தாம் உடைமை வைத்து இழக்கும் வன்கணவர் - தாம் உடைய பொருளை ஈயாது வைத்துப் பின் இழந்துபோம் அருளிலாதார், ஈத்து உவக்கும் இன்பம் அறியார்கொல் - வறியார்க்கு வேண்டியவற்றைக் கொடுத்து அவர் உவத்தலான் அருளுடையார் எய்தும் இன்பத்தினைக் கண்டறியார் கொல்லோ! (உவக்கும் என்பது...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 23: 'Giving'), Kural 228 distills a foundational ethical insight: \"Delight of glad'ning human hearts with gifts do they not know.Men of unpitying eye, who hoard their wealth and lose it so\" Philosophically, Do the hard-eyed who lay up and lose their possessions not know the happiness which springs from the pleasure of giving ?",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "wealth",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 229,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பொருளின் குறைபாட்டை நிரப்புவதற்க்காக உள்ளதைப் பிறர்க்கு ஈயாமல் தாமே தமியராய் உண்பது வறுமையால் இறப்பதை விடத் துன்பமானது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Solitary and unshared eating for the sake of filling up one's own riches is certainly much more.",
+        "story_title_ta": "ஈகை — நிலா கற்ற பாடம்",
+        "story_title_en": "Giving — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஈகை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 229 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொருளைப் பெருக்க எண்ணி, எவருக்கும் தராமல், தானே தனித்து உண்பது, பிறரிடம் கை ஏந்துவதைவிடக் கொடியது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Giving'. Grandpa shared Kural 229 and explained in simple words: Solitary and unshared eating for the sake of filling up one's own riches is certainly much more. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறர்க்கு ஈவதால் குறையக் கூடுமென்று, குவித்து வைத்துள்ளதைத் தாமே உண்ணுவது என்பது கையேந்தி இரந்து நிற்பதைக் காட்டிலும் கொடுமையானது.",
+        "moral_en": "Moral: They keep their garners full, for self alone the board they spread;-'Tis greater pain, be sure, than begging daily bread.",
+        "game_blank_word_ta": "இன்னாது",
+        "game_options_ta": [
+          "வறியார்க்கொன்று",
+          "இன்னாது",
+          "ஈவதே",
+          "ஈகைமற்"
+        ],
+        "game_options_en": [
+          "To give the poor is charity The rest is loan and vanity",
+          "Worse than begging is that boarding Alone what one's greed is hoarding",
+          "To beg is bad e'en from the good To give is good, were heaven forbid",
+          "No pleading, \\\"I am nothing worth,\\\" But giving marks a noble birth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஈகை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 229, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொருளைப் பெருக்க எண்ணி, எவருக்கும் தராமல், தானே தனித்து உண்பது, பிறரிடம் கை ஏந்துவதைவிடக் கொடியது. கலைஞர் உரை கூறுவது: பிறர்க்கு ஈவதால் குறையக் கூடுமென்று, குவித்து வைத்துள்ளதைத் தாமே உண்ணுவது என்பது கையேந்தி இரந்து நிற்பதைக் காட்டிலும் கொடுமையானது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Giving (Domestic Virtue), Kural 229 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Solitary and unshared eating for the sake of filling up one's own riches is certainly much more. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஈகை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Giving' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஈகை' அதிகாரத்தில் வரும் திருக்குறள் 229 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 229 from Chapter 'Giving'?",
+        "quiz_options_ta": [
+          "மனத்தை அடக்கும் வல்லமை இல்லாதவன் மேற்கொண்ட வலிய தவக்கோலம், புலியின் தோலைப் போர்த்திக் கொண்டு பயிரை பசு மேய்ந்தாற் போன்றது.",
+          "பொருளின் குறைபாட்டை நிரப்புவதற்க்காக உள்ளதைப் பிறர்க்கு ஈயாமல் தாமே தமியராய் உண்பது வறுமையால் இறப்பதை விடத் துன்பமானது.",
+          "ஒருவன் துன்பமானவை என்று தன் வாழ்க்கையில் கண்டு உணர்ந்தவைகளை மற்றவனிடத்தில் செய்யாமல் தவிர்க்க வேண்டும்.",
+          "எல்லாப் பொருளுக்கும் சார்பான செம்பொருளை உணர்ந்து பற்றுக் கெடுமாறு ஒழுகினால், சார்வதற்க்கு உரிய துன்பங்கள் திரும்ப வந்து அடையா."
+        ],
+        "quiz_options_en": [
+          "Vaunting sainthood while week within Seems a grazer with tiger skin",
+          "Worse than begging is that boarding Alone what one's greed is hoarding",
+          "What you feel as pain to yourself Do it not to the other-self",
+          "Know the Refuge; off with bondage Be free from ills of thraldom, O sage"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஈகை) பகுதியில் குறள் 229 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருளின் குறைபாட்டை நிரப்புவதற்க்காக உள்ளதைப் பிறர்க்கு ஈயாமல் தாமே தமியராய் உண்பது வறுமையால் இறப்பதை விடத் துன்பமானது. பரிமேலழகர் உரை நுட்பம்: நிரப்பிய தாமே தமியர் உணல் - பொருட்குறை நிரப்பவேண்டி வறியார்க்கு ஈயாது தாமே தனித்து உண்டல் இரத்தலின் இன்னாது மன்ற - ஒருவர்க்குப் பிறர்பால் சென்று இரத்தலினும் இன்னாது ஒருதலையாக. (பொருட்குறை நிரப்பலாவது: ஒரோ எண்களைக் குறித்து இத்துணை ஈட்டுவதும் என ஈட்டத்தையே...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 23: 'Giving'), Kural 229 distills a foundational ethical insight: \"They keep their garners full, for self alone the board they spread;-'Tis greater pain, be sure, than begging daily bread\" Philosophically, Solitary and unshared eating for the sake of filling up one's own riches is certainly much more.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "wealth",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 230,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: சாவதை விடத் துன்பமானது வேறொன்றும் இல்லை, ஆனால் வறியவர்க்கு ஒரு பொருள் கொடுக்க முடியாதநிலை வந்தபோது அச் சாதலும் இனியதே ஆகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Nothing is more unpleasant than death: yet even that is pleasant where charity cannot be exercised.",
+        "story_title_ta": "ஈகை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Giving — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஈகை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 230 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'சாவதை விடத் துன்பமானது வேறொன்றும் இல்லை, ஆனால் வறியவர்க்கு ஒரு பொருள் கொடுக்க முடியாதநிலை வந்தபோது அச் சாதலும் இனியதே ஆகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Giving'. Grandpa shared Kural 230 and explained in simple words: Nothing is more unpleasant than death: yet even that is pleasant where charity cannot be exercised. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: சாவு எனும் துன்பத்தைவிட வறியவர்க்கு எதுவும் வழங்க இயலாத மனத்துன்பம் பெரியது.",
+        "moral_en": "Moral: 'Tis bitter pain to die, 'Tis worse to live.For him who nothing finds to give.",
+        "game_blank_word_ta": "தில்லை",
+        "game_options_ta": [
+          "வறியார்க்கொன்று",
+          "ஈவதே",
+          "தில்லை",
+          "ஈகைமற்"
+        ],
+        "game_options_en": [
+          "To give the poor is charity The rest is loan and vanity",
+          "To beg is bad e'en from the good To give is good, were heaven forbid",
+          "Nothing is more painful than death Yet more is pain of giftless dearth",
+          "No pleading, \\\"I am nothing worth,\\\" But giving marks a noble birth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஈகை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 230, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சாவதை விடத் துன்பமானது வேறொன்றும் இல்லை, ஆனால் வறியவர்க்கு ஒரு பொருள் கொடுக்க முடியாதநிலை வந்தபோது அச் சாதலும் இனியதே ஆகும். கலைஞர் உரை கூறுவது: சாவு எனும் துன்பத்தைவிட வறியவர்க்கு எதுவும் வழங்க இயலாத மனத்துன்பம் பெரியது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Giving (Domestic Virtue), Kural 230 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Nothing is more unpleasant than death: yet even that is pleasant where charity cannot be exercised. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஈகை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Giving' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஈகை' அதிகாரத்தில் வரும் திருக்குறள் 230 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 230 from Chapter 'Giving'?",
+        "quiz_options_ta": [
+          "தவக்கோலத்தில் மறைந்து கொண்டு தவம் அல்லாத தீயச்செயல்களைச் செய்தல், புதரில் மறைந்து கொண்டு வேடன் பறவைகளை வலைவீசிப் பிடித்தலைப் போன்றது.",
+          "எவ்வளவு சிறியதாயினும் எக்காலத்திலும் எவரிடத்திலும் மனதால் எண்ணி உண்டாகின்ற துன்பச்செயலைச் செய்யாதிருத்தலே நல்லது.",
+          "சாவதை விடத் துன்பமானது வேறொன்றும் இல்லை, ஆனால் வறியவர்க்கு ஒரு பொருள் கொடுக்க முடியாதநிலை வந்தபோது அச் சாதலும் இனியதே ஆகும்.",
+          "விருப்பு, வெறுப்பு, அறியாமை ஆகிய இக் குற்றங்கள் மூன்றனுடைய பெயரும் கெடுமாறு ஒழுகினால் துன்பங்கள் வராமற் கெடும்."
+        ],
+        "quiz_options_en": [
+          "Sinning in saintly show is like Fowlers in ambush birds to strike",
+          "Any, anywhere injure not At any time even in thought",
+          "Nothing is more painful than death Yet more is pain of giftless dearth",
+          "Woes expire when lust, wrath, folly Expire even to name, fully"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஈகை) பகுதியில் குறள் 230 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சாவதை விடத் துன்பமானது வேறொன்றும் இல்லை, ஆனால் வறியவர்க்கு ஒரு பொருள் கொடுக்க முடியாதநிலை வந்தபோது அச் சாதலும் இனியதே ஆகும். பரிமேலழகர் உரை நுட்பம்: சாதலின் இன்னாதது இல்லை - ஒருவற்குச் சாதல் போல இன்னாதது ஒன்று இல்லை, அதூஉம் ஈதல் இயையாக் கடை இனிது - அத்தன்மைத்தாகிய சாதலும், வறியார்க்கு ஒன்று ஈதல் முடியாதவழி இனிது. (பிறர்க்குப் பயன்படாத உடற்பொறை நீங்குதலான் 'இனிது' என்றார். இவை மூன்று பாட்டானும் ஈயாமையின...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 23: 'Giving'), Kural 230 distills a foundational ethical insight: \"'Tis bitter pain to die, 'Tis worse to live.For him who nothing finds to give\" Philosophically, Nothing is more unpleasant than death: yet even that is pleasant where charity cannot be exercised.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "wealth"
+      ]
+    }
+  ]
+}

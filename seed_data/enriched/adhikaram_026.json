@@ -1,0 +1,577 @@
+{
+  "adhikaram_id": 26,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.678459323+00:00",
+  "kurals": [
+    {
+      "kural_number": 251,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தன் உடம்பைப் பெருக்கச் செய்வதற்காகத் தான் மற்றோர் உயிரின் உடம்பைத் தின்கின்றவன் எவ்வாறு அருளுடையவனாக இருக்க முடியும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: How can he be possessed of kindness, who to increase his own flesh, eats the flesh of other creatures.",
+        "story_title_ta": "புலால் மறுத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Abstinence from Flesh — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புலால் மறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 251 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தன் உடம்பை வளர்ப்பதற்காக இன்னோர் உடம்பைத் தின்பவன் மனத்துள் இரக்கம் எப்படி இருக்கும்?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Abstinence from Flesh'. Grandpa shared Kural 251 and explained in simple words: How can he be possessed of kindness, who to increase his own flesh, eats the flesh of other creatures. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தன் உடலை வளர்ப்பதற்காக வேறொரு உயிரின் உடலை உணவாக்கிக் கொள்பவர் எப்படிக் கருணையுள்ளம் கொண்டவராக இருக்க முடியும்.",
+        "moral_en": "Moral: How can the wont of 'kindly grace' to him be known, Who other creatures' flesh consumes to feed his own.",
+        "game_blank_word_ta": "அருள்",
+        "game_options_ta": [
+          "பொருளாட்சி",
+          "போற்றாதார்க்கு",
+          "இல்லை",
+          "அருள்"
+        ],
+        "game_options_en": [
+          "The thriftless have no property And flesh-eaters have no pity",
+          "Who wields a steel is steel-hearted Who tastes body is hard-hearted",
+          "If merciless it is to kill, To kill and eat is disgraceful",
+          "What graciousness can one command who feeds his flesh by flesh gourmand"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலால் மறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 251, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் உடம்பை வளர்ப்பதற்காக இன்னோர் உடம்பைத் தின்பவன் மனத்துள் இரக்கம் எப்படி இருக்கும்? கலைஞர் உரை கூறுவது: தன் உடலை வளர்ப்பதற்காக வேறொரு உயிரின் உடலை உணவாக்கிக் கொள்பவர் எப்படிக் கருணையுள்ளம் கொண்டவராக இருக்க முடியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Abstinence from Flesh (Ascetic Virtue), Kural 251 speaks directly to teens navigating studies, friendships, leadership, and digital choices: How can he be possessed of kindness, who to increase his own flesh, eats the flesh of other creatures. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புலால் மறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Abstinence from Flesh' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புலால் மறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 251 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 251 from Chapter 'Abstinence from Flesh'?",
+        "quiz_options_ta": [
+          "ஒருவன் தன் மனதோடு பொருந்த உண்மை பேசுவானானால் அவன் தவத்தேடு தானமும் ஒருங்கே செய்வாரை விடச் சிறந்தவன்.",
+          "உடம்போடு உயிர்க்கு உள்ள உறவு, தான் இருந்த கூடு தனியே இருக்க அதை விட்டு வேறிடத்திற்குப் பறவை பறந்தாற் போன்றது.",
+          "படை குடி கூழ் அமைச்சு நட்பு அரண் என்று கூறப்படும் ஆறு அங்கங்களையும் உடையவனே அரசருள் ஆண் சிங்கம் போனறவன்.",
+          "தன் உடம்பைப் பெருக்கச் செய்வதற்காகத் தான் மற்றோர் உயிரின் உடம்பைத் தின்கின்றவன் எவ்வாறு அருளுடையவனாக இருக்க முடியும்."
+        ],
+        "quiz_options_en": [
+          "To speak the truth from heart sincere Is more than giving and living austere",
+          "The soul from body any day Like bird from egg-shell flies away",
+          "People, troops, wealth, forts, council, friends Who owns these six is lion of kings",
+          "What graciousness can one command who feeds his flesh by flesh gourmand"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (புலால் மறுத்தல்) பகுதியில் குறள் 251 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன் உடம்பைப் பெருக்கச் செய்வதற்காகத் தான் மற்றோர் உயிரின் உடம்பைத் தின்கின்றவன் எவ்வாறு அருளுடையவனாக இருக்க முடியும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, ஊன் உண்டலை ஒழிதல். கொலைப்பாவத்தைப் பின்னும் உளது ஆக்கலின் அதற்குக் காரணம் ஆதலையும் முன்னும் அதனான் வருதலின் அதன் காரியம் ஆதலையும் ஒருங்குடையதாய ஊன் உண்டல் அருளுடையார்க்கு இயைவதன்று. ஆகலின் அதனை விலக்குதற்கு இஃது அருள் உடைமையின் பின் வைக்கப்பட்டது...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 26: 'Abstinence from Flesh'), Kural 251 distills a foundational ethical insight: \"How can the wont of 'kindly grace' to him be known, Who other creatures' flesh consumes to feed his own\" Philosophically, How can he be possessed of kindness, who to increase his own flesh, eats the flesh of other creatures.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "education",
+        "family",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 252,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பொருளுடையவராக இருக்கும் சிறப்பு அப்பொருளை வைத்துக் காப்பாற்றாதவர்க்கு இல்லை, அருளுடையவராக இருக்கும் சிறப்பு புலால் தின்பவர்க்கு இல்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: As those possess no property who do not take care of it, so those possess no kindness who feed on flesh.",
+        "story_title_ta": "புலால் மறுத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Abstinence from Flesh — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புலால் மறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 252 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொருளால் பயன் பெறுவது அதைப் பாதுகாக்காதவர்க்கு இல்லை; அது போல, இரக்கத்தால் பயன்பெறுவது இறைச்சி தின்பவர்க்கு இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Abstinence from Flesh'. Grandpa shared Kural 252 and explained in simple words: As those possess no property who do not take care of it, so those possess no kindness who feed on flesh. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பொருளைப் பேணிக் காத்திடாதவர்க்குப் பொருள் உடையவர் என்னும் சிறப்பு இல்லை; புலால் உண்பவர்க்கும் அருள் உடையவர் என்னும் சிறப்பு இல்லை.",
+        "moral_en": "Moral: No use of wealth have they who guard not their estate; No use of grace have they with flesh who hunger sate.",
+        "game_blank_word_ta": "பொருளாட்சி",
+        "game_options_ta": [
+          "பொருளாட்சி",
+          "தன்னூன்",
+          "பெருக்கற்குத்",
+          "தான்பிறிது"
+        ],
+        "game_options_en": [
+          "The thriftless have no property And flesh-eaters have no pity",
+          "What graciousness can one command who feeds his flesh by flesh gourmand",
+          "Who wields a steel is steel-hearted Who tastes body is hard-hearted",
+          "If merciless it is to kill, To kill and eat is disgraceful"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலால் மறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 252, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொருளால் பயன் பெறுவது அதைப் பாதுகாக்காதவர்க்கு இல்லை; அது போல, இரக்கத்தால் பயன்பெறுவது இறைச்சி தின்பவர்க்கு இல்லை. கலைஞர் உரை கூறுவது: பொருளைப் பேணிக் காத்திடாதவர்க்குப் பொருள் உடையவர் என்னும் சிறப்பு இல்லை; புலால் உண்பவர்க்கும் அருள் உடையவர் என்னும் சிறப்பு இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Abstinence from Flesh (Ascetic Virtue), Kural 252 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As those possess no property who do not take care of it, so those possess no kindness who feed on flesh. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புலால் மறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Abstinence from Flesh' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புலால் மறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 252 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 252 from Chapter 'Abstinence from Flesh'?",
+        "quiz_options_ta": [
+          "பொருளுடையவராக இருக்கும் சிறப்பு அப்பொருளை வைத்துக் காப்பாற்றாதவர்க்கு இல்லை, அருளுடையவராக இருக்கும் சிறப்பு புலால் தின்பவர்க்கு இல்லை.",
+          "ஒருவனுக்கு பொய் இல்லாமல் வாழ்தலை விடப் புகழ் நிலை வேறொன்றும் இல்லை, அஃது அவன் அறியாமலேயெ அவனுக்கு எல்லா அறமும் கொடுக்கும்.",
+          "இறப்பு எனப்படுவது ஒருவனுக்குஉறக்கம் வருதலைப் போன்றது, பிறப்பு எனப்படுவது உறக்கம் நீங்கி விழித்துக் கொள்வதைப் போன்றது.",
+          "அஞ்சாமை, ஈகை , அறிவுடைமை, ஊக்கமுடைமை இந்த நான்கு பண்புகளும் குறைவு படாமல் இருத்தலே அரசனுக்கு இயல்பாகும்."
+        ],
+        "quiz_options_en": [
+          "The thriftless have no property And flesh-eaters have no pity",
+          "Not to lie brings all the praise All virtues from Truth arise",
+          "Death is like a slumber deep And birth like waking from that sleep",
+          "Courage, giving, knowledge and zeal Are four failless features royal"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (புலால் மறுத்தல்) பகுதியில் குறள் 252 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருளுடையவராக இருக்கும் சிறப்பு அப்பொருளை வைத்துக் காப்பாற்றாதவர்க்கு இல்லை, அருளுடையவராக இருக்கும் சிறப்பு புலால் தின்பவர்க்கு இல்லை. பரிமேலழகர் உரை நுட்பம்: பொருள் ஆட்சி போற்றாதார்க்கு இல்லை - பொருளால் பயன் கோடல் அதனைப் பாதுகாவாதார்க்கு இல்லை, ஆங்கு அருள் ஆட்சி ஊன் தின்பவர்களுக்கு இல்லை - அது போல அருளால் பயன் கோடல் ஊன் தின்பவர்களுக்கு இல்லை. (பொருட்பயன் இழத்தற்குக் காரணம் காவாமை போல, அருட்பயன் இழத்தற்கு ஊன...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 26: 'Abstinence from Flesh'), Kural 252 distills a foundational ethical insight: \"No use of wealth have they who guard not their estate; No use of grace have they with flesh who hunger sate\" Philosophically, As those possess no property who do not take care of it, so those possess no kindness who feed on flesh.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wealth",
+        "kindness",
+        "discipline",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 253,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஓர் உயிரின் உடம்பைச் சுவையாக உண்டவரின் மனம் கொலைக்கருவியைக் கையில் கொண்டவரின் நெஞ்சம் போல் நன்மையாகி அருளைப் போற்றாது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Like the (murderous) mind of him who carries a weapon (in his hand), the mind of him who feasts with pleasure on the body of another (creature), has no regard for goodness.",
+        "story_title_ta": "புலால் மறுத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Abstinence from Flesh — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புலால் மறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 253 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'கத்தியைத் தன் கையில் பிடித்திருப்பவரின் மனம், இரக்கத்தை எண்ணிப் பாராதது போலப் பிறிதொரு உடலைச் சுவைத்து உண்டவரின் மனமும் இரக்கத்தை எணணாது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Abstinence from Flesh'. Grandpa shared Kural 253 and explained in simple words: Like the (murderous) mind of him who carries a weapon (in his hand), the mind of him who feasts with pleasure on the body of another (creature), has no regard for goodness. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: படைக் கருவியைப் பயன்படுத்துவோர் நெஞ்சமும், ஓர் உயிரின் உடலைச் சுவைத்து உண்பவர் நெஞ்சமும், அருளுடைமையைப் போற்றக் கூடியவைகள் அல்ல.",
+        "moral_en": "Moral: Like heart of them that murderous weapons bear, his mind, Who eats of savoury meat, no joy in good can find.",
+        "game_blank_word_ta": "நெஞ்சம்போல்",
+        "game_options_ta": [
+          "தன்னூன்",
+          "நெஞ்சம்போல்",
+          "பெருக்கற்குத்",
+          "தான்பிறிது"
+        ],
+        "game_options_en": [
+          "What graciousness can one command who feeds his flesh by flesh gourmand",
+          "Who wields a steel is steel-hearted Who tastes body is hard-hearted",
+          "The thriftless have no property And flesh-eaters have no pity",
+          "If merciless it is to kill, To kill and eat is disgraceful"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலால் மறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 253, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கத்தியைத் தன் கையில் பிடித்திருப்பவரின் மனம், இரக்கத்தை எண்ணிப் பாராதது போலப் பிறிதொரு உடலைச் சுவைத்து உண்டவரின் மனமும் இரக்கத்தை எணணாது. கலைஞர் உரை கூறுவது: படைக் கருவியைப் பயன்படுத்துவோர் நெஞ்சமும், ஓர் உயிரின் உடலைச் சுவைத்து உண்பவர் நெஞ்சமும், அருளுடைமையைப் போற்றக் கூடியவைகள் அல்ல. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Abstinence from Flesh (Ascetic Virtue), Kural 253 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Like the (murderous) mind of him who carries a weapon (in his hand), the mind of him who feasts with pleasure on the body of another (creature), has no regard for goodness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புலால் மறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Abstinence from Flesh' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புலால் மறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 253 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 253 from Chapter 'Abstinence from Flesh'?",
+        "quiz_options_ta": [
+          "பொய்யாமை ஆகிய அறத்தை உண்மையாகவே போற்றி வாழ முடிந்தால் மற்ற அறங்களைச் செய்தலும் நல்லது ஆகும்.",
+          "ஓர் உயிரின் உடம்பைச் சுவையாக உண்டவரின் மனம் கொலைக்கருவியைக் கையில் கொண்டவரின் நெஞ்சம் போல் நன்மையாகி அருளைப் போற்றாது.",
+          "(நோய்களுக்கு இடமாகிய) உடம்பில் ஒரு மூலையில் குடியிருந்த உயிர்க்கு, நிலையாகப் புகுந்திருக்கும் வீடு இதுவரையில் அமையவில்லையோ.",
+          "காலம் தாழ்த்தாத தன்மை, கல்வியுடைமை, துணிவுடைமை இந்த மூன்று பண்புகளும் நிலத்தை ஆளும் அரசனுக்கு நீங்காமல் இருக்க வேண்டியவை."
+        ],
+        "quiz_options_en": [
+          "Lie not lie not Naught else you need All virtues are in Truth indeed",
+          "Who wields a steel is steel-hearted Who tastes body is hard-hearted",
+          "The life berthed in this body shows A fixed home it never knows",
+          "Alertness, learning bravery Are adjuncts three of monarchy"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (புலால் மறுத்தல்) பகுதியில் குறள் 253 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஓர் உயிரின் உடம்பைச் சுவையாக உண்டவரின் மனம் கொலைக்கருவியைக் கையில் கொண்டவரின் நெஞ்சம் போல் நன்மையாகி அருளைப் போற்றாது. பரிமேலழகர் உரை நுட்பம்: படை கொண்டார் நெஞ்சம் போல் - கொலைக் கருவியை தம் கையில் கொண்டவர் மனம் அதனால் செய்யும் கொலையையே நோக்குவதல்லது அருளை நோக்காதவாறு போல, ஒன்றன் உடல் சுவை உண்டார் மனம் நன்று ஊக்காது - பிறி்தோர் உயிரின் உடலைச் சுவைபட உண்டவர் மனம் அவ்வூனையே நோக்குவது அல்லது அருளை...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 26: 'Abstinence from Flesh'), Kural 253 distills a foundational ethical insight: \"Like heart of them that murderous weapons bear, his mind, Who eats of savoury meat, no joy in good can find\" Philosophically, Like the (murderous) mind of him who carries a weapon (in his hand), the mind of him who feasts with pleasure on the body of another (creature), has no regard for goodness.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "love",
+        "leadership",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 254,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அருள் எது என்றால் ஓர் உயிரையும் கொல்லாமலிருத்தல் அருளல்லாது எது என்றால் உயிர்களைக்கொள்ளுதல் அதன் உடம்பைத் தின்னுதல் அறம் அல்லாதது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If it be asked what is kindness and what its opposite, the answer would be preservation and destruction of life; and therefore it is not right to feed on the flesh (obtained by taking away life).",
+        "story_title_ta": "புலால் மறுத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Abstinence from Flesh — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புலால் மறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 254 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'இரக்கம் எது என்றால் கொலை செய்யாமல் இருப்பதே; இரக்கம் இல்லாதது எது என்றால் கொலை செய்வதே; பாவம் எது என்றால் இறைச்சியைத் தின்பதே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Abstinence from Flesh'. Grandpa shared Kural 254 and explained in simple words: If it be asked what is kindness and what its opposite, the answer would be preservation and destruction of life; and therefore it is not right to feed on the flesh (obtained by taking away life). The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: கொல்லாமை அருளுடைமையாகும்; கொல்லுதல் அருளற்ற செயலாகும் எனவே ஊன் அருந்துதல் அறம் ஆகாது.",
+        "moral_en": "Moral: 'What's grace, or lack of grace'? 'To kill' is this, that 'not to kill'; To eat dead flesh can never worthy end fulfil.",
+        "game_blank_word_ta": "கொல்லாமை",
+        "game_options_ta": [
+          "தன்னூன்",
+          "பெருக்கற்குத்",
+          "கொல்லாமை",
+          "தான்பிறிது"
+        ],
+        "game_options_en": [
+          "What graciousness can one command who feeds his flesh by flesh gourmand",
+          "The thriftless have no property And flesh-eaters have no pity",
+          "If merciless it is to kill, To kill and eat is disgraceful",
+          "Who wields a steel is steel-hearted Who tastes body is hard-hearted"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலால் மறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 254, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இரக்கம் எது என்றால் கொலை செய்யாமல் இருப்பதே; இரக்கம் இல்லாதது எது என்றால் கொலை செய்வதே; பாவம் எது என்றால் இறைச்சியைத் தின்பதே. கலைஞர் உரை கூறுவது: கொல்லாமை அருளுடைமையாகும்; கொல்லுதல் அருளற்ற செயலாகும் எனவே ஊன் அருந்துதல் அறம் ஆகாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Abstinence from Flesh (Ascetic Virtue), Kural 254 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If it be asked what is kindness and what its opposite, the answer would be preservation and destruction of life; and therefore it is not right to feed on the flesh (obtained by taking away life). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புலால் மறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Abstinence from Flesh' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புலால் மறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 254 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 254 from Chapter 'Abstinence from Flesh'?",
+        "quiz_options_ta": [
+          "புறத்தே தூய்மையாக விளங்குதல் நீரினால் ஏற்ப்படும், அதுபோல அகத்தே தூய்மையாக விளங்குதல் வாய்மையால் உண்டாகும்.",
+          "ஒருவன் எந்தப் பொருளிலிருந்து, எந்தப் பொருளிலிருந்து பற்று நீங்கியவனாக இருக்கின்றானோ, அந்தந்தப் பொருளால் அவன் துன்பம் அடைவதில்லை.",
+          "அருள் எது என்றால் ஓர் உயிரையும் கொல்லாமலிருத்தல் அருளல்லாது எது என்றால் உயிர்களைக்கொள்ளுதல் அதன் உடம்பைத் தின்னுதல் அறம் அல்லாதது.",
+          "ஆட்சி முறைக்கு உரிய அறத்தில் தவறாமல் அறமல்லாதவற்றை நீக்கி வீரத்தில் குறைபடாத மானத்தை உடையவனே சிறந்த அரசன் ஆவான்."
+        ],
+        "quiz_options_en": [
+          "Water makes you pure outward Truth renders you pure inward",
+          "From what from what a man is free From that, from that his torments flee",
+          "If merciless it is to kill, To kill and eat is disgraceful",
+          "A brave noble king refrains from vice Full of virtue and enterprise"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (புலால் மறுத்தல்) பகுதியில் குறள் 254 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அருள் எது என்றால் ஓர் உயிரையும் கொல்லாமலிருத்தல் அருளல்லாது எது என்றால் உயிர்களைக்கொள்ளுதல் அதன் உடம்பைத் தின்னுதல் அறம் அல்லாதது. பரிமேலழகர் உரை நுட்பம்: அருள் யாது எனின் கொல்லாமை - அருள் யாது எனின், கொல்லாமை : அல்லது (யாதெனின்) கோறல் - அருள் அல்லது யாது எனின் கோறல்: அவ்வூன் தினல் பொருள் அல்லது - ஆகலான் அக்கோறலான் வந்த ஊனைத் தின்கை பாவம். (உபசாரவழக்கால் 'கொல்லாமை, கோறல்' ஆகிய காரியங்களை 'அருள் அல்லது' எனக...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 26: 'Abstinence from Flesh'), Kural 254 distills a foundational ethical insight: \"'What's grace, or lack of grace'? 'To kill' is this, that 'not to kill'; To eat dead flesh can never worthy end fulfil\" Philosophically, If it be asked what is kindness and what its opposite, the answer would be preservation and destruction of life; and therefore it is not right to feed on the flesh (obtained by taking away life).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "harmony",
+        "ethics",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 255,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: உயிர்கள் உடம்பு பெற்று வாழும் நிலைமை, ஊன் உண்ணாதிருத்தலை அடிப்படையாகக் கொண்டது ஊன் உண்டால் நரகம் அவனை வெளிவிடாது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Not to eat flesh contributes to the continuance of life; therefore if a man eat flesh, hell will not open its mouth (to let him escape out, after he has once fallen in).",
+        "story_title_ta": "புலால் மறுத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Abstinence from Flesh — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புலால் மறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 255 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'இறைச்சியைத் தின்னாது இருத்தல் என்னும் அறத்தின்மேல் உயிர்நிலை இருக்கிறது. இதை மீறித் தின்னும் உயிர்களை நரகம் விழுங்கும்; வெளியே விடவும் செய்யாது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Abstinence from Flesh'. Grandpa shared Kural 255 and explained in simple words: Not to eat flesh contributes to the continuance of life; therefore if a man eat flesh, hell will not open its mouth (to let him escape out, after he has once fallen in). The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உயிர்களை உணவாக்கிக் கொள்ளச் சகதிக்குழியும் வாய் திறவாது; புலால் உண்ணாதவர்கள் இருப்பதால், பல உயிர்கள் கொல்லப்படாமல் வாழ்கின்றன.",
+        "moral_en": "Moral: If flesh you eat not, life's abodes unharmed remain; Who eats, hell swallows him, and renders not again.",
+        "game_blank_word_ta": "ஊனுண்ண",
+        "game_options_ta": [
+          "தன்னூன்",
+          "பெருக்கற்குத்",
+          "தான்பிறிது",
+          "ஊனுண்ண"
+        ],
+        "game_options_en": [
+          "What graciousness can one command who feeds his flesh by flesh gourmand",
+          "The thriftless have no property And flesh-eaters have no pity",
+          "Who wields a steel is steel-hearted Who tastes body is hard-hearted",
+          "Off with flesh; a life you save The eater hell's mouth shall not waive!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலால் மறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 255, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இறைச்சியைத் தின்னாது இருத்தல் என்னும் அறத்தின்மேல் உயிர்நிலை இருக்கிறது. இதை மீறித் தின்னும் உயிர்களை நரகம் விழுங்கும்; வெளியே விடவும் செய்யாது. கலைஞர் உரை கூறுவது: உயிர்களை உணவாக்கிக் கொள்ளச் சகதிக்குழியும் வாய் திறவாது; புலால் உண்ணாதவர்கள் இருப்பதால், பல உயிர்கள் கொல்லப்படாமல் வாழ்கின்றன. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Abstinence from Flesh (Ascetic Virtue), Kural 255 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Not to eat flesh contributes to the continuance of life; therefore if a man eat flesh, hell will not open its mouth (to let him escape out, after he has once fallen in). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புலால் மறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Abstinence from Flesh' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புலால் மறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 255 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 255 from Chapter 'Abstinence from Flesh'?",
+        "quiz_options_ta": [
+          "(புறத்தில் உள்ள இருளை நீக்கும்) விளக்குகள் எல்லாம் விளக்குகள் அல்ல, சான்றோர்க்கு (அகத்து இருள் நீக்கும்) பொய்யாமையாகிய விளக்கே விளக்கு ஆகும்.",
+          "துன்பமில்லாத நிலைமை வேண்டுமானால் எல்லாப் பொருள்களும் உள்ள காலத்திலேயெ துறக்க வேண்டும்,துறந்த பின் இங்குப் பெறக்கூடும் இன்பங்கள் பல.",
+          "பொருள் வரும் வழிகளை மேன்மேலும் இயற்றலும் வந்த பொருள்களைச் சேர்த்தலும், காத்தலும் காத்தவற்றை வகுத்துச் செலவு செய்தலும் வல்லவன் அரசன்.",
+          "உயிர்கள் உடம்பு பெற்று வாழும் நிலைமை, ஊன் உண்ணாதிருத்தலை அடிப்படையாகக் கொண்டது ஊன் உண்டால் நரகம் அவனை வெளிவிடாது."
+        ],
+        "quiz_options_en": [
+          "All lights are not lights for the wise; Truth light is light bright like Sun-light",
+          "Give up all to gain the True And endless joys shall hence seek you",
+          "The able king gets, stores and guards And spends them for people's safeguards",
+          "Off with flesh; a life you save The eater hell's mouth shall not waive!"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (புலால் மறுத்தல்) பகுதியில் குறள் 255 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உயிர்கள் உடம்பு பெற்று வாழும் நிலைமை, ஊன் உண்ணாதிருத்தலை அடிப்படையாகக் கொண்டது ஊன் உண்டால் நரகம் அவனை வெளிவிடாது. பரிமேலழகர் உரை நுட்பம்: உயிர் நிலை உண்ணாமை உள்ளது - ஒருசார் உயிர் உடம்பின் கண்ணே நிற்றல் ஊன் உண்ணாமை என்கின்ற அறத்தின் கண்ணது; உண்ண அளறு அண்ணாத்தல் செய்யாது - ஆகலான், அந்நிலை குலைய ஒருவன் அதனை உண்ணுமாயின், அவனை விழுங்கிய நிரயம் பின் உமிழ்வதற்கு அங்காவாது. (உண்ணப்படும் விலங்குகள...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 26: 'Abstinence from Flesh'), Kural 255 distills a foundational ethical insight: \"If flesh you eat not, life's abodes unharmed remain; Who eats, hell swallows him, and renders not again\" Philosophically, Not to eat flesh contributes to the continuance of life; therefore if a man eat flesh, hell will not open its mouth (to let him escape out, after he has once fallen in).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "speech",
+        "leadership",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 256,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: புலால் தின்னும் பொருட்டு உலகத்தார் உயிர்களைக் கொல்லா திருப்பாரானால், விலையின் பொருட்டு ஊன் விற்பவர் இல்லாமல் போவார்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If the world does not destroy life for the purpose of eating, then no one would sell flesh for the sake of money.",
+        "story_title_ta": "புலால் மறுத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Abstinence from Flesh — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புலால் மறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 256 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தின்பதற்காகவே கொலை செய்பவர் இல்லை என்றால், இறைச்சியை விலைக்குத் தருபவரும் உலகில் எங்கும் இருக்கமாட்டார்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Abstinence from Flesh'. Grandpa shared Kural 256 and explained in simple words: If the world does not destroy life for the purpose of eating, then no one would sell flesh for the sake of money. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: புலால் உண்பதற்காக உலகினர் உயிர்களைக் கொல்லாதிருப்பின், புலால் விற்பனை செய்யும் தொழிலை எவரும் மேற்கொள்ள மாட்டார்.",
+        "moral_en": "Moral: 'We eat the slain,' you say, by us no living creatures die; Who'd kill and sell, I pray, if none came there the flesh to buy.",
+        "game_blank_word_ta": "விலைப்பொருட்டால்",
+        "game_options_ta": [
+          "விலைப்பொருட்டால்",
+          "தன்னூன்",
+          "பெருக்கற்குத்",
+          "தான்பிறிது"
+        ],
+        "game_options_en": [
+          "None would kill and sell the flesh For eating it if they don't wish",
+          "What graciousness can one command who feeds his flesh by flesh gourmand",
+          "The thriftless have no property And flesh-eaters have no pity",
+          "Who wields a steel is steel-hearted Who tastes body is hard-hearted"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலால் மறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 256, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தின்பதற்காகவே கொலை செய்பவர் இல்லை என்றால், இறைச்சியை விலைக்குத் தருபவரும் உலகில் எங்கும் இருக்கமாட்டார். கலைஞர் உரை கூறுவது: புலால் உண்பதற்காக உலகினர் உயிர்களைக் கொல்லாதிருப்பின், புலால் விற்பனை செய்யும் தொழிலை எவரும் மேற்கொள்ள மாட்டார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Abstinence from Flesh (Ascetic Virtue), Kural 256 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If the world does not destroy life for the purpose of eating, then no one would sell flesh for the sake of money. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புலால் மறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Abstinence from Flesh' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புலால் மறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 256 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 256 from Chapter 'Abstinence from Flesh'?",
+        "quiz_options_ta": [
+          "புலால் தின்னும் பொருட்டு உலகத்தார் உயிர்களைக் கொல்லா திருப்பாரானால், விலையின் பொருட்டு ஊன் விற்பவர் இல்லாமல் போவார்.",
+          "யாம் உண்மையாக கண்ட பொருள்களுள் வாய்மைவிடத் எத்தன்மையாலும் சிறந்தவைகளாகச் சொல்லத்தக்கவை வேறு இல்லை.",
+          "ஐம்பொறிகளுக்கும் உரிய ஐந்து புலன்களின் ஆசையையும் வெல்லுதல் வேண்டும், அவற்றிற்கு வேண்டிய பொருள்களை எல்லாம் ஒரு சேர விட வேண்டும்.",
+          "காண்பதற்கு எளியவனாய்க் கடுஞ்சொல் கூறாதவாய் இருந்தால் அந்த மன்னனுடைய ஆட்சிக்கு உட்பட்ட நாட்டை உலகம் புகழும்."
+        ],
+        "quiz_options_en": [
+          "None would kill and sell the flesh For eating it if they don't wish",
+          "Of all the things we here have seen Nothing surpasses Truth serene!",
+          "Curb the senses five and renounce The carving desires all at once",
+          "That land prospers where the king is Easy to see, not harsh of words"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (புலால் மறுத்தல்) பகுதியில் குறள் 256 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: புலால் தின்னும் பொருட்டு உலகத்தார் உயிர்களைக் கொல்லா திருப்பாரானால், விலையின் பொருட்டு ஊன் விற்பவர் இல்லாமல் போவார். பரிமேலழகர் உரை நுட்பம்: தினற்பொருட்டால் உலகு கொல்லாது எனின் - பேதைமை காரணமாக அல்லது, ஊன் தின்கை காரணமாக உலகம் கொல்லாதாயின், விலைப்பொருட்டு ஊன் தருவார் யாரும் இல் - பொருள் காரணமாக ஊன் விற்பார் யாவரும் இல்லை. ('உலகு' என்பது ஈண்டு உயிர்ப்பன்மை மேல் நின்றது. பின் நிகழும் தின்கை முன...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 26: 'Abstinence from Flesh'), Kural 256 distills a foundational ethical insight: \"'We eat the slain,' you say, by us no living creatures die; Who'd kill and sell, I pray, if none came there the flesh to buy\" Philosophically, If the world does not destroy life for the purpose of eating, then no one would sell flesh for the sake of money.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "harmony",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 257,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: புலால் உண்ணாமலிருக்க வேண்டும், ஆராய்ந்து அறிவாரைப் பெற்றால், அப் புலால் வேறோர் உயிரின் புண் என்பதை உணரலாம்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: If men should come to know that flesh is nothing but the unclean ulcer of a body, let them abstain from eating it.",
+        "story_title_ta": "புலால் மறுத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Abstinence from Flesh — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புலால் மறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 257 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'இறைச்சி, இன்னோர் உடம்பின் புண்; அறிந்தவர் அதை உண்ணக்கூடாது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Abstinence from Flesh'. Grandpa shared Kural 257 and explained in simple words: If men should come to know that flesh is nothing but the unclean ulcer of a body, let them abstain from eating it. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: புலால் என்பது வேறோர் உயிரின் உடற்புண் என்பதை உணர்ந்தோர் அதனை உண்ணாமல் இருக்கவேண்டும்.",
+        "moral_en": "Moral: With other beings' ulcerous wounds their hunger they appease; If this they felt, desire to eat must surely cease.",
+        "game_blank_word_ta": "உணர்வார்ப்",
+        "game_options_ta": [
+          "தன்னூன்",
+          "உணர்வார்ப்",
+          "பெருக்கற்குத்",
+          "தான்பிறிது"
+        ],
+        "game_options_en": [
+          "What graciousness can one command who feeds his flesh by flesh gourmand",
+          "From eating flesh men must abstain If they but feel the being's pain",
+          "The thriftless have no property And flesh-eaters have no pity",
+          "Who wields a steel is steel-hearted Who tastes body is hard-hearted"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலால் மறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 257, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இறைச்சி, இன்னோர் உடம்பின் புண்; அறிந்தவர் அதை உண்ணக்கூடாது. கலைஞர் உரை கூறுவது: புலால் என்பது வேறோர் உயிரின் உடற்புண் என்பதை உணர்ந்தோர் அதனை உண்ணாமல் இருக்கவேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Abstinence from Flesh (Ascetic Virtue), Kural 257 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If men should come to know that flesh is nothing but the unclean ulcer of a body, let them abstain from eating it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புலால் மறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Abstinence from Flesh' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புலால் மறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 257 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 257 from Chapter 'Abstinence from Flesh'?",
+        "quiz_options_ta": [
+          "பலிக்கும் இடத்தில் சினம் வராமல் காப்பவனே சினம் காப்பவன், பலிக்காத இடத்தில் காத்தால் என்ன, காக்கா விட்டால் என்ன?",
+          "புலால் உண்ணாமலிருக்க வேண்டும், ஆராய்ந்து அறிவாரைப் பெற்றால், அப் புலால் வேறோர் உயிரின் புண் என்பதை உணரலாம்.",
+          "தவம் செய்தவற்கு ஒரு பற்றும் இல்லாதிருத்தல் இயல்பாகும், பற்று உடையவராக இருத்தல் மீண்டும் மயங்குவதற்கு வழியாகும்.",
+          "இனியச் சொற்களுடன் தக்கவர்க்குப் பொருளை உதவிக் காக்க வல்ல அரசனுக்கு இவ்வுலகம் தன் புகழோடு தான் கருதியபடி அமைவதாகும்."
+        ],
+        "quiz_options_en": [
+          "Anger against the weak is wrong It is futile against the strong",
+          "From eating flesh men must abstain If they but feel the being's pain",
+          "To have nothing is law of vows Having the least deludes and snares",
+          "The world commends and acts his phrase Who sweetly speaks and gives with grace"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (புலால் மறுத்தல்) பகுதியில் குறள் 257 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: புலால் உண்ணாமலிருக்க வேண்டும், ஆராய்ந்து அறிவாரைப் பெற்றால், அப் புலால் வேறோர் உயிரின் புண் என்பதை உணரலாம். பரிமேலழகர் உரை நுட்பம்: புலால் பிறிதொன்றன் புண் - புலாலாவது பிறிதோர் உடம்பின் புண், அது உணர்வார்ப் பெறின் உண்ணாமை வேண்டும் - அது தூய்து அன்மை அறிவாரைப் பெறின் அதனை உண்ணாதொழியல் வேண்டும். ('அஃது' என்னல் வேண்டும் ஆய்தம் விகாரத்தால்தொக்கது. அம்மெய்ம்மை உணராமையின், அதனை உண்கின்றார...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 26: 'Abstinence from Flesh'), Kural 257 distills a foundational ethical insight: \"With other beings' ulcerous wounds their hunger they appease; If this they felt, desire to eat must surely cease\" Philosophically, If men should come to know that flesh is nothing but the unclean ulcer of a body, let them abstain from eating it.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 258,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: குற்றத்திலிருந்து நீங்கிய அறிவை உடையவர், ஒர் உயிரினிடத்திலிருந்து பிரிந்து வந்த ஊனை உண்ணமாட்டார்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The wise, who have freed themselves from mental delusion, will not eat the flesh which has been severed from an animal.",
+        "story_title_ta": "புலால் மறுத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Abstinence from Flesh — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புலால் மறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 258 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிழையற்ற அறிவினை உடையவர், உயிர் பிரிந்த இறைச்சியை உண்ணமாட்டார்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Abstinence from Flesh'. Grandpa shared Kural 258 and explained in simple words: The wise, who have freed themselves from mental delusion, will not eat the flesh which has been severed from an animal. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மாசற்ற மதியுடையோர், ஓர் உயிரைப் பிரித்து அதன் ஊனை உண்ண மாட்டார்கள்.",
+        "moral_en": "Moral: Whose souls the vision pure and passionless perceive, Eat not the bodies men of life bereave.",
+        "game_blank_word_ta": "உண்ணார்",
+        "game_options_ta": [
+          "தன்னூன்",
+          "பெருக்கற்குத்",
+          "உண்ணார்",
+          "தான்பிறிது"
+        ],
+        "game_options_en": [
+          "What graciousness can one command who feeds his flesh by flesh gourmand",
+          "The thriftless have no property And flesh-eaters have no pity",
+          "Whose mind from illusion is freed Refuse on lifeless flesh to feed",
+          "Who wields a steel is steel-hearted Who tastes body is hard-hearted"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலால் மறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 258, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிழையற்ற அறிவினை உடையவர், உயிர் பிரிந்த இறைச்சியை உண்ணமாட்டார். கலைஞர் உரை கூறுவது: மாசற்ற மதியுடையோர், ஓர் உயிரைப் பிரித்து அதன் ஊனை உண்ண மாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Abstinence from Flesh (Ascetic Virtue), Kural 258 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The wise, who have freed themselves from mental delusion, will not eat the flesh which has been severed from an animal. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புலால் மறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Abstinence from Flesh' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புலால் மறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 258 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 258 from Chapter 'Abstinence from Flesh'?",
+        "quiz_options_ta": [
+          "பலிக்காத இடத்தில் (தன்னை விட வலியவரிடத்தில்) சினம் கொள்வது தீங்கு. பலிக்கும் இடத்திலும் (மெலியவரித்திலும்) சினத்தைவிடத் தீயவை வேறு இல்லை.",
+          "பிறவித் துன்பத்தைப் போக்க முயல்கின்றவர்க்கு உடம்பும் மிகையான பொருள் ஆகையால் அதற்கு மேல் வேறு தொடர்பு கொள்வது ஏனோ.",
+          "குற்றத்திலிருந்து நீங்கிய அறிவை உடையவர், ஒர் உயிரினிடத்திலிருந்து பிரிந்து வந்த ஊனை உண்ணமாட்டார்.",
+          "நீதி முறை செய்து குடிமக்களைக் காப்பாற்றும் மன்னவன், மக்களுக்கு தலைவன் என்றுக் கருதித் தனியே மதிக்கப்படுவான்."
+        ],
+        "quiz_options_en": [
+          "Vain is wrath against men of force Against the meek it is still worse",
+          "Why add to bonds while this body Is too much for saints to be birth-free",
+          "Whose mind from illusion is freed Refuse on lifeless flesh to feed",
+          "He is the Lord of men who does Sound justice and saves his race"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (புலால் மறுத்தல்) பகுதியில் குறள் 258 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: குற்றத்திலிருந்து நீங்கிய அறிவை உடையவர், ஒர் உயிரினிடத்திலிருந்து பிரிந்து வந்த ஊனை உண்ணமாட்டார். பரிமேலழகர் உரை நுட்பம்: செயிரின் தலைப்பிரிந்த காட்சியார் - மயக்கம் ஆகிய குற்றத்தின் நீங்கிய அறிவினையுடையார், உயிரின் தலைப்பிரிந்த ஊன் உண்ணார் - ஓர் உயிரின் நீங்கி வந்த ஊனை உண்ணார். ( 'தலைப்பிரிவு' என்பது ஒரு சொல். பிணம் என ஊனின் மெய்ம்மை தாமே உணர்தலின், 'உண்ணார்' என்றார்.).",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 26: 'Abstinence from Flesh'), Kural 258 distills a foundational ethical insight: \"Whose souls the vision pure and passionless perceive, Eat not the bodies men of life bereave\" Philosophically, The wise, who have freed themselves from mental delusion, will not eat the flesh which has been severed from an animal.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 259,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நெய் முதலியப் பொருள்களைத் தீயில் சொரிந்து ஆயிரம் வேள்விகள் செய்தலை விட ஒன்றன் உயிரைக்கொன்று உடம்பைத் தின்னாதிருத்தல் நல்லது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Not to kill and eat (the flesh of) an animal, is better than the pouring forth of ghee etc, in a thousand sacrifices.",
+        "story_title_ta": "புலால் மறுத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Abstinence from Flesh — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புலால் மறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 259 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். '(மந்திரம் சொல்லித் தேவர்களுக்கு இடும் உணவாகிய) அவிகளைத் தீயில் போட்டு ஆயிரம் வேள்வி செய்வதைக் காட்டிலும் ஓர் உயிரைப் போக்கி அதன் உடம்பை உண்ணாமல் இருப்பது நல்லது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Abstinence from Flesh'. Grandpa shared Kural 259 and explained in simple words: Not to kill and eat (the flesh of) an animal, is better than the pouring forth of ghee etc, in a thousand sacrifices. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நெய் போன்ற பொருள்களைத் தீயிலிட்டு ஆயிரம் வேள்விகளை நடத்துவதைவிட உண்பதற்காக ஓர் உயிரைப் போக்காமலிருப்பது நல்லது.",
+        "moral_en": "Moral: Than thousand rich oblations, with libations rare, Better the flesh of slaughtered beings not to share.",
+        "game_blank_word_ta": "அவிசொரிந்",
+        "game_options_ta": [
+          "தன்னூன்",
+          "பெருக்கற்குத்",
+          "தான்பிறிது",
+          "அவிசொரிந்"
+        ],
+        "game_options_en": [
+          "What graciousness can one command who feeds his flesh by flesh gourmand",
+          "The thriftless have no property And flesh-eaters have no pity",
+          "Who wields a steel is steel-hearted Who tastes body is hard-hearted",
+          "Not to-kill-and-eat, truly Excels thousand pourings of ghee!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலால் மறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 259, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: (மந்திரம் சொல்லித் தேவர்களுக்கு இடும் உணவாகிய) அவிகளைத் தீயில் போட்டு ஆயிரம் வேள்வி செய்வதைக் காட்டிலும் ஓர் உயிரைப் போக்கி அதன் உடம்பை உண்ணாமல் இருப்பது நல்லது. கலைஞர் உரை கூறுவது: நெய் போன்ற பொருள்களைத் தீயிலிட்டு ஆயிரம் வேள்விகளை நடத்துவதைவிட உண்பதற்காக ஓர் உயிரைப் போக்காமலிருப்பது நல்லது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Abstinence from Flesh (Ascetic Virtue), Kural 259 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Not to kill and eat (the flesh of) an animal, is better than the pouring forth of ghee etc, in a thousand sacrifices. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புலால் மறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Abstinence from Flesh' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புலால் மறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 259 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 259 from Chapter 'Abstinence from Flesh'?",
+        "quiz_options_ta": [
+          "யாரிடத்திலும் சினம் கொள்ளாமல் அதை மறந்து விட வேண்டும், தீமையான விளைவுகள் அச் சினத்தாலேயே ஏற்படும்.",
+          "உடம்பை யான் எனக் கருதலும் தொடர்பு இல்லாத பொருளை எனது எனக்கருதலுமாகிய மயக்கத்தை போக்குகின்றவன், தேவர்க்கும் எட்டாத உயர்ந்த நிலை அடைவான்.",
+          "குறைகூறுவோறின் சொற்களைக் செவிகைக்கும் நிலையிலும் பொறுக்கின்ற பண்பும் உடைய அரசனது குடைநிழலில் உலகம் தங்கும்.",
+          "நெய் முதலியப் பொருள்களைத் தீயில் சொரிந்து ஆயிரம் வேள்விகள் செய்தலை விட ஒன்றன் உயிரைக்கொன்று உடம்பைத் தின்னாதிருத்தல் நல்லது."
+        ],
+        "quiz_options_en": [
+          "Off with wrath with any one It is the source of sin and pain",
+          "Who curbs the pride of I and mine Gets a world rare for gods to gain",
+          "Under his shelter thrives the world Who bears remarks bitter and bold",
+          "Not to-kill-and-eat, truly Excels thousand pourings of ghee!"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (புலால் மறுத்தல்) பகுதியில் குறள் 259 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெய் முதலியப் பொருள்களைத் தீயில் சொரிந்து ஆயிரம் வேள்விகள் செய்தலை விட ஒன்றன் உயிரைக்கொன்று உடம்பைத் தின்னாதிருத்தல் நல்லது. பரிமேலழகர் உரை நுட்பம்: அவி சொரிந்து ஆயிரம் வேட்டலின் - தீயின்கண் நெய் முதலிய அவிகளைச் சொரிந்து ஆயிரம் வேள்வி வேட்டலினும், ஒன்றன்உயிர் செகுத்து உண்ணாமை நன்று - ஒரு விலங்கின் உயிரைப் போக்கி அது நின்ற ஊனை உண்ணாமை நன்று. (அவ்வேள்விகளான் வரும் பயனினும் இவ்விரதத்தான் வரும் பயனே பெரிது...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 26: 'Abstinence from Flesh'), Kural 259 distills a foundational ethical insight: \"Than thousand rich oblations, with libations rare, Better the flesh of slaughtered beings not to share\" Philosophically, Not to kill and eat (the flesh of) an animal, is better than the pouring forth of ghee etc, in a thousand sacrifices.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wealth",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 260,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஓருயிரையும் கொல்லாமல் புலால் உண்ணாமல் வாழ்கின்றவனை உலகத்தில் உள்ள எல்லா உயிர்களும் கைகூப்பி வணங்கும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: All creatures will join their hands together, and worship him who has never taken away life, nor eaten flesh.",
+        "story_title_ta": "புலால் மறுத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Abstinence from Flesh — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புலால் மறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 260 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எந்த உயிரையும் கொல்லாதவனாய், இறைச்சியைத் தின்ன மறுத்தவனாய் வாழ்பவனை எல்லா உயிர்களும் கை குவித்துத் தொழும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Abstinence from Flesh'. Grandpa shared Kural 260 and explained in simple words: All creatures will join their hands together, and worship him who has never taken away life, nor eaten flesh. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: புலால் உண்ணாதவர்களையும், அதற்காக உயிர்களைக் கொல்லாதவர்களையும் எல்லா உயிரினங்களும் வணங்கி வாழ்த்தும்.",
+        "moral_en": "Moral: Who slays nought,- flesh rejects- his feet beforeAll living things with clasped hands adore.",
+        "game_blank_word_ta": "புலாலை",
+        "game_options_ta": [
+          "புலாலை",
+          "தன்னூன்",
+          "பெருக்கற்குத்",
+          "தான்பிறிது"
+        ],
+        "game_options_en": [
+          "All lives shall lift their palms to him Who eats not flesh nor kills with whim",
+          "What graciousness can one command who feeds his flesh by flesh gourmand",
+          "The thriftless have no property And flesh-eaters have no pity",
+          "Who wields a steel is steel-hearted Who tastes body is hard-hearted"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலால் மறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 260, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எந்த உயிரையும் கொல்லாதவனாய், இறைச்சியைத் தின்ன மறுத்தவனாய் வாழ்பவனை எல்லா உயிர்களும் கை குவித்துத் தொழும். கலைஞர் உரை கூறுவது: புலால் உண்ணாதவர்களையும், அதற்காக உயிர்களைக் கொல்லாதவர்களையும் எல்லா உயிரினங்களும் வணங்கி வாழ்த்தும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Abstinence from Flesh (Ascetic Virtue), Kural 260 speaks directly to teens navigating studies, friendships, leadership, and digital choices: All creatures will join their hands together, and worship him who has never taken away life, nor eaten flesh. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புலால் மறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Abstinence from Flesh' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புலால் மறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 260 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 260 from Chapter 'Abstinence from Flesh'?",
+        "quiz_options_ta": [
+          "ஓருயிரையும் கொல்லாமல் புலால் உண்ணாமல் வாழ்கின்றவனை உலகத்தில் உள்ள எல்லா உயிர்களும் கைகூப்பி வணங்கும்.",
+          "முகமலர்ச்சியும் அகமலர்ச்சியும் கொல்லுகின்ற சினத்தை விட ஒருவனுக்கு பகையானவை வேறு உள்ளனவோ?",
+          "யான் எனது என்னும் இருவகைப் பற்றுக்களையும் பற்றிக் கொண்டுவிடாத வரை, துன்பங்களும் விடாமல் பற்றிக்கொள்கின்றன.",
+          "கொடை, அருள், செங்கோல்முறை, தளர்ந்த குடிமக்களைக்காத்தல் ஆகிய நான்கும் உடைய அரசன், அரசர்க்கெல்லாம் விளக்குப் போன்றவன்."
+        ],
+        "quiz_options_en": [
+          "All lives shall lift their palms to him Who eats not flesh nor kills with whim",
+          "Is there a foe like harmful ire Which kills the smile and joyful cheer?",
+          "Grief clings on and on to those Who cling to bonds without release",
+          "He is the Light of Kings who has Bounty, justice, care and grace"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (புலால் மறுத்தல்) பகுதியில் குறள் 260 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஓருயிரையும் கொல்லாமல் புலால் உண்ணாமல் வாழ்கின்றவனை உலகத்தில் உள்ள எல்லா உயிர்களும் கைகூப்பி வணங்கும். பரிமேலழகர் உரை நுட்பம்: கொல்லான் புலாலை மறுத்தானை - ஓர் உயிரையும் கொல்லாதவனுமாய்ப் புலாலையும் உண்ணாதவனை, எல்லா உயிரும் கைகூப்பித் தொழும் - எல்லா உயிரும் கை குவித்துத் தொழும். (இவ்விரண்டு அறமும் ஒருங்கு உடையார்க்கு அல்லது ஒன்றே உடையார்க்கு அதனால் பயன் இல்லை ஆகலின், கொல்லாமையும் உடன...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 26: 'Abstinence from Flesh'), Kural 260 distills a foundational ethical insight: \"Who slays nought,- flesh rejects- his feet beforeAll living things with clasped hands adore\" Philosophically, All creatures will join their hands together, and worship him who has never taken away life, nor eaten flesh.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "truth",
+        "self-mastery"
+      ]
+    }
+  ]
+}

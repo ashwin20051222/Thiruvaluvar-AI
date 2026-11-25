@@ -1,0 +1,576 @@
+{
+  "adhikaram_id": 37,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.780665146+00:00",
+  "kurals": [
+    {
+      "kural_number": 361,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: எல்லா உயிர்களுக்கும் எக்காலத்திலும் ஒழியாமல் வருகின்ற பிறவித்துன்பத்தை உண்டாக்கும் வித்து அவா என்றுக் கூறுவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: (The wise) say that the seed, which produces unceasing births, at all times, to all creatures, is desire.",
+        "story_title_ta": "அவா அறுத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Curbing of Desire — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அவா அறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 361 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எல்லா உயிர்களுக்கும், எந்தக் காலத்திலும் அழியாமல் வரும் பிறப்பை உண்டாக்கும் விதைதான் ஆசை என்று பெரியோர் கூறுவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Curbing of Desire'. Grandpa shared Kural 361 and explained in simple words: (The wise) say that the seed, which produces unceasing births, at all times, to all creatures, is desire. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஆசையை, எல்லா உயிர்களிடமும், எல்லாக் காலத்திலும் தவறாமல் தோன்றி முளைக்கும் விதை என்று கூறலாம்.",
+        "moral_en": "Moral: The wise declare, through all the days, to every living thingThat ceaseless round of birth from seed of strong desire doth spring.",
+        "game_blank_word_ta": "தவாஅப்",
+        "game_options_ta": [
+          "வேண்டுங்கால்",
+          "தவாஅப்",
+          "வேண்டும்",
+          "பிறவாமை"
+        ],
+        "game_options_en": [
+          "If long thou must, long for non-birth It comes by longing no more for earth",
+          "Desire to all, always is seed From which ceaseless births proceed",
+          "No such wealth is here and there As peerless wealth of non-desire",
+          "To nothing crave is purity That is the fruit of verity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவா அறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 361, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எல்லா உயிர்களுக்கும், எந்தக் காலத்திலும் அழியாமல் வரும் பிறப்பை உண்டாக்கும் விதைதான் ஆசை என்று பெரியோர் கூறுவர். கலைஞர் உரை கூறுவது: ஆசையை, எல்லா உயிர்களிடமும், எல்லாக் காலத்திலும் தவறாமல் தோன்றி முளைக்கும் விதை என்று கூறலாம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Curbing of Desire (Ascetic Virtue), Kural 361 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (The wise) say that the seed, which produces unceasing births, at all times, to all creatures, is desire. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அவா அறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Curbing of Desire' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அவா அறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 361 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 361 from Chapter 'Curbing of Desire'?",
+        "quiz_options_ta": [
+          "கல்லாதவன் ஒருவன் தன்னைத்தான் மகிழ்ந்து பேசும் மதிப்பு ( கற்றவரிடம்) கூடிபேசும் போது அப்பேசினால் கெடும்.",
+          "எல்லா உயிர்களுக்கும் எக்காலத்திலும் ஒழியாமல் வருகின்ற பிறவித்துன்பத்தை உண்டாக்கும் வித்து அவா என்றுக் கூறுவர்.",
+          "கடிந்து அறிவுரைக் கூறும் பெரியாரின் துணை இல்லாதக் காவலற்ற அரசன், தன்னைக் கெடுக்ககும் பகைவர் எவரும் இல்லாவிட்டாலும் கெடுவான்.",
+          "முற்றுகை செய்வதற்கு ஏற்ற இடத்தைக் கண்டபின் அல்லாமல் எச் செயலையும் தொடங்கக்கூடாது, பகைவரை இகழவும் கூடாது."
+        ],
+        "quiz_options_en": [
+          "A man untaught when speech he vaunts Sadly fails before savants",
+          "Desire to all, always is seed From which ceaseless births proceed",
+          "The careless king whom none reproves Ruins himself sans harmful foes",
+          "No action take, no foe despise Until you have surveyed the place"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அவா அறுத்தல்) பகுதியில் குறள் 361 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எல்லா உயிர்களுக்கும் எக்காலத்திலும் ஒழியாமல் வருகின்ற பிறவித்துன்பத்தை உண்டாக்கும் வித்து அவா என்றுக் கூறுவர். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, முன்னும் பின்னும் வினைத்தொடர்பு அறுத்தார்க்கு நடுவுநின்ற உடம்பும் அதுகொண்ட வினைப்பயன்களும் நின்றமையின் , வேதனை பற்றி ஒரோவழித் துறக்கப்பட்ட புலன்கள்மேல் பழைய பயிற்சி வயத்தான் நினைவு செல்லுமன்றே? அந்நினைவும் அவிச்சை எனப் பிறவிக்கு வித்து ஆம் ஆகலின...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 37: 'Curbing of Desire'), Kural 361 distills a foundational ethical insight: \"The wise declare, through all the days, to every living thingThat ceaseless round of birth from seed of strong desire doth spring\" Philosophically, (The wise) say that the seed, which produces unceasing births, at all times, to all creatures, is desire.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "ethics",
+        "wisdom",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 362,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவன் ஒன்றை விரும்புவதனால் பிறவா நிலைமையை விரும்ப வேண்டும், அது அவா அற்ற நிலையை விரும்பினால் உண்டாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If anything be desired, freedom from births should be desired; that (freedom from births) will be attained by desiring to be without desire.",
+        "story_title_ta": "அவா அறுத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Curbing of Desire — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அவா அறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 362 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறவாமையை எப்போது விரும்புகிறோமோ அப்போது அந்த நிலை நமக்கு வர வேண்டும். ஆசையற்று இருப்பதை விரும்பும்போதுதான் அந்த நிலை நமக்கு உண்டாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Curbing of Desire'. Grandpa shared Kural 362 and explained in simple words: If anything be desired, freedom from births should be desired; that (freedom from births) will be attained by desiring to be without desire. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: விரும்புவதானால் பிறக்காமலே இருந்திருக்கவேண்டும் என்று ஒருவன் எண்ணுகிற அளவுக்கு ஏற்படுகிற துன்ப நிலை, ஆசைகளை ஒழிக்காவிடில் வரும்.",
+        "moral_en": "Moral: If desire you feel, freedom from changing birth require!'I' will come, if you desire to 'scape, set free from all desire.",
+        "game_blank_word_ta": "வேண்ட",
+        "game_options_ta": [
+          "அவாஎன்ப",
+          "எல்லா",
+          "வேண்ட",
+          "உயிர்க்கும்"
+        ],
+        "game_options_en": [
+          "Desire to all, always is seed From which ceaseless births proceed",
+          "No such wealth is here and there As peerless wealth of non-desire",
+          "If long thou must, long for non-birth It comes by longing no more for earth",
+          "To nothing crave is purity That is the fruit of verity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவா அறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 362, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறவாமையை எப்போது விரும்புகிறோமோ அப்போது அந்த நிலை நமக்கு வர வேண்டும். ஆசையற்று இருப்பதை விரும்பும்போதுதான் அந்த நிலை நமக்கு உண்டாகும். கலைஞர் உரை கூறுவது: விரும்புவதானால் பிறக்காமலே இருந்திருக்கவேண்டும் என்று ஒருவன் எண்ணுகிற அளவுக்கு ஏற்படுகிற துன்ப நிலை, ஆசைகளை ஒழிக்காவிடில் வரும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Curbing of Desire (Ascetic Virtue), Kural 362 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If anything be desired, freedom from births should be desired; that (freedom from births) will be attained by desiring to be without desire. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அவா அறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Curbing of Desire' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அவா அறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 362 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 362 from Chapter 'Curbing of Desire'?",
+        "quiz_options_ta": [
+          "கல்லாதவர் உயிரோடிருக்கின்றனர் என்று சொல்லப்படும் அளவினரே அல்லாமல் ஒன்றும் விளையாத களர் நிலத்திற்கு ஒப்பாவர்.",
+          "முதல் இல்லாத வணிகர்க்கு அதனால் வரும் ஊதியம் இல்லை, அதுபோல் தம்மைத் தாங்கிக் காப்பாற்றும் துணை இல்லாதவர்க்கு நிலைபேறு இல்லை.",
+          "ஒருவன் ஒன்றை விரும்புவதனால் பிறவா நிலைமையை விரும்ப வேண்டும், அது அவா அற்ற நிலையை விரும்பினால் உண்டாகும்.",
+          "மாறுபாடு பொருந்திய வலிமை உடையவர்க்கும் அரணோடு பொருந்தி ஏற்படுகின்ற வெற்றியானது பல வகைப் பயன்களையும் கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "People speak of untaught minds \\\"They just exist like barren lands\\\"",
+          "No capital, no gain in trade No prop secure sans good comrade",
+          "If long thou must, long for non-birth It comes by longing no more for earth",
+          "Many are gains of fortresses Ev'n to kings of power and prowess"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அவா அறுத்தல்) பகுதியில் குறள் 362 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் ஒன்றை விரும்புவதனால் பிறவா நிலைமையை விரும்ப வேண்டும், அது அவா அற்ற நிலையை விரும்பினால் உண்டாகும். பரிமேலழகர் உரை நுட்பம்: வேண்டுங்கால் பிறவாமை வேண்டும் - பிறப்புத் துன்பம் ஆதல் அறிந்தவன் ஒன்றை வேண்டின் பிறவாமையை வேண்டும், அது வேண்டாமை வேண்ட வரும் - அப் பிறவாமைதான் ஒரு பொருளையும் அவாவாமையை வேண்ட அவனுக்குத் தானே உண்டாம். (அநாதியாகத் தான் பிறப்புப் பிணிமூப்பு இறப்புக்களால...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 37: 'Curbing of Desire'), Kural 362 distills a foundational ethical insight: \"If desire you feel, freedom from changing birth require!'I' will come, if you desire to 'scape, set free from all desire\" Philosophically, If anything be desired, freedom from births should be desired; that (freedom from births) will be attained by desiring to be without desire.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 363,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அவா அற்ற நிலைமை போன்ற சிறந்த செல்வம் இவ்வுலகில் இல்லை, வேறு எங்கும் அதற்க்கு நிகரான ஒன்று இல்லை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: There is in this world no excellence equal to freedom from desire; and even in that world, there is nothing like it.",
+        "story_title_ta": "அவா அறுத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Curbing of Desire — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அவா அறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 363 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எந்தப் பொருளையும் விரும்பாமல் இருப்பது போன்ற சிறந்த செல்வம் இப்பூமியில் வேறு ஒன்று இல்லை; வான் உலகத்திலும் இதற்கு ஒப்பானது இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Curbing of Desire'. Grandpa shared Kural 363 and explained in simple words: There is in this world no excellence equal to freedom from desire; and even in that world, there is nothing like it. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தீமை விளைவிக்கும் ஆசைகளை வேண்டாம் என்று புறக்கணிப்பதைப் போன்ற செல்வம் இங்கு எதுவுமில்லை; வேறு எங்கும் கூட அத்தகைய ஒப்பற்ற செல்வம் இல்லையென்றே கூறலாம்.",
+        "moral_en": "Moral: No glorious wealth is here like freedom from desire; To bliss like this not even there can soul aspire.",
+        "game_blank_word_ta": "ஈண்டில்லை",
+        "game_options_ta": [
+          "அவாஎன்ப",
+          "எல்லா",
+          "உயிர்க்கும்",
+          "ஈண்டில்லை"
+        ],
+        "game_options_en": [
+          "Desire to all, always is seed From which ceaseless births proceed",
+          "If long thou must, long for non-birth It comes by longing no more for earth",
+          "To nothing crave is purity That is the fruit of verity",
+          "No such wealth is here and there As peerless wealth of non-desire"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவா அறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 363, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எந்தப் பொருளையும் விரும்பாமல் இருப்பது போன்ற சிறந்த செல்வம் இப்பூமியில் வேறு ஒன்று இல்லை; வான் உலகத்திலும் இதற்கு ஒப்பானது இல்லை. கலைஞர் உரை கூறுவது: தீமை விளைவிக்கும் ஆசைகளை வேண்டாம் என்று புறக்கணிப்பதைப் போன்ற செல்வம் இங்கு எதுவுமில்லை; வேறு எங்கும் கூட அத்தகைய ஒப்பற்ற செல்வம் இல்லையென்றே கூறலாம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Curbing of Desire (Ascetic Virtue), Kural 363 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is in this world no excellence equal to freedom from desire; and even in that world, there is nothing like it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அவா அறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Curbing of Desire' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அவா அறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 363 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 363 from Chapter 'Curbing of Desire'?",
+        "quiz_options_ta": [
+          "நுட்பமானதாய் மாட்சியுடையதாய் ஆராய வல்லவான அறிவு இல்லாதவனுடைய எழுச்சியான அழகு மண்ணால் சிறப்பாகப் புனையப்பட்ட பாவை போன்றது.",
+          "நல்லவராகிய பெரியாரின் தொடர்பைக் கைவிடுதல் பலருடைய பகையைத் தேடிக்கொள்வதைவிடப் பத்து மடங்கு தீமை உடையதாகும்.",
+          "தக்க இடத்தை அறிந்து தம்மைக் காத்துக் கொண்டு பகைவரிடத்திற் சென்று தம் செயலைச் செய்தால், வலிமை இல்லாதவறும் வலிமை உடையவராக வெல்வர்,",
+          "அவா அற்ற நிலைமை போன்ற சிறந்த செல்வம் இவ்வுலகில் இல்லை, வேறு எங்கும் அதற்க்கு நிகரான ஒன்று இல்லை."
+        ],
+        "quiz_options_en": [
+          "Like painted clay-doll is his show Grand subtle lore who fails to know",
+          "To give up good friends is ten times worse Than being hated by countless foes",
+          "Weaklings too withstand foe's offence In proper fields of strong defence",
+          "No such wealth is here and there As peerless wealth of non-desire"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அவா அறுத்தல்) பகுதியில் குறள் 363 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அவா அற்ற நிலைமை போன்ற சிறந்த செல்வம் இவ்வுலகில் இல்லை, வேறு எங்கும் அதற்க்கு நிகரான ஒன்று இல்லை. பரிமேலழகர் உரை நுட்பம்: வேண்டாமை அன்ன விழுச்செல்வம் ஈண்டு இல்லை - ஒரு பொருளையும் அவாவாமையை ஒக்கும் விழுமிய செல்வம் காணப்படுகின்ற இவ்வுலகின்கண் இல்லை, ஆண்டும் அஃது ஒப்பது இல் -இனி அவ்வளவேயன்று, கேட்கப்படுகின்ற துறக்கத்தின்கண்ணும் அதனை ஒப்பது இல்லை. (மக்கள் செல்வமும் தேவர் செல்வமும...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 37: 'Curbing of Desire'), Kural 363 distills a foundational ethical insight: \"No glorious wealth is here like freedom from desire; To bliss like this not even there can soul aspire\" Philosophically, There is in this world no excellence equal to freedom from desire; and even in that world, there is nothing like it.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "wealth",
+        "harmony",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 364,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தூயநிலை என்றுக் கூறப்படுவது அவா இல்லா திருத்தலே யாகும், அவா அற்ற அத்தன்மை மெய்ப்பொருளை விரும்புவதால் உண்டாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Purity (of mind) consists in freedom from desire; and that (freedom from desire) is the fruit of the love of truth.",
+        "story_title_ta": "அவா அறுத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Curbing of Desire — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அவா அறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 364 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மனத்தூய்மை என்பது ஆசை இல்லாமல் இருப்பதே; ஆசை இல்லாமல் இருப்பதோ மெய்ப்பொருளை விரும்புவதால் உண்டாகும்‌.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Curbing of Desire'. Grandpa shared Kural 364 and explained in simple words: Purity (of mind) consists in freedom from desire; and that (freedom from desire) is the fruit of the love of truth. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தூய்மை என்பது பேராசையற்ற தன்மையாகும் அத்தூய்மை வாய்மையை நாடுவோர்க்கே வாய்க்கும்.",
+        "moral_en": "Moral: Desire's decease as purity men know; That, too, from yearning search for truth will grow.",
+        "game_blank_word_ta": "தூஉய்மை",
+        "game_options_ta": [
+          "தூஉய்மை",
+          "அவாஎன்ப",
+          "எல்லா",
+          "உயிர்க்கும்"
+        ],
+        "game_options_en": [
+          "To nothing crave is purity That is the fruit of verity",
+          "Desire to all, always is seed From which ceaseless births proceed",
+          "If long thou must, long for non-birth It comes by longing no more for earth",
+          "No such wealth is here and there As peerless wealth of non-desire"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவா அறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 364, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனத்தூய்மை என்பது ஆசை இல்லாமல் இருப்பதே; ஆசை இல்லாமல் இருப்பதோ மெய்ப்பொருளை விரும்புவதால் உண்டாகும்‌. கலைஞர் உரை கூறுவது: தூய்மை என்பது பேராசையற்ற தன்மையாகும் அத்தூய்மை வாய்மையை நாடுவோர்க்கே வாய்க்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Curbing of Desire (Ascetic Virtue), Kural 364 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Purity (of mind) consists in freedom from desire; and that (freedom from desire) is the fruit of the love of truth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அவா அறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Curbing of Desire' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அவா அறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 364 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 364 from Chapter 'Curbing of Desire'?",
+        "quiz_options_ta": [
+          "தூயநிலை என்றுக் கூறப்படுவது அவா இல்லா திருத்தலே யாகும், அவா அற்ற அத்தன்மை மெய்ப்பொருளை விரும்புவதால் உண்டாகும்.",
+          "கல்லாதவனிடம் சேர்ந்துள்ள செல்வமானது, கற்றறிந்த நல்லவரிடம் உள்ள வறுமையைவிட மிகத்துன்பம் செய்வதாகும்.",
+          "பெரியோரின் இயல்பு சிற்றினத்தை அஞ்சி ஒதுக்கும், சிறியோரின் இயல்பு அதையே சுற்றமாக எண்ணித் தழுவிக் கொள்ளும்.",
+          "தக்க இடத்தை அறிந்து பொருந்தியவராய்ச் செயலைச் செய்வாராயின், அவரை வெல்ல எண்ணியிருந்த பகைவர் தம் எண்ணத்தை இழந்துவிடுவார்."
+        ],
+        "quiz_options_en": [
+          "To nothing crave is purity That is the fruit of verity",
+          "Wealth in the hand of fools is worse Than a learned man's empty purse",
+          "The ignoble the noble fear The mean hold them as kinsmen dear",
+          "If fighters fight in vantage field The plans of foes shall be baffled"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அவா அறுத்தல்) பகுதியில் குறள் 364 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தூயநிலை என்றுக் கூறப்படுவது அவா இல்லா திருத்தலே யாகும், அவா அற்ற அத்தன்மை மெய்ப்பொருளை விரும்புவதால் உண்டாகும். பரிமேலழகர் உரை நுட்பம்: தூஉய்மை என்பது அவா இன்மை - ஒருவர்க்கு வீடு என்று சொல்லப்படுவது அவா இல்லாமை,அது வாஅய்மை வேண்ட வரும் - அவ்வவா இல்லாமைதான் மெய்ம்மையை வேண்டத் தானே உண்டாம். (வீடாவது: உயிர் அவிச்சை முதலிய மாசு நீங்குதல் ஆகலின்,அதனைத் 'தூய்மை' என்றும், காரணத்தைக் காரியமாக...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 37: 'Curbing of Desire'), Kural 364 distills a foundational ethical insight: \"Desire's decease as purity men know; That, too, from yearning search for truth will grow\" Philosophically, Purity (of mind) consists in freedom from desire; and that (freedom from desire) is the fruit of the love of truth.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "truth",
+        "speech",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 365,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பற்றற்றவர் என்றுக் கூறப்படுவோர் அவா அற்றவரே, அவா அறாத மற்றவர் அவ்வளவாகப் பற்று அற்றவர் அல்லர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: They are said to be free (from future birth) who are freed from desire; all others (who, whatever else they may be free from, are not freed from desire) are not thus free.",
+        "story_title_ta": "அவா அறுத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Curbing of Desire — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அவா அறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 365 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஆசை இல்லாதவரே எதுவும் இல்லாதவர்; மற்றவரோ முழுவதும் இல்லாதவர் ஆகார்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Curbing of Desire'. Grandpa shared Kural 365 and explained in simple words: They are said to be free (from future birth) who are freed from desire; all others (who, whatever else they may be free from, are not freed from desire) are not thus free. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஆசையனைத்தும் விட்டவரே துறவி எனப்படுவார் முற்றும் துறவாதவர், தூய துறவியாக மாட்டார்.",
+        "moral_en": "Moral: Men freed from bonds of strong desire are free; None other share such perfect liberty.",
+        "game_blank_word_ta": "என்பார்",
+        "game_options_ta": [
+          "அவாஎன்ப",
+          "என்பார்",
+          "எல்லா",
+          "உயிர்க்கும்"
+        ],
+        "game_options_en": [
+          "Desire to all, always is seed From which ceaseless births proceed",
+          "The free are those who desire not The rest not free in bonds are caught",
+          "If long thou must, long for non-birth It comes by longing no more for earth",
+          "No such wealth is here and there As peerless wealth of non-desire"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவா அறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 365, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆசை இல்லாதவரே எதுவும் இல்லாதவர்; மற்றவரோ முழுவதும் இல்லாதவர் ஆகார். கலைஞர் உரை கூறுவது: ஆசையனைத்தும் விட்டவரே துறவி எனப்படுவார் முற்றும் துறவாதவர், தூய துறவியாக மாட்டார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Curbing of Desire (Ascetic Virtue), Kural 365 speaks directly to teens navigating studies, friendships, leadership, and digital choices: They are said to be free (from future birth) who are freed from desire; all others (who, whatever else they may be free from, are not freed from desire) are not thus free. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அவா அறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Curbing of Desire' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அவா அறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 365 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 365 from Chapter 'Curbing of Desire'?",
+        "quiz_options_ta": [
+          "கல்லாதவர் உயர்ந்த குடியில் பிறந்தவராக இருப்பினும் தாழ்ந்த குடியில் பிறந்திருந்தும் கல்விக் கற்றவரைப் போன்ற பெருமை இல்லாதவரே.",
+          "பற்றற்றவர் என்றுக் கூறப்படுவோர் அவா அற்றவரே, அவா அறாத மற்றவர் அவ்வளவாகப் பற்று அற்றவர் அல்லர்.",
+          "சேர்ந்த நிலத்தின் இயல்பால் அந்த நீர் வேறுபட்டு அந் நிலத்தின் தன்மையுடையதாகும், அதுபோல் மக்களுடைய அறிவு இனத்தின் இயல்பினை உடையதாகும்.",
+          "ஆழமுள்ள நீரில் முதலை மற்ற உயிர்களை வெல்லும், ஆனால் நீரிலிருந்து விலகிவந்தால் அந்த முதலையையும் மற்ற உயிர்கள் வென்றுவிடும்."
+        ],
+        "quiz_options_en": [
+          "Lower are fools of higher birth Than low-born men of learning's worth",
+          "The free are those who desire not The rest not free in bonds are caught",
+          "With soil changes water's taste With mates changes the mental state",
+          "In water crocodile prevails In land before others it fails"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அவா அறுத்தல்) பகுதியில் குறள் 365 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பற்றற்றவர் என்றுக் கூறப்படுவோர் அவா அற்றவரே, அவா அறாத மற்றவர் அவ்வளவாகப் பற்று அற்றவர் அல்லர். பரிமேலழகர் உரை நுட்பம்: அற்றவர் என்பார் அவா அற்றார் - பிறவியற்றவர் என்று சொல்லப்படுவார் அதற்கு நேரே ஏதுவாகிய அவா அற்றவர்கள், மற்றையார் அற்றாக அற்றது இலர் - பிற ஏதுக்களற்று அஃது ஒன்றும் அறாதவர்கள், அவற்றால் சில துன்பங்கள் அற்றதல்லது அவர்போற் பிறவி அற்றிலர். (இதனால் அவா அறுத்தாரது...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 37: 'Curbing of Desire'), Kural 365 distills a foundational ethical insight: \"Men freed from bonds of strong desire are free; None other share such perfect liberty\" Philosophically, They are said to be free (from future birth) who are freed from desire; all others (who, whatever else they may be free from, are not freed from desire) are not thus free.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 366,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவன் அவாவிற்கு அஞ்சி வாழ்வதே அறம், ஏன் எனில் ஒருவனைச் சோர்வு கண்டுகொடுத்து வஞ்சிப்பது அவாவே.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: It is the chief duty of (an ascetic) to watch against desire with (jealous) fear; for it has power to deceive (and destroy) him.",
+        "story_title_ta": "அவா அறுத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Curbing of Desire — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அவா அறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 366 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஒருவனை வஞ்சித்துக் கெடுப்பது ஆசையே. அதனால் ஆசை உண்டாகி விடாமல் அஞ்சி வாழ்வதே அறம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Curbing of Desire'. Grandpa shared Kural 366 and explained in simple words: It is the chief duty of (an ascetic) to watch against desire with (jealous) fear; for it has power to deceive (and destroy) him. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவரை வஞ்சித்துக் கெடுப்பதற்குக் காரணமாக இருப்பது ஆசையேயாகும் எனவே, ஆசைக்கு அடிமையாகக் கூடாது என்ற அச்சத்துடன் வாழ வேண்டும்.",
+        "moral_en": "Moral: Desire each soul beguiles; True virtue dreads its wiles.",
+        "game_blank_word_ta": "தோரும்",
+        "game_options_ta": [
+          "அவாஎன்ப",
+          "எல்லா",
+          "தோரும்",
+          "உயிர்க்கும்"
+        ],
+        "game_options_en": [
+          "Desire to all, always is seed From which ceaseless births proceed",
+          "If long thou must, long for non-birth It comes by longing no more for earth",
+          "Dread desire; Virtue is there To every soul desire is snare!",
+          "No such wealth is here and there As peerless wealth of non-desire"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவா அறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 366, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவனை வஞ்சித்துக் கெடுப்பது ஆசையே. அதனால் ஆசை உண்டாகி விடாமல் அஞ்சி வாழ்வதே அறம். கலைஞர் உரை கூறுவது: ஒருவரை வஞ்சித்துக் கெடுப்பதற்குக் காரணமாக இருப்பது ஆசையேயாகும் எனவே, ஆசைக்கு அடிமையாகக் கூடாது என்ற அச்சத்துடன் வாழ வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Curbing of Desire (Ascetic Virtue), Kural 366 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is the chief duty of (an ascetic) to watch against desire with (jealous) fear; for it has power to deceive (and destroy) him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அவா அறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Curbing of Desire' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அவா அறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 366 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 366 from Chapter 'Curbing of Desire'?",
+        "quiz_options_ta": [
+          "அறிவு விளங்குதற்குக் காரணமான நூல்களைக் கற்றவரோடுக் கல்லாதவர், மக்களோடு விலங்குகளுக்கு உள்ள அவ்வளவு வேற்றுமை உடையவர்.",
+          "மக்களுக்கு இயற்கையறிவு மனத்தால் ஏற்படும், இப்படிப் பட்டவன் என்று உலகத்தாரால் மதிக்கப்படும் சொல், சேர்ந்த இனத்தால் ஏற்படும்.",
+          "ஒருவன் அவாவிற்கு அஞ்சி வாழ்வதே அறம், ஏன் எனில் ஒருவனைச் சோர்வு கண்டுகொடுத்து வஞ்சிப்பது அவாவே.",
+          "வலிய சக்கரங்களையுடைய பெரியத் தேர்கள் கடலில் ஓடமுடியாது, கடலில் ஓடுகின்ற கப்பல்களும் நிலத்தில் ஓடமுடியாது."
+        ],
+        "quiz_options_en": [
+          "Like beasts before men, dunces are Before scholars of shining lore",
+          "Wisdom depends upon the mind The worth of man upon his friend",
+          "Dread desire; Virtue is there To every soul desire is snare!",
+          "Sea-going ship goes not on shore Nor on sea the strong-wheeled car"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அவா அறுத்தல்) பகுதியில் குறள் 366 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் அவாவிற்கு அஞ்சி வாழ்வதே அறம், ஏன் எனில் ஒருவனைச் சோர்வு கண்டுகொடுத்து வஞ்சிப்பது அவாவே. பரிமேலழகர் உரை நுட்பம்: ஒருவனை வஞ்சிப்பது அவா - மெய்யுணர்தல் ஈறாகிய காரணங்கள் எல்லாம் எய்தி அவற்றான் வீடு எய்தற்பாலனாய ஒருவனை மறவி வழியால் புகுந்து பின்னும் பிறப்பின்கண்ணே விழித்துக் கெடுக்கவல்லது அவா, அஞ்சுவதே அறன் - ஆகலான், அவ்வவாவை அஞ்சிக் காப்பதே துறவறமாவது. (ஓரும் என்பன...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 37: 'Curbing of Desire'), Kural 366 distills a foundational ethical insight: \"Desire each soul beguiles; True virtue dreads its wiles\" Philosophically, It is the chief duty of (an ascetic) to watch against desire with (jealous) fear; for it has power to deceive (and destroy) him.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "ethics",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 367,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒருவன் ஆசையை முழுதும் ஒழித்தால், அவன் கெடாமல் வாழ்வதற்கு உரிய நல்ல செயல் அவன் விரும்புமாறு வாய்க்கும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: If a man thoroughly cut off all desire, the deeds, which confer immortality, will come to him, in the path in which he seeks them.",
+        "story_title_ta": "அவா அறுத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Curbing of Desire — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அவா அறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 367 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஆசையை முழுவதுமாக அறுத்து ஒழித்து விட்டால், தான் விரும்பும் வண்ணமே அழியாமல் வாழ்வதற்கான செயல் உண்டாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Curbing of Desire'. Grandpa shared Kural 367 and explained in simple words: If a man thoroughly cut off all desire, the deeds, which confer immortality, will come to him, in the path in which he seeks them. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: கெடாமல் வாழ்வதற்குரிய நிலை, ஒருவன் விரும்புமாறு வாய்ப்பதற்கு, அவன் பேராசைக் குணத்தை முற்றிலும் ஒழித்தவனாக இருக்க வேண்டும்.",
+        "moral_en": "Moral: Who thoroughly rids his life of passion-prompted deed, Deeds of unfailing worth shall do, which, as he plans, succeed.",
+        "game_blank_word_ta": "தவாவினை",
+        "game_options_ta": [
+          "அவாஎன்ப",
+          "எல்லா",
+          "உயிர்க்கும்",
+          "தவாவினை"
+        ],
+        "game_options_en": [
+          "Desire to all, always is seed From which ceaseless births proceed",
+          "If long thou must, long for non-birth It comes by longing no more for earth",
+          "No such wealth is here and there As peerless wealth of non-desire",
+          "Destroy desire; deliverance Comes as much as you aspire hence"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவா அறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 367, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆசையை முழுவதுமாக அறுத்து ஒழித்து விட்டால், தான் விரும்பும் வண்ணமே அழியாமல் வாழ்வதற்கான செயல் உண்டாகும். கலைஞர் உரை கூறுவது: கெடாமல் வாழ்வதற்குரிய நிலை, ஒருவன் விரும்புமாறு வாய்ப்பதற்கு, அவன் பேராசைக் குணத்தை முற்றிலும் ஒழித்தவனாக இருக்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Curbing of Desire (Ascetic Virtue), Kural 367 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If a man thoroughly cut off all desire, the deeds, which confer immortality, will come to him, in the path in which he seeks them. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அவா அறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Curbing of Desire' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அவா அறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 367 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 367 from Chapter 'Curbing of Desire'?",
+        "quiz_options_ta": [
+          "செவியால் கேட்டறியும் செல்வம், செல்வங்களுள் ஒன்றாகப் போற்றப்படும் செல்வமாகும், அச் செல்வம் செல்வங்கள் எல்லாவற்றிலும் தலையானதாகும்.",
+          "ஒருவனுக்கு சிறப்பறிவு மனத்தில் உள்ளது போலக் காட்டி (உண்மையாக நோக்கும் போது) அவன் சேர்ந்த இனத்தில் உள்ளதாகும்.",
+          "(செய்யும் வழிவகைகமைக்) குறைவில்லாமல் எண்ணித் தக்க இடத்தில் பொருந்திச் செய்தால், அஞ்சாமை அல்லாமல் வேறு துணை வேண்டியதில்லை.",
+          "ஒருவன் ஆசையை முழுதும் ஒழித்தால், அவன் கெடாமல் வாழ்வதற்கு உரிய நல்ல செயல் அவன் விரும்புமாறு வாய்க்கும்."
+        ],
+        "quiz_options_en": [
+          "Wealth of wealths is listening's wealth It is the best of wealths on earth",
+          "Wisdom seems to come from mind But it truly flows from the kind",
+          "No aid but daring dash they need When field is chosen right for deed",
+          "Destroy desire; deliverance Comes as much as you aspire hence"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அவா அறுத்தல்) பகுதியில் குறள் 367 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் ஆசையை முழுதும் ஒழித்தால், அவன் கெடாமல் வாழ்வதற்கு உரிய நல்ல செயல் அவன் விரும்புமாறு வாய்க்கும். பரிமேலழகர் உரை நுட்பம்: அவாவினை ஆற்ற அறுப்பின் - ஒருவன் அவாவினை அஞ்சித் துவரக் கெடுக்க வல்லன் ஆயின், தவா வினை தான் வேண்டும் ஆற்றான் வரும் - அவனுக்குக் கெடாமைக்கு ஏதுவாகிய வினை, தான் விரும்பும் நெறியானே உண்டாம். (கெடாமை - பிறவித் துன்பங்களான் அழியாமை. அதற்கு ஏதுவாகிய வினை என்றது...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 37: 'Curbing of Desire'), Kural 367 distills a foundational ethical insight: \"Who thoroughly rids his life of passion-prompted deed, Deeds of unfailing worth shall do, which, as he plans, succeed\" Philosophically, If a man thoroughly cut off all desire, the deeds, which confer immortality, will come to him, in the path in which he seeks them.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 368,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அவா இல்லாதவர்க்குத் துன்பம் இல்லையாகும், அவா இருந்தால் எல்லாத் துன்பங்களும் மேலும் மேலும் ஒழியாமல் வரும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: There is no sorrow to those who are without desire; but where that is, (sorrow) will incessantly come, more and more.",
+        "story_title_ta": "அவா அறுத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Curbing of Desire — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அவா அறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 368 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஆசை இல்லாதவர்க்குத் துன்பம் வராது; இருப்பவர்க்கோ இடைவிடாமல், தொடர்ந்து துன்பம் வரும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Curbing of Desire'. Grandpa shared Kural 368 and explained in simple words: There is no sorrow to those who are without desire; but where that is, (sorrow) will incessantly come, more and more. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஆசை இல்லாதவர்களுக்குத் துன்பம் இல்லை ஆசை உண்டானால், அதைத் தொடர்ந்து துன்பமும் மேலும் மேலும் வந்து கொண்டிருக்கும்.",
+        "moral_en": "Moral: Affliction is not known where no desires abide; Where these are, endless rises sorrow's tide.",
+        "game_blank_word_ta": "தவாஅது",
+        "game_options_ta": [
+          "தவாஅது",
+          "அவாஎன்ப",
+          "எல்லா",
+          "உயிர்க்கும்"
+        ],
+        "game_options_en": [
+          "Desire extinct no sorrow-taints Grief comes on grief where it pretends",
+          "Desire to all, always is seed From which ceaseless births proceed",
+          "If long thou must, long for non-birth It comes by longing no more for earth",
+          "No such wealth is here and there As peerless wealth of non-desire"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவா அறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 368, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆசை இல்லாதவர்க்குத் துன்பம் வராது; இருப்பவர்க்கோ இடைவிடாமல், தொடர்ந்து துன்பம் வரும். கலைஞர் உரை கூறுவது: ஆசை இல்லாதவர்களுக்குத் துன்பம் இல்லை ஆசை உண்டானால், அதைத் தொடர்ந்து துன்பமும் மேலும் மேலும் வந்து கொண்டிருக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Curbing of Desire (Ascetic Virtue), Kural 368 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is no sorrow to those who are without desire; but where that is, (sorrow) will incessantly come, more and more. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அவா அறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Curbing of Desire' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அவா அறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 368 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 368 from Chapter 'Curbing of Desire'?",
+        "quiz_options_ta": [
+          "அவா இல்லாதவர்க்குத் துன்பம் இல்லையாகும், அவா இருந்தால் எல்லாத் துன்பங்களும் மேலும் மேலும் ஒழியாமல் வரும்.",
+          "செவிக்கு கேள்வியாகிய உணவு இல்லாத போது (அதற்க்கு துணையாக உடலை ஒப்புமாறு) வயிற்றுக்கும் சிறிது உணவு தரப்படும்.",
+          "மனத்தின் தூய்மை செய்யும் செயலின் தூய்மை ஆகிய இவ்விரண்டும் சேர்ந்த இனத்தின் தூய்மையைப் பொறுத்தே ஏற்ப்படும்.",
+          "சிறிய படை உடையவனுக்குத் தக்கதாக உள்ள இடத்தில் பொருந்தி நின்றால், பெரிய படை உடையவன் தன் ஊக்கம் அழிவான்."
+        ],
+        "quiz_options_en": [
+          "Desire extinct no sorrow-taints Grief comes on grief where it pretends",
+          "Some food for the stomach is brought When the ear gets no food for thought",
+          "Purity of the thought and deed Comes from good company indeed",
+          "Though force is small, if place is right One quells a foe of well-armed might"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அவா அறுத்தல்) பகுதியில் குறள் 368 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அவா இல்லாதவர்க்குத் துன்பம் இல்லையாகும், அவா இருந்தால் எல்லாத் துன்பங்களும் மேலும் மேலும் ஒழியாமல் வரும். பரிமேலழகர் உரை நுட்பம்: அவா இல்லார்க்குத் துன்பம் இல்லாகும் - அவா இல்லாதார்க்கு வரக்கடவதொரு துன்பமும் இல்லை, அஃது உண்டேல் தவாஅது மேன்மேல் வரும் - ஒருவற்குப் பிற காரணங்களெல்லாம் இன்றி அஃதொன்றும் உண்டாயின், அதனானே எல்லாத் துன்பங்களும் முடிவின்றி இடைவிடாமல் வரும். (உடம்பு முகந்துநின்ற...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 37: 'Curbing of Desire'), Kural 368 distills a foundational ethical insight: \"Affliction is not known where no desires abide; Where these are, endless rises sorrow's tide\" Philosophically, There is no sorrow to those who are without desire; but where that is, (sorrow) will incessantly come, more and more.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 369,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அவா என்று சொல்லப்படுகின்ற துன்பங்களுள் பொல்லாதத் துன்பம் கெடுமானால் இவ் வுலகில் இன்பம் இடையறாமல் வாய்க்கும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Even while in this body, joy will never depart (from the mind, in which) desire, that sorrow of sorrows, has been destroyed.",
+        "story_title_ta": "அவா அறுத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Curbing of Desire — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அவா அறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 369 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஆசை எனப்படும் பெருந்துன்பம் இல்லாது போனால், இன்பம் இடைவிடாமல் வரும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Curbing of Desire'. Grandpa shared Kural 369 and explained in simple words: Even while in this body, joy will never depart (from the mind, in which) desire, that sorrow of sorrows, has been destroyed. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பெருந்துன்பம் தரக்கூடிய பேராசை ஒழிந்தால் வாழ்வில் இன்பம் விடாமல் தொடரும்.",
+        "moral_en": "Moral: When dies away desire, that woe of woesEv'n here the soul unceasing rapture knows.",
+        "game_blank_word_ta": "துன்பங்",
+        "game_options_ta": [
+          "அவாஎன்ப",
+          "துன்பங்",
+          "எல்லா",
+          "உயிர்க்கும்"
+        ],
+        "game_options_en": [
+          "Desire to all, always is seed From which ceaseless births proceed",
+          "Desire, the woe of woes destroy Joy of joys here you enjoy",
+          "If long thou must, long for non-birth It comes by longing no more for earth",
+          "No such wealth is here and there As peerless wealth of non-desire"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவா அறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 369, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆசை எனப்படும் பெருந்துன்பம் இல்லாது போனால், இன்பம் இடைவிடாமல் வரும். கலைஞர் உரை கூறுவது: பெருந்துன்பம் தரக்கூடிய பேராசை ஒழிந்தால் வாழ்வில் இன்பம் விடாமல் தொடரும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Curbing of Desire (Ascetic Virtue), Kural 369 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even while in this body, joy will never depart (from the mind, in which) desire, that sorrow of sorrows, has been destroyed. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அவா அறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Curbing of Desire' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அவா அறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 369 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 369 from Chapter 'Curbing of Desire'?",
+        "quiz_options_ta": [
+          "செவியுணவாகிய கேள்வி உடையவர் நிலத்தில் வாழ்கின்றவரே ஆயினும் அவி உணவைக் கொள்ளும் தேவரோடு ஒப்பாவார்.",
+          "அவா என்று சொல்லப்படுகின்ற துன்பங்களுள் பொல்லாதத் துன்பம் கெடுமானால் இவ் வுலகில் இன்பம் இடையறாமல் வாய்க்கும்.",
+          "மனம் தூய்மையாகப் பெற்றவர்க்கு , அவர்க்குப் பின் எஞ்சி நிற்கும் புகழ் முதலியவை நன்மையாகும், இனம் தூய்மையாக உள்ளவர்க்கு நன்மையாகாத செயல் இல்லை.",
+          "அரணாகிய நன்மையும் மற்றச் சிறப்பும் இல்லாதவராயினும் பகைவர் வாழ்கின்ற இடத்திற்குச் சென்று அவரைத் தாக்குதல் அரிது."
+        ],
+        "quiz_options_en": [
+          "Whose ears get lots of wisdom-food Equal gods on oblations fed",
+          "Desire, the woe of woes destroy Joy of joys here you enjoy",
+          "Pure-hearted get good progeny Pure friendship acts with victory",
+          "To face a foe at home is vain Though fort and status are not fine"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அவா அறுத்தல்) பகுதியில் குறள் 369 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அவா என்று சொல்லப்படுகின்ற துன்பங்களுள் பொல்லாதத் துன்பம் கெடுமானால் இவ் வுலகில் இன்பம் இடையறாமல் வாய்க்கும். பரிமேலழகர் உரை நுட்பம்: அவா என்னும் துன்பத்துள் துன்பம் கெடின் - அவா என்று சொல்லப்படுகின்ற மிக்க துன்பம் ஒருவற்குக் கெடுமாயின்; ஈண்டும் இன்பம் இடையறாது. அவன் வீடு பெற்ற வழியே அன்றி உடம்போடு நின்ற வழியும் இன்பம் இடையறாது. (துன்பத்துள்துன்பம் - ஏனைத் துன்பங்கள் எல்லாம் இன்பமாக...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 37: 'Curbing of Desire'), Kural 369 distills a foundational ethical insight: \"When dies away desire, that woe of woesEv'n here the soul unceasing rapture knows\" Philosophically, Even while in this body, joy will never depart (from the mind, in which) desire, that sorrow of sorrows, has been destroyed.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "speech",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 370,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருபோதும் நிரம்பாத தன்மை உடைய அவாவை ஒழித்தால் ஒழித்த அந்நிலையே எப்போதும் மாறாதிருக்கும் இன்ப வாழ்வைத் தரும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The removal of desire, whose nature it is never to be satisfied, will immediately confer a nature that can never be changed.",
+        "story_title_ta": "அவா அறுத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Curbing of Desire — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அவா அறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 370 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஒரு காலமும் முடிவு பெறாத குணத்தை உடைய ஆ‌சையை விட்டுவிட்டால், அதுவே ஒருவனுக்கு நிலைத்து வாழும் இயல்பைக் கொடுக்கும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Curbing of Desire'. Grandpa shared Kural 370 and explained in simple words: The removal of desire, whose nature it is never to be satisfied, will immediately confer a nature that can never be changed. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: இயல்பாகவே எழும் அடங்காத பேராசையை அகற்றி வாழும் நிலை, நீங்காத இன்பத்தை இயல்பாகவே தரக்கூடியதாகும்.",
+        "moral_en": "Moral: Drive from thy soul desire insatiate; Straight'way is gained the moveless blissful state.",
+        "game_blank_word_ta": "அந்நிலையே",
+        "game_options_ta": [
+          "அவாஎன்ப",
+          "எல்லா",
+          "அந்நிலையே",
+          "உயிர்க்கும்"
+        ],
+        "game_options_en": [
+          "Desire to all, always is seed From which ceaseless births proceed",
+          "If long thou must, long for non-birth It comes by longing no more for earth",
+          "Off with desire insatiate You gain the native blissful state",
+          "No such wealth is here and there As peerless wealth of non-desire"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவா அறுத்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 370, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு காலமும் முடிவு பெறாத குணத்தை உடைய ஆ‌சையை விட்டுவிட்டால், அதுவே ஒருவனுக்கு நிலைத்து வாழும் இயல்பைக் கொடுக்கும். கலைஞர் உரை கூறுவது: இயல்பாகவே எழும் அடங்காத பேராசையை அகற்றி வாழும் நிலை, நீங்காத இன்பத்தை இயல்பாகவே தரக்கூடியதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Curbing of Desire (Ascetic Virtue), Kural 370 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The removal of desire, whose nature it is never to be satisfied, will immediately confer a nature that can never be changed. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அவா அறுத்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Curbing of Desire' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அவா அறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 370 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 370 from Chapter 'Curbing of Desire'?",
+        "quiz_options_ta": [
+          "நூல்களைக் கற்றவில்லையாயினும், கற்றறிந்தவர்களிடம் கேட்டறிய வேண்டும், அது ஒருவனுக்கு வாழ்க்கையில் தளர்ச்சி வந்த போது ஊன்றுகோல் போல் துணையாகும்.",
+          "மனதின் நன்மை உயிர்க்கு ஆக்கமாகும், இனத்தின் தன்மை (அவ்வளவோடு நிற்காமல்) எல்லாப் புகழையும் கொடுக்கும்.",
+          "ஒருபோதும் நிரம்பாத தன்மை உடைய அவாவை ஒழித்தால் ஒழித்த அந்நிலையே எப்போதும் மாறாதிருக்கும் இன்ப வாழ்வைத் தரும்.",
+          "வேல் ஏந்திய வீரரைக் கோர்த்தெடுத்த கொம்பு உடைய யானையையும், கால் ஆழும் சேற்று நில்த்தில் அகப்பட்ட போது நரிகள் கொன்றுவிடும்."
+        ],
+        "quiz_options_en": [
+          "Though not learned, hear and heed That serves a staff and stay in need",
+          "Goodness of mind increases gain Good friendship fosters fame again",
+          "Off with desire insatiate You gain the native blissful state",
+          "A fox can kill a war tusker Fearless with feet in deep quagmire"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அவா அறுத்தல்) பகுதியில் குறள் 370 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருபோதும் நிரம்பாத தன்மை உடைய அவாவை ஒழித்தால் ஒழித்த அந்நிலையே எப்போதும் மாறாதிருக்கும் இன்ப வாழ்வைத் தரும். பரிமேலழகர் உரை நுட்பம்: ஆரா இயற்கை அவா நீப்பின் - ஒருகாலும் நிரம்பாத இயல்பினையுடைய அவாவினை ஒருவன் நீக்குமாயின், அந்நிலையே பேரா இயற்கை தரும் - அந்நீப்பு அவனுக்கு அப்பொழுதே எஞ்ஞான்றும் ஒரு நிலைமையனாம் இயல்பைக் கொடுக்கும். (நிரம்பாமையாவது: தாமேயன்றித் தம்பயனும் நிலையாமையின் வேண்டாதனவாய...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 37: 'Curbing of Desire'), Kural 370 distills a foundational ethical insight: \"Drive from thy soul desire insatiate; Straight'way is gained the moveless blissful state\" Philosophically, The removal of desire, whose nature it is never to be satisfied, will immediately confer a nature that can never be changed.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "leadership"
+      ]
+    }
+  ]
+}

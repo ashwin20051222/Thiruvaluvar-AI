@@ -1,0 +1,588 @@
+{
+  "adhikaram_id": 11,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.534682351+00:00",
+  "kurals": [
+    {
+      "kural_number": 101,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தான் ஓர் உதவியும் முன் செய்யாதிருக்கப் பிறன் தனக்கு செய்த உதவிக்கு மண்ணுலகத்தையும் விண்ணுலகத்தையும் கைமாறாகக் கொடுத்தாலும் ஈடு ஆக முடியாது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: (The gift of) heaven and earth is not an equivalent for a benefit which is conferred where none had been received.",
+        "story_title_ta": "செய்ந்நன்றியறிதல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Gratitude — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'செய்ந்நன்றியறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 101 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஒருவருக்கு ஒரு நன்மையும் நாம் செய்யாத போதும், அவர் நமக்கு உதவினால், அதற்குக் கைம்மாறாக மண்ணுலகையும் விண்ணுலகயும் கொடுத்தாலும் சமம் ஆகாது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Gratitude'. Grandpa shared Kural 101 and explained in simple words: (The gift of) heaven and earth is not an equivalent for a benefit which is conferred where none had been received. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ``வாராது வந்த மாமணி'' என்பதுபோல், ``செய்யாமற் செய்த உதவி'' என்று புகழத்தக்க அரிய உதவி வழங்கப்பட்டால், அதற்கு இந்த வானமும் பூமியும் கூட ஈடாக மாட்டா.",
+        "moral_en": "Moral: Assistance given by those who ne'er received our aid, Is debt by gift of heaven and earth but poorly paid.",
+        "game_blank_word_ta": "வையகமும்",
+        "game_options_ta": [
+          "காலத்தி",
+          "வையகமும்",
+          "னாற்செய்த",
+          "நன்றி"
+        ],
+        "game_options_en": [
+          "A help rendered in hour of need Though small is greater than the world",
+          "Unhelped in turn good help given Exceeds in worth earth and heaven",
+          "Help rendered without weighing fruits Outweighs the sea in grand effects",
+          "Help given though millet-small Knowers count its good palm-tree tall"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "செய்ந்நன்றியறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 101, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவருக்கு ஒரு நன்மையும் நாம் செய்யாத போதும், அவர் நமக்கு உதவினால், அதற்குக் கைம்மாறாக மண்ணுலகையும் விண்ணுலகயும் கொடுத்தாலும் சமம் ஆகாது. கலைஞர் உரை கூறுவது: ``வாராது வந்த மாமணி'' என்பதுபோல், ``செய்யாமற் செய்த உதவி'' என்று புகழத்தக்க அரிய உதவி வழங்கப்பட்டால், அதற்கு இந்த வானமும் பூமியும் கூட ஈடாக மாட்டா. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Gratitude (Domestic Virtue), Kural 101 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (The gift of) heaven and earth is not an equivalent for a benefit which is conferred where none had been received. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'செய்ந்நன்றியறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Gratitude' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'செய்ந்நன்றியறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 101 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 101 from Chapter 'Gratitude'?",
+        "quiz_options_ta": [
+          "இச்செயல் எளியது என எண்ணிப் பிறனுடைய மனைவியிடம் நெறி தவறிச் செல்கின்றவன், ‌எப்போதும் அழியாமல் நிலைநிற்கும் பழியை அடைவான்",
+          "தான் ஓர் உதவியும் முன் செய்யாதிருக்கப் பிறன் தனக்கு செய்த உதவிக்கு மண்ணுலகத்தையும் விண்ணுலகத்தையும் கைமாறாகக் கொடுத்தாலும் ஈடு ஆக முடியாது.",
+          "நெருங்கிப் பழகியவரின் குற்றத்தையும் புறங்கூறித் தூற்றும் இயல்புடையவர், பழகாத அயலாரிடத்து என்ன செய்வாரோ?",
+          "வறியவர்க்கு ஈதல் வேண்டும் அதனால் புகழ் உண்டாக வாழ வேண்டும், அப் புகழ் அல்லாமல் உயிர்க்கு ஊதியமானது வேறொன்றும் இல்லை."
+        ],
+        "quiz_options_en": [
+          "Who trifles with another's wife His guilty stain will last for life",
+          "Unhelped in turn good help given Exceeds in worth earth and heaven",
+          "What will they not to strangers do Who bring their friends' defects to view?",
+          "They gather fame who freely give The greatest gain for all that live"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (செய்ந்நன்றியறிதல்) பகுதியில் குறள் 101 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தான் ஓர் உதவியும் முன் செய்யாதிருக்கப் பிறன் தனக்கு செய்த உதவிக்கு மண்ணுலகத்தையும் விண்ணுலகத்தையும் கைமாறாகக் கொடுத்தாலும் ஈடு ஆக முடியாது. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, தனக்குப் பிறர் செய்த நன்மையை மறவாமை. இனியவை கூறி இல்லறம் வழுவாதார்க்கு உய்திஇல் குற்றம் செய்ந்நன்றி கோறலேயாகலின் , அதனைப் பாதுகாத்துக் கடிதற் பொருட்டு, இஃது இனியவை கூறலின்பின் வைக்கப்பட்டது. ) செய்யாமல் செய்த உதவிக்கு - தனக்கு முன் ஓர் உதவி...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 11: 'Gratitude'), Kural 101 distills a foundational ethical insight: \"Assistance given by those who ne'er received our aid, Is debt by gift of heaven and earth but poorly paid\" Philosophically, (The gift of) heaven and earth is not an equivalent for a benefit which is conferred where none had been received.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "gratitude",
+        "kindness",
+        "friendship",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 102,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: உற்ற காலத்தில் ஒருவன் செய்த உதவி சிறிதளவாக இருந்தாலும், அதன் தன்மையை அறிந்தால் உலகைவிட மிகப் பெரிதாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: A favour conferred in the time of need, though it be small (in itself), is (in value) much larger than the world.",
+        "story_title_ta": "செய்ந்நன்றியறிதல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Gratitude — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'செய்ந்நன்றியறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 102 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நமக்கு நெருக்கடியான நேரத்தில் ஒருவர் செய்த உதவி, அளவில் சிறியது என்றாலும், உதவிய நேரத்தை எண்ண அது இந்தப் பூமியை விட மிகப் பெரியதாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Gratitude'. Grandpa shared Kural 102 and explained in simple words: A favour conferred in the time of need, though it be small (in itself), is (in value) much larger than the world. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தேவைப்படும் காலத்தில் செய்யப்படும் உதவி சிறிதளவாக இருந்தாலும், அது உலகத்தைவிடப் பெரிதாக மதிக்கப்படும்.",
+        "moral_en": "Moral: A timely benefit, -though thing of little worth, The gift itself, -in excellence transcends the earth.",
+        "game_blank_word_ta": "ஞாலத்தின்",
+        "game_options_ta": [
+          "செய்யாமல்",
+          "செய்த",
+          "ஞாலத்தின்",
+          "உதவிக்கு"
+        ],
+        "game_options_en": [
+          "Unhelped in turn good help given Exceeds in worth earth and heaven",
+          "Help rendered without weighing fruits Outweighs the sea in grand effects",
+          "A help rendered in hour of need Though small is greater than the world",
+          "Help given though millet-small Knowers count its good palm-tree tall"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "செய்ந்நன்றியறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 102, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நமக்கு நெருக்கடியான நேரத்தில் ஒருவர் செய்த உதவி, அளவில் சிறியது என்றாலும், உதவிய நேரத்தை எண்ண அது இந்தப் பூமியை விட மிகப் பெரியதாகும். கலைஞர் உரை கூறுவது: தேவைப்படும் காலத்தில் செய்யப்படும் உதவி சிறிதளவாக இருந்தாலும், அது உலகத்தைவிடப் பெரிதாக மதிக்கப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Gratitude (Domestic Virtue), Kural 102 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A favour conferred in the time of need, though it be small (in itself), is (in value) much larger than the world. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'செய்ந்நன்றியறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Gratitude' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'செய்ந்நன்றியறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 102 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 102 from Chapter 'Gratitude'?",
+        "quiz_options_ta": [
+          "பகை பாவம் அச்சம் பழி என்னும் இந்நான்கு குற்றங்களும் பிறன் மனைவியிடத்து நெறி தவறி நடப்பவனிடத்திலிருந்து நீங்காவாம்.",
+          "ஒருவர் நேரில் இல்லாதது கண்டு பழிச்‌சொல் கூறுவோனுடைய உடல் பாரத்தை, இவனையும் சுமப்பதே எனக்கு அறம் என்று கருதி நிலம் சுமக்கின்றதோ?",
+          "உற்ற காலத்தில் ஒருவன் செய்த உதவி சிறிதளவாக இருந்தாலும், அதன் தன்மையை அறிந்தால் உலகைவிட மிகப் பெரிதாகும்.",
+          "புகழ்ந்து சொல்கின்றவர் சொல்பவை எல்லாம் வறுமையால் இரப்பவர்க்கு ஒரு பொருள் கொடுத்து உதவுகின்றவரின் மேல் நிற்கின்ற புகழேயாகும்."
+        ],
+        "quiz_options_en": [
+          "Hatred, sin, fear, and shame-these four Stain adulterers ever more",
+          "The world in mercy bears his load Who rants behind words untoward",
+          "A help rendered in hour of need Though small is greater than the world",
+          "The glory of the alms-giver Is praised aloud as popular"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (செய்ந்நன்றியறிதல்) பகுதியில் குறள் 102 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உற்ற காலத்தில் ஒருவன் செய்த உதவி சிறிதளவாக இருந்தாலும், அதன் தன்மையை அறிந்தால் உலகைவிட மிகப் பெரிதாகும். பரிமேலழகர் உரை நுட்பம்: காலத்தினால் செய்த நன்றி - ஒருவனுக்கு இறுதிவந்த எல்லைக்கண் ஒருவன் செய்த உபகாரம்; சிறிது எனினும் ஞாலத்தின் மாணப்பெரிது - தன்னை நோக்கச் சிறிதாயிருந்தது ஆயினும் அக்காலத்தை நோக்க நிலவுலகத்தினும் மிகப் பெரியது. (அக்காலம் நோக்குவதல்லது பொருள் நோக்கலாகாது என்பதாம...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 11: 'Gratitude'), Kural 102 distills a foundational ethical insight: \"A timely benefit, -though thing of little worth, The gift itself, -in excellence transcends the earth\" Philosophically, A favour conferred in the time of need, though it be small (in itself), is (in value) much larger than the world.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "gratitude",
+        "time",
+        "harmony",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 103,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: இன்ன பயன் கிடைக்கும் என்றுஆராயாமல் ஒருவன் செய்த உதவியின் அன்புடைமையை ஆராய்ந்தால் அதன் நன்மை கடலைவிட பெரியதாகும் .",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: If we weigh the excellence of a benefit which is conferred without weighing the return, it is larger than the sea.",
+        "story_title_ta": "செய்ந்நன்றியறிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Gratitude — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'செய்ந்நன்றியறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 103 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'இவருக்கு உதவினால் பிறகு நமக்கு இது கிடைக்கும் என்று எண்ணாதவராய் ஒருவர் செய்த உதவியின் அன்பை ஆய்ந்து பார்த்தால், அவ்வுதவியின் நன்மை கடலைவிடப் பெரியது ஆகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Gratitude'. Grandpa shared Kural 103 and explained in simple words: If we weigh the excellence of a benefit which is conferred without weighing the return, it is larger than the sea. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: என்ன பயன் கிடைக்கும் என்று எண்ணிப் பார்க்காமலே, அன்பின் காரணமாக ஒருவர் செய்த உதவியின் சிறப்பு கடலை விடப் பெரிது.",
+        "moral_en": "Moral: Kindness shown by those who weigh not what the return may be:When you ponder right its merit, 'Tis vaster than the sea.",
+        "game_blank_word_ta": "கடலின்",
+        "game_options_ta": [
+          "செய்யாமல்",
+          "செய்த",
+          "உதவிக்கு",
+          "கடலின்"
+        ],
+        "game_options_en": [
+          "Unhelped in turn good help given Exceeds in worth earth and heaven",
+          "A help rendered in hour of need Though small is greater than the world",
+          "Help given though millet-small Knowers count its good palm-tree tall",
+          "Help rendered without weighing fruits Outweighs the sea in grand effects"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "செய்ந்நன்றியறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 103, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இவருக்கு உதவினால் பிறகு நமக்கு இது கிடைக்கும் என்று எண்ணாதவராய் ஒருவர் செய்த உதவியின் அன்பை ஆய்ந்து பார்த்தால், அவ்வுதவியின் நன்மை கடலைவிடப் பெரியது ஆகும். கலைஞர் உரை கூறுவது: என்ன பயன் கிடைக்கும் என்று எண்ணிப் பார்க்காமலே, அன்பின் காரணமாக ஒருவர் செய்த உதவியின் சிறப்பு கடலை விடப் பெரிது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Gratitude (Domestic Virtue), Kural 103 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If we weigh the excellence of a benefit which is conferred without weighing the return, it is larger than the sea. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'செய்ந்நன்றியறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Gratitude' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'செய்ந்நன்றியறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 103 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 103 from Chapter 'Gratitude'?",
+        "quiz_options_ta": [
+          "அறத்தின் இயல்போடு பொருந்தி இல்வாழ்க்கை வாழ்பவன், பிறனுக்கு உரிமையானவளின் பெண் தன்மையை விரும்பாதவனே",
+          "அயலாருடைய குற்றத்தைக் காண்பது போல் தம் குற்றத்தையும் காண வல்லவரானால், நிலைபெற்ற உயிர் வாழ்க்கைக்குத் துன்பம் உண்ட‌ோ?",
+          "உயர்ந்த புகழ் அல்லாமல் உலகத்தில் ஒப்பற்ற ஒரு பொருளாக அழியாமல் நிலைநிற்க வல்லது வேறொன்றும் இல்லை.",
+          "இன்ன பயன் கிடைக்கும் என்றுஆராயாமல் ஒருவன் செய்த உதவியின் அன்புடைமையை ஆராய்ந்தால் அதன் நன்மை கடலைவிட பெரியதாகும் ."
+        ],
+        "quiz_options_en": [
+          "He is the righteous householder His neighbour's wife who covets never",
+          "No harm would fall to any man If each his own defect could scan",
+          "Nothing else lasts on earth for e'er Saving high fame of the giver!",
+          "Help rendered without weighing fruits Outweighs the sea in grand effects"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (செய்ந்நன்றியறிதல்) பகுதியில் குறள் 103 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இன்ன பயன் கிடைக்கும் என்றுஆராயாமல் ஒருவன் செய்த உதவியின் அன்புடைமையை ஆராய்ந்தால் அதன் நன்மை கடலைவிட பெரியதாகும் . பரிமேலழகர் உரை நுட்பம்: பயன்தூக்கார் செய்த உதவி நயன் தூக்கின் - இவர்க்கு இது செய்தால் இன்னது பயக்கும் என்று ஆராய்தல் இலராய்ச் செய்த உதவியாகிய ஈரமுடைமையை ஆராயின்; நன்மை கடலின் பெரிது - அதன் நன்மை கடலினும் பெரிது ஆம். (இவை மூன்று பாட்டானும் முறையே காரணம் இன்றிச் செய்ததூஉம...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 11: 'Gratitude'), Kural 103 distills a foundational ethical insight: \"Kindness shown by those who weigh not what the return may be:When you ponder right its merit, 'Tis vaster than the sea\" Philosophically, If we weigh the excellence of a benefit which is conferred without weighing the return, it is larger than the sea.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "gratitude",
+        "wealth",
+        "ethics",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 104,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒருவன் தினையளவாகிய உதவியைச் செய்த போதிலும் அதன் பயனை ஆராய்கின்றவர், அதனையே பனையளவாகக் கொண்டு போற்றுவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Though the benefit conferred be as small as a millet seed, those who know its advantage will consider it as large as a palmyra fruit.",
+        "story_title_ta": "செய்ந்நன்றியறிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Gratitude — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'செய்ந்நன்றியறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 104 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தினை அளவாக மிகச் சிறிய உதவியே செய்யப்பெற்றிருந்தாலும் உதவியின் பயனை நன்கு அறிந்தவர் அதைப் பனை அளவு மிகப் பெரிய உதவியாய்க் கருதுவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Gratitude'. Grandpa shared Kural 104 and explained in simple words: Though the benefit conferred be as small as a millet seed, those who know its advantage will consider it as large as a palmyra fruit. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவர் செய்யும் தினையளவு நன்மையைக்கூட அதனால் பயன்பெறும் நன்றியுள்ளவர் பல்வேறு வகையில் பயன்படக்கூடிய பனையின் அளவாகக் கருதுவார்.",
+        "moral_en": "Moral: Each benefit to those of actions' fruit who rightly deem, Though small as millet-seed, as palm-tree vast will seem.",
+        "game_blank_word_ta": "செயினும்",
+        "game_options_ta": [
+          "செயினும்",
+          "செய்யாமல்",
+          "செய்த",
+          "உதவிக்கு"
+        ],
+        "game_options_en": [
+          "Help given though millet-small Knowers count its good palm-tree tall",
+          "Unhelped in turn good help given Exceeds in worth earth and heaven",
+          "A help rendered in hour of need Though small is greater than the world",
+          "Help rendered without weighing fruits Outweighs the sea in grand effects"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "செய்ந்நன்றியறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 104, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தினை அளவாக மிகச் சிறிய உதவியே செய்யப்பெற்றிருந்தாலும் உதவியின் பயனை நன்கு அறிந்தவர் அதைப் பனை அளவு மிகப் பெரிய உதவியாய்க் கருதுவர். கலைஞர் உரை கூறுவது: ஒருவர் செய்யும் தினையளவு நன்மையைக்கூட அதனால் பயன்பெறும் நன்றியுள்ளவர் பல்வேறு வகையில் பயன்படக்கூடிய பனையின் அளவாகக் கருதுவார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Gratitude (Domestic Virtue), Kural 104 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though the benefit conferred be as small as a millet seed, those who know its advantage will consider it as large as a palmyra fruit. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'செய்ந்நன்றியறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Gratitude' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'செய்ந்நன்றியறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 104 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 104 from Chapter 'Gratitude'?",
+        "quiz_options_ta": [
+          "ஒருவன் தினையளவாகிய உதவியைச் செய்த போதிலும் அதன் பயனை ஆராய்கின்றவர், அதனையே பனையளவாகக் கொண்டு போற்றுவர்.",
+          "பிறனுடைய மனைவியை விரும்பி நோக்காத ‌பெரிய ஆண்மை, சான்றோர்க்கு அறம் மட்டும் அன்று; நிறைந்த ஒழுக்கமுமாகும்.",
+          "கேட்டவர் பலரும் வெறுக்கும் படியாகப் பயனில்லாத சொற்களைச் சொல்லுகின்றவன், எல்லாராலும் இகழப்படுவான்",
+          "நிலவுலகின் எல்லையில் நெடுங்காலம் நிற்கவல்ல புகழைச் செய்தால், வானுலகம் (அவ்வாறு புகழ் செய்தாரைப் போற்றுமே அல்லாமல்) தேவரைப் போற்றாது.."
+        ],
+        "quiz_options_en": [
+          "Help given though millet-small Knowers count its good palm-tree tall",
+          "They lead a high-souled manly life The pure who eye not another's wife",
+          "With silly words who insults all Is held in contempt as banal",
+          "From hailing gods heavens will cease To hail the men of lasting praise"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (செய்ந்நன்றியறிதல்) பகுதியில் குறள் 104 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் தினையளவாகிய உதவியைச் செய்த போதிலும் அதன் பயனை ஆராய்கின்றவர், அதனையே பனையளவாகக் கொண்டு போற்றுவர். பரிமேலழகர் உரை நுட்பம்: தினைத்துணை நன்றி செயினும் - தமக்குத் தினையளவிற்றாய உபகாரத்தை ஒருவன் செய்தானாயினும்; பனைத்துணையாக் கொள்வர் பயன் தெரிவார் - அதனை அவ்வளவிற்றாகக் கருதாது, பனையளவிற்றாகக் கருதுவர் அக்கருத்தின் பயன் தெரிவார். ('தினை', 'பனை' என்பன சிறுமை பெருமைகட்குக் காட்டுவன சில...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 11: 'Gratitude'), Kural 104 distills a foundational ethical insight: \"Each benefit to those of actions' fruit who rightly deem, Though small as millet-seed, as palm-tree vast will seem\" Philosophically, Though the benefit conferred be as small as a millet seed, those who know its advantage will consider it as large as a palmyra fruit.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "gratitude",
+        "wealth",
+        "kindness",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 105,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கைமாறாகச் செய்யும் உதவி முன் செய்த உதவியின் அளவை உடையது அன்று, உதவி செய்யப்பட்டவற்றின் பண்புக்கு ஏற்ற அளவை உடையதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The benefit itself is not the measure of the benefit; the worth of those who have received it is its measure.",
+        "story_title_ta": "செய்ந்நன்றியறிதல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Gratitude — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'செய்ந்நன்றியறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 105 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஒருவர் நமக்குச் செய்த உதவிக்குத் திரும்ப நாம் செய்வது, அவர் செய்த உதவியின் காரணம், பொருள், காலம் பார்த்து அன்று; உதவியைப் பெற்ற நம் பண்பாட்டுத் தகுதியே அதற்கு அளவாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Gratitude'. Grandpa shared Kural 105 and explained in simple words: The benefit itself is not the measure of the benefit; the worth of those who have received it is its measure. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உதவி என்பது, செய்யப்படும் அளவைப் பொருத்துச் சிறப்படைவதில்லை; அந்த உதவியைப் பெறுபவரின் பண்பைப் பொருத்தே அதன் அளவு மதிப்பிடப்படும்.",
+        "moral_en": "Moral: The kindly aid's extent is of its worth no measure true; Its worth is as the worth of him to whom the act you do.",
+        "game_blank_word_ta": "உதவி",
+        "game_options_ta": [
+          "செய்யாமல்",
+          "உதவி",
+          "செய்த",
+          "உதவிக்கு"
+        ],
+        "game_options_en": [
+          "Unhelped in turn good help given Exceeds in worth earth and heaven",
+          "A help is not the help's measure It is gainer's worth and pleasure",
+          "A help rendered in hour of need Though small is greater than the world",
+          "Help rendered without weighing fruits Outweighs the sea in grand effects"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "செய்ந்நன்றியறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 105, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவர் நமக்குச் செய்த உதவிக்குத் திரும்ப நாம் செய்வது, அவர் செய்த உதவியின் காரணம், பொருள், காலம் பார்த்து அன்று; உதவியைப் பெற்ற நம் பண்பாட்டுத் தகுதியே அதற்கு அளவாகும். கலைஞர் உரை கூறுவது: உதவி என்பது, செய்யப்படும் அளவைப் பொருத்துச் சிறப்படைவதில்லை; அந்த உதவியைப் பெறுபவரின் பண்பைப் பொருத்தே அதன் அளவு மதிப்பிடப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Gratitude (Domestic Virtue), Kural 105 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The benefit itself is not the measure of the benefit; the worth of those who have received it is its measure. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'செய்ந்நன்றியறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Gratitude' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'செய்ந்நன்றியறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 105 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 105 from Chapter 'Gratitude'?",
+        "quiz_options_ta": [
+          "கடல் சூழ்ந்த உலகத்தில் நன்மைக்கு உரியவர் யார் என்றொல் பிறனுக்கு உரிமையானவளின் தோளைப் பொருந்தாதவரே ஆவர்",
+          "கைமாறாகச் செய்யும் உதவி முன் செய்த உதவியின் அளவை உடையது அன்று, உதவி செய்யப்பட்டவற்றின் பண்புக்கு ஏற்ற அளவை உடையதாகும்.",
+          "பலர் முன்னே பயனில்லாத சொற்களைச் சொல்லுதல், நண்பரிடத்தில் அறம் இல்லா செயல்களைச் செய்தலை விடத் தீமையானதாகும்.",
+          "புகழுடம்பு மேம்படுதலாகும் வாழ்வில் கேடும், புகழ் நிலை நிற்பதாகும் சாவும் அறிவில் சிறந்தவர்க்கு அல்லாமல் மற்றவர்க்கு இல்லை."
+        ],
+        "quiz_options_en": [
+          "Good in storm bound earth is with those Who clasp not arms of another's spouse",
+          "A help is not the help's measure It is gainer's worth and pleasure",
+          "Vain talk before many is worse Than doing to friends deeds adverse",
+          "Fame in fall and life in death Are rare but for the soulful worth"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (செய்ந்நன்றியறிதல்) பகுதியில் குறள் 105 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கைமாறாகச் செய்யும் உதவி முன் செய்த உதவியின் அளவை உடையது அன்று, உதவி செய்யப்பட்டவற்றின் பண்புக்கு ஏற்ற அளவை உடையதாகும். பரிமேலழகர் உரை நுட்பம்: உதவி உதவி வரைத்து அன்று - கைம்மாறான உதவி, காரணத்தானும் பொருளானும் காலத்தானும் ஆகிய மூவகையானும் முன் செய்த உதவியளவிற்று அன்று; உதவி செயப்பட்டார் சால்பின் வரைத்து - அதனைச் செய்வித்துக் கொண்டவர்தம் அமைதி அளவிற்று. '(சால்பு எவ்வளவு பெரிதாயிற்று, உதவியும் அவ்வளவு...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 11: 'Gratitude'), Kural 105 distills a foundational ethical insight: \"The kindly aid's extent is of its worth no measure true; Its worth is as the worth of him to whom the act you do\" Philosophically, The benefit itself is not the measure of the benefit; the worth of those who have received it is its measure.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "gratitude",
+        "friendship",
+        "kindness",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 106,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: குற்றமற்றவரின் உறவை எப்போதும் மறக்கலாகாது: துன்பம் வந்த காலத்தில் உறுதுணையாய் உதவியவர்களின் நட்பை எப்போதும் விடாலாகாது .",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Forsake not the friendship of those who have been your staff in adversity Forget not be benevolence of the blameless.",
+        "story_title_ta": "செய்ந்நன்றியறிதல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Gratitude — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'செய்ந்நன்றியறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 106 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உன் துன்பத்துள் துணையாக நின்றவரின் நட்பை விடாதே; அறிவு ஒழுக்கங்களில் குற்றம் இல்லாதவரின் நட்பை மறந்து விடாதே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Gratitude'. Grandpa shared Kural 106 and explained in simple words: Forsake not the friendship of those who have been your staff in adversity Forget not be benevolence of the blameless. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மாசற்றவர்களின் உறவை மறக்கவும் கூடாது; துன்பத்தில் துணை நின்றவர் நட்பைத் துறக்கவும் கூடாது.",
+        "moral_en": "Moral: Kindness of men of stainless soul remember evermoreForsake thou never friends who were thy stay in sorrow sore.",
+        "game_blank_word_ta": "மாசற்றார்",
+        "game_options_ta": [
+          "செய்யாமல்",
+          "செய்த",
+          "மாசற்றார்",
+          "உதவிக்கு"
+        ],
+        "game_options_en": [
+          "Unhelped in turn good help given Exceeds in worth earth and heaven",
+          "A help rendered in hour of need Though small is greater than the world",
+          "Forget not friendship of the pure Forsake not timely helpers sure",
+          "Help rendered without weighing fruits Outweighs the sea in grand effects"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "செய்ந்நன்றியறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 106, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உன் துன்பத்துள் துணையாக நின்றவரின் நட்பை விடாதே; அறிவு ஒழுக்கங்களில் குற்றம் இல்லாதவரின் நட்பை மறந்து விடாதே. கலைஞர் உரை கூறுவது: மாசற்றவர்களின் உறவை மறக்கவும் கூடாது; துன்பத்தில் துணை நின்றவர் நட்பைத் துறக்கவும் கூடாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Gratitude (Domestic Virtue), Kural 106 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Forsake not the friendship of those who have been your staff in adversity Forget not be benevolence of the blameless. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'செய்ந்நன்றியறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Gratitude' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'செய்ந்நன்றியறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 106 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 106 from Chapter 'Gratitude'?",
+        "quiz_options_ta": [
+          "ஒருவன் அறநெறியில் நிற்காமல் அறமில்லாதவைகளைச் செய்தாலும், பிறனுக்கு உரியவளின் பெண்மையை விரும்பாமல் வாழ்தல் நல்லது",
+          "ஒருவன் பயனில்லா பொருள்களைப் பற்றி விரிவாகச் சொல்லும் சொற்கள், அவன் அறம் இல்லாதவன் என்பதை அறிவிக்கும்.",
+          "குற்றமற்றவரின் உறவை எப்போதும் மறக்கலாகாது: துன்பம் வந்த காலத்தில் உறுதுணையாய் உதவியவர்களின் நட்பை எப்போதும் விடாலாகாது .",
+          "ஒரு துறையில் முற்பட்டுத் தோன்றுவதானால் புகழோடு தோன்ற வேண்டும், அத்தகைய சிறப்பு இல்லாதவர் அங்குத் தோன்றுவதைவிடத் தோன்றாமலிருப்பதே நல்லது."
+        ],
+        "quiz_options_en": [
+          "Sinners breaking virtue's behest Lust not for another's wife at least",
+          "The babbler's hasty lips proclaim That \\\"good-for-nothing\\\" is his name",
+          "Forget not friendship of the pure Forsake not timely helpers sure",
+          "Be born with fame if birth you want If not of birth you must not vaunt"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (செய்ந்நன்றியறிதல்) பகுதியில் குறள் 106 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: குற்றமற்றவரின் உறவை எப்போதும் மறக்கலாகாது: துன்பம் வந்த காலத்தில் உறுதுணையாய் உதவியவர்களின் நட்பை எப்போதும் விடாலாகாது . பரிமேலழகர் உரை நுட்பம்: துன்பத்துள் துப்பு ஆயார் நட்பு துறவற்க - துன்பக் காலத்துத் தனக்குப் பற்றுக்கோடாயினாரது நட்பை விடாதொழிக; மாசு அற்றார் கேண்மை மறவற்க - அறிவொழுக்கங்களில் குற்றமற்றாரது கேண்மையை மறவா தொழிக. (கேண்மை: கேள் ஆம் தன்மை. இம்மைக்கு உறுதி கூறுவார், மறுமைக்கு உறுதியும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 11: 'Gratitude'), Kural 106 distills a foundational ethical insight: \"Kindness of men of stainless soul remember evermoreForsake thou never friends who were thy stay in sorrow sore\" Philosophically, Forsake not the friendship of those who have been your staff in adversity Forget not be benevolence of the blameless.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "gratitude",
+        "friendship",
+        "time",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 107,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தம்முடைய துன்பத்தைப் போக்கி உதவியவரின் நட்பைப் பல்வேறு வகையான பிறவியிலும் மறவாமல் போற்றுவர் பெரியோர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: (The wise) will remember throughout their seven-fold births the love of those who have wiped away their affliction.",
+        "story_title_ta": "செய்ந்நன்றியறிதல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Gratitude — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'செய்ந்நன்றியறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 107 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தம் துன்பத்தைப் போக்கியவரின் நட்பை ஏழேழு பிறப்பிலும் நல்லவர் எண்ணுவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Gratitude'. Grandpa shared Kural 107 and explained in simple words: (The wise) will remember throughout their seven-fold births the love of those who have wiped away their affliction. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஏழேழு தலைமுறைக்கு என்றும் ஏழேழு பிறவிக்கு என்றும் மிகைப்படுத்திச் சொல்வதுபோல, ஒருவருடைய துன்பத்தைப் போக்கியவரின் தூய்மையான நட்பை நினைத்துப் போற்றுவதற்குக் கால எல்லையே கிடையாது.",
+        "moral_en": "Moral: Through all seven worlds, in seven-fold birth, Remains in mem'ry of the wiseFriendship of those who wiped on earth, The tears of sorrow from their eyes.",
+        "game_blank_word_ta": "உள்ளுவர்",
+        "game_options_ta": [
+          "செய்யாமல்",
+          "செய்த",
+          "உதவிக்கு",
+          "உள்ளுவர்"
+        ],
+        "game_options_en": [
+          "Unhelped in turn good help given Exceeds in worth earth and heaven",
+          "A help rendered in hour of need Though small is greater than the world",
+          "Help rendered without weighing fruits Outweighs the sea in grand effects",
+          "Through sevenfold births, in memory fares The willing friend who wiped one's tears"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "செய்ந்நன்றியறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 107, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம் துன்பத்தைப் போக்கியவரின் நட்பை ஏழேழு பிறப்பிலும் நல்லவர் எண்ணுவர். கலைஞர் உரை கூறுவது: ஏழேழு தலைமுறைக்கு என்றும் ஏழேழு பிறவிக்கு என்றும் மிகைப்படுத்திச் சொல்வதுபோல, ஒருவருடைய துன்பத்தைப் போக்கியவரின் தூய்மையான நட்பை நினைத்துப் போற்றுவதற்குக் கால எல்லையே கிடையாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Gratitude (Domestic Virtue), Kural 107 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (The wise) will remember throughout their seven-fold births the love of those who have wiped away their affliction. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'செய்ந்நன்றியறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Gratitude' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'செய்ந்நன்றியறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 107 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 107 from Chapter 'Gratitude'?",
+        "quiz_options_ta": [
+          "தன்னை வெட்டுவோரையும் விழாமல் தாங்குகின்ற நிலம் போல், தம்மை இகழ்வாரையும் பொறுப்பதே தலையான பண்பாகும்",
+          "பயனோடு பொருந்தாத பண்பு இல்லாத சொற்களைப் பலரிடத்தும் சொல்லுதல், அறத்தோடு பொருந்தாமல் நன்மையிலிருந்து நீங்கச் செய்யும்.",
+          "தமக்குப் புகழ் உண்டாகுமாறு வாழமுடியாதவர் தம்மைத் தாம் நொந்து கொள்ளாமல் தம்மை இகழ்கின்றவரை நொந்து கொள்ளக் காரணம் என்ன?",
+          "தம்முடைய துன்பத்தைப் போக்கி உதவியவரின் நட்பைப் பல்வேறு வகையான பிறவியிலும் மறவாமல் போற்றுவர் பெரியோர்."
+        ],
+        "quiz_options_en": [
+          "As earth bears up with diggers too To bear revilers is prime virtue",
+          "Vain words before an assembly Will make all gains and goodness flee",
+          "Why grieve at those who blame the shame Of those who cannot live in fame?",
+          "Through sevenfold births, in memory fares The willing friend who wiped one's tears"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (செய்ந்நன்றியறிதல்) பகுதியில் குறள் 107 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம்முடைய துன்பத்தைப் போக்கி உதவியவரின் நட்பைப் பல்வேறு வகையான பிறவியிலும் மறவாமல் போற்றுவர் பெரியோர். பரிமேலழகர் உரை நுட்பம்: தம்கண் விழுமம் துடைத்தவர் நட்பு - தம்கண் எய்திய துன்பத்தை நீக்கினவருடைய நட்பினை; எழுமை எழு பிறப்பும் உள்ளுவர் - எழுமையினையுடைய தம் எழுவகைப் பிறப்பினும் நினைப்பர் நல்லோர். ('எழுமை' என்றது வினைப்பயன் தொடரும் ஏழு பிறப்பினை: அது வளையாபதியுள் கண்டது. எழுவகைப...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 11: 'Gratitude'), Kural 107 distills a foundational ethical insight: \"Through all seven worlds, in seven-fold birth, Remains in mem'ry of the wiseFriendship of those who wiped on earth, The tears of sorrow from their eyes\" Philosophically, (The wise) will remember throughout their seven-fold births the love of those who have wiped away their affliction.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "gratitude",
+        "friendship",
+        "love",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 108,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒருவரர்முன்செய்த நன்மையை மறப்பது அறம் அன்று; அவர் செய்த தீமையைச் செய்த அப்‌பொழுதே மறந்து விடுவது அறம்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: It is not good to forget a benefit; it is good to forget an injury even in the very moment (in which it is inflicted).",
+        "story_title_ta": "செய்ந்நன்றியறிதல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Gratitude — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'செய்ந்நன்றியறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 108 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஒருவன் நமக்குச் செய்த உதவியை மறப்பது அறம் அன்று; அவன் செய்த தீமையை அப்போதே மறப்பது அறம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Gratitude'. Grandpa shared Kural 108 and explained in simple words: It is not good to forget a benefit; it is good to forget an injury even in the very moment (in which it is inflicted). The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவர் நமக்குச் செய்த நன்மையை மறப்பது நல்லதல்ல; அவர் தீமை செய்திருந்தால் அதை மட்டும் அக்கணமே மறந்து விடுவது நல்லது.",
+        "moral_en": "Moral: 'Tis never good to let the thought of good things done thee pass away; Of things not good, 'tis good to rid thy memory that very day.",
+        "game_blank_word_ta": "நன்றி",
+        "game_options_ta": [
+          "நன்றி",
+          "செய்யாமல்",
+          "செய்த",
+          "உதவிக்கு"
+        ],
+        "game_options_en": [
+          "To forget good turns is not good Good it is over wrong not to brood",
+          "Unhelped in turn good help given Exceeds in worth earth and heaven",
+          "A help rendered in hour of need Though small is greater than the world",
+          "Help rendered without weighing fruits Outweighs the sea in grand effects"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "செய்ந்நன்றியறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 108, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவன் நமக்குச் செய்த உதவியை மறப்பது அறம் அன்று; அவன் செய்த தீமையை அப்போதே மறப்பது அறம். கலைஞர் உரை கூறுவது: ஒருவர் நமக்குச் செய்த நன்மையை மறப்பது நல்லதல்ல; அவர் தீமை செய்திருந்தால் அதை மட்டும் அக்கணமே மறந்து விடுவது நல்லது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Gratitude (Domestic Virtue), Kural 108 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is not good to forget a benefit; it is good to forget an injury even in the very moment (in which it is inflicted). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'செய்ந்நன்றியறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Gratitude' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'செய்ந்நன்றியறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 108 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 108 from Chapter 'Gratitude'?",
+        "quiz_options_ta": [
+          "ஒருவரர்முன்செய்த நன்மையை மறப்பது அறம் அன்று; அவர் செய்த தீமையைச் செய்த அப்‌பொழுதே மறந்து விடுவது அறம்.",
+          "வரம்பு கடந்து பிறர் செய்யும் தீங்கை எப்போதும் பொறுக்க வேண்டும்; அத் தீங்கை நினைவிலும் கொள்ளாமல் மறந்து விடுதல் பொறுத்தலை விட நல்லது.",
+          "பயனில்லாத சொற்களை நல்ல பண்பு உடையவர் சொல்லுவாரானால், அவனுடைய மேம்பாடு அவர்க்குரிய மதிப்போடு நீங்கிவிடும்.",
+          "தமக்குப் பின் எஞ்சி நிற்பதாகியப் புகழைப் பெறாவிட்டால் உலகத்தார் எல்லார்க்கும் அத்தகைய வாழ்க்கை பழி என்று சொல்லுவர்."
+        ],
+        "quiz_options_en": [
+          "To forget good turns is not good Good it is over wrong not to brood",
+          "Forgive insults is a good habit Better it is to forget it",
+          "Glory and grace will go away When savants silly nonsense say",
+          "To men on earth it is a shame Not to beget the child of fame"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (செய்ந்நன்றியறிதல்) பகுதியில் குறள் 108 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவரர்முன்செய்த நன்மையை மறப்பது அறம் அன்று; அவர் செய்த தீமையைச் செய்த அப்‌பொழுதே மறந்து விடுவது அறம். பரிமேலழகர் உரை நுட்பம்: நன்றி மறப்பது நன்று அன்று -ஒருவன் முன் செய்த நன்மையை மறப்பது ஒருவற்கு அறன் அன்று; நன்று அல்லது அன்றே மறப்பது நன்று - அவன் செய்த தீமையைச் செய்த பொழுதே மறப்பது அறன். (இரண்டும் ஒருவனாற் செய்யப்பட்ட வழி, மறப்பதும் மறவாததும் வகுத்துக் கூறியவாறு.).",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 11: 'Gratitude'), Kural 108 distills a foundational ethical insight: \"'Tis never good to let the thought of good things done thee pass away; Of things not good, 'tis good to rid thy memory that very day\" Philosophically, It is not good to forget a benefit; it is good to forget an injury even in the very moment (in which it is inflicted).",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "gratitude",
+        "ethics",
+        "friendship",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 109,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: முன் உதவி செய்தவர் பின்பு ‌கொன்றார் போன்ற துன்பத்தைச் செய்தாரானாலும், அவர் முன் செய்த ஒரு நன்மையை நினைத்தாலும் அந்தத் துன்பம் கெடும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Though one inflict an injury great as murder, it will perish before the thought of one benefit (formerly) conferred.",
+        "story_title_ta": "செய்ந்நன்றியறிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Gratitude — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'செய்ந்நன்றியறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 109 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'முன்பு நன்மை செய்தவரே பின்பு நம்மைக் கொலை செய்வது போன்ற தீமையைச் செய்தாலும் அவர் முன்பு செய்த ஒப்பற்ற நன்மையை நினைத்த அளவில் அத்தீமை மறையும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Gratitude'. Grandpa shared Kural 109 and explained in simple words: Though one inflict an injury great as murder, it will perish before the thought of one benefit (formerly) conferred. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவர் செய்யும் மிகக் கொடுமையான தீமைகூட நமது உள்ளத்தைப் புண்படுத்தாமல் அகன்றுவிட வேண்டுமானால், அந்த ஒருவர் முன்னர் நமக்குச் செய்த நன்மையை மட்டும் நினைத்துப் பார்த்தாலே போதுமானது.",
+        "moral_en": "Moral: Effaced straightway is deadliest injury, By thought of one kind act in days gone by.",
+        "game_blank_word_ta": "ஒன்றுநன்று",
+        "game_options_ta": [
+          "செய்யாமல்",
+          "ஒன்றுநன்று",
+          "செய்த",
+          "உதவிக்கு"
+        ],
+        "game_options_en": [
+          "Unhelped in turn good help given Exceeds in worth earth and heaven",
+          "Let deadly harms be forgotten While remembering one good-turn",
+          "A help rendered in hour of need Though small is greater than the world",
+          "Help rendered without weighing fruits Outweighs the sea in grand effects"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "செய்ந்நன்றியறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 109, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முன்பு நன்மை செய்தவரே பின்பு நம்மைக் கொலை செய்வது போன்ற தீமையைச் செய்தாலும் அவர் முன்பு செய்த ஒப்பற்ற நன்மையை நினைத்த அளவில் அத்தீமை மறையும். கலைஞர் உரை கூறுவது: ஒருவர் செய்யும் மிகக் கொடுமையான தீமைகூட நமது உள்ளத்தைப் புண்படுத்தாமல் அகன்றுவிட வேண்டுமானால், அந்த ஒருவர் முன்னர் நமக்குச் செய்த நன்மையை மட்டும் நினைத்துப் பார்த்தாலே போதுமானது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Gratitude (Domestic Virtue), Kural 109 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though one inflict an injury great as murder, it will perish before the thought of one benefit (formerly) conferred. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'செய்ந்நன்றியறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Gratitude' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'செய்ந்நன்றியறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 109 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 109 from Chapter 'Gratitude'?",
+        "quiz_options_ta": [
+          "வறுமையுள் வறுமை, விருந்தினரைப் போற்றாமல் நீக்குதல்; வல்லமையுள் வல்லமை என்பது அறிவிலார் தீங்கு செய்தலைப் பொறுத்தலாகும்.",
+          "முன் உதவி செய்தவர் பின்பு ‌கொன்றார் போன்ற துன்பத்தைச் செய்தாரானாலும், அவர் முன் செய்த ஒரு நன்மையை நினைத்தாலும் அந்தத் துன்பம் கெடும்.",
+          "பயனில்லாத சொற்களைப் பலமுறையும் சொல்லுகின்ற ஒருவனை மனிதன் என்று சொல்லக்கூடாது, மக்களுள் பதர் என்று சொல்லவேண்டும்.",
+          "புகழ் பெறாமல் வாழ்வைக் கழித்தவருடைய உடம்பைச் சுமந்த நிலம், வசையற்ற வளமான பயனாகிய விளைவு இல்லாமல் குன்றிவிடும்."
+        ],
+        "quiz_options_en": [
+          "Neglect the guest is dearth of dearth To bear with fools is strength of strength",
+          "Let deadly harms be forgotten While remembering one good-turn",
+          "Call him a human chaff who prides Himself in weightless idle words",
+          "The land will shrink in yield if men O'erburden it without renown"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (செய்ந்நன்றியறிதல்) பகுதியில் குறள் 109 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முன் உதவி செய்தவர் பின்பு ‌கொன்றார் போன்ற துன்பத்தைச் செய்தாரானாலும், அவர் முன் செய்த ஒரு நன்மையை நினைத்தாலும் அந்தத் துன்பம் கெடும். பரிமேலழகர் உரை நுட்பம்: கொன்று அன்ன இன்னா செயினும் - தமக்கு முன் ஒரு நன்மை செய்தவர், பின் கொன்றால் ஒத்த இன்னாதவற்றைச் செய்தாராயினும்; அவர் செய்த நன்று ஒன்று உள்ளக் கெடும் - அவையெல்லாம் அவர் செய்த நன்மை ஒன்றனையும் நினைக்க இல்லையாம். (தினைத்துணை பனைத்துணையாகக் கொள்ளப்படுதலின...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 11: 'Gratitude'), Kural 109 distills a foundational ethical insight: \"Effaced straightway is deadliest injury, By thought of one kind act in days gone by\" Philosophically, Though one inflict an injury great as murder, it will perish before the thought of one benefit (formerly) conferred.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "gratitude",
+        "kindness",
+        "ethics",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 110,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: எந்த அறத்தை அழித்தவர்க்கும் தப்பிப் பிழைக்க வழி உண்டாகும்; ஒருவர் செய்த உதவியை மறந்து அழித்தவனுக்கு உய்வு இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: He who has killed every virtue may yet escape; there is no escape for him who has killed a benefit.",
+        "story_title_ta": "செய்ந்நன்றியறிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Gratitude — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'செய்ந்நன்றியறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 110 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எத்தனை பெரிய அறங்களை அழித்தவர்க்கும் பாவத்தைக் கழுவ வழிகள் உண்டு. ஆனால், ஒருவர் செய்த உதவியை மறந்து தீமை செய்பவனுக்கு வழியே இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Gratitude'. Grandpa shared Kural 110 and explained in simple words: He who has killed every virtue may yet escape; there is no escape for him who has killed a benefit. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: எந்த அறத்தை மறந்தார்க்கும் வாழ்வு உண்டு; ஆனால் ஒருவர் செய்த உதவியை மறந்தார்க்கு வாழ்வில்லை.",
+        "moral_en": "Moral: Who every good have killed, may yet destruction flee; Who 'benefit' has killed, that man shall ne'er 'scape free.",
+        "game_blank_word_ta": "கொன்ற",
+        "game_options_ta": [
+          "செய்யாமல்",
+          "செய்த",
+          "கொன்ற",
+          "உதவிக்கு"
+        ],
+        "game_options_en": [
+          "Unhelped in turn good help given Exceeds in worth earth and heaven",
+          "A help rendered in hour of need Though small is greater than the world",
+          "The virtue-killer may be saved Not benefit-killer who is damned",
+          "Help rendered without weighing fruits Outweighs the sea in grand effects"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "செய்ந்நன்றியறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 110, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எத்தனை பெரிய அறங்களை அழித்தவர்க்கும் பாவத்தைக் கழுவ வழிகள் உண்டு. ஆனால், ஒருவர் செய்த உதவியை மறந்து தீமை செய்பவனுக்கு வழியே இல்லை. கலைஞர் உரை கூறுவது: எந்த அறத்தை மறந்தார்க்கும் வாழ்வு உண்டு; ஆனால் ஒருவர் செய்த உதவியை மறந்தார்க்கு வாழ்வில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Gratitude (Domestic Virtue), Kural 110 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who has killed every virtue may yet escape; there is no escape for him who has killed a benefit. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'செய்ந்நன்றியறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Gratitude' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'செய்ந்நன்றியறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 110 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 110 from Chapter 'Gratitude'?",
+        "quiz_options_ta": [
+          "நிறை உடையவனாக இருக்கும் தன்மை தன்னை விட்டு நீங்காமல் இருக்க வேண்டினால், பொறுமையைப் போற்றி ஒழுக வேண்டும்.",
+          "அறம் இல்லாதவற்றைச் சொன்னாலும் சொல்லலாம், சான்றோர் பயன் இல்லாத சொற்களைச் சொல்லாமல் இருத்தல் நன்மையாகும்.",
+          "எந்த அறத்தை அழித்தவர்க்கும் தப்பிப் பிழைக்க வழி உண்டாகும்; ஒருவர் செய்த உதவியை மறந்து அழித்தவனுக்கு உய்வு இல்லை.",
+          "தாம் வாழும் வாழ்க்கையில் பழி உண்டாகாமல் வாழ்கின்றவரே உயிர் வாழ்கின்றவர், புகழ் உண்டாகாமல் வாழ்கின்றவரே உயிர் வாழாதவர்."
+        ],
+        "quiz_options_en": [
+          "Practice of patient quality Retains intact itegrity",
+          "Let not men of worth vainly quack Even if they would roughly speak",
+          "The virtue-killer may be saved Not benefit-killer who is damned",
+          "They live who live without blemish The blameful ones do not flurish"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (செய்ந்நன்றியறிதல்) பகுதியில் குறள் 110 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எந்த அறத்தை அழித்தவர்க்கும் தப்பிப் பிழைக்க வழி உண்டாகும்; ஒருவர் செய்த உதவியை மறந்து அழித்தவனுக்கு உய்வு இல்லை. பரிமேலழகர் உரை நுட்பம்: எந்நன்றி கொன்றார்க்கும் உய்வு உண்டாம் - பெரிய அறங்களைச் சிதைத்தார்க்கும் பாவத்தின் நீங்கும் வாயில் உண்டாம்; செய்ந்நன்றி கொன்ற மகற்கு உய்வு இல்லை - ஒருவன் செய்த நன்றியைச் சிதைத்த மகனுக்கு அஃது இல்லை. (பெரிய அறங்களைச் சிதைத்தலாவது, ஆன்முலை அறுத்தலும், மகளிர...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 11: 'Gratitude'), Kural 110 distills a foundational ethical insight: \"Who every good have killed, may yet destruction flee; Who 'benefit' has killed, that man shall ne'er 'scape free\" Philosophically, He who has killed every virtue may yet escape; there is no escape for him who has killed a benefit.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "gratitude",
+        "ethics",
+        "education",
+        "discipline"
+      ]
+    }
+  ]
+}

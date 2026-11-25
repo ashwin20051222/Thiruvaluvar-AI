@@ -1,0 +1,586 @@
+{
+  "adhikaram_id": 88,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.271522654+00:00",
+  "kurals": [
+    {
+      "kural_number": 871,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பகை என்று சொல்லப்படும் பண்பு இல்லாத தீமையை ஒருவன் சிறிதும் பொழுது போக்கும் விளையாட்டாகவும் விரும்புதலாகாது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The evil of hatred is not of a nature to be desired by one even in sport.",
+        "story_title_ta": "பகைத்திறம் தெரிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Knowing the Quality of Hate — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகைத்திறம் தெரிதல்' என்ற அதிகாரத்திலிருந்து குறள் 871 பற்றிக் கதை சொன்னார். 'பகை எனப்படும் பண்பற்ற ஒன்று, விளையாட்டிலும் கூட் விரும்பத்தக்கது அன்று.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 88, 'Knowing the Quality of Hate', centered on Kural 871: The evil of hatred is not of a nature to be desired by one even in sport. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பகை உணர்வு என்பது பண்புக்கு மாறுபாடானது என்பதால் அதனை வேடிக்கை விளையாட்டாகக்கூட ஒருவன் கொள்ளக்கூடாது.",
+        "moral_en": "Moral: For Hate, that ill-conditioned thing not e'en in jestLet any evil longing rule your breast.",
+        "game_blank_word_ta": "ஒருவன்",
+        "game_options_ta": [
+          "வில்லேர்",
+          "உழவர்",
+          "பகைகொளினும்",
+          "ஒருவன்"
+        ],
+        "game_options_en": [
+          "Incur the hate of bow-ploughers But not the hate of word-ploughers",
+          "Forlorn, who rouses many foes The worst insanity betrays",
+          "This world goes safely in his grace Whose heart makes friends even of foes",
+          "Let not one even as a sport The ill-natured enmity court"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகைத்திறம் தெரிதல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 871, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகை எனப்படும் பண்பற்ற ஒன்று, விளையாட்டிலும் கூட் விரும்பத்தக்கது அன்று. கலைஞர் உரை கூறுவது: பகை உணர்வு என்பது பண்புக்கு மாறுபாடானது என்பதால் அதனை வேடிக்கை விளையாட்டாகக்கூட ஒருவன் கொள்ளக்கூடாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Quality of Hate (Ministers & Elements of State), Kural 871 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The evil of hatred is not of a nature to be desired by one even in sport. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகைத்திறம் தெரிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Quality of Hate' thoughtfully.",
+        "quiz_question_ta": "'பகைத்திறம் தெரிதல்' அதிகாரத்தில் வரும் திருக்குறள் 871 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 871 from Chapter 'Knowing the Quality of Hate'?",
+        "quiz_options_ta": [
+          "இயற்கை யறிவின் நன்மையால் சிறப்புற்ற அறிவுடையோர், பொருள் தருவார் எல்லார்க்கும் பொதுவாக இன்பம் தரும் மகளிரின் புன்மையான நலத்தைப் பொருந்தார்.",
+          "ஒருவனுடைய நல்லப் பண்புகளுக்கிடையில் அன்பற்றத் தன்மைக் காணப்பட்டால், அவனை அவனுடைய குடிப் பிறப்பு பற்றி ஐயப்பட நேரும்.",
+          "ஒருவன் இடமெல்லாம் நிறைந்த பெரும் பொருளைச் சேர்த்து வைத்து அதை உண்டு நூகராமல் இறந்து போனால் அவன் அந்த பொருளால் செய்ய முடிந்தது ஒன்றுமில்லை.",
+          "பகை என்று சொல்லப்படும் பண்பு இல்லாத தீமையை ஒருவன் சிறிதும் பொழுது போக்கும் விளையாட்டாகவும் விரும்புதலாகாது."
+        ],
+        "quiz_options_en": [
+          "The lofty wise will never covet The open charms of a vile harlot",
+          "If manners of the good are rude People deem their pedigree crude",
+          "Dead is he with wealth in pile Unenjoyed, it is futile",
+          "Let not one even as a sport The ill-natured enmity court"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகைத்திறம் தெரிதல்) பகுதியில் குறள் 871 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பகை என்று சொல்லப்படும் பண்பு இல்லாத தீமையை ஒருவன் சிறிதும் பொழுது போக்கும் விளையாட்டாகவும் விரும்புதலாகாது. பரிமேலழகர் உரை நுட்பம்: பகை என்னும் பண்பு இலதனை - பகை என்று சொல்லப்படும் தீமை பயப்பதனை; ஒருவன் நகையேயும் வேண்டற்பாற்று அன்று - ஒருவன் விளையாட்டின் கண்ணேயாயினும் விரும்புதல் இயற்கைத்தன்று. (மாணாத பகையை ஆக்கிக் கோடல் எவ்வாற்றானும் தீமையே பயத்தலின், 'பண்பிலது' என்றும், அதனை...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 88: 'Knowing the Quality of Hate'), Kural 871 distills a foundational ethical insight: \"For Hate, that ill-conditioned thing not e'en in jestLet any evil longing rule your breast\" Philosophically, The evil of hatred is not of a nature to be desired by one even in sport.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "time",
+        "speech",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 872,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: வில்லை ஏராக உடைய உழவராகிய வீரருடன் பகை கொண்ட போதிலும், சொல்லை ஏராக உடைய உழவராகிய அறிஞருடன் பகை கொள்ளக் கூடாது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Though you may incur the hatred of warriors whose ploughs are bows, incur not that of ministers whose ploughs are words.",
+        "story_title_ta": "பகைத்திறம் தெரிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Knowing the Quality of Hate — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகைத்திறம் தெரிதல்' என்ற அதிகாரத்திலிருந்து குறள் 872 பற்றிக் கதை சொன்னார். 'விலலை ஆயுதமாகக் கொண்ட வீரரோடு பகை கொண்டாலும், சொல்லை ஆயுதமாகக் கொண்ட எழுத்தாளரோடு பகை கொள்ள வேண்டா.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 88, 'Knowing the Quality of Hate', centered on Kural 872: Though you may incur the hatred of warriors whose ploughs are bows, incur not that of ministers whose ploughs are words. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: படைக்கலன்களை உடைய வீரர்களிடம் கூடப் பகை கொள்ளலாம் ஆனால் சொல்லாற்றல் மிக்க அறிஞர் பெருமக்களுடன் பகை கொள்ளக் கூடாது.",
+        "moral_en": "Moral: Although you hate incur of those whose ploughs are bows, Make not the men whose ploughs are words your foes.",
+        "game_blank_word_ta": "பகைகொளினும்",
+        "game_options_ta": [
+          "பகைகொளினும்",
+          "பகைஎன்னும்",
+          "பண்பி",
+          "லதனை"
+        ],
+        "game_options_en": [
+          "Incur the hate of bow-ploughers But not the hate of word-ploughers",
+          "Let not one even as a sport The ill-natured enmity court",
+          "Forlorn, who rouses many foes The worst insanity betrays",
+          "This world goes safely in his grace Whose heart makes friends even of foes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகைத்திறம் தெரிதல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 872, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: விலலை ஆயுதமாகக் கொண்ட வீரரோடு பகை கொண்டாலும், சொல்லை ஆயுதமாகக் கொண்ட எழுத்தாளரோடு பகை கொள்ள வேண்டா. கலைஞர் உரை கூறுவது: படைக்கலன்களை உடைய வீரர்களிடம் கூடப் பகை கொள்ளலாம் ஆனால் சொல்லாற்றல் மிக்க அறிஞர் பெருமக்களுடன் பகை கொள்ளக் கூடாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Quality of Hate (Ministers & Elements of State), Kural 872 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though you may incur the hatred of warriors whose ploughs are bows, incur not that of ministers whose ploughs are words. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகைத்திறம் தெரிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Quality of Hate' thoughtfully.",
+        "quiz_question_ta": "'பகைத்திறம் தெரிதல்' அதிகாரத்தில் வரும் திருக்குறள் 872 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 872 from Chapter 'Knowing the Quality of Hate'?",
+        "quiz_options_ta": [
+          "வில்லை ஏராக உடைய உழவராகிய வீரருடன் பகை கொண்ட போதிலும், சொல்லை ஏராக உடைய உழவராகிய அறிஞருடன் பகை கொள்ளக் கூடாது.",
+          "அழகு முதலியவற்றால் செருக்கு கொண்டு தம் புன்மையான நலத்தை விற்கும் பொது மகளிரின் தோளை, தம் நல்லோழுக்கத்தைப் போற்றும் சான்றோர் பொருந்தார்.",
+          "இன்ன நிலத்தில் இருந்து முளைத்தது என்பதை முளை காட்டும், அதுபோல் குடியிற் பிறந்தவரின் வாய்ச் சொல் அவருடைய குடிப்பிறப்பைக் காட்டும்.",
+          "பொருளால் எல்லாம் ஆகும் என்று பிறர்க்கு ஒன்றும் கொடுக்காமல் இறுகப்பற்றிய மயக்கத்தால் சிறப்பில்லாத பிறவி உண்டாம்."
+        ],
+        "quiz_options_en": [
+          "Incur the hate of bow-ploughers But not the hate of word-ploughers",
+          "Those who guard their worthy fame Shun the wanton's vaunting charm",
+          "Soil's nature is seen in sprout The worth of birth from words flow out",
+          "The niggard miser thinks wealth is all He hoards, gives not is born devil"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகைத்திறம் தெரிதல்) பகுதியில் குறள் 872 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வில்லை ஏராக உடைய உழவராகிய வீரருடன் பகை கொண்ட போதிலும், சொல்லை ஏராக உடைய உழவராகிய அறிஞருடன் பகை கொள்ளக் கூடாது. பரிமேலழகர் உரை நுட்பம்: வில் ஏர் உழவர் பகை கொளினும் - ஒருவன் வில்லை ஏராகவுடைய உழவரோடு பகை கொண்டானாயினும்; சொல் ஏர் உழவர் பகை கொள்ளற்க - சொல்லை ஏராகவுடைய உழவரோடு பகை கொள்ளாதொழிக. ('சொல்' ஆகுபெயரான் நீதிநூல் மேல் நின்றது. வீரம் சூழ்ச்சி என்னும் ஆற்றல்களுள் வீரமே உடையாரோடு பகை கொண்டால...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 88: 'Knowing the Quality of Hate'), Kural 872 distills a foundational ethical insight: \"Although you hate incur of those whose ploughs are bows, Make not the men whose ploughs are words your foes\" Philosophically, Though you may incur the hatred of warriors whose ploughs are bows, incur not that of ministers whose ploughs are words.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "speech",
+        "wealth",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 873,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தான் தனியாக இருந்து பலருடைய பகையைத் தேடிக் கொள்பவன், பித்துப் பிடித்தாரை விட அறிவில்லாதவனாகக் கருதப்படுவான்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: He who being alone, incurs the hatred of many is more infatuated than even mad men.",
+        "story_title_ta": "பகைத்திறம் தெரிதல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Knowing the Quality of Hate — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகைத்திறம் தெரிதல்' என்ற அதிகாரத்திலிருந்து குறள் 873 பற்றிக் கதை சொன்னார். 'தன்னந் தனியனாக இருந்து கொண்டு, பலரையும் பகைவர்களாகப் பெறும் ஆட்சியாளன் பித்தரிலும் அறிவற்றவன்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 88, 'Knowing the Quality of Hate', centered on Kural 873: He who being alone, incurs the hatred of many is more infatuated than even mad men. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தனியாக நின்று பலரின் பகையைத் தேடிக் கொள்பவனை ஆணவம் பிடித்தவன் என்பதைவிட அறிவிலி என்பதே பொருத்தமாகும்.",
+        "moral_en": "Moral: Than men of mind diseased, a wretch more utterly forlorn, Is he who stands alone, object of many foeman's scorn.",
+        "game_blank_word_ta": "பல்லார்",
+        "game_options_ta": [
+          "பகைஎன்னும்",
+          "பல்லார்",
+          "பண்பி",
+          "லதனை"
+        ],
+        "game_options_en": [
+          "Let not one even as a sport The ill-natured enmity court",
+          "Forlorn, who rouses many foes The worst insanity betrays",
+          "Incur the hate of bow-ploughers But not the hate of word-ploughers",
+          "This world goes safely in his grace Whose heart makes friends even of foes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகைத்திறம் தெரிதல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 873, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்னந் தனியனாக இருந்து கொண்டு, பலரையும் பகைவர்களாகப் பெறும் ஆட்சியாளன் பித்தரிலும் அறிவற்றவன். கலைஞர் உரை கூறுவது: தனியாக நின்று பலரின் பகையைத் தேடிக் கொள்பவனை ஆணவம் பிடித்தவன் என்பதைவிட அறிவிலி என்பதே பொருத்தமாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Quality of Hate (Ministers & Elements of State), Kural 873 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who being alone, incurs the hatred of many is more infatuated than even mad men. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகைத்திறம் தெரிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Quality of Hate' thoughtfully.",
+        "quiz_question_ta": "'பகைத்திறம் தெரிதல்' அதிகாரத்தில் வரும் திருக்குறள் 873 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 873 from Chapter 'Knowing the Quality of Hate'?",
+        "quiz_options_ta": [
+          "நெஞ்சத்தை நிறுத்தி ஆளும் ஆற்றல் இல்லாதவர், தம் நெஞ்சில் வேறுபொருளை விரும்பிக்கூடும் போது மகளிரின் தோளைப் பொருந்துவர்.",
+          "தான் தனியாக இருந்து பலருடைய பகையைத் தேடிக் கொள்பவன், பித்துப் பிடித்தாரை விட அறிவில்லாதவனாகக் கருதப்படுவான்.",
+          "ஒருவனுக்கு நன்மை வேண்டுமானால் நாணம் உடையவனாக வேண்டும், குடியின் உயர்வு வேண்டுமானால் எல்லோரிடத்தும் பணிவு வேண்டும்.",
+          "சேர்த்து வைப்பதையே விரும்பிப் பற்றுள்ளம் கொண்டு புகழை விரும்பாத மக்கள் பிறந்து வாழ்தல் நிலத்திற்கு பாரமே ஆகும்."
+        ],
+        "quiz_options_en": [
+          "Hollow hearts alone desire The arms of whores with hearts elsewere",
+          "Forlorn, who rouses many foes The worst insanity betrays",
+          "All gain good name by modesty Nobility by humility",
+          "A burden he is to earth indeed Who hoards without a worthy deed"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகைத்திறம் தெரிதல்) பகுதியில் குறள் 873 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தான் தனியாக இருந்து பலருடைய பகையைத் தேடிக் கொள்பவன், பித்துப் பிடித்தாரை விட அறிவில்லாதவனாகக் கருதப்படுவான். பரிமேலழகர் உரை நுட்பம்: தமியனாய்ப் பல்லார் பகை கொள்பவன் - தான் தனியனாய் வைத்துப் பலரோடு பகை கொள்வான்; ஏமுற்றவரினும் ஏழை - பித்துற்றாரினும் அறிவிலன். (தனிமை - சுற்றம்,நட்பு, படை முதலிய இன்மை. மயக்கத்தால் ஒப்பாராயினும் ஏமுற்றவர் அதனால் தீங்கு எய்தாமையின் தீங்கெய்துதலுமுடைய இவனை...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 88: 'Knowing the Quality of Hate'), Kural 873 distills a foundational ethical insight: \"Than men of mind diseased, a wretch more utterly forlorn, Is he who stands alone, object of many foeman's scorn\" Philosophically, He who being alone, incurs the hatred of many is more infatuated than even mad men.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "leadership",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 874,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பகையையும் நட்பாக செய்து கொண்டு நடக்கும், பண்புடையவனது பெருந்தன்மையில் உலகம் தங்கியிருப்பதாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Whose worthy rule can change his foes to friends.",
+        "story_title_ta": "பகைத்திறம் தெரிதல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Knowing the Quality of Hate — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகைத்திறம் தெரிதல்' என்ற அதிகாரத்திலிருந்து குறள் 874 பற்றிக் கதை சொன்னார். 'பகையையும் நட்பாக மாற்றி, அவருடன் இணைந்து வாழும் குணம் உடைய ஆட்சியாளரின் பெருமைக்குள் இவ்வுலகம் அடங்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 88, 'Knowing the Quality of Hate', centered on Kural 874: Whose worthy rule can change his foes to friends. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பகைவர்களையும் நண்பர்களாகக் கருதிப் பழகுகின்ற பெருந்தன்மையான பண்பை இந்த உலகமே போற்றிப் புகழும்.",
+        "moral_en": "Moral: The world secure on his dexterity depends, Whose worthy rule can change his foes to friends.",
+        "game_blank_word_ta": "உலகு",
+        "game_options_ta": [
+          "பகைஎன்னும்",
+          "பண்பி",
+          "உலகு",
+          "லதனை"
+        ],
+        "game_options_en": [
+          "Let not one even as a sport The ill-natured enmity court",
+          "Incur the hate of bow-ploughers But not the hate of word-ploughers",
+          "This world goes safely in his grace Whose heart makes friends even of foes",
+          "Forlorn, who rouses many foes The worst insanity betrays"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகைத்திறம் தெரிதல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 874, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகையையும் நட்பாக மாற்றி, அவருடன் இணைந்து வாழும் குணம் உடைய ஆட்சியாளரின் பெருமைக்குள் இவ்வுலகம் அடங்கும். கலைஞர் உரை கூறுவது: பகைவர்களையும் நண்பர்களாகக் கருதிப் பழகுகின்ற பெருந்தன்மையான பண்பை இந்த உலகமே போற்றிப் புகழும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Quality of Hate (Ministers & Elements of State), Kural 874 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Whose worthy rule can change his foes to friends. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகைத்திறம் தெரிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Quality of Hate' thoughtfully.",
+        "quiz_question_ta": "'பகைத்திறம் தெரிதல்' அதிகாரத்தில் வரும் திருக்குறள் 874 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 874 from Chapter 'Knowing the Quality of Hate'?",
+        "quiz_options_ta": [
+          "வஞ்சம் நிறைந்த பொதுமகளிரின் சேர்க்கை, ஆராய்ந்தறியும் அறிவு இல்லாதவற்க்கு அணங்கு தாக்கு(மோகினி மயக்கு) என்று கூறுவர்.",
+          "இன்றியமையாத சிறப்பை உடைய செயல்களே ஆயினும் குடிப்பெருமை தாழுமாறு வரும் செயல்களை ஒருவன் செய்யாமல் விட வேண்டும்.",
+          "பகையையும் நட்பாக செய்து கொண்டு நடக்கும், பண்புடையவனது பெருந்தன்மையில் உலகம் தங்கியிருப்பதாகும்.",
+          "பிறர்க்கு உதவியாக வாழாதக் காரணத்தால் ஒருவராலும் விரும்பப்படாதவன் , தான் இறந்த பிறகு எஞ்சி நிற்பது என்று எதனை எண்ணுவானே."
+        ],
+        "quiz_options_en": [
+          "Senseless fools are lured away By arms of sirens who lead astray",
+          "Though needed for your life in main, From mean degrading acts refrain",
+          "This world goes safely in his grace Whose heart makes friends even of foes",
+          "What legacy can he leave behind Who is for approach too unkind"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகைத்திறம் தெரிதல்) பகுதியில் குறள் 874 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பகையையும் நட்பாக செய்து கொண்டு நடக்கும், பண்புடையவனது பெருந்தன்மையில் உலகம் தங்கியிருப்பதாகும். பரிமேலழகர் உரை நுட்பம்: கை நட்பாக் கொண்டு ஒழுகும் பண்புடையாளன் தகைமைக்கண் - வேண்டியவழிப் பகையை வேறுபடுத்துத் தனக்கு நட்பாகச் செய்துகொண்டொழுகும் இயல்பினையுடைய அரசனது பெருமையுள்ளே; தங்கிற்று உலகு - அடங்கிற்று இவ்வுலகு. (வேண்டியவழி என்பது ஆக்கத்தான் வந்தது. வேறுபடுத்தல் - பகை...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 88: 'Knowing the Quality of Hate'), Kural 874 distills a foundational ethical insight: \"The world secure on his dexterity depends, Whose worthy rule can change his foes to friends\" Philosophically, Whose worthy rule can change his foes to friends.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "courage",
+        "friendship",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 875,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தனக்கு உதவியான துணையே இல்லை, பகையே இரண்டு, தானே ஒருவன் இந் நிலையில் அப் பகைகளில் ஒன்றை இனியத் துணையாகக் கொள்ள வேண்டும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: He who is alone and helpless while his foes are two should secure one of them as an agreeable help (to himself).",
+        "story_title_ta": "பகைத்திறம் தெரிதல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Knowing the Quality of Hate — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகைத்திறம் தெரிதல்' என்ற அதிகாரத்திலிருந்து குறள் 875 பற்றிக் கதை சொன்னார். 'தமக்கோ உதவும் நண்பர் இல்லை; தம்மைப் பகைப்பவரோ இருவர்; அப்போது தனியாக இருக்கும் ஆட்சியாளர், தம்மைப் பகைக்கும் இருவருள் ஒருவனை இனிய நட்பாக மாற்றிக் கொள்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 88, 'Knowing the Quality of Hate', centered on Kural 875: He who is alone and helpless while his foes are two should secure one of them as an agreeable help (to himself). Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தனது பகைவர்கள் இரு பிரிவினராக இயங்கும் நிலையில் தனக்குத் துணையாக யாருமின்றித் தனியாக இருப்பவர், அந்தப் பகைவர்களில் ஒருவரைத் துணையாகக் கொள்ள வேண்டும்.",
+        "moral_en": "Moral: Without ally, who fights with twofold enemy o'ermatched, Must render one of these a friend attached.",
+        "game_blank_word_ta": "தன்துணை",
+        "game_options_ta": [
+          "பகைஎன்னும்",
+          "பண்பி",
+          "லதனை",
+          "தன்துணை"
+        ],
+        "game_options_en": [
+          "Let not one even as a sport The ill-natured enmity court",
+          "Incur the hate of bow-ploughers But not the hate of word-ploughers",
+          "Forlorn, who rouses many foes The worst insanity betrays",
+          "Alone, if two foes you oppose Make one of them your ally close"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகைத்திறம் தெரிதல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 875, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தமக்கோ உதவும் நண்பர் இல்லை; தம்மைப் பகைப்பவரோ இருவர்; அப்போது தனியாக இருக்கும் ஆட்சியாளர், தம்மைப் பகைக்கும் இருவருள் ஒருவனை இனிய நட்பாக மாற்றிக் கொள்க. கலைஞர் உரை கூறுவது: தனது பகைவர்கள் இரு பிரிவினராக இயங்கும் நிலையில் தனக்குத் துணையாக யாருமின்றித் தனியாக இருப்பவர், அந்தப் பகைவர்களில் ஒருவரைத் துணையாகக் கொள்ள வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Quality of Hate (Ministers & Elements of State), Kural 875 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who is alone and helpless while his foes are two should secure one of them as an agreeable help (to himself). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகைத்திறம் தெரிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Quality of Hate' thoughtfully.",
+        "quiz_question_ta": "'பகைத்திறம் தெரிதல்' அதிகாரத்தில் வரும் திருக்குறள் 875 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 875 from Chapter 'Knowing the Quality of Hate'?",
+        "quiz_options_ta": [
+          "ஒழுக்க வரையரை இல்லாத பொது மகளிரின் மெல்லிய தோள், உயர்வில்லாத கீழ்மக்கள் ஆழ்ந்து கிடக்கின்ற நரகமாகும்.",
+          "புகழோடு பெரிய ஆண்மையும் விரும்புகின்றவர், புகழ் தோடும் வழியிலும் குடிப்பெருமைக்கு ஒவ்வாத செயல்களைச் செய்யமாட்டார்.",
+          "பிறர்க்கு கொடுத்து உதவுவதும் தான் நுகர்வதும் இல்லாதவர்க்கு மேன் மேலும் பெருகிய பல கோடிப் பொருள் உண்டானாலும் பயன் இல்லை.",
+          "தனக்கு உதவியான துணையே இல்லை, பகையே இரண்டு, தானே ஒருவன் இந் நிலையில் அப் பகைகளில் ஒன்றை இனியத் துணையாகக் கொள்ள வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "The soft jewelled arms of whores are hell Into which the degraded fall",
+          "Who seek honour and manly fame Don't do mean deeds even for name",
+          "What is the good of crores they hoard To give and enjoy whose heart is hard",
+          "Alone, if two foes you oppose Make one of them your ally close"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகைத்திறம் தெரிதல்) பகுதியில் குறள் 875 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தனக்கு உதவியான துணையே இல்லை, பகையே இரண்டு, தானே ஒருவன் இந் நிலையில் அப் பகைகளில் ஒன்றை இனியத் துணையாகக் கொள்ள வேண்டும். பரிமேலழகர் உரை நுட்பம்: தன்துணை இன்று - தனக்கு உதவும் துணையே எனில் இல்லை; பகை இரண்டு - நலிவு செய்யும் பகையோ எனின் இரண்டு; ஓருவன்தான் அவற்றின் ஒன்று இன்துணையாக் கொள்க - அங்ஙனமாய் நின்றவழி, ஒருவனாகிய தான் அப்பகை இரண்டனுள் பொருந்தியது ஒன்றை அப்பொழுதைக்கு இனிய துணையாகச் செய்து கொள்க...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 88: 'Knowing the Quality of Hate'), Kural 875 distills a foundational ethical insight: \"Without ally, who fights with twofold enemy o'ermatched, Must render one of these a friend attached\" Philosophically, He who is alone and helpless while his foes are two should secure one of them as an agreeable help (to himself).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "friendship",
+        "leadership",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 876,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: இதற்கு முன் ஒருவனைப் பற்றி ஆராய்ந்து தெளிந்திருந்தாலும், தெளியாவிட்டாலும் அழிவு வந்த காலத்தில் அவனைத் தெளியாமலும் நீங்காமலும் வாளாவிட வேண்டும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Though (one's foe is) aware or not of one's misfortune one should act so as neither to join nor separate (from him).",
+        "story_title_ta": "பகைத்திறம் தெரிதல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Knowing the Quality of Hate — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகைத்திறம் தெரிதல்' என்ற அதிகாரத்திலிருந்து குறள் 876 பற்றிக் கதை சொன்னார். 'ஒருவனது பகையை முன்பே தெரிந்தோ தெரியாமலோ இருந்தாலும், நெருக்கடி வந்தபோது, அவனை நெருங்காமலும் விலக்காமலும் விட்டு விடுக.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 88, 'Knowing the Quality of Hate', centered on Kural 876: Though (one's foe is) aware or not of one's misfortune one should act so as neither to join nor separate (from him). Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பகைவரைப்பற்றி ஆராய்ந்து தெளிவடைந்திருந்தாலும், இல்லாவிட்டாலும் அதற்கிடையே ஒரு கேடு வரும்போது அந்தப் பகைவருடன் அதிகம் நெருங்காமல் நட்புக் காட்டியும் அவர்களைப் பிரிந்து விடாமலேயே பகை கொண்டும் இருப்பதே நலமாகும்.",
+        "moral_en": "Moral: Whether you trust or not, in time of sore distress, Questions of diff'rence or agreement cease to press.",
+        "game_blank_word_ta": "தேறினும்",
+        "game_options_ta": [
+          "தேறினும்",
+          "பகைஎன்னும்",
+          "பண்பி",
+          "லதனை"
+        ],
+        "game_options_en": [
+          "Trust or distrust; during distress Keep aloof; don't mix with foes",
+          "Let not one even as a sport The ill-natured enmity court",
+          "Incur the hate of bow-ploughers But not the hate of word-ploughers",
+          "Forlorn, who rouses many foes The worst insanity betrays"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகைத்திறம் தெரிதல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 876, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவனது பகையை முன்பே தெரிந்தோ தெரியாமலோ இருந்தாலும், நெருக்கடி வந்தபோது, அவனை நெருங்காமலும் விலக்காமலும் விட்டு விடுக. கலைஞர் உரை கூறுவது: பகைவரைப்பற்றி ஆராய்ந்து தெளிவடைந்திருந்தாலும், இல்லாவிட்டாலும் அதற்கிடையே ஒரு கேடு வரும்போது அந்தப் பகைவருடன் அதிகம் நெருங்காமல் நட்புக் காட்டியும் அவர்களைப் பிரிந்து விடாமலேயே பகை கொண்டும் இருப்பதே நலமாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Quality of Hate (Ministers & Elements of State), Kural 876 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though (one's foe is) aware or not of one's misfortune one should act so as neither to join nor separate (from him). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகைத்திறம் தெரிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Quality of Hate' thoughtfully.",
+        "quiz_question_ta": "'பகைத்திறம் தெரிதல்' அதிகாரத்தில் வரும் திருக்குறள் 876 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 876 from Chapter 'Knowing the Quality of Hate'?",
+        "quiz_options_ta": [
+          "இதற்கு முன் ஒருவனைப் பற்றி ஆராய்ந்து தெளிந்திருந்தாலும், தெளியாவிட்டாலும் அழிவு வந்த காலத்தில் அவனைத் தெளியாமலும் நீங்காமலும் வாளாவிட வேண்டும்.",
+          "இருவகைப்பட்ட மனம் உடைய பொது மகளிரும், கள்ளும் சூதுமாகிய இவ் மூவகையும் திருமகளால் நீக்கப்பட்டவரின் உறவாகும்.",
+          "செல்வம் பெருகியுள்ள காலத்தில் ஒருவனுக்குப் பண்பு வேண்டும், செல்வம் குறைந்து சுருங்கும் வறுமையுள்ள காலத்தில் பணியாத உயர்வு வேண்டும்.",
+          "தானும் நுகராமல் தக்கவற்க்கு ஒன்று கொடுத்து உதவும் இயல்பும் இல்லாமல் வாழ்கின்றவன், தன்னிடமுள்ள பெருஞ் செல்வத்திற்கு ஒரு நோய் ஆவான்."
+        ],
+        "quiz_options_en": [
+          "Trust or distrust; during distress Keep aloof; don't mix with foes",
+          "Double-minded whores, wine and dice Are lures of those whom fortune flies",
+          "Be humble in prosperity In decline uphold dignity",
+          "Great wealth unused for oneself nor To worthy men is but a slur"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகைத்திறம் தெரிதல்) பகுதியில் குறள் 876 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இதற்கு முன் ஒருவனைப் பற்றி ஆராய்ந்து தெளிந்திருந்தாலும், தெளியாவிட்டாலும் அழிவு வந்த காலத்தில் அவனைத் தெளியாமலும் நீங்காமலும் வாளாவிட வேண்டும். பரிமேலழகர் உரை நுட்பம்: தேறினும் தேறாவிடினும் - பகவைனை முன் தௌ¤ந்தானாயினும் தௌ¤ந்திலனாயினும்: அழிவின்கண் தேறான் பகான்விடல் - தனக்குப புறத்தொரு வினையால் தாழ்வு வந்துழிக் கூடாது நீக்காது இடையே விட்டு வைக்க. (முன் 'தௌ¤ந்தான் ஆயினும், அப்பொழுது கூடாதொழிக' என்றது,. உள்ளாய் நின்று...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 88: 'Knowing the Quality of Hate'), Kural 876 distills a foundational ethical insight: \"Whether you trust or not, in time of sore distress, Questions of diff'rence or agreement cease to press\" Philosophically, Though (one's foe is) aware or not of one's misfortune one should act so as neither to join nor separate (from him).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "love",
+        "friendship",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 877,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: துன்புற்றதைத் தாமாகவே அறியாத நண்பர்க்குத் துன்பத்தைச் சொல்லக் கூடாது, பகைவரிடத்தில் மென்மை மேற்கொள்ளக் கூடாது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Relate not your suffering even to friends who are ignorant of it, nor refer to your weakness in the presence of your foes.",
+        "story_title_ta": "பகைத்திறம் தெரிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Knowing the Quality of Hate — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகைத்திறம் தெரிதல்' என்ற அதிகாரத்திலிருந்து குறள் 877 பற்றிக் கதை சொன்னார். 'நம் பலம் இன்மையை, தாமாக அறியாத நண்பர்களிடம் சொல்ல வேண்டா; பகைவர்களிடமோ அதைக் காட்டிக் கொள்ளவோ வேண்டா.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 88, 'Knowing the Quality of Hate', centered on Kural 877: Relate not your suffering even to friends who are ignorant of it, nor refer to your weakness in the presence of your foes. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தனது துன்பத்தைப் பற்றி அதனை அறியாமல் இருக்கும் நண்பர்களிடம் சொல்லக்கூடாது தனது பலவீனத்தைப் பகைவரிடம் வெளிப்படுத்திவிடக் கூடாது.",
+        "moral_en": "Moral: To those who know them not, complain not of your woes; Nor to your foeman's eyes infirmities disclose.",
+        "game_blank_word_ta": "அறியார்க்கு",
+        "game_options_ta": [
+          "பகைஎன்னும்",
+          "அறியார்க்கு",
+          "பண்பி",
+          "லதனை"
+        ],
+        "game_options_en": [
+          "Let not one even as a sport The ill-natured enmity court",
+          "To those who know not, tell not your pain Nor your weakness to foes explain",
+          "Incur the hate of bow-ploughers But not the hate of word-ploughers",
+          "Forlorn, who rouses many foes The worst insanity betrays"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகைத்திறம் தெரிதல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 877, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நம் பலம் இன்மையை, தாமாக அறியாத நண்பர்களிடம் சொல்ல வேண்டா; பகைவர்களிடமோ அதைக் காட்டிக் கொள்ளவோ வேண்டா. கலைஞர் உரை கூறுவது: தனது துன்பத்தைப் பற்றி அதனை அறியாமல் இருக்கும் நண்பர்களிடம் சொல்லக்கூடாது தனது பலவீனத்தைப் பகைவரிடம் வெளிப்படுத்திவிடக் கூடாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Quality of Hate (Ministers & Elements of State), Kural 877 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Relate not your suffering even to friends who are ignorant of it, nor refer to your weakness in the presence of your foes. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகைத்திறம் தெரிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Quality of Hate' thoughtfully.",
+        "quiz_question_ta": "'பகைத்திறம் தெரிதல்' அதிகாரத்தில் வரும் திருக்குறள் 877 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 877 from Chapter 'Knowing the Quality of Hate'?",
+        "quiz_options_ta": [
+          "கள்ளின் மேல் விருப்பம் கொண்டு நடப்பவர், எக்காலத்திலும் பகைவரால் அஞ்சப்படார், தமக்கு உள்ள புகழையும் இழந்து விடுவார்.",
+          "துன்புற்றதைத் தாமாகவே அறியாத நண்பர்க்குத் துன்பத்தைச் சொல்லக் கூடாது, பகைவரிடத்தில் மென்மை மேற்கொள்ளக் கூடாது.",
+          "மக்கள் தம் உயர்வுக்கு உரிய நிலையிலிருந்து தாழ்ந்த போது, தலைமையிலிருந்து விழுந்து தாழ்வுற்ற மயிரினைப் போன்றவர் ஆவர்.",
+          "பொருள் இல்லாத வறியவர்க்கு ஒரு பொருள் கொடுத்து உதவாதவனுடையச் செல்வம், மிக்க அழகு பெற்றவள் தனியாக வாழ்ந்து முதுமையுற்றாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Foes fear not who for toddy craze The addicts daily their glory lose",
+          "To those who know not, tell not your pain Nor your weakness to foes explain",
+          "Like hair fallen from head are those Who fall down from their high status",
+          "Who loaths to help have-nots, his gold Is like a spinster-belle grown old"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகைத்திறம் தெரிதல்) பகுதியில் குறள் 877 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: துன்புற்றதைத் தாமாகவே அறியாத நண்பர்க்குத் துன்பத்தைச் சொல்லக் கூடாது, பகைவரிடத்தில் மென்மை மேற்கொள்ளக் கூடாது. பரிமேலழகர் உரை நுட்பம்: நொந்தது அறியார்க்கு நோவற்க - நொந்¢ததனைத் தாமாக அறியாத நட்டார்க்குத் தன் நோவு சொல்லற்க: மென்மை பகைவர் அகத்து மேவற்க - வலியின்மை பார்த்திருக்கும் பகைவர்மாட்டு அவ்வலியின்மையை மேலிட்டுக் கொள்ளற்க. ('நோவு' என்னும் முதனிலைத் தொழிற் பெயர், ஈண்டு அது சொல்லுதற்கண...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 88: 'Knowing the Quality of Hate'), Kural 877 distills a foundational ethical insight: \"To those who know them not, complain not of your woes; Nor to your foeman's eyes infirmities disclose\" Philosophically, Relate not your suffering even to friends who are ignorant of it, nor refer to your weakness in the presence of your foes.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "friendship",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 878,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: செய்யும் வகையை அறிந்து தன்னை வலிமைப்படுத்திக் கொண்டு தற்காப்புத் தேடிக் கொண்டால், பகைவரிடத்தில் ஏற்பட்ட செருக்குத் தானாவே அழியும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The joy of one's foes will be destroyed if one guards oneself by knowing the way (of acting) and securing assistance.",
+        "story_title_ta": "பகைத்திறம் தெரிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Knowing the Quality of Hate — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகைத்திறம் தெரிதல்' என்ற அதிகாரத்திலிருந்து குறள் 878 பற்றிக் கதை சொன்னார். 'ஒரு செ‌யலைச் செய்ய வேண்டிய முறையை அறிந்து, நம்மைப் பலப்படுத்துவதுடன் ரகசியங்களையும் நாம் காத்துக் கொண்டால், பகைவர் தங்கள் மனத்துள் நம்மை எதிர்க்க எண்ணிய ‌செருக்கு அழியும்‌.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 88, 'Knowing the Quality of Hate', centered on Kural 878: The joy of one's foes will be destroyed if one guards oneself by knowing the way (of acting) and securing assistance. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வழிவகை உணர்ந்து, தன்னையும் வலிமைப்படுத்திக் கொண்டு, தற்காப்பும் தேடிக் கொண்டவரின் முன்னால் பகையின் ஆணவம் தானாகவே ஒடுங்கி விடும்.",
+        "moral_en": "Moral: Know thou the way, then do thy part, thyself defend; Thus shall the pride of those that hate thee have an end.",
+        "game_blank_word_ta": "மாயும்",
+        "game_options_ta": [
+          "பகைஎன்னும்",
+          "பண்பி",
+          "மாயும்",
+          "லதனை"
+        ],
+        "game_options_en": [
+          "Let not one even as a sport The ill-natured enmity court",
+          "Incur the hate of bow-ploughers But not the hate of word-ploughers",
+          "Know how and act and defend well The pride of enemies shall fall",
+          "Forlorn, who rouses many foes The worst insanity betrays"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகைத்திறம் தெரிதல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 878, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு செ‌யலைச் செய்ய வேண்டிய முறையை அறிந்து, நம்மைப் பலப்படுத்துவதுடன் ரகசியங்களையும் நாம் காத்துக் கொண்டால், பகைவர் தங்கள் மனத்துள் நம்மை எதிர்க்க எண்ணிய ‌செருக்கு அழியும்‌. கலைஞர் உரை கூறுவது: வழிவகை உணர்ந்து, தன்னையும் வலிமைப்படுத்திக் கொண்டு, தற்காப்பும் தேடிக் கொண்டவரின் முன்னால் பகையின் ஆணவம் தானாகவே ஒடுங்கி விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Quality of Hate (Ministers & Elements of State), Kural 878 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The joy of one's foes will be destroyed if one guards oneself by knowing the way (of acting) and securing assistance. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகைத்திறம் தெரிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Quality of Hate' thoughtfully.",
+        "quiz_question_ta": "'பகைத்திறம் தெரிதல்' அதிகாரத்தில் வரும் திருக்குறள் 878 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 878 from Chapter 'Knowing the Quality of Hate'?",
+        "quiz_options_ta": [
+          "கள்ளை உண்ணக் கூடாது, சான்றோரால் நன்கு எண்ணப்படுவதை விரும்பாதவர் கள்ளை உண்ண வேண்டுமானால் உண்ணலாம்.",
+          "மலை போல் உயர்ந்த நிலையில் உள்ளவரும், தாழ்வுக்கு காரணமானச் செயல்களை ஒரு குன்றிமனி அளவு செய்தாலும் தாழ்ந்து போய் விடுவர்.",
+          "செய்யும் வகையை அறிந்து தன்னை வலிமைப்படுத்திக் கொண்டு தற்காப்புத் தேடிக் கொண்டால், பகைவரிடத்தில் ஏற்பட்ட செருக்குத் தானாவே அழியும்.",
+          "பிறர்க்கு உதவாத காரணத்தால் ஒருவராலும் விரும்பப்படாதவனுடைய செல்வம், ஊர் நடுவில் நச்சு மரம் பழுத்தாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Drink not liquor; but let them drink Whom with esteem the wise won't think",
+          "Even hill-like men will sink to nought With abrus-grain-like small default",
+          "Know how and act and defend well The pride of enemies shall fall",
+          "The idle wealth of unsought men Is poison-fruit-tree amidst a town"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகைத்திறம் தெரிதல்) பகுதியில் குறள் 878 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செய்யும் வகையை அறிந்து தன்னை வலிமைப்படுத்திக் கொண்டு தற்காப்புத் தேடிக் கொண்டால், பகைவரிடத்தில் ஏற்பட்ட செருக்குத் தானாவே அழியும். பரிமேலழகர் உரை நுட்பம்: வகை அறிந்து தற் செய்து தற் காப்ப - தான் வினை செய்யும் வகையை அறிந்து அது முடித்தற்கு ஏற்பத் தன்னைப் பெருக்கி மறவி புகாமல் தன்னைக் காக்கவே; பகைவர்கண் பட்ட செருக்கு மாயும் - தன் பகைவர் மாட்டு உளதாய களிப்புக் கெடும். (வகை - வலியனாய்த் தான் எதிரே பொருமாறும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 88: 'Knowing the Quality of Hate'), Kural 878 distills a foundational ethical insight: \"Know thou the way, then do thy part, thyself defend; Thus shall the pride of those that hate thee have an end\" Philosophically, The joy of one's foes will be destroyed if one guards oneself by knowing the way (of acting) and securing assistance.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "humility",
+        "love",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 879,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: முள் மரத்தை இளையதாக இருக்கும் போதே வெட்ட வேண்டும், காழ்ப்பு ஏறி முதிர்ந்த போது வெட்டுகின்றவரின் கையை அது வருத்தும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: A thorny tree should be felled while young, (for) when it is grown it will destroy the hand of the feller.",
+        "story_title_ta": "பகைத்திறம் தெரிதல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Knowing the Quality of Hate — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகைத்திறம் தெரிதல்' என்ற அதிகாரத்திலிருந்து குறள் 879 பற்றிக் கதை சொன்னார். 'நம்மை அழி்க்க எண்ணும் முள் மரத்தை அது வளரும்போதே அழி்த்து விடுக; வளர்ந்து விட்டால் அழிக்க எண்ணுபவரின் கையை அது அழிக்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 88, 'Knowing the Quality of Hate', centered on Kural 879: A thorny tree should be felled while young, (for) when it is grown it will destroy the hand of the feller. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: முள்மரத்தை, அது சிறிய கன்றாக இருக்கும்போதே கிள்ளி எறிவது போல, பகையையும், அது முற்றுவதற்கு முன்பே வீழ்த்திட வேண்டும்.",
+        "moral_en": "Moral: Destroy the thorn, while tender point can work thee no offence; Matured by time, 'twill pierce the hand that plucks it thence.",
+        "game_blank_word_ta": "கைகொல்லும்",
+        "game_options_ta": [
+          "பகைஎன்னும்",
+          "பண்பி",
+          "லதனை",
+          "கைகொல்லும்"
+        ],
+        "game_options_en": [
+          "Let not one even as a sport The ill-natured enmity court",
+          "Incur the hate of bow-ploughers But not the hate of word-ploughers",
+          "Forlorn, who rouses many foes The worst insanity betrays",
+          "Cut off thorn-trees when young they are; Grown hard, they cut your hands beware"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகைத்திறம் தெரிதல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 879, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நம்மை அழி்க்க எண்ணும் முள் மரத்தை அது வளரும்போதே அழி்த்து விடுக; வளர்ந்து விட்டால் அழிக்க எண்ணுபவரின் கையை அது அழிக்கும். கலைஞர் உரை கூறுவது: முள்மரத்தை, அது சிறிய கன்றாக இருக்கும்போதே கிள்ளி எறிவது போல, பகையையும், அது முற்றுவதற்கு முன்பே வீழ்த்திட வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Quality of Hate (Ministers & Elements of State), Kural 879 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A thorny tree should be felled while young, (for) when it is grown it will destroy the hand of the feller. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகைத்திறம் தெரிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Quality of Hate' thoughtfully.",
+        "quiz_question_ta": "'பகைத்திறம் தெரிதல்' அதிகாரத்தில் வரும் திருக்குறள் 879 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 879 from Chapter 'Knowing the Quality of Hate'?",
+        "quiz_options_ta": [
+          "பெற்றதாயின் முகத்திலும் கள்ளுண்டு மயங்குதல் துன்பம் தருவதாகும், அப்படியானால் குற்றம் கடியும் இயல்புடைய சான்றோரின் முகத்தில் அது எண்ணவாகும்.",
+          "மதியாமல் இகழ்கின்றவரின் பின் சென்று பணிந்து நிற்க்கும் நிலை, ஒருவனுக்கு புகழும் தராது, தேவருலகிலும் செலுத்தாது, வேறு பயன் என்ன.",
+          "பிறரிடம் செலுத்தும் அன்பையும் விட்டுத் தன்னையும் வருத்தி அறத்தையும் போற்றாமல் சேர்த்து வைத்தப் பெரும் பொருளைப் பெற்று நுகர்பவர் மற்றவரே.",
+          "முள் மரத்தை இளையதாக இருக்கும் போதே வெட்ட வேண்டும், காழ்ப்பு ஏறி முதிர்ந்த போது வெட்டுகின்றவரின் கையை அது வருத்தும்."
+        ],
+        "quiz_options_en": [
+          "The drunkard's joy pains ev'n mother's face How vile must it look for the wise?",
+          "Why fawn on men that scorn you here It yields no fame, heaven's bliss neither",
+          "Others usurp the shining gold In loveless, stingy, vicious hold",
+          "Cut off thorn-trees when young they are; Grown hard, they cut your hands beware"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகைத்திறம் தெரிதல்) பகுதியில் குறள் 879 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முள் மரத்தை இளையதாக இருக்கும் போதே வெட்ட வேண்டும், காழ்ப்பு ஏறி முதிர்ந்த போது வெட்டுகின்றவரின் கையை அது வருத்தும். பரிமேலழகர் உரை நுட்பம்: முள்மரம் இளைதாகக் கொல்க - களைய வேண்டுவதாய முள்மரத்தை இளைதாய நிலைமைக்கண் களைக; காழ்த்த இடத்துக் களையுநர் கைகொல்லும் - அன்றியே முதிர்ந்த நிலைமைக்கண் களையலுறின் களைவார் கையினை அதுதான் களையும். (களைப்படுவதாய தம் பகையை அது மெலிதாய காலத்தே களைக, அன்றியே, வலிதாய...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 88: 'Knowing the Quality of Hate'), Kural 879 distills a foundational ethical insight: \"Destroy the thorn, while tender point can work thee no offence; Matured by time, 'twill pierce the hand that plucks it thence\" Philosophically, A thorny tree should be felled while young, (for) when it is grown it will destroy the hand of the feller.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "time",
+        "education",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 880,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பகைத்தவருடையத் தலைமையைக் கொடுக்க முடியாதவர் திண்ணமாக மூச்சு விடும் அளவிற்கும் உயிரோடு வாழ்கின்றவர் அல்லர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Those who do not destroy the pride of those who hate (them) will certainly not exist even to breathe.",
+        "story_title_ta": "பகைத்திறம் தெரிதல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Knowing the Quality of Hate — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகைத்திறம் தெரிதல்' என்ற அதிகாரத்திலிருந்து குறள் 880 பற்றிக் கதை சொன்னார். 'நம்மைப் பகைப்பவரின் செருக்கை ஏளனமாய் எண்ணி அழிக்காமல் விடுபவர், மூச்சு விடும் நேரத்திற்குள் பகைவரால் நிச்சயம் அழிக்கப்பவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 88, 'Knowing the Quality of Hate', centered on Kural 880: Those who do not destroy the pride of those who hate (them) will certainly not exist even to breathe. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பகைவரின் ஆணவத்தைக் குலைக்க முடியாதவர்கள், சுவாசிக்கிற காரணத்தினாலேயே, உயிரோடிருப்பதாக நிச்சயமாகச் சொல்ல முடியாது.",
+        "moral_en": "Moral: But breathe upon them, and they surely die, Who fail to tame the pride of angry enemy.",
+        "game_blank_word_ta": "செம்மல்",
+        "game_options_ta": [
+          "செம்மல்",
+          "பகைஎன்னும்",
+          "பண்பி",
+          "லதனை"
+        ],
+        "game_options_en": [
+          "To breathe on earth they are not fit Defying foes who don't defeat",
+          "Let not one even as a sport The ill-natured enmity court",
+          "Incur the hate of bow-ploughers But not the hate of word-ploughers",
+          "Forlorn, who rouses many foes The worst insanity betrays"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகைத்திறம் தெரிதல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 880, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நம்மைப் பகைப்பவரின் செருக்கை ஏளனமாய் எண்ணி அழிக்காமல் விடுபவர், மூச்சு விடும் நேரத்திற்குள் பகைவரால் நிச்சயம் அழிக்கப்பவர். கலைஞர் உரை கூறுவது: பகைவரின் ஆணவத்தைக் குலைக்க முடியாதவர்கள், சுவாசிக்கிற காரணத்தினாலேயே, உயிரோடிருப்பதாக நிச்சயமாகச் சொல்ல முடியாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Quality of Hate (Ministers & Elements of State), Kural 880 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who do not destroy the pride of those who hate (them) will certainly not exist even to breathe. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகைத்திறம் தெரிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Quality of Hate' thoughtfully.",
+        "quiz_question_ta": "'பகைத்திறம் தெரிதல்' அதிகாரத்தில் வரும் திருக்குறள் 880 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 880 from Chapter 'Knowing the Quality of Hate'?",
+        "quiz_options_ta": [
+          "பகைத்தவருடையத் தலைமையைக் கொடுக்க முடியாதவர் திண்ணமாக மூச்சு விடும் அளவிற்கும் உயிரோடு வாழ்கின்றவர் அல்லர்.",
+          "நாணம் என்று சொல்லப்படும் நல்லவள், கள் என்று சொல்லப்படும் விரும்பத்தக்காத பெருங்குற்றம் உடையவர்க்கு எதிரே நிற்காமல் செய்வாள்.",
+          "மதியாதவரின் பின் சென்று ஒருவன் உயிர்வாழ்வதை விட, அவ்வாறு செய்யாத நிலையில் நின்று அழிந்தான் என்று சொல்லப்படுதல் நல்லது.",
+          "புகழ் பொருந்திய செல்வர் உற்ற சிறிய வறுமை உலகத்தைக் காக்க வல்ல மேகம் வறுமை மிகுந்தாற் போன்ற தன்மை உடையது."
+        ],
+        "quiz_options_en": [
+          "To breathe on earth they are not fit Defying foes who don't defeat",
+          "Good shame turns back from him ashamed Who is guilty of wine condemned",
+          "Better it is to die forlorn Than live as slaves of those who scorn",
+          "The brief want of the rich benign Is like rainclouds growing thin"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகைத்திறம் தெரிதல்) பகுதியில் குறள் 880 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பகைத்தவருடையத் தலைமையைக் கொடுக்க முடியாதவர் திண்ணமாக மூச்சு விடும் அளவிற்கும் உயிரோடு வாழ்கின்றவர் அல்லர். பரிமேலழகர் உரை நுட்பம்: செயிர்ப்பவர் செம்மல் சிதைக்கலாதார் - தம்மொடு பகைப்பாரது தருக்கினைக் கெடுக்கலாய் இருக்க இகழ்ச்சியான் அது செய்யாத அரசர்; உயிர்ப்ப உளரல்லர் மன்ற - பின் உயிர்க்கு மாத்திரத்திற்கும் உளரல்லர் ஒருதலையாக. (அவர் வலியராய்த் தம்மைக் களைதல் ஒருதலையாகலின், இறந்தாரேயாவர...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 88: 'Knowing the Quality of Hate'), Kural 880 distills a foundational ethical insight: \"But breathe upon them, and they surely die, Who fail to tame the pride of angry enemy\" Philosophically, Those who do not destroy the pride of those who hate (them) will certainly not exist even to breathe.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "leadership",
+        "education",
+        "humility"
+      ]
+    }
+  ]
+}

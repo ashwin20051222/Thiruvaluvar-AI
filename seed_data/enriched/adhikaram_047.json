@@ -1,0 +1,583 @@
+{
+  "adhikaram_id": 47,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.874405841+00:00",
+  "kurals": [
+    {
+      "kural_number": 461,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: (ஒரு செயலைத் தொடங்குமுன்) அதனால் அழிவதையும் அழிந்த பின் ஆவதையும், பின்பு உண்டாகும் ஊதியத்தையும் ஆராய்ந்து செய்ய வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Let a man reflect on what will be lost, what will be acquired and (from these) what will be his ultimate gain, and (then, let him) act.",
+        "story_title_ta": "தெரிந்து செயல்வகை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Acting after due Consideration — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 461 பற்றிக் கதை சொன்னார். 'ஒரு செயலைச் செய்யும்போது வரும் நட்டத்தையும், பின் விளைவையும் பார்த்து, அதற்குப்பின் வரும் லாபத்தையும் கணக்கிட்டுச் செய்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 47, 'Acting after due Consideration', centered on Kural 461: Let a man reflect on what will be lost, what will be acquired and (from these) what will be his ultimate gain, and (then, let him) act. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எந்த அளவுக்கு நன்மை கிடைக்கும் அல்லது தீமை ஏற்படும் என்று விளைவுகளைக் கணக்குப் பார்த்த பிறதே ஒரு செயலில் இறங்க வேண்டும்.",
+        "moral_en": "Moral: Expenditure, return, and profit of the deedIn time to come; weigh these- than to the act proceed.",
+        "game_blank_word_ta": "செயல்",
+        "game_options_ta": [
+          "தெரிந்த",
+          "செயல்",
+          "இனத்தொடு",
+          "தேர்ந்தெண்ணிச்"
+        ],
+        "game_options_en": [
+          "Nothing is hard for him who acts With worthy counsels weighing facts",
+          "Weigh well output the loss and gain And proper action ascertain",
+          "The wise risk not their capital In doubtful gains and lose their all",
+          "They who scornful reproach fear Commence no work not made clear"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து செயல்வகை (அரசியல்) பிரிவில் அமைந்த குறள் 461, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு செயலைச் செய்யும்போது வரும் நட்டத்தையும், பின் விளைவையும் பார்த்து, அதற்குப்பின் வரும் லாபத்தையும் கணக்கிட்டுச் செய்க. கலைஞர் உரை கூறுவது: எந்த அளவுக்கு நன்மை கிடைக்கும் அல்லது தீமை ஏற்படும் என்று விளைவுகளைக் கணக்குப் பார்த்த பிறதே ஒரு செயலில் இறங்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Acting after due Consideration (Royalty & Polity), Kural 461 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let a man reflect on what will be lost, what will be acquired and (from these) what will be his ultimate gain, and (then, let him) act. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Acting after due Consideration' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 461 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 461 from Chapter 'Acting after due Consideration'?",
+        "quiz_options_ta": [
+          "(மக்களுடைய குணங்களாலாகிய) பெருமைக்கும் (குற்றங்களாலாகிய) சிறுமைக்கும் தேர்ந்தறியும் உரைக் கல்லாக இருப்பவை அவரவருடைய செயல்களே ஆகும்.",
+          "(ஒரு செயலைத் தொடங்குமுன்) அதனால் அழிவதையும் அழிந்த பின் ஆவதையும், பின்பு உண்டாகும் ஊதியத்தையும் ஆராய்ந்து செய்ய வேண்டும்.",
+          "எளிய செவ்வி உடையவனாய் ஆராய்ந்து நீதி முறை செய்யாத அரசன், தாழ்ந்த நிலையில் நின்று (பகைவரில்லாமலும் ) தானே கெடுவான்.",
+          "ஒருவர் பெற்றிருக்கின்றார் என்று சொல்லத்தக்க சிறப்புடையது ஊக்கமாகும், ஊக்கம் இல்லாதவர் வேறு எதைப் பெற்றிருந்தாலும் அதை உடையவர் ஆவரோ."
+        ],
+        "quiz_options_en": [
+          "By the touchstone of deeds is seen If any one is great or mean",
+          "Weigh well output the loss and gain And proper action ascertain",
+          "Hard of access, the unjust king He shall himself his ruin bring",
+          "To own is to own energy All others own but lethargy"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து செயல்வகை) பகுதியில் குறள் 461 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (ஒரு செயலைத் தொடங்குமுன்) அதனால் அழிவதையும் அழிந்த பின் ஆவதையும், பின்பு உண்டாகும் ஊதியத்தையும் ஆராய்ந்து செய்ய வேண்டும். பரிமேலழகர் உரை நுட்பம்: அழிவதூஉம் - வினைசெய்யுங்கால் அப்பொழுது அதனால் அழிவதையும், ஆவதூஉம் - அழிந்தால் பின் ஆவதனையும், ஆகி வழி பயக்கும் ஊதியமும் - ஆய் நின்று பிற்பொழுது தரும் ஊதியத்தையும், சூழ்ந்து செயல் - சீர் தூக்கி உறுவதாயின் செய்க. (உறுவதாவது - நிகழ்வின்கண் அழிவதனில் ஆவது மிக்கு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 47: 'Acting after due Consideration'), Kural 461 distills a foundational ethical insight: \"Expenditure, return, and profit of the deedIn time to come; weigh these- than to the act proceed\" Philosophically, Let a man reflect on what will be lost, what will be acquired and (from these) what will be his ultimate gain, and (then, let him) act.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "discipline",
+        "ethics",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 462,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஆராய்ந்து சேர்ந்த இனத்துடன் (செயலைப்பற்றி) நன்றாகத் தேர்ந்து, தாமும் எண்ணிப்பார்த்துச் செய்கின்றவர்க்கு அறிய பொருள் ஒன்றும் இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: There is nothing too difficult to (be attained by) those who, before they act, reflect well themselves, and thoroughly consider (the matter) with chosen friends.",
+        "story_title_ta": "தெரிந்து செயல்வகை — கவின் கற்ற பாடம்",
+        "story_title_en": "Acting after due Consideration — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 462 பற்றிக் கதை சொன்னார். 'தாம் தேர்ந்துகொண்ட நிருவாகச் சுற்றத்தோடு ஒரு செயலை ஆராய்ந்து திட்டமிட்டுச் செய்பவர்க்குச் செய்ய முடியாத செயல் என்று எதுவும் இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 47, 'Acting after due Consideration', centered on Kural 462: There is nothing too difficult to (be attained by) those who, before they act, reflect well themselves, and thoroughly consider (the matter) with chosen friends. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தெளிந்து தேர்ந்த நண்பர்களுடன், சேர்ந்து, ஆற்ற வேண்டிய செயலை ஆராய்ந்து, தாமும் நன்கு சிந்தித்துச் செய்தால் ஆகாதது ஒன்றுமில்லை.",
+        "moral_en": "Moral: With chosen friends deliberate; next use the private thought; Then act By those who thus proceed all works with ease are wrought.",
+        "game_blank_word_ta": "தெரிந்த",
+        "game_options_ta": [
+          "அழிவதூஉம்",
+          "ஆவதூஉம்",
+          "தெரிந்த",
+          "வழிபயக்கும்"
+        ],
+        "game_options_en": [
+          "Weigh well output the loss and gain And proper action ascertain",
+          "The wise risk not their capital In doubtful gains and lose their all",
+          "Nothing is hard for him who acts With worthy counsels weighing facts",
+          "They who scornful reproach fear Commence no work not made clear"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து செயல்வகை (அரசியல்) பிரிவில் அமைந்த குறள் 462, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தாம் தேர்ந்துகொண்ட நிருவாகச் சுற்றத்தோடு ஒரு செயலை ஆராய்ந்து திட்டமிட்டுச் செய்பவர்க்குச் செய்ய முடியாத செயல் என்று எதுவும் இல்லை. கலைஞர் உரை கூறுவது: தெளிந்து தேர்ந்த நண்பர்களுடன், சேர்ந்து, ஆற்ற வேண்டிய செயலை ஆராய்ந்து, தாமும் நன்கு சிந்தித்துச் செய்தால் ஆகாதது ஒன்றுமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Acting after due Consideration (Royalty & Polity), Kural 462 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is nothing too difficult to (be attained by) those who, before they act, reflect well themselves, and thoroughly consider (the matter) with chosen friends. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Acting after due Consideration' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 462 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 462 from Chapter 'Acting after due Consideration'?",
+        "quiz_options_ta": [
+          "சுற்றத்தாறின் தெடர்பு அற்றவரை நம்பித் தெளியக்கூடாது, அவர் உலகத்தில் பற்று இல்லாதவராகையால் பழிக்கு நாண மாட்டார்.",
+          "குடிகளைப் பிறர் வருந்தாமல் காத்து, தானும் வருந்தாமல் காப்பாற்றி, அவற்களுடைய குற்றங்களைத் தக்க தண்டனையால் ஒழித்தல், அரசனுடைய தொழில் பழி அன்று.",
+          "ஆராய்ந்து சேர்ந்த இனத்துடன் (செயலைப்பற்றி) நன்றாகத் தேர்ந்து, தாமும் எண்ணிப்பார்த்துச் செய்கின்றவர்க்கு அறிய பொருள் ஒன்றும் இல்லை.",
+          "ஒருவர்க்கு ஊக்கமுடைமையே நிலையான உடைமையாகும், மற்றப் பொருளுடைமையானது நிலைபேறு இல்லாமல் நீங்கிவிடுவதாகும்."
+        ],
+        "quiz_options_en": [
+          "Choose not those men without kinsmen Without affine or shame of sin",
+          "Save his subjects and chide the wrong Is flawless duty of a king",
+          "Nothing is hard for him who acts With worthy counsels weighing facts",
+          "Psychic heart is wealth indeed Worldly wealth departs in speed"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து செயல்வகை) பகுதியில் குறள் 462 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஆராய்ந்து சேர்ந்த இனத்துடன் (செயலைப்பற்றி) நன்றாகத் தேர்ந்து, தாமும் எண்ணிப்பார்த்துச் செய்கின்றவர்க்கு அறிய பொருள் ஒன்றும் இல்லை. பரிமேலழகர் உரை நுட்பம்: தெரிந்த இனத்தொடு தேர்ந்து எண்ணிச் செய்வார்க்கு - தாம் தெரிந்துகொண்ட இனத்துடனே செய்யத் தகும் வினையை ஆராய்ந்து பின் தாமேயும் எண்ணிச் செய்து முடிக்க வல்ல அரசர்க்கு, அரும் பொருள் யாதொன்றும் இல் - எய்துதற்கரிய பொருள் யாதொன்றும் இல்லை. (ஆராயப்படுவன எல்லாம...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 47: 'Acting after due Consideration'), Kural 462 distills a foundational ethical insight: \"With chosen friends deliberate; next use the private thought; Then act By those who thus proceed all works with ease are wrought\" Philosophically, There is nothing too difficult to (be attained by) those who, before they act, reflect well themselves, and thoroughly consider (the matter) with chosen friends.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "friendship",
+        "education",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 463,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பின் விளையும் ஊதியத்தைக் கருதி இப்போது கையில் உள்ள முதலை இழந்து விடக் காரணமாச் செயலை அறிவுடையோர் மேற்க்கொள்ள மாட்டார்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Wise men will not, in the hopes of profit, undertake works that will consume their principal.",
+        "story_title_ta": "தெரிந்து செயல்வகை — நிலா கற்ற பாடம்",
+        "story_title_en": "Acting after due Consideration — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 463 பற்றிக் கதை சொன்னார். 'வரும் லாபத்தை எண்ணி, இருக்கும் முதலையும் இழந்துவிடுவதற்கு ஏற்ற செயலை அறிவுள்ளவர் செய்யமாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 47, 'Acting after due Consideration', centered on Kural 463: Wise men will not, in the hopes of profit, undertake works that will consume their principal. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பெரும் ஆதாயம் கிட்டுமென்று எதிர்பார்த்துக் கை முதலையும் இழந்து விடக்கூடிய காரியத்தை அறிவுடையவர்கள் செய்யமாட்டார்கள்.",
+        "moral_en": "Moral: To risk one's all and lose, aiming at added gain, Is rash affair, from which the wise abstain.",
+        "game_blank_word_ta": "கருதி",
+        "game_options_ta": [
+          "அழிவதூஉம்",
+          "ஆவதூஉம்",
+          "வழிபயக்கும்",
+          "கருதி"
+        ],
+        "game_options_en": [
+          "Weigh well output the loss and gain And proper action ascertain",
+          "Nothing is hard for him who acts With worthy counsels weighing facts",
+          "They who scornful reproach fear Commence no work not made clear",
+          "The wise risk not their capital In doubtful gains and lose their all"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து செயல்வகை (அரசியல்) பிரிவில் அமைந்த குறள் 463, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வரும் லாபத்தை எண்ணி, இருக்கும் முதலையும் இழந்துவிடுவதற்கு ஏற்ற செயலை அறிவுள்ளவர் செய்யமாட்டார். கலைஞர் உரை கூறுவது: பெரும் ஆதாயம் கிட்டுமென்று எதிர்பார்த்துக் கை முதலையும் இழந்து விடக்கூடிய காரியத்தை அறிவுடையவர்கள் செய்யமாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Acting after due Consideration (Royalty & Polity), Kural 463 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Wise men will not, in the hopes of profit, undertake works that will consume their principal. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Acting after due Consideration' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 463 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 463 from Chapter 'Acting after due Consideration'?",
+        "quiz_options_ta": [
+          "அறியவேண்டியவற்றை அறியாதிருப்பவரை அன்புடைமை காரணமாக நம்பித்தெளிதல், (தெளிந்தவர்க்கு) எல்லா அறியாமையும் கெடும்.",
+          "கொடியவர் சிலரைக் கொலைத்தண்டனையால் அரசன் ஒறுத்தல் பயிரைக் காப்பாற்றக் களையைச் களைவதற்க்கு நிகரான செயலாகும்.",
+          "ஊக்கத்தை உறுதியாகத் தம்கைப் பொருளாக உடையவர், ஆக்கம்( இழந்து விட்டக்காலத்திலும்) இழந்து விட்டோம் என்று கலங்க மாட்டார்.",
+          "பின் விளையும் ஊதியத்தைக் கருதி இப்போது கையில் உள்ள முதலை இழந்து விடக் காரணமாச் செயலை அறிவுடையோர் மேற்க்கொள்ள மாட்டார்."
+        ],
+        "quiz_options_en": [
+          "On favour leaning fools you choose; Folly in all its forms ensues",
+          "Killing killers, the king, behold Weeds removes from cropful field",
+          "The strong in will do not complain The loss of worldly wealth and gain",
+          "The wise risk not their capital In doubtful gains and lose their all"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து செயல்வகை) பகுதியில் குறள் 463 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பின் விளையும் ஊதியத்தைக் கருதி இப்போது கையில் உள்ள முதலை இழந்து விடக் காரணமாச் செயலை அறிவுடையோர் மேற்க்கொள்ள மாட்டார். பரிமேலழகர் உரை நுட்பம்: ஆக்கம் கருதி முதல் இழக்கும் செய்வினை - மேல் எய்தக்கடவ ஊதியத்தினை நோக்கி முன் எய்தி நின்ற முதல் தன்னையும் இழத்தற்கு ஏதுவாய செய்வினையை, அறிவுடையார் ஊக்கார் - அறிவு உடையார் மேற்கொள்ளார். ('கருதி' என்னும் வினையெச்சம் 'இழக்கும்' என்னும் பெயர்எச்ச வினை கொண்டது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 47: 'Acting after due Consideration'), Kural 463 distills a foundational ethical insight: \"To risk one's all and lose, aiming at added gain, Is rash affair, from which the wise abstain\" Philosophically, Wise men will not, in the hopes of profit, undertake works that will consume their principal.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "education",
+        "justice",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 464,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: இழிவு தருவதாகியக் குற்றத்திற்கு அஞ்சுகின்றவர் (இன்ன ஊதியம் பயிக்கும் என்னும்) தெளிவு இல்லாத செயலைத் தொடங்கமாட்டார்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Those who fear reproach will not commence anything which has not been (thoroughly considered) and made clear to them.",
+        "story_title_ta": "தெரிந்து செயல்வகை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Acting after due Consideration — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 464 பற்றிக் கதை சொன்னார். 'தனக்கு அவமானம் என்னும் குற்றம் வரும் என்று பயப்படுபவர், நம்பிக்கை இல்லாத செயலைச் செய்யத் தொடங்கமாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 47, 'Acting after due Consideration', centered on Kural 464: Those who fear reproach will not commence anything which has not been (thoroughly considered) and made clear to them. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: களங்கத்துக்குப் பயப்படக் கூடியவர்கள்தான் விளைவுகளை எண்ணிப் பார்த்து அந்தக் களங்கம் தரும் காரியத்தில் இறங்காமல் இருப்பார்கள்.",
+        "moral_en": "Moral: A work of which the issue is not clear, Begin not they reproachful scorn who fear.",
+        "game_blank_word_ta": "தொடங்கார்",
+        "game_options_ta": [
+          "தொடங்கார்",
+          "அழிவதூஉம்",
+          "ஆவதூஉம்",
+          "வழிபயக்கும்"
+        ],
+        "game_options_en": [
+          "They who scornful reproach fear Commence no work not made clear",
+          "Weigh well output the loss and gain And proper action ascertain",
+          "Nothing is hard for him who acts With worthy counsels weighing facts",
+          "The wise risk not their capital In doubtful gains and lose their all"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து செயல்வகை (அரசியல்) பிரிவில் அமைந்த குறள் 464, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தனக்கு அவமானம் என்னும் குற்றம் வரும் என்று பயப்படுபவர், நம்பிக்கை இல்லாத செயலைச் செய்யத் தொடங்கமாட்டார். கலைஞர் உரை கூறுவது: களங்கத்துக்குப் பயப்படக் கூடியவர்கள்தான் விளைவுகளை எண்ணிப் பார்த்து அந்தக் களங்கம் தரும் காரியத்தில் இறங்காமல் இருப்பார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Acting after due Consideration (Royalty & Polity), Kural 464 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who fear reproach will not commence anything which has not been (thoroughly considered) and made clear to them. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Acting after due Consideration' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 464 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 464 from Chapter 'Acting after due Consideration'?",
+        "quiz_options_ta": [
+          "இழிவு தருவதாகியக் குற்றத்திற்கு அஞ்சுகின்றவர் (இன்ன ஊதியம் பயிக்கும் என்னும்) தெளிவு இல்லாத செயலைத் தொடங்கமாட்டார்.",
+          "மற்றவனை ஒன்றும் ஆராயாமல் தெளிந்தால் அஃது (அவனுக்கு மட்டும் அல்லாமல்) அவனுடைய வழிமுறையில் தோன்றினவருக்கும் துன்பத்தைக் கொடுக்கும்.",
+          "குடிகளை வருத்தும் தொழிலை மேற்கொண்டு, முறையல்லாத செயல்களைச் செய்து நடக்கும் அரசன் கொலைத் தொழிலைக் கொண்டவரை விடக் கொடியவன்.",
+          "சோர்வு இல்லாத ஊக்கம் உடையவனிடத்தில் ஆக்கமானது தானே அவன் உள்ள இடத்திற்கு வழிக் கேட்டுக்கொண்டு போய்ச் சேரும்."
+        ],
+        "quiz_options_en": [
+          "They who scornful reproach fear Commence no work not made clear",
+          "To trust an untried stranger brings Endless troubles on all our kins",
+          "The unjust tyrant oppressor Is worse than cruel murderer",
+          "Fortune enquires, enters with boom Where tireless strivers have their home"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து செயல்வகை) பகுதியில் குறள் 464 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இழிவு தருவதாகியக் குற்றத்திற்கு அஞ்சுகின்றவர் (இன்ன ஊதியம் பயிக்கும் என்னும்) தெளிவு இல்லாத செயலைத் தொடங்கமாட்டார். பரிமேலழகர் உரை நுட்பம்: தெளிவு இலதனைத் தொடங்கார் - இனத்தோடும் தனித்தும் ஆராய்ந்து துணிதல் இல்லாத வினையைத் தொடங்கார், இளிவு என்னும் ஏதப்பாடு அஞ்சுபவர் - தமக்கு இளிவரவு என்னும் குற்றம் உண்டாதலை அஞ்சுவார். (தொடங்கின் இடையின் மடங்கலாகாமையின், 'தொடங்கார்' என்றார். இளிவரவு - அவ்வினையால...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 47: 'Acting after due Consideration'), Kural 464 distills a foundational ethical insight: \"A work of which the issue is not clear, Begin not they reproachful scorn who fear\" Philosophically, Those who fear reproach will not commence anything which has not been (thoroughly considered) and made clear to them.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "perseverance",
+        "education",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 465,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: செயலின் வகைகளை எல்லாம் முற்ற எண்ணாமல் செய்யத்தொடங்குதல், பகைவரை வளரும் பாத்தியில் நிலைபெறச் செய்வதொரு வழியாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: One way to promote the prosperity of an enemy, is (for a king) to set out (to war) without having thoroughly weighed his ability (to cope with its chances).",
+        "story_title_ta": "தெரிந்து செயல்வகை — இனியா கற்ற பாடம்",
+        "story_title_en": "Acting after due Consideration — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 465 பற்றிக் கதை சொன்னார். 'முறையாகத் திட்டமிடாது ஒரு செயலைத் தொடங்குவது, வளரும் நிலத்திலே எதிர் அணியினரை நிலைபெறச் செய்யும் வழியாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 47, 'Acting after due Consideration', centered on Kural 465: One way to promote the prosperity of an enemy, is (for a king) to set out (to war) without having thoroughly weighed his ability (to cope with its chances). Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: முன்னேற்பாடுகளை முழுமையாக ஆராய்ந்து செய்யாமல் பகைவரை ஒடுக்க முனைவது அந்தப் பகைவரின் வலிமையை நிலையாக வளர்க்கும் வழியாக ஆகிவிடும்.",
+        "moral_en": "Moral: With plans not well matured to rise against your foe, Is way to plant him out where he is sure to grow.",
+        "game_blank_word_ta": "வகையறச்",
+        "game_options_ta": [
+          "அழிவதூஉம்",
+          "வகையறச்",
+          "ஆவதூஉம்",
+          "வழிபயக்கும்"
+        ],
+        "game_options_en": [
+          "Weigh well output the loss and gain And proper action ascertain",
+          "Who marches without plans and ways His field is sure to foster foes",
+          "Nothing is hard for him who acts With worthy counsels weighing facts",
+          "The wise risk not their capital In doubtful gains and lose their all"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து செயல்வகை (அரசியல்) பிரிவில் அமைந்த குறள் 465, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முறையாகத் திட்டமிடாது ஒரு செயலைத் தொடங்குவது, வளரும் நிலத்திலே எதிர் அணியினரை நிலைபெறச் செய்யும் வழியாகும். கலைஞர் உரை கூறுவது: முன்னேற்பாடுகளை முழுமையாக ஆராய்ந்து செய்யாமல் பகைவரை ஒடுக்க முனைவது அந்தப் பகைவரின் வலிமையை நிலையாக வளர்க்கும் வழியாக ஆகிவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Acting after due Consideration (Royalty & Polity), Kural 465 speaks directly to teens navigating studies, friendships, leadership, and digital choices: One way to promote the prosperity of an enemy, is (for a king) to set out (to war) without having thoroughly weighed his ability (to cope with its chances). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Acting after due Consideration' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 465 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 465 from Chapter 'Acting after due Consideration'?",
+        "quiz_options_ta": [
+          "யாரையும் ஆராயாமல் தெளியக்கூடாது, நன்றாக ஆராய்ந்த பின்னர் அவரிடம் தெளிவாகக் கொள்ளத்தக்க பொருள்களைத் தெளிந்து நம்ப வேண்டும்.",
+          "செயலின் வகைகளை எல்லாம் முற்ற எண்ணாமல் செய்யத்தொடங்குதல், பகைவரை வளரும் பாத்தியில் நிலைபெறச் செய்வதொரு வழியாகும்.",
+          "ஆட்சிக்குறிய கோலை ஏந்தி நின்ற அரசன் குடிகளைப் பொருள் கேட்டல் , போகும் வழியில் கள்வன் கொடு என்று கேட்பதைப் போன்றது.",
+          "நீர்ப்பூக்களின் தாளின் நீளம் அவை நின்ற நீரின் அளவினவாகும், மக்களின் ஊக்கத்தை அளவினதாகும் வாழ்க்கையின் உயர்வு."
+        ],
+        "quiz_options_en": [
+          "Trust not without testing and then Find proper work for trusted men",
+          "Who marches without plans and ways His field is sure to foster foes",
+          "Sceptered tyrant exacting gold Is \\\"give\\\" of lanced robber bold",
+          "Water depth is lotus height Mental strength is men's merit"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து செயல்வகை) பகுதியில் குறள் 465 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செயலின் வகைகளை எல்லாம் முற்ற எண்ணாமல் செய்யத்தொடங்குதல், பகைவரை வளரும் பாத்தியில் நிலைபெறச் செய்வதொரு வழியாகும். பரிமேலழகர் உரை நுட்பம்: வகை அறச் குழாது எழுதல் - சென்றால் நிகழும் திறங்களை எல்லாம் முற்ற எண்ணாது, சிலவெண்ணிய துணையானே அரசன் பகைவர்மேல் செல்லுதல், பகைவரைப் பாத்திப்படுப்பது ஓர் ஆறு - அவரை வளரும் நிலத்திலே நிலைபெறச் செய்வது ஒரு நெறி ஆம். (அத்திறங்களாவன : வலி, காலம், இடன் என்ற இவற்றால...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 47: 'Acting after due Consideration'), Kural 465 distills a foundational ethical insight: \"With plans not well matured to rise against your foe, Is way to plant him out where he is sure to grow\" Philosophically, One way to promote the prosperity of an enemy, is (for a king) to set out (to war) without having thoroughly weighed his ability (to cope with its chances).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "education",
+        "discipline",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 466,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவன் செய்யத்தகாத செயல்களைச் செய்வதனால் கெடுவான், செய்யத்தக்க செயல்களை செய்யாமல் விடுவதனாலும் கெடுவான்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: He will perish who does not what is not fit to do; and he also will perish who does not do what it is fit to.",
+        "story_title_ta": "தெரிந்து செயல்வகை — முகில் கற்ற பாடம்",
+        "story_title_en": "Acting after due Consideration — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 466 பற்றிக் கதை சொன்னார். 'செய்யக்கூடாதவற்றைச் செய்தாலும் செய்ய வேண்டியவற்றைச் செய்யாமல் விட்டாலும் அழிவு வரும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 47, 'Acting after due Consideration', centered on Kural 466: He will perish who does not what is not fit to do; and he also will perish who does not do what it is fit to. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: செய்யக் கூடாததைச் செய்வதால் கேடு ஏற்படும்; செய்ய வேண்டியதைச் செய்யாமல் விட்டாலும் கேடு ஏற்படும்.",
+        "moral_en": "Moral: 'Tis ruin if man do an unbefitting thing; Fit things to leave undone will equal ruin bring.",
+        "game_blank_word_ta": "யானுங்",
+        "game_options_ta": [
+          "அழிவதூஉம்",
+          "ஆவதூஉம்",
+          "யானுங்",
+          "வழிபயக்கும்"
+        ],
+        "game_options_en": [
+          "Weigh well output the loss and gain And proper action ascertain",
+          "Nothing is hard for him who acts With worthy counsels weighing facts",
+          "Doing unfit action ruins Failing fit-act also ruins",
+          "The wise risk not their capital In doubtful gains and lose their all"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து செயல்வகை (அரசியல்) பிரிவில் அமைந்த குறள் 466, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செய்யக்கூடாதவற்றைச் செய்தாலும் செய்ய வேண்டியவற்றைச் செய்யாமல் விட்டாலும் அழிவு வரும். கலைஞர் உரை கூறுவது: செய்யக் கூடாததைச் செய்வதால் கேடு ஏற்படும்; செய்ய வேண்டியதைச் செய்யாமல் விட்டாலும் கேடு ஏற்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Acting after due Consideration (Royalty & Polity), Kural 466 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He will perish who does not what is not fit to do; and he also will perish who does not do what it is fit to. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Acting after due Consideration' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 466 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 466 from Chapter 'Acting after due Consideration'?",
+        "quiz_options_ta": [
+          "ஒருவனை ஆராயாமல் தெளிவடைதலும், ஆராய்ந்து தெளிவடைந்த ஒருவனிடம் ஐயப்படுதலும் ஆகிய இவை நீங்காதத் துன்பத்தைக் கொடுக்கும்.",
+          "நாள் தோறும் தன் ஆட்சியில் நன்மை தீமைகளை ஆராய்ந்து முறைசெய்யாத அரசன், நாள் தோறும் (மெல்ல மெல்லத்) தன் நாட்டை இழந்து வருவான்.",
+          "ஒருவன் செய்யத்தகாத செயல்களைச் செய்வதனால் கெடுவான், செய்யத்தக்க செயல்களை செய்யாமல் விடுவதனாலும் கெடுவான்.",
+          "எண்ணுவதெல்லாம் உயர்வைப்பற்றியே எண்ண வேண்டும், அவ் வுயர்வுக் கைகூடாவிட்டாலும் அவ்வாறு எண்ணுவதை விடக்கூடாது."
+        ],
+        "quiz_options_en": [
+          "Trust without test; The trusted doubt; Both entail troubles in and out",
+          "Spy wrongs daily and do justice Or day by day the realm decays",
+          "Doing unfit action ruins Failing fit-act also ruins",
+          "Let thoughts be always great and grand Though they fail their virtues stand"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து செயல்வகை) பகுதியில் குறள் 466 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் செய்யத்தகாத செயல்களைச் செய்வதனால் கெடுவான், செய்யத்தக்க செயல்களை செய்யாமல் விடுவதனாலும் கெடுவான். பரிமேலழகர் உரை நுட்பம்: செய்தக்க அல்ல செயக் கெடும் - அரசன் தன்வினைகளுள் செய்யத்தக்கன அல்லவற்றைச் செய்தால் கெடும், செய்தக்க செய்யாமையானும் கெடும் - இனி அதனானே அன்றிச் செய்யத்தக்கனவற்றைக் செய்யாமை தன்னானும் கெடும். (செய்யத்தக்கன அல்லாவாவன : பெரிய முயற்சியினவும், செய்தால் பயனில்லனவும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 47: 'Acting after due Consideration'), Kural 466 distills a foundational ethical insight: \"'Tis ruin if man do an unbefitting thing; Fit things to leave undone will equal ruin bring\" Philosophically, He will perish who does not what is not fit to do; and he also will perish who does not do what it is fit to.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 467,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: (செய்யத் தகுந்த) செயலையும் வழிகளை எண்ணிய பிறகே துணிந்து தொடங்க வேண்டும், துணிந்த பின் எண்ணிப் பார்க்கலாம் என்பது குற்றமாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Consider, and then undertake a matter; after having undertaken it, to say \"We will consider,\" is folly.",
+        "story_title_ta": "தெரிந்து செயல்வகை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Acting after due Consideration — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 467 பற்றிக் கதை சொன்னார். 'ஒரு செயலைச் செய்து முடிக்கும் வழியை அறிந்து தொடங்குக. தொடங்கியபின் அது பற்றி எண்ணிக் கொள்வோம் என்பது குற்றம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 47, 'Acting after due Consideration', centered on Kural 467: Consider, and then undertake a matter; after having undertaken it, to say \"We will consider,\" is folly. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நன்றாகச் சிந்தித்த பிறகே செயலில் இறங்க வேண்டும்; இறங்கிய பிறகு சிந்திக்கலாம் என்பது தவறு.",
+        "moral_en": "Moral: Think, and then dare the deed! Who cry,'Deed dared, we'll think,' disgraced shall be.",
+        "game_blank_word_ta": "என்பது",
+        "game_options_ta": [
+          "அழிவதூஉம்",
+          "ஆவதூஉம்",
+          "வழிபயக்கும்",
+          "என்பது"
+        ],
+        "game_options_en": [
+          "Weigh well output the loss and gain And proper action ascertain",
+          "Nothing is hard for him who acts With worthy counsels weighing facts",
+          "The wise risk not their capital In doubtful gains and lose their all",
+          "Think and dare a proper deed Dare and think is bad in need"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து செயல்வகை (அரசியல்) பிரிவில் அமைந்த குறள் 467, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு செயலைச் செய்து முடிக்கும் வழியை அறிந்து தொடங்குக. தொடங்கியபின் அது பற்றி எண்ணிக் கொள்வோம் என்பது குற்றம். கலைஞர் உரை கூறுவது: நன்றாகச் சிந்தித்த பிறகே செயலில் இறங்க வேண்டும்; இறங்கிய பிறகு சிந்திக்கலாம் என்பது தவறு. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Acting after due Consideration (Royalty & Polity), Kural 467 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Consider, and then undertake a matter; after having undertaken it, to say \"We will consider,\" is folly. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Acting after due Consideration' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 467 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 467 from Chapter 'Acting after due Consideration'?",
+        "quiz_options_ta": [
+          "நன்மையும் தீமையுமாகிய இரண்டையும் ஆராய்ந்து நன்மை தருகின்றவற்றையே விரும்புகின்ற இயல்புடையவன் (செயலுக்கு உரியவனாக) ஆளப்படுவான்.",
+          "(ஆட்சிமுறை கெட்டுக்) கொடுங்கோலனாகி ஆராயாமல் எதையும் செய்யும் அரசன், பொருளையும் குடிகளையும் ஒரு சேர இழந்து விடுவான்.",
+          "உடம்பை மறைக்குமளவு அம்புகளால் புண்பட்டும் யானைத் தன் பெருமையை நிலைநிறுத்தும், அதுபோல் ஊக்கம் உடையவர் அழிவு வந்தவிடத்திலும் தளர மாட்டார்.",
+          "(செய்யத் தகுந்த) செயலையும் வழிகளை எண்ணிய பிறகே துணிந்து தொடங்க வேண்டும், துணிந்த பின் எண்ணிப் பார்க்கலாம் என்பது குற்றமாகும்."
+        ],
+        "quiz_options_en": [
+          "Employ the wise who will discern The good and bad and do good turn",
+          "The king shall wealth and subjects lose If his sceptre he dares abuse",
+          "Elephants are firm when arrows hit Great minds keep fit ev'n in defeat",
+          "Think and dare a proper deed Dare and think is bad in need"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து செயல்வகை) பகுதியில் குறள் 467 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (செய்யத் தகுந்த) செயலையும் வழிகளை எண்ணிய பிறகே துணிந்து தொடங்க வேண்டும், துணிந்த பின் எண்ணிப் பார்க்கலாம் என்பது குற்றமாகும். பரிமேலழகர் உரை நுட்பம்: கருமம் எண்ணித் துணிக - செய்யத்தக்க கருமமும் முடிக்கும் உபாயத்தை எண்ணித் தொடங்குக, துணிந்தபின் எண்ணுவம் என்பது இழுக்கு - தொடங்கி வைத்துப் பின் எண்ணக் கடவோம் என்று ஒழிதல் குற்றம் ஆதலான். (துணிவுபற்றி நிகழ்தலின் துணிவு எனப்பட்டது. சிறப்பு உம்மை விகாரத்தால...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 47: 'Acting after due Consideration'), Kural 467 distills a foundational ethical insight: \"Think, and then dare the deed! Who cry,'Deed dared, we'll think,' disgraced shall be\" Philosophically, Consider, and then undertake a matter; after having undertaken it, to say \"We will consider,\" is folly.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "discipline",
+        "education",
+        "kindness",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 468,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தக்கவழியில் செய்யப்படாத முயற்சி பலர் துணையாக நின்று(அதை முடிக்குமாறு) காத்த போதிலும் குறையாகிவிடும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The work, which is not done by suitable methods, will fail though many stand to uphold it.",
+        "story_title_ta": "தெரிந்து செயல்வகை — கவின் கற்ற பாடம்",
+        "story_title_en": "Acting after due Consideration — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 468 பற்றிக் கதை சொன்னார். 'ஒரு செயலை முடிக்கும் வழி அறியாது தொடங்கினால், பலர் சேர்ந்து துணை செய்தாலும், அச்செயல் கெட்டுப் போகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 47, 'Acting after due Consideration', centered on Kural 468: The work, which is not done by suitable methods, will fail though many stand to uphold it. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எத்தனை பேர்தான் துணையாக இருந்தாலும் முறையாகச் செய்யப்படாத முயற்சி இறுதியில் முடங்கிப் போய்விடும்.",
+        "moral_en": "Moral: On no right system if man toil and strive, Though many men assist, no work can thrive.",
+        "game_blank_word_ta": "படும்",
+        "game_options_ta": [
+          "படும்",
+          "அழிவதூஉம்",
+          "ஆவதூஉம்",
+          "வழிபயக்கும்"
+        ],
+        "game_options_en": [
+          "Toil without a plan ahead Is doomed to fall though supported",
+          "Weigh well output the loss and gain And proper action ascertain",
+          "Nothing is hard for him who acts With worthy counsels weighing facts",
+          "The wise risk not their capital In doubtful gains and lose their all"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து செயல்வகை (அரசியல்) பிரிவில் அமைந்த குறள் 468, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு செயலை முடிக்கும் வழி அறியாது தொடங்கினால், பலர் சேர்ந்து துணை செய்தாலும், அச்செயல் கெட்டுப் போகும். கலைஞர் உரை கூறுவது: எத்தனை பேர்தான் துணையாக இருந்தாலும் முறையாகச் செய்யப்படாத முயற்சி இறுதியில் முடங்கிப் போய்விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Acting after due Consideration (Royalty & Polity), Kural 468 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The work, which is not done by suitable methods, will fail though many stand to uphold it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Acting after due Consideration' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 468 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 468 from Chapter 'Acting after due Consideration'?",
+        "quiz_options_ta": [
+          "தக்கவழியில் செய்யப்படாத முயற்சி பலர் துணையாக நின்று(அதை முடிக்குமாறு) காத்த போதிலும் குறையாகிவிடும்.",
+          "பொருள் வரும் வழிகளைப் பெருக்கச் செய்து, அவற்றால் வளத்தை உண்டாக்கி, வரும் இடையூறுகளைஆராய்ந்து நீக்க வல்லவனே செயல் செய்ய வேண்டும்.",
+          "(முறை செய்யாதவனுடைய) செல்வத்தைத் தேய்த்து அழிக்க வல்ல படை அவனால் பலர் துன்பப்பட்டுத் துன்பம் பொறுக்க முடியாமல் அழுத கண்ணீர் அன்றோ.",
+          "ஊக்கம் இல்லாதவர் இவ்வுலகில் யாம் வண்மை உடையேம் என்றுத் தம்மைத் தான் எண்ணி மகிழும் மகிழ்ச்சியை அடையமாடடார்."
+        ],
+        "quiz_options_en": [
+          "Toil without a plan ahead Is doomed to fall though supported",
+          "Let him act who resource swells; Fosters wealth and prevents ills",
+          "Groaning tears caused by tyrant's sway File the royal wealth away",
+          "Heartless persons cannot boast \\\"We are liberal to our best\\\""
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து செயல்வகை) பகுதியில் குறள் 468 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தக்கவழியில் செய்யப்படாத முயற்சி பலர் துணையாக நின்று(அதை முடிக்குமாறு) காத்த போதிலும் குறையாகிவிடும். பரிமேலழகர் உரை நுட்பம்: ஆற்றின் வருந்தா வருத்தம் - முடியும் உபாயத்தால் கருமத்தை முயலாத முயற்சி, பலர் நின்று போற்றினும் பொத்துப்படும் - துணைவர் பலர் நின்று புரைபடாமல் காப்பினும் புரைபடும். (முடியும் உபாயத்தான் முயறலாவது கொடுத்தலைப் பொருள் நசையாளன் கண்ணும், இன்சொல்லைச் செப்பம...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 47: 'Acting after due Consideration'), Kural 468 distills a foundational ethical insight: \"On no right system if man toil and strive, Though many men assist, no work can thrive\" Philosophically, The work, which is not done by suitable methods, will fail though many stand to uphold it.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "perseverance",
+        "discipline",
+        "justice",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 469,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அவரவருடைய இயல்புகளை அறிந்து அவரவருக்குப் பொருந்துமாறு செய்யாவிட்டால், நன்மை செய்வதிலும் தவறு உண்டாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: There are failures even in acting well, when it is done without knowing the various dispositions of men.",
+        "story_title_ta": "தெரிந்து செயல்வகை — நிலா கற்ற பாடம்",
+        "story_title_en": "Acting after due Consideration — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 469 பற்றிக் கதை சொன்னார். 'அவர் அவர் குணநலன்களை அறிந்து செயல் ஆற்றாவிட்டால் நல்லது செய்வதிலும் பிழை நேர்ந்து விடும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 47, 'Acting after due Consideration', centered on Kural 469: There are failures even in acting well, when it is done without knowing the various dispositions of men. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவருடைய இயல்பைப் புரிந்து கொண்டுதான் நன்மையைக் கூடச் செய்ய வேண்டும் இல்லாவிட்டால் அதுவே தீமையாகத் திருப்பித் தாக்கும்.",
+        "moral_en": "Moral: Though well the work be done, yet one mistake is made, To habitudes of various men when no regard is paid.",
+        "game_blank_word_ta": "லுள்ளுந்",
+        "game_options_ta": [
+          "அழிவதூஉம்",
+          "லுள்ளுந்",
+          "ஆவதூஉம்",
+          "வழிபயக்கும்"
+        ],
+        "game_options_en": [
+          "Weigh well output the loss and gain And proper action ascertain",
+          "Attune the deeds to habitude Or ev'n good leads to evil feud",
+          "Nothing is hard for him who acts With worthy counsels weighing facts",
+          "The wise risk not their capital In doubtful gains and lose their all"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து செயல்வகை (அரசியல்) பிரிவில் அமைந்த குறள் 469, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவர் அவர் குணநலன்களை அறிந்து செயல் ஆற்றாவிட்டால் நல்லது செய்வதிலும் பிழை நேர்ந்து விடும். கலைஞர் உரை கூறுவது: ஒருவருடைய இயல்பைப் புரிந்து கொண்டுதான் நன்மையைக் கூடச் செய்ய வேண்டும் இல்லாவிட்டால் அதுவே தீமையாகத் திருப்பித் தாக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Acting after due Consideration (Royalty & Polity), Kural 469 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There are failures even in acting well, when it is done without knowing the various dispositions of men. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Acting after due Consideration' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 469 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 469 from Chapter 'Acting after due Consideration'?",
+        "quiz_options_ta": [
+          "அன்பு, அறிவு, ஐயமில்லாமல் தெளியும் ஆற்றல், அவா இல்லாமை ஆகிய இந் நான்கு பண்புகளையும் நிலையாக உடையவனைத் தெளியலாம்.",
+          "அவரவருடைய இயல்புகளை அறிந்து அவரவருக்குப் பொருந்துமாறு செய்யாவிட்டால், நன்மை செய்வதிலும் தவறு உண்டாகும்.",
+          "அரசர்க்கு புகழ் நிலைபெறக் காரணம் செங்கோல் முறையாகும், அஃது இல்லையானால் அரசர்க்கு புகழ் நிலைபெறாமல் போகும்.",
+          "யானை பருத்த உடம்பை உடையது, கூர்மையானக் கொம்புகளை உடையது, ஆயினும் ஊக்கமுள்ளதாகியப் புலி தாக்கினால் அதற்கு அஞ்சும்."
+        ],
+        "quiz_options_en": [
+          "Trust him in whom these four you see: Love, wit, non-craving, clarity",
+          "Attune the deeds to habitude Or ev'n good leads to evil feud",
+          "Glory endures by sceptre right Without it wanes the royal light",
+          "Huge elephant sharp in tusk quails When tiger, less in form, assails"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து செயல்வகை) பகுதியில் குறள் 469 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அவரவருடைய இயல்புகளை அறிந்து அவரவருக்குப் பொருந்துமாறு செய்யாவிட்டால், நன்மை செய்வதிலும் தவறு உண்டாகும். பரிமேலழகர் உரை நுட்பம்: நன்று ஆற்றல் உள்ளும் தவறு உண்டு - வேற்று வேந்தர்மாட்டு நன்றான உபாயம் செய்தற்கண்ணும் குற்றம் உண்டாம், அவரவர் பண்பு அறிந்து ஆற்றாக்கடை - அவரவர் குணங்களை ஆராய்ந்து அறிந்து அவற்றிற்கு இயையச் செய்யாவிடின். (நன்றான உபாயமாவது: கொடுத்தலும் இன்சொல் சொல்லுதலுமாம். அவை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 47: 'Acting after due Consideration'), Kural 469 distills a foundational ethical insight: \"Though well the work be done, yet one mistake is made, To habitudes of various men when no regard is paid\" Philosophically, There are failures even in acting well, when it is done without knowing the various dispositions of men.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "discipline",
+        "ethics",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 470,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தம் நிலையோடு பொருந்தாதவற்றை உலகம் ஏற்றுக்கொள்ளாது, ஆகையால் உலகம் இகழ்ந்து தள்ளாத செயல்களை ஆராய்ந்து செய்ய வேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Let a man reflect, and do things which bring no reproach; the world will not approve, with him, of things which do not become of his position to adopt.",
+        "story_title_ta": "தெரிந்து செயல்வகை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Acting after due Consideration — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 470 பற்றிக் கதை சொன்னார். 'தன் தகுதிக்குப் பொருந்தாத வழிமுறைகளைச் செய்தால் மக்கள் அதை இகழ்வர்; அதனால் மக்கள் இகழாத வழிமுறைகளை எண்ணிச் செய்ய வேண்டும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 47, 'Acting after due Consideration', centered on Kural 470: Let a man reflect, and do things which bring no reproach; the world will not approve, with him, of things which do not become of his position to adopt. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தம்முடைய நிலைமைக்கு மாறான செயல்களை உயர்ந்தோர் பாராட்டமாட்டார்கள் என்பதால், அவர்கள் பழித்துரைக்காத செயல்களையே செய்திடல் வேண்டும்.",
+        "moral_en": "Moral: Plan and perform no work that others may despise; What misbeseems a king the world will not approve as wise.",
+        "game_blank_word_ta": "எண்ணிச்",
+        "game_options_ta": [
+          "அழிவதூஉம்",
+          "ஆவதூஉம்",
+          "எண்ணிச்",
+          "வழிபயக்கும்"
+        ],
+        "game_options_en": [
+          "Weigh well output the loss and gain And proper action ascertain",
+          "Nothing is hard for him who acts With worthy counsels weighing facts",
+          "Do deeds above reproachfulness The world refutes uncomely mess",
+          "The wise risk not their capital In doubtful gains and lose their all"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து செயல்வகை (அரசியல்) பிரிவில் அமைந்த குறள் 470, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் தகுதிக்குப் பொருந்தாத வழிமுறைகளைச் செய்தால் மக்கள் அதை இகழ்வர்; அதனால் மக்கள் இகழாத வழிமுறைகளை எண்ணிச் செய்ய வேண்டும். கலைஞர் உரை கூறுவது: தம்முடைய நிலைமைக்கு மாறான செயல்களை உயர்ந்தோர் பாராட்டமாட்டார்கள் என்பதால், அவர்கள் பழித்துரைக்காத செயல்களையே செய்திடல் வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Acting after due Consideration (Royalty & Polity), Kural 470 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let a man reflect, and do things which bring no reproach; the world will not approve, with him, of things which do not become of his position to adopt. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Acting after due Consideration' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 470 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 470 from Chapter 'Acting after due Consideration'?",
+        "quiz_options_ta": [
+          "எவ்வகையால் ஆராய்ந்து தெளிந்த பிறகும்(செயலை மேற்க்கொண்டு செய்யும் போது) அச் செயல்வகையால் வேறுபடும் மக்கள் உலகத்தில் பலர் உண்டு.",
+          "மழைத்துளி இல்லாதிருத்தல் உலகத்திற்கு எத்தன்மையானதோ, அத்தன்மையானது நாட்டில் வாழும் குடிமக்களுக்கு அரசனுடைய அருள் இல்லாத ஆட்சி.",
+          "தம் நிலையோடு பொருந்தாதவற்றை உலகம் ஏற்றுக்கொள்ளாது, ஆகையால் உலகம் இகழ்ந்து தள்ளாத செயல்களை ஆராய்ந்து செய்ய வேண்டும்.",
+          "ஒருவனுக்கு வலிமையானது ஊக்க மிகுதியே, அவ்வூக்கம் இல்லாதவர் மரங்களே, (வடிவால்) மக்களைப் போல் இருத்தலே வேறுபாடு."
+        ],
+        "quiz_options_en": [
+          "Though tried and found fit, yet we see Many differ before duty",
+          "Dry like the earth without rainfall Is graceless king to creatures all",
+          "Do deeds above reproachfulness The world refutes uncomely mess",
+          "Mental courage is true manhood Lacking that man is like a wood"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து செயல்வகை) பகுதியில் குறள் 470 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம் நிலையோடு பொருந்தாதவற்றை உலகம் ஏற்றுக்கொள்ளாது, ஆகையால் உலகம் இகழ்ந்து தள்ளாத செயல்களை ஆராய்ந்து செய்ய வேண்டும். பரிமேலழகர் உரை நுட்பம்: தம்மொடு கொள்ளாத உலகு கொள்ளாது - அரசர் வினைமுடித்தற் பொருட்டுத் தம் நிலைமையோடு பொருந்தாத உபாயங்களைச் செய்வாராயின் உலகம் தம்மை இகழாநிற்கும், எள்ளாத எண்ணிச் செயல் வேண்டும் - ஆகலான் அஃது இகழா உபாயங்களை நாடிச் செய்க. ('தம்' என்பது ஆகுபெயர், தம் நிலைமையோடு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 47: 'Acting after due Consideration'), Kural 470 distills a foundational ethical insight: \"Plan and perform no work that others may despise; What misbeseems a king the world will not approve as wise\" Philosophically, Let a man reflect, and do things which bring no reproach; the world will not approve, with him, of things which do not become of his position to adopt.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "education",
+        "family",
+        "discipline"
+      ]
+    }
+  ]
+}

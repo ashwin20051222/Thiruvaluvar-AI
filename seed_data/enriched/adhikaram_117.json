@@ -1,0 +1,574 @@
+{
+  "adhikaram_id": 117,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.532573204+00:00",
+  "kurals": [
+    {
+      "kural_number": 1161,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: இக் காமநோயைப் பிறர் அறியாமல் யான் மறைப்பேன், ஆனால் இது இறைப்பவர்க்கு ஊற்று நீர் மிகுவது போல் மிகுகின்றது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: I would hide this pain from others; but it (only) swells like a spring to those who drain it.",
+        "story_title_ta": "படர்மெலிந் திரங்கல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Complainings — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'படர்மெலிந் திரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1161 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1161 from 'Complainings', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: இறைக்க இறைக்கப் பெருகும் ஊற்றுநீர் போல, பிறர் அறியாமல் மறைக்க மறைக்கக் காதல் நோயும் பெருகும்.",
+        "moral_en": "Moral: I would my pain conceal, but see! it surging swells, As streams to those that draw from ever-springing wells.",
+        "game_blank_word_ta": "யானிஃதோ",
+        "game_options_ta": [
+          "கரத்தலும்",
+          "யானிஃதோ",
+          "ஆற்றேன்இந்",
+          "நோயைநோய்"
+        ],
+        "game_options_en": [
+          "I can't conceal this nor complain For shame to him who caused this pain",
+          "It swells out like baled out spring How to bear this pain so writhing?",
+          "In life -poles of this wearied frame Are poised the weights of lust and shame",
+          "My lust is a sea; I do not see A raft to go across safely"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படர்மெலிந் திரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1161, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் காதல் துன்பத்தை மற்றவர் அறிந்துவிடக்கூடாது என்று மறைக்கவே செய்தேன்; ஆனாலும் இறைக்க இறைக்க ஊற்றுநீர் பெருகுவது போல மறைக்க மறைக்க என் துன்பமும் பெருகவே செய்கிறது. கலைஞர் உரை கூறுவது: இறைக்க இறைக்கப் பெருகும் ஊற்றுநீர் போல, பிறர் அறியாமல் மறைக்க மறைக்கக் காதல் நோயும் பெருகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Complainings (Post-marital Love), Kural 1161 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I would hide this pain from others; but it (only) swells like a spring to those who drain it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'படர்மெலிந் திரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Complainings'.",
+        "quiz_question_ta": "'படர்மெலிந் திரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1161 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1161 from Chapter 'Complainings'?",
+        "quiz_options_ta": [
+          "தம்முடைய நெஞ்சில் எம்மை வரவிடாது காவல் கொண்ட காதலர், எம்முடைய நெஞ்சில் தாம் ஓயாமல் வரவதைப் பற்றி நாணமாட்டாரோ?",
+          "இக் காமநோயைப் பிறர் அறியாமல் யான் மறைப்பேன், ஆனால் இது இறைப்பவர்க்கு ஊற்று நீர் மிகுவது போல் மிகுகின்றது.",
+          "என் நெஞ்சே! பிரிவுத் துன்பத்தால் வருந்தி அவர் வந்து அன்பு செய்ய வில்லையே என்று ஏங்கி பிரிந்தவரின் பின் செல்கின்றாய் பேதை.",
+          "நெஞ்சே! அவருடைய நெஞ்சம் ( நம்மை நினையாமல் நம்மிடம் வராமல்) அவர்க்குத் துணையாதலைக் கண்டும் நீ எமக்குத் துணையாகாதது ஏன்?"
+        ],
+        "quiz_options_en": [
+          "Shame! My heart often he enters Banning me entry into his",
+          "It swells out like baled out spring How to bear this pain so writhing?",
+          "Without pity he would depart! You sigh and seek his favour, poor heart!",
+          "You see, his heart is his alone; Why not my heart be all my own?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (படர்மெலிந் திரங்கல்) பகுதியில் குறள் 1161 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இக் காமநோயைப் பிறர் அறியாமல் யான் மறைப்பேன், ஆனால் இது இறைப்பவர்க்கு ஊற்று நீர் மிகுவது போல் மிகுகின்றது. பரிமேலழகர் உரை நுட்பம்: (காமநோயை வெளிப்படுத்தல் நின் நாணுக்கு ஏலாது என்ற தோழிக்குச் சொல்லிது.) நோயை யான் மறைப்பேன் - இந்நோயைப் பிறரறிதல் நாணி யான் மறையா நின்றேன்; இஃதோ இறைப்பவர்க்கு ஊற்று நீர் போல மிகும் - நிற்பவும், இஃது அந்நாண்வரை நில்லாது நீர் வேண்டும் என்று இறைப்பவர்க்கு ஊற்று...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 117: 'Complainings'), Kural 1161 distills a foundational ethical insight: \"I would my pain conceal, but see! it surging swells, As streams to those that draw from ever-springing wells\" Philosophically, I would hide this pain from others; but it (only) swells like a spring to those who drain it.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1162,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: இக் காமநோயைப் பிறர் அறியாமல் முற்றிலும் மறைக்கவும் முடியவில்லை, நோய் செய்த காதலர்க்குச் சொல்வதும் நாணம் தருகின்றது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: I cannot conceal this pain, nor can I relate it without shame to him who has caused it.",
+        "story_title_ta": "படர்மெலிந் திரங்கல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Complainings — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'படர்மெலிந் திரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1162 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1162 from 'Complainings', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதல் நோயை என்னால் மறைக்கவும் முடியவில்லை; இதற்குக் காரணமான காதலரிடம் நாணத்தால் உரைக்கவும் முடியவில்லை.",
+        "moral_en": "Moral: I cannot hide this pain of mine, yet shame restrainsWhen I would tell it out to him who caused my pains.",
+        "game_blank_word_ta": "கரத்தலும்",
+        "game_options_ta": [
+          "மறைப்பேன்மன்",
+          "யானிஃதோ",
+          "கரத்தலும்",
+          "இறைப்பவர்க்கு"
+        ],
+        "game_options_en": [
+          "It swells out like baled out spring How to bear this pain so writhing?",
+          "In life -poles of this wearied frame Are poised the weights of lust and shame",
+          "I can't conceal this nor complain For shame to him who caused this pain",
+          "My lust is a sea; I do not see A raft to go across safely"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படர்மெலிந் திரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1162, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இந்தத் துன்பத்தை என்னால் மறைக்கவும் முடியவில்லை. துன்பத்தைத் தந்த இவருக்கு (எழுத்தில் தொலைபேசியில்) இதைச் சொல்லவும் வெட்கமாக இருக்கிறது. கலைஞர் உரை கூறுவது: காதல் நோயை என்னால் மறைக்கவும் முடியவில்லை; இதற்குக் காரணமான காதலரிடம் நாணத்தால் உரைக்கவும் முடியவில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Complainings (Post-marital Love), Kural 1162 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I cannot conceal this pain, nor can I relate it without shame to him who has caused it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'படர்மெலிந் திரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Complainings'.",
+        "quiz_question_ta": "'படர்மெலிந் திரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1162 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1162 from Chapter 'Complainings'?",
+        "quiz_options_ta": [
+          "காதலராகிய அவரோடு யான் பொருந்தியிருந்த நாட்களை நினைத்துக் கொள்வதால்தான் உயிரோடு இருக்கின்றேன்; வேறு எதனால் உயிர் வாழ்கின்றேன்?",
+          "என் நெஞ்சே! காதலர் உன் உள்ளத்தில் உள்ளவராக இருக்கும்போது நீ அவரை நினைத்து யாரிடம் தேடிச் செல்கின்றாய்?",
+          "இக் காமநோயைப் பிறர் அறியாமல் முற்றிலும் மறைக்கவும் முடியவில்லை, நோய் செய்த காதலர்க்குச் சொல்வதும் நாணம் தருகின்றது.",
+          "என் நெஞசே! நம்மேல் அன்பு கொள்ளாத காதலரைக் கண்டபோதும், அவர் வெறுக்கமாட்டார் என்று எண்ணி அவரிடம் செல்கின்றாயே!"
+        ],
+        "quiz_options_en": [
+          "Beyond the thought of life with him What else of life can I presume?",
+          "The lover lives in Self you know; Whom you think, mind to whom you go?",
+          "I can't conceal this nor complain For shame to him who caused this pain",
+          "O heart, you see how he slights me Yet you clasp him as if friendly"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (படர்மெலிந் திரங்கல்) பகுதியில் குறள் 1162 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இக் காமநோயைப் பிறர் அறியாமல் முற்றிலும் மறைக்கவும் முடியவில்லை, நோய் செய்த காதலர்க்குச் சொல்வதும் நாணம் தருகின்றது. பரிமேலழகர் உரை நுட்பம்: ('ஈண்டையார் அறியாமல் மறைத்தல் ஆண்டையார் அறியத் தூது விடுதல் என்னும் இரண்டனுள் ஒன்று செயல் வேண்டும்' என்ற தோழிக்குச் சொல்லியது). இந்நோயைக் கரத்தலும் ஆற்றேன்-இந்நோயை ஈண்டை அறியாமல் மறைத்தலும் வல்லேனாகின்றிலேன்; நோய் செய்தார்ககு உரைத்தலும் நாணுத் தரும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 117: 'Complainings'), Kural 1162 distills a foundational ethical insight: \"I cannot hide this pain of mine, yet shame restrainsWhen I would tell it out to him who caused my pains\" Philosophically, I cannot conceal this pain, nor can I relate it without shame to him who has caused it.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1163,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: துன்பத்தைப் பொருக்காமல் வருந்துகின்ற என் உடம்பினிடத்தில் உயிரே காவடித்தண்டாகக் கொண்டு காமநோயும் நாணமும் இருப்பக்கமாக தொங்குகின்றன.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: (Both) lust and shame, with my soul for their shoulder pole balance themselves on a body that cannot bear them.",
+        "story_title_ta": "படர்மெலிந் திரங்கல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Complainings — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'படர்மெலிந் திரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1163 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1163 from 'Complainings', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பிரிவைத் தாங்கமுடியாது உயிர் துடிக்கும் என் உடலானது, ஒருபுறம் காதல் நோயும் மறுபுறம் அதனை வெளியிட முடியாத நாணமும் கொண்டு காவடி போல விளங்குகிறது.",
+        "moral_en": "Moral: My soul, like porter's pole, within my wearied frame, Sustains a two-fold burthen poised, of love and shame.",
+        "game_blank_word_ta": "அகத்து",
+        "game_options_ta": [
+          "மறைப்பேன்மன்",
+          "யானிஃதோ",
+          "இறைப்பவர்க்கு",
+          "அகத்து"
+        ],
+        "game_options_en": [
+          "It swells out like baled out spring How to bear this pain so writhing?",
+          "I can't conceal this nor complain For shame to him who caused this pain",
+          "My lust is a sea; I do not see A raft to go across safely",
+          "In life -poles of this wearied frame Are poised the weights of lust and shame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படர்மெலிந் திரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1163, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காதல் துன்பத்தையும், அவரிடம் சொல்ல முடியாமல் நான்படும் வெட்கத்ததையும் தாங்க முடியாத என் உடம்பில், என் உயிரையே காவடித் தண்டாகக் கொண்டு அதன் ஒரு புறத்தில் காதல் நோயும், மறுமுனையில் வெட்கமும் தொங்குகின்றன. கலைஞர் உரை கூறுவது: பிரிவைத் தாங்கமுடியாது உயிர் துடிக்கும் என் உடலானது, ஒருபுறம் காதல் நோயும் மறுபுறம் அதனை வெளியிட முடியாத நாணமும் கொண்டு காவடி போல விளங்குகிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Complainings (Post-marital Love), Kural 1163 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (Both) lust and shame, with my soul for their shoulder pole balance themselves on a body that cannot bear them. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'படர்மெலிந் திரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Complainings'.",
+        "quiz_question_ta": "'படர்மெலிந் திரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1163 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1163 from Chapter 'Complainings'?",
+        "quiz_options_ta": [
+          "( காதலரை ) மறந்தறியாமல் நினைத்தாலும் உள்ளத்தைப் பிரிவுத் துன்பம் சுடுகின்றதே! நினைக்காமல் மறந்து விட்டால் என்ன ஆவேனோ?",
+          "நம்மோடு பொருந்தி இருக்காமல் கைவிட்டுச சென்ற காதலரை நெஞ்சில் வைத்திருக்கும்போது இன்னும் மெலிந்து அழகை இழந்து வருகின்றோம்.",
+          "நெஞ்சே! நீ உன் விருப்பத்தின்படியே அவர் பின் செல்வதற்குக் காரணம், துன்பத்தால் அழிந்தவர்‌க்கு நண்பர் இல்லை என்னும் எண்ண‌மோ?",
+          "துன்பத்தைப் பொருக்காமல் வருந்துகின்ற என் உடம்பினிடத்தில் உயிரே காவடித்தண்டாகக் கொண்டு காமநோயும் நாணமும் இருப்பக்கமாக தொங்குகின்றன."
+        ],
+        "quiz_options_en": [
+          "What will happen if I forget When his memory burns my heart?",
+          "Without a thought he deserted us To think of him will make us worse",
+          "You follow him at will Is it \\\"The fallen have no friends\\\" my heart?",
+          "In life -poles of this wearied frame Are poised the weights of lust and shame"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (படர்மெலிந் திரங்கல்) பகுதியில் குறள் 1163 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: துன்பத்தைப் பொருக்காமல் வருந்துகின்ற என் உடம்பினிடத்தில் உயிரே காவடித்தண்டாகக் கொண்டு காமநோயும் நாணமும் இருப்பக்கமாக தொங்குகின்றன. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) காமமும் நாணும் - காமநோயும் அதனைச் செய்தவர்க்கு உரைக்கல் ஒல்லாத நாணும்; நோனா என் உடம்பின் அகத்து - தம்மைப் பொறாத என்னுடம்பின் கண்ணே; உயிர் காவாத் தூங்கும் - உயிர் காத்தண்டாக அதன் இரு தலையிலும் தூங்காநின்றன. (பொறாமை மெலிவானாயது. தூங்கும் என்பது...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 117: 'Complainings'), Kural 1163 distills a foundational ethical insight: \"My soul, like porter's pole, within my wearied frame, Sustains a two-fold burthen poised, of love and shame\" Philosophically, (Both) lust and shame, with my soul for their shoulder pole balance themselves on a body that cannot bear them.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1164,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: காமநோயாகிய கடல் இருக்கின்றது. ஆனால் அதை நீந்திக்கடந்து செல்வதற்கு வேண்டிய காவலான ‌தோணியோ இல்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: There is indeed a flood of lust; but there is no raft of safety to cross it with.",
+        "story_title_ta": "படர்மெலிந் திரங்கல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Complainings — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'படர்மெலிந் திரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1164 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1164 from 'Complainings', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதல் கடல்போலச் சூழ்ந்துகொண்டு வருத்துகிறது ஆனால் அதை நீந்திக் கடந்து செல்லப் பாதுகாப்பான தோணிதான் இல்லை.",
+        "moral_en": "Moral: A sea of love, 'tis true, I see stretched out before, But not the trusty bark that wafts to yonder shore.",
+        "game_blank_word_ta": "காமக்",
+        "game_options_ta": [
+          "காமக்",
+          "மறைப்பேன்மன்",
+          "யானிஃதோ",
+          "இறைப்பவர்க்கு"
+        ],
+        "game_options_en": [
+          "My lust is a sea; I do not see A raft to go across safely",
+          "It swells out like baled out spring How to bear this pain so writhing?",
+          "I can't conceal this nor complain For shame to him who caused this pain",
+          "In life -poles of this wearied frame Are poised the weights of lust and shame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படர்மெலிந் திரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1164, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காதல் துன்பம், வெட்கம், இவ்விரண்டிலும் என்னுள் மிகுந்திருப்பது காதல் துன்பம் என்னும் கடலே; அதைக் கடக்கப் பாதுகாப்பான படகுதான் இல்லை. கலைஞர் உரை கூறுவது: காதல் கடல்போலச் சூழ்ந்துகொண்டு வருத்துகிறது ஆனால் அதை நீந்திக் கடந்து செல்லப் பாதுகாப்பான தோணிதான் இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Complainings (Post-marital Love), Kural 1164 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is indeed a flood of lust; but there is no raft of safety to cross it with. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'படர்மெலிந் திரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Complainings'.",
+        "quiz_question_ta": "'படர்மெலிந் திரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1164 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1164 from Chapter 'Complainings'?",
+        "quiz_options_ta": [
+          "காமநோயாகிய கடல் இருக்கின்றது. ஆனால் அதை நீந்திக்கடந்து செல்வதற்கு வேண்டிய காவலான ‌தோணியோ இல்லை.",
+          "காதலரை எவ்வளவு மிகுதியாக நினைத்தாலும் அவர் என்மேல் சினங்கொள்ளார்; காதலர் செய்யும் சிறந்த உதவி அத்தன்மையானது அன்றோ!",
+          "நாணம் என்னும் தாழ்ப்பாள் பொருந்திய நிறை என்று சொல்லப்படும் கதவை காமம் ஆகிய கோடாலி உடைத்து விடுகிறதே.",
+          "நெஞ்‌சே! நீ ஊடலைச் செய்து அதன் பயனை நுகர மாட்டாய்; இனிமேல் அத்தகையவற்றைப் பற்றி உன்னோடு கலந்து எண்ணப் போகின்றவர் யார்?"
+        ],
+        "quiz_options_en": [
+          "My lust is a sea; I do not see A raft to go across safely",
+          "I bring him to ceaseless memory He chides not; and thus honours me",
+          "Passion's axe shall break the door Of reserve bolted with my honour",
+          "You won't sulk first and then submit Who will then consult you, my heart?"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (படர்மெலிந் திரங்கல்) பகுதியில் குறள் 1164 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காமநோயாகிய கடல் இருக்கின்றது. ஆனால் அதை நீந்திக்கடந்து செல்வதற்கு வேண்டிய காவலான ‌தோணியோ இல்லை. பரிமேலழகர் உரை நுட்பம்: (தலைவியர் காமக்கடற் படார், படினும், அதனை ஏற்றபுணையான் நீந்திக் கடப்பார் என்ற தோழிக்குச் சொல்லியது.) உண்டு காமக்கடலே - யாவர்க்கும் உளவாய் வருகின்ற இவ் இரண்டனுள்ளும் எனக்கு உண்டாகின்றது காமக்கடலே; அது நீந்தும் ஏமப்புணை இல் - அதனை நீந்தும் அரணாகிய புணை இல்லை...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 117: 'Complainings'), Kural 1164 distills a foundational ethical insight: \"A sea of love, 'tis true, I see stretched out before, But not the trusty bark that wafts to yonder shore\" Philosophically, There is indeed a flood of lust; but there is no raft of safety to cross it with.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1165,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ( இன்பமான) நட்பிலேயே துயரத்தை வரச் செய்வதில் வல்லவர். ( துன்பம் தரும் பகையை வெல்லும்) வலிமை வேண்டும்போது என்ன ஆவாரோ?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: What will they prove when angry tempests lower?",
+        "story_title_ta": "படர்மெலிந் திரங்கல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Complainings — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'படர்மெலிந் திரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1165 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1165 from 'Complainings', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நட்பாக இருக்கும்போதே பிரிவுத்துயரை நமக்குத் தரக்கூடியவர், பகைமை தோன்றினால் எப்படிப்பட்டவராய் இருப்பாரோ?",
+        "moral_en": "Moral: Who work us woe in friendship's trustful hour, What will they prove when angry tempests lower.",
+        "game_blank_word_ta": "துயர்வரவு",
+        "game_options_ta": [
+          "மறைப்பேன்மன்",
+          "துயர்வரவு",
+          "யானிஃதோ",
+          "இறைப்பவர்க்கு"
+        ],
+        "game_options_en": [
+          "It swells out like baled out spring How to bear this pain so writhing?",
+          "What wilt they prove when they are foes Who in friendship bring me woes!",
+          "I can't conceal this nor complain For shame to him who caused this pain",
+          "In life -poles of this wearied frame Are poised the weights of lust and shame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படர்மெலிந் திரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1165, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இன்பம் தருவதற்குரிய நட்பிலேயே துன்பத்தைத் தரம் இவர், பகைமையில் என்னதான் செய்வாரோ? கலைஞர் உரை கூறுவது: நட்பாக இருக்கும்போதே பிரிவுத்துயரை நமக்குத் தரக்கூடியவர், பகைமை தோன்றினால் எப்படிப்பட்டவராய் இருப்பாரோ? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Complainings (Post-marital Love), Kural 1165 speaks directly to teens navigating studies, friendships, leadership, and digital choices: What will they prove when angry tempests lower? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'படர்மெலிந் திரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Complainings'.",
+        "quiz_question_ta": "'படர்மெலிந் திரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1165 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1165 from Chapter 'Complainings'?",
+        "quiz_options_ta": [
+          "நாம் இருவரும் வேறு அல்லேம் என்று அடிக்கடி சொல்லும் அவர் இப்போது அன்பு இல்லாதிருத்தலை மிக நினைத்து என் இனிய உயிர் அழிகின்றது.",
+          "( இன்பமான) நட்பிலேயே துயரத்தை வரச் செய்வதில் வல்லவர். ( துன்பம் தரும் பகையை வெல்லும்) வலிமை வேண்டும்போது என்ன ஆவாரோ?",
+          "காமம் என்று சொல்லப்படுகின்ற ஒன்று கண்ணோட்டம் இல்லாதது. அது என் நெஞ்சத்தை நள்ளிரவில் ஏவல் கொண்டு ஆள்கிறது.",
+          "( காதலரைப் பெறாதபோது) பெறாமைக்கு அஞ்சும்; பெற்றால் பிரிவை நினைத்து அஞ்சும்; ( இவ்வாறாக) என் நெஞ்சம் தீராத துன்பம் உடையதாகின்றது."
+        ],
+        "quiz_options_en": [
+          "Dear life ebbs away by thought Of him who said we are one heart",
+          "What wilt they prove when they are foes Who in friendship bring me woes!",
+          "The thing called lust is a heartless power It sways my mind at midnight hour",
+          "Frets to gain and fears loss in gain O my heart suffers ceaseless pain"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (படர்மெலிந் திரங்கல்) பகுதியில் குறள் 1165 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ( இன்பமான) நட்பிலேயே துயரத்தை வரச் செய்வதில் வல்லவர். ( துன்பம் தரும் பகையை வெல்லும்) வலிமை வேண்டும்போது என்ன ஆவாரோ? பரிமேலழகர் உரை நுட்பம்: (தூது விடாமை நோக்கித் தோழியோடு புலந்து சொல்லியது) நட்பினுள் துயர் வரவு ஆற்றுபவர் - இன்பஞ்செய்தற்குரிய நட்பின்கண்ணே துன்பவரவினைச் செய்ய வல்லவர்; துப்பின் எவனாவர் கொல் - துன்பம் செய்தற்குரிய பகைமைக்கண் என் செய்வர் கொல்லோ? (துப்புப் பகையுமாதல...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 117: 'Complainings'), Kural 1165 distills a foundational ethical insight: \"Who work us woe in friendship's trustful hour, What will they prove when angry tempests lower\" Philosophically, What will they prove when angry tempests lower?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "courage",
+        "friendship",
+        "education",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 1166,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: காமம் மகிழ்விக்கும்போது அதன் இன்பம் கடல் போன்றது; அது வருத்தும்போது அதன் துன்பமோ கடலைவிடப் பெரியது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The pleasure of lust is (as great as) the sea; but the pain of lust is far greater.",
+        "story_title_ta": "படர்மெலிந் திரங்கல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Complainings — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'படர்மெலிந் திரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1166 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1166 from 'Complainings', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதல் இன்பம் கடல் போன்றது காதலர் பிரிவு ஏற்படுத்தும் துன்பமோ, கடலைவிடப் பெரியது.",
+        "moral_en": "Moral: A happy love 's sea of joy; but mightier sorrows rollFrom unpropitious love athwart the troubled soul.",
+        "game_blank_word_ta": "துன்பம்",
+        "game_options_ta": [
+          "மறைப்பேன்மன்",
+          "யானிஃதோ",
+          "துன்பம்",
+          "இறைப்பவர்க்கு"
+        ],
+        "game_options_en": [
+          "It swells out like baled out spring How to bear this pain so writhing?",
+          "I can't conceal this nor complain For shame to him who caused this pain",
+          "The pleasure in love is oceanful But its pangs are more painful",
+          "In life -poles of this wearied frame Are poised the weights of lust and shame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படர்மெலிந் திரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1166, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காதல் மகிழ்ச்சி கடல்போலப் பெரிது; ஆனால் பிரிவினால் அது துன்பம் செய்யத் தொடங்கிவிட்டால் அத்துன்பம் கடலைக் காட்டிலும் பெரிது. கலைஞர் உரை கூறுவது: காதல் இன்பம் கடல் போன்றது காதலர் பிரிவு ஏற்படுத்தும் துன்பமோ, கடலைவிடப் பெரியது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Complainings (Post-marital Love), Kural 1166 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The pleasure of lust is (as great as) the sea; but the pain of lust is far greater. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'படர்மெலிந் திரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Complainings'.",
+        "quiz_question_ta": "'படர்மெலிந் திரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1166 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1166 from Chapter 'Complainings'?",
+        "quiz_options_ta": [
+          "தி்ங்களே! பிரியாமல் இருந்து இறுதியில் பிரிந்து சென்ற காதலரை என் கண்ணால் தேடிக் காணும்படியாக நீ மறைந்து விடாமல் இருப்பாயாக!",
+          "யான் காமத்தை என்னுள்‌ளே மறைக்க முயல்வேன்; ஆனால் அதுவே என் குறிப்பின்படி நிற்காமல் தும்மல் போல் தானே வெளிப்பட்டு விடுகிறது.",
+          "காமம் மகிழ்விக்கும்போது அதன் இன்பம் கடல் போன்றது; அது வருத்தும்போது அதன் துன்பமோ கடலைவிடப் பெரியது.",
+          "காதலரைப் பிரிந்து தனியே இருந்து அவருடைய தவறுகளை நினைத்தபோது என் நெஞ்சம் என்னைத் தின்பது போல் துன்பம் செய்வதாக இருந்தது."
+        ],
+        "quiz_options_en": [
+          "Hail moon! Set not so that I find Him who left me but not my mind",
+          "How to hide this lust which shows Itself while I sneeze unawares!",
+          "The pleasure in love is oceanful But its pangs are more painful",
+          "My itching mind eats me anon As I muse on him all alone"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (படர்மெலிந் திரங்கல்) பகுதியில் குறள் 1166 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காமம் மகிழ்விக்கும்போது அதன் இன்பம் கடல் போன்றது; அது வருத்தும்போது அதன் துன்பமோ கடலைவிடப் பெரியது. பரிமேலழகர் உரை நுட்பம்: ('காமத்தான் இன்பமுற்றார்க்கு அதனினாய துன்பமும் வரும்', என்ற தோழிக்குச் சொல்லியது.) காமம் இன்பம் கடல் - காமம் புணர்வால் இன்பஞ்செய்யுங்கால் அவ்வின்பம் கடல் போலப் பெரிதாம்; மற்று அஃது அடுங்கால் துன்பம் அதனிற் பெரிது - இனி அது தானே பிரிவால் துன்பஞ் செய்யுங்கால...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 117: 'Complainings'), Kural 1166 distills a foundational ethical insight: \"A happy love 's sea of joy; but mightier sorrows rollFrom unpropitious love athwart the troubled soul\" Philosophically, The pleasure of lust is (as great as) the sea; but the pain of lust is far greater.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1167,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: காமம் என்னும்‌ வெள்ளத்தை நீந்தியும் அதன் கரையை யான் காணவில்லை; நள்ளிரவிலும் யான் தனியே இருக்கின்றேன்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: I have swam across the terrible flood of lust, but have not seen its shore; even at midnight I am alone; still I live.",
+        "story_title_ta": "படர்மெலிந் திரங்கல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Complainings — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'படர்மெலிந் திரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1167 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1167 from 'Complainings', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நள்ளிரவிலும் என் துணையின்றி நான் மட்டுமே இருக்கிறேன்; அதனால், காதலின்பக் கடும் வெள்ளத்தில் நீந்தி, அதன் கரையைக் காண இயலாமல் கலங்குகிறேன்.",
+        "moral_en": "Moral: I swim the cruel tide of love, and can no shore descry, In watches of the night, too, 'mid the waters, only I.",
+        "game_blank_word_ta": "கரைகாணேன்",
+        "game_options_ta": [
+          "மறைப்பேன்மன்",
+          "யானிஃதோ",
+          "இறைப்பவர்க்கு",
+          "கரைகாணேன்"
+        ],
+        "game_options_en": [
+          "It swells out like baled out spring How to bear this pain so writhing?",
+          "I can't conceal this nor complain For shame to him who caused this pain",
+          "In life -poles of this wearied frame Are poised the weights of lust and shame",
+          "Wild waves of love I swim shoreless Pining alone in midnight hush"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படர்மெலிந் திரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1167, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காதல் துன்பமாகிய கடலை நீந்தியும் என்னால் கரை காண முடியவில்லை. நள்ளிரவுப் பொழுதினும் உறங்காமல் நான் தனியாகவே இருக்கிறேன். கலைஞர் உரை கூறுவது: நள்ளிரவிலும் என் துணையின்றி நான் மட்டுமே இருக்கிறேன்; அதனால், காதலின்பக் கடும் வெள்ளத்தில் நீந்தி, அதன் கரையைக் காண இயலாமல் கலங்குகிறேன். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Complainings (Post-marital Love), Kural 1167 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I have swam across the terrible flood of lust, but have not seen its shore; even at midnight I am alone; still I live. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'படர்மெலிந் திரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Complainings'.",
+        "quiz_question_ta": "'படர்மெலிந் திரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1167 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1167 from Chapter 'Complainings'?",
+        "quiz_options_ta": [
+          "( யான் பிரிவால் வருந்தி உறங்கியபோது) காதலர் அனுப்பிய தூதோடு வந்த கனவுக்கு உரிய விருந்தாக என்ன செய்து உதவுவேன்?",
+          "யான் இதுவரையில் நிறையோடிருப்பதாக எண்ணிக கொண்டிருந்தேன். ஆனால் என் காமம் என்னுள் மறைந்திருத்தலைக் கடந்து மன்றத்தில் வெளிப்படுகின்றது.",
+          "காதலனை மறக்க முடியாத என்னுடைய சிறப்பில்லாத மட நெஞ்சினோடு சேர்ந்து, மறக்கத் தகாததாகிய நாணத்தையும் மறந்து விடடேன்.",
+          "காமம் என்னும்‌ வெள்ளத்தை நீந்தியும் அதன் கரையை யான் காணவில்லை; நள்ளிரவிலும் யான் தனியே இருக்கின்றேன்."
+        ],
+        "quiz_options_en": [
+          "How shall I feast this dream-vision That brings the beloved's love-mission?",
+          "I was proud of my sex-reserve Lo lust betrays what I preserve",
+          "I forget shame but not his thought In mean foolish mind I'm caught",
+          "Wild waves of love I swim shoreless Pining alone in midnight hush"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (படர்மெலிந் திரங்கல்) பகுதியில் குறள் 1167 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காமம் என்னும்‌ வெள்ளத்தை நீந்தியும் அதன் கரையை யான் காணவில்லை; நள்ளிரவிலும் யான் தனியே இருக்கின்றேன். பரிமேலழகர் உரை நுட்பம்: ('காமக்கடல் நிறை புணையாக நீந்தப்படும்', என்றாட்குச் சொல்லியது) காமக் கடும்புனல் நீந்திக் கரை காணேன் - காமமாகிய கடல் நீந்தாதேனல்லேன், நீந்தியும் அதற்குக் கரை காண்கின்றிலேன்; யாமத்தும் யானே உளேன் - அக்காணாமைக் காலந்தான் எல்லோரும் துயிலும் அரையிருளாயிற்று...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 117: 'Complainings'), Kural 1167 distills a foundational ethical insight: \"I swim the cruel tide of love, and can no shore descry, In watches of the night, too, 'mid the waters, only I\" Philosophically, I have swam across the terrible flood of lust, but have not seen its shore; even at midnight I am alone; still I live.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1168,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: இந்த இராக்காலம் இரங்கத்தக்கது; எல்லா உயிரையும் தூங்கச் செய்துவிட்டு என்னை அல்லாமல் வேறு துணை இல்லாமல் இருக்கின்றது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The night which graciously lulls to sleep all living creatures, has me alone for her companion.",
+        "story_title_ta": "படர்மெலிந் திரங்கல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Complainings — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'படர்மெலிந் திரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1168 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1168 from 'Complainings', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: `இரவே! உலகில் உள்ள எல்லா உயிர்களையும் நீ உறங்கச் செய்துவிட்டுப் பாவம் இப்போது என்னைத்தவிர வேறு துணையில்லாமல் இருக்கிறாய்.'.",
+        "moral_en": "Moral: All living souls in slumber soft she steeps; But me alone kind night for her companing keeps.",
+        "game_blank_word_ta": "என்னல்லது",
+        "game_options_ta": [
+          "என்னல்லது",
+          "மறைப்பேன்மன்",
+          "யானிஃதோ",
+          "இறைப்பவர்க்கு"
+        ],
+        "game_options_en": [
+          "Night's mercy lulls all souls to sleep Keeping but me for companionship",
+          "It swells out like baled out spring How to bear this pain so writhing?",
+          "I can't conceal this nor complain For shame to him who caused this pain",
+          "In life -poles of this wearied frame Are poised the weights of lust and shame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படர்மெலிந் திரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1168, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பாவம் இந்த இரவு! இது எல்லா உயிர்களையும் தூங்கச் செய்துவிட்டுத் தனியாகவே இருக்கிறது. இதற்கு என்னைத் தவிர வேறு துணை இல்லை! கலைஞர் உரை கூறுவது: `இரவே! உலகில் உள்ள எல்லா உயிர்களையும் நீ உறங்கச் செய்துவிட்டுப் பாவம் இப்போது என்னைத்தவிர வேறு துணையில்லாமல் இருக்கிறாய்.'. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Complainings (Post-marital Love), Kural 1168 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The night which graciously lulls to sleep all living creatures, has me alone for her companion. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'படர்மெலிந் திரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Complainings'.",
+        "quiz_question_ta": "'படர்மெலிந் திரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1168 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1168 from Chapter 'Complainings'?",
+        "quiz_options_ta": [
+          "இந்த இராக்காலம் இரங்கத்தக்கது; எல்லா உயிரையும் தூங்கச் செய்துவிட்டு என்னை அல்லாமல் வேறு துணை இல்லாமல் இருக்கின்றது.",
+          "கண்கள் யான் வேண்டுவதுபோல் தூங்குமானால், ( அப்போது வரும் கனவில் காணும்) காதலர்க்கு யான் தப்பிப் பிழைத்திருக்கும்‌ தன்மையைச் சொல்வேன்.",
+          "தம்மை வெறுத்து நீங்கியவரின் பின் செல்லாமல் மானத்தோடு நிற்கும் பெருந்தகைமை, காமநோய் உற்றவர் அறியும் தன்மையது அனறு.",
+          "உயரின் மேல் காதல் கொண்ட என் நெஞ்சம், பிரிந்த காதலரை இகழ்ந்தால் இழிவாகும் என்று எண்ணி அவருடைய உயர்ந்த பண்புகளையே நினைக்கின்றது."
+        ],
+        "quiz_options_en": [
+          "Night's mercy lulls all souls to sleep Keeping but me for companionship",
+          "I beg these fish-like dark eyes sleep To tell my lover how life I keep",
+          "Dignity seeks not a deserter But Love-sick is its innovator",
+          "My heart living in love of him Hails his glory ignoring blame"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (படர்மெலிந் திரங்கல்) பகுதியில் குறள் 1168 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இந்த இராக்காலம் இரங்கத்தக்கது; எல்லா உயிரையும் தூங்கச் செய்துவிட்டு என்னை அல்லாமல் வேறு துணை இல்லாமல் இருக்கின்றது. பரிமேலழகர் உரை நுட்பம்: (இரவின் கொடுமை சொல்லி இரங்கியது.) இரா அளித்து - இரா அளித்தாயிருந்தது; மன் உயிர் எல்லாம் துயிற்றி என்னல்லது துணை இல்லை - உலகத்து நிலை பெறுகின்ற உயிர்களையெல்லாம் தானே துயிலப் பண்ணுதலான், என்னையல்லாது வேறு துணை உடைத்தாயிற்றில்லை. ('துயிற்றி' எனத் திரிந்து நின்ற...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 117: 'Complainings'), Kural 1168 distills a foundational ethical insight: \"All living souls in slumber soft she steeps; But me alone kind night for her companing keeps\" Philosophically, The night which graciously lulls to sleep all living creatures, has me alone for her companion.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "kindness",
+        "friendship",
+        "time",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1169,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ( பிரிந்து துன்புறுகின்ற) இந்நாட்களில் நெடுநேரம் உடையனவாய்க் கழிகின்ற இராக்காலங்கள், பிரிந்த கொடியவரின் கொடுமையை விடத் தாம் கொடியவை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The long nights of these days are far more cruel than the heartless one who is torturing me.",
+        "story_title_ta": "படர்மெலிந் திரங்கல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Complainings — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'படர்மெலிந் திரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1169 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1169 from 'Complainings', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: இந்த இரவுகள் நீண்டுகொண்டே போவதுபோல் தோன்றும் கொடுமை இருக்கிறதே அது காதலரின் பிரிவால் ஏற்படும் கொடுமையைவிடப் பெரிதாக உள்ளது.",
+        "moral_en": "Moral: More cruel than the cruelty of him, the cruel one, In these sad times are lengthening hours of night I watch alone.",
+        "game_blank_word_ta": "கழியும்",
+        "game_options_ta": [
+          "மறைப்பேன்மன்",
+          "கழியும்",
+          "யானிஃதோ",
+          "இறைப்பவர்க்கு"
+        ],
+        "game_options_en": [
+          "It swells out like baled out spring How to bear this pain so writhing?",
+          "Crueller than that cruel he Are midnight hours gliding slowly",
+          "I can't conceal this nor complain For shame to him who caused this pain",
+          "In life -poles of this wearied frame Are poised the weights of lust and shame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படர்மெலிந் திரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1169, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இப்போதெல்லாம் இரவுகள் கழிவதற்கு நெடும்பொழுது ஆகிறது; என்னைப் பிரிந்து போன என் கணவரின் கொடுமையிலும் இவை மிகக் கொடுமையாக இருக்கின்றன. கலைஞர் உரை கூறுவது: இந்த இரவுகள் நீண்டுகொண்டே போவதுபோல் தோன்றும் கொடுமை இருக்கிறதே அது காதலரின் பிரிவால் ஏற்படும் கொடுமையைவிடப் பெரிதாக உள்ளது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Complainings (Post-marital Love), Kural 1169 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The long nights of these days are far more cruel than the heartless one who is torturing me. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'படர்மெலிந் திரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Complainings'.",
+        "quiz_question_ta": "'படர்மெலிந் திரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1169 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1169 from Chapter 'Complainings'?",
+        "quiz_options_ta": [
+          "நனவில் வந்து அன்பு செய்யாத காதலரைக் கனவில் காண்பதால்தான் என்னுடைய உயிர் இன்னும் நீங்காமல் உள்ளதாகின்றது.",
+          "( பிரிந்து துன்புறுகின்ற) இந்நாட்களில் நெடுநேரம் உடையனவாய்க் கழிகின்ற இராக்காலங்கள், பிரிந்த கொடியவரின் கொடுமையை விடத் தாம் கொடியவை.",
+          "வெறுத்து நீங்கிய காதலரின் பின் செல்ல விரும்பிய நிலையில் இருப்பதால் என்னை அடைந்த இந்த காமநோய் எத்தன்மையானது? அந்‌தோ!",
+          "ஒருவர்க்குத் துன்பம் வந்தபோது, தாம் உரிமையாகப் பெற்றுள்ள நெஞ்சமே துணையாகா விட்டால், வேறு யார் துணையாவார்?"
+        ],
+        "quiz_options_en": [
+          "In wakeful hours who sees me not I meet in dreams and linger yet",
+          "Crueller than that cruel he Are midnight hours gliding slowly",
+          "O Grief, my deserter you seek Of your caprice what shall I speak!",
+          "Who support a man in grief If lover's heart denies relief?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (படர்மெலிந் திரங்கல்) பகுதியில் குறள் 1169 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ( பிரிந்து துன்புறுகின்ற) இந்நாட்களில் நெடுநேரம் உடையனவாய்க் கழிகின்ற இராக்காலங்கள், பிரிந்த கொடியவரின் கொடுமையை விடத் தாம் கொடியவை. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) இந்நாள் நெடிய கழியும் இரா - காதலரோடு நாம் இன்புற்ற முன்னாள்களிற் குறியவாய், அவர் பிரிவாற்றேமாகின்ற இந்நாள்களிலே நெடியவாய்ச் செல்கின்ற கங்குல்கள்; கொடியார் கொடுமையின் தாம் கொடிய - அக்கொடியாரது கொடுமைக்கு மேலே தாம் கொடுமை செய்யாநின்றன...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 117: 'Complainings'), Kural 1169 distills a foundational ethical insight: \"More cruel than the cruelty of him, the cruel one, In these sad times are lengthening hours of night I watch alone\" Philosophically, The long nights of these days are far more cruel than the heartless one who is torturing me.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "time",
+        "speech",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1170,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: காதலர் உள்ள இடத்திற்கு என் மனத்தைப்போல் செல்ல முடியுமானால், என்‌ கண்கள் இவ்வாறு வெள்ளமாகிய கண்ணீரில் நீந்த வேண்டியதில்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Could mine eyes travel like my thoughts to the abode (of my absent lord), they would not swim in this flood of tears.",
+        "story_title_ta": "படர்மெலிந் திரங்கல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Complainings — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'படர்மெலிந் திரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1170 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1170 from 'Complainings', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதலர் இருக்குமிடத்துக்கு என் நெஞ்சத்தைப் போலச் செல்ல முடியுமானால், என் கருவிழிகள், அவரைக் காண்பதற்குக் கண்ணீர் வெள்ளத்தில் நீந்த வேண்டிய நிலை ஏற்பட்டிருக்காது.",
+        "moral_en": "Moral: When eye of mine would as my soul go forth to him, It knows not how through floods of its own tears to swim.",
+        "game_blank_word_ta": "உள்ளம்போன்று",
+        "game_options_ta": [
+          "மறைப்பேன்மன்",
+          "யானிஃதோ",
+          "உள்ளம்போன்று",
+          "இறைப்பவர்க்கு"
+        ],
+        "game_options_en": [
+          "It swells out like baled out spring How to bear this pain so writhing?",
+          "I can't conceal this nor complain For shame to him who caused this pain",
+          "Like heart, if my sight reaches him It won't in floods of tears swim!",
+          "In life -poles of this wearied frame Are poised the weights of lust and shame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படர்மெலிந் திரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1170, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் மனம் போலவே என் கண்களும் என்னவர் இருக்கும் ஊருக்குச் செல்ல முடியுமானால், அவை கண்ணீர் வெள்ளத்தில் நீந்தமாட்டா. கலைஞர் உரை கூறுவது: காதலர் இருக்குமிடத்துக்கு என் நெஞ்சத்தைப் போலச் செல்ல முடியுமானால், என் கருவிழிகள், அவரைக் காண்பதற்குக் கண்ணீர் வெள்ளத்தில் நீந்த வேண்டிய நிலை ஏற்பட்டிருக்காது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Complainings (Post-marital Love), Kural 1170 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Could mine eyes travel like my thoughts to the abode (of my absent lord), they would not swim in this flood of tears. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'படர்மெலிந் திரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Complainings'.",
+        "quiz_question_ta": "'படர்மெலிந் திரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1170 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1170 from Chapter 'Complainings'?",
+        "quiz_options_ta": [
+          "நனவில் வந்து அன்பு செய்யாத காதலரைத் தேடி அழைத்துக் கொண்டு வருவதற்காகக் கனவில் அவரைப் பற்றிய காதல் நிகழ்ச்சிகள் உண்டாகின்றன.",
+          "நாம் விரும்பிய காதலர் காமத்தால் நமக்கு விருப்பமானவற்றைச் செய்வாரானால். நாணம் என்று சொல்லப்படும் ஒரு பண்பையும் அறியாமல் இருப்போம்.",
+          "காதலர் உள்ள இடத்திற்கு என் மனத்தைப்போல் செல்ல முடியுமானால், என்‌ கண்கள் இவ்வாறு வெள்ளமாகிய கண்ணீரில் நீந்த வேண்டியதில்லை.",
+          "ஒருவர்க்கு தாம் உரிமையாகப் பெற்ற நெஞ்சமே உறவாகாதபோது அயலார் உறவில்லாதவராக இருப்பது எளிதேயாகும்."
+        ],
+        "quiz_options_en": [
+          "In dreams I enjoy his love-bliss Who in wakeful hours I miss",
+          "When lover's love does what it desires We forget all shame unawares",
+          "Like heart, if my sight reaches him It won't in floods of tears swim!",
+          "Why wonder if strangers disown When one's own heart is not his own?"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (படர்மெலிந் திரங்கல்) பகுதியில் குறள் 1170 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காதலர் உள்ள இடத்திற்கு என் மனத்தைப்போல் செல்ல முடியுமானால், என்‌ கண்கள் இவ்வாறு வெள்ளமாகிய கண்ணீரில் நீந்த வேண்டியதில்லை. பரிமேலழகர் உரை நுட்பம்: (நின் கண்கள் பேரழகு அழிகின்றனவாகலின் அழற்பாலையல்லை, என்றாட்குச் சொல்லியது.) உள்ளம் போன்று உள்வழி செல்கிற்பின் - மனம் போலக் காதலருள்ள தேயத்துக் கடிதிற்செல்ல வல்லன ஆயின், என் கண் வெள்ளநீர் நீந்தல - என கண்கள் இங்ஙனம் வெள்ளமாகிய தம் நீரை நீந்தா. (அது...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 117: 'Complainings'), Kural 1170 distills a foundational ethical insight: \"When eye of mine would as my soul go forth to him, It knows not how through floods of its own tears to swim\" Philosophically, Could mine eyes travel like my thoughts to the abode (of my absent lord), they would not swim in this flood of tears.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "discipline",
+        "self-mastery"
+      ]
+    }
+  ]
+}

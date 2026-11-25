@@ -1,0 +1,586 @@
+{
+  "adhikaram_id": 68,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.079179552+00:00",
+  "kurals": [
+    {
+      "kural_number": 671,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஆராய்ந்து எண்ணுவதற்கு எல்லை துணிவு கொள்வதே ஆகும், அவ்வாறு கொண்ட துணிவு காலந் தாழ்த்து நிற்பது குற்றமாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Consultation ends in forming a resolution (to act); (but) delay in the execution of that resolve is an evil.",
+        "story_title_ta": "வினை செயல்வகை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Modes of Action — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினை செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 671 பற்றிக் கதை சொன்னார். 'ஓர் ஆலோசனையின் முடிவு, செயலைச் செய்யும் துணிவைப் பெறுவதே, பெற்ற அத்துணிவைச் செயலாக்கக் காலம் தாழ்த்தினால் அது தீமையாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 68, 'Modes of Action', centered on Kural 671: Consultation ends in forming a resolution (to act); (but) delay in the execution of that resolve is an evil. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒரு செயலில் ஈடுபட முடிவெடுக்கும்போது அச்செயலால் விளையும் சாதக பாதகங்கள் பற்றிய ஆராய்ச்சியும் முடிவடைந்திருக்க வேண்டும் முடிவெடுத்த பிறகு காலந்தாழ்த்துவது தீதாக முடியும்.",
+        "moral_en": "Moral: The Resolve is counsel's end, If resolutions halt In weak delays, still unfulfilled, 'tis grievous fault.",
+        "game_blank_word_ta": "தங்குதல்",
+        "game_options_ta": [
+          "தூங்குக",
+          "தூங்கிச்",
+          "செயற்பால",
+          "தங்குதல்"
+        ],
+        "game_options_en": [
+          "Delay such acts as need delay Delay not acts that need display",
+          "It's best to act when feasible If not see what is possible",
+          "Work or foe left unfinished Flare up like fire unextinguished",
+          "When counsel takes a resolve strong Weak delay of action is wrong"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினை செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 671, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஓர் ஆலோசனையின் முடிவு, செயலைச் செய்யும் துணிவைப் பெறுவதே, பெற்ற அத்துணிவைச் செயலாக்கக் காலம் தாழ்த்தினால் அது தீமையாகும். கலைஞர் உரை கூறுவது: ஒரு செயலில் ஈடுபட முடிவெடுக்கும்போது அச்செயலால் விளையும் சாதக பாதகங்கள் பற்றிய ஆராய்ச்சியும் முடிவடைந்திருக்க வேண்டும் முடிவெடுத்த பிறகு காலந்தாழ்த்துவது தீதாக முடியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Modes of Action (Ministers & Elements of State), Kural 671 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Consultation ends in forming a resolution (to act); (but) delay in the execution of that resolve is an evil. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினை செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Modes of Action' thoughtfully.",
+        "quiz_question_ta": "'வினை செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 671 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 671 from Chapter 'Modes of Action'?",
+        "quiz_options_ta": [
+          "அறிவு மிகுந்தவரிடையே முந்திச் சென்று பேசாத அடக்கம் ஒருவனுக்கு நன்மை என்று சொல்லப்பட்டவை எல்லாவற்றிலும நல்லது.",
+          "தன் கைப்பொருள் ஒன்று தன்னிடம் இருக்க அதைக் கொண்டு ஒருவன் செயல் செய்தால், மலையின் மேல் ஏறி யானைப் போரைக் கண்டாற் போன்றது.",
+          "பழைமை என்று சொல்லப்படுவது எது என்று வினாவினால் அது பழகியவர் உரிமைப் பற்றிச் செய்யும் செயலைக் கீழ்ப்படுத்தாமல் ஏற்கும் நட்பாகும்.",
+          "ஆராய்ந்து எண்ணுவதற்கு எல்லை துணிவு கொள்வதே ஆகும், அவ்வாறு கொண்ட துணிவு காலந் தாழ்த்து நிற்பது குற்றமாகும்."
+        ],
+        "quiz_options_en": [
+          "Modest restraint all good excels Which argues not before elders",
+          "Treasures in hand fulfil all things Like hill-tuskers the wars of kings",
+          "That friendship is good amity Which restrains not one's liberty",
+          "When counsel takes a resolve strong Weak delay of action is wrong"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினை செயல்வகை) பகுதியில் குறள் 671 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஆராய்ந்து எண்ணுவதற்கு எல்லை துணிவு கொள்வதே ஆகும், அவ்வாறு கொண்ட துணிவு காலந் தாழ்த்து நிற்பது குற்றமாகும். பரிமேலழகர் உரை நுட்பம்: சூழ்ச்சி முடிவு துணிவு எய்தல் - விசாரத்திற்கு எல்லையாவது விசாரிக்கின்றான் 'இனி இது தப்பாது' என்னும் துணிவினைப் பெறுதல்; அத்துணிவு தாழ்ச்சியுள் தங்குதல் தீது - அங்ஙனம் துணிவுபெற்ற வினை. பின் நீட்டிப்பின்கண் தங்குமாயின் அது குற்றமுடைத்து. ('சூழ்ச்சி முடிவு...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 68: 'Modes of Action'), Kural 671 distills a foundational ethical insight: \"The Resolve is counsel's end, If resolutions halt In weak delays, still unfulfilled, 'tis grievous fault\" Philosophically, Consultation ends in forming a resolution (to act); (but) delay in the execution of that resolve is an evil.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "courage",
+        "ethics",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 672,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: காலந்தாழ்த்தி செய்யத் தக்கவற்றைக் காலந்தாழ்ந்தே செய்ய வேண்டும், காலந்தாழ்த்தாமல் விரைந்து செய்யவேண்டிய செயல்களைச் செய்ய காலந்தாழ்த்தக் கூடாது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Sleep over such (actions) as may be slept over; (but) never over such as may not be slept over.",
+        "story_title_ta": "வினை செயல்வகை — கவின் கற்ற பாடம்",
+        "story_title_en": "Modes of Action — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினை செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 672 பற்றிக் கதை சொன்னார். 'காலந்தாழ்த்திச் செய்யவேண்டிய செயல்கள் என்றால் காலந்தாழ்த்துக; காலம் தாழத்தாது செய்ய வேண்டிய செயல்கள் என்றால் காலம் தாழ்த்த வேண்டா.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 68, 'Modes of Action', centered on Kural 672: Sleep over such (actions) as may be slept over; (but) never over such as may not be slept over. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நிதானமாகச் செய்ய வேண்டிய காரியங்களைத் தாமதித்துச் செய்யலாம்; ஆனால் விரைவாகச் செய்ய வேண்டிய காரியங்களில் தாமதம் கூடாது.",
+        "moral_en": "Moral: Slumber when sleepy work's in hand beware Thou slumber not when action calls for sleepless care.",
+        "game_blank_word_ta": "தூங்குக",
+        "game_options_ta": [
+          "தூங்குக",
+          "சூழ்ச்சி",
+          "முடிவு",
+          "துணிவெய்தல்"
+        ],
+        "game_options_en": [
+          "Delay such acts as need delay Delay not acts that need display",
+          "When counsel takes a resolve strong Weak delay of action is wrong",
+          "It's best to act when feasible If not see what is possible",
+          "Work or foe left unfinished Flare up like fire unextinguished"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினை செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 672, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காலந்தாழ்த்திச் செய்யவேண்டிய செயல்கள் என்றால் காலந்தாழ்த்துக; காலம் தாழத்தாது செய்ய வேண்டிய செயல்கள் என்றால் காலம் தாழ்த்த வேண்டா. கலைஞர் உரை கூறுவது: நிதானமாகச் செய்ய வேண்டிய காரியங்களைத் தாமதித்துச் செய்யலாம்; ஆனால் விரைவாகச் செய்ய வேண்டிய காரியங்களில் தாமதம் கூடாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Modes of Action (Ministers & Elements of State), Kural 672 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Sleep over such (actions) as may be slept over; (but) never over such as may not be slept over. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினை செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Modes of Action' thoughtfully.",
+        "quiz_question_ta": "'வினை செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 672 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 672 from Chapter 'Modes of Action'?",
+        "quiz_options_ta": [
+          "காலந்தாழ்த்தி செய்யத் தக்கவற்றைக் காலந்தாழ்ந்தே செய்ய வேண்டும், காலந்தாழ்த்தாமல் விரைந்து செய்யவேண்டிய செயல்களைச் செய்ய காலந்தாழ்த்தக் கூடாது.",
+          "விரிவான அறிவுத்துறைகளை அறிந்து உணர்கின்றவரின் முன்னே குற்றப்படுதல், ஒழுக்கநெறியிலிருந்து நிலைத் தளர்ந்து கெடுவதைப் போன்றதாகும்.",
+          "ஒருவன் பொருளை ஈட்டவேண்டும், அவனுடைய பகைவரின் செருக்கைக் கெடுக்க வல்ல வாள் அதைவிடக் கூர்மையானது வேறு இல்லை.",
+          "நட்பிற்க்கு உறுப்பாவது நண்பனுடைய உரிமைச் செயலாகும், அந்த உரிமைச் செயலுக்கு உடன்பட்டவராதல் சான்றோரின் கடமையாகும்."
+        ],
+        "quiz_options_en": [
+          "Delay such acts as need delay Delay not acts that need display",
+          "Tongue-slip before the talented wise is like slipping from righteous ways",
+          "Make wealth; there is no sharper steel The insolence of foes to quell",
+          "Friendship's heart is freedom close; Wise men's duty is such to please"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினை செயல்வகை) பகுதியில் குறள் 672 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காலந்தாழ்த்தி செய்யத் தக்கவற்றைக் காலந்தாழ்ந்தே செய்ய வேண்டும், காலந்தாழ்த்தாமல் விரைந்து செய்யவேண்டிய செயல்களைச் செய்ய காலந்தாழ்த்தக் கூடாது. பரிமேலழகர் உரை நுட்பம்: தூங்கிச் செயற்பால தூங்குக - நீட்டித்துச் செய்யும் பகுதியவாய வினைகளுள் நீட்டிக்க; தூங்காது செய்யும் வினை தூங்கற்க - நீட்டியாது செய்யும் வினைகளுள் நீட்டியாது ஒழிக. (இரு வழியும் இறுதிக்கண் தொக்க ஏழாவது விரிக்கப்பட்டது. இருவகை வினைகளும் வலியானும் காலத்தானும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 68: 'Modes of Action'), Kural 672 distills a foundational ethical insight: \"Slumber when sleepy work's in hand beware Thou slumber not when action calls for sleepless care\" Philosophically, Sleep over such (actions) as may be slept over; (but) never over such as may not be slept over.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "education",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 673,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: இயலுமிடத்தில் எல்லாம் செயலைச் செய்து முடித்தல் நல்லது, இயலாவில்லையானால் பயன்படும் இடம் நோக்கியாவது செய்ய வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Whenever it is possible (to overcome your enemy) the act (of fighting) is certainly good; if not, endeavour to employ some more successful method.",
+        "story_title_ta": "வினை செயல்வகை — நிலா கற்ற பாடம்",
+        "story_title_en": "Modes of Action — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினை செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 673 பற்றிக் கதை சொன்னார். 'ஒரு செயலைச் செய்யும்போது சாம, தான, பேத, தண்டம் என்னும் எல்லா உபாயங்களிலும் தண்டம் என்னும் உபாயம் கொண்டு செய்வது நல்லது. அது பலன் அளிக்காத போது, பிற மூன்றினுள் ஏற்ற ஒன்று கொண்டு செய்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 68, 'Modes of Action', centered on Kural 673: Whenever it is possible (to overcome your enemy) the act (of fighting) is certainly good; if not, endeavour to employ some more successful method. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இயலும் இடங்களில் எல்லாம் செயல் முடிப்பது நலம் தரும் இயலாத இடமாயின் அதற்கேற்ற வழியை அறிந்து அந்தச் செயலை முடிக்க வேண்டும்.",
+        "moral_en": "Moral: When way is clear, prompt let your action be; When not, watch till some open path you see.",
+        "game_blank_word_ta": "யெல்லாம்",
+        "game_options_ta": [
+          "சூழ்ச்சி",
+          "யெல்லாம்",
+          "முடிவு",
+          "துணிவெய்தல்"
+        ],
+        "game_options_en": [
+          "When counsel takes a resolve strong Weak delay of action is wrong",
+          "It's best to act when feasible If not see what is possible",
+          "Delay such acts as need delay Delay not acts that need display",
+          "Work or foe left unfinished Flare up like fire unextinguished"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினை செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 673, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு செயலைச் செய்யும்போது சாம, தான, பேத, தண்டம் என்னும் எல்லா உபாயங்களிலும் தண்டம் என்னும் உபாயம் கொண்டு செய்வது நல்லது. அது பலன் அளிக்காத போது, பிற மூன்றினுள் ஏற்ற ஒன்று கொண்டு செய்க. கலைஞர் உரை கூறுவது: இயலும் இடங்களில் எல்லாம் செயல் முடிப்பது நலம் தரும் இயலாத இடமாயின் அதற்கேற்ற வழியை அறிந்து அந்தச் செயலை முடிக்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Modes of Action (Ministers & Elements of State), Kural 673 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Whenever it is possible (to overcome your enemy) the act (of fighting) is certainly good; if not, endeavour to employ some more successful method. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினை செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Modes of Action' thoughtfully.",
+        "quiz_question_ta": "'வினை செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 673 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 673 from Chapter 'Modes of Action'?",
+        "quiz_options_ta": [
+          "குற்றமறச்சொற்களை ஆராயவதில் வ ல்ல அறிஞர்களிடத்தில் பல நூல்களைக் கற்றறிந்தவரின் கல்வியானது நன்றாக விளங்கித் தொன்றும்.",
+          "இயலுமிடத்தில் எல்லாம் செயலைச் செய்து முடித்தல் நல்லது, இயலாவில்லையானால் பயன்படும் இடம் நோக்கியாவது செய்ய வேண்டும்.",
+          "சிறந்ததாகிய பொருளை மிகுதியாக ஈட்டியவர்க்கு, மற்ற அறமும் இன்பமுமாகிய இரண்டும் ஒரு சேரக்கைகூடும் எளிய பொருளாகும்.",
+          "பழகியவர் உரிமைப்பற்றிச் செய்யும் செயலைத் தாம் செய்தது போலவேக் கருதி உடன்படாவிட்டால் அவரோடு தாம் பழகிய நட்பு என்ன பயன் தரும்."
+        ],
+        "quiz_options_en": [
+          "The learning of the learned shines Valued by flawless scholar-minds",
+          "It's best to act when feasible If not see what is possible",
+          "They have joy and virtue at hand Who acquire treasures abundant",
+          "Of long friendship what is the use Righteous freedom if men refuse?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினை செயல்வகை) பகுதியில் குறள் 673 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இயலுமிடத்தில் எல்லாம் செயலைச் செய்து முடித்தல் நல்லது, இயலாவில்லையானால் பயன்படும் இடம் நோக்கியாவது செய்ய வேண்டும். பரிமேலழகர் உரை நுட்பம்: ஒல்லும் வாய் எல்லாம் வினை நன்று - வினை செய்யுங்கால் இயலுமிடத்தெல்லாம் போராற் செய்தல் நன்று; ஒல்லாக்கால் செல்லும் வாய் நோக்கிச் செயல் - அஃது இயலாவிடத்து ஏனை மூன்று உபாயத்துள்ளும் அது முடிவதோர் உபாயம் நோக்கிச் செய்க. (இயலுமிடம்: பகையின் தான் வலியனாகிய காலம...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 68: 'Modes of Action'), Kural 673 distills a foundational ethical insight: \"When way is clear, prompt let your action be; When not, watch till some open path you see\" Philosophically, Whenever it is possible (to overcome your enemy) the act (of fighting) is certainly good; if not, endeavour to employ some more successful method.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "justice",
+        "wealth",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 674,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: செய்யத்தொடங்கியச் செயல், கொண்ட பகை என்று இவ்விரண்டின் குறை ஆராய்ந்து பார்த்தால், தீயின் குறைபோல் தெரியாமல் வளர்ந்து கெடுக்கும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: When duly considered, the incomplete execution of an undertaking and hostility will grow and destroy one like the (unextinguished) remnant of a fire.",
+        "story_title_ta": "வினை செயல்வகை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Modes of Action — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினை செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 674 பற்றிக் கதை சொன்னார். 'செய்யத் தொடங்கிய செயல், அழிக்கத் தொடங்கிய பகை இவை இரண்டிலும் மிச்சம் இருந்தால் அவை தீயின் மிச்சம் போல வளர்ந்து அழிக்கும் (ஆதலால் எதையும் முழுமையாகச் செய்க).' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 68, 'Modes of Action', centered on Kural 674: When duly considered, the incomplete execution of an undertaking and hostility will grow and destroy one like the (unextinguished) remnant of a fire. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எற்ற செயலையோ, எதிர்கொண்ட பகையையோ முற்றாக முடிக்காமல் விட்டுவிட்டால் அது நெருப்பை அரை குறையாக அணைத்தது போலக் கேடு விளைவிக்கும்.",
+        "moral_en": "Moral: With work or foe, when you neglect some little thing, If you reflect, like smouldering fire, 'twill ruin bring.",
+        "game_blank_word_ta": "எச்சம்",
+        "game_options_ta": [
+          "சூழ்ச்சி",
+          "முடிவு",
+          "எச்சம்",
+          "துணிவெய்தல்"
+        ],
+        "game_options_en": [
+          "When counsel takes a resolve strong Weak delay of action is wrong",
+          "Delay such acts as need delay Delay not acts that need display",
+          "Work or foe left unfinished Flare up like fire unextinguished",
+          "It's best to act when feasible If not see what is possible"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினை செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 674, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செய்யத் தொடங்கிய செயல், அழிக்கத் தொடங்கிய பகை இவை இரண்டிலும் மிச்சம் இருந்தால் அவை தீயின் மிச்சம் போல வளர்ந்து அழிக்கும் (ஆதலால் எதையும் முழுமையாகச் செய்க). கலைஞர் உரை கூறுவது: எற்ற செயலையோ, எதிர்கொண்ட பகையையோ முற்றாக முடிக்காமல் விட்டுவிட்டால் அது நெருப்பை அரை குறையாக அணைத்தது போலக் கேடு விளைவிக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Modes of Action (Ministers & Elements of State), Kural 674 speaks directly to teens navigating studies, friendships, leadership, and digital choices: When duly considered, the incomplete execution of an undertaking and hostility will grow and destroy one like the (unextinguished) remnant of a fire. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினை செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Modes of Action' thoughtfully.",
+        "quiz_question_ta": "'வினை செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 674 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 674 from Chapter 'Modes of Action'?",
+        "quiz_options_ta": [
+          "தாமே உணர்கின்ற தன்மை உடையவரின் முன் கற்றவர் பேசுதல், தானே வளரும் பயிருள்ள பாத்தியில் நீரைச் சொரிந்தாற் போன்றது.",
+          "எல்லா உறுப்புக்களும் நிறைந்ததாய் இடையூறுகளுக்கு அஞ்சாததாய் உள்ள வெற்றி தரும் படை, அரசனுடைய செல்வங்கள் எல்லாவற்றிலும் சிறந்ததாகும்.",
+          "செய்யத்தொடங்கியச் செயல், கொண்ட பகை என்று இவ்விரண்டின் குறை ஆராய்ந்து பார்த்தால், தீயின் குறைபோல் தெரியாமல் வளர்ந்து கெடுக்கும்.",
+          "உரிமையால் கேளாமலே நண்பர் ஒன்றைச் செய்தால், அந்த உரிமையைப் போற்றி விரும்பும் தன்மையோடு அச் செயலையும் விரும்பி உடன்பட்டிருப்பர் அறிஞர்."
+        ],
+        "quiz_options_en": [
+          "To address understanding ones Is to water beds of growing grains",
+          "The daring well-armed winning force Is king's treasure and main resource",
+          "Work or foe left unfinished Flare up like fire unextinguished",
+          "Things done unasked by loving friends Please the wise as familiar trends!"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினை செயல்வகை) பகுதியில் குறள் 674 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செய்யத்தொடங்கியச் செயல், கொண்ட பகை என்று இவ்விரண்டின் குறை ஆராய்ந்து பார்த்தால், தீயின் குறைபோல் தெரியாமல் வளர்ந்து கெடுக்கும். பரிமேலழகர் உரை நுட்பம்: வினை பகை என்ற இரண்டின் எச்சம் - செய்யத் தொடங்கிய வினையும் களையத்தொடங்கிய பகையும் என்று சொல்லப்பட்ட இரண்டனது ஒழிவும்; நினையுங்கால் தீயெச்சம் போலத் தெறும் - ஆராயுங்கால் தீயினது ஒழிவு போலப்பின் வளர்ந்து கெடுக்கும். (இனி,இக்குறை என் செய்வது? என்று இகழ்ந்தொழியற்க...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 68: 'Modes of Action'), Kural 674 distills a foundational ethical insight: \"With work or foe, when you neglect some little thing, If you reflect, like smouldering fire, 'twill ruin bring\" Philosophically, When duly considered, the incomplete execution of an undertaking and hostility will grow and destroy one like the (unextinguished) remnant of a fire.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "perseverance",
+        "family",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 675,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: வேண்டிய பொருள், ஏற்றக்கருவி, தக்க காலம், மேற்கொண்ட தொழில், உரிய இடம் ஆகிய ஐந்தினையும் மயக்கம் தீர எண்ணிச் செய்ய வேண்டும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Do an act after a due consideration of the (following) five, viz money, means, time, execution and place.",
+        "story_title_ta": "வினை செயல்வகை — இனியா கற்ற பாடம்",
+        "story_title_en": "Modes of Action — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினை செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 675 பற்றிக் கதை சொன்னார். 'ஒரு செயலைச் செய்யத் தொடங்கும்போது தனக்கும் தன் எதிரிக்கும் இருக்கும் செல்வம், சாதனங்கள், ஏற்ற காலம், செயல்திறம், பொருத்தமான இடம் ஆகிய ஐந்தையும் சந்தேகத்திற்கு இடம் இல்லாமல் சிந்தித்துச் செய்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 68, 'Modes of Action', centered on Kural 675: Do an act after a due consideration of the (following) five, viz money, means, time, execution and place. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒரு காரியத்தில் ஈடுபடுவதற்கு முன்பு, அதற்குத் தேவையான பொருள், ஏற்ற கருவி, காலம், மேற்கொள்ளப் போகும் செயல்முறை, உகந்த இடம் ஆகிய ஐந்தையும் குறையில்லாமல் பார்த்துக் கொள்ள வேண்டும்.",
+        "moral_en": "Moral: Treasure and instrument and time and deed and place of act These five, till every doubt remove, think o'er with care exact.",
+        "game_blank_word_ta": "ஐந்தும்",
+        "game_options_ta": [
+          "சூழ்ச்சி",
+          "முடிவு",
+          "துணிவெய்தல்",
+          "ஐந்தும்"
+        ],
+        "game_options_en": [
+          "When counsel takes a resolve strong Weak delay of action is wrong",
+          "Delay such acts as need delay Delay not acts that need display",
+          "It's best to act when feasible If not see what is possible",
+          "Money and means, time, place and deed Decide these five and then proceed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினை செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 675, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு செயலைச் செய்யத் தொடங்கும்போது தனக்கும் தன் எதிரிக்கும் இருக்கும் செல்வம், சாதனங்கள், ஏற்ற காலம், செயல்திறம், பொருத்தமான இடம் ஆகிய ஐந்தையும் சந்தேகத்திற்கு இடம் இல்லாமல் சிந்தித்துச் செய்க. கலைஞர் உரை கூறுவது: ஒரு காரியத்தில் ஈடுபடுவதற்கு முன்பு, அதற்குத் தேவையான பொருள், ஏற்ற கருவி, காலம், மேற்கொள்ளப் போகும் செயல்முறை, உகந்த இடம் ஆகிய ஐந்தையும் குறையில்லாமல் பார்த்துக் கொள்ள வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Modes of Action (Ministers & Elements of State), Kural 675 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Do an act after a due consideration of the (following) five, viz money, means, time, execution and place. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினை செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Modes of Action' thoughtfully.",
+        "quiz_question_ta": "'வினை செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 675 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 675 from Chapter 'Modes of Action'?",
+        "quiz_options_ta": [
+          "நல்ல அறிஞரின் அவையில் நல்ல பொருளைப் மனதில் பதியுமாறு சொல்லவல்லவர், அறிவில்லாதவரின் கூட்டத்தில் மறந்தும் பேசக் கூடாது.",
+          "போரில் அழிவு வந்தவிடத்தில் வலிமைக் குன்றினாலும், இடையூறுகளுக்கு அஞ்சாத அஞ்சாமை தொன்றுதொட்டுப் பெருமை உடையபடைக்கு அல்லாமல் முடியாது.",
+          "வருந்ததக்க செயல்களை நண்பர் செய்தால் அதற்குக் காரணம் அறியாமை என்றாவது மிகுந்த உரிமை என்றாவது உணரவேண்டும்.",
+          "வேண்டிய பொருள், ஏற்றக்கருவி, தக்க காலம், மேற்கொண்ட தொழில், உரிய இடம் ஆகிய ஐந்தினையும் மயக்கம் தீர எண்ணிச் செய்ய வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "O ye who speak before the keen Forgetful, address not the mean",
+          "Through shots and wounds brave heroes hold Quailing not in fall, the field",
+          "Offence of friends feel it easy As folloy or close intimacy",
+          "Money and means, time, place and deed Decide these five and then proceed"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினை செயல்வகை) பகுதியில் குறள் 675 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வேண்டிய பொருள், ஏற்றக்கருவி, தக்க காலம், மேற்கொண்ட தொழில், உரிய இடம் ஆகிய ஐந்தினையும் மயக்கம் தீர எண்ணிச் செய்ய வேண்டும். பரிமேலழகர் உரை நுட்பம்: பொருள் கருவி காலம் வினை இடனொடு ஐந்தும் - வினைசெய்யுமிடத்துப் பொருளும் கருவியும் காலமும் வினையும் இடனுமாகிய இவ்வைந்தனையும்; இருள் தீர எண்ணிச் செயல் - மயக்கம் அற எண்ணிச் செய்க. (எண்ணொடு, பிறவழியும் கூட்டப்பட்டது. பொருள் - அழியும் பொருளும் ஆகும்¢ பொருளும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 68: 'Modes of Action'), Kural 675 distills a foundational ethical insight: \"Treasure and instrument and time and deed and place of act These five, till every doubt remove, think o'er with care exact\" Philosophically, Do an act after a due consideration of the (following) five, viz money, means, time, execution and place.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "wealth",
+        "education",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 676,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: செயலை முடிக்கும் வகையும், வரக்கூடிய இடையூறும், முடிந்த போது கிடைக்கும் பெரும்பயனும் ஆகியவற்றை ஆராய்ந்து செய்ய வேண்டும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: An act is to be performed after considering the exertion required, the obstacles to be encountered, and the great profit to be gained (on its completion).",
+        "story_title_ta": "வினை செயல்வகை — முகில் கற்ற பாடம்",
+        "story_title_en": "Modes of Action — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினை செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 676 பற்றிக் கதை சொன்னார். 'ஒரு செயலைச் செய்யும்போது அது முடிவதற்கான முயற்சி, இடையில் வரும் தடை, முடியும்போது அடையும் பெரும்பயன் ஆகியவற்றை எண்ணிப் பார்த்துச் செய்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 68, 'Modes of Action', centered on Kural 676: An act is to be performed after considering the exertion required, the obstacles to be encountered, and the great profit to be gained (on its completion). Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஈடுபடக்கூடிய ஒரு செயலால் எதிர்பார்க்கப்படும் பயன், அதற்கான முயற்சிக்கு இடையே வரும் தடைகள், அச்செயலாற்றுதவற்கான முறை ஆகிய அனைத்தையும் முதலில் ஆராய்ந்து அறிந்து கொள்ள வேண்டும்.",
+        "moral_en": "Moral: Accomplishment, the hindrances, large profits won By effort these compare,- then let the work be done.",
+        "game_blank_word_ta": "படுபயனும்",
+        "game_options_ta": [
+          "படுபயனும்",
+          "சூழ்ச்சி",
+          "முடிவு",
+          "துணிவெய்தல்"
+        ],
+        "game_options_en": [
+          "Weigh well the end, hindrance, profit And then pursue a fitting act",
+          "When counsel takes a resolve strong Weak delay of action is wrong",
+          "Delay such acts as need delay Delay not acts that need display",
+          "It's best to act when feasible If not see what is possible"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினை செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 676, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு செயலைச் செய்யும்போது அது முடிவதற்கான முயற்சி, இடையில் வரும் தடை, முடியும்போது அடையும் பெரும்பயன் ஆகியவற்றை எண்ணிப் பார்த்துச் செய்க. கலைஞர் உரை கூறுவது: ஈடுபடக்கூடிய ஒரு செயலால் எதிர்பார்க்கப்படும் பயன், அதற்கான முயற்சிக்கு இடையே வரும் தடைகள், அச்செயலாற்றுதவற்கான முறை ஆகிய அனைத்தையும் முதலில் ஆராய்ந்து அறிந்து கொள்ள வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Modes of Action (Ministers & Elements of State), Kural 676 speaks directly to teens navigating studies, friendships, leadership, and digital choices: An act is to be performed after considering the exertion required, the obstacles to be encountered, and the great profit to be gained (on its completion). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினை செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Modes of Action' thoughtfully.",
+        "quiz_question_ta": "'வினை செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 676 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 676 from Chapter 'Modes of Action'?",
+        "quiz_options_ta": [
+          "செயலை முடிக்கும் வகையும், வரக்கூடிய இடையூறும், முடிந்த போது கிடைக்கும் பெரும்பயனும் ஆகியவற்றை ஆராய்ந்து செய்ய வேண்டும்.",
+          "தன் இனத்தார் அல்லாதவரின் கூட்டத்தில் முன் ஒரு பொருளைப்பற்றி பேசுதல், தூய்மையில்லாத முற்றத்தில் சிந்திய அமிழ்தம் போன்றது.",
+          "எலியாகிய பகைக்கூடி கடல் போல் ஒலித்தாலும் என்ன தீங்கு ஏற்ப்படும், பாம்பு மூச்சு விட்ட அளவில் அவைக் கெட்டழியும்.",
+          "உரிமை வாழ்வின் எல்லையில் நின்றவர், தமக்கு அழிவுநேர்ந்தவிடத்திலும் பழைமையாய் உறவு கொண்டு நின்றவரின் தொடர்பைக் கைவிட மாட்டார்."
+        ],
+        "quiz_options_en": [
+          "Weigh well the end, hindrance, profit And then pursue a fitting act",
+          "To hostiles who wise words utters Pours ambrosia into gutters",
+          "Sea-like ratfoes roar What if? They perish at a cobra's whiff",
+          "They forsake not but continue In friendship's bounds though loss ensue"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினை செயல்வகை) பகுதியில் குறள் 676 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செயலை முடிக்கும் வகையும், வரக்கூடிய இடையூறும், முடிந்த போது கிடைக்கும் பெரும்பயனும் ஆகியவற்றை ஆராய்ந்து செய்ய வேண்டும். பரிமேலழகர் உரை நுட்பம்: முடிவும் - வினை செய்யுங்கால் அது முடிவதற்குளதாம் முயற்சியும்; இடையூறும் - அதற்கு வரும் இடையூறும்; முற்றியாங்கு எய்தும் படுபயனும் - அது நீங்கி முடிந்தால் தான் எய்தும் பெரும்பயனும்; பார்த்துச் செயல் - சீர்தூக்கிச் செய்க. (முடிவு, ஆகுபெயர், 'முயற்சி இடையூறுகளது...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 68: 'Modes of Action'), Kural 676 distills a foundational ethical insight: \"Accomplishment, the hindrances, large profits won By effort these compare,- then let the work be done\" Philosophically, An act is to be performed after considering the exertion required, the obstacles to be encountered, and the great profit to be gained (on its completion).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "perseverance",
+        "wealth",
+        "education",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 677,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: செயலைச் செய்கின்றவன் செய்ய வேண்டிய முறை, அச் செயலின் உண்மையான இயல்பை அறிந்தவனுடையக் கருத்தைத் தான் ஏற்றுக் கொள்ளவதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The method of performance for one who has begun an act is to ascertain the mind of him who knows the secret thereof.",
+        "story_title_ta": "வினை செயல்வகை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Modes of Action — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினை செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 677 பற்றிக் கதை சொன்னார். 'ஒரு செயலைச் செய்யத் தொடங்குபவன் அதைச் செய்யும் முறையாவது, அச்செயலை இதற்கு முன்பு செய்திருப்பவனின் கருத்தை அறிந்து கொள்வதேயாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 68, 'Modes of Action', centered on Kural 677: The method of performance for one who has begun an act is to ascertain the mind of him who knows the secret thereof. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒரு செயலில் ஈடுபடுகிறவன், அச்செயல் குறித்து முழுமையாக உணர்ந்தவனின் கருத்தினை முதலில் அறிந்து கொள்ள வேண்டும்.",
+        "moral_en": "Moral: Who would succeed must thus begin first let him ask The thoughts of them who thoroughly know the task.",
+        "game_blank_word_ta": "உள்ளம்",
+        "game_options_ta": [
+          "சூழ்ச்சி",
+          "உள்ளம்",
+          "முடிவு",
+          "துணிவெய்தல்"
+        ],
+        "game_options_en": [
+          "When counsel takes a resolve strong Weak delay of action is wrong",
+          "Know first the secret from experts That is the way of fruitful acts",
+          "Delay such acts as need delay Delay not acts that need display",
+          "It's best to act when feasible If not see what is possible"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினை செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 677, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு செயலைச் செய்யத் தொடங்குபவன் அதைச் செய்யும் முறையாவது, அச்செயலை இதற்கு முன்பு செய்திருப்பவனின் கருத்தை அறிந்து கொள்வதேயாகும். கலைஞர் உரை கூறுவது: ஒரு செயலில் ஈடுபடுகிறவன், அச்செயல் குறித்து முழுமையாக உணர்ந்தவனின் கருத்தினை முதலில் அறிந்து கொள்ள வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Modes of Action (Ministers & Elements of State), Kural 677 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The method of performance for one who has begun an act is to ascertain the mind of him who knows the secret thereof. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினை செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Modes of Action' thoughtfully.",
+        "quiz_question_ta": "'வினை செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 677 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 677 from Chapter 'Modes of Action'?",
+        "quiz_options_ta": [
+          "சொற்களின் தூய்மை தொகுதி அறிந்த தூய்மை உடையவர், அவைக்களத்தின் வகையினை அறிந்து, வல்லவறின் அவையில் வாய்ச் சோர்ந்து பிழை சொல்லமாட்டார்.",
+          "செயலைச் செய்கின்றவன் செய்ய வேண்டிய முறை, அச் செயலின் உண்மையான இயல்பை அறிந்தவனுடையக் கருத்தைத் தான் ஏற்றுக் கொள்ளவதாகும்",
+          "(போர் முனையில்) அழிவு இல்லாததாய்(பகைவருடைய) வஞ்சனைக்கு இரையாகாததாய், தொன்று தொட்டுவந்த அஞ்சாமை உடையதே படையாகும்.",
+          "அன்புடன் தொன்றுதொட்டு வந்த உறவை உடையவர், அழிவுதரும் செயல்களை பழகியவர் செய்த போதிலும் தம் அன்பு நீங்காமலிருப்பர்."
+        ],
+        "quiz_options_en": [
+          "The pure fail not in power of words Knowing grand council's moods and modes",
+          "Know first the secret from experts That is the way of fruitful acts",
+          "The army guards its genial flame Not crushed, routed nor marred in name",
+          "Comrades established in firm love Though ruin comes waive not their vow"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினை செயல்வகை) பகுதியில் குறள் 677 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செயலைச் செய்கின்றவன் செய்ய வேண்டிய முறை, அச் செயலின் உண்மையான இயல்பை அறிந்தவனுடையக் கருத்தைத் தான் ஏற்றுக் கொள்ளவதாகும். பரிமேலழகர் உரை நுட்பம்: செய்வினை செய்வான் செயன் முறை - அவ்வாற்றால் செய்யப்படும் வினையைத் தொடங்கினான் செய்யும் முறைமையாவது; அவ்வினை உள் அறிவான் உள்ளம் கொளல்- அவனது உளப்பாட்டினை அறிவான் கருத்தினைத் தான் அறிதல். ('அவ்வாறு' என்றது, பொருள் முதலிய எண்ணலையும் முடிவு முதலிய தூக்கலையும். உள...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 68: 'Modes of Action'), Kural 677 distills a foundational ethical insight: \"Who would succeed must thus begin first let him ask The thoughts of them who thoroughly know the task\" Philosophically, The method of performance for one who has begun an act is to ascertain the mind of him who knows the secret thereof.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "justice",
+        "self-mastery",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 678,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒரு செயலைச் செய்யும் போது அச் செயலால் மற்றொரு செயலையும் செய்து முடித்துக் கொள்ளல், ஒரு யானையால் மற்றொரு யானையைப் பிடித்தலைப் போன்றது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: To make one undertaking the means of accomplishing another (similar to it) is like making one rutting elephant the means of capturing another.",
+        "story_title_ta": "வினை செயல்வகை — கவின் கற்ற பாடம்",
+        "story_title_en": "Modes of Action — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினை செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 678 பற்றிக் கதை சொன்னார். 'ஒரு செயலைச் செய்யும்போதே இன்னொரு செயலையும் செய்து கொள்வது மதநீர் வழியும் யானையால் இன்னொரு யானையைப் பிடிப்பது போலாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 68, 'Modes of Action', centered on Kural 678: To make one undertaking the means of accomplishing another (similar to it) is like making one rutting elephant the means of capturing another. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒரு செயலில் ஈடுபடும்போது, அச்செயலின் தொடர்பாக மற்றொரு செயலையும் முடித்துக் கொள்வது ஒரு யானையைப் பயன்படுத்தி மற்றொரு யானையைப் பிடிப்பது போன்றதாகும்.",
+        "moral_en": "Moral: By one thing done you reach a second work's accomplishment; So furious elephant to snare its fellow brute is sent.",
+        "game_blank_word_ta": "தற்று",
+        "game_options_ta": [
+          "சூழ்ச்சி",
+          "முடிவு",
+          "தற்று",
+          "துணிவெய்தல்"
+        ],
+        "game_options_en": [
+          "When counsel takes a resolve strong Weak delay of action is wrong",
+          "Delay such acts as need delay Delay not acts that need display",
+          "Lure a tusker by a tusker Achieve a deed by deed better",
+          "It's best to act when feasible If not see what is possible"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினை செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 678, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு செயலைச் செய்யும்போதே இன்னொரு செயலையும் செய்து கொள்வது மதநீர் வழியும் யானையால் இன்னொரு யானையைப் பிடிப்பது போலாம். கலைஞர் உரை கூறுவது: ஒரு செயலில் ஈடுபடும்போது, அச்செயலின் தொடர்பாக மற்றொரு செயலையும் முடித்துக் கொள்வது ஒரு யானையைப் பயன்படுத்தி மற்றொரு யானையைப் பிடிப்பது போன்றதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Modes of Action (Ministers & Elements of State), Kural 678 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To make one undertaking the means of accomplishing another (similar to it) is like making one rutting elephant the means of capturing another. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினை செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Modes of Action' thoughtfully.",
+        "quiz_question_ta": "'வினை செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 678 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 678 from Chapter 'Modes of Action'?",
+        "quiz_options_ta": [
+          "கற்றவரின் முன் தாம் கற்றவைகளைச் அவருடைய மனதில் பதியுமாறுச் சொல்லவல்லவர், கற்றவர் எல்லாரிலும் கற்றவராக மதித்துச் சொல்லப்படுவார்.",
+          "எமனே சினங்கொண்டு தன் மேல் எதிர்த்து வந்தாலும் ஒன்றாகத் திரண்டு எதிர்த்து நிற்க்கும் ஆற்றல் உடையதே படையாகும்.",
+          "ஒரு செயலைச் செய்யும் போது அச் செயலால் மற்றொரு செயலையும் செய்து முடித்துக் கொள்ளல், ஒரு யானையால் மற்றொரு யானையைப் பிடித்தலைப் போன்றது.",
+          "பழகிய நண்பர் செய்த தவறு பற்றிப் பிறர் சொன்னாலும், கேளாமலிருக்கும் உரிமை வல்லவர்க்கு, அந்த நண்பர் தவறுசெய்வாரானால் அது பயனுள்ள நாளாகும்."
+        ],
+        "quiz_options_en": [
+          "Among scholars he is scholar Who holds scholars with learned lore",
+          "The real army with rallied force Resists even Death-God fierce",
+          "Lure a tusker by a tusker Achieve a deed by deed better",
+          "Fast friends who list not tales of ill Though wronged they say \\\"that day is well\\\""
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினை செயல்வகை) பகுதியில் குறள் 678 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒரு செயலைச் செய்யும் போது அச் செயலால் மற்றொரு செயலையும் செய்து முடித்துக் கொள்ளல், ஒரு யானையால் மற்றொரு யானையைப் பிடித்தலைப் போன்றது. பரிமேலழகர் உரை நுட்பம்: வினையான் வினை ஆக்கிக்கோடல் - செய்கின்ற வினையாலே அன்னது பிறிதும் ஓர் வினையை முடித்துக்கொள்க; நனைகவுள் யானையால் யானை யாத்தற்று - அது மதத்தான் நனைந்த கபோலத்தினையுடைய யானையாலே அன்னது பிறிதுமோர் யானையைப் பிணித்ததனோடு ஒக்கும். (பிணித்தற்கு அருமைதோன்ற 'நனைகவுள...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 68: 'Modes of Action'), Kural 678 distills a foundational ethical insight: \"By one thing done you reach a second work's accomplishment; So furious elephant to snare its fellow brute is sent\" Philosophically, To make one undertaking the means of accomplishing another (similar to it) is like making one rutting elephant the means of capturing another.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "gratitude",
+        "discipline",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 679,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பகைவராக உள்ளவரைப் பொருந்துமாறு சேர்த்துக் கொள்ளல், நண்பர்க்கு உதவியானவற்றை செய்தலைவிட விரைந்து செய்யத்தக்கதாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: One should rather hasten to secure the alliance of the foes (of one's foes) than perform good offices to one's friends.",
+        "story_title_ta": "வினை செயல்வகை — நிலா கற்ற பாடம்",
+        "story_title_en": "Modes of Action — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினை செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 679 பற்றிக் கதை சொன்னார். 'ஒரு செயலைச் செய்யும்போது நண்பர்களுக்கு நல்லது செய்வதைக் காட்டிலும் தன் பகைவர்களோடு நட்புக் கொள்வது விரைந்து செய்யப்படவேண்டியது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 68, 'Modes of Action', centered on Kural 679: One should rather hasten to secure the alliance of the foes (of one's foes) than perform good offices to one's friends. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நன்பருக்கு நல்லுதவி செய்வதைக் காட்டிலும் பகைவராயிருப்பவரைத் தம்முடன் பொருந்துமாறு சேர்த்துக் கொள்ளுதல் விரைந்து செய்யத் தக்கதாகும்.",
+        "moral_en": "Moral: Than kindly acts to friends more urgent thing to do, Is making foes to cling as friends attached to you.",
+        "game_blank_word_ta": "நட்டார்க்கு",
+        "game_options_ta": [
+          "சூழ்ச்சி",
+          "முடிவு",
+          "துணிவெய்தல்",
+          "நட்டார்க்கு"
+        ],
+        "game_options_en": [
+          "When counsel takes a resolve strong Weak delay of action is wrong",
+          "Delay such acts as need delay Delay not acts that need display",
+          "It's best to act when feasible If not see what is possible",
+          "Than doing good to friends it is More urgent to befriend the foes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினை செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 679, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு செயலைச் செய்யும்போது நண்பர்களுக்கு நல்லது செய்வதைக் காட்டிலும் தன் பகைவர்களோடு நட்புக் கொள்வது விரைந்து செய்யப்படவேண்டியது. கலைஞர் உரை கூறுவது: நன்பருக்கு நல்லுதவி செய்வதைக் காட்டிலும் பகைவராயிருப்பவரைத் தம்முடன் பொருந்துமாறு சேர்த்துக் கொள்ளுதல் விரைந்து செய்யத் தக்கதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Modes of Action (Ministers & Elements of State), Kural 679 speaks directly to teens navigating studies, friendships, leadership, and digital choices: One should rather hasten to secure the alliance of the foes (of one's foes) than perform good offices to one's friends. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினை செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Modes of Action' thoughtfully.",
+        "quiz_question_ta": "'வினை செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 679 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 679 from Chapter 'Modes of Action'?",
+        "quiz_options_ta": [
+          "பகைவர் உள்ள போர்க்களத்தில் (அஞ்சாமல் சென்று) சாகத் துணிந்தவர் உலகத்தில் பலர், கற்றவரின் அவைக்களத்தில் பேச வல்லவர் சிலரே.",
+          "வீரம், மானம், சிறந்த வழியில் நடக்கும் நடக்கை, தலைவரால் நம்பித் தெளியப்படுதல் ஆகிய இந்த நான்கு பண்புகளும் படைக்கு சிறந்தவையாகும்.",
+          "உரிமை கெடாமல் தொன்று தொட்டு வந்த உறவு உடையவரின் தொடர்பைக் கைவிடாதவரை உலகம் விரும்பிப் போற்றும்.",
+          "பகைவராக உள்ளவரைப் பொருந்துமாறு சேர்த்துக் கொள்ளல், நண்பர்க்கு உதவியானவற்றை செய்தலைவிட விரைந்து செய்யத்தக்கதாகும்."
+        ],
+        "quiz_options_en": [
+          "Many brave foes and die in fields The fearless few face wise councils",
+          "Manly army has merits four:- Stately-march, faith, honour, valour",
+          "To love such friends the world desires Whose friendship has unbroken ties",
+          "Than doing good to friends it is More urgent to befriend the foes"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினை செயல்வகை) பகுதியில் குறள் 679 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பகைவராக உள்ளவரைப் பொருந்துமாறு சேர்த்துக் கொள்ளல், நண்பர்க்கு உதவியானவற்றை செய்தலைவிட விரைந்து செய்யத்தக்கதாகும். பரிமேலழகர் உரை நுட்பம்: நட்டார்க்கு நல்ல செயலின் விரைந்ததே - வினை செய்வானால் தன் நட்டார்க்கு இனியவற்றைச் செய்தலினும் விரைந்து செய்யப்படும்; ஒட்டாரை ஒட்டிக் கொடல் - தன் பகைவரோடு ஒட்டாரைத் தனக்கு நட்பாக்கிக் கோடல். (அவ்வினை வாய்த்தற்பயத்தவாய இவ்விரண்டும் பகைவர்க்குத் தன் மெலிவு...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 68: 'Modes of Action'), Kural 679 distills a foundational ethical insight: \"Than kindly acts to friends more urgent thing to do, Is making foes to cling as friends attached to you\" Philosophically, One should rather hasten to secure the alliance of the foes (of one's foes) than perform good offices to one's friends.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "courage",
+        "time",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 680,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: வலிமை குறைந்தவர், தம்மை சார்ந்துள்ளவர் நடுங்குவதற்காக தாம் அஞ்சி, வேண்டியது கிடைக்ககுமானால் வலிமைமிக்கவரைப் பணிந்தும் ஏற்றுக் கொள்வர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Ministers of small states, afraid of their people being frightened, will yield to and acknowledge their superior foes, if the latter offer them a chance of reconciliation.",
+        "story_title_ta": "வினை செயல்வகை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Modes of Action — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வினை செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 680 பற்றிக் கதை சொன்னார். 'சிறிய இடத்தில் வாழ்பவர், தம்மிலும் பெரியவர் எதிர்த்து வரும்போது அவரைக் கண்டு தம்மவர் நடுங்குவதற்கு அஞ்சி அப்பெரியவரைப் பணிந்து ஏற்றுக் கொள்வர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 68, 'Modes of Action', centered on Kural 680: Ministers of small states, afraid of their people being frightened, will yield to and acknowledge their superior foes, if the latter offer them a chance of reconciliation. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தம்மைவிட வலிமையானவர்களை எதிர்ப்பதற்குத் தம்முடன் இருப்பவர்களே அஞ்சும்போது தாம் எதிர்பார்க்கும் பலன் கிட்டுமானால் அவர்கள் வலியோரை வணங்கி ஏற்றுக் கொள்வார்கள்.",
+        "moral_en": "Moral: The men of lesser realm, fearing the people's inward dread, Accepting granted terms, to mightier ruler bow the head.",
+        "game_blank_word_ta": "உள்நடுங்கல்",
+        "game_options_ta": [
+          "உள்நடுங்கல்",
+          "சூழ்ச்சி",
+          "முடிவு",
+          "துணிவெய்தல்"
+        ],
+        "game_options_en": [
+          "Small statesmen fearing people's fear Submit to foes superior",
+          "When counsel takes a resolve strong Weak delay of action is wrong",
+          "Delay such acts as need delay Delay not acts that need display",
+          "It's best to act when feasible If not see what is possible"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வினை செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 680, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சிறிய இடத்தில் வாழ்பவர், தம்மிலும் பெரியவர் எதிர்த்து வரும்போது அவரைக் கண்டு தம்மவர் நடுங்குவதற்கு அஞ்சி அப்பெரியவரைப் பணிந்து ஏற்றுக் கொள்வர். கலைஞர் உரை கூறுவது: தம்மைவிட வலிமையானவர்களை எதிர்ப்பதற்குத் தம்முடன் இருப்பவர்களே அஞ்சும்போது தாம் எதிர்பார்க்கும் பலன் கிட்டுமானால் அவர்கள் வலியோரை வணங்கி ஏற்றுக் கொள்வார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Modes of Action (Ministers & Elements of State), Kural 680 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Ministers of small states, afraid of their people being frightened, will yield to and acknowledge their superior foes, if the latter offer them a chance of reconciliation. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வினை செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Modes of Action' thoughtfully.",
+        "quiz_question_ta": "'வினை செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 680 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 680 from Chapter 'Modes of Action'?",
+        "quiz_options_ta": [
+          "வலிமை குறைந்தவர், தம்மை சார்ந்துள்ளவர் நடுங்குவதற்காக தாம் அஞ்சி, வேண்டியது கிடைக்ககுமானால் வலிமைமிக்கவரைப் பணிந்தும் ஏற்றுக் கொள்வர்.",
+          "கற்றவரின் முன் தான் கற்றவைகளை அவருடைய மனதில் பதியுமாறு சொல்லி, மிகுதியாகக் கற்றவரிடம் அம்மிகுதியான கல்வியைக் அறிந்து கொள்ள வேண்டும்.",
+          "தன் மேல் எதிர்த்து வந்த பகைவரின் போரைத்தாங்கி, வெல்லும் தன்மை அறிந்து அவனுடைய தூசிப்படையை எதிர்த்துச் செல்லவல்லதே படையாகும்.",
+          "(தவறு செய்த போதிலும்)பழகிய நண்பரிடத்தில் தம் உரிமை பண்பிலிருந்து மாறாதவர், தம் பகைவராலும் விரும்பப்படுதற்குறிய சிறப்பை அடைவர்"
+        ],
+        "quiz_options_en": [
+          "Small statesmen fearing people's fear Submit to foes superior",
+          "Impress the learned with your lore From greater savants learn still more",
+          "Army sets on to face to foes Knowing how the trend of war goes",
+          "Even foes love for better ends Those who leave not long-standing friends"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வினை செயல்வகை) பகுதியில் குறள் 680 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வலிமை குறைந்தவர், தம்மை சார்ந்துள்ளவர் நடுங்குவதற்காக தாம் அஞ்சி, வேண்டியது கிடைக்ககுமானால் வலிமைமிக்கவரைப் பணிந்தும் ஏற்றுக் கொள்வர். பரிமேலழகர் உரை நுட்பம்: உறை சிறியார் - ஆளும் இடஞ் சிறியராய அமைச்சர்; உள்நடுங்கல் அஞ்சி -தம்மின் வலியரால் எதிர்ந்தவழித் தம்பகுதி நடுங்கலை அஞ்சி; குறைபெறின் பெரியார்ப் பணிந்து கொள்வார் - அந்நிலைக்கு வேண்டுவதாய சந்து கூடுமாயின், அவரைத் தாழ்ந்து அதனை ஏற்றுக் கொள்வர். (இடம்: நாடும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 68: 'Modes of Action'), Kural 680 distills a foundational ethical insight: \"The men of lesser realm, fearing the people's inward dread, Accepting granted terms, to mightier ruler bow the head\" Philosophically, Ministers of small states, afraid of their people being frightened, will yield to and acknowledge their superior foes, if the latter offer them a chance of reconciliation.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "courage",
+        "truth",
+        "love"
+      ]
+    }
+  ]
+}

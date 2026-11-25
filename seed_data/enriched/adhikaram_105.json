@@ -1,0 +1,580 @@
+{
+  "adhikaram_id": 105,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.427179488+00:00",
+  "kurals": [
+    {
+      "kural_number": 1041,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: வறுமையைப் போல் துன்பமானது எது என்று கேட்டால், வறுமையைப் போல் துன்பமானது வறுமை ஒன்றே ஆகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: There is nothing that afflicts (one) like poverty.",
+        "story_title_ta": "நல்குரவு — இனியா கற்ற பாடம்",
+        "story_title_en": "Poverty — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நல்குரவு' என்ற அதிகாரத்திலிருந்து குறள் 1041 பற்றிக் கதை சொன்னார். 'இன்மையை விடக் கொடியதுஎது என்றால், இல்லாமையை விடக் கொடியது இல்லாமையே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 105, 'Poverty', centered on Kural 1041: There is nothing that afflicts (one) like poverty. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வறுமைத் துன்பத்துக்கு உவமையாகக் காட்டுவதற்கு வறுமைத் துன்பத்தைத் தவிர வேறு துன்பம் எதுவுமில்லை.",
+        "moral_en": "Moral: You ask what sharper pain than poverty is known; Nothing pains more than poverty, save poverty alone.",
+        "game_blank_word_ta": "இன்னாதது",
+        "game_options_ta": [
+          "இன்மை",
+          "இன்னாதது",
+          "எனவொரு",
+          "மறுமையும்"
+        ],
+        "game_options_en": [
+          "The sinner Want is enemy dire Of joys of earth and heaven there",
+          "What gives more pain than scarcity? No pain pinches like poverty",
+          "The craving itch of poverty Kills graceful words and ancestry",
+          "Want makes even good familymen Utter words that are low and mean"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நல்குரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1041, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இன்மையை விடக் கொடியதுஎது என்றால், இல்லாமையை விடக் கொடியது இல்லாமையே. கலைஞர் உரை கூறுவது: வறுமைத் துன்பத்துக்கு உவமையாகக் காட்டுவதற்கு வறுமைத் துன்பத்தைத் தவிர வேறு துன்பம் எதுவுமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Poverty (Citizenship & Miscellaneous), Kural 1041 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is nothing that afflicts (one) like poverty. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நல்குரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Poverty' thoughtfully.",
+        "quiz_question_ta": "'நல்குரவு' அதிகாரத்தில் வரும் திருக்குறள் 1041 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1041 from Chapter 'Poverty'?",
+        "quiz_options_ta": [
+          "எமனோ. கண்ணோ, பெண்மானோ, இந்த இளம் பெண்ணின் பார்வை இந்த மூன்றன் தன்மையும் உடையதாக இருக்கிறது.",
+          "வறுமையைப் போல் துன்பமானது எது என்று கேட்டால், வறுமையைப் போல் துன்பமானது வறுமை ஒன்றே ஆகும்.",
+          "எம் காதலர் நெஞ்சினுள் இருக்கின்றார், ஆகையால் சூடான பொருளை உண்டால் அவர் வெப்பமுறுதலை எண்ணிச் சூடான பொருளை உண்ண அஞ்சு கின்றோம்.",
+          "தீராத இக்காமநோய், கண்கள் காட்ட யாம் கண்டதால் விளைந்தது; அவ்வாறிருக்க, காட்டிய கண்கள், இன்று அன்பு கொண்டு உணராமல் துன்பத்தால் வருந்துவது ஏன்?"
+        ],
+        "quiz_options_en": [
+          "Is it death, eye or doe? All three In winsome woman's look I see",
+          "What gives more pain than scarcity? No pain pinches like poverty",
+          "My lover abides in my heart I fear hot food lest he feels hot",
+          "The eye pointed him to me; why then They weep with malady and pine?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நல்குரவு) பகுதியில் குறள் 1041 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வறுமையைப் போல் துன்பமானது எது என்று கேட்டால், வறுமையைப் போல் துன்பமானது வறுமை ஒன்றே ஆகும். பரிமேலழகர் உரை நுட்பம்: இன்மையின் இன்னாதது யாது எனின் - ஒருவனுக்கு வறுமை போல இன்னாதது யாது என்று வினவின்; இன்மையின் இன்னாதது இன்மையே - வறுமை போல இன்னாதது வறுமையே, பிறிதில்லை. (இன்னாதது - துன்பஞ்செய்வது. ஒப்பது இல்லை எனவே, மிக்கது இன்மை சொல்ல வேண்டாவாயிற்று).",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 105: 'Poverty'), Kural 1041 distills a foundational ethical insight: \"You ask what sharper pain than poverty is known; Nothing pains more than poverty, save poverty alone\" Philosophically, There is nothing that afflicts (one) like poverty.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1042,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: வறுமை என்று சொல்லப்படும் பாவி ஒருவனை நெருங்கினால், அவனுக்கு மறுமையின்பமும், இன்மையின்பமும் இல்லாமற் போகும் நிலைமை வரும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: When cruel poverty comes on, it deprives one of both the present and future (bliss).",
+        "story_title_ta": "நல்குரவு — முகில் கற்ற பாடம்",
+        "story_title_en": "Poverty — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நல்குரவு' என்ற அதிகாரத்திலிருந்து குறள் 1042 பற்றிக் கதை சொன்னார். 'இல்லாமை என்ற ஒரு பாவி ஒருவனிடத்தில் சேர்ந்தால், அவன் பிறர்க்குக் கொடுக்க இல்லாதவன் ஆவதால் அவனுக்கு மறுமை இன்பமும் இல்லை; தானே அனுபவிக்க ஏதும் இல்லாததால் இம்மை இன்பமும் இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 105, 'Poverty', centered on Kural 1042: When cruel poverty comes on, it deprives one of both the present and future (bliss). Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பாவி என இகழப்படுகின்ற வறுமைக் கொடுமை ஒருவருக்கு ஏற்பட்டுவிட்டால் அவருக்கு நிகழ்காலத்திலும், வருங்காலத்திலும் நிம்மதி என்பது கிடையாது.",
+        "moral_en": "Moral: Malefactor matchless! poverty destroysThis world's and the next world's joys.",
+        "game_blank_word_ta": "இன்றி",
+        "game_options_ta": [
+          "இன்மையின்",
+          "இன்னாதது",
+          "இன்றி",
+          "யாதெனின்"
+        ],
+        "game_options_en": [
+          "What gives more pain than scarcity? No pain pinches like poverty",
+          "The craving itch of poverty Kills graceful words and ancestry",
+          "The sinner Want is enemy dire Of joys of earth and heaven there",
+          "Want makes even good familymen Utter words that are low and mean"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நல்குரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1042, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இல்லாமை என்ற ஒரு பாவி ஒருவனிடத்தில் சேர்ந்தால், அவன் பிறர்க்குக் கொடுக்க இல்லாதவன் ஆவதால் அவனுக்கு மறுமை இன்பமும் இல்லை; தானே அனுபவிக்க ஏதும் இல்லாததால் இம்மை இன்பமும் இல்லை. கலைஞர் உரை கூறுவது: பாவி என இகழப்படுகின்ற வறுமைக் கொடுமை ஒருவருக்கு ஏற்பட்டுவிட்டால் அவருக்கு நிகழ்காலத்திலும், வருங்காலத்திலும் நிம்மதி என்பது கிடையாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Poverty (Citizenship & Miscellaneous), Kural 1042 speaks directly to teens navigating studies, friendships, leadership, and digital choices: When cruel poverty comes on, it deprives one of both the present and future (bliss). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நல்குரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Poverty' thoughtfully.",
+        "quiz_question_ta": "'நல்குரவு' அதிகாரத்தில் வரும் திருக்குறள் 1042 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1042 from Chapter 'Poverty'?",
+        "quiz_options_ta": [
+          "வளைந்த புருவங்கள் கோணாமல் நேராக இருந்து மறைக்குமானால், இவளுடைய கண்கள் யான் நடுங்கும் படியான துன்பத்தைச் செய்யமாட்டா.",
+          "கண் இமைத்தால் காதலர் மறைந்து போதலை அறிகின்றேன், அவ்வளவிற்கே இந்த ஊரார் அவரை அன்பில்லாதவர் என்று சொல்லுவர்.",
+          "வறுமை என்று சொல்லப்படும் பாவி ஒருவனை நெருங்கினால், அவனுக்கு மறுமையின்பமும், இன்மையின்பமும் இல்லாமற் போகும் நிலைமை வரும்.",
+          "ஆராய்ந்து உணராமல் அன்று நோக்கிக் காதல் கொண்ட கண்கள், இன்று அன்பு கொண்டு உணராமல் துன்பத்தால் வருந்துவது ஏன்?"
+        ],
+        "quiz_options_en": [
+          "If cruel brows unbent, would screen Her eyes won't cause me trembling pain",
+          "My eyes wink not lest he should hide And him as cruel the townsmen chide",
+          "The sinner Want is enemy dire Of joys of earth and heaven there",
+          "Why should these dyed eyes grieve now sans Regrets for their thoughtless glance?"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நல்குரவு) பகுதியில் குறள் 1042 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வறுமை என்று சொல்லப்படும் பாவி ஒருவனை நெருங்கினால், அவனுக்கு மறுமையின்பமும், இன்மையின்பமும் இல்லாமற் போகும் நிலைமை வரும். பரிமேலழகர் உரை நுட்பம்: இன்மை என ஒருபாவி - வறுமை என்று சொல்லப்படுவதொரு பாவி; மறுமையும் இம்மையும் இன்றி வரும் - ஒருவனுழை வருங்கால் அவனுக்கு மறுமையின்பமும் இம்மையின்பமும் இல்லையாக வரும். ('இன்மையென ஒரு பாவி' என்பதற்கு மேல் 'அழுக்காறென ஒரு பாவி' (குறள்-168) என்புழி உரைத்தாங்கு உரைக்க...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 105: 'Poverty'), Kural 1042 distills a foundational ethical insight: \"Malefactor matchless! poverty destroysThis world's and the next world's joys\" Philosophically, When cruel poverty comes on, it deprives one of both the present and future (bliss).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "courage",
+        "ethics",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1043,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: வறுமை என்று சொல்லப்படும் ஆசைநிலை ஒருவனைப் பற்றினால், அவனுடைய பழைமையானக் குடிப் பண்பையும் புகழையும் ஒரு சேரக் கெடுக்கும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Hankering poverty destroys at once the greatness of (one's) ancient descent and (the dignity of one's) speech.",
+        "story_title_ta": "நல்குரவு — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Poverty — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நல்குரவு' என்ற அதிகாரத்திலிருந்து குறள் 1043 பற்றிக் கதை சொன்னார். 'இல்லாமை என்று சொல்லப்படும் மன ஆசை எவரிடம் இருக்கிறதோ, அவரின் பழம் குடும்பப் பெருமையையும் சிறந்த பாராட்டுக்களையும் அது மொத்தமாக அழித்து விடும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 105, 'Poverty', centered on Kural 1043: Hankering poverty destroys at once the greatness of (one's) ancient descent and (the dignity of one's) speech. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவனுக்கு வறுமையின் காரணமாகப் பேராசை ஏற்படுமேயானால், அது அவனுடைய பரம்பரைப் பெருமையையும், புகழையும் ஒரு சேரக் கெடுத்துவிடும்.",
+        "moral_en": "Moral: Importunate desire, which poverty men name, Destroys both old descent and goodly fame.",
+        "game_blank_word_ta": "என்னும்",
+        "game_options_ta": [
+          "இன்மையின்",
+          "இன்னாதது",
+          "யாதெனின்",
+          "என்னும்"
+        ],
+        "game_options_en": [
+          "What gives more pain than scarcity? No pain pinches like poverty",
+          "The sinner Want is enemy dire Of joys of earth and heaven there",
+          "Want makes even good familymen Utter words that are low and mean",
+          "The craving itch of poverty Kills graceful words and ancestry"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நல்குரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1043, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இல்லாமை என்று சொல்லப்படும் மன ஆசை எவரிடம் இருக்கிறதோ, அவரின் பழம் குடும்பப் பெருமையையும் சிறந்த பாராட்டுக்களையும் அது மொத்தமாக அழித்து விடும். கலைஞர் உரை கூறுவது: ஒருவனுக்கு வறுமையின் காரணமாகப் பேராசை ஏற்படுமேயானால், அது அவனுடைய பரம்பரைப் பெருமையையும், புகழையும் ஒரு சேரக் கெடுத்துவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Poverty (Citizenship & Miscellaneous), Kural 1043 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Hankering poverty destroys at once the greatness of (one's) ancient descent and (the dignity of one's) speech. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நல்குரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Poverty' thoughtfully.",
+        "quiz_question_ta": "'நல்குரவு' அதிகாரத்தில் வரும் திருக்குறள் 1043 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1043 from Chapter 'Poverty'?",
+        "quiz_options_ta": [
+          "மாதருடைய சாயாத கொங்கைகளின் மேல் அணிந்த ஆடை, மதம் பிடித்த யானையின் மேல் இட்ட முகப்படாம் போன்றது.",
+          "காதலர் எப்போதும் என் உள்ளத்தில் மகிழ்ந்து வாழ்கின்றார், ஆனால் அதை அறியாமல் பிரிந்து வாழ்கின்றார், அன்பில்லாதவர் என்று இந்த ஊரார் அவரைப் பழிப்பர்.",
+          "அன்று காதலரைக் கண்கள் தாமே விரைந்து நோக்கி இன்று தாமே அழுகின்றன; இது நகைக்கத்தக்க தன்மை உடையது.",
+          "வறுமை என்று சொல்லப்படும் ஆசைநிலை ஒருவனைப் பற்றினால், அவனுடைய பழைமையானக் குடிப் பண்பையும் புகழையும் ஒரு சேரக் கெடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "Vest on the buxom breast of her Looks like rutting tusker's eye-cover",
+          "He abides happy in my heart But people mistake he is apart",
+          "Eyes darted eager glance that day It's funny that they weep today",
+          "The craving itch of poverty Kills graceful words and ancestry"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நல்குரவு) பகுதியில் குறள் 1043 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வறுமை என்று சொல்லப்படும் ஆசைநிலை ஒருவனைப் பற்றினால், அவனுடைய பழைமையானக் குடிப் பண்பையும் புகழையும் ஒரு சேரக் கெடுக்கும். பரிமேலழகர் உரை நுட்பம்: நல்குரவு என்னும் நசை - நல்குரவு என்று சொல்லப்படும் ஆசை; தொல் வரவும் தோலும் தொகையாகக் கெடுக்கும் - தன்னால் பற்றப்பட்டாருடைய பழைய குடிவரவினையும் அதற்கு ஏற்ற சொல்லினையும் ஒருங்கே கெடுக்கும். (நசையில் வழி நல்குரவும் இல்லையாகலின், நல்குரவையே நசையாக்கி, அஃது...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 105: 'Poverty'), Kural 1043 distills a foundational ethical insight: \"Importunate desire, which poverty men name, Destroys both old descent and goodly fame\" Philosophically, Hankering poverty destroys at once the greatness of (one's) ancient descent and (the dignity of one's) speech.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "speech",
+        "self-mastery",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1044,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: வறுமை என்பது, நல்ல குடியிற் பிறந்தவரிடத்திலும் இழிவு தரும் சொல் பிறப்பதற்குக் காரணமான சோர்வை உண்டாக்கி விடும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Even in those of high birth, poverty will produce the fault of uttering mean words.",
+        "story_title_ta": "நல்குரவு — கவின் கற்ற பாடம்",
+        "story_title_en": "Poverty — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நல்குரவு' என்ற அதிகாரத்திலிருந்து குறள் 1044 பற்றிக் கதை சொன்னார். 'நல்ல குடும்பத்தில் பிறந்தவரிடம் கூட, இல்லாமை வந்து விட்டால், இழிவான சொற்களைச் சொல்லும் தளர்ச்சியை உண்டாக்கி விடும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 105, 'Poverty', centered on Kural 1044: Even in those of high birth, poverty will produce the fault of uttering mean words. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இல்லாமை எனும் கொடுமை, நல்ல குடியில் பிறந்தவர்களிடம் இழிந்த சொல் பிறப்பதற்கான சோர்வை உருவாக்கி விடும்.",
+        "moral_en": "Moral: From penury will spring, 'mid even those of noble race, Oblivion that gives birth to words that bring disgrace.",
+        "game_blank_word_ta": "கண்ணேயும்",
+        "game_options_ta": [
+          "கண்ணேயும்",
+          "இன்மையின்",
+          "இன்னாதது",
+          "யாதெனின்"
+        ],
+        "game_options_en": [
+          "Want makes even good familymen Utter words that are low and mean",
+          "What gives more pain than scarcity? No pain pinches like poverty",
+          "The sinner Want is enemy dire Of joys of earth and heaven there",
+          "The craving itch of poverty Kills graceful words and ancestry"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நல்குரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1044, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்ல குடும்பத்தில் பிறந்தவரிடம் கூட, இல்லாமை வந்து விட்டால், இழிவான சொற்களைச் சொல்லும் தளர்ச்சியை உண்டாக்கி விடும். கலைஞர் உரை கூறுவது: இல்லாமை எனும் கொடுமை, நல்ல குடியில் பிறந்தவர்களிடம் இழிந்த சொல் பிறப்பதற்கான சோர்வை உருவாக்கி விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Poverty (Citizenship & Miscellaneous), Kural 1044 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even in those of high birth, poverty will produce the fault of uttering mean words. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நல்குரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Poverty' thoughtfully.",
+        "quiz_question_ta": "'நல்குரவு' அதிகாரத்தில் வரும் திருக்குறள் 1044 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1044 from Chapter 'Poverty'?",
+        "quiz_options_ta": [
+          "வறுமை என்பது, நல்ல குடியிற் பிறந்தவரிடத்திலும் இழிவு தரும் சொல் பிறப்பதற்குக் காரணமான சோர்வை உண்டாக்கி விடும்.",
+          "போர்க்களத்தில் பகைவரும் அஞ்சுதற்க்கு காரணமான என் வலிமை, இவளுடைய ஒளி பொருந்திய நெற்றிக்குத் தோற்று அழிந்ததே.",
+          "காமத்தால் துன்புற்று (காதலின் அன்பு பெறாமல்) வருந்தினவர்க்குக் காவல் மடலூர்தல் அல்லாமல் வலிமையானத் துணை வேறொன்றும் இல்லை.",
+          "என் கண்கள், தப்பிப் பிழைக்க முடியாத தீராத காமநோயை என்னிடத்தில் உண்டாக்கி நிறுத்திவிட்டு, தாமும் அழமுடியாமல் நீர் வறண்டு விட்டன."
+        ],
+        "quiz_options_en": [
+          "Want makes even good familymen Utter words that are low and mean",
+          "Ah these fair brows shatter my might Feared by foemen yet to meet",
+          "Pangs of passion find no recourse Except riding *`palmyra horse' * Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs The parents of the lovers first reproach them and then consent to their marriage",
+          "These eyes left me to endless grief Crying adry without relief"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நல்குரவு) பகுதியில் குறள் 1044 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வறுமை என்பது, நல்ல குடியிற் பிறந்தவரிடத்திலும் இழிவு தரும் சொல் பிறப்பதற்குக் காரணமான சோர்வை உண்டாக்கி விடும். பரிமேலழகர் உரை நுட்பம்: இற்பிறந்தார்கண்ணேயும் - இளிவந்த சொற்பிறவாத குடிப்பிறந்தார் மாட்டேயும்; இளிவந்த சொற்பிறக்கும் சோர்வு இன்மை தரும் - அது பிறத்தற்கு ஏதுவாகிய சோர்வினை நல்குரவு உண்டாக்கும். (சிறப்பு உம்மை அவர்மாட்டு அது பிறவாமை தோன்ற நின்றது. இளிவந்த சொல் - இளிவருதற்கு ஏதுவாகிய...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 105: 'Poverty'), Kural 1044 distills a foundational ethical insight: \"From penury will spring, 'mid even those of noble race, Oblivion that gives birth to words that bring disgrace\" Philosophically, Even in those of high birth, poverty will produce the fault of uttering mean words.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "speech",
+        "family",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1045,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: வறுமை என்று சொல்லப்படும் துன்ப நிலையினுள் பலவகையாக வேறுபட்டுள்ள எல்லாத் துன்பங்களும் சென்று விளைந்திடும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The misery of poverty brings in its train many (more) miseries.",
+        "story_title_ta": "நல்குரவு — நிலா கற்ற பாடம்",
+        "story_title_en": "Poverty — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நல்குரவு' என்ற அதிகாரத்திலிருந்து குறள் 1045 பற்றிக் கதை சொன்னார். 'இல்லாமை என்னும் துன்பத்திற்குள் எல்லா வகைத் துன்பங்களும் அடங்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 105, 'Poverty', centered on Kural 1045: The misery of poverty brings in its train many (more) miseries. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வறுமையெனும் துன்பத்திற்குள்ளிருந்து பல்வேறு வகையான துன்பங்கள் கிளர்ந்தெழும்.",
+        "moral_en": "Moral: From poverty, that grievous woe, Attendant sorrows plenteous grow.",
+        "game_blank_word_ta": "இடும்பையுள்",
+        "game_options_ta": [
+          "இன்மையின்",
+          "இடும்பையுள்",
+          "இன்னாதது",
+          "யாதெனின்"
+        ],
+        "game_options_en": [
+          "What gives more pain than scarcity? No pain pinches like poverty",
+          "The pest of wanton poverty Brings a train of misery",
+          "The sinner Want is enemy dire Of joys of earth and heaven there",
+          "The craving itch of poverty Kills graceful words and ancestry"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நல்குரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1045, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இல்லாமை என்னும் துன்பத்திற்குள் எல்லா வகைத் துன்பங்களும் அடங்கும். கலைஞர் உரை கூறுவது: வறுமையெனும் துன்பத்திற்குள்ளிருந்து பல்வேறு வகையான துன்பங்கள் கிளர்ந்தெழும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Poverty (Citizenship & Miscellaneous), Kural 1045 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The misery of poverty brings in its train many (more) miseries. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நல்குரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Poverty' thoughtfully.",
+        "quiz_question_ta": "'நல்குரவு' அதிகாரத்தில் வரும் திருக்குறள் 1045 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1045 from Chapter 'Poverty'?",
+        "quiz_options_ta": [
+          "பெண்மானைப் போன்ற இளமைப் பார்வையும் நாணமும் உடைய இவளுக்கு, ஒரு தொடர்பும் இல்லாத அணிகளைச் செய்து அணிவது ஏனோ.",
+          "வறுமை என்று சொல்லப்படும் துன்ப நிலையினுள் பலவகையாக வேறுபட்டுள்ள எல்லாத் துன்பங்களும் சென்று விளைந்திடும்.",
+          "(காதலின் பிரிவால் ஆகிய துன்பத்தைப்) பொறுக்காத என் உடம்பும் உயிரும், நாணத்தை நீக்கி நிறுத்தி விட்டு மடலூரத் துணிந்தன.",
+          "அன்று கடலும் தாங்கமுடியாத காமநோயை உண்டாக்கிய என் கண்கள், இன்று உறங்க முடியாமல் துன்பத்தால் வருந்துகின்றன."
+        ],
+        "quiz_options_en": [
+          "Which jewel can add to her beauty With fawn-like looks and modesty?",
+          "The pest of wanton poverty Brings a train of misery",
+          "Pining body and mind lose shame And take to riding of the palm",
+          "My eyes causing lust more than sea Suffer that torture sleeplessly"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நல்குரவு) பகுதியில் குறள் 1045 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வறுமை என்று சொல்லப்படும் துன்ப நிலையினுள் பலவகையாக வேறுபட்டுள்ள எல்லாத் துன்பங்களும் சென்று விளைந்திடும். பரிமேலழகர் உரை நுட்பம்: நல்குரவு என்னும் இடும்பையுள் - நல்குரவு என்று சொல்லப்படும் துன்பம் ஒன்றனுள்ளே; பல் துன்பங்கள் சென்றுபடும் - பல துன்பங்களும் வந்து விளையும். (குரை - இசை நிறை. செலவு - விரைவின்கண் வந்தது. துன்பமுந் தானும் உடனே நிகழ்தலின் நல்குரவைத் துன்பமாக்கியும...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 105: 'Poverty'), Kural 1045 distills a foundational ethical insight: \"From poverty, that grievous woe, Attendant sorrows plenteous grow\" Philosophically, The misery of poverty brings in its train many (more) miseries.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1046,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நல்ல நூற் பொருளை நன்றாக உணர்ந்து எடுத்துச் சொன்னப் போதிலும் வறியவர் சொன்ன சொற்பொருள் கேட்பார் இல்லாமல் பயன்படாமல் போகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The words of the poor are profitless, though they may be sound in thought and clear in expression.",
+        "story_title_ta": "நல்குரவு — அன்பு கற்ற பாடம்",
+        "story_title_en": "Poverty — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நல்குரவு' என்ற அதிகாரத்திலிருந்து குறள் 1046 பற்றிக் கதை சொன்னார். 'நல்ல கருத்துக்களைத் தெளிவாகத் தெரிந்து சொன்னாலும், சொல்பவர் ஏழை என்றால் அவர் சொல் மதிக்கப் பெறாது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 105, 'Poverty', centered on Kural 1046: The words of the poor are profitless, though they may be sound in thought and clear in expression. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அரிய பல் நூல்களின் கருத்துகளையும் ஆய்ந்துணர்ந்து சொன்னாலும், அதனைச் சொல்பவர் வறியவராக இருப்பின் அக்கருத்து எடுபடாமற் போகும்.",
+        "moral_en": "Moral: Though deepest sense, well understood, the poor man's words convey, Their sense from memory of mankind will fade away.",
+        "game_blank_word_ta": "நல்கூர்ந்தார்",
+        "game_options_ta": [
+          "இன்மையின்",
+          "இன்னாதது",
+          "நல்கூர்ந்தார்",
+          "யாதெனின்"
+        ],
+        "game_options_en": [
+          "What gives more pain than scarcity? No pain pinches like poverty",
+          "The sinner Want is enemy dire Of joys of earth and heaven there",
+          "The poor men's words are thrown away Though from heart good things they say",
+          "The craving itch of poverty Kills graceful words and ancestry"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நல்குரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1046, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்ல கருத்துக்களைத் தெளிவாகத் தெரிந்து சொன்னாலும், சொல்பவர் ஏழை என்றால் அவர் சொல் மதிக்கப் பெறாது. கலைஞர் உரை கூறுவது: அரிய பல் நூல்களின் கருத்துகளையும் ஆய்ந்துணர்ந்து சொன்னாலும், அதனைச் சொல்பவர் வறியவராக இருப்பின் அக்கருத்து எடுபடாமற் போகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Poverty (Citizenship & Miscellaneous), Kural 1046 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The words of the poor are profitless, though they may be sound in thought and clear in expression. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நல்குரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Poverty' thoughtfully.",
+        "quiz_question_ta": "'நல்குரவு' அதிகாரத்தில் வரும் திருக்குறள் 1046 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1046 from Chapter 'Poverty'?",
+        "quiz_options_ta": [
+          "கள், தன்னை உண்டவரிடத்தில் அல்லாமல் காமத்தைப் போல் தன்னைக் கண்டவரிடத்தில் மயக்கத்தை உண்டாக்குவதில்லையே.",
+          "நாணமும் நல்ல ஆண்மையும் முன்பு பெற்றிருந்தேன், (காதலியை பிரிந்து வருந்துகின்ற) இப்போது காமம் மிக்கவர் ஏறும் மடலையே உடையேன்.",
+          "நல்ல நூற் பொருளை நன்றாக உணர்ந்து எடுத்துச் சொன்னப் போதிலும் வறியவர் சொன்ன சொற்பொருள் கேட்பார் இல்லாமல் பயன்படாமல் போகும்.",
+          "எமக்கு இந்தக் காமநோயைஉண்டாக்கிய கண்கள், தாமும் இத்தகைய துன்பத்தைப்பட்டு வருந்துவது மிகவும் நல்லதே!"
+        ],
+        "quiz_options_en": [
+          "To the drunk alone is wine delight Nothing delights like love at sight",
+          "Once I was modest and manly My love has now Madal only",
+          "The poor men's words are thrown away Though from heart good things they say",
+          "Lo! eyes that wrought this love-sickness Are victims of the same themselves"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நல்குரவு) பகுதியில் குறள் 1046 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நல்ல நூற் பொருளை நன்றாக உணர்ந்து எடுத்துச் சொன்னப் போதிலும் வறியவர் சொன்ன சொற்பொருள் கேட்பார் இல்லாமல் பயன்படாமல் போகும். பரிமேலழகர் உரை நுட்பம்: நற்பொருள் நன்கு உணர்ந்து சொல்லினும் - மெய்ந்நூற் பொருளைத் தெளிய அறிந்து சொன்னாராயினும்; நல்கூர்ந்தார் சொற்பொருள் சோர்வு படும் - நல்கூர்ந்தார் சொல்லுஞ் சொல் பொருளின்மையைத் தலைப்படும். (பொருளின்மையைத் தலைப்படுதலாவது 'யாம் இவர் சொல்லியன விரும்பிக் கேட்குமாயின...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 105: 'Poverty'), Kural 1046 distills a foundational ethical insight: \"Though deepest sense, well understood, the poor man's words convey, Their sense from memory of mankind will fade away\" Philosophically, The words of the poor are profitless, though they may be sound in thought and clear in expression.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "speech",
+        "kindness",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1047,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அறத்தோடு பொருந்தாத வறுமை ஒருவனைச் சேர்ந்தால் பெற்றத் தாயாலும் அவன் அயலானைப் போல் புறக்கணித்துப் பார்க்கப்படுவான்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: He that is reduced to absolute poverty will be regarded as a stranger even by his own mother.",
+        "story_title_ta": "நல்குரவு — இனியா கற்ற பாடம்",
+        "story_title_en": "Poverty — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நல்குரவு' என்ற அதிகாரத்திலிருந்து குறள் 1047 பற்றிக் கதை சொன்னார். 'நியாயமான காரணங்கள் இல்லாத இல்லாமை ஒருவனுக்கு இருந்தால், பெற்ற தாய் கூட அவனை அந்நியனாகவே பார்ப்பாள்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 105, 'Poverty', centered on Kural 1047: He that is reduced to absolute poverty will be regarded as a stranger even by his own mother. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வறுமை வந்தது என்பதற்காக, அறநெறியிலிருந்து விலகி நிற்பவனை, அவன் தாய்கூட அயலானைப் போல்தான் கருதுவாள்.",
+        "moral_en": "Moral: From indigence devoid of virtue's grace, The mother e'en that bare, estranged, will turn her face.",
+        "game_blank_word_ta": "பிறன்போல",
+        "game_options_ta": [
+          "இன்மையின்",
+          "இன்னாதது",
+          "யாதெனின்",
+          "பிறன்போல"
+        ],
+        "game_options_en": [
+          "What gives more pain than scarcity? No pain pinches like poverty",
+          "The sinner Want is enemy dire Of joys of earth and heaven there",
+          "The craving itch of poverty Kills graceful words and ancestry",
+          "Even the mother looks as stranger The poor devoid of character"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நல்குரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1047, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நியாயமான காரணங்கள் இல்லாத இல்லாமை ஒருவனுக்கு இருந்தால், பெற்ற தாய் கூட அவனை அந்நியனாகவே பார்ப்பாள். கலைஞர் உரை கூறுவது: வறுமை வந்தது என்பதற்காக, அறநெறியிலிருந்து விலகி நிற்பவனை, அவன் தாய்கூட அயலானைப் போல்தான் கருதுவாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Poverty (Citizenship & Miscellaneous), Kural 1047 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He that is reduced to absolute poverty will be regarded as a stranger even by his own mother. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நல்குரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Poverty' thoughtfully.",
+        "quiz_question_ta": "'நல்குரவு' அதிகாரத்தில் வரும் திருக்குறள் 1047 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1047 from Chapter 'Poverty'?",
+        "quiz_options_ta": [
+          "இவளுடைய மை தீட்டிய கண்களில் உள்ளது இருவகைப்பட்ட நோக்கமாகும், அவற்றுள் ஒரு நோக்கம் நோய் செய்யும் நோக்கம், மற்றொன்று அந் நோய்க்கு மருந்தாகும்.",
+          "நாணமும் நல்ல ஆண்மையுமாகிய தோணிகளைக் காமம் என்னும் கடுமையான வெள்ளம் அடித்துக் கொண்டு போய் விடுகின்றன.",
+          "அன்று விரும்பி நெகிழ்ந்து காதலரைக் கண்ட கண்கள் இன்று உறக்கமில்லாத துன்பத்தால் வருந்தி வருந்திக் கண்ணீரும் அற்றுப் போகட்டும்.",
+          "அறத்தோடு பொருந்தாத வறுமை ஒருவனைச் சேர்ந்தால் பெற்றத் தாயாலும் அவன் அயலானைப் போல் புறக்கணித்துப் பார்க்கப்படுவான்."
+        ],
+        "quiz_options_en": [
+          "Her painted eyes, two glances dart One hurts; the other heals my heart",
+          "Rushing flood of love sweeps away The raft of shame and firmness, aye!",
+          "Let tears dry up pining pining In eyes that eyed him longing longing",
+          "Even the mother looks as stranger The poor devoid of character"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நல்குரவு) பகுதியில் குறள் 1047 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறத்தோடு பொருந்தாத வறுமை ஒருவனைச் சேர்ந்தால் பெற்றத் தாயாலும் அவன் அயலானைப் போல் புறக்கணித்துப் பார்க்கப்படுவான். பரிமேலழகர் உரை நுட்பம்: அறம் சாரா நல்குரவு - அறத்தோடு இயைபில்லாத நல்குரவு உடையான்; ஈன்ற தாயானும் பிறன் போல நோக்கப்படும் - தன்னை ஈன்ற தாயானும் பிறனைக் கருதுமாறு போலக் கருதி நோக்கப்படும். (அறத்தோடு கூடாமை - காரண காரியங்களுள் ஒன்றானும் இயையாமை. நல்குரவு - ஆகுபெயர். சிறப்பு உம்மை, அவளது...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 105: 'Poverty'), Kural 1047 distills a foundational ethical insight: \"From indigence devoid of virtue's grace, The mother e'en that bare, estranged, will turn her face\" Philosophically, He that is reduced to absolute poverty will be regarded as a stranger even by his own mother.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "kindness",
+        "self-mastery",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1048,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நேற்றும் கொலை செய்தது போல் துன்புறுத்திய வறுமை இன்றும் என்னிடம் வருமோ, (என்று வறியவன் நாள்தோறும் கலங்கி வருந்துவான்).",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Is the poverty that almost killed me yesterday, to meet me today too ?",
+        "story_title_ta": "நல்குரவு — முகில் கற்ற பாடம்",
+        "story_title_en": "Poverty — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நல்குரவு' என்ற அதிகாரத்திலிருந்து குறள் 1048 பற்றிக் கதை சொன்னார். 'நேற்று என்னைக் கொன்றது போன்ற துன்பத்தைத் தந்த இல்லாமை, இன்றும் கூட வருமோ?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 105, 'Poverty', centered on Kural 1048: Is the poverty that almost killed me yesterday, to meet me today too ? Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கொலை செய்வதுபோல நேற்றுக் கொடுமைப்படுத்திய வறுமை, தொடர்ந்து இன்றைக்கும் வராமல் இருக்க வேண்டுமே என்று வறியவன் ஏங்குவான்.",
+        "moral_en": "Moral: And will it come today as yesterday, The grief of want that eats my soul away.",
+        "game_blank_word_ta": "போலும்",
+        "game_options_ta": [
+          "போலும்",
+          "இன்மையின்",
+          "இன்னாதது",
+          "யாதெனின்"
+        ],
+        "game_options_en": [
+          "The killing Want of yesterday Will it pester me even to-day?",
+          "What gives more pain than scarcity? No pain pinches like poverty",
+          "The sinner Want is enemy dire Of joys of earth and heaven there",
+          "The craving itch of poverty Kills graceful words and ancestry"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நல்குரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1048, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நேற்று என்னைக் கொன்றது போன்ற துன்பத்தைத் தந்த இல்லாமை, இன்றும் கூட வருமோ? கலைஞர் உரை கூறுவது: கொலை செய்வதுபோல நேற்றுக் கொடுமைப்படுத்திய வறுமை, தொடர்ந்து இன்றைக்கும் வராமல் இருக்க வேண்டுமே என்று வறியவன் ஏங்குவான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Poverty (Citizenship & Miscellaneous), Kural 1048 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Is the poverty that almost killed me yesterday, to meet me today too ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நல்குரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Poverty' thoughtfully.",
+        "quiz_question_ta": "'நல்குரவு' அதிகாரத்தில் வரும் திருக்குறள் 1048 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1048 from Chapter 'Poverty'?",
+        "quiz_options_ta": [
+          "நேற்றும் கொலை செய்தது போல் துன்புறுத்திய வறுமை இன்றும் என்னிடம் வருமோ, (என்று வறியவன் நாள்தோறும் கலங்கி வருந்துவான்).",
+          "கண்ணால் என்னை நோக்கிக் களவு கொள்கின்ற சுருங்கிய பார்வை காமத்தில் நேர்பாதி அன்று, அதைவிடப் பெரிய பகுதியாகும்.",
+          "மடலோறுதலோடு மாலைக்காலத்தில் வருந்தும் துயரத்தை மாலைபோல் தொடர்ந்த சிறு வளையல் அணிந்த காதலி எனக்கு தந்தாள்.",
+          "உள்ளத்தால் விரும்பாமலே சொல்லளவில் விரும்பிப் பழகியவர் ஒருவர் இருக்கின்றார்; அவரைக் காணாமல் கண்கள் அமைதியுறவில்லை."
+        ],
+        "quiz_options_en": [
+          "The killing Want of yesterday Will it pester me even to-day?",
+          "Her furtive lightning glance is more Than enjoyment of sexual lore",
+          "Palm-ride and pangs of eventide Are gifts of wreath-like bracelet maid",
+          "Ther's he whose lips loved, not his heart Yet my eyes pine seeing him not"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நல்குரவு) பகுதியில் குறள் 1048 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நேற்றும் கொலை செய்தது போல் துன்புறுத்திய வறுமை இன்றும் என்னிடம் வருமோ, (என்று வறியவன் நாள்தோறும் கலங்கி வருந்துவான்). பரிமேலழகர் உரை நுட்பம்: நெருதலும் கொன்றது போலும் நிரப்பு - நெருநற்றும் கொன்றது போன்று எனக்கு இன்னாதவற்றைச் செய்த நல்குரவு; இன்றும் வருவது கொல்லோ - இன்றும் என்பால் வரக்கடவதோ, வந்தால் இனி யாது செய்வேன்? (அவ்வின்னாதனவாவன, மேற்சொல்லிய (குறள்.1045)துன்பங்கள், நெருநல் மிக வருந்தித் தன...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 105: 'Poverty'), Kural 1048 distills a foundational ethical insight: \"And will it come today as yesterday, The grief of want that eats my soul away\" Philosophically, Is the poverty that almost killed me yesterday, to meet me today too ?",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "kindness",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1049,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவன் நெருப்பினுள் இருந்து தூங்குதலும் முடியும், ஆனால் வறுமை நிலையில் எவ்வகையாலும் கண்மூடித் தூங்குதல் அரிது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: One may sleep in the midst of fire; but by no means in the midst of poverty.",
+        "story_title_ta": "நல்குரவு — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Poverty — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நல்குரவு' என்ற அதிகாரத்திலிருந்து குறள் 1049 பற்றிக் கதை சொன்னார். 'யோக வலிமையால் நெருப்பிற்குள் படுத்து உறங்கவும் முடியும்; ஆனால், பசிக் கொடுமைக்குள் சிறிது கூடக் கண் மூட முடியாது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 105, 'Poverty', centered on Kural 1049: One may sleep in the midst of fire; but by no means in the midst of poverty. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நெருப்புக்குள் படுத்துக் தூங்குவதைகூட ஒரு மனிதனால் முடியும்; ஆனால் வறுமை படுத்தும் பாட்டில் தூங்குவது என்பது இயலாத ஒன்றாகும்.",
+        "moral_en": "Moral: Amid the flames sleep may men's eyelids close, In poverty the eye knows no repose.",
+        "game_blank_word_ta": "அரிது",
+        "game_options_ta": [
+          "இன்மையின்",
+          "அரிது",
+          "இன்னாதது",
+          "யாதெனின்"
+        ],
+        "game_options_en": [
+          "What gives more pain than scarcity? No pain pinches like poverty",
+          "One may sleep in the midst of fire In want a wink of sleep is rare",
+          "The sinner Want is enemy dire Of joys of earth and heaven there",
+          "The craving itch of poverty Kills graceful words and ancestry"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நல்குரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1049, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: யோக வலிமையால் நெருப்பிற்குள் படுத்து உறங்கவும் முடியும்; ஆனால், பசிக் கொடுமைக்குள் சிறிது கூடக் கண் மூட முடியாது. கலைஞர் உரை கூறுவது: நெருப்புக்குள் படுத்துக் தூங்குவதைகூட ஒரு மனிதனால் முடியும்; ஆனால் வறுமை படுத்தும் பாட்டில் தூங்குவது என்பது இயலாத ஒன்றாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Poverty (Citizenship & Miscellaneous), Kural 1049 speaks directly to teens navigating studies, friendships, leadership, and digital choices: One may sleep in the midst of fire; but by no means in the midst of poverty. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நல்குரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Poverty' thoughtfully.",
+        "quiz_question_ta": "'நல்குரவு' அதிகாரத்தில் வரும் திருக்குறள் 1049 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1049 from Chapter 'Poverty'?",
+        "quiz_options_ta": [
+          "என்னை நோக்கினாள், யான் கண்டதும் நோக்கித் தலைகுனிந்தால், அது அவள் வளர்க்கும் அன்பினுள் வார்க்கின்ற நீராகும்.",
+          "ஒருவன் நெருப்பினுள் இருந்து தூங்குதலும் முடியும், ஆனால் வறுமை நிலையில் எவ்வகையாலும் கண்மூடித் தூங்குதல் அரிது.",
+          "மடலூர்தலைப் பற்றி நள்ளிரவிலும் உறுதியாக நினைக்கின்றேன், காதலியின் பிரிவின் காரணமாக என் கண்கள் உறங்காமல் இருக்கின்றன.",
+          "காதலர் வாராவிட்டால் தூங்குவதில்லை; வந்தாலும் தூங்குவதில்லை; இவற்றுக்கி‌டையே என் கண்கள் மிக்க துன்பத்தை அடைந்தன."
+        ],
+        "quiz_options_en": [
+          "She looked; looking bowed her head And love-plant was with water fed",
+          "One may sleep in the midst of fire In want a wink of sleep is rare",
+          "Madal I ride at midnight for My eyes sleep not seeing this fair",
+          "He comes; no sleep; he goes; no sleep This is the fate of eyes that weep"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நல்குரவு) பகுதியில் குறள் 1049 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் நெருப்பினுள் இருந்து தூங்குதலும் முடியும், ஆனால் வறுமை நிலையில் எவ்வகையாலும் கண்மூடித் தூங்குதல் அரிது. பரிமேலழகர் உரை நுட்பம்: நெருப்பினுள் துஞ்சலும் ஆகும் - மந்திரம் மருந்துகளான் ஒருவனுக்கு நெருப்பிடையே கிடந்து உறங்கலும் ஆம்; நிரப்பினுள் யாதொன்றும் கண்பாடு அரிது - நிரப்பு வந்துழி யாதொன்றானும் உறக்கம் இல்லை. ('நெருப்பினும் நிரப்புக் கொடிது', என்றவாறாயிற்று. இதுவும் அவன் கூற்று. இவை...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 105: 'Poverty'), Kural 1049 distills a foundational ethical insight: \"Amid the flames sleep may men's eyelids close, In poverty the eye knows no repose\" Philosophically, One may sleep in the midst of fire; but by no means in the midst of poverty.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "love",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1050,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நுகரும் பொருள் இல்லாத வறியவர் முற்றுந் துறக்க கூடியவராக இருந்தும் துறக்காத காரணம், உப்புக்கும் கஞ்சிக்கும் எமனாக இருப்பதே ஆகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The destitute poor, who do not renounce their bodies, only consume their neighbour's salt and water.",
+        "story_title_ta": "நல்குரவு — கவின் கற்ற பாடம்",
+        "story_title_en": "Poverty — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நல்குரவு' என்ற அதிகாரத்திலிருந்து குறள் 1050 பற்றிக் கதை சொன்னார். 'உண்ண, உடுத்த ஏதம் இல்லாதவர் இல்லறத்தை முழுமையாகத் துறந்து விடாதிருப்பது, பிறர் வீட்டில் இருக்கும் உப்புக்கும் கஞ்சித் தண்ணீருக்கும் எமனாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 105, 'Poverty', centered on Kural 1050: The destitute poor, who do not renounce their bodies, only consume their neighbour's salt and water. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒழுங்குமறையற்றதால் வறுமையுற்றோர், முழுமையாகத் தம்மைத் துறக்காமல் உயிர்வாழ்வது, உப்புக்கும் கஞ்சிக்கும்தான் கேடு.",
+        "moral_en": "Moral: Unless the destitute will utterly themselves deny, They cause their neighbour's salt and vinegar to die.",
+        "game_blank_word_ta": "துப்புர",
+        "game_options_ta": [
+          "இன்மையின்",
+          "இன்னாதது",
+          "துப்புர",
+          "யாதெனின்"
+        ],
+        "game_options_en": [
+          "What gives more pain than scarcity? No pain pinches like poverty",
+          "The sinner Want is enemy dire Of joys of earth and heaven there",
+          "Renounce their lives the poor must Or salt and gruel go to waste",
+          "The craving itch of poverty Kills graceful words and ancestry"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நல்குரவு (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1050, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உண்ண, உடுத்த ஏதம் இல்லாதவர் இல்லறத்தை முழுமையாகத் துறந்து விடாதிருப்பது, பிறர் வீட்டில் இருக்கும் உப்புக்கும் கஞ்சித் தண்ணீருக்கும் எமனாம். கலைஞர் உரை கூறுவது: ஒழுங்குமறையற்றதால் வறுமையுற்றோர், முழுமையாகத் தம்மைத் துறக்காமல் உயிர்வாழ்வது, உப்புக்கும் கஞ்சிக்கும்தான் கேடு. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Poverty (Citizenship & Miscellaneous), Kural 1050 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The destitute poor, who do not renounce their bodies, only consume their neighbour's salt and water. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நல்குரவு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Poverty' thoughtfully.",
+        "quiz_question_ta": "'நல்குரவு' அதிகாரத்தில் வரும் திருக்குறள் 1050 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1050 from Chapter 'Poverty'?",
+        "quiz_options_ta": [
+          "யான் நோக்கும் போது அவள் நிலத்தை நோக்குவாள், யான் நோக்காத போது அவள் என்னை நோக்கி மெல்லத் தனக்குள் மகிழ்வாள்.",
+          "கடல் போன்ற காமநோயால் வருந்தியும், மடலேறாமல் துன்பத்தை பொருத்துக் கொண்டிருக்கும் பெண் பிறப்பை போல் பெருமை உடைய பிறவி இல்லை.",
+          "நுகரும் பொருள் இல்லாத வறியவர் முற்றுந் துறக்க கூடியவராக இருந்தும் துறக்காத காரணம், உப்புக்கும் கஞ்சிக்கும் எமனாக இருப்பதே ஆகும்.",
+          "அறையப்படும் பறைபோல் துன்பத்தை வெளிப்படுத்தும் கண்களை உடைய எம்மைப் போன்றவரிடத்தில் மறைபொருளான செய்தியை அறிதல் ஊரார்க்கு அரிது அன்று."
+        ],
+        "quiz_options_en": [
+          "I look; she droops to earth awhile I turn; she looks with gentle smile",
+          "Her sea-like lust seeks not Madal! Serene is woman's self control",
+          "Renounce their lives the poor must Or salt and gruel go to waste",
+          "Like drum beats eyes declare my heart; From people who could hide his secret?"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நல்குரவு) பகுதியில் குறள் 1050 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நுகரும் பொருள் இல்லாத வறியவர் முற்றுந் துறக்க கூடியவராக இருந்தும் துறக்காத காரணம், உப்புக்கும் கஞ்சிக்கும் எமனாக இருப்பதே ஆகும். பரிமேலழகர் உரை நுட்பம்: துப்புரவு இல்லார் துவரத் துறவாமை - நுகரப்படும் பொருள்களில்லாதார் தம்மாற் செயற்பாலது முற்றத் துறத்தலேயாகவும் அது செய்யாதொழிதல்; உப்பிற்கும் காடிக்கும் கூற்று - பிறர் இல்லினுளவாய உப்பிற்கும் காடிக்கும் கூற்றாம். (மானம் அழியாமையின் செயற்பாலது அதுவேயாயிற்று...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 105: 'Poverty'), Kural 1050 distills a foundational ethical insight: \"Unless the destitute will utterly themselves deny, They cause their neighbour's salt and vinegar to die\" Philosophically, The destitute poor, who do not renounce their bodies, only consume their neighbour's salt and water.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "kindness"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "adhikaram_id": 125,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.607423656+00:00",
+  "kurals": [
+    {
+      "kural_number": 1241,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நெஞ்சே! ( காதலால் வளர்ந்த) இத் துன்ப நோயைத் தீர்க்கும் மருந்து ஏதாவது ஒன்றை நீ நினைத்துப் பார்த்து எனக்குச் சொல்ல மாட்டாயோ?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: O my soul, will you not think and tell me some medicine be it what it may, that can cure this incurable malady?",
+        "story_title_ta": "நெஞ்சொடு கிளத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Soliloquy — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு கிளத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1241 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1241 from 'Soliloquy', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: எந்த மருந்தினாலும் தீராத என் காதல் நோய் தீர்ந்திட ஏதாவது ஒரு மருந்தை நினைத்துப் பார்த்து, நெஞ்சே! உன்னால் சொல்ல முடியுமா?",
+        "moral_en": "Moral: My heart, canst thou not thinking of some med'cine tell, Not any one, to drive away this grief incurable.",
+        "game_blank_word_ta": "நெஞ்சே",
+        "game_options_ta": [
+          "காதல்",
+          "நெஞ்சே",
+          "அவரிலர்",
+          "ஆகநீ"
+        ],
+        "game_options_en": [
+          "Bless O mind! you pine in vain For me he has no love serene",
+          "Think of, O heart, some remedy To cure this chronic malady",
+          "O mind, why pine and sit moody? Who made you so pale lacks pity",
+          "Take these eyes and meet him, O heart Or their hunger will eat me out"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு கிளத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1241, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நெஞ்சே! எதனாலும் தீராத என் நோயைத் தீர்க்கும் மருந்து ஏதாவது ஒன்றை எண்ணிப் பார்த்துச் சொல்லமாட்டாயா? கலைஞர் உரை கூறுவது: எந்த மருந்தினாலும் தீராத என் காதல் நோய் தீர்ந்திட ஏதாவது ஒரு மருந்தை நினைத்துப் பார்த்து, நெஞ்சே! உன்னால் சொல்ல முடியுமா? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Soliloquy (Post-marital Love), Kural 1241 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O my soul, will you not think and tell me some medicine be it what it may, that can cure this incurable malady? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு கிளத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Soliloquy'.",
+        "quiz_question_ta": "'நெஞ்சொடு கிளத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1241 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1241 from Chapter 'Soliloquy'?",
+        "quiz_options_ta": [
+          "மை தீட்டும் நேரத்தில் தீட்டு் கோலைக் காணாத கண்களைப் போல், காதலனைக் கண்டபோது மட்டும் அவனுடைய குற்றத்தை நினைக்காமல் மறந்து விடுகின்றேன்.",
+          "நெஞ்சே! ( காதலால் வளர்ந்த) இத் துன்ப நோயைத் தீர்க்கும் மருந்து ஏதாவது ஒன்றை நீ நினைத்துப் பார்த்து எனக்குச் சொல்ல மாட்டாயோ?",
+          "நெற்றி வியர்க்கும் படியாக கூடுவதில் உளதாகும் இனிமையை ஊடியிருந்து உணர்வதன் பயனாக இனியும் பெறுவோமோ.",
+          "இல்லறத்தில் வாழ்பவனாகச் சொல்லப்படுகிறவன் அறத்தின் இயல்பை உடைய மூவருக்கும் நல்வழியில் நிலை பெற்ற துணையாவான்."
+        ],
+        "quiz_options_en": [
+          "When close I see not lord's blemish Like eyes that see not painter's brush",
+          "Think of, O heart, some remedy To cure this chronic malady",
+          "Shall not our pouting again give The dew-browed joy of joint love?",
+          "The ideal householder is he Who aids the natural orders there"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு கிளத்தல்) பகுதியில் குறள் 1241 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெஞ்சே! ( காதலால் வளர்ந்த) இத் துன்ப நோயைத் தீர்க்கும் மருந்து ஏதாவது ஒன்றை நீ நினைத்துப் பார்த்து எனக்குச் சொல்ல மாட்டாயோ? பரிமேலழகர் உரை நுட்பம்: [அஃதாவது , ஆற்றாமை மீதூரத் தனக்கு ஓர் பற்றுக்கோடு காணாத் தலைமகள் தன் நெஞ்சொடு செய்திறன் அறியாது சொல்லுதல் . இஃது , உறுப்புக்கள் தம் நலனழிந்தவழி நிகழ்வதாலின் , உறுப்பு நலன் அழிதலின்பின் வைக்கப்பட்டது.] (தன் ஆற்றாமை தீரும் திறன் நாடியது.) நெஞ்சே - நெஞ்சே...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 125: 'Soliloquy'), Kural 1241 distills a foundational ethical insight: \"My heart, canst thou not thinking of some med'cine tell, Not any one, to drive away this grief incurable\" Philosophically, O my soul, will you not think and tell me some medicine be it what it may, that can cure this incurable malady?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "education",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1242,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: என் நெஞ்சே! வாழ்க! அவர் நம்மிடம் காதல் இல்லாதவராக இருக்க, நீ மட்டும் அவரை நினைந்து வருந்துவது உன் அறியாமையே!",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Is folly, fare thee well my heart!",
+        "story_title_ta": "நெஞ்சொடு கிளத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Soliloquy — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு கிளத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1242 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1242 from 'Soliloquy', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: அவர் நமது காதலை மதித்து நம்மிடம் வராத போது, நெஞ்சே! நீ மட்டும் அவரை நினைத்து வருந்துவது அறியாமையாகும்; நீ வாழ்க.",
+        "moral_en": "Moral: Since he loves not, thy smartIs folly, fare thee well my heart.",
+        "game_blank_word_ta": "நோவது",
+        "game_options_ta": [
+          "நினைத்தொன்று",
+          "சொல்லாயோ",
+          "நோவது",
+          "நெஞ்சே"
+        ],
+        "game_options_en": [
+          "Think of, O heart, some remedy To cure this chronic malady",
+          "O mind, why pine and sit moody? Who made you so pale lacks pity",
+          "Bless O mind! you pine in vain For me he has no love serene",
+          "Take these eyes and meet him, O heart Or their hunger will eat me out"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு கிளத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1242, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் நெஞ்சே நீ வாழ்ந்து போ; அவர் நம்மீது அன்பு இல்லாதவராக இருக்க, நீ மட்டும் அவர் வரவை எண்ணி வருந்துவது மூடத்தனமே. கலைஞர் உரை கூறுவது: அவர் நமது காதலை மதித்து நம்மிடம் வராத போது, நெஞ்சே! நீ மட்டும் அவரை நினைத்து வருந்துவது அறியாமையாகும்; நீ வாழ்க. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Soliloquy (Post-marital Love), Kural 1242 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Is folly, fare thee well my heart! Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு கிளத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Soliloquy'.",
+        "quiz_question_ta": "'நெஞ்சொடு கிளத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1242 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1242 from Chapter 'Soliloquy'?",
+        "quiz_options_ta": [
+          "காதலரைக் யான் காணும்போது ( அவருடைய செயல்களில்) தவறானவற்றைக் காண்பதில்லை; அவரைக் காணாதபோது தவறு அல்லாத நன்மைகளைக் காண்பதில்லை.",
+          "காதலி இன்னும் ஊடுவாளாக, அந்த ஊடலைத் தணிக்கும் பொருட்டு யாம் இரந்து நிற்குமாறு இராக்காலம் இன்னும் நீட்டிப்பதாக.",
+          "என் நெஞ்சே! வாழ்க! அவர் நம்மிடம் காதல் இல்லாதவராக இருக்க, நீ மட்டும் அவரை நினைந்து வருந்துவது உன் அறியாமையே!",
+          "துறந்தவர்கும் வறியவர்க்கும் தன்னிடத்தே இறந்தவர்க்கும் இல்லறம் மேற்கொண்டு வாழ்கிறவன் துணையாவான்."
+        ],
+        "quiz_options_en": [
+          "When he's with me I see not fault And nought but fault when he is not",
+          "Sulk on O belle of shining jewels! Prolong O night! our delight swells!",
+          "Bless O mind! you pine in vain For me he has no love serene",
+          "His help the monk and retired share, And celibate students are his care"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு கிளத்தல்) பகுதியில் குறள் 1242 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: என் நெஞ்சே! வாழ்க! அவர் நம்மிடம் காதல் இல்லாதவராக இருக்க, நீ மட்டும் அவரை நினைந்து வருந்துவது உன் அறியாமையே! பரிமேலழகர் உரை நுட்பம்: (தலைமகனைக் காண்டற்கண் வேட்கை மிகுதியால் சொல்லியது.) என் நெஞ்சு வாழி - என் நெஞ்சே, வாழ்வாயாக; அவர் காதல் இலராக நீ நோவது - அவர் நம்கண் காதல் இலராகவும் நீ அவர் வரவு நோக்கி வருந்துதற்கு ஏது; பேதைமை - நின் பேதைமையே, பிறிதில்லை. ('நம்மை நினையாமையின், நங்கண் காதல...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 125: 'Soliloquy'), Kural 1242 distills a foundational ethical insight: \"Since he loves not, thy smartIs folly, fare thee well my heart\" Philosophically, Is folly, fare thee well my heart!",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "education",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1243,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நெஞ்சே (என்னுடன்) இருந்து அவரை நினைந்து வருந்துவது ஏன்? இந்தத் துன்பநோயை உண்டாக்கியவரிடம் இவ்வாறு அன்பு கொண்டு நினைக்கும் தன்மை இல்லையே!",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: O my soul! why remain (here) and suffer thinking (of him)? There are no lewd thoughts (of you) in him who has caused you this disease of sorrow.",
+        "story_title_ta": "நெஞ்சொடு கிளத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Soliloquy — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு கிளத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1243 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1243 from 'Soliloquy', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பிரிவுத் துன்பம் தந்த காதலருக்கு நம்மிடம் இரக்கமில்லாத போது, நெஞ்சே! நீ மட்டும் இங்கிருந்து கொண்டு அவரை எண்ணிக் கலங்குவதால் என்ன பயன்?",
+        "moral_en": "Moral: What comes of sitting here in pining thought, O heart? He knowsNo pitying thought, the cause of all these wasting woes.",
+        "game_blank_word_ta": "என்பரிதல்",
+        "game_options_ta": [
+          "நினைத்தொன்று",
+          "சொல்லாயோ",
+          "நெஞ்சே",
+          "என்பரிதல்"
+        ],
+        "game_options_en": [
+          "Think of, O heart, some remedy To cure this chronic malady",
+          "Bless O mind! you pine in vain For me he has no love serene",
+          "Take these eyes and meet him, O heart Or their hunger will eat me out",
+          "O mind, why pine and sit moody? Who made you so pale lacks pity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு கிளத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1243, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நெஞ்சே! அவர் இருக்கும் இடத்திற்கும் போகாமல், இங்கே இறந்தும் போகாமல், இங்கிருந்தபடியே அவர் வருவதை எண்ணி நீ வருந்துவது ஏன்? நமக்கு இந்தத் துன்ப நோயைத் தந்தவர்க்கு நம்மீது இரக்கப்படும் எண்ணம் இல்லை. கலைஞர் உரை கூறுவது: பிரிவுத் துன்பம் தந்த காதலருக்கு நம்மிடம் இரக்கமில்லாத போது, நெஞ்சே! நீ மட்டும் இங்கிருந்து கொண்டு அவரை எண்ணிக் கலங்குவதால் என்ன பயன்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Soliloquy (Post-marital Love), Kural 1243 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O my soul! why remain (here) and suffer thinking (of him)? There are no lewd thoughts (of you) in him who has caused you this disease of sorrow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு கிளத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Soliloquy'.",
+        "quiz_question_ta": "'நெஞ்சொடு கிளத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1243 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1243 from Chapter 'Soliloquy'?",
+        "quiz_options_ta": [
+          "வெள்ளம் இழுத்துச் செல்வதை அறிந்திருந்தும் ஓட் நீரில் பாய்கின்றவரைப் போல், பயன்படாமை அறிந்திருந்திருந்தும் ஊடல் கொள்வதால் பயன் ன்னெ?",
+          "காமத்திற்கு இன்பம் தருவது ஊடுதல் ஆகும், ஊடல் முடிந்த பின் கூடித் தழுவப் பெற்றால் அந்த ஊடலுக்கு இன்பமாகும்.",
+          "தென்புலத்தார், தெய்வம் விருந்தினர், சுற்றத்தார், தான் என்ற ஐவகையிடத்தும் அறநெறி தவறாமல் போற்றுதல் சிறந்த கடமையாகும்.",
+          "நெஞ்சே (என்னுடன்) இருந்து அவரை நினைந்து வருந்துவது ஏன்? இந்தத் துன்பநோயை உண்டாக்கியவரிடம் இவ்வாறு அன்பு கொண்டு நினைக்கும் தன்மை இல்லையே!"
+        ],
+        "quiz_options_en": [
+          "To leap in stream which carries off When lord is close to feign a huff",
+          "Bouderie is lovers' delight Its delight grows when they unite",
+          "By dutiful householder's aid God, manes, kin, self and guests are served",
+          "O mind, why pine and sit moody? Who made you so pale lacks pity"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு கிளத்தல்) பகுதியில் குறள் 1243 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெஞ்சே (என்னுடன்) இருந்து அவரை நினைந்து வருந்துவது ஏன்? இந்தத் துன்பநோயை உண்டாக்கியவரிடம் இவ்வாறு அன்பு கொண்டு நினைக்கும் தன்மை இல்லையே! பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நெஞ்சே இருந்து உள்ளிப் பரிதல் என் - நெஞ்சே! அவர்பால் செல்வதும் செய்யாது ஈண்டு இறந்து படுவதும் செய்யாதிருந்து அவர் வரவு நினைந்து நீ வருந்துகின்றது என்னை? பைதல் நோய் செய்தார் கண் பரிந்து உள்ளல் இல் - இப்பையுள் நோய் செய்தார் மாட்டு நமக்கு...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 125: 'Soliloquy'), Kural 1243 distills a foundational ethical insight: \"What comes of sitting here in pining thought, O heart? He knowsNo pitying thought, the cause of all these wasting woes\" Philosophically, O my soul! why remain (here) and suffer thinking (of him)? There are no lewd thoughts (of you) in him who has caused you this disease of sorrow.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "education",
+        "self-mastery",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 1244,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நெஞ்சே! நீ அவரிடம் செல்லும்போது என் கண்களையும் உடன் கொண்டு செல்வாயாக; அவரைக் காணவேண்டும் என்று இவை என்னைப் பிடுங்கித் தின்கின்றன.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: O my soul! take my eyes also with you, (if not), these would eat me up (in their desire) to see him.",
+        "story_title_ta": "நெஞ்சொடு கிளத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Soliloquy — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு கிளத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1244 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1244 from 'Soliloquy', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நெஞ்சே! நீ காதலரிடம் செல்லும் போது கண்களையும்கூட அழைத்துக்கொண்டு போ; இல்லையேல் அவரைக் காண வேண்டுமென்று என்னையே அவை தின்று விடுவது போல் இருக்கின்றன.",
+        "moral_en": "Moral: O rid me of these eyes, my heart; for they, Longing to see him, wear my life away.",
+        "game_blank_word_ta": "அவர்க்காணல்",
+        "game_options_ta": [
+          "அவர்க்காணல்",
+          "நினைத்தொன்று",
+          "சொல்லாயோ",
+          "நெஞ்சே"
+        ],
+        "game_options_en": [
+          "Take these eyes and meet him, O heart Or their hunger will eat me out",
+          "Think of, O heart, some remedy To cure this chronic malady",
+          "Bless O mind! you pine in vain For me he has no love serene",
+          "O mind, why pine and sit moody? Who made you so pale lacks pity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு கிளத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1244, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நெஞ்சே! நீ அவரைக் காணச் சென்றால் என் கண்களையும் உடன் கொண்டு செல். அவற்றை விட்டுவிட்டு நீ போய் விடுவாயானால் அவரைக் காண விரும்பும் என் கண்கள் என்னைத் தின்பன போல வருந்தும். கலைஞர் உரை கூறுவது: நெஞ்சே! நீ காதலரிடம் செல்லும் போது கண்களையும்கூட அழைத்துக்கொண்டு போ; இல்லையேல் அவரைக் காண வேண்டுமென்று என்னையே அவை தின்று விடுவது போல் இருக்கின்றன. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Soliloquy (Post-marital Love), Kural 1244 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O my soul! take my eyes also with you, (if not), these would eat me up (in their desire) to see him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு கிளத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Soliloquy'.",
+        "quiz_question_ta": "'நெஞ்சொடு கிளத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1244 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1244 from Chapter 'Soliloquy'?",
+        "quiz_options_ta": [
+          "நெஞ்சே! நீ அவரிடம் செல்லும்போது என் கண்களையும் உடன் கொண்டு செல்வாயாக; அவரைக் காணவேண்டும் என்று இவை என்னைப் பிடுங்கித் தின்கின்றன.",
+          "கள்வ! இழிவு வரத்தக்க துன்பங்களைச் செய்தாலும் கள்ளுண்டு களித்தவர்க்கு மேன்‌மேலும் விருப்பம் தரும் கள்ளைப் போன்றது உன் மார்பு.",
+          "எழுத்துக்கள் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கின்றன. அதுபோல உலகம் கடவுளை அடிப்படையாக கொண்டிருக்கிறது.",
+          "பொருள் சேர்க்கும் பொது பழிக்கு அஞ்சிச் சேர்த்து, செலவு செய்யும் போது பகுந்து உண்பதை மேற்க்கொண்டால், அவ்வாழ்கையின் ஒழுங்கு எப்போதும் குறைவதில்லை."
+        ],
+        "quiz_options_en": [
+          "Take these eyes and meet him, O heart Or their hunger will eat me out",
+          "Like wine to addicts that does disgrace Your breast, O thief, is for my embrace!",
+          "'A' leads letters; the Ancient Lord Leads and lords the entire world",
+          "Sin he shuns and food he shares His home is bright and brighter fares"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு கிளத்தல்) பகுதியில் குறள் 1244 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெஞ்சே! நீ அவரிடம் செல்லும்போது என் கண்களையும் உடன் கொண்டு செல்வாயாக; அவரைக் காணவேண்டும் என்று இவை என்னைப் பிடுங்கித் தின்கின்றன. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நெஞ்சே, கண்ணும் கொளச் சேறி - நெஞ்சே நீ அவர்பாற் சேறலுற்றாயாயின் இக்கண்களையும் உடன் கொண்டு செல்வாயாக; இவை அவர்க் காணல் உற்று என்னைத் தின்னும் - அன்றி நீயே சேறியாயின், இவைதாம் காட்சி விதுப்பினால் அவரைக் காண்டல்வேண்டி நீ காட்டு என்று என்னைத...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 125: 'Soliloquy'), Kural 1244 distills a foundational ethical insight: \"O rid me of these eyes, my heart; for they, Longing to see him, wear my life away\" Philosophically, O my soul! take my eyes also with you, (if not), these would eat me up (in their desire) to see him.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1245,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நெஞ்சே! யாம் விரும்பி நாடினாலும் எம்மை நாடாத அவர் நம்மை வெறுத்து விட்டார் என்று எண்ணிக் கைவிட முடியும‌ோ?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: O my soul! can he who loves not though he is beloved, be forsaken saying he hates me (now)?",
+        "story_title_ta": "நெஞ்சொடு கிளத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Soliloquy — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு கிளத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1245 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1245 from 'Soliloquy', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நெஞ்சே! நாம் விரும்பினாலும் நம்மை விரும்பி வராத அவர், நம்மை வெறுத்து விட்டார் என நினைத்து அவர் மீது கொண்ட காதலைக் கைவிட்டு விட முடியுமா?",
+        "moral_en": "Moral: O heart, as a foe, can I abandon utterlyHim who, though I long for him, longs not for me.",
+        "game_blank_word_ta": "தவர்",
+        "game_options_ta": [
+          "நினைத்தொன்று",
+          "தவர்",
+          "சொல்லாயோ",
+          "நெஞ்சே"
+        ],
+        "game_options_en": [
+          "Think of, O heart, some remedy To cure this chronic malady",
+          "He spurns our love and yet, O mind, Can we desert him as unkind?",
+          "Bless O mind! you pine in vain For me he has no love serene",
+          "O mind, why pine and sit moody? Who made you so pale lacks pity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு கிளத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1245, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நெஞ்சே! நான் அவர்மீது அன்பு காட்டியும், என்மீது அன்பு காட்டாத அவரை, நம்மை வெறுத்தவர் என்று எண்ணிக் கைவிடும் உள்ள உறுதி எனக்கு உண்டோ? கலைஞர் உரை கூறுவது: நெஞ்சே! நாம் விரும்பினாலும் நம்மை விரும்பி வராத அவர், நம்மை வெறுத்து விட்டார் என நினைத்து அவர் மீது கொண்ட காதலைக் கைவிட்டு விட முடியுமா? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Soliloquy (Post-marital Love), Kural 1245 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O my soul! can he who loves not though he is beloved, be forsaken saying he hates me (now)? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு கிளத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Soliloquy'.",
+        "quiz_question_ta": "'நெஞ்சொடு கிளத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1245 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1245 from Chapter 'Soliloquy'?",
+        "quiz_options_ta": [
+          "காமம் மலரை விட மென்மை உடையதாகும்; அந்த உண்மை அறிந்து அதன் நல்ல பயனைப் பெறக்கூடியவர் சிலரே.",
+          "நெஞ்சே! யாம் விரும்பி நாடினாலும் எம்மை நாடாத அவர் நம்மை வெறுத்து விட்டார் என்று எண்ணிக் கைவிட முடியும‌ோ?",
+          "தூய அறிவு வடிவாக விளங்கும் இறைவனுடைய நல்ல திருவடிகளை தொழாமல் இருப்பாரானால், அவர் கற்ற கல்வியினால் ஆகிய பயன் என்ன?",
+          "இல்வாழ்க்கையின் அன்பும் அறமும் உடையதாக விளங்குமானால், அந்த வாழக்கையின் பண்பும் பயனும் அதுவே ஆகும்."
+        ],
+        "quiz_options_en": [
+          "Flower-soft is love; a few alone Know its delicacy so fine",
+          "He spurns our love and yet, O mind, Can we desert him as unkind?",
+          "That lore is vain which does not fall At His good feet who knoweth all",
+          "In grace and gain the home excels, Where love with virtue sweetly dwells"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு கிளத்தல்) பகுதியில் குறள் 1245 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெஞ்சே! யாம் விரும்பி நாடினாலும் எம்மை நாடாத அவர் நம்மை வெறுத்து விட்டார் என்று எண்ணிக் கைவிட முடியும‌ோ? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நெஞ்சே - நெஞ்சே; யாம் உற்றால் உறாஅதவர் - யாம் தம்மையுறத் தாம் உறாத நம் காதலரை; செற்றாரெனக் கைவிடல் உண்டோ - வெறுத்தார் என்று கருதிப் புலந்து கைவிட்டிருக்கும் வலி நமக்குண்டோ? இல்லை. (உறுதல் - அன்பு படுதல். 'அவ்வலி யின்மையின் அவர்பால் செல்வதே...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 125: 'Soliloquy'), Kural 1245 distills a foundational ethical insight: \"O heart, as a foe, can I abandon utterlyHim who, though I long for him, longs not for me\" Philosophically, O my soul! can he who loves not though he is beloved, be forsaken saying he hates me (now)?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "kindness",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1246,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: என் நெஞ்சே! ஊடியபோது கூடி ஊடல் உணர்த்த வல்ல காதலரைக் கண்டபோது நீ பிணங்கி உணர மாட்டாய்; பொய்யான சினங்கொண்டு காய்கினறாய்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: O my soul! when you see the dear one who remove dislike by intercourse, you are displeased and continue to be so Nay, your displeasure is (simply) false.",
+        "story_title_ta": "நெஞ்சொடு கிளத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Soliloquy — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு கிளத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1246 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1246 from 'Soliloquy', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நெஞ்சே! கூடிக் கலந்து ஊடலை நீக்கும் காதலரைக் கண்டால் ஒரு தடவைகூடப் பிணங்கியறியாத நீ இப்போது அவர் மீது கொள்ளுகிற கோபம் பொய்யானது தானே?",
+        "moral_en": "Moral: My heart, false is the fire that burns; thou canst not wrath maintain, If thou thy love behold, embracing, soothing all thy pain.",
+        "game_blank_word_ta": "கலந்துணர்த்தும்",
+        "game_options_ta": [
+          "நினைத்தொன்று",
+          "சொல்லாயோ",
+          "கலந்துணர்த்தும்",
+          "நெஞ்சே"
+        ],
+        "game_options_en": [
+          "Think of, O heart, some remedy To cure this chronic malady",
+          "Bless O mind! you pine in vain For me he has no love serene",
+          "Wrath is false, O heart, face-to face Sans huff, you rush to his sweet embrace",
+          "O mind, why pine and sit moody? Who made you so pale lacks pity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு கிளத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1246, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் நெஞ்சே! நான் அவருடன் ஊடினால் அந்த ஊடலை என்னுடன் கூடி நீக்கவல்ல என் அன்பரைக் கண்டால் பொய்யாகவாவது கொஞ்சம் ஊடிப் பிறகு ஊடலை விட்டுக் கூடமாட்டோம். இப்போது அதையும் விட்டுவிட்டு அவரைக் கொடியவர் எனப் பொய்யாக வெறுப்பது போல் இருக்கின்றாய்; இதை விடுத்து அவரிடம் போயேன். கலைஞர் உரை கூறுவது: நெஞ்சே! கூடிக் கலந்து ஊடலை நீக்கும் காதலரைக் கண்டால் ஒரு தடவைகூடப் பிணங்கியறியாத நீ இப்போது அவர் மீது கொள்ளுகிற கோபம் பொய்யானது தானே? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Soliloquy (Post-marital Love), Kural 1246 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O my soul! when you see the dear one who remove dislike by intercourse, you are displeased and continue to be so Nay, your displeasure is (simply) false. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு கிளத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Soliloquy'.",
+        "quiz_question_ta": "'நெஞ்சொடு கிளத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1246 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1246 from Chapter 'Soliloquy'?",
+        "quiz_options_ta": [
+          "கண் பார்வையின் அளவில் பிணங்கி, என்னை விடத் தான் விரைந்து தழுவுதலை விரும்பி, ( பிணங்கிய நிலையையும் மறந்து) கலந்து விட்டாள்.",
+          "அன்பரின் அகமாகிய மலரில் வீற்றிருக்கும் கடவுளின் சிறந்த திருவடிகளை பொருந்தி நினைக்கின்றவர், இன்ப உலகில் நிலைத்து வாழ்வார்",
+          "என் நெஞ்சே! ஊடியபோது கூடி ஊடல் உணர்த்த வல்ல காதலரைக் கண்டபோது நீ பிணங்கி உணர மாட்டாய்; பொய்யான சினங்கொண்டு காய்கினறாய்.",
+          "ஒருவன் அறநெறியில் இல்வாழ்க்கையைச் செலுத்தி வாழ்வானானால், அத்தகையவன் வேறு நெறியில் சென்று பெறத்தக்கது என்ன?"
+        ],
+        "quiz_options_en": [
+          "She feigned dislike awhile but flew Faster for embrace than I do",
+          "Long they live on earth who gain The feet of God in florid brain",
+          "Wrath is false, O heart, face-to face Sans huff, you rush to his sweet embrace",
+          "Who turns from righteous family To be a monk, what profits he?"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு கிளத்தல்) பகுதியில் குறள் 1246 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: என் நெஞ்சே! ஊடியபோது கூடி ஊடல் உணர்த்த வல்ல காதலரைக் கண்டபோது நீ பிணங்கி உணர மாட்டாய்; பொய்யான சினங்கொண்டு காய்கினறாய். பரிமேலழகர் உரை நுட்பம்: (தலைமகன் கொடுமை நினைந்து செலவு உடன்படாத நெஞ்சினைக் கழறியது.) என் நெஞ்சே, கலந்து உணர்த்தும் காதலர்க்கணடால் புலந்து உணராய் - யான் தம்மொடு புலந்தால் அப்புலவியைக் கலவிதன்னானே நீக்கவல்ல காதலரைக் கண்டால் பொய்யேயாயினும் ஒருகால் புலந்து பின்னதனை நீக்க மாட்டாய...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 125: 'Soliloquy'), Kural 1246 distills a foundational ethical insight: \"My heart, false is the fire that burns; thou canst not wrath maintain, If thou thy love behold, embracing, soothing all thy pain\" Philosophically, O my soul! when you see the dear one who remove dislike by intercourse, you are displeased and continue to be so Nay, your displeasure is (simply) false.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "truth",
+        "speech",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1247,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நல்ல நெஞ்சே! ஒன்று காமத்தை விட்டு விடு; அல்லது நாணத்தை விட்டு விடு; இந்த இரண்டையும் பொறுத்துக் கொண்டிருக்க என்னால் முடியாது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: O my good soul, give up either lust or honour, as for me I can endure neither.",
+        "story_title_ta": "நெஞ்சொடு கிளத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Soliloquy — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு கிளத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1247 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1247 from 'Soliloquy', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நல்ல நெஞ்சமே! ஒன்று காதலால் துடிப்பதையாவது விட்டு விடு; அல்லது அதனைத் துணிந்து சொல்ல முடியாமல் தடுக்கும் நாணத்தையாவது விட்டு விடு இந்த இரண்டு செய்லகளையும் ஒரே நேரத்தில் தாங்கிக் கொள்ள என்னால் முடியாது.",
+        "moral_en": "Moral: Or bid thy love, or bid thy shame depart; For me, I cannot bear them both, my worthy heart.",
+        "game_blank_word_ta": "விரண்டு",
+        "game_options_ta": [
+          "நினைத்தொன்று",
+          "சொல்லாயோ",
+          "நெஞ்சே",
+          "விரண்டு"
+        ],
+        "game_options_en": [
+          "Think of, O heart, some remedy To cure this chronic malady",
+          "Bless O mind! you pine in vain For me he has no love serene",
+          "O mind, why pine and sit moody? Who made you so pale lacks pity",
+          "Off with love O mind, or shame I cannot endure both of them"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு கிளத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1247, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்ல நெஞ்சே! ஒன்று காதல் விருப்பத்தை விடு; அல்லது நாணத்தை விடு; இரண்டையுமே விடமுடியாது என்பது உன் எண்ணம் என்றால், ஒன்றிற்கொன்று வேறுபட்ட இந்த இரண்டையும் சேர்த்துத் தாங்கும் ஆற்றல் எனக்கு இல்லை. கலைஞர் உரை கூறுவது: நல்ல நெஞ்சமே! ஒன்று காதலால் துடிப்பதையாவது விட்டு விடு; அல்லது அதனைத் துணிந்து சொல்ல முடியாமல் தடுக்கும் நாணத்தையாவது விட்டு விடு இந்த இரண்டு செய்லகளையும் ஒரே நேரத்தில் தாங்கிக் கொள்ள என்னால் முடியாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Soliloquy (Post-marital Love), Kural 1247 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O my good soul, give up either lust or honour, as for me I can endure neither. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு கிளத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Soliloquy'.",
+        "quiz_question_ta": "'நெஞ்சொடு கிளத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1247 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1247 from Chapter 'Soliloquy'?",
+        "quiz_options_ta": [
+          "நெஞ்சே! அவருடைய நெஞ்சம் ( நம்மை நினையாமல் நம்மிடம் வராமல்) அவர்க்குத் துணையாதலைக் கண்டும் நீ எமக்குத் துணையாகாதது ஏன்?",
+          "விருப்பு வெறுப்பு இல்லாத கடவுளின் திருவடிகளை பொருந்தி நினைக்கின்றவர்க்கு எப்போதும் எவ்விடத்திலும் துன்பம் இல்லை",
+          "அறத்தின் இயல்பொடு இல்வாழ்கை வாழ்கிறவன்- வாழ முயல்கிறவன் பல திறத்தாரிலும் மேம்பட்டு விளங்குகிறவன் ஆவான்.",
+          "நல்ல நெஞ்சே! ஒன்று காமத்தை விட்டு விடு; அல்லது நாணத்தை விட்டு விடு; இந்த இரண்டையும் பொறுத்துக் கொண்டிருக்க என்னால் முடியாது."
+        ],
+        "quiz_options_en": [
+          "You see, his heart is his alone; Why not my heart be all my own?",
+          "Who hold His feet who likes nor loathes Are free from woes of human births",
+          "Of all who strive for bliss, the great Is he who leads the married state",
+          "Off with love O mind, or shame I cannot endure both of them"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு கிளத்தல்) பகுதியில் குறள் 1247 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நல்ல நெஞ்சே! ஒன்று காமத்தை விட்டு விடு; அல்லது நாணத்தை விட்டு விடு; இந்த இரண்டையும் பொறுத்துக் கொண்டிருக்க என்னால் முடியாது. பரிமேலழகர் உரை நுட்பம்: (நாண் தடுத்தலின், அச்செலவு ஒழிவாள் சொல்லியது.) நல் நெஞ்சே - நல்ல நெஞ்சே; ஒன்று காமம் விடு - ஒன்றின் நாண் விடமாட்டாயாயின் காம வேட்கையை விடு; (ஒன்று) நாண் விடு - ஒன்றின் அது விடமாட்டாயாயின் நாணினை விடு; இவ்விரண்டு யானோ பொறேன் - அன்றியே இரண்டும் விடாமை நின...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 125: 'Soliloquy'), Kural 1247 distills a foundational ethical insight: \"Or bid thy love, or bid thy shame depart; For me, I cannot bear them both, my worthy heart\" Philosophically, O my good soul, give up either lust or honour, as for me I can endure neither.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "humility",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1248,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: என் நெஞ்சே! பிரிவுத் துன்பத்தால் வருந்தி அவர் வந்து அன்பு செய்ய வில்லையே என்று ஏங்கி பிரிந்தவரின் பின் செல்கின்றாய் பேதை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: You are a fool, O my soul! to go after my departed one, while you mourn that he is not kind enough to favour you.",
+        "story_title_ta": "நெஞ்சொடு கிளத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Soliloquy — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு கிளத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1248 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1248 from 'Soliloquy', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நம்மீது இரக்கமின்றிப் பிரிந்து விட்டாரேயென்று ஏங்கிடும் அதே வேளையில் பிரிந்தவர் பின்னாலேயே சென்று கொண்டிருக்கும் என் நெஞ்சம் ஓர் அறிவற்ற பேதை போன்றதாகும்.",
+        "moral_en": "Moral: Thou art befooled, my heart, thou followest him who flees from thee; And still thou yearning criest: 'He will nor pity show nor love to me.'.",
+        "game_blank_word_ta": "ஏங்கிப்",
+        "game_options_ta": [
+          "ஏங்கிப்",
+          "நினைத்தொன்று",
+          "சொல்லாயோ",
+          "நெஞ்சே"
+        ],
+        "game_options_en": [
+          "Without pity he would depart! You sigh and seek his favour, poor heart!",
+          "Think of, O heart, some remedy To cure this chronic malady",
+          "Bless O mind! you pine in vain For me he has no love serene",
+          "O mind, why pine and sit moody? Who made you so pale lacks pity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு கிளத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1248, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் நெஞ்சே! நம் பிரிவுத் துன்பத்தை அவர் அறியார். அதனால் வருந்தி அவர் நம்மீது அன்பு காட்டாமல் இருக்கின்றார் என்று எண்ணி, நம் நிலையை அவர்க்குக் கூறுவதற்காக, அவர் பின்னே ஏங்கிச் செல்லும் நீ ஏதும் அறியாத பேதையே! கலைஞர் உரை கூறுவது: நம்மீது இரக்கமின்றிப் பிரிந்து விட்டாரேயென்று ஏங்கிடும் அதே வேளையில் பிரிந்தவர் பின்னாலேயே சென்று கொண்டிருக்கும் என் நெஞ்சம் ஓர் அறிவற்ற பேதை போன்றதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Soliloquy (Post-marital Love), Kural 1248 speaks directly to teens navigating studies, friendships, leadership, and digital choices: You are a fool, O my soul! to go after my departed one, while you mourn that he is not kind enough to favour you. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு கிளத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Soliloquy'.",
+        "quiz_question_ta": "'நெஞ்சொடு கிளத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1248 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1248 from Chapter 'Soliloquy'?",
+        "quiz_options_ta": [
+          "என் நெஞ்சே! பிரிவுத் துன்பத்தால் வருந்தி அவர் வந்து அன்பு செய்ய வில்லையே என்று ஏங்கி பிரிந்தவரின் பின் செல்கின்றாய் பேதை.",
+          "என் நெஞசே! நம்மேல் அன்பு கொள்ளாத காதலரைக் கண்டபோதும், அவர் வெறுக்கமாட்டார் என்று எண்ணி அவரிடம் செல்கின்றாயே!",
+          "கடவுளின் உண்மைப் புகழை விரும்பி அன்பு செலுத்துகின்றவரிடம் அறியாமையால் விளையும் இருவகை வினையும் சேர்வதில்லை",
+          "மற்றவரை அறநெறியில் ஒழுகச்செய்து தானும்அறம் தவறாத இல்வாழ்க்கை , தவம் செய்வாரைவிட மிகச்சிறந்த வல்லமை உடைய வாழ்க்கையாகும்."
+        ],
+        "quiz_options_en": [
+          "Without pity he would depart! You sigh and seek his favour, poor heart!",
+          "O heart, you see how he slights me Yet you clasp him as if friendly",
+          "God's praise who tell, are free from right And wrong, the twins of dreaming night",
+          "Straight in virtue, right in living Make men brighter than monks praying"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு கிளத்தல்) பகுதியில் குறள் 1248 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: என் நெஞ்சே! பிரிவுத் துன்பத்தால் வருந்தி அவர் வந்து அன்பு செய்ய வில்லையே என்று ஏங்கி பிரிந்தவரின் பின் செல்கின்றாய் பேதை. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது) என் நெஞ்சு - என் நெஞ்சே; அவர் பிரிந்து நல்கார் என்று - அவர் இவ்வாற்றாமையை அறியாமையின் நொந்து வந்து தலையளி செய்யாராயினார் என்று கருதி; பிரிந்தவர்பின் ஏங்கிச் செல்வாய் பேதை- அறிவித்தற் பொருட்டு நம்மைப் பிரிந்து போயவர்பின் ஏங்கிச் செல்லலுற்ற நீ...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 125: 'Soliloquy'), Kural 1248 distills a foundational ethical insight: \"Thou art befooled, my heart, thou followest him who flees from thee; And still thou yearning criest: 'He will nor pity show nor love to me.'\" Philosophically, You are a fool, O my soul! to go after my departed one, while you mourn that he is not kind enough to favour you.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "kindness",
+        "gratitude",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1249,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: என் நெஞ்சே! காதலர் உன் உள்ளத்தில் உள்ளவராக இருக்கும்போது நீ அவரை நினைத்து யாரிடம் தேடிச் செல்கின்றாய்?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: O my soul! to whom would you repair, while the dear one is within yourself?",
+        "story_title_ta": "நெஞ்சொடு கிளத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Soliloquy — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு கிளத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1249 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1249 from 'Soliloquy', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: உள்ளத்திலேயே காதலர் குடி கொண்டிருக்கும்போது, நெஞ்சமே! நீ அவரை நினைத்து வெளியே எவரிடம் தேடி அலைகிறாய்?",
+        "moral_en": "Moral: My heart! my lover lives within my mind; Roaming, whom dost thou think to find.",
+        "game_blank_word_ta": "லவரால்",
+        "game_options_ta": [
+          "நினைத்தொன்று",
+          "லவரால்",
+          "சொல்லாயோ",
+          "நெஞ்சே"
+        ],
+        "game_options_en": [
+          "Think of, O heart, some remedy To cure this chronic malady",
+          "The lover lives in Self you know; Whom you think, mind to whom you go?",
+          "Bless O mind! you pine in vain For me he has no love serene",
+          "O mind, why pine and sit moody? Who made you so pale lacks pity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு கிளத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1249, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் நெஞ்சே! நம் அன்பர் நம் மனத்திற்குள்ளேயே இருக்க, நீ அவரைத் தேடி எவரிடம் போகிறாய்? கலைஞர் உரை கூறுவது: உள்ளத்திலேயே காதலர் குடி கொண்டிருக்கும்போது, நெஞ்சமே! நீ அவரை நினைத்து வெளியே எவரிடம் தேடி அலைகிறாய்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Soliloquy (Post-marital Love), Kural 1249 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O my soul! to whom would you repair, while the dear one is within yourself? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு கிளத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Soliloquy'.",
+        "quiz_question_ta": "'நெஞ்சொடு கிளத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1249 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1249 from Chapter 'Soliloquy'?",
+        "quiz_options_ta": [
+          "நெஞ்சே! நீ உன் விருப்பத்தின்படியே அவர் பின் செல்வதற்குக் காரணம், துன்பத்தால் அழிந்தவர்‌க்கு நண்பர் இல்லை என்னும் எண்ண‌மோ?",
+          "என் நெஞ்சே! காதலர் உன் உள்ளத்தில் உள்ளவராக இருக்கும்போது நீ அவரை நினைத்து யாரிடம் தேடிச் செல்கின்றாய்?",
+          "ஐம்பொறி வாயிலாக பிறக்கும் வேட்கைகளை அவித்த இறைவனுடைய பொய்யற்ற ஒழுக்க நெறியில் நின்றவர், நிலை பெற்ற நல்வாழ்க்கை வாழ்வர்",
+          "அறம் என்று சிறப்பித்து சொல்லப்பட்டது இல்வாழ்க்கையே ஆகும். அதுவும் மற்றவன் பழிக்கும் குற்றம் இல்லாமல் விளங்கினால் மேலும் நன்மையாகும்."
+        ],
+        "quiz_options_en": [
+          "You follow him at will Is it \\\"The fallen have no friends\\\" my heart?",
+          "The lover lives in Self you know; Whom you think, mind to whom you go?",
+          "They prosper long who walk His way Who has the senses signed away",
+          "Home-life and virtue, are the same; Which spotless monkhood too can claim"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு கிளத்தல்) பகுதியில் குறள் 1249 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: என் நெஞ்சே! காதலர் உன் உள்ளத்தில் உள்ளவராக இருக்கும்போது நீ அவரை நினைத்து யாரிடம் தேடிச் செல்கின்றாய்? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) என் நெஞ்சு - என் நெஞ்சே; காதலவர் உள்ளத்தாராக - காதலர் நின்னகத்தாராக; நீ உள்ளி யாருழைச் சேறி - முன்பெல்லாம் கண்டு வைத்து இப்பொழுது நீ புறத்துத் தேடிச் செல்கின்றது யாரிடத்து? ('உள்ளம்' என்புழி 'அம்' பகுதிப் பொருள் விகுதி. 'நின்னகத்திருக்கின்றவரை...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 125: 'Soliloquy'), Kural 1249 distills a foundational ethical insight: \"My heart! my lover lives within my mind; Roaming, whom dost thou think to find\" Philosophically, O my soul! to whom would you repair, while the dear one is within yourself?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1250,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நம்மோடு பொருந்தி இருக்காமல் கைவிட்டுச சென்ற காதலரை நெஞ்சில் வைத்திருக்கும்போது இன்னும் மெலிந்து அழகை இழந்து வருகின்றோம்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If I retain in my heart him who has left me without befriending me, I shall lose even the (inward) beauty that remains.",
+        "story_title_ta": "நெஞ்சொடு கிளத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Soliloquy — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு கிளத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1250 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1250 from 'Soliloquy', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: சேராமல் பிரிந்து சென்ற காதலரைச் சிந்தையில் வைத்திருப்பதால் மேலும் மேனியெழில் இழந்து மெலிந்து அழிய வேண்டியுள்ளது.",
+        "moral_en": "Moral: If I should keep in mind the man who utterly renounces me, My soul must suffer further loss of dignity.",
+        "game_blank_word_ta": "இன்னும்",
+        "game_options_ta": [
+          "நினைத்தொன்று",
+          "சொல்லாயோ",
+          "இன்னும்",
+          "நெஞ்சே"
+        ],
+        "game_options_en": [
+          "Think of, O heart, some remedy To cure this chronic malady",
+          "Bless O mind! you pine in vain For me he has no love serene",
+          "Without a thought he deserted us To think of him will make us worse",
+          "O mind, why pine and sit moody? Who made you so pale lacks pity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு கிளத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1250, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நம்மைக் கலவாமல் பிரிந்து போனவரை நாம் நம் மனத்திற்குள்ளேயே கொண்டிருப்பதால் முன்பு இழந்த புற அழகை மட்டுமே அன்று இருக்கும் அக அழகையும் இழக்கப் போகிறோம். கலைஞர் உரை கூறுவது: சேராமல் பிரிந்து சென்ற காதலரைச் சிந்தையில் வைத்திருப்பதால் மேலும் மேனியெழில் இழந்து மெலிந்து அழிய வேண்டியுள்ளது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Soliloquy (Post-marital Love), Kural 1250 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If I retain in my heart him who has left me without befriending me, I shall lose even the (inward) beauty that remains. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு கிளத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Soliloquy'.",
+        "quiz_question_ta": "'நெஞ்சொடு கிளத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1250 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1250 from Chapter 'Soliloquy'?",
+        "quiz_options_ta": [
+          "நெஞ்‌சே! நீ ஊடலைச் செய்து அதன் பயனை நுகர மாட்டாய்; இனிமேல் அத்தகையவற்றைப் பற்றி உன்னோடு கலந்து எண்ணப் போகின்றவர் யார்?",
+          "தனக்கு ஒப்புமை இல்லாத தலைவனுடைய திருவடிகளைப் பொருந்தி நினைக்கின்றவர் அல்லாமல், மற்றவர்க்கு மனக்கவலையை மாற்ற முடியாது",
+          "நம்மோடு பொருந்தி இருக்காமல் கைவிட்டுச சென்ற காதலரை நெஞ்சில் வைத்திருக்கும்போது இன்னும் மெலிந்து அழகை இழந்து வருகின்றோம்.",
+          "உலகத்தில் வாழவேண்டிய அறநெறியில் நின்று வாழ்கிறவன், வானுலகத்தில் உள்ள தெய்வ முறையில் வைத்து மதிக்கப்படுவான்."
+        ],
+        "quiz_options_en": [
+          "You won't sulk first and then submit Who will then consult you, my heart?",
+          "His feet, whose likeness none can find, Alone can ease the anxious mind",
+          "Without a thought he deserted us To think of him will make us worse",
+          "He is a man of divine worth Who lives in ideal home on earth"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு கிளத்தல்) பகுதியில் குறள் 1250 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நம்மோடு பொருந்தி இருக்காமல் கைவிட்டுச சென்ற காதலரை நெஞ்சில் வைத்திருக்கும்போது இன்னும் மெலிந்து அழகை இழந்து வருகின்றோம். பரிமேலழகர் உரை நுட்பம்: (அவரை மறந்து ஆற்றல் வேண்டும் என்பதுபடச் சொல்லியது.) துன்னாத துறந்தாரை நெஞ்சத்து உடையேமா - நம்மைக் கூடாவண்ணம் துறந்துபோயினாரை நாம் அகத்து உடையேமாக; இன்னும் கவின் இழத்தும் - முன் இழந்த புறக்கவினேயன்றி நின்ற அகக்கவினும் இழப்பேம். ('குன்றின், நெஞ்சுபக எறிந்த...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 125: 'Soliloquy'), Kural 1250 distills a foundational ethical insight: \"If I should keep in mind the man who utterly renounces me, My soul must suffer further loss of dignity\" Philosophically, If I retain in my heart him who has left me without befriending me, I shall lose even the (inward) beauty that remains.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "love",
+        "friendship",
+        "self-mastery"
+      ]
+    }
+  ]
+}

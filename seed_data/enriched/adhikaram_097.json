@@ -1,0 +1,580 @@
+{
+  "adhikaram_id": 97,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.354559643+00:00",
+  "kurals": [
+    {
+      "kural_number": 961,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: இன்றியமையாத சிறப்பை உடைய செயல்களே ஆயினும் குடிப்பெருமை தாழுமாறு வரும் செயல்களை ஒருவன் செய்யாமல் விட வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Actions that would degrade (one's) family should not be done; though they may be so important that not doing them would end in death.",
+        "story_title_ta": "மானம் — நிலா கற்ற பாடம்",
+        "story_title_en": "Honour — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மானம்' என்ற அதிகாரத்திலிருந்து குறள் 961 பற்றிக் கதை சொன்னார். 'ஒன்று இல்லாமல் எதுவும் நடைபெறாது என்னும் அளவிற்கு அது முக்கியமானது; ஆனாலும் அதைச் செய்தால் குடும்பத்திற்கு இழிவு வரும் என்றால் அந்த ஒன்றைச் செய்யாதே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 97, 'Honour', centered on Kural 961: Actions that would degrade (one's) family should not be done; though they may be so important that not doing them would end in death. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கட்டாயமாகச் செய்து தீர வேண்டிய செயல்கள் என்றாலும்கூட அவற்றால் தனது பெருமை குறையுமானால் அந்தச் செயல்களைத் தவிர்த்திடல் வேண்டும்.",
+        "moral_en": "Moral: Though linked to splendours man no otherwise may gain, Reject each act that may thine honour's clearness stain.",
+        "game_blank_word_ta": "சிறப்பின",
+        "game_options_ta": [
+          "சீரினும்",
+          "சிறப்பின",
+          "சீரல்ல",
+          "செய்யாரே"
+        ],
+        "game_options_en": [
+          "Who seek honour and manly fame Don't do mean deeds even for name",
+          "Though needed for your life in main, From mean degrading acts refrain",
+          "Be humble in prosperity In decline uphold dignity",
+          "Like hair fallen from head are those Who fall down from their high status"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மானம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 961, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒன்று இல்லாமல் எதுவும் நடைபெறாது என்னும் அளவிற்கு அது முக்கியமானது; ஆனாலும் அதைச் செய்தால் குடும்பத்திற்கு இழிவு வரும் என்றால் அந்த ஒன்றைச் செய்யாதே. கலைஞர் உரை கூறுவது: கட்டாயமாகச் செய்து தீர வேண்டிய செயல்கள் என்றாலும்கூட அவற்றால் தனது பெருமை குறையுமானால் அந்தச் செயல்களைத் தவிர்த்திடல் வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Honour (Citizenship & Miscellaneous), Kural 961 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Actions that would degrade (one's) family should not be done; though they may be so important that not doing them would end in death. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மானம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Honour' thoughtfully.",
+        "quiz_question_ta": "'மானம்' அதிகாரத்தில் வரும் திருக்குறள் 961 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 961 from Chapter 'Honour'?",
+        "quiz_options_ta": [
+          "பிறர்க்கு கொடுத்து உதவுவதும் தான் நுகர்வதும் இல்லாதவர்க்கு மேன் மேலும் பெருகிய பல கோடிப் பொருள் உண்டானாலும் பயன் இல்லை.",
+          "இன்றியமையாத சிறப்பை உடைய செயல்களே ஆயினும் குடிப்பெருமை தாழுமாறு வரும் செயல்களை ஒருவன் செய்யாமல் விட வேண்டும்.",
+          "நேற்றும் கொலை செய்தது போல் துன்புறுத்திய வறுமை இன்றும் என்னிடம் வருமோ, (என்று வறியவன் நாள்தோறும் கலங்கி வருந்துவான்).",
+          "இவளுடைய மை தீட்டிய கண்களில் உள்ளது இருவகைப்பட்ட நோக்கமாகும், அவற்றுள் ஒரு நோக்கம் நோய் செய்யும் நோக்கம், மற்றொன்று அந் நோய்க்கு மருந்தாகும்."
+        ],
+        "quiz_options_en": [
+          "What is the good of crores they hoard To give and enjoy whose heart is hard",
+          "Though needed for your life in main, From mean degrading acts refrain",
+          "The killing Want of yesterday Will it pester me even to-day?",
+          "Her painted eyes, two glances dart One hurts; the other heals my heart"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (மானம்) பகுதியில் குறள் 961 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இன்றியமையாத சிறப்பை உடைய செயல்களே ஆயினும் குடிப்பெருமை தாழுமாறு வரும் செயல்களை ஒருவன் செய்யாமல் விட வேண்டும். பரிமேலழகர் உரை நுட்பம்: இன்றி அமையாச் சிறப்பின ஆயினும் - செய்யாத வழித்தாம் அமையாத சிறப்பினை உடையவேயெனினும்; குன்ற வருப விடல் - தம் குடிப்பிறப்புத் தாழ வரும் செயல்களை ஒழிக. (அமையாமை - இறத்தல். 'குடிப்பிறப்பு' என்பது அதிகார முறைமையான் வந்தது. 'இறப்பவரும் வழி இளிவந்தன செய்தாயினும...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 97: 'Honour'), Kural 961 distills a foundational ethical insight: \"Though linked to splendours man no otherwise may gain, Reject each act that may thine honour's clearness stain\" Philosophically, Actions that would degrade (one's) family should not be done; though they may be so important that not doing them would end in death.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "wisdom",
+        "education",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 962,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: புகழோடு பெரிய ஆண்மையும் விரும்புகின்றவர், புகழ் தோடும் வழியிலும் குடிப்பெருமைக்கு ஒவ்வாத செயல்களைச் செய்யமாட்டார்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Those who desire (to maintain their) honour, will surely do nothing dishonourable, even for the sake of fame.",
+        "story_title_ta": "மானம் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Honour — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மானம்' என்ற அதிகாரத்திலிருந்து குறள் 962 பற்றிக் கதை சொன்னார். 'புகழுடன் தன் குடும்பப் பெருமையை நிலைநாட்ட விரும்புபவர் புகழுக்குரியவற்றைச் செய்யும்போதும் தம் குடும்பப் பெருமைக்கு ஏற்காத இழிவுகளைச் செய்யமாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 97, 'Honour', centered on Kural 962: Those who desire (to maintain their) honour, will surely do nothing dishonourable, even for the sake of fame. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: புகழ்மிக்க வீர வாழ்க்கையை விரும்புகிறவர், தனக்கு எப்படியும் புகழ் வரவேண்டுமென்பதற்காக மான உணர்வுக்குப் புறம்பான காரியத்தில் ஈடுபடமாட்டார்.",
+        "moral_en": "Moral: Who seek with glory to combine honour's untarnished fame, Do no inglorious deeds, though men accord them glory's name.",
+        "game_blank_word_ta": "சீரொடு",
+        "game_options_ta": [
+          "இன்றி",
+          "அமையாச்",
+          "சீரொடு",
+          "சிறப்பின"
+        ],
+        "game_options_en": [
+          "Though needed for your life in main, From mean degrading acts refrain",
+          "Be humble in prosperity In decline uphold dignity",
+          "Who seek honour and manly fame Don't do mean deeds even for name",
+          "Like hair fallen from head are those Who fall down from their high status"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மானம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 962, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: புகழுடன் தன் குடும்பப் பெருமையை நிலைநாட்ட விரும்புபவர் புகழுக்குரியவற்றைச் செய்யும்போதும் தம் குடும்பப் பெருமைக்கு ஏற்காத இழிவுகளைச் செய்யமாட்டார். கலைஞர் உரை கூறுவது: புகழ்மிக்க வீர வாழ்க்கையை விரும்புகிறவர், தனக்கு எப்படியும் புகழ் வரவேண்டுமென்பதற்காக மான உணர்வுக்குப் புறம்பான காரியத்தில் ஈடுபடமாட்டார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Honour (Citizenship & Miscellaneous), Kural 962 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who desire (to maintain their) honour, will surely do nothing dishonourable, even for the sake of fame. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மானம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Honour' thoughtfully.",
+        "quiz_question_ta": "'மானம்' அதிகாரத்தில் வரும் திருக்குறள் 962 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 962 from Chapter 'Honour'?",
+        "quiz_options_ta": [
+          "தானும் நுகராமல் தக்கவற்க்கு ஒன்று கொடுத்து உதவும் இயல்பும் இல்லாமல் வாழ்கின்றவன், தன்னிடமுள்ள பெருஞ் செல்வத்திற்கு ஒரு நோய் ஆவான்.",
+          "ஒருவன் நெருப்பினுள் இருந்து தூங்குதலும் முடியும், ஆனால் வறுமை நிலையில் எவ்வகையாலும் கண்மூடித் தூங்குதல் அரிது.",
+          "புகழோடு பெரிய ஆண்மையும் விரும்புகின்றவர், புகழ் தோடும் வழியிலும் குடிப்பெருமைக்கு ஒவ்வாத செயல்களைச் செய்யமாட்டார்.",
+          "கண்ணால் என்னை நோக்கிக் களவு கொள்கின்ற சுருங்கிய பார்வை காமத்தில் நேர்பாதி அன்று, அதைவிடப் பெரிய பகுதியாகும்."
+        ],
+        "quiz_options_en": [
+          "Great wealth unused for oneself nor To worthy men is but a slur",
+          "One may sleep in the midst of fire In want a wink of sleep is rare",
+          "Who seek honour and manly fame Don't do mean deeds even for name",
+          "Her furtive lightning glance is more Than enjoyment of sexual lore"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (மானம்) பகுதியில் குறள் 962 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: புகழோடு பெரிய ஆண்மையும் விரும்புகின்றவர், புகழ் தோடும் வழியிலும் குடிப்பெருமைக்கு ஒவ்வாத செயல்களைச் செய்யமாட்டார். பரிமேலழகர் உரை நுட்பம்: சீரினும் சீர் அல்ல செய்யார் - புகழ் செய்யுமிடத்தும் தம் குடிமைக்கு ஒவ்வாத இளிவரவுகளைச் செய்யார்; சீரொடு பேராண்மை வேண்டுபவர் - புகழுடனே மானத்தை நிறுத்துதலை விரும்புவார். (எவ்விடத்தும் நிலைகுலையாத திண்மையான் உளதாதல் பற்றிப் 'பேராண்மை' எனப்பட்டது. நிலையுடைய...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 97: 'Honour'), Kural 962 distills a foundational ethical insight: \"Who seek with glory to combine honour's untarnished fame, Do no inglorious deeds, though men accord them glory's name\" Philosophically, Those who desire (to maintain their) honour, will surely do nothing dishonourable, even for the sake of fame.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "education",
+        "self-mastery",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 963,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: செல்வம் பெருகியுள்ள காலத்தில் ஒருவனுக்குப் பண்பு வேண்டும், செல்வம் குறைந்து சுருங்கும் வறுமையுள்ள காலத்தில் பணியாத உயர்வு வேண்டும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: In great prosperity humility is becoming; dignity, in great adversity.",
+        "story_title_ta": "மானம் — இனியா கற்ற பாடம்",
+        "story_title_en": "Honour — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மானம்' என்ற அதிகாரத்திலிருந்து குறள் 963 பற்றிக் கதை சொன்னார். 'நல்ல குடும்பத்தில் பிறந்து மானம் காக்க எண்ணுவோர் செல்வம் நிறைந்த காலத்தில் பிறரிடம் பணிவுடனும், வறுமை வந்த காலத்தில் தாழ்ந்து விட்டுக் கொடுக்காமலும் நடந்து கொள்ள வேண்டும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 97, 'Honour', centered on Kural 963: In great prosperity humility is becoming; dignity, in great adversity. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உயர்ந்த நிலை வரும்போது அடக்க உணர்வும், அந்த நிலை மாறிவிட்ட சூழலில் யாருக்கும் அடிமையாக அடங்கி நடக்காத மான உணர்வும் வேண்டும்.",
+        "moral_en": "Moral: Bow down thy soul, with increase blest, in happy hour; Lift up thy heart, when stript of all by fortune's power.",
+        "game_blank_word_ta": "சிறிய",
+        "game_options_ta": [
+          "இன்றி",
+          "அமையாச்",
+          "சிறப்பின",
+          "சிறிய"
+        ],
+        "game_options_en": [
+          "Though needed for your life in main, From mean degrading acts refrain",
+          "Who seek honour and manly fame Don't do mean deeds even for name",
+          "Like hair fallen from head are those Who fall down from their high status",
+          "Be humble in prosperity In decline uphold dignity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மானம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 963, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்ல குடும்பத்தில் பிறந்து மானம் காக்க எண்ணுவோர் செல்வம் நிறைந்த காலத்தில் பிறரிடம் பணிவுடனும், வறுமை வந்த காலத்தில் தாழ்ந்து விட்டுக் கொடுக்காமலும் நடந்து கொள்ள வேண்டும். கலைஞர் உரை கூறுவது: உயர்ந்த நிலை வரும்போது அடக்க உணர்வும், அந்த நிலை மாறிவிட்ட சூழலில் யாருக்கும் அடிமையாக அடங்கி நடக்காத மான உணர்வும் வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Honour (Citizenship & Miscellaneous), Kural 963 speaks directly to teens navigating studies, friendships, leadership, and digital choices: In great prosperity humility is becoming; dignity, in great adversity. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மானம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Honour' thoughtfully.",
+        "quiz_question_ta": "'மானம்' அதிகாரத்தில் வரும் திருக்குறள் 963 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 963 from Chapter 'Honour'?",
+        "quiz_options_ta": [
+          "பொருள் இல்லாத வறியவர்க்கு ஒரு பொருள் கொடுத்து உதவாதவனுடையச் செல்வம், மிக்க அழகு பெற்றவள் தனியாக வாழ்ந்து முதுமையுற்றாற் போன்றது.",
+          "நுகரும் பொருள் இல்லாத வறியவர் முற்றுந் துறக்க கூடியவராக இருந்தும் துறக்காத காரணம், உப்புக்கும் கஞ்சிக்கும் எமனாக இருப்பதே ஆகும்.",
+          "என்னை நோக்கினாள், யான் கண்டதும் நோக்கித் தலைகுனிந்தால், அது அவள் வளர்க்கும் அன்பினுள் வார்க்கின்ற நீராகும்.",
+          "செல்வம் பெருகியுள்ள காலத்தில் ஒருவனுக்குப் பண்பு வேண்டும், செல்வம் குறைந்து சுருங்கும் வறுமையுள்ள காலத்தில் பணியாத உயர்வு வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Who loaths to help have-nots, his gold Is like a spinster-belle grown old",
+          "Renounce their lives the poor must Or salt and gruel go to waste",
+          "She looked; looking bowed her head And love-plant was with water fed",
+          "Be humble in prosperity In decline uphold dignity"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (மானம்) பகுதியில் குறள் 963 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செல்வம் பெருகியுள்ள காலத்தில் ஒருவனுக்குப் பண்பு வேண்டும், செல்வம் குறைந்து சுருங்கும் வறுமையுள்ள காலத்தில் பணியாத உயர்வு வேண்டும். பரிமேலழகர் உரை நுட்பம்: பெருக்கத்துப் பணிதல் வேண்டும் - குடிப்பிறந்தார்க்கு நிறைந்த செல்வம் உளதாயவழி யாவர்மாட்டும் பணிவு வேண்டும்; சிறிய சுருக்கத்து உயர்வு வேண்டும் - குறைந்த நல்குரவுளதாயவழிப் பணியாமை வேண்டும், (பணியாமை - தாழ்வு வாராமற் பழைய உயர்ச்சிக்கண்ணே நிற்றல். செல்வக்காலை அஃது...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 97: 'Honour'), Kural 963 distills a foundational ethical insight: \"Bow down thy soul, with increase blest, in happy hour; Lift up thy heart, when stript of all by fortune's power\" Philosophically, In great prosperity humility is becoming; dignity, in great adversity.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "humility",
+        "wealth",
+        "wisdom",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 964,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: மக்கள் தம் உயர்வுக்கு உரிய நிலையிலிருந்து தாழ்ந்த போது, தலைமையிலிருந்து விழுந்து தாழ்வுற்ற மயிரினைப் போன்றவர் ஆவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: They who have fallen from their (high) position are like the hair which has fallen from the head.",
+        "story_title_ta": "மானம் — முகில் கற்ற பாடம்",
+        "story_title_en": "Honour — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மானம்' என்ற அதிகாரத்திலிருந்து குறள் 964 பற்றிக் கதை சொன்னார். 'நல்ல குடும்பத்தில் பிறந்தவர் மானம் காக்காமல் தம் உயர்ந்த நிலையை விட்டுவிட்டுத் தாழ்ந்தால், தலையை விட்டு விழுந்த மயிரைப் போன்றவர் ஆவார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 97, 'Honour', centered on Kural 964: They who have fallen from their (high) position are like the hair which has fallen from the head. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மக்களின் நெஞ்சத்தில் உயர்ந்த இடம் பெற்றிருந்த ஒருவர் மானமிழந்து தாழ்ந்திடும்போது, தலையிலிருந்து உதிர்ந்த மயிருக்குச் சமமாகக் கருதப்படுவார்.",
+        "moral_en": "Moral: Like hairs from off the head that fall to earth, When fall'n from high estate are men of noble birth.",
+        "game_blank_word_ta": "நிலையின்",
+        "game_options_ta": [
+          "நிலையின்",
+          "இன்றி",
+          "அமையாச்",
+          "சிறப்பின"
+        ],
+        "game_options_en": [
+          "Like hair fallen from head are those Who fall down from their high status",
+          "Though needed for your life in main, From mean degrading acts refrain",
+          "Who seek honour and manly fame Don't do mean deeds even for name",
+          "Be humble in prosperity In decline uphold dignity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மானம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 964, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்ல குடும்பத்தில் பிறந்தவர் மானம் காக்காமல் தம் உயர்ந்த நிலையை விட்டுவிட்டுத் தாழ்ந்தால், தலையை விட்டு விழுந்த மயிரைப் போன்றவர் ஆவார். கலைஞர் உரை கூறுவது: மக்களின் நெஞ்சத்தில் உயர்ந்த இடம் பெற்றிருந்த ஒருவர் மானமிழந்து தாழ்ந்திடும்போது, தலையிலிருந்து உதிர்ந்த மயிருக்குச் சமமாகக் கருதப்படுவார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Honour (Citizenship & Miscellaneous), Kural 964 speaks directly to teens navigating studies, friendships, leadership, and digital choices: They who have fallen from their (high) position are like the hair which has fallen from the head. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மானம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Honour' thoughtfully.",
+        "quiz_question_ta": "'மானம்' அதிகாரத்தில் வரும் திருக்குறள் 964 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 964 from Chapter 'Honour'?",
+        "quiz_options_ta": [
+          "மக்கள் தம் உயர்வுக்கு உரிய நிலையிலிருந்து தாழ்ந்த போது, தலைமையிலிருந்து விழுந்து தாழ்வுற்ற மயிரினைப் போன்றவர் ஆவர்.",
+          "பிறர்க்கு உதவாத காரணத்தால் ஒருவராலும் விரும்பப்படாதவனுடைய செல்வம், ஊர் நடுவில் நச்சு மரம் பழுத்தாற் போன்றது.",
+          "இரந்து கேட்க தக்கவரைக் கண்டால் அவனிடம் இரக்க வேண்டும், அவர் இல்லை என்று ஒளிப்பாரானால் அது அவர்க்கு பழி, தமக்கு பழி அன்று.",
+          "யான் நோக்கும் போது அவள் நிலத்தை நோக்குவாள், யான் நோக்காத போது அவள் என்னை நோக்கி மெல்லத் தனக்குள் மகிழ்வாள்."
+        ],
+        "quiz_options_en": [
+          "Like hair fallen from head are those Who fall down from their high status",
+          "The idle wealth of unsought men Is poison-fruit-tree amidst a town",
+          "Demand from those who can supply Default is theirs when they deny",
+          "I look; she droops to earth awhile I turn; she looks with gentle smile"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (மானம்) பகுதியில் குறள் 964 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மக்கள் தம் உயர்வுக்கு உரிய நிலையிலிருந்து தாழ்ந்த போது, தலைமையிலிருந்து விழுந்து தாழ்வுற்ற மயிரினைப் போன்றவர் ஆவர். பரிமேலழகர் உரை நுட்பம்: மாந்தர் - குடிப்பிறந்த மாந்தர்; நிலையின் இழிந்தக்கடை - தம் உயர்ந்த நிலையைவிட்டு அதனின்றும் தாழ்ந்த வழி; தலையின் இழிந்த மயிர் அனையர் - தலையை விட்டு அதனினின்றும் வீழ்ந்த மயிரினை ஒப்பர், {அந்நிலையை விடாது நின்ற வழிப் பேணப்படுதலும,¢ விட்டுத் தாழ்ந்த வழி...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 97: 'Honour'), Kural 964 distills a foundational ethical insight: \"Like hairs from off the head that fall to earth, When fall'n from high estate are men of noble birth\" Philosophically, They who have fallen from their (high) position are like the hair which has fallen from the head.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 965,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மலை போல் உயர்ந்த நிலையில் உள்ளவரும், தாழ்வுக்கு காரணமானச் செயல்களை ஒரு குன்றிமனி அளவு செய்தாலும் தாழ்ந்து போய் விடுவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Even those who are exalted like a hill will be thought low, if they commit deeds that are debasing.",
+        "story_title_ta": "மானம் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Honour — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மானம்' என்ற அதிகாரத்திலிருந்து குறள் 965 பற்றிக் கதை சொன்னார். 'நல்ல குடும்பத்தில் பிறந்து மலைபோல உயர்ந்தவரும்கூட தாழ்வானவற்றை ஒரு குன்றிமணி அளவு செய்தாலும் தாழ்ந்து போவார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 97, 'Honour', centered on Kural 965: Even those who are exalted like a hill will be thought low, if they commit deeds that are debasing. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: குன்றினைப் போல் உயர்ந்து கம்பீரமாக நிற்பவர்களும் ஒரு குன்றிமணி அளவு இழிவான செயலில் ஈடுபட்டால் தாழ்ந்து குன்றிப் போய் விடுவார்கள்.",
+        "moral_en": "Moral: If meanness, slight as 'abrus' grain, by men be wrought, Though like a hill their high estate, they sink to nought.",
+        "game_blank_word_ta": "செயின்",
+        "game_options_ta": [
+          "இன்றி",
+          "செயின்",
+          "அமையாச்",
+          "சிறப்பின"
+        ],
+        "game_options_en": [
+          "Though needed for your life in main, From mean degrading acts refrain",
+          "Even hill-like men will sink to nought With abrus-grain-like small default",
+          "Who seek honour and manly fame Don't do mean deeds even for name",
+          "Be humble in prosperity In decline uphold dignity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மானம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 965, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்ல குடும்பத்தில் பிறந்து மலைபோல உயர்ந்தவரும்கூட தாழ்வானவற்றை ஒரு குன்றிமணி அளவு செய்தாலும் தாழ்ந்து போவார். கலைஞர் உரை கூறுவது: குன்றினைப் போல் உயர்ந்து கம்பீரமாக நிற்பவர்களும் ஒரு குன்றிமணி அளவு இழிவான செயலில் ஈடுபட்டால் தாழ்ந்து குன்றிப் போய் விடுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Honour (Citizenship & Miscellaneous), Kural 965 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even those who are exalted like a hill will be thought low, if they commit deeds that are debasing. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மானம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Honour' thoughtfully.",
+        "quiz_question_ta": "'மானம்' அதிகாரத்தில் வரும் திருக்குறள் 965 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 965 from Chapter 'Honour'?",
+        "quiz_options_ta": [
+          "பிறரிடம் செலுத்தும் அன்பையும் விட்டுத் தன்னையும் வருத்தி அறத்தையும் போற்றாமல் சேர்த்து வைத்தப் பெரும் பொருளைப் பெற்று நுகர்பவர் மற்றவரே.",
+          "மலை போல் உயர்ந்த நிலையில் உள்ளவரும், தாழ்வுக்கு காரணமானச் செயல்களை ஒரு குன்றிமனி அளவு செய்தாலும் தாழ்ந்து போய் விடுவர்.",
+          "இரந்து கேட்ட பொருள் துன்பமுறாமல் கிடைக்குமானால், அவ்வாறு இரத்தலும் இன்பம் என்று சொல்லத் தக்கதாகும்.",
+          "என்னை நேராகக் குறித்துப் பார்க்காத அத் தன்மையே அல்லாமல், ஒரு கண்ணைச் சுருக்கினவள் போல் என்னைப் பார்த்து தனக்குள் மகிழ்வாள்."
+        ],
+        "quiz_options_en": [
+          "Others usurp the shining gold In loveless, stingy, vicious hold",
+          "Even hill-like men will sink to nought With abrus-grain-like small default",
+          "Even demand becomes a joy When the things comes without annoy",
+          "No direct gaze; a side-long glance She darts at me and smiles askance"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (மானம்) பகுதியில் குறள் 965 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மலை போல் உயர்ந்த நிலையில் உள்ளவரும், தாழ்வுக்கு காரணமானச் செயல்களை ஒரு குன்றிமனி அளவு செய்தாலும் தாழ்ந்து போய் விடுவர். பரிமேலழகர் உரை நுட்பம்: குன்றின் அனையாரும் - குடிப்பிறப்பான் மலைபோல உயர்ந்தோரும்; குன்றுவ குன்றி அனைய செயின் குன்றுவர் - தாழ்தற்கு ஏதுவாகிய செயல்களை ஒரு குன்றி அளவாயினும் செய்வராயின் தாழ்வர். ('குன்றியனையவும'¢ என்னும் இழிவு சிறப்பு உம்மை விகாரத்தால் தொக்கது. தாழ்தற்கு ஏதுவாய...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 97: 'Honour'), Kural 965 distills a foundational ethical insight: \"If meanness, slight as 'abrus' grain, by men be wrought, Though like a hill their high estate, they sink to nought\" Philosophically, Even those who are exalted like a hill will be thought low, if they commit deeds that are debasing.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 966,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: மதியாமல் இகழ்கின்றவரின் பின் சென்று பணிந்து நிற்க்கும் நிலை, ஒருவனுக்கு புகழும் தராது, தேவருலகிலும் செலுத்தாது, வேறு பயன் என்ன.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Why follow men who scorn, and at their bidding wait?",
+        "story_title_ta": "மானம் — கவின் கற்ற பாடம்",
+        "story_title_en": "Honour — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மானம்' என்ற அதிகாரத்திலிருந்து குறள் 966 பற்றிக் கதை சொன்னார். 'உயிர் வாழும் பொருட்டு மானத்தை விட்டுவிட்டுத் தம்மை இகழ்பவர் பின்னே சென்று வாழும் வாழ்வு, இம்மைக்குப் புகழ் தராது. மறுமைக்கு விண்ணுலகிலும் சேர்க்காது; வேறு என்னதான் தரும் அது?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 97, 'Honour', centered on Kural 966: Why follow men who scorn, and at their bidding wait? Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இகழ்வதையும் பொறுத்துக்கொண்டு, மானத்தை விட்டுவிட்டு ஒருவர் பின்னே பணிந்து செல்வதால் என்ன புகழ் கிடைக்கும்? இல்லாத சொர்க்கமா கிடைக்கும்?",
+        "moral_en": "Moral: It yields no praise, nor to the land of Gods throws wide the gate:Why follow men who scorn, and at their bidding wait.",
+        "game_blank_word_ta": "புகழ்இன்றால்",
+        "game_options_ta": [
+          "இன்றி",
+          "அமையாச்",
+          "புகழ்இன்றால்",
+          "சிறப்பின"
+        ],
+        "game_options_en": [
+          "Though needed for your life in main, From mean degrading acts refrain",
+          "Who seek honour and manly fame Don't do mean deeds even for name",
+          "Why fawn on men that scorn you here It yields no fame, heaven's bliss neither",
+          "Be humble in prosperity In decline uphold dignity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மானம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 966, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உயிர் வாழும் பொருட்டு மானத்தை விட்டுவிட்டுத் தம்மை இகழ்பவர் பின்னே சென்று வாழும் வாழ்வு, இம்மைக்குப் புகழ் தராது. மறுமைக்கு விண்ணுலகிலும் சேர்க்காது; வேறு என்னதான் தரும் அது? கலைஞர் உரை கூறுவது: இகழ்வதையும் பொறுத்துக்கொண்டு, மானத்தை விட்டுவிட்டு ஒருவர் பின்னே பணிந்து செல்வதால் என்ன புகழ் கிடைக்கும்? இல்லாத சொர்க்கமா கிடைக்கும்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Honour (Citizenship & Miscellaneous), Kural 966 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Why follow men who scorn, and at their bidding wait? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மானம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Honour' thoughtfully.",
+        "quiz_question_ta": "'மானம்' அதிகாரத்தில் வரும் திருக்குறள் 966 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 966 from Chapter 'Honour'?",
+        "quiz_options_ta": [
+          "புகழ் பொருந்திய செல்வர் உற்ற சிறிய வறுமை உலகத்தைக் காக்க வல்ல மேகம் வறுமை மிகுந்தாற் போன்ற தன்மை உடையது.",
+          "ஒளிப்பு இல்லாத நெஞ்சும், கடைமையுணர்ச்சியும், உள்ளவரின் முன்னே நின்று இரந்து பொருள் கேட்பதும் ஓர் அழகு உடையதாகும்.",
+          "மதியாமல் இகழ்கின்றவரின் பின் சென்று பணிந்து நிற்க்கும் நிலை, ஒருவனுக்கு புகழும் தராது, தேவருலகிலும் செலுத்தாது, வேறு பயன் என்ன.",
+          "புறத்தே அயலார் போல் அன்பில்லாத சொற்களைச் சொன்னாலும், அகத்தே பகையில்லாதவரின் சொல் என்பது விரைவில் அறியப்படும்."
+        ],
+        "quiz_options_en": [
+          "The brief want of the rich benign Is like rainclouds growing thin",
+          "Request has charm form open hearts Who know the duty on their part",
+          "Why fawn on men that scorn you here It yields no fame, heaven's bliss neither",
+          "Their words at first seem an offence But quick we feel them friendly ones"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (மானம்) பகுதியில் குறள் 966 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மதியாமல் இகழ்கின்றவரின் பின் சென்று பணிந்து நிற்க்கும் நிலை, ஒருவனுக்கு புகழும் தராது, தேவருலகிலும் செலுத்தாது, வேறு பயன் என்ன. பரிமேலழகர் உரை நுட்பம்: இகழ்வார்பின் சென்று நிலை - மானத்தை விட்டுத் தன்னை அவமதிப்பார் பின்னே ஒருவன் சென்று நிற்கின்ற நிலை; புகழ் இன்று - இவ்வுலகத்துப் புகழ் பயவாது; புத்தேள் நாட்டு உய்யாது - ஏனைப் புத்தேளுலகத்துச் செலுத்தாது; மற்று என் - இனி அவனுக்கு அது செய்வது யாது? (புகழ...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 97: 'Honour'), Kural 966 distills a foundational ethical insight: \"It yields no praise, nor to the land of Gods throws wide the gate:Why follow men who scorn, and at their bidding wait\" Philosophically, Why follow men who scorn, and at their bidding wait?",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "gratitude",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 967,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மதியாதவரின் பின் சென்று ஒருவன் உயிர்வாழ்வதை விட, அவ்வாறு செய்யாத நிலையில் நின்று அழிந்தான் என்று சொல்லப்படுதல் நல்லது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: It is better for a man to be said of him that he died in his usual state than that he eked out his life by following those who disgraced him.",
+        "story_title_ta": "மானம் — நிலா கற்ற பாடம்",
+        "story_title_en": "Honour — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மானம்' என்ற அதிகாரத்திலிருந்து குறள் 967 பற்றிக் கதை சொன்னார். 'இகழுபவர் பின்னே சென்று அவர் தரும் பொருளை, பதவியைப் பெற்று உயிர்வாழ்வதைக் காட்டிலும் அவன் இறந்துபோனான் என்று சொல்லப்படுவது அவனுக்கு நல்லதாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 97, 'Honour', centered on Kural 967: It is better for a man to be said of him that he died in his usual state than that he eked out his life by following those who disgraced him. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தன்னை மதிக்காதவரின் பின்னால் சென்று உயிர் வாழ்வதைவிடச் செத்தொழிவது எவ்வளவோ மேல்.",
+        "moral_en": "Moral: Better 'twere said, 'He's perished!' than to gainThe means to live, following in foeman's train.",
+        "game_blank_word_ta": "சென்றொருவன்",
+        "game_options_ta": [
+          "இன்றி",
+          "அமையாச்",
+          "சிறப்பின",
+          "சென்றொருவன்"
+        ],
+        "game_options_en": [
+          "Though needed for your life in main, From mean degrading acts refrain",
+          "Who seek honour and manly fame Don't do mean deeds even for name",
+          "Be humble in prosperity In decline uphold dignity",
+          "Better it is to die forlorn Than live as slaves of those who scorn"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மானம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 967, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இகழுபவர் பின்னே சென்று அவர் தரும் பொருளை, பதவியைப் பெற்று உயிர்வாழ்வதைக் காட்டிலும் அவன் இறந்துபோனான் என்று சொல்லப்படுவது அவனுக்கு நல்லதாம். கலைஞர் உரை கூறுவது: தன்னை மதிக்காதவரின் பின்னால் சென்று உயிர் வாழ்வதைவிடச் செத்தொழிவது எவ்வளவோ மேல். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Honour (Citizenship & Miscellaneous), Kural 967 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is better for a man to be said of him that he died in his usual state than that he eked out his life by following those who disgraced him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மானம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Honour' thoughtfully.",
+        "quiz_question_ta": "'மானம்' அதிகாரத்தில் வரும் திருக்குறள் 967 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 967 from Chapter 'Honour'?",
+        "quiz_options_ta": [
+          "தகாத செயல் காரணமாக நாணுவதே நாணமாகும், பெண்களுக்கு இயல்பான மற்ற நாணங்கள் வேறு வகையானவை.",
+          "உள்ளதை மறைத்துக் கூறும் தன்மையைக் கனவிலும் அறியாதவரிடத்தில் இரந்து கேட்பதும் பிறர்க்கு கொடுப்பதைப் போன்ற சிறப்புடையது.",
+          "பகை கொள்ளாத கடுஞ்சொல்லும், பகைவர் போல் பார்க்கும் பார்வையும் புறத்தே அயலார் போல் இருந்து அகத்தே அன்பு கொண்டவரின் குறிப்பாகும்.",
+          "மதியாதவரின் பின் சென்று ஒருவன் உயிர்வாழ்வதை விட, அவ்வாறு செய்யாத நிலையில் நின்று அழிந்தான் என்று சொல்லப்படுதல் நல்லது."
+        ],
+        "quiz_options_en": [
+          "To shrink from evil deed is shame The rest is blush of fair-faced dame",
+          "Like giving even asking seems From those who hide not even in dreams",
+          "Harsh little words; offended looks, Are feigned consenting love-lorn tricks",
+          "Better it is to die forlorn Than live as slaves of those who scorn"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (மானம்) பகுதியில் குறள் 967 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மதியாதவரின் பின் சென்று ஒருவன் உயிர்வாழ்வதை விட, அவ்வாறு செய்யாத நிலையில் நின்று அழிந்தான் என்று சொல்லப்படுதல் நல்லது. பரிமேலழகர் உரை நுட்பம்: ஒட்டார் பின் சென்று ஒருவன் வாழ்தலின் - தன்னை இகழ்வார் பின்னே சென்று பொருள் பெற்று அதனால் ஒருவன் உயிர் வாழ்தலின்; அந்நிலையே கெட்டான் எனப்படுதல் நன்று - அது செய்யாது இறந்தான் என்று சொல்லப்படுதல் அவனுக்கு நன்று. (ஒட்டுதல் - பொருந்துதல். 'அந்நிலையே' என்றது...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 97: 'Honour'), Kural 967 distills a foundational ethical insight: \"Better 'twere said, 'He's perished!' than to gainThe means to live, following in foeman's train\" Philosophically, It is better for a man to be said of him that he died in his usual state than that he eked out his life by following those who disgraced him.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "kindness",
+        "speech",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 968,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒருவனுடைய பெருந்தகைமை தன் சிறப்புக்கெட நேர்ந்த போது, அவன் உடம்பை மட்டும் காத்து வாழும் வாழ்க்கை சாவாமைக்கு மருந்தோ.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: For the high-born to keep their body in life when their honour is gone will certainly not prove a remedy against death.",
+        "story_title_ta": "மானம் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Honour — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மானம்' என்ற அதிகாரத்திலிருந்து குறள் 968 பற்றிக் கதை சொன்னார். 'குடும்பப் பெருமைக்கான மானம் அழிய நேர்ந்தபோது இறந்து போகாமல் இந்த உடம்பைக் காத்துவாழும் வாழ்க்கை சாவாமைக்கு மருந்து ஆகுமோ?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 97, 'Honour', centered on Kural 968: For the high-born to keep their body in life when their honour is gone will certainly not prove a remedy against death. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சாகாமலே இருக்க மருந்து கிடையாது அப்படி இருக்கும்போது உயிரைவிட நிலையான மானத்தைப் போற்றாமல், வாழ்க்கை மேம்பாட்டுக்காக ஒருவர், தமது பெருமையைக் குறைத்துக் கொள்வது இழிவான செயலாகும்.",
+        "moral_en": "Moral: When high estate has lost its pride of honour meet, Is life, that nurses this poor flesh, as nectar sweet.",
+        "game_blank_word_ta": "வாழ்க்கை",
+        "game_options_ta": [
+          "வாழ்க்கை",
+          "இன்றி",
+          "அமையாச்",
+          "சிறப்பின"
+        ],
+        "game_options_en": [
+          "Is nursing body nectar sweet Even when one's honour is lost?",
+          "Though needed for your life in main, From mean degrading acts refrain",
+          "Who seek honour and manly fame Don't do mean deeds even for name",
+          "Be humble in prosperity In decline uphold dignity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மானம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 968, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: குடும்பப் பெருமைக்கான மானம் அழிய நேர்ந்தபோது இறந்து போகாமல் இந்த உடம்பைக் காத்துவாழும் வாழ்க்கை சாவாமைக்கு மருந்து ஆகுமோ? கலைஞர் உரை கூறுவது: சாகாமலே இருக்க மருந்து கிடையாது அப்படி இருக்கும்போது உயிரைவிட நிலையான மானத்தைப் போற்றாமல், வாழ்க்கை மேம்பாட்டுக்காக ஒருவர், தமது பெருமையைக் குறைத்துக் கொள்வது இழிவான செயலாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Honour (Citizenship & Miscellaneous), Kural 968 speaks directly to teens navigating studies, friendships, leadership, and digital choices: For the high-born to keep their body in life when their honour is gone will certainly not prove a remedy against death. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மானம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Honour' thoughtfully.",
+        "quiz_question_ta": "'மானம்' அதிகாரத்தில் வரும் திருக்குறள் 968 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 968 from Chapter 'Honour'?",
+        "quiz_options_ta": [
+          "ஒருவனுடைய பெருந்தகைமை தன் சிறப்புக்கெட நேர்ந்த போது, அவன் உடம்பை மட்டும் காத்து வாழும் வாழ்க்கை சாவாமைக்கு மருந்தோ.",
+          "உணவும், உடையும் எஞ்சி நிற்கும் மற்றவையும், எல்லா உயிர்களுக்கும் பொதுவானவை, மக்களின் சிறப்பியல்பாக விளங்குவது நாணுடைமையே ஆகும்.",
+          "ஒருவர் முன் நின்று இரப்பவர் அந்த இரத்தலை மேற்கொள்வது, உள்ளதை இல்லை என்று ஒளித்துக்கூறாத நன்மைகள் உலகத்தில் இருப்பதால் தான்.",
+          "யான் நோக்கும் போது அதற்காக அன்பு கொண்டவனாய் மெல்லச் சிரிப்பாள், அசையும் மெல்லிய இயல்பை உடைய அவளுக்கு அப்போது ஓர் அழகு உள்ளது."
+        ],
+        "quiz_options_en": [
+          "Is nursing body nectar sweet Even when one's honour is lost?",
+          "Food, dress and such are one for all Modesty marks the higher soul",
+          "The needy demand for help because The world has men who don't refuse",
+          "What a grace the slim maid has! As I look she slightly smiles"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (மானம்) பகுதியில் குறள் 968 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவனுடைய பெருந்தகைமை தன் சிறப்புக்கெட நேர்ந்த போது, அவன் உடம்பை மட்டும் காத்து வாழும் வாழ்க்கை சாவாமைக்கு மருந்தோ. பரிமேலழகர் உரை நுட்பம்: பெருந்தகைமை பீடு அழிய வந்த இடத்து - உயர்குடிப் பிறப்புத் தன்வலியாகிய மானம் அழியவந்துழி; ஊன் ஓம்பும் வாழ்க்கை மற்று மருந்தோ - இறத்தலொழிந்து பயனில்லாத உடம்பினைக் காக்கும் வாழ்க்கை பின்னும் இறவாமைக்கு மருந்தாமோ? ('மற்று' என்பது மேற்சொல்லிய இறப்பினை மாற்றி...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 97: 'Honour'), Kural 968 distills a foundational ethical insight: \"When high estate has lost its pride of honour meet, Is life, that nurses this poor flesh, as nectar sweet\" Philosophically, For the high-born to keep their body in life when their honour is gone will certainly not prove a remedy against death.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "humility",
+        "ethics",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 969,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தன் உடம்பிலிருந்து மயிர் நீங்கினால் உயிர்வாழாத கவரிமானைப் போன்றவர் மானம் அழிய நேர்ந்தால் உயிரை விட்டுவிடுவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Those who give up (their) life when (their) honour is at stake are like the yark which kills itself at the loss of (even one of) its hairs.",
+        "story_title_ta": "மானம் — இனியா கற்ற பாடம்",
+        "story_title_en": "Honour — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மானம்' என்ற அதிகாரத்திலிருந்து குறள் 969 பற்றிக் கதை சொன்னார். 'மயிர்எலாம் இழந்துவிட்டால் உயிர் வாழ முடியாத கவரிமான் (சாமரம்) போன்றவர் தம் குடும்பப் பெருமை எல்லாம் அழிய நேர்ந்தால் உயிர் வாழமாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 97, 'Honour', centered on Kural 969: Those who give up (their) life when (their) honour is at stake are like the yark which kills itself at the loss of (even one of) its hairs. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உடலில் உள்ள உரோமம் நீக்கப்பட்டால் உயிர் வாழாது கவரிமான் என்பார்கள் அதுபோல் மானம் அழிய நேர்ந்தால் உயர்ந்த மனிதர்கள் உயிரையே விட்டு விடுவார்கள்.",
+        "moral_en": "Moral: Like the wild ox that, of its tuft bereft, will pine away, Are those who, of their honour shorn, will quit the light of day.",
+        "game_blank_word_ta": "அன்னார்",
+        "game_options_ta": [
+          "இன்றி",
+          "அன்னார்",
+          "அமையாச்",
+          "சிறப்பின"
+        ],
+        "game_options_en": [
+          "Though needed for your life in main, From mean degrading acts refrain",
+          "Honour lost, the noble expire Like a yak that loses its hair",
+          "Who seek honour and manly fame Don't do mean deeds even for name",
+          "Be humble in prosperity In decline uphold dignity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மானம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 969, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மயிர்எலாம் இழந்துவிட்டால் உயிர் வாழ முடியாத கவரிமான் (சாமரம்) போன்றவர் தம் குடும்பப் பெருமை எல்லாம் அழிய நேர்ந்தால் உயிர் வாழமாட்டார். கலைஞர் உரை கூறுவது: உடலில் உள்ள உரோமம் நீக்கப்பட்டால் உயிர் வாழாது கவரிமான் என்பார்கள் அதுபோல் மானம் அழிய நேர்ந்தால் உயர்ந்த மனிதர்கள் உயிரையே விட்டு விடுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Honour (Citizenship & Miscellaneous), Kural 969 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who give up (their) life when (their) honour is at stake are like the yark which kills itself at the loss of (even one of) its hairs. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மானம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Honour' thoughtfully.",
+        "quiz_question_ta": "'மானம்' அதிகாரத்தில் வரும் திருக்குறள் 969 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 969 from Chapter 'Honour'?",
+        "quiz_options_ta": [
+          "எல்லா உயிர்களும் ஊனாலாகிய உடம்பை இருப்பிடமாகக் கொண்டவை, சால்பு என்பது நாணம் என்று சொல்லப்படும் நல்லப் பண்பை இருப்பிடமாகக் கொண்டது.",
+          "தன் உடம்பிலிருந்து மயிர் நீங்கினால் உயிர்வாழாத கவரிமானைப் போன்றவர் மானம் அழிய நேர்ந்தால் உயிரை விட்டுவிடுவர்.",
+          "உள்ளதை ஒளிக்கும் துன்பநிலை இல்லாதவரைக் கண்டால், இரப்பவரின் வறுமைத் துன்பம் எல்லாம் ஒரு சேரக் கெடும்.",
+          "புறத்தே அயலார்போல் அன்பில்லாத பொது நோக்கம் கொண்டு பார்த்தல், அகத்தே காதல் கொண்டவரிடம் உள்ள இயல்பாகும்."
+        ],
+        "quiz_options_en": [
+          "All lives have their lodge in flesh Perfection has its home in blush",
+          "Honour lost, the noble expire Like a yak that loses its hair",
+          "The pain of poverty shall die Before the free who don't deny",
+          "Between lovers we do discern A stranger's look of unconcern"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (மானம்) பகுதியில் குறள் 969 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன் உடம்பிலிருந்து மயிர் நீங்கினால் உயிர்வாழாத கவரிமானைப் போன்றவர் மானம் அழிய நேர்ந்தால் உயிரை விட்டுவிடுவர். பரிமேலழகர் உரை நுட்பம்: மயிர் நீப்பின் வாழாக் கவரிமா அன்னார் - தன் மயிர்த்திரளின் ஒரு மயிர் நீங்கினும் உயிர் வாழாத கவரிமாவை ஒப்பார்; மானம் வரின் உயிர் நீப்பர் - உயிர் நீக்கத்தான் மானம் எய்தும் எல்லை வரின், அதனைத் தாங்காது இறப்பர். (இழிவு சிறப்பு உம்மை விகாரத்தால் தொக்கது. உயிரும...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 97: 'Honour'), Kural 969 distills a foundational ethical insight: \"Like the wild ox that, of its tuft bereft, will pine away, Are those who, of their honour shorn, will quit the light of day\" Philosophically, Those who give up (their) life when (their) honour is at stake are like the yark which kills itself at the loss of (even one of) its hairs.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "kindness",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 970,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தமக்கு யாதேனும் இழிவு நேர்ந்தால் உயிர் வாழாத மானம் உடையவரின் புகழை உலகத்தார் தொழுது ஏந்தி நிற்பார்கள்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The world will (always) praise and adore the fame of the honourable who would rather die than suffer indignity.",
+        "story_title_ta": "மானம் — முகில் கற்ற பாடம்",
+        "story_title_en": "Honour — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மானம்' என்ற அதிகாரத்திலிருந்து குறள் 970 பற்றிக் கதை சொன்னார். 'தனக்கு இகழ்ச்சி வரும்போது உயிர்வாழாத மானம் மிக்க மனிதரின் புகழ் வடிவைப் பெரியோர் தொழுது பாராட்டுவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 97, 'Honour', centered on Kural 970: The world will (always) praise and adore the fame of the honourable who would rather die than suffer indignity. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மானம் அழியத்தக்க இழிவு வந்ததே என்று உயிரை மாய்த்துக் கொள்ளக் கூடியவர்களின் புகழை உலகம் எக்காலமும் போற்றி நிற்கும்.",
+        "moral_en": "Moral: Who, when dishonour comes, refuse to live, their honoured memoryWill live in worship and applause of all the world for aye.",
+        "game_blank_word_ta": "ஒளிதொழுது",
+        "game_options_ta": [
+          "இன்றி",
+          "அமையாச்",
+          "ஒளிதொழுது",
+          "சிறப்பின"
+        ],
+        "game_options_en": [
+          "Though needed for your life in main, From mean degrading acts refrain",
+          "Who seek honour and manly fame Don't do mean deeds even for name",
+          "Their light the world adores and hails Who will not live when honour fails",
+          "Be humble in prosperity In decline uphold dignity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மானம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 970, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தனக்கு இகழ்ச்சி வரும்போது உயிர்வாழாத மானம் மிக்க மனிதரின் புகழ் வடிவைப் பெரியோர் தொழுது பாராட்டுவர். கலைஞர் உரை கூறுவது: மானம் அழியத்தக்க இழிவு வந்ததே என்று உயிரை மாய்த்துக் கொள்ளக் கூடியவர்களின் புகழை உலகம் எக்காலமும் போற்றி நிற்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Honour (Citizenship & Miscellaneous), Kural 970 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The world will (always) praise and adore the fame of the honourable who would rather die than suffer indignity. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மானம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Honour' thoughtfully.",
+        "quiz_question_ta": "'மானம்' அதிகாரத்தில் வரும் திருக்குறள் 970 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 970 from Chapter 'Honour'?",
+        "quiz_options_ta": [
+          "சான்றோர்க்கு நாணுடைமை அணிகலம் அன்றோ, அந்த அணிகலம் இல்லையானால் பெருமிதமாக நடக்கும் நடை ஒரு நோய் அன்றோ.",
+          "இகழ்ந்து எள்ளாமல் பொருள் கொடுப்பவரைக் கண்டால், இரப்பவரின் உள்ளம் மகிழ்ந்து உள்ளுக்குள்ளே உவகை அடையும் தன்மையுடையதாகும்.",
+          "தமக்கு யாதேனும் இழிவு நேர்ந்தால் உயிர் வாழாத மானம் உடையவரின் புகழை உலகத்தார் தொழுது ஏந்தி நிற்பார்கள்.",
+          "கண்களோடு கண்கள் நோக்காமல் ஒத்திருந்து அன்பு செய்யுமானால் வாய்ச் சொற்கள் என்ன பயனும் இல்லாமற் போகின்றன."
+        ],
+        "quiz_options_en": [
+          "Shame is the jewel of dignity Shameless swagger is vanity",
+          "When givers without scorn impart A thrill of delight fills the heart",
+          "Their light the world adores and hails Who will not live when honour fails",
+          "The words of mouth are of no use When eye to eye agrees the gaze"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (மானம்) பகுதியில் குறள் 970 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தமக்கு யாதேனும் இழிவு நேர்ந்தால் உயிர் வாழாத மானம் உடையவரின் புகழை உலகத்தார் தொழுது ஏந்தி நிற்பார்கள். பரிமேலழகர் உரை நுட்பம்: இளிவரின் வாழாத மானம் உடையார் ஒளி - தமக்கு இழிவு வந்துழிப் பொறுத்து உயிர் வாழாது அதனை நீத்த மானமுடையாரது புகழ் வடிவினை; தொழுது ஏத்தும் உலகு - எஞ்ஞான்றும் தொழுது துதியாநிற்பர் உலகத்தார். ('புலவர் பாடும் புகழுடையோர் விசும்பின், வலவன் ஏவா வானவூர்தி...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 97: 'Honour'), Kural 970 distills a foundational ethical insight: \"Who, when dishonour comes, refuse to live, their honoured memoryWill live in worship and applause of all the world for aye\" Philosophically, The world will (always) praise and adore the fame of the honourable who would rather die than suffer indignity.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "time"
+      ]
+    }
+  ]
+}

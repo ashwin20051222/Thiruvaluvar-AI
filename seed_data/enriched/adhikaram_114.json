@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 114,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.504194830+00:00",
+  "kurals": [
+    {
+      "kural_number": 1131,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: காமத்தால் துன்புற்று (காதலின் அன்பு பெறாமல்) வருந்தினவர்க்குக் காவல் மடலூர்தல் அல்லாமல் வலிமையானத் துணை வேறொன்றும் இல்லை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: To those who after enjoyment of sexual pleasure suffer (for want of more), there is no help so efficient as the palmyra horse.",
+        "story_title_ta": "நாணுத் துறவுரைத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Abandonment of Reserve — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நாணுத் துறவுரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1131 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1131 from 'The Abandonment of Reserve', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதலால் துன்புறும் காளையொருவனுக்குப் பாதுகாப்பு முறையாக மடலூர்தலைத் தவிர, வலிமையான துணைவேறு எதுவுமில்லை.",
+        "moral_en": "Moral: To those who 've proved love's joy, and now afflicted mourn, Except the helpful 'horse of palm', no other strength remains.",
+        "game_blank_word_ta": "ஏமம்",
+        "game_options_ta": [
+          "உடம்பும்",
+          "உயிரும்",
+          "மடலேறும்",
+          "ஏமம்"
+        ],
+        "game_options_en": [
+          "Pining body and mind lose shame And take to riding of the palm",
+          "Once I was modest and manly My love has now Madal only",
+          "Rushing flood of love sweeps away The raft of shame and firmness, aye!",
+          "Pangs of passion find no recourse Except riding *`palmyra horse' * Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs The parents of the lovers first reproach them and then consent to their marriage"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுத் துறவுரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1131, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காதல் நிறைவேற முடியாமல் வருந்தும் காதலர்க்கு மடல் ஏறுதலைத் தவிர வேறு பலம் இல்லை. கலைஞர் உரை கூறுவது: காதலால் துன்புறும் காளையொருவனுக்குப் பாதுகாப்பு முறையாக மடலூர்தலைத் தவிர, வலிமையான துணைவேறு எதுவுமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Abandonment of Reserve (Pre-marital Love), Kural 1131 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To those who after enjoyment of sexual pleasure suffer (for want of more), there is no help so efficient as the palmyra horse. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நாணுத் துறவுரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Abandonment of Reserve'.",
+        "quiz_question_ta": "'நாணுத் துறவுரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1131 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1131 from Chapter 'The Abandonment of Reserve'?",
+        "quiz_options_ta": [
+          "அன்று கடலும் தாங்கமுடியாத காமநோயை உண்டாக்கிய என் கண்கள், இன்று உறங்க முடியாமல் துன்பத்தால் வருந்துகின்றன.",
+          "தூங்கும்போது கனவில் வந்து என் தோள்மேல் உள்ளவராகி, விழி்த்தெழும்போது விரைந்து என் நெஞ்சில் உள்ளவராகிறார்‌.",
+          "என் கண்களும் அவர் வரும் வழியைப் பார்த்துப் பார்த்து ஒளி இழந்து அழகு கெட்டன; விரல்களும் அவர் சென்ற நாட்களைக் குறித்துத் தொட்டுத் தொட்டுத் தேய்ந்தன.",
+          "காமத்தால் துன்புற்று (காதலின் அன்பு பெறாமல்) வருந்தினவர்க்குக் காவல் மடலூர்தல் அல்லாமல் வலிமையானத் துணை வேறொன்றும் இல்லை."
+        ],
+        "quiz_options_en": [
+          "My eyes causing lust more than sea Suffer that torture sleeplessly",
+          "Asleep he embraces me fast; Awake he enters quick my heart",
+          "My eyes are dim lustre-bereft Worn fingers count days since he left",
+          "Pangs of passion find no recourse Except riding *`palmyra horse' * Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs The parents of the lovers first reproach them and then consent to their marriage"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நாணுத் துறவுரைத்தல்) பகுதியில் குறள் 1131 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காமத்தால் துன்புற்று (காதலின் அன்பு பெறாமல்) வருந்தினவர்க்குக் காவல் மடலூர்தல் அல்லாமல் வலிமையானத் துணை வேறொன்றும் இல்லை. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது , சேட்படுக்கப்பட்டு ஆற்றானாய தலைமகன் தோழிக்குத் தன் நாண் துறவு உரைத்தலும் , அறத்தொடு நிற்பிக்கலுற்ற தலைமகள் அவட்குத் தன் நாண் துறவு உரைத்தலும் ஆம் . இது காதல் மிக்குழி நிகழ்வது ஆகலின் , காதற்சிறப்புஉரைத்தலின் பின் வைக்கப்பட்டது.] (சேட்படுக்கப்பட்டு...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 114: 'The Abandonment of Reserve'), Kural 1131 distills a foundational ethical insight: \"To those who 've proved love's joy, and now afflicted mourn, Except the helpful 'horse of palm', no other strength remains\" Philosophically, To those who after enjoyment of sexual pleasure suffer (for want of more), there is no help so efficient as the palmyra horse.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "family",
+        "speech",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1132,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: (காதலின் பிரிவால் ஆகிய துன்பத்தைப்) பொறுக்காத என் உடம்பும் உயிரும், நாணத்தை நீக்கி நிறுத்தி விட்டு மடலூரத் துணிந்தன.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Having got rid of shame, the suffering body and soul save themselves on the palmyra horse.",
+        "story_title_ta": "நாணுத் துறவுரைத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Abandonment of Reserve — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நாணுத் துறவுரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1132 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1132 from 'The Abandonment of Reserve', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: எனது உயிரும், உடலும் காதலியின் பிரிவைத் தாங்க முடியாமல் தவிப்பதால், நாணத்தைப் புறந்தள்ளிவிட்டு மடலூர்வதற்குத் துணிந்து விட்டேன்.",
+        "moral_en": "Moral: My body and my soul, that can no more endure, Will lay reserve aside, and mount the 'horse of palm'.",
+        "game_blank_word_ta": "நீக்கி",
+        "game_options_ta": [
+          "நீக்கி",
+          "காமம்",
+          "உழந்து",
+          "வருந்தினார்க்கு"
+        ],
+        "game_options_en": [
+          "Pining body and mind lose shame And take to riding of the palm",
+          "Pangs of passion find no recourse Except riding *`palmyra horse' * Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs The parents of the lovers first reproach them and then consent to their marriage",
+          "Once I was modest and manly My love has now Madal only",
+          "Rushing flood of love sweeps away The raft of shame and firmness, aye!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுத் துறவுரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1132, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காதலை நிறைவேற்ற முடியாது வருந்தும் இந்த உடலும் உயிரும் வெட்கத்தை விட்டுவிட்டு மடல் ஏற எண்ணுகின்றன. கலைஞர் உரை கூறுவது: எனது உயிரும், உடலும் காதலியின் பிரிவைத் தாங்க முடியாமல் தவிப்பதால், நாணத்தைப் புறந்தள்ளிவிட்டு மடலூர்வதற்குத் துணிந்து விட்டேன். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Abandonment of Reserve (Pre-marital Love), Kural 1132 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Having got rid of shame, the suffering body and soul save themselves on the palmyra horse. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நாணுத் துறவுரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Abandonment of Reserve'.",
+        "quiz_question_ta": "'நாணுத் துறவுரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1132 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1132 from Chapter 'The Abandonment of Reserve'?",
+        "quiz_options_ta": [
+          "(காதலின் பிரிவால் ஆகிய துன்பத்தைப்) பொறுக்காத என் உடம்பும் உயிரும், நாணத்தை நீக்கி நிறுத்தி விட்டு மடலூரத் துணிந்தன.",
+          "எமக்கு இந்தக் காமநோயைஉண்டாக்கிய கண்கள், தாமும் இத்தகைய துன்பத்தைப்பட்டு வருந்துவது மிகவும் நல்லதே!",
+          "கனவில் காதலர் வரக் காணாத மகளிர், நனவில் வந்து அன்பு செய்யாத கா‌தலரை ( அவர் வராத காரணம் பற்றி ) நொந்து கொள்வர்.",
+          "தோழி! காதலரின் பிரிவால்துன்புற்று வருந்துகின்ற இன்றும் அவரை மறந்து விட்டால், அழகு கெட்டு என் தோள் மேல் அணிந்துள்ள அணிகள் கழலுமாறு நேரும்."
+        ],
+        "quiz_options_en": [
+          "Pining body and mind lose shame And take to riding of the palm",
+          "Lo! eyes that wrought this love-sickness Are victims of the same themselves",
+          "In dreams who don't discern lovers Rue their missing in wakeful hours",
+          "Beauty pales and my bracelets slide; Why not forget him now, bright maid?"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நாணுத் துறவுரைத்தல்) பகுதியில் குறள் 1132 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (காதலின் பிரிவால் ஆகிய துன்பத்தைப்) பொறுக்காத என் உடம்பும் உயிரும், நாணத்தை நீக்கி நிறுத்தி விட்டு மடலூரத் துணிந்தன. பரிமேலழகர் உரை நுட்பம்: ('நாணுடைய நுமக்கு அது முடியாது', என மடல் விலக்கல் உற்றாட்குச் சொல்லியது) நோனா உடம்பும் உயிரும் மடல் ஏறும் - அவ் வருத்தத்தினைப் பொறாத உடம்பும் உயிரும் அதற்கு ஏமமாய மடல் மாவினை ஊரக் கருதாநின்றன; நாணினை நீக்கி நிறுத்து - அதனை விலக்குவதாய நாணினை அகற்றி...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 114: 'The Abandonment of Reserve'), Kural 1132 distills a foundational ethical insight: \"My body and my soul, that can no more endure, Will lay reserve aside, and mount the 'horse of palm'\" Philosophically, Having got rid of shame, the suffering body and soul save themselves on the palmyra horse.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "self-mastery",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1133,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நாணமும் நல்ல ஆண்மையும் முன்பு பெற்றிருந்தேன், (காதலியை பிரிந்து வருந்துகின்ற) இப்போது காமம் மிக்கவர் ஏறும் மடலையே உடையேன்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Modesty and manliness were once my own; now, my own is the palmyra horse that is ridden by the lustful.",
+        "story_title_ta": "நாணுத் துறவுரைத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Abandonment of Reserve — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நாணுத் துறவுரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1133 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1133 from 'The Abandonment of Reserve', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நல்ல ஆண்மையும், நாண உணர்வையும் முன்பு கொண்டிருந்த நான், இன்று அவற்றை மறந்து, காதலுக்காக மடலூர்வதை மேற்கொண்டுள்ளேன்.",
+        "moral_en": "Moral: I once retained reserve and seemly manliness; To-day I nought possess but lovers' 'horse of palm'.",
+        "game_blank_word_ta": "மடல்",
+        "game_options_ta": [
+          "காமம்",
+          "மடல்",
+          "உழந்து",
+          "வருந்தினார்க்கு"
+        ],
+        "game_options_en": [
+          "Pangs of passion find no recourse Except riding *`palmyra horse' * Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs The parents of the lovers first reproach them and then consent to their marriage",
+          "Once I was modest and manly My love has now Madal only",
+          "Pining body and mind lose shame And take to riding of the palm",
+          "Rushing flood of love sweeps away The raft of shame and firmness, aye!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுத் துறவுரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1133, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாணமும் ஆண்மையும் முன்பு பெற்றிருந்தேன்; இன்றோ காதலர் ஏறும் மடலைப் பெற்றிருகிறேன். கலைஞர் உரை கூறுவது: நல்ல ஆண்மையும், நாண உணர்வையும் முன்பு கொண்டிருந்த நான், இன்று அவற்றை மறந்து, காதலுக்காக மடலூர்வதை மேற்கொண்டுள்ளேன். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Abandonment of Reserve (Pre-marital Love), Kural 1133 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Modesty and manliness were once my own; now, my own is the palmyra horse that is ridden by the lustful. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நாணுத் துறவுரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Abandonment of Reserve'.",
+        "quiz_question_ta": "'நாணுத் துறவுரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1133 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1133 from Chapter 'The Abandonment of Reserve'?",
+        "quiz_options_ta": [
+          "அன்று விரும்பி நெகிழ்ந்து காதலரைக் கண்ட கண்கள் இன்று உறக்கமில்லாத துன்பத்தால் வருந்தி வருந்திக் கண்ணீரும் அற்றுப் போகட்டும்.",
+          "நாணமும் நல்ல ஆண்மையும் முன்பு பெற்றிருந்தேன், (காதலியை பிரிந்து வருந்துகின்ற) இப்போது காமம் மிக்கவர் ஏறும் மடலையே உடையேன்.",
+          "நனவில் நம்‌மை விட்டு நீங்கினார் என்று காதலரைப் பழித்து பேசுகின்றனரே! இந்த ஊரார் கனவில் அவரைக் காண்பதில்லையோ?",
+          "வெற்றியை விரும்பி ஊக்கமே துணையாகக் கொண்டு வெளிநாட்டுக்குச் சென்ற காதலர், திரும்பி வருதலைக் காண விரும்பியே இன்னும் யான் உயிரோடு இருக்கின்றேன்."
+        ],
+        "quiz_options_en": [
+          "Let tears dry up pining pining In eyes that eyed him longing longing",
+          "Once I was modest and manly My love has now Madal only",
+          "The townsmen say he left me thus In dreams failing to see him close",
+          "Will as guide he went to win Yet I live-to see him again"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நாணுத் துறவுரைத்தல்) பகுதியில் குறள் 1133 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நாணமும் நல்ல ஆண்மையும் முன்பு பெற்றிருந்தேன், (காதலியை பிரிந்து வருந்துகின்ற) இப்போது காமம் மிக்கவர் ஏறும் மடலையே உடையேன். பரிமேலழகர் உரை நுட்பம்: ('நாணேயன்றி நல்லாண்மையும் உடைமையின் முடியாது' என்றாட்குச் சொல்லியது.) நாணொடு நல்லாண்மை பண்டு உடையேன் - நாணும் மிக்க ஆண் தகைமையும் யான் பண்டு உடையேன்; காமுற்றார் ஏறும் மடல் இன்று உடையேன் - அவை காமத்தான் நீங்குதலான், அக்காமமிக்கார் ஏறும் மடலினை இன்று உடையேன...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 114: 'The Abandonment of Reserve'), Kural 1133 distills a foundational ethical insight: \"I once retained reserve and seemly manliness; To-day I nought possess but lovers' 'horse of palm'\" Philosophically, Modesty and manliness were once my own; now, my own is the palmyra horse that is ridden by the lustful.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "love",
+        "self-mastery",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 1134,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நாணமும் நல்ல ஆண்மையுமாகிய தோணிகளைக் காமம் என்னும் கடுமையான வெள்ளம் அடித்துக் கொண்டு போய் விடுகின்றன.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The raft of modesty and manliness, is, alas, carried-off by the strong current of lust.",
+        "story_title_ta": "நாணுத் துறவுரைத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Abandonment of Reserve — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நாணுத் துறவுரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1134 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1134 from 'The Abandonment of Reserve', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதல் பெருவெள்ளமானது நாணம், நல்ல ஆண்மை எனப்படும் தோணிகளை அடித்துக்கொண்டு போய்விடும் வலிமை வாய்ந்தது.",
+        "moral_en": "Moral: Love's rushing tide will sweep away the raftOf seemly manliness and shame combined.",
+        "game_blank_word_ta": "காமக்",
+        "game_options_ta": [
+          "காமம்",
+          "உழந்து",
+          "காமக்",
+          "வருந்தினார்க்கு"
+        ],
+        "game_options_en": [
+          "Pangs of passion find no recourse Except riding *`palmyra horse' * Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs The parents of the lovers first reproach them and then consent to their marriage",
+          "Pining body and mind lose shame And take to riding of the palm",
+          "Rushing flood of love sweeps away The raft of shame and firmness, aye!",
+          "Once I was modest and manly My love has now Madal only"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுத் துறவுரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1134, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆம்; நாணம், ஆண்மை என்னும் படகுகளைக் காதலாகிய கடும் வெள்ளம் அடித்துக் கொண்டு போய்விட்டது. கலைஞர் உரை கூறுவது: காதல் பெருவெள்ளமானது நாணம், நல்ல ஆண்மை எனப்படும் தோணிகளை அடித்துக்கொண்டு போய்விடும் வலிமை வாய்ந்தது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Abandonment of Reserve (Pre-marital Love), Kural 1134 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The raft of modesty and manliness, is, alas, carried-off by the strong current of lust. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நாணுத் துறவுரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Abandonment of Reserve'.",
+        "quiz_question_ta": "'நாணுத் துறவுரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1134 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1134 from Chapter 'The Abandonment of Reserve'?",
+        "quiz_options_ta": [
+          "உள்ளத்தால் விரும்பாமலே சொல்லளவில் விரும்பிப் பழகியவர் ஒருவர் இருக்கின்றார்; அவரைக் காணாமல் கண்கள் அமைதியுறவில்லை.",
+          "பொழுதே! நீ மாலைக்காலம் அல்ல; (காதலரோடு கூடியிருந்து பிறகு பிரிந்து வாழும்) மகளிரின் உயிரை உண்ணும் முடிவுக் காலமாக இருக்கினறாய்!",
+          "நாணமும் நல்ல ஆண்மையுமாகிய தோணிகளைக் காமம் என்னும் கடுமையான வெள்ளம் அடித்துக் கொண்டு போய் விடுகின்றன.",
+          "முன்பு கூடியிருந்த காதலைக் கைவிட்டுப் பிரிந்த அவருடைய வருகை‌யைநினைத்து என் நெஞ்சம் மரத்தின் கிளைகளின் மேலும் ஏறிப் பார்க்கின்றது."
+        ],
+        "quiz_options_en": [
+          "Ther's he whose lips loved, not his heart Yet my eyes pine seeing him not",
+          "Bless you! you are not eventide But killing dart to wedded bride!",
+          "Rushing flood of love sweeps away The raft of shame and firmness, aye!",
+          "My heart in rapture heaves to see His retun with love to embrace me"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நாணுத் துறவுரைத்தல்) பகுதியில் குறள் 1134 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நாணமும் நல்ல ஆண்மையுமாகிய தோணிகளைக் காமம் என்னும் கடுமையான வெள்ளம் அடித்துக் கொண்டு போய் விடுகின்றன. பரிமேலழகர் உரை நுட்பம்: (நாணும் நல்லாண்மையும் காமவெள்ளத்திற்குப் புணையாகலின்,அதனால் அவை நீங்குவன அல்ல என்றாட்குச் சொல்லியது) நாணொடு நல்லாண்மை என்னும் புணை - யான் தன்னைக் கடத்தற்குக் கொண்ட நாணும் நல்லாண்மையும் ஆகிய புணைகளை; காமக்கடும் புனல் உய்க்குமே - என்னிற பிரித்துக் காமமாகிய கடிய...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 114: 'The Abandonment of Reserve'), Kural 1134 distills a foundational ethical insight: \"Love's rushing tide will sweep away the raftOf seemly manliness and shame combined\" Philosophically, The raft of modesty and manliness, is, alas, carried-off by the strong current of lust.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "love",
+        "self-mastery",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 1135,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மடலோறுதலோடு மாலைக்காலத்தில் வருந்தும் துயரத்தை மாலைபோல் தொடர்ந்த சிறு வளையல் அணிந்த காதலி எனக்கு தந்தாள்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: She with the small garland-like bracelets has given me the palmyra horse and the sorrow that is endured at night.",
+        "story_title_ta": "நாணுத் துறவுரைத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Abandonment of Reserve — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நாணுத் துறவுரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1135 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1135 from 'The Abandonment of Reserve', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: மேகலையையும் மெல்லிய வளையலையும் அணிந்த மங்கை மாலை மலரும் நோயான காதலையும், மடலூர்தல் எனும் வேலையையும் எனக்குத் தந்து விட்டாள்.",
+        "moral_en": "Moral: The maid that slender armlets wears, like flowers entwined, Has brought me 'horse of palm,' and pangs of eventide.",
+        "game_blank_word_ta": "குறுந்தொடி",
+        "game_options_ta": [
+          "காமம்",
+          "உழந்து",
+          "வருந்தினார்க்கு",
+          "குறுந்தொடி"
+        ],
+        "game_options_en": [
+          "Pangs of passion find no recourse Except riding *`palmyra horse' * Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs The parents of the lovers first reproach them and then consent to their marriage",
+          "Pining body and mind lose shame And take to riding of the palm",
+          "Once I was modest and manly My love has now Madal only",
+          "Palm-ride and pangs of eventide Are gifts of wreath-like bracelet maid"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுத் துறவுரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1135, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மாலைப் பொழுதுகளில் நான் அடையும் மயக்கத்தையும் அதற்கு மருந்தாகிய மடல் ஏறுதலையும், மலை போல வளையல் அணிந்திருக்கும் அவளே எனக்குத் தந்தாள். கலைஞர் உரை கூறுவது: மேகலையையும் மெல்லிய வளையலையும் அணிந்த மங்கை மாலை மலரும் நோயான காதலையும், மடலூர்தல் எனும் வேலையையும் எனக்குத் தந்து விட்டாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Abandonment of Reserve (Pre-marital Love), Kural 1135 speaks directly to teens navigating studies, friendships, leadership, and digital choices: She with the small garland-like bracelets has given me the palmyra horse and the sorrow that is endured at night. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நாணுத் துறவுரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Abandonment of Reserve'.",
+        "quiz_question_ta": "'நாணுத் துறவுரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1135 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1135 from Chapter 'The Abandonment of Reserve'?",
+        "quiz_options_ta": [
+          "காதலர் வாராவிட்டால் தூங்குவதில்லை; வந்தாலும் தூங்குவதில்லை; இவற்றுக்கி‌டையே என் கண்கள் மிக்க துன்பத்தை அடைந்தன.",
+          "மயங்கிய மாலைப்‌பொழுதே! நீயும் எம்மைப்போல் துன்பப்படுகின்‌றாயே! உன் துணையும் எம் காதலர் போல் இரக்கம் அற்றதோ?",
+          "என் காதலரைக் கண்ணாரக் காண்பேனாக; கண்ட பிறகு என்னுடைய மெல்லிய தோளில் உண்டாகிய பசலை நிறம் தானே நீங்கி விடும்.",
+          "மடலோறுதலோடு மாலைக்காலத்தில் வருந்தும் துயரத்தை மாலைபோல் தொடர்ந்த சிறு வளையல் அணிந்த காதலி எனக்கு தந்தாள்."
+        ],
+        "quiz_options_en": [
+          "He comes; no sleep; he goes; no sleep This is the fate of eyes that weep",
+          "Hail sad eventide dim and grim Has your mate like mine, cruel whim!",
+          "Let me but gaze and gaze my spouse sallow on my soft shoulders files",
+          "Palm-ride and pangs of eventide Are gifts of wreath-like bracelet maid"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நாணுத் துறவுரைத்தல்) பகுதியில் குறள் 1135 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மடலோறுதலோடு மாலைக்காலத்தில் வருந்தும் துயரத்தை மாலைபோல் தொடர்ந்த சிறு வளையல் அணிந்த காதலி எனக்கு தந்தாள். பரிமேலழகர் உரை நுட்பம்: ('இவ்வாற்றாமையும் மடலும் நுமக்கு எவ்வாறு வந்தன'? என்றாட்குச் சொல்லியது.) மாலை உழக்கும் துயர் மடலொடு - மாலைப் பொழுதின்கண் அனுபவிக்கும் துயரினையும், அதற்கு மருந்தாய மடலினையும், முன் அறியேன்; தொடலைக் குறுந்தொடி தந்தாள் - இது பொழுது எனக்கு மாலை போலத் தொடர்ந்த...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 114: 'The Abandonment of Reserve'), Kural 1135 distills a foundational ethical insight: \"The maid that slender armlets wears, like flowers entwined, Has brought me 'horse of palm,' and pangs of eventide\" Philosophically, She with the small garland-like bracelets has given me the palmyra horse and the sorrow that is endured at night.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "self-mastery",
+        "time",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1136,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: மடலூர்தலைப் பற்றி நள்ளிரவிலும் உறுதியாக நினைக்கின்றேன், காதலியின் பிரிவின் காரணமாக என் கண்கள் உறங்காமல் இருக்கின்றன.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Mine eyes will not close in sleep on your mistress's account; even at midnight will I think of mounting the palmyra horse.",
+        "story_title_ta": "நாணுத் துறவுரைத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Abandonment of Reserve — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நாணுத் துறவுரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1136 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1136 from 'The Abandonment of Reserve', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதலிக்காக என் கண்கள் உறங்காமல் தவிக்கின்றன; எனவே மடலூர்தலைப் பற்றி நள்ளிரவிலும் நான் உறுதியாக எண்ணிக் கொண்டிருக்கிறேன்.",
+        "moral_en": "Moral: Of climbing 'horse of palm' in midnight hour, I think; My eyes know no repose for that same simple maid.",
+        "game_blank_word_ta": "உள்ளுவேன்",
+        "game_options_ta": [
+          "உள்ளுவேன்",
+          "காமம்",
+          "உழந்து",
+          "வருந்தினார்க்கு"
+        ],
+        "game_options_en": [
+          "Madal I ride at midnight for My eyes sleep not seeing this fair",
+          "Pangs of passion find no recourse Except riding *`palmyra horse' * Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs The parents of the lovers first reproach them and then consent to their marriage",
+          "Pining body and mind lose shame And take to riding of the palm",
+          "Once I was modest and manly My love has now Madal only"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுத் துறவுரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1136, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவள் குணத்தை எண்ணி என் கண்கள் இரவெல்லாம் உறங்குவதில்லை. அதனால் நள்ளிரவிலும்கூட மடல் ஊர்வது பறிறயே எண்ணுவேன். கலைஞர் உரை கூறுவது: காதலிக்காக என் கண்கள் உறங்காமல் தவிக்கின்றன; எனவே மடலூர்தலைப் பற்றி நள்ளிரவிலும் நான் உறுதியாக எண்ணிக் கொண்டிருக்கிறேன். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Abandonment of Reserve (Pre-marital Love), Kural 1136 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Mine eyes will not close in sleep on your mistress's account; even at midnight will I think of mounting the palmyra horse. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நாணுத் துறவுரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Abandonment of Reserve'.",
+        "quiz_question_ta": "'நாணுத் துறவுரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1136 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1136 from Chapter 'The Abandonment of Reserve'?",
+        "quiz_options_ta": [
+          "மடலூர்தலைப் பற்றி நள்ளிரவிலும் உறுதியாக நினைக்கின்றேன், காதலியின் பிரிவின் காரணமாக என் கண்கள் உறங்காமல் இருக்கின்றன.",
+          "அறையப்படும் பறைபோல் துன்பத்தை வெளிப்படுத்தும் கண்களை உடைய எம்மைப் போன்றவரிடத்தில் மறைபொருளான செய்தியை அறிதல் ஊரார்க்கு அரிது அன்று.",
+          "பனி தோன்றிப் பசந்த நிறம் கொண்ட மாலைப் பொழுது எனக்கு வருத்தம் ஏற்பட்டுத் துன்பம் மேன்மேலும் வளரும்படியாக வருகின்றது.",
+          "என் காதலன் ஒருநாள் என்னிடம் வருவானாக; வந்த பிறகு, என்னுடைய துன்பநோய் எல்லொம் தீருமாறு நான் நன்றாக நுகர்வேன்."
+        ],
+        "quiz_options_en": [
+          "Madal I ride at midnight for My eyes sleep not seeing this fair",
+          "Like drum beats eyes declare my heart; From people who could hide his secret?",
+          "Wet eve came pale and trembling then Now it makes bold with growing pain",
+          "Let my spouse return just a day Joy-drink shall drive my pain away"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நாணுத் துறவுரைத்தல்) பகுதியில் குறள் 1136 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மடலூர்தலைப் பற்றி நள்ளிரவிலும் உறுதியாக நினைக்கின்றேன், காதலியின் பிரிவின் காரணமாக என் கண்கள் உறங்காமல் இருக்கின்றன. பரிமேலழகர் உரை நுட்பம்: ('மடலூரும் பொழுது இற்றைக்கும் கழிந்தது' என்றாட்குச் சொல்லியது) பேதைக்கு என் கண் படல் ஒல்லா - நின்பேதை காரணமாக என் கண்கள் ஒருகாலுந் துயிலைப் பொருந்தா; யாமத்தும் மன்ற மடலூர்தல் உள்ளுவேன் - அதனால் எல்லாரும் துயிலும் இடையாமத்தும் யான் இருந்து மடலூர்தலையே...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 114: 'The Abandonment of Reserve'), Kural 1136 distills a foundational ethical insight: \"Of climbing 'horse of palm' in midnight hour, I think; My eyes know no repose for that same simple maid\" Philosophically, Mine eyes will not close in sleep on your mistress's account; even at midnight will I think of mounting the palmyra horse.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "love",
+        "self-mastery",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 1137,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கடல் போன்ற காமநோயால் வருந்தியும், மடலேறாமல் துன்பத்தை பொருத்துக் கொண்டிருக்கும் பெண் பிறப்பை போல் பெருமை உடைய பிறவி இல்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: There is nothing so noble as the womanly nature that would not ride the palmyra horse, though plunged a sea of lust.",
+        "story_title_ta": "நாணுத் துறவுரைத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Abandonment of Reserve — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நாணுத் துறவுரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1137 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1137 from 'The Abandonment of Reserve', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: கொந்தளிக்கும் கடலாகக் காதல் நோய் துன்புறுத்தினாலும்கூடப் பொறுத்துக்கொண்டு, மடலேறாமல் இருக்கும் பெண்ணின் பெருமைக்கு நிகரில்லை.",
+        "moral_en": "Moral: There's nought of greater worth than woman's long-enduring soul, Who, vexed by love like ocean waves, climbs not the 'horse of palm'.",
+        "game_blank_word_ta": "மடலேறாப்",
+        "game_options_ta": [
+          "காமம்",
+          "மடலேறாப்",
+          "உழந்து",
+          "வருந்தினார்க்கு"
+        ],
+        "game_options_en": [
+          "Pangs of passion find no recourse Except riding *`palmyra horse' * Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs The parents of the lovers first reproach them and then consent to their marriage",
+          "Her sea-like lust seeks not Madal! Serene is woman's self control",
+          "Pining body and mind lose shame And take to riding of the palm",
+          "Once I was modest and manly My love has now Madal only"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுத் துறவுரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1137, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அதுதான் அவள் பெருமை; கடல் போலக் கரையில்லாத காதல் நோயை அவளும் அனுபவித்தாலும் மடல் ஊராது பொறுத்திருக்கும் பெண் பிறவியைப் போலப் பெருமையான பிறவி இவ்வுலகத்தில் வேறு இல்லை. கலைஞர் உரை கூறுவது: கொந்தளிக்கும் கடலாகக் காதல் நோய் துன்புறுத்தினாலும்கூடப் பொறுத்துக்கொண்டு, மடலேறாமல் இருக்கும் பெண்ணின் பெருமைக்கு நிகரில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Abandonment of Reserve (Pre-marital Love), Kural 1137 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is nothing so noble as the womanly nature that would not ride the palmyra horse, though plunged a sea of lust. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நாணுத் துறவுரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Abandonment of Reserve'.",
+        "quiz_question_ta": "'நாணுத் துறவுரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1137 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1137 from Chapter 'The Abandonment of Reserve'?",
+        "quiz_options_ta": [
+          "விரும்பிய காதலர்க்கு அன்று பிரிவை உடன்பட்டேன்; பிரிந்தபின் பசலை உற்ற என் தன்மையை வேறு யார்க்குச் சென்று சொல்வேன்?",
+          "கடல் போன்ற காமநோயால் வருந்தியும், மடலேறாமல் துன்பத்தை பொருத்துக் கொண்டிருக்கும் பெண் பிறப்பை போல் பெருமை உடைய பிறவி இல்லை.",
+          "காதலர் இல்லாத இப்போது, கொலை செய்யும் இடத்தில் பகைவர் வருவது போல் மாலைப்பொழுது ( என் உயிரைக் கொள்ள) வருகின்றது.",
+          "என்னுடைய கண்போன்ற காதலர் வருவாரானால், யான் அவரோடு ஊடுவேனோ? அல்லது அவரைத் தழுவுவேனோ? அவரோடு கூடுவேனோ?"
+        ],
+        "quiz_options_en": [
+          "My lover's parting, I allowed Whom to complain my hue pallid?",
+          "Her sea-like lust seeks not Madal! Serene is woman's self control",
+          "Lover away, comes eventide Like slayer to field of homicide",
+          "If my eye-like lord returneth Shall I sulk or clasp or do both?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நாணுத் துறவுரைத்தல்) பகுதியில் குறள் 1137 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கடல் போன்ற காமநோயால் வருந்தியும், மடலேறாமல் துன்பத்தை பொருத்துக் கொண்டிருக்கும் பெண் பிறப்பை போல் பெருமை உடைய பிறவி இல்லை. பரிமேலழகர் உரை நுட்பம்: ('பேதைக்கு என் கண் படல் ஒல்லா', என்பது பற்றி 'அறிவிலராய மகளிரினும் அஃது உடையராய ஆடவரன்றே ஆற்றற்பாலர்', என்றாட்குச் சொல்லியது.) கடல் அன்ன காமம் உழந்தும் மடல் ஏறாப் பெண்ணின் - கடல்போலக் கரையற்ற காம நோயினை அனுபவித்தும் மடலூர்தலைச் செய்யாது ஆற்றியிருக்கும் பெண...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 114: 'The Abandonment of Reserve'), Kural 1137 distills a foundational ethical insight: \"There's nought of greater worth than woman's long-enduring soul, Who, vexed by love like ocean waves, climbs not the 'horse of palm'\" Philosophically, There is nothing so noble as the womanly nature that would not ride the palmyra horse, though plunged a sea of lust.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "speech",
+        "love",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 1138,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: இவர் நெஞ்சை நிறுத்தும் நிறை இல்லாதவர், மிகவும் இரங்கத்தக்கவர் என்று கருதாமல் காமம் மறைந்திருத்தலைக் கடந்து மன்றத்திலும் வெளிப்படுகின்றதே.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Even the Lust (of women) transgresses its secrecy and appears in public, forgetting that they are too chaste and liberal (to be overcome by it).",
+        "story_title_ta": "நாணுத் துறவுரைத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Abandonment of Reserve — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நாணுத் துறவுரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1138 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1138 from 'The Abandonment of Reserve', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பாவம்; இவர், மனத்தில் உள்ளதை ஒளிக்கத் தெரியாதவர்; பரிதாபத்திற்குரியவர்; என்றெல்லாம் பார்க்காமல், ஊர் அறிய வெளிப்பட்டு விடக்கூடியது காதல்.",
+        "moral_en": "Moral: In virtue hard to move, yet very tender, too, are we; Love deems not so, would rend the veil, and court publicity.",
+        "game_blank_word_ta": "மறையிறந்து",
+        "game_options_ta": [
+          "காமம்",
+          "உழந்து",
+          "மறையிறந்து",
+          "வருந்தினார்க்கு"
+        ],
+        "game_options_en": [
+          "Pangs of passion find no recourse Except riding *`palmyra horse' * Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs The parents of the lovers first reproach them and then consent to their marriage",
+          "Pining body and mind lose shame And take to riding of the palm",
+          "Lust betrays itself in haste Though women are highly soft and chaste",
+          "Once I was modest and manly My love has now Madal only"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுத் துறவுரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1138, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இவள் மன அடக்கம் மிக்கவள்; பெரிதும் இரக்கப்பட வேண்டியவள் என்று எண்ணாமல் இந்த காதல் எங்களுக்குள் இருக்கும் இரகசியத்தைக் கடந்து ஊருக்குள்ளேயும் தெரியப்போகிறது. கலைஞர் உரை கூறுவது: பாவம்; இவர், மனத்தில் உள்ளதை ஒளிக்கத் தெரியாதவர்; பரிதாபத்திற்குரியவர்; என்றெல்லாம் பார்க்காமல், ஊர் அறிய வெளிப்பட்டு விடக்கூடியது காதல். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Abandonment of Reserve (Pre-marital Love), Kural 1138 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even the Lust (of women) transgresses its secrecy and appears in public, forgetting that they are too chaste and liberal (to be overcome by it). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நாணுத் துறவுரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Abandonment of Reserve'.",
+        "quiz_question_ta": "'நாணுத் துறவுரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1138 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1138 from Chapter 'The Abandonment of Reserve'?",
+        "quiz_options_ta": [
+          "அந்தக் காதலர் உண்டாக்கினார் என்னும் பெருமிதத்தோடு இந்தப் பசலை நிறம் என்னுடைய மேனிமேல் ஏறி ஊர்ந்து பரவி வருகிறது.",
+          "யான் காலைப்பொழுதிற்குச் செய்த நன்மை என்ன? (என்னைத் துன்புறுத்துகின்ற) மாலைப் பொழுதிற்குச் செய்த பகையான தீமை என்ன?",
+          "இவர் நெஞ்சை நிறுத்தும் நிறை இல்லாதவர், மிகவும் இரங்கத்தக்கவர் என்று கருதாமல் காமம் மறைந்திருத்தலைக் கடந்து மன்றத்திலும் வெளிப்படுகின்றதே.",
+          "அரசன் இச் செயலில் முனைந்து நின்று வெற்றி பெறுவானாக; அதன்பின் யாம் மனைவியோடு கூடியிருந்து அனறு வரும் மாலைப் பொழுதிற்கு விருந்து செய்வோம்."
+        ],
+        "quiz_options_en": [
+          "Claiming it is begot through him Pallor creeps and rides over my frame",
+          "What good have I done to morning And what evil to this evening?",
+          "Lust betrays itself in haste Though women are highly soft and chaste",
+          "May the king fight and win and give And with my wife I will feast this eve!"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நாணுத் துறவுரைத்தல்) பகுதியில் குறள் 1138 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இவர் நெஞ்சை நிறுத்தும் நிறை இல்லாதவர், மிகவும் இரங்கத்தக்கவர் என்று கருதாமல் காமம் மறைந்திருத்தலைக் கடந்து மன்றத்திலும் வெளிப்படுகின்றதே. பரிமேலழகர் உரை நுட்பம்: (காப்புச் சிறைமிக்குக் காமம் பெருகியவழிச் சொல்லியது.) நிறை அரியர் - இவர் நிறையால் நாம் மீதூர்தற்கு அரியர் என்று அஞ்சுதல் செய்யாது; மன் அளியர் என்னாது - மிகவும் அளிக்கத்தக்கார் என்று இரங்குதல் செய்யாது; காமம் மறை இறந்து மன்றுபடும் - மகளிர் காமமும் அவர...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 114: 'The Abandonment of Reserve'), Kural 1138 distills a foundational ethical insight: \"In virtue hard to move, yet very tender, too, are we; Love deems not so, would rend the veil, and court publicity\" Philosophically, Even the Lust (of women) transgresses its secrecy and appears in public, forgetting that they are too chaste and liberal (to be overcome by it).",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "speech",
+        "love",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1139,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அமைதியாய் இருந்ததால் எல்லோரும் அறியவில்லை என்று கருதி என்னுடைய காமம் தெருவில் பரவி மயங்கிச் சுழல்கின்றது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: And thus, in public ways, perturbed will rove.",
+        "story_title_ta": "நாணுத் துறவுரைத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Abandonment of Reserve — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நாணுத் துறவுரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1139 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1139 from 'The Abandonment of Reserve', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என்னைத் தவிர யாரும் அறியவில்லை என்பதற்காக என் காதல் தெருவில் பரவி மயங்கித் திரிகின்றது போலும்!",
+        "moral_en": "Moral: 'There's no one knows my heart,' so says my love, And thus, in public ways, perturbed will rove.",
+        "game_blank_word_ta": "மறுகும்",
+        "game_options_ta": [
+          "காமம்",
+          "உழந்து",
+          "வருந்தினார்க்கு",
+          "மறுகும்"
+        ],
+        "game_options_en": [
+          "Pangs of passion find no recourse Except riding *`palmyra horse' * Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs The parents of the lovers first reproach them and then consent to their marriage",
+          "Pining body and mind lose shame And take to riding of the palm",
+          "Once I was modest and manly My love has now Madal only",
+          "My perplexed love roves public street Believing that none knows its secret"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுத் துறவுரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1139, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் காதல் எனது மன அடக்கத்தால் எல்லாருக்கம் தெரியவில்லை என்று எண்ணி அதைத் தெரிவிக்க தெருவெங்கும் தானே அம்பலும் அலருமாய்ச் சுற்றிச் சுற்றி வருகிறது. கலைஞர் உரை கூறுவது: என்னைத் தவிர யாரும் அறியவில்லை என்பதற்காக என் காதல் தெருவில் பரவி மயங்கித் திரிகின்றது போலும்! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Abandonment of Reserve (Pre-marital Love), Kural 1139 speaks directly to teens navigating studies, friendships, leadership, and digital choices: And thus, in public ways, perturbed will rove. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நாணுத் துறவுரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Abandonment of Reserve'.",
+        "quiz_question_ta": "'நாணுத் துறவுரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1139 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1139 from Chapter 'The Abandonment of Reserve'?",
+        "quiz_options_ta": [
+          "காம நோயையும் பசலை நிறத்தையும் எனக்குக் கைம்மாறாக ‌‌கொடுத்து விட்டு, என் சாயலையும் நாணத்தையும் அவர் என்னிடமிருந்து பெற்றுக் கொண்டார்.",
+          "மாலைப் பொழுது இவ்வாறு துன்பம் செய்ய வல்லது என்பதைக் காதலர் என்னை விட்டு அகலாமல் உடனிருந்த காலத்தில் யான் அறியவில்லை.",
+          "தொலைவில் உள்ள வெளிநாட்டிற்குச் சென்ற காதலர் திரும்பி வரும் நாளை நினைத்து ஏங்கும் மகளிர்க்கு ஒருநாள் ஏழுநாள் போல ( நெடிதாக) கழியும்.",
+          "அமைதியாய் இருந்ததால் எல்லோரும் அறியவில்லை என்று கருதி என்னுடைய காமம் தெருவில் பரவி மயங்கிச் சுழல்கின்றது."
+        ],
+        "quiz_options_en": [
+          "He seized my beauty and modesty Leaving pangs and Pallor to me",
+          "Evening pangs I have not known When my lord nev'r left me alone",
+          "One day seems as seven to those Who yearn return of distant spouse",
+          "My perplexed love roves public street Believing that none knows its secret"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நாணுத் துறவுரைத்தல்) பகுதியில் குறள் 1139 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அமைதியாய் இருந்ததால் எல்லோரும் அறியவில்லை என்று கருதி என்னுடைய காமம் தெருவில் பரவி மயங்கிச் சுழல்கின்றது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) எல்லாரும் அறிகிலார் என்று - யான் முன் அடங்கி நிற்றலான் எல்லாரும் என்னை அறிதல் இலர், இனி அவ்வாறு நில்லாது யானே வெளிப்பட்டு அறிவிப்பல் என்று கருதி; என் காமம் மறுகில் மருண்டு மறுகும் - என் காமம் இவ்வூர் மறுகின்கண்ணே மயங்கிச் சுழலாநின்றது...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 114: 'The Abandonment of Reserve'), Kural 1139 distills a foundational ethical insight: \"'There's no one knows my heart,' so says my love, And thus, in public ways, perturbed will rove\" Philosophically, And thus, in public ways, perturbed will rove.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "speech",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 1140,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: யாம் பட்ட துன்பங்களைத் தாம் படாமையால் அறிவில்லாதவர் யாம் கண்ணால் காணுமாறு எம் எதிரில் எம்மைக்கண்டு நகைக்கின்றனர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Even strangers laugh (at us) so as to be seen by us, for they have not suffered.",
+        "story_title_ta": "நாணுத் துறவுரைத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Abandonment of Reserve — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நாணுத் துறவுரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1140 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1140 from 'The Abandonment of Reserve', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதல் நோயினால் வாடுவோரின் துன்பத்தை அனுபவித்தறியாதவர்கள்தான், அந்த நோயினால் வருந்துவோரைப் பார்த்து நகைப்பார்கள்.",
+        "moral_en": "Moral: Before my eyes the foolish make a mock of me, Because they ne'er endured the pangs I now must drie.",
+        "game_blank_word_ta": "யாம்கண்ணின்",
+        "game_options_ta": [
+          "யாம்கண்ணின்",
+          "காமம்",
+          "உழந்து",
+          "வருந்தினார்க்கு"
+        ],
+        "game_options_en": [
+          "Fools laugh at me before my eyes For they feel not my pangs and sighs",
+          "Pangs of passion find no recourse Except riding *`palmyra horse' * Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs The parents of the lovers first reproach them and then consent to their marriage",
+          "Pining body and mind lose shame And take to riding of the palm",
+          "Once I was modest and manly My love has now Madal only"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுத் துறவுரைத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1140, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நான் பார்க்க, இந்த அறிவற்ற மக்கள் என்னைப் பார்த்துச் சிரிக்கின்றனர். அப்படிச் சிரிக்க காரணம், நான் அனுபவித்த துன்பங்களை அவர்கள் அனுபவிக்காததே! கலைஞர் உரை கூறுவது: காதல் நோயினால் வாடுவோரின் துன்பத்தை அனுபவித்தறியாதவர்கள்தான், அந்த நோயினால் வருந்துவோரைப் பார்த்து நகைப்பார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Abandonment of Reserve (Pre-marital Love), Kural 1140 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even strangers laugh (at us) so as to be seen by us, for they have not suffered. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நாணுத் துறவுரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Abandonment of Reserve'.",
+        "quiz_question_ta": "'நாணுத் துறவுரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1140 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1140 from Chapter 'The Abandonment of Reserve'?",
+        "quiz_options_ta": [
+          "யாம் பட்ட துன்பங்களைத் தாம் படாமையால் அறிவில்லாதவர் யாம் கண்ணால் காணுமாறு எம் எதிரில் எம்மைக்கண்டு நகைக்கின்றனர்.",
+          "யான் அவருடைய நல்லியல்புகளை நினைக்கின்றேன்; யான் உரைப்பதும் அவற்றையே; அவ்வாறிருந்தும் பசலை வந்தது வஞ்சனையோ? வேறு வகையோ?",
+          "இந்த காமநோய், காலைப்பொழுதில் அரும்பாய்த் தோன்றி, பகற்பொழுதெல்லாம் பேரரும்பாய் வளர்ந்து மாலைப்பொழுதில் மலராகின்றது.",
+          "துன்பத்தைத் தாங்காமல் மனம் உடைந்து அழிந்து விட்டால், நம்மைத் திரும்பப்‌ பெறுவதனால் என்ன? பெற்றக்கால் என்ன? பெற்றுப் பொருந்தினாலும் என்ன?"
+        ],
+        "quiz_options_en": [
+          "Fools laugh at me before my eyes For they feel not my pangs and sighs",
+          "He is my thought, his praise my theme Yet this pallor steals over my frame",
+          "Budding at dawn burgeoning all day This disease blooms in evening gay",
+          "When her heart is broken, what is The good of meeting and love-embrace?"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (நாணுத் துறவுரைத்தல்) பகுதியில் குறள் 1140 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யாம் பட்ட துன்பங்களைத் தாம் படாமையால் அறிவில்லாதவர் யாம் கண்ணால் காணுமாறு எம் எதிரில் எம்மைக்கண்டு நகைக்கின்றனர். பரிமேலழகர் உரை நுட்பம்: (செவிலிக்கு அறத்தொடு நின்று வைத்து, 'யான் நிற்குமாறு என்னை' என்று நகையாடிய தோழியோடு புலந்து தன்னுள்ளே சொல்லியது,) யாம் கண்ணின்காண அறிவில்லார் நகுப - யாம் கேட்குமாறுமன்றிக் கண்ணாற் காணுமாறு எம்மை அறிவிலார் நகாநின்றார்; யாம் பட்ட தாம்படாவாறு - அவர...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 114: 'The Abandonment of Reserve'), Kural 1140 distills a foundational ethical insight: \"Before my eyes the foolish make a mock of me, Because they ne'er endured the pangs I now must drie\" Philosophically, Even strangers laugh (at us) so as to be seen by us, for they have not suffered.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "speech",
+        "love",
+        "education"
+      ]
+    }
+  ]
+}

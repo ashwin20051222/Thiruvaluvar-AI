@@ -1,0 +1,9 @@
+/target
+/dist
+/models
+data/user_state.db*
+**/*.db-wal
+**/*.db-shm
+seed_data/enriched/*.tmp
+.DS_Store
+

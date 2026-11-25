@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 49,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.893577645+00:00",
+  "kurals": [
+    {
+      "kural_number": 481,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: காக்கை தன்னைவிட வலிய கோட்டானைப் பகலில் வென்றுவிடும், அதுபோல் பகையை வெல்லக்கருதும் அரசர்க்கும் அதற்கு ஏற்ற காலம் வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: A crow will overcome an owl in the day time; so the king who would conquer his enemy must have (a suitable) time.",
+        "story_title_ta": "காலமறிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Knowing the fitting Time — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'காலமறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 481 பற்றிக் கதை சொன்னார். 'தன்னைவிடப் பலமுள்ள கோட்டானைக் காக்கை பகலில் வென்றுவிடும்; ஆகவே பகைவரை வெல்ல எண்ணுபவர்க்கு அதற்கு ஏற்ற காலம் அவசியம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 49, 'Knowing the fitting Time', centered on Kural 481: A crow will overcome an owl in the day time; so the king who would conquer his enemy must have (a suitable) time. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பகல் நேரமாக இருந்தால் கோட்டானைக் காக்கைவென்று விடும் எனவே எதிரியை வீழ்த்துவதற்கு ஏற்ற காலத்தைத் தேர்ந்தெடுக்க வேண்டும்.",
+        "moral_en": "Moral: A crow will conquer owl in broad daylight; The king that foes would crush, needs fitting time to fight.",
+        "game_blank_word_ta": "வேண்டும்",
+        "game_options_ta": [
+          "பருவத்தோடு",
+          "வேண்டும்",
+          "ஒட்ட",
+          "ஒழுகல்"
+        ],
+        "game_options_en": [
+          "Well-ordered seasoned act is cord That fortune binds in bon accord",
+          "By day the crow defeats the owl Kings need right time their foes to quell",
+          "What is hard for him who acts With proper means and time and tacts?",
+          "Choose proper time and act and place Even the world you win with ease"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "காலமறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 481, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்னைவிடப் பலமுள்ள கோட்டானைக் காக்கை பகலில் வென்றுவிடும்; ஆகவே பகைவரை வெல்ல எண்ணுபவர்க்கு அதற்கு ஏற்ற காலம் அவசியம். கலைஞர் உரை கூறுவது: பகல் நேரமாக இருந்தால் கோட்டானைக் காக்கைவென்று விடும் எனவே எதிரியை வீழ்த்துவதற்கு ஏற்ற காலத்தைத் தேர்ந்தெடுக்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the fitting Time (Royalty & Polity), Kural 481 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A crow will overcome an owl in the day time; so the king who would conquer his enemy must have (a suitable) time. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'காலமறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the fitting Time' thoughtfully.",
+        "quiz_question_ta": "'காலமறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 481 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 481 from Chapter 'Knowing the fitting Time'?",
+        "quiz_options_ta": [
+          "பொருள் கொடுத்தலும் இன்சொல் கூறுதலுமாகிய இரண்டும் செய்யவல்லவனானால் ஒருவன் தொடர்ந்த பலச் சுற்றத்தால் சூழப்படுவான்.",
+          "காக்கை தன்னைவிட வலிய கோட்டானைப் பகலில் வென்றுவிடும், அதுபோல் பகையை வெல்லக்கருதும் அரசர்க்கும் அதற்கு ஏற்ற காலம் வேண்டும்.",
+          "அமைச்சர் முதலான தன் இனத்தாரிடம் கலந்து எண்ணாத அரசன், சினத்தின் வழியில் சென்று சீறி நிற்பானானால், அவனுடைய செல்வம் சுருங்கும்.",
+          "இது செய்வதற்கு அருமையாகாது என்று சோர்வுறாமல் இருக்க வேண்டும், அதைச் செய்வதற்க்குத் தக்க பெருமையை முயற்சி உண்டாக்கும்,"
+        ],
+        "quiz_options_en": [
+          "Loving words and liberal hand Encircle kith and kin around",
+          "By day the crow defeats the owl Kings need right time their foes to quell",
+          "The king who would not take counsels Rages with wrath-his fortune fails",
+          "Feel not frustrate saying This hard Who tries attains striving's reward"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (காலமறிதல்) பகுதியில் குறள் 481 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காக்கை தன்னைவிட வலிய கோட்டானைப் பகலில் வென்றுவிடும், அதுபோல் பகையை வெல்லக்கருதும் அரசர்க்கும் அதற்கு ஏற்ற காலம் வேண்டும். பரிமேலழகர் உரை நுட்பம்: கூகையைக் காக்கை பகல் வெல்லும் - தன்னின் வலிதாய கூகையைக் காக்கை பகற்பொழுதின்கண் வெல்லாநிற்கும், இகல் வெல்லும் வேந்தர்க்குப் பொழுது வேண்டும் - அது போலப் பகைவரது இகலை வெல்லக் கருதும் அரசர்க்கு அதற்கு ஏற்ற காலம் இன்றி அமையாதது. (எடுத்துக்காட்டு உவமை, காலம...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 49: 'Knowing the fitting Time'), Kural 481 distills a foundational ethical insight: \"A crow will conquer owl in broad daylight; The king that foes would crush, needs fitting time to fight\" Philosophically, A crow will overcome an owl in the day time; so the king who would conquer his enemy must have (a suitable) time.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "leadership",
+        "courage",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 482,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: காலத்தோடுப் பொருந்துமாறு ஆராய்ந்து நடத்தல் ( நில்லாத இயல்பு உடைய) செல்வத்தை நீங்காமல் நிற்குமாறு கட்டும் கயிறாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Acting at the right season, is a cord that will immoveably bind success (to a king).",
+        "story_title_ta": "காலமறிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Knowing the fitting Time — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'காலமறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 482 பற்றிக் கதை சொன்னார். 'காலந் தவறாமல் காரியம் ஆற்றுவது, ஓடும் செல்வத்தை ஓடாமல் கட்டும் கயிறு ஆகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 49, 'Knowing the fitting Time', centered on Kural 482: Acting at the right season, is a cord that will immoveably bind success (to a king). Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: காலம் உணர்ந்து அதற்கேற்பச் செயல்படுதல், அந்த நற்செயலின் வெற்றியை நழுவவிடாமல் கட்டிப்பிணிக்கும் கயிறாக அமையும்.",
+        "moral_en": "Moral: The bond binds fortune fast is ordered effort made, Strictly observant still of favouring season's aid.",
+        "game_blank_word_ta": "கயிறு",
+        "game_options_ta": [
+          "பகல்வெல்லும்",
+          "கூகையைக்",
+          "கயிறு",
+          "காக்கை"
+        ],
+        "game_options_en": [
+          "By day the crow defeats the owl Kings need right time their foes to quell",
+          "What is hard for him who acts With proper means and time and tacts?",
+          "Well-ordered seasoned act is cord That fortune binds in bon accord",
+          "Choose proper time and act and place Even the world you win with ease"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "காலமறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 482, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காலந் தவறாமல் காரியம் ஆற்றுவது, ஓடும் செல்வத்தை ஓடாமல் கட்டும் கயிறு ஆகும். கலைஞர் உரை கூறுவது: காலம் உணர்ந்து அதற்கேற்பச் செயல்படுதல், அந்த நற்செயலின் வெற்றியை நழுவவிடாமல் கட்டிப்பிணிக்கும் கயிறாக அமையும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the fitting Time (Royalty & Polity), Kural 482 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Acting at the right season, is a cord that will immoveably bind success (to a king). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'காலமறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the fitting Time' thoughtfully.",
+        "quiz_question_ta": "'காலமறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 482 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 482 from Chapter 'Knowing the fitting Time'?",
+        "quiz_options_ta": [
+          "பெரிய கொடையாளியாகவும் சினமற்றவனாகவும் ஒருவன் இருந்தால் அவனைப் போல் சுற்றத்தாரை உடையவர் உலகத்தில் யாரும் இல்லை.",
+          "முன்னமே தக்கவாறு அரண் செய்து கொள்ளாத அரசன் போர் வந்த காலத்தில் (தற்காப்பு இல்லாமல்) அஞ்சி விரைவில் அழிவான்.",
+          "காலத்தோடுப் பொருந்துமாறு ஆராய்ந்து நடத்தல் ( நில்லாத இயல்பு உடைய) செல்வத்தை நீங்காமல் நிற்குமாறு கட்டும் கயிறாகும்.",
+          "தொழிலாகிய குறையைச் செய்யாமல் கைவிட்டவரை உலகம் கைவிடும், ஆகையால் தொழில் முயற்சி இல்லாதிருத்தலை ஒழிக்க வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Large giver and wrathless man Commands on earth countless kinsmen",
+          "The king who builds not fort betimes Fears his foes in wars and dies",
+          "Well-ordered seasoned act is cord That fortune binds in bon accord",
+          "In doing work don't break and shirk The world will quit who quits his work"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (காலமறிதல்) பகுதியில் குறள் 482 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காலத்தோடுப் பொருந்துமாறு ஆராய்ந்து நடத்தல் ( நில்லாத இயல்பு உடைய) செல்வத்தை நீங்காமல் நிற்குமாறு கட்டும் கயிறாகும். பரிமேலழகர் உரை நுட்பம்: பருவத்தோடு ஒட்ட ஒழுகல் - அரசன் காலத்தோடு பொருந்த வினைசெய்து ஒழுகுதல், திருவினைத் தீராமை ஆர்க்கும் கயிறு - ஒருவர்கண்ணும் நில்லாது நீங்கும் செல்வத்தைத் தன்கண் நீங்காமல் பிணிக்கும் கயிறாம். '(காலத்தோடு பொருந்துதல் - காலம் தப்பாமல் செய்தல். 'தீராமை' என்றதனால...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 49: 'Knowing the fitting Time'), Kural 482 distills a foundational ethical insight: \"The bond binds fortune fast is ordered effort made, Strictly observant still of favouring season's aid\" Philosophically, Acting at the right season, is a cord that will immoveably bind success (to a king).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "family",
+        "discipline",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 483,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: (செய்யும் செயலை முடிப்பதற்கு வேண்டிய) கருவிகளுடன் ஏற்றக் காலத்தையும் அறிந்து செய்தால் அரிய செயல்கள் என்பது உண்டோ.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Is there anything difficult for him to do, who acts, with (the right) instruments at the right time ?",
+        "story_title_ta": "காலமறிதல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Knowing the fitting Time — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'காலமறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 483 பற்றிக் கதை சொன்னார். 'செயலைச் செய்து முடிப்பதற்கு ஏற்ற திறமைகளுடனும் தந்திரங்களுடனும், உரிய காலத்தைக் கண்டு ஒரு செயலைச் செய்தால் செய்வதற்கு அரிய செயல் என்று ஏதேனும் உண்டா?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 49, 'Knowing the fitting Time', centered on Kural 483: Is there anything difficult for him to do, who acts, with (the right) instruments at the right time ? Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தேவையான சாதனங்களுடன் உரிய நேரத்தையும் அறிந்து செயல்பட்டால் முடியாதவை என்று எவையுமே இல்லை.",
+        "moral_en": "Moral: Can any work be hard in very fact, If men use fitting means in timely act.",
+        "game_blank_word_ta": "அருவினை",
+        "game_options_ta": [
+          "பகல்வெல்லும்",
+          "கூகையைக்",
+          "காக்கை",
+          "அருவினை"
+        ],
+        "game_options_en": [
+          "By day the crow defeats the owl Kings need right time their foes to quell",
+          "Well-ordered seasoned act is cord That fortune binds in bon accord",
+          "Choose proper time and act and place Even the world you win with ease",
+          "What is hard for him who acts With proper means and time and tacts?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "காலமறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 483, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செயலைச் செய்து முடிப்பதற்கு ஏற்ற திறமைகளுடனும் தந்திரங்களுடனும், உரிய காலத்தைக் கண்டு ஒரு செயலைச் செய்தால் செய்வதற்கு அரிய செயல் என்று ஏதேனும் உண்டா? கலைஞர் உரை கூறுவது: தேவையான சாதனங்களுடன் உரிய நேரத்தையும் அறிந்து செயல்பட்டால் முடியாதவை என்று எவையுமே இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the fitting Time (Royalty & Polity), Kural 483 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Is there anything difficult for him to do, who acts, with (the right) instruments at the right time ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'காலமறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the fitting Time' thoughtfully.",
+        "quiz_question_ta": "'காலமறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 483 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 483 from Chapter 'Knowing the fitting Time'?",
+        "quiz_options_ta": [
+          "காக்கை (தனக்கு கிடைத்ததை) மறைத்து வைக்காமல் சுற்றத்தைக் கூவி அழைத்து உண்ணும். ஆக்கமும் அத்தகைய இயல்பு உடையவர்க்கே உண்டு.",
+          "கடுங்கோலாகிய ஆட்சிமுறை கல்லாதவரைத் தனக்கு அரணாகச் சேர்த்துக் கொள்ளும், அது தவிர நிலத்திற்கு சுமை வேறு இல்லை.",
+          "பிறர்க்கு உதவிசெய்தல் என்னும் மேம்பட்ட நிலைமை முயற்சி என்று சொல்லப்படுகின்ற உயர்ந்த பண்பில் நிலைத்திருக்கின்றது.",
+          "(செய்யும் செயலை முடிப்பதற்கு வேண்டிய) கருவிகளுடன் ஏற்றக் காலத்தையும் அறிந்து செய்தால் அரிய செயல்கள் என்பது உண்டோ."
+        ],
+        "quiz_options_en": [
+          "The crows hide not; thy call and eat Welfare abides a man of heart",
+          "The crushing burden borne by earth Is tyrants bound to fools uncouth",
+          "On excellence of industry Depends magnanimous bounty",
+          "What is hard for him who acts With proper means and time and tacts?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (காலமறிதல்) பகுதியில் குறள் 483 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (செய்யும் செயலை முடிப்பதற்கு வேண்டிய) கருவிகளுடன் ஏற்றக் காலத்தையும் அறிந்து செய்தால் அரிய செயல்கள் என்பது உண்டோ. பரிமேலழகர் உரை நுட்பம்: அருவினை என்ப உளவோ - அரசரால் செய்தற்கு அரிய வினைகள் என்று சொல்லப்படுவன உளவோ, கருவியான் காலம் அறிந்து செயின் - அவற்றை முடித்¢தற்கு ஏற்ற கருவிகளுடனே செய்தற்கு ஆம் காலம் அறிந்து செய்வராயின். (கருவிகளாவன : மூவகை ஆற்றலும் நால்வகை உபாயங்களுமாம். 'அவை உளவாய வழியும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 49: 'Knowing the fitting Time'), Kural 483 distills a foundational ethical insight: \"Can any work be hard in very fact, If men use fitting means in timely act\" Philosophically, Is there anything difficult for him to do, who acts, with (the right) instruments at the right time ?",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "discipline",
+        "perseverance",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 484,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: (செயலை முடிப்பதற்கு ஏற்ற) காலத்தை அறிந்து இடத்தோடு பொருந்துமாறு செய்தால், உலகமே வேண்டும் எனக் கருதினாலும் கைகூடும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Though (a man) should meditate (the conquest of) the world, he may accomplish it if he acts in the right time, and at the right place.",
+        "story_title_ta": "காலமறிதல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Knowing the fitting Time — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'காலமறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 484 பற்றிக் கதை சொன்னார். 'ஏற்ற காலத்தையும் இடத்தையும் அறிந்து ஒரு செயலைச் செய்தால், பூவுலகம் முழுமையையும் வேண்டினாலும் அது கைவசப்படும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 49, 'Knowing the fitting Time', centered on Kural 484: Though (a man) should meditate (the conquest of) the world, he may accomplish it if he acts in the right time, and at the right place. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உரிய காலத்தையும் இடத்தையும் ஆய்ந்தறிந்து செயல்பட்டால் உலகமேகூடக் கைக்குள் வந்துவிடும்.",
+        "moral_en": "Moral: The pendant world's dominion may be won, In fitting time and place by action done.",
+        "game_blank_word_ta": "கருதினுங்",
+        "game_options_ta": [
+          "கருதினுங்",
+          "பகல்வெல்லும்",
+          "கூகையைக்",
+          "காக்கை"
+        ],
+        "game_options_en": [
+          "Choose proper time and act and place Even the world you win with ease",
+          "By day the crow defeats the owl Kings need right time their foes to quell",
+          "Well-ordered seasoned act is cord That fortune binds in bon accord",
+          "What is hard for him who acts With proper means and time and tacts?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "காலமறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 484, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஏற்ற காலத்தையும் இடத்தையும் அறிந்து ஒரு செயலைச் செய்தால், பூவுலகம் முழுமையையும் வேண்டினாலும் அது கைவசப்படும். கலைஞர் உரை கூறுவது: உரிய காலத்தையும் இடத்தையும் ஆய்ந்தறிந்து செயல்பட்டால் உலகமேகூடக் கைக்குள் வந்துவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the fitting Time (Royalty & Polity), Kural 484 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though (a man) should meditate (the conquest of) the world, he may accomplish it if he acts in the right time, and at the right place. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'காலமறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the fitting Time' thoughtfully.",
+        "quiz_question_ta": "'காலமறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 484 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 484 from Chapter 'Knowing the fitting Time'?",
+        "quiz_options_ta": [
+          "(செயலை முடிப்பதற்கு ஏற்ற) காலத்தை அறிந்து இடத்தோடு பொருந்துமாறு செய்தால், உலகமே வேண்டும் எனக் கருதினாலும் கைகூடும்.",
+          "அரசன் எல்லாரையும் பொதுவகையாக நோக்காமல், அவரவர் சிறப்புக்கு ஏற்றவாறு நோக்கினால், அதை விரும்பி சுற்றமாக வாழ்கின்றவர் பலர் ஆவர்.",
+          "கண்ணோட்டம் என்று சொல்லப்படுகின்ற மிகச் சிறந்த அழகு இருக்கும் காரணத்தால் தான், இந்த உலகம் அழியாமல் இருக்கின்றது.",
+          "முயற்சி இல்லாதவன் உதவிசெய்பவனாக இருத்தல், பேடி தன் கையில் வாளை எடுத்தும் ஆளும் தன்மைபோல் நிறைவேறாமல் போகும்."
+        ],
+        "quiz_options_en": [
+          "Choose proper time and act and place Even the world you win with ease",
+          "From public gaze when kings perceive Each one's merits so many thrive",
+          "Living in the world implies The bounteous dame of benign eyes",
+          "Bounty of man who never strives Like sword in eunuch's hand it fails"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (காலமறிதல்) பகுதியில் குறள் 484 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (செயலை முடிப்பதற்கு ஏற்ற) காலத்தை அறிந்து இடத்தோடு பொருந்துமாறு செய்தால், உலகமே வேண்டும் எனக் கருதினாலும் கைகூடும். பரிமேலழகர் உரை நுட்பம்: ஞாலம் கருதினும் கைகூடும் - ஒருவன் ஞாலம் முழுவதும் தானே ஆளக் கருதினானாயினும் அஃது அவன் கையகத்ததாம், காலம் கருதி இடத்தான் செயின் - அதற்குச் செய்யும் வினையைக் காலம் அறிந்து இடத்தோடு பொருந்தச் செய்வானாயின். ('இடத்தான்' என்பதற்கு மேல் 'கருவியான்' என்பதற்கு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 49: 'Knowing the fitting Time'), Kural 484 distills a foundational ethical insight: \"The pendant world's dominion may be won, In fitting time and place by action done\" Philosophically, Though (a man) should meditate (the conquest of) the world, he may accomplish it if he acts in the right time, and at the right place.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "harmony",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 485,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: உலகத்தைக் கொள்ளக் கருதிகின்றவர் அதைப்பற்றி எண்ணிக் கலங்காமல் அதற்கு ஏற்ற காலத்தைக் கருதிக்கொண்டு பொறுத்திருப்பர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: They who thoughtfully consider and wait for the (right) time (for action), may successfully meditate (the conquest of) the world.",
+        "story_title_ta": "காலமறிதல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Knowing the fitting Time — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'காலமறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 485 பற்றிக் கதை சொன்னார். 'பூவுலகம் முழுவதும் வேண்டும் என்போர், ஏற்ற காலத்தை எண்ணித் தவறாமல் காத்து இருப்பர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 49, 'Knowing the fitting Time', centered on Kural 485: They who thoughtfully consider and wait for the (right) time (for action), may successfully meditate (the conquest of) the world. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கலக்கத்துக்கு இடம் தராமல் உரிய காலத்தை எதிர்பார்த்துப் பொறுமையாக இருப்பவர்கள் இந்த உலகத்தையேகூட வென்று காட்டுவார்கள்.",
+        "moral_en": "Moral: Who think the pendant world itself to subjugate, With mind unruffled for the fitting time must wait.",
+        "game_blank_word_ta": "இருப்பர்",
+        "game_options_ta": [
+          "பகல்வெல்லும்",
+          "இருப்பர்",
+          "கூகையைக்",
+          "காக்கை"
+        ],
+        "game_options_en": [
+          "By day the crow defeats the owl Kings need right time their foes to quell",
+          "Who want to win the world sublime Wait unruffled biding their time",
+          "Well-ordered seasoned act is cord That fortune binds in bon accord",
+          "What is hard for him who acts With proper means and time and tacts?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "காலமறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 485, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பூவுலகம் முழுவதும் வேண்டும் என்போர், ஏற்ற காலத்தை எண்ணித் தவறாமல் காத்து இருப்பர். கலைஞர் உரை கூறுவது: கலக்கத்துக்கு இடம் தராமல் உரிய காலத்தை எதிர்பார்த்துப் பொறுமையாக இருப்பவர்கள் இந்த உலகத்தையேகூட வென்று காட்டுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the fitting Time (Royalty & Polity), Kural 485 speaks directly to teens navigating studies, friendships, leadership, and digital choices: They who thoughtfully consider and wait for the (right) time (for action), may successfully meditate (the conquest of) the world. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'காலமறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the fitting Time' thoughtfully.",
+        "quiz_question_ta": "'காலமறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 485 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 485 from Chapter 'Knowing the fitting Time'?",
+        "quiz_options_ta": [
+          "முன் சுற்றத்தாறாக இருந்து பின் ஒருக் காரணத்தால் பிரிந்தவரின் உறவு, அவ்வாறு அவர் பொருந்தாமலிருந்த காரணம் நீங்கியபின் தானே வந்து சேரும்.",
+          "உலகத்தைக் கொள்ளக் கருதிகின்றவர் அதைப்பற்றி எண்ணிக் கலங்காமல் அதற்கு ஏற்ற காலத்தைக் கருதிக்கொண்டு பொறுத்திருப்பர்.",
+          "கண்ணோட்டத்தினால் உலகியல் நடைபெறுகின்றது, கண்ணோட்டம் இல்லாதவர் உயிரோடு இருத்தல் நிலத்திற்குச் சுமையே தவிர வேறு பயனில்லை.",
+          "தன் இன்பத்தை விரும்பாதவனாய் மேற்க்கொண்டச் செயலை முடிக்க விரும்புகிறவன், தன் சுற்றத்தாரின் துன்பத்தைப் போக்கித் தாங்குகின்ற தூண் ஆவான்."
+        ],
+        "quiz_options_en": [
+          "Forsaken friends will come and stay When cause for discord goes away",
+          "Who want to win the world sublime Wait unruffled biding their time",
+          "World lives by looks of lovely worth Who lack them are burdens of earth",
+          "Work who likes and not pleasure Wipes grief of friends, pillar secure"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (காலமறிதல்) பகுதியில் குறள் 485 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உலகத்தைக் கொள்ளக் கருதிகின்றவர் அதைப்பற்றி எண்ணிக் கலங்காமல் அதற்கு ஏற்ற காலத்தைக் கருதிக்கொண்டு பொறுத்திருப்பர். பரிமேலழகர் உரை நுட்பம்: கலங்காது ஞாலம் கருதுபவர் - தப்பாது ஞாலம் எல்லாம் கொள்ளக் கருதும் அரசர், காலம் கருதி இருப்பர் - தம் வலிமிகுமாயினும், அது கருதாது, அதற்கு ஏற்ற காலத்தையே கருதி அது வருந்துணையும் பகைமேல் செல்லார்.' (தப்பாமை: கருதிய வழியே கொள்ளுதல். வலி மிகுதி 'காலம் கருதி...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 49: 'Knowing the fitting Time'), Kural 485 distills a foundational ethical insight: \"Who think the pendant world itself to subjugate, With mind unruffled for the fitting time must wait\" Philosophically, They who thoughtfully consider and wait for the (right) time (for action), may successfully meditate (the conquest of) the world.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "harmony",
+        "education",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 486,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஊக்கம் மிகுந்தவன் (காலத்தை எதிர்பார்த்து) அடங்கியிருத்தல் போர் செய்யும் ஆட்டுக்கடா தன் பகையைத் தாக்குவதற்க்காகப் பின்னே கால் வாங்குதலைப் போன்றது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The self-restraint of the energetic (while waiting for a suitable opportunity), is like the drawing back of a fighting-ram in order to butt.",
+        "story_title_ta": "காலமறிதல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Knowing the fitting Time — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'காலமறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 486 பற்றிக் கதை சொன்னார். 'ஏற்ற காலம் பார்த்து ஆற்றல் மிக்கவன் காத்திருப்பது சண்டையிடும் ஆட்டுக்கடா, தன் பகைமீது பாய்வதற்காகப் பின்வாங்குவது போன்றதாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 49, 'Knowing the fitting Time', centered on Kural 486: The self-restraint of the energetic (while waiting for a suitable opportunity), is like the drawing back of a fighting-ram in order to butt. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கொடுமைகளைக் கண்டும்கூட உறுதி படைத்தவர்கள் அமைதியாக இருப்பது அச்சத்தினால் அல்ல; அது ஆட்டுக்கடா ஒன்று தனது பகையைத் தாக்குவதற்குத் தன் கால்களைப் பின்னுக்கு வாங்குவதைப் போன்றதாகும்.",
+        "moral_en": "Moral: The men of mighty power their hidden energies repress, As fighting ram recoils to rush on foe with heavier stress.",
+        "game_blank_word_ta": "பொருதகர்",
+        "game_options_ta": [
+          "பகல்வெல்லும்",
+          "கூகையைக்",
+          "பொருதகர்",
+          "காக்கை"
+        ],
+        "game_options_en": [
+          "By day the crow defeats the owl Kings need right time their foes to quell",
+          "Well-ordered seasoned act is cord That fortune binds in bon accord",
+          "By self-restraint stalwarts keep fit Like rams retreating but to butt",
+          "What is hard for him who acts With proper means and time and tacts?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "காலமறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 486, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஏற்ற காலம் பார்த்து ஆற்றல் மிக்கவன் காத்திருப்பது சண்டையிடும் ஆட்டுக்கடா, தன் பகைமீது பாய்வதற்காகப் பின்வாங்குவது போன்றதாகும். கலைஞர் உரை கூறுவது: கொடுமைகளைக் கண்டும்கூட உறுதி படைத்தவர்கள் அமைதியாக இருப்பது அச்சத்தினால் அல்ல; அது ஆட்டுக்கடா ஒன்று தனது பகையைத் தாக்குவதற்குத் தன் கால்களைப் பின்னுக்கு வாங்குவதைப் போன்றதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the fitting Time (Royalty & Polity), Kural 486 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The self-restraint of the energetic (while waiting for a suitable opportunity), is like the drawing back of a fighting-ram in order to butt. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'காலமறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the fitting Time' thoughtfully.",
+        "quiz_question_ta": "'காலமறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 486 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 486 from Chapter 'Knowing the fitting Time'?",
+        "quiz_options_ta": [
+          "தன்னிடமிருந்து பிரிந்து சென்று பின் ஒருக் காரணம்பற்றித் திரும்பிவந்தவனை, அரசன் அவன் நாடிய உதவியைச் செய்து ஆராய்ந்து உறவு கொள்ள வேண்டும்.",
+          "பாடலோடு பொருந்துதல் இல்லையானால் இசை என்ன பயனுடையதாகும், அதுபோல் கண்ணோட்டம் இல்லாவிட்டால் கண் என்ன பயனுடையதாகும்.",
+          "ஊக்கம் மிகுந்தவன் (காலத்தை எதிர்பார்த்து) அடங்கியிருத்தல் போர் செய்யும் ஆட்டுக்கடா தன் பகையைத் தாக்குவதற்க்காகப் பின்னே கால் வாங்குதலைப் போன்றது.",
+          "முயற்சி ஒருவனுக்குச் செல்வத்தைப் பெருகச் செய்யும், முயற்சி இல்லாதிருத்தல் அவனுக்கு வறுமையைச் சேர்த்துவிடும்."
+        ],
+        "quiz_options_en": [
+          "Who leaves and returns with motive The king should test him and receive",
+          "Of tuneless song what is the use? Without gracious looks what are eyes?",
+          "By self-restraint stalwarts keep fit Like rams retreating but to butt",
+          "Industry adds prosperity Indolence brings but poverty"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (காலமறிதல்) பகுதியில் குறள் 486 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஊக்கம் மிகுந்தவன் (காலத்தை எதிர்பார்த்து) அடங்கியிருத்தல் போர் செய்யும் ஆட்டுக்கடா தன் பகையைத் தாக்குவதற்க்காகப் பின்னே கால் வாங்குதலைப் போன்றது. பரிமேலழகர் உரை நுட்பம்: ஊக்கம் உடையான் ஒடுக்கம் - வலிமிகுதி உடைய அரசன் பகை மேற்செல்லாது காலம் பார்த்திருக்கின்ற இருப்பு, பொரு தகர் தாக்கற்குப் பேரும் தகைத்து - பொருகின்ற தகர் தன் பகைகெடப் பாய்தற்பொருட்டுப் பின்னே கால் வாங்கும் தன்மைத்து. (உவமைக்கண் 'தாக்கற்கு' என்றதனால். பொருளினும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 49: 'Knowing the fitting Time'), Kural 486 distills a foundational ethical insight: \"The men of mighty power their hidden energies repress, As fighting ram recoils to rush on foe with heavier stress\" Philosophically, The self-restraint of the energetic (while waiting for a suitable opportunity), is like the drawing back of a fighting-ram in order to butt.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "self-mastery",
+        "courage",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 487,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அறிவுடையவர் ( பகைவர் தீங்கு செய்த) அப்பொழுதே உடனே புறத்தில் சினம் கொள்ளமாட்டார், (வெல்வதற்கு ஏற்ற) காலம் பார்த்து அகத்தில் சினம் கொள்வார்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The wise will not immediately and hastily shew out their anger; they will watch their time, and restrain it within.",
+        "story_title_ta": "காலமறிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Knowing the fitting Time — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'காலமறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 487 பற்றிக் கதை சொன்னார். 'தம்பகைவர் அடாது செய்தால் அவர் அறியத் தம் பகைமையை அறிவுடையவர், விரைந்து வெளியே காட்டமாட்டார், ஆனால், ஏற்ற காலம் நோக்கிச் சினத்தை மனத்திற்குள் வைத்திருப்பர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 49, 'Knowing the fitting Time', centered on Kural 487: The wise will not immediately and hastily shew out their anger; they will watch their time, and restrain it within. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பகையை வீழ்த்திட அகத்தில் சினங்கொண்டாலும் அதனை வெளிப்படுத்தாமல் இடம் காலம் இரண்டுக்கும் காத்திருப்பதே அறிவுடையார் செயல்.",
+        "moral_en": "Moral: The glorious once of wrath enkindled make no outward show, At once; they bide their time, while hidden fires within them glow.",
+        "game_blank_word_ta": "உள்வேர்ப்பர்",
+        "game_options_ta": [
+          "பகல்வெல்லும்",
+          "கூகையைக்",
+          "காக்கை",
+          "உள்வேர்ப்பர்"
+        ],
+        "game_options_en": [
+          "By day the crow defeats the owl Kings need right time their foes to quell",
+          "Well-ordered seasoned act is cord That fortune binds in bon accord",
+          "What is hard for him who acts With proper means and time and tacts?",
+          "The wise jut not their vital fire They watch their time with hidden ire"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "காலமறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 487, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம்பகைவர் அடாது செய்தால் அவர் அறியத் தம் பகைமையை அறிவுடையவர், விரைந்து வெளியே காட்டமாட்டார், ஆனால், ஏற்ற காலம் நோக்கிச் சினத்தை மனத்திற்குள் வைத்திருப்பர். கலைஞர் உரை கூறுவது: பகையை வீழ்த்திட அகத்தில் சினங்கொண்டாலும் அதனை வெளிப்படுத்தாமல் இடம் காலம் இரண்டுக்கும் காத்திருப்பதே அறிவுடையார் செயல். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the fitting Time (Royalty & Polity), Kural 487 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The wise will not immediately and hastily shew out their anger; they will watch their time, and restrain it within. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'காலமறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the fitting Time' thoughtfully.",
+        "quiz_question_ta": "'காலமறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 487 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 487 from Chapter 'Knowing the fitting Time'?",
+        "quiz_options_ta": [
+          "பெரிய உவகையால் மகிழ்ந்திருக்கும் போது மறதியால் வரும் சோர்வு, ஒருவனுக்கு வரம்பு கடந்த சினம் வருவதைவிடத் தீமையானதாகும்.",
+          "தக்க அளவிற்குக் கண்ணோட்டம் இல்லாத கண்கள் முகத்தில் உள்ளவை போல் தோன்றுதல் அல்லாமல் வேறு என்ன பயன் செய்யும்.",
+          "ஒருவனுடைய சோம்பலில் கரிய மூதேவி வாழ்கின்றாள், சோம்பல் இல்லாதவனுடைய முயற்சியிலே திருமகள் வாழ்கின்றாள்.",
+          "அறிவுடையவர் ( பகைவர் தீங்கு செய்த) அப்பொழுதே உடனே புறத்தில் சினம் கொள்ளமாட்டார், (வெல்வதற்கு ஏற்ற) காலம் பார்த்து அகத்தில் சினம் கொள்வார்."
+        ],
+        "quiz_options_en": [
+          "Worse than wrath in excess is Forgetfulness in joy-excess",
+          "Except that they are on the face What for are eyes sans measured grace",
+          "Illuck abides with sloth they say *Laxmi's gifts with labourers stay *Laxmi the Goddes of wealth and prosperity",
+          "The wise jut not their vital fire They watch their time with hidden ire"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (காலமறிதல்) பகுதியில் குறள் 487 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறிவுடையவர் ( பகைவர் தீங்கு செய்த) அப்பொழுதே உடனே புறத்தில் சினம் கொள்ளமாட்டார், (வெல்வதற்கு ஏற்ற) காலம் பார்த்து அகத்தில் சினம் கொள்வார். பரிமேலழகர் உரை நுட்பம்: ஒள்ளியவர் - அறிவுடைய அரசர், ஆங்கே பொள்ளெனப் புறம் வேரார் - பகைவர் மிகை செய்த பொழுதே விரைவாக அவரறியப் புறத்து வெகுளார், காலம் பார்த்து உள் வேர்ப்பர் - தாம் அவரை வெல்லுதற்கு ஏற்ற காலத்தினை அறிந்து அது வரும் துணையும் உள்ளே வெகுள்வர். ('பொள்ளென' என்பது குறிப்பு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 49: 'Knowing the fitting Time'), Kural 487 distills a foundational ethical insight: \"The glorious once of wrath enkindled make no outward show, At once; they bide their time, while hidden fires within them glow\" Philosophically, The wise will not immediately and hastily shew out their anger; they will watch their time, and restrain it within.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "wisdom",
+        "self-mastery",
+        "courage"
+      ]
+    },
+    {
+      "kural_number": 488,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பகைவரைக் கண்டால் பொறுத்துச் செல்லவேண்டும், அப் பகைவர்க்கு முடிவுகாலம் வந்த போது அவருடைய தலை கீழே விழும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If one meets his enemy, let him show him all respect, until the time for his destruction is come; when that is come, his head will be easily brought low.",
+        "story_title_ta": "காலமறிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Knowing the fitting Time — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'காலமறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 488 பற்றிக் கதை சொன்னார். 'பகைவர்க்கு அழிவுகாலம் வரும்வரை அவரைக் கண்டால் பணிக; அழிவுகாலம் வரும்போது தடை இன்றி அழிந்தபோவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 49, 'Knowing the fitting Time', centered on Kural 488: If one meets his enemy, let him show him all respect, until the time for his destruction is come; when that is come, his head will be easily brought low. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பகைவர்க்கு முடிவு ஏற்பட்டு அவர்கள் தாமாகவே தலைகீழாகக் கவிழ்ந்திடும் உரிய நேரம் வரும் வரையில் தங்களின் பகையுணர்வைப் பொறுமையுடன் தாங்கிக் கொள்ள வேண்டும்.",
+        "moral_en": "Moral: If foes' detested form they see, with patience let them bear; When fateful hour at last they spy,- the head lies there.",
+        "game_blank_word_ta": "இறுவரை",
+        "game_options_ta": [
+          "இறுவரை",
+          "பகல்வெல்லும்",
+          "கூகையைக்",
+          "காக்கை"
+        ],
+        "game_options_en": [
+          "Bear with hostiles when you meet them Fell down their head in fateful time",
+          "By day the crow defeats the owl Kings need right time their foes to quell",
+          "Well-ordered seasoned act is cord That fortune binds in bon accord",
+          "What is hard for him who acts With proper means and time and tacts?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "காலமறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 488, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகைவர்க்கு அழிவுகாலம் வரும்வரை அவரைக் கண்டால் பணிக; அழிவுகாலம் வரும்போது தடை இன்றி அழிந்தபோவர். கலைஞர் உரை கூறுவது: பகைவர்க்கு முடிவு ஏற்பட்டு அவர்கள் தாமாகவே தலைகீழாகக் கவிழ்ந்திடும் உரிய நேரம் வரும் வரையில் தங்களின் பகையுணர்வைப் பொறுமையுடன் தாங்கிக் கொள்ள வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the fitting Time (Royalty & Polity), Kural 488 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If one meets his enemy, let him show him all respect, until the time for his destruction is come; when that is come, his head will be easily brought low. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'காலமறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the fitting Time' thoughtfully.",
+        "quiz_question_ta": "'காலமறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 488 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 488 from Chapter 'Knowing the fitting Time'?",
+        "quiz_options_ta": [
+          "பகைவரைக் கண்டால் பொறுத்துச் செல்லவேண்டும், அப் பகைவர்க்கு முடிவுகாலம் வந்த போது அவருடைய தலை கீழே விழும்.",
+          "நாள் தோறும் விடாமல் வரும் வறுமை அறிவைக் கொல்வது போல, ஒருவனுடைய புகழை அவனுடைய மறதிக் கொன்று விடும்.",
+          "ஒருவனுடைய கண்ணுக்கு அணிகலமாவது கண்ணோட்டம் என்னும் பண்பே, அஃது இல்லையானால் புண் என்று உணரப்படும்.",
+          "நன்மை விளைவிக்கும் ஊழ் இல்லாதிருத்தல் யார்க்கும் பழி அன்று, அறிய வேண்டியவற்றை அறிந்து முயற்சி செய்யாதிருத்தலே பழி."
+        ],
+        "quiz_options_en": [
+          "Bear with hostiles when you meet them Fell down their head in fateful time",
+          "Negligence kills renown just as Ceaseless want wisdom destroys",
+          "Kind looks are jewels for eyes to wear Without them they are felt as sore",
+          "Misfortune is disgrace to none The shame is nothing learnt or done"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (காலமறிதல்) பகுதியில் குறள் 488 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பகைவரைக் கண்டால் பொறுத்துச் செல்லவேண்டும், அப் பகைவர்க்கு முடிவுகாலம் வந்த போது அவருடைய தலை கீழே விழும். பரிமேலழகர் உரை நுட்பம்: செறுநரைக் காணின் சுமக்க - தாம் வெல்லக்கருதிய அரசர் பகைவருக்கு இறுதிக் காலம் வருந்துணையும் அவரைக் கண்டால் பணிக, இறுவரை காணின் தலை கிழக்கு ஆம் - பணியவே,அக்காலம் வந்திறும் வழி அவர் தகைவின்றி இறுவர். ('பகைமை ஒழியும் வகை மிகவும் தாழ்க' என்பார், 'சுமக்க' என்றும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 49: 'Knowing the fitting Time'), Kural 488 distills a foundational ethical insight: \"If foes' detested form they see, with patience let them bear; When fateful hour at last they spy,- the head lies there\" Philosophically, If one meets his enemy, let him show him all respect, until the time for his destruction is come; when that is come, his head will be easily brought low.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "courage",
+        "truth",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 489,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கிடைத்தற்கறிய காலம் வந்து வாய்க்குமானால், அந்த வாய்ப்பைப் பயன்படுத்திக் கொண்டு அப்போதே செய்தற்கரியச் செயல்களைச் செய்ய வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: If a rare opportunity occurs, while it lasts, let a man do that which is rarely to be accomplished (but for such an opportunity).",
+        "story_title_ta": "காலமறிதல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Knowing the fitting Time — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'காலமறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 489 பற்றிக் கதை சொன்னார். 'அடைவதற்கு அரியதை அடைவதற்கு ஏற்ற காலம் வந்து விட்டால் அப்பொழுதே தான் செய்வதற்கு அரிய செயல்களைச் செய்து கொள்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 49, 'Knowing the fitting Time', centered on Kural 489: If a rare opportunity occurs, while it lasts, let a man do that which is rarely to be accomplished (but for such an opportunity). Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கிடைப்பதற்கு அரிய காலம் வாயக்கும்போது அதைப் பயன்படுத்திக் கொண்டு அப்போதே செயற்கரிய செய்து முடிக்க வேண்டும்.",
+        "moral_en": "Moral: When hardest gain of opportunity at last is won, With promptitude let hardest deed be done.",
+        "game_blank_word_ta": "செயல்",
+        "game_options_ta": [
+          "பகல்வெல்லும்",
+          "செயல்",
+          "கூகையைக்",
+          "காக்கை"
+        ],
+        "game_options_en": [
+          "By day the crow defeats the owl Kings need right time their foes to quell",
+          "When comes the season ripe and rare Dare and do hard things then and there",
+          "Well-ordered seasoned act is cord That fortune binds in bon accord",
+          "What is hard for him who acts With proper means and time and tacts?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "காலமறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 489, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடைவதற்கு அரியதை அடைவதற்கு ஏற்ற காலம் வந்து விட்டால் அப்பொழுதே தான் செய்வதற்கு அரிய செயல்களைச் செய்து கொள்க. கலைஞர் உரை கூறுவது: கிடைப்பதற்கு அரிய காலம் வாயக்கும்போது அதைப் பயன்படுத்திக் கொண்டு அப்போதே செயற்கரிய செய்து முடிக்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the fitting Time (Royalty & Polity), Kural 489 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If a rare opportunity occurs, while it lasts, let a man do that which is rarely to be accomplished (but for such an opportunity). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'காலமறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the fitting Time' thoughtfully.",
+        "quiz_question_ta": "'காலமறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 489 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 489 from Chapter 'Knowing the fitting Time'?",
+        "quiz_options_ta": [
+          "மறதியால் சோர்ந்து நடப்பவர்க்குப் புகழுடன் வாழும் தன்மையில்லை, அஃது உலகத்தில் எப்படிப்பட்டநூலோர்க்கும் ஒப்ப முடிந்த முடிப்பாகும்.",
+          "கிடைத்தற்கறிய காலம் வந்து வாய்க்குமானால், அந்த வாய்ப்பைப் பயன்படுத்திக் கொண்டு அப்போதே செய்தற்கரியச் செயல்களைச் செய்ய வேண்டும்.",
+          "கண்ணோட்டதிற்க்கு உரிய கண்ணோடுப் பொருந்தி இருந்தும் கண்ணோட்டம் இல்லாதவர் (கண் இருந்தும் காணாத ) மரத்தினைப் போன்றவர்.",
+          "ஊழியின் காரணத்தால் ஒரு செயல் செய்ய முடியாமல் போகுமாயினும், முயற்சி தன் உடம்பு வருந்திய வருத்தத்தின் கூலியையாவது கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "Forgetful nature fails of fame All schools of thinkers say the same",
+          "When comes the season ripe and rare Dare and do hard things then and there",
+          "Like trees on inert earth they grow Who don't eye to eye kindness show",
+          "Though fate is against fulfilment Hard labour has ready payment"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (காலமறிதல்) பகுதியில் குறள் 489 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கிடைத்தற்கறிய காலம் வந்து வாய்க்குமானால், அந்த வாய்ப்பைப் பயன்படுத்திக் கொண்டு அப்போதே செய்தற்கரியச் செயல்களைச் செய்ய வேண்டும். பரிமேலழகர் உரை நுட்பம்: எய்தற்கு அரியது இயைந்தக்கால் - பகையை வெல்லக்கருதும் அரசர்,தம்மால் எய்துதற்கு அரிய காலம் வந்து கூடியக்கால், அந் நிலையே செய்தற்கு அரிய செயல் - அது கழிவதற்கு முன்பே அது கூடாவழித் தம்மாற்செய்தற்கு அரிய வினைகளைச் செய்க. (ஆற்றல் முதலியவற்றால் செய்து...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 49: 'Knowing the fitting Time'), Kural 489 distills a foundational ethical insight: \"When hardest gain of opportunity at last is won, With promptitude let hardest deed be done\" Philosophically, If a rare opportunity occurs, while it lasts, let a man do that which is rarely to be accomplished (but for such an opportunity).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "family",
+        "speech",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 490,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பொறுத்திருக்கும் காலத்தில் கொக்குப் போல் அமைதியாக இருக்க வேண்டும், காலம் வாய்த்த போது அதன் குத்து போல் தவறாமல் செய்து முடிக்க வேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: At the time when one should use self-control, let him restrain himself like a heron; and, let him like it, strike, when there is a favourable opportunity.",
+        "story_title_ta": "காலமறிதல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Knowing the fitting Time — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'காலமறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 490 பற்றிக் கதை சொன்னார். 'ஒடுங்கி இருக்க வேண்டிய நேரத்தில் கொக்கைப் போல் ஒடுங்கிக் காத்து இரு. செயற்படும் நேரம் வந்தபோது கொக்கு தவறாமல் தன் இரையைக் குத்திப் பிடிப்பதுபோல் பிழையின்றிச் செய்து முடி.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 49, 'Knowing the fitting Time', centered on Kural 490: At the time when one should use self-control, let him restrain himself like a heron; and, let him like it, strike, when there is a favourable opportunity. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: காலம் கைகூடும் வரையில் கொக்குபோல் பொறுமையாகக் காத்திருக்கவேண்டும் காலம் வாய்ப்பாகக் கிடைத்ததும் அது குறி தவறாமல் குத்துவது போல் செய்து முடிக்க வேண்டும்.",
+        "moral_en": "Moral: As heron stands with folded wing, so wait in waiting hour; As heron snaps its prey, when fortune smiles, put forth your power.",
+        "game_blank_word_ta": "கொக்கொக்க",
+        "game_options_ta": [
+          "பகல்வெல்லும்",
+          "கூகையைக்",
+          "கொக்கொக்க",
+          "காக்கை"
+        ],
+        "game_options_en": [
+          "By day the crow defeats the owl Kings need right time their foes to quell",
+          "Well-ordered seasoned act is cord That fortune binds in bon accord",
+          "In waiting time feign peace like stork In fighting time strike like its peck",
+          "What is hard for him who acts With proper means and time and tacts?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "காலமறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 490, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒடுங்கி இருக்க வேண்டிய நேரத்தில் கொக்கைப் போல் ஒடுங்கிக் காத்து இரு. செயற்படும் நேரம் வந்தபோது கொக்கு தவறாமல் தன் இரையைக் குத்திப் பிடிப்பதுபோல் பிழையின்றிச் செய்து முடி. கலைஞர் உரை கூறுவது: காலம் கைகூடும் வரையில் கொக்குபோல் பொறுமையாகக் காத்திருக்கவேண்டும் காலம் வாய்ப்பாகக் கிடைத்ததும் அது குறி தவறாமல் குத்துவது போல் செய்து முடிக்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the fitting Time (Royalty & Polity), Kural 490 speaks directly to teens navigating studies, friendships, leadership, and digital choices: At the time when one should use self-control, let him restrain himself like a heron; and, let him like it, strike, when there is a favourable opportunity. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'காலமறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the fitting Time' thoughtfully.",
+        "quiz_question_ta": "'காலமறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 490 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 490 from Chapter 'Knowing the fitting Time'?",
+        "quiz_options_ta": [
+          "உள்ளத்தில் அச்சம் உடையவர்க்குப் புறத்திலே அரண் இருந்து பயன் இல்லை, அதுபோல் மறதி உடையவர்க்கு நல்ல நிலை வாய்த்தும் பயன் இல்லை.",
+          "கண்ணோட்டம் இல்லாத மக்கள் கண் இல்லாதவரே ஆவர், கண் உடைய மக்கள் கண்ணோட்டம் இல்லா திருத்தலும் இல்லை.",
+          "பொறுத்திருக்கும் காலத்தில் கொக்குப் போல் அமைதியாக இருக்க வேண்டும், காலம் வாய்த்த போது அதன் குத்து போல் தவறாமல் செய்து முடிக்க வேண்டும்.",
+          "சோர்வு இல்லாமல் முயற்சியில் குறைவு இல்லாமல் முயல்கின்றவர்,(செயலுக்கு இடையூறாக வரும்)ஊழையும் ஒரு காலத்தில் தோல்வியுறச் செய்யும்."
+        ],
+        "quiz_options_en": [
+          "The fearful find no fortress here The forgetful find good never",
+          "Ungracious men lack real eyes Men of real eyes show benign grace",
+          "In waiting time feign peace like stork In fighting time strike like its peck",
+          "Tireless Toiler's striving hand Shall leave even the fate behind"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (காலமறிதல்) பகுதியில் குறள் 490 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொறுத்திருக்கும் காலத்தில் கொக்குப் போல் அமைதியாக இருக்க வேண்டும், காலம் வாய்த்த போது அதன் குத்து போல் தவறாமல் செய்து முடிக்க வேண்டும். பரிமேலழகர் உரை நுட்பம்: கூம்பும் பருவத்துக் கொக்கு ஒக்க - வினைமேற்செல்லாதிருக்கும் காலத்துக் கொக்கு இருக்குமாறு போல இருக்க, மற்றுச் சீர்த்த இடத்து அதன் குத்து ஒக்க -மற்றைச் செல்லும் காலம் வாய்த்தவழி, அது செய்து முடிக்குமாறு போலத் தப்பாமல் செய்து முடிக்க. (மீன் கோடற்கு இருக்கும்வழி...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 49: 'Knowing the fitting Time'), Kural 490 distills a foundational ethical insight: \"As heron stands with folded wing, so wait in waiting hour; As heron snaps its prey, when fortune smiles, put forth your power\" Philosophically, At the time when one should use self-control, let him restrain himself like a heron; and, let him like it, strike, when there is a favourable opportunity.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "harmony",
+        "speech",
+        "self-mastery"
+      ]
+    }
+  ]
+}

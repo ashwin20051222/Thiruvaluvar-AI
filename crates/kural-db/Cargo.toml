@@ -1,0 +1,52 @@
+[package]
+name = "kural-db"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+
+[features]
+default = ["cli"]
+cli = ["dep:anyhow", "dep:clap"]
+fetcher = ["dep:reqwest", "dep:tokio"]
+test-fallback = []
+
+[dependencies]
+anyhow = { workspace = true, optional = true }
+chrono.workspace = true
+clap = { workspace = true, optional = true }
+kural-core = { path = "../kural-core" }
+model2vec-rs.workspace = true
+reqwest = { workspace = true, optional = true }
+rusqlite.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+strsim.workspace = true
+thiserror.workspace = true
+tokio = { workspace = true, features = ["rt-multi-thread", "macros", "time"], optional = true }
+
+[dev-dependencies]
+tempfile.workspace = true
+
+[[bin]]
+name = "seed_db"
+path = "src/bin/seed_db.rs"
+required-features = ["cli"]
+
+[[bin]]
+name = "kural_cli"
+path = "src/bin/kural_cli.rs"
+required-features = ["cli"]
+
+[[bin]]
+name = "index_embeddings"
+path = "src/bin/index_embeddings.rs"
+required-features = ["cli"]
+
+[[bin]]
+name = "fetch_canonical"
+path = "src/bin/fetch_canonical.rs"
+required-features = ["cli", "fetcher"]
+
+[lints]
+workspace = true

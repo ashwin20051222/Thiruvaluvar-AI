@@ -1,0 +1,581 @@
+{
+  "adhikaram_id": 31,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.726128917+00:00",
+  "kurals": [
+    {
+      "kural_number": 301,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பலிக்கும் இடத்தில் சினம் வராமல் காப்பவனே சினம் காப்பவன், பலிக்காத இடத்தில் காத்தால் என்ன, காக்கா விட்டால் என்ன?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: He restrains his anger who restrains it when it can injure; when it cannot injure, what does it matter whether he restrain it, or not ?",
+        "story_title_ta": "வெகுளாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Restraining Anger — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வெகுளாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 301 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எங்கே தன் கோபம் பலிக்குமோ அங்கே கோபம் கொள்ளாதவனே உண்மையாகவே கோபம் கொள்ளாதவன்; பலிக்காத இடத்தில் கோபத்தைத் தடுத்து என்ன? தடுக்காமல் விட்டுத்தான் என்ன?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Restraining Anger'. Grandpa shared Kural 301 and explained in simple words: He restrains his anger who restrains it when it can injure; when it cannot injure, what does it matter whether he restrain it, or not ? The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தன் சினம் பலிதமாகுமிடத்தில் சினம் கொள்ளாமல் இருப்பவனே சினங்காப்பவன்; பலிக்காத இடத்தில் சினத்தைக் காத்தால் என்ன? காக்காவிட்டால் என்ன?",
+        "moral_en": "Moral: Where thou hast power thy angry will to work, thy wrath restrain; Where power is none, what matter if thou check or give it rein.",
+        "game_blank_word_ta": "காப்பான்",
+        "game_options_ta": [
+          "செல்லா",
+          "காப்பான்",
+          "இடத்துச்",
+          "சினந்தீது"
+        ],
+        "game_options_en": [
+          "Vain is wrath against men of force Against the meek it is still worse",
+          "Anger against the weak is wrong It is futile against the strong",
+          "Off with wrath with any one It is the source of sin and pain",
+          "Is there a foe like harmful ire Which kills the smile and joyful cheer?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெகுளாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 301, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எங்கே தன் கோபம் பலிக்குமோ அங்கே கோபம் கொள்ளாதவனே உண்மையாகவே கோபம் கொள்ளாதவன்; பலிக்காத இடத்தில் கோபத்தைத் தடுத்து என்ன? தடுக்காமல் விட்டுத்தான் என்ன? கலைஞர் உரை கூறுவது: தன் சினம் பலிதமாகுமிடத்தில் சினம் கொள்ளாமல் இருப்பவனே சினங்காப்பவன்; பலிக்காத இடத்தில் சினத்தைக் காத்தால் என்ன? காக்காவிட்டால் என்ன? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Restraining Anger (Ascetic Virtue), Kural 301 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He restrains his anger who restrains it when it can injure; when it cannot injure, what does it matter whether he restrain it, or not ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வெகுளாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Restraining Anger' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வெகுளாமை' அதிகாரத்தில் வரும் திருக்குறள் 301 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 301 from Chapter 'Restraining Anger'?",
+        "quiz_options_ta": [
+          "பிறவித் துன்பத்தைப் போக்க முயல்கின்றவர்க்கு உடம்பும் மிகையான பொருள் ஆகையால் அதற்கு மேல் வேறு தொடர்பு கொள்வது ஏனோ.",
+          "பலிக்கும் இடத்தில் சினம் வராமல் காப்பவனே சினம் காப்பவன், பலிக்காத இடத்தில் காத்தால் என்ன, காக்கா விட்டால் என்ன?",
+          "நீதி முறை செய்து குடிமக்களைக் காப்பாற்றும் மன்னவன், மக்களுக்கு தலைவன் என்றுக் கருதித் தனியே மதிக்கப்படுவான்.",
+          "செருக்கும் சினமும் காமமும் ஆகிய இந்தக் குற்றங்கள் இல்லாதவனுடைய வாழ்வில் காணும் பெருக்கம் மேம்பாடு உடையதாகும்."
+        ],
+        "quiz_options_en": [
+          "Why add to bonds while this body Is too much for saints to be birth-free",
+          "Anger against the weak is wrong It is futile against the strong",
+          "He is the Lord of men who does Sound justice and saves his race",
+          "Plenty is their prosperity Who're free from wrath pride lust petty"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வெகுளாமை) பகுதியில் குறள் 301 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பலிக்கும் இடத்தில் சினம் வராமல் காப்பவனே சினம் காப்பவன், பலிக்காத இடத்தில் காத்தால் என்ன, காக்கா விட்டால் என்ன? பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, சினத்தைச் செய்தற்குக் காரணம் ஒருவன் மாட்டு உளதாய இடத்தும் அதனைச் செய்யாமை. இது பொய்ம்மைபற்றி நிகழ்வதாய வெகுளியை விலக்கலின், வாய்மையின் பின் வைக்கப்பட்டது.) சினம் செல் இடத்துக் காப்பான் காப்பான்-தன் சினம் பலிக்குமிடத்து அதனை எழாமல் தடுப்பானே அருளால...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 31: 'Restraining Anger'), Kural 301 distills a foundational ethical insight: \"Where thou hast power thy angry will to work, thy wrath restrain; Where power is none, what matter if thou check or give it rein\" Philosophically, He restrains his anger who restrains it when it can injure; when it cannot injure, what does it matter whether he restrain it, or not ?",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "truth",
+        "kindness",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 302,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பலிக்காத இடத்தில் (தன்னை விட வலியவரிடத்தில்) சினம் கொள்வது தீங்கு. பலிக்கும் இடத்திலும் (மெலியவரித்திலும்) சினத்தைவிடத் தீயவை வேறு இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Anger is bad, even when it cannot injure; when it can injure; there is no greater evil.",
+        "story_title_ta": "வெகுளாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Restraining Anger — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வெகுளாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 302 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பலிக்காத இடத்தில் கோபம் கொள்வது நமக்கே தீமை; பலிக்கும் இடத்தில் கோபம் கொண்டாலும் அதை விடத் தீமை வேறு இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Restraining Anger'. Grandpa shared Kural 302 and explained in simple words: Anger is bad, even when it cannot injure; when it can injure; there is no greater evil. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வலியோரிடம் சினம் கொண்டால், அதனால் கேடு விளையும் மெலியோரிடம் சினம் கொண்டாலும் அதைவிடக் கேடு வேறொன்றுமில்லை.",
+        "moral_en": "Moral: Where power is none to wreak thy wrath, wrath importent is ill; Where thou hast power thy will to work, 'tis greater, evil still.",
+        "game_blank_word_ta": "சினந்தீது",
+        "game_options_ta": [
+          "செல்லிடத்துக்",
+          "காப்பான்",
+          "சினந்தீது",
+          "சினங்காப்பான்"
+        ],
+        "game_options_en": [
+          "Anger against the weak is wrong It is futile against the strong",
+          "Off with wrath with any one It is the source of sin and pain",
+          "Vain is wrath against men of force Against the meek it is still worse",
+          "Is there a foe like harmful ire Which kills the smile and joyful cheer?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெகுளாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 302, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பலிக்காத இடத்தில் கோபம் கொள்வது நமக்கே தீமை; பலிக்கும் இடத்தில் கோபம் கொண்டாலும் அதை விடத் தீமை வேறு இல்லை. கலைஞர் உரை கூறுவது: வலியோரிடம் சினம் கொண்டால், அதனால் கேடு விளையும் மெலியோரிடம் சினம் கொண்டாலும் அதைவிடக் கேடு வேறொன்றுமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Restraining Anger (Ascetic Virtue), Kural 302 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Anger is bad, even when it cannot injure; when it can injure; there is no greater evil. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வெகுளாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Restraining Anger' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வெகுளாமை' அதிகாரத்தில் வரும் திருக்குறள் 302 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 302 from Chapter 'Restraining Anger'?",
+        "quiz_options_ta": [
+          "உடம்பை யான் எனக் கருதலும் தொடர்பு இல்லாத பொருளை எனது எனக்கருதலுமாகிய மயக்கத்தை போக்குகின்றவன், தேவர்க்கும் எட்டாத உயர்ந்த நிலை அடைவான்.",
+          "குறைகூறுவோறின் சொற்களைக் செவிகைக்கும் நிலையிலும் பொறுக்கின்ற பண்பும் உடைய அரசனது குடைநிழலில் உலகம் தங்கும்.",
+          "பலிக்காத இடத்தில் (தன்னை விட வலியவரிடத்தில்) சினம் கொள்வது தீங்கு. பலிக்கும் இடத்திலும் (மெலியவரித்திலும்) சினத்தைவிடத் தீயவை வேறு இல்லை.",
+          "பொருள் கொடாத தன்மையும் மாட்சியில்லாத மானமும், தகுதியற்ற மகிழ்ச்சியும் தலைவனாக இருப்பனுக்கு குற்றங்களாகும்."
+        ],
+        "quiz_options_en": [
+          "Who curbs the pride of I and mine Gets a world rare for gods to gain",
+          "Under his shelter thrives the world Who bears remarks bitter and bold",
+          "Vain is wrath against men of force Against the meek it is still worse",
+          "Mean pride, low pleasure, avarice These add blemishes to a prince"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வெகுளாமை) பகுதியில் குறள் 302 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பலிக்காத இடத்தில் (தன்னை விட வலியவரிடத்தில்) சினம் கொள்வது தீங்கு. பலிக்கும் இடத்திலும் (மெலியவரித்திலும்) சினத்தைவிடத் தீயவை வேறு இல்லை. பரிமேலழகர் உரை நுட்பம்: சினம் செல்லா இடத்துத் தீது - ஒருவன் வெகுளி தன்னின் வலியார்மேல் எழின் 'தனக்கே தீதாம்'; செல் இடத்தும் அதனின் தீய பிற இல் - மற்றை எளியோர் மேல் எழினும் அதனின் தீயன பிற இல்லை (செல்லா 'இடத்துச் சினம் பயப்பது' 'இம்மைக்கண் அவரான் வரும் ஏதமே. ஏனையது 'இம்மைக்கண...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 31: 'Restraining Anger'), Kural 302 distills a foundational ethical insight: \"Where power is none to wreak thy wrath, wrath importent is ill; Where thou hast power thy will to work, 'tis greater, evil still\" Philosophically, Anger is bad, even when it cannot injure; when it can injure; there is no greater evil.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "humility",
+        "perseverance",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 303,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: யாரிடத்திலும் சினம் கொள்ளாமல் அதை மறந்து விட வேண்டும், தீமையான விளைவுகள் அச் சினத்தாலேயே ஏற்படும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Forget anger towards every one, as fountains of evil spring from it.",
+        "story_title_ta": "வெகுளாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Restraining Anger — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வெகுளாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 303 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தீமை வருவது எல்லாம் கோபத்தால்தான்; அதனால் எவரிடமானாலும் சரி, கோபம் கொள்வதை விட்டுவிடுக.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Restraining Anger'. Grandpa shared Kural 303 and explained in simple words: Forget anger towards every one, as fountains of evil spring from it. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: யார்மீது சினம் கொண்டாலும் அதை மறந்துவிட வேண்டும் இல்லாவிட்டால் அந்தச் சினமே தீய விளைவுகளுக்குக் காரணமாகும்.",
+        "moral_en": "Moral: If any rouse thy wrath, the trespass straight forget; For wrath an endless train of evils will beget.",
+        "game_blank_word_ta": "பிறத்தல்",
+        "game_options_ta": [
+          "செல்லிடத்துக்",
+          "காப்பான்",
+          "சினங்காப்பான்",
+          "பிறத்தல்"
+        ],
+        "game_options_en": [
+          "Anger against the weak is wrong It is futile against the strong",
+          "Vain is wrath against men of force Against the meek it is still worse",
+          "Is there a foe like harmful ire Which kills the smile and joyful cheer?",
+          "Off with wrath with any one It is the source of sin and pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெகுளாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 303, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தீமை வருவது எல்லாம் கோபத்தால்தான்; அதனால் எவரிடமானாலும் சரி, கோபம் கொள்வதை விட்டுவிடுக. கலைஞர் உரை கூறுவது: யார்மீது சினம் கொண்டாலும் அதை மறந்துவிட வேண்டும் இல்லாவிட்டால் அந்தச் சினமே தீய விளைவுகளுக்குக் காரணமாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Restraining Anger (Ascetic Virtue), Kural 303 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Forget anger towards every one, as fountains of evil spring from it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வெகுளாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Restraining Anger' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வெகுளாமை' அதிகாரத்தில் வரும் திருக்குறள் 303 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 303 from Chapter 'Restraining Anger'?",
+        "quiz_options_ta": [
+          "யான் எனது என்னும் இருவகைப் பற்றுக்களையும் பற்றிக் கொண்டுவிடாத வரை, துன்பங்களும் விடாமல் பற்றிக்கொள்கின்றன.",
+          "கொடை, அருள், செங்கோல்முறை, தளர்ந்த குடிமக்களைக்காத்தல் ஆகிய நான்கும் உடைய அரசன், அரசர்க்கெல்லாம் விளக்குப் போன்றவன்.",
+          "பழி நாணுகின்ற பெருமக்கள் தினையளவாகிய சிறு குற்றம் நேர்ந்தாலும் அதை பனையளவாகக் கருதிக் (குற்றம் செய்யாமல்) காத்துக் கொள்வர்.",
+          "யாரிடத்திலும் சினம் கொள்ளாமல் அதை மறந்து விட வேண்டும், தீமையான விளைவுகள் அச் சினத்தாலேயே ஏற்படும்."
+        ],
+        "quiz_options_en": [
+          "Grief clings on and on to those Who cling to bonds without release",
+          "He is the Light of Kings who has Bounty, justice, care and grace",
+          "Though millet-small their faults might seem Men fearing disgrace, Palm-tall deem",
+          "Off with wrath with any one It is the source of sin and pain"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வெகுளாமை) பகுதியில் குறள் 303 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யாரிடத்திலும் சினம் கொள்ளாமல் அதை மறந்து விட வேண்டும், தீமையான விளைவுகள் அச் சினத்தாலேயே ஏற்படும். பரிமேலழகர் உரை நுட்பம்: யார் மாட்டும் வெகுளியை மறத்தல் - யாவர்மாட்டும் வெகுளியை 'ஒழிக', தீய பிறத்தல் 'அதனான் வரும்' - ஒருவற்குத் தீயன எல்லாம் உளவாதல் அதனான் வரும் ஆகலான். (வலியார், ஒப்பார், எளியார் என்னும் மூவர் மாட்டும் ஆகாமையின் 'யார்மாட்டும்' என்றும், மனத்தால் துறந்தார்க்கு...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 31: 'Restraining Anger'), Kural 303 distills a foundational ethical insight: \"If any rouse thy wrath, the trespass straight forget; For wrath an endless train of evils will beget\" Philosophically, Forget anger towards every one, as fountains of evil spring from it.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 304,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: முகமலர்ச்சியும் அகமலர்ச்சியும் கொல்லுகின்ற சினத்தை விட ஒருவனுக்கு பகையானவை வேறு உள்ளனவோ?",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: What other foe to man works such annoy?",
+        "story_title_ta": "வெகுளாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Restraining Anger — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வெகுளாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 304 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'முகத்தில் சிரிப்பையும், மனத்துள் மகிழ்ச்சியையும் கொன்றுவிடும் கோபத்தை விட வேறு பகையும் உண்டோ?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Restraining Anger'. Grandpa shared Kural 304 and explained in simple words: What other foe to man works such annoy? The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: சினம் கொள்கிறவர்களுக்கு முகமலர்ச்சி மாத்திரமின்றி மனமகிழ்ச்சியும் மறைந்து போய் விடும்.",
+        "moral_en": "Moral: Wrath robs the face of smiles, the heart of joy, What other foe to man works such annoy.",
+        "game_blank_word_ta": "பகையும்",
+        "game_options_ta": [
+          "பகையும்",
+          "செல்லிடத்துக்",
+          "காப்பான்",
+          "சினங்காப்பான்"
+        ],
+        "game_options_en": [
+          "Is there a foe like harmful ire Which kills the smile and joyful cheer?",
+          "Anger against the weak is wrong It is futile against the strong",
+          "Vain is wrath against men of force Against the meek it is still worse",
+          "Off with wrath with any one It is the source of sin and pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெகுளாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 304, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முகத்தில் சிரிப்பையும், மனத்துள் மகிழ்ச்சியையும் கொன்றுவிடும் கோபத்தை விட வேறு பகையும் உண்டோ? கலைஞர் உரை கூறுவது: சினம் கொள்கிறவர்களுக்கு முகமலர்ச்சி மாத்திரமின்றி மனமகிழ்ச்சியும் மறைந்து போய் விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Restraining Anger (Ascetic Virtue), Kural 304 speaks directly to teens navigating studies, friendships, leadership, and digital choices: What other foe to man works such annoy? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வெகுளாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Restraining Anger' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வெகுளாமை' அதிகாரத்தில் வரும் திருக்குறள் 304 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 304 from Chapter 'Restraining Anger'?",
+        "quiz_options_ta": [
+          "முகமலர்ச்சியும் அகமலர்ச்சியும் கொல்லுகின்ற சினத்தை விட ஒருவனுக்கு பகையானவை வேறு உள்ளனவோ?",
+          "முற்றத் துறந்தவறே உயர்ந்த நிலையினர் ஆவர், அவ்வாறு துறக்காத மற்றவர் அறியாமையாகிய வலையில் அகப்பட்டவர் ஆவர்.",
+          "கல்வி கற்க நல்ல நூல்களைக் குற்றமறக் கற்க வேண்டும், அவ்வாறு கற்ற பிறகு, கற்ற கல்விக்கு தக்கவாறு நெறியில் நிற்க வேண்டும்.",
+          "குற்றமே ஒருவனுக்கு அழிவை உண்டாக்கும் பகையாகும், ஆகையால் குற்றம் செய்யாமல் இருப்பதே நோக்கமாகக் கொண்டு காத்துக் கொள்ள வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Is there a foe like harmful ire Which kills the smile and joyful cheer?",
+          "Who renounce all are free from care Others suffer delusive snare",
+          "Lore worth learning, learn flawlessly Live by that learning thoroughly",
+          "Watch like treasure freedom from fault Our fatal foe is that default"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வெகுளாமை) பகுதியில் குறள் 304 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முகமலர்ச்சியும் அகமலர்ச்சியும் கொல்லுகின்ற சினத்தை விட ஒருவனுக்கு பகையானவை வேறு உள்ளனவோ? பரிமேலழகர் உரை நுட்பம்: நகையும் உவகையும் கொல்லும் சினத்தின் - துறந்தார்க்கு அருளான் உளவாய முகத்தின்கண் நகையையும் மனத்தின் கண் உவகையையும் கொன்று கொண்டெழுகின்ற சினமே அல்லாது, பிற பகையும் உளவோ - அதனின் பிறவாய பகைகளும் உளவோ? இல்லை. (துறவால் புறப்பகை இலராயினும் உட்பகையாய் நின்று அருள...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 31: 'Restraining Anger'), Kural 304 distills a foundational ethical insight: \"Wrath robs the face of smiles, the heart of joy, What other foe to man works such annoy\" Philosophically, What other foe to man works such annoy?",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "courage",
+        "self-mastery",
+        "kindness",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 305,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவன் தன்னைத்தான் காத்துக் கொள்வதானால் சினம் வராமல் காத்துக் கொள்ள வேண்டும், காக்கா விட்டால் சினம் தன்னையே அழித்து விடும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: If a man would guard himself, let him guard against anger; if he do not guard it, anger will kill him.",
+        "story_title_ta": "வெகுளாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Restraining Anger — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வெகுளாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 305 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தனக்குத் துன்பம் வராமல் காக்க விரும்பினால் கோபம் கொள்ளாமல் காக்கவும், காக்க முடியாது போனால் உடையவரையே சினம் கொல்லும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Restraining Anger'. Grandpa shared Kural 305 and explained in simple words: If a man would guard himself, let him guard against anger; if he do not guard it, anger will kill him. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவன் தன்னைத்தானே காத்துக் கொள்ள வேண்டுமானால், சினத்தைக் கைவிட வேண்டும் இல்லையேல் சினம், அவனை அழித்துவிடும்.",
+        "moral_en": "Moral: If thou would'st guard thyself, guard against wrath alway;'Gainst wrath who guards not, him his wrath shall slay.",
+        "game_blank_word_ta": "தன்னையே",
+        "game_options_ta": [
+          "செல்லிடத்துக்",
+          "தன்னையே",
+          "காப்பான்",
+          "சினங்காப்பான்"
+        ],
+        "game_options_en": [
+          "Anger against the weak is wrong It is futile against the strong",
+          "Thyself to save, from wrath away! If not thyself the wrath will slay",
+          "Vain is wrath against men of force Against the meek it is still worse",
+          "Off with wrath with any one It is the source of sin and pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெகுளாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 305, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தனக்குத் துன்பம் வராமல் காக்க விரும்பினால் கோபம் கொள்ளாமல் காக்கவும், காக்க முடியாது போனால் உடையவரையே சினம் கொல்லும். கலைஞர் உரை கூறுவது: ஒருவன் தன்னைத்தானே காத்துக் கொள்ள வேண்டுமானால், சினத்தைக் கைவிட வேண்டும் இல்லையேல் சினம், அவனை அழித்துவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Restraining Anger (Ascetic Virtue), Kural 305 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If a man would guard himself, let him guard against anger; if he do not guard it, anger will kill him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வெகுளாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Restraining Anger' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வெகுளாமை' அதிகாரத்தில் வரும் திருக்குறள் 305 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 305 from Chapter 'Restraining Anger'?",
+        "quiz_options_ta": [
+          "இருவகைப் பற்றும் அற்றபொழுதே அந்நிலை பிறவித் துன்பத்தை ஒழிக்கும், இல்லையானால் (பிறவித்துன்பம் மாறி மாறி வந்து) நிலையாமைக் காணப்படும்.",
+          "ஒருவன் தன்னைத்தான் காத்துக் கொள்வதானால் சினம் வராமல் காத்துக் கொள்ள வேண்டும், காக்கா விட்டால் சினம் தன்னையே அழித்து விடும்.",
+          "எண் என்று சொல்லப்படுவன எழுத்து என்று சொல்லப்படுவன ஆகிய இரு வகைக் கலைகளையும் வாழும் மக்களுக்குக் கண்கள் என்று கூறுவர்.",
+          "குற்றம் நேர்வதற்கு முன்னமே வராமல் காத்துக் கொள்ளாதவனுடைய வாழ்க்கை, நெருப்பின் முன் நின்ற வைக்கோல் போர் போல் அழிந்துவிடும்."
+        ],
+        "quiz_options_en": [
+          "Bondage cut off, rebirth is off The world then seems instable stuff",
+          "Thyself to save, from wrath away! If not thyself the wrath will slay",
+          "Letter, number, art and science Of living kind both are the eyes",
+          "Who fails to guard himself from flaw Loses his life like flame-lit straw"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வெகுளாமை) பகுதியில் குறள் 305 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் தன்னைத்தான் காத்துக் கொள்வதானால் சினம் வராமல் காத்துக் கொள்ள வேண்டும், காக்கா விட்டால் சினம் தன்னையே அழித்து விடும். பரிமேலழகர் உரை நுட்பம்: தன்னைத்தான் காக்கின் சினம் காக்க - தன்னைத்தான் துன்பம் எய்தாமல் காக்க நினைத்தானாயின் தன் மனத்துச்சினம் வராமல் காக்க, காவாக்கால் சினம் தன்னையே கொல்லும் - காவானாயின், அச்சினம் தன்னையே கெடுக்கும் கடுந்துன்பங்களை எய்துவிக்கும். ('வேண்டிய வேண்டியாங்கு எய்தல...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 31: 'Restraining Anger'), Kural 305 distills a foundational ethical insight: \"If thou would'st guard thyself, guard against wrath alway;'Gainst wrath who guards not, him his wrath shall slay\" Philosophically, If a man would guard himself, let him guard against anger; if he do not guard it, anger will kill him.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 306,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: சினம் என்னும் சேர்ந்தவரை அழிக்கும் நெருப்பு ஒருவனுக்கு இனம் இன்பத் தெப்பத்தையும் சுட்டழிக்கும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The fire of anger will burn up even the pleasant raft of friendship.",
+        "story_title_ta": "வெகுளாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Restraining Anger — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வெகுளாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 306 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'சேர்ந்தவரைக் கொல்லி எனப்படும் கோபம், சேர்ந்தவரை மட்டும் அன்று; சேர்ந்தவர்க்குத் துணையாக இருப்பவரையும் எரித்துவிடும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Restraining Anger'. Grandpa shared Kural 306 and explained in simple words: The fire of anger will burn up even the pleasant raft of friendship. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: சினங்கொண்டவரை அழிக்கக் கூடியதாகச் சினமென்னும் தீயே இருப்பதால், அது அவரை மட்டுமின்றி, அவரைப் பாதுகாக்கும் தோணி போன்ற சுற்றத்தையும் அழித்துவிடும்.",
+        "moral_en": "Moral: Wrath, the fire that slayeth whose draweth near, Will burn the helpful 'raft' of kindred dear.",
+        "game_blank_word_ta": "புணையைச்",
+        "game_options_ta": [
+          "செல்லிடத்துக்",
+          "காப்பான்",
+          "புணையைச்",
+          "சினங்காப்பான்"
+        ],
+        "game_options_en": [
+          "Anger against the weak is wrong It is futile against the strong",
+          "Vain is wrath against men of force Against the meek it is still worse",
+          "Friend-killer is the fatal rage It burns the helpful kinship-barge",
+          "Off with wrath with any one It is the source of sin and pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெகுளாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 306, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சேர்ந்தவரைக் கொல்லி எனப்படும் கோபம், சேர்ந்தவரை மட்டும் அன்று; சேர்ந்தவர்க்குத் துணையாக இருப்பவரையும் எரித்துவிடும். கலைஞர் உரை கூறுவது: சினங்கொண்டவரை அழிக்கக் கூடியதாகச் சினமென்னும் தீயே இருப்பதால், அது அவரை மட்டுமின்றி, அவரைப் பாதுகாக்கும் தோணி போன்ற சுற்றத்தையும் அழித்துவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Restraining Anger (Ascetic Virtue), Kural 306 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The fire of anger will burn up even the pleasant raft of friendship. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வெகுளாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Restraining Anger' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வெகுளாமை' அதிகாரத்தில் வரும் திருக்குறள் 306 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 306 from Chapter 'Restraining Anger'?",
+        "quiz_options_ta": [
+          "பற்றில்லாதவனாகிய கடவுளுடைய பற்றை மட்டும் பற்றிக் கொள்ள வேண்டும், உள்ள பற்றுக்களை விட்டொழிப்பதற்கே அப் பற்றைப் பற்ற வேண்டும்.",
+          "கண்ணுடையவர் என்றுக் கூறப்படுபவர் கற்றவரே, கல்லாதவர் முகத்தில் இரண்டுப் புண் உடையவர் ஆவார்.",
+          "சினம் என்னும் சேர்ந்தவரை அழிக்கும் நெருப்பு ஒருவனுக்கு இனம் இன்பத் தெப்பத்தையும் சுட்டழிக்கும்.",
+          "முன்னே தன் குற்றத்தைக் கண்டு நீக்கி பிறகு பிறருடையக் குற்றத்தை ஆராயவல்லவனானால், தலைவனுக்கு என்ன குற்றமாகும்."
+        ],
+        "quiz_options_en": [
+          "Bind Thyself to the unbound one That binding breaks all bonds anon",
+          "The learned alone have eyes on face The ignorant two sores of disgrace",
+          "Friend-killer is the fatal rage It burns the helpful kinship-barge",
+          "What fault can be the king's who cures First his faults, then scans others"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வெகுளாமை) பகுதியில் குறள் 306 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சினம் என்னும் சேர்ந்தவரை அழிக்கும் நெருப்பு ஒருவனுக்கு இனம் இன்பத் தெப்பத்தையும் சுட்டழிக்கும். பரிமேலழகர் உரை நுட்பம்: சினம் என்னும் சேர்ந்தாரைக் கொல்லி - சினம் என்னும் நெருப்பு; இனம் என்னும் ஏமப் புணையைச் சுடும் - தனக்கு இடமானவரையே யன்றி அவர்க்கு இனமாகிய ஏமப்புணையையும் சுடும். ('சேர்ந்தாரைக் கொல்லி' என்பது ஏதுப் பெயர்: 'தான்சேர்ந்த இடத்தைக் கொல்லும் தொழிலது' என்றவாறு...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 31: 'Restraining Anger'), Kural 306 distills a foundational ethical insight: \"Wrath, the fire that slayeth whose draweth near, Will burn the helpful 'raft' of kindred dear\" Philosophically, The fire of anger will burn up even the pleasant raft of friendship.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "family",
+        "friendship",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 307,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: (தன் வல்லமை புலப்படுத்தச்) சினத்தை பொருளென்று கொண்டவன் அழிதல், நிலத்தை அறைந்தவனுடைய கை தப்பாதது போல் ஆகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Destruction will come upon him who ragards anger as a good thing, as surely as the hand of him who strikes the ground will not fail.",
+        "story_title_ta": "வெகுளாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Restraining Anger — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வெகுளாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 307 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நிலத்தில் அடித்தவன் கை, வேதனையில் இருந்து தப்ப முடியாதது போலக், கோபத்தைக் குணமாகக் கொண்டவனும் வேதனை அனுபவத்திலிருந்து தப்ப முடியாது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Restraining Anger'. Grandpa shared Kural 307 and explained in simple words: Destruction will come upon him who ragards anger as a good thing, as surely as the hand of him who strikes the ground will not fail. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நிலத்தைக் கையால் அறைந்தவனுக்கு அவன் கைதான் வலிக்கும் அது போலத்தான் சினத்தைப் பண்பாகக் கொண்டவன் நிலையும் ஆகும்.",
+        "moral_en": "Moral: The hand that smites the earth unfailing feels the sting; So perish they who nurse their wrath as noble thing.",
+        "game_blank_word_ta": "பொருளென்று",
+        "game_options_ta": [
+          "செல்லிடத்துக்",
+          "காப்பான்",
+          "சினங்காப்பான்",
+          "பொருளென்று"
+        ],
+        "game_options_en": [
+          "Anger against the weak is wrong It is futile against the strong",
+          "Vain is wrath against men of force Against the meek it is still worse",
+          "Off with wrath with any one It is the source of sin and pain",
+          "The wrath-lover to doom is bound Like failless-hand that strikes the ground"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெகுளாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 307, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நிலத்தில் அடித்தவன் கை, வேதனையில் இருந்து தப்ப முடியாதது போலக், கோபத்தைக் குணமாகக் கொண்டவனும் வேதனை அனுபவத்திலிருந்து தப்ப முடியாது. கலைஞர் உரை கூறுவது: நிலத்தைக் கையால் அறைந்தவனுக்கு அவன் கைதான் வலிக்கும் அது போலத்தான் சினத்தைப் பண்பாகக் கொண்டவன் நிலையும் ஆகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Restraining Anger (Ascetic Virtue), Kural 307 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Destruction will come upon him who ragards anger as a good thing, as surely as the hand of him who strikes the ground will not fail. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வெகுளாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Restraining Anger' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வெகுளாமை' அதிகாரத்தில் வரும் திருக்குறள் 307 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 307 from Chapter 'Restraining Anger'?",
+        "quiz_options_ta": [
+          "மெய்ப்பொருள் அல்லாதவைகளை மெய்ப்பொருள் என்று தவறாக உணர்கின்ற மயக்க உணர்வால் சிறப்பில்லாத துன்பப் பிறவி உண்டாகும்.",
+          "மகிழும் படியாகக் கூடிபழகி (இனி இவரை எப்போது காண்போம் என்று ) வருந்தி நினைக்கும் படியாகப் பிரிதல் புலவரின் தொழிலாகும்.",
+          "செய்யத்தக்க நன்மைகளைச் செய்யாமல் பொருளைச் சேர்த்து வைத்திருப்பவனுடைய செல்வம், உய்யுந் தன்மை இல்லாமல் அழியும்.",
+          "(தன் வல்லமை புலப்படுத்தச்) சினத்தை பொருளென்று கொண்டவன் அழிதல், நிலத்தை அறைந்தவனுடைய கை தப்பாதது போல் ஆகும்."
+        ],
+        "quiz_options_en": [
+          "That error entails ignoble birth Which deems vain things as things of worth",
+          "To meet with joy and part with thought Of learned men this is the art",
+          "That miser's wealth shall waste and end Who would not for a good cause spend",
+          "The wrath-lover to doom is bound Like failless-hand that strikes the ground"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வெகுளாமை) பகுதியில் குறள் 307 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (தன் வல்லமை புலப்படுத்தச்) சினத்தை பொருளென்று கொண்டவன் அழிதல், நிலத்தை அறைந்தவனுடைய கை தப்பாதது போல் ஆகும். பரிமேலழகர் உரை நுட்பம்: சினத்தைப் பொருள் என்று கொண்டவன் கேடு - சினத்தைத் தன் ஆற்றல் உணர்த்துவதோர் குணம் என்று தன்கண் கொண்டவன் அவ்வாற்றல் இழத்தல்; நிலத்து அறைந்தான் கை பிழையா தற்று - நிலத்தின்கண் அறைந்த அவன் கை அந்நிலத்தையுறுத்தல் தப்பாதவாறு போலத் தப்பாது. (வைசேடிகர் பொருள், பண்பு...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 31: 'Restraining Anger'), Kural 307 distills a foundational ethical insight: \"The hand that smites the earth unfailing feels the sting; So perish they who nurse their wrath as noble thing\" Philosophically, Destruction will come upon him who ragards anger as a good thing, as surely as the hand of him who strikes the ground will not fail.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 308,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பலச் சுடர்களை உடைய பெரு நெருப்பில் தோய்வது போன்ற துன்பத்தை ஒருவன் செய்த போதிலும் கூடுமானால் அவன் மேல் சினங் கொள்ளாதிருத்தல் நல்லது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Though one commit things against you as painful (to bear) as if a bundle of fire had been thrust upon you, it will be well, to refrain, if possible, from anger.",
+        "story_title_ta": "வெகுளாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Restraining Anger — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வெகுளாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 308 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பல சுடரை உடைய பெருநெருப்பு நம் மீது பட்டது போன்ற தீமையை ஒருவன் நமக்குச் செய்தாலும், நம்மால் கோபம் கொள்ளாதிருக்க முடியுமானால் அது நம் உடலுக்கும் நல்லது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Restraining Anger'. Grandpa shared Kural 308 and explained in simple words: Though one commit things against you as painful (to bear) as if a bundle of fire had been thrust upon you, it will be well, to refrain, if possible, from anger. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தீயினால் சுட்டெரிப்பது போன்ற துன்பங்களை ஒருவன் தொடர்ந்து செய்தாலும் அதற்காக வருந்தி அவன் உறவு கொள்ள வரும் போது சினங்கொள்ளாமல் இருப்பதே நல்லது.",
+        "moral_en": "Moral: Though men should work thee woe, like touch of tongues of fire'Tis well if thou canst save thy soul from burning ire.",
+        "game_blank_word_ta": "இணர்எரி",
+        "game_options_ta": [
+          "இணர்எரி",
+          "செல்லிடத்துக்",
+          "காப்பான்",
+          "சினங்காப்பான்"
+        ],
+        "game_options_en": [
+          "Save thy soul from burning ire Though tortured like the touch of fire",
+          "Anger against the weak is wrong It is futile against the strong",
+          "Vain is wrath against men of force Against the meek it is still worse",
+          "Off with wrath with any one It is the source of sin and pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெகுளாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 308, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பல சுடரை உடைய பெருநெருப்பு நம் மீது பட்டது போன்ற தீமையை ஒருவன் நமக்குச் செய்தாலும், நம்மால் கோபம் கொள்ளாதிருக்க முடியுமானால் அது நம் உடலுக்கும் நல்லது. கலைஞர் உரை கூறுவது: தீயினால் சுட்டெரிப்பது போன்ற துன்பங்களை ஒருவன் தொடர்ந்து செய்தாலும் அதற்காக வருந்தி அவன் உறவு கொள்ள வரும் போது சினங்கொள்ளாமல் இருப்பதே நல்லது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Restraining Anger (Ascetic Virtue), Kural 308 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though one commit things against you as painful (to bear) as if a bundle of fire had been thrust upon you, it will be well, to refrain, if possible, from anger. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வெகுளாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Restraining Anger' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வெகுளாமை' அதிகாரத்தில் வரும் திருக்குறள் 308 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 308 from Chapter 'Restraining Anger'?",
+        "quiz_options_ta": [
+          "பலச் சுடர்களை உடைய பெரு நெருப்பில் தோய்வது போன்ற துன்பத்தை ஒருவன் செய்த போதிலும் கூடுமானால் அவன் மேல் சினங் கொள்ளாதிருத்தல் நல்லது.",
+          "மயக்கம் நீங்கிக் குற்றம் அற்ற மெய்யுணர்வை உடையவர்க்கு, அம் மெய்யுணர்வு அறியாமையை நீக்கி இன்ப நிலையைக்கொடுக்கும்.",
+          "செல்வர் முன் வறியவர் நிற்பது போல் (கற்றவர்முன்) ஏங்கித் தாழ்ந்து நின்றும் கல்விக் கற்றவரே உயர்ந்தவர், கல்லாதவர் இழிந்தவர்.",
+          "பொருளினிடத்தில் பற்றுக் கொள்ளும் உள்ளமாகிய ஈயாத்தன்மை, குற்றம் எதனோடும் சேர்ந்து எண்ணத்தகாத ஒரு தனிக் குற்றமாகும்."
+        ],
+        "quiz_options_en": [
+          "Save thy soul from burning ire Though tortured like the touch of fire",
+          "Men of spotless pure insight Enjoy delight devoid of night",
+          "Like poor before rich they yearn: For knowledge: the low never learn",
+          "The gripping greed of miser's heart Is more than fault the worst apart"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வெகுளாமை) பகுதியில் குறள் 308 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பலச் சுடர்களை உடைய பெரு நெருப்பில் தோய்வது போன்ற துன்பத்தை ஒருவன் செய்த போதிலும் கூடுமானால் அவன் மேல் சினங் கொள்ளாதிருத்தல் நல்லது. பரிமேலழகர் உரை நுட்பம்: இணர் எரி தோய்வு அன்ன இன்னா செயினும் - பல சுடரை உடைத்தாய பேரெரி வந்து தோய்ந்தாலொத்த இன்னாதவற்றை ஒருவன் செய்தானாயினும்; வெகுளாமை புணரின் நன்று - அவனை வெகுளாமை ஒருவற்குக் கூடுமாயின் அது நன்று. (இன்னாமையின் மிகுதி தோன்ற 'இணர் எரி' என்றும், அதனை மேன்மேலும் செய்தல...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 31: 'Restraining Anger'), Kural 308 distills a foundational ethical insight: \"Though men should work thee woe, like touch of tongues of fire'Tis well if thou canst save thy soul from burning ire\" Philosophically, Though one commit things against you as painful (to bear) as if a bundle of fire had been thrust upon you, it will be well, to refrain, if possible, from anger.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "kindness",
+        "speech",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 309,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவன் தன் மனதால் சினத்தை எண்ணாதிருப்பானானால் நினைத்த நன்மைகளை எல்லாம் அவன் ஒருங்கே பெறுவான்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: If a man never indulges anger in his heart, he will at once obtain whatever he has thought of.",
+        "story_title_ta": "வெகுளாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Restraining Anger — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வெகுளாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 309 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உள்ளத்துள் கோபம் கொள்ள ஒருபோதும் எண்ணாதவன், தான் நினைத்ததை எல்லாம் உடனே அடைவான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Restraining Anger'. Grandpa shared Kural 309 and explained in simple words: If a man never indulges anger in his heart, he will at once obtain whatever he has thought of. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உள்ளத்தால் சினங்கொள்ளாதவனாக இருந்தால் எண்ணியவற்றையெல்லாம் உடனடியாகப் பெற முடியும்.",
+        "moral_en": "Moral: If man his soul preserve from wrathful fires, He gains with that whate'er his soul desires.",
+        "game_blank_word_ta": "தெல்லாம்",
+        "game_options_ta": [
+          "செல்லிடத்துக்",
+          "தெல்லாம்",
+          "காப்பான்",
+          "சினங்காப்பான்"
+        ],
+        "game_options_en": [
+          "Anger against the weak is wrong It is futile against the strong",
+          "Wishes he gains as he wishes If man refrains from rage vicious!",
+          "Vain is wrath against men of force Against the meek it is still worse",
+          "Off with wrath with any one It is the source of sin and pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெகுளாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 309, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உள்ளத்துள் கோபம் கொள்ள ஒருபோதும் எண்ணாதவன், தான் நினைத்ததை எல்லாம் உடனே அடைவான். கலைஞர் உரை கூறுவது: உள்ளத்தால் சினங்கொள்ளாதவனாக இருந்தால் எண்ணியவற்றையெல்லாம் உடனடியாகப் பெற முடியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Restraining Anger (Ascetic Virtue), Kural 309 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If a man never indulges anger in his heart, he will at once obtain whatever he has thought of. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வெகுளாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Restraining Anger' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வெகுளாமை' அதிகாரத்தில் வரும் திருக்குறள் 309 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 309 from Chapter 'Restraining Anger'?",
+        "quiz_options_ta": [
+          "ஐயத்திலிருந்து நீங்கி மெய்யுணர்வு பெற்றவர்க்கு அடைந்துள்ள இவ்வுலகை விட அடைய வேண்டிய மேலுலகம் அண்மையில் உள்ளதாகும்.",
+          "ஒருவன் தன் மனதால் சினத்தை எண்ணாதிருப்பானானால் நினைத்த நன்மைகளை எல்லாம் அவன் ஒருங்கே பெறுவான்.",
+          "மணலில் உள்ள கேணியில் தோண்டிய அளவிற்க்கு நீர் ஊறும், அதுபோல் மக்களின் கற்றக் கல்வியின் அளவிற்கு அறிவு ஊறும்.",
+          "எக்காலத்திலும் தன்னை மிக உயர்வாக எண்ணி வியந்து மதிக்கக் கூடாது, நன்மை தராத செயலைத்தான் விரும்பவும் கூடாது."
+        ],
+        "quiz_options_en": [
+          "To doubtless minds whose heart is clear More than earth heaven is near",
+          "Wishes he gains as he wishes If man refrains from rage vicious!",
+          "As deep you dig the sand spring flows As deep you learn the knowledge grows",
+          "Never boast yourself in any mood Nor do a deed that does no good"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வெகுளாமை) பகுதியில் குறள் 309 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் தன் மனதால் சினத்தை எண்ணாதிருப்பானானால் நினைத்த நன்மைகளை எல்லாம் அவன் ஒருங்கே பெறுவான். பரிமேலழகர் உரை நுட்பம்: உள்ளத்தால் வெகுளி உள்ளான் எனின் - தவஞ்செய்யும் அவன், தன் மனத்தால் வெகுளியை ஒருகாலும் நினையானாயின், உள்ளிய எல்லாம் உடன் எய்தும் - தான் கருதிய பேறு எல்லாம் ஒருங்கே பெறும். ( 'உள்ளத்தால்' என வேண்டாது கூறிய அதனான், 'அருளுடை உள்ளம்' என்பது முடிந்தது. உள்ளாமையாவது...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 31: 'Restraining Anger'), Kural 309 distills a foundational ethical insight: \"If man his soul preserve from wrathful fires, He gains with that whate'er his soul desires\" Philosophically, If a man never indulges anger in his heart, he will at once obtain whatever he has thought of.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "love",
+        "ethics",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 310,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: சினத்தில் அளவு கடந்து சென்றவர் இறந்தவரைப் போன்றவர், சினத்தை அடியோடு துறந்தவர் துறந்தவர்க்கு ஒப்பாவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Those, who give way to excessive anger, are no better than dead men; but those, who are freed from it, are equal to those who are freed (from death).",
+        "story_title_ta": "வெகுளாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Restraining Anger — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வெகுளாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 310 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பெருங்கோபம் கொண்டவர் இருந்தாலும் இறந்தவரைப் போன்றவரே; கோபத்தை விட்டுவிட்டவர். இறக்க வேண்டியவரே என்றாலும் சாவைத் தவிர்த்தவர் போன்றவரே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Restraining Anger'. Grandpa shared Kural 310 and explained in simple words: Those, who give way to excessive anger, are no better than dead men; but those, who are freed from it, are equal to those who are freed (from death). The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: எல்லையற்ற சினம் கொள்வார் இறந்தவர்க்கு ஒப்பாவார் சினத்தை அறவே துறந்தவர் துறவிக்கு ஒப்பாவார்.",
+        "moral_en": "Moral: Men of surpassing wrath are like the men who've passed away; Who wrath renounce, equals of all-renouncing sages they.",
+        "game_blank_word_ta": "சினத்தைத்",
+        "game_options_ta": [
+          "செல்லிடத்துக்",
+          "காப்பான்",
+          "சினத்தைத்",
+          "சினங்காப்பான்"
+        ],
+        "game_options_en": [
+          "Anger against the weak is wrong It is futile against the strong",
+          "Vain is wrath against men of force Against the meek it is still worse",
+          "Dead are they who are anger-fed Saints are they from whom wrath has fled",
+          "Off with wrath with any one It is the source of sin and pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெகுளாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 310, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெருங்கோபம் கொண்டவர் இருந்தாலும் இறந்தவரைப் போன்றவரே; கோபத்தை விட்டுவிட்டவர். இறக்க வேண்டியவரே என்றாலும் சாவைத் தவிர்த்தவர் போன்றவரே. கலைஞர் உரை கூறுவது: எல்லையற்ற சினம் கொள்வார் இறந்தவர்க்கு ஒப்பாவார் சினத்தை அறவே துறந்தவர் துறவிக்கு ஒப்பாவார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Restraining Anger (Ascetic Virtue), Kural 310 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those, who give way to excessive anger, are no better than dead men; but those, who are freed from it, are equal to those who are freed (from death). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'வெகுளாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Restraining Anger' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'வெகுளாமை' அதிகாரத்தில் வரும் திருக்குறள் 310 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 310 from Chapter 'Restraining Anger'?",
+        "quiz_options_ta": [
+          "மெய்யுணர்வு இல்லாதவர்க்கு ஐந்து புலன்களின் வேறுபாட்டால் வளர்ந்த ஐந்து வகை உணர்வும் முற்றப்பெற்ற போதிலும் பயன் இல்லை.",
+          "கற்றவனுக்கு தன் நாடும் ஊரும் போல வேறு எதுவாயினும் நாடாகும், ஊராகும் ஆகையால் ஒருவன் சாகும் வரையில் கல்லாமல் காலங்கழிப்பது ஏன்.",
+          "சினத்தில் அளவு கடந்து சென்றவர் இறந்தவரைப் போன்றவர், சினத்தை அடியோடு துறந்தவர் துறந்தவர்க்கு ஒப்பாவர்.",
+          "தன் விருப்பம் பிறர்க்கு தெரியாதபடி விருப்பமான வற்றை நுகர வல்லவனானால், பகைவர் தன்னை வஞ்சிப்பதற்காகச் செய்யும் சூழ்ச்சிகள் பலிக்காமல் போகும்."
+        ],
+        "quiz_options_en": [
+          "Knowledge of five senses is vain Without knowing the Truth within",
+          "All lands and towns are learner's own Why not till death learning go on!",
+          "Dead are they who are anger-fed Saints are they from whom wrath has fled",
+          "All designs of the foes shall fail If one his wishes guards in veil"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (வெகுளாமை) பகுதியில் குறள் 310 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சினத்தில் அளவு கடந்து சென்றவர் இறந்தவரைப் போன்றவர், சினத்தை அடியோடு துறந்தவர் துறந்தவர்க்கு ஒப்பாவர். பரிமேலழகர் உரை நுட்பம்: இறந்தார் இறந்தார் அனையர் - சினத்தின் கண்ணே மிக்கார் உயிருடையராயினும் செத்தாரோடு ஒப்பர், சினத்தைத் துறந்தார் துறந்தார் துணை - சினத்தைத் துறந்தார் சாதல் தன்மையராயினும், அதனை ஒழிந்தார் அளவினர். (மிக்க சினத்தை உடையார்க்கு ஞானம் எய்துதற்கு உரிய உயிர் நின்றதாயினும...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 31: 'Restraining Anger'), Kural 310 distills a foundational ethical insight: \"Men of surpassing wrath are like the men who've passed away; Who wrath renounce, equals of all-renouncing sages they\" Philosophically, Those, who give way to excessive anger, are no better than dead men; but those, who are freed from it, are equal to those who are freed (from death).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "kindness",
+        "ethics"
+      ]
+    }
+  ]
+}

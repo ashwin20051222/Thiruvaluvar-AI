@@ -1,0 +1,579 @@
+{
+  "adhikaram_id": 24,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.658425330+00:00",
+  "kurals": [
+    {
+      "kural_number": 231,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: வறியவர்க்கு ஈதல் வேண்டும் அதனால் புகழ் உண்டாக வாழ வேண்டும், அப் புகழ் அல்லாமல் உயிர்க்கு ஊதியமானது வேறொன்றும் இல்லை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Give to the poor and live with praise There is no greater profit to man than that.",
+        "story_title_ta": "புகழ் — இனியா கற்ற பாடம்",
+        "story_title_en": "Renown — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புகழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 231 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஏழைகளுக்குக் கொடுப்பது; அதனால் புகழ் பெருக வாழ்வது; இப்புகழ் அன்றி மனிதர்க்குப் பயன் வேறு ஒன்றும் இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Renown'. Grandpa shared Kural 231 and explained in simple words: Give to the poor and live with praise There is no greater profit to man than that. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: கொடைத் தன்மையும், குன்றாத புகழும்தவிர வாழ்க்கைக்கு ஆக்கம் தரக் கூடியது வேறெதுவும் இல்லை.",
+        "moral_en": "Moral: See that thy life the praise of generous gifts obtain; Save this for living man exists no real gain.",
+        "game_blank_word_ta": "ஈதல்",
+        "game_options_ta": [
+          "உரைப்பார்",
+          "உரைப்பவை",
+          "எல்லாம்",
+          "ஈதல்"
+        ],
+        "game_options_en": [
+          "The glory of the alms-giver Is praised aloud as popular",
+          "Nothing else lasts on earth for e'er Saving high fame of the giver!",
+          "From hailing gods heavens will cease To hail the men of lasting praise",
+          "They gather fame who freely give The greatest gain for all that live"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புகழ் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 231, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஏழைகளுக்குக் கொடுப்பது; அதனால் புகழ் பெருக வாழ்வது; இப்புகழ் அன்றி மனிதர்க்குப் பயன் வேறு ஒன்றும் இல்லை. கலைஞர் உரை கூறுவது: கொடைத் தன்மையும், குன்றாத புகழும்தவிர வாழ்க்கைக்கு ஆக்கம் தரக் கூடியது வேறெதுவும் இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renown (Domestic Virtue), Kural 231 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Give to the poor and live with praise There is no greater profit to man than that. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புகழ்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renown' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புகழ்' அதிகாரத்தில் வரும் திருக்குறள் 231 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 231 from Chapter 'Renown'?",
+        "quiz_options_ta": [
+          "பற்றுக்களைத் துறந்தோம் என்று சொல்கின்றவரின் பொய்யொழுக்கம் என்ன செய்தோம் என்ன செய்தோம் என்று வருந்தும் படியான துன்பம் பலவும் தரும்.",
+          "தன் உயிருக்குத் துன்பமானவை இவை என்று உணர்ந்தவன், அத் துன்பத்தை மற்ற உயிருக்குச் செய்தல் என்ன காரணத்தாலோ.",
+          "எல்லா உயிர்களுக்கும் எக்காலத்திலும் ஒழியாமல் வருகின்ற பிறவித்துன்பத்தை உண்டாக்கும் வித்து அவா என்றுக் கூறுவர்.",
+          "வறியவர்க்கு ஈதல் வேண்டும் அதனால் புகழ் உண்டாக வாழ வேண்டும், அப் புகழ் அல்லாமல் உயிர்க்கு ஊதியமானது வேறொன்றும் இல்லை."
+        ],
+        "quiz_options_en": [
+          "Who false within but freedom feign Shall moan \\\"What have we done\\\" with pain",
+          "How can he injure other souls Who in his life injury feels",
+          "Desire to all, always is seed From which ceaseless births proceed",
+          "They gather fame who freely give The greatest gain for all that live"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புகழ்) பகுதியில் குறள் 231 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வறியவர்க்கு ஈதல் வேண்டும் அதனால் புகழ் உண்டாக வாழ வேண்டும், அப் புகழ் அல்லாமல் உயிர்க்கு ஊதியமானது வேறொன்றும் இல்லை. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, இல்வாழ்க்கை முதல் ஈகை ஈறாகச் சொல்லப்பட்ட இல்லறத்தின் வழுவாதார்க்கு இம்மைப்பயனாகிய இவ்வுலகின்கண் நிகழ்ந்து இறவாது நிற்கும் கீர்த்தி. இது, பெரும்பான்மையும் ஈதல் பற்றி வருதலின் , அதன்பின் வைக்கப்பட்டது.) 'ஈதல்' - வறியார்க்கு ஈக, இசைபட வாழ்தல் - அதனால...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 24: 'Renown'), Kural 231 distills a foundational ethical insight: \"See that thy life the praise of generous gifts obtain; Save this for living man exists no real gain\" Philosophically, Give to the poor and live with praise There is no greater profit to man than that.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "wealth",
+        "gratitude",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 232,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: புகழ்ந்து சொல்கின்றவர் சொல்பவை எல்லாம் வறுமையால் இரப்பவர்க்கு ஒரு பொருள் கொடுத்து உதவுகின்றவரின் மேல் நிற்கின்ற புகழேயாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Whatsoever is spoken in the world will abide as praise upon that man who gives alms to the poor.",
+        "story_title_ta": "புகழ் — முகில் கற்ற பாடம்",
+        "story_title_en": "Renown — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புகழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 232 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'சொல்வார் சொல்வன எல்லாம், இல்லை என்று வருபவர்க்குத் தருபவர்மேல் சொல்லப்படும் புகழே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Renown'. Grandpa shared Kural 232 and explained in simple words: Whatsoever is spoken in the world will abide as praise upon that man who gives alms to the poor. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: போற்றுவோர் போற்றுவனவெல்லாம் இல்லாதவர்க்கு ஒன்று வழங்குவோரின் புகழைக் குறித்தே அமையும்.",
+        "moral_en": "Moral: The speech of all that speak agrees to crownThe men that give to those that ask, with fair renown.",
+        "game_blank_word_ta": "உரைப்பவை",
+        "game_options_ta": [
+          "உரைப்பவை",
+          "ஈதல்",
+          "இசைபட",
+          "வாழ்தல்"
+        ],
+        "game_options_en": [
+          "The glory of the alms-giver Is praised aloud as popular",
+          "They gather fame who freely give The greatest gain for all that live",
+          "Nothing else lasts on earth for e'er Saving high fame of the giver!",
+          "From hailing gods heavens will cease To hail the men of lasting praise"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புகழ் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 232, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சொல்வார் சொல்வன எல்லாம், இல்லை என்று வருபவர்க்குத் தருபவர்மேல் சொல்லப்படும் புகழே. கலைஞர் உரை கூறுவது: போற்றுவோர் போற்றுவனவெல்லாம் இல்லாதவர்க்கு ஒன்று வழங்குவோரின் புகழைக் குறித்தே அமையும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renown (Domestic Virtue), Kural 232 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Whatsoever is spoken in the world will abide as praise upon that man who gives alms to the poor. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புகழ்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renown' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புகழ்' அதிகாரத்தில் வரும் திருக்குறள் 232 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 232 from Chapter 'Renown'?",
+        "quiz_options_ta": [
+          "புகழ்ந்து சொல்கின்றவர் சொல்பவை எல்லாம் வறுமையால் இரப்பவர்க்கு ஒரு பொருள் கொடுத்து உதவுகின்றவரின் மேல் நிற்கின்ற புகழேயாகும்.",
+          "மனத்தில் பற்றுக்களைத் துறக்காமல் துறந்தவரைப் போல் வஞ்சனைச் செய்து வாழ்கின்றவரைப் போல் இரக்கமற்றவர் எவரும் இல்லை.",
+          "முற்பகலில் மற்றவருக்கு துன்பமானவற்றைச் செய்தால் அவ்வாறு செய்தவர்க்கே பிற்பகலில் துன்பங்கள் தாமாக வந்து சேரும்.",
+          "ஒருவன் ஒன்றை விரும்புவதனால் பிறவா நிலைமையை விரும்ப வேண்டும், அது அவா அற்ற நிலையை விரும்பினால் உண்டாகும்."
+        ],
+        "quiz_options_en": [
+          "The glory of the alms-giver Is praised aloud as popular",
+          "Vilest is he who seems a saint Cheating the world without restraint",
+          "Harm others in the forenoon Harm seeks thee in afternoon",
+          "If long thou must, long for non-birth It comes by longing no more for earth"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புகழ்) பகுதியில் குறள் 232 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: புகழ்ந்து சொல்கின்றவர் சொல்பவை எல்லாம் வறுமையால் இரப்பவர்க்கு ஒரு பொருள் கொடுத்து உதவுகின்றவரின் மேல் நிற்கின்ற புகழேயாகும். பரிமேலழகர் உரை நுட்பம்: உரைப்பார் உரைப்பவை எல்லாம் - உலகத்து ஒன்று உரைப்பார் உரைப்பன எல்லாம், இரப்பார்க்கு ஒன்று ஈவார் மேல் நிற்கும் புகழ் - வறுமையான் இரப்பார்க்கு அவர் வேண்டியது ஒன்றை ஈவார் கண் நிற்கும் புகழாம். (புகழ்தான் உரையும் பாட்டும் என இருவகைப்படும்(புறநா.27) அவற்றுள...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 24: 'Renown'), Kural 232 distills a foundational ethical insight: \"The speech of all that speak agrees to crownThe men that give to those that ask, with fair renown\" Philosophically, Whatsoever is spoken in the world will abide as praise upon that man who gives alms to the poor.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "speech",
+        "justice",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 233,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: உயர்ந்த புகழ் அல்லாமல் உலகத்தில் ஒப்பற்ற ஒரு பொருளாக அழியாமல் நிலைநிற்க வல்லது வேறொன்றும் இல்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: There is nothing that stands forth in the world imperishable, except fame, exalted in solitary greatness.",
+        "story_title_ta": "புகழ் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Renown — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புகழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 233 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தனக்கு இணையில்லாததாய், உயர்ந்ததாய் விளங்கும் புகழே அன்றி, அழியாமல் நிலைத்து நிற்கும் வேறொன்றும் இவ்வுலகத்தில் இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Renown'. Grandpa shared Kural 233 and explained in simple words: There is nothing that stands forth in the world imperishable, except fame, exalted in solitary greatness. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒப்பற்றதாகவும், அழிவில்லாததாகவும் இந்த உலகத்தில் நிலைத்திருப்பது புகழைத் தவிர வேறு எதுவுமே இல்லை.",
+        "moral_en": "Moral: Save praise alone that soars on high, Nought lives on earth that shall not die.",
+        "game_blank_word_ta": "நிற்பதொன்",
+        "game_options_ta": [
+          "ஈதல்",
+          "நிற்பதொன்",
+          "இசைபட",
+          "வாழ்தல்"
+        ],
+        "game_options_en": [
+          "They gather fame who freely give The greatest gain for all that live",
+          "Nothing else lasts on earth for e'er Saving high fame of the giver!",
+          "The glory of the alms-giver Is praised aloud as popular",
+          "From hailing gods heavens will cease To hail the men of lasting praise"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புகழ் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 233, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தனக்கு இணையில்லாததாய், உயர்ந்ததாய் விளங்கும் புகழே அன்றி, அழியாமல் நிலைத்து நிற்கும் வேறொன்றும் இவ்வுலகத்தில் இல்லை. கலைஞர் உரை கூறுவது: ஒப்பற்றதாகவும், அழிவில்லாததாகவும் இந்த உலகத்தில் நிலைத்திருப்பது புகழைத் தவிர வேறு எதுவுமே இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renown (Domestic Virtue), Kural 233 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is nothing that stands forth in the world imperishable, except fame, exalted in solitary greatness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புகழ்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renown' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புகழ்' அதிகாரத்தில் வரும் திருக்குறள் 233 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 233 from Chapter 'Renown'?",
+        "quiz_options_ta": [
+          "புறத்தில் குன்றிமணிப்போல் செம்மையானவராய் காணப்பட்டாராயினும் அகத்தில் குன்றிமணியின் மூக்குப்போல் கருத்திருப்பவர் உலகில் உணடு.",
+          "உயர்ந்த புகழ் அல்லாமல் உலகத்தில் ஒப்பற்ற ஒரு பொருளாக அழியாமல் நிலைநிற்க வல்லது வேறொன்றும் இல்லை.",
+          "துன்பம் எல்லாம் துன்பம் செய்தவரையேச் சார்வன, ஆகையால் துன்பம் இல்லாமல் வாழ்தலை விரும்புகின்றவர் பிறர்க்கு துன்பம் செய்யார்.",
+          "அவா அற்ற நிலைமை போன்ற சிறந்த செல்வம் இவ்வுலகில் இல்லை, வேறு எங்கும் அதற்க்கு நிகரான ஒன்று இல்லை."
+        ],
+        "quiz_options_en": [
+          "Berry-red is his outward view, Black like its nose his inward hue",
+          "Nothing else lasts on earth for e'er Saving high fame of the giver!",
+          "No harm is done by peace-lovers For pains rebound on pain-givers",
+          "No such wealth is here and there As peerless wealth of non-desire"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புகழ்) பகுதியில் குறள் 233 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உயர்ந்த புகழ் அல்லாமல் உலகத்தில் ஒப்பற்ற ஒரு பொருளாக அழியாமல் நிலைநிற்க வல்லது வேறொன்றும் இல்லை. பரிமேலழகர் உரை நுட்பம்: ஒன்றா உயர்ந்த புகழ் அல்லால்- தனக்கு இணையின்றாக ஓங்கிய புகழல்லது; உலகத்துப் பொன்றாது நிற்பது ஒன்று இல்-உலகத்து இறவாது நிற்பது பிறிதொன்று இல்லை. (இணை இன்றாக ஓங்குதலாவது : கொடுத்தற்கு அரிய உயிர் உறுப்புப் பொருள்களைக் கொடுத்தமை பற்றி வருதலால் தன்னோடு ஒப்பது...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 24: 'Renown'), Kural 233 distills a foundational ethical insight: \"Save praise alone that soars on high, Nought lives on earth that shall not die\" Philosophically, There is nothing that stands forth in the world imperishable, except fame, exalted in solitary greatness.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 234,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நிலவுலகின் எல்லையில் நெடுங்காலம் நிற்கவல்ல புகழைச் செய்தால், வானுலகம் (அவ்வாறு புகழ் செய்தாரைப் போற்றுமே அல்லாமல்) தேவரைப் போற்றாது..",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If one has acquired extensive fame within the limits of this earth, the world of the Gods will no longer praise those sages who have attained that world.",
+        "story_title_ta": "புகழ் — கவின் கற்ற பாடம்",
+        "story_title_en": "Renown — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புகழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 234 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தன்னில் வாழும்அறிஞரைப் போற்றாமல், இந்த நில உலகில்நெடும்புகழ் பெற்று வாழந்தவரையே தேவர் உலகம் பேணும்‌.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Renown'. Grandpa shared Kural 234 and explained in simple words: If one has acquired extensive fame within the limits of this earth, the world of the Gods will no longer praise those sages who have attained that world. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: இனிவரும் புதிய உலகம்கூட இன்றைய உலகில் தன்னலம் துறந்து புகழ் ஈட்டிய பெருமக்களை விடுத்து, அறிவாற்றல் உடையவரை மட்டும் போற்றிக் கொண்டிராது.",
+        "moral_en": "Moral: If men do virtuous deeds by world-wide ample glory crowned, The heavens will cease to laud the sage for other gifts renowned.",
+        "game_blank_word_ta": "புலவரைப்",
+        "game_options_ta": [
+          "ஈதல்",
+          "இசைபட",
+          "புலவரைப்",
+          "வாழ்தல்"
+        ],
+        "game_options_en": [
+          "They gather fame who freely give The greatest gain for all that live",
+          "The glory of the alms-giver Is praised aloud as popular",
+          "From hailing gods heavens will cease To hail the men of lasting praise",
+          "Nothing else lasts on earth for e'er Saving high fame of the giver!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புகழ் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 234, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்னில் வாழும்அறிஞரைப் போற்றாமல், இந்த நில உலகில்நெடும்புகழ் பெற்று வாழந்தவரையே தேவர் உலகம் பேணும்‌. கலைஞர் உரை கூறுவது: இனிவரும் புதிய உலகம்கூட இன்றைய உலகில் தன்னலம் துறந்து புகழ் ஈட்டிய பெருமக்களை விடுத்து, அறிவாற்றல் உடையவரை மட்டும் போற்றிக் கொண்டிராது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renown (Domestic Virtue), Kural 234 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If one has acquired extensive fame within the limits of this earth, the world of the Gods will no longer praise those sages who have attained that world. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புகழ்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renown' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புகழ்' அதிகாரத்தில் வரும் திருக்குறள் 234 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 234 from Chapter 'Renown'?",
+        "quiz_options_ta": [
+          "மனத்தில் மாசு இருக்க, தவத்தால் மாண்பு பெற்றவரைப்போல், நீரில் மறைந்து நடக்கும் வஞ்சனை உடைய மாந்தர் உலகில் பலர் உள்ளனர்.",
+          "அறமாகிய செயல் எது என்றால் ஒரு உயிரையும் கொல்லாமையாகும், கொல்லுதல் அறமல்லாத செயல்கள் எல்லாவற்றையும் விளைக்கும்.",
+          "நிலவுலகின் எல்லையில் நெடுங்காலம் நிற்கவல்ல புகழைச் செய்தால், வானுலகம் (அவ்வாறு புகழ் செய்தாரைப் போற்றுமே அல்லாமல்) தேவரைப் போற்றாது..",
+          "தூயநிலை என்றுக் கூறப்படுவது அவா இல்லா திருத்தலே யாகும், அவா அற்ற அத்தன்மை மெய்ப்பொருளை விரும்புவதால் உண்டாகும்."
+        ],
+        "quiz_options_en": [
+          "Filthy in mind some bathe in streams Hiding sins in showy extremes",
+          "What is Virtue? 'Tis not to kill For killing causes every ill",
+          "From hailing gods heavens will cease To hail the men of lasting praise",
+          "To nothing crave is purity That is the fruit of verity"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புகழ்) பகுதியில் குறள் 234 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நிலவுலகின் எல்லையில் நெடுங்காலம் நிற்கவல்ல புகழைச் செய்தால், வானுலகம் (அவ்வாறு புகழ் செய்தாரைப் போற்றுமே அல்லாமல்) தேவரைப் போற்றாது.. பரிமேலழகர் உரை நுட்பம்: நிலவரை நீள் புகழ் ஆற்றின் - ஒருவன்நில எல்லைக் கண்ணே பொன்றாது நிற்கும் புகழைச் செய்யுமாயின் புத்தேள் உலகு புலவரைப் போற்றாது - புத்தேள் உலகம் அவனையல்லது தன்னை எய்தி நின்ற ஞானிகளைப் பேணாது. (புகழ் உடம்பான் இவ்வுலகும், புத்தேள் உடம்பான் அவ்வுலகும் ஒருங்கே...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 24: 'Renown'), Kural 234 distills a foundational ethical insight: \"If men do virtuous deeds by world-wide ample glory crowned, The heavens will cease to laud the sage for other gifts renowned\" Philosophically, If one has acquired extensive fame within the limits of this earth, the world of the Gods will no longer praise those sages who have attained that world.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wisdom",
+        "harmony",
+        "wealth",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 235,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: புகழுடம்பு மேம்படுதலாகும் வாழ்வில் கேடும், புகழ் நிலை நிற்பதாகும் சாவும் அறிவில் சிறந்தவர்க்கு அல்லாமல் மற்றவர்க்கு இல்லை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Prosperity to the body of fame, resulting in poverty to the body of flesh and the stability to the former arising from the death of the latter, are achievable only by the wise.",
+        "story_title_ta": "புகழ் — நிலா கற்ற பாடம்",
+        "story_title_en": "Renown — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புகழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 235 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பூத உடம்பின் வறுமையைப் புகழுடம்பின் செல்வமாக்குவதும், பூத உடம்பின் அழிவைப் புகழுடம்பின் அழியாத் தன்மை ஆக்குவதும், பிறர்க்கு ஈந்து, தாம் மெய் உணர்ந்து, அவா அறுத்த வித்தகர்க்கு ஆகுமே அன்றி மற்றவர்க்கு ஆவது கடினம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Renown'. Grandpa shared Kural 235 and explained in simple words: Prosperity to the body of fame, resulting in poverty to the body of flesh and the stability to the former arising from the death of the latter, are achievable only by the wise. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: துன்பங்களுக்கிடையேகூட அவற்றைத் தாங்கும் வலிமையால் தமது புகழை வளர்த்துக் கொள்வதும், தமது சாவிலும்கூடப் புகழை நிலை நாட்டுவதும் இயல்பான ஆற்றலுடையவருக்கே உரிய செயலாகும்.",
+        "moral_en": "Moral: Loss that is gain, and death of life's true bliss fulfilled, Are fruits which only wisdom rare can yield.",
+        "game_blank_word_ta": "வித்தகர்க்",
+        "game_options_ta": [
+          "ஈதல்",
+          "இசைபட",
+          "வாழ்தல்",
+          "வித்தகர்க்"
+        ],
+        "game_options_en": [
+          "They gather fame who freely give The greatest gain for all that live",
+          "The glory of the alms-giver Is praised aloud as popular",
+          "Nothing else lasts on earth for e'er Saving high fame of the giver!",
+          "Fame in fall and life in death Are rare but for the soulful worth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புகழ் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 235, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பூத உடம்பின் வறுமையைப் புகழுடம்பின் செல்வமாக்குவதும், பூத உடம்பின் அழிவைப் புகழுடம்பின் அழியாத் தன்மை ஆக்குவதும், பிறர்க்கு ஈந்து, தாம் மெய் உணர்ந்து, அவா அறுத்த வித்தகர்க்கு ஆகுமே அன்றி மற்றவர்க்கு ஆவது கடினம். கலைஞர் உரை கூறுவது: துன்பங்களுக்கிடையேகூட அவற்றைத் தாங்கும் வலிமையால் தமது புகழை வளர்த்துக் கொள்வதும், தமது சாவிலும்கூடப் புகழை நிலை நாட்டுவதும் இயல்பான ஆற்றலுடையவருக்கே உரிய செயலாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renown (Domestic Virtue), Kural 235 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Prosperity to the body of fame, resulting in poverty to the body of flesh and the stability to the former arising from the death of the latter, are achievable only by the wise. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புகழ்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renown' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புகழ்' அதிகாரத்தில் வரும் திருக்குறள் 235 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 235 from Chapter 'Renown'?",
+        "quiz_options_ta": [
+          "நேராகத் தோன்றினும் அம்பு கொடியது; வளைவுடன் தோன்றினாலும் யாழின் கொம்பு நன்மையானது. மக்களின் பண்புகளையும் செயல்வகையால் உணர்ந்துகொள்ள வேண்டும்.",
+          "கிடைத்ததைப் பகுந்து கொடுத்துத் தானும் உண்டு பல உயிர்களையும் காப்பாற்றுதல் அறநூலார் தொகுத்த அறங்கள் எல்லாவற்றிலும் தலையான அறமாகும்.",
+          "பற்றற்றவர் என்றுக் கூறப்படுவோர் அவா அற்றவரே, அவா அறாத மற்றவர் அவ்வளவாகப் பற்று அற்றவர் அல்லர்.",
+          "புகழுடம்பு மேம்படுதலாகும் வாழ்வில் கேடும், புகழ் நிலை நிற்பதாகும் சாவும் அறிவில் சிறந்தவர்க்கு அல்லாமல் மற்றவர்க்கு இல்லை."
+        ],
+        "quiz_options_en": [
+          "Know men by acts and not by forms Strait arrow kills, bent lute but charms",
+          "Share the food and serve all lives This is the law of all the laws",
+          "The free are those who desire not The rest not free in bonds are caught",
+          "Fame in fall and life in death Are rare but for the soulful worth"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புகழ்) பகுதியில் குறள் 235 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: புகழுடம்பு மேம்படுதலாகும் வாழ்வில் கேடும், புகழ் நிலை நிற்பதாகும் சாவும் அறிவில் சிறந்தவர்க்கு அல்லாமல் மற்றவர்க்கு இல்லை. பரிமேலழகர் உரை நுட்பம்: நத்தம் (ஆகும்) கேடும் - புகழுடம்பிற்கு ஆக்கமாகுங் கேடும், உளது ஆகும் சாக்காடும் - புகழுடம்பு உளதாகும் சாக்காடும், வித்தகர்க்கு அல்லால் அரிது - சதுரப்பாடுடையார்க்கு அல்லது இல்லை. ('நந்து' என்னும் தொழிற்பெயர் விகாரத்துடன் 'நத்து' என்றாய் பின் 'அம்' என்னும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 24: 'Renown'), Kural 235 distills a foundational ethical insight: \"Loss that is gain, and death of life's true bliss fulfilled, Are fruits which only wisdom rare can yield\" Philosophically, Prosperity to the body of fame, resulting in poverty to the body of flesh and the stability to the former arising from the death of the latter, are achievable only by the wise.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wisdom",
+        "wealth",
+        "speech",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 236,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒரு துறையில் முற்பட்டுத் தோன்றுவதானால் புகழோடு தோன்ற வேண்டும், அத்தகைய சிறப்பு இல்லாதவர் அங்குத் தோன்றுவதைவிடத் தோன்றாமலிருப்பதே நல்லது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If you are born (in this world), be born with qualities conductive to fame From those who are destitute of them it will be better not to be born.",
+        "story_title_ta": "புகழ் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Renown — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புகழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 236 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறர் அறியுமாறு அறிமுகமானால் புகழ் மிக்கவராய் அறிமுகம் ஆகுக; புகழ் இல்லாதவர் உலகு காணக் காட்சி தருவதிலும், தராமல் இருப்‌பதே நல்லது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Renown'. Grandpa shared Kural 236 and explained in simple words: If you are born (in this world), be born with qualities conductive to fame From those who are destitute of them it will be better not to be born. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: எந்தத் துறையில் ஈடுபட்டாலும் அதில் புகழுடன் விளங்கவேண்டும்; இயலாதவர்கள் அந்தத் துறையில் ஈடுபடாமல் இருப்பதே நல்லது.",
+        "moral_en": "Moral: If man you walk the stage, appear adorned with glory's grace; Save glorious you can shine, 'twere better hide your face.",
+        "game_blank_word_ta": "தோன்றாமை",
+        "game_options_ta": [
+          "தோன்றாமை",
+          "ஈதல்",
+          "இசைபட",
+          "வாழ்தல்"
+        ],
+        "game_options_en": [
+          "Be born with fame if birth you want If not of birth you must not vaunt",
+          "They gather fame who freely give The greatest gain for all that live",
+          "The glory of the alms-giver Is praised aloud as popular",
+          "Nothing else lasts on earth for e'er Saving high fame of the giver!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புகழ் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 236, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர் அறியுமாறு அறிமுகமானால் புகழ் மிக்கவராய் அறிமுகம் ஆகுக; புகழ் இல்லாதவர் உலகு காணக் காட்சி தருவதிலும், தராமல் இருப்‌பதே நல்லது. கலைஞர் உரை கூறுவது: எந்தத் துறையில் ஈடுபட்டாலும் அதில் புகழுடன் விளங்கவேண்டும்; இயலாதவர்கள் அந்தத் துறையில் ஈடுபடாமல் இருப்பதே நல்லது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renown (Domestic Virtue), Kural 236 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If you are born (in this world), be born with qualities conductive to fame From those who are destitute of them it will be better not to be born. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புகழ்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renown' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புகழ்' அதிகாரத்தில் வரும் திருக்குறள் 236 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 236 from Chapter 'Renown'?",
+        "quiz_options_ta": [
+          "ஒரு துறையில் முற்பட்டுத் தோன்றுவதானால் புகழோடு தோன்ற வேண்டும், அத்தகைய சிறப்பு இல்லாதவர் அங்குத் தோன்றுவதைவிடத் தோன்றாமலிருப்பதே நல்லது.",
+          "உலகம் பழிக்கும் தீயொழுக்கத்தை விட்டு விட்டால் மொட்டை அடித்தலும் சடை வளர்த்தலுமாகிய புறக்கோலங்கள் வேண்டா.",
+          "இணையில்லாத ஓர் அறமாகக் கொல்லாமை நல்லது, அதற்கு அடுத்த நிலையில் கூறத்தக்கதாகப் பொய்யாமை நல்லது.",
+          "ஒருவன் அவாவிற்கு அஞ்சி வாழ்வதே அறம், ஏன் எனில் ஒருவனைச் சோர்வு கண்டுகொடுத்து வஞ்சிப்பது அவாவே."
+        ],
+        "quiz_options_en": [
+          "Be born with fame if birth you want If not of birth you must not vaunt",
+          "No balding nor tangling the hair! Abstain from condemned acts with care",
+          "Not to kill is unique good The next, not to utter falsehood",
+          "Dread desire; Virtue is there To every soul desire is snare!"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புகழ்) பகுதியில் குறள் 236 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒரு துறையில் முற்பட்டுத் தோன்றுவதானால் புகழோடு தோன்ற வேண்டும், அத்தகைய சிறப்பு இல்லாதவர் அங்குத் தோன்றுவதைவிடத் தோன்றாமலிருப்பதே நல்லது. பரிமேலழகர் உரை நுட்பம்: தோன்றின் புகழோடு தோன்றுக-மக்களாய்ப் பிறக்கின் புகழுக்கு ஏதுவாகிய குணத்தோடு பிறக்க; 'அஃது இலார்' தோன்றலின் தோன்றாமை நன்று-அக்குணமில்லாதார் மக்களாய்ப் பிறத்தலின் விலங்காய்ப் பிறத்தல் நன்று (புகழ்; ஈண்டு ஆகுபெயர். அஃது இலார் என்றமையின் மக்களாய் என்பதூஉம...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 24: 'Renown'), Kural 236 distills a foundational ethical insight: \"If man you walk the stage, appear adorned with glory's grace; Save glorious you can shine, 'twere better hide your face\" Philosophically, If you are born (in this world), be born with qualities conductive to fame From those who are destitute of them it will be better not to be born.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "harmony",
+        "kindness",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 237,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தமக்குப் புகழ் உண்டாகுமாறு வாழமுடியாதவர் தம்மைத் தாம் நொந்து கொள்ளாமல் தம்மை இகழ்கின்றவரை நொந்து கொள்ளக் காரணம் என்ன?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Why do those who cannot live with praise, grieve those who despise them, instead of grieving themselves for their own inability.",
+        "story_title_ta": "புகழ் — இனியா கற்ற பாடம்",
+        "story_title_en": "Renown — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புகழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 237 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'புகழ் பெருகுமாறு வாழமுடியாதவர் அதற்குக் காரணர் தாமே என்று தம்மீது வருந்தாமல், தம்மை இகழ்வார் மீது வருத்தம் கொள்வது எதற்காக?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Renown'. Grandpa shared Kural 237 and explained in simple words: Why do those who cannot live with praise, grieve those who despise them, instead of grieving themselves for their own inability. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உண்மையான புகழுடன் வாழ முடியாதவர்கள், அதற்காகத் தம்மை நொந்து கொள்ள வேண்டுமே தவிரத் தமது செயல்களை இகழ்ந்து பேசுகிறவர்களை நொந்து கொள்வது எதற்காக?",
+        "moral_en": "Moral: If you your days will spend devoid of goodly fame, When men despise, why blame them? You've yourself to blame.",
+        "game_blank_word_ta": "எவன்",
+        "game_options_ta": [
+          "ஈதல்",
+          "எவன்",
+          "இசைபட",
+          "வாழ்தல்"
+        ],
+        "game_options_en": [
+          "They gather fame who freely give The greatest gain for all that live",
+          "Why grieve at those who blame the shame Of those who cannot live in fame?",
+          "The glory of the alms-giver Is praised aloud as popular",
+          "Nothing else lasts on earth for e'er Saving high fame of the giver!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புகழ் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 237, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: புகழ் பெருகுமாறு வாழமுடியாதவர் அதற்குக் காரணர் தாமே என்று தம்மீது வருந்தாமல், தம்மை இகழ்வார் மீது வருத்தம் கொள்வது எதற்காக? கலைஞர் உரை கூறுவது: உண்மையான புகழுடன் வாழ முடியாதவர்கள், அதற்காகத் தம்மை நொந்து கொள்ள வேண்டுமே தவிரத் தமது செயல்களை இகழ்ந்து பேசுகிறவர்களை நொந்து கொள்வது எதற்காக? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renown (Domestic Virtue), Kural 237 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Why do those who cannot live with praise, grieve those who despise them, instead of grieving themselves for their own inability. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புகழ்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renown' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புகழ்' அதிகாரத்தில் வரும் திருக்குறள் 237 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 237 from Chapter 'Renown'?",
+        "quiz_options_ta": [
+          "பிறரால் இகழப்படால் வாழ விரும்புகிறவன், எத்தன்மையானப் பொருளையும் பிறரிடமிருந்து வஞ்சித்துக்கொள்ள எண்ணாதபடி தன் நெஞ்சைக் காக்க வேண்டும்.",
+          "தமக்குப் புகழ் உண்டாகுமாறு வாழமுடியாதவர் தம்மைத் தாம் நொந்து கொள்ளாமல் தம்மை இகழ்கின்றவரை நொந்து கொள்ளக் காரணம் என்ன?",
+          "நல்ல வழி என்று அறநூல்களால் சொல்லப்படுவது எது என்றால், எந்த உயிரையும் கொல்லாத அறத்தைப் போற்றும் நெறியாகும்.",
+          "ஒருவன் ஆசையை முழுதும் ஒழித்தால், அவன் கெடாமல் வாழ்வதற்கு உரிய நல்ல செயல் அவன் விரும்புமாறு வாய்க்கும்."
+        ],
+        "quiz_options_en": [
+          "Let him who would reproachless be From all frauds guard his conscience free",
+          "Why grieve at those who blame the shame Of those who cannot live in fame?",
+          "What way is good? That we can say The way away from heat to slay",
+          "Destroy desire; deliverance Comes as much as you aspire hence"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புகழ்) பகுதியில் குறள் 237 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தமக்குப் புகழ் உண்டாகுமாறு வாழமுடியாதவர் தம்மைத் தாம் நொந்து கொள்ளாமல் தம்மை இகழ்கின்றவரை நொந்து கொள்ளக் காரணம் என்ன? பரிமேலழகர் உரை நுட்பம்: புகழ்பட வாழாதார்- தமக்குப் புகழுண்டாக வாழமாட்டாதார்; தம் நோவார் அதுபற்றிப் பிறர் இகழ்ந்தவழி, 'இவ்விகழ்ச்சி நம் மாட்டாமையான் வந்தது' என்று தம்மை நோவாதே தம்மை இகழ்வாரை நோவது எவன்-தம்மை இகழ்வாரை நோவது என் கருதி? (புகழ்பட வாழலாயிருக்க அதுமாட்டாத குற்றம் பற்றிப...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 24: 'Renown'), Kural 237 distills a foundational ethical insight: \"If you your days will spend devoid of goodly fame, When men despise, why blame them? You've yourself to blame\" Philosophically, Why do those who cannot live with praise, grieve those who despise them, instead of grieving themselves for their own inability.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "truth",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 238,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தமக்குப் பின் எஞ்சி நிற்பதாகியப் புகழைப் பெறாவிட்டால் உலகத்தார் எல்லார்க்கும் அத்தகைய வாழ்க்கை பழி என்று சொல்லுவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Not to beget fame will be esteemed a disgrace by the wise in this world.",
+        "story_title_ta": "புகழ் — முகில் கற்ற பாடம்",
+        "story_title_en": "Renown — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புகழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 238 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'புகழ் என்னும் பெரும் செல்வத்தைப் பெறாது போனால், இந்த உலகத்தவர்க்கு அதுவே பழி என்று அறிந்தோர் கூறுவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Renown'. Grandpa shared Kural 238 and explained in simple words: Not to beget fame will be esteemed a disgrace by the wise in this world. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தமக்குப் பிறகும் எஞ்சி நிற்கக் கூடிய புகழைப் பெறாவிட்டால், அது அந்த வாழ்க்கைக்கே வந்த பழியென்று வையம் கூறும்.",
+        "moral_en": "Moral: Fame is virtue's child, they say; if, then, You childless live, you live the scorn of men.",
+        "game_blank_word_ta": "வசையென்ப",
+        "game_options_ta": [
+          "ஈதல்",
+          "இசைபட",
+          "வசையென்ப",
+          "வாழ்தல்"
+        ],
+        "game_options_en": [
+          "They gather fame who freely give The greatest gain for all that live",
+          "The glory of the alms-giver Is praised aloud as popular",
+          "To men on earth it is a shame Not to beget the child of fame",
+          "Nothing else lasts on earth for e'er Saving high fame of the giver!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புகழ் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 238, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: புகழ் என்னும் பெரும் செல்வத்தைப் பெறாது போனால், இந்த உலகத்தவர்க்கு அதுவே பழி என்று அறிந்தோர் கூறுவர். கலைஞர் உரை கூறுவது: தமக்குப் பிறகும் எஞ்சி நிற்கக் கூடிய புகழைப் பெறாவிட்டால், அது அந்த வாழ்க்கைக்கே வந்த பழியென்று வையம் கூறும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renown (Domestic Virtue), Kural 238 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Not to beget fame will be esteemed a disgrace by the wise in this world. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புகழ்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renown' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புகழ்' அதிகாரத்தில் வரும் திருக்குறள் 238 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 238 from Chapter 'Renown'?",
+        "quiz_options_ta": [
+          "குற்றமானதை உள்ளத்தால் எண்ணுவதும் குற்றமே, அதானால் பிறன் பொருளை அவன் அறியாதப் வகையால் வஞ்சித்துக்கொள்வோம் என்று எண்ணாதிருக்க வேண்டும்.",
+          "வாழ்க்கையின் தன்மையைக்கண்டு அஞ்சித் துறந்தவர்கள் எல்லாரிலும், கொலைசெய்வதற்க்கு அஞ்சிக் கொல்லாத அறத்தைப் போற்றுகின்றவன் உயர்ந்தவன்.",
+          "தமக்குப் பின் எஞ்சி நிற்பதாகியப் புகழைப் பெறாவிட்டால் உலகத்தார் எல்லார்க்கும் அத்தகைய வாழ்க்கை பழி என்று சொல்லுவர்.",
+          "அவா இல்லாதவர்க்குத் துன்பம் இல்லையாகும், அவா இருந்தால் எல்லாத் துன்பங்களும் மேலும் மேலும் ஒழியாமல் வரும்."
+        ],
+        "quiz_options_en": [
+          "\\\"We will by fraud win other's wealth\\\" Even this thought is sin and stealth",
+          "Of saints who renounce birth-fearing The head is he who dreads killing",
+          "To men on earth it is a shame Not to beget the child of fame",
+          "Desire extinct no sorrow-taints Grief comes on grief where it pretends"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புகழ்) பகுதியில் குறள் 238 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தமக்குப் பின் எஞ்சி நிற்பதாகியப் புகழைப் பெறாவிட்டால் உலகத்தார் எல்லார்க்கும் அத்தகைய வாழ்க்கை பழி என்று சொல்லுவர். பரிமேலழகர் உரை நுட்பம்: இசை என்னும் எச்சம் பெறாவிடின் - புகழ் என்னும் எச்சம் பெறலாயிருக்க, அது பெறாது ஒழிவாராயின், வையத்தார்க்கு எல்லாம் வசை என்ப - வையகத்தோர்க்கு எல்லாம் அது தானே வசை என்ற சொல்லுவர் நல்லோர். ( 'எச்சம்' என்றார், செய்தவர் இறந்து போகத் தான் இறவாது 'நிற்றலின...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 24: 'Renown'), Kural 238 distills a foundational ethical insight: \"Fame is virtue's child, they say; if, then, You childless live, you live the scorn of men\" Philosophically, Not to beget fame will be esteemed a disgrace by the wise in this world.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "harmony",
+        "ethics",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 239,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: புகழ் பெறாமல் வாழ்வைக் கழித்தவருடைய உடம்பைச் சுமந்த நிலம், வசையற்ற வளமான பயனாகிய விளைவு இல்லாமல் குன்றிவிடும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The ground which supports a body without fame will diminish in its rich produce.",
+        "story_title_ta": "புகழ் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Renown — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புகழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 239 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'புகழ் இல்லாத உடம்பைச் சுமந்த பூமி, தன் வளம் மிக்க விளைச்சலில் குறைவு படும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Renown'. Grandpa shared Kural 239 and explained in simple words: The ground which supports a body without fame will diminish in its rich produce. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: புகழ் எனப்படும் உயிர் இல்லாத வெறும் மனித உடலைச் சுமந்தால், இந்தப்பூமி நல்ல விளைவில்லாத நிலமாகக் கருதப்படும்.",
+        "moral_en": "Moral: The blameless fruits of fields' increase will dwindle down, If earth the burthen bear of men without renown.",
+        "game_blank_word_ta": "வண்பயன்",
+        "game_options_ta": [
+          "ஈதல்",
+          "இசைபட",
+          "வாழ்தல்",
+          "வண்பயன்"
+        ],
+        "game_options_en": [
+          "They gather fame who freely give The greatest gain for all that live",
+          "The glory of the alms-giver Is praised aloud as popular",
+          "Nothing else lasts on earth for e'er Saving high fame of the giver!",
+          "The land will shrink in yield if men O'erburden it without renown"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புகழ் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 239, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: புகழ் இல்லாத உடம்பைச் சுமந்த பூமி, தன் வளம் மிக்க விளைச்சலில் குறைவு படும். கலைஞர் உரை கூறுவது: புகழ் எனப்படும் உயிர் இல்லாத வெறும் மனித உடலைச் சுமந்தால், இந்தப்பூமி நல்ல விளைவில்லாத நிலமாகக் கருதப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renown (Domestic Virtue), Kural 239 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The ground which supports a body without fame will diminish in its rich produce. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புகழ்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renown' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புகழ்' அதிகாரத்தில் வரும் திருக்குறள் 239 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 239 from Chapter 'Renown'?",
+        "quiz_options_ta": [
+          "களவு செய்து பொருள் கொள்வதால் உண்டாகிய ஆக்கம் பெருகுவது போல் தோன்றி இயல்பாக இருக்க வேண்டிய அளவையும் கடந்து கெட்டு விடும்.",
+          "கொல்லாத அறத்தை மேற்கொண்டு நடக்கின்றவனுடைய வாழ்நாளின் மேல், உயிரைக்கொண்டு செல்லும் கூற்றுவனும் செல்லமாட்டான்.",
+          "அவா என்று சொல்லப்படுகின்ற துன்பங்களுள் பொல்லாதத் துன்பம் கெடுமானால் இவ் வுலகில் இன்பம் இடையறாமல் வாய்க்கும்.",
+          "புகழ் பெறாமல் வாழ்வைக் கழித்தவருடைய உடம்பைச் சுமந்த நிலம், வசையற்ற வளமான பயனாகிய விளைவு இல்லாமல் குன்றிவிடும்."
+        ],
+        "quiz_options_en": [
+          "The gain by fraud may overflow But swift to ruin it shall go",
+          "Life-eating-Death shall spare the breath Of him who no life puts to death",
+          "Desire, the woe of woes destroy Joy of joys here you enjoy",
+          "The land will shrink in yield if men O'erburden it without renown"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புகழ்) பகுதியில் குறள் 239 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: புகழ் பெறாமல் வாழ்வைக் கழித்தவருடைய உடம்பைச் சுமந்த நிலம், வசையற்ற வளமான பயனாகிய விளைவு இல்லாமல் குன்றிவிடும். பரிமேலழகர் உரை நுட்பம்: இசைஇலா யாக்கை பொறுத்த நிலம் - புகழ் இல்லாத உடம்பைச் சுமந்த நிலம் , வசை இலா வண்பயன் குன்றும் - பழிப்பு இல்லாத வளப்பத்தை உடைய விளையுள் குன்றும். ( உயிர் உண்டாயினும் அதனால் பயன் கொள்ளாமையின் யாக்கை எனவும் அது நிலத்திற்குப் பொறையாகலின் 'பொறுத்த' எனவும் கூறினார...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 24: 'Renown'), Kural 239 distills a foundational ethical insight: \"The blameless fruits of fields' increase will dwindle down, If earth the burthen bear of men without renown\" Philosophically, The ground which supports a body without fame will diminish in its rich produce.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wealth",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 240,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தாம் வாழும் வாழ்க்கையில் பழி உண்டாகாமல் வாழ்கின்றவரே உயிர் வாழ்கின்றவர், புகழ் உண்டாகாமல் வாழ்கின்றவரே உயிர் வாழாதவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Those live who live without disgrace Those who live without fame live not.",
+        "story_title_ta": "புகழ் — கவின் கற்ற பாடம்",
+        "story_title_en": "Renown — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புகழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 240 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தம்மீது பழி இன்றிப் புகழோடு வாழ்பவரே உயிர‌ோடு வாழ்பவர்; புகழ் இன்றிப் பழியோடு வாழ்பவர் இருந்தும் இல்லாதவரே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Renown'. Grandpa shared Kural 240 and explained in simple words: Those live who live without disgrace Those who live without fame live not. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பழி உண்டாகாமல் வாழ்வதே வாழ்க்கை எனப்படும், புகழ் இல்லாதவர் வாழ்வதும் வாழாததும் ஒன்றுதான்.",
+        "moral_en": "Moral: Who live without reproach, them living men we deem; Who live without renown, live not, though living men they seem.",
+        "game_blank_word_ta": "வசையொழிய",
+        "game_options_ta": [
+          "வசையொழிய",
+          "ஈதல்",
+          "இசைபட",
+          "வாழ்தல்"
+        ],
+        "game_options_en": [
+          "They live who live without blemish The blameful ones do not flurish",
+          "They gather fame who freely give The greatest gain for all that live",
+          "The glory of the alms-giver Is praised aloud as popular",
+          "Nothing else lasts on earth for e'er Saving high fame of the giver!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புகழ் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 240, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம்மீது பழி இன்றிப் புகழோடு வாழ்பவரே உயிர‌ோடு வாழ்பவர்; புகழ் இன்றிப் பழியோடு வாழ்பவர் இருந்தும் இல்லாதவரே. கலைஞர் உரை கூறுவது: பழி உண்டாகாமல் வாழ்வதே வாழ்க்கை எனப்படும், புகழ் இல்லாதவர் வாழ்வதும் வாழாததும் ஒன்றுதான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renown (Domestic Virtue), Kural 240 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those live who live without disgrace Those who live without fame live not. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புகழ்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renown' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புகழ்' அதிகாரத்தில் வரும் திருக்குறள் 240 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 240 from Chapter 'Renown'?",
+        "quiz_options_ta": [
+          "தாம் வாழும் வாழ்க்கையில் பழி உண்டாகாமல் வாழ்கின்றவரே உயிர் வாழ்கின்றவர், புகழ் உண்டாகாமல் வாழ்கின்றவரே உயிர் வாழாதவர்.",
+          "களவு செய்து பிறர் பொருள் கொள்ளுதலில் ஒருவனுக்கு உள்ள மிகுந்த விருப்பம், பயன் விளையும் போது தொலையாதத் துன்பத்தைத் தரும்.",
+          "தன் உயிர் உடம்பிலிருந்து நீங்கிச் செல்வதாக இருந்தாலும், அதைத் தடுப்பதற்காகத் தான் வேறோர் உயிரை நீக்கும் செயலைச் செய்யக்கூடாது.",
+          "ஒருபோதும் நிரம்பாத தன்மை உடைய அவாவை ஒழித்தால் ஒழித்த அந்நிலையே எப்போதும் மாறாதிருக்கும் இன்ப வாழ்வைத் தரும்."
+        ],
+        "quiz_options_en": [
+          "They live who live without blemish The blameful ones do not flurish",
+          "The fruit that fraud and greed obtain Shall end in endless grief and pain",
+          "Kill not life that others cherish Even when your life must perish",
+          "Off with desire insatiate You gain the native blissful state"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புகழ்) பகுதியில் குறள் 240 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தாம் வாழும் வாழ்க்கையில் பழி உண்டாகாமல் வாழ்கின்றவரே உயிர் வாழ்கின்றவர், புகழ் உண்டாகாமல் வாழ்கின்றவரே உயிர் வாழாதவர். பரிமேலழகர் உரை நுட்பம்: வசை ஒழிய வாழ்வாரே வாழ்வார் - தம்மாட்டு வசை உண்டாகாமல் வாழ்வாரே உயிர் வாழ்வாராவார், இசை ஒழிய வாழ்வாரே வாழாதவர் - புகழ் உண்டாகாமல் வாழ்வாரே இறந்தார் ஆவார். (வசையொழிதலாவது இசை என்னும் எச்சம் பெறுதல் ஆயினமையின், இசையொழிதலாவது வசை பெறுதலாயிற்று. மேல், 'இசை இலா...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 24: 'Renown'), Kural 240 distills a foundational ethical insight: \"Who live without reproach, them living men we deem; Who live without renown, live not, though living men they seem\" Philosophically, Those live who live without disgrace Those who live without fame live not.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "harmony"
+      ]
+    }
+  ]
+}

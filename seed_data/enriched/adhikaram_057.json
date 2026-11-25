@@ -1,0 +1,588 @@
+{
+  "adhikaram_id": 57,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.970290549+00:00",
+  "kurals": [
+    {
+      "kural_number": 561,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: செய்த குற்றத்தை தக்கவாறு ஆராய்ந்து மீண்டும் அக் குற்றம் செய்யாத படி குற்றத்திற்குப் பொருந்துமாறு தண்டிப்பவனே அரசன் ஆவான்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: He is a king who having equitably examined (any injustice which has been brought to his notice), suitably punishes it, so that it may not be again committed.",
+        "story_title_ta": "வெருவந்த செய்யாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Absence of Terrorism — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வெருவந்த செய்யாமை' என்ற அதிகாரத்திலிருந்து குறள் 561 பற்றிக் கதை சொன்னார். 'தவறு செய்வோரைக் கண்டு, நடுநிலையில் நின்று ஆய்ந்து, அத்தவற்றை அவர் திரும்பவும் செய்யாமல் இருக்கத் தவற்றுக்கு ஏற்பத் தண்டிப்பதே ஆட்சி.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 57, 'Absence of Terrorism', centered on Kural 561: He is a king who having equitably examined (any injustice which has been brought to his notice), suitably punishes it, so that it may not be again committed. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நடைபெற்ற குற்றங்களை நடுநிலை தவறாமல் ஆராய்ந்தறிந்து, மீண்டும் அவை நிகழா வண்ணம் அக்குற்றங்களுக்கேற்பத் தண்டனை கிடைக்கச் செய்வதே அரசின் கடமையாகும்.",
+        "moral_en": "Moral: Who punishes, investigation made in due degree, So as to stay advance of crime, a king is he.",
+        "game_blank_word_ta": "நாடித்",
+        "game_options_ta": [
+          "கடிதோச்சி",
+          "நாடித்",
+          "மெல்ல",
+          "எறிக"
+        ],
+        "game_options_en": [
+          "Wield fast the rod but gently lay This strict mildness prolongs the sway",
+          "A king enquires and gives sentence Just to prevent future offence",
+          "His cruel rod of dreadful deed Brings king's ruin quick indeed",
+          "As men the king a tyrant call His days dwindled, hasten his fall"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெருவந்த செய்யாமை (அரசியல்) பிரிவில் அமைந்த குறள் 561, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தவறு செய்வோரைக் கண்டு, நடுநிலையில் நின்று ஆய்ந்து, அத்தவற்றை அவர் திரும்பவும் செய்யாமல் இருக்கத் தவற்றுக்கு ஏற்பத் தண்டிப்பதே ஆட்சி. கலைஞர் உரை கூறுவது: நடைபெற்ற குற்றங்களை நடுநிலை தவறாமல் ஆராய்ந்தறிந்து, மீண்டும் அவை நிகழா வண்ணம் அக்குற்றங்களுக்கேற்பத் தண்டனை கிடைக்கச் செய்வதே அரசின் கடமையாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Absence of Terrorism (Royalty & Polity), Kural 561 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He is a king who having equitably examined (any injustice which has been brought to his notice), suitably punishes it, so that it may not be again committed. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வெருவந்த செய்யாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Absence of Terrorism' thoughtfully.",
+        "quiz_question_ta": "'வெருவந்த செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 561 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 561 from Chapter 'Absence of Terrorism'?",
+        "quiz_options_ta": [
+          "காலம் நீட்டித்தல், சோம்பல், மறதி, அளவு மீறியத் தூக்கம் ஆகிய இந் நான்கும் கெடுகின்ற இயல்புடையவர் விரும்பி ஏறும் மரக்கலமாம்.",
+          "செய்த குற்றத்தை தக்கவாறு ஆராய்ந்து மீண்டும் அக் குற்றம் செய்யாத படி குற்றத்திற்குப் பொருந்துமாறு தண்டிப்பவனே அரசன் ஆவான்.",
+          "கருத்துக்களை ஒழுங்காகக் கோர்த்து இனியாக சொல்ல வல்லவரைப் பெற்றால், உலகம் விரைந்து அவருடைய ஏவலைக் கேட்டு நடக்கும்.",
+          "அரசரைச் சார்ந்து வாழ்கின்றவர், அவரை மிக நீங்காமலும், மிக அணுகாமலும் நெருப்பில் குளிர் காய்கின்றவர் போல இருக்க வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "To lag, forget, idle and doze These four are pleasure boats of loss",
+          "A king enquires and gives sentence Just to prevent future offence",
+          "The world will quickly carry out The words of counsellors astute",
+          "Move with hostile kings as with fire Not coming close nor going far"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (வெருவந்த செய்யாமை) பகுதியில் குறள் 561 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செய்த குற்றத்தை தக்கவாறு ஆராய்ந்து மீண்டும் அக் குற்றம் செய்யாத படி குற்றத்திற்குப் பொருந்துமாறு தண்டிப்பவனே அரசன் ஆவான். பரிமேலழகர் உரை நுட்பம்: 'தக்காங்கு' நாடி - ஒருவன் தன்னின் மெலியார்மேல் சென்ற வழி அதனை நடுவாகநின்று ஆராய்ந்து: தலைச்செல்லா வண்ணத்தால் 'ஒத்தாங்கு' ஒறுப்பது வேந்து - பின்னும் அது செய்யாமற்பொருட்டு அவனை அக்குற்றத்திற்கு ஒப்ப ஒறுப்பானே அரசனாவான். (தக்காங்கு, ஒத்தாங்கு என்பன ஒரு சொல...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 57: 'Absence of Terrorism'), Kural 561 distills a foundational ethical insight: \"Who punishes, investigation made in due degree, So as to stay advance of crime, a king is he\" Philosophically, He is a king who having equitably examined (any injustice which has been brought to his notice), suitably punishes it, so that it may not be again committed.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "justice",
+        "time",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 562,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஆக்கம் நெடுங்காலம் நீங்காமலிருக்க விரும்புகின்றவர் (தண்டிக்கத் தொடங்கும் போது) அளவு கடந்து செய்வது போல் காட்டி அளவு மீறாமல் முறை செய்ய வேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Let the king, who desires that his prosperity may long remain, commence his preliminary enquires with strictness, and then punish with mildness.",
+        "story_title_ta": "வெருவந்த செய்யாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Absence of Terrorism — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வெருவந்த செய்யாமை' என்ற அதிகாரத்திலிருந்து குறள் 562 பற்றிக் கதை சொன்னார். 'நெடுங்காலம் ஆட்சி செய்ய விரும்புபவர் தண்டிக்கும்போது கடுமையாகத் தண்டிப்பவர்போல தொடங்கி வரம்பு கடவாமல் செய்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 57, 'Absence of Terrorism', centered on Kural 562: Let the king, who desires that his prosperity may long remain, commence his preliminary enquires with strictness, and then punish with mildness. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: குற்றங்கள் நிகழாமல் இருக்கக் கண்டிக்கும்போது கடுமை காட்டித், தண்டிக்கும் போது மென்மை காட்டுகிறவர்களின் செல்வாக்குதான் தொய்வின்றி நெடுநாள் நீடிக்கும்.",
+        "moral_en": "Moral: For length of days with still increasing joys on Heav'n who call, Should raise the rod with brow severe, but let it gently fall.",
+        "game_blank_word_ta": "எறிக",
+        "game_options_ta": [
+          "தக்காங்கு",
+          "நாடித்",
+          "எறிக",
+          "தலைச்செல்லா"
+        ],
+        "game_options_en": [
+          "A king enquires and gives sentence Just to prevent future offence",
+          "His cruel rod of dreadful deed Brings king's ruin quick indeed",
+          "Wield fast the rod but gently lay This strict mildness prolongs the sway",
+          "As men the king a tyrant call His days dwindled, hasten his fall"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெருவந்த செய்யாமை (அரசியல்) பிரிவில் அமைந்த குறள் 562, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நெடுங்காலம் ஆட்சி செய்ய விரும்புபவர் தண்டிக்கும்போது கடுமையாகத் தண்டிப்பவர்போல தொடங்கி வரம்பு கடவாமல் செய்க. கலைஞர் உரை கூறுவது: குற்றங்கள் நிகழாமல் இருக்கக் கண்டிக்கும்போது கடுமை காட்டித், தண்டிக்கும் போது மென்மை காட்டுகிறவர்களின் செல்வாக்குதான் தொய்வின்றி நெடுநாள் நீடிக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Absence of Terrorism (Royalty & Polity), Kural 562 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let the king, who desires that his prosperity may long remain, commence his preliminary enquires with strictness, and then punish with mildness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வெருவந்த செய்யாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Absence of Terrorism' thoughtfully.",
+        "quiz_question_ta": "'வெருவந்த செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 562 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 562 from Chapter 'Absence of Terrorism'?",
+        "quiz_options_ta": [
+          "நாட்டை ஆளும் தலைவருடைய உறவுத் தானே வந்து சேர்ந்தாலும், சோம்பல் உடையவர் சிறந்த பயனை அடைய முடியாது.",
+          "குற்றமற்றவையாகியச் சில சொற்களைச் சொல்லத் தெரியாதவர், உண்மையாகவே பலச் சொற்களைச் சொல்லிக்கொண்டிருக்க விரும்புவர்.",
+          "ஆக்கம் நெடுங்காலம் நீங்காமலிருக்க விரும்புகின்றவர் (தண்டிக்கத் தொடங்கும் போது) அளவு கடந்து செய்வது போல் காட்டி அளவு மீறாமல் முறை செய்ய வேண்டும்.",
+          "அரசர் விரும்புகின்றவர்களைத் தாம் விரும்பாமலிருத்தல் (அரசரைச் சார்ந்திருப்பவர்க்கு) அரசரால் நிலையான ஆக்கத்தைப் பெற்றுத் தரும்."
+        ],
+        "quiz_options_en": [
+          "With all the wealth of lords of earth The slothful gain nothing of worth",
+          "They overspeak who do not seek A few and flawless words to speak",
+          "Wield fast the rod but gently lay This strict mildness prolongs the sway",
+          "Crave not for things which kings desire This brings thee their fruitful favour"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (வெருவந்த செய்யாமை) பகுதியில் குறள் 562 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஆக்கம் நெடுங்காலம் நீங்காமலிருக்க விரும்புகின்றவர் (தண்டிக்கத் தொடங்கும் போது) அளவு கடந்து செய்வது போல் காட்டி அளவு மீறாமல் முறை செய்ய வேண்டும். பரிமேலழகர் உரை நுட்பம்: கடிது ஒச்சி - அவ்வொத்தாங்கு ஒறுத்தல் தொடங்குங்கால் அளவிறப்பச் செய்வார்போல் தொடங்கி, மெல்ல எறிக - செய்யுங்கால் அளவிறவாமல் செய்க, ஆக்கம் நெடிது நீங்காமை வேண்டுபவர் - ஆக்கம் தம்கண் நெடுங்காலம் நிற்றலை வேண்டுவார். (கடிது ஓச்சல், குற்றஞ் செய்வார் அதனை அஞ்சுதற...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 57: 'Absence of Terrorism'), Kural 562 distills a foundational ethical insight: \"For length of days with still increasing joys on Heav'n who call, Should raise the rod with brow severe, but let it gently fall\" Philosophically, Let the king, who desires that his prosperity may long remain, commence his preliminary enquires with strictness, and then punish with mildness.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "time",
+        "self-mastery",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 563,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: குடிகள் அஞ்சும் படியான கொடுமைகளைச் செய்து ஆளும் கொடுங்கோல் அரசனானால், அவன் திண்ணமாக விரைவில் கெடுவான்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The cruel-sceptred king, who acts so as to put his subjects in fear, will certainly and quickly come to ruin.",
+        "story_title_ta": "வெருவந்த செய்யாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Absence of Terrorism — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வெருவந்த செய்யாமை' என்ற அதிகாரத்திலிருந்து குறள் 563 பற்றிக் கதை சொன்னார். 'குடிமக்கள் அஞ்சும்படியாகச் செயல் செய்யும் கொடிய ஆட்சி விரைந்து அழிவது உறுதி.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 57, 'Absence of Terrorism', centered on Kural 563: The cruel-sceptred king, who acts so as to put his subjects in fear, will certainly and quickly come to ruin. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: குடிமக்கள் அஞ்சும்படியாகக் கொடுங்கோல் நடத்தும் அரசு நிச்சயமாக விரைவில் அழியும்.",
+        "moral_en": "Moral: Where subjects dread of cruel wrongs endure, Ruin to unjust king is swift and sure.",
+        "game_blank_word_ta": "னாயின்",
+        "game_options_ta": [
+          "தக்காங்கு",
+          "நாடித்",
+          "தலைச்செல்லா",
+          "னாயின்"
+        ],
+        "game_options_en": [
+          "A king enquires and gives sentence Just to prevent future offence",
+          "Wield fast the rod but gently lay This strict mildness prolongs the sway",
+          "As men the king a tyrant call His days dwindled, hasten his fall",
+          "His cruel rod of dreadful deed Brings king's ruin quick indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெருவந்த செய்யாமை (அரசியல்) பிரிவில் அமைந்த குறள் 563, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: குடிமக்கள் அஞ்சும்படியாகச் செயல் செய்யும் கொடிய ஆட்சி விரைந்து அழிவது உறுதி. கலைஞர் உரை கூறுவது: குடிமக்கள் அஞ்சும்படியாகக் கொடுங்கோல் நடத்தும் அரசு நிச்சயமாக விரைவில் அழியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Absence of Terrorism (Royalty & Polity), Kural 563 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The cruel-sceptred king, who acts so as to put his subjects in fear, will certainly and quickly come to ruin. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வெருவந்த செய்யாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Absence of Terrorism' thoughtfully.",
+        "quiz_question_ta": "'வெருவந்த செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 563 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 563 from Chapter 'Absence of Terrorism'?",
+        "quiz_options_ta": [
+          "சோம்பலை விரும்பி மேற்க் கொண்டு சிறந்த முயற்சி இல்லாதவராய் வாழ்கின்றவர் பிறர் இடித்துக் கூறி இகழ்கின்ற சொல்லைக் கேட்கும் நிலைமை அடைவர்.",
+          "தாம் கற்ற நூற்ப் பொருளைப் பிறர் உணருமாறு விரிந்துரைக்க முடியாதவர், கொத்தாக மலர்ந்திருந்த போதிலும் மணம் கமழாத மலரைப் போன்றவர்.",
+          ".( அரசரைச் சார்ந்தவர்) தம்மைக் காத்துக் கொள்ள விரும்பினால் அரியத் தவறுகள் நேராமல் காத்துக்கொள்ள வேண்டும், ஐயுற்றபின் அரசரைத் தெளிவித்தல் எவர்க்கும் முடியாது.",
+          "குடிகள் அஞ்சும் படியான கொடுமைகளைச் செய்து ஆளும் கொடுங்கோல் அரசனானால், அவன் திண்ணமாக விரைவில் கெடுவான்."
+        ],
+        "quiz_options_en": [
+          "The slothful lacking noble deeds Subject themselves to scornful words",
+          "Who can't express what they have learnt Are bunch of flowers not fragrant",
+          "Guard thyself from petty excess Suspected least, there's no redress",
+          "His cruel rod of dreadful deed Brings king's ruin quick indeed"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (வெருவந்த செய்யாமை) பகுதியில் குறள் 563 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: குடிகள் அஞ்சும் படியான கொடுமைகளைச் செய்து ஆளும் கொடுங்கோல் அரசனானால், அவன் திண்ணமாக விரைவில் கெடுவான். பரிமேலழகர் உரை நுட்பம்: வெருவந்த செய்து ஒழுகும் வெங்கோலன் ஆயின் - குடிகள் வெருவிய செயல்களைச் செய்து நடக்கும் வெங்கோலனாம் ஆயின்; ஒருவந்தம் ஒல்லைக் கெடும் - அரசன் ஒருதலையாகக் கடிதில் கெடும். (வெங்கோலன் என்பது ஈண்டு வாளா பெயராய் நின்றது. 'ஒருவந்தம், ஒருதலை, ஏகாந்தம்' என்பன...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 57: 'Absence of Terrorism'), Kural 563 distills a foundational ethical insight: \"Where subjects dread of cruel wrongs endure, Ruin to unjust king is swift and sure\" Philosophically, The cruel-sceptred king, who acts so as to put his subjects in fear, will certainly and quickly come to ruin.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "leadership",
+        "justice",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 564,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நம் அரசன் கடுமையானவன் என்று குடிகளால் கூறப்படும் கொடுஞ்சொல்லை உடைய அரசன், தன் ஆயுள் குறைந்து விரைவில் கெடுவான்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The king who is spoken of as cruel will quickly perish; his life becoming shortened.",
+        "story_title_ta": "வெருவந்த செய்யாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Absence of Terrorism — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வெருவந்த செய்யாமை' என்ற அதிகாரத்திலிருந்து குறள் 564 பற்றிக் கதை சொன்னார். 'நம்மை ஆளுவோர் மிகவும் கொடியவர் என்று குடிமக்களால் சொல்லப்படும் கொடுஞ் சொல்லைப் பெற்ற ஆட்சி அதன் ஆட்சிக் காலம் குறைந்து விரைவி்ல் அழியும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 57, 'Absence of Terrorism', centered on Kural 564: The king who is spoken of as cruel will quickly perish; his life becoming shortened. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கடுஞ்சொல் உரைக்கும் கொடுங்கோல் என்று குடிமக்களால் கருதப்படும் அரசு, தனது பெருமையை விரைவில் இழக்கும்.",
+        "moral_en": "Moral: 'Ah! cruel is our king', where subjects sadly say, His age shall dwindle, swift his joy of life decay.",
+        "game_blank_word_ta": "உறைகடுகி",
+        "game_options_ta": [
+          "உறைகடுகி",
+          "தக்காங்கு",
+          "நாடித்",
+          "தலைச்செல்லா"
+        ],
+        "game_options_en": [
+          "As men the king a tyrant call His days dwindled, hasten his fall",
+          "A king enquires and gives sentence Just to prevent future offence",
+          "Wield fast the rod but gently lay This strict mildness prolongs the sway",
+          "His cruel rod of dreadful deed Brings king's ruin quick indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெருவந்த செய்யாமை (அரசியல்) பிரிவில் அமைந்த குறள் 564, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நம்மை ஆளுவோர் மிகவும் கொடியவர் என்று குடிமக்களால் சொல்லப்படும் கொடுஞ் சொல்லைப் பெற்ற ஆட்சி அதன் ஆட்சிக் காலம் குறைந்து விரைவி்ல் அழியும். கலைஞர் உரை கூறுவது: கடுஞ்சொல் உரைக்கும் கொடுங்கோல் என்று குடிமக்களால் கருதப்படும் அரசு, தனது பெருமையை விரைவில் இழக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Absence of Terrorism (Royalty & Polity), Kural 564 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The king who is spoken of as cruel will quickly perish; his life becoming shortened. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வெருவந்த செய்யாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Absence of Terrorism' thoughtfully.",
+        "quiz_question_ta": "'வெருவந்த செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 564 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 564 from Chapter 'Absence of Terrorism'?",
+        "quiz_options_ta": [
+          "நம் அரசன் கடுமையானவன் என்று குடிகளால் கூறப்படும் கொடுஞ்சொல்லை உடைய அரசன், தன் ஆயுள் குறைந்து விரைவில் கெடுவான்.",
+          "சோம்பல் நல்ல குடியில் பிறந்தவனிடம் வந்து பொருந்தினால், அஃது அவனை அவனுடைய பகைவர்க்கு அடிமையாகுமாறு செய்துவிடும்.",
+          "ஒருவனுக்கு வாய்த்த துணையின் நன்மை ஆக்கத்தைக் கொடுக்கும், செய்யும் வினையின் நன்மை அவன் விரும்பிய எல்லாவற்றையும் கொடுக்கும்.",
+          "வல்லமை அமைந்த பெரியாரிடத்தில் (மற்றொருவன்) செவியை நெருங்கிச் சொல்லுதல் உடன் சேர்ந்து நகைத்தலும் செய்யாமல் ஒழுகவேண்டும்."
+        ],
+        "quiz_options_en": [
+          "As men the king a tyrant call His days dwindled, hasten his fall",
+          "If sloth invades a noble house It will become a slave of foes",
+          "Friendship brings gain; but action pure Does every good thing we desire",
+          "Whisper not; nor smile exchange Amidst august men's assemblage"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (வெருவந்த செய்யாமை) பகுதியில் குறள் 564 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நம் அரசன் கடுமையானவன் என்று குடிகளால் கூறப்படும் கொடுஞ்சொல்லை உடைய அரசன், தன் ஆயுள் குறைந்து விரைவில் கெடுவான். பரிமேலழகர் உரை நுட்பம்: இறை கடியன் என்று உரைக்கும் இன்னாச்சொல் வேந்தன் - குடிகளான் 'நம் இறைவன் கடியன்' என்று சொல்லப்படும் இன்னாத சொல்லையுடைய வேந்தன், உறை கடுகி ஒல்லைக்கெடும் - ஆயுளும் குறைந்து செல்வமும் கடிதின் இழக்கும். (நெஞ்சு நொந்து சொல்லுதலான், இன்னாமை பயப்பதாய சொல்லை 'இன்னாச...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 57: 'Absence of Terrorism'), Kural 564 distills a foundational ethical insight: \"'Ah! cruel is our king', where subjects sadly say, His age shall dwindle, swift his joy of life decay\" Philosophically, The king who is spoken of as cruel will quickly perish; his life becoming shortened.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "family",
+        "speech",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 565,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: எளிதில் காணமுடியாத அருமையும், இனிமையற்ற முகமும் உடையவனது பெரிய செல்வம், பேய் கண்டு காத்திருப்பதைப் போன்ற தன்மையுடையது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The great wealth of him who is difficult of access and possesses a sternness of countenance, is like that which has been obtained by a devil.",
+        "story_title_ta": "வெருவந்த செய்யாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Absence of Terrorism — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வெருவந்த செய்யாமை' என்ற அதிகாரத்திலிருந்து குறள் 565 பற்றிக் கதை சொன்னார். 'தன்னைக் காண வருவார்க்கு நேரம் தருவதில் இழுத்தடிப்பும், கண்டால் முகக்கடுப்பும் உடையவரின் பெருஞ்செல்வம், பூதத்தால் கைக்கொள்ளப்பட்டது போன்றதாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 57, 'Absence of Terrorism', centered on Kural 565: The great wealth of him who is difficult of access and possesses a sternness of countenance, is like that which has been obtained by a devil. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: யாரும் எளிதில் காண முடியாதவனாகவும், கடுகடுத்த முகத்துடனும் இருப்பவனிடம் குவிந்துள்ள பெரும் செல்வம் பேய்த் தோற்றம் எனப்படும் அஞ்சத்தகும் தோற்றமேயாகும்.",
+        "moral_en": "Moral: Whom subjects scarce may see, of harsh forbidding countenance; His ample wealth shall waste, blasted by demon's glance.",
+        "game_blank_word_ta": "டன்னது",
+        "game_options_ta": [
+          "தக்காங்கு",
+          "டன்னது",
+          "நாடித்",
+          "தலைச்செல்லா"
+        ],
+        "game_options_en": [
+          "A king enquires and gives sentence Just to prevent future offence",
+          "Whose sight is scarce, whose face is foul His wealth seems watched by a ghoul",
+          "Wield fast the rod but gently lay This strict mildness prolongs the sway",
+          "His cruel rod of dreadful deed Brings king's ruin quick indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெருவந்த செய்யாமை (அரசியல்) பிரிவில் அமைந்த குறள் 565, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்னைக் காண வருவார்க்கு நேரம் தருவதில் இழுத்தடிப்பும், கண்டால் முகக்கடுப்பும் உடையவரின் பெருஞ்செல்வம், பூதத்தால் கைக்கொள்ளப்பட்டது போன்றதாம். கலைஞர் உரை கூறுவது: யாரும் எளிதில் காண முடியாதவனாகவும், கடுகடுத்த முகத்துடனும் இருப்பவனிடம் குவிந்துள்ள பெரும் செல்வம் பேய்த் தோற்றம் எனப்படும் அஞ்சத்தகும் தோற்றமேயாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Absence of Terrorism (Royalty & Polity), Kural 565 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The great wealth of him who is difficult of access and possesses a sternness of countenance, is like that which has been obtained by a devil. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வெருவந்த செய்யாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Absence of Terrorism' thoughtfully.",
+        "quiz_question_ta": "'வெருவந்த செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 565 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 565 from Chapter 'Absence of Terrorism'?",
+        "quiz_options_ta": [
+          "ஒருவன் சோம்பலை ஆளுந் தன்மையை மாற்றிவிட்டால் அவனுடைய குடியிலும் ஆண்மையிலும் வந்தக் குற்றம் தீர்ந்து விடும்.",
+          "எளிதில் காணமுடியாத அருமையும், இனிமையற்ற முகமும் உடையவனது பெரிய செல்வம், பேய் கண்டு காத்திருப்பதைப் போன்ற தன்மையுடையது.",
+          "புகழையும் அறத்தையும் தாராத (தூய்மை அற்ற) செயல்களை எக்காலத்திலும் ஒருவன் செய்யாமல் விட்டொழிக்க வேண்டும்.",
+          "(அரசர் மறைபொருள் பேசும் போது) எப்பொருளையும் உற்றுக் கேட்காமல் தொடர்ந்து வினவாமல் அப்பொருளை அவரே விட்டுச் சொன்னபோது கேட்டறிய வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "The blots on race and rule shall cease When one from sloth gets his release",
+          "Whose sight is scarce, whose face is foul His wealth seems watched by a ghoul",
+          "Eschew always acts that do not Bring good nor glory on their part",
+          "Hear not, ask not the king's secret Hear only when he lets it out"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (வெருவந்த செய்யாமை) பகுதியில் குறள் 565 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எளிதில் காணமுடியாத அருமையும், இனிமையற்ற முகமும் உடையவனது பெரிய செல்வம், பேய் கண்டு காத்திருப்பதைப் போன்ற தன்மையுடையது. பரிமேலழகர் உரை நுட்பம்: அருஞ்செவ்வி இன்னா முகத்தான் பெருஞ்செல்வம் - தன்னைக் காண வேண்டுவார்க்குக் காலம் அரியனாய்க் கண்டால் இன்னாத முகத்தினையுடையானது பெரிய செல்வம், பேய் கண்டன்னது உடைத்து - பேயாற் காணப்பட்டாற் போல்வதொரு குற்றம் உடைத்து. (எனவே, இவை இரண்டும் வெருவந்த செய்தலாயின, இவை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 57: 'Absence of Terrorism'), Kural 565 distills a foundational ethical insight: \"Whom subjects scarce may see, of harsh forbidding countenance; His ample wealth shall waste, blasted by demon's glance\" Philosophically, The great wealth of him who is difficult of access and possesses a sternness of countenance, is like that which has been obtained by a devil.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "love",
+        "kindness",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 566,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: கடுஞ்சொல் உடையவனாய்க் கண்ணோட்டம் இல்லாதவனாய் உள்ளவனுடைய பெரிய செல்வம் நீடித்தல் இல்லாமல் அப்பொழுதே கெடும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The abundant wealth of the king whose words are harsh and whose looks are void of kindness, will instantly perish instead of abiding long, with him.",
+        "story_title_ta": "வெருவந்த செய்யாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Absence of Terrorism — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வெருவந்த செய்யாமை' என்ற அதிகாரத்திலிருந்து குறள் 566 பற்றிக் கதை சொன்னார். 'சுடுசொல்லையும், முகதாட்சண்யம் இன்மையும் உடைய அரசின் பெருஞ்செல்வம், பெருகாமல் உடனே அழியும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 57, 'Absence of Terrorism', centered on Kural 566: The abundant wealth of the king whose words are harsh and whose looks are void of kindness, will instantly perish instead of abiding long, with him. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கடுஞ்சொல்லும், கருணையற்ற உள்ளமும் கொண்டவர்களின் பெருஞ்செல்வம் நிலைக்காமல் அழிந்துவிடும்.",
+        "moral_en": "Moral: The tyrant, harsh in speach and hard of eye, His ample joy, swift fading, soon shall die.",
+        "game_blank_word_ta": "கெடும்",
+        "game_options_ta": [
+          "தக்காங்கு",
+          "நாடித்",
+          "கெடும்",
+          "தலைச்செல்லா"
+        ],
+        "game_options_en": [
+          "A king enquires and gives sentence Just to prevent future offence",
+          "Wield fast the rod but gently lay This strict mildness prolongs the sway",
+          "Whose word is harsh, whose sight is rude His wealth and power quickly fade",
+          "His cruel rod of dreadful deed Brings king's ruin quick indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெருவந்த செய்யாமை (அரசியல்) பிரிவில் அமைந்த குறள் 566, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சுடுசொல்லையும், முகதாட்சண்யம் இன்மையும் உடைய அரசின் பெருஞ்செல்வம், பெருகாமல் உடனே அழியும். கலைஞர் உரை கூறுவது: கடுஞ்சொல்லும், கருணையற்ற உள்ளமும் கொண்டவர்களின் பெருஞ்செல்வம் நிலைக்காமல் அழிந்துவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Absence of Terrorism (Royalty & Polity), Kural 566 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The abundant wealth of the king whose words are harsh and whose looks are void of kindness, will instantly perish instead of abiding long, with him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வெருவந்த செய்யாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Absence of Terrorism' thoughtfully.",
+        "quiz_question_ta": "'வெருவந்த செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 566 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 566 from Chapter 'Absence of Terrorism'?",
+        "quiz_options_ta": [
+          "அடியால் உலகத்தை அளந்த கடவுள் தாவியப் பரப்பு எல்லாவற்றையும் சோம்பல் இல்லாத அரசன் ஒரு சேர அடைவான்.",
+          "மேன்மேலும் உயர்வோம் என்று விரும்பி முயல்கின்றவர் தம்முடைய புகழ் கெடுவதற்குக் காரணமான செயலைச் செய்யாமல் விட வேண்டும்.",
+          "கடுஞ்சொல் உடையவனாய்க் கண்ணோட்டம் இல்லாதவனாய் உள்ளவனுடைய பெரிய செல்வம் நீடித்தல் இல்லாமல் அப்பொழுதே கெடும்.",
+          "அரசருடையக் குறிப்பை அறிந்து தக்கக் காலத்தை எதிர்நோக்கி, வெறுப்பில்லாதவற்றையும் விருப்பமானவற்றையும் அவர் விரும்புமாறுச் சொல்ல வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "The slothless king shall gain en masse *All regions trod by Lord apace * Hindu mythology holds that Lord Vishnu measured with his feet the three worlds",
+          "Those in the world desire for fame Should shun the deed that dims their name",
+          "Whose word is harsh, whose sight is rude His wealth and power quickly fade",
+          "Discern his mood and time and tell No dislikes but what king likes well"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (வெருவந்த செய்யாமை) பகுதியில் குறள் 566 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கடுஞ்சொல் உடையவனாய்க் கண்ணோட்டம் இல்லாதவனாய் உள்ளவனுடைய பெரிய செல்வம் நீடித்தல் இல்லாமல் அப்பொழுதே கெடும். பரிமேலழகர் உரை நுட்பம்: கடுஞ்சொல்லன் கண்இலன் ஆயின் - அரசன் கடிய சொல்லையும் உடையனாய்க் கண்ணோட்டமும் இலனாயின்: நெடுஞ்செல்வம் நீடு இன்றி ஆங்கே கெடும் - அவனது பெரிய செல்வம் நீடுதலின்றி அப்பொழுதே கெடும். '(வேட்டம் கடுஞ்சொல் மிகுதண்டம் சூது பொருள்ஈட்டம் கள்காமமொடு ஏழு' எனப்பட்ட...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 57: 'Absence of Terrorism'), Kural 566 distills a foundational ethical insight: \"The tyrant, harsh in speach and hard of eye, His ample joy, swift fading, soon shall die\" Philosophically, The abundant wealth of the king whose words are harsh and whose looks are void of kindness, will instantly perish instead of abiding long, with him.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "wealth",
+        "love",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 567,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: கடுமையான சொல்லும் முறைகடந்த தண்டனையும் அரசனுடைய வெற்றிக்கு காரணமான வலிமையைத் தேய்க்கும் அரம் ஆகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Severe words and excessive punishments will be a file to waste away a king's power for destroying (his enemies).",
+        "story_title_ta": "வெருவந்த செய்யாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Absence of Terrorism — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வெருவந்த செய்யாமை' என்ற அதிகாரத்திலிருந்து குறள் 567 பற்றிக் கதை சொன்னார். 'கடுமையான சொற்களும், வரம்பு மீறிய தண்டனையும் அரசின் பகையை வெல்லுதற்கு ஏற்ற ஆயுதத்தைத் தேய்த்துக் குறைக்கும் அரம் ஆகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 57, 'Absence of Terrorism', centered on Kural 567: Severe words and excessive punishments will be a file to waste away a king's power for destroying (his enemies). Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கடுஞ்சொல்லும், முறைகடந்த தண்டனையும் ஓர் அரசின் வலிமையைத் தேய்த்து மெலியச் செய்யும் அரம் எனும் கருவியாக அமையும்.",
+        "moral_en": "Moral: Harsh words and punishments severe beyond the right, Are file that wears away the monarch's conquering might.",
+        "game_blank_word_ta": "கடுமொழியும்",
+        "game_options_ta": [
+          "தக்காங்கு",
+          "நாடித்",
+          "தலைச்செல்லா",
+          "கடுமொழியும்"
+        ],
+        "game_options_en": [
+          "A king enquires and gives sentence Just to prevent future offence",
+          "Wield fast the rod but gently lay This strict mildness prolongs the sway",
+          "His cruel rod of dreadful deed Brings king's ruin quick indeed",
+          "Reproofs rough and punishments rude Like files conquering power corrode"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெருவந்த செய்யாமை (அரசியல்) பிரிவில் அமைந்த குறள் 567, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கடுமையான சொற்களும், வரம்பு மீறிய தண்டனையும் அரசின் பகையை வெல்லுதற்கு ஏற்ற ஆயுதத்தைத் தேய்த்துக் குறைக்கும் அரம் ஆகும். கலைஞர் உரை கூறுவது: கடுஞ்சொல்லும், முறைகடந்த தண்டனையும் ஓர் அரசின் வலிமையைத் தேய்த்து மெலியச் செய்யும் அரம் எனும் கருவியாக அமையும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Absence of Terrorism (Royalty & Polity), Kural 567 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Severe words and excessive punishments will be a file to waste away a king's power for destroying (his enemies). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வெருவந்த செய்யாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Absence of Terrorism' thoughtfully.",
+        "quiz_question_ta": "'வெருவந்த செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 567 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 567 from Chapter 'Absence of Terrorism'?",
+        "quiz_options_ta": [
+          "இது செய்வதற்கு அருமையாகாது என்று சோர்வுறாமல் இருக்க வேண்டும், அதைச் செய்வதற்க்குத் தக்க பெருமையை முயற்சி உண்டாக்கும்,",
+          "அசைவற்ற ‌தெளிந்த அறிவினையுடையவர், துன்பத்தில் சிக்குண்டாலும் (அத் துன்பத்தைத் தீர்ப்பதற்க்காகவும்) இழிவானச் செயல்களைச் செய்யமாட்டார்.",
+          "அரசர் விரும்புகின்றவற்றை மட்டும் சொல்லிப் பயனில்லாதவற்றை அவரே கேட்ட போதிலும் சொல்லாமல் விட வேண்டும்.",
+          "கடுமையான சொல்லும் முறைகடந்த தண்டனையும் அரசனுடைய வெற்றிக்கு காரணமான வலிமையைத் தேய்க்கும் அரம் ஆகும்."
+        ],
+        "quiz_options_en": [
+          "Feel not frustrate saying This hard Who tries attains striving's reward",
+          "Though perils press the faultless wise Shun deeds of mean, shameful device",
+          "Tell pleasing things; and never tell Even if pressed what is futile",
+          "Reproofs rough and punishments rude Like files conquering power corrode"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (வெருவந்த செய்யாமை) பகுதியில் குறள் 567 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கடுமையான சொல்லும் முறைகடந்த தண்டனையும் அரசனுடைய வெற்றிக்கு காரணமான வலிமையைத் தேய்க்கும் அரம் ஆகும். பரிமேலழகர் உரை நுட்பம்: கடுமொழியும் கையிகந்த தண்டமும் - கடிய சொல்லும் குற்றத்தின் மிக்க தண்டமும், வேந்தன் அடுமுரண் தேய்க்கும் அரம் - அரசனது பகை வெல்லுதற்கேற்ற மாறுபாடாகிய இரும்பினைத் தேய்க்கும் அரமாம். (கடுமொழியால் தானையும், கையிகந்த தண்டத்தால் தேசமும் கெட்டு, முரண் சுருங்கி...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 57: 'Absence of Terrorism'), Kural 567 distills a foundational ethical insight: \"Harsh words and punishments severe beyond the right, Are file that wears away the monarch's conquering might\" Philosophically, Severe words and excessive punishments will be a file to waste away a king's power for destroying (his enemies).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "speech",
+        "courage",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 568,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அமைச்சர் முதலான தன் இனத்தாரிடம் கலந்து எண்ணாத அரசன், சினத்தின் வழியில் சென்று சீறி நிற்பானானால், அவனுடைய செல்வம் சுருங்கும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The prosperity of that king will waste away, who without reflecting (on his affairs himself), commits them to his ministers, and (when a failure occurs) gives way to anger, and rages against them.",
+        "story_title_ta": "வெருவந்த செய்யாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Absence of Terrorism — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வெருவந்த செய்யாமை' என்ற அதிகாரத்திலிருந்து குறள் 568 பற்றிக் கதை சொன்னார். 'தன் உடன் அமைச்சர்களுடன் கலந்து பேசிச் செயற்படாத அரசு, தன்னைச் சினவழி நடத்தித் தவறு வரும்போது அமைச்சர்களைச் சினந்தால், அரசின் செல்வம் நாளும் குறையும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 57, 'Absence of Terrorism', centered on Kural 568: The prosperity of that king will waste away, who without reflecting (on his affairs himself), commits them to his ministers, and (when a failure occurs) gives way to anger, and rages against them. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கூட்டாளிகளிடம் கலந்து பேசாமல் சினத்திற்கு ஆளாகிக் கோணல் வழி நடக்கும் அரசு தானாகவே வீழ்ந்து விடும்.",
+        "moral_en": "Moral: Who leaves the work to those around, and thinks of it no more; If he in wrathful mood reprove, his prosperous days are o'er.",
+        "game_blank_word_ta": "சீறிற்",
+        "game_options_ta": [
+          "சீறிற்",
+          "தக்காங்கு",
+          "நாடித்",
+          "தலைச்செல்லா"
+        ],
+        "game_options_en": [
+          "The king who would not take counsels Rages with wrath-his fortune fails",
+          "A king enquires and gives sentence Just to prevent future offence",
+          "Wield fast the rod but gently lay This strict mildness prolongs the sway",
+          "His cruel rod of dreadful deed Brings king's ruin quick indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெருவந்த செய்யாமை (அரசியல்) பிரிவில் அமைந்த குறள் 568, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் உடன் அமைச்சர்களுடன் கலந்து பேசிச் செயற்படாத அரசு, தன்னைச் சினவழி நடத்தித் தவறு வரும்போது அமைச்சர்களைச் சினந்தால், அரசின் செல்வம் நாளும் குறையும். கலைஞர் உரை கூறுவது: கூட்டாளிகளிடம் கலந்து பேசாமல் சினத்திற்கு ஆளாகிக் கோணல் வழி நடக்கும் அரசு தானாகவே வீழ்ந்து விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Absence of Terrorism (Royalty & Polity), Kural 568 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The prosperity of that king will waste away, who without reflecting (on his affairs himself), commits them to his ministers, and (when a failure occurs) gives way to anger, and rages against them. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வெருவந்த செய்யாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Absence of Terrorism' thoughtfully.",
+        "quiz_question_ta": "'வெருவந்த செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 568 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 568 from Chapter 'Absence of Terrorism'?",
+        "quiz_options_ta": [
+          "அமைச்சர் முதலான தன் இனத்தாரிடம் கலந்து எண்ணாத அரசன், சினத்தின் வழியில் சென்று சீறி நிற்பானானால், அவனுடைய செல்வம் சுருங்கும்.",
+          "தொழிலாகிய குறையைச் செய்யாமல் கைவிட்டவரை உலகம் கைவிடும், ஆகையால் தொழில் முயற்சி இல்லாதிருத்தலை ஒழிக்க வேண்டும்.",
+          "பிறகு நினைத்து வருந்துவதற்குக் காரணமானச் செயல்களைச் செய்யக் கூடாது, ஒரு கால் தவறிச் செய்தாலும் மீண்டும் அத் தன்மையானவற்றைச் செய்யாதிருத்தல் நல்லது.",
+          "(அரசரை) எமக்கு இளையவர், எமக்கு இன்ன முறை உடையவர் என்று இகழாமல் அவருடைய நிலைக்கு ஏற்றவாறு அமைந்த புகழுடன் பொருந்த நடக்க வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "The king who would not take counsels Rages with wrath-his fortune fails",
+          "In doing work don't break and shirk The world will quit who quits his work",
+          "Do not wrong act and grieve, \\\"Alas\\\" If done, do not repeat it twice",
+          "As young and kinsman do not slight; Look with awe king's light and might"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (வெருவந்த செய்யாமை) பகுதியில் குறள் 568 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அமைச்சர் முதலான தன் இனத்தாரிடம் கலந்து எண்ணாத அரசன், சினத்தின் வழியில் சென்று சீறி நிற்பானானால், அவனுடைய செல்வம் சுருங்கும். பரிமேலழகர் உரை நுட்பம்: இனத்து ஆற்றி எண்ணாத வேந்தன் - காரியத்தைப்பற்றி வந்த எண்ணத்தை அமைச்சர்மேல் வைத்து அவரோடு தானும் எண்ணிச் செய்யாத அரசன், சினத்து ஆற்றிச் சீறின் - அப்பிழைப்பால் தன் காரியம் தப்பியவழித்தன்னைச் சினமாகிய குற்றத்தின் கண்ணே செலுத்தி அவரை வெகுளுமாயின், திருச்சிறுகும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 57: 'Absence of Terrorism'), Kural 568 distills a foundational ethical insight: \"Who leaves the work to those around, and thinks of it no more; If he in wrathful mood reprove, his prosperous days are o'er\" Philosophically, The prosperity of that king will waste away, who without reflecting (on his affairs himself), commits them to his ministers, and (when a failure occurs) gives way to anger, and rages against them.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "family",
+        "education",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 569,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: முன்னமே தக்கவாறு அரண் செய்து கொள்ளாத அரசன் போர் வந்த காலத்தில் (தற்காப்பு இல்லாமல்) அஞ்சி விரைவில் அழிவான்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The king who has not provided himself with a place of defence, will in times of war be seized with fear and quickly perish.",
+        "story_title_ta": "வெருவந்த செய்யாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Absence of Terrorism — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வெருவந்த செய்யாமை' என்ற அதிகாரத்திலிருந்து குறள் 569 பற்றிக் கதை சொன்னார். 'நெருக்கடி வருவதற்கு முன்பே தான் தப்பித்துக் கொள்ளப் பாதுகாப்புச் செய்துகொள்ளாத ஆட்சி, நெருக்கடி வந்தபோது பாதுகாப்பு இல்லாததால் அஞ்சி, விரைவில் அழியும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 57, 'Absence of Terrorism', centered on Kural 569: The king who has not provided himself with a place of defence, will in times of war be seized with fear and quickly perish. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: முன்கூட்டியே உரிய பாதுகாப்பு இல்லாமல் இருக்கும் வேந்தன், போர் வந்துவிட்டால் அதற்கு அஞ்சி விரைவில் வீழ நேரிடும்.",
+        "moral_en": "Moral: Who builds no fort whence he may foe defy, In time of war shall fear and swiftly die.",
+        "game_blank_word_ta": "சிறைசெய்யா",
+        "game_options_ta": [
+          "தக்காங்கு",
+          "சிறைசெய்யா",
+          "நாடித்",
+          "தலைச்செல்லா"
+        ],
+        "game_options_en": [
+          "A king enquires and gives sentence Just to prevent future offence",
+          "The king who builds not fort betimes Fears his foes in wars and dies",
+          "Wield fast the rod but gently lay This strict mildness prolongs the sway",
+          "His cruel rod of dreadful deed Brings king's ruin quick indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெருவந்த செய்யாமை (அரசியல்) பிரிவில் அமைந்த குறள் 569, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நெருக்கடி வருவதற்கு முன்பே தான் தப்பித்துக் கொள்ளப் பாதுகாப்புச் செய்துகொள்ளாத ஆட்சி, நெருக்கடி வந்தபோது பாதுகாப்பு இல்லாததால் அஞ்சி, விரைவில் அழியும். கலைஞர் உரை கூறுவது: முன்கூட்டியே உரிய பாதுகாப்பு இல்லாமல் இருக்கும் வேந்தன், போர் வந்துவிட்டால் அதற்கு அஞ்சி விரைவில் வீழ நேரிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Absence of Terrorism (Royalty & Polity), Kural 569 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The king who has not provided himself with a place of defence, will in times of war be seized with fear and quickly perish. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வெருவந்த செய்யாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Absence of Terrorism' thoughtfully.",
+        "quiz_question_ta": "'வெருவந்த செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 569 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 569 from Chapter 'Absence of Terrorism'?",
+        "quiz_options_ta": [
+          "பிறர்க்கு உதவிசெய்தல் என்னும் மேம்பட்ட நிலைமை முயற்சி என்று சொல்லப்படுகின்ற உயர்ந்த பண்பில் நிலைத்திருக்கின்றது.",
+          "முன்னமே தக்கவாறு அரண் செய்து கொள்ளாத அரசன் போர் வந்த காலத்தில் (தற்காப்பு இல்லாமல்) அஞ்சி விரைவில் அழிவான்.",
+          "பெற்ற தாயின் பசியைக் கண்டு வருந்த நேர்ந்தாலும், சான்றோர் பழிப்பதற்குக் காரணமான இழிவுற்றச் செயல்களைச் செய்யக்கூடாது.",
+          "அசைவற்ற தெளிந்த அறிவினை உடையவர் யாம் அரசரால் விரும்பப்பட்டோம் என்று எண்ணி அவர் விரும்பாதவற்றைச் செய்யமாட்டார்."
+        ],
+        "quiz_options_en": [
+          "On excellence of industry Depends magnanimous bounty",
+          "The king who builds not fort betimes Fears his foes in wars and dies",
+          "Though she who begot thee hungers Shun acts denounced by ancient seers",
+          "The clear-visioned do nothing base Deeming they have the monarch's grace"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (வெருவந்த செய்யாமை) பகுதியில் குறள் 569 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முன்னமே தக்கவாறு அரண் செய்து கொள்ளாத அரசன் போர் வந்த காலத்தில் (தற்காப்பு இல்லாமல்) அஞ்சி விரைவில் அழிவான். பரிமேலழகர் உரை நுட்பம்: சிறை செய்யா வேந்தன் - செரு வருவதற்கு முன்னே தனக்குப் புகலாவதோர் அரண்செய்து கொள்ளாத அரசன் செருவந்த போழ்தில் வெருவந்து வெய்து கெடும் - அது வந்த காலத்து ஏமம் இன்மையான் வெருவிக் கடிதின் கெடும். (பகையை வெருவிச் சேர்ந்தார் நீங்குதலின், தனியனாய்த் தானும் வெருவி அப...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 57: 'Absence of Terrorism'), Kural 569 distills a foundational ethical insight: \"Who builds no fort whence he may foe defy, In time of war shall fear and swiftly die\" Philosophically, The king who has not provided himself with a place of defence, will in times of war be seized with fear and quickly perish.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "time",
+        "courage",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 570,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: கடுங்கோலாகிய ஆட்சிமுறை கல்லாதவரைத் தனக்கு அரணாகச் சேர்த்துக் கொள்ளும், அது தவிர நிலத்திற்கு சுமை வேறு இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The earth bears up no greater burden than ignorant men whom a cruel sceptre attaches to itself (as the ministers of its evil deeds).",
+        "story_title_ta": "வெருவந்த செய்யாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Absence of Terrorism — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வெருவந்த செய்யாமை' என்ற அதிகாரத்திலிருந்து குறள் 570 பற்றிக் கதை சொன்னார். 'மக்கள் அஞ்சும்படி தண்டனை தரும் ஆட்சி, நீதி நூல்களைக் கல்லாதவரின் துணையுடன் நிற்கும் நாட்டிற்கு அக்கூட்டத்தாரைவிடப் பெரிய சுமை வேறு இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 57, 'Absence of Terrorism', centered on Kural 570: The earth bears up no greater burden than ignorant men whom a cruel sceptre attaches to itself (as the ministers of its evil deeds). Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கொடுங்கோல் அரசு படிக்காதவர்களைத் தனக்கு பக்கபலமாக்கிக் கொள்ளும் அதைப்போல பூமிக்குப் பாரம் வேறு எதுவுமில்லை.",
+        "moral_en": "Moral: Tyrants with fools their counsels share:Earth can no heavier burthen bear.",
+        "game_blank_word_ta": "கல்லார்ப்",
+        "game_options_ta": [
+          "தக்காங்கு",
+          "நாடித்",
+          "கல்லார்ப்",
+          "தலைச்செல்லா"
+        ],
+        "game_options_en": [
+          "A king enquires and gives sentence Just to prevent future offence",
+          "Wield fast the rod but gently lay This strict mildness prolongs the sway",
+          "The crushing burden borne by earth Is tyrants bound to fools uncouth",
+          "His cruel rod of dreadful deed Brings king's ruin quick indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வெருவந்த செய்யாமை (அரசியல்) பிரிவில் அமைந்த குறள் 570, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மக்கள் அஞ்சும்படி தண்டனை தரும் ஆட்சி, நீதி நூல்களைக் கல்லாதவரின் துணையுடன் நிற்கும் நாட்டிற்கு அக்கூட்டத்தாரைவிடப் பெரிய சுமை வேறு இல்லை. கலைஞர் உரை கூறுவது: கொடுங்கோல் அரசு படிக்காதவர்களைத் தனக்கு பக்கபலமாக்கிக் கொள்ளும் அதைப்போல பூமிக்குப் பாரம் வேறு எதுவுமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Absence of Terrorism (Royalty & Polity), Kural 570 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The earth bears up no greater burden than ignorant men whom a cruel sceptre attaches to itself (as the ministers of its evil deeds). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வெருவந்த செய்யாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Absence of Terrorism' thoughtfully.",
+        "quiz_question_ta": "'வெருவந்த செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 570 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 570 from Chapter 'Absence of Terrorism'?",
+        "quiz_options_ta": [
+          "முயற்சி இல்லாதவன் உதவிசெய்பவனாக இருத்தல், பேடி தன் கையில் வாளை எடுத்தும் ஆளும் தன்மைபோல் நிறைவேறாமல் போகும்.",
+          "பழியை மேற்கொண்டு இழிதொழில் செய்து பெறும் செல்வத்தை விடச் சான்றோர் வினைத்தூய்மையோடிருந்து பெறும் பொல்லாத வறுமையே சிறந்தது.",
+          "கடுங்கோலாகிய ஆட்சிமுறை கல்லாதவரைத் தனக்கு அரணாகச் சேர்த்துக் கொள்ளும், அது தவிர நிலத்திற்கு சுமை வேறு இல்லை.",
+          "யாம் அரசர்க்கு பழைமையானவராய் உள்ளோம் எனக்கருதித் தகுதி அல்லாதவற்றைச் செய்யும் உரிமை கேட்டைத்தரும்."
+        ],
+        "quiz_options_en": [
+          "Bounty of man who never strives Like sword in eunuch's hand it fails",
+          "Pinching poverty of the wise Is more than wealth hoarded by Vice",
+          "The crushing burden borne by earth Is tyrants bound to fools uncouth",
+          "Worthless acts based on friendship old Shall spell ruin and woe untold"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (வெருவந்த செய்யாமை) பகுதியில் குறள் 570 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கடுங்கோலாகிய ஆட்சிமுறை கல்லாதவரைத் தனக்கு அரணாகச் சேர்த்துக் கொள்ளும், அது தவிர நிலத்திற்கு சுமை வேறு இல்லை. பரிமேலழகர் உரை நுட்பம்: கடுங்கோல் கல்லார்ப் பிணிக்கும் - கடுங்கோலனாய அரசன் நீதி நூல் முதலிய கல்லாதாரைத் தனக்குப் பகுதியாகக் கூட்டாநிற்கும், அது அல்லது நிலக்குப் பொறை இல்லை - அக்கூட்டம் அல்லது நிலத்திற்கு மிகையாய பாரம் பிறிது இல்லை. ('கடுங்கோல்' என்பது ஈண்டு மிக்க தண்டத்தின் மேற்று...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 57: 'Absence of Terrorism'), Kural 570 distills a foundational ethical insight: \"Tyrants with fools their counsels share:Earth can no heavier burthen bear\" Philosophically, The earth bears up no greater burden than ignorant men whom a cruel sceptre attaches to itself (as the ministers of its evil deeds).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "justice",
+        "leadership",
+        "education",
+        "self-mastery"
+      ]
+    }
+  ]
+}

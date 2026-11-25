@@ -1,0 +1,921 @@
+<!DOCTYPE html><html lang="ta" data-theme="light"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>S1 — Start Screen (Unified, Light, தமிழ்) | திருவள்ளுவர் AI</title>
+  <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+  <script id="tailwind-config">/** @type {import('tailwindcss').Config} */
+globalThis.tailwind = globalThis.tailwind || {};
+globalThis.tailwind.config = {
+  darkMode: 'class',
+  theme: {
+    extend: {
+      colors: {
+        'gold-frame': '#E6C068',
+        'gradient-start': '#FFB300',
+        'gradient-mid': '#FF6A00',
+        'gradient-end': '#FF2D55',
+        'light-bg': '#FFF8EC',
+        'light-on-bg': '#2B1B0E',
+        'light-surface': '#FFFFFF',
+        'light-on-surface': '#2B1B0E',
+        'light-surface-2': '#FBEFD9',
+        'light-on-surface-2': '#2B1B0E',
+        'light-text-muted': '#6B5A48',
+        'light-outline': '#D9C7AD',
+        'light-primary': '#D84315',
+        'light-on-primary': '#080808',
+        'light-teen': '#00796B',
+        'light-on-teen': '#FFFFFF',
+        'light-adult-surface': '#FFF3DC',
+        'light-on-adult-surface': '#8E1B1B',
+        'light-child-sky': '#81D4FA',
+        'light-on-child-sky': '#0B1412',
+        'light-success': '#1B8F5A',
+        'light-on-success': '#131313',
+        'light-warning': '#B26A00',
+        'light-on-warning': '#0F0F0F',
+        'light-error': '#C62828',
+        'light-on-error': '#FFFFFF',
+        'dark-bg': '#0B1412',
+        'dark-on-bg': '#F2F5F4',
+        'dark-surface': '#101A2B',
+        'dark-on-surface': '#F2F5F4',
+        'dark-surface-2': '#16233A',
+        'dark-on-surface-2': '#F2F5F4',
+        'dark-text-muted': '#9AA9A6',
+        'dark-outline': '#25354D',
+        'dark-primary': '#FFB300',
+        'dark-on-primary': '#1A1100',
+        'dark-teen': '#19C9A0',
+        'dark-on-teen': '#06241C',
+        'dark-adult-surface': '#2A0F10',
+        'dark-on-adult-surface': '#E6C068',
+        'dark-child-sky': '#4FC3F7',
+        'dark-on-child-sky': '#0B1412',
+        'dark-success': '#2ECC8F',
+        'dark-on-success': '#06241C',
+        'dark-warning': '#FFC107',
+        'dark-on-warning': '#1A1100',
+        'dark-error': '#FF5470',
+        'dark-on-error': '#1F0409',
+      },
+      borderRadius: {
+        'sm': '8px',
+        'DEFAULT': '12px',
+        'md': '16px',
+        'lg': '20px',
+        'xl': '24px',
+        'full': '9999px',
+      },
+      spacing: {
+        'gutter-xs': '4px',
+        'gutter-sm': '8px',
+        'gutter-md': '16px',
+        'gutter-lg': '24px',
+        'gutter-xl': '32px',
+        'section': '40px',
+        'page-margin': '32px',
+      },
+      fontFamily: {
+        'display': ['"Inter"', 'sans-serif'],
+        'kural': ['"Noto Serif Tamil"', 'sans-serif'],
+        'headline': ['"Inter"', 'sans-serif'],
+        'child': ['"Baloo Thambi 2"', 'sans-serif'],
+        'body': ['"Inter"', 'sans-serif'],
+        'label': ['"Inter"', 'sans-serif'],
+      },
+      fontSize: {
+        'display-lg': ['40px', { lineHeight: '48px', letterSpacing: '-0.5px', fontWeight: '800' }],
+        'display-lg-mobile': ['28px', { lineHeight: '36px', letterSpacing: '-0.25px', fontWeight: '800' }],
+        'kural-verse': ['32px', { lineHeight: '56px', letterSpacing: '0px', fontWeight: '600' }],
+        'headline-lg': ['28px', { lineHeight: '38px', letterSpacing: '0px', fontWeight: '700' }],
+        'headline-md': ['22px', { lineHeight: '30px', letterSpacing: '0px', fontWeight: '700' }],
+        'child-heading': ['28px', { lineHeight: '38px', letterSpacing: '0px', fontWeight: '700' }],
+        'body-lg': ['20px', { lineHeight: '30px', letterSpacing: '0px', fontWeight: '400' }],
+        'body-md': ['18px', { lineHeight: '28px', letterSpacing: '0px', fontWeight: '400' }],
+        'label-lg': ['18px', { lineHeight: '24px', letterSpacing: '0px', fontWeight: '600' }],
+        'label-md': ['15px', { lineHeight: '20px', letterSpacing: '0.2px', fontWeight: '600' }],
+      },
+      transitionDuration: {
+        'state-change': '120ms',
+        'surface-enter': '240ms',
+        'mic-pulse': '1800ms',
+      },
+      transitionDelay: {
+        'state-change': '0ms',
+        'surface-enter': '0ms',
+        'mic-pulse': '0ms',
+      },
+      transitionTimingFunction: {
+        'state-change': 'ease-out',
+        'surface-enter': 'cubic-bezier(0.2, 0, 0, 1)',
+        'mic-pulse': 'ease-in-out',
+      },
+    },
+  },
+};
+if (typeof module !== 'undefined') module.exports = globalThis.tailwind.config;
+</script>
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@700&amp;family=Inter:wght@400;600;700;800&amp;family=Noto+Sans+Tamil:wght@400;600;700&amp;family=Noto+Serif+Tamil:wght@600&amp;display=swap" rel="stylesheet">
+  <style data-stitch-css-vh="fa2aff3c67bccbbf===
+    :root[data-theme=&#34;dark&#34;] {
+      --bg: #0B1412;
+      --surface: #101A2B;
+      --surface-2: #16233A;
+      --text: #F2F5F4;
+      --text-muted: #9AA9A6;
+      --accent: #FFB300;
+    }
+    :root[data-theme=&#34;light&#34;] {
+      --bg: #FFF8EC;
+      --surface: #FFFFFF;
+      --surface-2: #FBEFD9;
+      --text: #2B1B0E;
+      --text-muted: #6B5A48;
+      --accent: #D84315;
+    }
+
+    /* Tamil typography safety: prevent vowel-sign vertical clipping */
+    html[lang=&#34;ta&#34;] body {
+      font-family: &#39;Noto Sans Tamil&#39;, &#39;Inter&#39;, sans-serif;
+      line-height: 1.45;
+    }
+
+    /* Subtle lightweight pulsing halo for the primary mic button */
+    @keyframes mic-ring-pulse {
+      0%, 100% { transform: scale(1); opacity: 0.45; }
+      50% { transform: scale(1.1); opacity: 0.15; }
+    }
+    .mic-pulse-ring {
+      animation: mic-ring-pulse 1.8s ease-in-out infinite;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, .mic-pulse-ring { animation: none !important; transition-duration: 0.01ms !important; }
+    }
+
+    /* =========================================================================
+       Layout Mode B — 3.5-Inch Raspberry Pi Landscape Touchscreen (480x320 px)
+       ========================================================================= */
+    @media (max-width: 560px) and (max-height: 380px) {
+      .pi-root {
+        height: 100dvh !important;
+        width: 100vw !important;
+        overflow: hidden !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: space-between !important;
+        padding: 0 !important;
+      }
+
+      /* Zone 1: Ultra-Compact Top Bar (40px) */
+      .pi-header {
+        height: 40px !important;
+        min-height: 40px !important;
+        padding: 4px 10px !important;
+        max-width: 100% !important;
+      }
+      .pi-emblem {
+        width: 26px !important;
+        height: 26px !important;
+        font-size: 13px !important;
+      }
+      .pi-app-name {
+        font-size: 13px !important;
+        line-height: 1.2 !important;
+        white-space: nowrap !important;
+      }
+      .pi-inline-offline {
+        display: inline-block !important;
+      }
+      .pi-theme-btn {
+        width: 30px !important;
+        height: 30px !important;
+        min-width: 30px !important;
+        min-height: 30px !important;
+        padding: 0 !important;
+      }
+      .pi-theme-btn svg {
+        width: 16px !important;
+        height: 16px !important;
+      }
+      .pi-lang-btn {
+        height: 30px !important;
+        min-height: 30px !important;
+        padding: 0 8px !important;
+        font-size: 11px !important;
+        line-height: 1.2 !important;
+      }
+
+      /* Zone 2 + Zone 3 Container */
+      .pi-main {
+        flex: 1 1 auto !important;
+        display: flex !important;
+        flex-direction: column !important;
+        padding: 0 !important;
+        gap: 0 !important;
+        max-width: 100% !important;
+        width: 100% !important;
+        overflow: hidden !important;
+      }
+
+      /* Zone 2 + Zone 3 Grid */
+      .pi-zone-2 {
+        display: grid !important;
+        grid-template-columns: 5fr 7fr !important;
+        grid-template-rows: 1fr 82px !important;
+        gap: 6px 8px !important;
+        align-items: center !important;
+        height: 100% !important;
+        padding: 4px 10px 8px !important;
+        width: 100% !important;
+      }
+
+      .pi-hero-col {
+        grid-column: 1 / 2 !important;
+        grid-row: 1 / 2 !important;
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+        text-align: center !important;
+        gap: 4px !important;
+      }
+      .pi-portrait-wrap {
+        width: 68px !important;
+        height: 68px !important;
+        padding: 2px !important;
+        border-width: 2px !important;
+      }
+      .pi-badge-full {
+        display: none !important;
+      }
+      .pi-badge-short {
+        display: inline-flex !important;
+        font-size: 10px !important;
+        line-height: 1.2 !important;
+        padding: 2px 8px !important;
+      }
+      .pi-hero-title,
+      .pi-hero-intro,
+      .pi-divider,
+      .pi-footer,
+      .pi-corner-art,
+      .pi-hint-full,
+      .pi-card-sub {
+        display: none !important;
+      }
+      .pi-tagline {
+        font-size: 11px !important;
+        line-height: 1.35 !important;
+        display: -webkit-box !important;
+        -webkit-line-clamp: 2 !important;
+        -webkit-box-orient: vertical !important;
+        overflow: hidden !important;
+      }
+
+      /* Right Side: Voice Gate Card */
+      .pi-right-col {
+        display: contents !important;
+      }
+      .pi-voice-card {
+        grid-column: 2 / 3 !important;
+        grid-row: 1 / 2 !important;
+        height: 100% !important;
+        padding: 10px !important;
+        border-radius: 12px !important;
+        justify-content: center !important;
+        gap: 6px !important;
+      }
+      .pi-mic-btn {
+        width: 76px !important;
+        height: 76px !important;
+      }
+      .pi-mic-btn svg {
+        width: 28px !important;
+        height: 28px !important;
+      }
+      .pi-mic-label {
+        font-size: 12px !important;
+        line-height: 1.2 !important;
+      }
+      .pi-hint-short {
+        display: block !important;
+        font-size: 11px !important;
+        line-height: 1.3 !important;
+      }
+
+      /* Zone 3: Bottom Pinned Manual Age Bar (82px) */
+      .pi-manual-wrap {
+        grid-column: 1 / 3 !important;
+        grid-row: 2 / 3 !important;
+        height: 100% !important;
+        padding: 0 !important;
+        width: 100% !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: flex-end !important;
+      }
+      .pi-age-grid {
+        display: grid !important;
+        grid-template-columns: repeat(3, 1fr) !important;
+        gap: 6px !important;
+        height: 100% !important;
+      }
+      .pi-age-card {
+        height: 100% !important;
+        min-height: 68px !important;
+        padding: 6px 4px !important;
+        border-radius: 10px !important;
+        gap: 3px !important;
+      }
+      .pi-age-icon {
+        width: 24px !important;
+        height: 24px !important;
+      }
+      .pi-age-icon svg {
+        width: 14px !important;
+        height: 14px !important;
+      }
+      .pi-age-title {
+        font-size: 12px !important;
+        line-height: 1.25 !important;
+      }
+      .pi-age-range {
+        display: block !important;
+        font-size: 10px !important;
+        line-height: 1.2 !important;
+      }
+    }
+  ">
+    :root[data-theme="dark"] {
+      --bg: #0B1412;
+      --surface: #101A2B;
+      --surface-2: #16233A;
+      --text: #F2F5F4;
+      --text-muted: #9AA9A6;
+      --accent: #FFB300;
+    }
+    :root[data-theme="light"] {
+      --bg: #FFF8EC;
+      --surface: #FFFFFF;
+      --surface-2: #FBEFD9;
+      --text: #2B1B0E;
+      --text-muted: #6B5A48;
+      --accent: #D84315;
+    }
+
+    /* Tamil typography safety: prevent vowel-sign vertical clipping */
+    html[lang="ta"] body {
+      font-family: 'Noto Sans Tamil', 'Inter', sans-serif;
+      line-height: 1.45;
+    }
+
+    /* Subtle lightweight pulsing halo for the primary mic button */
+    @keyframes mic-ring-pulse {
+      0%, 100% { transform: scale(1); opacity: 0.45; }
+      50% { transform: scale(1.1); opacity: 0.15; }
+    }
+    .mic-pulse-ring {
+      animation: mic-ring-pulse 1.8s ease-in-out infinite;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, .mic-pulse-ring { animation: none !important; transition-duration: 0.01ms !important; }
+    }
+
+    /* =========================================================================
+       Layout Mode B — 3.5-Inch Raspberry Pi Landscape Touchscreen (480x320 px)
+       ========================================================================= */
+    @media (max-width: 560px) and (max-height: 380px) {
+      .pi-root {
+        height: 1024px !important;
+        width: 100vw !important;
+        overflow: hidden !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: space-between !important;
+        padding: 0 !important;
+      }
+
+      /* Zone 1: Ultra-Compact Top Bar (40px) */
+      .pi-header {
+        height: 40px !important;
+        min-height: 40px !important;
+        padding: 4px 10px !important;
+        max-width: 100% !important;
+      }
+      .pi-emblem {
+        width: 26px !important;
+        height: 26px !important;
+        font-size: 13px !important;
+      }
+      .pi-app-name {
+        font-size: 13px !important;
+        line-height: 1.2 !important;
+        white-space: nowrap !important;
+      }
+      .pi-inline-offline {
+        display: inline-block !important;
+      }
+      .pi-theme-btn {
+        width: 30px !important;
+        height: 30px !important;
+        min-width: 30px !important;
+        min-height: 30px !important;
+        padding: 0 !important;
+      }
+      .pi-theme-btn svg {
+        width: 16px !important;
+        height: 16px !important;
+      }
+      .pi-lang-btn {
+        height: 30px !important;
+        min-height: 30px !important;
+        padding: 0 8px !important;
+        font-size: 11px !important;
+        line-height: 1.2 !important;
+      }
+
+      /* Zone 2 + Zone 3 Container */
+      .pi-main {
+        flex: 1 1 auto !important;
+        display: flex !important;
+        flex-direction: column !important;
+        padding: 0 !important;
+        gap: 0 !important;
+        max-width: 100% !important;
+        width: 100% !important;
+        overflow: hidden !important;
+      }
+
+      /* Zone 2 + Zone 3 Grid */
+      .pi-zone-2 {
+        display: grid !important;
+        grid-template-columns: 5fr 7fr !important;
+        grid-template-rows: 1fr 82px !important;
+        gap: 6px 8px !important;
+        align-items: center !important;
+        height: 100% !important;
+        padding: 4px 10px 8px !important;
+        width: 100% !important;
+      }
+
+      .pi-hero-col {
+        grid-column: 1 / 2 !important;
+        grid-row: 1 / 2 !important;
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+        text-align: center !important;
+        gap: 4px !important;
+      }
+      .pi-portrait-wrap {
+        width: 68px !important;
+        height: 68px !important;
+        padding: 2px !important;
+        border-width: 2px !important;
+      }
+      .pi-badge-full {
+        display: none !important;
+      }
+      .pi-badge-short {
+        display: inline-flex !important;
+        font-size: 10px !important;
+        line-height: 1.2 !important;
+        padding: 2px 8px !important;
+      }
+      .pi-hero-title,
+      .pi-hero-intro,
+      .pi-divider,
+      .pi-footer,
+      .pi-corner-art,
+      .pi-hint-full,
+      .pi-card-sub {
+        display: none !important;
+      }
+      .pi-tagline {
+        font-size: 11px !important;
+        line-height: 1.35 !important;
+        display: -webkit-box !important;
+        -webkit-line-clamp: 2 !important;
+        -webkit-box-orient: vertical !important;
+        overflow: hidden !important;
+      }
+
+      /* Right Side: Voice Gate Card */
+      .pi-right-col {
+        display: contents !important;
+      }
+      .pi-voice-card {
+        grid-column: 2 / 3 !important;
+        grid-row: 1 / 2 !important;
+        height: 100% !important;
+        padding: 10px !important;
+        border-radius: 12px !important;
+        justify-content: center !important;
+        gap: 6px !important;
+      }
+      .pi-mic-btn {
+        width: 76px !important;
+        height: 76px !important;
+      }
+      .pi-mic-btn svg {
+        width: 28px !important;
+        height: 28px !important;
+      }
+      .pi-mic-label {
+        font-size: 12px !important;
+        line-height: 1.2 !important;
+      }
+      .pi-hint-short {
+        display: block !important;
+        font-size: 11px !important;
+        line-height: 1.3 !important;
+      }
+
+      /* Zone 3: Bottom Pinned Manual Age Bar (82px) */
+      .pi-manual-wrap {
+        grid-column: 1 / 3 !important;
+        grid-row: 2 / 3 !important;
+        height: 100% !important;
+        padding: 0 !important;
+        width: 100% !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: flex-end !important;
+      }
+      .pi-age-grid {
+        display: grid !important;
+        grid-template-columns: repeat(3, 1fr) !important;
+        gap: 6px !important;
+        height: 100% !important;
+      }
+      .pi-age-card {
+        height: 100% !important;
+        min-height: 68px !important;
+        padding: 6px 4px !important;
+        border-radius: 10px !important;
+        gap: 3px !important;
+      }
+      .pi-age-icon {
+        width: 24px !important;
+        height: 24px !important;
+      }
+      .pi-age-icon svg {
+        width: 14px !important;
+        height: 14px !important;
+      }
+      .pi-age-title {
+        font-size: 12px !important;
+        line-height: 1.25 !important;
+      }
+      .pi-age-range {
+        display: block !important;
+        font-size: 10px !important;
+        line-height: 1.2 !important;
+      }
+    }
+  </style>
+</head>
+<body class="bg-light-bg text-light-on-bg dark:bg-dark-bg dark:text-dark-on-bg antialiased selection:bg-dark-primary selection:text-dark-on-primary">
+  <div class="pi-root relative h-dvh w-screen overflow-hidden flex flex-col justify-between">
+
+    <!-- Subtle Corner Heritage Line Art (Laptop/Desktop only) -->
+    <svg class="pi-corner-art hidden lg:block pointer-events-none absolute top-0 left-0 w-56 h-56 text-light-outline dark:text-dark-outline opacity-35" viewBox="0 0 240 240" fill="none" stroke="currentColor" stroke-width="1.2" aria-hidden="true">
+      <path d="M-10 30 C 50 30, 100 10, 160 -10"></path>
+      <path d="M-10 55 C 60 55, 120 30, 195 -10"></path>
+      <path d="M-10 80 C 70 80, 140 50, 225 -10"></path>
+      <path d="M20 0 Q 45 65 15 130"></path>
+      <path d="M55 0 Q 75 50 50 105"></path>
+    </svg>
+    <svg class="pi-corner-art hidden lg:block pointer-events-none absolute bottom-0 right-0 w-64 h-64 text-light-outline dark:text-dark-outline opacity-35" viewBox="0 0 260 260" fill="none" stroke="currentColor" stroke-width="1.2" aria-hidden="true">
+      <path d="M120 260 L120 220 L140 220 L140 190 L160 190 L160 160 L180 160 L180 130 L195 110 L210 130 L210 160 L230 160 L230 190 L250 190 L250 260"></path>
+      <line x1="145" y1="205" x2="245" y2="205"></line>
+      <line x1="165" y1="175" x2="225" y2="175"></line>
+      <circle cx="195" cy="96" r="4"></circle>
+    </svg>
+
+    <!-- Top Header Bar -->
+    <header class="pi-header relative z-10 h-16 w-full max-w-6xl mx-auto px-8 flex items-center justify-between gap-4 shrink-0">
+      <!-- Left: Brand mark + App Name + inline offline dot (for 3.5" Pi) -->
+      <div class="flex items-center gap-2.5 min-w-0">
+        <div class="pi-emblem w-10 h-10 rounded-full bg-gradient-to-br from-gradient-start to-gradient-mid flex items-center justify-center text-dark-on-primary font-headline text-headline-md shrink-0" aria-hidden="true">
+          <span>வ</span>
+        </div>
+        <span data-i18n="app_name" data-design-text-token="headline-md" class="pi-app-name font-headline text-headline-md text-light-on-bg dark:text-dark-on-bg truncate">Thiruvalluvar AI</span>
+        <span class="pi-inline-offline hidden w-2 h-2 rounded-full bg-light-success dark:bg-dark-success shrink-0" role="status" aria-label="Working offline" data-i18n-aria="offline_ready" title="Working offline"></span>
+      </div>
+
+      <!-- Right: Theme Toggle (44x44) immediately left of Language Toggle -->
+      <div class="flex items-center gap-2 shrink-0">
+        <button id="theme-toggle" data-component-id="button-icon" data-component-type="button" data-component-variant="icon" type="button" aria-label="Toggle theme" data-i18n-aria="toggle_theme" class="pi-theme-btn w-11 h-11 rounded-full bg-light-surface border border-light-outline text-light-on-surface dark:bg-dark-surface dark:border-dark-outline dark:text-dark-on-surface inline-flex items-center justify-center transition-colors duration-state-change ease-state-change hover:bg-light-surface-2 dark:hover:bg-dark-surface-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold-frame">
+          <!-- Sun Icon (shown in Dark mode) -->
+          <svg id="icon-sun" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="4"></circle>
+            <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"></path>
+          </svg>
+          <!-- Moon Icon (shown in Light mode) -->
+          <svg id="icon-moon" class="w-5 h-5 hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path>
+          </svg>
+        </button>
+
+        <button id="lang-toggle" data-component-id="button-with-icon" data-component-type="button" data-component-variant="with-icon" type="button" aria-label="Switch language" data-i18n-aria="switch_lang" class="pi-lang-btn min-h-[44px] px-4 rounded-full bg-light-surface border border-light-outline text-light-on-surface dark:bg-dark-surface dark:border-dark-outline dark:text-dark-on-surface font-label text-label-md inline-flex items-center gap-2 transition-colors duration-state-change ease-state-change hover:bg-light-surface-2 dark:hover:bg-dark-surface-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold-frame">
+          <span id="lang-ta" class="text-light-text-muted dark:text-dark-text-muted">தமிழ்</span>
+          <span class="text-light-text-muted dark:text-dark-text-muted" aria-hidden="true">|</span>
+          <span id="lang-en" class="text-light-on-adult-surface dark:text-dark-primary">EN</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Stage: Balanced 2-Column Horizontal Split on Laptop/Desktop, 2-Zone + Bottom Bar on 480x320 -->
+    <main class="pi-main relative z-10 flex-1 w-full max-w-6xl mx-auto px-8 flex items-center min-h-0">
+      <div class="pi-zone-2 w-full grid grid-cols-12 items-center gap-8">
+
+        <!-- Left Column (5 cols): Portrait & Brand Identity -->
+        <section class="pi-hero-col col-span-5 flex flex-col items-start text-left gap-3">
+          <!-- Offline portrait slot: swap src to ./assets/valluvar-portrait.png for standalone Pi export -->
+          <div class="pi-portrait-wrap w-36 h-36 xl:w-44 xl:h-44 rounded-full p-1 border-2 border-gold-frame bg-light-surface dark:bg-dark-surface overflow-hidden shrink-0">
+            <img id="valluvar-portrait" src="https://lh3.googleusercontent.com/aida/ALJJyrCWsiIT3dOYMPuWQ_4KdFhfcU4W7LswYx-lnZl9rCQl49gMe1-rcROA2njbtD8pZ5_HGlozGjv924S2ug7_4UhwXV7JU8qcCi8hmkZG0VWI5sDbZpdHqCIKQlReb6P_sGaOL6JiV1DIXjWW8EIssq1abhrqQGYg4m1DuoWIwH45omjju7PsKLSZS9E1vurduhVylfMPXlvlR61m1Jpvd9pEHWiQCK04O64YkBl7l-jpBGTcsDLo35XvUNcK" alt="Illustrated portrait of Thiruvalluvar holding a palm-leaf manuscript" class="w-full h-full object-cover rounded-full">
+          </div>
+
+          <!-- Full Heritage Badge (Laptop/Desktop) -->
+          <span data-component-id="badge-numeric" data-component-type="badge" data-component-variant="numeric" role="status" class="pi-badge-full inline-flex items-center px-3.5 py-1 rounded-full bg-light-surface-2 border border-light-outline text-light-on-surface-2 dark:bg-dark-surface-2 dark:border-dark-outline dark:text-dark-on-surface-2 font-label text-label-md">
+            <span data-i18n="heritage_badge" data-design-text-token="label-md">Sage of the Palm-Leaf • 1,330 Kurals</span>
+          </span>
+
+          <!-- Short Heritage Badge (3.5" Pi only) -->
+          <span role="status" class="pi-badge-short hidden items-center rounded-full bg-light-surface-2 border border-light-outline text-light-on-surface-2 dark:bg-dark-surface-2 dark:border-dark-outline dark:text-dark-on-surface-2 font-label">
+            <span data-i18n="heritage_badge_short">1,330 Kurals</span>
+          </span>
+
+          <h1 data-i18n="hero_title" data-component-id="typography-display" data-component-type="typography" data-component-variant="display" data-design-text-token="display-lg" class="pi-hero-title font-display text-3xl xl:text-[40px] leading-tight tracking-tight text-light-on-bg dark:text-dark-on-bg">THIRUVALLUVAR AI</h1>
+
+          <p data-i18n="tagline" data-design-text-token="headline-md" class="pi-tagline font-headline text-headline-md text-light-on-adult-surface dark:text-dark-primary">
+            Ancient wisdom, intelligent future
+          </p>
+
+          <p data-i18n="intro" data-design-text-token="body-md" class="pi-hero-intro font-body text-base text-light-text-muted dark:text-dark-text-muted max-w-md line-clamp-2 text-pretty">
+            Speak naturally in Tamil or English to explore the 1,330 Kurals tailored to your age group.
+          </p>
+        </section>
+
+        <!-- Right Column (7 cols): Voice Gate Card + Divider + 3-Col Manual Age Grid -->
+        <section class="pi-right-col col-span-7 flex flex-col gap-5">
+
+          <!-- Voice Age Gate Card -->
+          <div aria-label="Voice age gate" data-component-id="card-elevated" data-component-type="card" data-component-variant="elevated" class="pi-voice-card w-full p-6 rounded-xl bg-light-surface border border-light-outline text-light-on-surface dark:bg-dark-surface dark:border-dark-outline dark:text-dark-on-surface flex flex-col items-center text-center gap-3">
+            <div class="relative inline-flex items-center justify-center">
+              <span class="mic-pulse-ring absolute inset-0 rounded-full bg-gold-frame pointer-events-none" aria-hidden="true"></span>
+              <button id="mic-btn" type="button" aria-label="Speak" data-i18n-aria="speak" class="pi-mic-btn relative w-24 h-24 rounded-full bg-gradient-to-br from-gradient-start via-gradient-mid to-gradient-end text-dark-on-primary inline-flex flex-col items-center justify-center gap-1 ring-4 ring-gold-frame/35 transition-transform duration-state-change ease-state-change hover:scale-105 active:scale-95 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-gold-frame">
+                <svg class="w-8 h-8" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                  <path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"></path>
+                  <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
+                  <line x1="12" x2="12" y1="19" y2="22"></line>
+                </svg>
+                <span data-i18n="speak" data-design-text-token="label-md" class="pi-mic-label font-label text-label-md">Speak</span>
+              </button>
+            </div>
+
+            <!-- Full hint (Laptop/Desktop) -->
+            <p data-i18n="start_hint" data-design-text-token="body-md" class="pi-hint-full font-body text-body-md text-light-text-muted dark:text-dark-text-muted max-w-md text-pretty">
+              Tap the microphone and speak (e.g. &#34;Hello, I want to learn Thirukkural&#34;)
+            </p>
+
+            <!-- Short hint (3.5" Pi only) -->
+            <p data-i18n="start_hint_short" class="pi-hint-short hidden font-body text-light-text-muted dark:text-dark-text-muted">
+              Tap &amp; speak
+            </p>
+
+            <!-- Toggleable Age Detection Result Strip (hidden by default so cards never shift off-screen) -->
+            <div id="detect-result" class="hidden w-full pt-2 border-t border-light-outline dark:border-dark-outline flex items-center justify-between gap-3 text-left">
+              <div class="flex-1 flex flex-col gap-1">
+                <div class="flex items-center justify-between text-label-md font-label">
+                  <span data-i18n="detected_label" class="text-light-on-surface dark:text-dark-on-surface">Detected: Teen (13–17)</span>
+                  <span class="text-light-success dark:text-dark-success tabular-nums">86%</span>
+                </div>
+                <div class="w-full h-2 rounded-full bg-light-surface-2 dark:bg-dark-surface-2 overflow-hidden">
+                  <div class="h-full w-[86%] rounded-full bg-light-success dark:bg-dark-success"></div>
+                </div>
+              </div>
+              <button type="button" data-i18n="enter" class="min-h-[44px] px-4 rounded-full bg-gradient-to-r from-gradient-start to-gradient-mid text-dark-on-primary font-label text-label-md shrink-0">Continue</button>
+            </div>
+          </div>
+
+          <!-- Divider + 3-Column Manual Age Group Selection -->
+          <div class="pi-manual-wrap w-full flex flex-col gap-3">
+            <div class="pi-divider flex items-center gap-3 w-full">
+              <div class="h-px flex-1 bg-light-outline dark:bg-dark-outline"></div>
+              <span data-i18n="or_manual" data-design-text-token="label-md" class="font-label text-label-md text-light-text-muted dark:text-dark-text-muted">Or choose manually</span>
+              <div class="h-px flex-1 bg-light-outline dark:bg-dark-outline"></div>
+            </div>
+
+            <div class="pi-age-grid grid grid-cols-3 gap-3 items-stretch">
+              <!-- Child Card -->
+              <div role="button" tabindex="0" data-component-id="card-interactive-2" data-component-type="card" data-component-variant="interactive" class="pi-age-card h-full p-3 rounded-lg bg-light-surface border border-light-outline text-light-on-surface dark:bg-dark-surface dark:border-dark-outline dark:text-dark-on-surface flex flex-col items-center justify-center text-center gap-2 cursor-pointer transition-colors duration-state-change ease-state-change hover:bg-light-surface-2 dark:hover:bg-dark-surface-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-dark-child-sky">
+                <span class="pi-age-icon w-10 h-10 rounded-full bg-light-child-sky/25 dark:bg-dark-child-sky/15 text-light-on-child-sky dark:text-dark-child-sky inline-flex items-center justify-center shrink-0" aria-hidden="true">
+                  <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="12" cy="12" r="9"></circle>
+                    <path d="M9 10h.01M15 10h.01"></path>
+                    <path d="M8.5 14.5a4 4 0 0 0 7 0"></path>
+                  </svg>
+                </span>
+                <div class="flex flex-col gap-0.5">
+                  <p data-i18n="child_title" data-design-text-token="label-lg" class="pi-age-title font-label text-label-lg leading-tight">Child (6–12)</p>
+                  <p class="pi-age-range hidden font-label text-light-text-muted dark:text-dark-text-muted">6–12</p>
+                  <p data-i18n="child_sub" data-design-text-token="label-md" class="pi-card-sub font-label text-label-md text-light-text-muted dark:text-dark-text-muted">Stories &amp; games</p>
+                </div>
+              </div>
+
+              <!-- Teen Card -->
+              <div role="button" tabindex="0" data-component-id="card-interactive-2" data-component-type="card" data-component-variant="interactive" class="pi-age-card h-full p-3 rounded-lg bg-light-surface border border-light-outline text-light-on-surface dark:bg-dark-surface dark:border-dark-outline dark:text-dark-on-surface flex flex-col items-center justify-center text-center gap-2 cursor-pointer transition-colors duration-state-change ease-state-change hover:bg-light-surface-2 dark:hover:bg-dark-surface-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-dark-teen">
+                <span class="pi-age-icon w-10 h-10 rounded-full bg-light-teen/15 dark:bg-dark-teen/15 text-light-teen dark:text-dark-teen inline-flex items-center justify-center shrink-0" aria-hidden="true">
+                  <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="12" cy="12" r="9"></circle>
+                    <polygon points="15.5 8.5 13.5 13.5 8.5 15.5 10.5 10.5 15.5 8.5"></polygon>
+                  </svg>
+                </span>
+                <div class="flex flex-col gap-0.5">
+                  <p data-i18n="teen_title" data-design-text-token="label-lg" class="pi-age-title font-label text-label-lg leading-tight">Teen (13–17)</p>
+                  <p class="pi-age-range hidden font-label text-light-text-muted dark:text-dark-text-muted">13–17</p>
+                  <p data-i18n="teen_sub" data-design-text-token="label-md" class="pi-card-sub font-label text-label-md text-light-text-muted dark:text-dark-text-muted">Guidance &amp; challenges</p>
+                </div>
+              </div>
+
+              <!-- Adult Card -->
+              <div role="button" tabindex="0" data-component-id="card-interactive-2" data-component-type="card" data-component-variant="interactive" class="pi-age-card h-full p-3 rounded-lg bg-light-surface border border-light-outline text-light-on-surface dark:bg-dark-surface dark:border-dark-outline dark:text-dark-on-surface flex flex-col items-center justify-center text-center gap-2 cursor-pointer transition-colors duration-state-change ease-state-change hover:bg-light-surface-2 dark:hover:bg-dark-surface-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold-frame">
+                <span class="pi-age-icon w-10 h-10 rounded-full bg-light-adult-surface dark:bg-dark-adult-surface text-light-on-adult-surface dark:text-dark-on-adult-surface inline-flex items-center justify-center shrink-0" aria-hidden="true">
+                  <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"></path>
+                    <line x1="8" y1="7" x2="16" y2="7"></line>
+                    <line x1="8" y1="11" x2="14" y2="11"></line>
+                  </svg>
+                </span>
+                <div class="flex flex-col gap-0.5">
+                  <p data-i18n="adult_title" data-design-text-token="label-lg" class="pi-age-title font-label text-label-lg leading-tight">Adult (18+)</p>
+                  <p class="pi-age-range hidden font-label text-light-text-muted dark:text-dark-text-muted">18+</p>
+                  <p data-i18n="adult_sub" data-design-text-token="label-md" class="pi-card-sub font-label text-label-md text-light-text-muted dark:text-dark-text-muted">Philosophy &amp; commentary</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </section>
+      </div>
+    </main>
+
+    <!-- Footer: Offline status pill only (h-12 on Laptop/Desktop, hidden on 480x320) -->
+    <footer class="pi-footer relative z-10 h-12 w-full flex items-center justify-center shrink-0">
+      <span data-component-id="badge-status" data-component-type="badge" data-component-variant="status" role="status" class="inline-flex items-center gap-2 px-4 py-1 rounded-full bg-light-surface border border-light-outline text-light-text-muted dark:bg-dark-surface dark:border-dark-outline dark:text-dark-text-muted font-label text-label-md">
+        <span class="w-2.5 h-2.5 rounded-full bg-light-success dark:bg-dark-success" aria-hidden="true"></span>
+        <span data-i18n="offline_ready" data-design-text-token="label-md">Working offline</span>
+      </span>
+    </footer>
+  </div>
+
+  <script>
+    (function () {
+      var copy = {
+        en: {
+          app_name: 'Thiruvalluvar AI',
+          hero_title: 'THIRUVALLUVAR AI',
+          heritage_badge: 'Sage of the Palm-Leaf • 1,330 Kurals',
+          heritage_badge_short: '1,330 Kurals',
+          tagline: 'Ancient wisdom, intelligent future',
+          intro: 'Speak naturally in Tamil or English to explore the 1,330 Kurals tailored to your age group.',
+          speak: 'Speak',
+          start_hint: 'Tap the microphone and speak (e.g. "Hello, I want to learn Thirukkural")',
+          start_hint_short: 'Tap & speak',
+          or_manual: 'Or choose manually',
+          child_title: 'Child (6–12)',
+          child_title_short: 'Child',
+          child_sub: 'Stories & games',
+          teen_title: 'Teen (13–17)',
+          teen_title_short: 'Teen',
+          teen_sub: 'Guidance & challenges',
+          adult_title: 'Adult (18+)',
+          adult_title_short: 'Adult',
+          adult_sub: 'Philosophy & commentary',
+          detected_label: 'Detected: Teen (13–17)',
+          enter: 'Continue',
+          offline_ready: 'Working offline',
+          toggle_theme: 'Toggle theme',
+          switch_lang: 'Switch language'
+        },
+        ta: {
+          app_name: 'திருவள்ளுவர் AI',
+          hero_title: 'திருவள்ளுவர் AI',
+          heritage_badge: 'ஓலைச்சுவடி ஏந்திய பெருந்தகை • 1,330 குறள்',
+          heritage_badge_short: '1,330 குறள்',
+          tagline: 'பழமையான ஞானம், புத்திசாலி எதிர்காலம்',
+          intro: 'உங்கள் வயது பிரிவுக்கு ஏற்ப 1,330 குறள்களை அறிய தமிழ் அல்லது ஆங்கிலத்தில் பேசுங்கள்.',
+          speak: 'பேசுக',
+          start_hint: 'மைக்கை அழுத்தி பேசுங்கள் (எ.கா. "வணக்கம், நான் திருக்குறள் கற்க விரும்புகிறேன்")',
+          start_hint_short: 'தட்டிப் பேசுங்கள்',
+          or_manual: 'அல்லது நேரடியாகத் தேர்ந்தெடுக்கவும்',
+          child_title: 'சிறுவர் (6–12)',
+          child_title_short: 'சிறுவர்',
+          child_sub: 'கதைகள் & விளையாட்டுகள்',
+          teen_title: 'இளைஞர் (13–17)',
+          teen_title_short: 'இளைஞர்',
+          teen_sub: 'வழிகாட்டுதல் & சவால்கள்',
+          adult_title: 'பெரியோர் (18+)',
+          adult_title_short: 'பெரியோர்',
+          adult_sub: 'தத்துவம் & உரைகள்',
+          detected_label: 'கண்டறியப்பட்டது: இளைஞர் (13–17)',
+          enter: 'இந்த இடைமுகத்திற்குள் செல்க',
+          offline_ready: 'இணையம் இல்லாமல் இயங்குகிறது',
+          toggle_theme: 'தோற்றத்தை மாற்று',
+          switch_lang: 'மொழியை மாற்று'
+        }
+      };
+
+      var lang = 'en';
+      var langBtn = document.getElementById('lang-toggle');
+      var themeBtn = document.getElementById('theme-toggle');
+      var micBtn = document.getElementById('mic-btn');
+      var detectResult = document.getElementById('detect-result');
+
+      function applyCompactTitles() {
+        var isPi = window.matchMedia('(max-width: 560px) and (max-height: 380px)').matches;
+        var map = [
+          ['child_title', isPi ? 'child_title_short' : 'child_title'],
+          ['teen_title', isPi ? 'teen_title_short' : 'teen_title'],
+          ['adult_title', isPi ? 'adult_title_short' : 'adult_title']
+        ];
+        for (var i = 0; i < map.length; i++) {
+          var el = document.querySelector('[data-i18n="' + map[i][0] + '"]');
+          if (el) el.textContent = copy[lang][map[i][1]];
+        }
+      }
+
+      function syncLanguage(nextLang) {
+        lang = nextLang;
+        document.documentElement.lang = lang === 'ta' ? 'ta' : 'en';
+        var nodes = document.querySelectorAll('[data-i18n]');
+        for (var i = 0; i < nodes.length; i++) {
+          var key = nodes[i].getAttribute('data-i18n');
+          if (copy[lang][key]) nodes[i].textContent = copy[lang][key];
+        }
+        var ariaNodes = document.querySelectorAll('[data-i18n-aria]');
+        for (var j = 0; j < ariaNodes.length; j++) {
+          var aKey = ariaNodes[j].getAttribute('data-i18n-aria');
+          if (copy[lang][aKey]) ariaNodes[j].setAttribute('aria-label', copy[lang][aKey]);
+        }
+        applyCompactTitles();
+        var ta = document.getElementById('lang-ta');
+        var en = document.getElementById('lang-en');
+        if (lang === 'ta') {
+          ta.className = 'text-light-on-adult-surface dark:text-dark-primary';
+          en.className = 'text-light-text-muted dark:text-dark-text-muted';
+        } else {
+          en.className = 'text-light-on-adult-surface dark:text-dark-primary';
+          ta.className = 'text-light-text-muted dark:text-dark-text-muted';
+        }
+      }
+
+      function syncThemeIcons() {
+        var isDark = document.documentElement.classList.contains('dark');
+        document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
+        var sun = document.getElementById('icon-sun');
+        var moon = document.getElementById('icon-moon');
+        if (sun && moon) {
+          if (isDark) {
+            sun.classList.remove('hidden');
+            moon.classList.add('hidden');
+          } else {
+            sun.classList.add('hidden');
+            moon.classList.remove('hidden');
+          }
+        }
+      }
+
+      if (langBtn) {
+        langBtn.addEventListener('click', function () {
+          syncLanguage(lang === 'en' ? 'ta' : 'en');
+        });
+      }
+
+      if (themeBtn) {
+        themeBtn.addEventListener('click', function () {
+          document.documentElement.classList.toggle('dark');
+          syncThemeIcons();
+        });
+      }
+
+      if (micBtn && detectResult) {
+        micBtn.addEventListener('click', function () {
+          detectResult.classList.toggle('hidden');
+        });
+      }
+
+      window.addEventListener('resize', applyCompactTitles);
+      syncLanguage('ta');
+      syncThemeIcons();
+    })();
+  </script>
+
+
+</body></html>

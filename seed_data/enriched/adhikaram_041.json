@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 41,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.817646748+00:00",
+  "kurals": [
+    {
+      "kural_number": 401,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அறிவு நிரம்புவதற்குக் காரணமானக் நூல்களைக் கற்காமல் கற்றவரிடம் சென்று பேசதல், சூதாடும் அரங்கு இழைக்காமல் வட்டுக்காயை உருட்டிஆடினார் போன்றது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: To speak in an assembly (of the learned) without fullness of knowledge, is like playing at chess (on a board) without squares.",
+        "story_title_ta": "கல்லாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Ignorance — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்லாமை' என்ற அதிகாரத்திலிருந்து குறள் 401 பற்றிக் கதை சொன்னார். 'அறிவு வளர்ச்சிக்கு ஏற்ற நூல்களைக் கல்லாதவர், கற்றவர் அவையில் பேசுவது, கட்டம் போடாமல் தாயம் உருட்டுவது போலாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 41, 'Ignorance', centered on Kural 401: To speak in an assembly (of the learned) without fullness of knowledge, is like playing at chess (on a board) without squares. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நிறைந்த அறிவாற்றல் இல்லாமல் அவையில் பேசுவது ஆடுவதற்கான கட்டம் போட்டுக் கொள்ளாமலே சொக்கட்டான் விளையாடுவதைப் போன்றதாகும்.",
+        "moral_en": "Moral: Like those at draughts would play without the chequered square, Men void of ample lore would counsels of the learned share.",
+        "game_blank_word_ta": "யற்றே",
+        "game_options_ta": [
+          "கல்லாதான்",
+          "யற்றே",
+          "சொற்கா",
+          "முறுதல்"
+        ],
+        "game_options_en": [
+          "Unlearned man aspiring speech Is breastless lady's love-approach",
+          "Like play of chess on squareless board Vain is imperfect loreless word",
+          "Ev'n unread men are good and wise If before the wise, they hold their peace",
+          "The unread's wit though excellent Is not valued by the savant"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்லாமை (அரசியல்) பிரிவில் அமைந்த குறள் 401, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறிவு வளர்ச்சிக்கு ஏற்ற நூல்களைக் கல்லாதவர், கற்றவர் அவையில் பேசுவது, கட்டம் போடாமல் தாயம் உருட்டுவது போலாம். கலைஞர் உரை கூறுவது: நிறைந்த அறிவாற்றல் இல்லாமல் அவையில் பேசுவது ஆடுவதற்கான கட்டம் போட்டுக் கொள்ளாமலே சொக்கட்டான் விளையாடுவதைப் போன்றதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Royalty & Polity), Kural 401 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To speak in an assembly (of the learned) without fullness of knowledge, is like playing at chess (on a board) without squares. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்லாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'கல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 401 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 401 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "தக்க வழிகளை ஆராய்ந்து கூறும் அறிஞரையே உலகம் கண்ணாகக் கொண்டு நடத்தலால், மன்னவனும் அத்தகையாரைக் ஆராய்ந்து நட்புக்கொள்ள வேண்டும்.",
+          "அறிவு நிரம்புவதற்குக் காரணமானக் நூல்களைக் கற்காமல் கற்றவரிடம் சென்று பேசதல், சூதாடும் அரங்கு இழைக்காமல் வட்டுக்காயை உருட்டிஆடினார் போன்றது.",
+          "பகைவரைக் கண்டால் பொறுத்துச் செல்லவேண்டும், அப் பகைவர்க்கு முடிவுகாலம் வந்த போது அவருடைய தலை கீழே விழும்.",
+          "பெரிய உவகையால் மகிழ்ந்திருக்கும் போது மறதியால் வரும் சோர்வு, ஒருவனுக்கு வரம்பு கடந்த சினம் வருவதைவிடத் தீமையானதாகும்."
+        ],
+        "quiz_options_en": [
+          "Ministers are the monarch's eyes Round him should be the right and wise",
+          "Like play of chess on squareless board Vain is imperfect loreless word",
+          "Bear with hostiles when you meet them Fell down their head in fateful time",
+          "Worse than wrath in excess is Forgetfulness in joy-excess"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்லாமை) பகுதியில் குறள் 401 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறிவு நிரம்புவதற்குக் காரணமானக் நூல்களைக் கற்காமல் கற்றவரிடம் சென்று பேசதல், சூதாடும் அரங்கு இழைக்காமல் வட்டுக்காயை உருட்டிஆடினார் போன்றது. பரிமேலழகர் உரை நுட்பம்: அரங்கு இன்றி வட்டு ஆடியற்று - அரங்கினை இழையாது வட்டாடினாற்போலும், நிரம்பிய நூல்இன்றிக் கோட்டி கோளல் - தான் நிரம்புதற்கு ஏதுவாகிய நூல்களைக் கல்லாது ஒருவன் அவையின்கண் ஒன்றனைச் சொல்லுதல். (அரங்கு - வகுத்ததானம். வட்டாடல்: உண்டை உருட்டல். இவை 'கட்டளையன்ன வட்டரங்கு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 41: 'Ignorance'), Kural 401 distills a foundational ethical insight: \"Like those at draughts would play without the chequered square, Men void of ample lore would counsels of the learned share\" Philosophically, To speak in an assembly (of the learned) without fullness of knowledge, is like playing at chess (on a board) without squares.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "speech",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 402,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: (கற்றவரின் அவையில்) கல்லாதவன் ஒன்றைச் சொல்ல விரும்புதல், முலை இரண்டும் இல்லாதவள் பெண் தன்மையை விரும்பினாற் போன்றது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The desire of the unlearned to speak (in an assembly), is like a woman without breasts desiring (the enjoyment of ) woman-hood.",
+        "story_title_ta": "கல்லாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Ignorance — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்லாமை' என்ற அதிகாரத்திலிருந்து குறள் 402 பற்றிக் கதை சொன்னார். 'படிக்காதவன் கற்றவர் அவையில் பேச ஆசைப்டுபடுவது, இரு முலையும் வளர்ச்சி பெறாத பெண் ஒருத்தி உடலுறவு கொள்ள ஆசைப்பட்டது போலாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 41, 'Ignorance', centered on Kural 402: The desire of the unlearned to speak (in an assembly), is like a woman without breasts desiring (the enjoyment of ) woman-hood. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கல்லாதவனின் சொல்கேட்க விரும்புவது, மார்பகம் இல்லாத பெண்மீது மையல் கொள்வதற்கு ஒப்பானது.",
+        "moral_en": "Moral: Like those who doat on hoyden's undeveloped charms are they, Of learning void, who eagerly their power of words display.",
+        "game_blank_word_ta": "முலையிரண்டும்",
+        "game_options_ta": [
+          "அரங்கின்றி",
+          "வட்டாடி",
+          "முலையிரண்டும்",
+          "யற்றே"
+        ],
+        "game_options_en": [
+          "Like play of chess on squareless board Vain is imperfect loreless word",
+          "Ev'n unread men are good and wise If before the wise, they hold their peace",
+          "Unlearned man aspiring speech Is breastless lady's love-approach",
+          "The unread's wit though excellent Is not valued by the savant"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்லாமை (அரசியல்) பிரிவில் அமைந்த குறள் 402, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: படிக்காதவன் கற்றவர் அவையில் பேச ஆசைப்டுபடுவது, இரு முலையும் வளர்ச்சி பெறாத பெண் ஒருத்தி உடலுறவு கொள்ள ஆசைப்பட்டது போலாம். கலைஞர் உரை கூறுவது: கல்லாதவனின் சொல்கேட்க விரும்புவது, மார்பகம் இல்லாத பெண்மீது மையல் கொள்வதற்கு ஒப்பானது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Royalty & Polity), Kural 402 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The desire of the unlearned to speak (in an assembly), is like a woman without breasts desiring (the enjoyment of ) woman-hood. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்லாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'கல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 402 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 402 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "தக்க பெரியாரின் கூட்டத்தில் உள்ளனவாய் நடக்கவல்ல ஒருவனுக்கு,அவனுடைய பகைவர் செய்யக்கூடியத் தீங்கு ஒன்றும் இல்லை.",
+          "கிடைத்தற்கறிய காலம் வந்து வாய்க்குமானால், அந்த வாய்ப்பைப் பயன்படுத்திக் கொண்டு அப்போதே செய்தற்கரியச் செயல்களைச் செய்ய வேண்டும்.",
+          "(கற்றவரின் அவையில்) கல்லாதவன் ஒன்றைச் சொல்ல விரும்புதல், முலை இரண்டும் இல்லாதவள் பெண் தன்மையை விரும்பினாற் போன்றது.",
+          "நாள் தோறும் விடாமல் வரும் வறுமை அறிவைக் கொல்வது போல, ஒருவனுடைய புகழை அவனுடைய மறதிக் கொன்று விடும்."
+        ],
+        "quiz_options_en": [
+          "To move with worthy friends who knows Has none to fear from frightful foes",
+          "When comes the season ripe and rare Dare and do hard things then and there",
+          "Unlearned man aspiring speech Is breastless lady's love-approach",
+          "Negligence kills renown just as Ceaseless want wisdom destroys"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்லாமை) பகுதியில் குறள் 402 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (கற்றவரின் அவையில்) கல்லாதவன் ஒன்றைச் சொல்ல விரும்புதல், முலை இரண்டும் இல்லாதவள் பெண் தன்மையை விரும்பினாற் போன்றது. பரிமேலழகர் உரை நுட்பம்: கல்லாதான் சொல் காமுறுதல் - கல்வியில்லாதான் ஒருவன் அவையின்கண் ஒன்று சொல்லுதலை அவாவுதல், முலை இரண்டும் இல்லாதாள் பெண் காமுற்றற்று - இயல்பாகவே முலை இரண்டும் இல்லாதாள் ஒருத்தி பெண்மையை அவாவினாற் போலும். ('இனைத்தென அறிந்த சினை' (தொல்.சொல்.33) ஆகலின், தொகையோடு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 41: 'Ignorance'), Kural 402 distills a foundational ethical insight: \"Like those who doat on hoyden's undeveloped charms are they, Of learning void, who eagerly their power of words display\" Philosophically, The desire of the unlearned to speak (in an assembly), is like a woman without breasts desiring (the enjoyment of ) woman-hood.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "speech",
+        "education",
+        "self-mastery",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 403,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: கற்றவரின் முன்னிலையில் ஒன்றையும் சொல்லாமல் அமைதியாக இருக்கப் பெற்றால் கல்லாதவர்களும் மிகவும் நல்லவரே ஆவார்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The unlearned also are very excellent men, if they know how to keep silence before the learned.",
+        "story_title_ta": "கல்லாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Ignorance — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்லாமை' என்ற அதிகாரத்திலிருந்து குறள் 403 பற்றிக் கதை சொன்னார். 'கற்றவர் அவையில் பேசாதிருந்தால் படிக்காதவரும் மிகநல்லவரே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 41, 'Ignorance', centered on Kural 403: The unlearned also are very excellent men, if they know how to keep silence before the learned. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கற்றவர்களின் முன்னிலையில் எதுவும் பேசாமல் இருக்கக் கற்றிருந்தால் கல்வி கற்காதவர்கள்கூட நல்லவர்களாகவே கருதப்படுவார்கள்.",
+        "moral_en": "Moral: The blockheads, too, may men of worth appear, If they can keep from speaking where the learned hear.",
+        "game_blank_word_ta": "சொல்லா",
+        "game_options_ta": [
+          "அரங்கின்றி",
+          "வட்டாடி",
+          "யற்றே",
+          "சொல்லா"
+        ],
+        "game_options_en": [
+          "Like play of chess on squareless board Vain is imperfect loreless word",
+          "Unlearned man aspiring speech Is breastless lady's love-approach",
+          "The unread's wit though excellent Is not valued by the savant",
+          "Ev'n unread men are good and wise If before the wise, they hold their peace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்லாமை (அரசியல்) பிரிவில் அமைந்த குறள் 403, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கற்றவர் அவையில் பேசாதிருந்தால் படிக்காதவரும் மிகநல்லவரே. கலைஞர் உரை கூறுவது: கற்றவர்களின் முன்னிலையில் எதுவும் பேசாமல் இருக்கக் கற்றிருந்தால் கல்வி கற்காதவர்கள்கூட நல்லவர்களாகவே கருதப்படுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Royalty & Polity), Kural 403 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The unlearned also are very excellent men, if they know how to keep silence before the learned. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்லாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'கல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 403 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 403 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "கடிந்து அறிவுரைக் கூறவல்ல பெரியாரின் துணை கொண்டு நடப்பவரை கெடுக்கும் ஆற்றல் உள்ளவர் எவர் இருக்கின்றனர்.",
+          "பொறுத்திருக்கும் காலத்தில் கொக்குப் போல் அமைதியாக இருக்க வேண்டும், காலம் வாய்த்த போது அதன் குத்து போல் தவறாமல் செய்து முடிக்க வேண்டும்.",
+          "மறதியால் சோர்ந்து நடப்பவர்க்குப் புகழுடன் வாழும் தன்மையில்லை, அஃது உலகத்தில் எப்படிப்பட்டநூலோர்க்கும் ஒப்ப முடிந்த முடிப்பாகும்.",
+          "கற்றவரின் முன்னிலையில் ஒன்றையும் சொல்லாமல் அமைதியாக இருக்கப் பெற்றால் கல்லாதவர்களும் மிகவும் நல்லவரே ஆவார்."
+        ],
+        "quiz_options_en": [
+          "No foe can foil his powers whose friends reprove him when he errs",
+          "In waiting time feign peace like stork In fighting time strike like its peck",
+          "Forgetful nature fails of fame All schools of thinkers say the same",
+          "Ev'n unread men are good and wise If before the wise, they hold their peace"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்லாமை) பகுதியில் குறள் 403 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கற்றவரின் முன்னிலையில் ஒன்றையும் சொல்லாமல் அமைதியாக இருக்கப் பெற்றால் கல்லாதவர்களும் மிகவும் நல்லவரே ஆவார். பரிமேலழகர் உரை நுட்பம்: கல்லாதவரும் நனி நல்லர் - கல்லாதவரும் மிக நல்லராவர், கற்றார் முன் சொல்லாது இருக்கப்பெறின் - தாமே தம்மையறிந்து கற்றார் அவையின்கண் ஒன்றனையும் சொல்லாதிருத்தல் கூடுமாயின். (உம்மை - இழிவுசிறப்பு உம்மை, தம்மைத்தாம் அறியாமையின் அது கூடாது என்பார், 'பெறின்' என்றும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 41: 'Ignorance'), Kural 403 distills a foundational ethical insight: \"The blockheads, too, may men of worth appear, If they can keep from speaking where the learned hear\" Philosophically, The unlearned also are very excellent men, if they know how to keep silence before the learned.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "speech",
+        "education",
+        "wisdom",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 404,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கல்லாதவனுடைய அறிவுடைய ஒருக்கால் மிக நன்றாக இருந்தாலும் அறிவுடையோர் அதனை அறிவின் பகுதியாக ஏற்றுக்கொள்ள மாட்டார்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Although the natural knowledge of an unlearned man may be very good, the wise will not accept for true knowledge.",
+        "story_title_ta": "கல்லாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Ignorance — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்லாமை' என்ற அதிகாரத்திலிருந்து குறள் 404 பற்றிக் கதை சொன்னார். 'படித்தவர் முன் பேசினால் படிக்காதவரின் பெருமை குறைந்து போகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 41, 'Ignorance', centered on Kural 404: Although the natural knowledge of an unlearned man may be very good, the wise will not accept for true knowledge. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கல்வி கற்காதவனுக்கு இயற்கையாகவே அறிவு இருந்தாலும்கூட, அவனைக் கல்வியில் சிறந்தோன் என்று அறிவுடையோர் ஒப்புக் கொள்ள மாட்டார்கள்.",
+        "moral_en": "Moral: From blockheads' lips, when words of wisdom glibly flow, The wise receive them not, though good they seem to show.",
+        "game_blank_word_ta": "கழியநன்",
+        "game_options_ta": [
+          "கழியநன்",
+          "அரங்கின்றி",
+          "வட்டாடி",
+          "யற்றே"
+        ],
+        "game_options_en": [
+          "The unread's wit though excellent Is not valued by the savant",
+          "Like play of chess on squareless board Vain is imperfect loreless word",
+          "Unlearned man aspiring speech Is breastless lady's love-approach",
+          "Ev'n unread men are good and wise If before the wise, they hold their peace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்லாமை (அரசியல்) பிரிவில் அமைந்த குறள் 404, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: படித்தவர் முன் பேசினால் படிக்காதவரின் பெருமை குறைந்து போகும். கலைஞர் உரை கூறுவது: கல்வி கற்காதவனுக்கு இயற்கையாகவே அறிவு இருந்தாலும்கூட, அவனைக் கல்வியில் சிறந்தோன் என்று அறிவுடையோர் ஒப்புக் கொள்ள மாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Royalty & Polity), Kural 404 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Although the natural knowledge of an unlearned man may be very good, the wise will not accept for true knowledge. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்லாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'கல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 404 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 404 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "கல்லாதவனுடைய அறிவுடைய ஒருக்கால் மிக நன்றாக இருந்தாலும் அறிவுடையோர் அதனை அறிவின் பகுதியாக ஏற்றுக்கொள்ள மாட்டார்.",
+          "கடிந்து அறிவுரைக் கூறும் பெரியாரின் துணை இல்லாதக் காவலற்ற அரசன், தன்னைக் கெடுக்ககும் பகைவர் எவரும் இல்லாவிட்டாலும் கெடுவான்.",
+          "முற்றுகை செய்வதற்கு ஏற்ற இடத்தைக் கண்டபின் அல்லாமல் எச் செயலையும் தொடங்கக்கூடாது, பகைவரை இகழவும் கூடாது.",
+          "உள்ளத்தில் அச்சம் உடையவர்க்குப் புறத்திலே அரண் இருந்து பயன் இல்லை, அதுபோல் மறதி உடையவர்க்கு நல்ல நிலை வாய்த்தும் பயன் இல்லை."
+        ],
+        "quiz_options_en": [
+          "The unread's wit though excellent Is not valued by the savant",
+          "The careless king whom none reproves Ruins himself sans harmful foes",
+          "No action take, no foe despise Until you have surveyed the place",
+          "The fearful find no fortress here The forgetful find good never"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்லாமை) பகுதியில் குறள் 404 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கல்லாதவனுடைய அறிவுடைய ஒருக்கால் மிக நன்றாக இருந்தாலும் அறிவுடையோர் அதனை அறிவின் பகுதியாக ஏற்றுக்கொள்ள மாட்டார். பரிமேலழகர் உரை நுட்பம்: கல்லாதான் ஒட்பம் கழிய நன்று ஆயினும் - கல்லாதவனது ஒண்மை ஒரோவழி நன்றாயிருப்பினும், அறிவுடையார் கொள்ளார் - அறிவுடையார் அதனை ஒண்மையாகக் கொள்ளார். (ஒண்மை: அறிவுடைமை, அது நன்றாகாது, ஆயிற்றாயினும் ஏரலெழுத்துப் போல்வதோர் விழுக்காடு ஆகலின், நிலைபெற்ற நூல் அறிவுடையார...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 41: 'Ignorance'), Kural 404 distills a foundational ethical insight: \"From blockheads' lips, when words of wisdom glibly flow, The wise receive them not, though good they seem to show\" Philosophically, Although the natural knowledge of an unlearned man may be very good, the wise will not accept for true knowledge.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "education",
+        "speech",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 405,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கல்லாதவன் ஒருவன் தன்னைத்தான் மகிழ்ந்து பேசும் மதிப்பு ( கற்றவரிடம்) கூடிபேசும் போது அப்பேசினால் கெடும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The self-conceit of an unlearned man will fade away, as soon as he speaks in an assembly (of.",
+        "story_title_ta": "கல்லாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Ignorance — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்லாமை' என்ற அதிகாரத்திலிருந்து குறள் 405 பற்றிக் கதை சொன்னார். 'படித்தவர் முன் பேசினால் படிக்காதவரின் பெருமை குறைந்து போகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 41, 'Ignorance', centered on Kural 405: The self-conceit of an unlearned man will fade away, as soon as he speaks in an assembly (of. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கல்வியறிவில்லாதவர்கள் தங்களைப் பெரிய மேதைகளைப் போல் காட்டிக் கொள்ளும் போலி வேடம், கற்றுத் தேர்ந்த அறிஞர்களிடம் அவர்கள் உரையாடும்போது கலைந்து போய்விடும்.",
+        "moral_en": "Moral: As worthless shows the worth of man unlearned, When council meets, by words he speaks discerned.",
+        "game_blank_word_ta": "படும்",
+        "game_options_ta": [
+          "அரங்கின்றி",
+          "படும்",
+          "வட்டாடி",
+          "யற்றே"
+        ],
+        "game_options_en": [
+          "Like play of chess on squareless board Vain is imperfect loreless word",
+          "A man untaught when speech he vaunts Sadly fails before savants",
+          "Unlearned man aspiring speech Is breastless lady's love-approach",
+          "Ev'n unread men are good and wise If before the wise, they hold their peace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்லாமை (அரசியல்) பிரிவில் அமைந்த குறள் 405, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: படித்தவர் முன் பேசினால் படிக்காதவரின் பெருமை குறைந்து போகும். கலைஞர் உரை கூறுவது: கல்வியறிவில்லாதவர்கள் தங்களைப் பெரிய மேதைகளைப் போல் காட்டிக் கொள்ளும் போலி வேடம், கற்றுத் தேர்ந்த அறிஞர்களிடம் அவர்கள் உரையாடும்போது கலைந்து போய்விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Royalty & Polity), Kural 405 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The self-conceit of an unlearned man will fade away, as soon as he speaks in an assembly (of. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்லாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'கல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 405 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 405 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "முதல் இல்லாத வணிகர்க்கு அதனால் வரும் ஊதியம் இல்லை, அதுபோல் தம்மைத் தாங்கிக் காப்பாற்றும் துணை இல்லாதவர்க்கு நிலைபேறு இல்லை.",
+          "கல்லாதவன் ஒருவன் தன்னைத்தான் மகிழ்ந்து பேசும் மதிப்பு ( கற்றவரிடம்) கூடிபேசும் போது அப்பேசினால் கெடும்.",
+          "மாறுபாடு பொருந்திய வலிமை உடையவர்க்கும் அரணோடு பொருந்தி ஏற்படுகின்ற வெற்றியானது பல வகைப் பயன்களையும் கொடுக்கும்.",
+          "வரும் இடையூறுகளை முன்னே அறிந்துக் காக்காமல் மறந்து சோர்ந்தவன், பின்பு அவை வந்துற்றபோது தன் பிழையை நினைத்து இரங்குவான்."
+        ],
+        "quiz_options_en": [
+          "No capital, no gain in trade No prop secure sans good comrade",
+          "A man untaught when speech he vaunts Sadly fails before savants",
+          "Many are gains of fortresses Ev'n to kings of power and prowess",
+          "Failing foresight the guardless man Shall rue his folly later on"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்லாமை) பகுதியில் குறள் 405 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கல்லாதவன் ஒருவன் தன்னைத்தான் மகிழ்ந்து பேசும் மதிப்பு ( கற்றவரிடம்) கூடிபேசும் போது அப்பேசினால் கெடும். பரிமேலழகர் உரை நுட்பம்: கல்லா ஒருவன் தகைமை - நூல்களைக் கல்லாத ஒருவன் யான் அறிவுடையேன் எனத் தன்னை மதிக்கும் மதிப்பு, தலைப்பெய்து சொல்லாடச் சோர்வுபடும் - அவற்றைக்கற்றவன் கண்டு உரையாடக் கெடும். ('கற்றவன்' என்பது வருவிக்கப்பட்டது. யாதானும் ஓர் வார்த்தை சொல்லும் துணையுமே நிற்பது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 41: 'Ignorance'), Kural 405 distills a foundational ethical insight: \"As worthless shows the worth of man unlearned, When council meets, by words he speaks discerned\" Philosophically, The self-conceit of an unlearned man will fade away, as soon as he speaks in an assembly (of.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "speech",
+        "education",
+        "humility",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 406,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: கல்லாதவர் உயிரோடிருக்கின்றனர் என்று சொல்லப்படும் அளவினரே அல்லாமல் ஒன்றும் விளையாத களர் நிலத்திற்கு ஒப்பாவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The unlearned are like worthless barren land: all that can be said of them is, that they exist.",
+        "story_title_ta": "கல்லாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Ignorance — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்லாமை' என்ற அதிகாரத்திலிருந்து குறள் 406 பற்றிக் கதை சொன்னார். 'படிக்காதவர் உடலால் இருப்பவர் என்று சொல்லும் அளவினரே அன்றி, எவர்க்கும் பயன்படாதவர், ஆதலால் விளைச்சல் தராத களர் நிலத்திற்கு ஒப்பாவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 41, 'Ignorance', centered on Kural 406: The unlearned are like worthless barren land: all that can be said of them is, that they exist. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கல்லாதவர்களைக் களர்நிலத்துக்கு ஒப்பிடுவதே பொருத்தமானது காரணம் அவர்கள் வெறும் நடைப்பிணங்களாகவே கருதப்படுவார்கள்.",
+        "moral_en": "Moral: 'They are': so much is true of men untaught; But, like a barren field, they yield us nought.",
+        "game_blank_word_ta": "உளரென்னும்",
+        "game_options_ta": [
+          "அரங்கின்றி",
+          "வட்டாடி",
+          "உளரென்னும்",
+          "யற்றே"
+        ],
+        "game_options_en": [
+          "Like play of chess on squareless board Vain is imperfect loreless word",
+          "Unlearned man aspiring speech Is breastless lady's love-approach",
+          "People speak of untaught minds \\\"They just exist like barren lands\\\"",
+          "Ev'n unread men are good and wise If before the wise, they hold their peace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்லாமை (அரசியல்) பிரிவில் அமைந்த குறள் 406, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: படிக்காதவர் உடலால் இருப்பவர் என்று சொல்லும் அளவினரே அன்றி, எவர்க்கும் பயன்படாதவர், ஆதலால் விளைச்சல் தராத களர் நிலத்திற்கு ஒப்பாவர். கலைஞர் உரை கூறுவது: கல்லாதவர்களைக் களர்நிலத்துக்கு ஒப்பிடுவதே பொருத்தமானது காரணம் அவர்கள் வெறும் நடைப்பிணங்களாகவே கருதப்படுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Royalty & Polity), Kural 406 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The unlearned are like worthless barren land: all that can be said of them is, that they exist. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்லாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'கல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 406 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 406 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "நல்லவராகிய பெரியாரின் தொடர்பைக் கைவிடுதல் பலருடைய பகையைத் தேடிக்கொள்வதைவிடப் பத்து மடங்கு தீமை உடையதாகும்.",
+          "தக்க இடத்தை அறிந்து தம்மைக் காத்துக் கொண்டு பகைவரிடத்திற் சென்று தம் செயலைச் செய்தால், வலிமை இல்லாதவறும் வலிமை உடையவராக வெல்வர்,",
+          "கல்லாதவர் உயிரோடிருக்கின்றனர் என்று சொல்லப்படும் அளவினரே அல்லாமல் ஒன்றும் விளையாத களர் நிலத்திற்கு ஒப்பாவர்.",
+          "யாரிடத்திலும் எக்காலத்திலும் மறந்தும் சோர்ந்திருக்காதத் தன்மை தவறாமல் பொருந்தியிருக்குமானால், அதற்கு ஒப்பான நன்மை வேறொன்றும் இல்லை."
+        ],
+        "quiz_options_en": [
+          "To give up good friends is ten times worse Than being hated by countless foes",
+          "Weaklings too withstand foe's offence In proper fields of strong defence",
+          "People speak of untaught minds \\\"They just exist like barren lands\\\"",
+          "Forget none; watch with wakeful care Miss none; the gain is sans compare"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்லாமை) பகுதியில் குறள் 406 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கல்லாதவர் உயிரோடிருக்கின்றனர் என்று சொல்லப்படும் அளவினரே அல்லாமல் ஒன்றும் விளையாத களர் நிலத்திற்கு ஒப்பாவர். பரிமேலழகர் உரை நுட்பம்: கல்லாதவர் - கல்லாதவர், உளர் என்னும் மாத்திரையர் அல்லால் - காணப்படுதலான் இலரல்லர் உளர் என்று சிலர் சொல்லும் அளவினர் ஆதல் அன்றி; பயவாக் களர் அனையர் - தமக்கும் பிறருக்கும் பயன்படாமையால் விளையாத களர் நிலத்தோடு ஒப்பர். (களர் தானும் பேணற்பாடு அழிந்து உயிர்கட்கும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 41: 'Ignorance'), Kural 406 distills a foundational ethical insight: \"'They are': so much is true of men untaught; But, like a barren field, they yield us nought\" Philosophically, The unlearned are like worthless barren land: all that can be said of them is, that they exist.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "speech",
+        "self-mastery",
+        "justice",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 407,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நுட்பமானதாய் மாட்சியுடையதாய் ஆராய வல்லவான அறிவு இல்லாதவனுடைய எழுச்சியான அழகு மண்ணால் சிறப்பாகப் புனையப்பட்ட பாவை போன்றது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The beauty and goodness of one who is destitute of knowledge by the study of great and exquisite works, is like (the beauty and goodness) of a painted earthen doll.",
+        "story_title_ta": "கல்லாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Ignorance — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்லாமை' என்ற அதிகாரத்திலிருந்து குறள் 407 பற்றிக் கதை சொன்னார். 'நுண்ணிய, சிறந்த பல நூல்களிலும் நுழைந்த அறிவு இல்லாதவனின் உடல் வளர்ச்சியும் அழகும், மண்ணால் சிறப்பாகச் செய்யப்பட்ட பொம்மையின் அழகு போன்றதாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 41, 'Ignorance', centered on Kural 407: The beauty and goodness of one who is destitute of knowledge by the study of great and exquisite works, is like (the beauty and goodness) of a painted earthen doll. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அழகான தோற்றம் மட்டுமே இருந்து, ஆழ்ந்து தெளிந்த அறிவில்லாமல் இருப்பவர்கள், கண்ணைக் கவரும் மண் பொம்மையைப் போன்றவர்களாகவே மதிக்கப்படுவார்கள்.",
+        "moral_en": "Moral: Who lack the power of subtle, large, and penetrating sense, Like puppet, decked with ornaments of clay, their beauty's vain pretence.",
+        "game_blank_word_ta": "நுழைபுலம்",
+        "game_options_ta": [
+          "அரங்கின்றி",
+          "வட்டாடி",
+          "யற்றே",
+          "நுழைபுலம்"
+        ],
+        "game_options_en": [
+          "Like play of chess on squareless board Vain is imperfect loreless word",
+          "Unlearned man aspiring speech Is breastless lady's love-approach",
+          "Ev'n unread men are good and wise If before the wise, they hold their peace",
+          "Like painted clay-doll is his show Grand subtle lore who fails to know"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்லாமை (அரசியல்) பிரிவில் அமைந்த குறள் 407, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நுண்ணிய, சிறந்த பல நூல்களிலும் நுழைந்த அறிவு இல்லாதவனின் உடல் வளர்ச்சியும் அழகும், மண்ணால் சிறப்பாகச் செய்யப்பட்ட பொம்மையின் அழகு போன்றதாகும். கலைஞர் உரை கூறுவது: அழகான தோற்றம் மட்டுமே இருந்து, ஆழ்ந்து தெளிந்த அறிவில்லாமல் இருப்பவர்கள், கண்ணைக் கவரும் மண் பொம்மையைப் போன்றவர்களாகவே மதிக்கப்படுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Royalty & Polity), Kural 407 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The beauty and goodness of one who is destitute of knowledge by the study of great and exquisite works, is like (the beauty and goodness) of a painted earthen doll. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்லாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'கல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 407 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 407 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "பெரியோரின் இயல்பு சிற்றினத்தை அஞ்சி ஒதுக்கும், சிறியோரின் இயல்பு அதையே சுற்றமாக எண்ணித் தழுவிக் கொள்ளும்.",
+          "தக்க இடத்தை அறிந்து பொருந்தியவராய்ச் செயலைச் செய்வாராயின், அவரை வெல்ல எண்ணியிருந்த பகைவர் தம் எண்ணத்தை இழந்துவிடுவார்.",
+          "மறவாமை என்னும் கருவிகொண்டு (கடமைகளைப்) போற்றிச் செய்தால், செய்வதற்கு அரியவை என்று ஒருவனால் முடியாத செயல்கள் இல்லை.",
+          "நுட்பமானதாய் மாட்சியுடையதாய் ஆராய வல்லவான அறிவு இல்லாதவனுடைய எழுச்சியான அழகு மண்ணால் சிறப்பாகப் புனையப்பட்ட பாவை போன்றது."
+        ],
+        "quiz_options_en": [
+          "The ignoble the noble fear The mean hold them as kinsmen dear",
+          "If fighters fight in vantage field The plans of foes shall be baffled",
+          "With cautious care pursue a thing Impossible there is nothing",
+          "Like painted clay-doll is his show Grand subtle lore who fails to know"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்லாமை) பகுதியில் குறள் 407 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நுட்பமானதாய் மாட்சியுடையதாய் ஆராய வல்லவான அறிவு இல்லாதவனுடைய எழுச்சியான அழகு மண்ணால் சிறப்பாகப் புனையப்பட்ட பாவை போன்றது. பரிமேலழகர் உரை நுட்பம்: நுண்மாண் நுழை புலம் இல்லான் எழில் நலம் - நுண்ணியதாய், மாட்சிமைப்பட்டுப் பல நூல்களினும் சென்ற அறிவு இல்லாதவனுடைய எழுச்சியும் அழகும், மண், மாண் புனை பாவை அற்று - சுதையான் மாட்சிமைப்படப் புனைந்தபாவையுடைய எழுச்சியும் அழகும் போலும். (அறிவிற்கு மாட்சிமையாவது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 41: 'Ignorance'), Kural 407 distills a foundational ethical insight: \"Who lack the power of subtle, large, and penetrating sense, Like puppet, decked with ornaments of clay, their beauty's vain pretence\" Philosophically, The beauty and goodness of one who is destitute of knowledge by the study of great and exquisite works, is like (the beauty and goodness) of a painted earthen doll.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "perseverance",
+        "love",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 408,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கல்லாதவனிடம் சேர்ந்துள்ள செல்வமானது, கற்றறிந்த நல்லவரிடம் உள்ள வறுமையைவிட மிகத்துன்பம் செய்வதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Wealth, gained by the unlearned, will give more sorrow than the poverty which may come upon the learned.",
+        "story_title_ta": "கல்லாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Ignorance — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்லாமை' என்ற அதிகாரத்திலிருந்து குறள் 408 பற்றிக் கதை சொன்னார். 'படிக்காதவரிடம் இருக்கும் செல்வம், நல்லவரிடம் இருக்கும் வறுமையைக் காட்டிலும் கொடியது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 41, 'Ignorance', centered on Kural 408: Wealth, gained by the unlearned, will give more sorrow than the poverty which may come upon the learned. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: முட்டாள்களிடம் குவிந்துள்ள செல்வம், நல்லவர்களை வாட்டும் வறுமையைவிட அதிக துன்பத்தைத் தரும்.",
+        "moral_en": "Moral: To men unlearned, from fortune's favour greater-evil springsThan poverty to men of goodly wisdom brings.",
+        "game_blank_word_ta": "இன்னாதே",
+        "game_options_ta": [
+          "இன்னாதே",
+          "அரங்கின்றி",
+          "வட்டாடி",
+          "யற்றே"
+        ],
+        "game_options_en": [
+          "Wealth in the hand of fools is worse Than a learned man's empty purse",
+          "Like play of chess on squareless board Vain is imperfect loreless word",
+          "Unlearned man aspiring speech Is breastless lady's love-approach",
+          "Ev'n unread men are good and wise If before the wise, they hold their peace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்லாமை (அரசியல்) பிரிவில் அமைந்த குறள் 408, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: படிக்காதவரிடம் இருக்கும் செல்வம், நல்லவரிடம் இருக்கும் வறுமையைக் காட்டிலும் கொடியது. கலைஞர் உரை கூறுவது: முட்டாள்களிடம் குவிந்துள்ள செல்வம், நல்லவர்களை வாட்டும் வறுமையைவிட அதிக துன்பத்தைத் தரும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Royalty & Polity), Kural 408 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Wealth, gained by the unlearned, will give more sorrow than the poverty which may come upon the learned. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்லாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'கல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 408 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 408 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "கல்லாதவனிடம் சேர்ந்துள்ள செல்வமானது, கற்றறிந்த நல்லவரிடம் உள்ள வறுமையைவிட மிகத்துன்பம் செய்வதாகும்.",
+          "சேர்ந்த நிலத்தின் இயல்பால் அந்த நீர் வேறுபட்டு அந் நிலத்தின் தன்மையுடையதாகும், அதுபோல் மக்களுடைய அறிவு இனத்தின் இயல்பினை உடையதாகும்.",
+          "ஆழமுள்ள நீரில் முதலை மற்ற உயிர்களை வெல்லும், ஆனால் நீரிலிருந்து விலகிவந்தால் அந்த முதலையையும் மற்ற உயிர்கள் வென்றுவிடும்.",
+          "சான்றோர் புகழ்ந்து சொல்லியச் செயல்களைப் போற்றிச் செய்யவேண்டும், அவ்வாறு செய்யாமல் மறந்து சோர்ந்தவர்க்கு ஏழுப் பிறப்பிலும் நன்மை இல்லை."
+        ],
+        "quiz_options_en": [
+          "Wealth in the hand of fools is worse Than a learned man's empty purse",
+          "With soil changes water's taste With mates changes the mental state",
+          "In water crocodile prevails In land before others it fails",
+          "Do what the wise commend as worth If not, for seven births no mirth"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்லாமை) பகுதியில் குறள் 408 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கல்லாதவனிடம் சேர்ந்துள்ள செல்வமானது, கற்றறிந்த நல்லவரிடம் உள்ள வறுமையைவிட மிகத்துன்பம் செய்வதாகும். பரிமேலழகர் உரை நுட்பம்: நல்லார்கண் பட்ட வறுமையின் இன்னாது - கற்றார்மாட்டு நின்ற வறுமையினும் இன்னாது, கல்லார்கண் பட்ட திரு - கல்லாதார் மாட்டு நின்ற செல்வம். (இழிவு சிறப்பு உம்மை விகாரத்தால் தொக்கது. தம்தம் நிலையின் அன்றிமாறி நிற்றலால் தாம் இடுக்கண்படுதலும் உலகிற்குத் துன்பஞ்செய்தலும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 41: 'Ignorance'), Kural 408 distills a foundational ethical insight: \"To men unlearned, from fortune's favour greater-evil springsThan poverty to men of goodly wisdom brings\" Philosophically, Wealth, gained by the unlearned, will give more sorrow than the poverty which may come upon the learned.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wealth",
+        "education",
+        "kindness",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 409,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கல்லாதவர் உயர்ந்த குடியில் பிறந்தவராக இருப்பினும் தாழ்ந்த குடியில் பிறந்திருந்தும் கல்விக் கற்றவரைப் போன்ற பெருமை இல்லாதவரே.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The unlearned, though born in a high caste, are not equal in dignity to the learned; though they may have been born in a low caste.",
+        "story_title_ta": "கல்லாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Ignorance — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்லாமை' என்ற அதிகாரத்திலிருந்து குறள் 409 பற்றிக் கதை சொன்னார். 'படிக்காதவர் மேல்சாதியில் பிறந்திருந்தாலும், கீழ்சாதியில் பிறந்திருந்தும் படித்தவர் அளவிற்குப் பெருமை இல்லாதவரே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 41, 'Ignorance', centered on Kural 409: The unlearned, though born in a high caste, are not equal in dignity to the learned; though they may have been born in a low caste. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கற்றவர் என்ற பெருமை, உயர்ந்தவர் தாழ்ந்தவர் என்ற வேறுபாட்டைப் போக்கிவிடும்.",
+        "moral_en": "Moral: Lower are men unlearned, though noble be their race, Than low-born men adorned with learning's grace.",
+        "game_blank_word_ta": "ராயினும்",
+        "game_options_ta": [
+          "அரங்கின்றி",
+          "ராயினும்",
+          "வட்டாடி",
+          "யற்றே"
+        ],
+        "game_options_en": [
+          "Like play of chess on squareless board Vain is imperfect loreless word",
+          "Lower are fools of higher birth Than low-born men of learning's worth",
+          "Unlearned man aspiring speech Is breastless lady's love-approach",
+          "Ev'n unread men are good and wise If before the wise, they hold their peace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்லாமை (அரசியல்) பிரிவில் அமைந்த குறள் 409, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: படிக்காதவர் மேல்சாதியில் பிறந்திருந்தாலும், கீழ்சாதியில் பிறந்திருந்தும் படித்தவர் அளவிற்குப் பெருமை இல்லாதவரே. கலைஞர் உரை கூறுவது: கற்றவர் என்ற பெருமை, உயர்ந்தவர் தாழ்ந்தவர் என்ற வேறுபாட்டைப் போக்கிவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Royalty & Polity), Kural 409 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The unlearned, though born in a high caste, are not equal in dignity to the learned; though they may have been born in a low caste. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்லாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'கல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 409 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 409 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "மக்களுக்கு இயற்கையறிவு மனத்தால் ஏற்படும், இப்படிப் பட்டவன் என்று உலகத்தாரால் மதிக்கப்படும் சொல், சேர்ந்த இனத்தால் ஏற்படும்.",
+          "கல்லாதவர் உயர்ந்த குடியில் பிறந்தவராக இருப்பினும் தாழ்ந்த குடியில் பிறந்திருந்தும் கல்விக் கற்றவரைப் போன்ற பெருமை இல்லாதவரே.",
+          "வலிய சக்கரங்களையுடைய பெரியத் தேர்கள் கடலில் ஓடமுடியாது, கடலில் ஓடுகின்ற கப்பல்களும் நிலத்தில் ஓடமுடியாது.",
+          "தாம் தம் மகிழ்ச்சியால் செருக்குக் கொண்டு கடமையை மறந்திருக்கும் போது, அவ்வாறு சோர்ந்திருந்த காரணத்தால் முற்காலத்தில் அழிந்தவரை நினைக்க வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Wisdom depends upon the mind The worth of man upon his friend",
+          "Lower are fools of higher birth Than low-born men of learning's worth",
+          "Sea-going ship goes not on shore Nor on sea the strong-wheeled car",
+          "When joy deludes, their fate recall Whom negligence has made to fall"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்லாமை) பகுதியில் குறள் 409 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கல்லாதவர் உயர்ந்த குடியில் பிறந்தவராக இருப்பினும் தாழ்ந்த குடியில் பிறந்திருந்தும் கல்விக் கற்றவரைப் போன்ற பெருமை இல்லாதவரே. பரிமேலழகர் உரை நுட்பம்: கல்லாதார் மேற்பிறந்தார் ஆயினும் - கல்லாதார் உயர்ந்த சாதிக்கண் பிறந்தாராயினும், கீழ்ப்பிறந்தும் கற்றார் அனைத்துப் பாடு இலர் - தாழ்ந்த சாதிக்கண் பிறந்து வைத்தும் கற்றாரது பெருமை அளவிற்றாய பெருமையிலர். (உடலோடு ஒழியும் சாதி உயர்ச்சியினும் , உயிரோடு செல்லும் கல்வி...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 41: 'Ignorance'), Kural 409 distills a foundational ethical insight: \"Lower are men unlearned, though noble be their race, Than low-born men adorned with learning's grace\" Philosophically, The unlearned, though born in a high caste, are not equal in dignity to the learned; though they may have been born in a low caste.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "kindness",
+        "humility",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 410,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அறிவு விளங்குதற்குக் காரணமான நூல்களைக் கற்றவரோடுக் கல்லாதவர், மக்களோடு விலங்குகளுக்கு உள்ள அவ்வளவு வேற்றுமை உடையவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: As beasts by the side of men, so are other men by the side of those who are learned in celebrated works.",
+        "story_title_ta": "கல்லாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Ignorance — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்லாமை' என்ற அதிகாரத்திலிருந்து குறள் 410 பற்றிக் கதை சொன்னார். 'விலங்கை நோக்க மக்கள் எவ்வளவு வேறுபட்டவரோ, சிறந்த நூலைக் கற்றவரை நோக்கக் கல்லாதவர் அவ்வளவு வேறுபட்டவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 41, 'Ignorance', centered on Kural 410: As beasts by the side of men, so are other men by the side of those who are learned in celebrated works. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மனிதர்களுக்கும் விலங்குகளுக்குமிடையே என்ன வேற்றுமையோ, அதே அளவு வேற்றுமை அறிவு நூல்களைப் படித்தவர்களுக்கும், அந்த நூல்களைப் படிக்காதவர்களுக்கும் இடையே உண்டு.",
+        "moral_en": "Moral: Learning's irradiating grace who gain, Others excel, as men the bestial train.",
+        "game_blank_word_ta": "அனையர்",
+        "game_options_ta": [
+          "அரங்கின்றி",
+          "வட்டாடி",
+          "அனையர்",
+          "யற்றே"
+        ],
+        "game_options_en": [
+          "Like play of chess on squareless board Vain is imperfect loreless word",
+          "Unlearned man aspiring speech Is breastless lady's love-approach",
+          "Like beasts before men, dunces are Before scholars of shining lore",
+          "Ev'n unread men are good and wise If before the wise, they hold their peace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்லாமை (அரசியல்) பிரிவில் அமைந்த குறள் 410, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: விலங்கை நோக்க மக்கள் எவ்வளவு வேறுபட்டவரோ, சிறந்த நூலைக் கற்றவரை நோக்கக் கல்லாதவர் அவ்வளவு வேறுபட்டவர். கலைஞர் உரை கூறுவது: மனிதர்களுக்கும் விலங்குகளுக்குமிடையே என்ன வேற்றுமையோ, அதே அளவு வேற்றுமை அறிவு நூல்களைப் படித்தவர்களுக்கும், அந்த நூல்களைப் படிக்காதவர்களுக்கும் இடையே உண்டு. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Royalty & Polity), Kural 410 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As beasts by the side of men, so are other men by the side of those who are learned in celebrated works. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்லாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'கல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 410 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 410 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "ஒருவனுக்கு சிறப்பறிவு மனத்தில் உள்ளது போலக் காட்டி (உண்மையாக நோக்கும் போது) அவன் சேர்ந்த இனத்தில் உள்ளதாகும்.",
+          "(செய்யும் வழிவகைகமைக்) குறைவில்லாமல் எண்ணித் தக்க இடத்தில் பொருந்திச் செய்தால், அஞ்சாமை அல்லாமல் வேறு துணை வேண்டியதில்லை.",
+          "அறிவு விளங்குதற்குக் காரணமான நூல்களைக் கற்றவரோடுக் கல்லாதவர், மக்களோடு விலங்குகளுக்கு உள்ள அவ்வளவு வேற்றுமை உடையவர்.",
+          "ஒருவன் எண்ணியதை விடாமல் எண்ணி (சோர்வில்லாமல்) இருக்கப் பெற்றால், அவன் கருதியதை அடைதல் எளிதாகும்."
+        ],
+        "quiz_options_en": [
+          "Wisdom seems to come from mind But it truly flows from the kind",
+          "No aid but daring dash they need When field is chosen right for deed",
+          "Like beasts before men, dunces are Before scholars of shining lore",
+          "Easy it is a thing to get When the mind on it is set"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்லாமை) பகுதியில் குறள் 410 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறிவு விளங்குதற்குக் காரணமான நூல்களைக் கற்றவரோடுக் கல்லாதவர், மக்களோடு விலங்குகளுக்கு உள்ள அவ்வளவு வேற்றுமை உடையவர். பரிமேலழகர் உரை நுட்பம்: விலங்கொடு மக்கள் அனையர் - விலங்கொடு நோக்க மக்கள் எத்துணை நன்மையுடையர் அத்துணைத் தீமையுடையர்; இலங்கு நூல் கற்றாரோடு ஏனையவர் - விளங்கிய நூலைக் கற்றாரோடு நோக்கக் கல்லாதவர். (இலங்குநூல்: சாதிப் பெயர். விளங்குதல்: மேம்படுதல் . விலங்கின்மக்கட்கு ஏற்றமாய உணர்வு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 41: 'Ignorance'), Kural 410 distills a foundational ethical insight: \"Learning's irradiating grace who gain, Others excel, as men the bestial train\" Philosophically, As beasts by the side of men, so are other men by the side of those who are learned in celebrated works.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "family",
+        "kindness",
+        "perseverance"
+      ]
+    }
+  ]
+}

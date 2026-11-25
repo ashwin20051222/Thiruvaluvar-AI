@@ -1,0 +1,42 @@
+[paths]
+kural_db = "data/thirukkural.db"
+user_state_db = "data/user_state.db"
+models_dir = "models"
+
+[audio]
+input_device = "default"
+output_device = "default"
+master_volume = 0.85
+earcon_guard_ms = 220
+echo_cooldown_ms = 250
+listening_timeout_ms = 5000
+max_command_duration_ms = 7000
+age_sample_duration_ms = 3200
+vad_threshold = 0.50
+aec_enabled = false
+mic_to_listen_guard_ms = 400
+
+[age_ai]
+min_voiced_ms = 1200
+min_snr_db = 8.0
+max_clipping_ratio = 0.02
+min_rms_level = 0.015
+low_confidence_threshold = 0.70
+f0_offset_hz = 0.0
+vtl_offset_cm = 0.0
+
+[ai]
+onnx_intra_threads = 1
+onnx_allow_spinning = false
+min_vec_candidate_cosine = 0.25
+oos_min_vector_cosine = 0.36
+oos_min_rrf_score = 0.022
+kb_min_vector_cosine = 0.42
+kb_min_rrf_score = 0.025
+tts_cache_max_entries = 16
+tts_cache_max_bytes = 16777216
+
+[ui]
+viewport_mode = "desktop"
+toast_duration_ms = 1800
+

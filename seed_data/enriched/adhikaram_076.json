@@ -1,0 +1,586 @@
+{
+  "adhikaram_id": 76,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.154937470+00:00",
+  "kurals": [
+    {
+      "kural_number": 751,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒரு பொருளாக மதிக்கத் தகாதவரையும், மதிப்புடையவராகச் செய்வதாகிய பொருள் அல்லாமல் சிறப்புடைய பொருள் வேறு இல்லை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Besides wealth there is nothing that can change people of no importance into those of (some) importance.",
+        "story_title_ta": "பொருள் செயல்வகை — நிலா கற்ற பாடம்",
+        "story_title_en": "Way of Accumulating Wealth — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொருள் செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 751 பற்றிக் கதை சொன்னார். 'தகுதி அற்றவரையும்கூடத் தகுதி உடையவராக ஆக்கிவிடும் தகுதி உடையது, பணமே அன்றி வேறொன்றும் இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 76, 'Way of Accumulating Wealth', centered on Kural 751: Besides wealth there is nothing that can change people of no importance into those of (some) importance. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மதிக்கத் தகாதவர்களையும் மதிக்கக்கூடிய அளவுக்கு உயர்த்திவிடுவது அவர்களிடம் குவிந்துள்ள பணத்தைத் தவிர வேறு எதுவும் இல்லை.",
+        "moral_en": "Moral: Nothing exists save wealth, that canChange man of nought to worthy man.",
+        "game_blank_word_ta": "பொருளாகச்",
+        "game_options_ta": [
+          "இல்லாரை",
+          "எல்லாரும்",
+          "எள்ளுவர்",
+          "பொருளாகச்"
+        ],
+        "game_options_en": [
+          "The have-nothing poor all despise The men of wealth all raise and praise",
+          "Waneless wealth is light that goes To every land and gloom removes",
+          "The blameless wealth from fairest means Brings good virtue and also bliss",
+          "Naught exists that can, save wealth Make the worthless as men of worth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொருள் செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 751, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தகுதி அற்றவரையும்கூடத் தகுதி உடையவராக ஆக்கிவிடும் தகுதி உடையது, பணமே அன்றி வேறொன்றும் இல்லை. கலைஞர் உரை கூறுவது: மதிக்கத் தகாதவர்களையும் மதிக்கக்கூடிய அளவுக்கு உயர்த்திவிடுவது அவர்களிடம் குவிந்துள்ள பணத்தைத் தவிர வேறு எதுவும் இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Way of Accumulating Wealth (Ministers & Elements of State), Kural 751 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Besides wealth there is nothing that can change people of no importance into those of (some) importance. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொருள் செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Way of Accumulating Wealth' thoughtfully.",
+        "quiz_question_ta": "'பொருள் செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 751 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 751 from Chapter 'Way of Accumulating Wealth'?",
+        "quiz_options_ta": [
+          "நன்மை இல்லாதச் சொற்களைக் கண்டபோது வருந்தும்படியாக இடிந்துச் சொல்லி, உலகநடையை அறிய வல்லவரின் நட்பை ஆராய்ப்து கொள்ள வேண்டும்.",
+          "பேதை தன் கையில் ஒரு பொருள் பெற்றால் (அவன் நிலைமை) பித்து பிடித்த ஒருவன் கள்குடித்து மயங்கினார் போன்றதாகும்.",
+          "இன்பம் தரும் நிழலும் நீரும் நோய் செய்வனவாக இருந்தால் தீயனவே ஆகும், அதுபோலவே சுற்றத்தாறின் தன்மைகளும் துன்பம் தருவானால் தீயனவே ஆகும்.",
+          "ஒரு பொருளாக மதிக்கத் தகாதவரையும், மதிப்புடையவராகச் செய்வதாகிய பொருள் அல்லாமல் சிறப்புடைய பொருள் வேறு இல்லை."
+        ],
+        "quiz_options_en": [
+          "Who make you weep and chide wrong trends And lead you right are worthy friends",
+          "Fools possessing something on hand Like dazed and drunken stupids stand",
+          "Traitorous kinsmen will make you sad As water and shade do harm when bad",
+          "Naught exists that can, save wealth Make the worthless as men of worth"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பொருள் செயல்வகை) பகுதியில் குறள் 751 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒரு பொருளாக மதிக்கத் தகாதவரையும், மதிப்புடையவராகச் செய்வதாகிய பொருள் அல்லாமல் சிறப்புடைய பொருள் வேறு இல்லை. பரிமேலழகர் உரை நுட்பம்: பொருள் அல்லவரைப் பொருளாகச் செய்யும் பொருளல்லது - ஒரு பொருளாக மதிக்கப்படாதாரையும் படுவாராகச் செய்ய வல்ல பொருளையொழிய; பொருள் இல்லை - ஒருவனுக்குப் பொருளாவதில்லை. (மதிக்கப்படாதார் - அறிவிலாதார், இழி குலத்தார், இழிவு சிறப்புஉம்மை விகாரத்தால் தொக்கது...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 76: 'Way of Accumulating Wealth'), Kural 751 distills a foundational ethical insight: \"Nothing exists save wealth, that canChange man of nought to worthy man\" Philosophically, Besides wealth there is nothing that can change people of no importance into those of (some) importance.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 752,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பொருள் இல்லாதவரை (வேறு நன்மை உடையவராக இருந்தாலும்) எல்லாரும் இகழ்வார், செல்வரை (வேறு நன்மை இல்லாவிட்டாலும்) எல்லாரும் சிறப்பு செய்வர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: All despise the poor; (but) all praise the rich.",
+        "story_title_ta": "பொருள் செயல்வகை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Way of Accumulating Wealth — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொருள் செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 752 பற்றிக் கதை சொன்னார். 'பணம் இல்லாதவரை எல்லாரும் இகழ்வர். செல்வரையோ எல்லாரும் பெருமைப்படுத்துவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 76, 'Way of Accumulating Wealth', centered on Kural 752: All despise the poor; (but) all praise the rich. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பொருள் உள்ளவர்களைப் புகழ்ந்து போற்றுவதும் இல்லாதவர்களை இகழ்ந்து தூற்றுவதும்தான் இந்த உலக நடப்பாக உள்ளது.",
+        "moral_en": "Moral: Those who have nought all will despise; All raise the wealthy to the skies.",
+        "game_blank_word_ta": "எள்ளுவர்",
+        "game_options_ta": [
+          "எள்ளுவர்",
+          "பொருளல்",
+          "லவரைப்",
+          "பொருளாகச்"
+        ],
+        "game_options_en": [
+          "The have-nothing poor all despise The men of wealth all raise and praise",
+          "Naught exists that can, save wealth Make the worthless as men of worth",
+          "Waneless wealth is light that goes To every land and gloom removes",
+          "The blameless wealth from fairest means Brings good virtue and also bliss"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொருள் செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 752, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பணம் இல்லாதவரை எல்லாரும் இகழ்வர். செல்வரையோ எல்லாரும் பெருமைப்படுத்துவர். கலைஞர் உரை கூறுவது: பொருள் உள்ளவர்களைப் புகழ்ந்து போற்றுவதும் இல்லாதவர்களை இகழ்ந்து தூற்றுவதும்தான் இந்த உலக நடப்பாக உள்ளது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Way of Accumulating Wealth (Ministers & Elements of State), Kural 752 speaks directly to teens navigating studies, friendships, leadership, and digital choices: All despise the poor; (but) all praise the rich. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொருள் செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Way of Accumulating Wealth' thoughtfully.",
+        "quiz_question_ta": "'பொருள் செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 752 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 752 from Chapter 'Way of Accumulating Wealth'?",
+        "quiz_options_ta": [
+          "பொருள் இல்லாதவரை (வேறு நன்மை உடையவராக இருந்தாலும்) எல்லாரும் இகழ்வார், செல்வரை (வேறு நன்மை இல்லாவிட்டாலும்) எல்லாரும் சிறப்பு செய்வர்.",
+          "கேடு வந்த போதும் ஒருவகை நன்மை உண்டு, அக் கேடு ஒருவனுடைய நண்பரின் இயல்புகளை நீட்டிஅளந்து பார்ப்பதொரு கோலாகும்.",
+          "பேதையிரிடமிருந்து பிரிவு நேர்ந்த போது, அப்பிரிவு துன்பம் ஒன்றும் தருவதில்லை, ஆகையால் பேதையரிடம் கொள்ளும் நட்பு மிக இனியதாகும்.",
+          "வாளைப்போல் வெளிப்படையான பகைவர்க்கு அஞ்ச வேண்டியதில்லை, ஆனால் உறவினரைப் போல் இருந்து உட்பகை கொண்டவரின் தொடர்புக்கு அஞ்ச வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "The have-nothing poor all despise The men of wealth all raise and praise",
+          "Is there a test like misfortune A rod to measure out kinsmen?",
+          "Friendship with fools is highly sweet For without a groan we part",
+          "You need not sword-like kinsmen fear Fear foes who feign as kinsmen dear"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பொருள் செயல்வகை) பகுதியில் குறள் 752 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருள் இல்லாதவரை (வேறு நன்மை உடையவராக இருந்தாலும்) எல்லாரும் இகழ்வார், செல்வரை (வேறு நன்மை இல்லாவிட்டாலும்) எல்லாரும் சிறப்பு செய்வர். பரிமேலழகர் உரை நுட்பம்: இல்லாரை எல்லாரும் எள்ளுவர் - எல்லா நன்மையும் உடையராயினும் பொருளில்லாரை யாவரும் இகழ்வர்; செல்வரை எல்லாரும் சிறப்புச் செய்வர் - எல்லாத்தீமையும் உடையராயினும் அஃது உடையாரை யாவரும் உயரச் செய்வர். (உயரச் செய்தல் - தாம் தாழ்ந்து நிற்றல். இகழ்தற்கண்ணும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 76: 'Way of Accumulating Wealth'), Kural 752 distills a foundational ethical insight: \"Those who have nought all will despise; All raise the wealthy to the skies\" Philosophically, All despise the poor; (but) all praise the rich.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "kindness",
+        "humility",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 753,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பொருள் என்று சொல்லப்படுகின்ற நந்தா விளக்கு, நினைத்த இடத்திற்குச் சென்று உள்ள இடையூற்றைக் கெடுக்கும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The imperishable light of wealth goes into regions desired (by its owner) and destroys the darkness (of enmity therein).",
+        "story_title_ta": "பொருள் செயல்வகை — இனியா கற்ற பாடம்",
+        "story_title_en": "Way of Accumulating Wealth — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொருள் செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 753 பற்றிக் கதை சொன்னார். 'பணம் எனப்படும் அணையா விளக்கு அயல்நாட்டிற்குள்ளும் சென்று பகையாகிய இருளைப் போக்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 76, 'Way of Accumulating Wealth', centered on Kural 753: The imperishable light of wealth goes into regions desired (by its owner) and destroys the darkness (of enmity therein). Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பொருள் என்னும் அணையா விளக்கு மட்டும் கையில் இருந்துவிட்டால் நினைத்த இடத்துக்குச் சென்று இருள் என்னும் துன்பத்தைத் துரத்தி விட முடிகிறது.",
+        "moral_en": "Moral: Wealth, the lamp unfailing, speeds to every land, Dispersing darkness at its lord's command.",
+        "game_blank_word_ta": "எண்ணிய",
+        "game_options_ta": [
+          "பொருளல்",
+          "எண்ணிய",
+          "லவரைப்",
+          "பொருளாகச்"
+        ],
+        "game_options_en": [
+          "Naught exists that can, save wealth Make the worthless as men of worth",
+          "Waneless wealth is light that goes To every land and gloom removes",
+          "The have-nothing poor all despise The men of wealth all raise and praise",
+          "The blameless wealth from fairest means Brings good virtue and also bliss"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொருள் செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 753, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பணம் எனப்படும் அணையா விளக்கு அயல்நாட்டிற்குள்ளும் சென்று பகையாகிய இருளைப் போக்கும். கலைஞர் உரை கூறுவது: பொருள் என்னும் அணையா விளக்கு மட்டும் கையில் இருந்துவிட்டால் நினைத்த இடத்துக்குச் சென்று இருள் என்னும் துன்பத்தைத் துரத்தி விட முடிகிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Way of Accumulating Wealth (Ministers & Elements of State), Kural 753 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The imperishable light of wealth goes into regions desired (by its owner) and destroys the darkness (of enmity therein). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொருள் செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Way of Accumulating Wealth' thoughtfully.",
+        "quiz_question_ta": "'பொருள் செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 753 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 753 from Chapter 'Way of Accumulating Wealth'?",
+        "quiz_options_ta": [
+          "ஒருவனுக்கு ஊதியம் என்று சொல்லப்படுவது, அறிவில்லாதவறுடன் செய்து கொண்ட நட்பிலிருந்து நீங்கி அவரைக் கைவிடுதலாகும்.",
+          "பொருள் என்று சொல்லப்படுகின்ற நந்தா விளக்கு, நினைத்த இடத்திற்குச் சென்று உள்ள இடையூற்றைக் கெடுக்கும்",
+          "சான்றோரின் கூட்டத்தில் பேதை புகுதல், ஒருவன் தூய்மையில்லாதவற்றை மிதித்துக் கழுவாதக் காலைப் படுக்கையில் வைத்தாற் போன்றது.",
+          "உட்பகைக்கு அஞ்சி ஒருவன் தன்னைக் காத்துக்கொள்ள வேண்டும், தளர்ச்சி வந்த போது மட்கலத்தை அறுக்கும் கருவி போல் அந்த உட்பகை தவறாமல் அழிவு செய்யும்."
+        ],
+        "quiz_options_en": [
+          "Keep off contacts with fools; that is The greatest gain so say the wise",
+          "Waneless wealth is light that goes To every land and gloom removes",
+          "Entrance of fools where Savants meet Looks like couch trod by unclean feet",
+          "The secret foe in days evil Will cut you, beware, like potters' steel"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பொருள் செயல்வகை) பகுதியில் குறள் 753 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருள் என்று சொல்லப்படுகின்ற நந்தா விளக்கு, நினைத்த இடத்திற்குச் சென்று உள்ள இடையூற்றைக் கெடுக்கும். பரிமேலழகர் உரை நுட்பம்: பொருள் என்னும் பொய்யா விளக்கம் - பொருள் என்று எல்லாரானும் சிறப்பிக்கப்படும் நந்தா விளக்கு; எண்ணிய தேயத்துச் சென்று இருள் அறுக்கும் - தன்னைச் செய்தவர்க்கு அவர் நினைத்த தேயத்துச் சென்று பகை என்னும் இருளைக் கெடுக்கும். (எல்லார்க்கும் எஞ்ஞான்றும் இன்றியமையாததாய...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 76: 'Way of Accumulating Wealth'), Kural 753 distills a foundational ethical insight: \"Wealth, the lamp unfailing, speeds to every land, Dispersing darkness at its lord's command\" Philosophically, The imperishable light of wealth goes into regions desired (by its owner) and destroys the darkness (of enmity therein).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "speech",
+        "education",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 754,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: சேர்க்கும் திறம் அறிந்து தீமை ஒன்றும் இல்லாமல், சேர்க்கப் பட்டுவந்த பொருள் ஒருவனுக்கு அறத்தையும் கொடுக்கும் இன்பத்தையும் கொடுக்கும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The wealth acquired with a knowledge of the proper means and without foul practices will yield virtue and happiness.",
+        "story_title_ta": "பொருள் செயல்வகை — முகில் கற்ற பாடம்",
+        "story_title_en": "Way of Accumulating Wealth — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொருள் செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 754 பற்றிக் கதை சொன்னார். 'நேரிய வழிகை அறிந்து, தீமை ஏதும் செய்யாமல் சம்பாதிக்கப்பட்ட பணம் அறத்தையும் தரம்; இன்பத்தையும் தரும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 76, 'Way of Accumulating Wealth', centered on Kural 754: The wealth acquired with a knowledge of the proper means and without foul practices will yield virtue and happiness. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தீய வழியை மேற்கொண்டு திரட்டப்படாத செல்வம்தான் ஒருவருக்கு அறநெறியை எடுத்துக்காட்டி, அவருக்கு இன்பத்தையும் தரும்.",
+        "moral_en": "Moral: Their wealth, who blameless means can use aright, Is source of virtue and of choice delight.",
+        "game_blank_word_ta": "வந்த",
+        "game_options_ta": [
+          "பொருளல்",
+          "லவரைப்",
+          "வந்த",
+          "பொருளாகச்"
+        ],
+        "game_options_en": [
+          "Naught exists that can, save wealth Make the worthless as men of worth",
+          "The have-nothing poor all despise The men of wealth all raise and praise",
+          "The blameless wealth from fairest means Brings good virtue and also bliss",
+          "Waneless wealth is light that goes To every land and gloom removes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொருள் செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 754, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நேரிய வழிகை அறிந்து, தீமை ஏதும் செய்யாமல் சம்பாதிக்கப்பட்ட பணம் அறத்தையும் தரம்; இன்பத்தையும் தரும். கலைஞர் உரை கூறுவது: தீய வழியை மேற்கொண்டு திரட்டப்படாத செல்வம்தான் ஒருவருக்கு அறநெறியை எடுத்துக்காட்டி, அவருக்கு இன்பத்தையும் தரும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Way of Accumulating Wealth (Ministers & Elements of State), Kural 754 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The wealth acquired with a knowledge of the proper means and without foul practices will yield virtue and happiness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொருள் செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Way of Accumulating Wealth' thoughtfully.",
+        "quiz_question_ta": "'பொருள் செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 754 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 754 from Chapter 'Way of Accumulating Wealth'?",
+        "quiz_options_ta": [
+          "ஊக்கம் குறைவதற்குக் காரணமான செயல்களை எண்ணாமலிருக்க வேண்டும், அதுபோல் துன்பம் வந்த போது கைவிடுகின்றவரின் நட்பைக் கொள்ளாதிருக்க வேண்டும்.",
+          "அறியாமையே இல்லாமைப் பலவற்றுளளும் கொடிய இல்லாமையாகும், மற்ற இல்லாமைகளை உலகம் அத்தகைய இல்லாமையாகக் கருதாது.",
+          "சேர்க்கும் திறம் அறிந்து தீமை ஒன்றும் இல்லாமல், சேர்க்கப் பட்டுவந்த பொருள் ஒருவனுக்கு அறத்தையும் கொடுக்கும் இன்பத்தையும் கொடுக்கும்.",
+          "மனம் திறந்தாத உட்பகை ஒருவனுக்கு உண்டாகுமானால், அது அவனுக்குச் சுற்றம் சிர்படாமைக்கு காரணமான குற்றம் பலவற்றைத் தரும்."
+        ],
+        "quiz_options_en": [
+          "Off with thoughts that depress the heart Off with friends that in woe depart",
+          "Want of wisdom is want of wants Want of aught else the world nev'r counts",
+          "The blameless wealth from fairest means Brings good virtue and also bliss",
+          "The evil-minded foe within Foments trouble, spoils kinsmen!"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பொருள் செயல்வகை) பகுதியில் குறள் 754 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சேர்க்கும் திறம் அறிந்து தீமை ஒன்றும் இல்லாமல், சேர்க்கப் பட்டுவந்த பொருள் ஒருவனுக்கு அறத்தையும் கொடுக்கும் இன்பத்தையும் கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: திறன் அறிந்து தீது இன்றி வந்த பொருள் - செய்யும் திறத்தினை அறிந்து அரசன் கொடுங்கோன்மையிலனாக உளதாய பொருள்; அறன் ஈனும் இன்பமும் ஈனும் - அவனுக்கு அறத்தையும் கொடுக்கும், இன்பத்தையும் கொடுக்கும். (செய்யுந்திறம்: தான் பொருள் செய்தற்கு உரிய நெறி. 'இலனாக' என்றது...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 76: 'Way of Accumulating Wealth'), Kural 754 distills a foundational ethical insight: \"Their wealth, who blameless means can use aright, Is source of virtue and of choice delight\" Philosophically, The wealth acquired with a knowledge of the proper means and without foul practices will yield virtue and happiness.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "ethics",
+        "discipline",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 755,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அருளோடும், அன்போடும் பொருந்தாத வழிகளில் வந்த செல்வத்தின் ஆக்கத்தைப் பெற்று மகிழாமல் அதைத் தீமையானது என்று நீக்கிவிட வேண்டும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: (Kings) should rather avoid than seek the accumulation of wealth which does not flow in with mercy and love.",
+        "story_title_ta": "பொருள் செயல்வகை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Way of Accumulating Wealth — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொருள் செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 755 பற்றிக் கதை சொன்னார். 'பிறர்மீது இரக்கமும் அன்பும் இல்லாமல் சேர்க்கும் பணச் சேமிப்பை ஏற்காது விட்டு விடுக.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 76, 'Way of Accumulating Wealth', centered on Kural 755: (Kings) should rather avoid than seek the accumulation of wealth which does not flow in with mercy and love. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பெரும் செல்வமாக இருப்பினும் அது அருள் நெறியிலோ அன்பு வழியிலோ வராதபோது அதனைப் புறக்கணித்துவிட வேண்டும்.",
+        "moral_en": "Moral: Wealth gained by loss of love and grace, Let man cast off from his embrace.",
+        "game_blank_word_ta": "விடல்",
+        "game_options_ta": [
+          "பொருளல்",
+          "லவரைப்",
+          "பொருளாகச்",
+          "விடல்"
+        ],
+        "game_options_en": [
+          "Naught exists that can, save wealth Make the worthless as men of worth",
+          "The have-nothing poor all despise The men of wealth all raise and praise",
+          "Waneless wealth is light that goes To every land and gloom removes",
+          "Riches devoid of love and grace Off with it; it is disgrace!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொருள் செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 755, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர்மீது இரக்கமும் அன்பும் இல்லாமல் சேர்க்கும் பணச் சேமிப்பை ஏற்காது விட்டு விடுக. கலைஞர் உரை கூறுவது: பெரும் செல்வமாக இருப்பினும் அது அருள் நெறியிலோ அன்பு வழியிலோ வராதபோது அதனைப் புறக்கணித்துவிட வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Way of Accumulating Wealth (Ministers & Elements of State), Kural 755 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (Kings) should rather avoid than seek the accumulation of wealth which does not flow in with mercy and love. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொருள் செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Way of Accumulating Wealth' thoughtfully.",
+        "quiz_question_ta": "'பொருள் செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 755 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 755 from Chapter 'Way of Accumulating Wealth'?",
+        "quiz_options_ta": [
+          "கேடு வரும் காலத்தில் கைவிட்டு ஒதுங்குகின்றவரின் நட்பு, எமன் கொல்லும் காலத்தில் நினைத்தாலும் நினைத்த உள்ளத்தை வருத்தும்.",
+          "அறிவில்லாதவவன் மனம் மகிழ்ந்து ஒரு பொருளைக் கொடுத்தலுக்கு காரணம், வேறொன்றும் இல்லை, அப் பொருளைப் பெறுகின்றவனுடைய நல்வினையே ஆகும்.",
+          "உறவுமுறையோடு உட்பகை உண்டாகுமானால், அது ஒருவனுக்கு இறக்கும் வகையான துன்பம் பலவற்றையும் கொடுக்கும்.",
+          "அருளோடும், அன்போடும் பொருந்தாத வழிகளில் வந்த செல்வத்தின் ஆக்கத்தைப் பெற்று மகிழாமல் அதைத் தீமையானது என்று நீக்கிவிட வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Friends who betray at ruin's brink Burn our mind ev'n at death to think",
+          "When fool bestows with glee a gift It comes but by getter's merit",
+          "A traitor among kinsmen will Bring life-endangering evil",
+          "Riches devoid of love and grace Off with it; it is disgrace!"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பொருள் செயல்வகை) பகுதியில் குறள் 755 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அருளோடும், அன்போடும் பொருந்தாத வழிகளில் வந்த செல்வத்தின் ஆக்கத்தைப் பெற்று மகிழாமல் அதைத் தீமையானது என்று நீக்கிவிட வேண்டும். பரிமேலழகர் உரை நுட்பம்: அருளொடும் அன்பொடும் வாராப் பொருள் ஆக்கம் - தாம் குடிகள் மாட்டுச் செய்யும் அருளொடும், அவர் தம்மாட்டுச் செய்யும் அன்பொடும் கூடி வாராத பொருளீட்டத்தை; புல்லார் புரள விடல் - அரசர் பொருந்தாது கழியவிடுக. (அவற்றோடு கூடி வருதலாவது, ஆறிலொன்றாய் வருதல், அவ்வாறு வாராத...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 76: 'Way of Accumulating Wealth'), Kural 755 distills a foundational ethical insight: \"Wealth gained by loss of love and grace, Let man cast off from his embrace\" Philosophically, (Kings) should rather avoid than seek the accumulation of wealth which does not flow in with mercy and love.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "kindness",
+        "love",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 756,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: இறையாக வந்து சேரும் பொருளும், சுங்கமாகக் கொள்ளும் பொருளும், தன் பகைவரை வென்று திறமையாகக் கொள்ளும் பொருளும் அரசனுடைய பொருள்களாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The spoils of slaughtered foes; these are the royal revenues.",
+        "story_title_ta": "பொருள் செயல்வகை — கவின் கற்ற பாடம்",
+        "story_title_en": "Way of Accumulating Wealth — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொருள் செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 756 பற்றிக் கதை சொன்னார். 'வாரிசுதாரர் இல்லாமல் வந்த பொருள் வெளிநாட்டு பொருட்களுக்கு விதிக்கப்படும் வரி தன் பகைவர் தனக்குக் கட்டும் கப்பம் என்னும் இவை எல்லாம் அரசிற்கு உரிய பொருள்களாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 76, 'Way of Accumulating Wealth', centered on Kural 756: The spoils of slaughtered foes; these are the royal revenues. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வரியும், சுங்கமும், வெற்றி கொள்ளப்பட்ட பகை நாடு செலுத்தும் கப்பமும் அரசுக்குரிய பொருளாகும்.",
+        "moral_en": "Moral: Wealth that falls to him as heir, wealth from the kingdom's dues,.",
+        "game_blank_word_ta": "உறுபொருளும்",
+        "game_options_ta": [
+          "உறுபொருளும்",
+          "பொருளல்",
+          "லவரைப்",
+          "பொருளாகச்"
+        ],
+        "game_options_en": [
+          "Escheats, derelicts; spoils of war Taxes duties are king's treasure",
+          "Naught exists that can, save wealth Make the worthless as men of worth",
+          "The have-nothing poor all despise The men of wealth all raise and praise",
+          "Waneless wealth is light that goes To every land and gloom removes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொருள் செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 756, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வாரிசுதாரர் இல்லாமல் வந்த பொருள் வெளிநாட்டு பொருட்களுக்கு விதிக்கப்படும் வரி தன் பகைவர் தனக்குக் கட்டும் கப்பம் என்னும் இவை எல்லாம் அரசிற்கு உரிய பொருள்களாம். கலைஞர் உரை கூறுவது: வரியும், சுங்கமும், வெற்றி கொள்ளப்பட்ட பகை நாடு செலுத்தும் கப்பமும் அரசுக்குரிய பொருளாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Way of Accumulating Wealth (Ministers & Elements of State), Kural 756 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The spoils of slaughtered foes; these are the royal revenues. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொருள் செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Way of Accumulating Wealth' thoughtfully.",
+        "quiz_question_ta": "'பொருள் செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 756 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 756 from Chapter 'Way of Accumulating Wealth'?",
+        "quiz_options_ta": [
+          "இறையாக வந்து சேரும் பொருளும், சுங்கமாகக் கொள்ளும் பொருளும், தன் பகைவரை வென்று திறமையாகக் கொள்ளும் பொருளும் அரசனுடைய பொருள்களாகும்.",
+          "குற்றமற்றவருடைய நட்பைக் கொள்ள வேண்டும், ஒத்தபண்பை இல்லாதவறுடைய நட்பை ஒன்றைக் கொடுத்தாவது கைவிட வேண்டும்.",
+          "அறிவில்லாதவர் தம்மைத்தாமே துன்புறுத்தும் துன்பம் அவருடைய பகைவர்க்கும் செய்யமுடியாத அளவினதாகும்.",
+          "ஒருவனுடைய உற்றாரிடத்தில் பகைமை ஏற்படுமானால், அந்த உட்பகையால் அவன் அழியாமலிருத்தல் எப்போதும் அரிது."
+        ],
+        "quiz_options_en": [
+          "Escheats, derelicts; spoils of war Taxes duties are king's treasure",
+          "The blameless ones as friends embarace; Give something and give up the base",
+          "The self-torments of fools exceed Ev'n tortures of their foes indeed",
+          "Discord in kings' circle entails Life-destroying deadly evils"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பொருள் செயல்வகை) பகுதியில் குறள் 756 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இறையாக வந்து சேரும் பொருளும், சுங்கமாகக் கொள்ளும் பொருளும், தன் பகைவரை வென்று திறமையாகக் கொள்ளும் பொருளும் அரசனுடைய பொருள்களாகும். பரிமேலழகர் உரை நுட்பம்: உறுபொருளும் - உடையாரின்மையின் தானே வந்துற்ற பொருளும்; உல்கு பொருளும் - சுங்கமாகிய பொருளும்; தன் ஒன்னார்த் தெறுபொருளும் - தன் பகைவரை வென்று திறையாகக் கொள்ளும் பொருளும்; வேந்தன் பொருள் - அரசனுக்கு உரிய பொருள்கள். (உறுபொருள்: வைத்தார் இறந்துபோக நெடுங்காலம...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 76: 'Way of Accumulating Wealth'), Kural 756 distills a foundational ethical insight: \"Wealth that falls to him as heir, wealth from the kingdom's dues,\" Philosophically, The spoils of slaughtered foes; these are the royal revenues.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "leadership",
+        "family",
+        "courage"
+      ]
+    },
+    {
+      "kural_number": 757,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அன்பினால் பெறப்பட்ட அருள் என்றுக் கூறப்படும் குழந்தை, பொருள் என்றுக் கூறப்படும் செல்வமுள்ள செவிலித் தாயால் வளர்வதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The child mercy which is borne by love grows under the care of the rich nurse of wealth.",
+        "story_title_ta": "பொருள் செயல்வகை — நிலா கற்ற பாடம்",
+        "story_title_en": "Way of Accumulating Wealth — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொருள் செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 757 பற்றிக் கதை சொன்னார். 'அன்பு பெற்றெடுத்த அருள் என்னும் குழந்தை, பொருள் எனப்படும் இன்பம் தரும் வளர்ப்புத் தாயால் வளரும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 76, 'Way of Accumulating Wealth', centered on Kural 757: The child mercy which is borne by love grows under the care of the rich nurse of wealth. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அன்பு என்கிற அன்னை பெற்றெடுக்கும் அருள் என்கிற குழந்தை, பொருள் என்கிற செவிலித் தாயால் வளரக் கூடியதாகும்.",
+        "moral_en": "Moral: 'Tis love that kindliness as offspring bears:And wealth as bounteous nurse the infant rears.",
+        "game_blank_word_ta": "அன்பீன்",
+        "game_options_ta": [
+          "பொருளல்",
+          "அன்பீன்",
+          "லவரைப்",
+          "பொருளாகச்"
+        ],
+        "game_options_en": [
+          "Naught exists that can, save wealth Make the worthless as men of worth",
+          "Grace the child of love is nourished By the wet-nurse of wealth cherished",
+          "The have-nothing poor all despise The men of wealth all raise and praise",
+          "Waneless wealth is light that goes To every land and gloom removes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொருள் செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 757, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அன்பு பெற்றெடுத்த அருள் என்னும் குழந்தை, பொருள் எனப்படும் இன்பம் தரும் வளர்ப்புத் தாயால் வளரும். கலைஞர் உரை கூறுவது: அன்பு என்கிற அன்னை பெற்றெடுக்கும் அருள் என்கிற குழந்தை, பொருள் என்கிற செவிலித் தாயால் வளரக் கூடியதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Way of Accumulating Wealth (Ministers & Elements of State), Kural 757 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The child mercy which is borne by love grows under the care of the rich nurse of wealth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொருள் செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Way of Accumulating Wealth' thoughtfully.",
+        "quiz_question_ta": "'பொருள் செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 757 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 757 from Chapter 'Way of Accumulating Wealth'?",
+        "quiz_options_ta": [
+          "பழைமை என்று சொல்லப்படுவது எது என்று வினாவினால் அது பழகியவர் உரிமைப் பற்றிச் செய்யும் செயலைக் கீழ்ப்படுத்தாமல் ஏற்கும் நட்பாகும்.",
+          "அன்பினால் பெறப்பட்ட அருள் என்றுக் கூறப்படும் குழந்தை, பொருள் என்றுக் கூறப்படும் செல்வமுள்ள செவிலித் தாயால் வளர்வதாகும்.",
+          "புல்லறிவு என்று சொல்லப்படுவது யாது என்றால் யாம் அறிவுடையேம் என்று ஒருவன் தன்னைத்தான் மதித்துகொள்ளும் செருக்காகும்.",
+          "செப்பின் இணைப்பைப் போல புறத்தே பொருந்தி இருந்தாலும், உட்பகை உண்டான குடியில் உள்ளவர் அகத்தே பொருந்தி இருக்கமாட்டார்."
+        ],
+        "quiz_options_en": [
+          "That friendship is good amity Which restrains not one's liberty",
+          "Grace the child of love is nourished By the wet-nurse of wealth cherished",
+          "Stupidity is vanity That cries \\\"We have sagacity\\\"",
+          "A house hiding hostiles in core Just seems on like the lid in jar"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பொருள் செயல்வகை) பகுதியில் குறள் 757 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன்பினால் பெறப்பட்ட அருள் என்றுக் கூறப்படும் குழந்தை, பொருள் என்றுக் கூறப்படும் செல்வமுள்ள செவிலித் தாயால் வளர்வதாகும். பரிமேலழகர் உரை நுட்பம்: அன்பு ஈன் அருள் என்னும் குழவி - அன்பினால் ஈனப்பட்ட அருள் என்னும் குழவி; பொருள் என்னும் செல்வச் செவிலியால் உண்டு - பொருள் என்று உயர்த்துச் சொல்லப்படும் செல்வத்தையுடைய செவிலியான் வளரும். (தொடர்பு பற்றாதே வருத்தமுற்றார்மேல் செல்வதாய அருள் தொடர்பு பற்றிச...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 76: 'Way of Accumulating Wealth'), Kural 757 distills a foundational ethical insight: \"'Tis love that kindliness as offspring bears:And wealth as bounteous nurse the infant rears\" Philosophically, The child mercy which is borne by love grows under the care of the rich nurse of wealth.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "kindness",
+        "love",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 758,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தன் கைப்பொருள் ஒன்று தன்னிடம் இருக்க அதைக் கொண்டு ஒருவன் செயல் செய்தால், மலையின் மேல் ஏறி யானைப் போரைக் கண்டாற் போன்றது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: An undertaking of one who has wealth in one's hands is like viewing an elephant-fight from a hill-top.",
+        "story_title_ta": "பொருள் செயல்வகை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Way of Accumulating Wealth — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொருள் செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 758 பற்றிக் கதை சொன்னார். 'தன் கையிலே பணம் இருக்க ஒரு செயலைச் செய்யத் தொடங்குவது, ஒருவன் மலை மேல் ஏறி நின்று யானைச் சண்டையைக் கண்டது போலாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 76, 'Way of Accumulating Wealth', centered on Kural 758: An undertaking of one who has wealth in one's hands is like viewing an elephant-fight from a hill-top. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தன் கைப்பொருளைக்கொண்டு ஒரு தொழில் செய்வது என்பது யானைகள் ஒன்றோடொன்று போரிடும் போது இடையில் சிக்கிக் கொள்ளாமல் அந்தப் போரை ஒரு குன்றின் மீது நின்று காண்பதைப் போன்று இலகுவானது.",
+        "moral_en": "Moral: As one to view the strife of elephants who takes his stand, On hill he's climbed, is he who works with money in his hand.",
+        "game_blank_word_ta": "கண்டற்றால்",
+        "game_options_ta": [
+          "பொருளல்",
+          "லவரைப்",
+          "கண்டற்றால்",
+          "பொருளாகச்"
+        ],
+        "game_options_en": [
+          "Naught exists that can, save wealth Make the worthless as men of worth",
+          "The have-nothing poor all despise The men of wealth all raise and praise",
+          "Treasures in hand fulfil all things Like hill-tuskers the wars of kings",
+          "Waneless wealth is light that goes To every land and gloom removes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொருள் செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 758, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் கையிலே பணம் இருக்க ஒரு செயலைச் செய்யத் தொடங்குவது, ஒருவன் மலை மேல் ஏறி நின்று யானைச் சண்டையைக் கண்டது போலாம். கலைஞர் உரை கூறுவது: தன் கைப்பொருளைக்கொண்டு ஒரு தொழில் செய்வது என்பது யானைகள் ஒன்றோடொன்று போரிடும் போது இடையில் சிக்கிக் கொள்ளாமல் அந்தப் போரை ஒரு குன்றின் மீது நின்று காண்பதைப் போன்று இலகுவானது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Way of Accumulating Wealth (Ministers & Elements of State), Kural 758 speaks directly to teens navigating studies, friendships, leadership, and digital choices: An undertaking of one who has wealth in one's hands is like viewing an elephant-fight from a hill-top. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொருள் செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Way of Accumulating Wealth' thoughtfully.",
+        "quiz_question_ta": "'பொருள் செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 758 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 758 from Chapter 'Way of Accumulating Wealth'?",
+        "quiz_options_ta": [
+          "நட்பிற்க்கு உறுப்பாவது நண்பனுடைய உரிமைச் செயலாகும், அந்த உரிமைச் செயலுக்கு உடன்பட்டவராதல் சான்றோரின் கடமையாகும்.",
+          "அறிவில்லாதவர் தாம் கற்காத நூல்களை கற்றவர் போல் மேற்கொண்டு நடத்தல், அவர் குற்றமறக் கற்றுவல்ல பொருளைப் பற்றியும் மற்றவர்க்கு ஐயம் உண்டாகும்.",
+          "தன் கைப்பொருள் ஒன்று தன்னிடம் இருக்க அதைக் கொண்டு ஒருவன் செயல் செய்தால், மலையின் மேல் ஏறி யானைப் போரைக் கண்டாற் போன்றது.",
+          "உட்பகை உண்டான குடி அரத்தினால் தேய்க்கப் பட்ட இரும்பு போல் வலிமை குறைக்கப் பட்டு தேய்ந்து போகும்."
+        ],
+        "quiz_options_en": [
+          "Friendship's heart is freedom close; Wise men's duty is such to please",
+          "Feigning knowledge that one has not Leads to doubt ev'n that he has got",
+          "Treasures in hand fulfil all things Like hill-tuskers the wars of kings",
+          "By secret spite the house wears out Like gold crumbling by file's contact"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பொருள் செயல்வகை) பகுதியில் குறள் 758 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன் கைப்பொருள் ஒன்று தன்னிடம் இருக்க அதைக் கொண்டு ஒருவன் செயல் செய்தால், மலையின் மேல் ஏறி யானைப் போரைக் கண்டாற் போன்றது. பரிமேலழகர் உரை நுட்பம்: தன் கைத்து உண்டாக ஒன்று செய்வான் வினை - தன் கையதாகிய பொருளுண்டாக ஒரு வினையை எடுத்துக் கொண்டான் அதனைச் செய்தல்; குன்று ஏறி யானைப்போர் கண்டற்று - ஒருவன் மலைமேல் ஏறிநின்று யானைப்போரைக் கண்டால் ஒக்கும். ('கைத்து உண்டாக ஒன்று செய்வான' எனக் கூட்டுக. 'ஒன்று'என்பது...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 76: 'Way of Accumulating Wealth'), Kural 758 distills a foundational ethical insight: \"As one to view the strife of elephants who takes his stand, On hill he's climbed, is he who works with money in his hand\" Philosophically, An undertaking of one who has wealth in one's hands is like viewing an elephant-fight from a hill-top.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "love",
+        "leadership",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 759,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒருவன் பொருளை ஈட்டவேண்டும், அவனுடைய பகைவரின் செருக்கைக் கெடுக்க வல்ல வாள் அதைவிடக் கூர்மையானது வேறு இல்லை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Accumulate wealth; it will destroy the arrogance of (your) foes; there is no weapon sharper than it.",
+        "story_title_ta": "பொருள் செயல்வகை — இனியா கற்ற பாடம்",
+        "story_title_en": "Way of Accumulating Wealth — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொருள் செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 759 பற்றிக் கதை சொன்னார். 'எதையும் சாதிக்க எண்ணுவோர் பணத்தைச் சம்பாதியுங்கள்; பகைவரின் அகங்காரத்தை அறுக்கும் கூரிய ஆயுதம், பணத்தைவிட வேறு இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 76, 'Way of Accumulating Wealth', centered on Kural 759: Accumulate wealth; it will destroy the arrogance of (your) foes; there is no weapon sharper than it. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பகைவரின் செருக்கை அழிக்கும் தகுதியான கருவி பொருளைத் தவிர வேறொன்றும் இல்லாததால் அதனைச் சேமிக்க வேண்டியுள்ளது.",
+        "moral_en": "Moral: Make money! Foeman's insolence o'ergrownTo lop away no keener steel is known.",
+        "game_blank_word_ta": "செருக்கறுக்கும்",
+        "game_options_ta": [
+          "பொருளல்",
+          "லவரைப்",
+          "பொருளாகச்",
+          "செருக்கறுக்கும்"
+        ],
+        "game_options_en": [
+          "Naught exists that can, save wealth Make the worthless as men of worth",
+          "The have-nothing poor all despise The men of wealth all raise and praise",
+          "Waneless wealth is light that goes To every land and gloom removes",
+          "Make wealth; there is no sharper steel The insolence of foes to quell"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொருள் செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 759, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எதையும் சாதிக்க எண்ணுவோர் பணத்தைச் சம்பாதியுங்கள்; பகைவரின் அகங்காரத்தை அறுக்கும் கூரிய ஆயுதம், பணத்தைவிட வேறு இல்லை. கலைஞர் உரை கூறுவது: பகைவரின் செருக்கை அழிக்கும் தகுதியான கருவி பொருளைத் தவிர வேறொன்றும் இல்லாததால் அதனைச் சேமிக்க வேண்டியுள்ளது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Way of Accumulating Wealth (Ministers & Elements of State), Kural 759 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Accumulate wealth; it will destroy the arrogance of (your) foes; there is no weapon sharper than it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொருள் செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Way of Accumulating Wealth' thoughtfully.",
+        "quiz_question_ta": "'பொருள் செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 759 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 759 from Chapter 'Way of Accumulating Wealth'?",
+        "quiz_options_ta": [
+          "பழகியவர் உரிமைப்பற்றிச் செய்யும் செயலைத் தாம் செய்தது போலவேக் கருதி உடன்படாவிட்டால் அவரோடு தாம் பழகிய நட்பு என்ன பயன் தரும்.",
+          "தம்மிடத்தில் உள்ளக் குற்றத்தை அறிந்து நீக்காத போது , உடம்பில் மறைப்பதற்குரிய பகுதியை மட்டும், ஆடையால் மறைத்தல் புல்லறிவாகும்.",
+          "எள்ளின் பிளவைப் போன்ற சிறிய அளவு உடையதே ஆனாலும், ஒரு குடியை அழிக்கவல்ல கேடு உட்பகையில் உள்ளதாகும்.",
+          "ஒருவன் பொருளை ஈட்டவேண்டும், அவனுடைய பகைவரின் செருக்கைக் கெடுக்க வல்ல வாள் அதைவிடக் கூர்மையானது வேறு இல்லை."
+        ],
+        "quiz_options_en": [
+          "Of long friendship what is the use Righteous freedom if men refuse?",
+          "Fools their nakedness conceal And yet their glaring faults reveal",
+          "Ruin lurks in enmity As slit in sesame though it be",
+          "Make wealth; there is no sharper steel The insolence of foes to quell"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பொருள் செயல்வகை) பகுதியில் குறள் 759 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் பொருளை ஈட்டவேண்டும், அவனுடைய பகைவரின் செருக்கைக் கெடுக்க வல்ல வாள் அதைவிடக் கூர்மையானது வேறு இல்லை. பரிமேலழகர் உரை நுட்பம்: பொருளைச் செய்க - தமக்கொன்றுண்டாகக் கருதுவார் பொருளை உண்டாக்குக; செறுநர் செருக்கு அறுக்கும் எஃகு - தம் பகைவர் தருக்கினை அறுக்கும் படைக்கலம் அதுவாம்; அதனிற் கூரியது இல் - அதற்கு அதுபோலக் கூரிய படைக்கலம் பிறிது இல்லை. ('அதுவாம்' 'அதற்கு' என்பன அவாய் நிலையான...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 76: 'Way of Accumulating Wealth'), Kural 759 distills a foundational ethical insight: \"Make money! Foeman's insolence o'ergrownTo lop away no keener steel is known\" Philosophically, Accumulate wealth; it will destroy the arrogance of (your) foes; there is no weapon sharper than it.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "courage",
+        "education",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 760,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: சிறந்ததாகிய பொருளை மிகுதியாக ஈட்டியவர்க்கு, மற்ற அறமும் இன்பமுமாகிய இரண்டும் ஒரு சேரக்கைகூடும் எளிய பொருளாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: To those who have honestly acquired an abundance of riches, the other two, (virtue and pleasure) are things easy (of acquisition).",
+        "story_title_ta": "பொருள் செயல்வகை — முகில் கற்ற பாடம்",
+        "story_title_en": "Way of Accumulating Wealth — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொருள் செயல்வகை' என்ற அதிகாரத்திலிருந்து குறள் 760 பற்றிக் கதை சொன்னார். 'நல்ல வழியில் மிகுதியாகப் பணம் சேர்த்தவர்க்கு மற்ற அறமும் இன்பமும் எளிதாக் கிடைக்கும் பொருள்களாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 76, 'Way of Accumulating Wealth', centered on Kural 760: To those who have honestly acquired an abundance of riches, the other two, (virtue and pleasure) are things easy (of acquisition). Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அறம் பொருள் இன்பம் எனும் மூன்றினுள் பொருந்தும் வழியில் பொருளை மிகுதியாக ஈட்டியவர்களுக்கு ஏனைய இரண்டும் ஒன்றாகவே எளிதில் வந்து சேரும்.",
+        "moral_en": "Moral: Who plenteous store of glorious wealth have gained, By them the other two are easily obtained.",
+        "game_blank_word_ta": "இரண்டும்",
+        "game_options_ta": [
+          "இரண்டும்",
+          "பொருளல்",
+          "லவரைப்",
+          "பொருளாகச்"
+        ],
+        "game_options_en": [
+          "They have joy and virtue at hand Who acquire treasures abundant",
+          "Naught exists that can, save wealth Make the worthless as men of worth",
+          "The have-nothing poor all despise The men of wealth all raise and praise",
+          "Waneless wealth is light that goes To every land and gloom removes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொருள் செயல்வகை (அங்கவியல்) பிரிவில் அமைந்த குறள் 760, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்ல வழியில் மிகுதியாகப் பணம் சேர்த்தவர்க்கு மற்ற அறமும் இன்பமும் எளிதாக் கிடைக்கும் பொருள்களாகும். கலைஞர் உரை கூறுவது: அறம் பொருள் இன்பம் எனும் மூன்றினுள் பொருந்தும் வழியில் பொருளை மிகுதியாக ஈட்டியவர்களுக்கு ஏனைய இரண்டும் ஒன்றாகவே எளிதில் வந்து சேரும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Way of Accumulating Wealth (Ministers & Elements of State), Kural 760 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To those who have honestly acquired an abundance of riches, the other two, (virtue and pleasure) are things easy (of acquisition). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொருள் செயல்வகை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Way of Accumulating Wealth' thoughtfully.",
+        "quiz_question_ta": "'பொருள் செயல்வகை' அதிகாரத்தில் வரும் திருக்குறள் 760 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 760 from Chapter 'Way of Accumulating Wealth'?",
+        "quiz_options_ta": [
+          "சிறந்ததாகிய பொருளை மிகுதியாக ஈட்டியவர்க்கு, மற்ற அறமும் இன்பமுமாகிய இரண்டும் ஒரு சேரக்கைகூடும் எளிய பொருளாகும்.",
+          "உரிமையால் கேளாமலே நண்பர் ஒன்றைச் செய்தால், அந்த உரிமையைப் போற்றி விரும்பும் தன்மையோடு அச் செயலையும் விரும்பி உடன்பட்டிருப்பர் அறிஞர்.",
+          "அரிய மறைபொருளை மனத்தில் வைத்துக் காக்காமல் சேர்த்தும் வெளிபடுத்தும் அறிவில்லாதவன் தனக்குத் தானே பெருந்தீங்கு செய்து கொள்வான்.",
+          "அகத்தில் உடண்பாடு இல்லாதவருடன் குடிவாழும் வாழ்க்கை, ஒரு குடிசையிற் பாம்போடு உடன்வாழ்ந்தாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "They have joy and virtue at hand Who acquire treasures abundant",
+          "Things done unasked by loving friends Please the wise as familiar trends!",
+          "The fool that slights sacred counsels Upon himself great harm entails",
+          "Dwell with traitors that hate in heart Is dwelling with snake in selfsame hut"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பொருள் செயல்வகை) பகுதியில் குறள் 760 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சிறந்ததாகிய பொருளை மிகுதியாக ஈட்டியவர்க்கு, மற்ற அறமும் இன்பமுமாகிய இரண்டும் ஒரு சேரக்கைகூடும் எளிய பொருளாகும். பரிமேலழகர் உரை நுட்பம்: ஒண் பொருள் காழ்ப்ப இயற்றியார்க்கு - நெறியான் வரும் பொருளை இறப்ப மிகப் படைத்தாரக்கு; ஏனை இரண்டும் ஒருங்கு எண்பொருள் - மற்றை அறனும் இன்பமும் ஒருங்கே எளிய பொருள்களாம். (காழ்த்தல்: முதிர்தல். பயன் கொடுத்தல்லது போகாமையின், 'ஒண்பொருள'¢ என்றும், ஏனை இரண்டும் அதன...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 76: 'Way of Accumulating Wealth'), Kural 760 distills a foundational ethical insight: \"Who plenteous store of glorious wealth have gained, By them the other two are easily obtained\" Philosophically, To those who have honestly acquired an abundance of riches, the other two, (virtue and pleasure) are things easy (of acquisition).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "ethics",
+        "education",
+        "truth"
+      ]
+    }
+  ]
+}

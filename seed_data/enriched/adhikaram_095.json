@@ -1,0 +1,577 @@
+{
+  "adhikaram_id": 95,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.336435360+00:00",
+  "kurals": [
+    {
+      "kural_number": 941,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மருத்துவ நூலோர் வாதம் பித்தம் சிலேத்துமம் என எண்ணிய மூன்று அளவுக்கு மிகுந்தாலும் குறைந்தாலும் நோய் உண்டாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: If (food and work are either) excessive or deficient, the three things enumerated by (medical) writers, flatulence, biliousness, and phlegm, will cause (one) disease.",
+        "story_title_ta": "மருந்து — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Medicine — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மருந்து' என்ற அதிகாரத்திலிருந்து குறள் 941 பற்றிக் கதை சொன்னார். 'மருத்துவ நூலோர் சொல்லும் வாதம், பித்தம், சிலேட்டுமம் என்னும் மூன்றாம் ஒருவனின் உணவாலும், செயலாலும் அவற்றுக்கு ஒத்து இல்லாது. மிகுந்தோ, குறைந்தோ இருந்தால் நோய் உண்டாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 95, 'Medicine', centered on Kural 941: If (food and work are either) excessive or deficient, the three things enumerated by (medical) writers, flatulence, biliousness, and phlegm, will cause (one) disease. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வாதம், பித்தம், சிலேத்துமம் என்று மருத்துவ நூலோர் கணித்துள்ள மூன்றில் ஒன்று அளவுக்கு அதிகமானாலும் குறைந்தாலும் நோய் உண்டாகும்.",
+        "moral_en": "Moral: The learned books count three, with wind as first; of these, As any one prevail, or fail; 'twill cause disease.",
+        "game_blank_word_ta": "நூலோர்",
+        "game_options_ta": [
+          "மருந்தென",
+          "நூலோர்",
+          "வேண்டாவாம்",
+          "யாக்கைக்கு"
+        ],
+        "game_options_en": [
+          "After digestion one who feeds His body no medicine needs",
+          "Wind, bile and phlegm three cause disease So doctors deem it more or less",
+          "Eat food to digestive measure Life in body lasts with pleasure",
+          "Know digestion; with keen appetite Eat what is suitable and right"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மருந்து (அங்கவியல்) பிரிவில் அமைந்த குறள் 941, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மருத்துவ நூலோர் சொல்லும் வாதம், பித்தம், சிலேட்டுமம் என்னும் மூன்றாம் ஒருவனின் உணவாலும், செயலாலும் அவற்றுக்கு ஒத்து இல்லாது. மிகுந்தோ, குறைந்தோ இருந்தால் நோய் உண்டாகும். கலைஞர் உரை கூறுவது: வாதம், பித்தம், சிலேத்துமம் என்று மருத்துவ நூலோர் கணித்துள்ள மூன்றில் ஒன்று அளவுக்கு அதிகமானாலும் குறைந்தாலும் நோய் உண்டாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Medicine (Ministers & Elements of State), Kural 941 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If (food and work are either) excessive or deficient, the three things enumerated by (medical) writers, flatulence, biliousness, and phlegm, will cause (one) disease. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மருந்து' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Medicine' thoughtfully.",
+        "quiz_question_ta": "'மருந்து' அதிகாரத்தில் வரும் திருக்குறள் 941 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 941 from Chapter 'Medicine'?",
+        "quiz_options_ta": [
+          "ஆற்றலுடையவரின் ஆற்றலாவது பணிவுடன் நடத்தலாகும், அது சான்றோர் தம் பகைவரைப் பகைமையிலிருந்து மாற்றுகின்ற கருவியாகும்.",
+          "மருத்துவ நூலோர் வாதம் பித்தம் சிலேத்துமம் என எண்ணிய மூன்று அளவுக்கு மிகுந்தாலும் குறைந்தாலும் நோய் உண்டாகும்.",
+          "குடி உயர்வதற்கான செயல் செய்கின்றவர்க்கு உரிய காலம் என்று ஒன்று இல்லை, சோம்பல் கொண்டு தம் மானத்தைக் கருதுவாரானால் குடிப்பெருமைக் கெடும்.",
+          "மக்களே போல் இருப்பார் கயவர், அவர் மக்களை ஒத்திருப்பது போன்ற ஒப்புமை வேறு எந்த இருவகைப் பொருள்களிடத்திலும் யாம் கண்டதில்லை."
+        ],
+        "quiz_options_en": [
+          "Humility is valour's strength A force that averts foes at length",
+          "Wind, bile and phlegm three cause disease So doctors deem it more or less",
+          "No season have they who raise their race Sloth and pride will honour efface",
+          "The mean seem men only in form We have never seen such a sham"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (மருந்து) பகுதியில் குறள் 941 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மருத்துவ நூலோர் வாதம் பித்தம் சிலேத்துமம் என எண்ணிய மூன்று அளவுக்கு மிகுந்தாலும் குறைந்தாலும் நோய் உண்டாகும். பரிமேலழகர் உரை நுட்பம்: மிகினும் குறையினும் - உணவும் செயல்களும் ஒருவன் பகுதிக்கு ஒத்த அளவின் அன்றி அதனின் மிகுமாயினும் குறையுமாயினும்; நூலோர் வளிமுதலா எண்ணிய மூன்றும் நோய் செய்யும் - ஆயுள்வேத முடையரால் வாதமுதலாக எண்ணப்பட்ட மூன்று நோயும் அவருக்குத் துன்பஞ் செய்யும் ('நூலோர் எண்ணிய...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 95: 'Medicine'), Kural 941 distills a foundational ethical insight: \"The learned books count three, with wind as first; of these, As any one prevail, or fail; 'twill cause disease\" Philosophically, If (food and work are either) excessive or deficient, the three things enumerated by (medical) writers, flatulence, biliousness, and phlegm, will cause (one) disease.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "education",
+        "speech",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 942,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: முன் உண்ட உணவு செரித்த தன்மை ஆராய்ந்து போற்றியப் பிறகு தக்க அளவு உண்டால், உடம்பிற்கு மருந்து என ஒன்று வேண்டியதில்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: No medicine is necessary for him who eats after assuring (himself) that what he has (already) eaten has been digested.",
+        "story_title_ta": "மருந்து — கவின் கற்ற பாடம்",
+        "story_title_en": "Medicine — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மருந்து' என்ற அதிகாரத்திலிருந்து குறள் 942 பற்றிக் கதை சொன்னார். 'ஒருவன் முதலில் உண்டது சீரணமாகிவிட்டதை நன்கு அறிந்து அதன் பிறகு உண்டால், அவன் உடம்புக்க மருந்து என்று ஒன்று வேண்டியது இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 95, 'Medicine', centered on Kural 942: No medicine is necessary for him who eats after assuring (himself) that what he has (already) eaten has been digested. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உண்ட உணவு செரிப்பதற்கான கால இடைவெளி தந்து, உணவு அருந்துகிறவர்களின் உடலுக்கு வேறு மருந்தே தேவையில்லை.",
+        "moral_en": "Moral: No need of medicine to heal your body's pain, If, what you ate before digested well, you eat again.",
+        "game_blank_word_ta": "அற்றது",
+        "game_options_ta": [
+          "மிகினும்",
+          "குறையினும்",
+          "அற்றது",
+          "நோய்செய்யும்"
+        ],
+        "game_options_en": [
+          "Wind, bile and phlegm three cause disease So doctors deem it more or less",
+          "Eat food to digestive measure Life in body lasts with pleasure",
+          "After digestion one who feeds His body no medicine needs",
+          "Know digestion; with keen appetite Eat what is suitable and right"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மருந்து (அங்கவியல்) பிரிவில் அமைந்த குறள் 942, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவன் முதலில் உண்டது சீரணமாகிவிட்டதை நன்கு அறிந்து அதன் பிறகு உண்டால், அவன் உடம்புக்க மருந்து என்று ஒன்று வேண்டியது இல்லை. கலைஞர் உரை கூறுவது: உண்ட உணவு செரிப்பதற்கான கால இடைவெளி தந்து, உணவு அருந்துகிறவர்களின் உடலுக்கு வேறு மருந்தே தேவையில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Medicine (Ministers & Elements of State), Kural 942 speaks directly to teens navigating studies, friendships, leadership, and digital choices: No medicine is necessary for him who eats after assuring (himself) that what he has (already) eaten has been digested. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மருந்து' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Medicine' thoughtfully.",
+        "quiz_question_ta": "'மருந்து' அதிகாரத்தில் வரும் திருக்குறள் 942 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 942 from Chapter 'Medicine'?",
+        "quiz_options_ta": [
+          "சால்புக்கு உரைகல் போல் மதிப்பிடும் கருவி எது என்றால் தமக்கு ஒப்பில்லாத தாழ்ந்தோரிடத்திலும்தோல்வியை ஏற்றுக் கொள்ளும் பண்பாகும்.",
+          "தன் குடிக்கு வரக்குடிய குற்றத்தை வராமல் நீக்க முயல்கின்ற ஒருவனுடைய உடம்பு துன்பத்திற்கே இருப்பிடமானதோ.",
+          "முன் உண்ட உணவு செரித்த தன்மை ஆராய்ந்து போற்றியப் பிறகு தக்க அளவு உண்டால், உடம்பிற்கு மருந்து என ஒன்று வேண்டியதில்லை.",
+          "நன்மை அறிந்தவரை விடக் கயவரே நல்ல பேறு உடையவர், ஏன் என்றால், கயவர் தம் நெஞ்சில் எதைப் பற்றியும் கவலை இல்லாதவர்."
+        ],
+        "quiz_options_en": [
+          "To bear repulse e'en from the mean Is the touch-stone of worthy men",
+          "Is not his frame a vase for woes Who from mishaps shields his house?",
+          "After digestion one who feeds His body no medicine needs",
+          "The base seem richer than the good For no care enters their heart or head"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (மருந்து) பகுதியில் குறள் 942 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முன் உண்ட உணவு செரித்த தன்மை ஆராய்ந்து போற்றியப் பிறகு தக்க அளவு உண்டால், உடம்பிற்கு மருந்து என ஒன்று வேண்டியதில்லை. பரிமேலழகர் உரை நுட்பம்: அருந்தியது அற்றது போற்றி உணின் - ஒருவன் முன்னுண்டது அற்றபடியைக் குறிகளால் தௌ¤ய அறிந்து பின் உண்ணுமாயின்; யாக்கைக்கு மருந்து என வேண்டாவாம் - அவன் யாக்கைக்கு மருந்து என்று வேறு வேண்டாவாம். (குறிகளாவன - யாக்கை நொய்ம்மை, தேக்கின் தூய்மை, காரணங்கள...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 95: 'Medicine'), Kural 942 distills a foundational ethical insight: \"No need of medicine to heal your body's pain, If, what you ate before digested well, you eat again\" Philosophically, No medicine is necessary for him who eats after assuring (himself) that what he has (already) eaten has been digested.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 943,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: முன் உண்ட உணவு செரித்துவிட்டால், பின் வேண்டிய அளவு அறிந்து உண்ணவேண்டும், அதுவே உடம்பு பெற்றவன் அதை நெடுங்காலம் செலுத்தும் வழியாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: If (one's food has been) digested let one eat with moderation; (for) that is the way to prolong the life of an embodied soul.",
+        "story_title_ta": "மருந்து — நிலா கற்ற பாடம்",
+        "story_title_en": "Medicine — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மருந்து' என்ற அதிகாரத்திலிருந்து குறள் 943 பற்றிக் கதை சொன்னார். 'முன்பு உண்டது சீரணமாகிவிட்டது தெரிந்தால், அடுத்து உண்பதைத் தேவையான அளவு அறிந்து உண்க; அப்படி அளவாக உண்பதே இந்த உடம்பைப் பெற்றவன் அதை நெடுங்காலம் கொண்டு செல்லும் வழி.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 95, 'Medicine', centered on Kural 943: If (one's food has been) digested let one eat with moderation; (for) that is the way to prolong the life of an embodied soul. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உண்ட உணவு செரித்ததையும், உண்ணும் உணவின் அளவையும் அறிந்து உண்பது நீண்ட நாள் வாழ்வதற்கு வழியாகும்.",
+        "moral_en": "Moral: Who has a body gained may long the gift retain, If, food digested well, in measure due he eat again.",
+        "game_blank_word_ta": "அறவறிந்து",
+        "game_options_ta": [
+          "மிகினும்",
+          "குறையினும்",
+          "நோய்செய்யும்",
+          "அறவறிந்து"
+        ],
+        "game_options_en": [
+          "Wind, bile and phlegm three cause disease So doctors deem it more or less",
+          "After digestion one who feeds His body no medicine needs",
+          "Know digestion; with keen appetite Eat what is suitable and right",
+          "Eat food to digestive measure Life in body lasts with pleasure"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மருந்து (அங்கவியல்) பிரிவில் அமைந்த குறள் 943, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முன்பு உண்டது சீரணமாகிவிட்டது தெரிந்தால், அடுத்து உண்பதைத் தேவையான அளவு அறிந்து உண்க; அப்படி அளவாக உண்பதே இந்த உடம்பைப் பெற்றவன் அதை நெடுங்காலம் கொண்டு செல்லும் வழி. கலைஞர் உரை கூறுவது: உண்ட உணவு செரித்ததையும், உண்ணும் உணவின் அளவையும் அறிந்து உண்பது நீண்ட நாள் வாழ்வதற்கு வழியாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Medicine (Ministers & Elements of State), Kural 943 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If (one's food has been) digested let one eat with moderation; (for) that is the way to prolong the life of an embodied soul. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மருந்து' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Medicine' thoughtfully.",
+        "quiz_question_ta": "'மருந்து' அதிகாரத்தில் வரும் திருக்குறள் 943 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 943 from Chapter 'Medicine'?",
+        "quiz_options_ta": [
+          "துன்பமானவற்றைச் செய்தவர்க்கும் இனிய உதவிகளைச் செய்யா விட்டால், சான்றோரின் சால்பு என்ன பயன் உடையதாகும்.",
+          "துன்பம் வந்த போது உடனிருந்து தாங்க வல்ல நல்ல ஆள் இல்லாத குடி, துன்பமாகிய கோடாரி அடியில் வெட்டி வீழ்த்த விழுந்துவிடும்.",
+          "கயவரும் தேவரைப் போல் தான் விரும்புகின்றவைகளைச் செய்து மனம் போன போக்கில் நடத்தலால், கயவர் தேவரைப் போன்றவர்.",
+          "முன் உண்ட உணவு செரித்துவிட்டால், பின் வேண்டிய அளவு அறிந்து உண்ணவேண்டும், அதுவே உடம்பு பெற்றவன் அதை நெடுங்காலம் செலுத்தும் வழியாகும்."
+        ],
+        "quiz_options_en": [
+          "Of perfection what is the gain If it returns not joy for pain?",
+          "A house will fall by a mishap With no good man to prop it up",
+          "The base are like gods; for they too As prompted by their desire do",
+          "Eat food to digestive measure Life in body lasts with pleasure"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (மருந்து) பகுதியில் குறள் 943 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முன் உண்ட உணவு செரித்துவிட்டால், பின் வேண்டிய அளவு அறிந்து உண்ணவேண்டும், அதுவே உடம்பு பெற்றவன் அதை நெடுங்காலம் செலுத்தும் வழியாகும். பரிமேலழகர் உரை நுட்பம்: அற்றால் அளவறிந்து உண்க - முன்னுண்டது அற்றால் பின்னுண்பதனை அளவு அறிந்து அளவிற்றாக உண்க; உடம்பு பெற்றான் நெடிது உய்க்கும் ஆறு அஃது - இறப்பவும் பலவாய பிற யாக்கைகளிற் பிழைத்துப் பெறற்கு அரிய இம்மானுட யாக்கையைப் பெற்றான் அதனை நெடுங்காலம் கொண்டு செலுத்தும் நெறி...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 95: 'Medicine'), Kural 943 distills a foundational ethical insight: \"Who has a body gained may long the gift retain, If, food digested well, in measure due he eat again\" Philosophically, If (one's food has been) digested let one eat with moderation; (for) that is the way to prolong the life of an embodied soul.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "education",
+        "discipline",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 944,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: முன் உண்ட உணவு செரித்த தன்மையை அறிந்து மாறுபாடில்லாத உணவுகளைக் கடைபிடித்து அவற்றையும் பசித்த பிறகு உண்ண வேண்டும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: (First) assure yourself that your food has been digested and never fail to eat, when very hungry, whatever is not disagreeable (to you).",
+        "story_title_ta": "மருந்து — அன்பு கற்ற பாடம்",
+        "story_title_en": "Medicine — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மருந்து' என்ற அதிகாரத்திலிருந்து குறள் 944 பற்றிக் கதை சொன்னார். 'முன்பு உண்டது சீரணமாகிவிட்டதை அறிந்து நன்கு பசிக்கும்போது உடம்பிற்கும் காலத்திற்கும் ஒவ்வாத உணவினை விலக்கி, வேண்டியவற்றை உண்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 95, 'Medicine', centered on Kural 944: (First) assure yourself that your food has been digested and never fail to eat, when very hungry, whatever is not disagreeable (to you). Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உண்டது செரித்ததா என்பதை உணர்ந்து, நன்கு பசியெடுத்த பிறகு உடலுக்கு ஒத்து வரக்கூடிய உணவை அருந்த வேண்டும்.",
+        "moral_en": "Moral: Knowing the food digested well, when hunger prompteth thee, With constant care, the viands choose that well agree.",
+        "game_blank_word_ta": "பசித்து",
+        "game_options_ta": [
+          "பசித்து",
+          "மிகினும்",
+          "குறையினும்",
+          "நோய்செய்யும்"
+        ],
+        "game_options_en": [
+          "Know digestion; with keen appetite Eat what is suitable and right",
+          "Wind, bile and phlegm three cause disease So doctors deem it more or less",
+          "After digestion one who feeds His body no medicine needs",
+          "Eat food to digestive measure Life in body lasts with pleasure"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மருந்து (அங்கவியல்) பிரிவில் அமைந்த குறள் 944, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முன்பு உண்டது சீரணமாகிவிட்டதை அறிந்து நன்கு பசிக்கும்போது உடம்பிற்கும் காலத்திற்கும் ஒவ்வாத உணவினை விலக்கி, வேண்டியவற்றை உண்க. கலைஞர் உரை கூறுவது: உண்டது செரித்ததா என்பதை உணர்ந்து, நன்கு பசியெடுத்த பிறகு உடலுக்கு ஒத்து வரக்கூடிய உணவை அருந்த வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Medicine (Ministers & Elements of State), Kural 944 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (First) assure yourself that your food has been digested and never fail to eat, when very hungry, whatever is not disagreeable (to you). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மருந்து' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Medicine' thoughtfully.",
+        "quiz_question_ta": "'மருந்து' அதிகாரத்தில் வரும் திருக்குறள் 944 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 944 from Chapter 'Medicine'?",
+        "quiz_options_ta": [
+          "முன் உண்ட உணவு செரித்த தன்மையை அறிந்து மாறுபாடில்லாத உணவுகளைக் கடைபிடித்து அவற்றையும் பசித்த பிறகு உண்ண வேண்டும்.",
+          "சால்பு என்னும் வலிமை உண்டாகப் பெற்றால் ஒருவனுக்குப் பொருள் இல்லாத குறையாகிய வறுமை இழிவானது அன்று.",
+          "உலகம் பல தொழில் செய்து சுழன்றாலும் ஏர்த் தொழிலின் பின் நிற்கின்றது, அதனால் எவ்வளவு துன்புற்றாலும் உழவுத் தொழிலே சிறந்தது.",
+          "கீழ் மக்கள் தமக்கு கீழ் பட்டவராய் நடப்பவரைக் கண்டால், அவரை விடத் தாம் மேம்பாடு உடையவராய் இறுமாப்படைவர்."
+        ],
+        "quiz_options_en": [
+          "Know digestion; with keen appetite Eat what is suitable and right",
+          "No shame there is in poverty To one strong in good quality",
+          "Farming though hard is foremost trade Men ply at will but ploughmen lead",
+          "When the base meets a rake so vile Him he will exceed, exult and smile"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (மருந்து) பகுதியில் குறள் 944 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முன் உண்ட உணவு செரித்த தன்மையை அறிந்து மாறுபாடில்லாத உணவுகளைக் கடைபிடித்து அவற்றையும் பசித்த பிறகு உண்ண வேண்டும். பரிமேலழகர் உரை நுட்பம்: அற்றது அறிந்து - முன்னுண்டது அற்றபடியை யறிந்து; துவரப் பசித்து - பின் மிகப்பசித்து; மாறல்ல கடைப் பிடித்துத் துய்க்க - உண்ணுங்கால் மாறுகொள்ளாத உணவுகளைக் குறிக்கொண்டு உண்க. (அற்றது அறிந்து என்னும் பெயர்த்துரை அதனை யாப்புறுத்தற் பொருட்டு. உண்டது அற்றாலும் அதன...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 95: 'Medicine'), Kural 944 distills a foundational ethical insight: \"Knowing the food digested well, when hunger prompteth thee, With constant care, the viands choose that well agree\" Philosophically, (First) assure yourself that your food has been digested and never fail to eat, when very hungry, whatever is not disagreeable (to you).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "kindness",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 945,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மாறுபாடில்லாதா உணவை அளவு மீறாமல் மறுத்து அளவோடு உண்டால், உயிர் உடம்பில் வாழ்வதற்கு இடையூறான நோய் இல்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: There will be no disaster to one's life if one eats with moderation, food that is not disagreeable.",
+        "story_title_ta": "மருந்து — இனியா கற்ற பாடம்",
+        "story_title_en": "Medicine — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மருந்து' என்ற அதிகாரத்திலிருந்து குறள் 945 பற்றிக் கதை சொன்னார். 'ஒருவன் உடம்பிற்கு ஒவ்வொத உணவுகளை விலக்கி உண்டால், அவன் உயிர்க்கு நோயால் வரும் துன்பம் இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 95, 'Medicine', centered on Kural 945: There will be no disaster to one's life if one eats with moderation, food that is not disagreeable. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உடலுக்கு ஒத்துவரக்கூடிய உணவைக்கூட அதிகமாகும்போது மறுத்து அளவுடன் உண்டால், உயிர் வாழ்வதற்குத் தொல்லை எதுவுமில்லை.",
+        "moral_en": "Moral: With self-denial take the well-selected meal; So shall thy frame no sudden sickness feel.",
+        "game_blank_word_ta": "மாறுபாடு",
+        "game_options_ta": [
+          "மிகினும்",
+          "மாறுபாடு",
+          "குறையினும்",
+          "நோய்செய்யும்"
+        ],
+        "game_options_en": [
+          "Wind, bile and phlegm three cause disease So doctors deem it more or less",
+          "With fasting adjusted food right Cures ills of life and makes you bright",
+          "After digestion one who feeds His body no medicine needs",
+          "Eat food to digestive measure Life in body lasts with pleasure"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மருந்து (அங்கவியல்) பிரிவில் அமைந்த குறள் 945, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவன் உடம்பிற்கு ஒவ்வொத உணவுகளை விலக்கி உண்டால், அவன் உயிர்க்கு நோயால் வரும் துன்பம் இல்லை. கலைஞர் உரை கூறுவது: உடலுக்கு ஒத்துவரக்கூடிய உணவைக்கூட அதிகமாகும்போது மறுத்து அளவுடன் உண்டால், உயிர் வாழ்வதற்குத் தொல்லை எதுவுமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Medicine (Ministers & Elements of State), Kural 945 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There will be no disaster to one's life if one eats with moderation, food that is not disagreeable. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மருந்து' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Medicine' thoughtfully.",
+        "quiz_question_ta": "'மருந்து' அதிகாரத்தில் வரும் திருக்குறள் 945 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 945 from Chapter 'Medicine'?",
+        "quiz_options_ta": [
+          "சால்பு என்னும் தன்மைக்குக் கடல் என்று புகழப்படுகின்றவர், ஊழிக்காலத்தின் வேறுபாடுகளே நேர்ந்தாலும் தாம் வேறுபடாமல் இருப்பர்.",
+          "மாறுபாடில்லாதா உணவை அளவு மீறாமல் மறுத்து அளவோடு உண்டால், உயிர் உடம்பில் வாழ்வதற்கு இடையூறான நோய் இல்லை.",
+          "உழவு செய்ய முடியாமல் உயிர் வாழ்கின்றவர், எல்லாரையும் தாங்குவதால், உழவு செய்கின்றவர் உலகத்தாற்கு அச்சாணி போன்றவர்.",
+          "கீழ் மக்களின் ஆசாரத்திற்கு காரணமாக இருப்பது அச்சமே, எஞ்சியவற்றில் அவா உண்டானால் அதனாலும் சிறிதளவு ஆசாரம் உண்டாகும்."
+        ],
+        "quiz_options_en": [
+          "Aeons may change but not the seer Who is a sea of virtue pure",
+          "With fasting adjusted food right Cures ills of life and makes you bright",
+          "Tillers are linch-pin of mankind Bearing the rest who cannot tend",
+          "Fear forms the conduct of the low Craving avails a bit below"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (மருந்து) பகுதியில் குறள் 945 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மாறுபாடில்லாதா உணவை அளவு மீறாமல் மறுத்து அளவோடு உண்டால், உயிர் உடம்பில் வாழ்வதற்கு இடையூறான நோய் இல்லை. பரிமேலழகர் உரை நுட்பம்: மாறுபாடு இல்லாத உண்டி மறுத்து உண்ணின் - அம்மூவகை மாறுகோளும் இல்லாத உணவைத் தன் உள்ளம் வேண்டிய அளவினான்அன்றிப் பிணிவாரா அளவினால் ஒருவன் உண்ணுமாயின்; உயிர்க்கு ஊறுபாடு இல்லை - அவன் உயிர்க்குப் பிணிகளால் துன்பம் விளைதல் உண்டாகாது. (உறுவதனை 'ஊறு' என்றார். அஃது...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 95: 'Medicine'), Kural 945 distills a foundational ethical insight: \"With self-denial take the well-selected meal; So shall thy frame no sudden sickness feel\" Philosophically, There will be no disaster to one's life if one eats with moderation, food that is not disagreeable.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "justice",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 946,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: குறைந்த அளவு இன்னதென்று அறிந்து உண்பவனிடத்தில் இன்பம் நிலைநிற்பது போல, மிகப்பெரிதும் உண்பவனிடத்தில் நோய் நிற்க்கும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: As pleasure dwells with him who eats moderately, so disease (dwells) with the glutton who eats voraciously.",
+        "story_title_ta": "மருந்து — முகில் கற்ற பாடம்",
+        "story_title_en": "Medicine — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மருந்து' என்ற அதிகாரத்திலிருந்து குறள் 946 பற்றிக் கதை சொன்னார். 'குறைவாக உண்பதே நல்லது என்று அறிந்து உண்பவனிடம் இன்பம் விலகாமல் இருப்பது போல் மிக அதிகமாக விழுங்குபவனிடம் நோய் விலகாமல் இருக்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 95, 'Medicine', centered on Kural 946: As pleasure dwells with him who eats moderately, so disease (dwells) with the glutton who eats voraciously. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அளவோடு உண்பவர் உடல் நலமுடன் வாழ்வதும் அதிகம் உண்பவர் நோய்க்கு ஆளாவதம் இயற்கை.",
+        "moral_en": "Moral: On modest temperance as pleasures pure, So pain attends the greedy epicure.",
+        "game_blank_word_ta": "கழிபேர்",
+        "game_options_ta": [
+          "மிகினும்",
+          "குறையினும்",
+          "கழிபேர்",
+          "நோய்செய்யும்"
+        ],
+        "game_options_en": [
+          "Wind, bile and phlegm three cause disease So doctors deem it more or less",
+          "After digestion one who feeds His body no medicine needs",
+          "Who eats with clean stomach gets health With greedy glutton abides ill-health",
+          "Eat food to digestive measure Life in body lasts with pleasure"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மருந்து (அங்கவியல்) பிரிவில் அமைந்த குறள் 946, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: குறைவாக உண்பதே நல்லது என்று அறிந்து உண்பவனிடம் இன்பம் விலகாமல் இருப்பது போல் மிக அதிகமாக விழுங்குபவனிடம் நோய் விலகாமல் இருக்கும். கலைஞர் உரை கூறுவது: அளவோடு உண்பவர் உடல் நலமுடன் வாழ்வதும் அதிகம் உண்பவர் நோய்க்கு ஆளாவதம் இயற்கை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Medicine (Ministers & Elements of State), Kural 946 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As pleasure dwells with him who eats moderately, so disease (dwells) with the glutton who eats voraciously. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மருந்து' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Medicine' thoughtfully.",
+        "quiz_question_ta": "'மருந்து' அதிகாரத்தில் வரும் திருக்குறள் 946 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 946 from Chapter 'Medicine'?",
+        "quiz_options_ta": [
+          "சான்றோரின் சால்பு நிறைந்த பண்பு குறைபடுமானால் இந்தப் பெரிய நிலவுலகமும் தன் பாரத்தைத் தாங்க முடியாமற் போய் விடும்.",
+          "உழவு செய்து அதனால் கிடைத்ததைக் கொண்டு வாழ்கின்றவரே உரிமையோடு வாழ்கின்றவர், மற்றவர் எல்லோரும் பிறரைத் தொழுது உண்டு பின் செல்கின்றவரே.",
+          "குறைந்த அளவு இன்னதென்று அறிந்து உண்பவனிடத்தில் இன்பம் நிலைநிற்பது போல, மிகப்பெரிதும் உண்பவனிடத்தில் நோய் நிற்க்கும்.",
+          "கயவர், தாம் கேட்டறிந்த மறைப்பொருளைப் பிறர்க்கு வலிய கொண்டுபோய்ச் சொல்லுவதலால், அறையப்படும் பறை போன்றவர்."
+        ],
+        "quiz_options_en": [
+          "The world will not more bear its weight If from high virtue fall the great",
+          "They live who live to plough and eat The rest behind them bow and eat",
+          "Who eats with clean stomach gets health With greedy glutton abides ill-health",
+          "The base are like the beaten drum Since other's secrets they proclaim"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (மருந்து) பகுதியில் குறள் 946 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: குறைந்த அளவு இன்னதென்று அறிந்து உண்பவனிடத்தில் இன்பம் நிலைநிற்பது போல, மிகப்பெரிதும் உண்பவனிடத்தில் நோய் நிற்க்கும். பரிமேலழகர் உரை நுட்பம்: இழிவு அறிந்து உண்பான்கண் இன்பம்போல் - அக்குறைதலை நன்று என்று அறிந்து அவ்வாறே உண்பவன் மாட்டு இன்பம் நீங்காது நிலை நிற்குமாறு போல; கழிபேரிரையான்கண் நோய் நிற்கும் - மிகப்பெரிய இரையை விழுங்குவான் மாட்டு நோய் நீங்காது நிலைநிற்கும். (அவ்வாறே உண்டல் - உண்ணலாம...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 95: 'Medicine'), Kural 946 distills a foundational ethical insight: \"On modest temperance as pleasures pure, So pain attends the greedy epicure\" Philosophically, As pleasure dwells with him who eats moderately, so disease (dwells) with the glutton who eats voraciously.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "discipline",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 947,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பசித்தீயின் அளவின் படி அல்லாமல், அதை ஆராயாமல் மிகுதியாக உண்டால் , அதனால் நோய்கள் அளவில்லாமல் ஏற்ப்பட்டு விடும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: He will be afflicted with numberless diseases, who eats immoderately, ignorant (of the rules of health).",
+        "story_title_ta": "மருந்து — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Medicine — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மருந்து' என்ற அதிகாரத்திலிருந்து குறள் 947 பற்றிக் கதை சொன்னார். 'தன் வயிற்றுப் பசி அளவு தெரியாமல் மிக அதிகமாக உண்டால் அவன் உடம்பில் நோய்கள் அளவு இல்லாமல் வளரும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 95, 'Medicine', centered on Kural 947: He will be afflicted with numberless diseases, who eats immoderately, ignorant (of the rules of health). Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பசியின் அளவு அறியாமலும், ஆராயாமலும் அதிகம் உண்டால் நோய்களும் அளவின்றி வரும்.",
+        "moral_en": "Moral: Who largely feeds, nor measure of the fire within maintains, That thoughtless man shall feel unmeasured pains.",
+        "game_blank_word_ta": "தெரியான்",
+        "game_options_ta": [
+          "மிகினும்",
+          "குறையினும்",
+          "நோய்செய்யும்",
+          "தெரியான்"
+        ],
+        "game_options_en": [
+          "Wind, bile and phlegm three cause disease So doctors deem it more or less",
+          "After digestion one who feeds His body no medicine needs",
+          "Eat food to digestive measure Life in body lasts with pleasure",
+          "who glut beyond the hunger's fire Suffer from untold diseases here"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மருந்து (அங்கவியல்) பிரிவில் அமைந்த குறள் 947, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் வயிற்றுப் பசி அளவு தெரியாமல் மிக அதிகமாக உண்டால் அவன் உடம்பில் நோய்கள் அளவு இல்லாமல் வளரும். கலைஞர் உரை கூறுவது: பசியின் அளவு அறியாமலும், ஆராயாமலும் அதிகம் உண்டால் நோய்களும் அளவின்றி வரும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Medicine (Ministers & Elements of State), Kural 947 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He will be afflicted with numberless diseases, who eats immoderately, ignorant (of the rules of health). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மருந்து' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Medicine' thoughtfully.",
+        "quiz_question_ta": "'மருந்து' அதிகாரத்தில் வரும் திருக்குறள் 947 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 947 from Chapter 'Medicine'?",
+        "quiz_options_ta": [
+          "பண்பு உடையவராக வாழும் நல்வழியை, யாரிடத்திலும் எளிய செவ்வியுடன் இருப்பதால் அடைவது எளிது என்று கூறுவர்.",
+          "நெல் வளம் உடைய தண்ணளி பொருந்திய உழவர், பல அரசரின் குடை நிழல்களையும் தம் குடையின் கீழ் காணவல்லவர் ஆவர்.",
+          "கயவர் தம் கன்னத்தை இடித்து உடைக்கும் படி வளைந்த கை உடையவரல்லாத மற்றவர்க்கு உண்ட எச்சில் கையையும் உதற மாட்டார்.",
+          "பசித்தீயின் அளவின் படி அல்லாமல், அதை ஆராயாமல் மிகுதியாக உண்டால் , அதனால் நோய்கள் அளவில்லாமல் ஏற்ப்பட்டு விடும்."
+        ],
+        "quiz_options_en": [
+          "To the polite free of access Easily comes courteousness",
+          "Who have the shade of cornful crest Under their umbra umbrellas rest",
+          "The base their damp hand will not shake But for fists clenched their jaws to break",
+          "who glut beyond the hunger's fire Suffer from untold diseases here"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (மருந்து) பகுதியில் குறள் 947 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பசித்தீயின் அளவின் படி அல்லாமல், அதை ஆராயாமல் மிகுதியாக உண்டால் , அதனால் நோய்கள் அளவில்லாமல் ஏற்ப்பட்டு விடும். பரிமேலழகர் உரை நுட்பம்: தெரியான் தீ அளவு அன்றிப் பெரிது உண்ணின் - தன் பகுதியும் அதற்கு ஏற்ற உணவும் காலமும் ஆராயாது, வேண்டியதோர் உணவை வேண்டியதோர் காலத்து, வயிற்றுத் தீ அளவன்றி ஒருவன் உண்ணுமாயின்; நோய் அளவு இன்றிப் படும் - அவன் மாட்டு நோய்கள் எல்லையற வளரும். (தெரியாமை வினைக்குச...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 95: 'Medicine'), Kural 947 distills a foundational ethical insight: \"Who largely feeds, nor measure of the fire within maintains, That thoughtless man shall feel unmeasured pains\" Philosophically, He will be afflicted with numberless diseases, who eats immoderately, ignorant (of the rules of health).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "kindness",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 948,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நோய் இன்னதென்று ஆராய்ந்து, நோயின் காரணம் ஆராய்ந்து, அதைத் தணிக்கும் வழியையும் ஆராய்ந்து, உடலுக்கு பொருந்தும் படியாகச் செய்யவேண்டும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Let the physician enquire into the (nature of the) disease, its cause and its method of cure and treat it faithfully according to (medical rule).",
+        "story_title_ta": "மருந்து — கவின் கற்ற பாடம்",
+        "story_title_en": "Medicine — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மருந்து' என்ற அதிகாரத்திலிருந்து குறள் 948 பற்றிக் கதை சொன்னார். 'நோயாளியின் உடல்மாற்றங்களால் வந்துள்ள நோயை இன்னது என்று அறிந்து அந்த நோய் வருவதற்கான மூல காரணத்தையும் அதைத் தீர்க்கும் வழியையும் அறிந்து அதைப் போக்குவதில் தவறு வந்துவிடாமல் மருத்துவர் செயல்பட வேண்டும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 95, 'Medicine', centered on Kural 948: Let the physician enquire into the (nature of the) disease, its cause and its method of cure and treat it faithfully according to (medical rule). Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நோய் என்ன? நோய்க்கான காரணம் என்ன? நோய் தீர்க்கும் வழி என்ன? இவற்றை முறையாக ஆராய்ந்து சிகிச்சை செய்ய வேண்டும் (உடல் நோய்க்கு மட்டுமின்றிச் சமுதாய நோய்க்கும் இது பொருந்தும்).",
+        "moral_en": "Moral: Disease, its cause, what may abate the ill:Let leech examine these, then use his skill.",
+        "game_blank_word_ta": "நோய்நாடி",
+        "game_options_ta": [
+          "நோய்நாடி",
+          "மிகினும்",
+          "குறையினும்",
+          "நோய்செய்யும்"
+        ],
+        "game_options_en": [
+          "Test disease, its cause and cure And apply remedy that is sure",
+          "Wind, bile and phlegm three cause disease So doctors deem it more or less",
+          "After digestion one who feeds His body no medicine needs",
+          "Eat food to digestive measure Life in body lasts with pleasure"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மருந்து (அங்கவியல்) பிரிவில் அமைந்த குறள் 948, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நோயாளியின் உடல்மாற்றங்களால் வந்துள்ள நோயை இன்னது என்று அறிந்து அந்த நோய் வருவதற்கான மூல காரணத்தையும் அதைத் தீர்க்கும் வழியையும் அறிந்து அதைப் போக்குவதில் தவறு வந்துவிடாமல் மருத்துவர் செயல்பட வேண்டும். கலைஞர் உரை கூறுவது: நோய் என்ன? நோய்க்கான காரணம் என்ன? நோய் தீர்க்கும் வழி என்ன? இவற்றை முறையாக ஆராய்ந்து சிகிச்சை செய்ய வேண்டும் (உடல் நோய்க்கு மட்டுமின்றிச் சமுதாய நோய்க்கும் இது பொருந்தும்). இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Medicine (Ministers & Elements of State), Kural 948 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let the physician enquire into the (nature of the) disease, its cause and its method of cure and treat it faithfully according to (medical rule). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மருந்து' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Medicine' thoughtfully.",
+        "quiz_question_ta": "'மருந்து' அதிகாரத்தில் வரும் திருக்குறள் 948 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 948 from Chapter 'Medicine'?",
+        "quiz_options_ta": [
+          "நோய் இன்னதென்று ஆராய்ந்து, நோயின் காரணம் ஆராய்ந்து, அதைத் தணிக்கும் வழியையும் ஆராய்ந்து, உடலுக்கு பொருந்தும் படியாகச் செய்யவேண்டும்.",
+          "அன்புடையவராக இருத்தல், உயர்ந்த குடியில் பிறந்த தன்மை அமைந்திருத்தல் ஆகிய இவ் விரண்டும் பண்பு உடையவராக வாழும் நல்வழியாகும்.",
+          "கையால் தொழில் செய்து உணவு தேடி உண்ணும் இயல்புடைய தொழிலாளர், பிறரிடம் சென்று இரக்கமாட்டார், தம்மிடம் இரந்தவர்க்கு ஒளிக்காமல் ஒரு பொருள் ஈவார்.",
+          "அணுகி குறைச் சொல்லுகின்ற அளவிலேயே சான்றோர் பயன்படுவர், கரும்புபோல் அழித்துப் பிழிந்தால் தான் கீழ்மக்கள் பயன்படுவர்."
+        ],
+        "quiz_options_en": [
+          "Test disease, its cause and cure And apply remedy that is sure",
+          "Humanity and noble birth Develop courtesy and moral worth",
+          "Who till and eat, beg not; nought hide But give to those who are in need",
+          "The good by soft words profits yield The cane-like base when crushed and killed"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (மருந்து) பகுதியில் குறள் 948 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நோய் இன்னதென்று ஆராய்ந்து, நோயின் காரணம் ஆராய்ந்து, அதைத் தணிக்கும் வழியையும் ஆராய்ந்து, உடலுக்கு பொருந்தும் படியாகச் செய்யவேண்டும். பரிமேலழகர் உரை நுட்பம்: நோய் நாடி - மருததுவனாயினான் ஆதுரன்மாட்டு நிகழ்கின்ற நோயை அதன் குறிகளான் இன்னது என்று துணிந்து; நோய் முதல் நாடி - பின் அது வருதற் காரணத்தை ஆராய்ந்து; அது தணிக்கும் வாய் நாடி - பின் அது தீர்க்கும் உபாயத்தினை அறிந்து; வாய்ப்பச் செயல் - அதனைச் செய்யும்வழிப...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 95: 'Medicine'), Kural 948 distills a foundational ethical insight: \"Disease, its cause, what may abate the ill:Let leech examine these, then use his skill\" Philosophically, Let the physician enquire into the (nature of the) disease, its cause and its method of cure and treat it faithfully according to (medical rule).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "discipline",
+        "justice",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 949,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மருத்துவ நூலைக் கற்றவன், நோயுற்றவனுடைய வயது முதலியவற்றையும், நோயின் அளவையும், காலத்தையும் ஆராய்ந்து செய்ய வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The learned (physician) should ascertain the condition of his patient; the nature of his disease, and the season (of the year) and (then) proceed (with his treatment).",
+        "story_title_ta": "மருந்து — நிலா கற்ற பாடம்",
+        "story_title_en": "Medicine — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மருந்து' என்ற அதிகாரத்திலிருந்து குறள் 949 பற்றிக் கதை சொன்னார். 'மருத்துவ நூலை நன்கு கற்ற மருத்துவர், நோயாளியின் நோயைப் போக்க முயலும்போது, நோயாளியின் வயது, அந்நோய் வந்திருக்கும் காலம், நோயைப் போக்கத் தனக்குத் தேவையாகும் காலம் ஆகியவற்றை எண்ணிச் செயல்பட வேண்டும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 95, 'Medicine', centered on Kural 949: The learned (physician) should ascertain the condition of his patient; the nature of his disease, and the season (of the year) and (then) proceed (with his treatment). Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நோயாளியின் வயது, நோயின் தன்மை, மருத்துவம் செய்வதற்குரிய நேரம் என்பனவற்றை எல்லாம் மருத்துவம் கற்றவர் எண்ணிப் பார்த்தே செயல்பட வேண்டும்.",
+        "moral_en": "Moral: The habitudes of patient and disease, the crises of the illThese must the learned leech think over well, then use his skill.",
+        "game_blank_word_ta": "கற்றான்",
+        "game_options_ta": [
+          "மிகினும்",
+          "கற்றான்",
+          "குறையினும்",
+          "நோய்செய்யும்"
+        ],
+        "game_options_en": [
+          "Wind, bile and phlegm three cause disease So doctors deem it more or less",
+          "Let the skilful doctor note The sickmen, sickness, season and treat",
+          "After digestion one who feeds His body no medicine needs",
+          "Eat food to digestive measure Life in body lasts with pleasure"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மருந்து (அங்கவியல்) பிரிவில் அமைந்த குறள் 949, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மருத்துவ நூலை நன்கு கற்ற மருத்துவர், நோயாளியின் நோயைப் போக்க முயலும்போது, நோயாளியின் வயது, அந்நோய் வந்திருக்கும் காலம், நோயைப் போக்கத் தனக்குத் தேவையாகும் காலம் ஆகியவற்றை எண்ணிச் செயல்பட வேண்டும். கலைஞர் உரை கூறுவது: நோயாளியின் வயது, நோயின் தன்மை, மருத்துவம் செய்வதற்குரிய நேரம் என்பனவற்றை எல்லாம் மருத்துவம் கற்றவர் எண்ணிப் பார்த்தே செயல்பட வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Medicine (Ministers & Elements of State), Kural 949 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The learned (physician) should ascertain the condition of his patient; the nature of his disease, and the season (of the year) and (then) proceed (with his treatment). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மருந்து' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Medicine' thoughtfully.",
+        "quiz_question_ta": "'மருந்து' அதிகாரத்தில் வரும் திருக்குறள் 949 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 949 from Chapter 'Medicine'?",
+        "quiz_options_ta": [
+          "உடம்பால் ஒத்திருத்தல் மக்களோடு ஒப்புமை அன்று, பொருந்தத்தக்கப் பண்பால் ஒத்திருத்தலே கொள்ளத்தக்க ஒப்புமையாகும்.",
+          "மருத்துவ நூலைக் கற்றவன், நோயுற்றவனுடைய வயது முதலியவற்றையும், நோயின் அளவையும், காலத்தையும் ஆராய்ந்து செய்ய வேண்டும்.",
+          "உழவருடைய கை, தொழில் செய்யாமல் மடங்கியிருக்குமானால், விரும்புகின்ற எந்தப் பற்றையும் விட்டுவிட்டோம் என்று கூறும் துறவிகளுக்கும் வாழ்வு இல்லை.",
+          "கீழ் மகன் பிறர் உடுப்பதையும், உண்பதையும் கண்டால் அவர் மேல் பொறாமை கொண்டு, வேண்டும் என்றே குற்றம் காண வல்லவனாவான்."
+        ],
+        "quiz_options_en": [
+          "Likeness in limbs is not likeness It's likeness in kind courteousness",
+          "Let the skilful doctor note The sickmen, sickness, season and treat",
+          "Should ploughmen sit folding their hands Desire-free monks too suffer wants",
+          "Faults in others the mean will guess On seeing how they eat and dress"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (மருந்து) பகுதியில் குறள் 949 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மருத்துவ நூலைக் கற்றவன், நோயுற்றவனுடைய வயது முதலியவற்றையும், நோயின் அளவையும், காலத்தையும் ஆராய்ந்து செய்ய வேண்டும். பரிமேலழகர் உரை நுட்பம்: கற்றான் - ஆயுள் வேதத்தினைக் கற்ற மருத்துவன்; உற்றான் அளவும் பிணி அளவும் காலமும் கருதிச் செயல் - அவ்வுபாயத்தினைச் செய்யுங்கால், ஆதுரன் அளவினையும் அவன்கண் நிகழ்கின்ற நோயின் அளவினையும் தன்செயற்கு ஏற்ற காலத்தினையும் அந்நூல் நெறியால் நோக்கி, அவற்றோடு பொருந்தச...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 95: 'Medicine'), Kural 949 distills a foundational ethical insight: \"The habitudes of patient and disease, the crises of the illThese must the learned leech think over well, then use his skill\" Philosophically, The learned (physician) should ascertain the condition of his patient; the nature of his disease, and the season (of the year) and (then) proceed (with his treatment).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "family",
+        "education",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 950,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நோயுற்றவன், நோய் தீர்க்கும் மருத்துவன், மருந்து, மருந்தை அங்கிருந்து கொடுப்பவன் என்று மருத்துவ முறை அந்த நான்குவகைப் பாகுபாடு உடையது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Medical science consists of four parts, viz, patient, physician, medicine and compounder; and each of these (again) contains four sub-divisions.",
+        "story_title_ta": "மருந்து — அன்பு கற்ற பாடம்",
+        "story_title_en": "Medicine — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'மருந்து' என்ற அதிகாரத்திலிருந்து குறள் 950 பற்றிக் கதை சொன்னார். 'நோயாளி, மருத்துவர், மருந்து, அதைத் தயாரிப்பவர் என மருந்து நான்கு வகைப்படும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 95, 'Medicine', centered on Kural 950: Medical science consists of four parts, viz, patient, physician, medicine and compounder; and each of these (again) contains four sub-divisions. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நோயாளி, மருத்துவர், மருந்து, அருகிருந்து துணைபுரிபவர் என மருத்துவமுறை நான்கு வகையாக அமைந்துள்ளது.",
+        "moral_en": "Moral: For patient, leech, and remedies, and him who waits by patient's side, The art of medicine must fourfold code of laws provide.",
+        "game_blank_word_ta": "கூற்றே",
+        "game_options_ta": [
+          "மிகினும்",
+          "குறையினும்",
+          "கூற்றே",
+          "நோய்செய்யும்"
+        ],
+        "game_options_en": [
+          "Wind, bile and phlegm three cause disease So doctors deem it more or less",
+          "After digestion one who feeds His body no medicine needs",
+          "Patient, doctor, medicine and nurse Are four-fold codes of treating course",
+          "Eat food to digestive measure Life in body lasts with pleasure"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மருந்து (அங்கவியல்) பிரிவில் அமைந்த குறள் 950, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நோயாளி, மருத்துவர், மருந்து, அதைத் தயாரிப்பவர் என மருந்து நான்கு வகைப்படும். கலைஞர் உரை கூறுவது: நோயாளி, மருத்துவர், மருந்து, அருகிருந்து துணைபுரிபவர் என மருத்துவமுறை நான்கு வகையாக அமைந்துள்ளது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Medicine (Ministers & Elements of State), Kural 950 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Medical science consists of four parts, viz, patient, physician, medicine and compounder; and each of these (again) contains four sub-divisions. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'மருந்து' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Medicine' thoughtfully.",
+        "quiz_question_ta": "'மருந்து' அதிகாரத்தில் வரும் திருக்குறள் 950 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 950 from Chapter 'Medicine'?",
+        "quiz_options_ta": [
+          "நீதியையும் நன்மையையும் விரும்பிப் பிறர்க்குப் பயன்பட வாழும் பெரியோரின் நல்லப் பண்பை உலகத்தார் போற்றிக் கொண்டாடுவர்.",
+          "ஒரு பலம் புழுதி கால்பலம் ஆகும்படி உழுது காயவிட்டால், ஒரு பிடி எருவும் இடவேண்டாமல் அந் நிலத்தில் பயிர் செலுத்தி செழித்து விளையும்.",
+          "நோயுற்றவன், நோய் தீர்க்கும் மருத்துவன், மருந்து, மருந்தை அங்கிருந்து கொடுப்பவன் என்று மருத்துவ முறை அந்த நான்குவகைப் பாகுபாடு உடையது.",
+          "கயவர், எதற்கு உரியவர், ஒரு துன்பம் வந்தடைந்த காலத்தில் அதற்காக தம்மை பிறர்க்கு விலையாக விற்றுவிடுவதற்கு உரியவர் ஆவர்."
+        ],
+        "quiz_options_en": [
+          "The world applauds those helpful men Whose actions are just and benign",
+          "Moulds dried to quarter-dust ensure Rich crops without handful manure",
+          "Patient, doctor, medicine and nurse Are four-fold codes of treating course",
+          "The base hasten to sell themselves From doom to flit and nothing else"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (மருந்து) பகுதியில் குறள் 950 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நோயுற்றவன், நோய் தீர்க்கும் மருத்துவன், மருந்து, மருந்தை அங்கிருந்து கொடுப்பவன் என்று மருத்துவ முறை அந்த நான்குவகைப் பாகுபாடு உடையது. பரிமேலழகர் உரை நுட்பம்: மருந்து - பிணிக்கு மருந்தாவது; உற்றவன்- அதனையுற்றவன்; தீர்ப்பான் - அதனைத் தீர்க்கும் மருத்துவன்; மருந்து - அவனுக்குக் கருவியாகிய மருந்து; உழைச் செல்வான் என்று அப்பால் நாற்கூற்று - அதனைப் பிழையாமல் இயற்றுவான் என்று சொல்லப்பட்ட நான்கு பகுதியையுடைய நான்கு...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 95: 'Medicine'), Kural 950 distills a foundational ethical insight: \"For patient, leech, and remedies, and him who waits by patient's side, The art of medicine must fourfold code of laws provide\" Philosophically, Medical science consists of four parts, viz, patient, physician, medicine and compounder; and each of these (again) contains four sub-divisions.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "justice"
+      ]
+    }
+  ]
+}

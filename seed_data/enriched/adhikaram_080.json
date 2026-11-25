@@ -1,0 +1,584 @@
+{
+  "adhikaram_id": 80,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.193684142+00:00",
+  "kurals": [
+    {
+      "kural_number": 791,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நட்புச் செய்தபிறகு நட்பை உடையவர்க்கு அதிலிருந்து விடுதலை இல்லை, ஆகையால் ஆராயாமல் நட்புச் செய்வது போல் கெடுதியானது வேறு இல்லை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: As those who are of a friendly nature will not forsake (a friend) after once loving (him), there is no evil so great as contracting a friendship without due inquiry.",
+        "story_title_ta": "நட்பாராய்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Investigation in forming Friendships — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பாராய்தல்' என்ற அதிகாரத்திலிருந்து குறள் 791 பற்றிக் கதை சொன்னார். 'விரும்பி நட்புச் செய்தவர்க்கு ஒருவருடன், நட்புக் கொண்ட பின் அந்த நட்பை விடுவது கடினம். அதனால் முன்பே ஒருவரைப் பற்றி நன்கு அறியாமல் நட்புக் கொள்வதைக் காட்டிலும் கேடு தருவது வேறு இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 80, 'Investigation in forming Friendships', centered on Kural 791: As those who are of a friendly nature will not forsake (a friend) after once loving (him), there is no evil so great as contracting a friendship without due inquiry. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஆராய்ந்து பாராமல் கொண்டிடும் தீய நட்பு, அந்த நட்பிலிருந்து விடுபட முடியாத அளவுக்குக் கேடுகளை உண்டாக்கும்.",
+        "moral_en": "Moral: To make an untried man your friend is ruin sure; For friendship formed unbroken must endure.",
+        "game_blank_word_ta": "நாடாது",
+        "game_options_ta": [
+          "ஆய்ந்தாய்ந்து",
+          "கொள்ளாதான்",
+          "கேண்மை",
+          "நாடாது"
+        ],
+        "game_options_en": [
+          "Friendship made without frequent test Shall end in grief and death at last",
+          "Temper, descent, defects and kins Trace well and take companions",
+          "Take as good friend at any price The nobly born who shun disgrace",
+          "Than testless friendship nought is worse For contacts formed will scarcely cease"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பாராய்தல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 791, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: விரும்பி நட்புச் செய்தவர்க்கு ஒருவருடன், நட்புக் கொண்ட பின் அந்த நட்பை விடுவது கடினம். அதனால் முன்பே ஒருவரைப் பற்றி நன்கு அறியாமல் நட்புக் கொள்வதைக் காட்டிலும் கேடு தருவது வேறு இல்லை. கலைஞர் உரை கூறுவது: ஆராய்ந்து பாராமல் கொண்டிடும் தீய நட்பு, அந்த நட்பிலிருந்து விடுபட முடியாத அளவுக்குக் கேடுகளை உண்டாக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Investigation in forming Friendships (Ministers & Elements of State), Kural 791 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As those who are of a friendly nature will not forsake (a friend) after once loving (him), there is no evil so great as contracting a friendship without due inquiry. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பாராய்தல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Investigation in forming Friendships' thoughtfully.",
+        "quiz_question_ta": "'நட்பாராய்தல்' அதிகாரத்தில் வரும் திருக்குறள் 791 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 791 from Chapter 'Investigation in forming Friendships'?",
+        "quiz_options_ta": [
+          "எழுப்பிறப்பிலும் தான் புகுந்து அழுந்துவதற்கு உரிய நரகத் துன்பத்தைப் பேதைத் தன் ஒருபிறவியில் செய்து கொள்ள வல்லவனாவான்.",
+          "செய்யும் வகையை அறிந்து தன்னை வலிமைப்படுத்திக் கொண்டு தற்காப்புத் தேடிக் கொண்டால், பகைவரிடத்தில் ஏற்பட்ட செருக்குத் தானாவே அழியும்.",
+          "கள்ளின் மேல் விருப்பம் கொண்டு நடப்பவர், எக்காலத்திலும் பகைவரால் அஞ்சப்படார், தமக்கு உள்ள புகழையும் இழந்து விடுவார்.",
+          "நட்புச் செய்தபிறகு நட்பை உடையவர்க்கு அதிலிருந்து விடுதலை இல்லை, ஆகையால் ஆராயாமல் நட்புச் செய்வது போல் கெடுதியானது வேறு இல்லை."
+        ],
+        "quiz_options_en": [
+          "The fool suffers seven fold hells In single birth of hellish ills",
+          "Know how and act and defend well The pride of enemies shall fall",
+          "Foes fear not who for toddy craze The addicts daily their glory lose",
+          "Than testless friendship nought is worse For contacts formed will scarcely cease"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பாராய்தல்) பகுதியில் குறள் 791 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நட்புச் செய்தபிறகு நட்பை உடையவர்க்கு அதிலிருந்து விடுதலை இல்லை, ஆகையால் ஆராயாமல் நட்புச் செய்வது போல் கெடுதியானது வேறு இல்லை. பரிமேலழகர் உரை நுட்பம்: நட்பு ஆள்பவர்க்கு நட்ட பின் வீடு இல்லை - நட்பினை விரும்பி அதன்கண்ணே நிற்பார்க்கு ஒருவனோடு நட்புச் செய்தபின் அவனை விடுதலுண்டாகாது; நாடாது நட்டலின் கேடு இல்லை - ஆகலான் ஆராயாது நட்புச் செய்தல்போலக் கேடுதருவது பிறிதில்லை. (ஆராய்தல் : குணம் செய்கைகளது நன்மையை...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 80: 'Investigation in forming Friendships'), Kural 791 distills a foundational ethical insight: \"To make an untried man your friend is ruin sure; For friendship formed unbroken must endure\" Philosophically, As those who are of a friendly nature will not forsake (a friend) after once loving (him), there is no evil so great as contracting a friendship without due inquiry.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 792,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஆராய்ந்து ஆராய்ந்து நட்புக் கொள்ளாதவனுடைய நட்பு, இறுதியில் தான் சாவதற்க்குக் காரணமானத் துயரத்தை உண்டாக்கிவிடும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The friendship contracted by him who has not made repeated inquiry will in the end grieve (him) to death.",
+        "story_title_ta": "நட்பாராய்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Investigation in forming Friendships — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பாராய்தல்' என்ற அதிகாரத்திலிருந்து குறள் 792 பற்றிக் கதை சொன்னார். 'ஒருவனது குணத்தையும் குற்றத்தையும் நன்கு எண்ணி நட்புக் கொள்ளாதவனுக்கு, அந்த நட்பு இறுதியில் அவன் சாவதற்கு ஏற்ற துன்பத்தைத் தரும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 80, 'Investigation in forming Friendships', centered on Kural 792: The friendship contracted by him who has not made repeated inquiry will in the end grieve (him) to death. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: திரும்பத் திரும்ப ஆராய்ந்து பார்க்காமல் ஏற்படுத்திக் கொள்கிற நட்பு, கடைசியாக ஒருவர் சாவுக்குக் காரணமாகிற அளவுக்குத் துயரத்தை உண்டாக்கி விடும்.",
+        "moral_en": "Moral: Alliance with the man you have not proved and proved again, In length of days will give you mortal pain.",
+        "game_blank_word_ta": "கொள்ளாதான்",
+        "game_options_ta": [
+          "கொள்ளாதான்",
+          "நாடாது",
+          "நட்டலிற்",
+          "கேடில்லை"
+        ],
+        "game_options_en": [
+          "Friendship made without frequent test Shall end in grief and death at last",
+          "Than testless friendship nought is worse For contacts formed will scarcely cease",
+          "Temper, descent, defects and kins Trace well and take companions",
+          "Take as good friend at any price The nobly born who shun disgrace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பாராய்தல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 792, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவனது குணத்தையும் குற்றத்தையும் நன்கு எண்ணி நட்புக் கொள்ளாதவனுக்கு, அந்த நட்பு இறுதியில் அவன் சாவதற்கு ஏற்ற துன்பத்தைத் தரும். கலைஞர் உரை கூறுவது: திரும்பத் திரும்ப ஆராய்ந்து பார்க்காமல் ஏற்படுத்திக் கொள்கிற நட்பு, கடைசியாக ஒருவர் சாவுக்குக் காரணமாகிற அளவுக்குத் துயரத்தை உண்டாக்கி விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Investigation in forming Friendships (Ministers & Elements of State), Kural 792 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The friendship contracted by him who has not made repeated inquiry will in the end grieve (him) to death. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பாராய்தல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Investigation in forming Friendships' thoughtfully.",
+        "quiz_question_ta": "'நட்பாராய்தல்' அதிகாரத்தில் வரும் திருக்குறள் 792 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 792 from Chapter 'Investigation in forming Friendships'?",
+        "quiz_options_ta": [
+          "ஆராய்ந்து ஆராய்ந்து நட்புக் கொள்ளாதவனுடைய நட்பு, இறுதியில் தான் சாவதற்க்குக் காரணமானத் துயரத்தை உண்டாக்கிவிடும்.",
+          "ஒழுக்க நெறி அறியத பேதை ஒருச் செயலை மேற்கொண்டால் (அந்த செயல் முடிவுபெறாமல்) பொய்படும், அன்றியும் அவன் குற்றவாளியாகித் தளை பூணுவான்.",
+          "முள் மரத்தை இளையதாக இருக்கும் போதே வெட்ட வேண்டும், காழ்ப்பு ஏறி முதிர்ந்த போது வெட்டுகின்றவரின் கையை அது வருத்தும்.",
+          "கள்ளை உண்ணக் கூடாது, சான்றோரால் நன்கு எண்ணப்படுவதை விரும்பாதவர் கள்ளை உண்ண வேண்டுமானால் உண்ணலாம்."
+        ],
+        "quiz_options_en": [
+          "Friendship made without frequent test Shall end in grief and death at last",
+          "A know-nothing fool daring a deed Not only fails but feels fettered",
+          "Cut off thorn-trees when young they are; Grown hard, they cut your hands beware",
+          "Drink not liquor; but let them drink Whom with esteem the wise won't think"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பாராய்தல்) பகுதியில் குறள் 792 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஆராய்ந்து ஆராய்ந்து நட்புக் கொள்ளாதவனுடைய நட்பு, இறுதியில் தான் சாவதற்க்குக் காரணமானத் துயரத்தை உண்டாக்கிவிடும். பரிமேலழகர் உரை நுட்பம்: ஆய்ந்து ஆய்ந்து கேண்மை கொள்ளாதான் - குணமும் செய்கையும் நல்லன் என்பது பலகாலும் பலவாற்றானும் ஆராய்ந்து, ஒருவனோடு நட்புக்கொள்ளாதவன்; கடைமுறை தான்சாம் துயரம் தரும் - முடிவில் தான் சாதற்கு ஏதுவாகிய துன்பத்தினைத் தன் மாற்றார் விளைக்க வேண்டாமல் தானே விளைக்கும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 80: 'Investigation in forming Friendships'), Kural 792 distills a foundational ethical insight: \"Alliance with the man you have not proved and proved again, In length of days will give you mortal pain\" Philosophically, The friendship contracted by him who has not made repeated inquiry will in the end grieve (him) to death.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "justice",
+        "education",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 793,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவனுடைய குணத்தையும், குடிப்பிறப்பையும் குற்றத்தையும் குறையாத இனத்தாரின் இயல்பையும் அறிந்து அவனேடு நட்புக் கொள்ள வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Make friendship (with one) after ascertaining (his) character, birth, defects and the whole of one's relations.",
+        "story_title_ta": "நட்பாராய்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Investigation in forming Friendships — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பாராய்தல்' என்ற அதிகாரத்திலிருந்து குறள் 793 பற்றிக் கதை சொன்னார். 'ஒருவனது குணம், குடும்பப் பிறப்பு, குற்றம், குறையாத சுற்றம் ஆகியவற்றை அறிந்து நட்புக் கொள்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 80, 'Investigation in forming Friendships', centered on Kural 793: Make friendship (with one) after ascertaining (his) character, birth, defects and the whole of one's relations. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: குணமென்ன? குடிப்பிறப்பு எத்தகையது? குற்றங்கள் யாவை? குறையாத இயல்புகள் எவை? என்று அனைத்தையும் அறிந்தே ஒருவருடன் நட்புக் கொள்ள வேண்டும்.",
+        "moral_en": "Moral: Temper, descent, defects, associations freeFrom blame: know these, then let the man be friend to thee.",
+        "game_blank_word_ta": "குற்றமும்",
+        "game_options_ta": [
+          "நாடாது",
+          "குற்றமும்",
+          "நட்டலிற்",
+          "கேடில்லை"
+        ],
+        "game_options_en": [
+          "Than testless friendship nought is worse For contacts formed will scarcely cease",
+          "Temper, descent, defects and kins Trace well and take companions",
+          "Friendship made without frequent test Shall end in grief and death at last",
+          "Take as good friend at any price The nobly born who shun disgrace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பாராய்தல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 793, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவனது குணம், குடும்பப் பிறப்பு, குற்றம், குறையாத சுற்றம் ஆகியவற்றை அறிந்து நட்புக் கொள்க. கலைஞர் உரை கூறுவது: குணமென்ன? குடிப்பிறப்பு எத்தகையது? குற்றங்கள் யாவை? குறையாத இயல்புகள் எவை? என்று அனைத்தையும் அறிந்தே ஒருவருடன் நட்புக் கொள்ள வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Investigation in forming Friendships (Ministers & Elements of State), Kural 793 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Make friendship (with one) after ascertaining (his) character, birth, defects and the whole of one's relations. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பாராய்தல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Investigation in forming Friendships' thoughtfully.",
+        "quiz_question_ta": "'நட்பாராய்தல்' அதிகாரத்தில் வரும் திருக்குறள் 793 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 793 from Chapter 'Investigation in forming Friendships'?",
+        "quiz_options_ta": [
+          "பேதை பெருஞ் செல்வம் அடைந்த போது ( அவனோடு தொடர்பில்லாத) அயலார் நிறைய நன்மை பெற, அவனுடைய சுற்றத்தார் வருந்துவர்.",
+          "ஒருவனுடைய குணத்தையும், குடிப்பிறப்பையும் குற்றத்தையும் குறையாத இனத்தாரின் இயல்பையும் அறிந்து அவனேடு நட்புக் கொள்ள வேண்டும்.",
+          "பகைத்தவருடையத் தலைமையைக் கொடுக்க முடியாதவர் திண்ணமாக மூச்சு விடும் அளவிற்கும் உயிரோடு வாழ்கின்றவர் அல்லர்.",
+          "பெற்றதாயின் முகத்திலும் கள்ளுண்டு மயங்குதல் துன்பம் தருவதாகும், அப்படியானால் குற்றம் கடியும் இயல்புடைய சான்றோரின் முகத்தில் அது எண்ணவாகும்."
+        ],
+        "quiz_options_en": [
+          "Strangers feast and kinsmen fast When fools mishandle fortunes vast",
+          "Temper, descent, defects and kins Trace well and take companions",
+          "To breathe on earth they are not fit Defying foes who don't defeat",
+          "The drunkard's joy pains ev'n mother's face How vile must it look for the wise?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பாராய்தல்) பகுதியில் குறள் 793 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவனுடைய குணத்தையும், குடிப்பிறப்பையும் குற்றத்தையும் குறையாத இனத்தாரின் இயல்பையும் அறிந்து அவனேடு நட்புக் கொள்ள வேண்டும். பரிமேலழகர் உரை நுட்பம்: குணனும் குடிமையும் குற்றமும் குன்றா இனனும் அறிந்து - ஒருவன் குணத்தினையும் குடிப்பிறப்பினையும் குற்றத்தினையும் குறைவற்ற சுற்றத்தினையும் ஆராய்ந்தறிந்து; நட்பு யாக்க -அவனோடு நட்புச் செய்க. (குற்றமில்லாதார் உலகத்து இன்மையின் உள்ளது பொறுக்கப்படுவதாயின் அவர் நட்பு...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 80: 'Investigation in forming Friendships'), Kural 793 distills a foundational ethical insight: \"Temper, descent, defects, associations freeFrom blame: know these, then let the man be friend to thee\" Philosophically, Make friendship (with one) after ascertaining (his) character, birth, defects and the whole of one's relations.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "family",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 794,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: உயர்ந்த குடியில் பிறந்து, தன்னிடத்தில் வருகின்றப் பழிக்கு நாணுகின்றவனைப் பொருள் கொடுத்தாவது நட்பு கொள்ளவேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The friendship of one who belongs to a (good) family and is afraid of (being charged with) guilt, is worth even purchasing.",
+        "story_title_ta": "நட்பாராய்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Investigation in forming Friendships — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பாராய்தல்' என்ற அதிகாரத்திலிருந்து குறள் 794 பற்றிக் கதை சொன்னார். 'நல்ல குடியில் பிறந்து தன்மீது சொல்லப்படும் பழிக்கு அஞ்சு பவனின் நட்பை விலை கொடுத்தாவது கொள்ள வேண்டும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 80, 'Investigation in forming Friendships', centered on Kural 794: The friendship of one who belongs to a (good) family and is afraid of (being charged with) guilt, is worth even purchasing. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பழிவந்து சேரக் கூடாது என்ற அச்ச உணர்வுடன் நடக்கும் பண்பார்ந்த குடியில் பிறந்தவருடைய நட்பை எந்த வகையிலாவது பெற்றிருப்பது பெரும் சிறப்புக்குரியதாகும்.",
+        "moral_en": "Moral: Who, born of noble race, from guilt would shrink with shame, Pay any price so you as friend that man may claim.",
+        "game_blank_word_ta": "வானைக்",
+        "game_options_ta": [
+          "நாடாது",
+          "நட்டலிற்",
+          "வானைக்",
+          "கேடில்லை"
+        ],
+        "game_options_en": [
+          "Than testless friendship nought is worse For contacts formed will scarcely cease",
+          "Friendship made without frequent test Shall end in grief and death at last",
+          "Take as good friend at any price The nobly born who shun disgrace",
+          "Temper, descent, defects and kins Trace well and take companions"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பாராய்தல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 794, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்ல குடியில் பிறந்து தன்மீது சொல்லப்படும் பழிக்கு அஞ்சு பவனின் நட்பை விலை கொடுத்தாவது கொள்ள வேண்டும். கலைஞர் உரை கூறுவது: பழிவந்து சேரக் கூடாது என்ற அச்ச உணர்வுடன் நடக்கும் பண்பார்ந்த குடியில் பிறந்தவருடைய நட்பை எந்த வகையிலாவது பெற்றிருப்பது பெரும் சிறப்புக்குரியதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Investigation in forming Friendships (Ministers & Elements of State), Kural 794 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The friendship of one who belongs to a (good) family and is afraid of (being charged with) guilt, is worth even purchasing. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பாராய்தல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Investigation in forming Friendships' thoughtfully.",
+        "quiz_question_ta": "'நட்பாராய்தல்' அதிகாரத்தில் வரும் திருக்குறள் 794 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 794 from Chapter 'Investigation in forming Friendships'?",
+        "quiz_options_ta": [
+          "பேதை தன் கையில் ஒரு பொருள் பெற்றால் (அவன் நிலைமை) பித்து பிடித்த ஒருவன் கள்குடித்து மயங்கினார் போன்றதாகும்.",
+          "இன்பம் தரும் நிழலும் நீரும் நோய் செய்வனவாக இருந்தால் தீயனவே ஆகும், அதுபோலவே சுற்றத்தாறின் தன்மைகளும் துன்பம் தருவானால் தீயனவே ஆகும்.",
+          "உயர்ந்த குடியில் பிறந்து, தன்னிடத்தில் வருகின்றப் பழிக்கு நாணுகின்றவனைப் பொருள் கொடுத்தாவது நட்பு கொள்ளவேண்டும்.",
+          "நாணம் என்று சொல்லப்படும் நல்லவள், கள் என்று சொல்லப்படும் விரும்பத்தக்காத பெருங்குற்றம் உடையவர்க்கு எதிரே நிற்காமல் செய்வாள்."
+        ],
+        "quiz_options_en": [
+          "Fools possessing something on hand Like dazed and drunken stupids stand",
+          "Traitorous kinsmen will make you sad As water and shade do harm when bad",
+          "Take as good friend at any price The nobly born who shun disgrace",
+          "Good shame turns back from him ashamed Who is guilty of wine condemned"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பாராய்தல்) பகுதியில் குறள் 794 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உயர்ந்த குடியில் பிறந்து, தன்னிடத்தில் வருகின்றப் பழிக்கு நாணுகின்றவனைப் பொருள் கொடுத்தாவது நட்பு கொள்ளவேண்டும். பரிமேலழகர் உரை நுட்பம்: குடிப்பிறந்து தன்கண் பழி நாணுவானை - உயர்ந்த குடியின்கண் பிறந்து தன்மாட்டு உலகர் சொல்லும் பழிக்கஞ்சுவானை; கொடுத்தும் நட்புக் கொளல் வேண்டும் - சில கொடுத்தாயினும் நட்புக் கோடல் சிறந்தது. (குடிப்பிறப்பால் தான் பிழை செய்யாமையும், பழியைஅஞ்சலான் பிழைத்தன பொறுத்தலும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 80: 'Investigation in forming Friendships'), Kural 794 distills a foundational ethical insight: \"Who, born of noble race, from guilt would shrink with shame, Pay any price so you as friend that man may claim\" Philosophically, The friendship of one who belongs to a (good) family and is afraid of (being charged with) guilt, is worth even purchasing.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "family",
+        "speech",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 795,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நன்மை இல்லாதச் சொற்களைக் கண்டபோது வருந்தும்படியாக இடிந்துச் சொல்லி, உலகநடையை அறிய வல்லவரின் நட்பை ஆராய்ப்து கொள்ள வேண்டும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: You should examine and secure the friendship of those who can speak so as to make you weep over a crime (before its commission) or rebuke you severely (after you have done it) and are able to teach.",
+        "story_title_ta": "நட்பாராய்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Investigation in forming Friendships — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பாராய்தல்' என்ற அதிகாரத்திலிருந்து குறள் 795 பற்றிக் கதை சொன்னார். 'நாம் தவறு செய்ய எண்ணினால் நம் மனம் நோகச் சொல்லியும் செய்து விட்டால் கண்டித்தும், உலக வழக்கினை அறிந்து செய்யும் ஆற்றலைப் பெற்றும் உள்ளவரை அறிந்து அவர் நட்பைக் கொள்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 80, 'Investigation in forming Friendships', centered on Kural 795: You should examine and secure the friendship of those who can speak so as to make you weep over a crime (before its commission) or rebuke you severely (after you have done it) and are able to teach. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தவறு செய்கின்றவர் கண்ணீர் விடுமளவுக்குக் கண்டித்து, அறிவுரை வழங்கக் கூடிய ஆற்றலுடையவரின் நட்பையே தெளிவான நட்பாக எண்ண வேண்டும்.",
+        "moral_en": "Moral: Make them your chosen friend whose words repentance move, With power prescription's path to show, while evil they reprove.",
+        "game_blank_word_ta": "வல்லார்நடபு",
+        "game_options_ta": [
+          "நாடாது",
+          "நட்டலிற்",
+          "கேடில்லை",
+          "வல்லார்நடபு"
+        ],
+        "game_options_en": [
+          "Than testless friendship nought is worse For contacts formed will scarcely cease",
+          "Friendship made without frequent test Shall end in grief and death at last",
+          "Temper, descent, defects and kins Trace well and take companions",
+          "Who make you weep and chide wrong trends And lead you right are worthy friends"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பாராய்தல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 795, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாம் தவறு செய்ய எண்ணினால் நம் மனம் நோகச் சொல்லியும் செய்து விட்டால் கண்டித்தும், உலக வழக்கினை அறிந்து செய்யும் ஆற்றலைப் பெற்றும் உள்ளவரை அறிந்து அவர் நட்பைக் கொள்க. கலைஞர் உரை கூறுவது: தவறு செய்கின்றவர் கண்ணீர் விடுமளவுக்குக் கண்டித்து, அறிவுரை வழங்கக் கூடிய ஆற்றலுடையவரின் நட்பையே தெளிவான நட்பாக எண்ண வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Investigation in forming Friendships (Ministers & Elements of State), Kural 795 speaks directly to teens navigating studies, friendships, leadership, and digital choices: You should examine and secure the friendship of those who can speak so as to make you weep over a crime (before its commission) or rebuke you severely (after you have done it) and are able to teach. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பாராய்தல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Investigation in forming Friendships' thoughtfully.",
+        "quiz_question_ta": "'நட்பாராய்தல்' அதிகாரத்தில் வரும் திருக்குறள் 795 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 795 from Chapter 'Investigation in forming Friendships'?",
+        "quiz_options_ta": [
+          "பேதையிரிடமிருந்து பிரிவு நேர்ந்த போது, அப்பிரிவு துன்பம் ஒன்றும் தருவதில்லை, ஆகையால் பேதையரிடம் கொள்ளும் நட்பு மிக இனியதாகும்.",
+          "வாளைப்போல் வெளிப்படையான பகைவர்க்கு அஞ்ச வேண்டியதில்லை, ஆனால் உறவினரைப் போல் இருந்து உட்பகை கொண்டவரின் தொடர்புக்கு அஞ்ச வேண்டும்.",
+          "விளைப் பொருள் கொடுத்து கள்ளுண்டு தன் உடம்பைத் தான் அறியாத நிலையை மேற்கொள்ளுதல், செய்வது இன்னதென்று அறியாத அறியாமை உடையதாகும்.",
+          "நன்மை இல்லாதச் சொற்களைக் கண்டபோது வருந்தும்படியாக இடிந்துச் சொல்லி, உலகநடையை அறிய வல்லவரின் நட்பை ஆராய்ப்து கொள்ள வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Friendship with fools is highly sweet For without a groan we part",
+          "You need not sword-like kinsmen fear Fear foes who feign as kinsmen dear",
+          "To pay and drink and lose the sense Is nothing but rank ignorance",
+          "Who make you weep and chide wrong trends And lead you right are worthy friends"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பாராய்தல்) பகுதியில் குறள் 795 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நன்மை இல்லாதச் சொற்களைக் கண்டபோது வருந்தும்படியாக இடிந்துச் சொல்லி, உலகநடையை அறிய வல்லவரின் நட்பை ஆராய்ப்து கொள்ள வேண்டும். பரிமேலழகர் உரை நுட்பம்: அல்லது அழச்சொல்லி - தாம் உலக வழக்கல்லது செய்யக்கருதின் சோகம் பிறக்கும்வகை சொல்லி விலக்கியும்; இடித்து - செய்தக்கால் பின்னும் செய்யாவகை நெருக்கியும்; வழக்கு அறிய வல்லார் - அவ்வழக்குச் செய்யாவழிச் செய்விக்கவும் வல்லாரை; ஆய்ந்து நட்புக் கொளல் - ஆராய்ந்து நட்புக...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 80: 'Investigation in forming Friendships'), Kural 795 distills a foundational ethical insight: \"Make them your chosen friend whose words repentance move, With power prescription's path to show, while evil they reprove\" Philosophically, You should examine and secure the friendship of those who can speak so as to make you weep over a crime (before its commission) or rebuke you severely (after you have done it) and are able to teach.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "friendship",
+        "education",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 796,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கேடு வந்த போதும் ஒருவகை நன்மை உண்டு, அக் கேடு ஒருவனுடைய நண்பரின் இயல்புகளை நீட்டிஅளந்து பார்ப்பதொரு கோலாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Even in ruin there is some good; (for) it is a rod by which one may measure fully (the affection of one's) relations.",
+        "story_title_ta": "நட்பாராய்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Investigation in forming Friendships — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பாராய்தல்' என்ற அதிகாரத்திலிருந்து குறள் 796 பற்றிக் கதை சொன்னார். 'எவன் நமக்கு உற்ற நண்பன் என்பதை நீட்டி அளந்து கொள்ளும் அறிவு நம் துன்பத்தில் உண்டு.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 80, 'Investigation in forming Friendships', centered on Kural 796: Even in ruin there is some good; (for) it is a rod by which one may measure fully (the affection of one's) relations. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தீமை வந்தால் அதிலும் ஒரு நன்மை உண்டு அந்தத் தீமைதான் நண்பர்கள் எப்படிப்பட்டவர்கள் என்று அளந்து காட்டும் கருவியாகிறது.",
+        "moral_en": "Moral: Ruin itself one blessing lends:'Tis staff that measures out one's friends.",
+        "game_blank_word_ta": "நீட்டி",
+        "game_options_ta": [
+          "நீட்டி",
+          "நாடாது",
+          "நட்டலிற்",
+          "கேடில்லை"
+        ],
+        "game_options_en": [
+          "Is there a test like misfortune A rod to measure out kinsmen?",
+          "Than testless friendship nought is worse For contacts formed will scarcely cease",
+          "Friendship made without frequent test Shall end in grief and death at last",
+          "Temper, descent, defects and kins Trace well and take companions"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பாராய்தல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 796, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எவன் நமக்கு உற்ற நண்பன் என்பதை நீட்டி அளந்து கொள்ளும் அறிவு நம் துன்பத்தில் உண்டு. கலைஞர் உரை கூறுவது: தீமை வந்தால் அதிலும் ஒரு நன்மை உண்டு அந்தத் தீமைதான் நண்பர்கள் எப்படிப்பட்டவர்கள் என்று அளந்து காட்டும் கருவியாகிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Investigation in forming Friendships (Ministers & Elements of State), Kural 796 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even in ruin there is some good; (for) it is a rod by which one may measure fully (the affection of one's) relations. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பாராய்தல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Investigation in forming Friendships' thoughtfully.",
+        "quiz_question_ta": "'நட்பாராய்தல்' அதிகாரத்தில் வரும் திருக்குறள் 796 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 796 from Chapter 'Investigation in forming Friendships'?",
+        "quiz_options_ta": [
+          "கேடு வந்த போதும் ஒருவகை நன்மை உண்டு, அக் கேடு ஒருவனுடைய நண்பரின் இயல்புகளை நீட்டிஅளந்து பார்ப்பதொரு கோலாகும்.",
+          "சான்றோரின் கூட்டத்தில் பேதை புகுதல், ஒருவன் தூய்மையில்லாதவற்றை மிதித்துக் கழுவாதக் காலைப் படுக்கையில் வைத்தாற் போன்றது.",
+          "உட்பகைக்கு அஞ்சி ஒருவன் தன்னைக் காத்துக்கொள்ள வேண்டும், தளர்ச்சி வந்த போது மட்கலத்தை அறுக்கும் கருவி போல் அந்த உட்பகை தவறாமல் அழிவு செய்யும்.",
+          "உறங்கினவர் இறந்தவரை விட வேறுபட்டவர் அல்லர், அவ்வாறே கள்ளுண்பவரும் அறிவுமயங்குதலால் நஞ்சு உண்பவரே ஆவர்."
+        ],
+        "quiz_options_en": [
+          "Is there a test like misfortune A rod to measure out kinsmen?",
+          "Entrance of fools where Savants meet Looks like couch trod by unclean feet",
+          "The secret foe in days evil Will cut you, beware, like potters' steel",
+          "They take poison who take toddy And doze ev'n like a dead body"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பாராய்தல்) பகுதியில் குறள் 796 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கேடு வந்த போதும் ஒருவகை நன்மை உண்டு, அக் கேடு ஒருவனுடைய நண்பரின் இயல்புகளை நீட்டிஅளந்து பார்ப்பதொரு கோலாகும். பரிமேலழகர் உரை நுட்பம்: கிளைஞரை நீட்டி அளப்பது ஓர் கோல் - ஒருவனுக்குக் கேடு என்பது தன் நட்டாராகிய புலங்களை எஞ்சாமல் அளப்பதோர் கோல்; கேட்டினும் ஓர் உறுதி உண்டு - ஆகலின் அதன்கண்ணும் அவனால் பெறப்படுவதோர் நல்லறிவு உண்டு. (தத்தம் நட்பெல்லைகள் சுருங்கியிருக்கவும் செல்வக்காலத்துப...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 80: 'Investigation in forming Friendships'), Kural 796 distills a foundational ethical insight: \"Ruin itself one blessing lends:'Tis staff that measures out one's friends\" Philosophically, Even in ruin there is some good; (for) it is a rod by which one may measure fully (the affection of one's) relations.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "ethics",
+        "family",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 797,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவனுக்கு ஊதியம் என்று சொல்லப்படுவது, அறிவில்லாதவறுடன் செய்து கொண்ட நட்பிலிருந்து நீங்கி அவரைக் கைவிடுதலாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: It is indead a gain for one to renounce the friendship of fools.",
+        "story_title_ta": "நட்பாராய்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Investigation in forming Friendships — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பாராய்தல்' என்ற அதிகாரத்திலிருந்து குறள் 797 பற்றிக் கதை சொன்னார். 'அறிவில்லாதவரோடு கொண்ட நட்பை விட்டு விடுவது, ஒருவனுக்கு இலாபம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 80, 'Investigation in forming Friendships', centered on Kural 797: It is indead a gain for one to renounce the friendship of fools. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவருக்குக் கிடைத்த நற்பயன் என்பது அவர் அறிவில்லாத ஒருவருடன் கொண்டிருந்த நட்பைத் துறந்து விடுவதேயாகும்.",
+        "moral_en": "Moral: 'Tis gain to any man, the sages say, Friendship of fools to put away.",
+        "game_blank_word_ta": "விடல்",
+        "game_options_ta": [
+          "நாடாது",
+          "விடல்",
+          "நட்டலிற்",
+          "கேடில்லை"
+        ],
+        "game_options_en": [
+          "Than testless friendship nought is worse For contacts formed will scarcely cease",
+          "Keep off contacts with fools; that is The greatest gain so say the wise",
+          "Friendship made without frequent test Shall end in grief and death at last",
+          "Temper, descent, defects and kins Trace well and take companions"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பாராய்தல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 797, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறிவில்லாதவரோடு கொண்ட நட்பை விட்டு விடுவது, ஒருவனுக்கு இலாபம். கலைஞர் உரை கூறுவது: ஒருவருக்குக் கிடைத்த நற்பயன் என்பது அவர் அறிவில்லாத ஒருவருடன் கொண்டிருந்த நட்பைத் துறந்து விடுவதேயாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Investigation in forming Friendships (Ministers & Elements of State), Kural 797 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is indead a gain for one to renounce the friendship of fools. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பாராய்தல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Investigation in forming Friendships' thoughtfully.",
+        "quiz_question_ta": "'நட்பாராய்தல்' அதிகாரத்தில் வரும் திருக்குறள் 797 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 797 from Chapter 'Investigation in forming Friendships'?",
+        "quiz_options_ta": [
+          "அறியாமையே இல்லாமைப் பலவற்றுளளும் கொடிய இல்லாமையாகும், மற்ற இல்லாமைகளை உலகம் அத்தகைய இல்லாமையாகக் கருதாது.",
+          "ஒருவனுக்கு ஊதியம் என்று சொல்லப்படுவது, அறிவில்லாதவறுடன் செய்து கொண்ட நட்பிலிருந்து நீங்கி அவரைக் கைவிடுதலாகும்.",
+          "மனம் திறந்தாத உட்பகை ஒருவனுக்கு உண்டாகுமானால், அது அவனுக்குச் சுற்றம் சிர்படாமைக்கு காரணமான குற்றம் பலவற்றைத் தரும்.",
+          "கள்ளை மறைந்திருந்து குடித்து அறிவு மயங்குபவர், உள்ளூரில் வாழ்கின்றவரால் உள்ளான செய்திகள் ஆராயப்பட்டு எந்நாளும் சிரிக்கப்படும்."
+        ],
+        "quiz_options_en": [
+          "Want of wisdom is want of wants Want of aught else the world nev'r counts",
+          "Keep off contacts with fools; that is The greatest gain so say the wise",
+          "The evil-minded foe within Foments trouble, spoils kinsmen!",
+          "The secret drunkards' senses off Make the prying public laugh"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பாராய்தல்) பகுதியில் குறள் 797 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவனுக்கு ஊதியம் என்று சொல்லப்படுவது, அறிவில்லாதவறுடன் செய்து கொண்ட நட்பிலிருந்து நீங்கி அவரைக் கைவிடுதலாகும். பரிமேலழகர் உரை நுட்பம்: ஒருவற்கு ஊதியம் என்பது - ஒருவனுக்குப் பேறு என்று சொல்லப்படுவது; பேதையார் கேண்மை ஒரீஇ விடல் - அறிவிலாரோடு நட்புக் கொண்டானாயின் அதனை ஒழிந்து அவரின் நீங்குதல். (நட்பு ஒழிந்தாலும் நீங்காக்கால் 'வெறிகமழ் சந்தனமும் வேங்கையும் வே' மாறு போலத் (நாலடி.180...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 80: 'Investigation in forming Friendships'), Kural 797 distills a foundational ethical insight: \"'Tis gain to any man, the sages say, Friendship of fools to put away\" Philosophically, It is indead a gain for one to renounce the friendship of fools.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "wisdom",
+        "wealth",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 798,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஊக்கம் குறைவதற்குக் காரணமான செயல்களை எண்ணாமலிருக்க வேண்டும், அதுபோல் துன்பம் வந்த போது கைவிடுகின்றவரின் நட்பைக் கொள்ளாதிருக்க வேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Do not think of things that discourage your mind, nor contract friendship with those who would forsake you in adversity.",
+        "story_title_ta": "நட்பாராய்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Investigation in forming Friendships — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பாராய்தல்' என்ற அதிகாரத்திலிருந்து குறள் 798 பற்றிக் கதை சொன்னார். 'உற்சாகம் குறைவதற்கான செயல்களை எண்ண வேண்டா; நம் துன்பக் காலத்தில் நம்மைக் கைவிட்டு விடுபவரின் நட்பைக் கொள்ள வேண்டா.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 80, 'Investigation in forming Friendships', centered on Kural 798: Do not think of things that discourage your mind, nor contract friendship with those who would forsake you in adversity. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஊக்கத்தைச் சிதைக்கக்கூடிய செயல்களையும், துன்பம் வரும்போது விலகிவிடக்கூடிய நண்பர்களையும் நினைத்துப் பார்ககாமலே இருந்து விட வேண்டும்.",
+        "moral_en": "Moral: Think not the thoughts that dwarf the soul; nor takeFor friends the men who friends in time of grief forsake.",
+        "game_blank_word_ta": "உள்ளற்க",
+        "game_options_ta": [
+          "நாடாது",
+          "நட்டலிற்",
+          "உள்ளற்க",
+          "கேடில்லை"
+        ],
+        "game_options_en": [
+          "Than testless friendship nought is worse For contacts formed will scarcely cease",
+          "Friendship made without frequent test Shall end in grief and death at last",
+          "Off with thoughts that depress the heart Off with friends that in woe depart",
+          "Temper, descent, defects and kins Trace well and take companions"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பாராய்தல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 798, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உற்சாகம் குறைவதற்கான செயல்களை எண்ண வேண்டா; நம் துன்பக் காலத்தில் நம்மைக் கைவிட்டு விடுபவரின் நட்பைக் கொள்ள வேண்டா. கலைஞர் உரை கூறுவது: ஊக்கத்தைச் சிதைக்கக்கூடிய செயல்களையும், துன்பம் வரும்போது விலகிவிடக்கூடிய நண்பர்களையும் நினைத்துப் பார்ககாமலே இருந்து விட வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Investigation in forming Friendships (Ministers & Elements of State), Kural 798 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Do not think of things that discourage your mind, nor contract friendship with those who would forsake you in adversity. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பாராய்தல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Investigation in forming Friendships' thoughtfully.",
+        "quiz_question_ta": "'நட்பாராய்தல்' அதிகாரத்தில் வரும் திருக்குறள் 798 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 798 from Chapter 'Investigation in forming Friendships'?",
+        "quiz_options_ta": [
+          "அறிவில்லாதவவன் மனம் மகிழ்ந்து ஒரு பொருளைக் கொடுத்தலுக்கு காரணம், வேறொன்றும் இல்லை, அப் பொருளைப் பெறுகின்றவனுடைய நல்வினையே ஆகும்.",
+          "உறவுமுறையோடு உட்பகை உண்டாகுமானால், அது ஒருவனுக்கு இறக்கும் வகையான துன்பம் பலவற்றையும் கொடுக்கும்.",
+          "ஊக்கம் குறைவதற்குக் காரணமான செயல்களை எண்ணாமலிருக்க வேண்டும், அதுபோல் துன்பம் வந்த போது கைவிடுகின்றவரின் நட்பைக் கொள்ளாதிருக்க வேண்டும்.",
+          "கள்ளுண்பவன் யான் ஒருபோதும் கள்ளுண்டறியேன் என்று சொல்வதை விட வேண்டும், நெஞ்சில் ஒளிந்திருந்த குற்றமும் கள்ளுண்டபோதே வெளிப்படும்."
+        ],
+        "quiz_options_en": [
+          "When fool bestows with glee a gift It comes but by getter's merit",
+          "A traitor among kinsmen will Bring life-endangering evil",
+          "Off with thoughts that depress the heart Off with friends that in woe depart",
+          "Don't say I'm not a drunkard hard The hidden fraud is known abroad"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பாராய்தல்) பகுதியில் குறள் 798 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஊக்கம் குறைவதற்குக் காரணமான செயல்களை எண்ணாமலிருக்க வேண்டும், அதுபோல் துன்பம் வந்த போது கைவிடுகின்றவரின் நட்பைக் கொள்ளாதிருக்க வேண்டும். பரிமேலழகர் உரை நுட்பம்: உள்ளம் சிறுகுவ உள்ளற்க - தம் ஊக்கம் சுருங்குவதற்குக் காரணமாய வினைகளைச் செய்ய நினையாதொழிக; அல்லற்கண் ஆற்று அறுப்பார் நட்புக் கொள்ளற்க - அதுபோலத் தமக்கு ஒரு துன்பம் வந்துழிக் கைவிடுவார் நட்பினைக் கொள்ளாதொழிக. (உள்ளம் சிறுகுவ ஆவன, தம்மின் வலியாரோடு தொடங்கியனவும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 80: 'Investigation in forming Friendships'), Kural 798 distills a foundational ethical insight: \"Think not the thoughts that dwarf the soul; nor takeFor friends the men who friends in time of grief forsake\" Philosophically, Do not think of things that discourage your mind, nor contract friendship with those who would forsake you in adversity.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "love",
+        "courage",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 799,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: கேடு வரும் காலத்தில் கைவிட்டு ஒதுங்குகின்றவரின் நட்பு, எமன் கொல்லும் காலத்தில் நினைத்தாலும் நினைத்த உள்ளத்தை வருத்தும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The very thought of the friendship of those who have deserted one at the approach of adversity will burn one's mind at the time of death.",
+        "story_title_ta": "நட்பாராய்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Investigation in forming Friendships — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பாராய்தல்' என்ற அதிகாரத்திலிருந்து குறள் 799 பற்றிக் கதை சொன்னார். 'கெடும்போது நம்மைக் கைவிட்டவரின் நட்பை நாம் சாகின்ற போது நினைத்தாலும் நம் நெஞ்சம் சுடும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 80, 'Investigation in forming Friendships', centered on Kural 799: The very thought of the friendship of those who have deserted one at the approach of adversity will burn one's mind at the time of death. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவர் கொலைக்கு ஆளாகும் போது கூட, தனக்குக் கேடு வந்த நேரம் கைவிட்டு ஒதுங்கி ஓடிவிட்ட நண்பர்களை நினைத்து விட்டால் அந்த நினைப்பு அவரது நெஞ்சத்தைச் சுட்டுப் பொசுக்கும்.",
+        "moral_en": "Moral: Of friends deserting us on ruin's brink,'Tis torture e'en in life's last hour to think.",
+        "game_blank_word_ta": "கைவிடுவார்",
+        "game_options_ta": [
+          "நாடாது",
+          "நட்டலிற்",
+          "கேடில்லை",
+          "கைவிடுவார்"
+        ],
+        "game_options_en": [
+          "Than testless friendship nought is worse For contacts formed will scarcely cease",
+          "Friendship made without frequent test Shall end in grief and death at last",
+          "Temper, descent, defects and kins Trace well and take companions",
+          "Friends who betray at ruin's brink Burn our mind ev'n at death to think"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பாராய்தல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 799, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கெடும்போது நம்மைக் கைவிட்டவரின் நட்பை நாம் சாகின்ற போது நினைத்தாலும் நம் நெஞ்சம் சுடும். கலைஞர் உரை கூறுவது: ஒருவர் கொலைக்கு ஆளாகும் போது கூட, தனக்குக் கேடு வந்த நேரம் கைவிட்டு ஒதுங்கி ஓடிவிட்ட நண்பர்களை நினைத்து விட்டால் அந்த நினைப்பு அவரது நெஞ்சத்தைச் சுட்டுப் பொசுக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Investigation in forming Friendships (Ministers & Elements of State), Kural 799 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The very thought of the friendship of those who have deserted one at the approach of adversity will burn one's mind at the time of death. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பாராய்தல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Investigation in forming Friendships' thoughtfully.",
+        "quiz_question_ta": "'நட்பாராய்தல்' அதிகாரத்தில் வரும் திருக்குறள் 799 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 799 from Chapter 'Investigation in forming Friendships'?",
+        "quiz_options_ta": [
+          "அறிவில்லாதவர் தம்மைத்தாமே துன்புறுத்தும் துன்பம் அவருடைய பகைவர்க்கும் செய்யமுடியாத அளவினதாகும்.",
+          "ஒருவனுடைய உற்றாரிடத்தில் பகைமை ஏற்படுமானால், அந்த உட்பகையால் அவன் அழியாமலிருத்தல் எப்போதும் அரிது.",
+          "கள்ளுண்டு மயங்கினவனைக் காரணம் காட்டி தெளிவித்தல், நீரின் கீழ் மூழ்கின ஒருவனைத் தீவிளக்கு கொண்டு தேடினாற் போன்றது.",
+          "கேடு வரும் காலத்தில் கைவிட்டு ஒதுங்குகின்றவரின் நட்பு, எமன் கொல்லும் காலத்தில் நினைத்தாலும் நினைத்த உள்ளத்தை வருத்தும்."
+        ],
+        "quiz_options_en": [
+          "The self-torments of fools exceed Ev'n tortures of their foes indeed",
+          "Discord in kings' circle entails Life-destroying deadly evils",
+          "Can torch search one in water sunk? Can reason reach the raving drunk?",
+          "Friends who betray at ruin's brink Burn our mind ev'n at death to think"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பாராய்தல்) பகுதியில் குறள் 799 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கேடு வரும் காலத்தில் கைவிட்டு ஒதுங்குகின்றவரின் நட்பு, எமன் கொல்லும் காலத்தில் நினைத்தாலும் நினைத்த உள்ளத்தை வருத்தும். பரிமேலழகர் உரை நுட்பம்: கெடுங்காலைக் கைவிடுவார் கேண்மை - ஒருவன் கெடுங்காலத்து அவனை விட்டு நீங்குவார் முன் அவனோடு செய்த நட்பு; அடுங்காலை உள்ளினும் உள்ளம் சுடும் - தன்னைக் கூற்று அடுங்காலத்து ஒருவன் நினைப்பினும், அந்நினைத்த உள்ளத்தைச் சுடும். (நினைத்த துணையானே இயைபில்லாத பிறனுக்கும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 80: 'Investigation in forming Friendships'), Kural 799 distills a foundational ethical insight: \"Of friends deserting us on ruin's brink,'Tis torture e'en in life's last hour to think\" Philosophically, The very thought of the friendship of those who have deserted one at the approach of adversity will burn one's mind at the time of death.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "time",
+        "self-mastery",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 800,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: குற்றமற்றவருடைய நட்பைக் கொள்ள வேண்டும், ஒத்தபண்பை இல்லாதவறுடைய நட்பை ஒன்றைக் கொடுத்தாவது கைவிட வேண்டும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Continue to enjoy the friendship of the pure; (but) renounce even with a gift, the friendship of those who do not agree (with the world).",
+        "story_title_ta": "நட்பாராய்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Investigation in forming Friendships — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பாராய்தல்' என்ற அதிகாரத்திலிருந்து குறள் 800 பற்றிக் கதை சொன்னார். 'குற்றம் அற்றவரோடு நட்புக் கொள்க; உலகோடு ஒத்து வராதவரின் நட்பை விலை கொடுத்தாவது விட்டு விடுக.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 80, 'Investigation in forming Friendships', centered on Kural 800: Continue to enjoy the friendship of the pure; (but) renounce even with a gift, the friendship of those who do not agree (with the world). Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மனத்தில் மாசு இல்லாதவர்களையே நண்பர்களாகப் பெற வேண்டும் மாசு உள்ளவர்களின் நட்பை, விலை கொடுத்தாவது விலக்கிட வேண்டும்.",
+        "moral_en": "Moral: Cling to the friendship of the spotless one's; whate'er you payRenounce alliance with the men of evil way.",
+        "game_blank_word_ta": "கேண்மைஒன்",
+        "game_options_ta": [
+          "கேண்மைஒன்",
+          "நாடாது",
+          "நட்டலிற்",
+          "கேடில்லை"
+        ],
+        "game_options_en": [
+          "The blameless ones as friends embarace; Give something and give up the base",
+          "Than testless friendship nought is worse For contacts formed will scarcely cease",
+          "Friendship made without frequent test Shall end in grief and death at last",
+          "Temper, descent, defects and kins Trace well and take companions"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பாராய்தல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 800, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: குற்றம் அற்றவரோடு நட்புக் கொள்க; உலகோடு ஒத்து வராதவரின் நட்பை விலை கொடுத்தாவது விட்டு விடுக. கலைஞர் உரை கூறுவது: மனத்தில் மாசு இல்லாதவர்களையே நண்பர்களாகப் பெற வேண்டும் மாசு உள்ளவர்களின் நட்பை, விலை கொடுத்தாவது விலக்கிட வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Investigation in forming Friendships (Ministers & Elements of State), Kural 800 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Continue to enjoy the friendship of the pure; (but) renounce even with a gift, the friendship of those who do not agree (with the world). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பாராய்தல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Investigation in forming Friendships' thoughtfully.",
+        "quiz_question_ta": "'நட்பாராய்தல்' அதிகாரத்தில் வரும் திருக்குறள் 800 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 800 from Chapter 'Investigation in forming Friendships'?",
+        "quiz_options_ta": [
+          "குற்றமற்றவருடைய நட்பைக் கொள்ள வேண்டும், ஒத்தபண்பை இல்லாதவறுடைய நட்பை ஒன்றைக் கொடுத்தாவது கைவிட வேண்டும்.",
+          "புல்லறிவு என்று சொல்லப்படுவது யாது என்றால் யாம் அறிவுடையேம் என்று ஒருவன் தன்னைத்தான் மதித்துகொள்ளும் செருக்காகும்.",
+          "செப்பின் இணைப்பைப் போல புறத்தே பொருந்தி இருந்தாலும், உட்பகை உண்டான குடியில் உள்ளவர் அகத்தே பொருந்தி இருக்கமாட்டார்.",
+          "ஒருவன் தான் கள் உண்ணாத போது கள்ளுண்டு மயங்கினவளைக் காணுமிடத்தில் உண்டு மயங்குவதால் வரும் சோர்வை நினைக்கமாட்டானோ."
+        ],
+        "quiz_options_en": [
+          "The blameless ones as friends embarace; Give something and give up the base",
+          "Stupidity is vanity That cries \\\"We have sagacity\\\"",
+          "A house hiding hostiles in core Just seems on like the lid in jar",
+          "The sober seeing the drunkard's plight On selves can't they feel same effect?"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பாராய்தல்) பகுதியில் குறள் 800 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: குற்றமற்றவருடைய நட்பைக் கொள்ள வேண்டும், ஒத்தபண்பை இல்லாதவறுடைய நட்பை ஒன்றைக் கொடுத்தாவது கைவிட வேண்டும். பரிமேலழகர் உரை நுட்பம்: மாசு அற்றார் கேண்மை மருவுக - உலகோடு ஒத்துக் குற்றமற்றார் நட்பினையே பயில்க; ஒப்பு இலார் நட்பு ஒன்று ஈத்தும் ஒருவுக - உலகோடு ஒத்தலில்லார் நட்பினை அறியாது கொண்டாராயின், அவர் வேண்டியதொன்றனைக் கொடுத்தாயினும் விடுக. (உலகோடு ஒத்தார் நட்பு இருமை இன்பமும் பயத்தலின...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 80: 'Investigation in forming Friendships'), Kural 800 distills a foundational ethical insight: \"Cling to the friendship of the spotless one's; whate'er you payRenounce alliance with the men of evil way\" Philosophically, Continue to enjoy the friendship of the pure; (but) renounce even with a gift, the friendship of those who do not agree (with the world).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "kindness",
+        "harmony"
+      ]
+    }
+  ]
+}

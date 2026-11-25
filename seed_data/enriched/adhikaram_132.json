@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 132,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.669785204+00:00",
+  "kurals": [
+    {
+      "kural_number": 1311,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பரத்தமை உடையாய்! பெண் தன்மை உடையவர் எல்லாரும் தம்தம் கண்களால் ‌பொதுப் பொருளாகக் கொண்டு நுகர்கின்றார்கள்; ஆகையால் உன் மார்பைப் பொருந்தேன்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: You are given to prostitution; all those who are born as womankind enjoy you with their eyes in an ordinary way I will not embrace you.",
+        "story_title_ta": "புலவி நுணுக்கம் — இனியா கற்ற பாடம்",
+        "story_title_en": "Feigned Anger — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புலவி நுணுக்கம்' என்ற அதிகாரத்தில் வரும் குறள் 1311 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1311 from 'Feigned Anger', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பெண்ணாக இருப்போர் எல்லோருமே, பொதுவாக நினைத்துக் கண்களால் உண்பதால் கற்பு நெறிகெட்ட உன் பரந்த மார்பைப் பாவை நான் தழுவ மாட்டேன்.",
+        "moral_en": "Moral: From thy regard all womankind Enjoys an equal grace; O thou of wandering fickle mind, I shrink from thine embrace.",
+        "game_blank_word_ta": "கண்ணின்",
+        "game_options_ta": [
+          "இருந்தேமாத்",
+          "தும்மினார்",
+          "யாம்தம்மை",
+          "கண்ணின்"
+        ],
+        "game_options_en": [
+          "He sneezed while we went on sulking Expecting me to say \\\"live long\\\"",
+          "\\\"For which lady?\\\" she widely cries While I adorn myself with flowers",
+          "\\\"I love you more than all\\\" I said \\\"Than whom, than whom?\\\" she sulked and chid",
+          "I shrink to clasp you bosom lewd To the gaze of all ladies exposed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலவி நுணுக்கம் (கற்பியல்) பிரிவில் அமைந்த குறள் 1311, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெண் விரும்பியே! நீ வீதி வழி வரும் குணங்கெட்ட பெண்கள் எல்லாரும் உன் மார்பைத் தம் கண்ணால் பொதுவாக உண்பர்; அதனால் அவர்களின் எச்சிலாகிய உன் மார்பை நான் இனிச் சேரேன். கலைஞர் உரை கூறுவது: பெண்ணாக இருப்போர் எல்லோருமே, பொதுவாக நினைத்துக் கண்களால் உண்பதால் கற்பு நெறிகெட்ட உன் பரந்த மார்பைப் பாவை நான் தழுவ மாட்டேன். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Feigned Anger (Post-marital Love), Kural 1311 speaks directly to teens navigating studies, friendships, leadership, and digital choices: You are given to prostitution; all those who are born as womankind enjoy you with their eyes in an ordinary way I will not embrace you. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புலவி நுணுக்கம்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Feigned Anger'.",
+        "quiz_question_ta": "'புலவி நுணுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 1311 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1311 from Chapter 'Feigned Anger'?",
+        "quiz_options_ta": [
+          "ஐந்து புலன்களாலாகும் ஆசைகளை ஒழித்தவனுடைய வல்லமைக்கு, வானுலகத்தாரின் தலைவனாகிய இந்திரனே போதுமான சான்று ஆவான்",
+          "தம் மக்களின் அறிவுடைமை தமக்கு இன்பம் பயப்பதை விட உலகத்து உயிர்களுக்கேல்லாம் மிகுந்த இன்பம் பயப்பதாகும்.",
+          "அந்தந்தப் பகுதிதோறும் முறையோடு பொருந்தி ஒழுகப்பெற்றால், நடுவுநிலைமை என்று கூறப்படும் அறம் நன்மையாகும்.",
+          "பரத்தமை உடையாய்! பெண் தன்மை உடையவர் எல்லாரும் தம்தம் கண்களால் ‌பொதுப் பொருளாகக் கொண்டு நுகர்கின்றார்கள்; ஆகையால் உன் மார்பைப் பொருந்தேன்."
+        ],
+        "quiz_options_en": [
+          "Indra himself has cause to say How great the power ascetics' sway",
+          "With joy the hearts of parents swell To see their children themselves excel",
+          "Equity is supreme virtue It is to give each man his due",
+          "I shrink to clasp you bosom lewd To the gaze of all ladies exposed"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புலவி நுணுக்கம்) பகுதியில் குறள் 1311 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பரத்தமை உடையாய்! பெண் தன்மை உடையவர் எல்லாரும் தம்தம் கண்களால் ‌பொதுப் பொருளாகக் கொண்டு நுகர்கின்றார்கள்; ஆகையால் உன் மார்பைப் பொருந்தேன். பரிமேலழகர் உரை நுட்பம்: [அது , ' புலவியது ' நுணுக்கம் என விரியும் .அஃதாவது , தலைமகனும் தலைமகளும் ஒர் அமளிக்கண் கூடியிருந்துழி அவன் மாட்டுப் புலத்தற் காரண மில்லையாகவும் , காதல் கைம்மிகுதலான் நூண்ணியதோர் காரணமுளதாக உட்கொண்டு , அதனை அவன்மேலேற்றி அவள் புலத்தல். காரணத்தின் நுணுக்கம...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 132: 'Feigned Anger'), Kural 1311 distills a foundational ethical insight: \"From thy regard all womankind Enjoys an equal grace; O thou of wandering fickle mind, I shrink from thine embrace\" Philosophically, You are given to prostitution; all those who are born as womankind enjoy you with their eyes in an ordinary way I will not embrace you.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "kindness",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 1312,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: காதலரோடு ஊடல் கொண்டிருந்தோமாக, யாம் தம்மை நெடுங்காலம் வாழ்க என்று வாய் திறந்து சொல்லுவோம் என நினைத்து அவர் தும்மினார்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: When I continued to be sulky he sneezed and thought I would (then) wish him a long life.",
+        "story_title_ta": "புலவி நுணுக்கம் — முகில் கற்ற பாடம்",
+        "story_title_en": "Feigned Anger — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புலவி நுணுக்கம்' என்ற அதிகாரத்தில் வரும் குறள் 1312 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1312 from 'Feigned Anger', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ஊடல் கொண்டிருந்தபோது அவர் தும்மினார்; ஊடலை விடுத்து அவரை ``நீடுவாழ்க'' என வாழ்த்துவேன் என்று நினைத்து.",
+        "moral_en": "Moral: One day we silent sulked; he sneezed: The reason well I knew; He thought that I, to speak well pleased, Would say, 'Long life to you!'.",
+        "game_blank_word_ta": "கென்பாக்",
+        "game_options_ta": [
+          "கென்பாக்",
+          "பெண்ணியலார்",
+          "எல்லாரும்",
+          "கண்ணின்"
+        ],
+        "game_options_en": [
+          "He sneezed while we went on sulking Expecting me to say \\\"live long\\\"",
+          "I shrink to clasp you bosom lewd To the gaze of all ladies exposed",
+          "\\\"For which lady?\\\" she widely cries While I adorn myself with flowers",
+          "\\\"I love you more than all\\\" I said \\\"Than whom, than whom?\\\" she sulked and chid"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலவி நுணுக்கம் (கற்பியல்) பிரிவில் அமைந்த குறள் 1312, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நான் அவரோடு ஊடிப் பேசாமல் இருந்தேன்; நீடு வாழ்க, என்று சொல்லி அவரோடு பேசுவேன். என்று எண்ணி, வேண்டும் என்றே தும்மினார்! நானா பேசுவேன்? (ஆனாலும் வாழ்த்தினாள்). கலைஞர் உரை கூறுவது: ஊடல் கொண்டிருந்தபோது அவர் தும்மினார்; ஊடலை விடுத்து அவரை ``நீடுவாழ்க'' என வாழ்த்துவேன் என்று நினைத்து. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Feigned Anger (Post-marital Love), Kural 1312 speaks directly to teens navigating studies, friendships, leadership, and digital choices: When I continued to be sulky he sneezed and thought I would (then) wish him a long life. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புலவி நுணுக்கம்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Feigned Anger'.",
+        "quiz_question_ta": "'புலவி நுணுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 1312 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1312 from Chapter 'Feigned Anger'?",
+        "quiz_options_ta": [
+          "காதலரோடு ஊடல் கொண்டிருந்தோமாக, யாம் தம்மை நெடுங்காலம் வாழ்க என்று வாய் திறந்து சொல்லுவோம் என நினைத்து அவர் தும்மினார்.",
+          "செய்வதற்கு அருமையான செயல்களை செய்ய வல்லவரே பெரியோர். செய்வதற்கு அரிய செயல்களைச் செய்யமாட்டாதவர் சிறியோர்.",
+          "தன் மகனை நற்பண்பு நிறைந்தவன் என பிறர் சொல்லக் கேள்வியுற்ற தாய், தான் அவனை பெற்றக் காலத்தில் உற்ற மகிழ்ச்சியை விடப் பெரிதும் மகிழ்வாள்.",
+          "நடுவுநிலைமை உடையவனின் செல்வவளம் அழிவில்லாமல் அவனுடைய வழியில் உள்ளார்க்கும் உறுதியான நன்மை தருவதாகும்."
+        ],
+        "quiz_options_en": [
+          "He sneezed while we went on sulking Expecting me to say \\\"live long\\\"",
+          "The small the paths of ease pursue The great achieve things rare to do",
+          "The mother, hearing her son's merit Delights more than when she begot",
+          "Wealth of the man of equity Grows and lasts to posterity"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புலவி நுணுக்கம்) பகுதியில் குறள் 1312 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காதலரோடு ஊடல் கொண்டிருந்தோமாக, யாம் தம்மை நெடுங்காலம் வாழ்க என்று வாய் திறந்து சொல்லுவோம் என நினைத்து அவர் தும்மினார். பரிமேலழகர் உரை நுட்பம்: (தலைமகன் நீக்கத்துச் சென்ற தோழிக்குத் தலைமகள் பள்ளியிடத்து நிகழ்ந்தது கூறியது.) ஊடி இருந்தேமாத் தும்மினார் - யாம் தம்மோடு ஊடி உரையாடாதிருந்தேமாகக் காதலர் தும்மினார்; யாம் தம்மை நீடுவாழ்கென்பாக்கு அறிந்து - அது நீங்கித் தம்மை நீடுவாழ்கென்று உரையாடுவேமாகக...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 132: 'Feigned Anger'), Kural 1312 distills a foundational ethical insight: \"One day we silent sulked; he sneezed: The reason well I knew; He thought that I, to speak well pleased, Would say, 'Long life to you!'\" Philosophically, When I continued to be sulky he sneezed and thought I would (then) wish him a long life.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "family",
+        "self-mastery",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 1313,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கிளைகளில் மலர்ந்த மலர்களைச் சூடினாலும், நீர் இந்த அழகை யாரோ ஒருத்திக்கு காட்டுவதற்காகச் சூடினீர் என்று சினம் கொள்வாள்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Even if I were adorned with a garland of branch-flowers, she would say I did so to show it to another woman.",
+        "story_title_ta": "புலவி நுணுக்கம் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Feigned Anger — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புலவி நுணுக்கம்' என்ற அதிகாரத்தில் வரும் குறள் 1313 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1313 from 'Feigned Anger', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: கிளையில் மலர்ந்த பூக்களைக் கட்டி நான் அணிந்து கொண்டிருந்தாலும், வேறொருத்திக்குக் காட்டுவதற்காகவே அணிந்திருக்கிறீர் எனக்கூறி சினம் கொள்வாள்.",
+        "moral_en": "Moral: I wreathed with flowers one day my brow, The angry tempest lowers; She cries, 'Pray, for what woman now Do you put on your flowers?'.",
+        "game_blank_word_ta": "காட்டிய",
+        "game_options_ta": [
+          "பெண்ணியலார்",
+          "காட்டிய",
+          "எல்லாரும்",
+          "கண்ணின்"
+        ],
+        "game_options_en": [
+          "I shrink to clasp you bosom lewd To the gaze of all ladies exposed",
+          "\\\"For which lady?\\\" she widely cries While I adorn myself with flowers",
+          "He sneezed while we went on sulking Expecting me to say \\\"live long\\\"",
+          "\\\"I love you more than all\\\" I said \\\"Than whom, than whom?\\\" she sulked and chid"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலவி நுணுக்கம் (கற்பியல்) பிரிவில் அமைந்த குறள் 1313, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு மாற்றம் கருதி, ஒருமுறை, மரத்திலே மலர்ந்த பூவை மாலையாக்கிச் சூடினேன். அதற்கு அவள், நீர் விரும்பும் எவளுக்கோ அடையாளம் காட்டிச் சூடினீர் என்று சினந்து நின்றாள். கலைஞர் உரை கூறுவது: கிளையில் மலர்ந்த பூக்களைக் கட்டி நான் அணிந்து கொண்டிருந்தாலும், வேறொருத்திக்குக் காட்டுவதற்காகவே அணிந்திருக்கிறீர் எனக்கூறி சினம் கொள்வாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Feigned Anger (Post-marital Love), Kural 1313 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even if I were adorned with a garland of branch-flowers, she would say I did so to show it to another woman. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புலவி நுணுக்கம்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Feigned Anger'.",
+        "quiz_question_ta": "'புலவி நுணுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 1313 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1313 from Chapter 'Feigned Anger'?",
+        "quiz_options_ta": [
+          "சுவை, ஒளி, ஊறு, ஓசை, நாற்றம் என்று சொல்லப்படும் ஐந்தின் வகைகளையும் ஆராய்ந்து அறிய வல்லவனுடைய அறிவில் உள்ளது உலகம்.",
+          "கிளைகளில் மலர்ந்த மலர்களைச் சூடினாலும், நீர் இந்த அழகை யாரோ ஒருத்திக்கு காட்டுவதற்காகச் சூடினீர் என்று சினம் கொள்வாள்.",
+          "மகன் தன் தந்தைக்குச் செய்யத் தக்க கைம்மாறு, இவன் தந்தை இவனை மகனாகப் பெற என்ன தவம் செய்தானோ என்று பிறர் புகழ்ந்து சொல்லும் சொல்லாகும்.",
+          "தீமை பயக்காமல் நன்மையே தருவதானாலும் நடுவு நி‌லைமை தவறி உண்டாகும் ஆக்கத்தை அப்போதே கைவிட வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "They gain the world, who grasp and tell Of taste, sight, hearing, touch and smell",
+          "\\\"For which lady?\\\" she widely cries While I adorn myself with flowers",
+          "The son to sire this word is debt \\\"What penance such a son begot!\\\"",
+          "Though profitable, turn away From unjust gains without delay"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புலவி நுணுக்கம்) பகுதியில் குறள் 1313 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கிளைகளில் மலர்ந்த மலர்களைச் சூடினாலும், நீர் இந்த அழகை யாரோ ஒருத்திக்கு காட்டுவதற்காகச் சூடினீர் என்று சினம் கொள்வாள். பரிமேலழகர் உரை நுட்பம்: (தலைமகள் புலவிக் குறிப்பினைக் கண்டு, நீவிர் கூடியொழுகா நிற்கவும் இது நிகழ்தற்குக் காரணம் யாது? என்ற தோழிக்குத் தலைமகன் சொல்லியது.) கோட்டுப்பூச் சூடினும் - யான் கோடுதலைச்செய்யும் மாலையைச் சூடினேனாயினும்; ஒருத்தியைக் காட்டிய சூடினீர் என்று காயும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 132: 'Feigned Anger'), Kural 1313 distills a foundational ethical insight: \"I wreathed with flowers one day my brow, The angry tempest lowers; She cries, 'Pray, for what woman now Do you put on your flowers?'\" Philosophically, Even if I were adorned with a garland of branch-flowers, she would say I did so to show it to another woman.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "justice",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1314,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: யாரையும் விட நாம் மிக்க காதல் கொண்டிருக்கிறோம் என்று சொன்னேனாக; ய‌ாரை விட...? யாரை விட..? என்று கேட்டு ஊடல் கொண்டாள்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: When I said I loved her more than any other woman, she said \"more than others, yes, more than others,\" and remained sulky.",
+        "story_title_ta": "புலவி நுணுக்கம் — கவின் கற்ற பாடம்",
+        "story_title_en": "Feigned Anger — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புலவி நுணுக்கம்' என்ற அதிகாரத்தில் வரும் குறள் 1314 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1314 from 'Feigned Anger', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ``யாரைக் காட்டிலும் உன்னிடம் நான் காதல் மிகுதியாகக் கொண்டுள்ளேன்'' என்று இயல்பாகச் சொன்னதைக் கூடக் காதலி தவறாக எடுத்துக் கொண்டு ``யாரைக்காட்டிலும் யாரைக் காட்டிலும்'' எனக் கேட்டு ஊடல் புரியத் தொடங்கி விட்டாள்.",
+        "moral_en": "Moral: 'I love you more than all beside,' 'T was thus I gently spoke;'What all, what all?' she instant cried; And all her anger woke.",
+        "game_blank_word_ta": "என்று",
+        "game_options_ta": [
+          "பெண்ணியலார்",
+          "எல்லாரும்",
+          "என்று",
+          "கண்ணின்"
+        ],
+        "game_options_en": [
+          "I shrink to clasp you bosom lewd To the gaze of all ladies exposed",
+          "He sneezed while we went on sulking Expecting me to say \\\"live long\\\"",
+          "\\\"I love you more than all\\\" I said \\\"Than whom, than whom?\\\" she sulked and chid",
+          "\\\"For which lady?\\\" she widely cries While I adorn myself with flowers"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலவி நுணுக்கம் (கற்பியல்) பிரிவில் அமைந்த குறள் 1314, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காதலர் எவரைக் காட்டிலும் நாம் மிகுந்த காதல் உடையவர்கள் என்றேன்; அதற்கு அவள் நான் பலரையும் காதலிப்பதாகவும், அவர்களுள் இவள்மீது அதிகக் காதல் உடையவன் என்று சொன்னதாகவும் எண்ணி, எவளைக் காட்டிலும் எவளைக் காட்டிலும் என் மீது காதல் உடையீர் என்று ஊடினாள். கலைஞர் உரை கூறுவது: ``யாரைக் காட்டிலும் உன்னிடம் நான் காதல் மிகுதியாகக் கொண்டுள்ளேன்'' என்று இயல்பாகச் சொன்னதைக் கூடக் காதலி தவறாக எடுத்துக் கொண்டு ``யாரைக்காட்டிலும் யாரைக் காட்டிலும்'' எனக் கேட்டு ஊடல் புரியத் தொடங்கி விட்டாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Feigned Anger (Post-marital Love), Kural 1314 speaks directly to teens navigating studies, friendships, leadership, and digital choices: When I said I loved her more than any other woman, she said \"more than others, yes, more than others,\" and remained sulky. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புலவி நுணுக்கம்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Feigned Anger'.",
+        "quiz_question_ta": "'புலவி நுணுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 1314 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1314 from Chapter 'Feigned Anger'?",
+        "quiz_options_ta": [
+          "பயன் நிறைந்த மொழிகளில் வல்ல சான்றோரின் பெருமையை, உலகத்தில் அழியாமல் விளங்கும் அவர்களுடைய மறைமொழிகளே காட்டிவிடும்.",
+          "அன்புக்கும் அடைத்து வைக்கும் தாழ் உண்டோ? அன்புடையவரின் சிறு கண்ணீரே ( உள்ளே இருக்கும் அன்பைப் ) பலரும் அறிய வெளிப்படுத்திவிடும்",
+          "யாரையும் விட நாம் மிக்க காதல் கொண்டிருக்கிறோம் என்று சொன்னேனாக; ய‌ாரை விட...? யாரை விட..? என்று கேட்டு ஊடல் கொண்டாள்.",
+          "நடுவுநிலைமை உடையவர் நடுவுநிலை‌மை இல்லாதவர் என்பது அவரவர்க்குப் பின் எஞ்சி நிற்கும் புகழாலும் பழியாலும் காணப்படும்."
+        ],
+        "quiz_options_en": [
+          "Full-worded men by what they say, Their greatness to the world display",
+          "What bolt can bar true love in fact The tricking tears reveal the heart",
+          "\\\"I love you more than all\\\" I said \\\"Than whom, than whom?\\\" she sulked and chid",
+          "The worthy and the unworthy Are seen in their posterity"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புலவி நுணுக்கம்) பகுதியில் குறள் 1314 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யாரையும் விட நாம் மிக்க காதல் கொண்டிருக்கிறோம் என்று சொன்னேனாக; ய‌ாரை விட...? யாரை விட..? என்று கேட்டு ஊடல் கொண்டாள். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) யாரினும் காதலம் என்றேனா - காமம் நுகர்தற்குரிய இருவராயினார் யாவரினும் யாம் மிக்க காதலையுடையேம் என்பது கருதி யாரினும் காதலம் என்றேனாக; யாரினும் யாரினும் என்று ஊடினாள் - நின் தோழி அது கருதாது, என்னாற் காதலிக்கப்பட்ட மகளிர் பலருள்ளும் நின்கண...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 132: 'Feigned Anger'), Kural 1314 distills a foundational ethical insight: \"'I love you more than all beside,' 'T was thus I gently spoke;'What all, what all?' she instant cried; And all her anger woke\" Philosophically, When I said I loved her more than any other woman, she said \"more than others, yes, more than others,\" and remained sulky.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "speech",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1315,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: இப்பிறப்பில் யாம் பிரிய மாட்டோம் என்று காதலியிடம் சொன்னேனாக, இனி வரும் பிறப்பில் பிரிவதாக உணர்ந்து கண் நிறையக் கண்ணீர் கொண்டாள்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: When I said I would never part from her in this life her eyes were filled with tears.",
+        "story_title_ta": "புலவி நுணுக்கம் — நிலா கற்ற பாடம்",
+        "story_title_en": "Feigned Anger — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புலவி நுணுக்கம்' என்ற அதிகாரத்தில் வரும் குறள் 1315 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1315 from 'Feigned Anger', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ``இப்பிறப்பில் யாம் பிரியமாட்டோம்'' என்று நான் சொன்னவுடன் ``அப்படியானால் மறு பிறப்பு என ஒன்று உண்டோ? அப்போது நம்மிடையே பிரிவு ஏற்படுமெனக் கூறுகிறாயா?'' எனக் கேட்டு கண்கலங்கினாள் காதலி.",
+        "moral_en": "Moral: 'While here I live, I leave you not,' I said to calm her fearsShe cried, 'There, then, I read your thought'; And straight dissolved in tears.",
+        "game_blank_word_ta": "டனள்",
+        "game_options_ta": [
+          "பெண்ணியலார்",
+          "எல்லாரும்",
+          "கண்ணின்",
+          "டனள்"
+        ],
+        "game_options_en": [
+          "I shrink to clasp you bosom lewd To the gaze of all ladies exposed",
+          "He sneezed while we went on sulking Expecting me to say \\\"live long\\\"",
+          "\\\"For which lady?\\\" she widely cries While I adorn myself with flowers",
+          "\\\"In this life we won't part\\\" I told Her eyes at once with tears were filled"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலவி நுணுக்கம் (கற்பியல்) பிரிவில் அமைந்த குறள் 1315, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காதல் மிகுதியில் இந்தப் பிறவியில் நான் உன்னைப் பிரியேன் என்று சொன்னேன்; அப்படி என்றால் அடுத்த பிறவியில் பிரியப்போவதாக எண்ணிக் கண் நிறைய நீரினைக் கொண்டாள். கலைஞர் உரை கூறுவது: ``இப்பிறப்பில் யாம் பிரியமாட்டோம்'' என்று நான் சொன்னவுடன் ``அப்படியானால் மறு பிறப்பு என ஒன்று உண்டோ? அப்போது நம்மிடையே பிரிவு ஏற்படுமெனக் கூறுகிறாயா?'' எனக் கேட்டு கண்கலங்கினாள் காதலி. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Feigned Anger (Post-marital Love), Kural 1315 speaks directly to teens navigating studies, friendships, leadership, and digital choices: When I said I would never part from her in this life her eyes were filled with tears. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புலவி நுணுக்கம்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Feigned Anger'.",
+        "quiz_question_ta": "'புலவி நுணுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 1315 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1315 from Chapter 'Feigned Anger'?",
+        "quiz_options_ta": [
+          "நல்ல பண்புகளாகிய மலையின்மேல் ஏறி நின்ற பெரியோர், ஒரு கணப்பொழுதே சினம் கொள்வார் ஆயினும் அதிலிருந்து ஒருவரைக் காத்தல் அரிதாகும்.",
+          "அன்பு இல்லாதவர் எல்லாப்பொருள்களையும் தமக்கே உரிமையாகக் கொண்டு வாழ்வார்: அன்பு உடையவர் தம் உடமையும் பிறர்க்கு உரிமையாக்கி வாழ்வர்",
+          "கேடும் ஆக்கமும் வாழ்வில் இல்லாதவை அல்ல; ஆகையால் நெஞ்சில் நடுவுநிலைமை தவறாமல் இருத்தலே சான்றோர்க்கு அழகாகும்.",
+          "இப்பிறப்பில் யாம் பிரிய மாட்டோம் என்று காதலியிடம் சொன்னேனாக, இனி வரும் பிறப்பில் பிரிவதாக உணர்ந்து கண் நிறையக் கண்ணீர் கொண்டாள்."
+        ],
+        "quiz_options_en": [
+          "Their wrath, who've climb'd the mount of good, Though transient, cannot be withstood",
+          "To selves belong the loveless ones; To oth'rs the loving e'en to bones",
+          "Loss and gain by cause arise; Equal mind adorns the wise",
+          "\\\"In this life we won't part\\\" I told Her eyes at once with tears were filled"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புலவி நுணுக்கம்) பகுதியில் குறள் 1315 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இப்பிறப்பில் யாம் பிரிய மாட்டோம் என்று காதலியிடம் சொன்னேனாக, இனி வரும் பிறப்பில் பிரிவதாக உணர்ந்து கண் நிறையக் கண்ணீர் கொண்டாள். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) இம்மைப் பிறப்பிற் பிரியலம் என்றேனா - காதல் மிகுதியான் இம்மையாகிய பிறப்பின்கண் யாம் பிரியேம் என்று சொன்னேனாக; கண் நிறை நீர் கொண்டனள் - அதனான் ஏனை மறுமையாகிய பிறப்பின்கண் பிரிவல் என்னும் குறிப்பினேனாகக் கருதி, அவள் தன் கண்நிறைந்த நீரினைக...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 132: 'Feigned Anger'), Kural 1315 distills a foundational ethical insight: \"'While here I live, I leave you not,' I said to calm her fearsShe cried, 'There, then, I read your thought'; And straight dissolved in tears\" Philosophically, When I said I would never part from her in this life her eyes were filled with tears.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "education",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1316,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நினைத்தேன் என்று கூறி‌னேன்; நினைப்புக்கு முன் மறப்பு உண்டு அன்றோ? ஏன் மறந்தீர் என்று என்னைத் தழுவாமல் ஊடினாள்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: When I said I had remembered her, she said I had forgotten her and relaxing her embrace, began to feign dislike.",
+        "story_title_ta": "புலவி நுணுக்கம் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Feigned Anger — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புலவி நுணுக்கம்' என்ற அதிகாரத்தில் வரும் குறள் 1316 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1316 from 'Feigned Anger', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ``உன்னை நினைத்தேன்'' என்று காதலியிடம் சொன்னதுதான் தாமதம்;'' அப்படியானால் நீர் என்னை மறந்திருந்தால்தானே நினைத்திருக்க முடியும்?'' எனக்கேட்டு ``ஏன் மறந்தீர்?'' என்று அவள் ஊடல் கொண்டாள்.",
+        "moral_en": "Moral: 'Each day I called to mind your charms,' 'O, then, you had forgot,'She cried, and then her opened arms, Forthwith embraced me not.",
+        "game_blank_word_ta": "உள்ளினேன்",
+        "game_options_ta": [
+          "உள்ளினேன்",
+          "பெண்ணியலார்",
+          "எல்லாரும்",
+          "கண்ணின்"
+        ],
+        "game_options_en": [
+          "I said I thought of you She left Her embrace crying \\\"Oft you forget\\\"",
+          "I shrink to clasp you bosom lewd To the gaze of all ladies exposed",
+          "He sneezed while we went on sulking Expecting me to say \\\"live long\\\"",
+          "\\\"For which lady?\\\" she widely cries While I adorn myself with flowers"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலவி நுணுக்கம் (கற்பியல்) பிரிவில் அமைந்த குறள் 1316, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எப்போதும் உன்னைத்தான் எண்ணினேன் என்றேன். சில சமயம் மறந்து ஒரு சமயம் நினைத்ததாக எண்ணி அப்படியானால் என்னை இடையில் மறந்திருக்கிறீர் என்று சொல்லித் தழுவத் தொடங்கியவள், விட்டுவிட்டு ஊடத் தொடங்கினாள். கலைஞர் உரை கூறுவது: ``உன்னை நினைத்தேன்'' என்று காதலியிடம் சொன்னதுதான் தாமதம்;'' அப்படியானால் நீர் என்னை மறந்திருந்தால்தானே நினைத்திருக்க முடியும்?'' எனக்கேட்டு ``ஏன் மறந்தீர்?'' என்று அவள் ஊடல் கொண்டாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Feigned Anger (Post-marital Love), Kural 1316 speaks directly to teens navigating studies, friendships, leadership, and digital choices: When I said I had remembered her, she said I had forgotten her and relaxing her embrace, began to feign dislike. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புலவி நுணுக்கம்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Feigned Anger'.",
+        "quiz_question_ta": "'புலவி நுணுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 1316 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1316 from Chapter 'Feigned Anger'?",
+        "quiz_options_ta": [
+          "நினைத்தேன் என்று கூறி‌னேன்; நினைப்புக்கு முன் மறப்பு உண்டு அன்றோ? ஏன் மறந்தீர் என்று என்னைத் தழுவாமல் ஊடினாள்.",
+          "எல்லா உயிர்களிடத்திலும் செம்மையான அருளை மேற்கொண்டு ஒழுகுவதால், அறவோரே அந்தணர் எனப்படுவோர் ஆவர்.",
+          "அருமையான உயிர்க்கு உடம்போடு பொருந்தி இருக்கின்ற உறவு, அன்போடு பொருந்தி வாழும் வாழ்க்கையின் பயன்என்று கூறுவர்.",
+          "தன் நெஞ்சம் நடுவுநிலை நீங்கித் தவறு செய்ய நினைக்குமாயின், நான் கெடப்போகின்றேன் என்று ஒருவன் அறிய வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "I said I thought of you She left Her embrace crying \\\"Oft you forget\\\"",
+          "With gentle mercy towards all, The sage fulfils the vitue's call",
+          "Soul is encased in frame of bone To taste the life of love alone",
+          "Of perdition let him be sure Who leaves justice to sinful lure"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புலவி நுணுக்கம்) பகுதியில் குறள் 1316 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நினைத்தேன் என்று கூறி‌னேன்; நினைப்புக்கு முன் மறப்பு உண்டு அன்றோ? ஏன் மறந்தீர் என்று என்னைத் தழுவாமல் ஊடினாள். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) உள்ளினேன் என்றேன் - பிரிந்த காலத்து நின்னையிடையின்றி நினைந்தேன் என்னும் கருத்தால், யான் உள்ளினேன் என்றேன்; மற்று என் மறந்தீர் என்று என்னைப் புல்லாள் புலத்தக்கனள் - என, அதனை ஒருகால் மறந்து பின் நினைந்தேன் என்றதாகக் கருதி, என்னை யிடையே மறந்தீர...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 132: 'Feigned Anger'), Kural 1316 distills a foundational ethical insight: \"'Each day I called to mind your charms,' 'O, then, you had forgot,'She cried, and then her opened arms, Forthwith embraced me not\" Philosophically, When I said I had remembered her, she said I had forgotten her and relaxing her embrace, began to feign dislike.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "education",
+        "harmony",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1317,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: யான் தும்மினேனாக; அவள் நூறாண்டு என வாழ்த்தினாள்; உடனே அதை விட்டு யார் நினைத்ததால் தும்மினீர்? என்று கேட்டு அழுதாள்?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: When I sneezed she blessed me, but at once changed (her mind) and wept, asking, \"At the thought of whom did you sneeze?\".",
+        "story_title_ta": "புலவி நுணுக்கம் — இனியா கற்ற பாடம்",
+        "story_title_en": "Feigned Anger — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புலவி நுணுக்கம்' என்ற அதிகாரத்தில் வரும் குறள் 1317 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1317 from 'Feigned Anger', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: தும்மினேன்; வழக்கப்படி அவள் என்னை வாழ்த்தினாள் உடனே என்ன சந்தேகமோ ``யார் உம்மை நினைத்ததால் தும்மினீர்'' என்று கேட்டு, முதலில் அளித்த வாழ்த்துக்கு மாறாக அழத் தொடங்கிவிட்டாள்.",
+        "moral_en": "Moral: She hailed me when I sneezed one day; But straight with anger seized, She cried; 'Who was the woman, pray, Thinking of whom you sneezed?'.",
+        "game_blank_word_ta": "யாருள்ளித்",
+        "game_options_ta": [
+          "பெண்ணியலார்",
+          "யாருள்ளித்",
+          "எல்லாரும்",
+          "கண்ணின்"
+        ],
+        "game_options_en": [
+          "I shrink to clasp you bosom lewd To the gaze of all ladies exposed",
+          "I sneezed; she blessed; then changed and wept \\\"You sneezed now at which lady's thought?\\\"",
+          "He sneezed while we went on sulking Expecting me to say \\\"live long\\\"",
+          "\\\"For which lady?\\\" she widely cries While I adorn myself with flowers"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலவி நுணுக்கம் (கற்பியல்) பிரிவில் அமைந்த குறள் 1317, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நான் தும்ம, அவள் இயல்பாகவே வாழ்த்தினாள்; அப்படி வாழ்த்தியவளே மறுபடியும் நீர் இப்போது எவள் உம்மை நினைத்ததால் தும்மினீர், என்று கேட்டு ஊடி அழுதாள். கலைஞர் உரை கூறுவது: தும்மினேன்; வழக்கப்படி அவள் என்னை வாழ்த்தினாள் உடனே என்ன சந்தேகமோ ``யார் உம்மை நினைத்ததால் தும்மினீர்'' என்று கேட்டு, முதலில் அளித்த வாழ்த்துக்கு மாறாக அழத் தொடங்கிவிட்டாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Feigned Anger (Post-marital Love), Kural 1317 speaks directly to teens navigating studies, friendships, leadership, and digital choices: When I sneezed she blessed me, but at once changed (her mind) and wept, asking, \"At the thought of whom did you sneeze?\". Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புலவி நுணுக்கம்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Feigned Anger'.",
+        "quiz_question_ta": "'புலவி நுணுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 1317 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1317 from Chapter 'Feigned Anger'?",
+        "quiz_options_ta": [
+          "அறம் சிறப்பையும் அளிக்கும்: செல்வத்தையும் அளிக்கும்: ஆகையால் உயிர்க்கு அத்தகைய அறத்தை விட நன்மையானது வேறு யாது?",
+          "யான் தும்மினேனாக; அவள் நூறாண்டு என வாழ்த்தினாள்; உடனே அதை விட்டு யார் நினைத்ததால் தும்மினீர்? என்று கேட்டு அழுதாள்?",
+          "அன்பு பிறரிடம் விருப்பம் உடையவராக வாழும் தன்மையைத் தரும்: அஃது எல்லாரிடத்தும் நட்பு என்றுசொல்லப்படும் அளவற்ற சிறப்பைத் தரும்",
+          "நடுவுநிலைமை நின்று அறநெறியில் நிலைத்து வாழகின்றவன் அடைந்த வறுமை நிலையைக் கேடு என கொள்ளாது உலகு."
+        ],
+        "quiz_options_en": [
+          "From virtue weal and wealth outflow; What greater good can mankind know?",
+          "I sneezed; she blessed; then changed and wept \\\"You sneezed now at which lady's thought?\\\"",
+          "Love yields aspiration and thence Friendship springs up in excellence",
+          "The just reduced to poverty Is not held down by equity"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புலவி நுணுக்கம்) பகுதியில் குறள் 1317 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யான் தும்மினேனாக; அவள் நூறாண்டு என வாழ்த்தினாள்; உடனே அதை விட்டு யார் நினைத்ததால் தும்மினீர்? என்று கேட்டு அழுதாள்? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) தும்மினேனாக வழுத்தினாள் - கூடியிருக்கின்றவள் யான் தும்மினேனாகத் தன் இயற்கை பற்றி வாழ்த்தினாள்; அழித்து யார் உள்ளித் தும்மினீர் என்று அழுதாள் - அங்ஙனம் வாழ்த்திய தானே மறித்து, நும்மை நினைத்து வருந்துகின்ற மகளிருள் யாவர் நினைத்தலால் தும்மினீர...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 132: 'Feigned Anger'), Kural 1317 distills a foundational ethical insight: \"She hailed me when I sneezed one day; But straight with anger seized, She cried; 'Who was the woman, pray, Thinking of whom you sneezed?'\" Philosophically, When I sneezed she blessed me, but at once changed (her mind) and wept, asking, \"At the thought of whom did you sneeze?\".",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "leadership",
+        "education",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1318,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அவளுடைய ஊடலுக்கு அஞ்சி யான் தும்மலை அடக்கிக் கொள்ள உம்மவர் உம்மை நினைப்பதை எமக்குத் தெரியாமல் மறைக்கின்றீரோ என்று அழுதாள்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: When I suppressed my sneezing, she wept saying, \"I suppose you (did so) to hide from me your own people's remembrance of you\".",
+        "story_title_ta": "புலவி நுணுக்கம் — முகில் கற்ற பாடம்",
+        "story_title_en": "Feigned Anger — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புலவி நுணுக்கம்' என்ற அதிகாரத்தில் வரும் குறள் 1318 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1318 from 'Feigned Anger', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ஊடல் கொள்வாளோ எனப் பயந்து நான் தும்மலை அடக்கிக் கொள்வதைப் பார்த்த அவள் ``ஓ'' உமக்கு நெருங்கியவர் உம்மை நினைப்பதை நான் அறியாதபடி மறைக்கிறீரோ?'' எனக் கேட்டு அழுதாள்.",
+        "moral_en": "Moral: And so next time I checked my sneeze; She forthwith wept and cried,(That woman difficult to please), 'Your thoughts from me you hide'.",
+        "game_blank_word_ta": "அழுதாள்",
+        "game_options_ta": [
+          "பெண்ணியலார்",
+          "எல்லாரும்",
+          "அழுதாள்",
+          "கண்ணின்"
+        ],
+        "game_options_en": [
+          "I shrink to clasp you bosom lewd To the gaze of all ladies exposed",
+          "He sneezed while we went on sulking Expecting me to say \\\"live long\\\"",
+          "I repressed sneeze; she wept crying \\\"Your thoughts from me you are hiding\\\"",
+          "\\\"For which lady?\\\" she widely cries While I adorn myself with flowers"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலவி நுணுக்கம் (கற்பியல்) பிரிவில் அமைந்த குறள் 1318, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடுத்தமுறை தும்மல் வர அதனை வெளிப்படுத்தாமல் நான் அடக்கினேன்; அதைப் பார்த்து யாரோ உமக்கு வேண்டியவர்கள் உம்மை நினைப்பதை நான் அறிந்துவிடக்கூடாது என்று எனக்கு மறைக்கிறீரோ, என்று ஊடி அழுதாள். கலைஞர் உரை கூறுவது: ஊடல் கொள்வாளோ எனப் பயந்து நான் தும்மலை அடக்கிக் கொள்வதைப் பார்த்த அவள் ``ஓ'' உமக்கு நெருங்கியவர் உம்மை நினைப்பதை நான் அறியாதபடி மறைக்கிறீரோ?'' எனக் கேட்டு அழுதாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Feigned Anger (Post-marital Love), Kural 1318 speaks directly to teens navigating studies, friendships, leadership, and digital choices: When I suppressed my sneezing, she wept saying, \"I suppose you (did so) to hide from me your own people's remembrance of you\". Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புலவி நுணுக்கம்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Feigned Anger'.",
+        "quiz_question_ta": "'புலவி நுணுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 1318 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1318 from Chapter 'Feigned Anger'?",
+        "quiz_options_ta": [
+          "ஒரு வருடைய வாழ்கைக்கு அறத்தை விட நன்மையானதும் இல்லை: அறத்தை போற்றாமல் மறப்பதை விடக்கொடியதும் இல்லை.",
+          "உலகத்தில் இன்பம் உற்று வாழ்கின்றவர் அடையும் சிறப்பு, அன்பு உடையவராகிப் பொருந்தி வாழும் வாழ்கையின் பயன் என்று கூறுவர்",
+          "அவளுடைய ஊடலுக்கு அஞ்சி யான் தும்மலை அடக்கிக் கொள்ள உம்மவர் உம்மை நினைப்பதை எமக்குத் தெரியாமல் மறைக்கின்றீரோ என்று அழுதாள்.",
+          "முன்னே தான் சமமாக இருந்து, பின்பு பொருளைச் சீர்தூக்கும் துலாக்கோல் போல் அமைந்து, ஒரு பக்கமாக சாயாமல் நடுவுநி‌லைமை போற்றுவது சான்றோர்க்கு அழகாகும்."
+        ],
+        "quiz_options_en": [
+          "Virtue enhances joy and gain; Forsaking it is fall and pain",
+          "The crowning joy of home life flows From peaceful psychic love always",
+          "I repressed sneeze; she wept crying \\\"Your thoughts from me you are hiding\\\"",
+          "Like balance holding equal scales A well poised mind is jewel of the wise"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புலவி நுணுக்கம்) பகுதியில் குறள் 1318 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அவளுடைய ஊடலுக்கு அஞ்சி யான் தும்மலை அடக்கிக் கொள்ள உம்மவர் உம்மை நினைப்பதை எமக்குத் தெரியாமல் மறைக்கின்றீரோ என்று அழுதாள். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) தும்முச் செறுப்ப - எனக்குத் தும்மல் தோன்றியவழி, யார் உள்ளித் தும்மினீர்? என்று புலத்தலை அஞ்சி, அதனையான் அடக்கினேன், அங்ஙனம் அடக்கவும்; நுமர் உள்ளல் எம்மை மறைத்திரோ என்று அழுதாள் - நுமர் நும்மை நினைத்தலை எம்மை மறைக்கல் உற்றீரோ என்று சொல்லிப...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 132: 'Feigned Anger'), Kural 1318 distills a foundational ethical insight: \"And so next time I checked my sneeze; She forthwith wept and cried,(That woman difficult to please), 'Your thoughts from me you hide'\" Philosophically, When I suppressed my sneezing, she wept saying, \"I suppose you (did so) to hide from me your own people's remembrance of you\".",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "harmony",
+        "time",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1319,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஊடியிருந்தபோது அவளை ஊடல் உணர்த்தி மகிழ்வித்தாலும், நீர் மற்ற மகளிர்க்கும் இத்தன்மையானவராக ஆவீர் என்று ‌சொல்லிச் சினம் கொள்வாள்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: 'I see', quoth she, 'to other folks How you are wondrous kind' Even when I try to remove her dislike, she is displeased and says, \"This is the way you behave.",
+        "story_title_ta": "புலவி நுணுக்கம் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Feigned Anger — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புலவி நுணுக்கம்' என்ற அதிகாரத்தில் வரும் குறள் 1319 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1319 from 'Feigned Anger', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நான் பணிந்து போய் அவள் ஊடலை நீக்கி மகிழ்வித்தாலும், உடனே அவள் ``ஓ! நீர் இப்படித்தான் மற்ற பெண்களிடமும் நடந்து கொள்வீரோ?'' என்று சினந்தெழுவாள்.",
+        "moral_en": "Moral: I then began to soothe and coax, To calm her jealous mind;'I see', quoth she, 'to other folks How you are wondrous kind.",
+        "game_blank_word_ta": "பிறர்க்கும்நீர்",
+        "game_options_ta": [
+          "பெண்ணியலார்",
+          "எல்லாரும்",
+          "கண்ணின்",
+          "பிறர்க்கும்நீர்"
+        ],
+        "game_options_en": [
+          "I shrink to clasp you bosom lewd To the gaze of all ladies exposed",
+          "He sneezed while we went on sulking Expecting me to say \\\"live long\\\"",
+          "\\\"For which lady?\\\" she widely cries While I adorn myself with flowers",
+          "I try to coax her and she remarks \\\"Your coaxing others thus this marks\\\""
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலவி நுணுக்கம் (கற்பியல்) பிரிவில் அமைந்த குறள் 1319, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஊடியிருந்தபோது அவளை ஊடல் உணர்த்தி மகிழ்வித்தாலும். நீர் மற்ற மகளிர்க்கும் இத்தன்மையானவராக ஆவீர் என்று சொல்லி சினம் கொள்வாள். கலைஞர் உரை கூறுவது: நான் பணிந்து போய் அவள் ஊடலை நீக்கி மகிழ்வித்தாலும், உடனே அவள் ``ஓ! நீர் இப்படித்தான் மற்ற பெண்களிடமும் நடந்து கொள்வீரோ?'' என்று சினந்தெழுவாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Feigned Anger (Post-marital Love), Kural 1319 speaks directly to teens navigating studies, friendships, leadership, and digital choices: 'I see', quoth she, 'to other folks How you are wondrous kind' Even when I try to remove her dislike, she is displeased and says, \"This is the way you behave. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புலவி நுணுக்கம்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Feigned Anger'.",
+        "quiz_question_ta": "'புலவி நுணுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 1319 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1319 from Chapter 'Feigned Anger'?",
+        "quiz_options_ta": [
+          "செய்யக்கூடிய வகையால், எக்காரணத்தாலும் விடாமல் செல்லுமிடமெல்லாம் அறச்செயலைப் போற்றிச் செய்ய வேண்டும்.",
+          "அறியாதவர், அறத்திற்கு மட்டுமே அன்பு துணையாகும் என்று கூறுவர்:ஆராய்ந்து பார்த்தால் வீரத்திற்க்கும் அதுவே துணையாக நிற்கின்றது",
+          "உள்ளத்தில் கோணுதல் இல்லாத தன்மையை உறுதியாகப் பெற்றால், சொல்லிலும் கோணுதல் இல்லாதிருத்தல் நடுவுநிலைமையாம்.",
+          "ஊடியிருந்தபோது அவளை ஊடல் உணர்த்தி மகிழ்வித்தாலும், நீர் மற்ற மகளிர்க்கும் இத்தன்மையானவராக ஆவீர் என்று ‌சொல்லிச் சினம் கொள்வாள்."
+        ],
+        "quiz_options_en": [
+          "Perform good deeds as much you can Always and everywhere, o man!",
+          "\\\"Love is virtue's friend\\\" say know-nots It helps us against evil plots",
+          "Justice is upright, unbending And free from crooked word-twisting",
+          "I try to coax her and she remarks \\\"Your coaxing others thus this marks\\\""
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புலவி நுணுக்கம்) பகுதியில் குறள் 1319 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஊடியிருந்தபோது அவளை ஊடல் உணர்த்தி மகிழ்வித்தாலும், நீர் மற்ற மகளிர்க்கும் இத்தன்மையானவராக ஆவீர் என்று ‌சொல்லிச் சினம் கொள்வாள். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) தன்னை உணர்த்தினும் காயும் - இவ்வாற்றான் ஊடிய தன்னை யான் பணிந்து உணர்த்துங்காலும் வெகுளா நிற்கும்; பிறர்க்கும் நீர் இந்நீரர் ஆகுதிர் என்று - பிற மகளிர்க்கும் அவர் ஊடியவழி இவ்வாறே பணிந்துணர்த்தும் நீர்மையையுடையீராகுதிர், என்று சொல்லி. ('இவள...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 132: 'Feigned Anger'), Kural 1319 distills a foundational ethical insight: \"I then began to soothe and coax, To calm her jealous mind;'I see', quoth she, 'to other folks How you are wondrous kind\" Philosophically, 'I see', quoth she, 'to other folks How you are wondrous kind' Even when I try to remove her dislike, she is displeased and says, \"This is the way you behave.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "speech",
+        "harmony",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1320,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அவளுடைய அழகை நி‌னைத்து அமைதியாக இருந்து நோக்கினாலும், நீர் யாரை நினைத்து ஒப்புமையாக எல்லாம் பார்க்கின்றீர்? என்று சினம் கொள்வாள்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Even when I look on her contemplating (her beauty), she is displeased and says, \"With whose thought have you (thus) looked on my person?\".",
+        "story_title_ta": "புலவி நுணுக்கம் — கவின் கற்ற பாடம்",
+        "story_title_en": "Feigned Anger — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புலவி நுணுக்கம்' என்ற அதிகாரத்தில் வரும் குறள் 1320 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1320 from 'Feigned Anger', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ஒப்பற்ற அவளுடைய அழகை நினைத்து அவளையே இமை கொட்டாமல் பார்த்துக் கொண்டிருந்தாலும், யாருடன் என்னை ஒப்பிட்டு உற்றுப் பார்க்கிறீர் என்று கோபம் கொள்வாள்.",
+        "moral_en": "Moral: I silent sat, but thought the more, And gazed on her Then sheCried out, 'While thus you eye me o'er, Tell me whose form you see'.",
+        "game_blank_word_ta": "யாருள்ளி",
+        "game_options_ta": [
+          "யாருள்ளி",
+          "பெண்ணியலார்",
+          "எல்லாரும்",
+          "கண்ணின்"
+        ],
+        "game_options_en": [
+          "I think and gaze at her; she chides: \\\"On whom your thought just now abides?\\\"",
+          "I shrink to clasp you bosom lewd To the gaze of all ladies exposed",
+          "He sneezed while we went on sulking Expecting me to say \\\"live long\\\"",
+          "\\\"For which lady?\\\" she widely cries While I adorn myself with flowers"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புலவி நுணுக்கம் (கற்பியல்) பிரிவில் அமைந்த குறள் 1320, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் பேச்சிலும், செயலிலும் அவள் கோபம் கொள்வதால், பேசாமல், அவள் உறுப்புகளின் அழகை எண்ணி அவற்றையே பார்த்திருப்பேன். அதற்கு எவள் உறுப்புப் போல் இருக்கிறதென்று என் மேனியைப் பார்க்கிறீர். என்று சொல்லிச் சினப்பாள். கலைஞர் உரை கூறுவது: ஒப்பற்ற அவளுடைய அழகை நினைத்து அவளையே இமை கொட்டாமல் பார்த்துக் கொண்டிருந்தாலும், யாருடன் என்னை ஒப்பிட்டு உற்றுப் பார்க்கிறீர் என்று கோபம் கொள்வாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Feigned Anger (Post-marital Love), Kural 1320 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even when I look on her contemplating (her beauty), she is displeased and says, \"With whose thought have you (thus) looked on my person?\". Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புலவி நுணுக்கம்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Feigned Anger'.",
+        "quiz_question_ta": "'புலவி நுணுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 1320 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1320 from Chapter 'Feigned Anger'?",
+        "quiz_options_ta": [
+          "அவளுடைய அழகை நி‌னைத்து அமைதியாக இருந்து நோக்கினாலும், நீர் யாரை நினைத்து ஒப்புமையாக எல்லாம் பார்க்கின்றீர்? என்று சினம் கொள்வாள்.",
+          "ஒருவன் தன்மனதில் குற்றம் இல்லாதவானாக இருக்க வேண்டும். அறம் அவ்வளவே: மனத்தூய்மை இல்லாத மற்றவை ஆரவாரத் தன்மை உடையவை.",
+          "எலும்பு இல்லாத உடம்போடு வாழும் புழுவை வெயில் காய்ந்து வருத்துவது போல் அன்பு இல்லாத உயிரை அறம் வருத்தும்.",
+          "பிறர் பொருளையும் தம் பொருள் போல் போற்றிச் செய்தால், அதுவே வாணிகம் செய்வோர்க்கு உரி‌ய நல்ல வாணிக முறையாகும்."
+        ],
+        "quiz_options_en": [
+          "I think and gaze at her; she chides: \\\"On whom your thought just now abides?\\\"",
+          "In spotless mind virtue is found And not in show and swelling sound",
+          "Justice burns the loveless form Like solar blaze the boneless worm",
+          "A trader's trade prospers fairly When his dealings are neighbourly"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புலவி நுணுக்கம்) பகுதியில் குறள் 1320 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அவளுடைய அழகை நி‌னைத்து அமைதியாக இருந்து நோக்கினாலும், நீர் யாரை நினைத்து ஒப்புமையாக எல்லாம் பார்க்கின்றீர்? என்று சினம் கொள்வாள். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நினைத்து இருந்து நோக்கினும் காயும் - என் சொற்களும் செயல்களும் பற்றித் தான் வெகுடலான், அவற்றையொழிந்திருந்து தன் அவயங்களது ஒப்பின்மையை நினைந்து அவற்றையே நோக்கினும் என்னை வெகுளாநிற்கும்; அனைததும் நீர் நோக்கினீர் யார் உள்ளி என்று - நீர் என...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 132: 'Feigned Anger'), Kural 1320 distills a foundational ethical insight: \"I silent sat, but thought the more, And gazed on her Then sheCried out, 'While thus you eye me o'er, Tell me whose form you see'\" Philosophically, Even when I look on her contemplating (her beauty), she is displeased and says, \"With whose thought have you (thus) looked on my person?\".",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "justice",
+        "speech",
+        "education"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "adhikaram_id": 75,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.145922883+00:00",
+  "kurals": [
+    {
+      "kural_number": 741,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: (படையெடுத்தும்) போர் செய்யச் செல்பவர்க்கும் அரண் சிறந்ததாகும், (படையெடுத்தவர்க்கு) அஞ்சித் தன்னை புகழிடமாக அடைந்தவர்க்கும் அது சிறந்ததாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: A fort is an object of importance to those who march (against their foes) as well as to those who through fear (of pursuers) would seek it for shelter.",
+        "story_title_ta": "அரண் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Fortification — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'அரண்' என்ற அதிகாரத்திலிருந்து குறள் 741 பற்றிக் கதை சொன்னார். 'பிறர்மேல் படை எடுத்துச் செல்பவர்க்கும் சிறந்தது அரண்; பிறருக்குப் பயந்து உள்ளிருப்பவர்க்கும் அதுவே சிறந்தது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 75, 'The Fortification', centered on Kural 741: A fort is an object of importance to those who march (against their foes) as well as to those who through fear (of pursuers) would seek it for shelter. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பகைவர் மீது படையெடுத்துச் செல்பவர்க்கும் கோட்டை பயன்படும்; பகைவர்க்கு அஞ்சித் தம்மைப் பாதுகாத்துக் கொள்ள முனைவோர்க்கும் கோட்டை பயன்படும்.",
+        "moral_en": "Moral: A fort is wealth to those who act against their foes; Is wealth to them who, fearing, guard themselves from woes.",
+        "game_blank_word_ta": "அஞ்சித்தற்",
+        "game_options_ta": [
+          "மணிநீரும்",
+          "அஞ்சித்தற்",
+          "மண்ணும்",
+          "மலையும்"
+        ],
+        "game_options_en": [
+          "A crystal fount, a space a mount Thick woods form a fort paramount",
+          "The fort is vital for offence Who fear the foes has its defence",
+          "An ideal fort's so says science: High, broad, strong and hard for access",
+          "Ample in space, easy to hold The fort foils enemies bold"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அரண் (அங்கவியல்) பிரிவில் அமைந்த குறள் 741, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர்மேல் படை எடுத்துச் செல்பவர்க்கும் சிறந்தது அரண்; பிறருக்குப் பயந்து உள்ளிருப்பவர்க்கும் அதுவே சிறந்தது. கலைஞர் உரை கூறுவது: பகைவர் மீது படையெடுத்துச் செல்பவர்க்கும் கோட்டை பயன்படும்; பகைவர்க்கு அஞ்சித் தம்மைப் பாதுகாத்துக் கொள்ள முனைவோர்க்கும் கோட்டை பயன்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Fortification (Ministers & Elements of State), Kural 741 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A fort is an object of importance to those who march (against their foes) as well as to those who through fear (of pursuers) would seek it for shelter. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'அரண்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Fortification' thoughtfully.",
+        "quiz_question_ta": "'அரண்' அதிகாரத்தில் வரும் திருக்குறள் 741 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 741 from Chapter 'The Fortification'?",
+        "quiz_options_ta": [
+          "நட்புச் செய்வதற்குத் தொடர்பும் பழக்கமும் வேண்டியதில்லை, ஒத்த உணர்ச்சியே நட்பு ஏற்படுத்துவதற்கு வேண்டிய உரிமையைக் கொடுக்கும்.",
+          "(படையெடுத்தும்) போர் செய்யச் செல்பவர்க்கும் அரண் சிறந்ததாகும், (படையெடுத்தவர்க்கு) அஞ்சித் தன்னை புகழிடமாக அடைந்தவர்க்கும் அது சிறந்ததாகும்.",
+          "பகைவர் வணங்கித் தொழுத கையினுள்ளும் கொலைக்கருவி மறைந்திருக்கும், பகைவர் அழுதுசொரிந்த கண்ணீரும் அத்தன்மையானதே.",
+          "பகை என்று சொல்லப்படும் பண்பு இல்லாத தீமையை ஒருவன் சிறிதும் பொழுது போக்கும் விளையாட்டாகவும் விரும்புதலாகாது."
+        ],
+        "quiz_options_en": [
+          "No close living nor clasping grip Friendship's feeling heart's fellowship",
+          "The fort is vital for offence Who fear the foes has its defence",
+          "Adoring hands of foes hide arms Their sobbing tears have lurking harms",
+          "Let not one even as a sport The ill-natured enmity court"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (அரண்) பகுதியில் குறள் 741 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (படையெடுத்தும்) போர் செய்யச் செல்பவர்க்கும் அரண் சிறந்ததாகும், (படையெடுத்தவர்க்கு) அஞ்சித் தன்னை புகழிடமாக அடைந்தவர்க்கும் அது சிறந்ததாகும். பரிமேலழகர் உரை நுட்பம்: ஆற்றுபவர்க்கும் அரண் பொருள் - மூவகை ஆற்றலுமுடையராய்ப் பிறர்மேற் செல்வார்க்கும் அரண் சிறந்தது; அஞ்சித்தன் போற்றுபவர்க்கும் அரண் பொருள் - அவையின்றித் தம்மேல் வருவார்க்கு அஞ்சித் தன்னையே அடைவார்க்கும் அரண் சிறந்தது; (பிறர்மேல் செல்லுங்கால் உரிமை பொருள...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 75: 'The Fortification'), Kural 741 distills a foundational ethical insight: \"A fort is wealth to those who act against their foes; Is wealth to them who, fearing, guard themselves from woes\" Philosophically, A fort is an object of importance to those who march (against their foes) as well as to those who through fear (of pursuers) would seek it for shelter.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "wealth",
+        "gratitude",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 742,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: மணிபோல் தெளிந்த நீரும், வெட்ட வெளியான நிலமும், மலையும், அழகிய நிழல் உடைய காடும் ஆகிய இவை நான்கும் உள்ளதே அரண் ஆகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: A fort is that which has everlasting water, plains, mountains and cool shady forests.",
+        "story_title_ta": "அரண் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Fortification — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'அரண்' என்ற அதிகாரத்திலிருந்து குறள் 742 பற்றிக் கதை சொன்னார். 'தெளிந்த நீர், வெட்ட வெளியான நிலம், உயர்ந்த மலை, அடர்ந்த காடு என்னும் இவையே நீர் அரண், நில அரண், மலை அரண், காட்டு அரண் என இயற்கை அரண்களாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 75, 'The Fortification', centered on Kural 742: A fort is that which has everlasting water, plains, mountains and cool shady forests. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஆழமும் அகலமும் கொண்ட அகழ், பரந்த நிலம், உயர்ந்து நிற்கும் மலைத்தொடர், அடர்ந்திருக்கும் காடு ஆகியவற்றை உடையதே அரணாகும்.",
+        "moral_en": "Moral: A fort is that which owns fount of waters crystal clear, An open space, a hill, and shade of beauteous forest near.",
+        "game_blank_word_ta": "மணிநீரும்",
+        "game_options_ta": [
+          "ஆற்று",
+          "பவர்க்கும்",
+          "மணிநீரும்",
+          "அரண்பொருள்"
+        ],
+        "game_options_en": [
+          "The fort is vital for offence Who fear the foes has its defence",
+          "An ideal fort's so says science: High, broad, strong and hard for access",
+          "A crystal fount, a space a mount Thick woods form a fort paramount",
+          "Ample in space, easy to hold The fort foils enemies bold"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அரண் (அங்கவியல்) பிரிவில் அமைந்த குறள் 742, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தெளிந்த நீர், வெட்ட வெளியான நிலம், உயர்ந்த மலை, அடர்ந்த காடு என்னும் இவையே நீர் அரண், நில அரண், மலை அரண், காட்டு அரண் என இயற்கை அரண்களாகும். கலைஞர் உரை கூறுவது: ஆழமும் அகலமும் கொண்ட அகழ், பரந்த நிலம், உயர்ந்து நிற்கும் மலைத்தொடர், அடர்ந்திருக்கும் காடு ஆகியவற்றை உடையதே அரணாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Fortification (Ministers & Elements of State), Kural 742 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A fort is that which has everlasting water, plains, mountains and cool shady forests. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'அரண்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Fortification' thoughtfully.",
+        "quiz_question_ta": "'அரண்' அதிகாரத்தில் வரும் திருக்குறள் 742 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 742 from Chapter 'The Fortification'?",
+        "quiz_options_ta": [
+          "முகம் மட்டும் மலரும் படியா நட்பு செய்வது நட்பு அன்று, நெஞ்சமும் மலரும் படியாக உள்ளன்பு கொண்டு நட்பு செய்வதே நட்பு ஆகும்.",
+          "புறத்தே மிகுதியாக நட்புத் தோன்றச் செய்து அகத்தில் இகழ்கின்றவரைத் தாமும் அந் நட்பில் நகைத்து மகிழுமாறு செய்து அத் தொடர்பு சாகுமாறு நடக்க வேண்டும்.",
+          "மணிபோல் தெளிந்த நீரும், வெட்ட வெளியான நிலமும், மலையும், அழகிய நிழல் உடைய காடும் ஆகிய இவை நான்கும் உள்ளதே அரண் ஆகும்.",
+          "வில்லை ஏராக உடைய உழவராகிய வீரருடன் பகை கொண்ட போதிலும், சொல்லை ஏராக உடைய உழவராகிய அறிஞருடன் பகை கொள்ளக் கூடாது."
+        ],
+        "quiz_options_en": [
+          "Friendship is not more smile on face It is the smiling heart's embrace",
+          "In open who praise, at heart despise Cajole and crush them in friendly guise",
+          "A crystal fount, a space a mount Thick woods form a fort paramount",
+          "Incur the hate of bow-ploughers But not the hate of word-ploughers"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (அரண்) பகுதியில் குறள் 742 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மணிபோல் தெளிந்த நீரும், வெட்ட வெளியான நிலமும், மலையும், அழகிய நிழல் உடைய காடும் ஆகிய இவை நான்கும் உள்ளதே அரண் ஆகும். பரிமேலழகர் உரை நுட்பம்: மணி நீரும் மண்ணும் மலையும் அணிநிழற் காடும் உடையது அரண் - மணி போலும் நிறத்தினையுடைய நீரும், வெள்ளிடை நிலமும், மலையும், குளிர்ந்த நிழலையுடைய காடும் உடையதே அரணாவது. (எஞ்ஞான்றும் வற்றாத நீர் என்பார் 'மணி நீர்' என்றும், நீரும் நிழலும் இல்லா மருநிலம் என்பார் 'மண...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 75: 'The Fortification'), Kural 742 distills a foundational ethical insight: \"A fort is that which owns fount of waters crystal clear, An open space, a hill, and shade of beauteous forest near\" Philosophically, A fort is that which has everlasting water, plains, mountains and cool shady forests.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 743,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: உயரம், அகலம், உறுதி, பகைவரால் அழிக்க முடியாத அருமை ஆகிய இந்த நான்கும் அமைந்திப்பதே அரண் என்று நூலோர் கூறுவர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The learned say that a fortress is an enclosure having these four (qualities) viz, height, breadth, strength and inaccessibility.",
+        "story_title_ta": "அரண் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Fortification — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'அரண்' என்ற அதிகாரத்திலிருந்து குறள் 743 பற்றிக் கதை சொன்னார். 'பகைவர் ஏற முடியாத உயரம், காவலர் நிற்க இயங்க வசதியான அகலம், இடிக்கமுடியாத வலிமை, கடக்க முடியாத பொறிகளின் அருமை, இந்நான்கையும் மிகுதியாக உடைய கோட்டையையே செயற்கை அரண் என்று நூல்கள் கூறும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 75, 'The Fortification', centered on Kural 743: The learned say that a fortress is an enclosure having these four (qualities) viz, height, breadth, strength and inaccessibility. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உயரம், அகலம், உறுதி, பகைவரால் அழிக்க இயலாத அமைப்பு ஆகிய நான்கும் அமைந்திருப்பதே அரணுக்குரிய இலக்கணமாகும்.",
+        "moral_en": "Moral: Height, breadth, strength, difficult access:Science declares a fort must these possess.",
+        "game_blank_word_ta": "என்றுரைக்கும்",
+        "game_options_ta": [
+          "ஆற்று",
+          "பவர்க்கும்",
+          "அரண்பொருள்",
+          "என்றுரைக்கும்"
+        ],
+        "game_options_en": [
+          "The fort is vital for offence Who fear the foes has its defence",
+          "A crystal fount, a space a mount Thick woods form a fort paramount",
+          "Ample in space, easy to hold The fort foils enemies bold",
+          "An ideal fort's so says science: High, broad, strong and hard for access"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அரண் (அங்கவியல்) பிரிவில் அமைந்த குறள் 743, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகைவர் ஏற முடியாத உயரம், காவலர் நிற்க இயங்க வசதியான அகலம், இடிக்கமுடியாத வலிமை, கடக்க முடியாத பொறிகளின் அருமை, இந்நான்கையும் மிகுதியாக உடைய கோட்டையையே செயற்கை அரண் என்று நூல்கள் கூறும். கலைஞர் உரை கூறுவது: உயரம், அகலம், உறுதி, பகைவரால் அழிக்க இயலாத அமைப்பு ஆகிய நான்கும் அமைந்திருப்பதே அரணுக்குரிய இலக்கணமாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Fortification (Ministers & Elements of State), Kural 743 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The learned say that a fortress is an enclosure having these four (qualities) viz, height, breadth, strength and inaccessibility. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'அரண்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Fortification' thoughtfully.",
+        "quiz_question_ta": "'அரண்' அதிகாரத்தில் வரும் திருக்குறள் 743 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 743 from Chapter 'The Fortification'?",
+        "quiz_options_ta": [
+          "அழிவைத் தரும் தீமைகளிலிருந்து நீக்கி, நல்ல வழியில் நடக்கச் செய்து, அழிவுவந்த காலத்தில் உடனிருந்து துன்பப்படுவதே நட்பாகும்.",
+          "பகைவர் நண்பராகும் காலம் வரும் போது முகத்தளவில் நட்பு கொண்டு அகத்தில் நட்பு நீங்கி வாய்ப்புக் கிடைத்த போது அதையும் விட வேண்டும்.",
+          "தான் தனியாக இருந்து பலருடைய பகையைத் தேடிக் கொள்பவன், பித்துப் பிடித்தாரை விட அறிவில்லாதவனாகக் கருதப்படுவான்.",
+          "உயரம், அகலம், உறுதி, பகைவரால் அழிக்க முடியாத அருமை ஆகிய இந்த நான்கும் அமைந்திப்பதே அரண் என்று நூலோர் கூறுவர்."
+        ],
+        "quiz_options_en": [
+          "From ruin friendship saves and shares The load of pain and right path shows",
+          "When foes, in time, play friendship's part Feign love on face but not in heart",
+          "Forlorn, who rouses many foes The worst insanity betrays",
+          "An ideal fort's so says science: High, broad, strong and hard for access"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (அரண்) பகுதியில் குறள் 743 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உயரம், அகலம், உறுதி, பகைவரால் அழிக்க முடியாத அருமை ஆகிய இந்த நான்கும் அமைந்திப்பதே அரண் என்று நூலோர் கூறுவர். பரிமேலழகர் உரை நுட்பம்: உயர்வு, அகலம், திண்மை, அருமை இந்நான்கின் அமைவு - உயர்ச்சியும், அகலமும், திண்மையும், அருமையும் என்று சொல்லப்பட்ட இந்நான்கின் மிகுதியையுடைய மதிலை; அரண் என்று உரைக்கும் நூல் - அரண் என்று சொல்லுவர் நூலோர். (அமைவு, நூல் என்பன ஆகுபெயர். உயர்வு - ஏணியெய்தாதது. அகலம...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 75: 'The Fortification'), Kural 743 distills a foundational ethical insight: \"Height, breadth, strength, difficult access:Science declares a fort must these possess\" Philosophically, The learned say that a fortress is an enclosure having these four (qualities) viz, height, breadth, strength and inaccessibility.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "education",
+        "speech",
+        "courage"
+      ]
+    },
+    {
+      "kural_number": 744,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: காக்க வேண்டிய இடம் சிறியதாய், மற்ற இடம் பெரிய பரப்புள்ளதாய், தன்னை எதிர்த்துவந்த பகைவரிருடைய ஊக்கத்தை அழிக்க வல்லது அரண் ஆகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: A fort is that which has an extensive space within, but only small places to be guarded, and such as can destroy the courage of besieging foes.",
+        "story_title_ta": "அரண் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Fortification — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'அரண்' என்ற அதிகாரத்திலிருந்து குறள் 744 பற்றிக் கதை சொன்னார். 'காவல் செய்யவேண்டிய இடம் சிறியதாயும், கோட்டையின் சுற்றுப் பெரியதாயும், சண்டையிட வரும் பகைவர்க்கு மலைப்பைத் தருவதாயும் அமைவது அரண்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 75, 'The Fortification', centered on Kural 744: A fort is that which has an extensive space within, but only small places to be guarded, and such as can destroy the courage of besieging foes. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உட்பகுதி பரந்த இடமாக அமைந்து, பாதுகாக்கப் படவேண்டிய பகுதி சிறிய இடமாக அமைந்து, கடும் பகையின் ஆற்றலை அழிக்கக் கூடியதே அரண் எனப்படும்.",
+        "moral_en": "Moral: A fort must need but slight defence, yet ample be, Defying all the foeman's energy.",
+        "game_blank_word_ta": "சிறுகாப்பிற்",
+        "game_options_ta": [
+          "சிறுகாப்பிற்",
+          "ஆற்று",
+          "பவர்க்கும்",
+          "அரண்பொருள்"
+        ],
+        "game_options_en": [
+          "Ample in space, easy to hold The fort foils enemies bold",
+          "The fort is vital for offence Who fear the foes has its defence",
+          "A crystal fount, a space a mount Thick woods form a fort paramount",
+          "An ideal fort's so says science: High, broad, strong and hard for access"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அரண் (அங்கவியல்) பிரிவில் அமைந்த குறள் 744, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காவல் செய்யவேண்டிய இடம் சிறியதாயும், கோட்டையின் சுற்றுப் பெரியதாயும், சண்டையிட வரும் பகைவர்க்கு மலைப்பைத் தருவதாயும் அமைவது அரண். கலைஞர் உரை கூறுவது: உட்பகுதி பரந்த இடமாக அமைந்து, பாதுகாக்கப் படவேண்டிய பகுதி சிறிய இடமாக அமைந்து, கடும் பகையின் ஆற்றலை அழிக்கக் கூடியதே அரண் எனப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Fortification (Ministers & Elements of State), Kural 744 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A fort is that which has an extensive space within, but only small places to be guarded, and such as can destroy the courage of besieging foes. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'அரண்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Fortification' thoughtfully.",
+        "quiz_question_ta": "'அரண்' அதிகாரத்தில் வரும் திருக்குறள் 744 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 744 from Chapter 'The Fortification'?",
+        "quiz_options_ta": [
+          "காக்க வேண்டிய இடம் சிறியதாய், மற்ற இடம் பெரிய பரப்புள்ளதாய், தன்னை எதிர்த்துவந்த பகைவரிருடைய ஊக்கத்தை அழிக்க வல்லது அரண் ஆகும்.",
+          "உடைநெகிழ்ந்தவனுடைய கை, உடனே உதவிக்காப்பது போல் (நண்பனுக்குத் துன்பம் வந்தால்) அப்போதே சென்று துன்பத்தைக் களைவது நட்பு.",
+          "பேதைமை என்று சொல்லப்படுவது யாது என்றால், தனக்கு கெடுதியானதைக் கைக் கொண்டு ஊதியமானதை கைவிடுதலாகும்.",
+          "பகையையும் நட்பாக செய்து கொண்டு நடக்கும், பண்புடையவனது பெருந்தன்மையில் உலகம் தங்கியிருப்பதாகும்."
+        ],
+        "quiz_options_en": [
+          "Ample in space, easy to hold The fort foils enemies bold",
+          "Friendship hastens help in mishaps Like hands picking up dress that slips",
+          "This is folly's prominent vein To favour loss and forego gain",
+          "This world goes safely in his grace Whose heart makes friends even of foes"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (அரண்) பகுதியில் குறள் 744 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காக்க வேண்டிய இடம் சிறியதாய், மற்ற இடம் பெரிய பரப்புள்ளதாய், தன்னை எதிர்த்துவந்த பகைவரிருடைய ஊக்கத்தை அழிக்க வல்லது அரண் ஆகும். பரிமேலழகர் உரை நுட்பம்: சிறுகாப்பின் பேர் இடத்தது ஆகி - காக்க வேண்டும் இடம் சிறிதாய் அகன்ற இடத்தை உடைத்தாய்; உறு பகை ஊக்கம் அழிப்பது அரண் - தன்னை வந்து முற்றிய பகைவரது மன எழுச்சியைக் கெடுப்பதே அரணாவது. (வாயிலும் வழியும் ஒழிந்த இடங்கள் மலை, காடு, நீர்நிலை என்றிவற்றுள் ஏற்பன...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 75: 'The Fortification'), Kural 744 distills a foundational ethical insight: \"A fort must need but slight defence, yet ample be, Defying all the foeman's energy\" Philosophically, A fort is that which has an extensive space within, but only small places to be guarded, and such as can destroy the courage of besieging foes.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 745,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பகைவரால் கைப்பற்ற முடியாததாய், தன்னிடம் உணவுபொருள் கொண்டதாய், உள்ளிருப்போர் நிலைத்திருப்பதர்க்கு எளிதாகிய தன்மை உடையது அரண்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: A fort is that which cannot be captured, which abounds in suitable provisions, and affords a position of easy defence to its inmates.",
+        "story_title_ta": "அரண் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Fortification — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'அரண்' என்ற அதிகாரத்திலிருந்து குறள் 745 பற்றிக் கதை சொன்னார். 'பலநாள் முற்றுகையிட்டாலும் பகைவரால் கைப்பற்ற முடியாதது ஆகி, உள்ளிருப்பார்க்கு வேண்டிய உணவையும் உடையதாய் உள்ளிருப்போர் போரிட வாய்ப்பாகவும் இருப்பதே அரண்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 75, 'The Fortification', centered on Kural 745: A fort is that which cannot be captured, which abounds in suitable provisions, and affords a position of easy defence to its inmates. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: முற்றுகையிட்டுக் கைப்பற்ற முடியாமல், உள்ளேயிருக்கும் படையினர்க்கும் மக்களுக்கும் வேண்டிய உணவுடன், எதிரிகளுடன் போர் புரிவதற்கு எளிதானதாக அமைக்கப்பட்டுள்ளதே அரண் ஆகும்.",
+        "moral_en": "Moral: Impregnable, containing ample stores of food, A fort for those within, must be a warlike station good.",
+        "game_blank_word_ta": "கொண்டகூழ்த்",
+        "game_options_ta": [
+          "ஆற்று",
+          "கொண்டகூழ்த்",
+          "பவர்க்கும்",
+          "அரண்பொருள்"
+        ],
+        "game_options_en": [
+          "The fort is vital for offence Who fear the foes has its defence",
+          "Impregnable with stores of food Cosy to live-That fort is good",
+          "A crystal fount, a space a mount Thick woods form a fort paramount",
+          "An ideal fort's so says science: High, broad, strong and hard for access"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அரண் (அங்கவியல்) பிரிவில் அமைந்த குறள் 745, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பலநாள் முற்றுகையிட்டாலும் பகைவரால் கைப்பற்ற முடியாதது ஆகி, உள்ளிருப்பார்க்கு வேண்டிய உணவையும் உடையதாய் உள்ளிருப்போர் போரிட வாய்ப்பாகவும் இருப்பதே அரண். கலைஞர் உரை கூறுவது: முற்றுகையிட்டுக் கைப்பற்ற முடியாமல், உள்ளேயிருக்கும் படையினர்க்கும் மக்களுக்கும் வேண்டிய உணவுடன், எதிரிகளுடன் போர் புரிவதற்கு எளிதானதாக அமைக்கப்பட்டுள்ளதே அரண் ஆகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Fortification (Ministers & Elements of State), Kural 745 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A fort is that which cannot be captured, which abounds in suitable provisions, and affords a position of easy defence to its inmates. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'அரண்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Fortification' thoughtfully.",
+        "quiz_question_ta": "'அரண்' அதிகாரத்தில் வரும் திருக்குறள் 745 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 745 from Chapter 'The Fortification'?",
+        "quiz_options_ta": [
+          "நட்புக்கு சிறந்த நிலை எது என்றால், எப்போதும் வேறுபடுதல் இல்லாமல், முடியும் போதெல்லாம் உதவி செய்து தாங்கும் நிலையாகும்.",
+          "பகைவரால் கைப்பற்ற முடியாததாய், தன்னிடம் உணவுபொருள் கொண்டதாய், உள்ளிருப்போர் நிலைத்திருப்பதர்க்கு எளிதாகிய தன்மை உடையது அரண்.",
+          "ஒருவனுக்கு பேதைமை எல்லாவற்றிலும் மிக்க பேதைமை, தன் ஒழுக்கத்திற்குப் பொருந்தாததில் தன் விருப்பத்தை செலுத்துதல் ஆகும்.",
+          "தனக்கு உதவியான துணையே இல்லை, பகையே இரண்டு, தானே ஒருவன் இந் நிலையில் அப் பகைகளில் ஒன்றை இனியத் துணையாகக் கொள்ள வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Friendship is enthroned on the strength That always helps with utmost warmth",
+          "Impregnable with stores of food Cosy to live-That fort is good",
+          "Folly of follies is to lead A lewd and lawless life so bad",
+          "Alone, if two foes you oppose Make one of them your ally close"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (அரண்) பகுதியில் குறள் 745 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பகைவரால் கைப்பற்ற முடியாததாய், தன்னிடம் உணவுபொருள் கொண்டதாய், உள்ளிருப்போர் நிலைத்திருப்பதர்க்கு எளிதாகிய தன்மை உடையது அரண். பரிமேலழகர் உரை நுட்பம்: கொளற்கு அரிதாய் - புறத்தாரால் கோடற்கு அரிதாய்; கொண்ட கூழ்த்து ஆகி - உட்கொண்ட பலவகை உணவிற்றாய்; அகத்தார் நிலைக்கு எளிதாம் நீரது அரண் - அகத்தாரது போர்நிலைக்கு எளிதாய நீர்மையையுடையதே அரணாவது. (கோடற்கு அருமை: இளை கிடங்குகளானும், பொறிகளானும் இடங்கொள்ளுதற்கு அருமை...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 75: 'The Fortification'), Kural 745 distills a foundational ethical insight: \"Impregnable, containing ample stores of food, A fort for those within, must be a warlike station good\" Philosophically, A fort is that which cannot be captured, which abounds in suitable provisions, and affords a position of easy defence to its inmates.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "courage",
+        "wealth",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 746,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தன்னிடம் (உள்ளவர்க்கு) எல்லாப் பொருளும் உடையதாய், போர் நெருக்கடியானவிடத்தில் உதவ வல்ல நல்ல விரர்களை உடையது அரண் ஆகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: A fort is that which has all (needful) things, and excellent heroes that can help it against destruction (by foes).",
+        "story_title_ta": "அரண் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Fortification — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'அரண்' என்ற அதிகாரத்திலிருந்து குறள் 746 பற்றிக் கதை சொன்னார். 'உள்ளிருப்போர்க்குத் தேவையான பொருள் எல்லாம் இருப்பதாய், வெளியே இருந்து அழிக்க முயலும் பகைவரை வெல்ல உதவும் வீரரைப் பெற்றதாய் இருப்பதே அரண்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 75, 'The Fortification', centered on Kural 746: A fort is that which has all (needful) things, and excellent heroes that can help it against destruction (by foes). Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: போருக்குத் தேவையான எல்லாப் பொருள்களும் கொண்டதாகவும், களத்தில் குதிக்கும் வலிமை மிக்க வீரர்களை உடையதாகவும் இருப்பதே அரண் ஆகும்.",
+        "moral_en": "Moral: A fort, with all munitions amply stored, In time of need should good reserves afford.",
+        "game_blank_word_ta": "நல்லாள்",
+        "game_options_ta": [
+          "ஆற்று",
+          "பவர்க்கும்",
+          "நல்லாள்",
+          "அரண்பொருள்"
+        ],
+        "game_options_en": [
+          "The fort is vital for offence Who fear the foes has its defence",
+          "A crystal fount, a space a mount Thick woods form a fort paramount",
+          "A fort is full of stores and arms And brave heroes to meet alarms",
+          "An ideal fort's so says science: High, broad, strong and hard for access"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அரண் (அங்கவியல்) பிரிவில் அமைந்த குறள் 746, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உள்ளிருப்போர்க்குத் தேவையான பொருள் எல்லாம் இருப்பதாய், வெளியே இருந்து அழிக்க முயலும் பகைவரை வெல்ல உதவும் வீரரைப் பெற்றதாய் இருப்பதே அரண். கலைஞர் உரை கூறுவது: போருக்குத் தேவையான எல்லாப் பொருள்களும் கொண்டதாகவும், களத்தில் குதிக்கும் வலிமை மிக்க வீரர்களை உடையதாகவும் இருப்பதே அரண் ஆகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Fortification (Ministers & Elements of State), Kural 746 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A fort is that which has all (needful) things, and excellent heroes that can help it against destruction (by foes). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'அரண்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Fortification' thoughtfully.",
+        "quiz_question_ta": "'அரண்' அதிகாரத்தில் வரும் திருக்குறள் 746 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 746 from Chapter 'The Fortification'?",
+        "quiz_options_ta": [
+          "இவர் எமக்கு இத்தன்மையானவர், யாம் இவர்க்கு இத் தன்மையுடையேம் என்று புனைந்துரைத்தாலும் நட்பு சிறப்பிழந்து விடும்.",
+          "தகாதவற்றிற்கு நாணாமலிருத்தல், தக்கவற்றை நாடாமலிருத்தல், அன்பு இல்லாமை, நன்மை ஒன்றையும் விரும்பாமை ஆகியவை பேதையின் தொழில்கள்.",
+          "தன்னிடம் (உள்ளவர்க்கு) எல்லாப் பொருளும் உடையதாய், போர் நெருக்கடியானவிடத்தில் உதவ வல்ல நல்ல விரர்களை உடையது அரண் ஆகும்.",
+          "இதற்கு முன் ஒருவனைப் பற்றி ஆராய்ந்து தெளிந்திருந்தாலும், தெளியாவிட்டாலும் அழிவு வந்த காலத்தில் அவனைத் தெளியாமலும் நீங்காமலும் வாளாவிட வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "\\\"Such we are and such they are!\\\" Ev'n this boast will friendship mar",
+          "Shameless, aimless, callous, listless Such are the marks of foolishness",
+          "A fort is full of stores and arms And brave heroes to meet alarms",
+          "Trust or distrust; during distress Keep aloof; don't mix with foes"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (அரண்) பகுதியில் குறள் 746 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன்னிடம் (உள்ளவர்க்கு) எல்லாப் பொருளும் உடையதாய், போர் நெருக்கடியானவிடத்தில் உதவ வல்ல நல்ல விரர்களை உடையது அரண் ஆகும். பரிமேலழகர் உரை நுட்பம்: எல்லாப் பொருளும் உடைத்தாய் - அகத்தோர்க்கு வேண்டும் பொருள்கள் எல்லாவற்றையும் உள்ளே உடைத்தாய்; இடத்து உதவும் நல்லாள் உடையது அரண் - புறத்தோரால் அழிவெய்தும் எல்லைக்கண் அஃது எய்தாவகை உதவிக்காக்கும் நல்ல வீரரையும் உடையதே அரணாவது. (அரசன் மாட்டு அன்பும் மானமும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 75: 'The Fortification'), Kural 746 distills a foundational ethical insight: \"A fort, with all munitions amply stored, In time of need should good reserves afford\" Philosophically, A fort is that which has all (needful) things, and excellent heroes that can help it against destruction (by foes).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "wealth",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 747,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: முற்றுகையிட்டும் முற்றுகையிடாமல் போர் செய்தும், வஞ்சனை செய்தும் எப்படியும் பகைவரால் கைப்பற்ற முடியாத அருமை உடையது அரண் ஆகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: A fort is that which cannot be captured by blockading, assaulting, or undermining it.",
+        "story_title_ta": "அரண் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Fortification — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'அரண்' என்ற அதிகாரத்திலிருந்து குறள் 747 பற்றிக் கதை சொன்னார். 'முழுவதுமாகச் சூழ்ந்து கொண்டாலும் சூழாமல் வலு இழந்த இடத்தில் நெருங்கிப் போரிட்டாலும் உள்ளிருப்போரில் சிலரை ஐந்தாம் படை ஆக்கினாலும், பகைவரால் கைப்பற்றுவதற்கு அரியதே அரண்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 75, 'The Fortification', centered on Kural 747: A fort is that which cannot be captured by blockading, assaulting, or undermining it. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: முற்றுகையிட்டோ, முற்கையிடாமலோ அல்லது வஞ்சனைச் சூழ்ச்சியாலோ பகைவரால் கைப்பற்றப்பட முடியாத வலிமையுடையதே அரண் எனப்படும்.",
+        "moral_en": "Moral: A fort should be impregnable to foes who gird it round, Or aim there darts from far, or mine beneath the ground.",
+        "game_blank_word_ta": "கரியது",
+        "game_options_ta": [
+          "ஆற்று",
+          "பவர்க்கும்",
+          "அரண்பொருள்",
+          "கரியது"
+        ],
+        "game_options_en": [
+          "The fort is vital for offence Who fear the foes has its defence",
+          "A crystal fount, a space a mount Thick woods form a fort paramount",
+          "An ideal fort's so says science: High, broad, strong and hard for access",
+          "Besieging foes a fort withstands Darts and mines of treacherous hands"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அரண் (அங்கவியல்) பிரிவில் அமைந்த குறள் 747, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முழுவதுமாகச் சூழ்ந்து கொண்டாலும் சூழாமல் வலு இழந்த இடத்தில் நெருங்கிப் போரிட்டாலும் உள்ளிருப்போரில் சிலரை ஐந்தாம் படை ஆக்கினாலும், பகைவரால் கைப்பற்றுவதற்கு அரியதே அரண். கலைஞர் உரை கூறுவது: முற்றுகையிட்டோ, முற்கையிடாமலோ அல்லது வஞ்சனைச் சூழ்ச்சியாலோ பகைவரால் கைப்பற்றப்பட முடியாத வலிமையுடையதே அரண் எனப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Fortification (Ministers & Elements of State), Kural 747 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A fort is that which cannot be captured by blockading, assaulting, or undermining it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'அரண்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Fortification' thoughtfully.",
+        "quiz_question_ta": "'அரண்' அதிகாரத்தில் வரும் திருக்குறள் 747 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 747 from Chapter 'The Fortification'?",
+        "quiz_options_ta": [
+          "நட்புச் செய்தபிறகு நட்பை உடையவர்க்கு அதிலிருந்து விடுதலை இல்லை, ஆகையால் ஆராயாமல் நட்புச் செய்வது போல் கெடுதியானது வேறு இல்லை.",
+          "நூல்களை ஓதியும், அவற்றின் பொருளை உணர்ந்தும், பிறர்க்கு எடுத்துச் சொல்லியும் தான் அவற்றின் நெறியில் அடங்கி ஒழுகாதப் பேதைப் போல் வேறு பேதையர் இல்லை.",
+          "துன்புற்றதைத் தாமாகவே அறியாத நண்பர்க்குத் துன்பத்தைச் சொல்லக் கூடாது, பகைவரிடத்தில் மென்மை மேற்கொள்ளக் கூடாது.",
+          "முற்றுகையிட்டும் முற்றுகையிடாமல் போர் செய்தும், வஞ்சனை செய்தும் எப்படியும் பகைவரால் கைப்பற்ற முடியாத அருமை உடையது அரண் ஆகும்."
+        ],
+        "quiz_options_en": [
+          "Than testless friendship nought is worse For contacts formed will scarcely cease",
+          "No fool equals the fool who learns Knows, teaches, but self-control spurns",
+          "To those who know not, tell not your pain Nor your weakness to foes explain",
+          "Besieging foes a fort withstands Darts and mines of treacherous hands"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (அரண்) பகுதியில் குறள் 747 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முற்றுகையிட்டும் முற்றுகையிடாமல் போர் செய்தும், வஞ்சனை செய்தும் எப்படியும் பகைவரால் கைப்பற்ற முடியாத அருமை உடையது அரண் ஆகும். பரிமேலழகர் உரை நுட்பம்: முற்றியும் - புகலொடு போக்கு ஒழியும் வகை நெருங்கிச் சூழ்ந்தும்; முற்றாது எறிந்தும் - அங்ஙனம் சூழாது நெகிழ்ந்த இடன் நோக்கி ஒருமுகமாகப் பொருதும்; அறைப்படுத்தும் - அகத்தோரை அவர் தெளிந்தோரை விட்டுக் கீழறுத்துத் திறப்பித்தும்; பற்றற்கு அரியது அரண் - புறத்தோரால...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 75: 'The Fortification'), Kural 747 distills a foundational ethical insight: \"A fort should be impregnable to foes who gird it round, Or aim there darts from far, or mine beneath the ground\" Philosophically, A fort is that which cannot be captured by blockading, assaulting, or undermining it.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "leadership",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 748,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: முற்றுகையிடுவதில் வல்லமை கொண்டு முற்றுகை இட்டவரையும், (உள்ளிருந்தவர் பற்றிய) பற்றை விடாமலிருந்து வெல்வதற்கு உரியது அரண் ஆகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: That is a fort whose inmates are able to overcome without losing their ground, even abler men who have besieged it.",
+        "story_title_ta": "அரண் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Fortification — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'அரண்' என்ற அதிகாரத்திலிருந்து குறள் 748 பற்றிக் கதை சொன்னார். 'கோட்டைக்குள் இருப்போர் தாம் இருக்கும். இடத்தை விட்டுவிடாமல் நின்று படைமிகுதியால் சூழ்ந்து கொண்ட பகைவரையும் பொருது, வெல்வதே அரண்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 75, 'The Fortification', centered on Kural 748: That is a fort whose inmates are able to overcome without losing their ground, even abler men who have besieged it. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: முற்றுகையிடும் வலிமைமிக்க படையை எதிர்த்து, உள்ளேயிருந்து கொண்டே போர் செய்து வெல்வதற்கு ஏற்ற வகையில் அமைந்ததே அரண் ஆகும்.",
+        "moral_en": "Moral: Howe'er the circling foe may strive access to win, A fort should give the victory to those who guard within.",
+        "game_blank_word_ta": "அரண்",
+        "game_options_ta": [
+          "அரண்",
+          "ஆற்று",
+          "பவர்க்கும்",
+          "அரண்பொருள்"
+        ],
+        "game_options_en": [
+          "A fort holds itself and defies The attacks of encircling foes",
+          "The fort is vital for offence Who fear the foes has its defence",
+          "A crystal fount, a space a mount Thick woods form a fort paramount",
+          "An ideal fort's so says science: High, broad, strong and hard for access"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அரண் (அங்கவியல்) பிரிவில் அமைந்த குறள் 748, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கோட்டைக்குள் இருப்போர் தாம் இருக்கும். இடத்தை விட்டுவிடாமல் நின்று படைமிகுதியால் சூழ்ந்து கொண்ட பகைவரையும் பொருது, வெல்வதே அரண். கலைஞர் உரை கூறுவது: முற்றுகையிடும் வலிமைமிக்க படையை எதிர்த்து, உள்ளேயிருந்து கொண்டே போர் செய்து வெல்வதற்கு ஏற்ற வகையில் அமைந்ததே அரண் ஆகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Fortification (Ministers & Elements of State), Kural 748 speaks directly to teens navigating studies, friendships, leadership, and digital choices: That is a fort whose inmates are able to overcome without losing their ground, even abler men who have besieged it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'அரண்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Fortification' thoughtfully.",
+        "quiz_question_ta": "'அரண்' அதிகாரத்தில் வரும் திருக்குறள் 748 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 748 from Chapter 'The Fortification'?",
+        "quiz_options_ta": [
+          "முற்றுகையிடுவதில் வல்லமை கொண்டு முற்றுகை இட்டவரையும், (உள்ளிருந்தவர் பற்றிய) பற்றை விடாமலிருந்து வெல்வதற்கு உரியது அரண் ஆகும்.",
+          "ஆராய்ந்து ஆராய்ந்து நட்புக் கொள்ளாதவனுடைய நட்பு, இறுதியில் தான் சாவதற்க்குக் காரணமானத் துயரத்தை உண்டாக்கிவிடும்.",
+          "எழுப்பிறப்பிலும் தான் புகுந்து அழுந்துவதற்கு உரிய நரகத் துன்பத்தைப் பேதைத் தன் ஒருபிறவியில் செய்து கொள்ள வல்லவனாவான்.",
+          "செய்யும் வகையை அறிந்து தன்னை வலிமைப்படுத்திக் கொண்டு தற்காப்புத் தேடிக் கொண்டால், பகைவரிடத்தில் ஏற்பட்ட செருக்குத் தானாவே அழியும்."
+        ],
+        "quiz_options_en": [
+          "A fort holds itself and defies The attacks of encircling foes",
+          "Friendship made without frequent test Shall end in grief and death at last",
+          "The fool suffers seven fold hells In single birth of hellish ills",
+          "Know how and act and defend well The pride of enemies shall fall"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (அரண்) பகுதியில் குறள் 748 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முற்றுகையிடுவதில் வல்லமை கொண்டு முற்றுகை இட்டவரையும், (உள்ளிருந்தவர் பற்றிய) பற்றை விடாமலிருந்து வெல்வதற்கு உரியது அரண் ஆகும். பரிமேலழகர் உரை நுட்பம்: முற்று ஆற்றி முற்றியவரையும் - தானைப் பெருமையால் சூழ்தல் வல்லராய் வந்து சூழ்ந்த புறத்தோரையும்; பற்றி யார் பற்று ஆற்றி வெல்வது அரண் - தன்னைப்பற்றிய அகத்தோர் தாம் பற்றிய இடம் விடாதே நின்று பொருது வெல்வதே அரணாவது. (உம்மை, சிறப்பும்மை. பற்றின் கண்ணே ஆற்றி என...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 75: 'The Fortification'), Kural 748 distills a foundational ethical insight: \"Howe'er the circling foe may strive access to win, A fort should give the victory to those who guard within\" Philosophically, That is a fort whose inmates are able to overcome without losing their ground, even abler men who have besieged it.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "kindness",
+        "perseverance",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 749,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: போர் முனையில் பகைவர் அழியும் படியாக (உள்ளிருந்தவர்செய்யும்) போர்ச் செயல்வகையால் பெருமைப் பெற்றுச் சிறப்புடையதாய் விளங்குவது அரண் ஆகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: A fort is that which derives excellence from the stratagems made (by its inmates) to defeat their enemies in the battlefield.",
+        "story_title_ta": "அரண் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Fortification — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'அரண்' என்ற அதிகாரத்திலிருந்து குறள் 749 பற்றிக் கதை சொன்னார். 'போர் தொடங்கிய உடனே பகைவர் அழியும்படி உள்ளிருப்போர் செய்யும் போர்த்திறத்தால் சிறந்த விளங்குவதே அரண்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 75, 'The Fortification', centered on Kural 749: A fort is that which derives excellence from the stratagems made (by its inmates) to defeat their enemies in the battlefield. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: போர் முனையில் பகைவரை வீழ்த்துமளவுக்கு உள்nயிருந்து கொண்டே தாக்குதல் நடத்தும் வண்ணம் தனிச்சிறப்புப் பெற்றுத் திகழ்வதே அரண் ஆகும்.",
+        "moral_en": "Moral: At outset of the strife a fort should foes dismay; And greatness gain by deeds in every glorious day.",
+        "game_blank_word_ta": "தரண்",
+        "game_options_ta": [
+          "ஆற்று",
+          "தரண்",
+          "பவர்க்கும்",
+          "அரண்பொருள்"
+        ],
+        "game_options_en": [
+          "The fort is vital for offence Who fear the foes has its defence",
+          "A fort it is that fells the foes And gains by deeds a name glorious",
+          "A crystal fount, a space a mount Thick woods form a fort paramount",
+          "An ideal fort's so says science: High, broad, strong and hard for access"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அரண் (அங்கவியல்) பிரிவில் அமைந்த குறள் 749, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: போர் தொடங்கிய உடனே பகைவர் அழியும்படி உள்ளிருப்போர் செய்யும் போர்த்திறத்தால் சிறந்த விளங்குவதே அரண். கலைஞர் உரை கூறுவது: போர் முனையில் பகைவரை வீழ்த்துமளவுக்கு உள்nயிருந்து கொண்டே தாக்குதல் நடத்தும் வண்ணம் தனிச்சிறப்புப் பெற்றுத் திகழ்வதே அரண் ஆகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Fortification (Ministers & Elements of State), Kural 749 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A fort is that which derives excellence from the stratagems made (by its inmates) to defeat their enemies in the battlefield. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'அரண்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Fortification' thoughtfully.",
+        "quiz_question_ta": "'அரண்' அதிகாரத்தில் வரும் திருக்குறள் 749 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 749 from Chapter 'The Fortification'?",
+        "quiz_options_ta": [
+          "ஒருவனுடைய குணத்தையும், குடிப்பிறப்பையும் குற்றத்தையும் குறையாத இனத்தாரின் இயல்பையும் அறிந்து அவனேடு நட்புக் கொள்ள வேண்டும்.",
+          "போர் முனையில் பகைவர் அழியும் படியாக (உள்ளிருந்தவர்செய்யும்) போர்ச் செயல்வகையால் பெருமைப் பெற்றுச் சிறப்புடையதாய் விளங்குவது அரண் ஆகும்.",
+          "ஒழுக்க நெறி அறியத பேதை ஒருச் செயலை மேற்கொண்டால் (அந்த செயல் முடிவுபெறாமல்) பொய்படும், அன்றியும் அவன் குற்றவாளியாகித் தளை பூணுவான்.",
+          "முள் மரத்தை இளையதாக இருக்கும் போதே வெட்ட வேண்டும், காழ்ப்பு ஏறி முதிர்ந்த போது வெட்டுகின்றவரின் கையை அது வருத்தும்."
+        ],
+        "quiz_options_en": [
+          "Temper, descent, defects and kins Trace well and take companions",
+          "A fort it is that fells the foes And gains by deeds a name glorious",
+          "A know-nothing fool daring a deed Not only fails but feels fettered",
+          "Cut off thorn-trees when young they are; Grown hard, they cut your hands beware"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (அரண்) பகுதியில் குறள் 749 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: போர் முனையில் பகைவர் அழியும் படியாக (உள்ளிருந்தவர்செய்யும்) போர்ச் செயல்வகையால் பெருமைப் பெற்றுச் சிறப்புடையதாய் விளங்குவது அரண் ஆகும். பரிமேலழகர் உரை நுட்பம்: முனைமுகத்து மாற்றலர் சாய வினைமுகத்து வீறு எய்தி - போர் தொடங்கின அளவிலே பகைவர் கெடும் வண்ணம் அகத்தோர் செய்யும் வினை வேறுபாடுகளான் வீறு பெற்று; மாண்டது அரண் - மற்றும் வேண்டும் மாட்சியையுடையதே அரணாவது. (தொடக்கத்திற் கெட்டார் பின்னுங் கூடிப்பொருதல் கூடாமையின...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 75: 'The Fortification'), Kural 749 distills a foundational ethical insight: \"At outset of the strife a fort should foes dismay; And greatness gain by deeds in every glorious day\" Philosophically, A fort is that which derives excellence from the stratagems made (by its inmates) to defeat their enemies in the battlefield.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "humility",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 750,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: எத்தகைய பெருமையை உடையதாக இருந்த போதிலும், செயல்வகையால் சிறப்பு இல்லாதவரரிடத்தில் அரண் பயனில்லாததாகும். பொருள் செயல்வகை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Although a fort may possess all (the above-said) excellence, it is, as it were without these, if its inmates possess not the excellence of action.",
+        "story_title_ta": "அரண் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Fortification — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'அரண்' என்ற அதிகாரத்திலிருந்து குறள் 750 பற்றிக் கதை சொன்னார். 'எத்தனை சிறப்புகளை உடையது என்றாலும் வெல்லும் பகை அறிந்து செயல்படும் திறம் இல்லாதவர் இருந்தால், அரண் இருந்தும் இல்லாததே ஆகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 75, 'The Fortification', centered on Kural 750: Although a fort may possess all (the above-said) excellence, it is, as it were without these, if its inmates possess not the excellence of action. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கோட்டைக்குத் தேவையான எல்லாவித சிறப்புகளும் இருந்தாலும்கூட உள்ளிருந்து செயல்படுவோர் திறமையற்றவர்களாக இருந்தால் எந்தப் பயனும் கிடையாது.",
+        "moral_en": "Moral: Howe'er majestic castled walls may rise, To craven souls no fortress strength supplies.",
+        "game_blank_word_ta": "தாகியக்",
+        "game_options_ta": [
+          "ஆற்று",
+          "பவர்க்கும்",
+          "தாகியக்",
+          "அரண்பொருள்"
+        ],
+        "game_options_en": [
+          "The fort is vital for offence Who fear the foes has its defence",
+          "A crystal fount, a space a mount Thick woods form a fort paramount",
+          "But a fort however grand Is nil if heroes do not stand",
+          "An ideal fort's so says science: High, broad, strong and hard for access"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அரண் (அங்கவியல்) பிரிவில் அமைந்த குறள் 750, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எத்தனை சிறப்புகளை உடையது என்றாலும் வெல்லும் பகை அறிந்து செயல்படும் திறம் இல்லாதவர் இருந்தால், அரண் இருந்தும் இல்லாததே ஆகும். கலைஞர் உரை கூறுவது: கோட்டைக்குத் தேவையான எல்லாவித சிறப்புகளும் இருந்தாலும்கூட உள்ளிருந்து செயல்படுவோர் திறமையற்றவர்களாக இருந்தால் எந்தப் பயனும் கிடையாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Fortification (Ministers & Elements of State), Kural 750 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Although a fort may possess all (the above-said) excellence, it is, as it were without these, if its inmates possess not the excellence of action. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'அரண்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Fortification' thoughtfully.",
+        "quiz_question_ta": "'அரண்' அதிகாரத்தில் வரும் திருக்குறள் 750 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 750 from Chapter 'The Fortification'?",
+        "quiz_options_ta": [
+          "உயர்ந்த குடியில் பிறந்து, தன்னிடத்தில் வருகின்றப் பழிக்கு நாணுகின்றவனைப் பொருள் கொடுத்தாவது நட்பு கொள்ளவேண்டும்.",
+          "பேதை பெருஞ் செல்வம் அடைந்த போது ( அவனோடு தொடர்பில்லாத) அயலார் நிறைய நன்மை பெற, அவனுடைய சுற்றத்தார் வருந்துவர்.",
+          "எத்தகைய பெருமையை உடையதாக இருந்த போதிலும், செயல்வகையால் சிறப்பு இல்லாதவரரிடத்தில் அரண் பயனில்லாததாகும். பொருள் செயல்வகை",
+          "பகைத்தவருடையத் தலைமையைக் கொடுக்க முடியாதவர் திண்ணமாக மூச்சு விடும் அளவிற்கும் உயிரோடு வாழ்கின்றவர் அல்லர்."
+        ],
+        "quiz_options_en": [
+          "Take as good friend at any price The nobly born who shun disgrace",
+          "Strangers feast and kinsmen fast When fools mishandle fortunes vast",
+          "But a fort however grand Is nil if heroes do not stand",
+          "To breathe on earth they are not fit Defying foes who don't defeat"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (அரண்) பகுதியில் குறள் 750 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எத்தகைய பெருமையை உடையதாக இருந்த போதிலும், செயல்வகையால் சிறப்பு இல்லாதவரரிடத்தில் அரண் பயனில்லாததாகும். பொருள் செயல்வகை. பரிமேலழகர் உரை நுட்பம்: அரண் - அரண்; எனை மாட்சித்து ஆகியக்கண்ணும் - மேற்சொல்லப்பட்ட மாட்சியெல்லாம் உடைத்தாயவிடத்தும்; வினை மாட்சி இல்லார்கண் இல்லது - வினை செய்தற்கண் மாட்சி இல்லாதார் மாட்டு அவையிலதாம். (வாளா இருத்தலும், அளவறியாது செய்தலும், ஏலாதது செய்தலும் எல்லாம் அடங்க...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 75: 'The Fortification'), Kural 750 distills a foundational ethical insight: \"Howe'er majestic castled walls may rise, To craven souls no fortress strength supplies\" Philosophically, Although a fort may possess all (the above-said) excellence, it is, as it were without these, if its inmates possess not the excellence of action.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "humility",
+        "speech",
+        "wealth"
+      ]
+    }
+  ]
+}

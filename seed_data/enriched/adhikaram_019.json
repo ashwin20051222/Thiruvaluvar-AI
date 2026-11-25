@@ -1,0 +1,588 @@
+{
+  "adhikaram_id": 19,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.610753099+00:00",
+  "kurals": [
+    {
+      "kural_number": 181,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவன் அறத்தைப் போற்றிக் கூறாதவனாய் அறமல்லாதவற்றைச் செய்தாலும், மற்றவனைப் பற்றிப் புறங்கூறாமல் இருக்கிறான் என்று சொல்லப்படுதல் நல்லது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Though one do not even speak of virtue and live in sin, it will be well if it be said of him \"he does not backbite.\".",
+        "story_title_ta": "புறங்கூறாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Not Backbiting — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புறங்கூறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 181 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஒருவன் அறத்தைச் சொல்லாமல் பாவமே செய்தாலும், அடுத்தவரைப் பற்றிப் புறம் பேசமாட்டான் என்றால் அதுவே அவனுக்கு நல்லது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Not Backbiting'. Grandpa shared Kural 181 and explained in simple words: Though one do not even speak of virtue and live in sin, it will be well if it be said of him \"he does not backbite.\". The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அறநெறியைப் போற்றாமலும், அவ்வழியில் நடக்காமலும்கூட இருக்கின்ற சிலர் மற்றவர்களைப் பற்றிப் புறம் பேசாமல் இருந்தால், அது அவர்களுக்கு நல்லது.",
+        "moral_en": "Moral: Though virtuous words his lips speak not, and all his deeds are illIf neighbour he defame not, there's good within him still.",
+        "game_blank_word_ta": "இனிது",
+        "game_options_ta": [
+          "அறனழீஇ",
+          "இனிது",
+          "அல்லவை",
+          "செய்தலின்"
+        ],
+        "game_options_en": [
+          "Who bite behind, and before smile Are worse than open traitors vile",
+          "Though a man from virtue strays, To keep from slander brings him praise",
+          "Virtue thinks it better to die, Than live to backbite and to lie",
+          "Though harsh you speak in one's presence Abuse is worse in his absence"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புறங்கூறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 181, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவன் அறத்தைச் சொல்லாமல் பாவமே செய்தாலும், அடுத்தவரைப் பற்றிப் புறம் பேசமாட்டான் என்றால் அதுவே அவனுக்கு நல்லது. கலைஞர் உரை கூறுவது: அறநெறியைப் போற்றாமலும், அவ்வழியில் நடக்காமலும்கூட இருக்கின்ற சிலர் மற்றவர்களைப் பற்றிப் புறம் பேசாமல் இருந்தால், அது அவர்களுக்கு நல்லது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Backbiting (Domestic Virtue), Kural 181 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though one do not even speak of virtue and live in sin, it will be well if it be said of him \"he does not backbite.\". Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புறங்கூறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Backbiting' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புறங்கூறாமை' அதிகாரத்தில் வரும் திருக்குறள் 181 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 181 from Chapter 'Not Backbiting'?",
+        "quiz_options_ta": [
+          "தவ வலிமை உடையவரின் வலிமை பசியை பொறுத்துக் கொள்ளலாகும், அதுவும் அப் பசியை உணவு கொடுத்து மாற்றுகின்றவரின் ஆற்றலுக்குப் பிற்பட்டதாகும்.",
+          "ஒருவன் அறத்தைப் போற்றிக் கூறாதவனாய் அறமல்லாதவற்றைச் செய்தாலும், மற்றவனைப் பற்றிப் புறங்கூறாமல் இருக்கிறான் என்று சொல்லப்படுதல் நல்லது.",
+          "தவ வலிமையால் தன்னுடைய உயிர், தான் என்னும் பற்று நீங்கப் பெற்றவனை மற்ற உயிர்கள் எல்லாம் (அவனுடைய பெருமையை உணர்ந்து) தொழும்.",
+          "சிறப்பைத்தருகின்ற பெருஞ் செல்வத்தைப் பெறுவதாக இருந்தாலும், பிறர்க்குத் துன்பம் செய்யாதிருத்தலே மாசற்றவரின் கொள்கையாம்."
+        ],
+        "quiz_options_en": [
+          "Higher's power which hunger cures Than that of penance which endures",
+          "Though a man from virtue strays, To keep from slander brings him praise",
+          "He worship wins from every soul Who Master is by soul control",
+          "The pure by faith mean pain to none Though princely wealth by that is won"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புறங்கூறாமை) பகுதியில் குறள் 181 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் அறத்தைப் போற்றிக் கூறாதவனாய் அறமல்லாதவற்றைச் செய்தாலும், மற்றவனைப் பற்றிப் புறங்கூறாமல் இருக்கிறான் என்று சொல்லப்படுதல் நல்லது. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, காணாதவழிப் பிறரை இகழ்ந்து உரையாமை. மொழிக்குற்றம் மனக்குற்றம் அடியாக வருதலான், இஃது அழுக்காறாமை வெஃகாமைகளின்பின் வைக்கப்பட்டது.) ஒருவன் அறம் கூறான் அல்ல செயினும் - ஒருவன் அறன் என்று சொல்லுவதும் செய்யாது பாவங்களைச் செய்யுமாயினும்; புறம் கூறான் என்றல...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 19: 'Not Backbiting'), Kural 181 distills a foundational ethical insight: \"Though virtuous words his lips speak not, and all his deeds are illIf neighbour he defame not, there's good within him still\" Philosophically, Though one do not even speak of virtue and live in sin, it will be well if it be said of him \"he does not backbite.\".",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "ethics",
+        "discipline",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 182,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அறத்தை அழித்துப் பேசி அறமல்லாதவைகளைச் செய்வதை விட, ஒருவன் இல்லாதவிடத்தில் அவனைப் பழித்துப் பேசி நேரில் பொய்யாக முகமலர்ந்து பேசுதல் தீமையாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: To smile deceitfully (in another's presence) after having reviled him to his destruction (behind his back) is a greater evil than the commission of (every other) sin and the destruction of (every) virtue.",
+        "story_title_ta": "புறங்கூறாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Not Backbiting — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புறங்கூறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 182 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அறம் என்பதே இல்லை என அடித்துப் பேசிப் பாவத்தைச் செய்வதைக் காட்டிலும் ஒருவனைக் காணாதபோது புறம்பேசிக் காணும்போது பொய்யாகச் சிரிப்பது பெருங்கேடு.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Not Backbiting'. Grandpa shared Kural 182 and explained in simple words: To smile deceitfully (in another's presence) after having reviled him to his destruction (behind his back) is a greater evil than the commission of (every other) sin and the destruction of (every) virtue. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவரை நேரில் பார்க்கும் பொழுது பொய்யாகச் சிரித்துப் பேசிவிட்டு, அவர் இல்லாத இடத்தில் அவரைப் பற்றிப் பொல்லாங்கு பேசுவது அறவழியைப் புறக்கணித்து விட்டு, அதற்கு மாறான காரியங்களைச் செய்வதைவிடக் கொடுமையானது.",
+        "moral_en": "Moral: Than he who virtue scorns, and evil deeds performs, more vile, Is he that slanders friend, then meets him with false smile.",
+        "game_blank_word_ta": "செய்தலின்",
+        "game_options_ta": [
+          "அறங்கூறான்",
+          "அல்ல",
+          "செய்தலின்",
+          "செயினும்"
+        ],
+        "game_options_en": [
+          "Though a man from virtue strays, To keep from slander brings him praise",
+          "Virtue thinks it better to die, Than live to backbite and to lie",
+          "Who bite behind, and before smile Are worse than open traitors vile",
+          "Though harsh you speak in one's presence Abuse is worse in his absence"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புறங்கூறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 182, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறம் என்பதே இல்லை என அடித்துப் பேசிப் பாவத்தைச் செய்வதைக் காட்டிலும் ஒருவனைக் காணாதபோது புறம்பேசிக் காணும்போது பொய்யாகச் சிரிப்பது பெருங்கேடு. கலைஞர் உரை கூறுவது: ஒருவரை நேரில் பார்க்கும் பொழுது பொய்யாகச் சிரித்துப் பேசிவிட்டு, அவர் இல்லாத இடத்தில் அவரைப் பற்றிப் பொல்லாங்கு பேசுவது அறவழியைப் புறக்கணித்து விட்டு, அதற்கு மாறான காரியங்களைச் செய்வதைவிடக் கொடுமையானது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Backbiting (Domestic Virtue), Kural 182 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To smile deceitfully (in another's presence) after having reviled him to his destruction (behind his back) is a greater evil than the commission of (every other) sin and the destruction of (every) virtue. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புறங்கூறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Backbiting' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புறங்கூறாமை' அதிகாரத்தில் வரும் திருக்குறள் 182 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 182 from Chapter 'Not Backbiting'?",
+        "quiz_options_ta": [
+          "வறியவரின் கடும்பசியைத் தீர்க்க வேண்டும் அதுவே பொருள் பெற்ற ஒருவன் அப் பொருளைத் தனக்குப் பிற்காலத்தில் உதவுமாறு சேர்த்து வைக்கும் இடமாகும்.",
+          "தவம் செய்வதால் பெறத்தக்க ஆற்றலைப் பெற்றவர்க்கு (ஓர் இடையூறும் இல்லையாகையால் ) எமனை வெல்லுதலும் கைகூடும்",
+          "அறத்தை அழித்துப் பேசி அறமல்லாதவைகளைச் செய்வதை விட, ஒருவன் இல்லாதவிடத்தில் அவனைப் பழித்துப் பேசி நேரில் பொய்யாக முகமலர்ந்து பேசுதல் தீமையாகும்.",
+          "ஒருவன் கறுவுகொண்டு துன்பம் செய்த போதிலும் அவனுக்கு திரும்ப துன்பம் செய்யாதிருத்தலே மாசற்றவரின் கொள்கையாகும்."
+        ],
+        "quiz_options_en": [
+          "Drive from the poor their gnawing pains If room you seek to store your gains",
+          "They can even defy death Who get by penance godly strenth",
+          "Who bite behind, and before smile Are worse than open traitors vile",
+          "The spotless hearts seek not revenge Though Malice does the worst in rage"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புறங்கூறாமை) பகுதியில் குறள் 182 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறத்தை அழித்துப் பேசி அறமல்லாதவைகளைச் செய்வதை விட, ஒருவன் இல்லாதவிடத்தில் அவனைப் பழித்துப் பேசி நேரில் பொய்யாக முகமலர்ந்து பேசுதல் தீமையாகும். பரிமேலழகர் உரை நுட்பம்: அறன் அழீஇ அல்லவை செய்தலின் தீது - அறன் என்பது ஒன்று இல்லை என அழித்துச் சொல்லி, அதன்மேல் பாவங்களைச் செய்தலினும் தீமையுடைத்து; புறன் அழீஇப்பொய்த்து நகை - ஒருவனைக் காணாதவழி இகழ்ந்துரையால் அழித்துச் சொல்லிக் கண்டவழி அவனோடு பொய்த்து நகுதல். (உறழ்ச்சி, நிரல்நிறை...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 19: 'Not Backbiting'), Kural 182 distills a foundational ethical insight: \"Than he who virtue scorns, and evil deeds performs, more vile, Is he that slanders friend, then meets him with false smile\" Philosophically, To smile deceitfully (in another's presence) after having reviled him to his destruction (behind his back) is a greater evil than the commission of (every other) sin and the destruction of (every) virtue.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "truth",
+        "ethics",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 183,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: புறங்கூறிப் பொய்யாக நடந்து உயிர் வாழ்தலை விட, அவ்வாறு செய்யாமல் வறுமையுற்று இறந்து விடுதல், அறநூல்கள் சொல்லும் ஆக்கத்தைத் தரும்‌‌.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Death rather than life will confer upon the deceitful backbiter the profit which (the treatises on) virtue point out.",
+        "story_title_ta": "புறங்கூறாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Not Backbiting — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புறங்கூறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 183 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'காணாதபோது ஒருவனைப் பற்றிப் புறம்பேசிக், காணும்போது பொய்யாக அவனுடன் பேசி வாழ்வதைக் காட்டிலும் இறந்து போவது அற நூல்கள் கூறும் உயர்வைத் தரும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Not Backbiting'. Grandpa shared Kural 183 and explained in simple words: Death rather than life will confer upon the deceitful backbiter the profit which (the treatises on) virtue point out. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: கண்ட இடத்தில் ஒன்றும், காணாத இடத்தில் வேறொன்றுமாகப் புறங்கூறிப் பொய்மையாக நடந்து உயிர் வாழ்வதைவிடச் சாவது நன்று.",
+        "moral_en": "Moral: 'Tis greater gain of virtuous good for man to die, Than live to slander absent friend, and falsely praise when nigh.",
+        "game_blank_word_ta": "பொய்த்துயிர்",
+        "game_options_ta": [
+          "அறங்கூறான்",
+          "அல்ல",
+          "செயினும்",
+          "பொய்த்துயிர்"
+        ],
+        "game_options_en": [
+          "Though a man from virtue strays, To keep from slander brings him praise",
+          "Who bite behind, and before smile Are worse than open traitors vile",
+          "Though harsh you speak in one's presence Abuse is worse in his absence",
+          "Virtue thinks it better to die, Than live to backbite and to lie"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புறங்கூறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 183, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காணாதபோது ஒருவனைப் பற்றிப் புறம்பேசிக், காணும்போது பொய்யாக அவனுடன் பேசி வாழ்வதைக் காட்டிலும் இறந்து போவது அற நூல்கள் கூறும் உயர்வைத் தரும். கலைஞர் உரை கூறுவது: கண்ட இடத்தில் ஒன்றும், காணாத இடத்தில் வேறொன்றுமாகப் புறங்கூறிப் பொய்மையாக நடந்து உயிர் வாழ்வதைவிடச் சாவது நன்று. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Backbiting (Domestic Virtue), Kural 183 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Death rather than life will confer upon the deceitful backbiter the profit which (the treatises on) virtue point out. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புறங்கூறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Backbiting' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புறங்கூறாமை' அதிகாரத்தில் வரும் திருக்குறள் 183 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 183 from Chapter 'Not Backbiting'?",
+        "quiz_options_ta": [
+          "தான் பெற்ற உணவை பலரோடும் பகிர்ந்து உண்ணும் பழக்கம் உடையவனை பசி என்று கூறப்படும் தீயநோய் அணுகுதல் இல்லை.",
+          "ஆற்றல் இல்லாதவர் பலராக உலகில் இருப்பதற்குக் காரணம் தவம் செய்கின்றவர் சிலராகவும், செய்யாதவர் பலராகவும் இருப்பதே ஆகும்.",
+          "தான் ஒன்றும் செய்யாதிருக்கத் தனக்குத் தீங்கு செய்தவர்க்கும் துன்பமானாவற்றைச் செய்தால் செய்தபிறகு தப்பமுடியாத துன்பத்தையே கொடுக்கும்.",
+          "புறங்கூறிப் பொய்யாக நடந்து உயிர் வாழ்தலை விட, அவ்வாறு செய்யாமல் வறுமையுற்று இறந்து விடுதல், அறநூல்கள் சொல்லும் ஆக்கத்தைத் தரும்‌‌."
+        ],
+        "quiz_options_en": [
+          "Who shares his food with those who need Hunger shall not harm his creed",
+          "Many are poor and few are rich For they care not for penance much",
+          "Revenging even causeless hate Bad-blood breeds and baneful heat",
+          "Virtue thinks it better to die, Than live to backbite and to lie"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புறங்கூறாமை) பகுதியில் குறள் 183 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: புறங்கூறிப் பொய்யாக நடந்து உயிர் வாழ்தலை விட, அவ்வாறு செய்யாமல் வறுமையுற்று இறந்து விடுதல், அறநூல்கள் சொல்லும் ஆக்கத்தைத் தரும்‌‌. பரிமேலழகர் உரை நுட்பம்: புறங்கூறிப் பொய்த்து உயிர் வாழ்தலின் - பிறனைக் காணாத வழி இகழ்ந்துரைத்துக் கண்டவழி அவற்கு இனியனாகப் பொய்த்து ஒருவன் உயிர்வாழ்தலின்; சாதல் அறம் கூறும் ஆக்கம் தரும் - அது செய்யாது சாதல் அவனுக்கு அறநூல்கள் சொல்லும் ஆக்கத்தைக் கொடுக்கும். (பின் புறங்கூறிப...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 19: 'Not Backbiting'), Kural 183 distills a foundational ethical insight: \"'Tis greater gain of virtuous good for man to die, Than live to slander absent friend, and falsely praise when nigh\" Philosophically, Death rather than life will confer upon the deceitful backbiter the profit which (the treatises on) virtue point out.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "truth",
+        "speech",
+        "ethics",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 184,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: எதிரே நின்று கண்ணோ‌ட்டம் இல்லாமல் கடுமையாகச் சொன்னாலும் சொல்லலாம்; நேரில் இல்லாதபோது பின் விளைவை ஆராயாத சொல்லைச் சொல்லக்கூடாது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Though you speak without kindness before another's face speak not in his absence words which regard not the evil subsequently resulting from it.",
+        "story_title_ta": "புறங்கூறாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Not Backbiting — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புறங்கூறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 184 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஒருவன் முகத்திற்கு எதிரே முகதாட்சணியம் இல்லாமல் பேசினாலும், அவன் எதிரில் இல்லாமல் இருக்கும்போது பின்விளைவை எண்ணாமல் அவனைப் பற்றிப் பேச வேண்டா.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Not Backbiting'. Grandpa shared Kural 184 and explained in simple words: Though you speak without kindness before another's face speak not in his absence words which regard not the evil subsequently resulting from it. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நேருக்கு நேராக ஒருவரது குறைகளைக் கடுமையாகச் சொன்னாலும் சொல்லலாம், ஆனால் பின் விளைவுகளை எண்ணிப் பார்க்காமல் நேரில் இல்லாத ஒருவரைப் பற்றிக் குறை கூறுவது தவறு.",
+        "moral_en": "Moral: In presence though unkindly words you speak, say notIn absence words whose ill result exceeds your thought.",
+        "game_blank_word_ta": "முன்னின்று",
+        "game_options_ta": [
+          "முன்னின்று",
+          "அறங்கூறான்",
+          "அல்ல",
+          "செயினும்"
+        ],
+        "game_options_en": [
+          "Though harsh you speak in one's presence Abuse is worse in his absence",
+          "Though a man from virtue strays, To keep from slander brings him praise",
+          "Who bite behind, and before smile Are worse than open traitors vile",
+          "Virtue thinks it better to die, Than live to backbite and to lie"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புறங்கூறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 184, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவன் முகத்திற்கு எதிரே முகதாட்சணியம் இல்லாமல் பேசினாலும், அவன் எதிரில் இல்லாமல் இருக்கும்போது பின்விளைவை எண்ணாமல் அவனைப் பற்றிப் பேச வேண்டா. கலைஞர் உரை கூறுவது: நேருக்கு நேராக ஒருவரது குறைகளைக் கடுமையாகச் சொன்னாலும் சொல்லலாம், ஆனால் பின் விளைவுகளை எண்ணிப் பார்க்காமல் நேரில் இல்லாத ஒருவரைப் பற்றிக் குறை கூறுவது தவறு. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Backbiting (Domestic Virtue), Kural 184 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though you speak without kindness before another's face speak not in his absence words which regard not the evil subsequently resulting from it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புறங்கூறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Backbiting' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புறங்கூறாமை' அதிகாரத்தில் வரும் திருக்குறள் 184 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 184 from Chapter 'Not Backbiting'?",
+        "quiz_options_ta": [
+          "எதிரே நின்று கண்ணோ‌ட்டம் இல்லாமல் கடுமையாகச் சொன்னாலும் சொல்லலாம்; நேரில் இல்லாதபோது பின் விளைவை ஆராயாத சொல்லைச் சொல்லக்கூடாது.",
+          "தாம் சேர்த்து வைத்துள்ள பொருளைப் பிறருக்குக் கொடுக்காமல் வைத்திருந்து பின் இழந்து விடும் வன் கண்மை உடையவர், பிறர்க்கு கொடுத்து மகிழும் மகிழ்ச்சியை அறியாரோ.",
+          "வஞ்சமனம் உடையவனது பொய்யொழுக்கத்தை அவனுடைய உடம்பில் கலந்து நிற்க்கும் ஐந்து பூதங்களும் கண்டு தம்முள் சிரிக்கும்.",
+          "இன்னா செய்தவரைத் தண்டித்தல் அவரே நாணும் படியாக அவருக்கு நல்லுதவி செய்து அவருடைய தீமையையும் நன்மையையும் மறந்து விடுதலாகும்."
+        ],
+        "quiz_options_en": [
+          "Though harsh you speak in one's presence Abuse is worse in his absence",
+          "The joy of give and take they lose Hard-hearted rich whose hoarding fails",
+          "Elements five of feigned life Of a sly hypocrite within laugh",
+          "Doing good-turns, put them to shame Thus chide the evil who do harm"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புறங்கூறாமை) பகுதியில் குறள் 184 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எதிரே நின்று கண்ணோ‌ட்டம் இல்லாமல் கடுமையாகச் சொன்னாலும் சொல்லலாம்; நேரில் இல்லாதபோது பின் விளைவை ஆராயாத சொல்லைச் சொல்லக்கூடாது. பரிமேலழகர் உரை நுட்பம்: கண் நின்று கண் அறச் சொல்லினும் - ஒருவன் எதிரே நின்று கண்ணோட்டம் அறச் சொன்னானாயினும்; முன் இன்று பின் நோக்காச் சொல் சொல்லற்க - அவன் எதிரின்றிப் பின்வரும் குற்றத்தை நோக்காத சொல்லைச் சொல்லாதொழிக. ('பின்' ஆகுபெயர். சொல்வான் தொழில் சொல்மேல் ஏற்றப்பட்டது. இவை...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 19: 'Not Backbiting'), Kural 184 distills a foundational ethical insight: \"In presence though unkindly words you speak, say notIn absence words whose ill result exceeds your thought\" Philosophically, Though you speak without kindness before another's face speak not in his absence words which regard not the evil subsequently resulting from it.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "love",
+        "education",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 185,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அறத்தை நல்லதென்று போற்றும் நெஞ்சம் இல்லாததன்மை, ஒருவன் மற்றவனைப் பற்றிப் புறங்கூறுகின்ற சிறுமையால் காணப்படும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The emptiness of that man's mind who (merely) praises virtue will be seen from the meanness of reviling another behind his back.",
+        "story_title_ta": "புறங்கூறாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Not Backbiting — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புறங்கூறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 185 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அறத்தைப் பெரிதாகப் பேசும் ஒருவன் மனத்தால் அறவோன் அல்லன் என்பதை அவன் புறம்பேசும் இழிவினைக் கொண்டு கண்டுகொள்ளலாம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Not Backbiting'. Grandpa shared Kural 185 and explained in simple words: The emptiness of that man's mind who (merely) praises virtue will be seen from the meanness of reviling another behind his back. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவன் பிறரைப்பற்றிப் புறம் பேசுகிற சிறுமைத்தன்மையைக்கொண்டே அவன் அறவழி நிற்பவன் அல்லன் என்பதை எளிதில் தெரிந்து கொள்ளலாம்.",
+        "moral_en": "Moral: The slanderous meanness that an absent friend defames,'This man in words owns virtue, not in heart,' proclaims.",
+        "game_blank_word_ta": "புறஞ்சொல்லும்",
+        "game_options_ta": [
+          "அறங்கூறான்",
+          "புறஞ்சொல்லும்",
+          "அல்ல",
+          "செயினும்"
+        ],
+        "game_options_en": [
+          "Though a man from virtue strays, To keep from slander brings him praise",
+          "Who turns to slander makes it plain His praise of virtue is in vain",
+          "Who bite behind, and before smile Are worse than open traitors vile",
+          "Virtue thinks it better to die, Than live to backbite and to lie"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புறங்கூறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 185, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறத்தைப் பெரிதாகப் பேசும் ஒருவன் மனத்தால் அறவோன் அல்லன் என்பதை அவன் புறம்பேசும் இழிவினைக் கொண்டு கண்டுகொள்ளலாம். கலைஞர் உரை கூறுவது: ஒருவன் பிறரைப்பற்றிப் புறம் பேசுகிற சிறுமைத்தன்மையைக்கொண்டே அவன் அறவழி நிற்பவன் அல்லன் என்பதை எளிதில் தெரிந்து கொள்ளலாம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Backbiting (Domestic Virtue), Kural 185 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The emptiness of that man's mind who (merely) praises virtue will be seen from the meanness of reviling another behind his back. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புறங்கூறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Backbiting' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புறங்கூறாமை' அதிகாரத்தில் வரும் திருக்குறள் 185 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 185 from Chapter 'Not Backbiting'?",
+        "quiz_options_ta": [
+          "பொருளின் குறைபாட்டை நிரப்புவதற்க்காக உள்ளதைப் பிறர்க்கு ஈயாமல் தாமே தமியராய் உண்பது வறுமையால் இறப்பதை விடத் துன்பமானது.",
+          "அறத்தை நல்லதென்று போற்றும் நெஞ்சம் இல்லாததன்மை, ஒருவன் மற்றவனைப் பற்றிப் புறங்கூறுகின்ற சிறுமையால் காணப்படும்.",
+          "தன் மனம் தான் அறிந்த குற்றத்தில் தங்குமானால் வானத்தைப் போல் உயர்ந்துள்ள தவக்கோலம் ஒருவனுக்கு என்ன பயன் செய்யும்.",
+          "மற்ற உயிரின் துன்பத்தை தன் துன்பம் போல் கருதிக் காப்பாற்றா விட்டால் பெற்றுள்ள அறிவினால் ஆகும் பயன் உண்டோ."
+        ],
+        "quiz_options_en": [
+          "Worse than begging is that boarding Alone what one's greed is hoarding",
+          "Who turns to slander makes it plain His praise of virtue is in vain",
+          "Of what avail are sky-high shows When guild the conscience gnaws and knows",
+          "What does a man from wisdom gain If he pines not at other's pain?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புறங்கூறாமை) பகுதியில் குறள் 185 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறத்தை நல்லதென்று போற்றும் நெஞ்சம் இல்லாததன்மை, ஒருவன் மற்றவனைப் பற்றிப் புறங்கூறுகின்ற சிறுமையால் காணப்படும். பரிமேலழகர் உரை நுட்பம்: அறம் சொல்லும் நெஞ்சத்தான் அன்மை - புறம் சொல்லுவான் ஒருவன் அறனை நன்றென்று சொல்லினும் அது தன் மனத்தானாச் சொல்லுகின்றானல்லன் என்பது; புறம் சொல்லும் புன்மையால் காணப்படும் - அவன் புறஞ் சொல்லுதற்குச் காரணமான மனப்புன்மையானே அறியப்படும். (மனம் தீதாகலின், அச்சொல...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 19: 'Not Backbiting'), Kural 185 distills a foundational ethical insight: \"The slanderous meanness that an absent friend defames,'This man in words owns virtue, not in heart,' proclaims\" Philosophically, The emptiness of that man's mind who (merely) praises virtue will be seen from the meanness of reviling another behind his back.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "ethics",
+        "love",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 186,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: மற்றவனைப் பற்றிப் புறங்கூறுகின்றவன், அவனுடைய பழிகள் பலவற்றிலும் நோகத்தக்கவை ஆராய்ந்து கூறிப் பிறரால் பழிக்கப்படுவான்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The character of the faults of that man who publishes abroad the faults of others will be sought out and published.",
+        "story_title_ta": "புறங்கூறாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Not Backbiting — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புறங்கூறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 186 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அடுத்தவன் குறையை அவன் இல்லாத போது எவன் கூறுகிறானோ, அவனது குறை அவன் இல்லாதபோது இன்னொருவனால் கூறப்படும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Not Backbiting'. Grandpa shared Kural 186 and explained in simple words: The character of the faults of that man who publishes abroad the faults of others will be sought out and published. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறர்மீது ஒருவன் புறங்கூறித் திரிகிறான் என்றால் அவனது பழிச் செயல்களை ஆராய்ந்து அவற்றில் கொடுமையானவைகளை அவன் மீது கூற நேரிடும்.",
+        "moral_en": "Moral: Who on his neighbours' sins delights to dwell, The story of his sins, culled out with care, the world will tell.",
+        "game_blank_word_ta": "திறன்தெரிந்து",
+        "game_options_ta": [
+          "அறங்கூறான்",
+          "அல்ல",
+          "திறன்தெரிந்து",
+          "செயினும்"
+        ],
+        "game_options_en": [
+          "Though a man from virtue strays, To keep from slander brings him praise",
+          "Who bite behind, and before smile Are worse than open traitors vile",
+          "His failings will be found and shown, Who makes another's failings known",
+          "Virtue thinks it better to die, Than live to backbite and to lie"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புறங்கூறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 186, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடுத்தவன் குறையை அவன் இல்லாத போது எவன் கூறுகிறானோ, அவனது குறை அவன் இல்லாதபோது இன்னொருவனால் கூறப்படும். கலைஞர் உரை கூறுவது: பிறர்மீது ஒருவன் புறங்கூறித் திரிகிறான் என்றால் அவனது பழிச் செயல்களை ஆராய்ந்து அவற்றில் கொடுமையானவைகளை அவன் மீது கூற நேரிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Backbiting (Domestic Virtue), Kural 186 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The character of the faults of that man who publishes abroad the faults of others will be sought out and published. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புறங்கூறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Backbiting' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புறங்கூறாமை' அதிகாரத்தில் வரும் திருக்குறள் 186 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 186 from Chapter 'Not Backbiting'?",
+        "quiz_options_ta": [
+          "சாவதை விடத் துன்பமானது வேறொன்றும் இல்லை, ஆனால் வறியவர்க்கு ஒரு பொருள் கொடுக்க முடியாதநிலை வந்தபோது அச் சாதலும் இனியதே ஆகும்.",
+          "மனத்தை அடக்கும் வல்லமை இல்லாதவன் மேற்கொண்ட வலிய தவக்கோலம், புலியின் தோலைப் போர்த்திக் கொண்டு பயிரை பசு மேய்ந்தாற் போன்றது.",
+          "மற்றவனைப் பற்றிப் புறங்கூறுகின்றவன், அவனுடைய பழிகள் பலவற்றிலும் நோகத்தக்கவை ஆராய்ந்து கூறிப் பிறரால் பழிக்கப்படுவான்.",
+          "ஒருவன் துன்பமானவை என்று தன் வாழ்க்கையில் கண்டு உணர்ந்தவைகளை மற்றவனிடத்தில் செய்யாமல் தவிர்க்க வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Nothing is more painful than death Yet more is pain of giftless dearth",
+          "Vaunting sainthood while week within Seems a grazer with tiger skin",
+          "His failings will be found and shown, Who makes another's failings known",
+          "What you feel as pain to yourself Do it not to the other-self"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புறங்கூறாமை) பகுதியில் குறள் 186 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மற்றவனைப் பற்றிப் புறங்கூறுகின்றவன், அவனுடைய பழிகள் பலவற்றிலும் நோகத்தக்கவை ஆராய்ந்து கூறிப் பிறரால் பழிக்கப்படுவான். பரிமேலழகர் உரை நுட்பம்: பிறன் பழி கூறுவான் - பிறனொருவன் பழியை அவன் புறத்துக் கூறுபவன்; தன் பழியுள்ளும் திறன் தெரிந்து கூறப்படும் - தன்பழி பலவற்றுள்ளும் உளையும் திறமுடையவற்றைத் தெரிந்து அவனால் கூறப்படும். ('புறத்து' என்பது அதிகாரத்தால் பெற்றாம். இது வருகின்றவற்றிற்கும் ஒக்கும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 19: 'Not Backbiting'), Kural 186 distills a foundational ethical insight: \"Who on his neighbours' sins delights to dwell, The story of his sins, culled out with care, the world will tell\" Philosophically, The character of the faults of that man who publishes abroad the faults of others will be sought out and published.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "harmony",
+        "ethics",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 187,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மகிழும்படியாகப் பேசி நட்புக் கொள்ளுதல் நன்மை என்று தெளியாதவர் தம்மை விட்டு நீங்கும்படியாகப் புறம் கூறி நண்பரையும் பிரித்து விடுவர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Those who know not to live in friendship with amusing conversation will by back-biting estrange even their relatives.",
+        "story_title_ta": "புறங்கூறாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Not Backbiting — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புறங்கூறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 187 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'கூடி மகிழுமாறு இனியன பேசி நட்பை வளர்க்கத் தெரியாதவர், புறம்பேசி நண்பர்களையும் பிரித்து விடுவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Not Backbiting'. Grandpa shared Kural 187 and explained in simple words: Those who know not to live in friendship with amusing conversation will by back-biting estrange even their relatives. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: இனிமையாகப் பழகி நட்புறவைத் தொடரத் தெரியாதவர்கள், நட்புக் கெடுமளவுக்குப் புறங்கூறி நண்பர்களை இழந்து விடுவார்கள்.",
+        "moral_en": "Moral: With friendly art who know not pleasant words to say, Speak words that sever hearts, and drive choice friends away.",
+        "game_blank_word_ta": "தேற்றா",
+        "game_options_ta": [
+          "அறங்கூறான்",
+          "அல்ல",
+          "செயினும்",
+          "தேற்றா"
+        ],
+        "game_options_en": [
+          "Though a man from virtue strays, To keep from slander brings him praise",
+          "Who bite behind, and before smile Are worse than open traitors vile",
+          "Virtue thinks it better to die, Than live to backbite and to lie",
+          "By pleasing words who make not friends Sever their hearts by hostile trends"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புறங்கூறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 187, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கூடி மகிழுமாறு இனியன பேசி நட்பை வளர்க்கத் தெரியாதவர், புறம்பேசி நண்பர்களையும் பிரித்து விடுவர். கலைஞர் உரை கூறுவது: இனிமையாகப் பழகி நட்புறவைத் தொடரத் தெரியாதவர்கள், நட்புக் கெடுமளவுக்குப் புறங்கூறி நண்பர்களை இழந்து விடுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Backbiting (Domestic Virtue), Kural 187 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who know not to live in friendship with amusing conversation will by back-biting estrange even their relatives. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புறங்கூறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Backbiting' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புறங்கூறாமை' அதிகாரத்தில் வரும் திருக்குறள் 187 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 187 from Chapter 'Not Backbiting'?",
+        "quiz_options_ta": [
+          "வறியவர்க்கு ஈதல் வேண்டும் அதனால் புகழ் உண்டாக வாழ வேண்டும், அப் புகழ் அல்லாமல் உயிர்க்கு ஊதியமானது வேறொன்றும் இல்லை.",
+          "தவக்கோலத்தில் மறைந்து கொண்டு தவம் அல்லாத தீயச்செயல்களைச் செய்தல், புதரில் மறைந்து கொண்டு வேடன் பறவைகளை வலைவீசிப் பிடித்தலைப் போன்றது.",
+          "எவ்வளவு சிறியதாயினும் எக்காலத்திலும் எவரிடத்திலும் மனதால் எண்ணி உண்டாகின்ற துன்பச்செயலைச் செய்யாதிருத்தலே நல்லது.",
+          "மகிழும்படியாகப் பேசி நட்புக் கொள்ளுதல் நன்மை என்று தெளியாதவர் தம்மை விட்டு நீங்கும்படியாகப் புறம் கூறி நண்பரையும் பிரித்து விடுவர்."
+        ],
+        "quiz_options_en": [
+          "They gather fame who freely give The greatest gain for all that live",
+          "Sinning in saintly show is like Fowlers in ambush birds to strike",
+          "Any, anywhere injure not At any time even in thought",
+          "By pleasing words who make not friends Sever their hearts by hostile trends"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புறங்கூறாமை) பகுதியில் குறள் 187 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மகிழும்படியாகப் பேசி நட்புக் கொள்ளுதல் நன்மை என்று தெளியாதவர் தம்மை விட்டு நீங்கும்படியாகப் புறம் கூறி நண்பரையும் பிரித்து விடுவர். பரிமேலழகர் உரை நுட்பம்: பகச் சொல்லிக் கேளிர்ப் பிரிப்பர் - தம்மை விட்டு நீங்கும் ஆற்றால் புறங்கூறித் தம் கேளிரையும் பிரியப் பண்ணுவர்; நகச்சொல்லி நட்பு ஆடல் தேற்றாதவர் - கூடி மகிழுமாறு இனிய சொற்களைச் சொல்லி அயலாரோடு நட்பு ஆடலை அறியாதார். (சிறப்பு உம்மை விகாரத்தால் தொக்கது. கேளிரையும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 19: 'Not Backbiting'), Kural 187 distills a foundational ethical insight: \"With friendly art who know not pleasant words to say, Speak words that sever hearts, and drive choice friends away\" Philosophically, Those who know not to live in friendship with amusing conversation will by back-biting estrange even their relatives.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "friendship",
+        "ethics",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 188,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நெருங்கிப் பழகியவரின் குற்றத்தையும் புறங்கூறித் தூற்றும் இயல்புடையவர், பழகாத அயலாரிடத்து என்ன செய்வாரோ?",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: What will those not do to strangers whose nature leads them to publish abroad the faults of their intimate friends ?",
+        "story_title_ta": "புறங்கூறாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Not Backbiting — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புறங்கூறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 188 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தன்னோடு நெருக்கமானவர்களின் குற்றத்தையும் அவர் இல்லாத நேரம் பேசும் இயல்புடையவர்கள், அயலார் காரியத்தில் என்னதான் பேசமாட்டார்கள்!' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Not Backbiting'. Grandpa shared Kural 188 and explained in simple words: What will those not do to strangers whose nature leads them to publish abroad the faults of their intimate friends ? The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நெருங்கிப் பழகியவரின் குறையைக்கூடப் புறம் பேசித் தூற்றுகிற குணமுடையவர்கள் அப்படிப் பழகாத அயலாரைப் பற்றி என்னதான் பேச மாட்டார்கள்?",
+        "moral_en": "Moral: Whose nature bids them faults of closest friends proclaimWhat mercy will they show to other men's good name.",
+        "game_blank_word_ta": "மாட்டு",
+        "game_options_ta": [
+          "மாட்டு",
+          "அறங்கூறான்",
+          "அல்ல",
+          "செயினும்"
+        ],
+        "game_options_en": [
+          "What will they not to strangers do Who bring their friends' defects to view?",
+          "Though a man from virtue strays, To keep from slander brings him praise",
+          "Who bite behind, and before smile Are worse than open traitors vile",
+          "Virtue thinks it better to die, Than live to backbite and to lie"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புறங்கூறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 188, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்னோடு நெருக்கமானவர்களின் குற்றத்தையும் அவர் இல்லாத நேரம் பேசும் இயல்புடையவர்கள், அயலார் காரியத்தில் என்னதான் பேசமாட்டார்கள்! கலைஞர் உரை கூறுவது: நெருங்கிப் பழகியவரின் குறையைக்கூடப் புறம் பேசித் தூற்றுகிற குணமுடையவர்கள் அப்படிப் பழகாத அயலாரைப் பற்றி என்னதான் பேச மாட்டார்கள்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Backbiting (Domestic Virtue), Kural 188 speaks directly to teens navigating studies, friendships, leadership, and digital choices: What will those not do to strangers whose nature leads them to publish abroad the faults of their intimate friends ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புறங்கூறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Backbiting' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புறங்கூறாமை' அதிகாரத்தில் வரும் திருக்குறள் 188 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 188 from Chapter 'Not Backbiting'?",
+        "quiz_options_ta": [
+          "நெருங்கிப் பழகியவரின் குற்றத்தையும் புறங்கூறித் தூற்றும் இயல்புடையவர், பழகாத அயலாரிடத்து என்ன செய்வாரோ?",
+          "புகழ்ந்து சொல்கின்றவர் சொல்பவை எல்லாம் வறுமையால் இரப்பவர்க்கு ஒரு பொருள் கொடுத்து உதவுகின்றவரின் மேல் நிற்கின்ற புகழேயாகும்.",
+          "பற்றுக்களைத் துறந்தோம் என்று சொல்கின்றவரின் பொய்யொழுக்கம் என்ன செய்தோம் என்ன செய்தோம் என்று வருந்தும் படியான துன்பம் பலவும் தரும்.",
+          "தன் உயிருக்குத் துன்பமானவை இவை என்று உணர்ந்தவன், அத் துன்பத்தை மற்ற உயிருக்குச் செய்தல் என்ன காரணத்தாலோ."
+        ],
+        "quiz_options_en": [
+          "What will they not to strangers do Who bring their friends' defects to view?",
+          "The glory of the alms-giver Is praised aloud as popular",
+          "Who false within but freedom feign Shall moan \\\"What have we done\\\" with pain",
+          "How can he injure other souls Who in his life injury feels"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புறங்கூறாமை) பகுதியில் குறள் 188 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெருங்கிப் பழகியவரின் குற்றத்தையும் புறங்கூறித் தூற்றும் இயல்புடையவர், பழகாத அயலாரிடத்து என்ன செய்வாரோ? பரிமேலழகர் உரை நுட்பம்: துன்னியார் குற்றமும் தூற்றும் மரபினார் - தம்மொடு செறிந்தாரது குற்றத்தையும் அவர் புறத்துத் தூற்றும் இயல்பினை உடையார்; ஏதிலார் மாட்டு என்னை கொல் - அயலார் மாட்டுச் செய்வது யாது கொல்லோ? ('தூற்றுதல்' பலரும் அறியப் பரப்புதல். அதனின் கொடியது பிறிதொன்று காணாமையின...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 19: 'Not Backbiting'), Kural 188 distills a foundational ethical insight: \"Whose nature bids them faults of closest friends proclaimWhat mercy will they show to other men's good name\" Philosophically, What will those not do to strangers whose nature leads them to publish abroad the faults of their intimate friends ?",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "friendship",
+        "self-mastery",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 189,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவர் நேரில் இல்லாதது கண்டு பழிச்‌சொல் கூறுவோனுடைய உடல் பாரத்தை, இவனையும் சுமப்பதே எனக்கு அறம் என்று கருதி நிலம் சுமக்கின்றதோ?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The world through charity supports the weight of those who reproach others observing their absence.",
+        "story_title_ta": "புறங்கூறாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Not Backbiting — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புறங்கூறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 189 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறர் இல்லாதபோது அவரைப் பழிக்கும் இழிசொற்களைப் பேசுபவனின் உடல் பாரத்தை இவனையும் சுமப்பதே என் தருமம் என்றெண்ணி இப்பூமி சுமக்கிறது போலும்!' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Not Backbiting'. Grandpa shared Kural 189 and explained in simple words: The world through charity supports the weight of those who reproach others observing their absence. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவர் நேரில் இல்லாதபோது பழிச்சொல் கூறுவோனுடைய உடலை `இவனைச் சுமப்பதும் அறமே' என்று கருதித்தான் நிலம் சுமக்கிறது.",
+        "moral_en": "Moral: 'Tis charity, I ween, that makes the earth sustain their loadWho, neighbours' absence watching, tales or slander tell abroad.",
+        "game_blank_word_ta": "புறன்நோக்கிப்",
+        "game_options_ta": [
+          "அறங்கூறான்",
+          "புறன்நோக்கிப்",
+          "அல்ல",
+          "செயினும்"
+        ],
+        "game_options_en": [
+          "Though a man from virtue strays, To keep from slander brings him praise",
+          "The world in mercy bears his load Who rants behind words untoward",
+          "Who bite behind, and before smile Are worse than open traitors vile",
+          "Virtue thinks it better to die, Than live to backbite and to lie"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புறங்கூறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 189, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர் இல்லாதபோது அவரைப் பழிக்கும் இழிசொற்களைப் பேசுபவனின் உடல் பாரத்தை இவனையும் சுமப்பதே என் தருமம் என்றெண்ணி இப்பூமி சுமக்கிறது போலும்! கலைஞர் உரை கூறுவது: ஒருவர் நேரில் இல்லாதபோது பழிச்சொல் கூறுவோனுடைய உடலை `இவனைச் சுமப்பதும் அறமே' என்று கருதித்தான் நிலம் சுமக்கிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Backbiting (Domestic Virtue), Kural 189 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The world through charity supports the weight of those who reproach others observing their absence. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புறங்கூறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Backbiting' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புறங்கூறாமை' அதிகாரத்தில் வரும் திருக்குறள் 189 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 189 from Chapter 'Not Backbiting'?",
+        "quiz_options_ta": [
+          "உயர்ந்த புகழ் அல்லாமல் உலகத்தில் ஒப்பற்ற ஒரு பொருளாக அழியாமல் நிலைநிற்க வல்லது வேறொன்றும் இல்லை.",
+          "ஒருவர் நேரில் இல்லாதது கண்டு பழிச்‌சொல் கூறுவோனுடைய உடல் பாரத்தை, இவனையும் சுமப்பதே எனக்கு அறம் என்று கருதி நிலம் சுமக்கின்றதோ?",
+          "மனத்தில் பற்றுக்களைத் துறக்காமல் துறந்தவரைப் போல் வஞ்சனைச் செய்து வாழ்கின்றவரைப் போல் இரக்கமற்றவர் எவரும் இல்லை.",
+          "முற்பகலில் மற்றவருக்கு துன்பமானவற்றைச் செய்தால் அவ்வாறு செய்தவர்க்கே பிற்பகலில் துன்பங்கள் தாமாக வந்து சேரும்."
+        ],
+        "quiz_options_en": [
+          "Nothing else lasts on earth for e'er Saving high fame of the giver!",
+          "The world in mercy bears his load Who rants behind words untoward",
+          "Vilest is he who seems a saint Cheating the world without restraint",
+          "Harm others in the forenoon Harm seeks thee in afternoon"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புறங்கூறாமை) பகுதியில் குறள் 189 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவர் நேரில் இல்லாதது கண்டு பழிச்‌சொல் கூறுவோனுடைய உடல் பாரத்தை, இவனையும் சுமப்பதே எனக்கு அறம் என்று கருதி நிலம் சுமக்கின்றதோ? பரிமேலழகர் உரை நுட்பம்: புறன் நோக்கிப் புன்சொல் உரைப்பான் பொறை - பிறர் நீங்கின அளவு பார்த்து அவர் பழித்துரையை உரைப்பானது உடற்பாரத்தை; வையம் அறன் நோக்கி ஆற்றுங்கொல் - நிலம் இக் கொடியது பொறுத்தலே எனக்கு அறமாவது எனக் கருதிப் பொறுக்கின்றது போலும்! (எல்லாவற்றையும் பொறுத்தல் இயல்பாயினும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 19: 'Not Backbiting'), Kural 189 distills a foundational ethical insight: \"'Tis charity, I ween, that makes the earth sustain their loadWho, neighbours' absence watching, tales or slander tell abroad\" Philosophically, The world through charity supports the weight of those who reproach others observing their absence.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "kindness",
+        "harmony",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 190,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அயலாருடைய குற்றத்தைக் காண்பது போல் தம் குற்றத்தையும் காண வல்லவரானால், நிலைபெற்ற உயிர் வாழ்க்கைக்குத் துன்பம் உண்ட‌ோ?",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If they observed their own faults as they observe the faults of others, would any evil happen to men ?",
+        "story_title_ta": "புறங்கூறாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Not Backbiting — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'புறங்கூறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 190 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'புறம்பேச அடுத்தவர் குற்றத்தைப் பார்ப்பவர், பேசும் தம் குற்றத்தையும் எண்ணினால், நிலைத்து இருக்கும் உயிர்க்குத் துன்பமும் வருமோ?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Not Backbiting'. Grandpa shared Kural 190 and explained in simple words: If they observed their own faults as they observe the faults of others, would any evil happen to men ? The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறர் குற்றத்தைக் காண்பவர்கள் தமது குற்றத்தையும் எண்ணிப் பார்ப்பார்களேயானால் புறங்கூறும் பழக்கமும் போகும்; வாழ்க்கையும் நிம்மதியாக அமையும்.",
+        "moral_en": "Moral: If each his own, as neighbours' faults would scan, Could any evil hap to living man.",
+        "game_blank_word_ta": "குற்றம்போல்",
+        "game_options_ta": [
+          "அறங்கூறான்",
+          "அல்ல",
+          "குற்றம்போல்",
+          "செயினும்"
+        ],
+        "game_options_en": [
+          "Though a man from virtue strays, To keep from slander brings him praise",
+          "Who bite behind, and before smile Are worse than open traitors vile",
+          "No harm would fall to any man If each his own defect could scan",
+          "Virtue thinks it better to die, Than live to backbite and to lie"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புறங்கூறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 190, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: புறம்பேச அடுத்தவர் குற்றத்தைப் பார்ப்பவர், பேசும் தம் குற்றத்தையும் எண்ணினால், நிலைத்து இருக்கும் உயிர்க்குத் துன்பமும் வருமோ? கலைஞர் உரை கூறுவது: பிறர் குற்றத்தைக் காண்பவர்கள் தமது குற்றத்தையும் எண்ணிப் பார்ப்பார்களேயானால் புறங்கூறும் பழக்கமும் போகும்; வாழ்க்கையும் நிம்மதியாக அமையும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Backbiting (Domestic Virtue), Kural 190 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If they observed their own faults as they observe the faults of others, would any evil happen to men ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'புறங்கூறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Backbiting' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'புறங்கூறாமை' அதிகாரத்தில் வரும் திருக்குறள் 190 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 190 from Chapter 'Not Backbiting'?",
+        "quiz_options_ta": [
+          "நிலவுலகின் எல்லையில் நெடுங்காலம் நிற்கவல்ல புகழைச் செய்தால், வானுலகம் (அவ்வாறு புகழ் செய்தாரைப் போற்றுமே அல்லாமல்) தேவரைப் போற்றாது..",
+          "புறத்தில் குன்றிமணிப்போல் செம்மையானவராய் காணப்பட்டாராயினும் அகத்தில் குன்றிமணியின் மூக்குப்போல் கருத்திருப்பவர் உலகில் உணடு.",
+          "அயலாருடைய குற்றத்தைக் காண்பது போல் தம் குற்றத்தையும் காண வல்லவரானால், நிலைபெற்ற உயிர் வாழ்க்கைக்குத் துன்பம் உண்ட‌ோ?",
+          "துன்பம் எல்லாம் துன்பம் செய்தவரையேச் சார்வன, ஆகையால் துன்பம் இல்லாமல் வாழ்தலை விரும்புகின்றவர் பிறர்க்கு துன்பம் செய்யார்."
+        ],
+        "quiz_options_en": [
+          "From hailing gods heavens will cease To hail the men of lasting praise",
+          "Berry-red is his outward view, Black like its nose his inward hue",
+          "No harm would fall to any man If each his own defect could scan",
+          "No harm is done by peace-lovers For pains rebound on pain-givers"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (புறங்கூறாமை) பகுதியில் குறள் 190 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அயலாருடைய குற்றத்தைக் காண்பது போல் தம் குற்றத்தையும் காண வல்லவரானால், நிலைபெற்ற உயிர் வாழ்க்கைக்குத் துன்பம் உண்ட‌ோ? பரிமேலழகர் உரை நுட்பம்: ஏதிலார் குற்றம்போல் தம் குற்றம் காண்கிற்பின் - ஏதிலாரைப் புறங்கூறுவார் அதற்கு அவர் குற்றம் காணுமாறு போலப் புறங்கூறலாகிய தம் குற்றத்தையும் காண வல்லராயின்; மன்னும் உயிர்க்குத் தீது உண்டோ-அவர் நிலைபேறுடைய உயிர்க்கு வருவதொரு துன்பம் உண்டோ?[நடுவு நின்று...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 19: 'Not Backbiting'), Kural 190 distills a foundational ethical insight: \"If each his own, as neighbours' faults would scan, Could any evil hap to living man\" Philosophically, If they observed their own faults as they observe the faults of others, would any evil happen to men ?",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "kindness",
+        "friendship",
+        "education"
+      ]
+    }
+  ]
+}

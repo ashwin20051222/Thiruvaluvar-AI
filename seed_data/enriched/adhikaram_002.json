@@ -1,0 +1,585 @@
+{
+  "adhikaram_id": 2,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.441877931+00:00",
+  "kurals": [
+    {
+      "kural_number": 11,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மழை பெய்ய உலகம் வாழ்ந்து வருவதால், மழையானது உலகத்து வாழும் உயிர்களுக்கு அமிழ்தம் என்று உணரத்தக்கதாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: By the continuance of rain the world is preserved in existence; it is therefore worthy to be called ambrosia.",
+        "story_title_ta": "வான்சிறப்பு — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Blessing of Rain — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வான்சிறப்பு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 11 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உரிய காலத்தில் இடைவிடாது மழை பெய்வதால்தான் உலகம் நிலைபெற்று வருகிறது; அதனால் மழையே அமிழ்தம் எனலாம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'The Blessing of Rain'. Grandpa shared Kural 11 and explained in simple words: By the continuance of rain the world is preserved in existence; it is therefore worthy to be called ambrosia. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உலகத்தை வாழ வைப்பது மழையாக அமைந்திருப்பதால் அதுவே அமிழ்தம் எனப்படுகிறது.",
+        "moral_en": "Moral: The world its course maintains through life that rain unfailing gives; Thus rain is known the true ambrosial food of all that lives.",
+        "game_blank_word_ta": "தான்அமிழ்தம்",
+        "game_options_ta": [
+          "துப்பார்க்குத்",
+          "துப்பாய",
+          "துப்பாக்கித்",
+          "தான்அமிழ்தம்"
+        ],
+        "game_options_en": [
+          "The rain begets the food we eat",
+          "Let clouds their visits stay, and dearth Distresses all the sea-girt earth",
+          "Unless the fruitful shower descend, The ploughman's sacred toil must end",
+          "The genial rain ambrosia call: The world but lasts while rain shall fall"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வான்சிறப்பு (பாயிரவியல்) பிரிவில் அமைந்த குறள் 11, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உரிய காலத்தில் இடைவிடாது மழை பெய்வதால்தான் உலகம் நிலைபெற்று வருகிறது; அதனால் மழையே அமிழ்தம் எனலாம். கலைஞர் உரை கூறுவது: உலகத்தை வாழ வைப்பது மழையாக அமைந்திருப்பதால் அதுவே அமிழ்தம் எனப்படுகிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Blessing of Rain (Prologue), Kural 11 speaks directly to teens navigating studies, friendships, leadership, and digital choices: By the continuance of rain the world is preserved in existence; it is therefore worthy to be called ambrosia. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'வான்சிறப்பு' குறள் 11 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 11 (The Blessing of Rain) and writing one clear priority.",
+        "quiz_question_ta": "'வான்சிறப்பு' அதிகாரத்தில் வரும் திருக்குறள் 11 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 11 from Chapter 'The Blessing of Rain'?",
+        "quiz_options_ta": [
+          "வேறு தெய்வம் தொழாதவளாய்த் தன் கணவனையே தெய்வமாகக் கொண்டு தொழுது துயிலெழுகின்றவள் பெய் என்றால் மழை பெய்யும்.",
+          "பிறர்க்குத் துன்பம் விளைக்கும் சிறுமையிலிருந்து நீங்கிய இனிய சொற்கள் மறுமைக்கும் இம்மைக்கும் வழங்குவோனுக்கு இன்பம் தரும் .",
+          "பிறனுடைய உரிமையாகிய மனைவியை விரும்பி நடக்கும் அறியாமை, உலகத்தில் அறமும் பொருளும் ஆராய்ந்து கண்டவரிடம் இல்லை.",
+          "மழை பெய்ய உலகம் வாழ்ந்து வருவதால், மழையானது உலகத்து வாழும் உயிர்களுக்கு அமிழ்தம் என்று உணரத்தக்கதாகும்"
+        ],
+        "quiz_options_en": [
+          "Her spouse before God who adores, Is like rain that at request pours",
+          "Kind words free from meanness delight This life on earth and life the next",
+          "Who know the wealth and virtue's way After other's wife do not stray",
+          "The genial rain ambrosia call: The world but lasts while rain shall fall"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (வான்சிறப்பு) பகுதியில் குறள் 11 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மழை பெய்ய உலகம் வாழ்ந்து வருவதால், மழையானது உலகத்து வாழும் உயிர்களுக்கு அமிழ்தம் என்று உணரத்தக்கதாகும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது ,அக்கடவுளது ஆணையான் உலகமும், அதற்கு உறுதியாகிய அறம் பொருள் இன்பங்களும் நடத்தற்கு ஏதுவாகிய மழையினது சிறப்புக் கூறுதல். அதிகார முறைமையும் இதனானே விளங்கும்.] வான்நின்று உலகம் வழங்கி வருதலால் - மழை இடையறாது நிற்ப உலகம் நிலைபெற்று வருதலான்; தான் அமிழ்தம...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 2: 'The Blessing of Rain'), Kural 11 distills a foundational ethical insight: \"The world its course maintains through life that rain unfailing gives; Thus rain is known the true ambrosial food of all that lives\" Philosophically, By the continuance of rain the world is preserved in existence; it is therefore worthy to be called ambrosia.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "harmony",
+        "ethics",
+        "time",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 12,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: உண்பவர்க்குத் தக்க உணவுப் பொருள்களை விளைவித்துத் தருவதோடு, பருகுவோர்க்குத் தானும் ஓர் உணவாக இருப்பது மழையாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Rain produces good food, and is itself food.",
+        "story_title_ta": "வான்சிறப்பு — கவின் கற்ற பாடம்",
+        "story_title_en": "The Blessing of Rain — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வான்சிறப்பு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 12 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நல்ல உணவுகளைச் சமைக்கவும், சமைக்கப்பட்ட உணவுகளை உண்பவர்க்கு இன்னுமோர் உணவாகவும் பயன்படுவது மழையே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'The Blessing of Rain'. Grandpa shared Kural 12 and explained in simple words: Rain produces good food, and is itself food. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: யாருக்கு உணவுப் பொருள்களை விளைவித்துத்தர மழை பயன்படுகிறதோ, அவர்களுக்கே அந்த மழை அவர்கள் அருந்தும் உணவாகவும் ஆகி அரிய தியாகத்தைச் செய்கிறது.",
+        "moral_en": "Moral: The rain makes pleasant food for eaters rise; As food itself, thirst-quenching draught supplies.",
+        "game_blank_word_ta": "துப்பார்க்குத்",
+        "game_options_ta": [
+          "துப்பார்க்குத்",
+          "வான்நின்று",
+          "உலகம்",
+          "வழங்கி"
+        ],
+        "game_options_en": [
+          "The rain begets the food we eat",
+          "The genial rain ambrosia call: The world but lasts while rain shall fall",
+          "Let clouds their visits stay, and dearth Distresses all the sea-girt earth",
+          "Unless the fruitful shower descend, The ploughman's sacred toil must end"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வான்சிறப்பு (பாயிரவியல்) பிரிவில் அமைந்த குறள் 12, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்ல உணவுகளைச் சமைக்கவும், சமைக்கப்பட்ட உணவுகளை உண்பவர்க்கு இன்னுமோர் உணவாகவும் பயன்படுவது மழையே. கலைஞர் உரை கூறுவது: யாருக்கு உணவுப் பொருள்களை விளைவித்துத்தர மழை பயன்படுகிறதோ, அவர்களுக்கே அந்த மழை அவர்கள் அருந்தும் உணவாகவும் ஆகி அரிய தியாகத்தைச் செய்கிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Blessing of Rain (Prologue), Kural 12 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Rain produces good food, and is itself food. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'வான்சிறப்பு' குறள் 12 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 12 (The Blessing of Rain) and writing one clear priority.",
+        "quiz_question_ta": "'வான்சிறப்பு' அதிகாரத்தில் வரும் திருக்குறள் 12 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 12 from Chapter 'The Blessing of Rain'?",
+        "quiz_options_ta": [
+          "உண்பவர்க்குத் தக்க உணவுப் பொருள்களை விளைவித்துத் தருவதோடு, பருகுவோர்க்குத் தானும் ஓர் உணவாக இருப்பது மழையாகும்",
+          "கற்பு நெறியில் தன்னையும் காத்துக்கொண்டு, தன்கணவனையும் காப்பாற்றி, தகுதியமைந்த புகழையும் காத்து உறுதி தளராமல் வாழ்கின்றவளே பெண்.",
+          "இனிய சொற்கள் இன்பம் பயத்தலைக் காண்கின்றவன், அவற்றிற்கு மாறான வன்சொற்களை வழங்குவது என்ன பயன் கருதியோ?",
+          "அறத்தை விட்டுத் தீநெறியில் நின்றவர் எல்லாரிலும் பிறன் மனைவியை விரும்பி அவனுடைய வாயிலில் சென்று நின்றவரைப் போல் அறிவிலிகள் இல்லை."
+        ],
+        "quiz_options_en": [
+          "The rain begets the food we eat",
+          "The good wife guards herself from blame, She tends her spouse and brings him fame",
+          "Who sees the sweets of sweetness here To use harsh words how can he dare?",
+          "He is the worst law breaking boor Who haunts around his neighbour's door"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (வான்சிறப்பு) பகுதியில் குறள் 12 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உண்பவர்க்குத் தக்க உணவுப் பொருள்களை விளைவித்துத் தருவதோடு, பருகுவோர்க்குத் தானும் ஓர் உணவாக இருப்பது மழையாகும். பரிமேலழகர் உரை நுட்பம்: துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி - உண்பார்க்கு நல்ல உணவுகளை உளவாக்கி; துப்பார்க்குத் துப்பு ஆயதூஉம் மழை - அவற்றை உண்கின்றார்க்குத் தானும் உணவாய் நிற்பதூஉம் மழை. (தானும் உணவாதலாவது, தண்ணீராய் உண்ணப்படுதல். சிறப்பு உடைய உயர்திணை மேல் வைத்துக் கூறினமையின...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 2: 'The Blessing of Rain'), Kural 12 distills a foundational ethical insight: \"The rain makes pleasant food for eaters rise; As food itself, thirst-quenching draught supplies\" Philosophically, Rain produces good food, and is itself food.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "wealth",
+        "time",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 13,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மழை பெய்யாமல் பொய்படுமானால், கடல் சூழ்ந்த அகன்ற உலகமாக இருந்தும் பசி உள்ளே நிலைத்து நின்று உயிர்களை வருத்தும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: If the cloud, withholding rain, deceive (our hopes) hunger will long distress the sea-girt spacious world.",
+        "story_title_ta": "வான்சிறப்பு — நிலா கற்ற பாடம்",
+        "story_title_en": "The Blessing of Rain — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வான்சிறப்பு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 13 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உரிய காலத்தே மழை பெய்யாது பொய்க்குமானால், கடல் சூழ்ந்த இப்பேருலகத்தில் வாழும் உயிர்களைப் பசி வருத்தும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Blessing of Rain'. Grandpa shared Kural 13 and explained in simple words: If the cloud, withholding rain, deceive (our hopes) hunger will long distress the sea-girt spacious world. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: கடல்நீர் சூழ்ந்த உலகமாயினும், மழைநீர் பொய்த்து விட்டால் பசியின் கொடுமை வாட்டி வதைக்கும்.",
+        "moral_en": "Moral: If clouds, that promised rain, deceive, and in the sky remain, Famine, sore torment, stalks o'er earth's vast ocean-girdled plain.",
+        "game_blank_word_ta": "பொய்ப்பின்",
+        "game_options_ta": [
+          "வான்நின்று",
+          "பொய்ப்பின்",
+          "உலகம்",
+          "வழங்கி"
+        ],
+        "game_options_en": [
+          "The genial rain ambrosia call: The world but lasts while rain shall fall",
+          "Let clouds their visits stay, and dearth Distresses all the sea-girt earth",
+          "The rain begets the food we eat",
+          "Unless the fruitful shower descend, The ploughman's sacred toil must end"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வான்சிறப்பு (பாயிரவியல்) பிரிவில் அமைந்த குறள் 13, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உரிய காலத்தே மழை பெய்யாது பொய்க்குமானால், கடல் சூழ்ந்த இப்பேருலகத்தில் வாழும் உயிர்களைப் பசி வருத்தும். கலைஞர் உரை கூறுவது: கடல்நீர் சூழ்ந்த உலகமாயினும், மழைநீர் பொய்த்து விட்டால் பசியின் கொடுமை வாட்டி வதைக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Blessing of Rain (Prologue), Kural 13 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If the cloud, withholding rain, deceive (our hopes) hunger will long distress the sea-girt spacious world. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'வான்சிறப்பு' குறள் 13 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 13 (The Blessing of Rain) and writing one clear priority.",
+        "quiz_question_ta": "'வான்சிறப்பு' அதிகாரத்தில் வரும் திருக்குறள் 13 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 13 from Chapter 'The Blessing of Rain'?",
+        "quiz_options_ta": [
+          "மகளிரைக் காவல் வைத்துக் காக்கும் காப்பு முறை என்ன பயனை உண்டாக்கும்? அவர்கள் நிறை என்னும் பண்பால் தம்மைத் தான் காக்கும் கற்பே சிறிந்தது.",
+          "மழை பெய்யாமல் பொய்படுமானால், கடல் சூழ்ந்த அகன்ற உலகமாக இருந்தும் பசி உள்ளே நிலைத்து நின்று உயிர்களை வருத்தும்",
+          "இனிய சொற்கள் இருக்கும் போது அவற்றை விட்டுக் கடுமையான சொற்களைக் கூறுதல் கனிகள் இருக்கும் போது அவற்றை விட்டு காய்களைப் பறித்துத் தின்பதைப் போன்றது .",
+          "ஐயமில்லாமல் தெளிந்து நம்பியவருடைய மனைவியிடத்தே விருப்பம் கொண்டு தீமையைச் செய்து நடப்பவர், செத்தவரை விட வேறுபட்டவர் அல்லர்."
+        ],
+        "quiz_options_en": [
+          "Of what avail are watch and ward? Their purity is women's guard",
+          "Let clouds their visits stay, and dearth Distresses all the sea-girt earth",
+          "Leaving ripe fruits the raw he eats Who speaks harsh words when sweet word suits",
+          "The vile are dead who evil aim And put faithful friends' wives to shame"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (வான்சிறப்பு) பகுதியில் குறள் 13 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மழை பெய்யாமல் பொய்படுமானால், கடல் சூழ்ந்த அகன்ற உலகமாக இருந்தும் பசி உள்ளே நிலைத்து நின்று உயிர்களை வருத்தும். பரிமேலழகர் உரை நுட்பம்: விண் இன்று பொய்ப்பின் - மழை வேண்டுங்காலத்துப் பெய்யாது பொய்க்கும் ஆயின்; விரி நீர் வியன் உலகத்துள் - கடலால் சூழப்பட்ட அகன்ற உலகத்தின்கண்; நின்று உடற்றும் பசி - நிலை பெற்று உயிர்களை வருத்தும் பசி. (கடலுடைத்தாயினும் அதனால் பயன் இல்லை யென்பார், 'விரி நீர் வியன...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 2: 'The Blessing of Rain'), Kural 13 distills a foundational ethical insight: \"If clouds, that promised rain, deceive, and in the sky remain, Famine, sore torment, stalks o'er earth's vast ocean-girdled plain\" Philosophically, If the cloud, withholding rain, deceive (our hopes) hunger will long distress the sea-girt spacious world.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "truth",
+        "kindness",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 14,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: மழை என்னும் வருவாய் வளம் குன்றி விட்டால், ( உணவுப் பொருள்களை உண்டாக்கும்) உழவரும் ஏர் கொண்டு உழமாட்டார்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If the abundance of wealth imparting rain diminish, the labour of the plough must cease.",
+        "story_title_ta": "வான்சிறப்பு — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Blessing of Rain — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வான்சிறப்பு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 14 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மழை என்னும் வருவாய் தன் வளத்தில் குறைந்தால், உழவர் ஏரால் உழவு செய்யமாட்டார்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Blessing of Rain'. Grandpa shared Kural 14 and explained in simple words: If the abundance of wealth imparting rain diminish, the labour of the plough must cease. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மழை என்னும் வருவாய் வளம் குன்றிவிட்டால், உழவுத் தொழில் குன்றி விடும்.",
+        "moral_en": "Moral: If clouds their wealth of waters fail on earth to pour, The ploughers plough with oxen's sturdy team no more.",
+        "game_blank_word_ta": "வளங்குன்றிக்",
+        "game_options_ta": [
+          "வான்நின்று",
+          "உலகம்",
+          "வளங்குன்றிக்",
+          "வழங்கி"
+        ],
+        "game_options_en": [
+          "The genial rain ambrosia call: The world but lasts while rain shall fall",
+          "The rain begets the food we eat",
+          "Unless the fruitful shower descend, The ploughman's sacred toil must end",
+          "Let clouds their visits stay, and dearth Distresses all the sea-girt earth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வான்சிறப்பு (பாயிரவியல்) பிரிவில் அமைந்த குறள் 14, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மழை என்னும் வருவாய் தன் வளத்தில் குறைந்தால், உழவர் ஏரால் உழவு செய்யமாட்டார். கலைஞர் உரை கூறுவது: மழை என்னும் வருவாய் வளம் குன்றிவிட்டால், உழவுத் தொழில் குன்றி விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Blessing of Rain (Prologue), Kural 14 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If the abundance of wealth imparting rain diminish, the labour of the plough must cease. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'வான்சிறப்பு' குறள் 14 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 14 (The Blessing of Rain) and writing one clear priority.",
+        "quiz_question_ta": "'வான்சிறப்பு' அதிகாரத்தில் வரும் திருக்குறள் 14 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 14 from Chapter 'The Blessing of Rain'?",
+        "quiz_options_ta": [
+          "கணவனைப் போற்றிக் கடமையைச் செய்யப்பெற்றால் மகளிர் பெரிய சிறப்பை உடைய மேலுலகவாழ்வைப் பெறுவர்.",
+          "தான் ஓர் உதவியும் முன் செய்யாதிருக்கப் பிறன் தனக்கு செய்த உதவிக்கு மண்ணுலகத்தையும் விண்ணுலகத்தையும் கைமாறாகக் கொடுத்தாலும் ஈடு ஆக முடியாது.",
+          "மழை என்னும் வருவாய் வளம் குன்றி விட்டால், ( உணவுப் பொருள்களை உண்டாக்கும்) உழவரும் ஏர் கொண்டு உழமாட்டார்",
+          "தினையளவும் ஆராய்ந்து பார்க்காமல் பிறனுடைய மனைவியிடம் செல்லுதல், எவ்வளவு பெருமையை உடையவராயினும் என்னவாக முடியும்?"
+        ],
+        "quiz_options_en": [
+          "Women who win their husbands' heart Shall flourish where the gods resort",
+          "Unhelped in turn good help given Exceeds in worth earth and heaven",
+          "Unless the fruitful shower descend, The ploughman's sacred toil must end",
+          "Their boasted greatness means nothing When to another's wife they cling"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (வான்சிறப்பு) பகுதியில் குறள் 14 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மழை என்னும் வருவாய் வளம் குன்றி விட்டால், ( உணவுப் பொருள்களை உண்டாக்கும்) உழவரும் ஏர் கொண்டு உழமாட்டார். பரிமேலழகர் உரை நுட்பம்: உழவர் ஏரின் உழார்- உழவர் ஏரான் உழுதலைச் செய்யார்; புயல் என்னும் வாரி வளம் குன்றிக்கால் - மழை என்னும் வருவாய் தன் பயன் குன்றின். ('குன்றியக்கால்' என்பது குறைந்து நின்றது. உணவு இன்மைக்குக் காரணம் கூறியவாறு.) .",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 2: 'The Blessing of Rain'), Kural 14 distills a foundational ethical insight: \"If clouds their wealth of waters fail on earth to pour, The ploughers plough with oxen's sturdy team no more\" Philosophically, If the abundance of wealth imparting rain diminish, the labour of the plough must cease.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wealth",
+        "ethics",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 15,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பெய்யாமல் வாழ்வைக் கெடுக்க வல்லதும் மழை; மழையில்லாமல் வளம் கெட்டு நொந்தவர்க்கும் துணையாய் அவ்வாறே காக்க வல்லதும் மழையாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Rain by its absence ruins men; and by its existence restores them to fortune.",
+        "story_title_ta": "வான்சிறப்பு — இனியா கற்ற பாடம்",
+        "story_title_en": "The Blessing of Rain — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வான்சிறப்பு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 15 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பெய்யாமல் மக்களைக் கெடுப்பதும்; பெய்து கெட்டவரைத் திருத்துவதும் எல்லாமே மழைதான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'The Blessing of Rain'. Grandpa shared Kural 15 and explained in simple words: Rain by its absence ruins men; and by its existence restores them to fortune. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பெய்யாமல் விடுத்து உயிர்களின் வாழ்வைக் கெடுக்கக் கூடியதும், பெய்வதன் காரணமாக உயிர்களின் நலிந்த வாழ்வுக்கு வளம் சேர்ப்பதும் மழையே ஆகும்.",
+        "moral_en": "Moral: 'Tis rain works all: it ruin spreads, then timely aid supplies; As, in the happy days before, it bids the ruined rise.",
+        "game_blank_word_ta": "றாங்கே",
+        "game_options_ta": [
+          "வான்நின்று",
+          "உலகம்",
+          "வழங்கி",
+          "றாங்கே"
+        ],
+        "game_options_en": [
+          "The genial rain ambrosia call: The world but lasts while rain shall fall",
+          "The rain begets the food we eat",
+          "Let clouds their visits stay, and dearth Distresses all the sea-girt earth",
+          "Destruction it may sometimes pour But only rain can life restore"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வான்சிறப்பு (பாயிரவியல்) பிரிவில் அமைந்த குறள் 15, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெய்யாமல் மக்களைக் கெடுப்பதும்; பெய்து கெட்டவரைத் திருத்துவதும் எல்லாமே மழைதான். கலைஞர் உரை கூறுவது: பெய்யாமல் விடுத்து உயிர்களின் வாழ்வைக் கெடுக்கக் கூடியதும், பெய்வதன் காரணமாக உயிர்களின் நலிந்த வாழ்வுக்கு வளம் சேர்ப்பதும் மழையே ஆகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Blessing of Rain (Prologue), Kural 15 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Rain by its absence ruins men; and by its existence restores them to fortune. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'வான்சிறப்பு' குறள் 15 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 15 (The Blessing of Rain) and writing one clear priority.",
+        "quiz_question_ta": "'வான்சிறப்பு' அதிகாரத்தில் வரும் திருக்குறள் 15 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 15 from Chapter 'The Blessing of Rain'?",
+        "quiz_options_ta": [
+          "புகழைக் காக்க விரும்பும் மனைவி இல்லாதவர்க்கு, இகழ்ந்து பேசும் பகைவர் முன் காளை போல் நடக்கும் பெருமித நடை இல்லை.",
+          "உற்ற காலத்தில் ஒருவன் செய்த உதவி சிறிதளவாக இருந்தாலும், அதன் தன்மையை அறிந்தால் உலகைவிட மிகப் பெரிதாகும்.",
+          "இச்செயல் எளியது என எண்ணிப் பிறனுடைய மனைவியிடம் நெறி தவறிச் செல்கின்றவன், ‌எப்போதும் அழியாமல் நிலைநிற்கும் பழியை அடைவான்",
+          "பெய்யாமல் வாழ்வைக் கெடுக்க வல்லதும் மழை; மழையில்லாமல் வளம் கெட்டு நொந்தவர்க்கும் துணையாய் அவ்வாறே காக்க வல்லதும் மழையாகும்"
+        ],
+        "quiz_options_en": [
+          "A cuckold has not the lion-like gait Before his detractors aright",
+          "A help rendered in hour of need Though small is greater than the world",
+          "Who trifles with another's wife His guilty stain will last for life",
+          "Destruction it may sometimes pour But only rain can life restore"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (வான்சிறப்பு) பகுதியில் குறள் 15 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பெய்யாமல் வாழ்வைக் கெடுக்க வல்லதும் மழை; மழையில்லாமல் வளம் கெட்டு நொந்தவர்க்கும் துணையாய் அவ்வாறே காக்க வல்லதும் மழையாகும். பரிமேலழகர் உரை நுட்பம்: கெடுப்பதூஉம் - பூமியின்கண் வாழ்வாரைப் பெய்யாது நின்று கெடுப்பதூஉம்; கெட்டார்க்குச்சார்வாய் மற்று ஆங்கேஎடுப்பதூஉம்-அவ்வாறு கெட்டார்க்குத் துணையாய்ப் பெய்து முன் கெடுத்தாற் போல எடுப்பதூஉம்; எல்லாம் மழை - இவை எல்லாம் வல்லது மழை. ('மற்று' வினை மாற்றின்கண் வந்தது...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 2: 'The Blessing of Rain'), Kural 15 distills a foundational ethical insight: \"'Tis rain works all: it ruin spreads, then timely aid supplies; As, in the happy days before, it bids the ruined rise\" Philosophically, Rain by its absence ruins men; and by its existence restores them to fortune.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "time",
+        "ethics",
+        "speech",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 16,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: வானத்திலிருந்து மழைத்துளி வீழ்ந்தால் அல்லாமல், உலகத்தில் ஓரறிவுயிராகிய பசும்புல்லின் தலையையும் காண முடியாது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If no drop falls from the clouds, not even the green blade of grass will be seen.",
+        "story_title_ta": "வான்சிறப்பு — முகில் கற்ற பாடம்",
+        "story_title_en": "The Blessing of Rain — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வான்சிறப்பு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 16 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மேகத்திலிருந்து மழைத்துளி விழாது போனால், பசும்புல்லின் நுனியைக்கூட இங்கே காண்பது அரிதாகிவிடும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'The Blessing of Rain'. Grandpa shared Kural 16 and explained in simple words: If no drop falls from the clouds, not even the green blade of grass will be seen. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: விண்ணிலிருந்து மழைத்துளி விழுந்தாலன்றி மண்ணில் பசும்புல் தலை காண்பது அரிதான ஒன்றாகும்.",
+        "moral_en": "Moral: If from the clouds no drops of rain are shed'Tis rare to see green herb lift up its head.",
+        "game_blank_word_ta": "அல்லால்மற்",
+        "game_options_ta": [
+          "அல்லால்மற்",
+          "வான்நின்று",
+          "உலகம்",
+          "வழங்கி"
+        ],
+        "game_options_en": [
+          "No grassy blade its head will rear, If from the cloud no drop appear",
+          "The genial rain ambrosia call: The world but lasts while rain shall fall",
+          "The rain begets the food we eat",
+          "Let clouds their visits stay, and dearth Distresses all the sea-girt earth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வான்சிறப்பு (பாயிரவியல்) பிரிவில் அமைந்த குறள் 16, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மேகத்திலிருந்து மழைத்துளி விழாது போனால், பசும்புல்லின் நுனியைக்கூட இங்கே காண்பது அரிதாகிவிடும். கலைஞர் உரை கூறுவது: விண்ணிலிருந்து மழைத்துளி விழுந்தாலன்றி மண்ணில் பசும்புல் தலை காண்பது அரிதான ஒன்றாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Blessing of Rain (Prologue), Kural 16 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If no drop falls from the clouds, not even the green blade of grass will be seen. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'வான்சிறப்பு' குறள் 16 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 16 (The Blessing of Rain) and writing one clear priority.",
+        "quiz_question_ta": "'வான்சிறப்பு' அதிகாரத்தில் வரும் திருக்குறள் 16 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 16 from Chapter 'The Blessing of Rain'?",
+        "quiz_options_ta": [
+          "வானத்திலிருந்து மழைத்துளி வீழ்ந்தால் அல்லாமல், உலகத்தில் ஓரறிவுயிராகிய பசும்புல்லின் தலையையும் காண முடியாது",
+          "மனைவியின் நற்பண்பே இல்வாழ்க்கைக்கு மங்கலம் என்று கூறுவர்: நல்ல மக்களைப் பெறுதலே அதற்கு நல்லணிகலம் என்று கூறுவர்.",
+          "இன்ன பயன் கிடைக்கும் என்றுஆராயாமல் ஒருவன் செய்த உதவியின் அன்புடைமையை ஆராய்ந்தால் அதன் நன்மை கடலைவிட பெரியதாகும் .",
+          "பகை பாவம் அச்சம் பழி என்னும் இந்நான்கு குற்றங்களும் பிறன் மனைவியிடத்து நெறி தவறி நடப்பவனிடத்திலிருந்து நீங்காவாம்."
+        ],
+        "quiz_options_en": [
+          "No grassy blade its head will rear, If from the cloud no drop appear",
+          "An honest wife is home's delight And children good are jewels abright",
+          "Help rendered without weighing fruits Outweighs the sea in grand effects",
+          "Hatred, sin, fear, and shame-these four Stain adulterers ever more"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (வான்சிறப்பு) பகுதியில் குறள் 16 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வானத்திலிருந்து மழைத்துளி வீழ்ந்தால் அல்லாமல், உலகத்தில் ஓரறிவுயிராகிய பசும்புல்லின் தலையையும் காண முடியாது. பரிமேலழகர் உரை நுட்பம்: விசும்பின் துளி வீழின் அல்லால் - மேகத்தின் துளி வீழின் காண்பது அல்லது; மற்று ஆங்கே பசும்புல் தலை காண்பது அரிது - வீழாதாயின் அப்பொழுதே பசும்புல்லினது தலையையும் காண்டல் அரிது. ('விசும்பு' ஆகு பெயர். 'மற்று' வினைமாற்றின்கண் வந்தது. இழிவு சிறப்பு உம்மை...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 2: 'The Blessing of Rain'), Kural 16 distills a foundational ethical insight: \"If from the clouds no drops of rain are shed'Tis rare to see green herb lift up its head\" Philosophically, If no drop falls from the clouds, not even the green blade of grass will be seen.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 17,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மேகம் கடலிலிருந்து நீரைக் கொண்டு அதனிடத்திலேயே பெய்யாமல் விடுமானால், பெரிய கடலும் தன் வளம் குன்றிப் போகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Even the wealth of the wide sea will be diminished, if the cloud that has drawn (its waters) up gives them not back again (in rain).",
+        "story_title_ta": "வான்சிறப்பு — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Blessing of Rain — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வான்சிறப்பு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 17 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பெய்யும் இயல்பிலிருந்து மாறி மேகம் பெய்யாது போனால், நீண்ட கடல் கூட வற்றிப் போகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'The Blessing of Rain'. Grandpa shared Kural 17 and explained in simple words: Even the wealth of the wide sea will be diminished, if the cloud that has drawn (its waters) up gives them not back again (in rain). The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஆவியான கடல்நீர் மேகமாகி அந்தக் கடலில் மழையாகப் பெய்தால்தான் கடல்கூட வற்றாமல் இருக்கும் மனித சமுதாயத்திலிருந்து புகழுடன் உயர்ந்தவர்களும் அந்தச் சமுதாயத்திற்கே பயன்பட்டால்தான் அந்தச் சமுதாயம் வாழும்.",
+        "moral_en": "Moral: If clouds restrain their gifts and grant no rain, The treasures fail in ocean's wide domain.",
+        "game_blank_word_ta": "விடின்",
+        "game_options_ta": [
+          "வான்நின்று",
+          "விடின்",
+          "உலகம்",
+          "வழங்கி"
+        ],
+        "game_options_en": [
+          "The genial rain ambrosia call: The world but lasts while rain shall fall",
+          "The ocean's wealth will waste away, Except the cloud its stores repay",
+          "The rain begets the food we eat",
+          "Let clouds their visits stay, and dearth Distresses all the sea-girt earth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வான்சிறப்பு (பாயிரவியல்) பிரிவில் அமைந்த குறள் 17, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெய்யும் இயல்பிலிருந்து மாறி மேகம் பெய்யாது போனால், நீண்ட கடல் கூட வற்றிப் போகும். கலைஞர் உரை கூறுவது: ஆவியான கடல்நீர் மேகமாகி அந்தக் கடலில் மழையாகப் பெய்தால்தான் கடல்கூட வற்றாமல் இருக்கும் மனித சமுதாயத்திலிருந்து புகழுடன் உயர்ந்தவர்களும் அந்தச் சமுதாயத்திற்கே பயன்பட்டால்தான் அந்தச் சமுதாயம் வாழும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Blessing of Rain (Prologue), Kural 17 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even the wealth of the wide sea will be diminished, if the cloud that has drawn (its waters) up gives them not back again (in rain). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'வான்சிறப்பு' குறள் 17 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 17 (The Blessing of Rain) and writing one clear priority.",
+        "quiz_question_ta": "'வான்சிறப்பு' அதிகாரத்தில் வரும் திருக்குறள் 17 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 17 from Chapter 'The Blessing of Rain'?",
+        "quiz_options_ta": [
+          "பெறத்தகுந்த பேறுகளில் அறிய வேண்டியவைகளை அறியும் நன்மக்களைப் பெறுவதைத் தவிர, மற்றப்பேறுகளை யாம் மதிப்பதில்லை.",
+          "மேகம் கடலிலிருந்து நீரைக் கொண்டு அதனிடத்திலேயே பெய்யாமல் விடுமானால், பெரிய கடலும் தன் வளம் குன்றிப் போகும்",
+          "ஒருவன் தினையளவாகிய உதவியைச் செய்த போதிலும் அதன் பயனை ஆராய்கின்றவர், அதனையே பனையளவாகக் கொண்டு போற்றுவர்.",
+          "அறத்தின் இயல்போடு பொருந்தி இல்வாழ்க்கை வாழ்பவன், பிறனுக்கு உரிமையானவளின் பெண் தன்மையை விரும்பாதவனே"
+        ],
+        "quiz_options_en": [
+          "The world no higher bliss bestows Than children virtuous and wise",
+          "The ocean's wealth will waste away, Except the cloud its stores repay",
+          "Help given though millet-small Knowers count its good palm-tree tall",
+          "He is the righteous householder His neighbour's wife who covets never"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (வான்சிறப்பு) பகுதியில் குறள் 17 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மேகம் கடலிலிருந்து நீரைக் கொண்டு அதனிடத்திலேயே பெய்யாமல் விடுமானால், பெரிய கடலும் தன் வளம் குன்றிப் போகும். பரிமேலழகர் உரை நுட்பம்: நெடுங்கடலும் தன் நீர்மை குன்றும் - அளவில்லாத கடலும் தன் இயல்பு குறையும்; எழிலி தான் தடிந்து நல்காது ஆகி விடின் - மேகம் தான் அதனைக் குறைத்து அதன்கண் பெய்யாது விடுமாயின். (உம்மை சிறப்பு உம்மை. தன் இயல்பு குறைதலாவது நீர் வாழ் உயிர்கள் பிறவாமையும், மணி முதலாயின...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 2: 'The Blessing of Rain'), Kural 17 distills a foundational ethical insight: \"If clouds restrain their gifts and grant no rain, The treasures fail in ocean's wide domain\" Philosophically, Even the wealth of the wide sea will be diminished, if the cloud that has drawn (its waters) up gives them not back again (in rain).",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wealth",
+        "ethics",
+        "gratitude",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 18,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: மழை பெய்யாமல் போகுமானால் இவ்வுலகத்தில் வானோர்க்காக நடைபெறும் திருவிழாவும் நடைபெறாது; நாள் வழிபாடும் நடைபெறாது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If the heaven dry up, neither yearly festivals, nor daily worship will be offered in this world, to the celestials.",
+        "story_title_ta": "வான்சிறப்பு — கவின் கற்ற பாடம்",
+        "story_title_en": "The Blessing of Rain — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வான்சிறப்பு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 18 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மழை பொய்த்துப் போனால் தெய்வத்திற்குத் தினமும் நடக்கும் பூசனையும் நடக்காது; ஆண்டுதோறும் கொண்டாடப்படும் திருவிழாவும் நடைபெறாது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'The Blessing of Rain'. Grandpa shared Kural 18 and explained in simple words: If the heaven dry up, neither yearly festivals, nor daily worship will be offered in this world, to the celestials. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வானமே பொய்த்து விடும்போது, அதன்பின்னர் அந்த வானத்தில் வாழ்வதாகச் சொல்லப்படுகிறவர்களுக்கு விழாக்கள் ஏது? வழிபாடுதான் ஏது?",
+        "moral_en": "Moral: If heaven grow dry, with feast and offering never more, Will men on earth the heavenly ones adore.",
+        "game_blank_word_ta": "வறக்குமேல்",
+        "game_options_ta": [
+          "வான்நின்று",
+          "உலகம்",
+          "வறக்குமேல்",
+          "வழங்கி"
+        ],
+        "game_options_en": [
+          "The genial rain ambrosia call: The world but lasts while rain shall fall",
+          "The rain begets the food we eat",
+          "The earth, beneath a barren sky, Would offerings for the gods deny",
+          "Let clouds their visits stay, and dearth Distresses all the sea-girt earth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வான்சிறப்பு (பாயிரவியல்) பிரிவில் அமைந்த குறள் 18, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மழை பொய்த்துப் போனால் தெய்வத்திற்குத் தினமும் நடக்கும் பூசனையும் நடக்காது; ஆண்டுதோறும் கொண்டாடப்படும் திருவிழாவும் நடைபெறாது. கலைஞர் உரை கூறுவது: வானமே பொய்த்து விடும்போது, அதன்பின்னர் அந்த வானத்தில் வாழ்வதாகச் சொல்லப்படுகிறவர்களுக்கு விழாக்கள் ஏது? வழிபாடுதான் ஏது? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Blessing of Rain (Prologue), Kural 18 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If the heaven dry up, neither yearly festivals, nor daily worship will be offered in this world, to the celestials. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'வான்சிறப்பு' குறள் 18 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 18 (The Blessing of Rain) and writing one clear priority.",
+        "quiz_question_ta": "'வான்சிறப்பு' அதிகாரத்தில் வரும் திருக்குறள் 18 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 18 from Chapter 'The Blessing of Rain'?",
+        "quiz_options_ta": [
+          "பழி இல்லாத நல்ல பண்பு உடைய மக்களைப்பெற்றால் ஒருவனுக்கு ஏழு பிறவியிலும் தீவினைப் பயனாகிய துன்பங்கள் சென்று சேரா.",
+          "கைமாறாகச் செய்யும் உதவி முன் செய்த உதவியின் அளவை உடையது அன்று, உதவி செய்யப்பட்டவற்றின் பண்புக்கு ஏற்ற அளவை உடையதாகும்.",
+          "மழை பெய்யாமல் போகுமானால் இவ்வுலகத்தில் வானோர்க்காக நடைபெறும் திருவிழாவும் நடைபெறாது; நாள் வழிபாடும் நடைபெறாது",
+          "பிறனுடைய மனைவியை விரும்பி நோக்காத ‌பெரிய ஆண்மை, சான்றோர்க்கு அறம் மட்டும் அன்று; நிறைந்த ஒழுக்கமுமாகும்."
+        ],
+        "quiz_options_en": [
+          "No evil comes and no blemish; Noble sons bring all we wish",
+          "A help is not the help's measure It is gainer's worth and pleasure",
+          "The earth, beneath a barren sky, Would offerings for the gods deny",
+          "They lead a high-souled manly life The pure who eye not another's wife"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (வான்சிறப்பு) பகுதியில் குறள் 18 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மழை பெய்யாமல் போகுமானால் இவ்வுலகத்தில் வானோர்க்காக நடைபெறும் திருவிழாவும் நடைபெறாது; நாள் வழிபாடும் நடைபெறாது. பரிமேலழகர் உரை நுட்பம்: வானோர்க்கும் ஈண்டுச் சிறப்போடு பூசனை செல்லாது - தேவர்கட்கும் இவ்வுலகில் மக்களால் செய்யப்படும் விழவும் பூசையும் நடவாது; வானம் வறக்குமேல் - மழை பெய்யாதாயின் (நைமித்திகத்தோடு கூடிய நித்தியம் என்றார் ஆகலின் 'செல்லாது' என்றார். 'உம்மை' சிறப்பு உம்மை. நித்தியத்தில...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 2: 'The Blessing of Rain'), Kural 18 distills a foundational ethical insight: \"If heaven grow dry, with feast and offering never more, Will men on earth the heavenly ones adore\" Philosophically, If the heaven dry up, neither yearly festivals, nor daily worship will be offered in this world, to the celestials.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "wisdom",
+        "speech",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 19,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மழை பெய்யவில்லையானால், இந்த பெரிய உலகத்தில் பிறர் பொருட்டு செய்யும் தானமும், தம் பொருட்டு செய்யும் தவமும் இல்லையாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: If rain fall not, penance and alms-deeds will not dwell within this spacious world.",
+        "story_title_ta": "வான்சிறப்பு — நிலா கற்ற பாடம்",
+        "story_title_en": "The Blessing of Rain — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வான்சிறப்பு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 19 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மழை பொய்த்துப் போனால், விரிந்த இவ்வுலகத்தில் பிறர்க்குத் தரும் தானம் இராது; தன்னை உயர்த்தும் தவமும் இராது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Blessing of Rain'. Grandpa shared Kural 19 and explained in simple words: If rain fall not, penance and alms-deeds will not dwell within this spacious world. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: இப்பேருலகில் மழை பொய்த்து விடுமானால் அது, பிறர் பொருட்டுச் செய்யும் தானத்திற்கும், தன்பொருட்டு மேற்கொள்ளும் நோன்புக்கும் தடங்கலாகும்.",
+        "moral_en": "Moral: If heaven its watery treasures ceases to dispense, Through the wide world cease gifts, and deeds of 'penitence'.",
+        "game_blank_word_ta": "வழங்கா",
+        "game_options_ta": [
+          "வான்நின்று",
+          "உலகம்",
+          "வழங்கி",
+          "வழங்கா"
+        ],
+        "game_options_en": [
+          "The genial rain ambrosia call: The world but lasts while rain shall fall",
+          "The rain begets the food we eat",
+          "Let clouds their visits stay, and dearth Distresses all the sea-girt earth",
+          "Were heaven above to fail below Nor alms nor penance earth would show"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வான்சிறப்பு (பாயிரவியல்) பிரிவில் அமைந்த குறள் 19, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மழை பொய்த்துப் போனால், விரிந்த இவ்வுலகத்தில் பிறர்க்குத் தரும் தானம் இராது; தன்னை உயர்த்தும் தவமும் இராது. கலைஞர் உரை கூறுவது: இப்பேருலகில் மழை பொய்த்து விடுமானால் அது, பிறர் பொருட்டுச் செய்யும் தானத்திற்கும், தன்பொருட்டு மேற்கொள்ளும் நோன்புக்கும் தடங்கலாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Blessing of Rain (Prologue), Kural 19 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If rain fall not, penance and alms-deeds will not dwell within this spacious world. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'வான்சிறப்பு' குறள் 19 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 19 (The Blessing of Rain) and writing one clear priority.",
+        "quiz_question_ta": "'வான்சிறப்பு' அதிகாரத்தில் வரும் திருக்குறள் 19 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 19 from Chapter 'The Blessing of Rain'?",
+        "quiz_options_ta": [
+          "தம்மக்களே தம்முடைய பொருள்கள் என்று அறிஞர் கூறுவர். மக்களாகிய அவர்தம் பொருள்கள் அவரவருடைய வினையின் பயனால் வந்து சேரும்.",
+          "குற்றமற்றவரின் உறவை எப்போதும் மறக்கலாகாது: துன்பம் வந்த காலத்தில் உறுதுணையாய் உதவியவர்களின் நட்பை எப்போதும் விடாலாகாது .",
+          "கடல் சூழ்ந்த உலகத்தில் நன்மைக்கு உரியவர் யார் என்றொல் பிறனுக்கு உரிமையானவளின் தோளைப் பொருந்தாதவரே ஆவர்",
+          "மழை பெய்யவில்லையானால், இந்த பெரிய உலகத்தில் பிறர் பொருட்டு செய்யும் தானமும், தம் பொருட்டு செய்யும் தவமும் இல்லையாகும்."
+        ],
+        "quiz_options_en": [
+          "Children are one's wealth indeed Their wealth is measured by their deed",
+          "Forget not friendship of the pure Forsake not timely helpers sure",
+          "Good in storm bound earth is with those Who clasp not arms of another's spouse",
+          "Were heaven above to fail below Nor alms nor penance earth would show"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (வான்சிறப்பு) பகுதியில் குறள் 19 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மழை பெய்யவில்லையானால், இந்த பெரிய உலகத்தில் பிறர் பொருட்டு செய்யும் தானமும், தம் பொருட்டு செய்யும் தவமும் இல்லையாகும். பரிமேலழகர் உரை நுட்பம்: வியன் உலகம் தானம் தவம் இரண்டும் தங்கா - அகன்ற உலகின்கண் தானமும் தவமும் ஆகிய இரண்டு அறமும் உளவாகா; வானம் வழங்காது எனின் - மழை பெய்யாது ஆயின். (தானமாவது அறநெறியான் வந்த பொருள்களைத் தக்கார்க்கு உவகையோடும் கொடுத்தல்; தவம் ஆவது மனம் பொறிவழி போகாது நிற்றற் பொருட்டு...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 2: 'The Blessing of Rain'), Kural 19 distills a foundational ethical insight: \"If heaven its watery treasures ceases to dispense, Through the wide world cease gifts, and deeds of 'penitence'\" Philosophically, If rain fall not, penance and alms-deeds will not dwell within this spacious world.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "harmony",
+        "ethics",
+        "self-mastery",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 20,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: எப்படிப்பட்டவர்க்கும் நீர் இல்லாமல் உலக வாழ்க்கை நடைபெறாது என்றால், மழை இல்லையானால் ஒழுக்கமும் நிலைபெறாமல் போகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If it be said that the duties of life cannot be discharged by any person without water, so without rain there cannot be the flowing of water.",
+        "story_title_ta": "வான்சிறப்பு — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Blessing of Rain — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'வான்சிறப்பு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 20 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எத்தனை பெரியவரானாலும் நீர் இல்லாமல் வாழமுடியாது; அந்த நீரோ மழை இல்லாமல் கிடைக்காது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Blessing of Rain'. Grandpa shared Kural 20 and explained in simple words: If it be said that the duties of life cannot be discharged by any person without water, so without rain there cannot be the flowing of water. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உலகில் மழையே இல்லையென்றால் ஒழுக்கமே கெடக்கூடும் என்ற நிலை இருப்பதால், நீரின் இன்றியமையாமையை உணர்ந்து செயல்பட வேண்டும்.",
+        "moral_en": "Moral: When water fails, functions of nature cease, you say; Thus when rain fails, no men can walk in 'duty's ordered way'.",
+        "game_blank_word_ta": "உலகெனின்",
+        "game_options_ta": [
+          "உலகெனின்",
+          "வான்நின்று",
+          "உலகம்",
+          "வழங்கி"
+        ],
+        "game_options_en": [
+          "Water is life that comes from rain Sans rain our duties go in vain",
+          "The genial rain ambrosia call: The world but lasts while rain shall fall",
+          "The rain begets the food we eat",
+          "Let clouds their visits stay, and dearth Distresses all the sea-girt earth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வான்சிறப்பு (பாயிரவியல்) பிரிவில் அமைந்த குறள் 20, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எத்தனை பெரியவரானாலும் நீர் இல்லாமல் வாழமுடியாது; அந்த நீரோ மழை இல்லாமல் கிடைக்காது. கலைஞர் உரை கூறுவது: உலகில் மழையே இல்லையென்றால் ஒழுக்கமே கெடக்கூடும் என்ற நிலை இருப்பதால், நீரின் இன்றியமையாமையை உணர்ந்து செயல்பட வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Blessing of Rain (Prologue), Kural 20 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If it be said that the duties of life cannot be discharged by any person without water, so without rain there cannot be the flowing of water. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'வான்சிறப்பு' குறள் 20 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 20 (The Blessing of Rain) and writing one clear priority.",
+        "quiz_question_ta": "'வான்சிறப்பு' அதிகாரத்தில் வரும் திருக்குறள் 20 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 20 from Chapter 'The Blessing of Rain'?",
+        "quiz_options_ta": [
+          "எப்படிப்பட்டவர்க்கும் நீர் இல்லாமல் உலக வாழ்க்கை நடைபெறாது என்றால், மழை இல்லையானால் ஒழுக்கமும் நிலைபெறாமல் போகும்",
+          "தம்முடைய மக்களின் சிறு கைகளால் அளாவப்பெற்ற உணவு, பெற்றோர்க்கு அமிழ்தத்தை விட மிக்க இனிமை உடையதாகும்.",
+          "தம்முடைய துன்பத்தைப் போக்கி உதவியவரின் நட்பைப் பல்வேறு வகையான பிறவியிலும் மறவாமல் போற்றுவர் பெரியோர்.",
+          "ஒருவன் அறநெறியில் நிற்காமல் அறமில்லாதவைகளைச் செய்தாலும், பிறனுக்கு உரியவளின் பெண்மையை விரும்பாமல் வாழ்தல் நல்லது"
+        ],
+        "quiz_options_en": [
+          "Water is life that comes from rain Sans rain our duties go in vain",
+          "The food is more than nectar sweet In which one's children hands insert",
+          "Through sevenfold births, in memory fares The willing friend who wiped one's tears",
+          "Sinners breaking virtue's behest Lust not for another's wife at least"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (வான்சிறப்பு) பகுதியில் குறள் 20 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எப்படிப்பட்டவர்க்கும் நீர் இல்லாமல் உலக வாழ்க்கை நடைபெறாது என்றால், மழை இல்லையானால் ஒழுக்கமும் நிலைபெறாமல் போகும். பரிமேலழகர் உரை நுட்பம்: யார்யார்க்கும் நீர் இன்று உலகு அமையாது எனின் - எவ்வகை மேம்பாட்டார்க்கும் நீரை இன்றி உலகியல் அமையாது ஆயின்; ஒழுக்கு வான் இன்று அமையாது - அந்நீர் இடையறாது ஒழுகும் ஒழுக்கும் வானை இன்றி அமையாது. ( பொருள் இன்பங்களை 'உலகியல்' என்றார், அவை இம்மைக்கண்ண ஆகலின...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 2: 'The Blessing of Rain'), Kural 20 distills a foundational ethical insight: \"When water fails, functions of nature cease, you say; Thus when rain fails, no men can walk in 'duty's ordered way'\" Philosophically, If it be said that the duties of life cannot be discharged by any person without water, so without rain there cannot be the flowing of water.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "education",
+        "discipline",
+        "family"
+      ]
+    }
+  ]
+}

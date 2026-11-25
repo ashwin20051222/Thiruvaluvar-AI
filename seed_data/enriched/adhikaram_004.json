@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 4,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.461783121+00:00",
+  "kurals": [
+    {
+      "kural_number": 31,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அறம் சிறப்பையும் அளிக்கும்: செல்வத்தையும் அளிக்கும்: ஆகையால் உயிர்க்கு அத்தகைய அறத்தை விட நன்மையானது வேறு யாது?",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Virtue will confer heaven and wealth; what greater source of happiness can man possess ?",
+        "story_title_ta": "அறன் வலியுறுத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Assertion of the Strength of Virtue — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அறன் வலியுறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 31 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அறம், நான்கு பேர் முன் நமக்கு மேன்மையைத் தரும்; நல்ல செல்வத்தையும் கொடுக்கும். இத்தகைய அறத்தைக் காட்டிலும் மேன்மையானது நமக்கு உண்டா?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Assertion of the Strength of Virtue'. Grandpa shared Kural 31 and explained in simple words: Virtue will confer heaven and wealth; what greater source of happiness can man possess ? The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: சிறப்பையும், செழிப்பையும் தரக்கூடிய அறவழி ஒன்றைத்தவிர ஆக்கமளிக்கக் கூடிய வழி வேறென்ன இருக்கிறது?",
+        "moral_en": "Moral: It yields distinction, yields prosperity; what gainGreater than virtue can a living man obtain.",
+        "game_blank_word_ta": "அறத்தினூஉங்கு",
+        "game_options_ta": [
+          "ஆக்கமும்",
+          "இல்லை",
+          "அதனை",
+          "அறத்தினூஉங்கு"
+        ],
+        "game_options_en": [
+          "Virtue enhances joy and gain; Forsaking it is fall and pain",
+          "Perform good deeds as much you can Always and everywhere, o man!",
+          "In spotless mind virtue is found And not in show and swelling sound",
+          "From virtue weal and wealth outflow; What greater good can mankind know?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அறன் வலியுறுத்தல் (பாயிரவியல்) பிரிவில் அமைந்த குறள் 31, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறம், நான்கு பேர் முன் நமக்கு மேன்மையைத் தரும்; நல்ல செல்வத்தையும் கொடுக்கும். இத்தகைய அறத்தைக் காட்டிலும் மேன்மையானது நமக்கு உண்டா? கலைஞர் உரை கூறுவது: சிறப்பையும், செழிப்பையும் தரக்கூடிய அறவழி ஒன்றைத்தவிர ஆக்கமளிக்கக் கூடிய வழி வேறென்ன இருக்கிறது? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Assertion of the Strength of Virtue (Prologue), Kural 31 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Virtue will confer heaven and wealth; what greater source of happiness can man possess ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'அறன் வலியுறுத்தல்' குறள் 31 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 31 (Assertion of the Strength of Virtue) and writing one clear priority.",
+        "quiz_question_ta": "'அறன் வலியுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 31 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 31 from Chapter 'Assertion of the Strength of Virtue'?",
+        "quiz_options_ta": [
+          "உலகத்தில் இன்பம் உற்று வாழ்கின்றவர் அடையும் சிறப்பு, அன்பு உடையவராகிப் பொருந்தி வாழும் வாழ்கையின் பயன் என்று கூறுவர்",
+          "முன்னே தான் சமமாக இருந்து, பின்பு பொருளைச் சீர்தூக்கும் துலாக்கோல் போல் அமைந்து, ஒரு பக்கமாக சாயாமல் நடுவுநி‌லைமை போற்றுவது சான்றோர்க்கு அழகாகும்.",
+          "ஒருவன் தன் நெஞ்சில் பொறாமை இல்லாமல் வாழும் இயல்பைத் தனக்கு உரிய ஒழுக்க நெறியாகக் கொண்டு போற்ற வேண்டும்.",
+          "அறம் சிறப்பையும் அளிக்கும்: செல்வத்தையும் அளிக்கும்: ஆகையால் உயிர்க்கு அத்தகைய அறத்தை விட நன்மையானது வேறு யாது?"
+        ],
+        "quiz_options_en": [
+          "The crowning joy of home life flows From peaceful psychic love always",
+          "Like balance holding equal scales A well poised mind is jewel of the wise",
+          "Deem your heart as virtuous When your nature is not jealous",
+          "From virtue weal and wealth outflow; What greater good can mankind know?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (அறன் வலியுறுத்தல்) பகுதியில் குறள் 31 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறம் சிறப்பையும் அளிக்கும்: செல்வத்தையும் அளிக்கும்: ஆகையால் உயிர்க்கு அத்தகைய அறத்தை விட நன்மையானது வேறு யாது? பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, அம்முனிவரான் உணர்த்தப்பட்ட அம்மூன்றனுள் ஏனைப் பொருளும் இன்பமும் போலாது, அறன் இம்மை மறுமை வீடு என்னும் மூன்றனையும் பயத்தலான், அவற்றின் வலியுடைத்து என்பது கூறுதல். அதிகார முறைமையும் இதனானே விளங்கும். 'சிறப்புடை மரபின் பொருளும் இன்பமும் அறத்துவழிப...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 4: 'Assertion of the Strength of Virtue'), Kural 31 distills a foundational ethical insight: \"It yields distinction, yields prosperity; what gainGreater than virtue can a living man obtain\" Philosophically, Virtue will confer heaven and wealth; what greater source of happiness can man possess ?",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "wealth",
+        "family",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 32,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒரு வருடைய வாழ்கைக்கு அறத்தை விட நன்மையானதும் இல்லை: அறத்தை போற்றாமல் மறப்பதை விடக்கொடியதும் இல்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: There can be no greater source of good than (the practice of) virtue; there can be no greater source of evil than the forgetfulness of it.",
+        "story_title_ta": "அறன் வலியுறுத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Assertion of the Strength of Virtue — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அறன் வலியுறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 32 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அறம் செய்வதை விட நன்மையும் இல்லை. அதைச் செய்ய மறப்பதைவிட கெடுதியும் இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Assertion of the Strength of Virtue'. Grandpa shared Kural 32 and explained in simple words: There can be no greater source of good than (the practice of) virtue; there can be no greater source of evil than the forgetfulness of it. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நன்மைகளின் விளைநிலமாக இருக்கும் அறத்தைப் போல் ஒருவருடைய வாழ்க்கைக்கு ஆக்கம் தரக்கூடியது எதுவுமில்லை; அந்த அறத்தை மறப்பதை விடத் தீமையானதும் வேறில்லை.",
+        "moral_en": "Moral: No greater gain than virtue aught can cause; No greater loss than life oblivious of her laws.",
+        "game_blank_word_ta": "இல்லை",
+        "game_options_ta": [
+          "இல்லை",
+          "சிறப்புஈனும்",
+          "செல்வமும்",
+          "ஈனும்"
+        ],
+        "game_options_en": [
+          "Virtue enhances joy and gain; Forsaking it is fall and pain",
+          "From virtue weal and wealth outflow; What greater good can mankind know?",
+          "Perform good deeds as much you can Always and everywhere, o man!",
+          "In spotless mind virtue is found And not in show and swelling sound"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அறன் வலியுறுத்தல் (பாயிரவியல்) பிரிவில் அமைந்த குறள் 32, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறம் செய்வதை விட நன்மையும் இல்லை. அதைச் செய்ய மறப்பதைவிட கெடுதியும் இல்லை. கலைஞர் உரை கூறுவது: நன்மைகளின் விளைநிலமாக இருக்கும் அறத்தைப் போல் ஒருவருடைய வாழ்க்கைக்கு ஆக்கம் தரக்கூடியது எதுவுமில்லை; அந்த அறத்தை மறப்பதை விடத் தீமையானதும் வேறில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Assertion of the Strength of Virtue (Prologue), Kural 32 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There can be no greater source of good than (the practice of) virtue; there can be no greater source of evil than the forgetfulness of it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'அறன் வலியுறுத்தல்' குறள் 32 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 32 (Assertion of the Strength of Virtue) and writing one clear priority.",
+        "quiz_question_ta": "'அறன் வலியுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 32 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 32 from Chapter 'Assertion of the Strength of Virtue'?",
+        "quiz_options_ta": [
+          "ஒரு வருடைய வாழ்கைக்கு அறத்தை விட நன்மையானதும் இல்லை: அறத்தை போற்றாமல் மறப்பதை விடக்கொடியதும் இல்லை.",
+          "அறியாதவர், அறத்திற்கு மட்டுமே அன்பு துணையாகும் என்று கூறுவர்:ஆராய்ந்து பார்த்தால் வீரத்திற்க்கும் அதுவே துணையாக நிற்கின்றது",
+          "உள்ளத்தில் கோணுதல் இல்லாத தன்மையை உறுதியாகப் பெற்றால், சொல்லிலும் கோணுதல் இல்லாதிருத்தல் நடுவுநிலைமையாம்.",
+          "யாரிடத்திலும் பொறாமை இல்லாதிருக்கப் பெற்றால், ஒருவன் பெறத்தக்க மேம்பாடான பேறுகளில் அதற்கு ஒப்பானது வேறொன்றும் இல்லை."
+        ],
+        "quiz_options_en": [
+          "Virtue enhances joy and gain; Forsaking it is fall and pain",
+          "\\\"Love is virtue's friend\\\" say know-nots It helps us against evil plots",
+          "Justice is upright, unbending And free from crooked word-twisting",
+          "No excellence excels the one That by nature envies none"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (அறன் வலியுறுத்தல்) பகுதியில் குறள் 32 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒரு வருடைய வாழ்கைக்கு அறத்தை விட நன்மையானதும் இல்லை: அறத்தை போற்றாமல் மறப்பதை விடக்கொடியதும் இல்லை. பரிமேலழகர் உரை நுட்பம்: அறத்தின் ஊங்கு ஆக்கமும் இல்லை - ஒருவனுக்கு அறஞ்செய்தலின் மேற்பட்ட ஆக்கமும் இல்லை; அதனை மறத்தலின் ஊங்கு கேடு இல்லை - அதனை மயக்கத்தான் மறத்தலின் மேற்பட்ட கேடும் இல்லை. ('அறத்தின் ஊங்கு ஆக்கமும் இல்லை'. என மேற்சொல்லியதனையே அநுவதித்தார், அதனால் கேடு வருதல...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 4: 'Assertion of the Strength of Virtue'), Kural 32 distills a foundational ethical insight: \"No greater gain than virtue aught can cause; No greater loss than life oblivious of her laws\" Philosophically, There can be no greater source of good than (the practice of) virtue; there can be no greater source of evil than the forgetfulness of it.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "family",
+        "leadership",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 33,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: செய்யக்கூடிய வகையால், எக்காரணத்தாலும் விடாமல் செல்லுமிடமெல்லாம் அறச்செயலைப் போற்றிச் செய்ய வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: As much as possible, in every way, incessantly practise virtue.",
+        "story_title_ta": "அறன் வலியுறுத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Assertion of the Strength of Virtue — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அறன் வலியுறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 33 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'இடைவிடாமல் இயன்ற மட்டும் எல்லா இடங்களிலும் அறச்செயலைச் செய்க.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Assertion of the Strength of Virtue'. Grandpa shared Kural 33 and explained in simple words: As much as possible, in every way, incessantly practise virtue. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: செய்யக்கூடிய செயல்கள் எவை ஆயினும், அவை எல்லா இடங்களிலும் தொய்வில்லாத அறவழியிலேயே செய்யப்பட வேண்டும்.",
+        "moral_en": "Moral: To finish virtue's work with ceaseless effort strive, What way thou may'st, where'er thou see'st the work may thrive.",
+        "game_blank_word_ta": "எல்லாஞ்",
+        "game_options_ta": [
+          "சிறப்புஈனும்",
+          "எல்லாஞ்",
+          "செல்வமும்",
+          "ஈனும்"
+        ],
+        "game_options_en": [
+          "From virtue weal and wealth outflow; What greater good can mankind know?",
+          "Perform good deeds as much you can Always and everywhere, o man!",
+          "Virtue enhances joy and gain; Forsaking it is fall and pain",
+          "In spotless mind virtue is found And not in show and swelling sound"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அறன் வலியுறுத்தல் (பாயிரவியல்) பிரிவில் அமைந்த குறள் 33, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இடைவிடாமல் இயன்ற மட்டும் எல்லா இடங்களிலும் அறச்செயலைச் செய்க. கலைஞர் உரை கூறுவது: செய்யக்கூடிய செயல்கள் எவை ஆயினும், அவை எல்லா இடங்களிலும் தொய்வில்லாத அறவழியிலேயே செய்யப்பட வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Assertion of the Strength of Virtue (Prologue), Kural 33 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As much as possible, in every way, incessantly practise virtue. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'அறன் வலியுறுத்தல்' குறள் 33 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 33 (Assertion of the Strength of Virtue) and writing one clear priority.",
+        "quiz_question_ta": "'அறன் வலியுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 33 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 33 from Chapter 'Assertion of the Strength of Virtue'?",
+        "quiz_options_ta": [
+          "எலும்பு இல்லாத உடம்போடு வாழும் புழுவை வெயில் காய்ந்து வருத்துவது போல் அன்பு இல்லாத உயிரை அறம் வருத்தும்.",
+          "செய்யக்கூடிய வகையால், எக்காரணத்தாலும் விடாமல் செல்லுமிடமெல்லாம் அறச்செயலைப் போற்றிச் செய்ய வேண்டும்.",
+          "பிறர் பொருளையும் தம் பொருள் போல் போற்றிச் செய்தால், அதுவே வாணிகம் செய்வோர்க்கு உரி‌ய நல்ல வாணிக முறையாகும்.",
+          "தனக்கு அறமும் ஆக்கமும் விரும்பாதவன் என்று கருதத் தக்கவனே, பிறனுடைய ஆக்கத்தைக் கண்டு மகிழாமல் அதற்காகப் பொறாமைப்படுவான்."
+        ],
+        "quiz_options_en": [
+          "Justice burns the loveless form Like solar blaze the boneless worm",
+          "Perform good deeds as much you can Always and everywhere, o man!",
+          "A trader's trade prospers fairly When his dealings are neighbourly",
+          "Who envies others' good fortune Can't prosper in virtue of his own"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (அறன் வலியுறுத்தல்) பகுதியில் குறள் 33 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செய்யக்கூடிய வகையால், எக்காரணத்தாலும் விடாமல் செல்லுமிடமெல்லாம் அறச்செயலைப் போற்றிச் செய்ய வேண்டும். பரிமேலழகர் உரை நுட்பம்: ஒல்லும் வகையான் - தத்தமக்கு இயலுந்திறத்தான் அறவினை ஓவாதே செல்லும்வாய் எல்லாம் செயல் - அறம் ஆகிய நல்வினையை ஒழியாதே அஃது எய்தும் இடத்தான் எல்லாம் செய்க. (இயலுந்திறம் ஆவது - இல்லறம் பொருள் அளவிற்கு ஏற்பவும், துறவறம் யாக்கை நிலைக்கு ஏற்பவும் செய்தல், ஓவாமை...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 4: 'Assertion of the Strength of Virtue'), Kural 33 distills a foundational ethical insight: \"To finish virtue's work with ceaseless effort strive, What way thou may'st, where'er thou see'st the work may thrive\" Philosophically, As much as possible, in every way, incessantly practise virtue.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "perseverance",
+        "speech",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 34,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவன் தன்மனதில் குற்றம் இல்லாதவானாக இருக்க வேண்டும். அறம் அவ்வளவே: மனத்தூய்மை இல்லாத மற்றவை ஆரவாரத் தன்மை உடையவை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Let him who does virtuous deeds be of spotless mind; to that extent is virtue; all else is vain show.",
+        "story_title_ta": "அறன் வலியுறுத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Assertion of the Strength of Virtue — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அறன் வலியுறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 34 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மனத்து அளவில் குற்றம் இல்லாதவனாய் ஆகுக; அறம் என்பது அவ்வளவே; பிற வார்த்தை நடிப்பும், வாழ்க்கை வேடங்களுக்கும் மற்றவர் அறியச் செய்யப்படும் ஆடம்பரங்களே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Assertion of the Strength of Virtue'. Grandpa shared Kural 34 and explained in simple words: Let him who does virtuous deeds be of spotless mind; to that extent is virtue; all else is vain show. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மனம் தூய்மையாக இருப்பதே அறம்; மற்றவை ஆரவாரத்தைத் தவிர வேறொன்றுமில்லை.",
+        "moral_en": "Moral: Spotless be thou in mind! This only merits virtue's name; All else, mere pomp of idle sound, no real worth can claim.",
+        "game_blank_word_ta": "ஆகுல",
+        "game_options_ta": [
+          "சிறப்புஈனும்",
+          "செல்வமும்",
+          "ஆகுல",
+          "ஈனும்"
+        ],
+        "game_options_en": [
+          "From virtue weal and wealth outflow; What greater good can mankind know?",
+          "Virtue enhances joy and gain; Forsaking it is fall and pain",
+          "In spotless mind virtue is found And not in show and swelling sound",
+          "Perform good deeds as much you can Always and everywhere, o man!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அறன் வலியுறுத்தல் (பாயிரவியல்) பிரிவில் அமைந்த குறள் 34, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனத்து அளவில் குற்றம் இல்லாதவனாய் ஆகுக; அறம் என்பது அவ்வளவே; பிற வார்த்தை நடிப்பும், வாழ்க்கை வேடங்களுக்கும் மற்றவர் அறியச் செய்யப்படும் ஆடம்பரங்களே. கலைஞர் உரை கூறுவது: மனம் தூய்மையாக இருப்பதே அறம்; மற்றவை ஆரவாரத்தைத் தவிர வேறொன்றுமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Assertion of the Strength of Virtue (Prologue), Kural 34 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let him who does virtuous deeds be of spotless mind; to that extent is virtue; all else is vain show. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'அறன் வலியுறுத்தல்' குறள் 34 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 34 (Assertion of the Strength of Virtue) and writing one clear priority.",
+        "quiz_question_ta": "'அறன் வலியுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 34 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 34 from Chapter 'Assertion of the Strength of Virtue'?",
+        "quiz_options_ta": [
+          "அகத்தில் அன்பு இல்லாமல் வாழும் உயிர் வாழக்கை வளமற்ற பாலைநிலத்தில் பட்டமரம் தளிர்த்தாற் போன்றது.",
+          "அடக்கம் ஒருவனை உயர்த்தித் தேவருள் சேர்க்கும்; அடக்கம் இல்லாதிருத்தல், பொல்லாத இருள் போன்ற தீய வாழ்க்கையில் செலுத்தி விடும்.",
+          "ஒருவன் தன்மனதில் குற்றம் இல்லாதவானாக இருக்க வேண்டும். அறம் அவ்வளவே: மனத்தூய்மை இல்லாத மற்றவை ஆரவாரத் தன்மை உடையவை.",
+          "பொறாமைப்படுதலாகிய தவறான நெறியில் துன்பம் ஏற்படுத‌ை அறிந்து, பொறாமை காரணமாக அறமல்லாதவைகளைச் செய்யார் அறிவுடையோர்."
+        ],
+        "quiz_options_en": [
+          "Life bereft of love is gloom Can sapless tree in desert bloom?",
+          "Self-rule leads to realms of gods Indulgence leads to gloomy hades",
+          "In spotless mind virtue is found And not in show and swelling sound",
+          "The wise through envy don't others wrong Knowing that woes from evils throng"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (அறன் வலியுறுத்தல்) பகுதியில் குறள் 34 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் தன்மனதில் குற்றம் இல்லாதவானாக இருக்க வேண்டும். அறம் அவ்வளவே: மனத்தூய்மை இல்லாத மற்றவை ஆரவாரத் தன்மை உடையவை. பரிமேலழகர் உரை நுட்பம்: மனத்துக்கண் மாசு இலன் ஆதல் - அவ்வாற்றான் அறஞ் செய்வான் தன் மனத்தின்கண் குற்றமுடையன் அல்லன் ஆக; அனைத்து அறன் - அவ்வளவே அறம் ஆவது; பிற ஆகுலநீர - அஃது ஒழிந்த சொல்லும் வேடமும் அறம் எனப்படா, ஆரவார நீர்மைய; (குற்றம் - தீயன சிந்தித்தல். பிறர் அறிதல் வேண்டிச...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 4: 'Assertion of the Strength of Virtue'), Kural 34 distills a foundational ethical insight: \"Spotless be thou in mind! This only merits virtue's name; All else, mere pomp of idle sound, no real worth can claim\" Philosophically, Let him who does virtuous deeds be of spotless mind; to that extent is virtue; all else is vain show.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "self-mastery",
+        "love",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 35,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பொறாமை, ஆசை, சினம், கடுஞ்சொல் ஆகிய இந்த நான்கு குற்றங்களுக்கும் இடங்கொடுக்காமல் அவற்றைக் கடித்து ஒழுகுவதே அறமாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: That conduct is virtue which is free from these four things, viz, malice, desire, anger and bitter speech.",
+        "story_title_ta": "அறன் வலியுறுத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Assertion of the Strength of Virtue — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அறன் வலியுறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 35 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறர் மேன்மை கண்டு பொறாமை, புலன்கள் போகும் வழிச் செல்லும் ஆசை, இவை தடைபடும் போது வரும் கோபம், கோபத்தில் பிறக்கும் தீய சொல் எனும் இந்நான்கையும் விலக்கித் தொடர்ந்து செய்யப்படுவது அறம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Assertion of the Strength of Virtue'. Grandpa shared Kural 35 and explained in simple words: That conduct is virtue which is free from these four things, viz, malice, desire, anger and bitter speech. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பொறாமை, பேராசை, பொங்கும் கோபம், புண்படுத்தும் சொல் ஆகிய இந்த நான்கும் அறவழிக்குப் பொருந்தாதவைகளாகும்.",
+        "moral_en": "Moral: 'Tis virtue when, his footsteps sliding not through envy, wrath, Lust, evil speech-these four, man onwards moves in ordered path.",
+        "game_blank_word_ta": "அழுக்காறு",
+        "game_options_ta": [
+          "சிறப்புஈனும்",
+          "செல்வமும்",
+          "ஈனும்",
+          "அழுக்காறு"
+        ],
+        "game_options_en": [
+          "From virtue weal and wealth outflow; What greater good can mankind know?",
+          "Virtue enhances joy and gain; Forsaking it is fall and pain",
+          "Perform good deeds as much you can Always and everywhere, o man!",
+          "Four ills eschew and virtue reach, Lust, anger, envy, evil-speech"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அறன் வலியுறுத்தல் (பாயிரவியல்) பிரிவில் அமைந்த குறள் 35, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர் மேன்மை கண்டு பொறாமை, புலன்கள் போகும் வழிச் செல்லும் ஆசை, இவை தடைபடும் போது வரும் கோபம், கோபத்தில் பிறக்கும் தீய சொல் எனும் இந்நான்கையும் விலக்கித் தொடர்ந்து செய்யப்படுவது அறம். கலைஞர் உரை கூறுவது: பொறாமை, பேராசை, பொங்கும் கோபம், புண்படுத்தும் சொல் ஆகிய இந்த நான்கும் அறவழிக்குப் பொருந்தாதவைகளாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Assertion of the Strength of Virtue (Prologue), Kural 35 speaks directly to teens navigating studies, friendships, leadership, and digital choices: That conduct is virtue which is free from these four things, viz, malice, desire, anger and bitter speech. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'அறன் வலியுறுத்தல்' குறள் 35 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 35 (Assertion of the Strength of Virtue) and writing one clear priority.",
+        "quiz_question_ta": "'அறன் வலியுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 35 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 35 from Chapter 'Assertion of the Strength of Virtue'?",
+        "quiz_options_ta": [
+          "உடம்பின் அகத்து உறுப்பாகிய அன்பு இல்லாதவர்க்கு உடம்பின் புறத்து உறுப்புக்கள் எல்லாம் என்ன பயன் செய்யும்.",
+          "அடக்கத்தை உறுதிப் பொருளாகக் கொண்டு போற்றிக் ‌காக்க வேண்டும். அந்த அடக்கத்தைவிட மேம்பட்ட ஆக்கம் உயிர்க்கு இல்லை.",
+          "பொறாமை உடை‌யவர்க்கு வேறு பகை வேண்டா. அஃது ஒன்றே போதும், பகைவர் தீங்கு செய்யத் தவறினாலும் தவறாது கேட்டைத் தருவது அது.",
+          "பொறாமை, ஆசை, சினம், கடுஞ்சொல் ஆகிய இந்த நான்கு குற்றங்களுக்கும் இடங்கொடுக்காமல் அவற்றைக் கடித்து ஒழுகுவதே அறமாகும்."
+        ],
+        "quiz_options_en": [
+          "Love is the heart which limbs must move, Or vain the outer parts will prove",
+          "No gains with self-control measure Guard with care this great treasure",
+          "Man shall be wrecked by envy's whim Even if enemies spare him",
+          "Four ills eschew and virtue reach, Lust, anger, envy, evil-speech"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (அறன் வலியுறுத்தல்) பகுதியில் குறள் 35 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொறாமை, ஆசை, சினம், கடுஞ்சொல் ஆகிய இந்த நான்கு குற்றங்களுக்கும் இடங்கொடுக்காமல் அவற்றைக் கடித்து ஒழுகுவதே அறமாகும். பரிமேலழகர் உரை நுட்பம்: அழுக்காறு - பிறர் ஆக்கம் பொறாமையும்; அவா - புலன்கள்மேல் செல்கின்ற அவாவும்; வெகுளி - அவை ஏதுவாகப் பிறர்பால் வரும் வெகுளியும்; இன்னாச்சொல்- அதுபற்றி வரும் கடுஞ்சொல்லும் ஆகிய; நான்கும் இழுக்கா இயன்றது அறம் - இந்நான்கினையும் கடிந்து இடையறாது நடந்தது அறம் ஆவது...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 4: 'Assertion of the Strength of Virtue'), Kural 35 distills a foundational ethical insight: \"'Tis virtue when, his footsteps sliding not through envy, wrath, Lust, evil speech-these four, man onwards moves in ordered path\" Philosophically, That conduct is virtue which is free from these four things, viz, malice, desire, anger and bitter speech.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "speech",
+        "self-mastery",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 36,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: இளைஞராக உள்ளவர், பிற்காலத்தில் பார்த்து கொள்ளலாம் என்று எண்ணாமல் அறம் செய்ய வேண்டும். அதுவே உடல் அழியும் காலத்தில் அழியா துணையாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Defer not virtue to another day; receive her now; and at the dying hour she will be your undying friend.",
+        "story_title_ta": "அறன் வலியுறுத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Assertion of the Strength of Virtue — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அறன் வலியுறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 36 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'முதுமையில் செய்யலாம் என எண்ணாமல் இப்போதே அறத்தைச் செய்க; அந்த அறம் நாம் அழியும் போது தான் அழியாமல் நமக்கு துணை ஆகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Assertion of the Strength of Virtue'. Grandpa shared Kural 36 and explained in simple words: Defer not virtue to another day; receive her now; and at the dying hour she will be your undying friend. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறகு பார்த்துக்கொள்ளலாம் என்று நாள் கடத்தாமல் அறவழியை மேற்கொண்டால் அது ஒருவர் இறந்தபின் கூட அழியாப் புகழாய் நிலைத்துத் துணை நிற்கும்.",
+        "moral_en": "Moral: Do deeds of virtue now Say not, 'To-morrow we'll be wise'; Thus, when thou diest, shalt thou find a help that never dies.",
+        "game_blank_word_ta": "அன்றறிவாம்",
+        "game_options_ta": [
+          "அன்றறிவாம்",
+          "சிறப்புஈனும்",
+          "செல்வமும்",
+          "ஈனும்"
+        ],
+        "game_options_en": [
+          "Do good enow; defer it not A deathless aid in death if sought",
+          "From virtue weal and wealth outflow; What greater good can mankind know?",
+          "Virtue enhances joy and gain; Forsaking it is fall and pain",
+          "Perform good deeds as much you can Always and everywhere, o man!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அறன் வலியுறுத்தல் (பாயிரவியல்) பிரிவில் அமைந்த குறள் 36, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முதுமையில் செய்யலாம் என எண்ணாமல் இப்போதே அறத்தைச் செய்க; அந்த அறம் நாம் அழியும் போது தான் அழியாமல் நமக்கு துணை ஆகும். கலைஞர் உரை கூறுவது: பிறகு பார்த்துக்கொள்ளலாம் என்று நாள் கடத்தாமல் அறவழியை மேற்கொண்டால் அது ஒருவர் இறந்தபின் கூட அழியாப் புகழாய் நிலைத்துத் துணை நிற்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Assertion of the Strength of Virtue (Prologue), Kural 36 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Defer not virtue to another day; receive her now; and at the dying hour she will be your undying friend. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'அறன் வலியுறுத்தல்' குறள் 36 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 36 (Assertion of the Strength of Virtue) and writing one clear priority.",
+        "quiz_question_ta": "'அறன் வலியுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 36 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 36 from Chapter 'Assertion of the Strength of Virtue'?",
+        "quiz_options_ta": [
+          "இளைஞராக உள்ளவர், பிற்காலத்தில் பார்த்து கொள்ளலாம் என்று எண்ணாமல் அறம் செய்ய வேண்டும். அதுவே உடல் அழியும் காலத்தில் அழியா துணையாகும்.",
+          "அன்பின் வழியில் இயங்கும் உடம்பே உயிர்நின்ற உடம்பாகும்: அன்பு இல்லாதவர்க்கு உள்ள உடம்பு எலும்பைத் தோல்போர்த்த வெற்றுடம்பே ஆகும்",
+          "அறிய வேண்டியவற்றை அறிந்து, நல்வழியில் அடங்கி ஒழுகப்பெற்றால், அந்த அடக்கம் நல்லோரால் அறியப்பட்டு மேன்மை பயக்கும்.",
+          "பிறர்க்கு உதவியாகக் கொடுக்கப்படும் பொருளைக் கண்டு பொறாமைப்படுகின்றவனுடைய சுற்றம், உடையும் உணவும் இல்லாமல் கெடும்."
+        ],
+        "quiz_options_en": [
+          "Do good enow; defer it not A deathless aid in death if sought",
+          "The seat of life is love alone; Or beings are but skin and bone!",
+          "Knowing wisdom who lives controlled Name and fame seek him untold",
+          "Who envies gifts shall suffer ruin Without food and clothes with his kin"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (அறன் வலியுறுத்தல்) பகுதியில் குறள் 36 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இளைஞராக உள்ளவர், பிற்காலத்தில் பார்த்து கொள்ளலாம் என்று எண்ணாமல் அறம் செய்ய வேண்டும். அதுவே உடல் அழியும் காலத்தில் அழியா துணையாகும். பரிமேலழகர் உரை நுட்பம்: அன்று அறிவாம் என்னாது அறம் செய்க - 'யாம் இது பொழுது இளையம் ஆகலின் இறக்கும் ஞான்று செய்தும்' எனக் கருதாது அறத்தினை நாள்தோறும் செய்க; அது பொன்றுங்கால் பொன்றாத் துணை - அவ்வாறு செய்த அறம் உடம்பினின்றும் உயிர் போங்காலத்து அதற்கு அழிவு இல்லாத துணை ஆம். ('மற்று...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 4: 'Assertion of the Strength of Virtue'), Kural 36 distills a foundational ethical insight: \"Do deeds of virtue now Say not, 'To-morrow we'll be wise'; Thus, when thou diest, shalt thou find a help that never dies\" Philosophically, Defer not virtue to another day; receive her now; and at the dying hour she will be your undying friend.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "friendship",
+        "wisdom",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 37,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பல்லக்கை சுமப்பவனும் அதன்மேலிருந்து ஊர்ந்து செல்லுவோனுமாகிய அவர்களிடையே அறத்தின் பயன் இஃது என்று கூறவேண்டா.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The fruit of virtue need not be described in books; it may be inferred from seeing the bearer of a palanquin and the rider therein.",
+        "story_title_ta": "அறன் வலியுறுத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Assertion of the Strength of Virtue — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அறன் வலியுறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 37 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அறத்தைச் செய்வதால் வரும் பயன் இது என்று நூல்களைக் கொண்டு மெய்ப்பிக்க வேண்டியது இல்லை. பல்லக்கைத் தூக்கிச் செல்பவனையும் அதில் பயணிப்பவனையும் கண்ட அளவில் பயனை அறியலாம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Assertion of the Strength of Virtue'. Grandpa shared Kural 37 and explained in simple words: The fruit of virtue need not be described in books; it may be inferred from seeing the bearer of a palanquin and the rider therein. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அறவழியில் நடப்பவர்கள் பல்லக்கில் உட்கார்ந்து செல்பவர்களைப் போல வாழ்க்கையில் வரும் இன்ப துன்பங்கள் இரண்டையும் எளியவாகக் கருதி மகிழ்வுடன் பயணத்தை மேற்கொள்வார்கள் தீய வழிக்குத் தங்களை ஆட்படுத்திக் கொண்டவர்களோ பல்லக்கைத் தூக்கிச் சுமப்பவர்களைப் போல இன்பத்திலும் அமைதி கொள்ளாமல், துன்பத்தையும் தாங்கிக் கொள்ளும் மனப்பக்குவமின்றி வாழ்வையே பெரும் சுமையாகக் கருதுவார்கள்.",
+        "moral_en": "Moral: Needs not in words to dwell on virtue's fruits: compareThe man in litter borne with them that toiling bear.",
+        "game_blank_word_ta": "இதுவென",
+        "game_options_ta": [
+          "சிறப்புஈனும்",
+          "இதுவென",
+          "செல்வமும்",
+          "ஈனும்"
+        ],
+        "game_options_en": [
+          "From virtue weal and wealth outflow; What greater good can mankind know?",
+          "Litter-bearer and rider say Without a word, the fortune's way",
+          "Virtue enhances joy and gain; Forsaking it is fall and pain",
+          "Perform good deeds as much you can Always and everywhere, o man!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அறன் வலியுறுத்தல் (பாயிரவியல்) பிரிவில் அமைந்த குறள் 37, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறத்தைச் செய்வதால் வரும் பயன் இது என்று நூல்களைக் கொண்டு மெய்ப்பிக்க வேண்டியது இல்லை. பல்லக்கைத் தூக்கிச் செல்பவனையும் அதில் பயணிப்பவனையும் கண்ட அளவில் பயனை அறியலாம். கலைஞர் உரை கூறுவது: அறவழியில் நடப்பவர்கள் பல்லக்கில் உட்கார்ந்து செல்பவர்களைப் போல வாழ்க்கையில் வரும் இன்ப துன்பங்கள் இரண்டையும் எளியவாகக் கருதி மகிழ்வுடன் பயணத்தை மேற்கொள்வார்கள் தீய வழிக்குத் தங்களை ஆட்படுத்திக் கொண்டவர்களோ பல்லக்கைத் தூக்கிச் சுமப்பவர்களைப் போல இன்பத்திலும் அமைதி கொள்ளாமல், துன்பத்தையும் தாங்கிக் கொள்ளும் மனப்பக்குவமின்றி வாழ்வையே பெரும் சுமையாகக் கருதுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Assertion of the Strength of Virtue (Prologue), Kural 37 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The fruit of virtue need not be described in books; it may be inferred from seeing the bearer of a palanquin and the rider therein. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'அறன் வலியுறுத்தல்' குறள் 37 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 37 (Assertion of the Strength of Virtue) and writing one clear priority.",
+        "quiz_question_ta": "'அறன் வலியுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 37 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 37 from Chapter 'Assertion of the Strength of Virtue'?",
+        "quiz_options_ta": [
+          "வீட்டில் இருந்து பொருள்களைக் காத்து இல்வாழ்க்கை நடத்துவதெல்லாம் விருந்தினரைப் போற்றி உதவி செய்யும் பொருட்டே ஆகும்",
+          "பல்லக்கை சுமப்பவனும் அதன்மேலிருந்து ஊர்ந்து செல்லுவோனுமாகிய அவர்களிடையே அறத்தின் பயன் இஃது என்று கூறவேண்டா.",
+          "தன் நிலையிலிருந்து மாறுபடாமல் அடங்கி ஒழுகுவோனுடைய உயர்வு, மலையின் உயர்வை விட மிகவும் பெரிதாகும்.",
+          "பொறாமை உடையவனைத் திருமகள் கண்டு பொறாமைப்பட்டுத் தன் தமக்கைக்கு அவனைக் காட்டி நீங்கி விடுவாள்."
+        ],
+        "quiz_options_en": [
+          "Men set up home, toil and earn To tend the guests and do good turn",
+          "Litter-bearer and rider say Without a word, the fortune's way",
+          "Firmly fixed in self serene The sage looks grander than mountain",
+          "Fortune deserts the envious Leaving misfortune omnious"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (அறன் வலியுறுத்தல்) பகுதியில் குறள் 37 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பல்லக்கை சுமப்பவனும் அதன்மேலிருந்து ஊர்ந்து செல்லுவோனுமாகிய அவர்களிடையே அறத்தின் பயன் இஃது என்று கூறவேண்டா. பரிமேலழகர் உரை நுட்பம்: அறத்து ஆறு இது என வேண்டா - அறத்தின் பயன் இது என்று யாம் ஆகம அளவையான் உணர்த்தல் வேண்டா; சிவிகை பொறுத்தானோடு ஊர்ந்தான் இடை - சிவிகையைக் காவுவானோடு செலுத்துவானிடைக் காட்சியளவை தன்னானே உணரப்படும். (பயனை 'ஆறு' என்றார், பின்னது ஆகலின். 'என' என்னும் எச்சத்தால் சொல...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 4: 'Assertion of the Strength of Virtue'), Kural 37 distills a foundational ethical insight: \"Needs not in words to dwell on virtue's fruits: compareThe man in litter borne with them that toiling bear\" Philosophically, The fruit of virtue need not be described in books; it may be inferred from seeing the bearer of a palanquin and the rider therein.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "speech",
+        "education",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 38,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவன் அறம் செய்ய தவறிய நாள் ஏற்படாதவாறு அறத்தை செய்வானானால் அதுவே அவன் உடலோடு வாழும் நாள் வரும் பிறவி வழியை அடைக்கும் கல்லாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If one allows no day to pass without some good being done, his conduct will be a stone to block up the passage to other births.",
+        "story_title_ta": "அறன் வலியுறுத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Assertion of the Strength of Virtue — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அறன் வலியுறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 38 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அறத்தை செய்யாது விட்ட நாள் இல்லை என்று சொல்லும்படி ஒருவன் அறம் செய்தால், அச்செயலே, அவன் திரும்பப் பிறக்கும் வழியை அடைக்கும் கல் ஆகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Assertion of the Strength of Virtue'. Grandpa shared Kural 38 and explained in simple words: If one allows no day to pass without some good being done, his conduct will be a stone to block up the passage to other births. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பயனற்றதாக ஒருநாள்கூடக் கழிந்து போகாமல், தொடர்ந்து நற்செயல்களில் ஈடுபடுபவருக்கு வாழ்க்கைப் பாதையைச் சீராக்கி அமைத்துத் தரும் கல்லாக அந்த நற்செயல்களே விளங்கும்.",
+        "moral_en": "Moral: If no day passing idly, good to do each day you toil, A stone it will be to block the way of future days of moil.",
+        "game_blank_word_ta": "நன்றாற்றின்",
+        "game_options_ta": [
+          "சிறப்புஈனும்",
+          "செல்வமும்",
+          "நன்றாற்றின்",
+          "ஈனும்"
+        ],
+        "game_options_en": [
+          "From virtue weal and wealth outflow; What greater good can mankind know?",
+          "Virtue enhances joy and gain; Forsaking it is fall and pain",
+          "Like stones that block rebirth and pain Are doing good and good again",
+          "Perform good deeds as much you can Always and everywhere, o man!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அறன் வலியுறுத்தல் (பாயிரவியல்) பிரிவில் அமைந்த குறள் 38, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறத்தை செய்யாது விட்ட நாள் இல்லை என்று சொல்லும்படி ஒருவன் அறம் செய்தால், அச்செயலே, அவன் திரும்பப் பிறக்கும் வழியை அடைக்கும் கல் ஆகும். கலைஞர் உரை கூறுவது: பயனற்றதாக ஒருநாள்கூடக் கழிந்து போகாமல், தொடர்ந்து நற்செயல்களில் ஈடுபடுபவருக்கு வாழ்க்கைப் பாதையைச் சீராக்கி அமைத்துத் தரும் கல்லாக அந்த நற்செயல்களே விளங்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Assertion of the Strength of Virtue (Prologue), Kural 38 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If one allows no day to pass without some good being done, his conduct will be a stone to block up the passage to other births. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'அறன் வலியுறுத்தல்' குறள் 38 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 38 (Assertion of the Strength of Virtue) and writing one clear priority.",
+        "quiz_question_ta": "'அறன் வலியுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 38 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 38 from Chapter 'Assertion of the Strength of Virtue'?",
+        "quiz_options_ta": [
+          "விருந்தினராக வந்தவர் வீட்டின் புறத்தே இருக்கத் தான் மட்டும் உண்பது சாவாமருந்தாகிய அமிழ்தமே ஆனாலும் அது விரும்பத்தக்கது அன்று",
+          "பணிவுடையவராக ஒழுகுதல்பொதுவாக எல்லோர்க்கும் நல்லதாகும்; அவர்களுள் சிறப்பாகச் செல்வர்க்கே மற்றொரு செல்வம் போன்றதாகும்.",
+          "ஒருவன் அறம் செய்ய தவறிய நாள் ஏற்படாதவாறு அறத்தை செய்வானானால் அதுவே அவன் உடலோடு வாழும் நாள் வரும் பிறவி வழியை அடைக்கும் கல்லாகும்.",
+          "பொறாமை என்று கூறப்படும் ஒப்பற்ற பாவி, ஒருவனுடைய செல்வத்தைக் கெடுத்துத் தீய வழியில் அவனைச் செலுத்தி விடும்."
+        ],
+        "quiz_options_en": [
+          "To keep out guests cannot be good Albeit you eat nector-like food",
+          "Humility is good for all To the rich it adds a wealth special",
+          "Like stones that block rebirth and pain Are doing good and good again",
+          "Caitiff envy despoils wealth And drags one into evil path"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (அறன் வலியுறுத்தல்) பகுதியில் குறள் 38 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் அறம் செய்ய தவறிய நாள் ஏற்படாதவாறு அறத்தை செய்வானானால் அதுவே அவன் உடலோடு வாழும் நாள் வரும் பிறவி வழியை அடைக்கும் கல்லாகும். பரிமேலழகர் உரை நுட்பம்: வீழ்நாள் படாமை நன்று ஆற்றின் - செய்யாது கழியும் நாள் உளவாகாமல் ஒருவன் அறத்தைச் செய்யுமாயின்; அஃது ஒருவன் வாழ்நாள் வழி அடைக்கும் கல் - அச்செயல் அவன் யாக்கையோடு கூடும் நாள் வரும் வழியை வாராமல் அடைக்குங் கல்லாம். (ஐவகைக் குற்றத்தான் வரும் இருவகை வினையும் உள்ள...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 4: 'Assertion of the Strength of Virtue'), Kural 38 distills a foundational ethical insight: \"If no day passing idly, good to do each day you toil, A stone it will be to block the way of future days of moil\" Philosophically, If one allows no day to pass without some good being done, his conduct will be a stone to block up the passage to other births.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "discipline",
+        "speech",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 39,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அறநெறியில் வாழ்வதன் பயனாக வருவதே இன்பமாகும். அறத்தோடு பொருந்தாமல் வருவன எல்லாம் இன்பம் இல்லாதவை: புகழும் இல்லாதவை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Only that pleasure which flows from domestic virtue is pleasure; all else is not pleasure, and it is without praise.",
+        "story_title_ta": "அறன் வலியுறுத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Assertion of the Strength of Virtue — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அறன் வலியுறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 39 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அறத்துடன் வருவதே இன்பம்; பிற வழிகளில் வருவன துன்பமே; புகழும் ஆகா.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Assertion of the Strength of Virtue'. Grandpa shared Kural 39 and explained in simple words: Only that pleasure which flows from domestic virtue is pleasure; all else is not pleasure, and it is without praise. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தூய்மையான நெஞ்சுடன் நடத்தும் அறவழி வாழ்க்கையில் வருகின்ற புகழால் ஏற்படுவதே இன்பமாகும் அதற்கு மாறான வழியில் வருவது புகழும் ஆகாது; இன்பமும் ஆகாது.",
+        "moral_en": "Moral: What from virtue floweth, yieldeth dear delight; All else extern, is void of glory's light.",
+        "game_blank_word_ta": "மற்றெல்லாம்",
+        "game_options_ta": [
+          "சிறப்புஈனும்",
+          "செல்வமும்",
+          "ஈனும்",
+          "மற்றெல்லாம்"
+        ],
+        "game_options_en": [
+          "From virtue weal and wealth outflow; What greater good can mankind know?",
+          "Virtue enhances joy and gain; Forsaking it is fall and pain",
+          "Perform good deeds as much you can Always and everywhere, o man!",
+          "Weal flows only from virtue done The rest is rue and renown gone"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அறன் வலியுறுத்தல் (பாயிரவியல்) பிரிவில் அமைந்த குறள் 39, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறத்துடன் வருவதே இன்பம்; பிற வழிகளில் வருவன துன்பமே; புகழும் ஆகா. கலைஞர் உரை கூறுவது: தூய்மையான நெஞ்சுடன் நடத்தும் அறவழி வாழ்க்கையில் வருகின்ற புகழால் ஏற்படுவதே இன்பமாகும் அதற்கு மாறான வழியில் வருவது புகழும் ஆகாது; இன்பமும் ஆகாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Assertion of the Strength of Virtue (Prologue), Kural 39 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Only that pleasure which flows from domestic virtue is pleasure; all else is not pleasure, and it is without praise. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'அறன் வலியுறுத்தல்' குறள் 39 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 39 (Assertion of the Strength of Virtue) and writing one clear priority.",
+        "quiz_question_ta": "'அறன் வலியுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 39 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 39 from Chapter 'Assertion of the Strength of Virtue'?",
+        "quiz_options_ta": [
+          "தன்னை நோக்கி வரும் விருந்தினரை நாள் தோறும் போற்றுகின்றவனுடைய வாழ்க்கை, துன்பத்தால் வருந்திக் கெட்டுப் போவதில்லை.",
+          "ஒரு பிறப்பில், ஆமைபோல் ஐம்பொறிகளையும் அடக்கியாள வல்லவனானால், அஃது அவனுக்குப் பல பிறப்பிலும் காப்பாகும் சிறப்பு உடையது.",
+          "பொறாமை பொருந்திய நெஞ்சத்தானுடைய ஆக்கமும், பொறாமை இல்லாத நல்லவனுடைய கேடும் ஆராயத் தக்கவை",
+          "அறநெறியில் வாழ்வதன் பயனாக வருவதே இன்பமாகும். அறத்தோடு பொருந்தாமல் வருவன எல்லாம் இன்பம் இல்லாதவை: புகழும் இல்லாதவை."
+        ],
+        "quiz_options_en": [
+          "Who tends his guests day in and out His life in want never wears out",
+          "Who senses five like tortoise hold Their joy prolongs to births sevenfold",
+          "Why is envy rich, goodmen poor People with surprise think over",
+          "Weal flows only from virtue done The rest is rue and renown gone"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (அறன் வலியுறுத்தல்) பகுதியில் குறள் 39 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறநெறியில் வாழ்வதன் பயனாக வருவதே இன்பமாகும். அறத்தோடு பொருந்தாமல் வருவன எல்லாம் இன்பம் இல்லாதவை: புகழும் இல்லாதவை. பரிமேலழகர் உரை நுட்பம்: அறத்தான் வருவதே இன்பம் - இல்லறத்தோடு பொருந்தி வருவதே இன்பம் ஆவது; மற்று எல்லாம் புறத்த - அதனோடு பொருந்தாது வருவன எல்லாம் இன்பம் ஆயினும் துன்பத்தினிடத்த; புகழும் இல - அதுவேயும் அன்றிப் புகழும் உடைய அல்ல. ('ஆன்' உருபு ஈண்டு உடனிகழ்ச்சிக்கண் வந்தது, 'தூங்கு...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 4: 'Assertion of the Strength of Virtue'), Kural 39 distills a foundational ethical insight: \"What from virtue floweth, yieldeth dear delight; All else extern, is void of glory's light\" Philosophically, Only that pleasure which flows from domestic virtue is pleasure; all else is not pleasure, and it is without praise.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "discipline",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 40,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒருவன் வாழ்நாளில் முயற்சி மேற்கொண்டு செய்யத்தக்கது அறமே. செய்யாமல் காத்து கொள்ளத்தக்கது பழியே.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: That is virtue which each ought to do, and that is vice which each should shun.",
+        "story_title_ta": "அறன் வலியுறுத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Assertion of the Strength of Virtue — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அறன் வலியுறுத்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 40 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஒருவன் செய்யத் தக்கது அறமே; விட்டுவிடத் தக்கவை தீய செயல்களே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Assertion of the Strength of Virtue'. Grandpa shared Kural 40 and explained in simple words: That is virtue which each ought to do, and that is vice which each should shun. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பழிக்கத் தக்கவைகளைச் செய்யாமல் பாராட்டத்தக்க அறவழிச் செயல்களில் நாட்டம் கொள்வதே ஒருவர்க்குப் புகழ் சேர்க்கும்.",
+        "moral_en": "Moral: 'Virtue' sums the things that should be done;'Vice' sums the things that man should shun.",
+        "game_blank_word_ta": "செயற்பால",
+        "game_options_ta": [
+          "செயற்பால",
+          "சிறப்புஈனும்",
+          "செல்வமும்",
+          "ஈனும்"
+        ],
+        "game_options_en": [
+          "Worthy act is virtue done Vice is what we ought to shun",
+          "From virtue weal and wealth outflow; What greater good can mankind know?",
+          "Virtue enhances joy and gain; Forsaking it is fall and pain",
+          "Perform good deeds as much you can Always and everywhere, o man!"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அறன் வலியுறுத்தல் (பாயிரவியல்) பிரிவில் அமைந்த குறள் 40, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவன் செய்யத் தக்கது அறமே; விட்டுவிடத் தக்கவை தீய செயல்களே. கலைஞர் உரை கூறுவது: பழிக்கத் தக்கவைகளைச் செய்யாமல் பாராட்டத்தக்க அறவழிச் செயல்களில் நாட்டம் கொள்வதே ஒருவர்க்குப் புகழ் சேர்க்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Assertion of the Strength of Virtue (Prologue), Kural 40 speaks directly to teens navigating studies, friendships, leadership, and digital choices: That is virtue which each ought to do, and that is vice which each should shun. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'அறன் வலியுறுத்தல்' குறள் 40 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 40 (Assertion of the Strength of Virtue) and writing one clear priority.",
+        "quiz_question_ta": "'அறன் வலியுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 40 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 40 from Chapter 'Assertion of the Strength of Virtue'?",
+        "quiz_options_ta": [
+          "ஒருவன் வாழ்நாளில் முயற்சி மேற்கொண்டு செய்யத்தக்கது அறமே. செய்யாமல் காத்து கொள்ளத்தக்கது பழியே.",
+          "நல்ல விருந்தினராய் வந்தவரை முகமலர்ச்சி கொண்டு போற்றுகின்றவனுடைய வீட்டில் மனமகிழ்ந்து திருமகள் வாழ்வாள்.",
+          "காக்க வேண்டியவற்றுள் எவற்றைக் காக்கா விட்டாலும் நாவையாவது காக்க வேண்டு்ம்; காக்கத் தவறினால் சொற்குற்றத்தில் அகப்பட்டுத் துன்புறுவர்.",
+          "பொறாமைப்பட்டுப் பெருமையுற்றவரும் உலகத்தில் இல்லை; பொறாமை இல்லாதவராய் மேம்பாட்டிலிருந்து நீங்கியவரும் இல்லை."
+        ],
+        "quiz_options_en": [
+          "Worthy act is virtue done Vice is what we ought to shun",
+          "The goddess of wealth will gladly rest Where smiles welcome the worthy guest",
+          "Rein the tongue if nothing else Or slips of tongue bring all the woes",
+          "The envious prosper never The envyless prosper ever"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (அறன் வலியுறுத்தல்) பகுதியில் குறள் 40 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் வாழ்நாளில் முயற்சி மேற்கொண்டு செய்யத்தக்கது அறமே. செய்யாமல் காத்து கொள்ளத்தக்கது பழியே. பரிமேலழகர் உரை நுட்பம்: ஒருவற்குச் செயற்பாலது அறனே - ஒருவனுக்குச் செய்தற் பான்மையானது நல்வினையே; உயற்பாலது பழியே- ஒழிதற்பான்மையது தீவினையே. ( 'ஓரும்' என்பன இரண்டும் அசைநிலை. தேற்றேகாரம் பின்னும் கூட்டப்பட்டது. பழிக்கப்படுவதனைப் 'பழி' என்றார். இதனான் செய்வதும் ஒழிவதும...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 4: 'Assertion of the Strength of Virtue'), Kural 40 distills a foundational ethical insight: \"'Virtue' sums the things that should be done;'Vice' sums the things that man should shun\" Philosophically, That is virtue which each ought to do, and that is vice which each should shun.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "time",
+        "discipline",
+        "speech"
+      ]
+    }
+  ]
+}

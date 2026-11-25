@@ -1,0 +1,584 @@
+{
+  "adhikaram_id": 130,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.651589442+00:00",
+  "kurals": [
+    {
+      "kural_number": 1291,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நெஞ்சே! அவருடைய நெஞ்சம் ( நம்மை நினையாமல் நம்மிடம் வராமல்) அவர்க்குத் துணையாதலைக் கண்டும் நீ எமக்குத் துணையாகாதது ஏன்?",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: O my soul! although you have seen how his soul stands by him, how is it you do not stand by me?",
+        "story_title_ta": "நெஞ்சொடு புலத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Expostulation with Oneself — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு புலத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1291 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1291 from 'Expostulation with Oneself', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நெஞ்சே! நம்மை நினைக்காமல் இருப்பதற்கு அவருடைய நெஞ்சு அவருக்குத் துணையாக இருக்கும்போது நீ எமக்குத் துணையாக இல்லாமல் அவரை நினைத்து உருகுவது ஏன்?",
+        "moral_en": "Moral: You see his heart is his aloneO heart, why not be all my own.",
+        "game_blank_word_ta": "அவர்க்காதல்",
+        "game_options_ta": [
+          "உறாஅ",
+          "தவர்க்கண்ட",
+          "கண்ணும்",
+          "அவர்க்காதல்"
+        ],
+        "game_options_en": [
+          "O heart, you see how he slights me Yet you clasp him as if friendly",
+          "You follow him at will Is it \\\"The fallen have no friends\\\" my heart?",
+          "You won't sulk first and then submit Who will then consult you, my heart?",
+          "You see, his heart is his alone; Why not my heart be all my own?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு புலத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1291, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நெஞ்சே! அவருடைய நெஞ்சு நம்மை எண்ணாது அவருக்கே துணையாய் நிற்பதை அறிந்தும், நீ எனக்குத் துணை ஆகாமல் அவரையே நினைக்கக் காரணம் என்ன? கலைஞர் உரை கூறுவது: நெஞ்சே! நம்மை நினைக்காமல் இருப்பதற்கு அவருடைய நெஞ்சு அவருக்குத் துணையாக இருக்கும்போது நீ எமக்குத் துணையாக இல்லாமல் அவரை நினைத்து உருகுவது ஏன்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Expostulation with Oneself (Post-marital Love), Kural 1291 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O my soul! although you have seen how his soul stands by him, how is it you do not stand by me? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு புலத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Expostulation with Oneself'.",
+        "quiz_question_ta": "'நெஞ்சொடு புலத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1291 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1291 from Chapter 'Expostulation with Oneself'?",
+        "quiz_options_ta": [
+          "கடவுளின் உண்மைப் புகழை விரும்பி அன்பு செலுத்துகின்றவரிடம் அறியாமையால் விளையும் இருவகை வினையும் சேர்வதில்லை",
+          "மற்றவரை அறநெறியில் ஒழுகச்செய்து தானும்அறம் தவறாத இல்வாழ்க்கை , தவம் செய்வாரைவிட மிகச்சிறந்த வல்லமை உடைய வாழ்க்கையாகும்.",
+          "அன்பு கலந்து வஞ்சம் அற்றவைகளாகிய சொற்கள், மெய்ப்பொருள் கண்டவர்களின் வாய்ச்சொற்கள் இன்சொற்களாகும்.",
+          "நெஞ்சே! அவருடைய நெஞ்சம் ( நம்மை நினையாமல் நம்மிடம் வராமல்) அவர்க்குத் துணையாதலைக் கண்டும் நீ எமக்குத் துணையாகாதது ஏன்?"
+        ],
+        "quiz_options_en": [
+          "God's praise who tell, are free from right And wrong, the twins of dreaming night",
+          "Straight in virtue, right in living Make men brighter than monks praying",
+          "The words of Seers are lovely sweet Merciful and free from deceit",
+          "You see, his heart is his alone; Why not my heart be all my own?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு புலத்தல்) பகுதியில் குறள் 1291 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெஞ்சே! அவருடைய நெஞ்சம் ( நம்மை நினையாமல் நம்மிடம் வராமல்) அவர்க்குத் துணையாதலைக் கண்டும் நீ எமக்குத் துணையாகாதது ஏன்? பரிமேலழகர் உரை நுட்பம்: [அஃதாவது , காரணம் உண்டாய வழியும் புலக்கக் கருதாது , புணர்ச்சி விதும்புகின்ற நெஞ்சுடனே தலைமகள் புலத்தலும் ,தலைமகன் புலத்தலும் ஆம் . அதிகார முறைமையும் இதனானே விளங்கும்.] (தலைமகன்கண் தவறுண்டாய வழியும் புலவி கருதாத நெஞ்சிற்குத் தலைமகள் சொல்லியது.) நெஞ்சு...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 130: 'Expostulation with Oneself'), Kural 1291 distills a foundational ethical insight: \"You see his heart is his aloneO heart, why not be all my own\" Philosophically, O my soul! although you have seen how his soul stands by him, how is it you do not stand by me?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1292,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: என் நெஞசே! நம்மேல் அன்பு கொள்ளாத காதலரைக் கண்டபோதும், அவர் வெறுக்கமாட்டார் என்று எண்ணி அவரிடம் செல்கின்றாயே!",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: O my soul! although you have known him who does not love me, still do you go to him, saying \"he will not be displeased.\".",
+        "story_title_ta": "நெஞ்சொடு புலத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Expostulation with Oneself — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு புலத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1292 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1292 from 'Expostulation with Oneself', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நெஞ்சே! நம்மிடம் அன்பு காட்டாதவர் அவர் எனக் கண்ட பிறகும், நம்மை வெறுக்க மாட்டார் என நம்பி அவரிடம் செல்கின்றாயே.",
+        "moral_en": "Moral: 'Tis plain, my heart, that he 's estranged from thee; Why go to him as though he were not enemy.",
+        "game_blank_word_ta": "செறாஅரெனச்",
+        "game_options_ta": [
+          "செறாஅரெனச்",
+          "அவர்நெஞ்சு",
+          "அவர்க்காதல்",
+          "கண்டும்"
+        ],
+        "game_options_en": [
+          "O heart, you see how he slights me Yet you clasp him as if friendly",
+          "You see, his heart is his alone; Why not my heart be all my own?",
+          "You follow him at will Is it \\\"The fallen have no friends\\\" my heart?",
+          "You won't sulk first and then submit Who will then consult you, my heart?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு புலத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1292, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் நெஞ்சே! என்மீது அன்பு இல்லாதவரை உள்ளபடியே நீ அறிந்திருந்தும் நாம் போனால் அவர் கோபப்படமாட்டார் என்று எண்ணி நீ அவரிடமே செல்லுகின்றாய்! கலைஞர் உரை கூறுவது: நெஞ்சே! நம்மிடம் அன்பு காட்டாதவர் அவர் எனக் கண்ட பிறகும், நம்மை வெறுக்க மாட்டார் என நம்பி அவரிடம் செல்கின்றாயே. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Expostulation with Oneself (Post-marital Love), Kural 1292 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O my soul! although you have known him who does not love me, still do you go to him, saying \"he will not be displeased.\". Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு புலத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Expostulation with Oneself'.",
+        "quiz_question_ta": "'நெஞ்சொடு புலத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1292 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1292 from Chapter 'Expostulation with Oneself'?",
+        "quiz_options_ta": [
+          "என் நெஞசே! நம்மேல் அன்பு கொள்ளாத காதலரைக் கண்டபோதும், அவர் வெறுக்கமாட்டார் என்று எண்ணி அவரிடம் செல்கின்றாயே!",
+          "ஐம்பொறி வாயிலாக பிறக்கும் வேட்கைகளை அவித்த இறைவனுடைய பொய்யற்ற ஒழுக்க நெறியில் நின்றவர், நிலை பெற்ற நல்வாழ்க்கை வாழ்வர்",
+          "அறம் என்று சிறப்பித்து சொல்லப்பட்டது இல்வாழ்க்கையே ஆகும். அதுவும் மற்றவன் பழிக்கும் குற்றம் இல்லாமல் விளங்கினால் மேலும் நன்மையாகும்.",
+          "முகம் மலர்ந்து இன்சொல் உடையவனாக இருக்கப்பெற்றால், மனம் மகிழ்ந்து பொருள் கொடுக்கும் ஈகையைவிட நல்லதாகும்."
+        ],
+        "quiz_options_en": [
+          "O heart, you see how he slights me Yet you clasp him as if friendly",
+          "They prosper long who walk His way Who has the senses signed away",
+          "Home-life and virtue, are the same; Which spotless monkhood too can claim",
+          "Sweet words from smiling lips dispense More joys than heart's beneficence"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு புலத்தல்) பகுதியில் குறள் 1292 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: என் நெஞசே! நம்மேல் அன்பு கொள்ளாத காதலரைக் கண்டபோதும், அவர் வெறுக்கமாட்டார் என்று எண்ணி அவரிடம் செல்கின்றாயே! பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) என் நெஞ்சு - என் நெஞ்சே; உறாதவர்க்கண்ட கண்ணும் - மேலும் நம்மாட்டு அன்புடையராகாதவரை உள்ளவாறு அறிந்த இடத்தும்; செறார் என அவரைச் சேறி - நாம் சென்றால் வெகுளார் என்பது பற்றி நீ அவர் மாட்டுச் செல்லாநின்றாய், இப்பெற்றியது மேலும் ஓர் அறியாமையுண்டோ...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 130: 'Expostulation with Oneself'), Kural 1292 distills a foundational ethical insight: \"'Tis plain, my heart, that he 's estranged from thee; Why go to him as though he were not enemy\" Philosophically, O my soul! although you have known him who does not love me, still do you go to him, saying \"he will not be displeased.\".",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "friendship",
+        "education",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1293,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நெஞ்சே! நீ உன் விருப்பத்தின்படியே அவர் பின் செல்வதற்குக் காரணம், துன்பத்தால் அழிந்தவர்‌க்கு நண்பர் இல்லை என்னும் எண்ண‌மோ?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: O my soul! do you follow him at pleasure under the belief that the ruined have no friends?",
+        "story_title_ta": "நெஞ்சொடு புலத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Expostulation with Oneself — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு புலத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1293 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1293 from 'Expostulation with Oneself', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நெஞ்சே! நீ எனை விடுத்து அவரை விரும்பிப் பின் தொடர்ந்து செல்வது, துன்பத்தால் அழிந்தோர்க்கு நண்பர்கள் துணையிருக்க மாட்டார்கள் என்று சொல்வது போலவோ?",
+        "moral_en": "Moral: 'The ruined have no friends, 'they say; and so, my heart, To follow him, at thy desire, from me thou dost depart.",
+        "game_blank_word_ta": "அவர்பின்",
+        "game_options_ta": [
+          "அவர்நெஞ்சு",
+          "அவர்பின்",
+          "அவர்க்காதல்",
+          "கண்டும்"
+        ],
+        "game_options_en": [
+          "You see, his heart is his alone; Why not my heart be all my own?",
+          "You follow him at will Is it \\\"The fallen have no friends\\\" my heart?",
+          "O heart, you see how he slights me Yet you clasp him as if friendly",
+          "You won't sulk first and then submit Who will then consult you, my heart?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு புலத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1293, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நெஞ்சே! நீ என்னிடம் இல்லாமல் உன் விருப்பப்படியே அவரிடம் செல்லக் காரணம், இந்த உலகத்தில் கெட்டுப் போனவர்களுக்கு நண்பர் இல்லை என்பதனாலோ? கலைஞர் உரை கூறுவது: நெஞ்சே! நீ எனை விடுத்து அவரை விரும்பிப் பின் தொடர்ந்து செல்வது, துன்பத்தால் அழிந்தோர்க்கு நண்பர்கள் துணையிருக்க மாட்டார்கள் என்று சொல்வது போலவோ? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Expostulation with Oneself (Post-marital Love), Kural 1293 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O my soul! do you follow him at pleasure under the belief that the ruined have no friends? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு புலத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Expostulation with Oneself'.",
+        "quiz_question_ta": "'நெஞ்சொடு புலத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1293 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1293 from Chapter 'Expostulation with Oneself'?",
+        "quiz_options_ta": [
+          "தனக்கு ஒப்புமை இல்லாத தலைவனுடைய திருவடிகளைப் பொருந்தி நினைக்கின்றவர் அல்லாமல், மற்றவர்க்கு மனக்கவலையை மாற்ற முடியாது",
+          "நெஞ்சே! நீ உன் விருப்பத்தின்படியே அவர் பின் செல்வதற்குக் காரணம், துன்பத்தால் அழிந்தவர்‌க்கு நண்பர் இல்லை என்னும் எண்ண‌மோ?",
+          "உலகத்தில் வாழவேண்டிய அறநெறியில் நின்று வாழ்கிறவன், வானுலகத்தில் உள்ள தெய்வ முறையில் வைத்து மதிக்கப்படுவான்.",
+          "முகத்தால் விரும்பி- இனிமையுடன் நோக்கி- உள்ளம் கலந்து இன்சொற்களைக் கூறும் தன்மையில் உள்ளதே அறமாகும்."
+        ],
+        "quiz_options_en": [
+          "His feet, whose likeness none can find, Alone can ease the anxious mind",
+          "You follow him at will Is it \\\"The fallen have no friends\\\" my heart?",
+          "He is a man of divine worth Who lives in ideal home on earth",
+          "Calm face, sweet look, kind words from heart Such is the gracious virtue's part"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு புலத்தல்) பகுதியில் குறள் 1293 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெஞ்சே! நீ உன் விருப்பத்தின்படியே அவர் பின் செல்வதற்குக் காரணம், துன்பத்தால் அழிந்தவர்‌க்கு நண்பர் இல்லை என்னும் எண்ண‌மோ? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நெஞ்சே - நெஞ்சே; நீ பெட்டாங்கு அவர்பின் செலல் - என்மாட்டு நில்லாது நீ விரும்பியவாறே அவர்மாட்டுச் செல்லுதற்குக் காரணம்; கெட்டார்க்கு நட்டார் இல் என்பதோ? - கெட்டார்க்கு நட்டார் உலகத்து இல்லை என்னும் நினைவோ? நின்னியல்போ? கூறுவாயாக. ('என்னை விட்டு...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 130: 'Expostulation with Oneself'), Kural 1293 distills a foundational ethical insight: \"'The ruined have no friends, 'they say; and so, my heart, To follow him, at thy desire, from me thou dost depart\" Philosophically, O my soul! do you follow him at pleasure under the belief that the ruined have no friends?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "friendship",
+        "love",
+        "education",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1294,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நெஞ்‌சே! நீ ஊடலைச் செய்து அதன் பயனை நுகர மாட்டாய்; இனிமேல் அத்தகையவற்றைப் பற்றி உன்னோடு கலந்து எண்ணப் போகின்றவர் யார்?",
+        "simple_meaning_en": "Dear child, remember this golden lesson: O my soul! you would not first seem sulky and then enjoy (him); who then would in future consult you about such things?",
+        "story_title_ta": "நெஞ்சொடு புலத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Expostulation with Oneself — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு புலத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1294 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1294 from 'Expostulation with Oneself', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நெஞ்சே! முதலில் ஊடல் செய்து பிறகு அதன் பயனைக் கூடலில் நுகர்வோம் என நினைக்க மாட்டாய்; எனவே அதைப்பற்றி உன்னிடம் யார் பேசப் போகிறார்கள்? நான் பேசுவதாக இல்லை.",
+        "moral_en": "Moral: 'See, thou first show offended pride, and then submit,' I bade; Henceforth such council who will share with thee my heart.",
+        "game_blank_word_ta": "மற்று",
+        "game_options_ta": [
+          "அவர்நெஞ்சு",
+          "அவர்க்காதல்",
+          "மற்று",
+          "கண்டும்"
+        ],
+        "game_options_en": [
+          "You see, his heart is his alone; Why not my heart be all my own?",
+          "O heart, you see how he slights me Yet you clasp him as if friendly",
+          "You won't sulk first and then submit Who will then consult you, my heart?",
+          "You follow him at will Is it \\\"The fallen have no friends\\\" my heart?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு புலத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1294, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நெஞ்சே! நீ அவரைப் பார்க்கும்போது இன்பம் நுகர எண்ணுகிறாயே தவிர, அவர் தவறுகளை எண்ணி ஊடி, பிறகு உறவு கொள்ள எண்ணமாட்டாய். ஆதலால் இனி இது போன்றவற்றை உன்னோடு யார் ஆலோசனை செய்வார்? நான் செய்யமாட்டேன். கலைஞர் உரை கூறுவது: நெஞ்சே! முதலில் ஊடல் செய்து பிறகு அதன் பயனைக் கூடலில் நுகர்வோம் என நினைக்க மாட்டாய்; எனவே அதைப்பற்றி உன்னிடம் யார் பேசப் போகிறார்கள்? நான் பேசுவதாக இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Expostulation with Oneself (Post-marital Love), Kural 1294 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O my soul! you would not first seem sulky and then enjoy (him); who then would in future consult you about such things? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு புலத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Expostulation with Oneself'.",
+        "quiz_question_ta": "'நெஞ்சொடு புலத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1294 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1294 from Chapter 'Expostulation with Oneself'?",
+        "quiz_options_ta": [
+          "அறக்கடலாக விளங்கும் கடவுளின் திருவடிகளைப் பொருந்தி நினைக்கின்றவர் அல்லாமல், மற்றவர் பொருளும் இன்பமுமாகிய மற்ற கடல்களைக் கடக்க முடியாது",
+          "இல்வாழ்க்கைக்கு ஏற்ற நற்பண்பு உடையவளாகித் தன்கணவனுடைய பொருள் வளத்துக்குத் தக்க வாழ்க்கை நடத்துகிறவளே வாழ்க்கைத்துணை ஆவாள்.",
+          "நெஞ்‌சே! நீ ஊடலைச் செய்து அதன் பயனை நுகர மாட்டாய்; இனிமேல் அத்தகையவற்றைப் பற்றி உன்னோடு கலந்து எண்ணப் போகின்றவர் யார்?",
+          "யாரிடத்திலும் இன்புறத்தக்க இன்சொல் வழங்குவோர்க்குத் துன்பத்தை மிகுதிபடுத்தும் வறுமை என்பது இல்லையாகும்."
+        ],
+        "quiz_options_en": [
+          "Who swims the sea of vice is he Who clasps the feet of Virtue's sea",
+          "A good housewife befits the house, Spending with thrift the mate's resource",
+          "You won't sulk first and then submit Who will then consult you, my heart?",
+          "Whose loving words delight each one The woe of want from them is gone"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு புலத்தல்) பகுதியில் குறள் 1294 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெஞ்‌சே! நீ ஊடலைச் செய்து அதன் பயனை நுகர மாட்டாய்; இனிமேல் அத்தகையவற்றைப் பற்றி உன்னோடு கலந்து எண்ணப் போகின்றவர் யார்? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நெஞ்சே - நெஞ்சே; துனி செய்து மற்றுத் துவ்வாய் - நீ அவரைக் கண்ட பொழுதே இன்பம் நுகரக் கருதுவதல்லது அவர் தவறு நோக்கி, முன் புலவியை உண்டாக்கி அதனை அளவறிந்து பின் நுகரக் கருதாய்; இனி அன்ன நின்னொடு சூழ்வார் யார் - ஆகலான், இனி அப்பெற்றிப்பட்டவற்றை...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 130: 'Expostulation with Oneself'), Kural 1294 distills a foundational ethical insight: \"'See, thou first show offended pride, and then submit,' I bade; Henceforth such council who will share with thee my heart\" Philosophically, O my soul! you would not first seem sulky and then enjoy (him); who then would in future consult you about such things?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "love",
+        "harmony",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1295,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ( காதலரைப் பெறாதபோது) பெறாமைக்கு அஞ்சும்; பெற்றால் பிரிவை நினைத்து அஞ்சும்; ( இவ்வாறாக) என் நெஞ்சம் தீராத துன்பம் உடையதாகின்றது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: My soul fears when it is without him; it also fears when it is with him; it is subject to incessant sorrow.",
+        "story_title_ta": "நெஞ்சொடு புலத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Expostulation with Oneself — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு புலத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1295 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1295 from 'Expostulation with Oneself', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என் நெஞ்சத்துக்குத் துன்பம் தொடர் கதையாகவே இருக்கிறது காதலரைக் காணவில்லையே என்று அஞ்சும்; அவர் வந்து விட்டாலோ பிரிந்து செல்வாரே என நினைத்து அஞ்சும்.",
+        "moral_en": "Moral: I fear I shall not gain, I fear to lose him when I gain; And thus my heart endures unceasing pain.",
+        "game_blank_word_ta": "நெஞ்சு",
+        "game_options_ta": [
+          "அவர்நெஞ்சு",
+          "அவர்க்காதல்",
+          "கண்டும்",
+          "நெஞ்சு"
+        ],
+        "game_options_en": [
+          "You see, his heart is his alone; Why not my heart be all my own?",
+          "O heart, you see how he slights me Yet you clasp him as if friendly",
+          "You follow him at will Is it \\\"The fallen have no friends\\\" my heart?",
+          "Frets to gain and fears loss in gain O my heart suffers ceaseless pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு புலத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1295, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் கணவர் என்னைப் பிரிந்து இருந்தபோது அவர் இல்லாததற்குப் பயப்படும்; அவர் வந்துவிட்டால், பிரிவாரே என்று பயப்படும். ஆகவே என் நெஞ்சம் நீங்காத துன்பத்தைப் பெற்றிருக்கிறது. கலைஞர் உரை கூறுவது: என் நெஞ்சத்துக்குத் துன்பம் தொடர் கதையாகவே இருக்கிறது காதலரைக் காணவில்லையே என்று அஞ்சும்; அவர் வந்து விட்டாலோ பிரிந்து செல்வாரே என நினைத்து அஞ்சும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Expostulation with Oneself (Post-marital Love), Kural 1295 speaks directly to teens navigating studies, friendships, leadership, and digital choices: My soul fears when it is without him; it also fears when it is with him; it is subject to incessant sorrow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு புலத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Expostulation with Oneself'.",
+        "quiz_question_ta": "'நெஞ்சொடு புலத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1295 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1295 from Chapter 'Expostulation with Oneself'?",
+        "quiz_options_ta": [
+          "கேட்காதசெவி, பார்க்காத கண் போன்ற எண் குணங்களை உடைய கடவுளின் திருவடிகளை வணங்காதவரின் தலைகள் பயனற்றவைகளாம்",
+          "இல்வாழ்க்கைக்கு தக்க நற்பண்பு மனைவியிடம் இல்லையானால், ஒருவனுடைய வாழ்க்கை வேறு எவ்வளவு சிறப்புடையதானாலும் பயன் இல்லை.",
+          "வணக்கம் உடையவனாகவும் இன்சொல் வழங்குவோனாகவும் ஆதலே ஒருவனுக்கு அணிகலனாகும் மற்றவை அணிகள் அல்ல.",
+          "( காதலரைப் பெறாதபோது) பெறாமைக்கு அஞ்சும்; பெற்றால் பிரிவை நினைத்து அஞ்சும்; ( இவ்வாறாக) என் நெஞ்சம் தீராத துன்பம் உடையதாகின்றது."
+        ],
+        "quiz_options_en": [
+          "Like senses stale that head is vain Which bows not to Eight-Virtued Divine",
+          "Bright is home when wife is chaste If not all greatness is but waste",
+          "To be humble and sweet words speak No other jewel do wise men seek",
+          "Frets to gain and fears loss in gain O my heart suffers ceaseless pain"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு புலத்தல்) பகுதியில் குறள் 1295 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ( காதலரைப் பெறாதபோது) பெறாமைக்கு அஞ்சும்; பெற்றால் பிரிவை நினைத்து அஞ்சும்; ( இவ்வாறாக) என் நெஞ்சம் தீராத துன்பம் உடையதாகின்றது. பரிமேலழகர் உரை நுட்பம்: (வாயிலாகச் சென்ற தோழி கேட்பத் தலைமகள் சொல்லியது.) பெறாமை அஞ்சம் - காதலரைப் பெறாத ஞான்று அப்பெறாமைக்கு அஞ்சாநின்றது; பெறின் பிரிவு அஞ்சும் - பெற்றக்கால் வரக்கடவ பிரிவினை உட்கொண்டு அதற்கு அஞ்சா நின்றது; என் நெஞ்சு அறா இடும்பைத்து - ஆகலான், என் நெஞ்சம...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 130: 'Expostulation with Oneself'), Kural 1295 distills a foundational ethical insight: \"I fear I shall not gain, I fear to lose him when I gain; And thus my heart endures unceasing pain\" Philosophically, My soul fears when it is without him; it also fears when it is with him; it is subject to incessant sorrow.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1296,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: காதலரைப் பிரிந்து தனியே இருந்து அவருடைய தவறுகளை நினைத்தபோது என் நெஞ்சம் என்னைத் தின்பது போல் துன்பம் செய்வதாக இருந்தது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: My mind has been (here) in order to eat me up (as it were) whenever I think of him in my solitude.",
+        "story_title_ta": "நெஞ்சொடு புலத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Expostulation with Oneself — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு புலத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1296 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1296 from 'Expostulation with Oneself', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதலர் பிரிவைத் தனியே இருந்து நினைத்தபோது என் நெஞ்சம் என்னைத் தின்பது போலக் கொடுமையாக இருந்தது.",
+        "moral_en": "Moral: My heart consumes me when I ponder lone, And all my lover's cruelty bemoan.",
+        "game_blank_word_ta": "இருந்து",
+        "game_options_ta": [
+          "இருந்து",
+          "அவர்நெஞ்சு",
+          "அவர்க்காதல்",
+          "கண்டும்"
+        ],
+        "game_options_en": [
+          "My itching mind eats me anon As I muse on him all alone",
+          "You see, his heart is his alone; Why not my heart be all my own?",
+          "O heart, you see how he slights me Yet you clasp him as if friendly",
+          "You follow him at will Is it \\\"The fallen have no friends\\\" my heart?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு புலத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1296, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காதலர் பிரிவைத் தனியே இருந்து நினைத்தபோது என் நெஞ்சம் என்னைத் தின்பது போலக் கொடுமையாக இருந்தது. கலைஞர் உரை கூறுவது: காதலர் பிரிவைத் தனியே இருந்து நினைத்தபோது என் நெஞ்சம் என்னைத் தின்பது போலக் கொடுமையாக இருந்தது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Expostulation with Oneself (Post-marital Love), Kural 1296 speaks directly to teens navigating studies, friendships, leadership, and digital choices: My mind has been (here) in order to eat me up (as it were) whenever I think of him in my solitude. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு புலத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Expostulation with Oneself'.",
+        "quiz_question_ta": "'நெஞ்சொடு புலத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1296 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1296 from Chapter 'Expostulation with Oneself'?",
+        "quiz_options_ta": [
+          "காதலரைப் பிரிந்து தனியே இருந்து அவருடைய தவறுகளை நினைத்தபோது என் நெஞ்சம் என்னைத் தின்பது போல் துன்பம் செய்வதாக இருந்தது.",
+          "இறைவனுடைய திருவடிகளை பொருந்தி நினைக்கின்றவர் பிறவியாகிய பெரிய கடலைக் கடக்க முடியும். மற்றவர் கடக்க முடியாது",
+          "மனைவி நற்பண்பு உடையவளானால் வாழ்க்கையில் இல்லாதது என்ன? அவள் நற்பண்பு இல்லாதவளானால் வாழ்க்கையில் இருப்பது என்ன?",
+          "பிறர்க்கு நன்மையானவற்றை நாடி இனிமை உடையச் சொற்களைச் சொல்லின், பாவங்கள் தேய்ந்து குறைய அறம் வளர்ந்து பெருகும்."
+        ],
+        "quiz_options_en": [
+          "My itching mind eats me anon As I muse on him all alone",
+          "The sea of births they alone swim Who clench His feet and cleave to Him",
+          "What is rare when wife is good What can be there when she is bad?",
+          "His sins vanish, his virtues grow Whose fruitful words with sweetness flow"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு புலத்தல்) பகுதியில் குறள் 1296 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காதலரைப் பிரிந்து தனியே இருந்து அவருடைய தவறுகளை நினைத்தபோது என் நெஞ்சம் என்னைத் தின்பது போல் துன்பம் செய்வதாக இருந்தது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) என் நெஞ்சு இருந்தது - என் நெஞ்சு ஈண்டு இருந்தது; தனியே இருந்து நினைத்தக்கால் - காதலரைப் பிரிந்திருந்து அவர் கொடுமைகளை யான் தன்னொடு நினைத்தக்கால்; என்னைத் தினிய - அவ் அளவறிந்து என்னைத்தின்பது போன்று துன்பம் செய்தற்கே. ('என்மாட்டிருந்தது அன்று...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 130: 'Expostulation with Oneself'), Kural 1296 distills a foundational ethical insight: \"My heart consumes me when I ponder lone, And all my lover's cruelty bemoan\" Philosophically, My mind has been (here) in order to eat me up (as it were) whenever I think of him in my solitude.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "time",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 1297,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: காதலனை மறக்க முடியாத என்னுடைய சிறப்பில்லாத மட நெஞ்சினோடு சேர்ந்து, மறக்கத் தகாததாகிய நாணத்தையும் மறந்து விடடேன்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: I have even forgotten my modesty, having been caught in my foolish mind which is not dignified enough to forget him.",
+        "story_title_ta": "நெஞ்சொடு புலத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Expostulation with Oneself — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு புலத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1297 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1297 from 'Expostulation with Oneself', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: அவரை மறக்க முடியாமல் வாடும் என்னுடைய சிறப்பில்லாத மட நெஞ்சத்துடன் சேர்ந்து மறக்கக் கூடாது நாணத்தையும் மறந்து விட்டேன்.",
+        "moral_en": "Moral: Fall'n 'neath the sway of this ignoble foolish heart, Which will not him forget, I have forgotten shame.",
+        "game_blank_word_ta": "மறந்தேன்",
+        "game_options_ta": [
+          "அவர்நெஞ்சு",
+          "மறந்தேன்",
+          "அவர்க்காதல்",
+          "கண்டும்"
+        ],
+        "game_options_en": [
+          "You see, his heart is his alone; Why not my heart be all my own?",
+          "I forget shame but not his thought In mean foolish mind I'm caught",
+          "O heart, you see how he slights me Yet you clasp him as if friendly",
+          "You follow him at will Is it \\\"The fallen have no friends\\\" my heart?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு புலத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1297, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்னை மறந்த காதலரைத் தான் மறக்க முடியாத, என் நிலையில்லாத மடநெஞ்சோடு கூடி, நான் நாணத்தையும் மறந்துவிட்டேன். கலைஞர் உரை கூறுவது: அவரை மறக்க முடியாமல் வாடும் என்னுடைய சிறப்பில்லாத மட நெஞ்சத்துடன் சேர்ந்து மறக்கக் கூடாது நாணத்தையும் மறந்து விட்டேன். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Expostulation with Oneself (Post-marital Love), Kural 1297 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I have even forgotten my modesty, having been caught in my foolish mind which is not dignified enough to forget him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு புலத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Expostulation with Oneself'.",
+        "quiz_question_ta": "'நெஞ்சொடு புலத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1297 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1297 from Chapter 'Expostulation with Oneself'?",
+        "quiz_options_ta": [
+          "மழை பெய்ய உலகம் வாழ்ந்து வருவதால், மழையானது உலகத்து வாழும் உயிர்களுக்கு அமிழ்தம் என்று உணரத்தக்கதாகும்",
+          "காதலனை மறக்க முடியாத என்னுடைய சிறப்பில்லாத மட நெஞ்சினோடு சேர்ந்து, மறக்கத் தகாததாகிய நாணத்தையும் மறந்து விடடேன்.",
+          "இல்வாழ்க்கையில் கற்பு என்னும் உறுதிநிலை இருக்கப் பெற்றால், பெண்ணைவிட பெருமையுடையவை வேறு என்ன இருக்கின்றன?",
+          "பிறர்க்கு நன்மையான பயனைத் தந்து நல்ல பண்பிலிருந்து நீங்காத சொற்கள்,வழங்குவோனுக்கும் இன்பம் தந்து நன்மை பயக்கும்."
+        ],
+        "quiz_options_en": [
+          "The genial rain ambrosia call: The world but lasts while rain shall fall",
+          "I forget shame but not his thought In mean foolish mind I'm caught",
+          "What greater fortune is for men Than a constant chaste woman?",
+          "The fruitful courteous kindly words Lead to goodness and graceful deeds"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு புலத்தல்) பகுதியில் குறள் 1297 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காதலனை மறக்க முடியாத என்னுடைய சிறப்பில்லாத மட நெஞ்சினோடு சேர்ந்து, மறக்கத் தகாததாகிய நாணத்தையும் மறந்து விடடேன். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) அவர் மறக்கல்லா என் மாணா மடநெஞ்சிற்பட்டு - தன்னை மறந்த காதலரைத் தான் மறக்கமாட்டாத என் மாட்சிமையில்லாத மடநெஞ்சுடனே கூடி; நாணும் மறந்தேன் - என் உயிரினும் சிறந்த நாண் தன்னையும் மறந்துவிட்டேன். (மாணாமை - ஒரு நிலையில் நில்லாமை. மடமை - கண்டவழி...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 130: 'Expostulation with Oneself'), Kural 1297 distills a foundational ethical insight: \"Fall'n 'neath the sway of this ignoble foolish heart, Which will not him forget, I have forgotten shame\" Philosophically, I have even forgotten my modesty, having been caught in my foolish mind which is not dignified enough to forget him.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "speech",
+        "love",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 1298,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: உயரின் மேல் காதல் கொண்ட என் நெஞ்சம், பிரிந்த காதலரை இகழ்ந்தால் இழிவாகும் என்று எண்ணி அவருடைய உயர்ந்த பண்புகளையே நினைக்கின்றது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: My soul which clings to life thinks only of his (own) gain in the belief that it would be disgraceful for it to despise him.",
+        "story_title_ta": "நெஞ்சொடு புலத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Expostulation with Oneself — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு புலத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1298 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1298 from 'Expostulation with Oneself', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பிரிந்து சென்ற காதலரை இகழ்வது தனக்கே இழிவாகும் என்பதால், அவருடைய பெருமையைப் பற்றியே என்னுயிர்க் காதல் நெஞ்சம் எண்ணிக் கொண்டிருக்கும்.",
+        "moral_en": "Moral: If I contemn him, then disgrace awaits me evermore; My soul that seeks to live his virtues numbers o'er.",
+        "game_blank_word_ta": "அவர்திறம்",
+        "game_options_ta": [
+          "அவர்நெஞ்சு",
+          "அவர்க்காதல்",
+          "அவர்திறம்",
+          "கண்டும்"
+        ],
+        "game_options_en": [
+          "You see, his heart is his alone; Why not my heart be all my own?",
+          "O heart, you see how he slights me Yet you clasp him as if friendly",
+          "My heart living in love of him Hails his glory ignoring blame",
+          "You follow him at will Is it \\\"The fallen have no friends\\\" my heart?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு புலத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1298, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உயிர்மேல் காதலை உடைய என் நெஞ்சு, நாமும் அவரை இகழ்ந்தால் பிறகு நமக்கும் இழிவுவரும் என்று எண்ணி, அவர் வரவையும் கலவியையுமே நினைத்து நின்றது. கலைஞர் உரை கூறுவது: பிரிந்து சென்ற காதலரை இகழ்வது தனக்கே இழிவாகும் என்பதால், அவருடைய பெருமையைப் பற்றியே என்னுயிர்க் காதல் நெஞ்சம் எண்ணிக் கொண்டிருக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Expostulation with Oneself (Post-marital Love), Kural 1298 speaks directly to teens navigating studies, friendships, leadership, and digital choices: My soul which clings to life thinks only of his (own) gain in the belief that it would be disgraceful for it to despise him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு புலத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Expostulation with Oneself'.",
+        "quiz_question_ta": "'நெஞ்சொடு புலத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1298 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1298 from Chapter 'Expostulation with Oneself'?",
+        "quiz_options_ta": [
+          "உண்பவர்க்குத் தக்க உணவுப் பொருள்களை விளைவித்துத் தருவதோடு, பருகுவோர்க்குத் தானும் ஓர் உணவாக இருப்பது மழையாகும்",
+          "வேறு தெய்வம் தொழாதவளாய்த் தன் கணவனையே தெய்வமாகக் கொண்டு தொழுது துயிலெழுகின்றவள் பெய் என்றால் மழை பெய்யும்.",
+          "உயரின் மேல் காதல் கொண்ட என் நெஞ்சம், பிரிந்த காதலரை இகழ்ந்தால் இழிவாகும் என்று எண்ணி அவருடைய உயர்ந்த பண்புகளையே நினைக்கின்றது.",
+          "பிறர்க்குத் துன்பம் விளைக்கும் சிறுமையிலிருந்து நீங்கிய இனிய சொற்கள் மறுமைக்கும் இம்மைக்கும் வழங்குவோனுக்கு இன்பம் தரும் ."
+        ],
+        "quiz_options_en": [
+          "The rain begets the food we eat",
+          "Her spouse before God who adores, Is like rain that at request pours",
+          "My heart living in love of him Hails his glory ignoring blame",
+          "Kind words free from meanness delight This life on earth and life the next"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு புலத்தல்) பகுதியில் குறள் 1298 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உயரின் மேல் காதல் கொண்ட என் நெஞ்சம், பிரிந்த காதலரை இகழ்ந்தால் இழிவாகும் என்று எண்ணி அவருடைய உயர்ந்த பண்புகளையே நினைக்கின்றது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) உயிர்க் காதல் நெஞ்சு - உயிர்மேல் காதலையுடைய என் நெஞ்சு; எள்ளின் இளிவு ஆம் என்று எண்ணி -நம்மை எள்ளிச் சென்றார் என்று நாமும் எள்ளுவேமாயின் பின் நமக்கு இளிவாம் என்று கருதி; அவர் திறம் உள்ளும் - அவர் திறத்தினையே நினையாநின்றது. (எள்ளுதல் - வாயில...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 130: 'Expostulation with Oneself'), Kural 1298 distills a foundational ethical insight: \"If I contemn him, then disgrace awaits me evermore; My soul that seeks to live his virtues numbers o'er\" Philosophically, My soul which clings to life thinks only of his (own) gain in the belief that it would be disgraceful for it to despise him.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "education",
+        "harmony",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1299,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒருவர்க்குத் துன்பம் வந்தபோது, தாம் உரிமையாகப் பெற்றுள்ள நெஞ்சமே துணையாகா விட்டால், வேறு யார் துணையாவார்?",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Who would help me out of one's distress, when one's own soul refuses help to one?",
+        "story_title_ta": "நெஞ்சொடு புலத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Expostulation with Oneself — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு புலத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1299 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1299 from 'Expostulation with Oneself', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: துன்பம் வரும்போது அதனைத் தாங்குவதற்கு நெஞ்சமே துணையாக இல்லாவிட்டால் பிறகு யார் துணையாக இருப்பார்?",
+        "moral_en": "Moral: And who will aid me in my hour of grief, If my own heart comes not to my relief.",
+        "game_blank_word_ta": "துணையல்",
+        "game_options_ta": [
+          "அவர்நெஞ்சு",
+          "அவர்க்காதல்",
+          "கண்டும்",
+          "துணையல்"
+        ],
+        "game_options_en": [
+          "You see, his heart is his alone; Why not my heart be all my own?",
+          "O heart, you see how he slights me Yet you clasp him as if friendly",
+          "You follow him at will Is it \\\"The fallen have no friends\\\" my heart?",
+          "Who support a man in grief If lover's heart denies relief?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு புலத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1299, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவரது துன்பத்திற்குத் தாம் உரிமையாகப் பெற்றிருக்கும் தம் நெஞ்சமே துணையாகாதபோது, வேறு யார் துணையாவார்? கலைஞர் உரை கூறுவது: துன்பம் வரும்போது அதனைத் தாங்குவதற்கு நெஞ்சமே துணையாக இல்லாவிட்டால் பிறகு யார் துணையாக இருப்பார்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Expostulation with Oneself (Post-marital Love), Kural 1299 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Who would help me out of one's distress, when one's own soul refuses help to one? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு புலத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Expostulation with Oneself'.",
+        "quiz_question_ta": "'நெஞ்சொடு புலத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1299 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1299 from Chapter 'Expostulation with Oneself'?",
+        "quiz_options_ta": [
+          "மழை பெய்யாமல் பொய்படுமானால், கடல் சூழ்ந்த அகன்ற உலகமாக இருந்தும் பசி உள்ளே நிலைத்து நின்று உயிர்களை வருத்தும்",
+          "கற்பு நெறியில் தன்னையும் காத்துக்கொண்டு, தன்கணவனையும் காப்பாற்றி, தகுதியமைந்த புகழையும் காத்து உறுதி தளராமல் வாழ்கின்றவளே பெண்.",
+          "இனிய சொற்கள் இன்பம் பயத்தலைக் காண்கின்றவன், அவற்றிற்கு மாறான வன்சொற்களை வழங்குவது என்ன பயன் கருதியோ?",
+          "ஒருவர்க்குத் துன்பம் வந்தபோது, தாம் உரிமையாகப் பெற்றுள்ள நெஞ்சமே துணையாகா விட்டால், வேறு யார் துணையாவார்?"
+        ],
+        "quiz_options_en": [
+          "Let clouds their visits stay, and dearth Distresses all the sea-girt earth",
+          "The good wife guards herself from blame, She tends her spouse and brings him fame",
+          "Who sees the sweets of sweetness here To use harsh words how can he dare?",
+          "Who support a man in grief If lover's heart denies relief?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு புலத்தல்) பகுதியில் குறள் 1299 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவர்க்குத் துன்பம் வந்தபோது, தாம் உரிமையாகப் பெற்றுள்ள நெஞ்சமே துணையாகா விட்டால், வேறு யார் துணையாவார்? பரிமேலழகர் உரை நுட்பம்: (உணர்ப்புவயின் வாரா ஊடற்கண் தலைமகன் சொல்லியது.) துன்பத்திற்கு - ஒருவர்க்குத் துன்பம் வந்துழி, அது நீக்குதற்கு; தாம் உடைய நெஞ்சம் துணை அல் வழி - தாம் உரித்தாகப் பெற்ற தம்முடைய நெஞ்சம் துணையாகாவழி; துணையாவார் யாரே - வேறு துணையாவார் ஒருவரும் இல்லை (ஈண்டுத...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 130: 'Expostulation with Oneself'), Kural 1299 distills a foundational ethical insight: \"And who will aid me in my hour of grief, If my own heart comes not to my relief\" Philosophically, Who would help me out of one's distress, when one's own soul refuses help to one?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "truth",
+        "discipline",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 1300,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒருவர்க்கு தாம் உரிமையாகப் பெற்ற நெஞ்சமே உறவாகாதபோது அயலார் உறவில்லாதவராக இருப்பது எளிதேயாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: It is hardly possible for strangers to behave like relations, when one's own soul acts like a stranger.",
+        "story_title_ta": "நெஞ்சொடு புலத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Expostulation with Oneself — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நெஞ்சொடு புலத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1300 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1300 from 'Expostulation with Oneself', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நமக்குரிய நெஞ்சமே நம்முடன் உறவாக இல்லாத போது, மற்றவர் உறவில்லாதவராக இருத்தல் என்பது எளிதேயாகும்.",
+        "moral_en": "Moral: A trifle is unfriendliness by aliens shown, When our own heart itself is not our own.",
+        "game_blank_word_ta": "நெஞ்சம்",
+        "game_options_ta": [
+          "நெஞ்சம்",
+          "அவர்நெஞ்சு",
+          "அவர்க்காதல்",
+          "கண்டும்"
+        ],
+        "game_options_en": [
+          "Why wonder if strangers disown When one's own heart is not his own?",
+          "You see, his heart is his alone; Why not my heart be all my own?",
+          "O heart, you see how he slights me Yet you clasp him as if friendly",
+          "You follow him at will Is it \\\"The fallen have no friends\\\" my heart?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நெஞ்சொடு புலத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1300, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நமக்குரிய நெஞ்சமே நம்முடன் உறவாக இல்லாத போது, மற்றவர் உறவில்லாதவராக இருத்தல் என்பது எளிதேயாகும். கலைஞர் உரை கூறுவது: நமக்குரிய நெஞ்சமே நம்முடன் உறவாக இல்லாத போது, மற்றவர் உறவில்லாதவராக இருத்தல் என்பது எளிதேயாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Expostulation with Oneself (Post-marital Love), Kural 1300 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is hardly possible for strangers to behave like relations, when one's own soul acts like a stranger. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நெஞ்சொடு புலத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Expostulation with Oneself'.",
+        "quiz_question_ta": "'நெஞ்சொடு புலத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1300 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1300 from Chapter 'Expostulation with Oneself'?",
+        "quiz_options_ta": [
+          "ஒருவர்க்கு தாம் உரிமையாகப் பெற்ற நெஞ்சமே உறவாகாதபோது அயலார் உறவில்லாதவராக இருப்பது எளிதேயாகும்.",
+          "மழை என்னும் வருவாய் வளம் குன்றி விட்டால், ( உணவுப் பொருள்களை உண்டாக்கும்) உழவரும் ஏர் கொண்டு உழமாட்டார்",
+          "மகளிரைக் காவல் வைத்துக் காக்கும் காப்பு முறை என்ன பயனை உண்டாக்கும்? அவர்கள் நிறை என்னும் பண்பால் தம்மைத் தான் காக்கும் கற்பே சிறிந்தது.",
+          "இனிய சொற்கள் இருக்கும் போது அவற்றை விட்டுக் கடுமையான சொற்களைக் கூறுதல் கனிகள் இருக்கும் போது அவற்றை விட்டு காய்களைப் பறித்துத் தின்பதைப் போன்றது ."
+        ],
+        "quiz_options_en": [
+          "Why wonder if strangers disown When one's own heart is not his own?",
+          "Unless the fruitful shower descend, The ploughman's sacred toil must end",
+          "Of what avail are watch and ward? Their purity is women's guard",
+          "Leaving ripe fruits the raw he eats Who speaks harsh words when sweet word suits"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நெஞ்சொடு புலத்தல்) பகுதியில் குறள் 1300 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவர்க்கு தாம் உரிமையாகப் பெற்ற நெஞ்சமே உறவாகாதபோது அயலார் உறவில்லாதவராக இருப்பது எளிதேயாகும். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) தாம் உடைய நெஞ்சம் தமர் அல்வழி - தாம் உரித்தாக உடைய நெஞ்சம் ஒருவர்க்குத் தமர் அல்லாவழி; ஏதிலார் தமர் அல்லர் தஞ்சம் - அயலார் தமர் அல்லராதல் சொல்ல வேண்டுமோ? ('பிறளொருத்தியைக் காதலி என்று கருதி என் நெஞ்சே என்னை வருத்தாநின்ற பின் அப்பிறள...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 130: 'Expostulation with Oneself'), Kural 1300 distills a foundational ethical insight: \"A trifle is unfriendliness by aliens shown, When our own heart itself is not our own\" Philosophically, It is hardly possible for strangers to behave like relations, when one's own soul acts like a stranger.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "love",
+        "discipline",
+        "friendship"
+      ]
+    }
+  ]
+}

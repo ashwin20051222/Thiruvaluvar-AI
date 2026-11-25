@@ -1,0 +1,576 @@
+{
+  "adhikaram_id": 118,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.543430158+00:00",
+  "kurals": [
+    {
+      "kural_number": 1171,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தீராத இக்காமநோய், கண்கள் காட்ட யாம் கண்டதால் விளைந்தது; அவ்வாறிருக்க, காட்டிய கண்கள், இன்று அன்பு கொண்டு உணராமல் துன்பத்தால் வருந்துவது ஏன்?",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: As this incurable malady has been caused by my eyes which showed (him) to me, why should they now weep for (him).",
+        "story_title_ta": "கண் விதுப்பழிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Eyes consumed with Grief — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கண் விதுப்பழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1171 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1171 from 'Eyes consumed with Grief', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: கண்கள் செய்த குற்றத்தால்தானே காதல் நோய் ஏற்பட்டது? அதே கண்கள் அந்தக் காதலரைக் காட்டுமாறு கேட்டு அழுவது ஏன்?",
+        "moral_en": "Moral: They showed me him, and then my endless painI saw: why then should weeping eyes complain.",
+        "game_blank_word_ta": "கலுழ்வ",
+        "game_options_ta": [
+          "தெரிந்துணரா",
+          "நோக்கிய",
+          "உண்கண்",
+          "கலுழ்வ"
+        ],
+        "game_options_en": [
+          "Why should these dyed eyes grieve now sans Regrets for their thoughtless glance?",
+          "Eyes darted eager glance that day It's funny that they weep today",
+          "These eyes left me to endless grief Crying adry without relief",
+          "The eye pointed him to me; why then They weep with malady and pine?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண் விதுப்பழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1171, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தணியாத காதல் துன்பத்தை நான் அறிந்ததே இந்தக் கண்கள் எனக்கு அவரைக் காட்டியதால்தானே? இப்போது அவரைக் காட்டு என என்னிடம் அழுவது எதற்கு? கலைஞர் உரை கூறுவது: கண்கள் செய்த குற்றத்தால்தானே காதல் நோய் ஏற்பட்டது? அதே கண்கள் அந்தக் காதலரைக் காட்டுமாறு கேட்டு அழுவது ஏன்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Eyes consumed with Grief (Post-marital Love), Kural 1171 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As this incurable malady has been caused by my eyes which showed (him) to me, why should they now weep for (him). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கண் விதுப்பழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Eyes consumed with Grief'.",
+        "quiz_question_ta": "'கண் விதுப்பழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1171 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1171 from Chapter 'Eyes consumed with Grief'?",
+        "quiz_options_ta": [
+          "முன்பு நனவில் கண்ட இன்பமும் அப்பொழுது மட்டும் இனிதாயிற்று; இப்‌பொழுது காணும் கனவும் கண்ட பொழுது மட்டுமே இன்பமாக உள்ளது.",
+          "நம்முடைய பெண்மையாகிய அரணை அழிக்கும் படையாக இருப்பது, பல மாயங்களில் வல்ல, கள்வனான காதலரடைய பணிவுடைய மொழி அன்றோ?",
+          "( ஊடும்போது அவர் அடைகின்ற) துன்ப நோயைச் சிறிது காண்போம்; அதற்காக அவரைத் தழுவாமலிருந்து பிணங்குவாயாக.",
+          "தீராத இக்காமநோய், கண்கள் காட்ட யாம் கண்டதால் விளைந்தது; அவ்வாறிருக்க, காட்டிய கண்கள், இன்று அன்பு கொண்டு உணராமல் துன்பத்தால் வருந்துவது ஏன்?"
+        ],
+        "quiz_options_en": [
+          "Dream-sight of him delights at once Awake-What of seeing him -hence",
+          "The cheater of many wily arts His tempting words break through women's hearts",
+          "Feign sulk; embrace him not so that We can see his distress a bit",
+          "The eye pointed him to me; why then They weep with malady and pine?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கண் விதுப்பழிதல்) பகுதியில் குறள் 1171 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தீராத இக்காமநோய், கண்கள் காட்ட யாம் கண்டதால் விளைந்தது; அவ்வாறிருக்க, காட்டிய கண்கள், இன்று அன்பு கொண்டு உணராமல் துன்பத்தால் வருந்துவது ஏன்? பரிமேலழகர் உரை நுட்பம்: (நின் கண்கள் கலுழ்ந்து தம் அழகு இழவாநின்றன, நீ ஆற்றல் வேண்டும், என்ற தோழிக்குத் தலைமகள் சொல்லியது.) தண்டா நோய் யாம் கண்டது தாம் காட்ட - இத்தணியா நோயை யாம் அறிந்தது தாம் கலுழ்வது எவன் கொல் - அன்று அத்தொழிலவாய கண்கள், இன்று எம்மைக் காட்டச் சொல்லி அழுகின்றது என...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 118: 'Eyes consumed with Grief'), Kural 1171 distills a foundational ethical insight: \"They showed me him, and then my endless painI saw: why then should weeping eyes complain\" Philosophically, As this incurable malady has been caused by my eyes which showed (him) to me, why should they now weep for (him).",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1172,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஆராய்ந்து உணராமல் அன்று நோக்கிக் காதல் கொண்ட கண்கள், இன்று அன்பு கொண்டு உணராமல் துன்பத்தால் வருந்துவது ஏன்?",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The dyed eyes that (then) looked without foresight, why should they now endure sorrow, without feeling sharply (their own fault).",
+        "story_title_ta": "கண் விதுப்பழிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Eyes consumed with Grief — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கண் விதுப்பழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1172 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1172 from 'Eyes consumed with Grief', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: விளைவுகளை உணராமல் மயங்கி நோக்கிய மைவிழிகள், இன்று, காதலரைப் பிரிந்ததால் துன்பமுறுவது தம்மால் தான் என அறியாமல் தவிப்பது ஏன்?",
+        "moral_en": "Moral: How glancing eyes, that rash unweeting looked that day, With sorrow measureless are wasting now away.",
+        "game_blank_word_ta": "பரிந்துணராப்",
+        "game_options_ta": [
+          "பரிந்துணராப்",
+          "கண்தாம்",
+          "கலுழ்வ",
+          "தெவன்கொலோ"
+        ],
+        "game_options_en": [
+          "Why should these dyed eyes grieve now sans Regrets for their thoughtless glance?",
+          "The eye pointed him to me; why then They weep with malady and pine?",
+          "Eyes darted eager glance that day It's funny that they weep today",
+          "These eyes left me to endless grief Crying adry without relief"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண் விதுப்பழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1172, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வரப்போவதை அறியாமல் அன்று அவரை எனக்குக் காட்டிய என் மை தீட்டப்பட்ட கண்கள், இன்று இது நம்மால் வந்தது; நாம்தாம் பொறுத்துக் கொள்ள வேண்டும் என்று எண்ணாமல் துன்பப்படுகின்றனவே எதற்காக? கலைஞர் உரை கூறுவது: விளைவுகளை உணராமல் மயங்கி நோக்கிய மைவிழிகள், இன்று, காதலரைப் பிரிந்ததால் துன்பமுறுவது தம்மால் தான் என அறியாமல் தவிப்பது ஏன்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Eyes consumed with Grief (Post-marital Love), Kural 1172 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The dyed eyes that (then) looked without foresight, why should they now endure sorrow, without feeling sharply (their own fault). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கண் விதுப்பழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Eyes consumed with Grief'.",
+        "quiz_question_ta": "'கண் விதுப்பழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1172 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1172 from Chapter 'Eyes consumed with Grief'?",
+        "quiz_options_ta": [
+          "ஆராய்ந்து உணராமல் அன்று நோக்கிக் காதல் கொண்ட கண்கள், இன்று அன்பு கொண்டு உணராமல் துன்பத்தால் வருந்துவது ஏன்?",
+          "நனவு என்று சொல்லப்படுகின்ற ஒன்று இல்லாதிருக்குமானால், கனவில் வந்த காதலர் என்னை விட்டுப் பிரியாமலே இருப்பர்.",
+          "ஊடுவேன் என்று எண்ணிக் கொண்டு சென்றேன்; ஆனால் என் நெஞ்சம் என்னை விட்டு அவரோடு கூடுவதை கண்டு தழுவினேன்.",
+          "உப்பு, உணவில் அளவோடு அமைந்திருப்பதைப் போன்றது ஊடல்; ஊடலை அளவு கடந்து நீட்டித்தல், அந்த உப்பு சிறிதளவு மிகுதியாக இருப்பதைப் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Why should these dyed eyes grieve now sans Regrets for their thoughtless glance?",
+          "If wakeful hours come to nought My lov'r in dreams would nev'r depart",
+          "In huff I went and felt at ease Heat to heart in sweet embrace",
+          "Sulking is the salt of love; but Too much of it spoils the taste Wife Addresses Husband"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கண் விதுப்பழிதல்) பகுதியில் குறள் 1172 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஆராய்ந்து உணராமல் அன்று நோக்கிக் காதல் கொண்ட கண்கள், இன்று அன்பு கொண்டு உணராமல் துன்பத்தால் வருந்துவது ஏன்? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) தெரிந்து உணரா நோக்கிய உண்கண் - மேல் விளைவதனை ஆராய்ந்தறியாது அன்று காதலரை நோக்கி நின்ற உண்கண்கள்; பரிந்து உணராப் பைதல் உழப்பது எவன் - இன்று இது நம்மால் வந்ததாகலின் பொறுத்தல் வேண்டும் எனக் கூறுபடுத்துணராது துன்பம் உழப்பது என் கருதி? (விளைவது...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 118: 'Eyes consumed with Grief'), Kural 1172 distills a foundational ethical insight: \"How glancing eyes, that rash unweeting looked that day, With sorrow measureless are wasting now away\" Philosophically, The dyed eyes that (then) looked without foresight, why should they now endure sorrow, without feeling sharply (their own fault).",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1173,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அன்று காதலரைக் கண்கள் தாமே விரைந்து நோக்கி இன்று தாமே அழுகின்றன; இது நகைக்கத்தக்க தன்மை உடையது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: They themselves looked eagerly (on him) and now they weep. Is not this to be laughed at ?",
+        "story_title_ta": "கண் விதுப்பழிதல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Eyes consumed with Grief — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கண் விதுப்பழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1173 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1173 from 'Eyes consumed with Grief', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: தாமாகவே பாய்ந்து சென்று அவரைப் பார்த்து மகிழ்ந்த கண்கள், இன்று தாமாகவே அழுகின்றன இது நகைக்கத்தக்க ஒன்றாகும்.",
+        "moral_en": "Moral: The eyes that threw such eager glances round erewhileAre weeping now. Such folly surely claims a smile.",
+        "game_blank_word_ta": "இதுநகத்",
+        "game_options_ta": [
+          "கண்தாம்",
+          "இதுநகத்",
+          "கலுழ்வ",
+          "தெவன்கொலோ"
+        ],
+        "game_options_en": [
+          "The eye pointed him to me; why then They weep with malady and pine?",
+          "Eyes darted eager glance that day It's funny that they weep today",
+          "Why should these dyed eyes grieve now sans Regrets for their thoughtless glance?",
+          "These eyes left me to endless grief Crying adry without relief"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண் விதுப்பழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1173, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அன்றைக்கு அவரை வேகமாகப் பார்த்துவிட்டு, இன்றைக்குத் தனியாக இருந்து இந்தக் கண்கள் அழுவதைப் பார்த்தால் சிரிப்புத்தான் வருகிறது. கலைஞர் உரை கூறுவது: தாமாகவே பாய்ந்து சென்று அவரைப் பார்த்து மகிழ்ந்த கண்கள், இன்று தாமாகவே அழுகின்றன இது நகைக்கத்தக்க ஒன்றாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Eyes consumed with Grief (Post-marital Love), Kural 1173 speaks directly to teens navigating studies, friendships, leadership, and digital choices: They themselves looked eagerly (on him) and now they weep. Is not this to be laughed at ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கண் விதுப்பழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Eyes consumed with Grief'.",
+        "quiz_question_ta": "'கண் விதுப்பழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1173 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1173 from Chapter 'Eyes consumed with Grief'?",
+        "quiz_options_ta": [
+          "நனவில் வந்து எமக்கு அன்பு செய்யாத கொடுமை உடைய அவர், கனவில் வந்து எம்மை வருத்துவது என்ன காரணத்தால்?",
+          "அன்று காதலரைக் கண்கள் தாமே விரைந்து நோக்கி இன்று தாமே அழுகின்றன; இது நகைக்கத்தக்க தன்மை உடையது.",
+          "கொழுப்பைத் தீயில் இட்டால் போன்ற உருகும் நெஞ்சுடைய என்னைப் போன்றவர்க்கு, இசைந்து ஊடி நிற்போம் என்று ஊடும் தன்மை உண்டோ?",
+          "தம்மோடு பிணங்கியவரை ஊடலுணர்த்தித் தழுவாமல் விடுதல், துன்பத்தால் வருந்தியவரை மேலும் துன்ப நோய் செய்து வரத்தினாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Awake he throws my overtures Adream, ah cruel! he tortures!",
+          "Eyes darted eager glance that day It's funny that they weep today",
+          "To feign dislike is it not rare For mates who melt like fat in fire?",
+          "To leave the sulker unembraced Is to grieve the one sorely grieved"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கண் விதுப்பழிதல்) பகுதியில் குறள் 1173 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன்று காதலரைக் கண்கள் தாமே விரைந்து நோக்கி இன்று தாமே அழுகின்றன; இது நகைக்கத்தக்க தன்மை உடையது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) தாம் கதுமென நோக்கித் தாமே கலுழும் இது - இக்கண்கள் அன்று காதலரைத் தாமே விரைந்து நோக்கி இன்றும் தாமே இருந்தழுகின்ற இது; நகத்தக்கது உடைத்து - நம்மால் சிரிக்கத்தக்க இயல்பினை உடைத்து. ('கண்கள்' என்பது அதிகாரத்தான் வந்தது. 'இது' என்றது மேற்கூறிய...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 118: 'Eyes consumed with Grief'), Kural 1173 distills a foundational ethical insight: \"The eyes that threw such eager glances round erewhileAre weeping now. Such folly surely claims a smile\" Philosophically, They themselves looked eagerly (on him) and now they weep. Is not this to be laughed at ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 1174,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: என் கண்கள், தப்பிப் பிழைக்க முடியாத தீராத காமநோயை என்னிடத்தில் உண்டாக்கி நிறுத்திவிட்டு, தாமும் அழமுடியாமல் நீர் வறண்டு விட்டன.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: These painted eyes have caused me a lasting mortal disease; and now they can weep no more, the tears having dried up.",
+        "story_title_ta": "கண் விதுப்பழிதல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Eyes consumed with Grief — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கண் விதுப்பழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1174 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1174 from 'Eyes consumed with Grief', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: தப்பிப் பிழைக்க முடியாத, தீராத காதல் நோயை எனக்குத் தருவதற்குக் காரணமான என் கண்கள், தாமும் அழ முடியாமல் வற்றிப் போய்விட்டன.",
+        "moral_en": "Moral: Those eyes have wept till all the fount of tears is dry, That brought upon me pain that knows no remedy.",
+        "game_blank_word_ta": "என்கண்",
+        "game_options_ta": [
+          "கண்தாம்",
+          "கலுழ்வ",
+          "என்கண்",
+          "தெவன்கொலோ"
+        ],
+        "game_options_en": [
+          "The eye pointed him to me; why then They weep with malady and pine?",
+          "Why should these dyed eyes grieve now sans Regrets for their thoughtless glance?",
+          "These eyes left me to endless grief Crying adry without relief",
+          "Eyes darted eager glance that day It's funny that they weep today"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண் விதுப்பழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1174, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மை தீட்டப்பட்ட இந்தக் கண்கள் நான் தப்பிக்கவும், வாழவும் முடியாத காதல் துன்பத்தை எனக்குத் தந்துவிட்டுத் தாமும் அழ முடியாமல் நீர் வற்றிப் போய்விட்டன. கலைஞர் உரை கூறுவது: தப்பிப் பிழைக்க முடியாத, தீராத காதல் நோயை எனக்குத் தருவதற்குக் காரணமான என் கண்கள், தாமும் அழ முடியாமல் வற்றிப் போய்விட்டன. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Eyes consumed with Grief (Post-marital Love), Kural 1174 speaks directly to teens navigating studies, friendships, leadership, and digital choices: These painted eyes have caused me a lasting mortal disease; and now they can weep no more, the tears having dried up. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கண் விதுப்பழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Eyes consumed with Grief'.",
+        "quiz_question_ta": "'கண் விதுப்பழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1174 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1174 from Chapter 'Eyes consumed with Grief'?",
+        "quiz_options_ta": [
+          "தூங்கும்போது கனவில் வந்து என் தோள்மேல் உள்ளவராகி, விழி்த்தெழும்போது விரைந்து என் நெஞ்சில் உள்ளவராகிறார்‌.",
+          "என் கண்களும் அவர் வரும் வழியைப் பார்த்துப் பார்த்து ஒளி இழந்து அழகு கெட்டன; விரல்களும் அவர் சென்ற நாட்களைக் குறித்துத் தொட்டுத் தொட்டுத் தேய்ந்தன.",
+          "என் கண்கள், தப்பிப் பிழைக்க முடியாத தீராத காமநோயை என்னிடத்தில் உண்டாக்கி நிறுத்திவிட்டு, தாமும் அழமுடியாமல் நீர் வறண்டு விட்டன.",
+          "பிணங்கியவரை ஊடலுணர்த்தி அன்பு செய்யாமல் இருத்தல், முன்னமே வாடியுள்ள கொடியை அதன் அடியிலேயே அறுத்தல் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Asleep he embraces me fast; Awake he enters quick my heart",
+          "My eyes are dim lustre-bereft Worn fingers count days since he left",
+          "These eyes left me to endless grief Crying adry without relief",
+          "To comfort not lady in pout Is to cut the fading plant at root He within Himself"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கண் விதுப்பழிதல்) பகுதியில் குறள் 1174 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: என் கண்கள், தப்பிப் பிழைக்க முடியாத தீராத காமநோயை என்னிடத்தில் உண்டாக்கி நிறுத்திவிட்டு, தாமும் அழமுடியாமல் நீர் வறண்டு விட்டன. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது). உண்கண் -உண்கண்கள்; உயலாற்றா உய்வு இல் நோய் செய்வன. என் கண் நிறுத்து-அன்று யான் உய்ய மாட்டாமைக்கு ஏதுவாய ஒழிவில்லாத நோயை என் கண்ணே நிறுத்தி; பெயலாற்றா நீர் உலந்த - தாமும் அழுதலை மாட்டாவண்ணம் நீர் வற்றிவிட்டன. (நிறுத்தல்: பிரிதலும் பின...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 118: 'Eyes consumed with Grief'), Kural 1174 distills a foundational ethical insight: \"Those eyes have wept till all the fount of tears is dry, That brought upon me pain that knows no remedy\" Philosophically, These painted eyes have caused me a lasting mortal disease; and now they can weep no more, the tears having dried up.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "truth",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1175,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அன்று கடலும் தாங்கமுடியாத காமநோயை உண்டாக்கிய என் கண்கள், இன்று உறங்க முடியாமல் துன்பத்தால் வருந்துகின்றன.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Mine eyes have caused me a lust that is greater than the sea and (they themselves) endure the torture of sleeplessness.",
+        "story_title_ta": "கண் விதுப்பழிதல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Eyes consumed with Grief — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கண் விதுப்பழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1175 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1175 from 'Eyes consumed with Grief', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: கடல் கொள்ளாத அளவுக்குக் காதல் நோய் உருவாகக் காரணமாக இருந்த என் கண்கள், இப்போது தூங்க முடியாமல் துன்பத்தால் வாடுகின்றன.",
+        "moral_en": "Moral: The eye that wrought me more than sea could hold of woes, Is suffering pangs that banish all repose.",
+        "game_blank_word_ta": "செய்தஎன்",
+        "game_options_ta": [
+          "கண்தாம்",
+          "கலுழ்வ",
+          "தெவன்கொலோ",
+          "செய்தஎன்"
+        ],
+        "game_options_en": [
+          "The eye pointed him to me; why then They weep with malady and pine?",
+          "Why should these dyed eyes grieve now sans Regrets for their thoughtless glance?",
+          "Eyes darted eager glance that day It's funny that they weep today",
+          "My eyes causing lust more than sea Suffer that torture sleeplessly"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண் விதுப்பழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1175, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கடலைவிடப் பெரிதாகும் காதல் துன்பத்தை எனக்குத் தந்த கண்கள், தாமும் தூங்காமல், துன்பத்தையும் அனுபவித்துக் கொண்டிருக்கின்றன. கலைஞர் உரை கூறுவது: கடல் கொள்ளாத அளவுக்குக் காதல் நோய் உருவாகக் காரணமாக இருந்த என் கண்கள், இப்போது தூங்க முடியாமல் துன்பத்தால் வாடுகின்றன. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Eyes consumed with Grief (Post-marital Love), Kural 1175 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Mine eyes have caused me a lust that is greater than the sea and (they themselves) endure the torture of sleeplessness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கண் விதுப்பழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Eyes consumed with Grief'.",
+        "quiz_question_ta": "'கண் விதுப்பழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1175 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1175 from Chapter 'Eyes consumed with Grief'?",
+        "quiz_options_ta": [
+          "கனவில் காதலர் வரக் காணாத மகளிர், நனவில் வந்து அன்பு செய்யாத கா‌தலரை ( அவர் வராத காரணம் பற்றி ) நொந்து கொள்வர்.",
+          "தோழி! காதலரின் பிரிவால்துன்புற்று வருந்துகின்ற இன்றும் அவரை மறந்து விட்டால், அழகு கெட்டு என் தோள் மேல் அணிந்துள்ள அணிகள் கழலுமாறு நேரும்.",
+          "நல்ல பண்புகள் அமைந்த நல்ல ஆடவர்க்கு அழகு, மலர் போன்ற கண்களை உடைய மகளிரின் நெஞ்சம் விளையும் ஊடலின் சிறப்பே ஆகும்.",
+          "அன்று கடலும் தாங்கமுடியாத காமநோயை உண்டாக்கிய என் கண்கள், இன்று உறங்க முடியாமல் துன்பத்தால் வருந்துகின்றன."
+        ],
+        "quiz_options_en": [
+          "In dreams who don't discern lovers Rue their missing in wakeful hours",
+          "Beauty pales and my bracelets slide; Why not forget him now, bright maid?",
+          "Pouting of flower-eyed has To pure good mates a lovely grace",
+          "My eyes causing lust more than sea Suffer that torture sleeplessly"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கண் விதுப்பழிதல்) பகுதியில் குறள் 1175 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன்று கடலும் தாங்கமுடியாத காமநோயை உண்டாக்கிய என் கண்கள், இன்று உறங்க முடியாமல் துன்பத்தால் வருந்துகின்றன. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது) கடல் ஆற்றா காமநோய் செய்த என்கண்- எனக்குக் கடலும் சிறிதாம் வண்ணம் பெரியதாய காம நோயைச் செய்த என் கண்கள்; படல் ஆற்றா பைதல் உழக்கும் -அத் தீவினையால் தாமும் துயில்கிலவாய்த் துன்பத்தையும் உழவாநின்றன. (காமநோய் காட்சியான் வந்ததாகவின், அதனைக் கண்களே...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 118: 'Eyes consumed with Grief'), Kural 1175 distills a foundational ethical insight: \"The eye that wrought me more than sea could hold of woes, Is suffering pangs that banish all repose\" Philosophically, Mine eyes have caused me a lust that is greater than the sea and (they themselves) endure the torture of sleeplessness.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1176,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: எமக்கு இந்தக் காமநோயைஉண்டாக்கிய கண்கள், தாமும் இத்தகைய துன்பத்தைப்பட்டு வருந்துவது மிகவும் நல்லதே!",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The eyes that have given me this disease have themselves been seized with this (suffering) Oh! I am much delighted.",
+        "story_title_ta": "கண் விதுப்பழிதல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Eyes consumed with Grief — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கண் விதுப்பழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1176 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1176 from 'Eyes consumed with Grief', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ஓ! என் காதல் நோய்க்குக் காரணமான கண்கள், என்னைப் போலவே வாடி வருந்துகின்றன. இது எனக்கு மகிழ்ச்சியே!",
+        "moral_en": "Moral: Oho! how sweet a thing to see! the eyeThat wrought this pain, in the same gulf doth lie.",
+        "game_blank_word_ta": "எமக்கிந்நோய்",
+        "game_options_ta": [
+          "எமக்கிந்நோய்",
+          "கண்தாம்",
+          "கலுழ்வ",
+          "தெவன்கொலோ"
+        ],
+        "game_options_en": [
+          "Lo! eyes that wrought this love-sickness Are victims of the same themselves",
+          "The eye pointed him to me; why then They weep with malady and pine?",
+          "Why should these dyed eyes grieve now sans Regrets for their thoughtless glance?",
+          "Eyes darted eager glance that day It's funny that they weep today"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண் விதுப்பழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1176, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எனக்கு இந்தக் காதல் துன்பத்தைத் தந்த கண்கள் தாமும் தூங்காமல் அழுவது நன்றாகத்தான் இருக்கிறது. கலைஞர் உரை கூறுவது: ஓ! என் காதல் நோய்க்குக் காரணமான கண்கள், என்னைப் போலவே வாடி வருந்துகின்றன. இது எனக்கு மகிழ்ச்சியே! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Eyes consumed with Grief (Post-marital Love), Kural 1176 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The eyes that have given me this disease have themselves been seized with this (suffering) Oh! I am much delighted. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கண் விதுப்பழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Eyes consumed with Grief'.",
+        "quiz_question_ta": "'கண் விதுப்பழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1176 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1176 from Chapter 'Eyes consumed with Grief'?",
+        "quiz_options_ta": [
+          "எமக்கு இந்தக் காமநோயைஉண்டாக்கிய கண்கள், தாமும் இத்தகைய துன்பத்தைப்பட்டு வருந்துவது மிகவும் நல்லதே!",
+          "நனவில் நம்‌மை விட்டு நீங்கினார் என்று காதலரைப் பழித்து பேசுகின்றனரே! இந்த ஊரார் கனவில் அவரைக் காண்பதில்லையோ?",
+          "வெற்றியை விரும்பி ஊக்கமே துணையாகக் கொண்டு வெளிநாட்டுக்குச் சென்ற காதலர், திரும்பி வருதலைக் காண விரும்பியே இன்னும் யான் உயிரோடு இருக்கின்றேன்.",
+          "பெரும் பிணக்கும் சிறு பிணக்கும் இல்லாவிட்டால், காமம் மிகப் பழுத்த பழமும் முற்றாத இளங்காயும் போல் பயன்படாததாகும்."
+        ],
+        "quiz_options_en": [
+          "Lo! eyes that wrought this love-sickness Are victims of the same themselves",
+          "The townsmen say he left me thus In dreams failing to see him close",
+          "Will as guide he went to win Yet I live-to see him again",
+          "Love devoid of frowns and pets Misses its ripe and unripe fruits"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கண் விதுப்பழிதல்) பகுதியில் குறள் 1176 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எமக்கு இந்தக் காமநோயைஉண்டாக்கிய கண்கள், தாமும் இத்தகைய துன்பத்தைப்பட்டு வருந்துவது மிகவும் நல்லதே! பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) எமக்கு இந்நோய் செய்த கண் தாம் இதன் பட்டது- எமக்கு அக் காமநோயினைச் செய்த கண்கள் தாமும் இத்துயிலாது அழுதற் கண்ணே பட்டது; ஓஒ இனிதே - மிகவும் இனிதாயிற்று. ('ஓ' என்பது மிகுதிப் பொருட்கண் வந்த குறிப்புச்சொல். 'தம்மால் வருத்தமுற்ற எமக்கு அது...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 118: 'Eyes consumed with Grief'), Kural 1176 distills a foundational ethical insight: \"Oho! how sweet a thing to see! the eyeThat wrought this pain, in the same gulf doth lie\" Philosophically, The eyes that have given me this disease have themselves been seized with this (suffering) Oh! I am much delighted.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "truth",
+        "kindness",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1177,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அன்று விரும்பி நெகிழ்ந்து காதலரைக் கண்ட கண்கள் இன்று உறக்கமில்லாத துன்பத்தால் வருந்தி வருந்திக் கண்ணீரும் அற்றுப் போகட்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The eyes that became tender and gazed intently on him, may they suffer so much as to dry up the fountain of their tears.",
+        "story_title_ta": "கண் விதுப்பழிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Eyes consumed with Grief — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கண் விதுப்பழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1177 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1177 from 'Eyes consumed with Grief', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: அன்று, இழைந்து குழைந்து ஆசையுடன் அவரைக் கண்ட கண்களே! இன்று பிரிந்து சென்றுள்ள அவரை நினைத்துக் தூங்காமலும், துளிக் கண்ணீரும் அற்றுப்போகும் நிலையிலும் துன்பப்படுங்கள்.",
+        "moral_en": "Moral: Aching, aching, let those exhaust their stream, That melting, melting, that day gazed on him.",
+        "game_blank_word_ta": "துள்நீர்",
+        "game_options_ta": [
+          "கண்தாம்",
+          "துள்நீர்",
+          "கலுழ்வ",
+          "தெவன்கொலோ"
+        ],
+        "game_options_en": [
+          "The eye pointed him to me; why then They weep with malady and pine?",
+          "Let tears dry up pining pining In eyes that eyed him longing longing",
+          "Why should these dyed eyes grieve now sans Regrets for their thoughtless glance?",
+          "Eyes darted eager glance that day It's funny that they weep today"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண் விதுப்பழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1177, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: விரும்பி மகிழ்ந்து விடாமல் அன்று அவரைக் கண்ட கண்களின் உள் இருக்கும் கண்ணீர் எல்லாம் இன்று வருந்தி வருந்தி வற்றிப் போகட்டும்! கலைஞர் உரை கூறுவது: அன்று, இழைந்து குழைந்து ஆசையுடன் அவரைக் கண்ட கண்களே! இன்று பிரிந்து சென்றுள்ள அவரை நினைத்துக் தூங்காமலும், துளிக் கண்ணீரும் அற்றுப்போகும் நிலையிலும் துன்பப்படுங்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Eyes consumed with Grief (Post-marital Love), Kural 1177 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The eyes that became tender and gazed intently on him, may they suffer so much as to dry up the fountain of their tears. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கண் விதுப்பழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Eyes consumed with Grief'.",
+        "quiz_question_ta": "'கண் விதுப்பழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1177 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1177 from Chapter 'Eyes consumed with Grief'?",
+        "quiz_options_ta": [
+          "பொழுதே! நீ மாலைக்காலம் அல்ல; (காதலரோடு கூடியிருந்து பிறகு பிரிந்து வாழும்) மகளிரின் உயிரை உண்ணும் முடிவுக் காலமாக இருக்கினறாய்!",
+          "அன்று விரும்பி நெகிழ்ந்து காதலரைக் கண்ட கண்கள் இன்று உறக்கமில்லாத துன்பத்தால் வருந்தி வருந்திக் கண்ணீரும் அற்றுப் போகட்டும்.",
+          "முன்பு கூடியிருந்த காதலைக் கைவிட்டுப் பிரிந்த அவருடைய வருகை‌யைநினைத்து என் நெஞ்சம் மரத்தின் கிளைகளின் மேலும் ஏறிப் பார்க்கின்றது.",
+          "கூடியிருக்கும் இன்பம் இனிமேல் நீட்டிக்காதோ என்று ஏங்கி எண்ணுவதால் ஊடியிருத்தலினும் காதலர்க்கு ஒருவகைத் துன்பம் இருக்கின்றது."
+        ],
+        "quiz_options_en": [
+          "Bless you! you are not eventide But killing dart to wedded bride!",
+          "Let tears dry up pining pining In eyes that eyed him longing longing",
+          "My heart in rapture heaves to see His retun with love to embrace me",
+          "\\\"Will union take place soon or late?\\\" In lover's pout this leaves a doubt"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கண் விதுப்பழிதல்) பகுதியில் குறள் 1177 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன்று விரும்பி நெகிழ்ந்து காதலரைக் கண்ட கண்கள் இன்று உறக்கமில்லாத துன்பத்தால் வருந்தி வருந்திக் கண்ணீரும் அற்றுப் போகட்டும். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது) விழைந்து இழைந்து வேண்டி அவர்க் கண்ட கண் - விழைந்து உள்நெகிழ்ந்து விடாதே அன்று அவரைக் கண்ட கண்கள்; உழந்துழந்து உள்நீர் அறுக-இன்று இத்துயிலாது அழுங்கலாய துன்பத்தினை உழந்து தம் அகத்துள்ள நீர் அற்றே போக. (அடுக்கு இடைவிடாமைக்கண் வந்தது. அறுதலாகிய...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 118: 'Eyes consumed with Grief'), Kural 1177 distills a foundational ethical insight: \"Aching, aching, let those exhaust their stream, That melting, melting, that day gazed on him\" Philosophically, The eyes that became tender and gazed intently on him, may they suffer so much as to dry up the fountain of their tears.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1178,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: உள்ளத்தால் விரும்பாமலே சொல்லளவில் விரும்பிப் பழகியவர் ஒருவர் இருக்கின்றார்; அவரைக் காணாமல் கண்கள் அமைதியுறவில்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: He is indeed here who loved me with his lips but not with his heart but mine eyes suffer from not seeing him.",
+        "story_title_ta": "கண் விதுப்பழிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Eyes consumed with Grief — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கண் விதுப்பழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1178 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1178 from 'Eyes consumed with Grief', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என்னை அரவணைக்கும் எண்ணமின்றிக் காதலித்த ஒருவர் இருக்கின்றனர்; அவரைக் காணாமல் என் கண்களுக்கு அமைதியில்லையே!",
+        "moral_en": "Moral: Who loved me once, onloving now doth here remain; Not seeing him, my eye no rest can gain.",
+        "game_blank_word_ta": "உளர்மன்னோ",
+        "game_options_ta": [
+          "கண்தாம்",
+          "கலுழ்வ",
+          "உளர்மன்னோ",
+          "தெவன்கொலோ"
+        ],
+        "game_options_en": [
+          "The eye pointed him to me; why then They weep with malady and pine?",
+          "Why should these dyed eyes grieve now sans Regrets for their thoughtless glance?",
+          "Ther's he whose lips loved, not his heart Yet my eyes pine seeing him not",
+          "Eyes darted eager glance that day It's funny that they weep today"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண் விதுப்பழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1178, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உள்ளத்தால் என்னை விரும்பாமல் வாயால் மட்டுமே விரும்பியவர் நன்றாக இருக்கட்டும்; ஆனால், அவரைக் காண முடியாமல் என் கண்கள் தூங்காமல் இருக்கின்றன.! கலைஞர் உரை கூறுவது: என்னை அரவணைக்கும் எண்ணமின்றிக் காதலித்த ஒருவர் இருக்கின்றனர்; அவரைக் காணாமல் என் கண்களுக்கு அமைதியில்லையே! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Eyes consumed with Grief (Post-marital Love), Kural 1178 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He is indeed here who loved me with his lips but not with his heart but mine eyes suffer from not seeing him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கண் விதுப்பழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Eyes consumed with Grief'.",
+        "quiz_question_ta": "'கண் விதுப்பழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1178 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1178 from Chapter 'Eyes consumed with Grief'?",
+        "quiz_options_ta": [
+          "மயங்கிய மாலைப்‌பொழுதே! நீயும் எம்மைப்போல் துன்பப்படுகின்‌றாயே! உன் துணையும் எம் காதலர் போல் இரக்கம் அற்றதோ?",
+          "என் காதலரைக் கண்ணாரக் காண்பேனாக; கண்ட பிறகு என்னுடைய மெல்லிய தோளில் உண்டாகிய பசலை நிறம் தானே நீங்கி விடும்.",
+          "உள்ளத்தால் விரும்பாமலே சொல்லளவில் விரும்பிப் பழகியவர் ஒருவர் இருக்கின்றார்; அவரைக் காணாமல் கண்கள் அமைதியுறவில்லை.",
+          "நம்மால் இவர் வருந்தினார் என்று அந்த வருத்தத்தை அறிகின்ற காதலர் இல்லாதபோது, வருந்துவதால் பயன் என்ன?"
+        ],
+        "quiz_options_en": [
+          "Hail sad eventide dim and grim Has your mate like mine, cruel whim!",
+          "Let me but gaze and gaze my spouse sallow on my soft shoulders files",
+          "Ther's he whose lips loved, not his heart Yet my eyes pine seeing him not",
+          "What's the good of grieving lament When concious lover is not present?"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கண் விதுப்பழிதல்) பகுதியில் குறள் 1178 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உள்ளத்தால் விரும்பாமலே சொல்லளவில் விரும்பிப் பழகியவர் ஒருவர் இருக்கின்றார்; அவரைக் காணாமல் கண்கள் அமைதியுறவில்லை. பரிமேலழகர் உரை நுட்பம்: ('காதலர் பிரிந்து போயினாரல்லர், அவர் ஈண்டுளர். அவரைக் காணுமளவும் நீ ஆற்றல் பெற வேண்டும்', என்ற தோழிக்குச் சொல்லியது.) பேணாது பெட்டார் உளர்-நெஞ்சால் விழையாதுவைத்துச் சொல்மாத்திரத்தால விழைந்தவர் இவ்விடத்தே உளர்; மற்று அவர்க்கண் காணாது அமைவில - அவ்வுண்மையாற...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 118: 'Eyes consumed with Grief'), Kural 1178 distills a foundational ethical insight: \"Who loved me once, onloving now doth here remain; Not seeing him, my eye no rest can gain\" Philosophically, He is indeed here who loved me with his lips but not with his heart but mine eyes suffer from not seeing him.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "friendship",
+        "education",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1179,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: காதலர் வாராவிட்டால் தூங்குவதில்லை; வந்தாலும் தூங்குவதில்லை; இவற்றுக்கி‌டையே என் கண்கள் மிக்க துன்பத்தை அடைந்தன.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: When he is away they do not sleep; when he is present they do not sleep; in either case, mine eyes endure unbearable agony.",
+        "story_title_ta": "கண் விதுப்பழிதல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Eyes consumed with Grief — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கண் விதுப்பழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1179 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1179 from 'Eyes consumed with Grief', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: இன்னும் வரவில்லையே என்பதாலும் தூங்குவதில்லை; வந்துவிட்டாலும் பிறகு தூங்குவதில்லை இப்படியொரு துன்பத்தை அனுபவிப்பவை காதலர்களின் கண்களாகத் தானே இருக்க முடியும்.",
+        "moral_en": "Moral: When he comes not, all slumber flies; no sleep when he is there; Thus every way my eyes have troubles hard to bear.",
+        "game_blank_word_ta": "ஆயிடை",
+        "game_options_ta": [
+          "கண்தாம்",
+          "கலுழ்வ",
+          "தெவன்கொலோ",
+          "ஆயிடை"
+        ],
+        "game_options_en": [
+          "The eye pointed him to me; why then They weep with malady and pine?",
+          "Why should these dyed eyes grieve now sans Regrets for their thoughtless glance?",
+          "Eyes darted eager glance that day It's funny that they weep today",
+          "He comes; no sleep; he goes; no sleep This is the fate of eyes that weep"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண் விதுப்பழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1179, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவர் வராதபோது வரவை எதிர்பார்த்துத் தூங்குவதில்லை. வந்தபோதோ, எப்போது பிரிவாரோ என்று அஞ்சி் தூங்குவதில்லை; இரண்டு வழியிலும் என் கண்களுக்குத் தூங்க முடியாத துன்பந்தான். கலைஞர் உரை கூறுவது: இன்னும் வரவில்லையே என்பதாலும் தூங்குவதில்லை; வந்துவிட்டாலும் பிறகு தூங்குவதில்லை இப்படியொரு துன்பத்தை அனுபவிப்பவை காதலர்களின் கண்களாகத் தானே இருக்க முடியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Eyes consumed with Grief (Post-marital Love), Kural 1179 speaks directly to teens navigating studies, friendships, leadership, and digital choices: When he is away they do not sleep; when he is present they do not sleep; in either case, mine eyes endure unbearable agony. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கண் விதுப்பழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Eyes consumed with Grief'.",
+        "quiz_question_ta": "'கண் விதுப்பழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1179 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1179 from Chapter 'Eyes consumed with Grief'?",
+        "quiz_options_ta": [
+          "பனி தோன்றிப் பசந்த நிறம் கொண்ட மாலைப் பொழுது எனக்கு வருத்தம் ஏற்பட்டுத் துன்பம் மேன்மேலும் வளரும்படியாக வருகின்றது.",
+          "என் காதலன் ஒருநாள் என்னிடம் வருவானாக; வந்த பிறகு, என்னுடைய துன்பநோய் எல்லொம் தீருமாறு நான் நன்றாக நுகர்வேன்.",
+          "நீரும் நிழலை அடுத்திருப்பதே இனிமையானது; அதுபோல், ஊடலும் அன்பு செலுத்துவோரிடத்தில் கொள்வதே இன்பமானது.",
+          "காதலர் வாராவிட்டால் தூங்குவதில்லை; வந்தாலும் தூங்குவதில்லை; இவற்றுக்கி‌டையே என் கண்கள் மிக்க துன்பத்தை அடைந்தன."
+        ],
+        "quiz_options_en": [
+          "Wet eve came pale and trembling then Now it makes bold with growing pain",
+          "Let my spouse return just a day Joy-drink shall drive my pain away",
+          "Water delights in a shady grove And sulking in souls of psychic love",
+          "He comes; no sleep; he goes; no sleep This is the fate of eyes that weep"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கண் விதுப்பழிதல்) பகுதியில் குறள் 1179 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காதலர் வாராவிட்டால் தூங்குவதில்லை; வந்தாலும் தூங்குவதில்லை; இவற்றுக்கி‌டையே என் கண்கள் மிக்க துன்பத்தை அடைந்தன. பரிமேலழகர் உரை நுட்பம்: ('நீயும் ஆற்றி நின் கண்களும் துயில்வனவாதல் வேண்டும்' என்ற தோழிக்குச் சொல்லியது.) வாராக்கால் துஞ்சா - காதலர் வாராத ஞான்று அவர் வரவு பார்த்துத் துயிலா; வரின் துஞ்சா - வந்த ஞான்று, அவர் பிரிவஞ்சித் துயிலா; ஆயிடைக்கண் ஆரஞர் உற்றன- ஆதலான் அவ்விருவழியும் என் கண்கள...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 118: 'Eyes consumed with Grief'), Kural 1179 distills a foundational ethical insight: \"When he comes not, all slumber flies; no sleep when he is there; Thus every way my eyes have troubles hard to bear\" Philosophically, When he is away they do not sleep; when he is present they do not sleep; in either case, mine eyes endure unbearable agony.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "education",
+        "truth",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 1180,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அறையப்படும் பறைபோல் துன்பத்தை வெளிப்படுத்தும் கண்களை உடைய எம்மைப் போன்றவரிடத்தில் மறைபொருளான செய்தியை அறிதல் ஊரார்க்கு அரிது அன்று.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: It is not difficult for the people of this place to understand the secret of those whose eyes, like mine, are as it were beaten drums.",
+        "story_title_ta": "கண் விதுப்பழிதல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Eyes consumed with Grief — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கண் விதுப்பழிதல்' என்ற அதிகாரத்தில் வரும் குறள் 1180 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1180 from 'Eyes consumed with Grief', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதல் வேதனையைப் பறைசாற்றிக் காட்டிக் கொடுக்க எம் கண்களேயிருக்கும்போது, யாம் மறைப்பதை அறிந்து கொள்வது ஊரார்க்குக் கடினமல்ல.",
+        "moral_en": "Moral: It is not hard for all the town the knowledge to obtain, When eyes, as mine, like beaten tambours, make the mystery plain.",
+        "game_blank_word_ta": "அறைபறை",
+        "game_options_ta": [
+          "அறைபறை",
+          "கண்தாம்",
+          "கலுழ்வ",
+          "தெவன்கொலோ"
+        ],
+        "game_options_en": [
+          "Like drum beats eyes declare my heart; From people who could hide his secret?",
+          "The eye pointed him to me; why then They weep with malady and pine?",
+          "Why should these dyed eyes grieve now sans Regrets for their thoughtless glance?",
+          "Eyes darted eager glance that day It's funny that they weep today"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண் விதுப்பழிதல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1180, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடிக்கப்படும் பறைபோன்று மனத்துள் இருப்பதை அழுது வெளியே காட்டிவிடும் எம்போன்ற பெண்களின் ரகசியத்தை அறிந்து கொள்வது இவ்வூரில் இருப்பவர்க்கு எளிது. கலைஞர் உரை கூறுவது: காதல் வேதனையைப் பறைசாற்றிக் காட்டிக் கொடுக்க எம் கண்களேயிருக்கும்போது, யாம் மறைப்பதை அறிந்து கொள்வது ஊரார்க்குக் கடினமல்ல. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Eyes consumed with Grief (Post-marital Love), Kural 1180 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is not difficult for the people of this place to understand the secret of those whose eyes, like mine, are as it were beaten drums. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கண் விதுப்பழிதல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Eyes consumed with Grief'.",
+        "quiz_question_ta": "'கண் விதுப்பழிதல்' அதிகாரத்தில் வரும் திருக்குறள் 1180 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1180 from Chapter 'Eyes consumed with Grief'?",
+        "quiz_options_ta": [
+          "அறையப்படும் பறைபோல் துன்பத்தை வெளிப்படுத்தும் கண்களை உடைய எம்மைப் போன்றவரிடத்தில் மறைபொருளான செய்தியை அறிதல் ஊரார்க்கு அரிது அன்று.",
+          "காதலர் இல்லாத இப்போது, கொலை செய்யும் இடத்தில் பகைவர் வருவது போல் மாலைப்பொழுது ( என் உயிரைக் கொள்ள) வருகின்றது.",
+          "என்னுடைய கண்போன்ற காதலர் வருவாரானால், யான் அவரோடு ஊடுவேனோ? அல்லது அவரைத் தழுவுவேனோ? அவரோடு கூடுவேனோ?",
+          "ஊடல் கொண்ட‌போது உணர்த்தி மகிழ்விக்காமல் வாட விடுகின்றவரோடு என் நெஞ்சம் கூடியிருப்போம் என்று முயல்வதற்குக் காரணம் அதன் ஆசையே."
+        ],
+        "quiz_options_en": [
+          "Like drum beats eyes declare my heart; From people who could hide his secret?",
+          "Lover away, comes eventide Like slayer to field of homicide",
+          "If my eye-like lord returneth Shall I sulk or clasp or do both?",
+          "My heart athirst would still unite With her who me in sulking left!"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கண் விதுப்பழிதல்) பகுதியில் குறள் 1180 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறையப்படும் பறைபோல் துன்பத்தை வெளிப்படுத்தும் கண்களை உடைய எம்மைப் போன்றவரிடத்தில் மறைபொருளான செய்தியை அறிதல் ஊரார்க்கு அரிது அன்று. பரிமேலழகர் உரை நுட்பம்: ('காதலரை இவ்வூர் இயற்பழியாமல் அவர் கொடுமையை மறைக்க வேண்டும்' என்ற தோழிக்குச் சொல்லியது) எம் போல் அறைபறை கண்ணார் அகத்து மறை பெறல் - எம்மைப் போலும் அறைபறையாகிய கண்ணிணையுடையார் தம் நெஞ்சின்கண் அடக்கிய மறையையறிதல்; ஊரார்க்கு அரிதன்று - இவ்வூரின்கண் உள்ளார்க்கு...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 118: 'Eyes consumed with Grief'), Kural 1180 distills a foundational ethical insight: \"It is not hard for all the town the knowledge to obtain, When eyes, as mine, like beaten tambours, make the mystery plain\" Philosophically, It is not difficult for the people of this place to understand the secret of those whose eyes, like mine, are as it were beaten drums.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "harmony"
+      ]
+    }
+  ]
+}

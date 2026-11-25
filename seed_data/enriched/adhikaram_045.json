@@ -1,0 +1,588 @@
+{
+  "adhikaram_id": 45,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.854812144+00:00",
+  "kurals": [
+    {
+      "kural_number": 441,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அறம் உணர்ந்தவராய்த் தன்னை விட மூத்தவராய் உள்ள அறிவுடையவரின் நட்பை, கொள்ளும் வகை அறிந்து ஆராய்ந்து கொள்ள வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Let (a king) ponder well its value, and secure the friendship of men of virtue and of mature knowledge.",
+        "story_title_ta": "பெரியாரைத் துணைக்கோடல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Seeking the Aid of Great Men — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெரியாரைத் துணைக்கோடல்' என்ற அதிகாரத்திலிருந்து குறள் 441 பற்றிக் கதை சொன்னார். 'அறத்தின் நுண்மையை அறிந்து, குறிப்பிட்ட துறையிலும் வளர்ந்த அறிவுடையவரின் நட்பை, அதன் அருமையையும், அதைப் பெறும் திறத்தையும் அறிந்து பெறுக.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 45, 'Seeking the Aid of Great Men', centered on Kural 441: Let (a king) ponder well its value, and secure the friendship of men of virtue and of mature knowledge. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அறமுணர்ந்த மூதறிஞர்களின் நட்பைப் பெறும் வகை அறிந்து, அதனைத் தேர்ந்தெடுத்துக் கொள்ள வேண்டும்.",
+        "moral_en": "Moral: As friends the men who virtue know, and riper wisdom share, Their worth weighed well, the king should choose with care.",
+        "game_blank_word_ta": "அறனறிந்து",
+        "game_options_ta": [
+          "உற்றநோய்",
+          "அறனறிந்து",
+          "நீக்கி",
+          "உறாஅமை"
+        ],
+        "game_options_en": [
+          "Cherish the help of men of skill Who ward and safe-guard you from ill",
+          "Weigh their worth and friendship gain Of men of virtue and mature brain",
+          "Honour and have the great your own Is rarest of the rare things known",
+          "To have betters as intimates Power of all powers promotes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெரியாரைத் துணைக்கோடல் (அரசியல்) பிரிவில் அமைந்த குறள் 441, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறத்தின் நுண்மையை அறிந்து, குறிப்பிட்ட துறையிலும் வளர்ந்த அறிவுடையவரின் நட்பை, அதன் அருமையையும், அதைப் பெறும் திறத்தையும் அறிந்து பெறுக. கலைஞர் உரை கூறுவது: அறமுணர்ந்த மூதறிஞர்களின் நட்பைப் பெறும் வகை அறிந்து, அதனைத் தேர்ந்தெடுத்துக் கொள்ள வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Seeking the Aid of Great Men (Royalty & Polity), Kural 441 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let (a king) ponder well its value, and secure the friendship of men of virtue and of mature knowledge. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெரியாரைத் துணைக்கோடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Seeking the Aid of Great Men' thoughtfully.",
+        "quiz_question_ta": "'பெரியாரைத் துணைக்கோடல்' அதிகாரத்தில் வரும் திருக்குறள் 441 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 441 from Chapter 'Seeking the Aid of Great Men'?",
+        "quiz_options_ta": [
+          "உலகத்தைக் கொள்ளக் கருதிகின்றவர் அதைப்பற்றி எண்ணிக் கலங்காமல் அதற்கு ஏற்ற காலத்தைக் கருதிக்கொண்டு பொறுத்திருப்பர்.",
+          "அறம் உணர்ந்தவராய்த் தன்னை விட மூத்தவராய் உள்ள அறிவுடையவரின் நட்பை, கொள்ளும் வகை அறிந்து ஆராய்ந்து கொள்ள வேண்டும்.",
+          "அரசன் எல்லாரையும் பொதுவகையாக நோக்காமல், அவரவர் சிறப்புக்கு ஏற்றவாறு நோக்கினால், அதை விரும்பி சுற்றமாக வாழ்கின்றவர் பலர் ஆவர்.",
+          "கண்ணோட்டம் என்று சொல்லப்படுகின்ற மிகச் சிறந்த அழகு இருக்கும் காரணத்தால் தான், இந்த உலகம் அழியாமல் இருக்கின்றது."
+        ],
+        "quiz_options_en": [
+          "Who want to win the world sublime Wait unruffled biding their time",
+          "Weigh their worth and friendship gain Of men of virtue and mature brain",
+          "From public gaze when kings perceive Each one's merits so many thrive",
+          "Living in the world implies The bounteous dame of benign eyes"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பெரியாரைத் துணைக்கோடல்) பகுதியில் குறள் 441 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறம் உணர்ந்தவராய்த் தன்னை விட மூத்தவராய் உள்ள அறிவுடையவரின் நட்பை, கொள்ளும் வகை அறிந்து ஆராய்ந்து கொள்ள வேண்டும். பரிமேலழகர் உரை நுட்பம்: அறன் அறிந்து மூத்த அறிவுடையார் கேண்மை - அறத்தினது நுண்மையை அறிந்து தன்னின் மூத்த அறிவுடையாரது கேண்மையை, தேர்ந்து திறன் அறிந்து கொளல் - அரசன் அதனது அருமையை ஓர்ந்து, கொள்ளும் திறன் அறிந்து கொள்க. (அறநுண்மை நூலானேயன்றி, உய்த்துணர்வானும் அறிய வேண்டுதலின், 'அறம...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 45: 'Seeking the Aid of Great Men'), Kural 441 distills a foundational ethical insight: \"As friends the men who virtue know, and riper wisdom share, Their worth weighed well, the king should choose with care\" Philosophically, Let (a king) ponder well its value, and secure the friendship of men of virtue and of mature knowledge.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "ethics",
+        "wisdom",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 442,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: வந்துள்ள துன்பத்தை நீக்கி, இனித் துன்பம் வராதபடி முன்னதாகவே காக்கவல்ல தன்மையுடையவரைப் போற்றி நட்புக் கொள்ள வேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Let (a king) procure and kindly care for men who can overcome difficulties when they occur, and guard against them before they happen.",
+        "story_title_ta": "பெரியாரைத் துணைக்கோடல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Seeking the Aid of Great Men — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெரியாரைத் துணைக்கோடல்' என்ற அதிகாரத்திலிருந்து குறள் 442 பற்றிக் கதை சொன்னார். 'வந்த துன்பங்களைப் போக்கும் வழி அறிந்து போக்கி, அவை திரும்பவும் வராமல் முன்னதாகவே காக்கும் ஆற்றல் மிக்கவரை, அவருக்கு வேண்டியதைச் செய்து, துணையாகப் பெறுக.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 45, 'Seeking the Aid of Great Men', centered on Kural 442: Let (a king) procure and kindly care for men who can overcome difficulties when they occur, and guard against them before they happen. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வந்துள்ள துன்பத்தைப் போக்கி, மேலும் துன்பம் நேராமல் காக்கவல்ல பெரியோர்களைத் துணையாகக் கொள்ள வேண்டும்.",
+        "moral_en": "Moral: Cherish the all-accomplished men as friends, Whose skill the present ill removes, from coming ill defends.",
+        "game_blank_word_ta": "நீக்கி",
+        "game_options_ta": [
+          "அறனறிந்து",
+          "மூத்த",
+          "நீக்கி",
+          "அறிவுடையார்"
+        ],
+        "game_options_en": [
+          "Weigh their worth and friendship gain Of men of virtue and mature brain",
+          "Honour and have the great your own Is rarest of the rare things known",
+          "Cherish the help of men of skill Who ward and safe-guard you from ill",
+          "To have betters as intimates Power of all powers promotes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெரியாரைத் துணைக்கோடல் (அரசியல்) பிரிவில் அமைந்த குறள் 442, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வந்த துன்பங்களைப் போக்கும் வழி அறிந்து போக்கி, அவை திரும்பவும் வராமல் முன்னதாகவே காக்கும் ஆற்றல் மிக்கவரை, அவருக்கு வேண்டியதைச் செய்து, துணையாகப் பெறுக. கலைஞர் உரை கூறுவது: வந்துள்ள துன்பத்தைப் போக்கி, மேலும் துன்பம் நேராமல் காக்கவல்ல பெரியோர்களைத் துணையாகக் கொள்ள வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Seeking the Aid of Great Men (Royalty & Polity), Kural 442 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let (a king) procure and kindly care for men who can overcome difficulties when they occur, and guard against them before they happen. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெரியாரைத் துணைக்கோடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Seeking the Aid of Great Men' thoughtfully.",
+        "quiz_question_ta": "'பெரியாரைத் துணைக்கோடல்' அதிகாரத்தில் வரும் திருக்குறள் 442 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 442 from Chapter 'Seeking the Aid of Great Men'?",
+        "quiz_options_ta": [
+          "ஊக்கம் மிகுந்தவன் (காலத்தை எதிர்பார்த்து) அடங்கியிருத்தல் போர் செய்யும் ஆட்டுக்கடா தன் பகையைத் தாக்குவதற்க்காகப் பின்னே கால் வாங்குதலைப் போன்றது.",
+          "முன் சுற்றத்தாறாக இருந்து பின் ஒருக் காரணத்தால் பிரிந்தவரின் உறவு, அவ்வாறு அவர் பொருந்தாமலிருந்த காரணம் நீங்கியபின் தானே வந்து சேரும்.",
+          "வந்துள்ள துன்பத்தை நீக்கி, இனித் துன்பம் வராதபடி முன்னதாகவே காக்கவல்ல தன்மையுடையவரைப் போற்றி நட்புக் கொள்ள வேண்டும்.",
+          "கண்ணோட்டத்தினால் உலகியல் நடைபெறுகின்றது, கண்ணோட்டம் இல்லாதவர் உயிரோடு இருத்தல் நிலத்திற்குச் சுமையே தவிர வேறு பயனில்லை."
+        ],
+        "quiz_options_en": [
+          "By self-restraint stalwarts keep fit Like rams retreating but to butt",
+          "Forsaken friends will come and stay When cause for discord goes away",
+          "Cherish the help of men of skill Who ward and safe-guard you from ill",
+          "World lives by looks of lovely worth Who lack them are burdens of earth"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பெரியாரைத் துணைக்கோடல்) பகுதியில் குறள் 442 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வந்துள்ள துன்பத்தை நீக்கி, இனித் துன்பம் வராதபடி முன்னதாகவே காக்கவல்ல தன்மையுடையவரைப் போற்றி நட்புக் கொள்ள வேண்டும். பரிமேலழகர் உரை நுட்பம்: உற்ற நோய் நீக்கி - தெய்வத்தானாக மக்களானாகத் தனக்கு வந்த துன்பங்களை நீக்குமாறு அறிந்து நீக்கி ; உறாமை முற்காக்கும் பெற்றியார் - பின் அப்பெற்றியன வாராவண்ணம் முன் அறிந்து காக்கவல்ல தன்மையினையுடையாரை; பேணிக்கொளல் - அரசன் அவர் உவப்பன செய்து துணையாகக் கொள்க...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 45: 'Seeking the Aid of Great Men'), Kural 442 distills a foundational ethical insight: \"Cherish the all-accomplished men as friends, Whose skill the present ill removes, from coming ill defends\" Philosophically, Let (a king) procure and kindly care for men who can overcome difficulties when they occur, and guard against them before they happen.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "leadership",
+        "friendship",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 443,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பெரியாரைப் போற்றி தமக்குச் சுற்றத்தாராக்கிக் கொள்ளுதல், பெறத்தக்க அரிய பேறுகள் எல்லாவற்றிலும் அருமையானதாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: To cherish great men and make them his own, is the most difficult of all difficult things.",
+        "story_title_ta": "பெரியாரைத் துணைக்கோடல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Seeking the Aid of Great Men — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெரியாரைத் துணைக்கோடல்' என்ற அதிகாரத்திலிருந்து குறள் 443 பற்றிக் கதை சொன்னார். 'துறைப் பெரியவர்களுக்கு அவர் விரும்புகின்றவற்றைச் செய்து, அவரைத் தமக்கு உரியவராகச் செய்து கொள்வது அரிய பேறுகளுள் எல்லாம் அரிது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 45, 'Seeking the Aid of Great Men', centered on Kural 443: To cherish great men and make them his own, is the most difficult of all difficult things. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பெரியவர்களைப் போற்றிப் பாராட்டி அவர்களுடன் உறவாடுதல் எல்லாப் பேறுகளையும் விடப் பெரும் பேறாகும்.",
+        "moral_en": "Moral: To cherish men of mighty soul, and make them all their own, Of kingly treasures rare, as rarest gift is known.",
+        "game_blank_word_ta": "அரிதே",
+        "game_options_ta": [
+          "அறனறிந்து",
+          "மூத்த",
+          "அறிவுடையார்",
+          "அரிதே"
+        ],
+        "game_options_en": [
+          "Weigh their worth and friendship gain Of men of virtue and mature brain",
+          "Cherish the help of men of skill Who ward and safe-guard you from ill",
+          "To have betters as intimates Power of all powers promotes",
+          "Honour and have the great your own Is rarest of the rare things known"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெரியாரைத் துணைக்கோடல் (அரசியல்) பிரிவில் அமைந்த குறள் 443, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: துறைப் பெரியவர்களுக்கு அவர் விரும்புகின்றவற்றைச் செய்து, அவரைத் தமக்கு உரியவராகச் செய்து கொள்வது அரிய பேறுகளுள் எல்லாம் அரிது. கலைஞர் உரை கூறுவது: பெரியவர்களைப் போற்றிப் பாராட்டி அவர்களுடன் உறவாடுதல் எல்லாப் பேறுகளையும் விடப் பெரும் பேறாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Seeking the Aid of Great Men (Royalty & Polity), Kural 443 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To cherish great men and make them his own, is the most difficult of all difficult things. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெரியாரைத் துணைக்கோடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Seeking the Aid of Great Men' thoughtfully.",
+        "quiz_question_ta": "'பெரியாரைத் துணைக்கோடல்' அதிகாரத்தில் வரும் திருக்குறள் 443 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 443 from Chapter 'Seeking the Aid of Great Men'?",
+        "quiz_options_ta": [
+          "அறிவுடையவர் ( பகைவர் தீங்கு செய்த) அப்பொழுதே உடனே புறத்தில் சினம் கொள்ளமாட்டார், (வெல்வதற்கு ஏற்ற) காலம் பார்த்து அகத்தில் சினம் கொள்வார்.",
+          "தன்னிடமிருந்து பிரிந்து சென்று பின் ஒருக் காரணம்பற்றித் திரும்பிவந்தவனை, அரசன் அவன் நாடிய உதவியைச் செய்து ஆராய்ந்து உறவு கொள்ள வேண்டும்.",
+          "பாடலோடு பொருந்துதல் இல்லையானால் இசை என்ன பயனுடையதாகும், அதுபோல் கண்ணோட்டம் இல்லாவிட்டால் கண் என்ன பயனுடையதாகும்.",
+          "பெரியாரைப் போற்றி தமக்குச் சுற்றத்தாராக்கிக் கொள்ளுதல், பெறத்தக்க அரிய பேறுகள் எல்லாவற்றிலும் அருமையானதாகும்."
+        ],
+        "quiz_options_en": [
+          "The wise jut not their vital fire They watch their time with hidden ire",
+          "Who leaves and returns with motive The king should test him and receive",
+          "Of tuneless song what is the use? Without gracious looks what are eyes?",
+          "Honour and have the great your own Is rarest of the rare things known"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பெரியாரைத் துணைக்கோடல்) பகுதியில் குறள் 443 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பெரியாரைப் போற்றி தமக்குச் சுற்றத்தாராக்கிக் கொள்ளுதல், பெறத்தக்க அரிய பேறுகள் எல்லாவற்றிலும் அருமையானதாகும். பரிமேலழகர் உரை நுட்பம்: பெரியாரைப் பேணித் தமராக் கொளல் - அப்பெரியவர்களை அவர் உவப்பன அறிந்து செய்து தமக்குச் சிறந்தாராகக் கொள்ளுதல், அரியவற்றுள் எல்லாம் அரிது - அரசர்க்கு அரிய பேறுகள் எல்லாவற்றுள்ளும் பெரிது. (உலகத்து அரியனவெல்லாம் பெறுதற்கு உரிய அரசர்க்கு இப்பேறு சிறந்தது என்றது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 45: 'Seeking the Aid of Great Men'), Kural 443 distills a foundational ethical insight: \"To cherish men of mighty soul, and make them all their own, Of kingly treasures rare, as rarest gift is known\" Philosophically, To cherish great men and make them his own, is the most difficult of all difficult things.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "leadership",
+        "time",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 444,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தம்மைவிட (அறிவு முதலியவற்றால் ) பெரியவர் தமக்குச் சுற்றத்தராகுமாறு நடத்தல், வல்லமை எல்லாவற்றிலும் சிறந்ததாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: So to act as to make those men, his own, who are greater than himself is of all powers the highest.",
+        "story_title_ta": "பெரியாரைத் துணைக்கோடல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Seeking the Aid of Great Men — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெரியாரைத் துணைக்கோடல்' என்ற அதிகாரத்திலிருந்து குறள் 444 பற்றிக் கதை சொன்னார். 'அறிவு முதலியவற்றால் தம்மைக் காட்டிலும் சிறந்த துறை அறிவுடையவரைத் தமக்கு உரியவராகக் கொண்டு, அவர் காட்டும் வழியில் நடப்பது, வலிமையுள் எல்லாம் முதன்மை ஆனதாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 45, 'Seeking the Aid of Great Men', centered on Kural 444: So to act as to make those men, his own, who are greater than himself is of all powers the highest. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அறிவு ஆற்றல் ஆகியவற்றில் தம்மைக் காட்டிலும் சிறந்த பெரியவராய் இருப்பவரோடு உறவுகொண்டு அவர்வழி நடப்பது மிகப்பெரும் வலிமையாக அமையும்.",
+        "moral_en": "Moral: To live with men of greatness that their own excels, As cherished friends, is greatest power that with a monarch dwells.",
+        "game_blank_word_ta": "தம்மிற்",
+        "game_options_ta": [
+          "தம்மிற்",
+          "அறனறிந்து",
+          "மூத்த",
+          "அறிவுடையார்"
+        ],
+        "game_options_en": [
+          "To have betters as intimates Power of all powers promotes",
+          "Weigh their worth and friendship gain Of men of virtue and mature brain",
+          "Cherish the help of men of skill Who ward and safe-guard you from ill",
+          "Honour and have the great your own Is rarest of the rare things known"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெரியாரைத் துணைக்கோடல் (அரசியல்) பிரிவில் அமைந்த குறள் 444, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறிவு முதலியவற்றால் தம்மைக் காட்டிலும் சிறந்த துறை அறிவுடையவரைத் தமக்கு உரியவராகக் கொண்டு, அவர் காட்டும் வழியில் நடப்பது, வலிமையுள் எல்லாம் முதன்மை ஆனதாகும். கலைஞர் உரை கூறுவது: அறிவு ஆற்றல் ஆகியவற்றில் தம்மைக் காட்டிலும் சிறந்த பெரியவராய் இருப்பவரோடு உறவுகொண்டு அவர்வழி நடப்பது மிகப்பெரும் வலிமையாக அமையும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Seeking the Aid of Great Men (Royalty & Polity), Kural 444 speaks directly to teens navigating studies, friendships, leadership, and digital choices: So to act as to make those men, his own, who are greater than himself is of all powers the highest. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெரியாரைத் துணைக்கோடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Seeking the Aid of Great Men' thoughtfully.",
+        "quiz_question_ta": "'பெரியாரைத் துணைக்கோடல்' அதிகாரத்தில் வரும் திருக்குறள் 444 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 444 from Chapter 'Seeking the Aid of Great Men'?",
+        "quiz_options_ta": [
+          "தம்மைவிட (அறிவு முதலியவற்றால் ) பெரியவர் தமக்குச் சுற்றத்தராகுமாறு நடத்தல், வல்லமை எல்லாவற்றிலும் சிறந்ததாகும்.",
+          "பகைவரைக் கண்டால் பொறுத்துச் செல்லவேண்டும், அப் பகைவர்க்கு முடிவுகாலம் வந்த போது அவருடைய தலை கீழே விழும்.",
+          "பெரிய உவகையால் மகிழ்ந்திருக்கும் போது மறதியால் வரும் சோர்வு, ஒருவனுக்கு வரம்பு கடந்த சினம் வருவதைவிடத் தீமையானதாகும்.",
+          "தக்க அளவிற்குக் கண்ணோட்டம் இல்லாத கண்கள் முகத்தில் உள்ளவை போல் தோன்றுதல் அல்லாமல் வேறு என்ன பயன் செய்யும்."
+        ],
+        "quiz_options_en": [
+          "To have betters as intimates Power of all powers promotes",
+          "Bear with hostiles when you meet them Fell down their head in fateful time",
+          "Worse than wrath in excess is Forgetfulness in joy-excess",
+          "Except that they are on the face What for are eyes sans measured grace"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பெரியாரைத் துணைக்கோடல்) பகுதியில் குறள் 444 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம்மைவிட (அறிவு முதலியவற்றால் ) பெரியவர் தமக்குச் சுற்றத்தராகுமாறு நடத்தல், வல்லமை எல்லாவற்றிலும் சிறந்ததாகும். பரிமேலழகர் உரை நுட்பம்: தம்மின் பெரியார் தமரா ஒழுகுதல் - அறிவு முதலியவற்றால் தம்மின் மிக்கார் தமக்குச் சிறந்தாராகத் தாம் அவர் வழிநின்று ஒழுகுதல், வன்மையுள் எல்லாம் தலை - அரசர்க்கு . எல்லா வலி உடைமையினும் தலை. (பொருள், படை, அரண்களான் ஆய வலியினும் இத்துணைவலி சிறந்தது என்றது. இவர...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 45: 'Seeking the Aid of Great Men'), Kural 444 distills a foundational ethical insight: \"To live with men of greatness that their own excels, As cherished friends, is greatest power that with a monarch dwells\" Philosophically, So to act as to make those men, his own, who are greater than himself is of all powers the highest.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "leadership",
+        "discipline",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 445,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தக்க வழிகளை ஆராய்ந்து கூறும் அறிஞரையே உலகம் கண்ணாகக் கொண்டு நடத்தலால், மன்னவனும் அத்தகையாரைக் ஆராய்ந்து நட்புக்கொள்ள வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: As a king must use his ministers as eyes (in managing his kingdom), let him well examine their character and qualifications before he engages them.",
+        "story_title_ta": "பெரியாரைத் துணைக்கோடல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Seeking the Aid of Great Men — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெரியாரைத் துணைக்கோடல்' என்ற அதிகாரத்திலிருந்து குறள் 445 பற்றிக் கதை சொன்னார். 'தன்னைச் சூழ இருப்பவரைக் கண்ணாகக் கொண்டு அரசு இயங்குவதால் அப்படியே சூழும் துறைப் பெரியவரையே துணையாகக் கொள்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 45, 'Seeking the Aid of Great Men', centered on Kural 445: As a king must use his ministers as eyes (in managing his kingdom), let him well examine their character and qualifications before he engages them. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கண்ணாக இருந்து எதனையும் கண்டறிந்து கூறும் அறிஞர் பெருமக்களைச் சூழ வைத்துக் கொண்டிருப்பதே ஆட்சியாளர்க்கு நன்மை பயக்கும்.",
+        "moral_en": "Moral: The king, since counsellors are monarch's eyes, Should counsellors select with counsel wise.",
+        "game_blank_word_ta": "ஒழுகலான்",
+        "game_options_ta": [
+          "அறனறிந்து",
+          "ஒழுகலான்",
+          "மூத்த",
+          "அறிவுடையார்"
+        ],
+        "game_options_en": [
+          "Weigh their worth and friendship gain Of men of virtue and mature brain",
+          "Ministers are the monarch's eyes Round him should be the right and wise",
+          "Cherish the help of men of skill Who ward and safe-guard you from ill",
+          "Honour and have the great your own Is rarest of the rare things known"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெரியாரைத் துணைக்கோடல் (அரசியல்) பிரிவில் அமைந்த குறள் 445, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்னைச் சூழ இருப்பவரைக் கண்ணாகக் கொண்டு அரசு இயங்குவதால் அப்படியே சூழும் துறைப் பெரியவரையே துணையாகக் கொள்க. கலைஞர் உரை கூறுவது: கண்ணாக இருந்து எதனையும் கண்டறிந்து கூறும் அறிஞர் பெருமக்களைச் சூழ வைத்துக் கொண்டிருப்பதே ஆட்சியாளர்க்கு நன்மை பயக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Seeking the Aid of Great Men (Royalty & Polity), Kural 445 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As a king must use his ministers as eyes (in managing his kingdom), let him well examine their character and qualifications before he engages them. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெரியாரைத் துணைக்கோடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Seeking the Aid of Great Men' thoughtfully.",
+        "quiz_question_ta": "'பெரியாரைத் துணைக்கோடல்' அதிகாரத்தில் வரும் திருக்குறள் 445 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 445 from Chapter 'Seeking the Aid of Great Men'?",
+        "quiz_options_ta": [
+          "கிடைத்தற்கறிய காலம் வந்து வாய்க்குமானால், அந்த வாய்ப்பைப் பயன்படுத்திக் கொண்டு அப்போதே செய்தற்கரியச் செயல்களைச் செய்ய வேண்டும்.",
+          "தக்க வழிகளை ஆராய்ந்து கூறும் அறிஞரையே உலகம் கண்ணாகக் கொண்டு நடத்தலால், மன்னவனும் அத்தகையாரைக் ஆராய்ந்து நட்புக்கொள்ள வேண்டும்.",
+          "நாள் தோறும் விடாமல் வரும் வறுமை அறிவைக் கொல்வது போல, ஒருவனுடைய புகழை அவனுடைய மறதிக் கொன்று விடும்.",
+          "ஒருவனுடைய கண்ணுக்கு அணிகலமாவது கண்ணோட்டம் என்னும் பண்பே, அஃது இல்லையானால் புண் என்று உணரப்படும்."
+        ],
+        "quiz_options_en": [
+          "When comes the season ripe and rare Dare and do hard things then and there",
+          "Ministers are the monarch's eyes Round him should be the right and wise",
+          "Negligence kills renown just as Ceaseless want wisdom destroys",
+          "Kind looks are jewels for eyes to wear Without them they are felt as sore"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பெரியாரைத் துணைக்கோடல்) பகுதியில் குறள் 445 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தக்க வழிகளை ஆராய்ந்து கூறும் அறிஞரையே உலகம் கண்ணாகக் கொண்டு நடத்தலால், மன்னவனும் அத்தகையாரைக் ஆராய்ந்து நட்புக்கொள்ள வேண்டும். பரிமேலழகர் உரை நுட்பம்: சூழ்வார் கண் ஆக ஒழுகலான் - தன் பாரம் அமைச்சரைக் கண்ணாகக் கொண்டு நடந்தலான், மன்னவன் சூழ்வாரைச் சூழ்ந்து கொளல் - அரசன் அத்தன்மையராய அமைச்சரை ஆராய்ந்து தனக்குத் துணையாகக் கொள்க. (இரண்டாவது விகாரத்தால் தொக்கது. தானே சூழவல்லனாயினும் அளவிறந்த தொழில்களான் ஆகுலம...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 45: 'Seeking the Aid of Great Men'), Kural 445 distills a foundational ethical insight: \"The king, since counsellors are monarch's eyes, Should counsellors select with counsel wise\" Philosophically, As a king must use his ministers as eyes (in managing his kingdom), let him well examine their character and qualifications before he engages them.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "family",
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 446,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தக்க பெரியாரின் கூட்டத்தில் உள்ளனவாய் நடக்கவல்ல ஒருவனுக்கு,அவனுடைய பகைவர் செய்யக்கூடியத் தீங்கு ஒன்றும் இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: There will be nothing left for enemies to do, against him who has the power of acting (so as to secure) the fellowship of worthy men.",
+        "story_title_ta": "பெரியாரைத் துணைக்கோடல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Seeking the Aid of Great Men — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெரியாரைத் துணைக்கோடல்' என்ற அதிகாரத்திலிருந்து குறள் 446 பற்றிக் கதை சொன்னார். 'தகுதி மிக்க துறைப்பெரியவரை நட்பாகக் கொண்டு, அவர் காட்டும் வழியில் நடப்பவரைப் பகைவர் ஏதும் செய்ய இயலாது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 45, 'Seeking the Aid of Great Men', centered on Kural 446: There will be nothing left for enemies to do, against him who has the power of acting (so as to secure) the fellowship of worthy men. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அறிவும், ஆற்றலும் கொண்ட ஒருவன், தன்னைச் சூழவும் அத்தகையோரையே கொண்டிருந்தால் பகைவர்களால் எந்தத் தீங்கையும் விளைவிக்க முடியாது.",
+        "moral_en": "Moral: The king, who knows to live with worthy men allied, Has nought to fear from any foeman's pride.",
+        "game_blank_word_ta": "தானொழுக",
+        "game_options_ta": [
+          "அறனறிந்து",
+          "மூத்த",
+          "தானொழுக",
+          "அறிவுடையார்"
+        ],
+        "game_options_en": [
+          "Weigh their worth and friendship gain Of men of virtue and mature brain",
+          "Cherish the help of men of skill Who ward and safe-guard you from ill",
+          "To move with worthy friends who knows Has none to fear from frightful foes",
+          "Honour and have the great your own Is rarest of the rare things known"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெரியாரைத் துணைக்கோடல் (அரசியல்) பிரிவில் அமைந்த குறள் 446, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தகுதி மிக்க துறைப்பெரியவரை நட்பாகக் கொண்டு, அவர் காட்டும் வழியில் நடப்பவரைப் பகைவர் ஏதும் செய்ய இயலாது. கலைஞர் உரை கூறுவது: அறிவும், ஆற்றலும் கொண்ட ஒருவன், தன்னைச் சூழவும் அத்தகையோரையே கொண்டிருந்தால் பகைவர்களால் எந்தத் தீங்கையும் விளைவிக்க முடியாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Seeking the Aid of Great Men (Royalty & Polity), Kural 446 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There will be nothing left for enemies to do, against him who has the power of acting (so as to secure) the fellowship of worthy men. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெரியாரைத் துணைக்கோடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Seeking the Aid of Great Men' thoughtfully.",
+        "quiz_question_ta": "'பெரியாரைத் துணைக்கோடல்' அதிகாரத்தில் வரும் திருக்குறள் 446 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 446 from Chapter 'Seeking the Aid of Great Men'?",
+        "quiz_options_ta": [
+          "பொறுத்திருக்கும் காலத்தில் கொக்குப் போல் அமைதியாக இருக்க வேண்டும், காலம் வாய்த்த போது அதன் குத்து போல் தவறாமல் செய்து முடிக்க வேண்டும்.",
+          "மறதியால் சோர்ந்து நடப்பவர்க்குப் புகழுடன் வாழும் தன்மையில்லை, அஃது உலகத்தில் எப்படிப்பட்டநூலோர்க்கும் ஒப்ப முடிந்த முடிப்பாகும்.",
+          "தக்க பெரியாரின் கூட்டத்தில் உள்ளனவாய் நடக்கவல்ல ஒருவனுக்கு,அவனுடைய பகைவர் செய்யக்கூடியத் தீங்கு ஒன்றும் இல்லை.",
+          "கண்ணோட்டதிற்க்கு உரிய கண்ணோடுப் பொருந்தி இருந்தும் கண்ணோட்டம் இல்லாதவர் (கண் இருந்தும் காணாத ) மரத்தினைப் போன்றவர்."
+        ],
+        "quiz_options_en": [
+          "In waiting time feign peace like stork In fighting time strike like its peck",
+          "Forgetful nature fails of fame All schools of thinkers say the same",
+          "To move with worthy friends who knows Has none to fear from frightful foes",
+          "Like trees on inert earth they grow Who don't eye to eye kindness show"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பெரியாரைத் துணைக்கோடல்) பகுதியில் குறள் 446 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தக்க பெரியாரின் கூட்டத்தில் உள்ளனவாய் நடக்கவல்ல ஒருவனுக்கு,அவனுடைய பகைவர் செய்யக்கூடியத் தீங்கு ஒன்றும் இல்லை. பரிமேலழகர் உரை நுட்பம்: தக்கார் இனத்தனாய்த் தான் ஒழுக வல்லானை - தக்காராகிய இனத்தை உடையவனாய்த் தானும் அறிந்து ஒழுக வல்ல அரசனை, செற்றார் செயக் கிடந்தது இல் - பகைவர் செய்யக் கிடந்ததொரு துன்பமும் இல்லை. (தக்கார்: அறிவு ஒழுக்கங்களால் தகுதியுடையார். ஒழுகுதல்: அறநீதிகளின் நெறி வழுவாமல...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 45: 'Seeking the Aid of Great Men'), Kural 446 distills a foundational ethical insight: \"The king, who knows to live with worthy men allied, Has nought to fear from any foeman's pride\" Philosophically, There will be nothing left for enemies to do, against him who has the power of acting (so as to secure) the fellowship of worthy men.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "family",
+        "leadership",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 447,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: கடிந்து அறிவுரைக் கூறவல்ல பெரியாரின் துணை கொண்டு நடப்பவரை கெடுக்கும் ஆற்றல் உள்ளவர் எவர் இருக்கின்றனர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Who are great enough to destroy him who has servants that have power to rebuke him ?",
+        "story_title_ta": "பெரியாரைத் துணைக்கோடல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Seeking the Aid of Great Men — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெரியாரைத் துணைக்கோடல்' என்ற அதிகாரத்திலிருந்து குறள் 447 பற்றிக் கதை சொன்னார். 'தீயன கண்டபோது நெருங்கிச் சொல்லும் துறைப் பெரியவரைத் துணையாகக் கொண்டு செயல்படுபவரைக் கெடுக்கக் கூடியவர் எவர்?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 45, 'Seeking the Aid of Great Men', centered on Kural 447: Who are great enough to destroy him who has servants that have power to rebuke him ? Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இடித்துரைத்து நல்வழி காட்டுபவரின் துணையைப் பெற்று நடப்பவர்களைக் கெடுக்கும் ஆற்றல் யாருக்கு உண்டு?",
+        "moral_en": "Moral: What power can work his fall, who faithful ministersEmploys, that thunder out reproaches when he errs.",
+        "game_blank_word_ta": "கெடுக்குந்",
+        "game_options_ta": [
+          "அறனறிந்து",
+          "மூத்த",
+          "அறிவுடையார்",
+          "கெடுக்குந்"
+        ],
+        "game_options_en": [
+          "Weigh their worth and friendship gain Of men of virtue and mature brain",
+          "Cherish the help of men of skill Who ward and safe-guard you from ill",
+          "Honour and have the great your own Is rarest of the rare things known",
+          "No foe can foil his powers whose friends reprove him when he errs"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெரியாரைத் துணைக்கோடல் (அரசியல்) பிரிவில் அமைந்த குறள் 447, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தீயன கண்டபோது நெருங்கிச் சொல்லும் துறைப் பெரியவரைத் துணையாகக் கொண்டு செயல்படுபவரைக் கெடுக்கக் கூடியவர் எவர்? கலைஞர் உரை கூறுவது: இடித்துரைத்து நல்வழி காட்டுபவரின் துணையைப் பெற்று நடப்பவர்களைக் கெடுக்கும் ஆற்றல் யாருக்கு உண்டு? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Seeking the Aid of Great Men (Royalty & Polity), Kural 447 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Who are great enough to destroy him who has servants that have power to rebuke him ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெரியாரைத் துணைக்கோடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Seeking the Aid of Great Men' thoughtfully.",
+        "quiz_question_ta": "'பெரியாரைத் துணைக்கோடல்' அதிகாரத்தில் வரும் திருக்குறள் 447 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 447 from Chapter 'Seeking the Aid of Great Men'?",
+        "quiz_options_ta": [
+          "முற்றுகை செய்வதற்கு ஏற்ற இடத்தைக் கண்டபின் அல்லாமல் எச் செயலையும் தொடங்கக்கூடாது, பகைவரை இகழவும் கூடாது.",
+          "உள்ளத்தில் அச்சம் உடையவர்க்குப் புறத்திலே அரண் இருந்து பயன் இல்லை, அதுபோல் மறதி உடையவர்க்கு நல்ல நிலை வாய்த்தும் பயன் இல்லை.",
+          "கண்ணோட்டம் இல்லாத மக்கள் கண் இல்லாதவரே ஆவர், கண் உடைய மக்கள் கண்ணோட்டம் இல்லா திருத்தலும் இல்லை.",
+          "கடிந்து அறிவுரைக் கூறவல்ல பெரியாரின் துணை கொண்டு நடப்பவரை கெடுக்கும் ஆற்றல் உள்ளவர் எவர் இருக்கின்றனர்."
+        ],
+        "quiz_options_en": [
+          "No action take, no foe despise Until you have surveyed the place",
+          "The fearful find no fortress here The forgetful find good never",
+          "Ungracious men lack real eyes Men of real eyes show benign grace",
+          "No foe can foil his powers whose friends reprove him when he errs"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பெரியாரைத் துணைக்கோடல்) பகுதியில் குறள் 447 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கடிந்து அறிவுரைக் கூறவல்ல பெரியாரின் துணை கொண்டு நடப்பவரை கெடுக்கும் ஆற்றல் உள்ளவர் எவர் இருக்கின்றனர். பரிமேலழகர் உரை நுட்பம்: இடிக்கும் துணையாரை ஆள்வாரை - தீயன கண்டால் நெருங்கிச் சொல்லும் துணையாந் தன்மையை உடையாரை இவர் நமக்குச் சிறந்தார் என்று ஆளும் அரசரை, கெடுக்கும் தகைமையவர் யார் - கெடுக்கும் பெருமை உடைய பகைவர் உலகத்து யாவர்? (தீயன: பாவங்களும் நீதியல்லனவும் துணையாம் தன்மையாவது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 45: 'Seeking the Aid of Great Men'), Kural 447 distills a foundational ethical insight: \"What power can work his fall, who faithful ministersEmploys, that thunder out reproaches when he errs\" Philosophically, Who are great enough to destroy him who has servants that have power to rebuke him ?",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "family",
+        "courage",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 448,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கடிந்து அறிவுரைக் கூறும் பெரியாரின் துணை இல்லாதக் காவலற்ற அரசன், தன்னைக் கெடுக்ககும் பகைவர் எவரும் இல்லாவிட்டாலும் கெடுவான்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The king, who is without the guard of men who can rebuke him, will perish, even though there be no one to destroy him.",
+        "story_title_ta": "பெரியாரைத் துணைக்கோடல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Seeking the Aid of Great Men — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெரியாரைத் துணைக்கோடல்' என்ற அதிகாரத்திலிருந்து குறள் 448 பற்றிக் கதை சொன்னார். 'தீயன கண்டபோது கடிந்து சொல்லும் துறைப் பெரியவரைத் துணையாகக் கொள்ளாத பாதுகாப்பு அற்ற அரசு, அதைக் கெடுப்பார் இல்லாமலேயே தானாகவே கெடும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 45, 'Seeking the Aid of Great Men', centered on Kural 448: The king, who is without the guard of men who can rebuke him, will perish, even though there be no one to destroy him. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: குறையை உணர்த்துவோர் இல்லாத அரசு தானாகவே கெடும்.",
+        "moral_en": "Moral: The king with none to censure him, bereft of safeguards all, Though none his ruin work, shall surely ruined fall.",
+        "game_blank_word_ta": "இடிப்பாரை",
+        "game_options_ta": [
+          "இடிப்பாரை",
+          "அறனறிந்து",
+          "மூத்த",
+          "அறிவுடையார்"
+        ],
+        "game_options_en": [
+          "The careless king whom none reproves Ruins himself sans harmful foes",
+          "Weigh their worth and friendship gain Of men of virtue and mature brain",
+          "Cherish the help of men of skill Who ward and safe-guard you from ill",
+          "Honour and have the great your own Is rarest of the rare things known"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெரியாரைத் துணைக்கோடல் (அரசியல்) பிரிவில் அமைந்த குறள் 448, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தீயன கண்டபோது கடிந்து சொல்லும் துறைப் பெரியவரைத் துணையாகக் கொள்ளாத பாதுகாப்பு அற்ற அரசு, அதைக் கெடுப்பார் இல்லாமலேயே தானாகவே கெடும். கலைஞர் உரை கூறுவது: குறையை உணர்த்துவோர் இல்லாத அரசு தானாகவே கெடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Seeking the Aid of Great Men (Royalty & Polity), Kural 448 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The king, who is without the guard of men who can rebuke him, will perish, even though there be no one to destroy him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெரியாரைத் துணைக்கோடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Seeking the Aid of Great Men' thoughtfully.",
+        "quiz_question_ta": "'பெரியாரைத் துணைக்கோடல்' அதிகாரத்தில் வரும் திருக்குறள் 448 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 448 from Chapter 'Seeking the Aid of Great Men'?",
+        "quiz_options_ta": [
+          "கடிந்து அறிவுரைக் கூறும் பெரியாரின் துணை இல்லாதக் காவலற்ற அரசன், தன்னைக் கெடுக்ககும் பகைவர் எவரும் இல்லாவிட்டாலும் கெடுவான்.",
+          "மாறுபாடு பொருந்திய வலிமை உடையவர்க்கும் அரணோடு பொருந்தி ஏற்படுகின்ற வெற்றியானது பல வகைப் பயன்களையும் கொடுக்கும்.",
+          "வரும் இடையூறுகளை முன்னே அறிந்துக் காக்காமல் மறந்து சோர்ந்தவன், பின்பு அவை வந்துற்றபோது தன் பிழையை நினைத்து இரங்குவான்.",
+          "தம் தம் கடமையாகிய தொழில் கெடாமல் கண்ணோட்டம் உடையவராக இருக்க வல்லவர்க்கு இவ்வுலகம் உரிமை உடையது."
+        ],
+        "quiz_options_en": [
+          "The careless king whom none reproves Ruins himself sans harmful foes",
+          "Many are gains of fortresses Ev'n to kings of power and prowess",
+          "Failing foresight the guardless man Shall rue his folly later on",
+          "Who gracious are but dutiful Have right for this earth beautiful"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பெரியாரைத் துணைக்கோடல்) பகுதியில் குறள் 448 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கடிந்து அறிவுரைக் கூறும் பெரியாரின் துணை இல்லாதக் காவலற்ற அரசன், தன்னைக் கெடுக்ககும் பகைவர் எவரும் இல்லாவிட்டாலும் கெடுவான். பரிமேலழகர் உரை நுட்பம்: இடிப்பாரை இல்லாத ஏமரா மன்னன் - சுழறுதற்கு உரியாரைத் தனக்குத் துணையாகக் கொள்ளாமையின் காவலற்ற அரசன், கெடுப்பார்இலானும் கெடும் - பகையாய்க் கெடுப்பார் இல்லையாயினும் தானே கெடும். ('இல்லாத, ஏமரா' என்பன பெயரெச்ச அடுக்கு. கெடுப்பார் உளராவர் என்பது தோன்ற, 'இலானும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 45: 'Seeking the Aid of Great Men'), Kural 448 distills a foundational ethical insight: \"The king with none to censure him, bereft of safeguards all, Though none his ruin work, shall surely ruined fall\" Philosophically, The king, who is without the guard of men who can rebuke him, will perish, even though there be no one to destroy him.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "family",
+        "courage",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 449,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: முதல் இல்லாத வணிகர்க்கு அதனால் வரும் ஊதியம் இல்லை, அதுபோல் தம்மைத் தாங்கிக் காப்பாற்றும் துணை இல்லாதவர்க்கு நிலைபேறு இல்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: There can be no gain to those who have no capital; and in like manner there can be no permanence to.",
+        "story_title_ta": "பெரியாரைத் துணைக்கோடல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Seeking the Aid of Great Men — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெரியாரைத் துணைக்கோடல்' என்ற அதிகாரத்திலிருந்து குறள் 449 பற்றிக் கதை சொன்னார். 'முதல் இல்லாதவர்களுக்கு அதனால் வரும் லாபம் இல்லை, அதுபோலவே தன்னைத் தாங்கும் துறைப் பெரியவர் துணை இல்லாத அரசுக்கு அவர்களால் வரும் பயனும் இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 45, 'Seeking the Aid of Great Men', centered on Kural 449: There can be no gain to those who have no capital; and in like manner there can be no permanence to. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கட்டடத்தைத் தாங்கும் தூண் போலத் தம்மைத் தாங்கி நிற்கக் கூடிய துணையில்லாதவர்களின் நிலை, முதலீடு செய்யாத வாணிபத்தில் வருவாய் இல்லாத நிலையைப் போன்றதேயாகும்.",
+        "moral_en": "Moral: Who owns no principal, can have no gain of usury; Who lacks support of friends, knows no stability.",
+        "game_blank_word_ta": "கில்லை",
+        "game_options_ta": [
+          "அறனறிந்து",
+          "கில்லை",
+          "மூத்த",
+          "அறிவுடையார்"
+        ],
+        "game_options_en": [
+          "Weigh their worth and friendship gain Of men of virtue and mature brain",
+          "No capital, no gain in trade No prop secure sans good comrade",
+          "Cherish the help of men of skill Who ward and safe-guard you from ill",
+          "Honour and have the great your own Is rarest of the rare things known"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெரியாரைத் துணைக்கோடல் (அரசியல்) பிரிவில் அமைந்த குறள் 449, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முதல் இல்லாதவர்களுக்கு அதனால் வரும் லாபம் இல்லை, அதுபோலவே தன்னைத் தாங்கும் துறைப் பெரியவர் துணை இல்லாத அரசுக்கு அவர்களால் வரும் பயனும் இல்லை. கலைஞர் உரை கூறுவது: கட்டடத்தைத் தாங்கும் தூண் போலத் தம்மைத் தாங்கி நிற்கக் கூடிய துணையில்லாதவர்களின் நிலை, முதலீடு செய்யாத வாணிபத்தில் வருவாய் இல்லாத நிலையைப் போன்றதேயாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Seeking the Aid of Great Men (Royalty & Polity), Kural 449 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There can be no gain to those who have no capital; and in like manner there can be no permanence to. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெரியாரைத் துணைக்கோடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Seeking the Aid of Great Men' thoughtfully.",
+        "quiz_question_ta": "'பெரியாரைத் துணைக்கோடல்' அதிகாரத்தில் வரும் திருக்குறள் 449 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 449 from Chapter 'Seeking the Aid of Great Men'?",
+        "quiz_options_ta": [
+          "தக்க இடத்தை அறிந்து தம்மைக் காத்துக் கொண்டு பகைவரிடத்திற் சென்று தம் செயலைச் செய்தால், வலிமை இல்லாதவறும் வலிமை உடையவராக வெல்வர்,",
+          "முதல் இல்லாத வணிகர்க்கு அதனால் வரும் ஊதியம் இல்லை, அதுபோல் தம்மைத் தாங்கிக் காப்பாற்றும் துணை இல்லாதவர்க்கு நிலைபேறு இல்லை.",
+          "யாரிடத்திலும் எக்காலத்திலும் மறந்தும் சோர்ந்திருக்காதத் தன்மை தவறாமல் பொருந்தியிருக்குமானால், அதற்கு ஒப்பான நன்மை வேறொன்றும் இல்லை.",
+          "தண்டித்தற்குரிய தன்மை உடையவரிடத்திலும் கண்ணோட்டம் செய்து ( அவர் செய்த குற்றத்தைப்) பொருத்துக் காக்கும் பண்பே சிறந்தது."
+        ],
+        "quiz_options_en": [
+          "Weaklings too withstand foe's offence In proper fields of strong defence",
+          "No capital, no gain in trade No prop secure sans good comrade",
+          "Forget none; watch with wakeful care Miss none; the gain is sans compare",
+          "To be benign and bear with foes Who vex us is true virtue's phase"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பெரியாரைத் துணைக்கோடல்) பகுதியில் குறள் 449 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முதல் இல்லாத வணிகர்க்கு அதனால் வரும் ஊதியம் இல்லை, அதுபோல் தம்மைத் தாங்கிக் காப்பாற்றும் துணை இல்லாதவர்க்கு நிலைபேறு இல்லை. பரிமேலழகர் உரை நுட்பம்: முதல் இலார்க்கு ஊதியம் இல்லை - முதற்பொருள் இல்லாத வணிகர்க்கு அதனால் வரும் ஊதியம் இல்லையாம், மதலையாம் சார்பு இலார்க்கு நிலை இல்லை - அதுபோலத் தம்மைத் தாங்குவதாம் துணையில்லாத அரசர்க்கு அதனான் வரும் நிலையில்லை. (முதலைப் பெற்றே இலாபம் பெறவேண்டுமாறு போலத...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 45: 'Seeking the Aid of Great Men'), Kural 449 distills a foundational ethical insight: \"Who owns no principal, can have no gain of usury; Who lacks support of friends, knows no stability\" Philosophically, There can be no gain to those who have no capital; and in like manner there can be no permanence to.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "family",
+        "speech",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 450,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நல்லவராகிய பெரியாரின் தொடர்பைக் கைவிடுதல் பலருடைய பகையைத் தேடிக்கொள்வதைவிடப் பத்து மடங்கு தீமை உடையதாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: It is tenfold more injurious to abandon the friendship of the good, than to incur the hatred of the many.",
+        "story_title_ta": "பெரியாரைத் துணைக்கோடல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Seeking the Aid of Great Men — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பெரியாரைத் துணைக்கோடல்' என்ற அதிகாரத்திலிருந்து குறள் 450 பற்றிக் கதை சொன்னார். 'துறைப் பெரியவர் நட்பைப் பெறாமல் அதை விட்டுவிடுவது, தனியனாய் நின்று, பலரோடும் பகை கொள்வதைக் காட்டிலும், பல பத்து மடங்கு தீமை ஆகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 45, 'Seeking the Aid of Great Men', centered on Kural 450: It is tenfold more injurious to abandon the friendship of the good, than to incur the hatred of the many. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நல்லவர்களின் தொடர்பைக் கைவிடுவது என்பது பலருடைய பகையைத் தேடிக் கொள்வதை விடக் கேடு விளைவிக்கக் கூடியதாகும்.",
+        "moral_en": "Moral: Than hate of many foes incurred, works greater woeTen-fold, of worthy men the friendship to forego.",
+        "game_blank_word_ta": "பத்தடுத்த",
+        "game_options_ta": [
+          "அறனறிந்து",
+          "மூத்த",
+          "பத்தடுத்த",
+          "அறிவுடையார்"
+        ],
+        "game_options_en": [
+          "Weigh their worth and friendship gain Of men of virtue and mature brain",
+          "Cherish the help of men of skill Who ward and safe-guard you from ill",
+          "To give up good friends is ten times worse Than being hated by countless foes",
+          "Honour and have the great your own Is rarest of the rare things known"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பெரியாரைத் துணைக்கோடல் (அரசியல்) பிரிவில் அமைந்த குறள் 450, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: துறைப் பெரியவர் நட்பைப் பெறாமல் அதை விட்டுவிடுவது, தனியனாய் நின்று, பலரோடும் பகை கொள்வதைக் காட்டிலும், பல பத்து மடங்கு தீமை ஆகும். கலைஞர் உரை கூறுவது: நல்லவர்களின் தொடர்பைக் கைவிடுவது என்பது பலருடைய பகையைத் தேடிக் கொள்வதை விடக் கேடு விளைவிக்கக் கூடியதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Seeking the Aid of Great Men (Royalty & Polity), Kural 450 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is tenfold more injurious to abandon the friendship of the good, than to incur the hatred of the many. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பெரியாரைத் துணைக்கோடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Seeking the Aid of Great Men' thoughtfully.",
+        "quiz_question_ta": "'பெரியாரைத் துணைக்கோடல்' அதிகாரத்தில் வரும் திருக்குறள் 450 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 450 from Chapter 'Seeking the Aid of Great Men'?",
+        "quiz_options_ta": [
+          "தக்க இடத்தை அறிந்து பொருந்தியவராய்ச் செயலைச் செய்வாராயின், அவரை வெல்ல எண்ணியிருந்த பகைவர் தம் எண்ணத்தை இழந்துவிடுவார்.",
+          "மறவாமை என்னும் கருவிகொண்டு (கடமைகளைப்) போற்றிச் செய்தால், செய்வதற்கு அரியவை என்று ஒருவனால் முடியாத செயல்கள் இல்லை.",
+          "நல்லவராகிய பெரியாரின் தொடர்பைக் கைவிடுதல் பலருடைய பகையைத் தேடிக்கொள்வதைவிடப் பத்து மடங்கு தீமை உடையதாகும்.",
+          "எவராலும் விரும்பத்தக்க நாகரிகமான கண்ணோட்டத்தை விரும்புகின்றவர், பழகியவர் தமக்கு நஞ்சு இடக்கண்டும் அதை உண்டு அமைவர்."
+        ],
+        "quiz_options_en": [
+          "If fighters fight in vantage field The plans of foes shall be baffled",
+          "With cautious care pursue a thing Impossible there is nothing",
+          "To give up good friends is ten times worse Than being hated by countless foes",
+          "Men of graceful courtesy Take hemlock and look cheerfully"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பெரியாரைத் துணைக்கோடல்) பகுதியில் குறள் 450 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நல்லவராகிய பெரியாரின் தொடர்பைக் கைவிடுதல் பலருடைய பகையைத் தேடிக்கொள்வதைவிடப் பத்து மடங்கு தீமை உடையதாகும். பரிமேலழகர் உரை நுட்பம்: பல்லார் பகை கொள்ளலின் பத்து அடுத்த தீமைத்து - தான் தனியனாய் வைத்துப் பலரோடும் பகை கொள்ளுதலின் பதிற்று மடங்கு தீமை உடைத்து; நல்லார் தொடர் கைவிடல் - அரசன் பெரியாரோடு நட்பினைக் கொள்ளாதொழிதல். (பலர் பகை ஆயக்கால் 'மோதி முள்ளொடு முட்பகை கண்டிடல் , பேது செய்து...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 45: 'Seeking the Aid of Great Men'), Kural 450 distills a foundational ethical insight: \"Than hate of many foes incurred, works greater woeTen-fold, of worthy men the friendship to forego\" Philosophically, It is tenfold more injurious to abandon the friendship of the good, than to incur the hatred of the many.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "family",
+        "leadership",
+        "ethics"
+      ]
+    }
+  ]
+}

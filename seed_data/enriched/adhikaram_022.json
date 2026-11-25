@@ -1,0 +1,588 @@
+{
+  "adhikaram_id": 22,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.639339684+00:00",
+  "kurals": [
+    {
+      "kural_number": 211,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: இந்த உலகத்தார் மழைக்கு என்ன கைமாறு செய்கின்றனர்;, மழை போன்றவர் செய்யும் உதவிகளும் கைமாறு வேண்டாதவை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Benevolence seeks not a return. What does the world give back to the clouds ?",
+        "story_title_ta": "ஒப்புரவறிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Duty to Society — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒப்புரவறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 211 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறர்க்கு உதவுவது, அவ்வுதவியைப் பெற்றவர் திரும்பச் செய்வதை எதிர்பார்த்து அன்று; ஒருவர் செய்ததற்குத் திரும்பச் செய்துதான் ஆகவேண்டும் என்றால் மழை தரும் மேகங்களுக்கு இந்த உலகம் திரும்ப என்ன செய்துவிட முடியும்?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Duty to Society'. Grandpa shared Kural 211 and explained in simple words: Benevolence seeks not a return. What does the world give back to the clouds ? The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: கைம்மாறு கருதி மழை பொழிவதில்லை; அந்த மழையைப் போன்றவர்கள் கைம்மாறு கருதி எந்த உதவியும் செய்பவர்கள் அல்லர்.",
+        "moral_en": "Moral: Duty demands no recompense; to clouds of heaven, By men on earth, what answering gift is given.",
+        "game_blank_word_ta": "வேண்டா",
+        "game_options_ta": [
+          "தாளாற்றித்",
+          "தந்த",
+          "பொருளெல்லாம்",
+          "வேண்டா"
+        ],
+        "game_options_en": [
+          "All the wealth that toils give Is meant to serve those who deserve",
+          "In heav'n and earth 'tis hard to find A greater good than being kind",
+          "He lives who knows befitting act Others are deemed as dead in fact",
+          "Duty demands nothing in turn; How can the world recompense rain?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒப்புரவறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 211, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர்க்கு உதவுவது, அவ்வுதவியைப் பெற்றவர் திரும்பச் செய்வதை எதிர்பார்த்து அன்று; ஒருவர் செய்ததற்குத் திரும்பச் செய்துதான் ஆகவேண்டும் என்றால் மழை தரும் மேகங்களுக்கு இந்த உலகம் திரும்ப என்ன செய்துவிட முடியும்? கலைஞர் உரை கூறுவது: கைம்மாறு கருதி மழை பொழிவதில்லை; அந்த மழையைப் போன்றவர்கள் கைம்மாறு கருதி எந்த உதவியும் செய்பவர்கள் அல்லர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Duty to Society (Domestic Virtue), Kural 211 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Benevolence seeks not a return. What does the world give back to the clouds ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒப்புரவறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Duty to Society' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒப்புரவறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 211 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 211 from Chapter 'Duty to Society'?",
+        "quiz_options_ta": [
+          "உயிர்கள் உடம்பு பெற்று வாழும் நிலைமை, ஊன் உண்ணாதிருத்தலை அடிப்படையாகக் கொண்டது ஊன் உண்டால் நரகம் அவனை வெளிவிடாது.",
+          "புறத்தே தூய்மையாக விளங்குதல் நீரினால் ஏற்ப்படும், அதுபோல அகத்தே தூய்மையாக விளங்குதல் வாய்மையால் உண்டாகும்.",
+          "ஒருவன் எந்தப் பொருளிலிருந்து, எந்தப் பொருளிலிருந்து பற்று நீங்கியவனாக இருக்கின்றானோ, அந்தந்தப் பொருளால் அவன் துன்பம் அடைவதில்லை.",
+          "இந்த உலகத்தார் மழைக்கு என்ன கைமாறு செய்கின்றனர்;, மழை போன்றவர் செய்யும் உதவிகளும் கைமாறு வேண்டாதவை."
+        ],
+        "quiz_options_en": [
+          "Off with flesh; a life you save The eater hell's mouth shall not waive!",
+          "Water makes you pure outward Truth renders you pure inward",
+          "From what from what a man is free From that, from that his torments flee",
+          "Duty demands nothing in turn; How can the world recompense rain?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒப்புரவறிதல்) பகுதியில் குறள் 211 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இந்த உலகத்தார் மழைக்கு என்ன கைமாறு செய்கின்றனர்;, மழை போன்றவர் செய்யும் உதவிகளும் கைமாறு வேண்டாதவை. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது உலக நடையினை அறிந்து செய்தல்.உலகநடை வேதநடை போல அறநூல்களுட் கூறப்படுவதன்றித் தாமே அறிந்து செய்யுந் தன்மைத்தாகலின் , ஒப்புரவு அறிதலென்றார்.மேல்,மனம் மொழி மெய்களால் தவிரத் தகுவன கூறினார், இனிச் செய்யத் தகுவனவற்றுள் எஞ்சி நின்றன கூறுகின்றாராகலின், இது...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 22: 'Duty to Society'), Kural 211 distills a foundational ethical insight: \"Duty demands no recompense; to clouds of heaven, By men on earth, what answering gift is given\" Philosophically, Benevolence seeks not a return. What does the world give back to the clouds ?",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "harmony",
+        "friendship",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 212,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒப்புரவாளன் தன்னால் இயன்ற முயற்சி செய்து சேர்த்த பொருள் எல்லாம் தக்கவர்க்கு உதவி செய்வதற்கே ஆகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: All the wealth acquired with perseverance by the worthy is for the exercise of benevolence.",
+        "story_title_ta": "ஒப்புரவறிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Duty to Society — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒப்புரவறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 212 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'முயன்று சம்பாதித்த பொருள் எல்லாம், உழைக்க முடியாமல் பொருள் தேவைப்படுவோர்க்கு உதவுவதற்கே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Duty to Society'. Grandpa shared Kural 212 and explained in simple words: All the wealth acquired with perseverance by the worthy is for the exercise of benevolence. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தகுதியுடையோர் நலனுக்கு உதவிடும் பொருட்டே ஒருவன் முயன்று திரட்டிய பொருள் பயன்பட வேண்டும்.",
+        "moral_en": "Moral: The worthy say, when wealth rewards their toil-spent hours, For uses of beneficence alone 'tis ours.",
+        "game_blank_word_ta": "பொருளெல்லாம்",
+        "game_options_ta": [
+          "பொருளெல்லாம்",
+          "கைம்மாறு",
+          "வேண்டா",
+          "கடப்பாடு"
+        ],
+        "game_options_en": [
+          "All the wealth that toils give Is meant to serve those who deserve",
+          "Duty demands nothing in turn; How can the world recompense rain?",
+          "In heav'n and earth 'tis hard to find A greater good than being kind",
+          "He lives who knows befitting act Others are deemed as dead in fact"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒப்புரவறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 212, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முயன்று சம்பாதித்த பொருள் எல்லாம், உழைக்க முடியாமல் பொருள் தேவைப்படுவோர்க்கு உதவுவதற்கே. கலைஞர் உரை கூறுவது: தகுதியுடையோர் நலனுக்கு உதவிடும் பொருட்டே ஒருவன் முயன்று திரட்டிய பொருள் பயன்பட வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Duty to Society (Domestic Virtue), Kural 212 speaks directly to teens navigating studies, friendships, leadership, and digital choices: All the wealth acquired with perseverance by the worthy is for the exercise of benevolence. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒப்புரவறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Duty to Society' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒப்புரவறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 212 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 212 from Chapter 'Duty to Society'?",
+        "quiz_options_ta": [
+          "ஒப்புரவாளன் தன்னால் இயன்ற முயற்சி செய்து சேர்த்த பொருள் எல்லாம் தக்கவர்க்கு உதவி செய்வதற்கே ஆகும்.",
+          "புலால் தின்னும் பொருட்டு உலகத்தார் உயிர்களைக் கொல்லா திருப்பாரானால், விலையின் பொருட்டு ஊன் விற்பவர் இல்லாமல் போவார்.",
+          "(புறத்தில் உள்ள இருளை நீக்கும்) விளக்குகள் எல்லாம் விளக்குகள் அல்ல, சான்றோர்க்கு (அகத்து இருள் நீக்கும்) பொய்யாமையாகிய விளக்கே விளக்கு ஆகும்.",
+          "துன்பமில்லாத நிலைமை வேண்டுமானால் எல்லாப் பொருள்களும் உள்ள காலத்திலேயெ துறக்க வேண்டும்,துறந்த பின் இங்குப் பெறக்கூடும் இன்பங்கள் பல."
+        ],
+        "quiz_options_en": [
+          "All the wealth that toils give Is meant to serve those who deserve",
+          "None would kill and sell the flesh For eating it if they don't wish",
+          "All lights are not lights for the wise; Truth light is light bright like Sun-light",
+          "Give up all to gain the True And endless joys shall hence seek you"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒப்புரவறிதல்) பகுதியில் குறள் 212 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒப்புரவாளன் தன்னால் இயன்ற முயற்சி செய்து சேர்த்த பொருள் எல்லாம் தக்கவர்க்கு உதவி செய்வதற்கே ஆகும். பரிமேலழகர் உரை நுட்பம்: தக்கார்க்கு - தகுதி உடையார்க்கு ஆயின், தாள் ஆற்றித் தந்த பொருள் எல்லாம் - முயல்தலைச் செய்து ஈட்டிய பொருள் முழுவதும், வேளாண்மை செய்தற் பொருட்டு - ஒப்புரவு செய்தற் பயத்தவாம். (பிறர்க்கு உதவாதார் போலத் தாமே உண்டற்பொருட்டும் வைத்து இழத்தற்பொருட்டும் அன்று...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 22: 'Duty to Society'), Kural 212 distills a foundational ethical insight: \"The worthy say, when wealth rewards their toil-spent hours, For uses of beneficence alone 'tis ours\" Philosophically, All the wealth acquired with perseverance by the worthy is for the exercise of benevolence.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wealth",
+        "time",
+        "ethics",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 213,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பிறர்க்கு உதவி செய்து வாழும் ஒப்புரவைப் போல நல்லனவாகிய வேறு அறப்பகுதிகளைத் தேவருலகத்திலும் இவ்வுலகத்திலும் பெறுதல் இயலாது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: It is difficult to obtain another good equal to benevolence either in this world or in that of the gods.",
+        "story_title_ta": "ஒப்புரவறிதல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Duty to Society — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒப்புரவறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 213 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தேவர்கள் உலகத்திலும் இப்பூவுலகிலும், உழைக்க முடியாதவர்க்கு உதவுவது போன்ற வேறு நல்ல செயல்களைப் பெறுவது கடினம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Duty to Society'. Grandpa shared Kural 213 and explained in simple words: It is difficult to obtain another good equal to benevolence either in this world or in that of the gods. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறர்க்கு உதவிடும் பண்பாகிய ``ஒப்புரவு'' என்பதைவிடச் சிறந்த பண்பினை இன்றைய உலகிலும், இனிவரும் புதிய உலகிலும் காண்பது அரிது.",
+        "moral_en": "Moral: To 'due beneficence' no equal good we know, Amid the happy gods, or in this world below.",
+        "game_blank_word_ta": "பெறலரிதே",
+        "game_options_ta": [
+          "கைம்மாறு",
+          "பெறலரிதே",
+          "வேண்டா",
+          "கடப்பாடு"
+        ],
+        "game_options_en": [
+          "Duty demands nothing in turn; How can the world recompense rain?",
+          "In heav'n and earth 'tis hard to find A greater good than being kind",
+          "All the wealth that toils give Is meant to serve those who deserve",
+          "He lives who knows befitting act Others are deemed as dead in fact"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒப்புரவறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 213, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தேவர்கள் உலகத்திலும் இப்பூவுலகிலும், உழைக்க முடியாதவர்க்கு உதவுவது போன்ற வேறு நல்ல செயல்களைப் பெறுவது கடினம். கலைஞர் உரை கூறுவது: பிறர்க்கு உதவிடும் பண்பாகிய ``ஒப்புரவு'' என்பதைவிடச் சிறந்த பண்பினை இன்றைய உலகிலும், இனிவரும் புதிய உலகிலும் காண்பது அரிது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Duty to Society (Domestic Virtue), Kural 213 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is difficult to obtain another good equal to benevolence either in this world or in that of the gods. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒப்புரவறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Duty to Society' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒப்புரவறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 213 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 213 from Chapter 'Duty to Society'?",
+        "quiz_options_ta": [
+          "புலால் உண்ணாமலிருக்க வேண்டும், ஆராய்ந்து அறிவாரைப் பெற்றால், அப் புலால் வேறோர் உயிரின் புண் என்பதை உணரலாம்.",
+          "பிறர்க்கு உதவி செய்து வாழும் ஒப்புரவைப் போல நல்லனவாகிய வேறு அறப்பகுதிகளைத் தேவருலகத்திலும் இவ்வுலகத்திலும் பெறுதல் இயலாது.",
+          "யாம் உண்மையாக கண்ட பொருள்களுள் வாய்மைவிடத் எத்தன்மையாலும் சிறந்தவைகளாகச் சொல்லத்தக்கவை வேறு இல்லை.",
+          "ஐம்பொறிகளுக்கும் உரிய ஐந்து புலன்களின் ஆசையையும் வெல்லுதல் வேண்டும், அவற்றிற்கு வேண்டிய பொருள்களை எல்லாம் ஒரு சேர விட வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "From eating flesh men must abstain If they but feel the being's pain",
+          "In heav'n and earth 'tis hard to find A greater good than being kind",
+          "Of all the things we here have seen Nothing surpasses Truth serene!",
+          "Curb the senses five and renounce The carving desires all at once"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒப்புரவறிதல்) பகுதியில் குறள் 213 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறர்க்கு உதவி செய்து வாழும் ஒப்புரவைப் போல நல்லனவாகிய வேறு அறப்பகுதிகளைத் தேவருலகத்திலும் இவ்வுலகத்திலும் பெறுதல் இயலாது. பரிமேலழகர் உரை நுட்பம்: புத்தேள் உலகத்தும் ஈண்டும் - தேவர் உலகத்தும் இவ்வுலகத்தும், ஒப்புரவின் நல்ல பிற பெறல் அரிது - ஒப்புரவுபோல நல்லன பிற செயல்களைப் பெறுதல் அரிது. ( ஈவாரும் ஏற்பாரும் இன்றி எல்லோரும் ஒரு தன்மையராகலின் புத்தேள் உலகத்து அரிதாயிற்று, யாவர்க்கும் ஒப்பது இது போல...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 22: 'Duty to Society'), Kural 213 distills a foundational ethical insight: \"To 'due beneficence' no equal good we know, Amid the happy gods, or in this world below\" Philosophically, It is difficult to obtain another good equal to benevolence either in this world or in that of the gods.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "family",
+        "kindness",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 214,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒப்புரவை அறிந்து போற்றிப் பிறர்க்கு உதவியாக வாழ்கின்றவன் உயிர்வாழ்கின்றவன் ஆவான், மற்றவன் செத்தவருள் சேர்த்துக் கருதப்படுவான்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: He truly lives who knows (and discharges) the proper duties (of benevolence) He who knows them not will be reckoned among the dead.",
+        "story_title_ta": "ஒப்புரவறிதல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Duty to Society — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒப்புரவறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 214 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உழைக்கும் சக்தி அற்றவர்க்கு உதவுபவனே உயிரோடு வாழ்பவன். உதவாதவன் இருந்தாலும் இறந்தவனாகவே எண்ணப்படுவான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Duty to Society'. Grandpa shared Kural 214 and explained in simple words: He truly lives who knows (and discharges) the proper duties (of benevolence) He who knows them not will be reckoned among the dead. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒப்புரவை அறிந்து பிறருக்கு உதவியாகத் தன் வாழ்வை அமைத்துக் கொள்பவனே உயிர்வாழ்பவன் எனக் கருதப்படுவான்; அதற்கு மாறானவன் இறந்தவனே ஆவான்.",
+        "moral_en": "Moral: Who knows what's human life's befitting grace, He lives; the rest 'mongst dead men have their place.",
+        "game_blank_word_ta": "செத்தாருள்",
+        "game_options_ta": [
+          "கைம்மாறு",
+          "வேண்டா",
+          "செத்தாருள்",
+          "கடப்பாடு"
+        ],
+        "game_options_en": [
+          "Duty demands nothing in turn; How can the world recompense rain?",
+          "All the wealth that toils give Is meant to serve those who deserve",
+          "He lives who knows befitting act Others are deemed as dead in fact",
+          "In heav'n and earth 'tis hard to find A greater good than being kind"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒப்புரவறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 214, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உழைக்கும் சக்தி அற்றவர்க்கு உதவுபவனே உயிரோடு வாழ்பவன். உதவாதவன் இருந்தாலும் இறந்தவனாகவே எண்ணப்படுவான். கலைஞர் உரை கூறுவது: ஒப்புரவை அறிந்து பிறருக்கு உதவியாகத் தன் வாழ்வை அமைத்துக் கொள்பவனே உயிர்வாழ்பவன் எனக் கருதப்படுவான்; அதற்கு மாறானவன் இறந்தவனே ஆவான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Duty to Society (Domestic Virtue), Kural 214 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He truly lives who knows (and discharges) the proper duties (of benevolence) He who knows them not will be reckoned among the dead. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒப்புரவறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Duty to Society' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒப்புரவறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 214 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 214 from Chapter 'Duty to Society'?",
+        "quiz_options_ta": [
+          "குற்றத்திலிருந்து நீங்கிய அறிவை உடையவர், ஒர் உயிரினிடத்திலிருந்து பிரிந்து வந்த ஊனை உண்ணமாட்டார்.",
+          "பலிக்கும் இடத்தில் சினம் வராமல் காப்பவனே சினம் காப்பவன், பலிக்காத இடத்தில் காத்தால் என்ன, காக்கா விட்டால் என்ன?",
+          "ஒப்புரவை அறிந்து போற்றிப் பிறர்க்கு உதவியாக வாழ்கின்றவன் உயிர்வாழ்கின்றவன் ஆவான், மற்றவன் செத்தவருள் சேர்த்துக் கருதப்படுவான்.",
+          "தவம் செய்தவற்கு ஒரு பற்றும் இல்லாதிருத்தல் இயல்பாகும், பற்று உடையவராக இருத்தல் மீண்டும் மயங்குவதற்கு வழியாகும்."
+        ],
+        "quiz_options_en": [
+          "Whose mind from illusion is freed Refuse on lifeless flesh to feed",
+          "Anger against the weak is wrong It is futile against the strong",
+          "He lives who knows befitting act Others are deemed as dead in fact",
+          "To have nothing is law of vows Having the least deludes and snares"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒப்புரவறிதல்) பகுதியில் குறள் 214 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒப்புரவை அறிந்து போற்றிப் பிறர்க்கு உதவியாக வாழ்கின்றவன் உயிர்வாழ்கின்றவன் ஆவான், மற்றவன் செத்தவருள் சேர்த்துக் கருதப்படுவான். பரிமேலழகர் உரை நுட்பம்: உயிர் வாழ்வான் ஒத்தது அறிவான் - உயிரோடு கூடி வாழ்வானாவான் உலக நடையினை அறிந்து செய்வான், மற்றையான் செத்தாருள் வைக்கப்படும் - அஃதறிந்து செய்யாதவன் உயிருடையானே யாயினும் செத்தாருள் ஒருவனாகக் கருதப்படும்.(உயிரின் அறிவும் செயலும் காணாமையின், 'செத்தாருள...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 22: 'Duty to Society'), Kural 214 distills a foundational ethical insight: \"Who knows what's human life's befitting grace, He lives; the rest 'mongst dead men have their place\" Philosophically, He truly lives who knows (and discharges) the proper duties (of benevolence) He who knows them not will be reckoned among the dead.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "harmony",
+        "friendship",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 215,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒப்புரவினால் உலகம் வாழுமாறு விரும்பும் பேரறிவாளியின் செல்வம், ஊரார் நீருண்ணும் குளம் நீரால் நிறைந்தாற் போன்றது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The wealth of that man of eminent knowledge who desires to exercise the benevolence approved of by the world, is like the full waters of a city-tank.",
+        "story_title_ta": "ஒப்புரவறிதல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Duty to Society — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒப்புரவறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 215 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உலகின் வளர்ச்சிப் போக்கை அறிந்து செயற்படும் பேர் அறிவாளனின் செல்வம், நீர் நிறைந்த ஊருணி எல்லார்க்கும் பொதுவாவது போல் பொதுவாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Duty to Society'. Grandpa shared Kural 215 and explained in simple words: The wealth of that man of eminent knowledge who desires to exercise the benevolence approved of by the world, is like the full waters of a city-tank. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பொதுநல நோக்குடன் வாழ்கின்ற பேரறிவாளனின் செல்வமானது ஊர் மக்கள் அனைவருக்கும் பயன் தரும் நீர் நிறைந்த ஊருணியைப் போன்றதாகும்.",
+        "moral_en": "Moral: The wealth of men who love the 'fitting way,' the truly wise, Is as when water fills the lake that village needs supplies.",
+        "game_blank_word_ta": "வாளன்",
+        "game_options_ta": [
+          "கைம்மாறு",
+          "வேண்டா",
+          "கடப்பாடு",
+          "வாளன்"
+        ],
+        "game_options_en": [
+          "Duty demands nothing in turn; How can the world recompense rain?",
+          "All the wealth that toils give Is meant to serve those who deserve",
+          "In heav'n and earth 'tis hard to find A greater good than being kind",
+          "The wealth that wise and kind do make Is like water that fills a lake"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒப்புரவறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 215, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உலகின் வளர்ச்சிப் போக்கை அறிந்து செயற்படும் பேர் அறிவாளனின் செல்வம், நீர் நிறைந்த ஊருணி எல்லார்க்கும் பொதுவாவது போல் பொதுவாகும். கலைஞர் உரை கூறுவது: பொதுநல நோக்குடன் வாழ்கின்ற பேரறிவாளனின் செல்வமானது ஊர் மக்கள் அனைவருக்கும் பயன் தரும் நீர் நிறைந்த ஊருணியைப் போன்றதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Duty to Society (Domestic Virtue), Kural 215 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The wealth of that man of eminent knowledge who desires to exercise the benevolence approved of by the world, is like the full waters of a city-tank. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒப்புரவறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Duty to Society' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒப்புரவறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 215 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 215 from Chapter 'Duty to Society'?",
+        "quiz_options_ta": [
+          "நெய் முதலியப் பொருள்களைத் தீயில் சொரிந்து ஆயிரம் வேள்விகள் செய்தலை விட ஒன்றன் உயிரைக்கொன்று உடம்பைத் தின்னாதிருத்தல் நல்லது.",
+          "பலிக்காத இடத்தில் (தன்னை விட வலியவரிடத்தில்) சினம் கொள்வது தீங்கு. பலிக்கும் இடத்திலும் (மெலியவரித்திலும்) சினத்தைவிடத் தீயவை வேறு இல்லை.",
+          "பிறவித் துன்பத்தைப் போக்க முயல்கின்றவர்க்கு உடம்பும் மிகையான பொருள் ஆகையால் அதற்கு மேல் வேறு தொடர்பு கொள்வது ஏனோ.",
+          "ஒப்புரவினால் உலகம் வாழுமாறு விரும்பும் பேரறிவாளியின் செல்வம், ஊரார் நீருண்ணும் குளம் நீரால் நிறைந்தாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Not to-kill-and-eat, truly Excels thousand pourings of ghee!",
+          "Vain is wrath against men of force Against the meek it is still worse",
+          "Why add to bonds while this body Is too much for saints to be birth-free",
+          "The wealth that wise and kind do make Is like water that fills a lake"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒப்புரவறிதல்) பகுதியில் குறள் 215 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒப்புரவினால் உலகம் வாழுமாறு விரும்பும் பேரறிவாளியின் செல்வம், ஊரார் நீருண்ணும் குளம் நீரால் நிறைந்தாற் போன்றது. பரிமேலழகர் உரை நுட்பம்: உலகு அவாம் பேர் அறிவாளன் திரு - உலகநடையை விரும்பிச் செய்யும்பெரிய அறிவினை யுடையவனது செல்வம், ஊருணி நீர் நிறைந்தற்று - ஊரின் வாழ்வார் தண்ணீர் உண்ணும் குளம் நீர் நிறைந்தாற் போலும். (நிறைதல் என்னும் இடத்து நிகழ் பொருளின் தொழில் இடத்தின் மேல் ஏற்றப்பட்டது. பாழ...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 22: 'Duty to Society'), Kural 215 distills a foundational ethical insight: \"The wealth of men who love the 'fitting way,' the truly wise, Is as when water fills the lake that village needs supplies\" Philosophically, The wealth of that man of eminent knowledge who desires to exercise the benevolence approved of by the world, is like the full waters of a city-tank.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wealth",
+        "ethics",
+        "wisdom",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 216,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒப்புராவாகிய நற்பண்பு உடையவனிடம் செல்வம் சேர்ந்தால் அஃது ஊரின் நடுவே உள்ள பயன் மிகுந்த மரம் பழங்கள் பழுத்தாற் போன்றது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The wealth of a man (possessed of the virtue) of benevolence is like the ripening of a fruitful tree in the midst of a town.",
+        "story_title_ta": "ஒப்புரவறிதல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Duty to Society — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒப்புரவறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 216 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறரால் விரும்பப்படுபவனிடம் சேரும் செல்வம், உண்ணத் தகும், கனிதரும் மரம் ஊருக்கு உள்ளே பழுத்திருப்பதைப் போல எல்லார்க்கும் பொதுவாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Duty to Society'. Grandpa shared Kural 216 and explained in simple words: The wealth of a man (possessed of the virtue) of benevolence is like the ripening of a fruitful tree in the midst of a town. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஈர நெஞ்சம் கொண்டவனிடம் செல்வம் சேருமேயானால் அது, ஊரின் நடுவே செழித்து வளர்ந்த மரம், பழுத்துக் குலுங்குவது போல எல்லோர்க்கும் பயன்படுவதாகும்.",
+        "moral_en": "Moral: A tree that fruits in th' hamlet's central mart, Is wealth that falls to men of liberal heart.",
+        "game_blank_word_ta": "படின்",
+        "game_options_ta": [
+          "படின்",
+          "கைம்மாறு",
+          "வேண்டா",
+          "கடப்பாடு"
+        ],
+        "game_options_en": [
+          "Who plenty gets and plenty gives Is like town-tree teeming with fruits",
+          "Duty demands nothing in turn; How can the world recompense rain?",
+          "All the wealth that toils give Is meant to serve those who deserve",
+          "In heav'n and earth 'tis hard to find A greater good than being kind"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒப்புரவறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 216, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறரால் விரும்பப்படுபவனிடம் சேரும் செல்வம், உண்ணத் தகும், கனிதரும் மரம் ஊருக்கு உள்ளே பழுத்திருப்பதைப் போல எல்லார்க்கும் பொதுவாகும். கலைஞர் உரை கூறுவது: ஈர நெஞ்சம் கொண்டவனிடம் செல்வம் சேருமேயானால் அது, ஊரின் நடுவே செழித்து வளர்ந்த மரம், பழுத்துக் குலுங்குவது போல எல்லோர்க்கும் பயன்படுவதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Duty to Society (Domestic Virtue), Kural 216 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The wealth of a man (possessed of the virtue) of benevolence is like the ripening of a fruitful tree in the midst of a town. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒப்புரவறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Duty to Society' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒப்புரவறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 216 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 216 from Chapter 'Duty to Society'?",
+        "quiz_options_ta": [
+          "ஒப்புராவாகிய நற்பண்பு உடையவனிடம் செல்வம் சேர்ந்தால் அஃது ஊரின் நடுவே உள்ள பயன் மிகுந்த மரம் பழங்கள் பழுத்தாற் போன்றது.",
+          "ஓருயிரையும் கொல்லாமல் புலால் உண்ணாமல் வாழ்கின்றவனை உலகத்தில் உள்ள எல்லா உயிர்களும் கைகூப்பி வணங்கும்.",
+          "யாரிடத்திலும் சினம் கொள்ளாமல் அதை மறந்து விட வேண்டும், தீமையான விளைவுகள் அச் சினத்தாலேயே ஏற்படும்.",
+          "உடம்பை யான் எனக் கருதலும் தொடர்பு இல்லாத பொருளை எனது எனக்கருதலுமாகிய மயக்கத்தை போக்குகின்றவன், தேவர்க்கும் எட்டாத உயர்ந்த நிலை அடைவான்."
+        ],
+        "quiz_options_en": [
+          "Who plenty gets and plenty gives Is like town-tree teeming with fruits",
+          "All lives shall lift their palms to him Who eats not flesh nor kills with whim",
+          "Off with wrath with any one It is the source of sin and pain",
+          "Who curbs the pride of I and mine Gets a world rare for gods to gain"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒப்புரவறிதல்) பகுதியில் குறள் 216 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒப்புராவாகிய நற்பண்பு உடையவனிடம் செல்வம் சேர்ந்தால் அஃது ஊரின் நடுவே உள்ள பயன் மிகுந்த மரம் பழங்கள் பழுத்தாற் போன்றது. பரிமேலழகர் உரை நுட்பம்: செல்வம் நயன் உடையான்கண் படின் - செல்வம் ஒப்புரவு செய்வான் கண்ணே படுமாயின், பயன் மரம் உள்ளூர்ப் பழுத்தற்று - அது பயன்படுமரம் ஊர் நடுவே பழுத்தாற்போலும். (உலக நீதி பலவற்றுள்ளும் ஒப்புரவு சிறந்தமையின் அதனையே 'நயன்' என்றார்.எல்லார்க்கும் எளிதில் பயன் கொடுக்கும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 22: 'Duty to Society'), Kural 216 distills a foundational ethical insight: \"A tree that fruits in th' hamlet's central mart, Is wealth that falls to men of liberal heart\" Philosophically, The wealth of a man (possessed of the virtue) of benevolence is like the ripening of a fruitful tree in the midst of a town.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wealth",
+        "ethics",
+        "love",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 217,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒப்புரவாகிய பெருந்தகைமை உடையவனிடத்து செல்வம் சேர்ந்தால் அஃது எல்லா உறுப்புகளுக்கும் மருந்தாகிப் பயன்படத் தவறாத மரம் போன்றது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: If wealth be in the possession of a man who has the great excellence (of benevolence), it is like a tree which as a medicine is an infallible cure for disease.",
+        "story_title_ta": "ஒப்புரவறிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Duty to Society — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒப்புரவறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 217 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பெரும் பண்பாளனிடம் சேரும் செல்வம், எல்லா உறுப்புகளாலும் மருந்து ஆகிப் பயன்படுவதிலிருந்து தப்பாத மரம் போலப் பொதுவாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Duty to Society'. Grandpa shared Kural 217 and explained in simple words: If wealth be in the possession of a man who has the great excellence (of benevolence), it is like a tree which as a medicine is an infallible cure for disease. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறருக்கு உதவிடும் பெருந்தன்மையாம் ஒப்புரவு உடையவனிடம், செல்வம் சேர்ந்தால் அது ஒரு நல்ல மரத்தின் எல்லா உறுப்புகளும் மருந்தாகப் பயன்படுவது போன்றதாகும்.",
+        "moral_en": "Moral: Unfailing tree that healing balm distils from every part, Is ample wealth that falls to him of large and noble heart.",
+        "game_blank_word_ta": "மருந்தாகித்",
+        "game_options_ta": [
+          "கைம்மாறு",
+          "மருந்தாகித்",
+          "வேண்டா",
+          "கடப்பாடு"
+        ],
+        "game_options_en": [
+          "Duty demands nothing in turn; How can the world recompense rain?",
+          "The wealth of a wide-hearted soul Is a herbal tree that healeth all",
+          "All the wealth that toils give Is meant to serve those who deserve",
+          "In heav'n and earth 'tis hard to find A greater good than being kind"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒப்புரவறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 217, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெரும் பண்பாளனிடம் சேரும் செல்வம், எல்லா உறுப்புகளாலும் மருந்து ஆகிப் பயன்படுவதிலிருந்து தப்பாத மரம் போலப் பொதுவாகும். கலைஞர் உரை கூறுவது: பிறருக்கு உதவிடும் பெருந்தன்மையாம் ஒப்புரவு உடையவனிடம், செல்வம் சேர்ந்தால் அது ஒரு நல்ல மரத்தின் எல்லா உறுப்புகளும் மருந்தாகப் பயன்படுவது போன்றதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Duty to Society (Domestic Virtue), Kural 217 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If wealth be in the possession of a man who has the great excellence (of benevolence), it is like a tree which as a medicine is an infallible cure for disease. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒப்புரவறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Duty to Society' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒப்புரவறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 217 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 217 from Chapter 'Duty to Society'?",
+        "quiz_options_ta": [
+          "தனக்கு உற்ற துன்பத்தை பொறுத்தலும் மற்ற உயிர்க்குத் துன்பம் செய்யாதிருத்தலும் ஆகிய அவ்வளவே தவத்திற்கு வடிவமாகும்",
+          "ஒப்புரவாகிய பெருந்தகைமை உடையவனிடத்து செல்வம் சேர்ந்தால் அஃது எல்லா உறுப்புகளுக்கும் மருந்தாகிப் பயன்படத் தவறாத மரம் போன்றது.",
+          "முகமலர்ச்சியும் அகமலர்ச்சியும் கொல்லுகின்ற சினத்தை விட ஒருவனுக்கு பகையானவை வேறு உள்ளனவோ?",
+          "யான் எனது என்னும் இருவகைப் பற்றுக்களையும் பற்றிக் கொண்டுவிடாத வரை, துன்பங்களும் விடாமல் பற்றிக்கொள்கின்றன."
+        ],
+        "quiz_options_en": [
+          "Pains endure; pain not beings This is the type of true penance",
+          "The wealth of a wide-hearted soul Is a herbal tree that healeth all",
+          "Is there a foe like harmful ire Which kills the smile and joyful cheer?",
+          "Grief clings on and on to those Who cling to bonds without release"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒப்புரவறிதல்) பகுதியில் குறள் 217 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒப்புரவாகிய பெருந்தகைமை உடையவனிடத்து செல்வம் சேர்ந்தால் அஃது எல்லா உறுப்புகளுக்கும் மருந்தாகிப் பயன்படத் தவறாத மரம் போன்றது. பரிமேலழகர் உரை நுட்பம்: செல்வம் பெருந்தகையான்கண் படின் - செல்வம் ஒப்புரவு செய்யும் பெரிய தகைமையுடையான் கண்ணே படுமாயின், மருந்து ஆகித் தப்பா மரத்தற்று - அஃது எல்லா உறுப்பும் பிணிகட்கு மருந்தாய்த் தப்பாத மரத்தை ஒக்கும். (தப்புதலாவது, கோடற்கு அரிய இடங்களில் இன்றாதல், மறைந்து நின்றாதால...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 22: 'Duty to Society'), Kural 217 distills a foundational ethical insight: \"Unfailing tree that healing balm distils from every part, Is ample wealth that falls to him of large and noble heart\" Philosophically, If wealth be in the possession of a man who has the great excellence (of benevolence), it is like a tree which as a medicine is an infallible cure for disease.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wealth",
+        "love",
+        "ethics",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 218,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒப்புரவு அறிந்து ஒழுதலாகியத் தன் கடமை அறிந்த அறிவை உடையவர், செல்வ வளம் இல்லாத காலத்திலும் ஒப்புரவுக்குத் தளர மாட்டார்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The wise who know what is duty will not scant their benevolence even when they are without wealth.",
+        "story_title_ta": "ஒப்புரவறிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Duty to Society — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒப்புரவறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 218 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'செய்யவேண்டிய கடமையை அறிந்த அறிவாளிகள், தம்மிடம் கொடுக்க இடம் இல்லாக் காலத்திலும், உழைக்கும் சக்தி அற்றவர்க்கு உதவத் தயங்க மாட்டார்கள்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Duty to Society'. Grandpa shared Kural 218 and explained in simple words: The wise who know what is duty will not scant their benevolence even when they are without wealth. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தம்மிடம் வளம் நீங்கி, வறுமை வந்துற்ற காலத்திலும், பிறர்க்கு உதவிடும் ஒப்புரவில் தளராதவர், கடமையுணர்ந்த தகைமையாளர்.",
+        "moral_en": "Moral: E'en when resources fall, they weary not of 'kindness due,'-They to whom Duty's self appears in vision true.",
+        "game_blank_word_ta": "பருவத்தும்",
+        "game_options_ta": [
+          "கைம்மாறு",
+          "வேண்டா",
+          "பருவத்தும்",
+          "கடப்பாடு"
+        ],
+        "game_options_en": [
+          "Duty demands nothing in turn; How can the world recompense rain?",
+          "All the wealth that toils give Is meant to serve those who deserve",
+          "Though seers may fall on evil days Their sense of duty never strays",
+          "In heav'n and earth 'tis hard to find A greater good than being kind"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒப்புரவறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 218, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செய்யவேண்டிய கடமையை அறிந்த அறிவாளிகள், தம்மிடம் கொடுக்க இடம் இல்லாக் காலத்திலும், உழைக்கும் சக்தி அற்றவர்க்கு உதவத் தயங்க மாட்டார்கள். கலைஞர் உரை கூறுவது: தம்மிடம் வளம் நீங்கி, வறுமை வந்துற்ற காலத்திலும், பிறர்க்கு உதவிடும் ஒப்புரவில் தளராதவர், கடமையுணர்ந்த தகைமையாளர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Duty to Society (Domestic Virtue), Kural 218 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The wise who know what is duty will not scant their benevolence even when they are without wealth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒப்புரவறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Duty to Society' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒப்புரவறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 218 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 218 from Chapter 'Duty to Society'?",
+        "quiz_options_ta": [
+          "தவக்கோலமும் தவஒழுக்கமும் உடையவர்க்கே பொருந்துவதாகும்; அக் கோலத்தை தவஒழுக்கம் இல்லாதவர் மேற்கொள்வது வீண்முயற்சியாகும்.",
+          "ஒருவன் தன்னைத்தான் காத்துக் கொள்வதானால் சினம் வராமல் காத்துக் கொள்ள வேண்டும், காக்கா விட்டால் சினம் தன்னையே அழித்து விடும்.",
+          "ஒப்புரவு அறிந்து ஒழுதலாகியத் தன் கடமை அறிந்த அறிவை உடையவர், செல்வ வளம் இல்லாத காலத்திலும் ஒப்புரவுக்குத் தளர மாட்டார்.",
+          "முற்றத் துறந்தவறே உயர்ந்த நிலையினர் ஆவர், அவ்வாறு துறக்காத மற்றவர் அறியாமையாகிய வலையில் அகப்பட்டவர் ஆவர்."
+        ],
+        "quiz_options_en": [
+          "Penance is fit for penitents Not for him who in vain pretends",
+          "Thyself to save, from wrath away! If not thyself the wrath will slay",
+          "Though seers may fall on evil days Their sense of duty never strays",
+          "Who renounce all are free from care Others suffer delusive snare"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒப்புரவறிதல்) பகுதியில் குறள் 218 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒப்புரவு அறிந்து ஒழுதலாகியத் தன் கடமை அறிந்த அறிவை உடையவர், செல்வ வளம் இல்லாத காலத்திலும் ஒப்புரவுக்குத் தளர மாட்டார். பரிமேலழகர் உரை நுட்பம்: இடன் இல் பருவத்தும் ஒப்புரவிற்கு ஒல்கார் - செல்வம் சுருங்கிய காலத்தும் ஒப்புரவு செய்தற்குத் தளரார், கடன்அறி காட்சியவர் - தாம் செய்யத் தகுந்தவற்றை அறிந்த இயற்கை அறிவுடையார். (பிற எல்லாம் ஒழியினும், இஃது ஒழியார் என்பதாம்.).",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 22: 'Duty to Society'), Kural 218 distills a foundational ethical insight: \"E'en when resources fall, they weary not of 'kindness due,'-They to whom Duty's self appears in vision true\" Philosophically, The wise who know what is duty will not scant their benevolence even when they are without wealth.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "wealth",
+        "friendship",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 219,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒப்புரவாகிய நற்பண்பு உடையவன் வறுமை உடையவனாதல், செய்யத்தக்க உதவிகளைச் செய்யாமல் வருந்துகின்ற தன்மையாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The poverty of a benevolent man, is nothing but his inability to exercise the same.",
+        "story_title_ta": "ஒப்புரவறிதல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Duty to Society — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒப்புரவறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 219 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உழைக்கும் சக்தி அற்றவர்க்கு உதவும் உள்ளம் உடையவன் வறியவன் ஆவது, செய்யக்கூடிய உதவிகளைப் பிறர்க்குச் செய்யமுடியாது வருந்தும் போதுதான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Duty to Society'. Grandpa shared Kural 219 and explained in simple words: The poverty of a benevolent man, is nothing but his inability to exercise the same. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறர்க்கு உதவி செய்வதையே கடமையாகக் கொண்ட பெருந்தகையாளன் ஒருவன், வறுமையடைந்து விட்டான் என்பதை உணர்த்துவது அவனால் பிறர்க்கு உதவிட முடியாமல் செயலிழந்து போகும் நிலைமைதான்.",
+        "moral_en": "Moral: The kindly-hearted man is poor in this alone, When power of doing deeds of goodness he finds none.",
+        "game_blank_word_ta": "செயும்நீர",
+        "game_options_ta": [
+          "கைம்மாறு",
+          "வேண்டா",
+          "கடப்பாடு",
+          "செயும்நீர"
+        ],
+        "game_options_en": [
+          "Duty demands nothing in turn; How can the world recompense rain?",
+          "All the wealth that toils give Is meant to serve those who deserve",
+          "In heav'n and earth 'tis hard to find A greater good than being kind",
+          "The good man's poverty and grief Is want of means to give relief"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒப்புரவறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 219, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உழைக்கும் சக்தி அற்றவர்க்கு உதவும் உள்ளம் உடையவன் வறியவன் ஆவது, செய்யக்கூடிய உதவிகளைப் பிறர்க்குச் செய்யமுடியாது வருந்தும் போதுதான். கலைஞர் உரை கூறுவது: பிறர்க்கு உதவி செய்வதையே கடமையாகக் கொண்ட பெருந்தகையாளன் ஒருவன், வறுமையடைந்து விட்டான் என்பதை உணர்த்துவது அவனால் பிறர்க்கு உதவிட முடியாமல் செயலிழந்து போகும் நிலைமைதான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Duty to Society (Domestic Virtue), Kural 219 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The poverty of a benevolent man, is nothing but his inability to exercise the same. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒப்புரவறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Duty to Society' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒப்புரவறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 219 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 219 from Chapter 'Duty to Society'?",
+        "quiz_options_ta": [
+          "துறந்தவர்க்கு உணவு முதலியனக் கொடுத்து உதவவேண்டும் என விரும்பி மற்றவர்கள் (இல்லறத்தினர்) தவம் செய்தலை மறந்தார்களோ",
+          "சினம் என்னும் சேர்ந்தவரை அழிக்கும் நெருப்பு ஒருவனுக்கு இனம் இன்பத் தெப்பத்தையும் சுட்டழிக்கும்.",
+          "இருவகைப் பற்றும் அற்றபொழுதே அந்நிலை பிறவித் துன்பத்தை ஒழிக்கும், இல்லையானால் (பிறவித்துன்பம் மாறி மாறி வந்து) நிலையாமைக் காணப்படும்.",
+          "ஒப்புரவாகிய நற்பண்பு உடையவன் வறுமை உடையவனாதல், செய்யத்தக்க உதவிகளைச் செய்யாமல் வருந்துகின்ற தன்மையாகும்."
+        ],
+        "quiz_options_en": [
+          "Is it to true penitent's aid, That others austere path avoid?",
+          "Friend-killer is the fatal rage It burns the helpful kinship-barge",
+          "Bondage cut off, rebirth is off The world then seems instable stuff",
+          "The good man's poverty and grief Is want of means to give relief"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒப்புரவறிதல்) பகுதியில் குறள் 219 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒப்புரவாகிய நற்பண்பு உடையவன் வறுமை உடையவனாதல், செய்யத்தக்க உதவிகளைச் செய்யாமல் வருந்துகின்ற தன்மையாகும். பரிமேலழகர் உரை நுட்பம்: நயன் உடையான் நல்கூர்ந்தான் ஆதல் - ஒப்புரவு செய்தலை உடையான் நல்கூர்ந்தான் ஆதலாவது, செயும் நீர செய்யாது அமைகலா ஆறு - தவிராது செய்யும் நீர்மையையுடைய அவ்வொப்புரவுகளைச் செய்யப்பெறாது வருந்துகின்ற இயல்பாம். (தான் நுகர்வன நுகரப் பெறாமை அன்று என்பதாம். இவ்விரண்டு...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 22: 'Duty to Society'), Kural 219 distills a foundational ethical insight: \"The kindly-hearted man is poor in this alone, When power of doing deeds of goodness he finds none\" Philosophically, The poverty of a benevolent man, is nothing but his inability to exercise the same.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "kindness",
+        "wealth",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 220,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒப்புரவால் கேடு வரும் என்றால் அக் கேடு ஒருவன் தன்னை விற்றாவது வாங்கிக்கொள்ளும் தகுதி உடையதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If it be said that loss will result from benevolence, such loss is worth being procured even by the sale of one's self.",
+        "story_title_ta": "ஒப்புரவறிதல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Duty to Society — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒப்புரவறிதல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 220 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'இருப்பதைப் பிறர்க்குக் கொடுத்துவிட்டால், நாளை நமக்குத் தீமை வருமே என்று சொன்னால், தன்னையே விலையாகக் கொடுத்து அந்தத் தீமை வாங்கத்தக்கதே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Duty to Society'. Grandpa shared Kural 220 and explained in simple words: If it be said that loss will result from benevolence, such loss is worth being procured even by the sale of one's self. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறருக்கு உதவுகின்ற சிறப்புடைய உலக ஒழுக்கம், கேடு விளைவிக்கக் கூடியதாக இருப்பின், அக்கேடு, ஒருவன் தன்னை விற்றாவது வாங்கிக் கொள்ளக் கூடிய மதிப்புடையதாகும்.",
+        "moral_en": "Moral: Though by 'beneficence,' the loss of all should come,'Twere meet man sold himself, and bought it with the sum.",
+        "game_blank_word_ta": "அஃதொருவன்",
+        "game_options_ta": [
+          "அஃதொருவன்",
+          "கைம்மாறு",
+          "வேண்டா",
+          "கடப்பாடு"
+        ],
+        "game_options_en": [
+          "By good if ruin comes across Sell yourself to save that loss",
+          "Duty demands nothing in turn; How can the world recompense rain?",
+          "All the wealth that toils give Is meant to serve those who deserve",
+          "In heav'n and earth 'tis hard to find A greater good than being kind"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒப்புரவறிதல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 220, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இருப்பதைப் பிறர்க்குக் கொடுத்துவிட்டால், நாளை நமக்குத் தீமை வருமே என்று சொன்னால், தன்னையே விலையாகக் கொடுத்து அந்தத் தீமை வாங்கத்தக்கதே. கலைஞர் உரை கூறுவது: பிறருக்கு உதவுகின்ற சிறப்புடைய உலக ஒழுக்கம், கேடு விளைவிக்கக் கூடியதாக இருப்பின், அக்கேடு, ஒருவன் தன்னை விற்றாவது வாங்கிக் கொள்ளக் கூடிய மதிப்புடையதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Duty to Society (Domestic Virtue), Kural 220 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If it be said that loss will result from benevolence, such loss is worth being procured even by the sale of one's self. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒப்புரவறிதல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Duty to Society' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒப்புரவறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 220 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 220 from Chapter 'Duty to Society'?",
+        "quiz_options_ta": [
+          "ஒப்புரவால் கேடு வரும் என்றால் அக் கேடு ஒருவன் தன்னை விற்றாவது வாங்கிக்கொள்ளும் தகுதி உடையதாகும்.",
+          "தீமை செய்யும் பகைவரை அடக்குதலும் நன்மை செய்யும் நண்பரை உயர்த்துதலும் நினைத்த அளவில் தவத்தின் வலிமையால் உண்டாகும்.",
+          "(தன் வல்லமை புலப்படுத்தச்) சினத்தை பொருளென்று கொண்டவன் அழிதல், நிலத்தை அறைந்தவனுடைய கை தப்பாதது போல் ஆகும்.",
+          "பற்றில்லாதவனாகிய கடவுளுடைய பற்றை மட்டும் பற்றிக் கொள்ள வேண்டும், உள்ள பற்றுக்களை விட்டொழிப்பதற்கே அப் பற்றைப் பற்ற வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "By good if ruin comes across Sell yourself to save that loss",
+          "In penance lies the power to save The friends and foil the foe and knave",
+          "The wrath-lover to doom is bound Like failless-hand that strikes the ground",
+          "Bind Thyself to the unbound one That binding breaks all bonds anon"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒப்புரவறிதல்) பகுதியில் குறள் 220 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒப்புரவால் கேடு வரும் என்றால் அக் கேடு ஒருவன் தன்னை விற்றாவது வாங்கிக்கொள்ளும் தகுதி உடையதாகும். பரிமேலழகர் உரை நுட்பம்: ஒப்புரவினால் கேடு வரும் எனின் - ஒப்புரவு செய்தலான் ஒருவனுக்குப் பொருட்கேடு வரும் என்பார் உளராயின், அஃது ஒருவன் விற்றுக்கோள் தக்கது உடைத்து - அக்கேடு தன்னை விற்றாயினும் கொள்ளும் தகுதியை உடைத்து. (தன்னைவிற்றுக் கொள்ளப்படுவதொரு பொருள் இல்லை அன்றே? இஃதாயின...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 22: 'Duty to Society'), Kural 220 distills a foundational ethical insight: \"Though by 'beneficence,' the loss of all should come,'Twere meet man sold himself, and bought it with the sum\" Philosophically, If it be said that loss will result from benevolence, such loss is worth being procured even by the sale of one's self.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "time",
+        "discipline",
+        "speech"
+      ]
+    }
+  ]
+}

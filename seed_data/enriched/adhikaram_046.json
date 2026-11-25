@@ -1,0 +1,585 @@
+{
+  "adhikaram_id": 46,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.865161923+00:00",
+  "kurals": [
+    {
+      "kural_number": 451,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பெரியோரின் இயல்பு சிற்றினத்தை அஞ்சி ஒதுக்கும், சிறியோரின் இயல்பு அதையே சுற்றமாக எண்ணித் தழுவிக் கொள்ளும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: (True) greatness fears the society of the base; it is only the low - minded who will regard them as friends.",
+        "story_title_ta": "சிற்றினம் சேராமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Avoiding mean Associations — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சிற்றினம் சேராமை' என்ற அதிகாரத்திலிருந்து குறள் 451 பற்றிக் கதை சொன்னார். 'தீய குணத்தாரோடு சேரப் பெரியோர் அஞ்சுவர்; சிறியாரோ அவர்களைத் தம் உறவாகவே கருதி விடுவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 46, 'Avoiding mean Associations', centered on Kural 451: (True) greatness fears the society of the base; it is only the low - minded who will regard them as friends. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பெரியோர், கீழ்மக்களின் கூட்டத்தோடு சேர மாட்டார்கள் ஆனால் சிறியோர்களோ இனம் இனத்தோடு சேருமென்பதுபோல் அந்தக் கீழ் மக்கள் கூட்டத்துடன் சேர்ந்து கொள்வார்கள்.",
+        "moral_en": "Moral: The great of soul will mean association fear; The mean of soul regard mean men as kinsmen dear.",
+        "game_blank_word_ta": "சிறுமைதான்",
+        "game_options_ta": [
+          "நிலத்தியல்பால்",
+          "நீர்திரிந்",
+          "தற்றாகும்",
+          "சிறுமைதான்"
+        ],
+        "game_options_en": [
+          "With soil changes water's taste With mates changes the mental state",
+          "Wisdom depends upon the mind The worth of man upon his friend",
+          "Wisdom seems to come from mind But it truly flows from the kind",
+          "The ignoble the noble fear The mean hold them as kinsmen dear"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சிற்றினம் சேராமை (அரசியல்) பிரிவில் அமைந்த குறள் 451, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தீய குணத்தாரோடு சேரப் பெரியோர் அஞ்சுவர்; சிறியாரோ அவர்களைத் தம் உறவாகவே கருதி விடுவர். கலைஞர் உரை கூறுவது: பெரியோர், கீழ்மக்களின் கூட்டத்தோடு சேர மாட்டார்கள் ஆனால் சிறியோர்களோ இனம் இனத்தோடு சேருமென்பதுபோல் அந்தக் கீழ் மக்கள் கூட்டத்துடன் சேர்ந்து கொள்வார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Avoiding mean Associations (Royalty & Polity), Kural 451 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (True) greatness fears the society of the base; it is only the low - minded who will regard them as friends. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சிற்றினம் சேராமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Avoiding mean Associations' thoughtfully.",
+        "quiz_question_ta": "'சிற்றினம் சேராமை' அதிகாரத்தில் வரும் திருக்குறள் 451 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 451 from Chapter 'Avoiding mean Associations'?",
+        "quiz_options_ta": [
+          "ஆழமுள்ள நீரில் முதலை மற்ற உயிர்களை வெல்லும், ஆனால் நீரிலிருந்து விலகிவந்தால் அந்த முதலையையும் மற்ற உயிர்கள் வென்றுவிடும்.",
+          "சான்றோர் புகழ்ந்து சொல்லியச் செயல்களைப் போற்றிச் செய்யவேண்டும், அவ்வாறு செய்யாமல் மறந்து சோர்ந்தவர்க்கு ஏழுப் பிறப்பிலும் நன்மை இல்லை.",
+          "ஒற்றரும் புகழ் அமைந்த நீதிநூலும் ஆகிய இவ்விருவகைக் கருவிகளையும் அரசன் தன்னுடைய கண்களாகத் தெளியவேணடும்.",
+          "பெரியோரின் இயல்பு சிற்றினத்தை அஞ்சி ஒதுக்கும், சிறியோரின் இயல்பு அதையே சுற்றமாக எண்ணித் தழுவிக் கொள்ளும்."
+        ],
+        "quiz_options_en": [
+          "In water crocodile prevails In land before others it fails",
+          "Do what the wise commend as worth If not, for seven births no mirth",
+          "A king should treat these two as eyes The code of laws and careful spies",
+          "The ignoble the noble fear The mean hold them as kinsmen dear"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சிற்றினம் சேராமை) பகுதியில் குறள் 451 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பெரியோரின் இயல்பு சிற்றினத்தை அஞ்சி ஒதுக்கும், சிறியோரின் இயல்பு அதையே சுற்றமாக எண்ணித் தழுவிக் கொள்ளும். பரிமேலழகர் உரை நுட்பம்: பெருமை சிற்றினம் அஞ்சும் - பெரியோர் இயல்பு சிறிய இனத்தைச் அஞ்சாநிற்கும், சிறுமை தான் சுற்றமாச் சூழ்ந்து விடும் - ஏனைச் சிறியோர் இயல்பு அது சேர்ந்த பொழுதே அதனைத் தனக்குச் சுற்றமாக எண்ணித் துணியும். '(தத்தம் அறிவு திரியுமாறும் , அதனால் தமக்கு வரும் துன்பமும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 46: 'Avoiding mean Associations'), Kural 451 distills a foundational ethical insight: \"The great of soul will mean association fear; The mean of soul regard mean men as kinsmen dear\" Philosophically, (True) greatness fears the society of the base; it is only the low - minded who will regard them as friends.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "humility",
+        "friendship",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 452,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: சேர்ந்த நிலத்தின் இயல்பால் அந்த நீர் வேறுபட்டு அந் நிலத்தின் தன்மையுடையதாகும், அதுபோல் மக்களுடைய அறிவு இனத்தின் இயல்பினை உடையதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: As water changes (its nature), from the nature of the soil (in which it flows), so will the character of men resemble that of their associates.",
+        "story_title_ta": "சிற்றினம் சேராமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Avoiding mean Associations — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சிற்றினம் சேராமை' என்ற அதிகாரத்திலிருந்து குறள் 452 பற்றிக் கதை சொன்னார். 'தான் சேர்ந்த நிலத்தின் தன்மையால் நீர் தன் இயல்பை இழந்து, நிலத்தின் இயல்பாகவே மாறிவிடும்; மனிதரின் அறிவும் அவர் சேர்ந்த இனத்தின் இயல்பாகவே ஆகிவிடும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 46, 'Avoiding mean Associations', centered on Kural 452: As water changes (its nature), from the nature of the soil (in which it flows), so will the character of men resemble that of their associates. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சேர்ந்த நிலத்தின் தன்மையால் நீரானது வேறுபட்டு அந்த நிலத்தின் தன்மையை அடைந்துவிடும் அதுபோல மக்களின் அறிவும், தாங்கள் சேர்ந்த இனத்தின் தன்மையைப் பெற்றதாகிவிடும்.",
+        "moral_en": "Moral: The waters' virtues change with soil through which they flow; As man's companionship so will his wisdom show.",
+        "game_blank_word_ta": "இனத்தியல்ப",
+        "game_options_ta": [
+          "இனத்தியல்ப",
+          "சிற்றினம்",
+          "அஞ்சும்",
+          "பெருமை"
+        ],
+        "game_options_en": [
+          "With soil changes water's taste With mates changes the mental state",
+          "The ignoble the noble fear The mean hold them as kinsmen dear",
+          "Wisdom depends upon the mind The worth of man upon his friend",
+          "Wisdom seems to come from mind But it truly flows from the kind"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சிற்றினம் சேராமை (அரசியல்) பிரிவில் அமைந்த குறள் 452, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தான் சேர்ந்த நிலத்தின் தன்மையால் நீர் தன் இயல்பை இழந்து, நிலத்தின் இயல்பாகவே மாறிவிடும்; மனிதரின் அறிவும் அவர் சேர்ந்த இனத்தின் இயல்பாகவே ஆகிவிடும். கலைஞர் உரை கூறுவது: சேர்ந்த நிலத்தின் தன்மையால் நீரானது வேறுபட்டு அந்த நிலத்தின் தன்மையை அடைந்துவிடும் அதுபோல மக்களின் அறிவும், தாங்கள் சேர்ந்த இனத்தின் தன்மையைப் பெற்றதாகிவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Avoiding mean Associations (Royalty & Polity), Kural 452 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As water changes (its nature), from the nature of the soil (in which it flows), so will the character of men resemble that of their associates. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சிற்றினம் சேராமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Avoiding mean Associations' thoughtfully.",
+        "quiz_question_ta": "'சிற்றினம் சேராமை' அதிகாரத்தில் வரும் திருக்குறள் 452 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 452 from Chapter 'Avoiding mean Associations'?",
+        "quiz_options_ta": [
+          "சேர்ந்த நிலத்தின் இயல்பால் அந்த நீர் வேறுபட்டு அந் நிலத்தின் தன்மையுடையதாகும், அதுபோல் மக்களுடைய அறிவு இனத்தின் இயல்பினை உடையதாகும்.",
+          "வலிய சக்கரங்களையுடைய பெரியத் தேர்கள் கடலில் ஓடமுடியாது, கடலில் ஓடுகின்ற கப்பல்களும் நிலத்தில் ஓடமுடியாது.",
+          "தாம் தம் மகிழ்ச்சியால் செருக்குக் கொண்டு கடமையை மறந்திருக்கும் போது, அவ்வாறு சோர்ந்திருந்த காரணத்தால் முற்காலத்தில் அழிந்தவரை நினைக்க வேண்டும்.",
+          "எல்லாரிடத்திலும் நிகழ்கின்றவை எல்லாவற்றையும் எக்காலத்திலும் (ஒற்றரைக் கொண்டு) விரைந்து அறிதல் அரசனுக்குரிய தொழிலாகும்."
+        ],
+        "quiz_options_en": [
+          "With soil changes water's taste With mates changes the mental state",
+          "Sea-going ship goes not on shore Nor on sea the strong-wheeled car",
+          "When joy deludes, their fate recall Whom negligence has made to fall",
+          "All that happens, always, to all The king should know in full detail"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சிற்றினம் சேராமை) பகுதியில் குறள் 452 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சேர்ந்த நிலத்தின் இயல்பால் அந்த நீர் வேறுபட்டு அந் நிலத்தின் தன்மையுடையதாகும், அதுபோல் மக்களுடைய அறிவு இனத்தின் இயல்பினை உடையதாகும். பரிமேலழகர் உரை நுட்பம்: நிலத்து இயல்பான் நீர் திரிந்து அற்றாகும் - தான் சேர்ந்த நிலத்தினது இயல்பானே நீர் தன் தன்மை திரிந்து அந்நிலத்தின் தன்மைத்தாம், மாந்தர்க்கு இனத்து இயல்பு அறிவு (திரிந்து) அதாகும் -அதுபோல மாந்தர்க்குத் தாம் சேர்ந்த இனத்தின் இயல்பானே அறிவும் தன் தன்மை திரிந்து...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 46: 'Avoiding mean Associations'), Kural 452 distills a foundational ethical insight: \"The waters' virtues change with soil through which they flow; As man's companionship so will his wisdom show\" Philosophically, As water changes (its nature), from the nature of the soil (in which it flows), so will the character of men resemble that of their associates.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "leadership",
+        "friendship",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 453,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மக்களுக்கு இயற்கையறிவு மனத்தால் ஏற்படும், இப்படிப் பட்டவன் என்று உலகத்தாரால் மதிக்கப்படும் சொல், சேர்ந்த இனத்தால் ஏற்படும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The power of knowing is from the mind; (but) his character is from that of his associates.",
+        "story_title_ta": "சிற்றினம் சேராமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Avoiding mean Associations — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சிற்றினம் சேராமை' என்ற அதிகாரத்திலிருந்து குறள் 453 பற்றிக் கதை சொன்னார். 'மக்களுக்கு இயல்பான அறிவு அவர்தம் மனததால் உண்டாகும்; ஆனால், ஒருவன் இப்படிப்பட்டவன் என்று பெரியோர் சொல்லும் சொல் அவன் சார்ந்த இனம் காரணமாகவே உண்டாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 46, 'Avoiding mean Associations', centered on Kural 453: The power of knowing is from the mind; (but) his character is from that of his associates. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவரின் உணர்ச்சி, மனத்தைப் பொருத்து அமையும் அவர் இப்படிப்பட்டவர் என்று அளந்து சொல்வது அவர் சேர்ந்திடும் கூட்டத்தைப் பொருத்து அமையும்.",
+        "moral_en": "Moral: Perceptions manifold in men are of the mind alone; The value of the man by his companionship is known.",
+        "game_blank_word_ta": "இனத்தானாம்",
+        "game_options_ta": [
+          "சிற்றினம்",
+          "இனத்தானாம்",
+          "அஞ்சும்",
+          "பெருமை"
+        ],
+        "game_options_en": [
+          "The ignoble the noble fear The mean hold them as kinsmen dear",
+          "Wisdom depends upon the mind The worth of man upon his friend",
+          "With soil changes water's taste With mates changes the mental state",
+          "Wisdom seems to come from mind But it truly flows from the kind"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சிற்றினம் சேராமை (அரசியல்) பிரிவில் அமைந்த குறள் 453, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மக்களுக்கு இயல்பான அறிவு அவர்தம் மனததால் உண்டாகும்; ஆனால், ஒருவன் இப்படிப்பட்டவன் என்று பெரியோர் சொல்லும் சொல் அவன் சார்ந்த இனம் காரணமாகவே உண்டாகும். கலைஞர் உரை கூறுவது: ஒருவரின் உணர்ச்சி, மனத்தைப் பொருத்து அமையும் அவர் இப்படிப்பட்டவர் என்று அளந்து சொல்வது அவர் சேர்ந்திடும் கூட்டத்தைப் பொருத்து அமையும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Avoiding mean Associations (Royalty & Polity), Kural 453 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The power of knowing is from the mind; (but) his character is from that of his associates. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சிற்றினம் சேராமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Avoiding mean Associations' thoughtfully.",
+        "quiz_question_ta": "'சிற்றினம் சேராமை' அதிகாரத்தில் வரும் திருக்குறள் 453 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 453 from Chapter 'Avoiding mean Associations'?",
+        "quiz_options_ta": [
+          "(செய்யும் வழிவகைகமைக்) குறைவில்லாமல் எண்ணித் தக்க இடத்தில் பொருந்திச் செய்தால், அஞ்சாமை அல்லாமல் வேறு துணை வேண்டியதில்லை.",
+          "மக்களுக்கு இயற்கையறிவு மனத்தால் ஏற்படும், இப்படிப் பட்டவன் என்று உலகத்தாரால் மதிக்கப்படும் சொல், சேர்ந்த இனத்தால் ஏற்படும்.",
+          "ஒருவன் எண்ணியதை விடாமல் எண்ணி (சோர்வில்லாமல்) இருக்கப் பெற்றால், அவன் கருதியதை அடைதல் எளிதாகும்.",
+          "ஒற்றரால் (நாட்டு நிகழ்ச்சிகளை) அறிந்து அவற்றின் பயனை ஆராய்ந்துணராத அரசன் வெற்றிபெறத்தக்க வழி வேறு இல்லை."
+        ],
+        "quiz_options_en": [
+          "No aid but daring dash they need When field is chosen right for deed",
+          "Wisdom depends upon the mind The worth of man upon his friend",
+          "Easy it is a thing to get When the mind on it is set",
+          "Conquests are not for the monarch Who cares not for the Spy's remark"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சிற்றினம் சேராமை) பகுதியில் குறள் 453 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மக்களுக்கு இயற்கையறிவு மனத்தால் ஏற்படும், இப்படிப் பட்டவன் என்று உலகத்தாரால் மதிக்கப்படும் சொல், சேர்ந்த இனத்தால் ஏற்படும். பரிமேலழகர் உரை நுட்பம்: மாந்தர்க்கு உணர்ச்சி மனத்தான் ஆம் - மாந்தர்க்குப் பொது உணர்வு தம் மனம் காரணமாக உண்டாம் இன்னான் எனப்படும் சொல் இனத்தான் ஆம் - 'இவன் இத்தன்மையன்' என்று உலகத்தாரான் சொல்லப்படும் சொல் இனம் காரணமாக உண்டாம். (இயற்கையாய புலன் உணர்வு மாத்திரத்திற்கு இனம...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 46: 'Avoiding mean Associations'), Kural 453 distills a foundational ethical insight: \"Perceptions manifold in men are of the mind alone; The value of the man by his companionship is known\" Philosophically, The power of knowing is from the mind; (but) his character is from that of his associates.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "speech",
+        "wisdom",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 454,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவனுக்கு சிறப்பறிவு மனத்தில் உள்ளது போலக் காட்டி (உண்மையாக நோக்கும் போது) அவன் சேர்ந்த இனத்தில் உள்ளதாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Wisdom appears to rest in the mind, but it really exists to a man in his companions.",
+        "story_title_ta": "சிற்றினம் சேராமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Avoiding mean Associations — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சிற்றினம் சேராமை' என்ற அதிகாரத்திலிருந்து குறள் 454 பற்றிக் கதை சொன்னார். 'அறிவு ஒருவன் மனத்துள் இருப்பது போலத் தோன்றும்; உண்மையில் அது அவன் சேர்ந்துள்ள இனத்தின்பால் இருந்து பெறப்படுவதே ஆகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 46, 'Avoiding mean Associations', centered on Kural 454: Wisdom appears to rest in the mind, but it really exists to a man in his companions. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவரின் அறிவு அவரது மனத்தின் இயல்பு என்பது போல் தோன்றினாலும், அது அவர் சேர்ந்த கூட்டத்தாரின் தொடர்பால் வெளிப்படுவதேயாகும்.",
+        "moral_en": "Moral: Man's wisdom seems the offspring of his mind;'Tis outcome of companionship we find.",
+        "game_blank_word_ta": "அறிவு",
+        "game_options_ta": [
+          "சிற்றினம்",
+          "அஞ்சும்",
+          "அறிவு",
+          "பெருமை"
+        ],
+        "game_options_en": [
+          "The ignoble the noble fear The mean hold them as kinsmen dear",
+          "With soil changes water's taste With mates changes the mental state",
+          "Wisdom seems to come from mind But it truly flows from the kind",
+          "Wisdom depends upon the mind The worth of man upon his friend"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சிற்றினம் சேராமை (அரசியல்) பிரிவில் அமைந்த குறள் 454, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறிவு ஒருவன் மனத்துள் இருப்பது போலத் தோன்றும்; உண்மையில் அது அவன் சேர்ந்துள்ள இனத்தின்பால் இருந்து பெறப்படுவதே ஆகும். கலைஞர் உரை கூறுவது: ஒருவரின் அறிவு அவரது மனத்தின் இயல்பு என்பது போல் தோன்றினாலும், அது அவர் சேர்ந்த கூட்டத்தாரின் தொடர்பால் வெளிப்படுவதேயாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Avoiding mean Associations (Royalty & Polity), Kural 454 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Wisdom appears to rest in the mind, but it really exists to a man in his companions. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சிற்றினம் சேராமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Avoiding mean Associations' thoughtfully.",
+        "quiz_question_ta": "'சிற்றினம் சேராமை' அதிகாரத்தில் வரும் திருக்குறள் 454 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 454 from Chapter 'Avoiding mean Associations'?",
+        "quiz_options_ta": [
+          "சிறிய படை உடையவனுக்குத் தக்கதாக உள்ள இடத்தில் பொருந்தி நின்றால், பெரிய படை உடையவன் தன் ஊக்கம் அழிவான்.",
+          "யாரிடத்திலும் (குற்றம் இன்னதென்று) ஆராய்ந்து, கண்ணோட்டம் செய்யாமல் நடுவுநிலைமைப் பொருந்தி (செய்யத்தக்கதை) ஆராய்ந்து செய்வதே நீதிமுறையாகும்.",
+          "ஒருவனுக்கு சிறப்பறிவு மனத்தில் உள்ளது போலக் காட்டி (உண்மையாக நோக்கும் போது) அவன் சேர்ந்த இனத்தில் உள்ளதாகும்.",
+          "தம்முடைய தொழிலைச் செய்கின்றவர், தம் சுற்றத்தார், தம் பகைவர் என்றுக்கூறப்படும் எல்லாரையும் ஆராய்வதே ஒற்றரின் தொழிலாகும்."
+        ],
+        "quiz_options_en": [
+          "Though force is small, if place is right One quells a foe of well-armed might",
+          "Test and attest impartially Consult and act the laws justly",
+          "Wisdom seems to come from mind But it truly flows from the kind",
+          "His officers, kinsmen and foes Who watch keenly are worthy spies"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சிற்றினம் சேராமை) பகுதியில் குறள் 454 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவனுக்கு சிறப்பறிவு மனத்தில் உள்ளது போலக் காட்டி (உண்மையாக நோக்கும் போது) அவன் சேர்ந்த இனத்தில் உள்ளதாகும். பரிமேலழகர் உரை நுட்பம்: அறிவு - அவ் விசேட உணர்வு, ஒருவற்கு மனத்து உளது போலக் காட்டி - ஒருவற்கு மனத்தின் கண்ணே உளதாவது போலத் தன்னைப் புலப்படுத்தி , இனத்து உளதாகும் - அவன் சேர்ந்த இனத்தின்கண்ணே உளதாம் . (மெய்ம்மை நோக்காமுன் மனத்துளது போன்று காட்டியும் , பின் நோக்கிய வழிப்பயின்ற...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 46: 'Avoiding mean Associations'), Kural 454 distills a foundational ethical insight: \"Man's wisdom seems the offspring of his mind;'Tis outcome of companionship we find\" Philosophically, Wisdom appears to rest in the mind, but it really exists to a man in his companions.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "self-mastery",
+        "family",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 455,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மனத்தின் தூய்மை செய்யும் செயலின் தூய்மை ஆகிய இவ்விரண்டும் சேர்ந்த இனத்தின் தூய்மையைப் பொறுத்தே ஏற்ப்படும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Chaste company is the staff on which come, these two things, viz, purity of mind and purity of conduct.",
+        "story_title_ta": "சிற்றினம் சேராமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Avoiding mean Associations — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சிற்றினம் சேராமை' என்ற அதிகாரத்திலிருந்து குறள் 455 பற்றிக் கதை சொன்னார். 'மனத்தூய்மை, செய்யும் செயல் சிறப்பு ஆகிய இரண்டும், ஒருவன் சேர்ந்துள்ள இனத்தின் தூய்மையை ஆதாரமாகக் கொண்டே பிறக்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 46, 'Avoiding mean Associations', centered on Kural 455: Chaste company is the staff on which come, these two things, viz, purity of mind and purity of conduct. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவன் கொண்டுள்ள தொடர்பு தூய்மையானதாக இருந்தால்தான் அவனுடைய மனமும் செயலும் தூய்மையானவையாக இருக்கும்.",
+        "moral_en": "Moral: Both purity of mind, and purity of action clear, Leaning no staff of pure companionship, to man draw near.",
+        "game_blank_word_ta": "வரும்",
+        "game_options_ta": [
+          "சிற்றினம்",
+          "அஞ்சும்",
+          "பெருமை",
+          "வரும்"
+        ],
+        "game_options_en": [
+          "The ignoble the noble fear The mean hold them as kinsmen dear",
+          "With soil changes water's taste With mates changes the mental state",
+          "Wisdom depends upon the mind The worth of man upon his friend",
+          "Purity of the thought and deed Comes from good company indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சிற்றினம் சேராமை (அரசியல்) பிரிவில் அமைந்த குறள் 455, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனத்தூய்மை, செய்யும் செயல் சிறப்பு ஆகிய இரண்டும், ஒருவன் சேர்ந்துள்ள இனத்தின் தூய்மையை ஆதாரமாகக் கொண்டே பிறக்கும். கலைஞர் உரை கூறுவது: ஒருவன் கொண்டுள்ள தொடர்பு தூய்மையானதாக இருந்தால்தான் அவனுடைய மனமும் செயலும் தூய்மையானவையாக இருக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Avoiding mean Associations (Royalty & Polity), Kural 455 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Chaste company is the staff on which come, these two things, viz, purity of mind and purity of conduct. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சிற்றினம் சேராமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Avoiding mean Associations' thoughtfully.",
+        "quiz_question_ta": "'சிற்றினம் சேராமை' அதிகாரத்தில் வரும் திருக்குறள் 455 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 455 from Chapter 'Avoiding mean Associations'?",
+        "quiz_options_ta": [
+          "அரணாகிய நன்மையும் மற்றச் சிறப்பும் இல்லாதவராயினும் பகைவர் வாழ்கின்ற இடத்திற்குச் சென்று அவரைத் தாக்குதல் அரிது.",
+          "உலகத்தில் உள்ள உயிர்கள் எல்லாம் மழையை நம்பி வாழ்கின்றன, அதுபோல் குடிமக்கள் எல்லாம் அரசனுடைய செங்கோலை நோக்கி வாழ்கின்றனர்.",
+          "ஐயுற முடியாத உருவத்தோடு, பார்த்தவருடைய கண் பார்வைக்கு அஞ்சாமல் எவ்விடத்திலும் மனதிலுள்ளதை வெளிப்படுத்தாமல் இருக்க வல்லவனே ஒற்றன் ஆவன்.",
+          "மனத்தின் தூய்மை செய்யும் செயலின் தூய்மை ஆகிய இவ்விரண்டும் சேர்ந்த இனத்தின் தூய்மையைப் பொறுத்தே ஏற்ப்படும்."
+        ],
+        "quiz_options_en": [
+          "To face a foe at home is vain Though fort and status are not fine",
+          "The earth looks up to sky and thrives And mankind to king's rod of justice",
+          "Fearless gaze, suspectless guise Guarding secrets mark the spies",
+          "Purity of the thought and deed Comes from good company indeed"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சிற்றினம் சேராமை) பகுதியில் குறள் 455 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனத்தின் தூய்மை செய்யும் செயலின் தூய்மை ஆகிய இவ்விரண்டும் சேர்ந்த இனத்தின் தூய்மையைப் பொறுத்தே ஏற்ப்படும். பரிமேலழகர் உரை நுட்பம்: மனம் தூய்மை செய்வினை தூய்மை இரண்டும் - அவ்விசேட உணர்வு புலப்படுவதற்கு இடனாய மனம் தூயனாதல் தன்மையும் செய்யும் வினை தூயனாதல் தன்மையும் ஆகிய இரண்டும், இனம் தூய்மை தூவா வரும் - ஒருவற்கு இனம் தூயனாதல் தன்மை பற்றுக் கோடாக உளவாம். (மனம் தூயனாதல் ஆவது, விசேட உணர்வு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 46: 'Avoiding mean Associations'), Kural 455 distills a foundational ethical insight: \"Both purity of mind, and purity of action clear, Leaning no staff of pure companionship, to man draw near\" Philosophically, Chaste company is the staff on which come, these two things, viz, purity of mind and purity of conduct.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "self-mastery",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 456,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: மனம் தூய்மையாகப் பெற்றவர்க்கு , அவர்க்குப் பின் எஞ்சி நிற்கும் புகழ் முதலியவை நன்மையாகும், இனம் தூய்மையாக உள்ளவர்க்கு நன்மையாகாத செயல் இல்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: To the pure-minded there will be a good posterity By those whose associates are pure, no deeds will be done that are not good.",
+        "story_title_ta": "சிற்றினம் சேராமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Avoiding mean Associations — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சிற்றினம் சேராமை' என்ற அதிகாரத்திலிருந்து குறள் 456 பற்றிக் கதை சொன்னார். 'மனத்தால் நல்லவர்க்கு அவர் விட்டுச் செல்வனவே நல்லவை; இனத்தால் நல்லவர்க்கோ நல்லதாக அமையாத செயல் என்று எதுவுமே இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 46, 'Avoiding mean Associations', centered on Kural 456: To the pure-minded there will be a good posterity By those whose associates are pure, no deeds will be done that are not good. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மனத்தின் தூய்மையால் புகழும், சேர்ந்த இனத்தின் தூய்மையால் நற்செயல்களும் விளையும்.",
+        "moral_en": "Moral: From true pure-minded men a virtuous race proceeds; To men of pure companionship belong no evil deeds.",
+        "game_blank_word_ta": "கெச்சம்நன்",
+        "game_options_ta": [
+          "கெச்சம்நன்",
+          "சிற்றினம்",
+          "அஞ்சும்",
+          "பெருமை"
+        ],
+        "game_options_en": [
+          "Pure-hearted get good progeny Pure friendship acts with victory",
+          "The ignoble the noble fear The mean hold them as kinsmen dear",
+          "With soil changes water's taste With mates changes the mental state",
+          "Wisdom depends upon the mind The worth of man upon his friend"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சிற்றினம் சேராமை (அரசியல்) பிரிவில் அமைந்த குறள் 456, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனத்தால் நல்லவர்க்கு அவர் விட்டுச் செல்வனவே நல்லவை; இனத்தால் நல்லவர்க்கோ நல்லதாக அமையாத செயல் என்று எதுவுமே இல்லை. கலைஞர் உரை கூறுவது: மனத்தின் தூய்மையால் புகழும், சேர்ந்த இனத்தின் தூய்மையால் நற்செயல்களும் விளையும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Avoiding mean Associations (Royalty & Polity), Kural 456 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To the pure-minded there will be a good posterity By those whose associates are pure, no deeds will be done that are not good. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சிற்றினம் சேராமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Avoiding mean Associations' thoughtfully.",
+        "quiz_question_ta": "'சிற்றினம் சேராமை' அதிகாரத்தில் வரும் திருக்குறள் 456 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 456 from Chapter 'Avoiding mean Associations'?",
+        "quiz_options_ta": [
+          "மனம் தூய்மையாகப் பெற்றவர்க்கு , அவர்க்குப் பின் எஞ்சி நிற்கும் புகழ் முதலியவை நன்மையாகும், இனம் தூய்மையாக உள்ளவர்க்கு நன்மையாகாத செயல் இல்லை.",
+          "வேல் ஏந்திய வீரரைக் கோர்த்தெடுத்த கொம்பு உடைய யானையையும், கால் ஆழும் சேற்று நில்த்தில் அகப்பட்ட போது நரிகள் கொன்றுவிடும்.",
+          "அந்தணர் போற்றும் மறைநூலுக்கும் அறத்திற்கும் அடிப்படையாய் நின்று உலகத்தைக் காப்பது அரசனுடைய செங்கோலாகும்.",
+          "துறந்தவரின் வடிவத்தை உடையவராய், அறிய இடங்களிலெல்லாம் சென்று ஆராய்ந்து (ஐயுற்றவர்) என்ன செய்தாலும் சோர்ந்து விடாதவரே ஒற்றர் ஆவர்."
+        ],
+        "quiz_options_en": [
+          "Pure-hearted get good progeny Pure friendship acts with victory",
+          "A fox can kill a war tusker Fearless with feet in deep quagmire",
+          "The Sage's scripture and virtue spring From the sceptre of a stately king",
+          "Guised as monks they gather secrets They betray them not under threats"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சிற்றினம் சேராமை) பகுதியில் குறள் 456 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனம் தூய்மையாகப் பெற்றவர்க்கு , அவர்க்குப் பின் எஞ்சி நிற்கும் புகழ் முதலியவை நன்மையாகும், இனம் தூய்மையாக உள்ளவர்க்கு நன்மையாகாத செயல் இல்லை. பரிமேலழகர் உரை நுட்பம்: மனம் தூயார்க்கு எச்சம் நன்று ஆகும் - மனம் தூயராயினார்க்கு மக்கட்பேறு நன்று ஆகும், இனம் தூயார்க்கு நன்று ஆகா வினை இல்லை - இனம் தூயார்க்கு நன்றாகாத வினையாதும் இல்லை. (காரியம் காரணத்தின் வேறுபடாமையின் 'எச்சம் நன்று ஆகும்'. என்றும், நல்லினத்தோடு எண்ணிச...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 46: 'Avoiding mean Associations'), Kural 456 distills a foundational ethical insight: \"From true pure-minded men a virtuous race proceeds; To men of pure companionship belong no evil deeds\" Philosophically, To the pure-minded there will be a good posterity By those whose associates are pure, no deeds will be done that are not good.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "love",
+        "self-mastery",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 457,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மனதின் நன்மை உயிர்க்கு ஆக்கமாகும், இனத்தின் தன்மை (அவ்வளவோடு நிற்காமல்) எல்லாப் புகழையும் கொடுக்கும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Goodness of mind will give wealth, and good society will bring with it all praise, to men.",
+        "story_title_ta": "சிற்றினம் சேராமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Avoiding mean Associations — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சிற்றினம் சேராமை' என்ற அதிகாரத்திலிருந்து குறள் 457 பற்றிக் கதை சொன்னார். 'நிலைபெற்று வரும் உயிர்களுக்கு மனநலம் சிறந்த செல்வம் தரும்; இன நலமோ எல்லாப் புகழையும் தரும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 46, 'Avoiding mean Associations', centered on Kural 457: Goodness of mind will give wealth, and good society will bring with it all praise, to men. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மனத்தின் நலம் உயிருக்கு ஆக்கமாக விளங்கும் இனத்தின் நலமோ எல்லாப் புகழையும் வழங்கும்.",
+        "moral_en": "Moral: Goodness of mind to lives of men increaseth gain; And good companionship doth all of praise obtain.",
+        "game_blank_word_ta": "காக்கம்",
+        "game_options_ta": [
+          "சிற்றினம்",
+          "காக்கம்",
+          "அஞ்சும்",
+          "பெருமை"
+        ],
+        "game_options_en": [
+          "The ignoble the noble fear The mean hold them as kinsmen dear",
+          "Goodness of mind increases gain Good friendship fosters fame again",
+          "With soil changes water's taste With mates changes the mental state",
+          "Wisdom depends upon the mind The worth of man upon his friend"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சிற்றினம் சேராமை (அரசியல்) பிரிவில் அமைந்த குறள் 457, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நிலைபெற்று வரும் உயிர்களுக்கு மனநலம் சிறந்த செல்வம் தரும்; இன நலமோ எல்லாப் புகழையும் தரும். கலைஞர் உரை கூறுவது: மனத்தின் நலம் உயிருக்கு ஆக்கமாக விளங்கும் இனத்தின் நலமோ எல்லாப் புகழையும் வழங்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Avoiding mean Associations (Royalty & Polity), Kural 457 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Goodness of mind will give wealth, and good society will bring with it all praise, to men. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சிற்றினம் சேராமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Avoiding mean Associations' thoughtfully.",
+        "quiz_question_ta": "'சிற்றினம் சேராமை' அதிகாரத்தில் வரும் திருக்குறள் 457 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 457 from Chapter 'Avoiding mean Associations'?",
+        "quiz_options_ta": [
+          "அறம், பொருள், இன்பம், உயிர்காக அஞ்சும் அச்சம் ஆகிய நான்கு வகையாலும் ஆராயப்பட்ட பிறகே ஒருவன் (ஒரு தொழிலுக்கு உரியவனாகத்) தெளியப்படுவான்.",
+          "மனதின் நன்மை உயிர்க்கு ஆக்கமாகும், இனத்தின் தன்மை (அவ்வளவோடு நிற்காமல்) எல்லாப் புகழையும் கொடுக்கும்.",
+          "குடிகளை அன்போடு அணைத்துக் கொண்டு செங்கோல் செலுத்துகின்ற அரசனுடைய அடியைப்பொருந்தி உலகம் நிலை பெறும்.",
+          "மறைந்த செய்திகளையும் கேட்டறிய வல்லவனாய் அறிந்த செய்திகளை ஐயப்படாமல் துணிய வல்லவனாய் உள்ளவனே ஒற்றன் ஆவான்."
+        ],
+        "quiz_options_en": [
+          "Pleasure, gold, fear of life Virtue- Test by these four and trust the true",
+          "Goodness of mind increases gain Good friendship fosters fame again",
+          "The world clings to the ruler's feet Whose sceptre clasps the people's heart",
+          "A spy draws out other's secrets Beyond a doubt he clears his facts"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சிற்றினம் சேராமை) பகுதியில் குறள் 457 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனதின் நன்மை உயிர்க்கு ஆக்கமாகும், இனத்தின் தன்மை (அவ்வளவோடு நிற்காமல்) எல்லாப் புகழையும் கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: மன் உயிர்க்கு மனநலம் ஆக்கம்(தரும்) - நிலைபெற்ற உயிர்கட்கு மனத்தது நன்மை செல்வத்தைக் கொடுக்கும், இனநலம் எல்லாப் புகழும் தரும் - இனத்தது நன்மை அதனோடு எல்லாப் புகழையும் கொடுக்கும். ('மன், உயிர்' என்றது ஈண்டு உயர்திணைமேல் நின்றது. 'தரும்' என்னும் இடவழுவமைதிச...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 46: 'Avoiding mean Associations'), Kural 457 distills a foundational ethical insight: \"Goodness of mind to lives of men increaseth gain; And good companionship doth all of praise obtain\" Philosophically, Goodness of mind will give wealth, and good society will bring with it all praise, to men.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "friendship",
+        "self-mastery",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 458,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: மனதின் நன்மையை உறுதியாக உடையவராயினும் சான்றோர்க்கு இனத்தின் நன்மை மேலும் நல்ல காவலாக அமையும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Yet good companionship is confirmation strong.",
+        "story_title_ta": "சிற்றினம் சேராமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Avoiding mean Associations — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சிற்றினம் சேராமை' என்ற அதிகாரத்திலிருந்து குறள் 458 பற்றிக் கதை சொன்னார். 'மனநலத்தைச் சிறப்பாகப் பெற்றவரே ஆயினும், நல்ல குணம் உடையவர்க்கு இனநலம் பாதுகாப்பாக இருக்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 46, 'Avoiding mean Associations', centered on Kural 458: Yet good companionship is confirmation strong. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மனவளம் மிக்க சான்றோராக இருப்பினும் அவர் சேர்ந்துள்ள கூட்டத்தினரைப் பொருத்தே வலிமை வந்து வாய்க்கும்.",
+        "moral_en": "Moral: To perfect men, though minds right good belong, Yet good companionship is confirmation strong.",
+        "game_blank_word_ta": "சான்றோர்க்கு",
+        "game_options_ta": [
+          "சிற்றினம்",
+          "அஞ்சும்",
+          "சான்றோர்க்கு",
+          "பெருமை"
+        ],
+        "game_options_en": [
+          "The ignoble the noble fear The mean hold them as kinsmen dear",
+          "With soil changes water's taste With mates changes the mental state",
+          "Men of wisdom, though good in mind In friends of worth a new strength find",
+          "Wisdom depends upon the mind The worth of man upon his friend"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சிற்றினம் சேராமை (அரசியல்) பிரிவில் அமைந்த குறள் 458, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனநலத்தைச் சிறப்பாகப் பெற்றவரே ஆயினும், நல்ல குணம் உடையவர்க்கு இனநலம் பாதுகாப்பாக இருக்கும். கலைஞர் உரை கூறுவது: மனவளம் மிக்க சான்றோராக இருப்பினும் அவர் சேர்ந்துள்ள கூட்டத்தினரைப் பொருத்தே வலிமை வந்து வாய்க்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Avoiding mean Associations (Royalty & Polity), Kural 458 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Yet good companionship is confirmation strong. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சிற்றினம் சேராமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Avoiding mean Associations' thoughtfully.",
+        "quiz_question_ta": "'சிற்றினம் சேராமை' அதிகாரத்தில் வரும் திருக்குறள் 458 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 458 from Chapter 'Avoiding mean Associations'?",
+        "quiz_options_ta": [
+          "நல்லகுடியில் பிறந்து குற்றங்களிலிருந்து நீங்கிப் பழியாச் செயல்களைச் செய்ய அஞ்சுகின்ற நாணம் உடையவனையே நம்பித் தெளிய வேண்டும்.",
+          "நீதி முறைப்படி செங்கோல் செலுத்தும் அரசனுடைய நாட்டில் பருவ மழையும் நிறைந்த விளைவும் ஒருசேர ஏற்படுவனவாகும்.",
+          "மனதின் நன்மையை உறுதியாக உடையவராயினும் சான்றோர்க்கு இனத்தின் நன்மை மேலும் நல்ல காவலாக அமையும்.",
+          "ஓர் ஒற்றன் மறைந்து கேட்டுத் தெரிவித்தச் செய்தியையும் மற்றோர் ஒற்றனால் கேட்டு வரச் செய்து ஒப்புமை கண்டபின் உண்மை என்றுக் கொள்ள வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Spotless name of noble birth Shamed of stain-that choice is worth",
+          "Full rains and yields enrich the land Which is ruled by a righteous hand",
+          "Men of wisdom, though good in mind In friends of worth a new strength find",
+          "The reports given by one spy By another spy verify"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சிற்றினம் சேராமை) பகுதியில் குறள் 458 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனதின் நன்மையை உறுதியாக உடையவராயினும் சான்றோர்க்கு இனத்தின் நன்மை மேலும் நல்ல காவலாக அமையும். பரிமேலழகர் உரை நுட்பம்: மனநலம் நன்கு உடையராயினும் மனநன்மையை முன்னை நல்வினையால் தாமே உடையராயினும் சான்றோர்க்குஇனநலம் ஏமாப்பு உடைத்து அமைந்தார்க்கு இனநன்மை அதற்குவலியாதலையுடைத்து ('நன்கால்' என்னும் மூன்றன் உருபுவிகாரத்தால் தொக்கது. அந் நல்வினை உள்வழியும்மனநலத்தை வளர்த்து வருதலின...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 46: 'Avoiding mean Associations'), Kural 458 distills a foundational ethical insight: \"To perfect men, though minds right good belong, Yet good companionship is confirmation strong\" Philosophically, Yet good companionship is confirmation strong.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "self-mastery",
+        "wisdom",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 459,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மனத்தின் நன்மையால் மறுமை இன்பம் உண்டாகும், அதுவும் இனத்தின் நன்மையால் மேலும் சிறப்புடையதாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Future bliss is (the result) of goodness of mind; and even this acquires strength from the society of the good.",
+        "story_title_ta": "சிற்றினம் சேராமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Avoiding mean Associations — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சிற்றினம் சேராமை' என்ற அதிகாரத்திலிருந்து குறள் 459 பற்றிக் கதை சொன்னார். 'ஒருவனுக்கு மனநலத்தால் மறுமை இன்பம் கிடைக்கும். அதுவுங்கூட இனநலத்தால் வலிமை பெறும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 46, 'Avoiding mean Associations', centered on Kural 459: Future bliss is (the result) of goodness of mind; and even this acquires strength from the society of the good. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நல்ல உறுதியான உள்ளம் படைத்த உயர்ந்தோராக இருந்தாலும் அவர் சார்ந்த இனத்தின் உறுதியும் அவருக்கு வலிமையான துணையாக அமையக் கூடியதாகும்.",
+        "moral_en": "Moral: Although to mental goodness joys of other life belong, Yet good companionship is confirmation strong.",
+        "game_blank_word_ta": "இனநலத்தின்",
+        "game_options_ta": [
+          "சிற்றினம்",
+          "அஞ்சும்",
+          "பெருமை",
+          "இனநலத்தின்"
+        ],
+        "game_options_en": [
+          "The ignoble the noble fear The mean hold them as kinsmen dear",
+          "With soil changes water's taste With mates changes the mental state",
+          "Wisdom depends upon the mind The worth of man upon his friend",
+          "Good mind decides the future bliss Good company gains strength to this"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சிற்றினம் சேராமை (அரசியல்) பிரிவில் அமைந்த குறள் 459, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவனுக்கு மனநலத்தால் மறுமை இன்பம் கிடைக்கும். அதுவுங்கூட இனநலத்தால் வலிமை பெறும். கலைஞர் உரை கூறுவது: நல்ல உறுதியான உள்ளம் படைத்த உயர்ந்தோராக இருந்தாலும் அவர் சார்ந்த இனத்தின் உறுதியும் அவருக்கு வலிமையான துணையாக அமையக் கூடியதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Avoiding mean Associations (Royalty & Polity), Kural 459 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Future bliss is (the result) of goodness of mind; and even this acquires strength from the society of the good. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சிற்றினம் சேராமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Avoiding mean Associations' thoughtfully.",
+        "quiz_question_ta": "'சிற்றினம் சேராமை' அதிகாரத்தில் வரும் திருக்குறள் 459 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 459 from Chapter 'Avoiding mean Associations'?",
+        "quiz_options_ta": [
+          "அரிய நூல்களைத் கற்றுத் தேர்ந்து குற்றம் அற்றவரிடத்திலும் ஆராய்ந்துப் பார்க்குமிடத்தில் அறியாமை இல்லாதிருப்பது அருமையாகும்.",
+          "ஒருவனுக்கு வெற்றி பெற்றுத் தருவது வேல் அன்று, அரசனுடைய செங்கோலே ஆகும், அச் செங்கோலும் கோணாதிருக்குமாயின்.",
+          "ஓர் ஒற்றனை மற்றோர் ஒற்றன் அறியாதபடி ஆள வேண்டும், அவ்வாறு ஆளப்பட்ட ஒற்றர் மூவரின் சொல் ஒத்திருந்தால் அவை உண்மை எனத் தெளியப்படும்.",
+          "மனத்தின் நன்மையால் மறுமை இன்பம் உண்டாகும், அதுவும் இனத்தின் நன்மையால் மேலும் சிறப்புடையதாகும்."
+        ],
+        "quiz_options_en": [
+          "Though deep scholars of stainless sense Rare is freedom from ignorance",
+          "Not the spear but the sceptre straight That brings success to monarch's might",
+          "Engage the spies alone, apart When three agree confirm report",
+          "Good mind decides the future bliss Good company gains strength to this"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சிற்றினம் சேராமை) பகுதியில் குறள் 459 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனத்தின் நன்மையால் மறுமை இன்பம் உண்டாகும், அதுவும் இனத்தின் நன்மையால் மேலும் சிறப்புடையதாகும். பரிமேலழகர் உரை நுட்பம்: மனநலத்தின் மறுமை ஆகும்-ஒருவற்கு மனநன்மையானே மறுமை இன்பம் உண்டாம்; மற்று அஃது இனநலத்தின் ஏமாப்பு உடைத்து-அதற்கு அச்சிறப்புத்தானும் இனநன்மையான் வலி பெறுதலை உடைத்து, (மனநலத்தின் ஆகும் மறுமை என்றது, பயப்பது மனநன்மைதானே, பிறிதொன்று அன்று, என்னும் மதத்தை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 46: 'Avoiding mean Associations'), Kural 459 distills a foundational ethical insight: \"Although to mental goodness joys of other life belong, Yet good companionship is confirmation strong\" Philosophically, Future bliss is (the result) of goodness of mind; and even this acquires strength from the society of the good.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "self-mastery",
+        "ethics",
+        "leadership",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 460,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நல்ல இனத்தைவிடச் சிறந்ததாகிய துணையும் உலகத்தில் இல்லை, தீய இனத்தைவிடத் துன்பப்படுத்தும் பகையும் இல்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: There is no greater help than the company of the good; there is no greater source of sorrow than the company of the wicked.",
+        "story_title_ta": "சிற்றினம் சேராமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Avoiding mean Associations — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சிற்றினம் சேராமை' என்ற அதிகாரத்திலிருந்து குறள் 460 பற்றிக் கதை சொன்னார். 'ஒருவனுக்கு நல்ல இனத்தைக் காட்டிலும் பெரிய துணையும் இல்லை; தீய இனத்தைக் காட்டிலும் துன்பம் தருவதும் இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 46, 'Avoiding mean Associations', centered on Kural 460: There is no greater help than the company of the good; there is no greater source of sorrow than the company of the wicked. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நல்ல இனத்தைக் காட்டிலும் துணையாக இருப்பதும், தீய இனத்தைக் காட்டிலும் துன்பம் தரக்கூடியதும் எதுவுமே இல்லை.",
+        "moral_en": "Moral: Than good companionship no surer help we know; Than bad companionship nought causes direr woe.",
+        "game_blank_word_ta": "அல்லற்",
+        "game_options_ta": [
+          "அல்லற்",
+          "சிற்றினம்",
+          "அஞ்சும்",
+          "பெருமை"
+        ],
+        "game_options_en": [
+          "No help good company exeeds; The bad to untold anguish leads",
+          "The ignoble the noble fear The mean hold them as kinsmen dear",
+          "With soil changes water's taste With mates changes the mental state",
+          "Wisdom depends upon the mind The worth of man upon his friend"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சிற்றினம் சேராமை (அரசியல்) பிரிவில் அமைந்த குறள் 460, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவனுக்கு நல்ல இனத்தைக் காட்டிலும் பெரிய துணையும் இல்லை; தீய இனத்தைக் காட்டிலும் துன்பம் தருவதும் இல்லை. கலைஞர் உரை கூறுவது: நல்ல இனத்தைக் காட்டிலும் துணையாக இருப்பதும், தீய இனத்தைக் காட்டிலும் துன்பம் தரக்கூடியதும் எதுவுமே இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Avoiding mean Associations (Royalty & Polity), Kural 460 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is no greater help than the company of the good; there is no greater source of sorrow than the company of the wicked. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சிற்றினம் சேராமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Avoiding mean Associations' thoughtfully.",
+        "quiz_question_ta": "'சிற்றினம் சேராமை' அதிகாரத்தில் வரும் திருக்குறள் 460 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 460 from Chapter 'Avoiding mean Associations'?",
+        "quiz_options_ta": [
+          "நல்ல இனத்தைவிடச் சிறந்ததாகிய துணையும் உலகத்தில் இல்லை, தீய இனத்தைவிடத் துன்பப்படுத்தும் பகையும் இல்லை.",
+          "ஒருவனுடைய குணங்களை ஆராய்ந்து, பிறகு குற்றங்களையும் ஆராய்ந்து, மிகுதியானவை எவையென ஆராய்ந்து, மிகுந்திப்பவற்றால் தெளிந்து கொள்ள வேண்டும்.",
+          "உலகத்தை எல்லாம் அரசன் காப்பாற்றுவான், நீதிமுறை கெடாதவாறு ஆட்சி செய்வானாயின் அரசனை அந்த முறையே காப்பாற்றும்.",
+          "ஒற்றனிடத்தில் செய்யும் சிறப்பைப் பிறர் அறியுமாறு செய்யக்கூடாது, செய்தால் மறைபொருளைத்தானே வெளிப்படுத்தியவன் ஆவான்."
+        ],
+        "quiz_options_en": [
+          "No help good company exeeds; The bad to untold anguish leads",
+          "Good and evil in man weigh well Judge him by virtues which prevail",
+          "The king protects the entire earth And justice protects his royal worth",
+          "Give not the spy open reward It would divulge the secret heard!"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சிற்றினம் சேராமை) பகுதியில் குறள் 460 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நல்ல இனத்தைவிடச் சிறந்ததாகிய துணையும் உலகத்தில் இல்லை, தீய இனத்தைவிடத் துன்பப்படுத்தும் பகையும் இல்லை. பரிமேலழகர் உரை நுட்பம்: நல்லினத்தின் ஊங்கு துணையும் இல்லை - ஒருவற்கு நல்லினத்தின் மிக்க துணையும் இல்லை, தீயினத்தின் (ஊங்கு) அல்லல் படுப்பதூஉம் இல் - தீய இனத்தின் மிக்க பகையும் இல்லை. (ஐந்தன் உருபுகள் உறழ்பொருளின்கண் வந்தன. 'ஊங்கு' என்பது பின்னும் கூட்டி உம்மை மாற்றி உரைக்கப்பட்டது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 46: 'Avoiding mean Associations'), Kural 460 distills a foundational ethical insight: \"Than good companionship no surer help we know; Than bad companionship nought causes direr woe\" Philosophically, There is no greater help than the company of the good; there is no greater source of sorrow than the company of the wicked.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "courage"
+      ]
+    }
+  ]
+}

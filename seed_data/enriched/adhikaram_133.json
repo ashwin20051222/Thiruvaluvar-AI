@@ -1,0 +1,586 @@
+{
+  "adhikaram_id": 133,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.678236460+00:00",
+  "kurals": [
+    {
+      "kural_number": 1321,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அவரிடம் தவறு ஒன்றும் இல்லையானலும், அவரோடு ஊடுதல், அவர் நம்மேல் மிகுதியாக அன்பு செலுத்துமாறு செய்ய வல்லது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Although my husband is free from defects, the way in which he embraces me is such as to make me feign dislike.",
+        "story_title_ta": "ஊடலுவகை — நிலா கற்ற பாடம்",
+        "story_title_en": "The Pleasures of Temporary Variance — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'ஊடலுவகை' என்ற அதிகாரத்தில் வரும் குறள் 1321 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1321 from 'The Pleasures of Temporary Variance', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: எந்த தவறும் இல்லாத நிலையிலும்கூட காதலர்க்கிடையே தோன்றும் ஊடல், அவர்களின் அன்பை மிகுதியாக வளர்க்கக் கூடியது.",
+        "moral_en": "Moral: Although there be no fault in him, the sweetness of his loveHath power in me a fretful jealousy to move.",
+        "game_blank_word_ta": "தவறவர்க்கு",
+        "game_options_ta": [
+          "ஊடலின்",
+          "தவறவர்க்கு",
+          "தோன்றும்",
+          "சிறுதுனி"
+        ],
+        "game_options_en": [
+          "Fading first, love blooms and outlives The petty pricks that pouting gives",
+          "He is flawless; but I do pout So that his loving ways show out",
+          "Is there a heaven like sulk beneath Of hearts that join like water and earth?",
+          "In long pout after embrace sweet A weapon is up to break my heart"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊடலுவகை (கற்பியல்) பிரிவில் அமைந்த குறள் 1321, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவரிடம் தவறே இல்லை என்றாலும், அவர் என்னிடம் மிகுந்த அன்பைச் செலுத்தும்படி செய்யவல்லது ஊடல். கலைஞர் உரை கூறுவது: எந்த தவறும் இல்லாத நிலையிலும்கூட காதலர்க்கிடையே தோன்றும் ஊடல், அவர்களின் அன்பை மிகுதியாக வளர்க்கக் கூடியது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pleasures of Temporary Variance (Post-marital Love), Kural 1321 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Although my husband is free from defects, the way in which he embraces me is such as to make me feign dislike. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'ஊடலுவகை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pleasures of Temporary Variance'.",
+        "quiz_question_ta": "'ஊடலுவகை' அதிகாரத்தில் வரும் திருக்குறள் 1321 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1321 from Chapter 'The Pleasures of Temporary Variance'?",
+        "quiz_options_ta": [
+          "பொறாமை, ஆசை, சினம், கடுஞ்சொல் ஆகிய இந்த நான்கு குற்றங்களுக்கும் இடங்கொடுக்காமல் அவற்றைக் கடித்து ஒழுகுவதே அறமாகும்.",
+          "அவரிடம் தவறு ஒன்றும் இல்லையானலும், அவரோடு ஊடுதல், அவர் நம்மேல் மிகுதியாக அன்பு செலுத்துமாறு செய்ய வல்லது.",
+          "அகத்தில் அன்பு இல்லாமல் வாழும் உயிர் வாழக்கை வளமற்ற பாலைநிலத்தில் பட்டமரம் தளிர்த்தாற் போன்றது.",
+          "அடக்கம் ஒருவனை உயர்த்தித் தேவருள் சேர்க்கும்; அடக்கம் இல்லாதிருத்தல், பொல்லாத இருள் போன்ற தீய வாழ்க்கையில் செலுத்தி விடும்."
+        ],
+        "quiz_options_en": [
+          "Four ills eschew and virtue reach, Lust, anger, envy, evil-speech",
+          "He is flawless; but I do pout So that his loving ways show out",
+          "Life bereft of love is gloom Can sapless tree in desert bloom?",
+          "Self-rule leads to realms of gods Indulgence leads to gloomy hades"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (ஊடலுவகை) பகுதியில் குறள் 1321 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அவரிடம் தவறு ஒன்றும் இல்லையானலும், அவரோடு ஊடுதல், அவர் நம்மேல் மிகுதியாக அன்பு செலுத்துமாறு செய்ய வல்லது. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது , அப்பெற்றித்தாய ஊடலால் தமக்குக் கூடல் இன்பம் சிறந்துழி , அச்சிறப்பிற்கு ஏதுவாய அவ்வூடலைத் தலைமகள் உவத்தலும் , தலைமகன் உவத்தலும் ஆம் . அதிகார முறைமையும் இதனானே விளங்கும்.](தலைமகள் காரணமின்றிப் புலக்கின்றமை கேட்ட தோழி, அங்ஙனம் நீ புலக்கின்றது என்னை...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 133: 'The Pleasures of Temporary Variance'), Kural 1321 distills a foundational ethical insight: \"Although there be no fault in him, the sweetness of his loveHath power in me a fretful jealousy to move\" Philosophically, Although my husband is free from defects, the way in which he embraces me is such as to make me feign dislike.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "justice",
+        "love",
+        "education",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1322,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஊடுதலால் உண்டாகின்ற சிறிய துன்பம், காதலர் செய்கின்ற நல்ல அன்பு வாடிவிடக் காரணமாக இருந்தாலும் பெருமை பெறும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: His love will increase though it may (at first seem to) fade through the short-lived distress caused by (my) dislike.",
+        "story_title_ta": "ஊடலுவகை — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Pleasures of Temporary Variance — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'ஊடலுவகை' என்ற அதிகாரத்தில் வரும் குறள் 1322 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1322 from 'The Pleasures of Temporary Variance', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதலரிடையே மலர்நதுள்ள நல்லன்பு சற்று வாடுவதற்கு, ஊடுதல் காரணமாக இருந்தாலும் அதனால் விளைகிற சிறிய துன்பம் பெருமையுடையதேயாகும்.",
+        "moral_en": "Moral: My 'anger feigned' gives but a little pain; And when affection droops, it makes it bloom again.",
+        "game_blank_word_ta": "சிறுதுனி",
+        "game_options_ta": [
+          "இல்லை",
+          "தவறவர்க்கு",
+          "சிறுதுனி",
+          "ஆயினும்"
+        ],
+        "game_options_en": [
+          "He is flawless; but I do pout So that his loving ways show out",
+          "Is there a heaven like sulk beneath Of hearts that join like water and earth?",
+          "Fading first, love blooms and outlives The petty pricks that pouting gives",
+          "In long pout after embrace sweet A weapon is up to break my heart"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊடலுவகை (கற்பியல்) பிரிவில் அமைந்த குறள் 1322, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஊடல் காரணமாக என்னிடம் தோன்றும் சிறு துன்பத்தினால் அவர் என்மீது காட்டும் பேரன்பு வாடினாலும் பெருமை பெறும். கலைஞர் உரை கூறுவது: காதலரிடையே மலர்நதுள்ள நல்லன்பு சற்று வாடுவதற்கு, ஊடுதல் காரணமாக இருந்தாலும் அதனால் விளைகிற சிறிய துன்பம் பெருமையுடையதேயாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pleasures of Temporary Variance (Post-marital Love), Kural 1322 speaks directly to teens navigating studies, friendships, leadership, and digital choices: His love will increase though it may (at first seem to) fade through the short-lived distress caused by (my) dislike. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'ஊடலுவகை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pleasures of Temporary Variance'.",
+        "quiz_question_ta": "'ஊடலுவகை' அதிகாரத்தில் வரும் திருக்குறள் 1322 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1322 from Chapter 'The Pleasures of Temporary Variance'?",
+        "quiz_options_ta": [
+          "இளைஞராக உள்ளவர், பிற்காலத்தில் பார்த்து கொள்ளலாம் என்று எண்ணாமல் அறம் செய்ய வேண்டும். அதுவே உடல் அழியும் காலத்தில் அழியா துணையாகும்.",
+          "உடம்பின் அகத்து உறுப்பாகிய அன்பு இல்லாதவர்க்கு உடம்பின் புறத்து உறுப்புக்கள் எல்லாம் என்ன பயன் செய்யும்.",
+          "ஊடுதலால் உண்டாகின்ற சிறிய துன்பம், காதலர் செய்கின்ற நல்ல அன்பு வாடிவிடக் காரணமாக இருந்தாலும் பெருமை பெறும்.",
+          "அடக்கத்தை உறுதிப் பொருளாகக் கொண்டு போற்றிக் ‌காக்க வேண்டும். அந்த அடக்கத்தைவிட மேம்பட்ட ஆக்கம் உயிர்க்கு இல்லை."
+        ],
+        "quiz_options_en": [
+          "Do good enow; defer it not A deathless aid in death if sought",
+          "Love is the heart which limbs must move, Or vain the outer parts will prove",
+          "Fading first, love blooms and outlives The petty pricks that pouting gives",
+          "No gains with self-control measure Guard with care this great treasure"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (ஊடலுவகை) பகுதியில் குறள் 1322 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஊடுதலால் உண்டாகின்ற சிறிய துன்பம், காதலர் செய்கின்ற நல்ல அன்பு வாடிவிடக் காரணமாக இருந்தாலும் பெருமை பெறும். பரிமேலழகர் உரை நுட்பம்: (புலவாக்காலும் அத்தலையளி பெறலாயிருக்க, அஃது இழந்து புலவியான் வருந்துவது என்னை? என்றாட்கு, அவள் சொல்லியது.) ஊடலின் தோன்றும் சிறுதுனி - ஊடல் ஏதுவாக நங்கண் தோன்றுகின்ற சிறிய துனிதன்னால்; நல்லளி வாடினும் பாடு பெறும் - காதலர் செய்யும் நல்ல தலையளி வாடுமாயினும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 133: 'The Pleasures of Temporary Variance'), Kural 1322 distills a foundational ethical insight: \"My 'anger feigned' gives but a little pain; And when affection droops, it makes it bloom again\" Philosophically, His love will increase though it may (at first seem to) fade through the short-lived distress caused by (my) dislike.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "kindness",
+        "self-mastery",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 1323,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நிலத்தோடு நீர் பொருந்தி கலந்தாற் போன்ற அன்புடைய காதலரிடத்தில் ஊடுவதை விட இன்பம் தருகின்ற தேவருலம் இருக்கின்றதோ.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Is there a celestial land that can please like the feigned dislike of those whose union resembles that of earth and water?",
+        "story_title_ta": "ஊடலுவகை — இனியா கற்ற பாடம்",
+        "story_title_en": "The Pleasures of Temporary Variance — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'ஊடலுவகை' என்ற அதிகாரத்தில் வரும் குறள் 1323 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1323 from 'The Pleasures of Temporary Variance', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நிலத்தோடு நீர் கலந்தது போல அன்புடன் கூடியிருக்கும் காதலரிடத்தில் ஊடல் கொள்வதை விடப் புதிய உலகம் வேறொன்று இருக்க முடியுமா?",
+        "moral_en": "Moral: Is there a bliss in any world more utterly divine, Than 'coyness' gives, when hearts as earth and water join.",
+        "game_blank_word_ta": "புலத்தலின்",
+        "game_options_ta": [
+          "இல்லை",
+          "தவறவர்க்கு",
+          "ஆயினும்",
+          "புலத்தலின்"
+        ],
+        "game_options_en": [
+          "He is flawless; but I do pout So that his loving ways show out",
+          "Fading first, love blooms and outlives The petty pricks that pouting gives",
+          "In long pout after embrace sweet A weapon is up to break my heart",
+          "Is there a heaven like sulk beneath Of hearts that join like water and earth?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊடலுவகை (கற்பியல்) பிரிவில் அமைந்த குறள் 1323, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நிலத்தோடு நீர் கலந்தாற்போன்ற ஒற்றுமையை உடைய என்னவரோடு ஊடிப் பெறும் இன்பத்தைப் போலத் தேவர்கள் நாட்டு இன்பம் இருக்குமோ? கலைஞர் உரை கூறுவது: நிலத்தோடு நீர் கலந்தது போல அன்புடன் கூடியிருக்கும் காதலரிடத்தில் ஊடல் கொள்வதை விடப் புதிய உலகம் வேறொன்று இருக்க முடியுமா? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pleasures of Temporary Variance (Post-marital Love), Kural 1323 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Is there a celestial land that can please like the feigned dislike of those whose union resembles that of earth and water? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'ஊடலுவகை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pleasures of Temporary Variance'.",
+        "quiz_question_ta": "'ஊடலுவகை' அதிகாரத்தில் வரும் திருக்குறள் 1323 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1323 from Chapter 'The Pleasures of Temporary Variance'?",
+        "quiz_options_ta": [
+          "பல்லக்கை சுமப்பவனும் அதன்மேலிருந்து ஊர்ந்து செல்லுவோனுமாகிய அவர்களிடையே அறத்தின் பயன் இஃது என்று கூறவேண்டா.",
+          "அன்பின் வழியில் இயங்கும் உடம்பே உயிர்நின்ற உடம்பாகும்: அன்பு இல்லாதவர்க்கு உள்ள உடம்பு எலும்பைத் தோல்போர்த்த வெற்றுடம்பே ஆகும்",
+          "அறிய வேண்டியவற்றை அறிந்து, நல்வழியில் அடங்கி ஒழுகப்பெற்றால், அந்த அடக்கம் நல்லோரால் அறியப்பட்டு மேன்மை பயக்கும்.",
+          "நிலத்தோடு நீர் பொருந்தி கலந்தாற் போன்ற அன்புடைய காதலரிடத்தில் ஊடுவதை விட இன்பம் தருகின்ற தேவருலம் இருக்கின்றதோ."
+        ],
+        "quiz_options_en": [
+          "Litter-bearer and rider say Without a word, the fortune's way",
+          "The seat of life is love alone; Or beings are but skin and bone!",
+          "Knowing wisdom who lives controlled Name and fame seek him untold",
+          "Is there a heaven like sulk beneath Of hearts that join like water and earth?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (ஊடலுவகை) பகுதியில் குறள் 1323 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நிலத்தோடு நீர் பொருந்தி கலந்தாற் போன்ற அன்புடைய காதலரிடத்தில் ஊடுவதை விட இன்பம் தருகின்ற தேவருலம் இருக்கின்றதோ. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நிலத்தொடு நீர் இயைந்து அன்னார் அகத்துப் புலத்தலின் - நிலத்தொடு நீர் கலந்தாற்போல ஒற்றுமை உடைய காதலர் மாட்டுப் புலத்தல் போல; புத்தேள் நாடு உண்டோ - நமக்கின்பம் தருவதொரு புத்தேள் உலகம் உண்டோ? இல்லை. (நீர் தான் நின்ற நிலத்தியல்பிற்றாமாறு போலக...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 133: 'The Pleasures of Temporary Variance'), Kural 1323 distills a foundational ethical insight: \"Is there a bliss in any world more utterly divine, Than 'coyness' gives, when hearts as earth and water join\" Philosophically, Is there a celestial land that can please like the feigned dislike of those whose union resembles that of earth and water?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "harmony",
+        "speech",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1324,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: காதலரைத் தழுவிக்கொண்டு விடாமலிருப்பதற்கு காரணமான ஊடலுள், என்னுடைய உள்ளத்தை உடைக்க வல்ல படை தோன்றுகிறது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: In prolonged dislike after an embrace there is a weapon that can break my heart.",
+        "story_title_ta": "ஊடலுவகை — முகில் கற்ற பாடம்",
+        "story_title_en": "The Pleasures of Temporary Variance — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'ஊடலுவகை' என்ற அதிகாரத்தில் வரும் குறள் 1324 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1324 from 'The Pleasures of Temporary Variance', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: இறுகத் தழுவி இணை பிரியாமல் இருப்பதற்குக் காரணமாக ஊடல் அமைகிறது அந்த ஊடலில்தான் என் உள்ளத்து உறுதியைக் குலைக்கும் படைக்கலனும் இருக்கிறது.",
+        "moral_en": "Moral: 'Within the anger feigned' that close love's tie doth bind, A weapon lurks, which quite breaks down my mind.",
+        "game_blank_word_ta": "உள்ளம்",
+        "game_options_ta": [
+          "உள்ளம்",
+          "இல்லை",
+          "தவறவர்க்கு",
+          "ஆயினும்"
+        ],
+        "game_options_en": [
+          "In long pout after embrace sweet A weapon is up to break my heart",
+          "He is flawless; but I do pout So that his loving ways show out",
+          "Fading first, love blooms and outlives The petty pricks that pouting gives",
+          "Is there a heaven like sulk beneath Of hearts that join like water and earth?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊடலுவகை (கற்பியல்) பிரிவில் அமைந்த குறள் 1324, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என்னவரைத் தழுவிக் கொண்டு, விடாமல் இருப்பதற்குக் காரணமாகிய ஊடலில் அதற்குமேலே சென்று என் உறுதியையும் உடைக்கும் ஆயுதம் இருக்கிறது. கலைஞர் உரை கூறுவது: இறுகத் தழுவி இணை பிரியாமல் இருப்பதற்குக் காரணமாக ஊடல் அமைகிறது அந்த ஊடலில்தான் என் உள்ளத்து உறுதியைக் குலைக்கும் படைக்கலனும் இருக்கிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pleasures of Temporary Variance (Post-marital Love), Kural 1324 speaks directly to teens navigating studies, friendships, leadership, and digital choices: In prolonged dislike after an embrace there is a weapon that can break my heart. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'ஊடலுவகை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pleasures of Temporary Variance'.",
+        "quiz_question_ta": "'ஊடலுவகை' அதிகாரத்தில் வரும் திருக்குறள் 1324 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1324 from Chapter 'The Pleasures of Temporary Variance'?",
+        "quiz_options_ta": [
+          "காதலரைத் தழுவிக்கொண்டு விடாமலிருப்பதற்கு காரணமான ஊடலுள், என்னுடைய உள்ளத்தை உடைக்க வல்ல படை தோன்றுகிறது.",
+          "ஒருவன் அறம் செய்ய தவறிய நாள் ஏற்படாதவாறு அறத்தை செய்வானானால் அதுவே அவன் உடலோடு வாழும் நாள் வரும் பிறவி வழியை அடைக்கும் கல்லாகும்.",
+          "வீட்டில் இருந்து பொருள்களைக் காத்து இல்வாழ்க்கை நடத்துவதெல்லாம் விருந்தினரைப் போற்றி உதவி செய்யும் பொருட்டே ஆகும்",
+          "தன் நிலையிலிருந்து மாறுபடாமல் அடங்கி ஒழுகுவோனுடைய உயர்வு, மலையின் உயர்வை விட மிகவும் பெரிதாகும்."
+        ],
+        "quiz_options_en": [
+          "In long pout after embrace sweet A weapon is up to break my heart",
+          "Like stones that block rebirth and pain Are doing good and good again",
+          "Men set up home, toil and earn To tend the guests and do good turn",
+          "Firmly fixed in self serene The sage looks grander than mountain"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (ஊடலுவகை) பகுதியில் குறள் 1324 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காதலரைத் தழுவிக்கொண்டு விடாமலிருப்பதற்கு காரணமான ஊடலுள், என்னுடைய உள்ளத்தை உடைக்க வல்ல படை தோன்றுகிறது. பரிமேலழகர் உரை நுட்பம்: (அப்புலவி இனி யாதான் நீங்கும்? என்றாட்குச் சொல்லியது.) புல்லி விடாப் புலவியுள் தோன்றும் - காதலரைப் புல்லிக் கொண்டு பின் விடாமைக்கு ஏதுவாகிய அப்புலவிக்கண்ணே உளதாம்; என் உள்ளம் உடைக்கும் படை - அதன் மேற்சென்ற என்னுள்ளத்தைக் கெடுக்கும் படைக்கலம். ('புலவியுள...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 133: 'The Pleasures of Temporary Variance'), Kural 1324 distills a foundational ethical insight: \"'Within the anger feigned' that close love's tie doth bind, A weapon lurks, which quite breaks down my mind\" Philosophically, In prolonged dislike after an embrace there is a weapon that can break my heart.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "leadership",
+        "self-mastery",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1325,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தவறு இல்லாத போதும் ஊடலுக்கு ஆளாகித் தாம் விரும்பும் மகளிரின் மெல்லிய தோள்களை நீங்கி இருக்கும் போது ஓர் இன்பம் உள்ளது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Though free from defects, men feel pleased when they cannot embrace the delicate shoulders of those whom they love.",
+        "story_title_ta": "ஊடலுவகை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Pleasures of Temporary Variance — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'ஊடலுவகை' என்ற அதிகாரத்தில் வரும் குறள் 1325 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1325 from 'The Pleasures of Temporary Variance', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: தவறே செய்யாத நிலையிலும்கூட தன்னுள்ளம் கொள்ளை கொண்டவளின் ஊடலுக்கு ஆளாகி அவளது மெல்லிய தோள்களைப் பிரிந்திருப்பதில் ஓர் இன்பம் இருக்கிறது.",
+        "moral_en": "Moral: Though free from fault, from loved one's tender armsTo be estranged a while hath its own special charms.",
+        "game_blank_word_ta": "தாம்வீழ்வார்",
+        "game_options_ta": [
+          "இல்லை",
+          "தாம்வீழ்வார்",
+          "தவறவர்க்கு",
+          "ஆயினும்"
+        ],
+        "game_options_en": [
+          "He is flawless; but I do pout So that his loving ways show out",
+          "Though free form faults, one feels the charms Of feigned release from lover's arms",
+          "Fading first, love blooms and outlives The petty pricks that pouting gives",
+          "Is there a heaven like sulk beneath Of hearts that join like water and earth?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊடலுவகை (கற்பியல்) பிரிவில் அமைந்த குறள் 1325, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆண்கள் மீது தவறு இல்லை என்றாலும் தவறு செய்தவராகவே நின்று, மனைவியால் ஊடப்பட்டு தாம் விரும்பும் மனைவியின் மெல்லிய தோள்களைக் கூடப் பெறாதபோது, அந்த ஊடலிலும் ஓர் இன்பம் இருக்கிறது. கலைஞர் உரை கூறுவது: தவறே செய்யாத நிலையிலும்கூட தன்னுள்ளம் கொள்ளை கொண்டவளின் ஊடலுக்கு ஆளாகி அவளது மெல்லிய தோள்களைப் பிரிந்திருப்பதில் ஓர் இன்பம் இருக்கிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pleasures of Temporary Variance (Post-marital Love), Kural 1325 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though free from defects, men feel pleased when they cannot embrace the delicate shoulders of those whom they love. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'ஊடலுவகை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pleasures of Temporary Variance'.",
+        "quiz_question_ta": "'ஊடலுவகை' அதிகாரத்தில் வரும் திருக்குறள் 1325 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1325 from Chapter 'The Pleasures of Temporary Variance'?",
+        "quiz_options_ta": [
+          "அறநெறியில் வாழ்வதன் பயனாக வருவதே இன்பமாகும். அறத்தோடு பொருந்தாமல் வருவன எல்லாம் இன்பம் இல்லாதவை: புகழும் இல்லாதவை.",
+          "தவறு இல்லாத போதும் ஊடலுக்கு ஆளாகித் தாம் விரும்பும் மகளிரின் மெல்லிய தோள்களை நீங்கி இருக்கும் போது ஓர் இன்பம் உள்ளது.",
+          "விருந்தினராக வந்தவர் வீட்டின் புறத்தே இருக்கத் தான் மட்டும் உண்பது சாவாமருந்தாகிய அமிழ்தமே ஆனாலும் அது விரும்பத்தக்கது அன்று",
+          "பணிவுடையவராக ஒழுகுதல்பொதுவாக எல்லோர்க்கும் நல்லதாகும்; அவர்களுள் சிறப்பாகச் செல்வர்க்கே மற்றொரு செல்வம் போன்றதாகும்."
+        ],
+        "quiz_options_en": [
+          "Weal flows only from virtue done The rest is rue and renown gone",
+          "Though free form faults, one feels the charms Of feigned release from lover's arms",
+          "To keep out guests cannot be good Albeit you eat nector-like food",
+          "Humility is good for all To the rich it adds a wealth special"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (ஊடலுவகை) பகுதியில் குறள் 1325 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தவறு இல்லாத போதும் ஊடலுக்கு ஆளாகித் தாம் விரும்பும் மகளிரின் மெல்லிய தோள்களை நீங்கி இருக்கும் போது ஓர் இன்பம் உள்ளது. பரிமேலழகர் உரை நுட்பம்: (தலைமகளை ஊடல் நீக்கிக் கூடிய தலைமகன் கழியுவகையனாய்த் தன்னுள்ளே சொல்லியது.) தவறு இலராயினும் தாம் வீழ்வார் மென்தோள் அகறலின் - ஆடவர் தங்கண் தவறிலராயினும், உடையார்போல ஊடப்பட்டுத் தாம் விரும்பும் மகளிருடைய மெல்லிய தோள்களைக் கூடப்பெறாத எல்லைக்கண்; ஆங்கு ஒன்று...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 133: 'The Pleasures of Temporary Variance'), Kural 1325 distills a foundational ethical insight: \"Though free from fault, from loved one's tender armsTo be estranged a while hath its own special charms\" Philosophically, Though free from defects, men feel pleased when they cannot embrace the delicate shoulders of those whom they love.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "kindness",
+        "love",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1326,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: உண்பதை விட முன் உண்ட உணவுச் செரிப்பது இன்பமானது, அதுபோல் காமத்தில் கூடுவதைவிட ஊடுதல் இன்பமானது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: To digest what has been eaten is more delightful than to eat more; likewise love is more delightful in dislike than intercourse.",
+        "story_title_ta": "ஊடலுவகை — கவின் கற்ற பாடம்",
+        "story_title_en": "The Pleasures of Temporary Variance — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'ஊடலுவகை' என்ற அதிகாரத்தில் வரும் குறள் 1326 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1326 from 'The Pleasures of Temporary Variance', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: உணவு அருந்துவதைவிட, அருந்திய உணவு செரிப்பதிலே ஒரு சுகம் அதைப்போல் உடலுறவைவிட ஊடல் கொள்வதிலேயே காதலர்க்கு ஒரு சுகம்.",
+        "moral_en": "Moral: 'Tis sweeter to digest your food than 'tis to eat; In love, than union's self is anger feigned more sweet.",
+        "game_blank_word_ta": "காமம்",
+        "game_options_ta": [
+          "இல்லை",
+          "தவறவர்க்கு",
+          "காமம்",
+          "ஆயினும்"
+        ],
+        "game_options_en": [
+          "He is flawless; but I do pout So that his loving ways show out",
+          "Fading first, love blooms and outlives The petty pricks that pouting gives",
+          "Sweeter than meal is digestion And sulk in love than union",
+          "Is there a heaven like sulk beneath Of hearts that join like water and earth?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊடலுவகை (கற்பியல்) பிரிவில் அமைந்த குறள் 1326, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உண்பதைவிட உண்டது செரிப்பது இனியது; அதுபோலக், கூடிக் கலப்பதை விட ஊடுவது காதலுக்கு இனியது. கலைஞர் உரை கூறுவது: உணவு அருந்துவதைவிட, அருந்திய உணவு செரிப்பதிலே ஒரு சுகம் அதைப்போல் உடலுறவைவிட ஊடல் கொள்வதிலேயே காதலர்க்கு ஒரு சுகம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pleasures of Temporary Variance (Post-marital Love), Kural 1326 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To digest what has been eaten is more delightful than to eat more; likewise love is more delightful in dislike than intercourse. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'ஊடலுவகை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pleasures of Temporary Variance'.",
+        "quiz_question_ta": "'ஊடலுவகை' அதிகாரத்தில் வரும் திருக்குறள் 1326 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1326 from Chapter 'The Pleasures of Temporary Variance'?",
+        "quiz_options_ta": [
+          "ஒருவன் வாழ்நாளில் முயற்சி மேற்கொண்டு செய்யத்தக்கது அறமே. செய்யாமல் காத்து கொள்ளத்தக்கது பழியே.",
+          "தன்னை நோக்கி வரும் விருந்தினரை நாள் தோறும் போற்றுகின்றவனுடைய வாழ்க்கை, துன்பத்தால் வருந்திக் கெட்டுப் போவதில்லை.",
+          "உண்பதை விட முன் உண்ட உணவுச் செரிப்பது இன்பமானது, அதுபோல் காமத்தில் கூடுவதைவிட ஊடுதல் இன்பமானது.",
+          "ஒரு பிறப்பில், ஆமைபோல் ஐம்பொறிகளையும் அடக்கியாள வல்லவனானால், அஃது அவனுக்குப் பல பிறப்பிலும் காப்பாகும் சிறப்பு உடையது."
+        ],
+        "quiz_options_en": [
+          "Worthy act is virtue done Vice is what we ought to shun",
+          "Who tends his guests day in and out His life in want never wears out",
+          "Sweeter than meal is digestion And sulk in love than union",
+          "Who senses five like tortoise hold Their joy prolongs to births sevenfold"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (ஊடலுவகை) பகுதியில் குறள் 1326 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உண்பதை விட முன் உண்ட உணவுச் செரிப்பது இன்பமானது, அதுபோல் காமத்தில் கூடுவதைவிட ஊடுதல் இன்பமானது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) உணலினும் உண்டது அறல் இனிது - உயிர்க்கு, மேலுண்பதனினும் முன் உண்டது அறுதல் இன்பந்தரும்; காமம் புணர்தலின் ஊடல் இனிது - அதுபோலக் காமத்திற்கு மேற்புணர்தலினும் முன்னைத் தவறு பற்றி ஊடுதல் இன்பம் தரும். ('காமத்திற்கு' என்புழிச் சாரியையும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 133: 'The Pleasures of Temporary Variance'), Kural 1326 distills a foundational ethical insight: \"'Tis sweeter to digest your food than 'tis to eat; In love, than union's self is anger feigned more sweet\" Philosophically, To digest what has been eaten is more delightful than to eat more; likewise love is more delightful in dislike than intercourse.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "harmony",
+        "speech",
+        "love",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1327,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஊடலில் தோற்றவரே வெற்றி பெற்றவர் ஆவர், அந்த உண்மை,ஊடல் முடிந்த பின் கூடிமகிழும் நிலையில் காணப்படும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Those are conquerors whose dislike has been defeated and that is proved by the love (which.",
+        "story_title_ta": "ஊடலுவகை — நிலா கற்ற பாடம்",
+        "story_title_en": "The Pleasures of Temporary Variance — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'ஊடலுவகை' என்ற அதிகாரத்தில் வரும் குறள் 1327 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1327 from 'The Pleasures of Temporary Variance', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ஊடல் என்கிற இனிய போரில் தோற்றவர்தான் வெற்றி பெற்றவராவார் இந்த உண்மை ஊடல் முடிந்து கூடிமகிழும் போது உணரப்படும்.",
+        "moral_en": "Moral: In lovers' quarrels, 'tis the one that first gives way, That in re-union's joy is seen to win the day.",
+        "game_blank_word_ta": "கூடலிற்",
+        "game_options_ta": [
+          "இல்லை",
+          "தவறவர்க்கு",
+          "ஆயினும்",
+          "கூடலிற்"
+        ],
+        "game_options_en": [
+          "He is flawless; but I do pout So that his loving ways show out",
+          "Fading first, love blooms and outlives The petty pricks that pouting gives",
+          "Is there a heaven like sulk beneath Of hearts that join like water and earth?",
+          "The yielder wins in lover's pout Reunited joy brings it out"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊடலுவகை (கற்பியல்) பிரிவில் அமைந்த குறள் 1327, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஊடலில் தோற்றவரே வெற்றி பெற்றவர் ஆவார்; அந்த வெற்றியைக் கூடிப் பெறும் இன்பத்தில் அறியலாம். கலைஞர் உரை கூறுவது: ஊடல் என்கிற இனிய போரில் தோற்றவர்தான் வெற்றி பெற்றவராவார் இந்த உண்மை ஊடல் முடிந்து கூடிமகிழும் போது உணரப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pleasures of Temporary Variance (Post-marital Love), Kural 1327 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those are conquerors whose dislike has been defeated and that is proved by the love (which. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'ஊடலுவகை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pleasures of Temporary Variance'.",
+        "quiz_question_ta": "'ஊடலுவகை' அதிகாரத்தில் வரும் திருக்குறள் 1327 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1327 from Chapter 'The Pleasures of Temporary Variance'?",
+        "quiz_options_ta": [
+          "இல்லறத்தில் வாழ்பவனாகச் சொல்லப்படுகிறவன் அறத்தின் இயல்பை உடைய மூவருக்கும் நல்வழியில் நிலை பெற்ற துணையாவான்.",
+          "நல்ல விருந்தினராய் வந்தவரை முகமலர்ச்சி கொண்டு போற்றுகின்றவனுடைய வீட்டில் மனமகிழ்ந்து திருமகள் வாழ்வாள்.",
+          "காக்க வேண்டியவற்றுள் எவற்றைக் காக்கா விட்டாலும் நாவையாவது காக்க வேண்டு்ம்; காக்கத் தவறினால் சொற்குற்றத்தில் அகப்பட்டுத் துன்புறுவர்.",
+          "ஊடலில் தோற்றவரே வெற்றி பெற்றவர் ஆவர், அந்த உண்மை,ஊடல் முடிந்த பின் கூடிமகிழும் நிலையில் காணப்படும்."
+        ],
+        "quiz_options_en": [
+          "The ideal householder is he Who aids the natural orders there",
+          "The goddess of wealth will gladly rest Where smiles welcome the worthy guest",
+          "Rein the tongue if nothing else Or slips of tongue bring all the woes",
+          "The yielder wins in lover's pout Reunited joy brings it out"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (ஊடலுவகை) பகுதியில் குறள் 1327 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஊடலில் தோற்றவரே வெற்றி பெற்றவர் ஆவர், அந்த உண்மை,ஊடல் முடிந்த பின் கூடிமகிழும் நிலையில் காணப்படும். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) ஊடலில் தோற்றவர் வென்றார் - காமம் நுகர்தற்குரிய இருவருள் ஊடலின்கண் தோற்றவர் வென்றாராவர்; அது கூடலில் காணப்படும் - அது அப்பொழுது அறியப்படாதாயினும், பின்னைப் புணர்ச்சியின்கண் அவரால் அறியப்படும். (தோற்றவர் - எதிர்தலாற்றாது சாய்ந்தவர். அவர...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 133: 'The Pleasures of Temporary Variance'), Kural 1327 distills a foundational ethical insight: \"In lovers' quarrels, 'tis the one that first gives way, That in re-union's joy is seen to win the day\" Philosophically, Those are conquerors whose dislike has been defeated and that is proved by the love (which.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "truth",
+        "kindness",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1328,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நெற்றி வியர்க்கும் படியாக கூடுவதில் உளதாகும் இனிமையை ஊடியிருந்து உணர்வதன் பயனாக இனியும் பெறுவோமோ.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Will I enjoy once more through her dislike, the pleasure of that love that makes her forehead perspire?",
+        "story_title_ta": "ஊடலுவகை — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Pleasures of Temporary Variance — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'ஊடலுவகை' என்ற அதிகாரத்தில் வரும் குறள் 1328 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1328 from 'The Pleasures of Temporary Variance', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நெற்றியில் வியர்வை அரும்பிடக் கூடுவதால் ஏற்படும் இன்பத்தை, மீண்டும் ஒருமுறை ஊடல் தோன்றினால், அதன் வாயிலாகப் பெற முடியுமல்லவா?",
+        "moral_en": "Moral: And shall we ever more the sweetness know of that embraceWith dewy brow; to which 'feigned anger' lent its piquant grace.",
+        "game_blank_word_ta": "தோன்றிய",
+        "game_options_ta": [
+          "தோன்றிய",
+          "இல்லை",
+          "தவறவர்க்கு",
+          "ஆயினும்"
+        ],
+        "game_options_en": [
+          "Shall not our pouting again give The dew-browed joy of joint love?",
+          "He is flawless; but I do pout So that his loving ways show out",
+          "Fading first, love blooms and outlives The petty pricks that pouting gives",
+          "Is there a heaven like sulk beneath Of hearts that join like water and earth?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊடலுவகை (கற்பியல்) பிரிவில் அமைந்த குறள் 1328, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நெற்றி வியர்க்கும்படி கலவியில் தோன்றும் சுகத்தை இன்னுமொரு முறை இவளுடன் ஊடிப் பெறுவோமா? கலைஞர் உரை கூறுவது: நெற்றியில் வியர்வை அரும்பிடக் கூடுவதால் ஏற்படும் இன்பத்தை, மீண்டும் ஒருமுறை ஊடல் தோன்றினால், அதன் வாயிலாகப் பெற முடியுமல்லவா? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pleasures of Temporary Variance (Post-marital Love), Kural 1328 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Will I enjoy once more through her dislike, the pleasure of that love that makes her forehead perspire? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'ஊடலுவகை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pleasures of Temporary Variance'.",
+        "quiz_question_ta": "'ஊடலுவகை' அதிகாரத்தில் வரும் திருக்குறள் 1328 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1328 from Chapter 'The Pleasures of Temporary Variance'?",
+        "quiz_options_ta": [
+          "நெற்றி வியர்க்கும் படியாக கூடுவதில் உளதாகும் இனிமையை ஊடியிருந்து உணர்வதன் பயனாக இனியும் பெறுவோமோ.",
+          "துறந்தவர்கும் வறியவர்க்கும் தன்னிடத்தே இறந்தவர்க்கும் இல்லறம் மேற்கொண்டு வாழ்கிறவன் துணையாவான்.",
+          "விருந்தினரை முன்னே போற்றி உணவளித்து மிஞ்சிய உணவை உண்டு வாழ்கின்றவனுடைய நிலத்தில் விதையும் விதைக்க வேண்டுமோ?",
+          "தீய ‌சொற்களின் பொருளால் விளையும் தீமை ஒன்றாயினும் ஒருவனிடம் உண்டானால், அதனால் மற்ற அறங்களாலும் நன்மை விளையாமல் போகும்."
+        ],
+        "quiz_options_en": [
+          "Shall not our pouting again give The dew-browed joy of joint love?",
+          "His help the monk and retired share, And celibate students are his care",
+          "Should his field be sown who first Feeds the guests and eats the rest?",
+          "Even a single evil word Will turn all good results to bad"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (ஊடலுவகை) பகுதியில் குறள் 1328 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெற்றி வியர்க்கும் படியாக கூடுவதில் உளதாகும் இனிமையை ஊடியிருந்து உணர்வதன் பயனாக இனியும் பெறுவோமோ. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நுதல் வெயர்ப்பக் கூடலில் தோன்றிய உப்பு - இதுபொழுது இவள் நுதல் வெயர்க்கும்வகை கலவியின்கண் உளதாய இனிமையை; ஊடிப் பெறுகுவம் கொல்லோ - இன்னும் ஒரு கால் இவள் ஊடி யாம் பெறவல்லேமோ? (கலவியது விசேடம்பற்றி 'நுதல் வெயர்ப்ப' என்றான். இனிமை: கண்டு கேட்டு...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 133: 'The Pleasures of Temporary Variance'), Kural 1328 distills a foundational ethical insight: \"And shall we ever more the sweetness know of that embraceWith dewy brow; to which 'feigned anger' lent its piquant grace\" Philosophically, Will I enjoy once more through her dislike, the pleasure of that love that makes her forehead perspire?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "kindness",
+        "love",
+        "harmony",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 1329,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: காதலி இன்னும் ஊடுவாளாக, அந்த ஊடலைத் தணிக்கும் பொருட்டு யாம் இரந்து நிற்குமாறு இராக்காலம் இன்னும் நீட்டிப்பதாக.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: May the bright-jewelled one feign dislike, and may the night be prolonged for me to implore her!",
+        "story_title_ta": "ஊடலுவகை — இனியா கற்ற பாடம்",
+        "story_title_en": "The Pleasures of Temporary Variance — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'ஊடலுவகை' என்ற அதிகாரத்தில் வரும் குறள் 1329 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1329 from 'The Pleasures of Temporary Variance', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ஒளி முகத்தழகி ஊடல் புரிவாளாக; அந்த ஊடலைத் தீர்க்கும் பொருட்டு நான் அவளிடம் இரந்து நிற்கும் இன்பத்தைப் பெறுவதற்கும் இராப்பொழுது இன்னும் நீடிப்பதாக.",
+        "moral_en": "Moral: Let her, whose jewels brightly shine, aversion feignThat I may still plead on, O night, prolong thy reign.",
+        "game_blank_word_ta": "நீடுக",
+        "game_options_ta": [
+          "இல்லை",
+          "நீடுக",
+          "தவறவர்க்கு",
+          "ஆயினும்"
+        ],
+        "game_options_en": [
+          "He is flawless; but I do pout So that his loving ways show out",
+          "Sulk on O belle of shining jewels! Prolong O night! our delight swells!",
+          "Fading first, love blooms and outlives The petty pricks that pouting gives",
+          "Is there a heaven like sulk beneath Of hearts that join like water and earth?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊடலுவகை (கற்பியல்) பிரிவில் அமைந்த குறள் 1329, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒளிமிகும் அணிகளை அணிந்த இவள் இன்னும் என்னோடு ஊடட்டும், அப்போது அதிக நேரம் இருக்கும்படி நான் வேண்டிக்கொள்ள, இந்த இரவு விடியாது நீளட்டும். கலைஞர் உரை கூறுவது: ஒளி முகத்தழகி ஊடல் புரிவாளாக; அந்த ஊடலைத் தீர்க்கும் பொருட்டு நான் அவளிடம் இரந்து நிற்கும் இன்பத்தைப் பெறுவதற்கும் இராப்பொழுது இன்னும் நீடிப்பதாக. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pleasures of Temporary Variance (Post-marital Love), Kural 1329 speaks directly to teens navigating studies, friendships, leadership, and digital choices: May the bright-jewelled one feign dislike, and may the night be prolonged for me to implore her! Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'ஊடலுவகை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pleasures of Temporary Variance'.",
+        "quiz_question_ta": "'ஊடலுவகை' அதிகாரத்தில் வரும் திருக்குறள் 1329 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1329 from Chapter 'The Pleasures of Temporary Variance'?",
+        "quiz_options_ta": [
+          "தென்புலத்தார், தெய்வம் விருந்தினர், சுற்றத்தார், தான் என்ற ஐவகையிடத்தும் அறநெறி தவறாமல் போற்றுதல் சிறந்த கடமையாகும்.",
+          "காதலி இன்னும் ஊடுவாளாக, அந்த ஊடலைத் தணிக்கும் பொருட்டு யாம் இரந்து நிற்குமாறு இராக்காலம் இன்னும் நீட்டிப்பதாக.",
+          "வந்த விருந்தினரைப் போற்றி, இனிவரும் விருந்தினரை எதிர் பார்த்திருப்பவன், வானுலகத்தில் உள்ள தேவர்க்கும் நல்ல விருந்தினனாவான்",
+          "தீயினால் சுட்ட புண் புறத்தே வடு இருந்தாலும் உள்ளே ஆறிவிடும்; ஆனால் நாவினால் தீய சொல் கூறிச் சுடும் வடு என்றும் ஆறாது."
+        ],
+        "quiz_options_en": [
+          "By dutiful householder's aid God, manes, kin, self and guests are served",
+          "Sulk on O belle of shining jewels! Prolong O night! our delight swells!",
+          "Who tends a guest and looks for next Is a welcome guest in heaven's feast",
+          "The fire-burnt wounds do find a cure Tongue-burnt wound rests a running sore"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (ஊடலுவகை) பகுதியில் குறள் 1329 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காதலி இன்னும் ஊடுவாளாக, அந்த ஊடலைத் தணிக்கும் பொருட்டு யாம் இரந்து நிற்குமாறு இராக்காலம் இன்னும் நீட்டிப்பதாக. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) ஒளி இழை ஊடுக மன் - ஒளியிழையினை உடையாள் இன்னும் எம்மோடு ஊடுவாளாக; யாம் இரப்ப இரா நீடுக மன் - அங்ஙனம் அவள் ஊடிநிற்கும் அதனை உணர்த்துதற் பொருட்டு யாம் இரந்து நிற்றற்கும் காலம் பெறும் வகை, இவ்விரவு விடியாது நீட்டித்தல் வேண்டுக. ('ஊடுக', 'நீடுக...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 133: 'The Pleasures of Temporary Variance'), Kural 1329 distills a foundational ethical insight: \"Let her, whose jewels brightly shine, aversion feignThat I may still plead on, O night, prolong thy reign\" Philosophically, May the bright-jewelled one feign dislike, and may the night be prolonged for me to implore her!",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "time",
+        "education",
+        "speech",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1330,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: காமத்திற்கு இன்பம் தருவது ஊடுதல் ஆகும், ஊடல் முடிந்த பின் கூடித் தழுவப் பெற்றால் அந்த ஊடலுக்கு இன்பமாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Dislike adds delight to love; and a hearty embrace (thereafter) will add delight to dislike.",
+        "story_title_ta": "ஊடலுவகை — முகில் கற்ற பாடம்",
+        "story_title_en": "The Pleasures of Temporary Variance — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'ஊடலுவகை' என்ற அதிகாரத்தில் வரும் குறள் 1330 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1330 from 'The Pleasures of Temporary Variance', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ஒருவருக்கொருவர் செல்லமாகச் சினங்கொண்டு பிரிந்திருப்பது எனப்படும் ஊடல், இருவரும் சேர்ந்த பிறகு காதல் இன்பத்தை அதிகமாகப் பருகிட உதவும் எனவே ஊடல் கொள்வதே ஒரு இன்பமான செயல்தான்.",
+        "moral_en": "Moral: A 'feigned aversion' coy to pleasure gives a zest; The pleasure's crowned when breast is clasped to breast.",
+        "game_blank_word_ta": "முயங்கப்",
+        "game_options_ta": [
+          "இல்லை",
+          "தவறவர்க்கு",
+          "முயங்கப்",
+          "ஆயினும்"
+        ],
+        "game_options_en": [
+          "He is flawless; but I do pout So that his loving ways show out",
+          "Fading first, love blooms and outlives The petty pricks that pouting gives",
+          "Bouderie is lovers' delight Its delight grows when they unite",
+          "Is there a heaven like sulk beneath Of hearts that join like water and earth?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊடலுவகை (கற்பியல்) பிரிவில் அமைந்த குறள் 1330, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காதல் நுகர்ச்சிக்கு இன்பம் ஊடுதலே அவ்வூடலுக்கும் இன்பம், அளவு அறிந்து ஊடலை நீக்கிக் கூடித் தழுவுதலே. கலைஞர் உரை கூறுவது: ஒருவருக்கொருவர் செல்லமாகச் சினங்கொண்டு பிரிந்திருப்பது எனப்படும் ஊடல், இருவரும் சேர்ந்த பிறகு காதல் இன்பத்தை அதிகமாகப் பருகிட உதவும் எனவே ஊடல் கொள்வதே ஒரு இன்பமான செயல்தான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pleasures of Temporary Variance (Post-marital Love), Kural 1330 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Dislike adds delight to love; and a hearty embrace (thereafter) will add delight to dislike. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'ஊடலுவகை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pleasures of Temporary Variance'.",
+        "quiz_question_ta": "'ஊடலுவகை' அதிகாரத்தில் வரும் திருக்குறள் 1330 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1330 from Chapter 'The Pleasures of Temporary Variance'?",
+        "quiz_options_ta": [
+          "பொருள் சேர்க்கும் பொது பழிக்கு அஞ்சிச் சேர்த்து, செலவு செய்யும் போது பகுந்து உண்பதை மேற்க்கொண்டால், அவ்வாழ்கையின் ஒழுங்கு எப்போதும் குறைவதில்லை.",
+          "விருந்தோம்புதலாகிய வேள்வியின் பயன் இவ்வளவு என்று அளவு படுத்தி கூறத்தக்கது அன்று, விருந்தினரின் தகுதிக்கு ஏற்ற அளவினதாகும்",
+          "காமத்திற்கு இன்பம் தருவது ஊடுதல் ஆகும், ஊடல் முடிந்த பின் கூடித் தழுவப் பெற்றால் அந்த ஊடலுக்கு இன்பமாகும்.",
+          "சினம் தோன்றாமல் காத்து, கல்வி கற்று, அடக்கமுடையவனாக இருக்க வல்லவனுடைய செவ்வியை, அவனுடைய வழியில் சென்று அறம் பார்த்திருக்கும்."
+        ],
+        "quiz_options_en": [
+          "Sin he shuns and food he shares His home is bright and brighter fares",
+          "Worth of the guest of quality Is worth of hospitality",
+          "Bouderie is lovers' delight Its delight grows when they unite",
+          "Virtue seeks and peeps to see Self-controlled savant anger free"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (ஊடலுவகை) பகுதியில் குறள் 1330 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காமத்திற்கு இன்பம் தருவது ஊடுதல் ஆகும், ஊடல் முடிந்த பின் கூடித் தழுவப் பெற்றால் அந்த ஊடலுக்கு இன்பமாகும். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது) காமத்திற்கு இன்பம் ஊடுதல் - காமநுகர்ச்சிக்கு இன்பமாவது அதனை நுகர்தற்குரியராவார் ஆராமைபற்றித் தம்முள் ஊடுதல்; அதற்கு இன்பம் கூடி முயங்கப்பெறின் - அவ்வூடுதற்கு இன்பமாவது அதனை அளவறிந்து நீங்கித் தம்முள் கூடி முயங்குதல் கூடுமாயின், அம்முயக்கம...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 133: 'The Pleasures of Temporary Variance'), Kural 1330 distills a foundational ethical insight: \"A 'feigned aversion' coy to pleasure gives a zest; The pleasure's crowned when breast is clasped to breast\" Philosophically, Dislike adds delight to love; and a hearty embrace (thereafter) will add delight to dislike.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "kindness",
+        "harmony"
+      ]
+    }
+  ]
+}

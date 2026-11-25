@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 100,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.380341345+00:00",
+  "kurals": [
+    {
+      "kural_number": 991,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பண்பு உடையவராக வாழும் நல்வழியை, யாரிடத்திலும் எளிய செவ்வியுடன் இருப்பதால் அடைவது எளிது என்று கூறுவர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: If one is easy of access to all, it will be easy for one to obtain the virtue called goodness.",
+        "story_title_ta": "பண்புடைமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Courtesy — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பண்புடைமை' என்ற அதிகாரத்திலிருந்து குறள் 991 பற்றிக் கதை சொன்னார். 'எவரும் தன்னை எளிதாகக் கண்டு பேசும் நிலையில் வாழ்ந்தால், பண்புடைமை என்னும் நல்வழியை அடைவது எளிது என்று நூலோர் கூறுவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 100, 'Courtesy', centered on Kural 991: If one is easy of access to all, it will be easy for one to obtain the virtue called goodness. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: யாராயிருந்தாலும் அவர்களிடத்தில் எளிமையாகப் பழகினால், அதுவே பண்புடைமை என்கிற சிறந்த ஒழுக்கத்தைப் பெறுவதற்கு எளிதான வழியாக அமையும்.",
+        "moral_en": "Moral: Who easy access give to every man, they say, Of kindly courtesy will learn with ease the way.",
+        "game_blank_word_ta": "பண்புடைமை",
+        "game_options_ta": [
+          "அன்புடைமை",
+          "ஆன்ற",
+          "குடிப்பிறத்தல்",
+          "பண்புடைமை"
+        ],
+        "game_options_en": [
+          "Humanity and noble birth Develop courtesy and moral worth",
+          "Likeness in limbs is not likeness It's likeness in kind courteousness",
+          "The world applauds those helpful men Whose actions are just and benign",
+          "To the polite free of access Easily comes courteousness"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பண்புடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 991, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எவரும் தன்னை எளிதாகக் கண்டு பேசும் நிலையில் வாழ்ந்தால், பண்புடைமை என்னும் நல்வழியை அடைவது எளிது என்று நூலோர் கூறுவர். கலைஞர் உரை கூறுவது: யாராயிருந்தாலும் அவர்களிடத்தில் எளிமையாகப் பழகினால், அதுவே பண்புடைமை என்கிற சிறந்த ஒழுக்கத்தைப் பெறுவதற்கு எளிதான வழியாக அமையும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Courtesy (Citizenship & Miscellaneous), Kural 991 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If one is easy of access to all, it will be easy for one to obtain the virtue called goodness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பண்புடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Courtesy' thoughtfully.",
+        "quiz_question_ta": "'பண்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 991 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 991 from Chapter 'Courtesy'?",
+        "quiz_options_ta": [
+          "கையால் தொழில் செய்து உணவு தேடி உண்ணும் இயல்புடைய தொழிலாளர், பிறரிடம் சென்று இரக்கமாட்டார், தம்மிடம் இரந்தவர்க்கு ஒளிக்காமல் ஒரு பொருள் ஈவார்.",
+          "அணுகி குறைச் சொல்லுகின்ற அளவிலேயே சான்றோர் பயன்படுவர், கரும்புபோல் அழித்துப் பிழிந்தால் தான் கீழ்மக்கள் பயன்படுவர்.",
+          "மென்மையான மொழிகளைப் பேசு கின்ற இவளுடைய தூய பற்களில் ஊறிய நீர் பாலுடன் தேனைக் கலந்தாற் போன்றதாகும்.",
+          "பண்பு உடையவராக வாழும் நல்வழியை, யாரிடத்திலும் எளிய செவ்வியுடன் இருப்பதால் அடைவது எளிது என்று கூறுவர்."
+        ],
+        "quiz_options_en": [
+          "Who till and eat, beg not; nought hide But give to those who are in need",
+          "The good by soft words profits yield The cane-like base when crushed and killed",
+          "Like milk and honey the dew is sweet From her white teeth whose word is soft",
+          "To the polite free of access Easily comes courteousness"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (பண்புடைமை) பகுதியில் குறள் 991 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பண்பு உடையவராக வாழும் நல்வழியை, யாரிடத்திலும் எளிய செவ்வியுடன் இருப்பதால் அடைவது எளிது என்று கூறுவர். பரிமேலழகர் உரை நுட்பம்: யார் மாட்டும் எண்பதத்தால் - யாவர் மாட்டும் எளிய செவ்வியராதலால்; பண்புடைமை என்னும் வழக்கு எய்தல் எளிது என்ப - அரிதாய பண்புடைமை என்னும் நன்னெறியினை எய்துதல் எளிது என்று சொல்லுவர் நூலோர். (குணங்களால் நிறைந்து செவ்வி எளியரும் ஆயக்கால் பண்புடைமை தானே உளதாம...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 100: 'Courtesy'), Kural 991 distills a foundational ethical insight: \"Who easy access give to every man, they say, Of kindly courtesy will learn with ease the way\" Philosophically, If one is easy of access to all, it will be easy for one to obtain the virtue called goodness.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "education",
+        "ethics",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 992,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அன்புடையவராக இருத்தல், உயர்ந்த குடியில் பிறந்த தன்மை அமைந்திருத்தல் ஆகிய இவ் விரண்டும் பண்பு உடையவராக வாழும் நல்வழியாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Affectionateness and birth in a good family, these two constitute what is called a proper behaviour to all.",
+        "story_title_ta": "பண்புடைமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Courtesy — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பண்புடைமை' என்ற அதிகாரத்திலிருந்து குறள் 992 பற்றிக் கதை சொன்னார். 'எல்லாரிடமும் அன்புள்ளவனாக வாழ்வது. உலகத்தோடு ஒத்து வாழும் குடும்பத்தில் பிறந்திருத்தல் இவை இரண்டும் பண்புடைமை என்னும் நல்ல வழிகளாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 100, 'Courtesy', centered on Kural 992: Affectionateness and birth in a good family, these two constitute what is called a proper behaviour to all. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அன்புடையவராக இருப்பதும், உயர்ந்த குடியில் பிறந்த இலக்கணத்துக்கு உரியவராக இருப்பதும்தான் பண்புடைமை எனக் கூறப்படுகிற சிறந்த நெறியாகும்.",
+        "moral_en": "Moral: Benevolence and high born dignity, These two are beaten paths of courtesy.",
+        "game_blank_word_ta": "என்னும்",
+        "game_options_ta": [
+          "என்னும்",
+          "எண்பதத்தால்",
+          "எய்தல்",
+          "எளிதென்ப"
+        ],
+        "game_options_en": [
+          "Humanity and noble birth Develop courtesy and moral worth",
+          "To the polite free of access Easily comes courteousness",
+          "Likeness in limbs is not likeness It's likeness in kind courteousness",
+          "The world applauds those helpful men Whose actions are just and benign"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பண்புடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 992, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எல்லாரிடமும் அன்புள்ளவனாக வாழ்வது. உலகத்தோடு ஒத்து வாழும் குடும்பத்தில் பிறந்திருத்தல் இவை இரண்டும் பண்புடைமை என்னும் நல்ல வழிகளாகும். கலைஞர் உரை கூறுவது: அன்புடையவராக இருப்பதும், உயர்ந்த குடியில் பிறந்த இலக்கணத்துக்கு உரியவராக இருப்பதும்தான் பண்புடைமை எனக் கூறப்படுகிற சிறந்த நெறியாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Courtesy (Citizenship & Miscellaneous), Kural 992 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Affectionateness and birth in a good family, these two constitute what is called a proper behaviour to all. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பண்புடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Courtesy' thoughtfully.",
+        "quiz_question_ta": "'பண்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 992 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 992 from Chapter 'Courtesy'?",
+        "quiz_options_ta": [
+          "அன்புடையவராக இருத்தல், உயர்ந்த குடியில் பிறந்த தன்மை அமைந்திருத்தல் ஆகிய இவ் விரண்டும் பண்பு உடையவராக வாழும் நல்வழியாகும்.",
+          "உழவருடைய கை, தொழில் செய்யாமல் மடங்கியிருக்குமானால், விரும்புகின்ற எந்தப் பற்றையும் விட்டுவிட்டோம் என்று கூறும் துறவிகளுக்கும் வாழ்வு இல்லை.",
+          "கீழ் மகன் பிறர் உடுப்பதையும், உண்பதையும் கண்டால் அவர் மேல் பொறாமை கொண்டு, வேண்டும் என்றே குற்றம் காண வல்லவனாவான்.",
+          "இம் மடந்தையோடு எம்மிடையே உள்ள நட்பு முறைகள், உடம்போடு உயிர்க்கு உள்ள தொடர்புகள், எத்தன்மையானவையோ அத்தன்மையானவை."
+        ],
+        "quiz_options_en": [
+          "Humanity and noble birth Develop courtesy and moral worth",
+          "Should ploughmen sit folding their hands Desire-free monks too suffer wants",
+          "Faults in others the mean will guess On seeing how they eat and dress",
+          "Love between me and this lady Is like bond between soul and body"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (பண்புடைமை) பகுதியில் குறள் 992 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன்புடையவராக இருத்தல், உயர்ந்த குடியில் பிறந்த தன்மை அமைந்திருத்தல் ஆகிய இவ் விரண்டும் பண்பு உடையவராக வாழும் நல்வழியாகும். பரிமேலழகர் உரை நுட்பம்: அன்பு உடைமை ஆன்ற குடிப்பிறத்தல் இவ்விரண்டும் - பிறர் மேல் அன்பு உடையனாதலும் உலகத்தோடு அமைந்த குடியின்கண் பிறத்தலும் ஆகிய இவ்விரண்டும்; பண்பு உடைமை என்னும் வழக்கு - ஒருவனுக்குப் பண்பு உடைமை என்று உலகத்தார் சொல்லும் நன்னெறி. (அமைதல் - ஒத்து வருதல...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 100: 'Courtesy'), Kural 992 distills a foundational ethical insight: \"Benevolence and high born dignity, These two are beaten paths of courtesy\" Philosophically, Affectionateness and birth in a good family, these two constitute what is called a proper behaviour to all.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "family",
+        "love",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 993,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: உடம்பால் ஒத்திருத்தல் மக்களோடு ஒப்புமை அன்று, பொருந்தத்தக்கப் பண்பால் ஒத்திருத்தலே கொள்ளத்தக்க ஒப்புமையாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Resemblance of bodies is no resemblance of souls; true resemblance is the resemblance of qualities that attract.",
+        "story_title_ta": "பண்புடைமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Courtesy — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பண்புடைமை' என்ற அதிகாரத்திலிருந்து குறள் 993 பற்றிக் கதை சொன்னார். 'உறுப்புக்களின் தோற்றத்தால் பிறருடன் ஒத்திருப்பது ஒப்பு ஆகாது; உள்ளத்துடன் இணையும் பண்பால் பிறருடன் ஒத்திருப்பதே ஒப்பு ஆகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 100, 'Courtesy', centered on Kural 993: Resemblance of bodies is no resemblance of souls; true resemblance is the resemblance of qualities that attract. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நற்பண்பு இல்லாதவர்களை அவர்களின் உடல் உறுப்புகளை மட்டுமே ஒப்பிட்டுப் பார்த்து மக்கள் இனத்தில் சேர்த்துப் பேசுவது சரியல்ல; நற்பண்புகளால் ஒத்திருப்பவர்களே மக்கள் எனப்படுவர்.",
+        "moral_en": "Moral: Men are not one because their members seem alike to outward view; Similitude of kindred quality makes likeness true.",
+        "game_blank_word_ta": "ஒப்பு",
+        "game_options_ta": [
+          "எண்பதத்தால்",
+          "ஒப்பு",
+          "எய்தல்",
+          "எளிதென்ப"
+        ],
+        "game_options_en": [
+          "To the polite free of access Easily comes courteousness",
+          "Likeness in limbs is not likeness It's likeness in kind courteousness",
+          "Humanity and noble birth Develop courtesy and moral worth",
+          "The world applauds those helpful men Whose actions are just and benign"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பண்புடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 993, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உறுப்புக்களின் தோற்றத்தால் பிறருடன் ஒத்திருப்பது ஒப்பு ஆகாது; உள்ளத்துடன் இணையும் பண்பால் பிறருடன் ஒத்திருப்பதே ஒப்பு ஆகும். கலைஞர் உரை கூறுவது: நற்பண்பு இல்லாதவர்களை அவர்களின் உடல் உறுப்புகளை மட்டுமே ஒப்பிட்டுப் பார்த்து மக்கள் இனத்தில் சேர்த்துப் பேசுவது சரியல்ல; நற்பண்புகளால் ஒத்திருப்பவர்களே மக்கள் எனப்படுவர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Courtesy (Citizenship & Miscellaneous), Kural 993 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Resemblance of bodies is no resemblance of souls; true resemblance is the resemblance of qualities that attract. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பண்புடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Courtesy' thoughtfully.",
+        "quiz_question_ta": "'பண்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 993 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 993 from Chapter 'Courtesy'?",
+        "quiz_options_ta": [
+          "ஒரு பலம் புழுதி கால்பலம் ஆகும்படி உழுது காயவிட்டால், ஒரு பிடி எருவும் இடவேண்டாமல் அந் நிலத்தில் பயிர் செலுத்தி செழித்து விளையும்.",
+          "உடம்பால் ஒத்திருத்தல் மக்களோடு ஒப்புமை அன்று, பொருந்தத்தக்கப் பண்பால் ஒத்திருத்தலே கொள்ளத்தக்க ஒப்புமையாகும்.",
+          "கயவர், எதற்கு உரியவர், ஒரு துன்பம் வந்தடைந்த காலத்தில் அதற்காக தம்மை பிறர்க்கு விலையாக விற்றுவிடுவதற்கு உரியவர் ஆவர்.",
+          "என் கண்ணின் கருமணியில் உள்ள பாவையே நீ போய் விடு, யாம் விரும்புகின்ற இவளுக்கு என் கண்ணில் இருக்க இடம் இல்லையே."
+        ],
+        "quiz_options_en": [
+          "Moulds dried to quarter-dust ensure Rich crops without handful manure",
+          "Likeness in limbs is not likeness It's likeness in kind courteousness",
+          "The base hasten to sell themselves From doom to flit and nothing else",
+          "Depart image in my pupil Giving room to my fair-browed belle!"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (பண்புடைமை) பகுதியில் குறள் 993 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உடம்பால் ஒத்திருத்தல் மக்களோடு ஒப்புமை அன்று, பொருந்தத்தக்கப் பண்பால் ஒத்திருத்தலே கொள்ளத்தக்க ஒப்புமையாகும். பரிமேலழகர் உரை நுட்பம்: உறுப்பு ஒத்தல் மக்கள் ஒப்பு அன்று - செறியத்தகாத உடம்பால் ஒத்தல் ஒருவனுக்கு நன்மக்களோடு ஒப்பாகாமையின் அது பொருந்துவதன்று; ஒப்பதாம் ஒப்பு வெறுத்தக்க பண்பு ஒத்தல் - இனிப் பொருந்துவதாய ஒப்பாவது செறியத்தக்க பண்பால் ஒத்தல். (வடநூலார் 'அங்கம்' என்றமையின், 'உறுப்பு...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 100: 'Courtesy'), Kural 993 distills a foundational ethical insight: \"Men are not one because their members seem alike to outward view; Similitude of kindred quality makes likeness true\" Philosophically, Resemblance of bodies is no resemblance of souls; true resemblance is the resemblance of qualities that attract.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "harmony",
+        "time",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 994,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நீதியையும் நன்மையையும் விரும்பிப் பிறர்க்குப் பயன்பட வாழும் பெரியோரின் நல்லப் பண்பை உலகத்தார் போற்றிக் கொண்டாடுவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The world applauds the character of those whose usefulness results from their equity and charity.",
+        "story_title_ta": "பண்புடைமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Courtesy — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பண்புடைமை' என்ற அதிகாரத்திலிருந்து குறள் 994 பற்றிக் கதை சொன்னார். 'நீதியையும் அறத்தையும் விரும்பிப் பிறர்க்கும் பயன்படுபவரின் பண்பினை உலகத்தவர் சிறப்பித்துப் பேசுவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 100, 'Courtesy', centered on Kural 994: The world applauds the character of those whose usefulness results from their equity and charity. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நீதி வழுவாமல் நன்மைகளைச் செய்து பிறருக்குப் பயன்படப் பணியாற்றுகிறவர்களின் நல்ல பண்பை உலகம் பாராட்டும்.",
+        "moral_en": "Moral: Of men of fruitful life, who kindly benefits dispense, The world unites to praise the 'noble excellence.'.",
+        "game_blank_word_ta": "நயனொடு",
+        "game_options_ta": [
+          "எண்பதத்தால்",
+          "எய்தல்",
+          "நயனொடு",
+          "எளிதென்ப"
+        ],
+        "game_options_en": [
+          "To the polite free of access Easily comes courteousness",
+          "Humanity and noble birth Develop courtesy and moral worth",
+          "The world applauds those helpful men Whose actions are just and benign",
+          "Likeness in limbs is not likeness It's likeness in kind courteousness"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பண்புடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 994, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நீதியையும் அறத்தையும் விரும்பிப் பிறர்க்கும் பயன்படுபவரின் பண்பினை உலகத்தவர் சிறப்பித்துப் பேசுவர். கலைஞர் உரை கூறுவது: நீதி வழுவாமல் நன்மைகளைச் செய்து பிறருக்குப் பயன்படப் பணியாற்றுகிறவர்களின் நல்ல பண்பை உலகம் பாராட்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Courtesy (Citizenship & Miscellaneous), Kural 994 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The world applauds the character of those whose usefulness results from their equity and charity. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பண்புடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Courtesy' thoughtfully.",
+        "quiz_question_ta": "'பண்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 994 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 994 from Chapter 'Courtesy'?",
+        "quiz_options_ta": [
+          "ஏர் உழுதலை விட எரு இடுதல் நல்லது, இந்த இரண்டும் சேர்ந்துக் களை நீக்கிய பின், நீர் பாய்ச்சுதலை விடக் காவல்காத்தல் நல்லது.",
+          "தெய்வப் பெண்ணோ! மயிலோ, கனமான குழை அணிந்த மனிதப் பெண்ணோ, என் நெஞ்சம் மயங்குகின்றதே.",
+          "நீதியையும் நன்மையையும் விரும்பிப் பிறர்க்குப் பயன்பட வாழும் பெரியோரின் நல்லப் பண்பை உலகத்தார் போற்றிக் கொண்டாடுவர்.",
+          "ஆராய்ந்து அணிகலன்களை அணிந்த இவள் கூடும் போது உயிர்க்கு வாழ்வு போன்றவள், பிரியும் போது உயிர்க்கு சாவு போன்றவள்."
+        ],
+        "quiz_options_en": [
+          "Better manure than plough; then weed; Than irrigating, better guard",
+          "Is it an angel? A fair peacock Or jewelled belle? To my mind a shock!",
+          "The world applauds those helpful men Whose actions are just and benign",
+          "Life with my jewel is existence Death it is her severance"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (பண்புடைமை) பகுதியில் குறள் 994 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நீதியையும் நன்மையையும் விரும்பிப் பிறர்க்குப் பயன்பட வாழும் பெரியோரின் நல்லப் பண்பை உலகத்தார் போற்றிக் கொண்டாடுவர். பரிமேலழகர் உரை நுட்பம்: நயனொடு நன்றி புரிந்த பயன் உடையார் பண்பு - நீதியையும் அறத்தையும் விரும்புதலால் பிறர்க்கும் தமக்கும் பயன்படுதல் உடையாரது பண்பினை; உலகு பாராட்டும் - உலகத்தார் கொண்டாடா நிற்பர். ('புரிந்த' என்னும் பெயரெச்சம் ஈண்டுக் காரணப் பொருட்டு. நயனொடு நன்றி புரிதலும...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 100: 'Courtesy'), Kural 994 distills a foundational ethical insight: \"Of men of fruitful life, who kindly benefits dispense, The world unites to praise the 'noble excellence.'\" Philosophically, The world applauds the character of those whose usefulness results from their equity and charity.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "gratitude",
+        "justice",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 995,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒருவனை இகழ்ந்து பேசுதல் விளையாட்டிலும் துன்பம் தருவதாகும், பிறருடைய இயல்பை அறிந்து நடப்பவரிடத்தில் பகைமையிலும் நல்லப் பண்புகள் உள்ளன.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Reproach is painful to one even in sport; those (therefore) who know the nature of others exhibit (pleasing) qualities even when they are hated.",
+        "story_title_ta": "பண்புடைமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Courtesy — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பண்புடைமை' என்ற அதிகாரத்திலிருந்து குறள் 995 பற்றிக் கதை சொன்னார். 'விளையாட்டில் விளையாட்டிற்காகக்கூட ஒருவனை இகழ்ந்து ஏளனமாகப் பேசுவது அவனுக்கு மன வருத்தத்தைத் தரும்; அதனால் மற்றவர்களிடம் எப்படி நடந்து கொள்ள வேண்டும் என்று அறியும் திறம் உள்ளவர்கள், பகைவர்களிடம் கூட ஏளனமாகப் பேசார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 100, 'Courtesy', centered on Kural 995: Reproach is painful to one even in sport; those (therefore) who know the nature of others exhibit (pleasing) qualities even when they are hated. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: விளையாட்டாகக்கூட ஒருவரை இகழ்ந்து பேசுவதால் கேடு உண்டாகும் அறிவு முதிர்ந்தவர்கள், பகைவரிடமும் பண்புகெடாமல் நடந்து கொள்வார்கள்.",
+        "moral_en": "Moral: Contempt is evil though in sport They who man's nature know, E'en in their wrath, a courteous mind will show.",
+        "game_blank_word_ta": "இன்னா",
+        "game_options_ta": [
+          "எண்பதத்தால்",
+          "எய்தல்",
+          "எளிதென்ப",
+          "இன்னா"
+        ],
+        "game_options_en": [
+          "To the polite free of access Easily comes courteousness",
+          "Humanity and noble birth Develop courtesy and moral worth",
+          "Likeness in limbs is not likeness It's likeness in kind courteousness",
+          "The courteous don't even foes detest For contempt offends even in jest"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பண்புடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 995, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: விளையாட்டில் விளையாட்டிற்காகக்கூட ஒருவனை இகழ்ந்து ஏளனமாகப் பேசுவது அவனுக்கு மன வருத்தத்தைத் தரும்; அதனால் மற்றவர்களிடம் எப்படி நடந்து கொள்ள வேண்டும் என்று அறியும் திறம் உள்ளவர்கள், பகைவர்களிடம் கூட ஏளனமாகப் பேசார். கலைஞர் உரை கூறுவது: விளையாட்டாகக்கூட ஒருவரை இகழ்ந்து பேசுவதால் கேடு உண்டாகும் அறிவு முதிர்ந்தவர்கள், பகைவரிடமும் பண்புகெடாமல் நடந்து கொள்வார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Courtesy (Citizenship & Miscellaneous), Kural 995 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Reproach is painful to one even in sport; those (therefore) who know the nature of others exhibit (pleasing) qualities even when they are hated. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பண்புடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Courtesy' thoughtfully.",
+        "quiz_question_ta": "'பண்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 995 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 995 from Chapter 'Courtesy'?",
+        "quiz_options_ta": [
+          "நிலத்திற்கு உரியவன் நிலத்தைச் சென்று பார்க்காமல் வாளா இருந்தால் அந் நிலம் அவனுடைய மனைவியைப் போல் வெறுத்து அவனோடு பிணங்கிவிடும்.",
+          "நோக்கிய அவள் பார்வைக்கு எதிரே நோக்குதல் தானே தாக்கி வருத்தும் அணங்கு, ஒரு சேனையையும் கொண்டு வந்து தாக்கினாற் போன்றது.",
+          "போர் செய்யும் பண்புகளை உடைய இவளுடைய பண்புகளை யான் மறந்தால் பிறகு நினைக்க முடியும் ஆனால் ஒரு போதும் மறந்ததில்லையே.",
+          "ஒருவனை இகழ்ந்து பேசுதல் விளையாட்டிலும் துன்பம் தருவதாகும், பிறருடைய இயல்பை அறிந்து நடப்பவரிடத்தில் பகைமையிலும் நல்லப் பண்புகள் உள்ளன."
+        ],
+        "quiz_options_en": [
+          "If landsmen sit sans moving about The field like wife will sulk and pout",
+          "The counter glances of this belle Are armied dart of the Love-Angel",
+          "Can I forget? I recall always The charms of her bright battling eyes",
+          "The courteous don't even foes detest For contempt offends even in jest"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (பண்புடைமை) பகுதியில் குறள் 995 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவனை இகழ்ந்து பேசுதல் விளையாட்டிலும் துன்பம் தருவதாகும், பிறருடைய இயல்பை அறிந்து நடப்பவரிடத்தில் பகைமையிலும் நல்லப் பண்புகள் உள்ளன. பரிமேலழகர் உரை நுட்பம்: இகழ்ச்சி நகையுள்ளும் இன்னாது - தன்னையிகழ்தல் ஒருவற்கு விளையாட்டின்கண்ணும் இன்னாது; பாடு அறிவார் மாட்டுப் பகையுள்ளும் பண்பு உள - ஆகலான், பிறர் பாடு அறிந்தொழுகுவார் மாட்டுப் பகைமை உள் வழியும் அஃது உளதாகாது இனியவாய பண்புகளே உளவாவன. ('பாடறிவார்' எனவே...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 100: 'Courtesy'), Kural 995 distills a foundational ethical insight: \"Contempt is evil though in sport They who man's nature know, E'en in their wrath, a courteous mind will show\" Philosophically, Reproach is painful to one even in sport; those (therefore) who know the nature of others exhibit (pleasing) qualities even when they are hated.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "courage",
+        "kindness",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 996,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பண்பு உடையவரிடத்தில் பொருந்தியிருப்பதால் உலகம் உள்ளதாய் இயங்குகின்றது, அஃது இல்லையானால் மண்ணில் புகுந்து அழிந்து போகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The (way of the) world subsists by contact with the good; if not, it would bury itself in the earth and perish.",
+        "story_title_ta": "பண்புடைமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Courtesy — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பண்புடைமை' என்ற அதிகாரத்திலிருந்து குறள் 996 பற்றிக் கதை சொன்னார். 'பண்புடையவர்கள் வாழ்வதால்தான் மக்கள் வாழ்க்கை எப்போதும் நிலைத்து இருக்கிறது. அவர்கள் மட்டும் வாழாது போவார் என்றால். மனித வாழ்க்கை மண்ணுக்குள் புகுந்து மடிந்து போகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 100, 'Courtesy', centered on Kural 996: The (way of the) world subsists by contact with the good; if not, it would bury itself in the earth and perish. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உலக நடைமுறைகள், பண்பாளர்களைச் சார்ந்து இயங்க வேண்டும் இல்லையேல் அந்த நடைமுறைகள் நாசமாகிவிடும்.",
+        "moral_en": "Moral: The world abides; for 'worthy' men its weight sustainWere it not so, 'twould fall to dust again.",
+        "game_blank_word_ta": "பண்புடையார்ப்",
+        "game_options_ta": [
+          "பண்புடையார்ப்",
+          "எண்பதத்தால்",
+          "எய்தல்",
+          "எளிதென்ப"
+        ],
+        "game_options_en": [
+          "The world rests with the mannered best Or it crumbles and falls to dust",
+          "To the polite free of access Easily comes courteousness",
+          "Humanity and noble birth Develop courtesy and moral worth",
+          "Likeness in limbs is not likeness It's likeness in kind courteousness"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பண்புடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 996, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பண்புடையவர்கள் வாழ்வதால்தான் மக்கள் வாழ்க்கை எப்போதும் நிலைத்து இருக்கிறது. அவர்கள் மட்டும் வாழாது போவார் என்றால். மனித வாழ்க்கை மண்ணுக்குள் புகுந்து மடிந்து போகும். கலைஞர் உரை கூறுவது: உலக நடைமுறைகள், பண்பாளர்களைச் சார்ந்து இயங்க வேண்டும் இல்லையேல் அந்த நடைமுறைகள் நாசமாகிவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Courtesy (Citizenship & Miscellaneous), Kural 996 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The (way of the) world subsists by contact with the good; if not, it would bury itself in the earth and perish. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பண்புடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Courtesy' thoughtfully.",
+        "quiz_question_ta": "'பண்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 996 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 996 from Chapter 'Courtesy'?",
+        "quiz_options_ta": [
+          "பண்பு உடையவரிடத்தில் பொருந்தியிருப்பதால் உலகம் உள்ளதாய் இயங்குகின்றது, அஃது இல்லையானால் மண்ணில் புகுந்து அழிந்து போகும்.",
+          "எம்மிடம் ஒரு பொருளும் இல்லை என்று எண்ணி வறுமையால் சோம்பியிருப்பவரைக் கண்டால், நிலமகள் தன்னுள் சிரிப்பாள்.",
+          "எமன் என்று சொல்லப்படுவதை முன்பு அறியேன், இப்பொழுது கண்டறிந்தேன், அது பெண் தனமையுடன் போர் செய்யும் பெரிய கண்களை உடையது",
+          "எம் காதலர் எம் கண்ணுள்ளிருந்து போக மாட்டார், கண்ணை மூடி இமைத்தாலும் அதனால் வருந்த மாட்டார், அவர் அவ்வளவு நுட்பமானவர்."
+        ],
+        "quiz_options_en": [
+          "The world rests with the mannered best Or it crumbles and falls to dust",
+          "Fair good earth will laugh to see Idlers pleading poverty",
+          "Not known before -I spy Demise In woman's guise with battling eyes",
+          "So subtle is my lover's form Ever in my eyes winking, no harm"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (பண்புடைமை) பகுதியில் குறள் 996 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பண்பு உடையவரிடத்தில் பொருந்தியிருப்பதால் உலகம் உள்ளதாய் இயங்குகின்றது, அஃது இல்லையானால் மண்ணில் புகுந்து அழிந்து போகும். பரிமேலழகர் உரை நுட்பம்: பண்பு உடையார்ப் பட்டு உலகம் உண்டு - பண்புடையார் கண்ணே படுதலால் உலகியல் எஞ்ஞான்றும் உண்டாய் வாரா நின்றது; இன்றேல் அது மண்புக்கு மாய்வது - ஆண்டுப் படுதலில்லையாயின், அது மண்ணின்கண் புக்கு மாய்ந்து போவதாம். ('பட' என்பது திரிந்து நின்றது. உலகம் - ஆகுபெயர்.மற்றைப...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 100: 'Courtesy'), Kural 996 distills a foundational ethical insight: \"The world abides; for 'worthy' men its weight sustainWere it not so, 'twould fall to dust again\" Philosophically, The (way of the) world subsists by contact with the good; if not, it would bury itself in the earth and perish.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "perseverance",
+        "justice",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 997,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மக்களுக்கு உரிய பண்பு இல்லாதவர் அரம் போல் கூர்மையான அறிவுடையவரானாலும், ஓரறிவுயிராகிய மரத்தைப் போன்றவரே ஆவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: He who is destitute of (true) human qualities (only) resembles a tree, though he may possess the sharpness of a file.",
+        "story_title_ta": "பண்புடைமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Courtesy — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பண்புடைமை' என்ற அதிகாரத்திலிருந்து குறள் 997 பற்றிக் கதை சொன்னார். 'மனிதப்பண்பு இல்லாதவர்கள் அரம் போல அறிவுக்கூர்மை படைத்தவர் என்றாலும் ஓர் அறிவு படைத்த மரத்தைப் போன்றோரே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 100, 'Courtesy', centered on Kural 997: He who is destitute of (true) human qualities (only) resembles a tree, though he may possess the sharpness of a file. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அரம் போன்ற கூர்மையான அறிவுடைய மேதையாக இருந்தாலும், மக்களுக்குரிய பண்பு இல்லாதவர் மரத்துக்கு ஒப்பானவரேயாவார்.",
+        "moral_en": "Moral: Though sharp their wit as file, as blocks they must remain, Whose souls are void of 'courtesy humane'.",
+        "game_blank_word_ta": "மரம்போல்வர்",
+        "game_options_ta": [
+          "எண்பதத்தால்",
+          "மரம்போல்வர்",
+          "எய்தல்",
+          "எளிதென்ப"
+        ],
+        "game_options_en": [
+          "To the polite free of access Easily comes courteousness",
+          "The mannerless though sharp like file Are like wooden blocks indocile",
+          "Humanity and noble birth Develop courtesy and moral worth",
+          "Likeness in limbs is not likeness It's likeness in kind courteousness"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பண்புடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 997, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனிதப்பண்பு இல்லாதவர்கள் அரம் போல அறிவுக்கூர்மை படைத்தவர் என்றாலும் ஓர் அறிவு படைத்த மரத்தைப் போன்றோரே. கலைஞர் உரை கூறுவது: அரம் போன்ற கூர்மையான அறிவுடைய மேதையாக இருந்தாலும், மக்களுக்குரிய பண்பு இல்லாதவர் மரத்துக்கு ஒப்பானவரேயாவார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Courtesy (Citizenship & Miscellaneous), Kural 997 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who is destitute of (true) human qualities (only) resembles a tree, though he may possess the sharpness of a file. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பண்புடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Courtesy' thoughtfully.",
+        "quiz_question_ta": "'பண்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 997 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 997 from Chapter 'Courtesy'?",
+        "quiz_options_ta": [
+          "வறுமையைப் போல் துன்பமானது எது என்று கேட்டால், வறுமையைப் போல் துன்பமானது வறுமை ஒன்றே ஆகும்.",
+          "மக்களுக்கு உரிய பண்பு இல்லாதவர் அரம் போல் கூர்மையான அறிவுடையவரானாலும், ஓரறிவுயிராகிய மரத்தைப் போன்றவரே ஆவர்.",
+          "பெண்தன்மை உடைய இந்தப் பேதைக்குக் கண்கள் கண்டவரின் உயிரை உண்ணும் தோற்றத்தோடு கூடி ஒன்றோடொன்று மாறுபட்டிருந்தன.",
+          "எம் காதலர் கண்ணினுள் இருக்கின்றார், ஆகையால் மை எழுதினால் அவர் மறைவதை எண்ணிக் கண்ணுக்கு மையும் எழுதமாட்டோம்."
+        ],
+        "quiz_options_en": [
+          "What gives more pain than scarcity? No pain pinches like poverty",
+          "The mannerless though sharp like file Are like wooden blocks indocile",
+          "This artless dame has darting eyes That drink the life of men who gaze",
+          "My lover in my eyes abides I paint them not lest he hides"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (பண்புடைமை) பகுதியில் குறள் 997 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மக்களுக்கு உரிய பண்பு இல்லாதவர் அரம் போல் கூர்மையான அறிவுடையவரானாலும், ஓரறிவுயிராகிய மரத்தைப் போன்றவரே ஆவர். பரிமேலழகர் உரை நுட்பம்: மக்கட்பண்பு இல்லாதவர் - நன்மக்கட்கே உரிய பண்பில்லாதவர்; அரம் போலும் கூர்மையரேனும் - அரத்தின் கூர்மை போலும் கூர்மையை உடையரேயாயினும்; மரம் போல்வர் - ஓர் அறிவிற்றாய மரத்தினை ஒப்பர். (அரம் - ஆகுபெயர். ஓர் அறிவு - ஊற்றினை யறிதல். உவமை இரண்டனுள் முன்னது, தான...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 100: 'Courtesy'), Kural 997 distills a foundational ethical insight: \"Though sharp their wit as file, as blocks they must remain, Whose souls are void of 'courtesy humane'\" Philosophically, He who is destitute of (true) human qualities (only) resembles a tree, though he may possess the sharpness of a file.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "leadership",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 998,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நட்பு கொள்ள முடியாதவராய்த் தீயவைச் செய்கின்றவரிடத்திலும் பண்பு உடையவராய் நடக்க முடியாமை இழிவானதாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: It is wrong (for the wise) not to exhibit (good) qualities even towards those who bearing no friendship (for them) do only what is hateful.",
+        "story_title_ta": "பண்புடைமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Courtesy — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பண்புடைமை' என்ற அதிகாரத்திலிருந்து குறள் 998 பற்றிக் கதை சொன்னார். 'தம்முடன் நட்புச் செய்யாமல் பகைமை கொண்டு தீமையே செய்பவர்க்கும் கூடப் பண்பற்றவராய் வாழ்வது இழுக்கே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 100, 'Courtesy', centered on Kural 998: It is wrong (for the wise) not to exhibit (good) qualities even towards those who bearing no friendship (for them) do only what is hateful. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நட்புக்கு ஏற்றவராக இல்லாமல் தீமைகளையே செய்து கொண்டிருப்பவரிடம், நாம் பொறுமை காட்டிப் பண்புடையவராக நடந்து கொள்ளாவிட்டால் அது இழிவான செயலாகக் கருதப்படும்.",
+        "moral_en": "Moral: Though men with all unfriendly acts and wrongs assail,'Tis uttermost disgrace in 'courtesy' to fail.",
+        "game_blank_word_ta": "பண்பாற்றார்",
+        "game_options_ta": [
+          "எண்பதத்தால்",
+          "எய்தல்",
+          "பண்பாற்றார்",
+          "எளிதென்ப"
+        ],
+        "game_options_en": [
+          "To the polite free of access Easily comes courteousness",
+          "Humanity and noble birth Develop courtesy and moral worth",
+          "Discourtesy is mean indeed E'en to a base unfriendly breed",
+          "Likeness in limbs is not likeness It's likeness in kind courteousness"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பண்புடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 998, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம்முடன் நட்புச் செய்யாமல் பகைமை கொண்டு தீமையே செய்பவர்க்கும் கூடப் பண்பற்றவராய் வாழ்வது இழுக்கே. கலைஞர் உரை கூறுவது: நட்புக்கு ஏற்றவராக இல்லாமல் தீமைகளையே செய்து கொண்டிருப்பவரிடம், நாம் பொறுமை காட்டிப் பண்புடையவராக நடந்து கொள்ளாவிட்டால் அது இழிவான செயலாகக் கருதப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Courtesy (Citizenship & Miscellaneous), Kural 998 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is wrong (for the wise) not to exhibit (good) qualities even towards those who bearing no friendship (for them) do only what is hateful. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பண்புடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Courtesy' thoughtfully.",
+        "quiz_question_ta": "'பண்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 998 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 998 from Chapter 'Courtesy'?",
+        "quiz_options_ta": [
+          "வறுமை என்று சொல்லப்படும் பாவி ஒருவனை நெருங்கினால், அவனுக்கு மறுமையின்பமும், இன்மையின்பமும் இல்லாமற் போகும் நிலைமை வரும்.",
+          "எமனோ. கண்ணோ, பெண்மானோ, இந்த இளம் பெண்ணின் பார்வை இந்த மூன்றன் தன்மையும் உடையதாக இருக்கிறது.",
+          "நட்பு கொள்ள முடியாதவராய்த் தீயவைச் செய்கின்றவரிடத்திலும் பண்பு உடையவராய் நடக்க முடியாமை இழிவானதாகும்.",
+          "எம் காதலர் நெஞ்சினுள் இருக்கின்றார், ஆகையால் சூடான பொருளை உண்டால் அவர் வெப்பமுறுதலை எண்ணிச் சூடான பொருளை உண்ண அஞ்சு கின்றோம்."
+        ],
+        "quiz_options_en": [
+          "The sinner Want is enemy dire Of joys of earth and heaven there",
+          "Is it death, eye or doe? All three In winsome woman's look I see",
+          "Discourtesy is mean indeed E'en to a base unfriendly breed",
+          "My lover abides in my heart I fear hot food lest he feels hot"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (பண்புடைமை) பகுதியில் குறள் 998 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நட்பு கொள்ள முடியாதவராய்த் தீயவைச் செய்கின்றவரிடத்திலும் பண்பு உடையவராய் நடக்க முடியாமை இழிவானதாகும். பரிமேலழகர் உரை நுட்பம்: நண்பு ஆற்றாராகி நயம் இல செய்வார்க்கும் - தம்மொடு நட்பினைச் செய்யாது பகைமையைச் செய்தொழுவார் மாட்டும்; பண்பு ஆற்றாராதல் கடை - தாம் பண்புடையராய் ஒழுகாமை அறிவு உடையார்க்கு இழுக்காம். (நயம் - ஈரம். சிறப்பு உம்மை அவர் பண்பாற்றாமைக் கிடனாதல் தோன்ற நின்றது. அதனைச...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 100: 'Courtesy'), Kural 998 distills a foundational ethical insight: \"Though men with all unfriendly acts and wrongs assail,'Tis uttermost disgrace in 'courtesy' to fail\" Philosophically, It is wrong (for the wise) not to exhibit (good) qualities even towards those who bearing no friendship (for them) do only what is hateful.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "harmony",
+        "ethics",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 999,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பிறரோடு கலந்து பழகி மகிழ முடியாதவர்க்கு, மிகப் பெரிய இந்த உலகம் ஒளியுள்ள பகற் காலத்திலும் இருளில் கிடப்பதாம்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: To those who cannot rejoice, the wide world is buried darkness even in (broad) day light.",
+        "story_title_ta": "பண்புடைமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Courtesy — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பண்புடைமை' என்ற அதிகாரத்திலிருந்து குறள் 999 பற்றிக் கதை சொன்னார். 'நல்ல பண்பு இல்லாததால் மற்றவர்களுடன் கலந்து பேசி மனம் மகிழும் இயல்பு இல்லாதவர்க்கு, இந்தப் பெரிய உலகம் இருள் இல்லாத பகல் பொழுதிலும் கூட இருளிலே இருப்பது போலவாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 100, 'Courtesy', centered on Kural 999: To those who cannot rejoice, the wide world is buried darkness even in (broad) day light. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நண்பர்களுடன் பழகி மகிழத் தெரியாதவர்களுக்கு உலகம் என்பது பகலில் கூட இருட்டாகத்தான் இருக்கும்.",
+        "moral_en": "Moral: To him who knows not how to smile in kindly mirth, Darkness in daytime broods o'er all the vast and mighty earth.",
+        "game_blank_word_ta": "பட்டன்று",
+        "game_options_ta": [
+          "எண்பதத்தால்",
+          "எய்தல்",
+          "எளிதென்ப",
+          "பட்டன்று"
+        ],
+        "game_options_en": [
+          "To the polite free of access Easily comes courteousness",
+          "Humanity and noble birth Develop courtesy and moral worth",
+          "Likeness in limbs is not likeness It's likeness in kind courteousness",
+          "To those bereft of smiling light Even in day the earth is night"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பண்புடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 999, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்ல பண்பு இல்லாததால் மற்றவர்களுடன் கலந்து பேசி மனம் மகிழும் இயல்பு இல்லாதவர்க்கு, இந்தப் பெரிய உலகம் இருள் இல்லாத பகல் பொழுதிலும் கூட இருளிலே இருப்பது போலவாம். கலைஞர் உரை கூறுவது: நண்பர்களுடன் பழகி மகிழத் தெரியாதவர்களுக்கு உலகம் என்பது பகலில் கூட இருட்டாகத்தான் இருக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Courtesy (Citizenship & Miscellaneous), Kural 999 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To those who cannot rejoice, the wide world is buried darkness even in (broad) day light. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பண்புடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Courtesy' thoughtfully.",
+        "quiz_question_ta": "'பண்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 999 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 999 from Chapter 'Courtesy'?",
+        "quiz_options_ta": [
+          "வறுமை என்று சொல்லப்படும் ஆசைநிலை ஒருவனைப் பற்றினால், அவனுடைய பழைமையானக் குடிப் பண்பையும் புகழையும் ஒரு சேரக் கெடுக்கும்.",
+          "வளைந்த புருவங்கள் கோணாமல் நேராக இருந்து மறைக்குமானால், இவளுடைய கண்கள் யான் நடுங்கும் படியான துன்பத்தைச் செய்யமாட்டா.",
+          "கண் இமைத்தால் காதலர் மறைந்து போதலை அறிகின்றேன், அவ்வளவிற்கே இந்த ஊரார் அவரை அன்பில்லாதவர் என்று சொல்லுவர்.",
+          "பிறரோடு கலந்து பழகி மகிழ முடியாதவர்க்கு, மிகப் பெரிய இந்த உலகம் ஒளியுள்ள பகற் காலத்திலும் இருளில் கிடப்பதாம்."
+        ],
+        "quiz_options_en": [
+          "The craving itch of poverty Kills graceful words and ancestry",
+          "If cruel brows unbent, would screen Her eyes won't cause me trembling pain",
+          "My eyes wink not lest he should hide And him as cruel the townsmen chide",
+          "To those bereft of smiling light Even in day the earth is night"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (பண்புடைமை) பகுதியில் குறள் 999 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறரோடு கலந்து பழகி மகிழ முடியாதவர்க்கு, மிகப் பெரிய இந்த உலகம் ஒளியுள்ள பகற் காலத்திலும் இருளில் கிடப்பதாம். பரிமேலழகர் உரை நுட்பம்: நகல் வல்லர் அல்லார்க்கு - பண்பின்மையான் ஒருவரோடு கலந்து உள்மகிழ்தல் மாட்டாதார்க்கு; மாயிரு ஞாலம் பகலும் இருட்பாற் பட்டன்று - மிகவும் பெரிய ஞாலம் இருளில்லாத பகற்பொழுதினும் இருளின்கண் கிடந்ததாம். (எல்லாரோடும் கலந்தறியப் பெறாமையின் பண்பிலார்க்கு உலகியல் தெரியாது...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 100: 'Courtesy'), Kural 999 distills a foundational ethical insight: \"To him who knows not how to smile in kindly mirth, Darkness in daytime broods o'er all the vast and mighty earth\" Philosophically, To those who cannot rejoice, the wide world is buried darkness even in (broad) day light.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "friendship",
+        "time",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1000,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பண்பு இல்லாதவன் பெற்ற பெரிய செல்வம், வைத்த கலத்தின் தீமையால் நல்ல பால் தன் சுவை முதலியன கெட்டாற் போன்றதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The great wealth obtained by one who has no goodness will perish like pure milk spoilt by the.",
+        "story_title_ta": "பண்புடைமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Courtesy — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பண்புடைமை' என்ற அதிகாரத்திலிருந்து குறள் 1000 பற்றிக் கதை சொன்னார். 'நல்ல பண்பு இல்லாதவன் அடைந்த பெரும் செல்வம், பாத்திரக் கேட்டால் அதிலுள்ள நல்ல பால் கெட்டுப் போவது போலாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 100, 'Courtesy', centered on Kural 1000: The great wealth obtained by one who has no goodness will perish like pure milk spoilt by the. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பாத்திரம் களிம்பு பிடித்திருந்தால், அதில் ஊற்றி வைக்கப்படும் பால் எப்படிக் கெட்டுவிடுமோ அதுபோலப் பண்பு இல்லாதவர்கள் பெற்ற செல்வமும் பயனற்றதாகி விடும்.",
+        "moral_en": "Moral: Like sweet milk soured because in filthy vessel poured, Is ample wealth in churlish man's unopened coffers stored.",
+        "game_blank_word_ta": "தற்று",
+        "game_options_ta": [
+          "தற்று",
+          "எண்பதத்தால்",
+          "எய்தல்",
+          "எளிதென்ப"
+        ],
+        "game_options_en": [
+          "The wealth heaped by the churlish base Is pure milk soured by impure vase",
+          "To the polite free of access Easily comes courteousness",
+          "Humanity and noble birth Develop courtesy and moral worth",
+          "Likeness in limbs is not likeness It's likeness in kind courteousness"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பண்புடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1000, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்ல பண்பு இல்லாதவன் அடைந்த பெரும் செல்வம், பாத்திரக் கேட்டால் அதிலுள்ள நல்ல பால் கெட்டுப் போவது போலாம். கலைஞர் உரை கூறுவது: பாத்திரம் களிம்பு பிடித்திருந்தால், அதில் ஊற்றி வைக்கப்படும் பால் எப்படிக் கெட்டுவிடுமோ அதுபோலப் பண்பு இல்லாதவர்கள் பெற்ற செல்வமும் பயனற்றதாகி விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Courtesy (Citizenship & Miscellaneous), Kural 1000 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The great wealth obtained by one who has no goodness will perish like pure milk spoilt by the. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பண்புடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Courtesy' thoughtfully.",
+        "quiz_question_ta": "'பண்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 1000 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1000 from Chapter 'Courtesy'?",
+        "quiz_options_ta": [
+          "பண்பு இல்லாதவன் பெற்ற பெரிய செல்வம், வைத்த கலத்தின் தீமையால் நல்ல பால் தன் சுவை முதலியன கெட்டாற் போன்றதாகும்.",
+          "வறுமை என்பது, நல்ல குடியிற் பிறந்தவரிடத்திலும் இழிவு தரும் சொல் பிறப்பதற்குக் காரணமான சோர்வை உண்டாக்கி விடும்.",
+          "மாதருடைய சாயாத கொங்கைகளின் மேல் அணிந்த ஆடை, மதம் பிடித்த யானையின் மேல் இட்ட முகப்படாம் போன்றது.",
+          "காதலர் எப்போதும் என் உள்ளத்தில் மகிழ்ந்து வாழ்கின்றார், ஆனால் அதை அறியாமல் பிரிந்து வாழ்கின்றார், அன்பில்லாதவர் என்று இந்த ஊரார் அவரைப் பழிப்பர்."
+        ],
+        "quiz_options_en": [
+          "The wealth heaped by the churlish base Is pure milk soured by impure vase",
+          "Want makes even good familymen Utter words that are low and mean",
+          "Vest on the buxom breast of her Looks like rutting tusker's eye-cover",
+          "He abides happy in my heart But people mistake he is apart"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (பண்புடைமை) பகுதியில் குறள் 1000 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பண்பு இல்லாதவன் பெற்ற பெரிய செல்வம், வைத்த கலத்தின் தீமையால் நல்ல பால் தன் சுவை முதலியன கெட்டாற் போன்றதாகும். பரிமேலழகர் உரை நுட்பம்: பண்பு இலான் பெற்ற பெருஞ்செல்வம் - பண்பில்லாதவன் முன்னை நல்வினையான் எய்திய பெரிய செல்வம், அக்குற்றத்தால் ஒருவற்கும் பயன்படாது கெடுதல்; நன்பால் கலந்தீமையால் திரிந்தற்று - நல்ல ஆன் பால் ஏற்ற கலத்தின் குற்றத்தால் இன் சுவைத்தாகாது கெட்டாற் போலும். ('கலத்தீமை...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 100: 'Courtesy'), Kural 1000 distills a foundational ethical insight: \"Like sweet milk soured because in filthy vessel poured, Is ample wealth in churlish man's unopened coffers stored\" Philosophically, The great wealth obtained by one who has no goodness will perish like pure milk spoilt by the.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "ethics",
+        "harmony",
+        "education"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "adhikaram_id": 122,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.580704256+00:00",
+  "kurals": [
+    {
+      "kural_number": 1211,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ( யான் பிரிவால் வருந்தி உறங்கியபோது) காதலர் அனுப்பிய தூதோடு வந்த கனவுக்கு உரிய விருந்தாக என்ன செய்து உதவுவேன்?",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Where with shall I feast the dream which has brought me my dear one's messenger ?",
+        "story_title_ta": "கனவுநிலை உரைத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Visions of the Night — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கனவுநிலை உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1211 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1211 from 'The Visions of the Night', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: வந்த கனவு காதலர் அனுப்பிய தூதுடன் வந்ததே; அந்தக் கனவுக்குக் கைம்மாறாக என்ன விருந்து படைத்துப் பாராட்டுவது?",
+        "moral_en": "Moral: It came and brought to me, that nightly vision rare, A message from my love,- what feast shall I prepare.",
+        "game_blank_word_ta": "காதலர்",
+        "game_options_ta": [
+          "கயலுண்கண்",
+          "யானிரப்பத்",
+          "துஞ்சிற்",
+          "காதலர்"
+        ],
+        "game_options_en": [
+          "I beg these fish-like dark eyes sleep To tell my lover how life I keep",
+          "In wakeful hours who sees me not I meet in dreams and linger yet",
+          "In dreams I enjoy his love-bliss Who in wakeful hours I miss",
+          "How shall I feast this dream-vision That brings the beloved's love-mission?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கனவுநிலை உரைத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1211, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் மன வேதனையை அறிந்து அதைப் போக்க, என்னவர் அனுப்பிய தூதை என்னிடம் கொண்டு வந்த கனவிற்கு நான் எதை விருந்தாகப் படைப்பேன்? கலைஞர் உரை கூறுவது: வந்த கனவு காதலர் அனுப்பிய தூதுடன் வந்ததே; அந்தக் கனவுக்குக் கைம்மாறாக என்ன விருந்து படைத்துப் பாராட்டுவது? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Visions of the Night (Post-marital Love), Kural 1211 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Where with shall I feast the dream which has brought me my dear one's messenger ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கனவுநிலை உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Visions of the Night'.",
+        "quiz_question_ta": "'கனவுநிலை உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1211 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1211 from Chapter 'The Visions of the Night'?",
+        "quiz_options_ta": [
+          "தம்மை வெறுத்து நீங்கியவரின் பின் செல்லாமல் மானத்தோடு நிற்கும் பெருந்தகைமை, காமநோய் உற்றவர் அறியும் தன்மையது அனறு.",
+          "உயரின் மேல் காதல் கொண்ட என் நெஞ்சம், பிரிந்த காதலரை இகழ்ந்தால் இழிவாகும் என்று எண்ணி அவருடைய உயர்ந்த பண்புகளையே நினைக்கின்றது.",
+          "மழை பெய்ய உலகம் வாழ்ந்து வருவதால், மழையானது உலகத்து வாழும் உயிர்களுக்கு அமிழ்தம் என்று உணரத்தக்கதாகும்",
+          "( யான் பிரிவால் வருந்தி உறங்கியபோது) காதலர் அனுப்பிய தூதோடு வந்த கனவுக்கு உரிய விருந்தாக என்ன செய்து உதவுவேன்?"
+        ],
+        "quiz_options_en": [
+          "Dignity seeks not a deserter But Love-sick is its innovator",
+          "My heart living in love of him Hails his glory ignoring blame",
+          "The genial rain ambrosia call: The world but lasts while rain shall fall",
+          "How shall I feast this dream-vision That brings the beloved's love-mission?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கனவுநிலை உரைத்தல்) பகுதியில் குறள் 1211 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ( யான் பிரிவால் வருந்தி உறங்கியபோது) காதலர் அனுப்பிய தூதோடு வந்த கனவுக்கு உரிய விருந்தாக என்ன செய்து உதவுவேன்? பரிமேலழகர் உரை நுட்பம்: [அஃதாவது , தலைமகள் தான் கண்ட கனவினது நிலைமையைத் தோழிக்குச் சொல்லுதல் . அக் கனவு, நனவின்கண் நினைவு மிகுதியாற்கண்டதாகலின் , இது நினைந்தவர் புலம்பலின் பின் வைக்கப்பட்டது .] (தலைமகன் தூது வரக் கண்டாள் சொல்லியது). காதலர் தூதொடு வந்த கனவினுக்கு -யான் வருந்துகின்றது...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 122: 'The Visions of the Night'), Kural 1211 distills a foundational ethical insight: \"It came and brought to me, that nightly vision rare, A message from my love,- what feast shall I prepare\" Philosophically, Where with shall I feast the dream which has brought me my dear one's messenger ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "family",
+        "speech",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 1212,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கண்கள் யான் வேண்டுவதுபோல் தூங்குமானால், ( அப்போது வரும் கனவில் காணும்) காதலர்க்கு யான் தப்பிப் பிழைத்திருக்கும்‌ தன்மையைச் சொல்வேன்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If my fish-like painted eyes should, at my begging, close in sleep, I could fully relate my sufferings to my lord.",
+        "story_title_ta": "கனவுநிலை உரைத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Visions of the Night — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கனவுநிலை உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1212 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1212 from 'The Visions of the Night', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நான் வேண்டுவதற்கு இணங்கி என் மை எழுதிய கயல் விழிகள் உறங்கிடுமானால், அப்போது என் கனவில் வரும் காதலர்க்கு நான் இன்னமும் உயிரோடு இருப்பதைச் சொல்லுவேன்.",
+        "moral_en": "Moral: If my dark, carp-like eye will close in sleep, as I implore, The tale of my long-suffering life I'll tell my loved one o'er.",
+        "game_blank_word_ta": "கயலுண்கண்",
+        "game_options_ta": [
+          "கயலுண்கண்",
+          "காதலர்",
+          "தூதொடு",
+          "வந்த"
+        ],
+        "game_options_en": [
+          "I beg these fish-like dark eyes sleep To tell my lover how life I keep",
+          "How shall I feast this dream-vision That brings the beloved's love-mission?",
+          "In wakeful hours who sees me not I meet in dreams and linger yet",
+          "In dreams I enjoy his love-bliss Who in wakeful hours I miss"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கனவுநிலை உரைத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1212, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கண்கள் யான் வேண்டுவதுபோல் தூங்குமானால், ( அப்போது வரும் கனவில் காணும்) காதலர்க்கு யான் தப்பிப் பிழைத்திருக்கும்‌ தன்மையைச் சொல்வேன். கலைஞர் உரை கூறுவது: நான் வேண்டுவதற்கு இணங்கி என் மை எழுதிய கயல் விழிகள் உறங்கிடுமானால், அப்போது என் கனவில் வரும் காதலர்க்கு நான் இன்னமும் உயிரோடு இருப்பதைச் சொல்லுவேன். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Visions of the Night (Post-marital Love), Kural 1212 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If my fish-like painted eyes should, at my begging, close in sleep, I could fully relate my sufferings to my lord. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கனவுநிலை உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Visions of the Night'.",
+        "quiz_question_ta": "'கனவுநிலை உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1212 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1212 from Chapter 'The Visions of the Night'?",
+        "quiz_options_ta": [
+          "கண்கள் யான் வேண்டுவதுபோல் தூங்குமானால், ( அப்போது வரும் கனவில் காணும்) காதலர்க்கு யான் தப்பிப் பிழைத்திருக்கும்‌ தன்மையைச் சொல்வேன்.",
+          "வெறுத்து நீங்கிய காதலரின் பின் செல்ல விரும்பிய நிலையில் இருப்பதால் என்னை அடைந்த இந்த காமநோய் எத்தன்மையானது? அந்‌தோ!",
+          "ஒருவர்க்குத் துன்பம் வந்தபோது, தாம் உரிமையாகப் பெற்றுள்ள நெஞ்சமே துணையாகா விட்டால், வேறு யார் துணையாவார்?",
+          "உண்பவர்க்குத் தக்க உணவுப் பொருள்களை விளைவித்துத் தருவதோடு, பருகுவோர்க்குத் தானும் ஓர் உணவாக இருப்பது மழையாகும்"
+        ],
+        "quiz_options_en": [
+          "I beg these fish-like dark eyes sleep To tell my lover how life I keep",
+          "O Grief, my deserter you seek Of your caprice what shall I speak!",
+          "Who support a man in grief If lover's heart denies relief?",
+          "The rain begets the food we eat"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கனவுநிலை உரைத்தல்) பகுதியில் குறள் 1212 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கண்கள் யான் வேண்டுவதுபோல் தூங்குமானால், ( அப்போது வரும் கனவில் காணும்) காதலர்க்கு யான் தப்பிப் பிழைத்திருக்கும்‌ தன்மையைச் சொல்வேன். பரிமேலழகர் உரை நுட்பம்: (தூது விடக் கருதியாள் சொல்லியது, ) கயல் உண்கண் யான் இரப்பத் துஞ்சின் - துஞ்சாது வருந்துகின்ற என் கயல் போலும் உண்கண்கள் யான் இரந்தால் துஞ்சுமாயின்; கலந்தார்க்கு உயல் உண்மை சாற்றுவேன் - கனவிடைக் காதலரைக் காண்பேன், கண்டால் அவர்க்கு யான் ஆற்றியுளேனாய தன்மையை யானே...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 122: 'The Visions of the Night'), Kural 1212 distills a foundational ethical insight: \"If my dark, carp-like eye will close in sleep, as I implore, The tale of my long-suffering life I'll tell my loved one o'er\" Philosophically, If my fish-like painted eyes should, at my begging, close in sleep, I could fully relate my sufferings to my lord.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1213,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நனவில் வந்து அன்பு செய்யாத காதலரைக் கனவில் காண்பதால்தான் என்னுடைய உயிர் இன்னும் நீங்காமல் உள்ளதாகின்றது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: My life lasts because in my dream I behold him who does not favour me in my waking hours.",
+        "story_title_ta": "கனவுநிலை உரைத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Visions of the Night — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கனவுநிலை உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1213 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1213 from 'The Visions of the Night', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நனவில் வந்து அன்பு காட்டாதவரைக் கனவிலாவது காண்பதால்தான் இன்னும் என்னுயிர் நிலைத்திருக்கிறது.",
+        "moral_en": "Moral: Him, who in waking hour no kindness shows, In dreams I see; and so my lifetime goes.",
+        "game_blank_word_ta": "தவரைக்",
+        "game_options_ta": [
+          "காதலர்",
+          "தவரைக்",
+          "தூதொடு",
+          "வந்த"
+        ],
+        "game_options_en": [
+          "How shall I feast this dream-vision That brings the beloved's love-mission?",
+          "In wakeful hours who sees me not I meet in dreams and linger yet",
+          "I beg these fish-like dark eyes sleep To tell my lover how life I keep",
+          "In dreams I enjoy his love-bliss Who in wakeful hours I miss"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கனவுநிலை உரைத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1213, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நனவில் வந்து அன்பு செய்யாத காதலரைக் கனவில் காண்பதால்தான் என்னுடைய உயிர் இன்னும் நீங்காமல் உள்ளதாகின்றது. கலைஞர் உரை கூறுவது: நனவில் வந்து அன்பு காட்டாதவரைக் கனவிலாவது காண்பதால்தான் இன்னும் என்னுயிர் நிலைத்திருக்கிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Visions of the Night (Post-marital Love), Kural 1213 speaks directly to teens navigating studies, friendships, leadership, and digital choices: My life lasts because in my dream I behold him who does not favour me in my waking hours. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கனவுநிலை உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Visions of the Night'.",
+        "quiz_question_ta": "'கனவுநிலை உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1213 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1213 from Chapter 'The Visions of the Night'?",
+        "quiz_options_ta": [
+          "நாம் விரும்பிய காதலர் காமத்தால் நமக்கு விருப்பமானவற்றைச் செய்வாரானால். நாணம் என்று சொல்லப்படும் ஒரு பண்பையும் அறியாமல் இருப்போம்.",
+          "நனவில் வந்து அன்பு செய்யாத காதலரைக் கனவில் காண்பதால்தான் என்னுடைய உயிர் இன்னும் நீங்காமல் உள்ளதாகின்றது.",
+          "ஒருவர்க்கு தாம் உரிமையாகப் பெற்ற நெஞ்சமே உறவாகாதபோது அயலார் உறவில்லாதவராக இருப்பது எளிதேயாகும்.",
+          "மழை பெய்யாமல் பொய்படுமானால், கடல் சூழ்ந்த அகன்ற உலகமாக இருந்தும் பசி உள்ளே நிலைத்து நின்று உயிர்களை வருத்தும்"
+        ],
+        "quiz_options_en": [
+          "When lover's love does what it desires We forget all shame unawares",
+          "In wakeful hours who sees me not I meet in dreams and linger yet",
+          "Why wonder if strangers disown When one's own heart is not his own?",
+          "Let clouds their visits stay, and dearth Distresses all the sea-girt earth"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கனவுநிலை உரைத்தல்) பகுதியில் குறள் 1213 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நனவில் வந்து அன்பு செய்யாத காதலரைக் கனவில் காண்பதால்தான் என்னுடைய உயிர் இன்னும் நீங்காமல் உள்ளதாகின்றது. பரிமேலழகர் உரை நுட்பம்: (ஆற்றாள் எனக் கவன்றாட்கு ஆற்றுவல் என்பதுபடச் சொல்லியது.) நனவினான் நல்காதவரை - நனவின்கண் வந்து தலையளி செய்யாதாரை; கனவினாற் காண்டலின் என் உயிர் உண்டு - யான் கனவின்கண் கண்ட காட்சியானே என்னுயிர் உண்டாகா நின்றது. (மூன்றனுருபுகள் ஏழன் பொருண்மைக்கண் வந்தன...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 122: 'The Visions of the Night'), Kural 1213 distills a foundational ethical insight: \"Him, who in waking hour no kindness shows, In dreams I see; and so my lifetime goes\" Philosophically, My life lasts because in my dream I behold him who does not favour me in my waking hours.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "time",
+        "family",
+        "love",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 1214,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நனவில் வந்து அன்பு செய்யாத காதலரைத் தேடி அழைத்துக் கொண்டு வருவதற்காகக் கனவில் அவரைப் பற்றிய காதல் நிகழ்ச்சிகள் உண்டாகின்றன.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: There is pleasure in my dream, because in it I seek and obtain him who does not visit me in my wakefulness.",
+        "story_title_ta": "கனவுநிலை உரைத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Visions of the Night — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கனவுநிலை உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1214 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1214 from 'The Visions of the Night', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நேரில் என்னிடம் வந்து அன்பு காட்டாத காதலரைத் தேடிக் கொண்டு வந்து காட்டுகிற கனவால் எனக்குக் காதல் இன்பம் கிடைக்கிறது.",
+        "moral_en": "Moral: Some pleasure I enjoy when him who loves not meIn waking hours, the vision searches out and makes me see.",
+        "game_blank_word_ta": "நனவினான்",
+        "game_options_ta": [
+          "காதலர்",
+          "தூதொடு",
+          "நனவினான்",
+          "வந்த"
+        ],
+        "game_options_en": [
+          "How shall I feast this dream-vision That brings the beloved's love-mission?",
+          "I beg these fish-like dark eyes sleep To tell my lover how life I keep",
+          "In dreams I enjoy his love-bliss Who in wakeful hours I miss",
+          "In wakeful hours who sees me not I meet in dreams and linger yet"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கனவுநிலை உரைத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1214, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நேரில் வந்து அன்பு செய்யாதவரை அவர் இருக்கும் இடம் போய் அவரைத் தேடிக்கொண்டு வந்து தருவதால் கனவில் எனக்கு இன்பம் உண்டாகிறது. கலைஞர் உரை கூறுவது: நேரில் என்னிடம் வந்து அன்பு காட்டாத காதலரைத் தேடிக் கொண்டு வந்து காட்டுகிற கனவால் எனக்குக் காதல் இன்பம் கிடைக்கிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Visions of the Night (Post-marital Love), Kural 1214 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is pleasure in my dream, because in it I seek and obtain him who does not visit me in my wakefulness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கனவுநிலை உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Visions of the Night'.",
+        "quiz_question_ta": "'கனவுநிலை உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1214 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1214 from Chapter 'The Visions of the Night'?",
+        "quiz_options_ta": [
+          "நம்முடைய பெண்மையாகிய அரணை அழிக்கும் படையாக இருப்பது, பல மாயங்களில் வல்ல, கள்வனான காதலரடைய பணிவுடைய மொழி அன்றோ?",
+          "( ஊடும்போது அவர் அடைகின்ற) துன்ப நோயைச் சிறிது காண்போம்; அதற்காக அவரைத் தழுவாமலிருந்து பிணங்குவாயாக.",
+          "நனவில் வந்து அன்பு செய்யாத காதலரைத் தேடி அழைத்துக் கொண்டு வருவதற்காகக் கனவில் அவரைப் பற்றிய காதல் நிகழ்ச்சிகள் உண்டாகின்றன.",
+          "மழை என்னும் வருவாய் வளம் குன்றி விட்டால், ( உணவுப் பொருள்களை உண்டாக்கும்) உழவரும் ஏர் கொண்டு உழமாட்டார்"
+        ],
+        "quiz_options_en": [
+          "The cheater of many wily arts His tempting words break through women's hearts",
+          "Feign sulk; embrace him not so that We can see his distress a bit",
+          "In dreams I enjoy his love-bliss Who in wakeful hours I miss",
+          "Unless the fruitful shower descend, The ploughman's sacred toil must end"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கனவுநிலை உரைத்தல்) பகுதியில் குறள் 1214 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நனவில் வந்து அன்பு செய்யாத காதலரைத் தேடி அழைத்துக் கொண்டு வருவதற்காகக் கனவில் அவரைப் பற்றிய காதல் நிகழ்ச்சிகள் உண்டாகின்றன. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நனவினான் நல்காரை நாடித்தரற்கு - நனவின்கண் வந்து தலையளி செய்யாதாரை அவர் சென்றுழி நாடிக் கொண்டு வந்து கனவு தருதலான்; கனவினான் காமம் உண்டாகும் - இக் கனவின்கண்ணே எனக்கு இன்பம் உண்டாகா நின்றது. (காமம் - ஆகுபெயர். நான்காவது மூன்றன் பொருண்மைக்கண...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 122: 'The Visions of the Night'), Kural 1214 distills a foundational ethical insight: \"Some pleasure I enjoy when him who loves not meIn waking hours, the vision searches out and makes me see\" Philosophically, There is pleasure in my dream, because in it I seek and obtain him who does not visit me in my wakefulness.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "time",
+        "speech",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1215,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: முன்பு நனவில் கண்ட இன்பமும் அப்பொழுது மட்டும் இனிதாயிற்று; இப்‌பொழுது காணும் கனவும் கண்ட பொழுது மட்டுமே இன்பமாக உள்ளது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: I saw him in my waking hours, and then it was pleasant; I see him just now in my dream, and it is (equally) pleasant.",
+        "story_title_ta": "கனவுநிலை உரைத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Visions of the Night — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கனவுநிலை உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1215 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1215 from 'The Visions of the Night', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதலரை நேரில் கண்ட இன்பம் அப்போது இனிமை வழங்கியது போலவே, இப்போது அவரைக் கனவில் காணும் இன்பமும் இனிமை வழங்குகிறது!",
+        "moral_en": "Moral: As what I then beheld in waking hour was sweet, So pleasant dreams in hour of sleep my spirit greet.",
+        "game_blank_word_ta": "கண்ட",
+        "game_options_ta": [
+          "காதலர்",
+          "தூதொடு",
+          "வந்த",
+          "கண்ட"
+        ],
+        "game_options_en": [
+          "How shall I feast this dream-vision That brings the beloved's love-mission?",
+          "I beg these fish-like dark eyes sleep To tell my lover how life I keep",
+          "In wakeful hours who sees me not I meet in dreams and linger yet",
+          "Dream-sight of him delights at once Awake-What of seeing him -hence"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கனவுநிலை உரைத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1215, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முன்பு அவரை நேரில் கண்டு அனுபவித்ததும் சரி, இப்போது கனவில் அவரைக் கண்டு அனுபவிப்பதும் இரண்டுமே எனக்கு இன்பந்தான். கலைஞர் உரை கூறுவது: காதலரை நேரில் கண்ட இன்பம் அப்போது இனிமை வழங்கியது போலவே, இப்போது அவரைக் கனவில் காணும் இன்பமும் இனிமை வழங்குகிறது! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Visions of the Night (Post-marital Love), Kural 1215 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I saw him in my waking hours, and then it was pleasant; I see him just now in my dream, and it is (equally) pleasant. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கனவுநிலை உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Visions of the Night'.",
+        "quiz_question_ta": "'கனவுநிலை உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1215 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1215 from Chapter 'The Visions of the Night'?",
+        "quiz_options_ta": [
+          "ஊடுவேன் என்று எண்ணிக் கொண்டு சென்றேன்; ஆனால் என் நெஞ்சம் என்னை விட்டு அவரோடு கூடுவதை கண்டு தழுவினேன்.",
+          "உப்பு, உணவில் அளவோடு அமைந்திருப்பதைப் போன்றது ஊடல்; ஊடலை அளவு கடந்து நீட்டித்தல், அந்த உப்பு சிறிதளவு மிகுதியாக இருப்பதைப் போன்றது.",
+          "பெய்யாமல் வாழ்வைக் கெடுக்க வல்லதும் மழை; மழையில்லாமல் வளம் கெட்டு நொந்தவர்க்கும் துணையாய் அவ்வாறே காக்க வல்லதும் மழையாகும்",
+          "முன்பு நனவில் கண்ட இன்பமும் அப்பொழுது மட்டும் இனிதாயிற்று; இப்‌பொழுது காணும் கனவும் கண்ட பொழுது மட்டுமே இன்பமாக உள்ளது."
+        ],
+        "quiz_options_en": [
+          "In huff I went and felt at ease Heat to heart in sweet embrace",
+          "Sulking is the salt of love; but Too much of it spoils the taste Wife Addresses Husband",
+          "Destruction it may sometimes pour But only rain can life restore",
+          "Dream-sight of him delights at once Awake-What of seeing him -hence"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கனவுநிலை உரைத்தல்) பகுதியில் குறள் 1215 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முன்பு நனவில் கண்ட இன்பமும் அப்பொழுது மட்டும் இனிதாயிற்று; இப்‌பொழுது காணும் கனவும் கண்ட பொழுது மட்டுமே இன்பமாக உள்ளது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நனவினான் கண்டதூஉம் (இனிது) ஆங்கே - முன் நனவின்கண் அவரைக் கண்டு நுகர்ந்த இன்பந்தானும் இனிதாயிற்று, அப்பொழுதே; கனவும் தான் கண்டபொழுதே இனிது - இன்று கனவின்கண் கண்டு நுகர்ந்த இன்பமும் அக் கண்டபொழுதே இனிதாயிற்று. அதனான் எனக்கு இரண்டும் ஒத்தன...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 122: 'The Visions of the Night'), Kural 1215 distills a foundational ethical insight: \"As what I then beheld in waking hour was sweet, So pleasant dreams in hour of sleep my spirit greet\" Philosophically, I saw him in my waking hours, and then it was pleasant; I see him just now in my dream, and it is (equally) pleasant.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "harmony",
+        "time",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1216,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நனவு என்று சொல்லப்படுகின்ற ஒன்று இல்லாதிருக்குமானால், கனவில் வந்த காதலர் என்னை விட்டுப் பிரியாமலே இருப்பர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Were there no such thing as wakefulness, my beloved (who visited me) in my dream would not depart from me.",
+        "story_title_ta": "கனவுநிலை உரைத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Visions of the Night — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கனவுநிலை உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1216 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1216 from 'The Visions of the Night', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நனவு மட்டும் திடிரென வந்து கெடுக்காமல் இருந்தால், கனவில் சந்தித்த காதலர் பிரியாமலே இருக்க முடியுமே.",
+        "moral_en": "Moral: And if there were no waking hour, my loveIn dreams would never from my side remove.",
+        "game_blank_word_ta": "காதலர்",
+        "game_options_ta": [
+          "காதலர்",
+          "தூதொடு",
+          "வந்த",
+          "கனவினுக்கு"
+        ],
+        "game_options_en": [
+          "If wakeful hours come to nought My lov'r in dreams would nev'r depart",
+          "How shall I feast this dream-vision That brings the beloved's love-mission?",
+          "I beg these fish-like dark eyes sleep To tell my lover how life I keep",
+          "In wakeful hours who sees me not I meet in dreams and linger yet"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கனவுநிலை உரைத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1216, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கண்ணால் காண்பது என்றொரு கொடிய பாவி இல்லை என்றால் கனவிலே வந்து கூடிய என்னவர் என்னைப் பிரிய மாட்டார். கலைஞர் உரை கூறுவது: நனவு மட்டும் திடிரென வந்து கெடுக்காமல் இருந்தால், கனவில் சந்தித்த காதலர் பிரியாமலே இருக்க முடியுமே. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Visions of the Night (Post-marital Love), Kural 1216 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Were there no such thing as wakefulness, my beloved (who visited me) in my dream would not depart from me. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கனவுநிலை உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Visions of the Night'.",
+        "quiz_question_ta": "'கனவுநிலை உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1216 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1216 from Chapter 'The Visions of the Night'?",
+        "quiz_options_ta": [
+          "நனவு என்று சொல்லப்படுகின்ற ஒன்று இல்லாதிருக்குமானால், கனவில் வந்த காதலர் என்னை விட்டுப் பிரியாமலே இருப்பர்.",
+          "கொழுப்பைத் தீயில் இட்டால் போன்ற உருகும் நெஞ்சுடைய என்னைப் போன்றவர்க்கு, இசைந்து ஊடி நிற்போம் என்று ஊடும் தன்மை உண்டோ?",
+          "தம்மோடு பிணங்கியவரை ஊடலுணர்த்தித் தழுவாமல் விடுதல், துன்பத்தால் வருந்தியவரை மேலும் துன்ப நோய் செய்து வரத்தினாற் போன்றது.",
+          "வானத்திலிருந்து மழைத்துளி வீழ்ந்தால் அல்லாமல், உலகத்தில் ஓரறிவுயிராகிய பசும்புல்லின் தலையையும் காண முடியாது"
+        ],
+        "quiz_options_en": [
+          "If wakeful hours come to nought My lov'r in dreams would nev'r depart",
+          "To feign dislike is it not rare For mates who melt like fat in fire?",
+          "To leave the sulker unembraced Is to grieve the one sorely grieved",
+          "No grassy blade its head will rear, If from the cloud no drop appear"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கனவுநிலை உரைத்தல்) பகுதியில் குறள் 1216 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நனவு என்று சொல்லப்படுகின்ற ஒன்று இல்லாதிருக்குமானால், கனவில் வந்த காதலர் என்னை விட்டுப் பிரியாமலே இருப்பர். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நனவென ஒன்று இல்லையாயின் - நனவு என்று சொல்லப்படுகின்ற ஒரு பாவி இல்லையாயின்; கனவினான் காதலர் நீங்கலர் - கனவின்கண் வந்து கூடிய காதலர் என்னைப் பிரியார். ('ஒன்று' என்பது, அதன் கொடுமை விளக்கி நின்றது. அஃது இடையே புகுந்து கனவைப் போக்கி அவரைப...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 122: 'The Visions of the Night'), Kural 1216 distills a foundational ethical insight: \"And if there were no waking hour, my loveIn dreams would never from my side remove\" Philosophically, Were there no such thing as wakefulness, my beloved (who visited me) in my dream would not depart from me.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "time",
+        "leadership",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1217,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நனவில் வந்து எமக்கு அன்பு செய்யாத கொடுமை உடைய அவர், கனவில் வந்து எம்மை வருத்துவது என்ன காரணத்தால்?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The cruel one who would not favour me in my wakefulness, what right has he to torture me in my dreams?",
+        "story_title_ta": "கனவுநிலை உரைத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Visions of the Night — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கனவுநிலை உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1217 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1217 from 'The Visions of the Night', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நேரில் வந்து அன்பு காட்டாத கொடிய நெஞ்சமுடையவர், கனவில் வந்து பிரிவுத் துயரைப் பெரிதாக்குவது என்ன காரணத்தால்?",
+        "moral_en": "Moral: The cruel one, in waking hour, who all ungracious seems, Why should he thus torment my soul in nightly dreams.",
+        "game_blank_word_ta": "பீழிப்",
+        "game_options_ta": [
+          "காதலர்",
+          "பீழிப்",
+          "தூதொடு",
+          "வந்த"
+        ],
+        "game_options_en": [
+          "How shall I feast this dream-vision That brings the beloved's love-mission?",
+          "Awake he throws my overtures Adream, ah cruel! he tortures!",
+          "I beg these fish-like dark eyes sleep To tell my lover how life I keep",
+          "In wakeful hours who sees me not I meet in dreams and linger yet"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கனவுநிலை உரைத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1217, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நேரில் வந்து அன்பு செய்யாத இந்தக் கொடிய மனிதர் கனவில் மட்டும் நாளும் வந்து என்னை வருத்துவது ஏன்? கலைஞர் உரை கூறுவது: நேரில் வந்து அன்பு காட்டாத கொடிய நெஞ்சமுடையவர், கனவில் வந்து பிரிவுத் துயரைப் பெரிதாக்குவது என்ன காரணத்தால்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Visions of the Night (Post-marital Love), Kural 1217 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The cruel one who would not favour me in my wakefulness, what right has he to torture me in my dreams? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கனவுநிலை உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Visions of the Night'.",
+        "quiz_question_ta": "'கனவுநிலை உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1217 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1217 from Chapter 'The Visions of the Night'?",
+        "quiz_options_ta": [
+          "என் கண்களும் அவர் வரும் வழியைப் பார்த்துப் பார்த்து ஒளி இழந்து அழகு கெட்டன; விரல்களும் அவர் சென்ற நாட்களைக் குறித்துத் தொட்டுத் தொட்டுத் தேய்ந்தன.",
+          "நனவில் வந்து எமக்கு அன்பு செய்யாத கொடுமை உடைய அவர், கனவில் வந்து எம்மை வருத்துவது என்ன காரணத்தால்?",
+          "பிணங்கியவரை ஊடலுணர்த்தி அன்பு செய்யாமல் இருத்தல், முன்னமே வாடியுள்ள கொடியை அதன் அடியிலேயே அறுத்தல் போன்றது.",
+          "மேகம் கடலிலிருந்து நீரைக் கொண்டு அதனிடத்திலேயே பெய்யாமல் விடுமானால், பெரிய கடலும் தன் வளம் குன்றிப் போகும்"
+        ],
+        "quiz_options_en": [
+          "My eyes are dim lustre-bereft Worn fingers count days since he left",
+          "Awake he throws my overtures Adream, ah cruel! he tortures!",
+          "To comfort not lady in pout Is to cut the fading plant at root He within Himself",
+          "The ocean's wealth will waste away, Except the cloud its stores repay"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கனவுநிலை உரைத்தல்) பகுதியில் குறள் 1217 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நனவில் வந்து எமக்கு அன்பு செய்யாத கொடுமை உடைய அவர், கனவில் வந்து எம்மை வருத்துவது என்ன காரணத்தால்? பரிமேலழகர் உரை நுட்பம்: (விழித்துழிக் காணளாயினாள் கனவிற் கூட்டம் நினைந்து ஆற்றாளாய்ச் சொல்லியது.) நனவினான் நல்காக் கொடியார் - ஒரு ஞான்றும் நனவின்கண் வந்து தலையளி செய்யாத கொடியவர்; கனவின்கண் வந்து எம்மைப் பீழிப்பது என் - நாள்தோறும் கனவின்கண் வந்து எம்மை வருத்துவது எவ்வியைபு பற்றி...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 122: 'The Visions of the Night'), Kural 1217 distills a foundational ethical insight: \"The cruel one, in waking hour, who all ungracious seems, Why should he thus torment my soul in nightly dreams\" Philosophically, The cruel one who would not favour me in my wakefulness, what right has he to torture me in my dreams?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "leadership",
+        "time",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 1218,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தூங்கும்போது கனவில் வந்து என் தோள்மேல் உள்ளவராகி, விழி்த்தெழும்போது விரைந்து என் நெஞ்சில் உள்ளவராகிறார்‌.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: When I am asleep he rests on my shoulders, (but) when I awake he hastens into my soul.",
+        "story_title_ta": "கனவுநிலை உரைத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Visions of the Night — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கனவுநிலை உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1218 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1218 from 'The Visions of the Night', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: தூக்கத்தில் கனவில் வந்து என் தோள் மீது சாய்ந்து இன்பம் தந்தவர், விழித்தபோது எங்கும் போய் விடவில்லை; என் நெஞ்சில் தாவி அமர்ந்து கொண்டார்.",
+        "moral_en": "Moral: And when I sleep he holds my form embraced; And when I wake to fill my heart makes haste.",
+        "game_blank_word_ta": "துஞ்சுங்கால்",
+        "game_options_ta": [
+          "காதலர்",
+          "தூதொடு",
+          "துஞ்சுங்கால்",
+          "வந்த"
+        ],
+        "game_options_en": [
+          "How shall I feast this dream-vision That brings the beloved's love-mission?",
+          "I beg these fish-like dark eyes sleep To tell my lover how life I keep",
+          "Asleep he embraces me fast; Awake he enters quick my heart",
+          "In wakeful hours who sees me not I meet in dreams and linger yet"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கனவுநிலை உரைத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1218, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் நெஞ்சில் எப்போதும் வாழும் என்னவர் நான் உறங்கும் போது என் தோளின் மேல் கிடக்கிறார். விழித்துக் கொள்ளும் போதோ வேகமாக என் நெஞ்சிற்குள் நுழைந்து கொள்கிறார். கலைஞர் உரை கூறுவது: தூக்கத்தில் கனவில் வந்து என் தோள் மீது சாய்ந்து இன்பம் தந்தவர், விழித்தபோது எங்கும் போய் விடவில்லை; என் நெஞ்சில் தாவி அமர்ந்து கொண்டார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Visions of the Night (Post-marital Love), Kural 1218 speaks directly to teens navigating studies, friendships, leadership, and digital choices: When I am asleep he rests on my shoulders, (but) when I awake he hastens into my soul. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கனவுநிலை உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Visions of the Night'.",
+        "quiz_question_ta": "'கனவுநிலை உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1218 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1218 from Chapter 'The Visions of the Night'?",
+        "quiz_options_ta": [
+          "தோழி! காதலரின் பிரிவால்துன்புற்று வருந்துகின்ற இன்றும் அவரை மறந்து விட்டால், அழகு கெட்டு என் தோள் மேல் அணிந்துள்ள அணிகள் கழலுமாறு நேரும்.",
+          "நல்ல பண்புகள் அமைந்த நல்ல ஆடவர்க்கு அழகு, மலர் போன்ற கண்களை உடைய மகளிரின் நெஞ்சம் விளையும் ஊடலின் சிறப்பே ஆகும்.",
+          "தூங்கும்போது கனவில் வந்து என் தோள்மேல் உள்ளவராகி, விழி்த்தெழும்போது விரைந்து என் நெஞ்சில் உள்ளவராகிறார்‌.",
+          "மழை பெய்யாமல் போகுமானால் இவ்வுலகத்தில் வானோர்க்காக நடைபெறும் திருவிழாவும் நடைபெறாது; நாள் வழிபாடும் நடைபெறாது"
+        ],
+        "quiz_options_en": [
+          "Beauty pales and my bracelets slide; Why not forget him now, bright maid?",
+          "Pouting of flower-eyed has To pure good mates a lovely grace",
+          "Asleep he embraces me fast; Awake he enters quick my heart",
+          "The earth, beneath a barren sky, Would offerings for the gods deny"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கனவுநிலை உரைத்தல்) பகுதியில் குறள் 1218 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தூங்கும்போது கனவில் வந்து என் தோள்மேல் உள்ளவராகி, விழி்த்தெழும்போது விரைந்து என் நெஞ்சில் உள்ளவராகிறார்‌. பரிமேலழகர் உரை நுட்பம்: (தான் ஆற்றுதற்பொருட்டுத் தலைமகனை இயற்பழித்தாட்கு இயற்பட மொழிந்தது.) துஞ்சுங்கால் தோள் மேலராகி - என் நெஞ்சு விடாது உறைகின்ற காதலர் யான் துஞ்சும் பொழுது வந்து என் தோள் மேலராய்; விழிக்குங்கால் விரைந்து நெஞ்சத்தர் ஆவர் - பின் விழிக்கும் பொழுது விரைந்து பழைய...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 122: 'The Visions of the Night'), Kural 1218 distills a foundational ethical insight: \"And when I sleep he holds my form embraced; And when I wake to fill my heart makes haste\" Philosophically, When I am asleep he rests on my shoulders, (but) when I awake he hastens into my soul.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "time",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1219,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: கனவில் காதலர் வரக் காணாத மகளிர், நனவில் வந்து அன்பு செய்யாத கா‌தலரை ( அவர் வராத காரணம் பற்றி ) நொந்து கொள்வர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: They who have no dear ones to behold in their dreams blame him who visits me not in my waking hours.",
+        "story_title_ta": "கனவுநிலை உரைத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Visions of the Night — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கனவுநிலை உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1219 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1219 from 'The Visions of the Night', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: கனவில் காதலரைக் காணாதவர்கள்தான் அவர் நேரில் வந்து காணவில்லையே என்று நொந்து கொள்வர்.",
+        "moral_en": "Moral: In dreams who ne'er their lover's form perceive, For those in waking hours who show no love will grieve.",
+        "game_blank_word_ta": "நல்காரை",
+        "game_options_ta": [
+          "காதலர்",
+          "தூதொடு",
+          "வந்த",
+          "நல்காரை"
+        ],
+        "game_options_en": [
+          "How shall I feast this dream-vision That brings the beloved's love-mission?",
+          "I beg these fish-like dark eyes sleep To tell my lover how life I keep",
+          "In wakeful hours who sees me not I meet in dreams and linger yet",
+          "In dreams who don't discern lovers Rue their missing in wakeful hours"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கனவுநிலை உரைத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1219, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இன்னும் திருமணம் ஆகாத, ஆகிக் கணவனைப் பிரிந்து அறியாத இந்தப் பெண்கள், கனவில் காதலனைக் கண்டு அறியாதவர், ஆதலால், அவர்கள் அறிய நேரில் வந்து என்னிடம் அன்பு காட்டாத என்னவரை அன்பற்றவர் என்று ஏசுகின்றனர். கலைஞர் உரை கூறுவது: கனவில் காதலரைக் காணாதவர்கள்தான் அவர் நேரில் வந்து காணவில்லையே என்று நொந்து கொள்வர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Visions of the Night (Post-marital Love), Kural 1219 speaks directly to teens navigating studies, friendships, leadership, and digital choices: They who have no dear ones to behold in their dreams blame him who visits me not in my waking hours. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கனவுநிலை உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Visions of the Night'.",
+        "quiz_question_ta": "'கனவுநிலை உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1219 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1219 from Chapter 'The Visions of the Night'?",
+        "quiz_options_ta": [
+          "வெற்றியை விரும்பி ஊக்கமே துணையாகக் கொண்டு வெளிநாட்டுக்குச் சென்ற காதலர், திரும்பி வருதலைக் காண விரும்பியே இன்னும் யான் உயிரோடு இருக்கின்றேன்.",
+          "பெரும் பிணக்கும் சிறு பிணக்கும் இல்லாவிட்டால், காமம் மிகப் பழுத்த பழமும் முற்றாத இளங்காயும் போல் பயன்படாததாகும்.",
+          "மழை பெய்யவில்லையானால், இந்த பெரிய உலகத்தில் பிறர் பொருட்டு செய்யும் தானமும், தம் பொருட்டு செய்யும் தவமும் இல்லையாகும்.",
+          "கனவில் காதலர் வரக் காணாத மகளிர், நனவில் வந்து அன்பு செய்யாத கா‌தலரை ( அவர் வராத காரணம் பற்றி ) நொந்து கொள்வர்."
+        ],
+        "quiz_options_en": [
+          "Will as guide he went to win Yet I live-to see him again",
+          "Love devoid of frowns and pets Misses its ripe and unripe fruits",
+          "Were heaven above to fail below Nor alms nor penance earth would show",
+          "In dreams who don't discern lovers Rue their missing in wakeful hours"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கனவுநிலை உரைத்தல்) பகுதியில் குறள் 1219 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கனவில் காதலர் வரக் காணாத மகளிர், நனவில் வந்து அன்பு செய்யாத கா‌தலரை ( அவர் வராத காரணம் பற்றி ) நொந்து கொள்வர். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) கனவினான் காதலர்க் காணாதவர் - தமக்கு ஒரு காதலர் இன்மையின் அவரைக் கனவிற் கண்டறியாத மகளிர்; நனவினான் நல்காரை நோவர் - தாம் அறிய நனவின்கண் வந்து நல்காத நம் காதலரை அன்பிலர் என நோவர் நிற்பர். (இயற்பழித்தது பொறாது புலக்கின்றாள் ஆகலின், அயன்மை தோன்றக...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 122: 'The Visions of the Night'), Kural 1219 distills a foundational ethical insight: \"In dreams who ne'er their lover's form perceive, For those in waking hours who show no love will grieve\" Philosophically, They who have no dear ones to behold in their dreams blame him who visits me not in my waking hours.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "time",
+        "ethics",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 1220,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நனவில் நம்‌மை விட்டு நீங்கினார் என்று காதலரைப் பழித்து பேசுகின்றனரே! இந்த ஊரார் கனவில் அவரைக் காண்பதில்லையோ?",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The women of this place say he has forsaken me in my wakefulness I think they have not seen him visit me in my dreams.",
+        "story_title_ta": "கனவுநிலை உரைத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Visions of the Night — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'கனவுநிலை உரைத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1220 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1220 from 'The Visions of the Night', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என் காதலர் என்னைப் பிரிந்திருப்பதாக அவரைக் குற்றம் சாட்டுகிறார்களே, இந்த ஊரார், பிரிந்து சென்ற தமது காதலனைக் கனவில் காண்பது கிடையாதோ?",
+        "moral_en": "Moral: They say, that he in waking hours has left me lone; In dreams they surely see him not,- these people of the town;.",
+        "game_blank_word_ta": "என்பர்",
+        "game_options_ta": [
+          "என்பர்",
+          "காதலர்",
+          "தூதொடு",
+          "வந்த"
+        ],
+        "game_options_en": [
+          "The townsmen say he left me thus In dreams failing to see him close",
+          "How shall I feast this dream-vision That brings the beloved's love-mission?",
+          "I beg these fish-like dark eyes sleep To tell my lover how life I keep",
+          "In wakeful hours who sees me not I meet in dreams and linger yet"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கனவுநிலை உரைத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1220, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என்னை விட்டுப் பிரிந்து போய்விட்டார் என்று என்னவரை ஏசும் இவ்வூர்ப் பெண்கள், அவர் நாளும் என் கனவில் வருவதைக் கண்டு அறியாரோ? கலைஞர் உரை கூறுவது: என் காதலர் என்னைப் பிரிந்திருப்பதாக அவரைக் குற்றம் சாட்டுகிறார்களே, இந்த ஊரார், பிரிந்து சென்ற தமது காதலனைக் கனவில் காண்பது கிடையாதோ? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Visions of the Night (Post-marital Love), Kural 1220 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The women of this place say he has forsaken me in my wakefulness I think they have not seen him visit me in my dreams. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'கனவுநிலை உரைத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Visions of the Night'.",
+        "quiz_question_ta": "'கனவுநிலை உரைத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1220 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1220 from Chapter 'The Visions of the Night'?",
+        "quiz_options_ta": [
+          "நனவில் நம்‌மை விட்டு நீங்கினார் என்று காதலரைப் பழித்து பேசுகின்றனரே! இந்த ஊரார் கனவில் அவரைக் காண்பதில்லையோ?",
+          "முன்பு கூடியிருந்த காதலைக் கைவிட்டுப் பிரிந்த அவருடைய வருகை‌யைநினைத்து என் நெஞ்சம் மரத்தின் கிளைகளின் மேலும் ஏறிப் பார்க்கின்றது.",
+          "கூடியிருக்கும் இன்பம் இனிமேல் நீட்டிக்காதோ என்று ஏங்கி எண்ணுவதால் ஊடியிருத்தலினும் காதலர்க்கு ஒருவகைத் துன்பம் இருக்கின்றது.",
+          "எப்படிப்பட்டவர்க்கும் நீர் இல்லாமல் உலக வாழ்க்கை நடைபெறாது என்றால், மழை இல்லையானால் ஒழுக்கமும் நிலைபெறாமல் போகும்"
+        ],
+        "quiz_options_en": [
+          "The townsmen say he left me thus In dreams failing to see him close",
+          "My heart in rapture heaves to see His retun with love to embrace me",
+          "\\\"Will union take place soon or late?\\\" In lover's pout this leaves a doubt",
+          "Water is life that comes from rain Sans rain our duties go in vain"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (கனவுநிலை உரைத்தல்) பகுதியில் குறள் 1220 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நனவில் நம்‌மை விட்டு நீங்கினார் என்று காதலரைப் பழித்து பேசுகின்றனரே! இந்த ஊரார் கனவில் அவரைக் காண்பதில்லையோ? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) இவ்வூரவர் நனவினான் நம் நீத்தார் என்பார் - மகளிர் நனவின்கண் நம்மை நீத்தார் என்று நம் காதலரைக் கொடுமை கூறாநிற்பார்; கனவினான் காணார்கொல் - அவர் கனவின்கண் நீங்காது வருதல் கண்டறியாரோ? ('என்னொடு தன்னிடை வேற்றுமை இன்றாயின், யான் கண்டது தானும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 122: 'The Visions of the Night'), Kural 1220 distills a foundational ethical insight: \"They say, that he in waking hours has left me lone; In dreams they surely see him not,- these people of the town;\" Philosophically, The women of this place say he has forsaken me in my wakefulness I think they have not seen him visit me in my dreams.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "leadership",
+        "time",
+        "family"
+      ]
+    }
+  ]
+}

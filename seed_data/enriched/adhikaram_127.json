@@ -1,0 +1,585 @@
+{
+  "adhikaram_id": 127,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.624723506+00:00",
+  "kurals": [
+    {
+      "kural_number": 1261,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: என் கண்களும் அவர் வரும் வழியைப் பார்த்துப் பார்த்து ஒளி இழந்து அழகு கெட்டன; விரல்களும் அவர் சென்ற நாட்களைக் குறித்துத் தொட்டுத் தொட்டுத் தேய்ந்தன.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: My finger has worn away by marking (on the wall) the days he has been absent while my eyes have lost their lustre and begin to fail.",
+        "story_title_ta": "அவர்வயின் விதும்பல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Mutual Desire — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'அவர்வயின் விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1261 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1261 from 'Mutual Desire', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: வருவார் வருவார் என வழி பார்த்துப் பார்த்து விழிகளும் ஒளியிழந்தன; பிரிந்து சென்றுள்ள நாட்களைச் சுவரில் குறியிட்டு அவற்றைத் தொட்டுத் தொட்டு எண்ணிப் பார்த்து விரல்களும் தேய்ந்தன.",
+        "moral_en": "Moral: My eyes have lost their brightness, sight is dimmed; my fingers worn, With nothing on the wall the days since I was left forlorn.",
+        "game_blank_word_ta": "புற்கென்ற",
+        "game_options_ta": [
+          "இலங்கிழாய்",
+          "புற்கென்ற",
+          "இன்று",
+          "மறப்பின்என்"
+        ],
+        "game_options_en": [
+          "Beauty pales and my bracelets slide; Why not forget him now, bright maid?",
+          "My eyes are dim lustre-bereft Worn fingers count days since he left",
+          "Will as guide he went to win Yet I live-to see him again",
+          "My heart in rapture heaves to see His retun with love to embrace me"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவர்வயின் விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1261, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவர் என்னைப் பிரிந்து போன நாள்களைச் சுவரில் குறித்துத் தொட்டு எண்ணுவதால் என் விரல்கள் தேய்ந்து விட்டன; அவர் வரும் வழியைப் பார்த்து என் கண்களும் ஒளி இழந்து, நுண்ணியவற்றைக் காணும் திறனில் குறைந்து விட்டன. கலைஞர் உரை கூறுவது: வருவார் வருவார் என வழி பார்த்துப் பார்த்து விழிகளும் ஒளியிழந்தன; பிரிந்து சென்றுள்ள நாட்களைச் சுவரில் குறியிட்டு அவற்றைத் தொட்டுத் தொட்டு எண்ணிப் பார்த்து விரல்களும் தேய்ந்தன. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mutual Desire (Post-marital Love), Kural 1261 speaks directly to teens navigating studies, friendships, leadership, and digital choices: My finger has worn away by marking (on the wall) the days he has been absent while my eyes have lost their lustre and begin to fail. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'அவர்வயின் விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Mutual Desire'.",
+        "quiz_question_ta": "'அவர்வயின் விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1261 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1261 from Chapter 'Mutual Desire'?",
+        "quiz_options_ta": [
+          "நல்ல பண்புகள் அமைந்த நல்ல ஆடவர்க்கு அழகு, மலர் போன்ற கண்களை உடைய மகளிரின் நெஞ்சம் விளையும் ஊடலின் சிறப்பே ஆகும்.",
+          "என் கண்களும் அவர் வரும் வழியைப் பார்த்துப் பார்த்து ஒளி இழந்து அழகு கெட்டன; விரல்களும் அவர் சென்ற நாட்களைக் குறித்துத் தொட்டுத் தொட்டுத் தேய்ந்தன.",
+          "மழை பெய்யாமல் போகுமானால் இவ்வுலகத்தில் வானோர்க்காக நடைபெறும் திருவிழாவும் நடைபெறாது; நாள் வழிபாடும் நடைபெறாது",
+          "பெறத்தகுந்த பேறுகளில் அறிய வேண்டியவைகளை அறியும் நன்மக்களைப் பெறுவதைத் தவிர, மற்றப்பேறுகளை யாம் மதிப்பதில்லை."
+        ],
+        "quiz_options_en": [
+          "Pouting of flower-eyed has To pure good mates a lovely grace",
+          "My eyes are dim lustre-bereft Worn fingers count days since he left",
+          "The earth, beneath a barren sky, Would offerings for the gods deny",
+          "The world no higher bliss bestows Than children virtuous and wise"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (அவர்வயின் விதும்பல்) பகுதியில் குறள் 1261 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: என் கண்களும் அவர் வரும் வழியைப் பார்த்துப் பார்த்து ஒளி இழந்து அழகு கெட்டன; விரல்களும் அவர் சென்ற நாட்களைக் குறித்துத் தொட்டுத் தொட்டுத் தேய்ந்தன. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது , சேயிடைப் பிரிவின்கண் தலைமகனும் தலைமகளும் வேட்கை மிகவினான் ஒருவரை யொருவர் காண்டற்கு விரைதல் . தலைமகற் பிரிவும் தலைமகள் ஆற்றாமையும் அதிகாரப்பட்டு வருகின்றமையின் இருவரையும் சுட்டிப் பொதுவாகிய பன்மைப் பாலாற் கூறினார். (தலைமகள் காண்டல் விதுப்பினால...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 127: 'Mutual Desire'), Kural 1261 distills a foundational ethical insight: \"My eyes have lost their brightness, sight is dimmed; my fingers worn, With nothing on the wall the days since I was left forlorn\" Philosophically, My finger has worn away by marking (on the wall) the days he has been absent while my eyes have lost their lustre and begin to fail.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "ethics",
+        "self-mastery",
+        "speech",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1262,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தோழி! காதலரின் பிரிவால்துன்புற்று வருந்துகின்ற இன்றும் அவரை மறந்து விட்டால், அழகு கெட்டு என் தோள் மேல் அணிந்துள்ள அணிகள் கழலுமாறு நேரும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: O you bright-jewelled maid, if I forget (him) today, my shoulders will lose their beauty even in the other life and make my bracelets loose.",
+        "story_title_ta": "அவர்வயின் விதும்பல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Mutual Desire — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'அவர்வயின் விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1262 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1262 from 'Mutual Desire', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதலரைப் பிரிந்திருக்கும் நான், பிரிவுத் துன்பம் வாராதிருக்க அவரை மறந்திருக்க முனைந்தால், என் தோள்கள் அழகு நீங்கி மெலிந்து போய் வளையல்களும் கழன்று விழுவது உறுதியடி என் தோழி.",
+        "moral_en": "Moral: O thou with gleaming jewels decked, could I forget for this one day, Henceforth these bracelets from my arms will slip, my beauty worn away.",
+        "game_blank_word_ta": "மறப்பின்என்",
+        "game_options_ta": [
+          "வாளற்றுப்",
+          "புற்கென்ற",
+          "மறப்பின்என்",
+          "கண்ணும்"
+        ],
+        "game_options_en": [
+          "My eyes are dim lustre-bereft Worn fingers count days since he left",
+          "Will as guide he went to win Yet I live-to see him again",
+          "Beauty pales and my bracelets slide; Why not forget him now, bright maid?",
+          "My heart in rapture heaves to see His retun with love to embrace me"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவர்வயின் விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1262, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒளிரும் நகை அணிந்தவனே! என் காதலரை நான் இன்று மறந்தால் என்னைவிட்டு அழகு மிகுதியும் நீங்க, என் தோளும் வளையல்களை இழக்கும். கலைஞர் உரை கூறுவது: காதலரைப் பிரிந்திருக்கும் நான், பிரிவுத் துன்பம் வாராதிருக்க அவரை மறந்திருக்க முனைந்தால், என் தோள்கள் அழகு நீங்கி மெலிந்து போய் வளையல்களும் கழன்று விழுவது உறுதியடி என் தோழி. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mutual Desire (Post-marital Love), Kural 1262 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O you bright-jewelled maid, if I forget (him) today, my shoulders will lose their beauty even in the other life and make my bracelets loose. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'அவர்வயின் விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Mutual Desire'.",
+        "quiz_question_ta": "'அவர்வயின் விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1262 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1262 from Chapter 'Mutual Desire'?",
+        "quiz_options_ta": [
+          "பெரும் பிணக்கும் சிறு பிணக்கும் இல்லாவிட்டால், காமம் மிகப் பழுத்த பழமும் முற்றாத இளங்காயும் போல் பயன்படாததாகும்.",
+          "மழை பெய்யவில்லையானால், இந்த பெரிய உலகத்தில் பிறர் பொருட்டு செய்யும் தானமும், தம் பொருட்டு செய்யும் தவமும் இல்லையாகும்.",
+          "தோழி! காதலரின் பிரிவால்துன்புற்று வருந்துகின்ற இன்றும் அவரை மறந்து விட்டால், அழகு கெட்டு என் தோள் மேல் அணிந்துள்ள அணிகள் கழலுமாறு நேரும்.",
+          "பழி இல்லாத நல்ல பண்பு உடைய மக்களைப்பெற்றால் ஒருவனுக்கு ஏழு பிறவியிலும் தீவினைப் பயனாகிய துன்பங்கள் சென்று சேரா."
+        ],
+        "quiz_options_en": [
+          "Love devoid of frowns and pets Misses its ripe and unripe fruits",
+          "Were heaven above to fail below Nor alms nor penance earth would show",
+          "Beauty pales and my bracelets slide; Why not forget him now, bright maid?",
+          "No evil comes and no blemish; Noble sons bring all we wish"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (அவர்வயின் விதும்பல்) பகுதியில் குறள் 1262 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தோழி! காதலரின் பிரிவால்துன்புற்று வருந்துகின்ற இன்றும் அவரை மறந்து விட்டால், அழகு கெட்டு என் தோள் மேல் அணிந்துள்ள அணிகள் கழலுமாறு நேரும். பரிமேலழகர் உரை நுட்பம்: (ஆற்றாமை மிகுதலின் இடையின்றி நினைக்கற்பாலை யல்லை; சிறிது மறக்கல் வேண்டும், என்ற தோழிக்குச் சொல்லியது.) இலங்கு இழாய் - விளங்காநின்ற இழையினை யுடையாய்; இன்று மறப்பின் - காதலரை இன்று யான் மறப்பேனாயின்; மேல் காரிகை நீத்து என்தோள் கலங்கழியும் - மேலும் காரிகை என்னை...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 127: 'Mutual Desire'), Kural 1262 distills a foundational ethical insight: \"O thou with gleaming jewels decked, could I forget for this one day, Henceforth these bracelets from my arms will slip, my beauty worn away\" Philosophically, O you bright-jewelled maid, if I forget (him) today, my shoulders will lose their beauty even in the other life and make my bracelets loose.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "speech",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1263,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: வெற்றியை விரும்பி ஊக்கமே துணையாகக் கொண்டு வெளிநாட்டுக்குச் சென்ற காதலர், திரும்பி வருதலைக் காண விரும்பியே இன்னும் யான் உயிரோடு இருக்கின்றேன்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: I still live by longing for the arrival of him who has gone out of love for victory and with valour as his guide.",
+        "story_title_ta": "அவர்வயின் விதும்பல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Mutual Desire — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'அவர்வயின் விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1263 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1263 from 'Mutual Desire', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ஊக்கத்தையே உறுதுணையாகக் கொண்டு வெற்றியை விரும்பிச் சென்றுள்ள காதலன், திரும்பி வருவான் என்பதற்காகவே நான் உயிரோடு இருக்கிறேன்.",
+        "moral_en": "Moral: On victory intent, His mind sole company he went; And I yet life sustain And long to see his face again.",
+        "game_blank_word_ta": "சென்றார்",
+        "game_options_ta": [
+          "வாளற்றுப்",
+          "புற்கென்ற",
+          "கண்ணும்",
+          "சென்றார்"
+        ],
+        "game_options_en": [
+          "My eyes are dim lustre-bereft Worn fingers count days since he left",
+          "Beauty pales and my bracelets slide; Why not forget him now, bright maid?",
+          "My heart in rapture heaves to see His retun with love to embrace me",
+          "Will as guide he went to win Yet I live-to see him again"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவர்வயின் விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1263, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என்னுடன் இன்பம் நுகர்வதை விரும்பாமல், நான் துணையாவதையும் வெறுத்துத் தன் ஊக்கத்தையே துணையாக எண்ணி, வெற்றி பெறுவதையே விரும்பி என்னைப் பிரிந்தவர், அவற்றை இகழ்ந்து என்னிடம் திரும்ப வருவதை நான் விரும்புவதால் இவ்வளவு காலமும் இருக்கிறேன். கலைஞர் உரை கூறுவது: ஊக்கத்தையே உறுதுணையாகக் கொண்டு வெற்றியை விரும்பிச் சென்றுள்ள காதலன், திரும்பி வருவான் என்பதற்காகவே நான் உயிரோடு இருக்கிறேன். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mutual Desire (Post-marital Love), Kural 1263 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I still live by longing for the arrival of him who has gone out of love for victory and with valour as his guide. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'அவர்வயின் விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Mutual Desire'.",
+        "quiz_question_ta": "'அவர்வயின் விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1263 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1263 from Chapter 'Mutual Desire'?",
+        "quiz_options_ta": [
+          "கூடியிருக்கும் இன்பம் இனிமேல் நீட்டிக்காதோ என்று ஏங்கி எண்ணுவதால் ஊடியிருத்தலினும் காதலர்க்கு ஒருவகைத் துன்பம் இருக்கின்றது.",
+          "எப்படிப்பட்டவர்க்கும் நீர் இல்லாமல் உலக வாழ்க்கை நடைபெறாது என்றால், மழை இல்லையானால் ஒழுக்கமும் நிலைபெறாமல் போகும்",
+          "தம்மக்களே தம்முடைய பொருள்கள் என்று அறிஞர் கூறுவர். மக்களாகிய அவர்தம் பொருள்கள் அவரவருடைய வினையின் பயனால் வந்து சேரும்.",
+          "வெற்றியை விரும்பி ஊக்கமே துணையாகக் கொண்டு வெளிநாட்டுக்குச் சென்ற காதலர், திரும்பி வருதலைக் காண விரும்பியே இன்னும் யான் உயிரோடு இருக்கின்றேன்."
+        ],
+        "quiz_options_en": [
+          "\\\"Will union take place soon or late?\\\" In lover's pout this leaves a doubt",
+          "Water is life that comes from rain Sans rain our duties go in vain",
+          "Children are one's wealth indeed Their wealth is measured by their deed",
+          "Will as guide he went to win Yet I live-to see him again"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (அவர்வயின் விதும்பல்) பகுதியில் குறள் 1263 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வெற்றியை விரும்பி ஊக்கமே துணையாகக் கொண்டு வெளிநாட்டுக்குச் சென்ற காதலர், திரும்பி வருதலைக் காண விரும்பியே இன்னும் யான் உயிரோடு இருக்கின்றேன். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) உரன் நசைஇ உள்ளம் துணையாகச் சென்றார் - இன்பம் நுகர்தலை நச்சாது வேறலை நச்சி நாம் துணையாதலை இகழ்ந்து தம்ஊக்கம் துணையாகப் போனார்; வரல் நசைஇ இன்னும் உளேன் - அவற்றை இகழ்ந்து ஈண்டு வருதலை நச்சுதலான், யான் இவ்வெல்லையினும் உளேனாயினேன். ('உரன்' என்பது...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 127: 'Mutual Desire'), Kural 1263 distills a foundational ethical insight: \"On victory intent, His mind sole company he went; And I yet life sustain And long to see his face again\" Philosophically, I still live by longing for the arrival of him who has gone out of love for victory and with valour as his guide.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "education",
+        "courage",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1264,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: முன்பு கூடியிருந்த காதலைக் கைவிட்டுப் பிரிந்த அவருடைய வருகை‌யைநினைத்து என் நெஞ்சம் மரத்தின் கிளைகளின் மேலும் ஏறிப் பார்க்கின்றது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: My heart is rid of its sorrow and swells with rapture to think of my absent lover returning with his love.",
+        "story_title_ta": "அவர்வயின் விதும்பல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Mutual Desire — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'அவர்வயின் விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1264 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1264 from 'Mutual Desire', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதல் வயப்பட்டுக் கூடியிருந்து பிரிந்து சென்றவர் எப்போது வருவார் என்று என் நெஞ்சம், மரத்தின் உச்சிக் கொம்பில் ஏறிப் பார்க்கின்றது.",
+        "moral_en": "Moral: 'He comes again, who left my side, and I shall taste love's joy,'-My heart with rapture swells, when thoughts like these my mind employ.",
+        "game_blank_word_ta": "கோடுகொ",
+        "game_options_ta": [
+          "கோடுகொ",
+          "வாளற்றுப்",
+          "புற்கென்ற",
+          "கண்ணும்"
+        ],
+        "game_options_en": [
+          "My heart in rapture heaves to see His retun with love to embrace me",
+          "My eyes are dim lustre-bereft Worn fingers count days since he left",
+          "Beauty pales and my bracelets slide; Why not forget him now, bright maid?",
+          "Will as guide he went to win Yet I live-to see him again"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவர்வயின் விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1264, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என்னைப் பிரிந்து போனவர் மிகுந்த காதலுடன் என்னிடம் வருவதை எண்ணி, என் நெஞ்சு வருத்தத்தை விட்டுவிட்டு மகிழ்ச்சியில் கிளை பரப்பி மேலே வளர்கிறது. கலைஞர் உரை கூறுவது: காதல் வயப்பட்டுக் கூடியிருந்து பிரிந்து சென்றவர் எப்போது வருவார் என்று என் நெஞ்சம், மரத்தின் உச்சிக் கொம்பில் ஏறிப் பார்க்கின்றது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mutual Desire (Post-marital Love), Kural 1264 speaks directly to teens navigating studies, friendships, leadership, and digital choices: My heart is rid of its sorrow and swells with rapture to think of my absent lover returning with his love. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'அவர்வயின் விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Mutual Desire'.",
+        "quiz_question_ta": "'அவர்வயின் விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1264 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1264 from Chapter 'Mutual Desire'?",
+        "quiz_options_ta": [
+          "முன்பு கூடியிருந்த காதலைக் கைவிட்டுப் பிரிந்த அவருடைய வருகை‌யைநினைத்து என் நெஞ்சம் மரத்தின் கிளைகளின் மேலும் ஏறிப் பார்க்கின்றது.",
+          "நம்மால் இவர் வருந்தினார் என்று அந்த வருத்தத்தை அறிகின்ற காதலர் இல்லாதபோது, வருந்துவதால் பயன் என்ன?",
+          "ஒழுக்கத்தில் நிலைத்து நின்று பற்று விட்டவர்களின் பெருமையைச் சிறந்ததாக போற்றி கூறுவதே நூல்களின் துணிவாகும்.",
+          "தம்முடைய மக்களின் சிறு கைகளால் அளாவப்பெற்ற உணவு, பெற்றோர்க்கு அமிழ்தத்தை விட மிக்க இனிமை உடையதாகும்."
+        ],
+        "quiz_options_en": [
+          "My heart in rapture heaves to see His retun with love to embrace me",
+          "What's the good of grieving lament When concious lover is not present?",
+          "No merit can be held so high As theirs who sense and self deny",
+          "The food is more than nectar sweet In which one's children hands insert"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (அவர்வயின் விதும்பல்) பகுதியில் குறள் 1264 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முன்பு கூடியிருந்த காதலைக் கைவிட்டுப் பிரிந்த அவருடைய வருகை‌யைநினைத்து என் நெஞ்சம் மரத்தின் கிளைகளின் மேலும் ஏறிப் பார்க்கின்றது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) பிரிந்தார் கூடிய காமம் வரவு உள்ளி - நீங்கிய காமத்தராய் நம்மைப் பிரிந்து போயவர் மேற்கூறிய காமத்துடனே நம்கண் வருதலை நினைந்து; என் நெஞ்சு கோடு கொடு ஏறும் - என் நெஞ்சு வருத்தமொழிந்து மேன்மேற் பணைத் தெழாநின்றது. (வினைவயிற் பிரிவுழிக் காமஇன்பம...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 127: 'Mutual Desire'), Kural 1264 distills a foundational ethical insight: \"'He comes again, who left my side, and I shall taste love's joy,'-My heart with rapture swells, when thoughts like these my mind employ\" Philosophically, My heart is rid of its sorrow and swells with rapture to think of my absent lover returning with his love.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1265,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: என் காதலரைக் கண்ணாரக் காண்பேனாக; கண்ட பிறகு என்னுடைய மெல்லிய தோளில் உண்டாகிய பசலை நிறம் தானே நீங்கி விடும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: May I look on my lover till I am satisfied and thereafter will vanish the sallowness of my slender shoulders.",
+        "story_title_ta": "அவர்வயின் விதும்பல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Mutual Desire — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'அவர்வயின் விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1265 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1265 from 'Mutual Desire', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: கண்ணார என் கணவனைக் காண்பேனாக; கண்டபிறகே என் மெல்லிய தோளில் படர்ந்துள்ள பசலை நிறம் நீங்கும்.",
+        "moral_en": "Moral: O let me see my spouse again and sate these longing eyes!That instant from my wasted frame all pallor flies.",
+        "game_blank_word_ta": "மென்தோள்",
+        "game_options_ta": [
+          "வாளற்றுப்",
+          "மென்தோள்",
+          "புற்கென்ற",
+          "கண்ணும்"
+        ],
+        "game_options_en": [
+          "My eyes are dim lustre-bereft Worn fingers count days since he left",
+          "Let me but gaze and gaze my spouse sallow on my soft shoulders files",
+          "Beauty pales and my bracelets slide; Why not forget him now, bright maid?",
+          "Will as guide he went to win Yet I live-to see him again"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவர்வயின் விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1265, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் கண்கள் முழுக்க என் கணவரை நான் காண்பேனாகுக; அவரைக் கண்டபின் என் மெல்லிய தோளின் வாடிய நிறம் தானாக நீங்கும். கலைஞர் உரை கூறுவது: கண்ணார என் கணவனைக் காண்பேனாக; கண்டபிறகே என் மெல்லிய தோளில் படர்ந்துள்ள பசலை நிறம் நீங்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mutual Desire (Post-marital Love), Kural 1265 speaks directly to teens navigating studies, friendships, leadership, and digital choices: May I look on my lover till I am satisfied and thereafter will vanish the sallowness of my slender shoulders. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'அவர்வயின் விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Mutual Desire'.",
+        "quiz_question_ta": "'அவர்வயின் விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1265 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1265 from Chapter 'Mutual Desire'?",
+        "quiz_options_ta": [
+          "நீரும் நிழலை அடுத்திருப்பதே இனிமையானது; அதுபோல், ஊடலும் அன்பு செலுத்துவோரிடத்தில் கொள்வதே இன்பமானது.",
+          "என் காதலரைக் கண்ணாரக் காண்பேனாக; கண்ட பிறகு என்னுடைய மெல்லிய தோளில் உண்டாகிய பசலை நிறம் தானே நீங்கி விடும்.",
+          "பற்றுக்களைத் துறந்தவர்களின் பெருமையை அளந்து கூறுதல், உலகத்தில் இதுவரை பிறந்து இறந்தவர்களை கணக்கிடுவதைப்போன்றது.",
+          "மக்களின் உடம்பைத் தொடுதல் உடம்பிற்கு இன்பம் தருவதாகும்: அம் மக்களின் மழலைச் சொற்களைக் கேட்டால் செவிக்கு இன்பம் தருவதாகும்."
+        ],
+        "quiz_options_en": [
+          "Water delights in a shady grove And sulking in souls of psychic love",
+          "Let me but gaze and gaze my spouse sallow on my soft shoulders files",
+          "To con ascetic glory here Is to count the dead upon the sphere",
+          "Children's touch delights the body Sweet to ears are their words lovely"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (அவர்வயின் விதும்பல்) பகுதியில் குறள் 1265 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: என் காதலரைக் கண்ணாரக் காண்பேனாக; கண்ட பிறகு என்னுடைய மெல்லிய தோளில் உண்டாகிய பசலை நிறம் தானே நீங்கி விடும். பரிமேலழகர் உரை நுட்பம்: (தலைமகன் வரவு கூற ஆற்றாயாய்ப் பசக்கற்பாலையல்லை என்ற தோழிக்குச சொல்லியது.) கண் ஆரக் கொண்கனைக் காண்க - என் கண்கள் ஆரும் வகை என் கொண்கனை யான் காண்பேனாக; கண்ட பின் என் மென்தோள் பசப்பு நீங்கும் - அங்ஙனம் கண்டபின் என் மெல்லிய தோள்களின்கண் பசப்புத் தானே நீங்கும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 127: 'Mutual Desire'), Kural 1265 distills a foundational ethical insight: \"O let me see my spouse again and sate these longing eyes!That instant from my wasted frame all pallor flies\" Philosophically, May I look on my lover till I am satisfied and thereafter will vanish the sallowness of my slender shoulders.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "truth",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1266,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: என் காதலன் ஒருநாள் என்னிடம் வருவானாக; வந்த பிறகு, என்னுடைய துன்பநோய் எல்லொம் தீருமாறு நான் நன்றாக நுகர்வேன்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: May my husband return some day; and then will I enjoy (him) so as to destroy all this agonizing sorrow.",
+        "story_title_ta": "அவர்வயின் விதும்பல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Mutual Desire — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'அவர்வயின் விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1266 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1266 from 'Mutual Desire', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என்னை வாடவிட்டுப் பிரிந்துள்ள காதலன், ஒருநாள் வந்துதான் ஆகவேண்டும் வந்தால் என் துன்பம் முழுவதும் தீர்ந்திட அவனிடம் இன்பம் துய்ப்பேன்.",
+        "moral_en": "Moral: O let my spouse but come again to me one day!I'll drink that nectar: wasting grief shall flee away.",
+        "game_blank_word_ta": "வருகமன்",
+        "game_options_ta": [
+          "வாளற்றுப்",
+          "புற்கென்ற",
+          "வருகமன்",
+          "கண்ணும்"
+        ],
+        "game_options_en": [
+          "My eyes are dim lustre-bereft Worn fingers count days since he left",
+          "Beauty pales and my bracelets slide; Why not forget him now, bright maid?",
+          "Let my spouse return just a day Joy-drink shall drive my pain away",
+          "Will as guide he went to win Yet I live-to see him again"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவர்வயின் விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1266, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் காதலன் ஒருநாள் என்னிடம் வருவானாக; வந்த பிறகு, என்னுடைய துன்ப நோய் எல்லொம் தீருமாறு நான் நன்றாக நுகர்வேன். கலைஞர் உரை கூறுவது: என்னை வாடவிட்டுப் பிரிந்துள்ள காதலன், ஒருநாள் வந்துதான் ஆகவேண்டும் வந்தால் என் துன்பம் முழுவதும் தீர்ந்திட அவனிடம் இன்பம் துய்ப்பேன். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mutual Desire (Post-marital Love), Kural 1266 speaks directly to teens navigating studies, friendships, leadership, and digital choices: May my husband return some day; and then will I enjoy (him) so as to destroy all this agonizing sorrow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'அவர்வயின் விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Mutual Desire'.",
+        "quiz_question_ta": "'அவர்வயின் விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1266 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1266 from Chapter 'Mutual Desire'?",
+        "quiz_options_ta": [
+          "ஊடல் கொண்ட‌போது உணர்த்தி மகிழ்விக்காமல் வாட விடுகின்றவரோடு என் நெஞ்சம் கூடியிருப்போம் என்று முயல்வதற்குக் காரணம் அதன் ஆசையே.",
+          "பிறப்பு வீடு என்பன போல் இரண்டிரண்டாக உள்ளவைகளின் கூறுபாடுகளை ஆராய்ந்தறிந்து அறத்தை மேற்கொண்டவரின் பெருமையே உலகத்தில் உயர்ந்தது",
+          "என் காதலன் ஒருநாள் என்னிடம் வருவானாக; வந்த பிறகு, என்னுடைய துன்பநோய் எல்லொம் தீருமாறு நான் நன்றாக நுகர்வேன்.",
+          "தம் மக்களின் மழலைச் சொல்லைக் கேட்டு அதன் இனிமையை நுகராதவரே குழலின் இசை இனியது யாழின் இசை இனியது என்று கூறுவர்."
+        ],
+        "quiz_options_en": [
+          "My heart athirst would still unite With her who me in sulking left!",
+          "No lustre can with theirs compare Who know the right and virtue wear",
+          "Let my spouse return just a day Joy-drink shall drive my pain away",
+          "The flute and lute are sweet they say Deaf to baby's babble's lay!"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (அவர்வயின் விதும்பல்) பகுதியில் குறள் 1266 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: என் காதலன் ஒருநாள் என்னிடம் வருவானாக; வந்த பிறகு, என்னுடைய துன்பநோய் எல்லொம் தீருமாறு நான் நன்றாக நுகர்வேன். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) கொண்கன் ஒருநாள் வருக - இத்துணைநாளும் வாராக் கொண்கன் ஒருநாள் என்கண் வருவானாக; பைதல் நோயெல்லாம் கெடப் பருகுவன் - வந்தால் பையுளைச் செய்கின்ற இந்நோயெல்லாம் கெட அவ்வமிழ்தத்தை வாயில்கள் ஐந்தானும் பருகக் கடவேன். ('வருக' என்பதற்கும் 'மன்' என்பதற்கும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 127: 'Mutual Desire'), Kural 1266 distills a foundational ethical insight: \"O let my spouse but come again to me one day!I'll drink that nectar: wasting grief shall flee away\" Philosophically, May my husband return some day; and then will I enjoy (him) so as to destroy all this agonizing sorrow.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "speech",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 1267,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: என்னுடைய கண்போன்ற காதலர் வருவாரானால், யான் அவரோடு ஊடுவேனோ? அல்லது அவரைத் தழுவுவேனோ? அவரோடு கூடுவேனோ?",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: On the return of him who is as dear as my eyes, am I displeased or am I to embrace (him); or am I to do both?",
+        "story_title_ta": "அவர்வயின் விதும்பல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Mutual Desire — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'அவர்வயின் விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1267 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1267 from 'Mutual Desire', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: கண்ணின் மணியாம் என் காதலர் வந்தவுடன், பிரிந்திருந்த துயரின் காரணமாக அவருடன் ஊடல், கொள்வேனோ? அல்லது கட்டித் தழுவிக் கொள்வேனோ? அல்லது ஊடுதல் கூடுதல் ஆகிய இரண்டையும் இணைத்துச் செய்வேனோ? ஒன்றுமே புரியவில்லையே எனக்கு; அந்த இன்பத்தை நினைக்கும்போது.",
+        "moral_en": "Moral: Shall I draw back, or yield myself, or shall both mingled be, When he returns, my spouse, dear as these eyes to me.",
+        "game_blank_word_ta": "புலப்பேன்கொல்",
+        "game_options_ta": [
+          "வாளற்றுப்",
+          "புற்கென்ற",
+          "கண்ணும்",
+          "புலப்பேன்கொல்"
+        ],
+        "game_options_en": [
+          "My eyes are dim lustre-bereft Worn fingers count days since he left",
+          "Beauty pales and my bracelets slide; Why not forget him now, bright maid?",
+          "Will as guide he went to win Yet I live-to see him again",
+          "If my eye-like lord returneth Shall I sulk or clasp or do both?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவர்வயின் விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1267, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கண்போல் சிறந்த என் துணைவர் வந்தால் அவர் நெடுநாள் பிரிந்திருந்ததற்காக ஊடுவேனா? அவர் பிரிவைத் தாங்க முடியாமல் அவரைத் தழுவுவேனா? அல்லது இரண்டு செயல்களையும் கலந்து செய்வேனா? கலைஞர் உரை கூறுவது: கண்ணின் மணியாம் என் காதலர் வந்தவுடன், பிரிந்திருந்த துயரின் காரணமாக அவருடன் ஊடல், கொள்வேனோ? அல்லது கட்டித் தழுவிக் கொள்வேனோ? அல்லது ஊடுதல் கூடுதல் ஆகிய இரண்டையும் இணைத்துச் செய்வேனோ? ஒன்றுமே புரியவில்லையே எனக்கு; அந்த இன்பத்தை நினைக்கும்போது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mutual Desire (Post-marital Love), Kural 1267 speaks directly to teens navigating studies, friendships, leadership, and digital choices: On the return of him who is as dear as my eyes, am I displeased or am I to embrace (him); or am I to do both? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'அவர்வயின் விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Mutual Desire'.",
+        "quiz_question_ta": "'அவர்வயின் விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1267 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1267 from Chapter 'Mutual Desire'?",
+        "quiz_options_ta": [
+          "பரத்தமை உடையாய்! பெண் தன்மை உடையவர் எல்லாரும் தம்தம் கண்களால் ‌பொதுப் பொருளாகக் கொண்டு நுகர்கின்றார்கள்; ஆகையால் உன் மார்பைப் பொருந்தேன்.",
+          "அறிவு என்னும் கருவியினால் ஐம்பொறிகளாகிய யானைகளை அடக்கி காக்க வல்லவன், மேலான வீட்டிற்கு விதை போன்றவன்",
+          "தந்தை தன் மகனுக்குச் செய்யத்தக்க நல்லுதவி, கற்றவர் கூட்டத்தில் தன் மகன் முந்தியிருக்கும்படியாக அவனைக் கல்வியில் மேம்படச் செய்தலாகும்.",
+          "என்னுடைய கண்போன்ற காதலர் வருவாரானால், யான் அவரோடு ஊடுவேனோ? அல்லது அவரைத் தழுவுவேனோ? அவரோடு கூடுவேனோ?"
+        ],
+        "quiz_options_en": [
+          "I shrink to clasp you bosom lewd To the gaze of all ladies exposed",
+          "With hook of firmness to restrain The senses five, is heaven to gain",
+          "A father's duty to his son is To seat him in front of the wise",
+          "If my eye-like lord returneth Shall I sulk or clasp or do both?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (அவர்வயின் விதும்பல்) பகுதியில் குறள் 1267 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: என்னுடைய கண்போன்ற காதலர் வருவாரானால், யான் அவரோடு ஊடுவேனோ? அல்லது அவரைத் தழுவுவேனோ? அவரோடு கூடுவேனோ? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) கண் அன்ன கேளிர் வரின் - கண்போற்சிறந்த கேளிர் வருவராயின், புலப்பேன் கொல் - அவர் வரவு நீட்டித்தமை நோக்கி யான் புலக்கக்கடவேனோ; புல்லுவேன் கொல் - அன்றி என் ஆற்றாமை நோக்கிப் புல்லக்கடவேனோ; கலப்பேன்கொல் - அவ்விரண்டும் வேண்டுதலான் அவ்விரு செயல்களையும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 127: 'Mutual Desire'), Kural 1267 distills a foundational ethical insight: \"Shall I draw back, or yield myself, or shall both mingled be, When he returns, my spouse, dear as these eyes to me\" Philosophically, On the return of him who is as dear as my eyes, am I displeased or am I to embrace (him); or am I to do both?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "speech",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1268,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அரசன் இச் செயலில் முனைந்து நின்று வெற்றி பெறுவானாக; அதன்பின் யாம் மனைவியோடு கூடியிருந்து அனறு வரும் மாலைப் பொழுதிற்கு விருந்து செய்வோம்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Let the king fight and gain (victories); (but) let me be united to my wife and feast the evening.",
+        "story_title_ta": "அவர்வயின் விதும்பல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Mutual Desire — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'அவர்வயின் விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1268 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1268 from 'Mutual Desire', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: தலைவன், தான் மேற்கொண்டுள்ள செயலில் வெற்றி பெறுவானாக; அவன் வெண்றால் என் மனைவியுடன் எனக்கு மாலைப்பொழுதில் இன்ப விருந்துதான்.",
+        "moral_en": "Moral: O would my king would fight, o'ercome, devide the spoil; At home, to-night, the banquet spread should crown the toil.",
+        "game_blank_word_ta": "வேந்தன்",
+        "game_options_ta": [
+          "வேந்தன்",
+          "வாளற்றுப்",
+          "புற்கென்ற",
+          "கண்ணும்"
+        ],
+        "game_options_en": [
+          "May the king fight and win and give And with my wife I will feast this eve!",
+          "My eyes are dim lustre-bereft Worn fingers count days since he left",
+          "Beauty pales and my bracelets slide; Why not forget him now, bright maid?",
+          "Will as guide he went to win Yet I live-to see him again"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவர்வயின் விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1268, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அரசு போர் செய்து வெற்றி பெறட்டும்; நானும் மனைவியோடு கூடி மாலைப்பொழுதில் விருந்து உண்பேனாகுக. கலைஞர் உரை கூறுவது: தலைவன், தான் மேற்கொண்டுள்ள செயலில் வெற்றி பெறுவானாக; அவன் வெண்றால் என் மனைவியுடன் எனக்கு மாலைப்பொழுதில் இன்ப விருந்துதான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mutual Desire (Post-marital Love), Kural 1268 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let the king fight and gain (victories); (but) let me be united to my wife and feast the evening. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'அவர்வயின் விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Mutual Desire'.",
+        "quiz_question_ta": "'அவர்வயின் விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1268 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1268 from Chapter 'Mutual Desire'?",
+        "quiz_options_ta": [
+          "அரசன் இச் செயலில் முனைந்து நின்று வெற்றி பெறுவானாக; அதன்பின் யாம் மனைவியோடு கூடியிருந்து அனறு வரும் மாலைப் பொழுதிற்கு விருந்து செய்வோம்.",
+          "காதலரோடு ஊடல் கொண்டிருந்தோமாக, யாம் தம்மை நெடுங்காலம் வாழ்க என்று வாய் திறந்து சொல்லுவோம் என நினைத்து அவர் தும்மினார்.",
+          "ஐந்து புலன்களாலாகும் ஆசைகளை ஒழித்தவனுடைய வல்லமைக்கு, வானுலகத்தாரின் தலைவனாகிய இந்திரனே போதுமான சான்று ஆவான்",
+          "தம் மக்களின் அறிவுடைமை தமக்கு இன்பம் பயப்பதை விட உலகத்து உயிர்களுக்கேல்லாம் மிகுந்த இன்பம் பயப்பதாகும்."
+        ],
+        "quiz_options_en": [
+          "May the king fight and win and give And with my wife I will feast this eve!",
+          "He sneezed while we went on sulking Expecting me to say \\\"live long\\\"",
+          "Indra himself has cause to say How great the power ascetics' sway",
+          "With joy the hearts of parents swell To see their children themselves excel"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (அவர்வயின் விதும்பல்) பகுதியில் குறள் 1268 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அரசன் இச் செயலில் முனைந்து நின்று வெற்றி பெறுவானாக; அதன்பின் யாம் மனைவியோடு கூடியிருந்து அனறு வரும் மாலைப் பொழுதிற்கு விருந்து செய்வோம். பரிமேலழகர் உரை நுட்பம்: (வேந்தற்கு உற்றுழிப் பிரிந்த தலைமகன் வினை முடிவு நீட்டித்துழித் தலைமகளை நினைந்து தன்னுள்ளே சொல்லியது.) வேந்தன் வினை கலந்து வென்று ஈக - வேந்தன் வினைசெய்தலைப் புரிந்து வெல்வானாக; மனை கலந்து மாலை விருந்து அயர்கம் - யாமும் மனைவியைச் சென்று கூடி ஆண்டை...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 127: 'Mutual Desire'), Kural 1268 distills a foundational ethical insight: \"O would my king would fight, o'ercome, devide the spoil; At home, to-night, the banquet spread should crown the toil\" Philosophically, Let the king fight and gain (victories); (but) let me be united to my wife and feast the evening.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "family",
+        "leadership",
+        "self-mastery",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1269,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தொலைவில் உள்ள வெளிநாட்டிற்குச் சென்ற காதலர் திரும்பி வரும் நாளை நினைத்து ஏங்கும் மகளிர்க்கு ஒருநாள் ஏழுநாள் போல ( நெடிதாக) கழியும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: To those who suffer waiting for the day of return of their distant lovers one day is as long as seven days.",
+        "story_title_ta": "அவர்வயின் விதும்பல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Mutual Desire — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'அவர்வயின் விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1269 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1269 from 'Mutual Desire', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நெடுந்தொலைவு சென்ற காதலர் திரும்பி வரும் நாளை எதிர்பார்த்து ஏங்குபவர்க்கு ஒவ்வொரு நாளும் ஒவ்வொரு யுகமாகத் தோன்றும்.",
+        "moral_en": "Moral: One day will seem like seven to those who watch and yearnFor that glad day when wanderers from afar return.",
+        "game_blank_word_ta": "செல்லும்சேண்",
+        "game_options_ta": [
+          "வாளற்றுப்",
+          "செல்லும்சேண்",
+          "புற்கென்ற",
+          "கண்ணும்"
+        ],
+        "game_options_en": [
+          "My eyes are dim lustre-bereft Worn fingers count days since he left",
+          "One day seems as seven to those Who yearn return of distant spouse",
+          "Beauty pales and my bracelets slide; Why not forget him now, bright maid?",
+          "Will as guide he went to win Yet I live-to see him again"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவர்வயின் விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1269, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தொலைதூரம் சென்று தன் கணவன் வரும் நாளை எண்ணி வருந்தும் பெண்களுக்கு ஒருநாள் பலநாள் போல நெடிதாகத் தோன்றும். கலைஞர் உரை கூறுவது: நெடுந்தொலைவு சென்ற காதலர் திரும்பி வரும் நாளை எதிர்பார்த்து ஏங்குபவர்க்கு ஒவ்வொரு நாளும் ஒவ்வொரு யுகமாகத் தோன்றும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mutual Desire (Post-marital Love), Kural 1269 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To those who suffer waiting for the day of return of their distant lovers one day is as long as seven days. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'அவர்வயின் விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Mutual Desire'.",
+        "quiz_question_ta": "'அவர்வயின் விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1269 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1269 from Chapter 'Mutual Desire'?",
+        "quiz_options_ta": [
+          "கிளைகளில் மலர்ந்த மலர்களைச் சூடினாலும், நீர் இந்த அழகை யாரோ ஒருத்திக்கு காட்டுவதற்காகச் சூடினீர் என்று சினம் கொள்வாள்.",
+          "தொலைவில் உள்ள வெளிநாட்டிற்குச் சென்ற காதலர் திரும்பி வரும் நாளை நினைத்து ஏங்கும் மகளிர்க்கு ஒருநாள் ஏழுநாள் போல ( நெடிதாக) கழியும்.",
+          "செய்வதற்கு அருமையான செயல்களை செய்ய வல்லவரே பெரியோர். செய்வதற்கு அரிய செயல்களைச் செய்யமாட்டாதவர் சிறியோர்.",
+          "தன் மகனை நற்பண்பு நிறைந்தவன் என பிறர் சொல்லக் கேள்வியுற்ற தாய், தான் அவனை பெற்றக் காலத்தில் உற்ற மகிழ்ச்சியை விடப் பெரிதும் மகிழ்வாள்."
+        ],
+        "quiz_options_en": [
+          "\\\"For which lady?\\\" she widely cries While I adorn myself with flowers",
+          "One day seems as seven to those Who yearn return of distant spouse",
+          "The small the paths of ease pursue The great achieve things rare to do",
+          "The mother, hearing her son's merit Delights more than when she begot"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (அவர்வயின் விதும்பல்) பகுதியில் குறள் 1269 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தொலைவில் உள்ள வெளிநாட்டிற்குச் சென்ற காதலர் திரும்பி வரும் நாளை நினைத்து ஏங்கும் மகளிர்க்கு ஒருநாள் ஏழுநாள் போல ( நெடிதாக) கழியும். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) சேண் சென்றார் வருநாள் வைத்து ஏங்குபவர்க்கு - சேணிடைச் சென்ற தம் காதலர் மீண்டுவரக் குறித்தநாளை உட்கொண்டு, அது வரும் துணையும் உயிர்தாங்கி வருந்தும் மகளிர்க்கு; ஒரு நாள் எழுநாள் போல் செல்லும் - ஒரு நாள் பல நாள் போல நெடியதாகக் காட்டும். ('ஏழ...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 127: 'Mutual Desire'), Kural 1269 distills a foundational ethical insight: \"One day will seem like seven to those who watch and yearnFor that glad day when wanderers from afar return\" Philosophically, To those who suffer waiting for the day of return of their distant lovers one day is as long as seven days.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "self-mastery",
+        "love",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1270,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: துன்பத்தைத் தாங்காமல் மனம் உடைந்து அழிந்து விட்டால், நம்மைத் திரும்பப்‌ பெறுவதனால் என்ன? பெற்றக்கால் என்ன? பெற்றுப் பொருந்தினாலும் என்ன?",
+        "simple_meaning_en": "Dear child, remember this golden lesson: After (my wife) has died of a broken heart, what good will there be if she is to receive me, has received me, or has even embraced me?",
+        "story_title_ta": "அவர்வயின் விதும்பல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Mutual Desire — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'அவர்வயின் விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1270 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1270 from 'Mutual Desire', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: துன்பத்தைத் தாங்கிக் கொள்ள முடியாமல் மனம் நிலையிழந்து போயிவிடுமானால், பிறகு ஒருவரையொருவர் திரும்பச் சந்திப்பதனாலோ, சந்தித்துக் கூடவதினாலோ, என்ன பயன்?",
+        "moral_en": "Moral: What's my return, the meeting hour, the wished-for greeting worth, If she heart-broken lie, with all her life poured forth.",
+        "game_blank_word_ta": "உள்ளம்",
+        "game_options_ta": [
+          "வாளற்றுப்",
+          "புற்கென்ற",
+          "உள்ளம்",
+          "கண்ணும்"
+        ],
+        "game_options_en": [
+          "My eyes are dim lustre-bereft Worn fingers count days since he left",
+          "Beauty pales and my bracelets slide; Why not forget him now, bright maid?",
+          "When her heart is broken, what is The good of meeting and love-embrace?",
+          "Will as guide he went to win Yet I live-to see him again"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அவர்வயின் விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1270, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் பிரிவைத் தாங்காமல் உள்ளம் உடைய, அவளுக்கு ஒன்று ஆகிவிட்டால் அதன் பிறகு அவள் என்னைப் பெறுவதால் ஆவது என்ன? பெற்றால்தான் என்ன? உடம்போடு கலந்தால்தான் என்ன? ஒரு பயனும் இல்லை. கலைஞர் உரை கூறுவது: துன்பத்தைத் தாங்கிக் கொள்ள முடியாமல் மனம் நிலையிழந்து போயிவிடுமானால், பிறகு ஒருவரையொருவர் திரும்பச் சந்திப்பதனாலோ, சந்தித்துக் கூடவதினாலோ, என்ன பயன்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Mutual Desire (Post-marital Love), Kural 1270 speaks directly to teens navigating studies, friendships, leadership, and digital choices: After (my wife) has died of a broken heart, what good will there be if she is to receive me, has received me, or has even embraced me? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'அவர்வயின் விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Mutual Desire'.",
+        "quiz_question_ta": "'அவர்வயின் விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1270 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1270 from Chapter 'Mutual Desire'?",
+        "quiz_options_ta": [
+          "யாரையும் விட நாம் மிக்க காதல் கொண்டிருக்கிறோம் என்று சொன்னேனாக; ய‌ாரை விட...? யாரை விட..? என்று கேட்டு ஊடல் கொண்டாள்.",
+          "சுவை, ஒளி, ஊறு, ஓசை, நாற்றம் என்று சொல்லப்படும் ஐந்தின் வகைகளையும் ஆராய்ந்து அறிய வல்லவனுடைய அறிவில் உள்ளது உலகம்.",
+          "துன்பத்தைத் தாங்காமல் மனம் உடைந்து அழிந்து விட்டால், நம்மைத் திரும்பப்‌ பெறுவதனால் என்ன? பெற்றக்கால் என்ன? பெற்றுப் பொருந்தினாலும் என்ன?",
+          "மகன் தன் தந்தைக்குச் செய்யத் தக்க கைம்மாறு, இவன் தந்தை இவனை மகனாகப் பெற என்ன தவம் செய்தானோ என்று பிறர் புகழ்ந்து சொல்லும் சொல்லாகும்."
+        ],
+        "quiz_options_en": [
+          "\\\"I love you more than all\\\" I said \\\"Than whom, than whom?\\\" she sulked and chid",
+          "They gain the world, who grasp and tell Of taste, sight, hearing, touch and smell",
+          "When her heart is broken, what is The good of meeting and love-embrace?",
+          "The son to sire this word is debt \\\"What penance such a son begot!\\\""
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (அவர்வயின் விதும்பல்) பகுதியில் குறள் 1270 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: துன்பத்தைத் தாங்காமல் மனம் உடைந்து அழிந்து விட்டால், நம்மைத் திரும்பப்‌ பெறுவதனால் என்ன? பெற்றக்கால் என்ன? பெற்றுப் பொருந்தினாலும் என்ன? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) உள்ளம் உடைந்து உக்கக்கால் - காதலி நம் பிரிவினையாற்றாது உள்ளம் உடைந்து இறந்துபட்டவழி; பெறின் என் - நம்மைப் பெறக்கடவளானால் என்? பெற்றக்கால் என் - அதுவன்றியே பெற்றால் என்? உறின் என்? - அதுவன்றியே மெய்யுறக் கலந்தால்தான் என்? இவையொன்றானும் பயன...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 127: 'Mutual Desire'), Kural 1270 distills a foundational ethical insight: \"What's my return, the meeting hour, the wished-for greeting worth, If she heart-broken lie, with all her life poured forth\" Philosophically, After (my wife) has died of a broken heart, what good will there be if she is to receive me, has received me, or has even embraced me?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "wealth",
+        "time"
+      ]
+    }
+  ]
+}

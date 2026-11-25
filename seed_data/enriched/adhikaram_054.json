@@ -1,0 +1,583 @@
+{
+  "adhikaram_id": 54,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.941467397+00:00",
+  "kurals": [
+    {
+      "kural_number": 531,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பெரிய உவகையால் மகிழ்ந்திருக்கும் போது மறதியால் வரும் சோர்வு, ஒருவனுக்கு வரம்பு கடந்த சினம் வருவதைவிடத் தீமையானதாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: More evil than excessive anger, is forgetfulness which springs from the intoxication of great joy.",
+        "story_title_ta": "பொச்சாவாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Unforgetfulness — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொச்சாவாமை' என்ற அதிகாரத்திலிருந்து குறள் 531 பற்றிக் கதை சொன்னார். 'மிகுந்த மகிழ்ச்சிப் பெருக்கால் வரும் மறதி, அளவு கடந்த கோபத்தைக் காட்டிலும் கொடுமையானது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 54, 'Unforgetfulness', centered on Kural 531: More evil than excessive anger, is forgetfulness which springs from the intoxication of great joy. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அகமகிழ்ச்சியினால் ஏற்படும் மறதி, அடங்காத சினத்தினால் ஏற்படும் விளைவை விடத் தீமையானது.",
+        "moral_en": "Moral: 'Tis greater ill, it rapture of o'erweening gladness to the soulBring self-forgetfulness than if transcendent wrath control.",
+        "game_blank_word_ta": "உவகை",
+        "game_options_ta": [
+          "பொச்சாப்புக்",
+          "கொல்லும்",
+          "புகழை",
+          "உவகை"
+        ],
+        "game_options_en": [
+          "Negligence kills renown just as Ceaseless want wisdom destroys",
+          "Forgetful nature fails of fame All schools of thinkers say the same",
+          "The fearful find no fortress here The forgetful find good never",
+          "Worse than wrath in excess is Forgetfulness in joy-excess"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொச்சாவாமை (அரசியல்) பிரிவில் அமைந்த குறள் 531, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மிகுந்த மகிழ்ச்சிப் பெருக்கால் வரும் மறதி, அளவு கடந்த கோபத்தைக் காட்டிலும் கொடுமையானது. கலைஞர் உரை கூறுவது: அகமகிழ்ச்சியினால் ஏற்படும் மறதி, அடங்காத சினத்தினால் ஏற்படும் விளைவை விடத் தீமையானது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Unforgetfulness (Royalty & Polity), Kural 531 speaks directly to teens navigating studies, friendships, leadership, and digital choices: More evil than excessive anger, is forgetfulness which springs from the intoxication of great joy. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொச்சாவாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Unforgetfulness' thoughtfully.",
+        "quiz_question_ta": "'பொச்சாவாமை' அதிகாரத்தில் வரும் திருக்குறள் 531 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 531 from Chapter 'Unforgetfulness'?",
+        "quiz_options_ta": [
+          "ஒருவனுடைய கண்ணுக்கு அணிகலமாவது கண்ணோட்டம் என்னும் பண்பே, அஃது இல்லையானால் புண் என்று உணரப்படும்.",
+          "நன்மை விளைவிக்கும் ஊழ் இல்லாதிருத்தல் யார்க்கும் பழி அன்று, அறிய வேண்டியவற்றை அறிந்து முயற்சி செய்யாதிருத்தலே பழி.",
+          "ஒரு தொழிலின் திட்பம் என்று சொல்லப்படுவது ஒருவனுடைய மனதின் திட்பமே (உறுதியே) ஆகும், மற்றவை எல்லாம் வேறானவை.",
+          "பெரிய உவகையால் மகிழ்ந்திருக்கும் போது மறதியால் வரும் சோர்வு, ஒருவனுக்கு வரம்பு கடந்த சினம் வருவதைவிடத் தீமையானதாகும்."
+        ],
+        "quiz_options_en": [
+          "Kind looks are jewels for eyes to wear Without them they are felt as sore",
+          "Misfortune is disgrace to none The shame is nothing learnt or done",
+          "A powerful mind does powerful act And all the rest are imperfect",
+          "Worse than wrath in excess is Forgetfulness in joy-excess"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பொச்சாவாமை) பகுதியில் குறள் 531 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பெரிய உவகையால் மகிழ்ந்திருக்கும் போது மறதியால் வரும் சோர்வு, ஒருவனுக்கு வரம்பு கடந்த சினம் வருவதைவிடத் தீமையானதாகும். பரிமேலழகர் உரை நுட்பம்: சிறந்த உவகை மகிழ்ச்சியின் சோர்வு - மிக்க உவகைக் களிப்பான் வரும் மறவி, இறந்த வெகுளியின் தீது - அரசனுக்கு அளவிறந்த வெகுளியினும் தீது. (மிக்க உவகை பெருஞ்செல்வம், பேரின்பம், பெருமிதம் என்று இவற்றான் வருவது. அளவு, பகைவரை அடர்த்தற்கும் கொடியோரை ஒறுத்தற்கும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 54: 'Unforgetfulness'), Kural 531 distills a foundational ethical insight: \"'Tis greater ill, it rapture of o'erweening gladness to the soulBring self-forgetfulness than if transcendent wrath control\" Philosophically, More evil than excessive anger, is forgetfulness which springs from the intoxication of great joy.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "self-mastery",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 532,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நாள் தோறும் விடாமல் வரும் வறுமை அறிவைக் கொல்வது போல, ஒருவனுடைய புகழை அவனுடைய மறதிக் கொன்று விடும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Forgetfulness will destroy fame, even as constant poverty destroys knowledge.",
+        "story_title_ta": "பொச்சாவாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Unforgetfulness — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொச்சாவாமை' என்ற அதிகாரத்திலிருந்து குறள் 532 பற்றிக் கதை சொன்னார். 'நித்த வறுமை அறிவைக் கொன்றுவிடுவது போல, மறதி புகழைக் கெடுத்துவிடும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 54, 'Unforgetfulness', centered on Kural 532: Forgetfulness will destroy fame, even as constant poverty destroys knowledge. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நாளும் தொடர்ந்து வாட்டுகின்ற வறுமை, அறிவை அழிப்பது போல மறதி, புகழை அழித்து விடும்.",
+        "moral_en": "Moral: Perpetual, poverty is death to wisdom of the wise; When man forgets himself his glory dies.",
+        "game_blank_word_ta": "பொச்சாப்புக்",
+        "game_options_ta": [
+          "பொச்சாப்புக்",
+          "இறந்த",
+          "வெகுளியின்",
+          "சிறந்த"
+        ],
+        "game_options_en": [
+          "Negligence kills renown just as Ceaseless want wisdom destroys",
+          "Worse than wrath in excess is Forgetfulness in joy-excess",
+          "Forgetful nature fails of fame All schools of thinkers say the same",
+          "The fearful find no fortress here The forgetful find good never"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொச்சாவாமை (அரசியல்) பிரிவில் அமைந்த குறள் 532, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நித்த வறுமை அறிவைக் கொன்றுவிடுவது போல, மறதி புகழைக் கெடுத்துவிடும். கலைஞர் உரை கூறுவது: நாளும் தொடர்ந்து வாட்டுகின்ற வறுமை, அறிவை அழிப்பது போல மறதி, புகழை அழித்து விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Unforgetfulness (Royalty & Polity), Kural 532 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Forgetfulness will destroy fame, even as constant poverty destroys knowledge. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொச்சாவாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Unforgetfulness' thoughtfully.",
+        "quiz_question_ta": "'பொச்சாவாமை' அதிகாரத்தில் வரும் திருக்குறள் 532 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 532 from Chapter 'Unforgetfulness'?",
+        "quiz_options_ta": [
+          "நாள் தோறும் விடாமல் வரும் வறுமை அறிவைக் கொல்வது போல, ஒருவனுடைய புகழை அவனுடைய மறதிக் கொன்று விடும்.",
+          "கண்ணோட்டதிற்க்கு உரிய கண்ணோடுப் பொருந்தி இருந்தும் கண்ணோட்டம் இல்லாதவர் (கண் இருந்தும் காணாத ) மரத்தினைப் போன்றவர்.",
+          "ஊழியின் காரணத்தால் ஒரு செயல் செய்ய முடியாமல் போகுமாயினும், முயற்சி தன் உடம்பு வருந்திய வருத்தத்தின் கூலியையாவது கொடுக்கும்.",
+          "இடையூறு வருவதற்கு முன்பே நீக்குதல், வந்த பின் தளராமை ஆகிய இந்த இரண்டினது வழியே வினைத்திட்பம் பற்றி ஆராய்ந்தவரின் கொள்கையாம்."
+        ],
+        "quiz_options_en": [
+          "Negligence kills renown just as Ceaseless want wisdom destroys",
+          "Like trees on inert earth they grow Who don't eye to eye kindness show",
+          "Though fate is against fulfilment Hard labour has ready payment",
+          "Shun failing fuss; fail not purpose These two are maxims of the wise"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பொச்சாவாமை) பகுதியில் குறள் 532 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நாள் தோறும் விடாமல் வரும் வறுமை அறிவைக் கொல்வது போல, ஒருவனுடைய புகழை அவனுடைய மறதிக் கொன்று விடும். பரிமேலழகர் உரை நுட்பம்: புகழைப் பொச்சாப்புக் கொல்லும் - ஒருவன் புகழினை அவன் மறவி கெடுக்கும், அறிவினை நிச்சநிரப்புக் கொன்றாங்கு - அறிவினை நிச்சம் நிரப்புக் கெடுக்குமாறு போல. (நிச்ச நிரப்பு: நாள்தோறும் இரவான் வருந்தித் தன் வயிறு நிறைத்தல். அஃது அறிவு உடையான் கண் உண்டாயின் அவற்கு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 54: 'Unforgetfulness'), Kural 532 distills a foundational ethical insight: \"Perpetual, poverty is death to wisdom of the wise; When man forgets himself his glory dies\" Philosophically, Forgetfulness will destroy fame, even as constant poverty destroys knowledge.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "justice",
+        "speech",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 533,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மறதியால் சோர்ந்து நடப்பவர்க்குப் புகழுடன் வாழும் தன்மையில்லை, அஃது உலகத்தில் எப்படிப்பட்டநூலோர்க்கும் ஒப்ப முடிந்த முடிப்பாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Thoughtlessness will never acquire fame; and this tenet is upheld by all treatises in the world.",
+        "story_title_ta": "பொச்சாவாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Unforgetfulness — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொச்சாவாமை' என்ற அதிகாரத்திலிருந்து குறள் 533 பற்றிக் கதை சொன்னார். 'மறதியை உடையவர்க்குப் புகழ் உடைமை இல்லை; இது இவ்வுலகத்தில் எந்தத் துறை நுகர்வோர்க்கும் முடிவான கருத்தாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 54, 'Unforgetfulness', centered on Kural 533: Thoughtlessness will never acquire fame; and this tenet is upheld by all treatises in the world. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மறதி உடையவர்களுக்கு, மங்காப் புகழ் இல்லை என்பதே அனைத்தும் கற்றுணர்ந்த அறிஞர்களின் முடிவான கருத்தாகும்.",
+        "moral_en": "Moral: 'To self-oblivious men no praise'; this ruleDecisive wisdom sums of every school.",
+        "game_blank_word_ta": "கில்லை",
+        "game_options_ta": [
+          "இறந்த",
+          "கில்லை",
+          "வெகுளியின்",
+          "சிறந்த"
+        ],
+        "game_options_en": [
+          "Worse than wrath in excess is Forgetfulness in joy-excess",
+          "Forgetful nature fails of fame All schools of thinkers say the same",
+          "Negligence kills renown just as Ceaseless want wisdom destroys",
+          "The fearful find no fortress here The forgetful find good never"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொச்சாவாமை (அரசியல்) பிரிவில் அமைந்த குறள் 533, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மறதியை உடையவர்க்குப் புகழ் உடைமை இல்லை; இது இவ்வுலகத்தில் எந்தத் துறை நுகர்வோர்க்கும் முடிவான கருத்தாகும். கலைஞர் உரை கூறுவது: மறதி உடையவர்களுக்கு, மங்காப் புகழ் இல்லை என்பதே அனைத்தும் கற்றுணர்ந்த அறிஞர்களின் முடிவான கருத்தாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Unforgetfulness (Royalty & Polity), Kural 533 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Thoughtlessness will never acquire fame; and this tenet is upheld by all treatises in the world. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொச்சாவாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Unforgetfulness' thoughtfully.",
+        "quiz_question_ta": "'பொச்சாவாமை' அதிகாரத்தில் வரும் திருக்குறள் 533 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 533 from Chapter 'Unforgetfulness'?",
+        "quiz_options_ta": [
+          "கண்ணோட்டம் இல்லாத மக்கள் கண் இல்லாதவரே ஆவர், கண் உடைய மக்கள் கண்ணோட்டம் இல்லா திருத்தலும் இல்லை.",
+          "மறதியால் சோர்ந்து நடப்பவர்க்குப் புகழுடன் வாழும் தன்மையில்லை, அஃது உலகத்தில் எப்படிப்பட்டநூலோர்க்கும் ஒப்ப முடிந்த முடிப்பாகும்.",
+          "சோர்வு இல்லாமல் முயற்சியில் குறைவு இல்லாமல் முயல்கின்றவர்,(செயலுக்கு இடையூறாக வரும்)ஊழையும் ஒரு காலத்தில் தோல்வியுறச் செய்யும்.",
+          "செய்யும் செயலை முடிவில் வெளிப்படும் படியாக செய்யும் தகுதியே ஆண்மையாகும், இடையில் வெளிபட்டால் நீங்காத துன்பத்தைக் கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "Ungracious men lack real eyes Men of real eyes show benign grace",
+          "Forgetful nature fails of fame All schools of thinkers say the same",
+          "Tireless Toiler's striving hand Shall leave even the fate behind",
+          "The strong achieve and then display Woe unto work displayed midway"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பொச்சாவாமை) பகுதியில் குறள் 533 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மறதியால் சோர்ந்து நடப்பவர்க்குப் புகழுடன் வாழும் தன்மையில்லை, அஃது உலகத்தில் எப்படிப்பட்டநூலோர்க்கும் ஒப்ப முடிந்த முடிப்பாகும். பரிமேலழகர் உரை நுட்பம்: பொச்சாப்பார்க்குப் புகழ்மை இல்லை - பொச்சாந்து ஒழுகுவார்க்குப் புகழுடைமை இல்லை, அது உலகத்து எப்பால் நூலோர்க்கும் துணிவு - அவ்வின்மை இந்நீதி நூலுடையார்க்கேயன்றி உலகத்து எவ்வகைப்பட்ட நூல் உடையார்க்கும் ஒப்ப முடிந்தது. (அரசர்க்கேயன்றி அறம் முதலியன நான்கினும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 54: 'Unforgetfulness'), Kural 533 distills a foundational ethical insight: \"'To self-oblivious men no praise'; this ruleDecisive wisdom sums of every school\" Philosophically, Thoughtlessness will never acquire fame; and this tenet is upheld by all treatises in the world.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "harmony",
+        "wisdom",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 534,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: உள்ளத்தில் அச்சம் உடையவர்க்குப் புறத்திலே அரண் இருந்து பயன் இல்லை, அதுபோல் மறதி உடையவர்க்கு நல்ல நிலை வாய்த்தும் பயன் இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Just as the coward has no defence (by whatever fortifications ha may be surrounded), so the thoughtless has no good (whatever advantages he may possess).",
+        "story_title_ta": "பொச்சாவாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Unforgetfulness — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொச்சாவாமை' என்ற அதிகாரத்திலிருந்து குறள் 534 பற்றிக் கதை சொன்னார். 'மனத்துள் பயம் உள்ளவர்க்கு எத்தகைய பாதுகாப்பாலும் பயன் இல்லை. அதுபோலவே மறதி உடையவர்க்கும் பாதுகாப்பால் பயன் இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 54, 'Unforgetfulness', centered on Kural 534: Just as the coward has no defence (by whatever fortifications ha may be surrounded), so the thoughtless has no good (whatever advantages he may possess). Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பயத்தினால் நடுங்குகிறவர்களுக்குத் தம்மைச் சுற்றிப் பாதுகாப்புக்கான அரண் கட்டப்பட்டிருந்தாலும் எந்தப் பயனுமில்லை அதைப் போலவே என்னதான் உயர்ந்த நிலையில் இருந்தாலும் மறதி உடையவர்களுக்கு அந்த நிலையினால் எந்தப் பயனுமில்லை.",
+        "moral_en": "Moral: 'To cowards is no fort's defence'; e'en soThe self-oblivious men no blessing know.",
+        "game_blank_word_ta": "அரணில்லை",
+        "game_options_ta": [
+          "இறந்த",
+          "வெகுளியின்",
+          "அரணில்லை",
+          "சிறந்த"
+        ],
+        "game_options_en": [
+          "Worse than wrath in excess is Forgetfulness in joy-excess",
+          "Negligence kills renown just as Ceaseless want wisdom destroys",
+          "The fearful find no fortress here The forgetful find good never",
+          "Forgetful nature fails of fame All schools of thinkers say the same"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொச்சாவாமை (அரசியல்) பிரிவில் அமைந்த குறள் 534, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனத்துள் பயம் உள்ளவர்க்கு எத்தகைய பாதுகாப்பாலும் பயன் இல்லை. அதுபோலவே மறதி உடையவர்க்கும் பாதுகாப்பால் பயன் இல்லை. கலைஞர் உரை கூறுவது: பயத்தினால் நடுங்குகிறவர்களுக்குத் தம்மைச் சுற்றிப் பாதுகாப்புக்கான அரண் கட்டப்பட்டிருந்தாலும் எந்தப் பயனுமில்லை அதைப் போலவே என்னதான் உயர்ந்த நிலையில் இருந்தாலும் மறதி உடையவர்களுக்கு அந்த நிலையினால் எந்தப் பயனுமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Unforgetfulness (Royalty & Polity), Kural 534 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Just as the coward has no defence (by whatever fortifications ha may be surrounded), so the thoughtless has no good (whatever advantages he may possess). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொச்சாவாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Unforgetfulness' thoughtfully.",
+        "quiz_question_ta": "'பொச்சாவாமை' அதிகாரத்தில் வரும் திருக்குறள் 534 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 534 from Chapter 'Unforgetfulness'?",
+        "quiz_options_ta": [
+          "தம் தம் கடமையாகிய தொழில் கெடாமல் கண்ணோட்டம் உடையவராக இருக்க வல்லவர்க்கு இவ்வுலகம் உரிமை உடையது.",
+          "துன்பம் வரும்போது (அதற்காக கலங்காமல்) நகுதல் வேண்டும், அத் துன்பத்தை எதிர்த்து வெல்லவல்லது அதைப் போன்றது வேறு இல்லை.",
+          "உள்ளத்தில் அச்சம் உடையவர்க்குப் புறத்திலே அரண் இருந்து பயன் இல்லை, அதுபோல் மறதி உடையவர்க்கு நல்ல நிலை வாய்த்தும் பயன் இல்லை.",
+          "இச் செயலை இவ்வாறு செய்து முடிக்கலாம் என்று சொல்லுதல் எவர்க்கும் எளியனவாம், சொல்லிய படி செய்து முடித்தல் அரியனவாம்."
+        ],
+        "quiz_options_en": [
+          "Who gracious are but dutiful Have right for this earth beautiful",
+          "Laugh away troubles; there is No other way to conquer woes",
+          "The fearful find no fortress here The forgetful find good never",
+          "Easy it is to tell a fact But hard it is to know and act"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பொச்சாவாமை) பகுதியில் குறள் 534 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உள்ளத்தில் அச்சம் உடையவர்க்குப் புறத்திலே அரண் இருந்து பயன் இல்லை, அதுபோல் மறதி உடையவர்க்கு நல்ல நிலை வாய்த்தும் பயன் இல்லை. பரிமேலழகர் உரை நுட்பம்: அரண் அச்சம் உடையார்க்கு இல்லை - காடு மலை முதலிய அரண்களுள்ளே நிற்பினும், மனத்தின்கண் அச்சமுடையார்க்கு அவற்றால் பயன் இல்லை, ஆங்கு நன்கு பொச்சாப்பு உடையார்க்கு இல்லை - அதுபோலச் செல்வமெல்லாம் உடையராயினும், மனத்தின்கண் மறவியை உடையார்க்கு அவற்றால் பயன் இல்லை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 54: 'Unforgetfulness'), Kural 534 distills a foundational ethical insight: \"'To cowards is no fort's defence'; e'en soThe self-oblivious men no blessing know\" Philosophically, Just as the coward has no defence (by whatever fortifications ha may be surrounded), so the thoughtless has no good (whatever advantages he may possess).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "wealth",
+        "ethics",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 535,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: வரும் இடையூறுகளை முன்னே அறிந்துக் காக்காமல் மறந்து சோர்ந்தவன், பின்பு அவை வந்துற்றபோது தன் பிழையை நினைத்து இரங்குவான்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The thoughtless man, who provides not against the calamities that may happen, will afterwards repent for his fault.",
+        "story_title_ta": "பொச்சாவாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Unforgetfulness — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொச்சாவாமை' என்ற அதிகாரத்திலிருந்து குறள் 535 பற்றிக் கதை சொன்னார். 'துன்பங்கள் வரும் முன்பே அவற்றைத் தடுக்காமல் மறந்திருந்தவன், பின் அவை வந்தபோது தடுக்க முடியாமல் தன் பிழையை எண்ணி வருந்துவான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 54, 'Unforgetfulness', centered on Kural 535: The thoughtless man, who provides not against the calamities that may happen, will afterwards repent for his fault. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: முன்கூட்டியே சிந்தித்துத் தன்னைக் காத்துக் கொள்ளத் தவறியவன், துன்பம் வந்தபிறகு தன் பிழையை எண்ணிக் கவலைப்பட நேரிடும்.",
+        "moral_en": "Moral: To him who nought foresees, recks not of anything, The after woe shall sure repentance bring.",
+        "game_blank_word_ta": "தன்பிழை",
+        "game_options_ta": [
+          "இறந்த",
+          "வெகுளியின்",
+          "சிறந்த",
+          "தன்பிழை"
+        ],
+        "game_options_en": [
+          "Worse than wrath in excess is Forgetfulness in joy-excess",
+          "Negligence kills renown just as Ceaseless want wisdom destroys",
+          "Forgetful nature fails of fame All schools of thinkers say the same",
+          "Failing foresight the guardless man Shall rue his folly later on"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொச்சாவாமை (அரசியல்) பிரிவில் அமைந்த குறள் 535, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: துன்பங்கள் வரும் முன்பே அவற்றைத் தடுக்காமல் மறந்திருந்தவன், பின் அவை வந்தபோது தடுக்க முடியாமல் தன் பிழையை எண்ணி வருந்துவான். கலைஞர் உரை கூறுவது: முன்கூட்டியே சிந்தித்துத் தன்னைக் காத்துக் கொள்ளத் தவறியவன், துன்பம் வந்தபிறகு தன் பிழையை எண்ணிக் கவலைப்பட நேரிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Unforgetfulness (Royalty & Polity), Kural 535 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The thoughtless man, who provides not against the calamities that may happen, will afterwards repent for his fault. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொச்சாவாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Unforgetfulness' thoughtfully.",
+        "quiz_question_ta": "'பொச்சாவாமை' அதிகாரத்தில் வரும் திருக்குறள் 535 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 535 from Chapter 'Unforgetfulness'?",
+        "quiz_options_ta": [
+          "தண்டித்தற்குரிய தன்மை உடையவரிடத்திலும் கண்ணோட்டம் செய்து ( அவர் செய்த குற்றத்தைப்) பொருத்துக் காக்கும் பண்பே சிறந்தது.",
+          "வெள்ளம் போல் அளவற்றதாய் வரும் துன்பமும், அறிவுடையவன் தன் உள்ளத்தினால் அத் துன்பத்தின் இயல்பை நினைத்த அளவில் கெடும்.",
+          "செயல் திறனால் பெருமைபெற்று உயர்ந்தவரின் வினைத் திட்பமானது நாட்டை ஆளும் அரசனிடத்திலும் எட்டி மதிக்கப்பட்டு விளங்கும்.",
+          "வரும் இடையூறுகளை முன்னே அறிந்துக் காக்காமல் மறந்து சோர்ந்தவன், பின்பு அவை வந்துற்றபோது தன் பிழையை நினைத்து இரங்குவான்."
+        ],
+        "quiz_options_en": [
+          "To be benign and bear with foes Who vex us is true virtue's phase",
+          "Deluging sorrows come to nought When wise men face them with firm thought",
+          "Dynamic deeds of a doughty soul Shall win the praise of king and all",
+          "Failing foresight the guardless man Shall rue his folly later on"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பொச்சாவாமை) பகுதியில் குறள் 535 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வரும் இடையூறுகளை முன்னே அறிந்துக் காக்காமல் மறந்து சோர்ந்தவன், பின்பு அவை வந்துற்றபோது தன் பிழையை நினைத்து இரங்குவான். பரிமேலழகர் உரை நுட்பம்: முன்னுறக் காவாது இழுக்கியான் - தன்னால் காக்கப்படும் துன்பங்களை அவை வருவதற்கு முன்னே அறிந்து காவாது மறந்திருந்தான், பின் ஊறு தன்பிழை இரங்கிவிடும் - பின்வந்துற்ற காலத்துக் காக்கல் ஆகாமையின் அப்பிழைப்பினை நினைத்து இரங்கிவிடும். (காக்கப்படும் துன்பங்களாவன: சோர்வு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 54: 'Unforgetfulness'), Kural 535 distills a foundational ethical insight: \"To him who nought foresees, recks not of anything, The after woe shall sure repentance bring\" Philosophically, The thoughtless man, who provides not against the calamities that may happen, will afterwards repent for his fault.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "education",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 536,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: யாரிடத்திலும் எக்காலத்திலும் மறந்தும் சோர்ந்திருக்காதத் தன்மை தவறாமல் பொருந்தியிருக்குமானால், அதற்கு ஒப்பான நன்மை வேறொன்றும் இல்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: There is nothing comparable with the possession of unfailing thoughtfulness at all times; and towards all persons.",
+        "story_title_ta": "பொச்சாவாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Unforgetfulness — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொச்சாவாமை' என்ற அதிகாரத்திலிருந்து குறள் 536 பற்றிக் கதை சொன்னார். 'எவரிடத்திலேனும் எப்போதும் விடாமல் மறதி இல்லாத குணம் மட்டும் இருக்கும் என்றால், அதைப் போன்ற நன்மை வேறு இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 54, 'Unforgetfulness', centered on Kural 536: There is nothing comparable with the possession of unfailing thoughtfulness at all times; and towards all persons. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவரிடம், மறவாமை என்னும் பண்பு தவறாமல் பொருந்தியிருக்குமேயானால், அதைவிட அவருக்கு நன்மை தரக்கூடியது வேறு எதுவும் இருக்க முடியாது.",
+        "moral_en": "Moral: Towards all unswerving, ever watchfulness of soul retain, Where this is found there is no greater gain.",
+        "game_blank_word_ta": "என்றும்",
+        "game_options_ta": [
+          "என்றும்",
+          "இறந்த",
+          "வெகுளியின்",
+          "சிறந்த"
+        ],
+        "game_options_en": [
+          "Forget none; watch with wakeful care Miss none; the gain is sans compare",
+          "Worse than wrath in excess is Forgetfulness in joy-excess",
+          "Negligence kills renown just as Ceaseless want wisdom destroys",
+          "Forgetful nature fails of fame All schools of thinkers say the same"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொச்சாவாமை (அரசியல்) பிரிவில் அமைந்த குறள் 536, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எவரிடத்திலேனும் எப்போதும் விடாமல் மறதி இல்லாத குணம் மட்டும் இருக்கும் என்றால், அதைப் போன்ற நன்மை வேறு இல்லை. கலைஞர் உரை கூறுவது: ஒருவரிடம், மறவாமை என்னும் பண்பு தவறாமல் பொருந்தியிருக்குமேயானால், அதைவிட அவருக்கு நன்மை தரக்கூடியது வேறு எதுவும் இருக்க முடியாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Unforgetfulness (Royalty & Polity), Kural 536 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is nothing comparable with the possession of unfailing thoughtfulness at all times; and towards all persons. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொச்சாவாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Unforgetfulness' thoughtfully.",
+        "quiz_question_ta": "'பொச்சாவாமை' அதிகாரத்தில் வரும் திருக்குறள் 536 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 536 from Chapter 'Unforgetfulness'?",
+        "quiz_options_ta": [
+          "யாரிடத்திலும் எக்காலத்திலும் மறந்தும் சோர்ந்திருக்காதத் தன்மை தவறாமல் பொருந்தியிருக்குமானால், அதற்கு ஒப்பான நன்மை வேறொன்றும் இல்லை.",
+          "எவராலும் விரும்பத்தக்க நாகரிகமான கண்ணோட்டத்தை விரும்புகின்றவர், பழகியவர் தமக்கு நஞ்சு இடக்கண்டும் அதை உண்டு அமைவர்.",
+          "துன்பம் வந்த போது அதற்க்காக வருந்திக் கலங்காதவர் அந்தத் துன்பத்திற்கே துன்பம் உண்டாக்கி அதை வென்று விடுவார்.",
+          "எண்ணியவர் (எண்ணியபடியே செயல் ஆற்றுவதில்) உறுதியுடையவராக இருக்கப்பெற்றால் அவர் எண்ணியவற்றை எண்ணியவாறே அடைவர்."
+        ],
+        "quiz_options_en": [
+          "Forget none; watch with wakeful care Miss none; the gain is sans compare",
+          "Men of graceful courtesy Take hemlock and look cheerfully",
+          "Grief they face and put to grief Who grieve not grief by mind's relief",
+          "The will-to-do achieves the deed When mind that wills is strong indeed"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பொச்சாவாமை) பகுதியில் குறள் 536 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யாரிடத்திலும் எக்காலத்திலும் மறந்தும் சோர்ந்திருக்காதத் தன்மை தவறாமல் பொருந்தியிருக்குமானால், அதற்கு ஒப்பான நன்மை வேறொன்றும் இல்லை. பரிமேலழகர் உரை நுட்பம்: இழுக்காமை யார்மாட்டும் என்றும் வழுக்காமை வாயின் - அரசர்க்கு மறவாமைக் குணம் யாவர்மாட்டும் எக்காலத்தும் ஒழிவின்றி வாய்க்குமாயின், அஃது ஒப்பது இல் - அதனை ஒக்கும் நன்மை பிறிது இல்லை. (வினை செய்வார் சுற்றத்தார் என்னும் தம்பாலார் கண்ணும் ஒப்ப வேண்டுதலின், 'யார...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 54: 'Unforgetfulness'), Kural 536 distills a foundational ethical insight: \"Towards all unswerving, ever watchfulness of soul retain, Where this is found there is no greater gain\" Philosophically, There is nothing comparable with the possession of unfailing thoughtfulness at all times; and towards all persons.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "ethics",
+        "time",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 537,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மறவாமை என்னும் கருவிகொண்டு (கடமைகளைப்) போற்றிச் செய்தால், செய்வதற்கு அரியவை என்று ஒருவனால் முடியாத செயல்கள் இல்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: There is nothing too difficult to be accomplished, if a man set about it carefully, with unflinching endeavour.",
+        "story_title_ta": "பொச்சாவாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Unforgetfulness — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொச்சாவாமை' என்ற அதிகாரத்திலிருந்து குறள் 537 பற்றிக் கதை சொன்னார். 'மறதி இல்லாத மனத்தால் எண்ணிச் செய்தால் ஒருவருக்குச் செய்ய முடியாதது என்று எதுவும் இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 54, 'Unforgetfulness', centered on Kural 537: There is nothing too difficult to be accomplished, if a man set about it carefully, with unflinching endeavour. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மறதியில்லாமலும், அக்கறையுடனும் செயல்பட்டால், முடியாதது என்று எதுவுமே இல்லை.",
+        "moral_en": "Moral: Though things are arduous deemed, there's nought may not be won, When work with mind's unslumbering energy and thought is done.",
+        "game_blank_word_ta": "போற்றிச்",
+        "game_options_ta": [
+          "இறந்த",
+          "போற்றிச்",
+          "வெகுளியின்",
+          "சிறந்த"
+        ],
+        "game_options_en": [
+          "Worse than wrath in excess is Forgetfulness in joy-excess",
+          "With cautious care pursue a thing Impossible there is nothing",
+          "Negligence kills renown just as Ceaseless want wisdom destroys",
+          "Forgetful nature fails of fame All schools of thinkers say the same"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொச்சாவாமை (அரசியல்) பிரிவில் அமைந்த குறள் 537, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மறதி இல்லாத மனத்தால் எண்ணிச் செய்தால் ஒருவருக்குச் செய்ய முடியாதது என்று எதுவும் இல்லை. கலைஞர் உரை கூறுவது: மறதியில்லாமலும், அக்கறையுடனும் செயல்பட்டால், முடியாதது என்று எதுவுமே இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Unforgetfulness (Royalty & Polity), Kural 537 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is nothing too difficult to be accomplished, if a man set about it carefully, with unflinching endeavour. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொச்சாவாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Unforgetfulness' thoughtfully.",
+        "quiz_question_ta": "'பொச்சாவாமை' அதிகாரத்தில் வரும் திருக்குறள் 537 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 537 from Chapter 'Unforgetfulness'?",
+        "quiz_options_ta": [
+          "ஒற்றரும் புகழ் அமைந்த நீதிநூலும் ஆகிய இவ்விருவகைக் கருவிகளையும் அரசன் தன்னுடைய கண்களாகத் தெளியவேணடும்.",
+          "மறவாமை என்னும் கருவிகொண்டு (கடமைகளைப்) போற்றிச் செய்தால், செய்வதற்கு அரியவை என்று ஒருவனால் முடியாத செயல்கள் இல்லை.",
+          "தடைபட்ட இடங்களில் எல்லாம் (வண்டியை இழுத்துச் செல்லும்) எருதுபோல் விடாமுயற்சி உடையவன் உற்றத் துன்பமே துன்பப்படுவதாகும்.",
+          "உருளும் பெரிய தேர்க்கு அச்சில் இருந்து தாங்கும் சிறிய ஆணிப் போன்றவர்கள் உலகத்தில் உள்ளனர், அவர்களுடைய உருவின் சிறுமையைக்கண்டு இகழக் கூடாது."
+        ],
+        "quiz_options_en": [
+          "A king should treat these two as eyes The code of laws and careful spies",
+          "With cautious care pursue a thing Impossible there is nothing",
+          "Who pulls like bulls patiently on Causes grief to grieve anon",
+          "Scorn not the form: for men there are Like linchpin of big rolling car"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பொச்சாவாமை) பகுதியில் குறள் 537 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மறவாமை என்னும் கருவிகொண்டு (கடமைகளைப்) போற்றிச் செய்தால், செய்வதற்கு அரியவை என்று ஒருவனால் முடியாத செயல்கள் இல்லை. பரிமேலழகர் உரை நுட்பம்: அரிய என்று ஆகாத இல்லை - இவை செய்தற்கரியன என்று சொல்லப்பட்டு ஒருவற்கு முடியாத காரியங்கள் இல்லை, பொச்சாவாக் கருவியான் போற்றிச் செயின் - மறவாத மனத்தானே எண்ணிச் செய்யப் பெறின். (பொச்சாவாத என்பதன் இறுதிநிலை விகாரத்தால் தொக்கது. அந்தக்கரணமாகலின் 'கருவி' என்றார...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 54: 'Unforgetfulness'), Kural 537 distills a foundational ethical insight: \"Though things are arduous deemed, there's nought may not be won, When work with mind's unslumbering energy and thought is done\" Philosophically, There is nothing too difficult to be accomplished, if a man set about it carefully, with unflinching endeavour.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "perseverance",
+        "ethics",
+        "education",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 538,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: சான்றோர் புகழ்ந்து சொல்லியச் செயல்களைப் போற்றிச் செய்யவேண்டும், அவ்வாறு செய்யாமல் மறந்து சோர்ந்தவர்க்கு ஏழுப் பிறப்பிலும் நன்மை இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Let (a man) observe and do these things which have been praised (by the wise); if he neglects and fails to perform them, for him there will be no (happiness) throughout the seven births.",
+        "story_title_ta": "பொச்சாவாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Unforgetfulness — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொச்சாவாமை' என்ற அதிகாரத்திலிருந்து குறள் 538 பற்றிக் கதை சொன்னார். 'உயர்ந்தோர் புகழ்ந்து சொன்னவற்றை விரும்பிக் கடைப்பிடிக்க வேண்டும். கடைப்பிடிக்க மறந்தவர்க்கு ஏழு பிறப்பிலும் நன்மை இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 54, 'Unforgetfulness', centered on Kural 538: Let (a man) observe and do these things which have been praised (by the wise); if he neglects and fails to perform them, for him there will be no (happiness) throughout the seven births. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: புகழுக்குரிய கடமைகளைப் போற்றிச் செய்திடல் வேண்டும் அப்படிச் செய்யாமல் புறக்கணிக்கப்பவர்களுக்கு வாழ்க்கையில் உயர்வே இல்லை.",
+        "moral_en": "Moral: Let things that merit praise thy watchful soul employ; Who these despise attain through sevenfold births no joy.",
+        "game_blank_word_ta": "இகழ்ந்தார்க்கு",
+        "game_options_ta": [
+          "இறந்த",
+          "வெகுளியின்",
+          "இகழ்ந்தார்க்கு",
+          "சிறந்த"
+        ],
+        "game_options_en": [
+          "Worse than wrath in excess is Forgetfulness in joy-excess",
+          "Negligence kills renown just as Ceaseless want wisdom destroys",
+          "Do what the wise commend as worth If not, for seven births no mirth",
+          "Forgetful nature fails of fame All schools of thinkers say the same"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொச்சாவாமை (அரசியல்) பிரிவில் அமைந்த குறள் 538, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உயர்ந்தோர் புகழ்ந்து சொன்னவற்றை விரும்பிக் கடைப்பிடிக்க வேண்டும். கடைப்பிடிக்க மறந்தவர்க்கு ஏழு பிறப்பிலும் நன்மை இல்லை. கலைஞர் உரை கூறுவது: புகழுக்குரிய கடமைகளைப் போற்றிச் செய்திடல் வேண்டும் அப்படிச் செய்யாமல் புறக்கணிக்கப்பவர்களுக்கு வாழ்க்கையில் உயர்வே இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Unforgetfulness (Royalty & Polity), Kural 538 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let (a man) observe and do these things which have been praised (by the wise); if he neglects and fails to perform them, for him there will be no (happiness) throughout the seven births. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொச்சாவாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Unforgetfulness' thoughtfully.",
+        "quiz_question_ta": "'பொச்சாவாமை' அதிகாரத்தில் வரும் திருக்குறள் 538 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 538 from Chapter 'Unforgetfulness'?",
+        "quiz_options_ta": [
+          "எல்லாரிடத்திலும் நிகழ்கின்றவை எல்லாவற்றையும் எக்காலத்திலும் (ஒற்றரைக் கொண்டு) விரைந்து அறிதல் அரசனுக்குரிய தொழிலாகும்.",
+          "விடாமல் மேன் மேலும் துன்பம் வந்தபோதிலும் கலங்காமலிருக்கும் ஆற்றலுடையவன் அடைந்த துன்பமே துன்பப்பட்டு போகும்.",
+          "சான்றோர் புகழ்ந்து சொல்லியச் செயல்களைப் போற்றிச் செய்யவேண்டும், அவ்வாறு செய்யாமல் மறந்து சோர்ந்தவர்க்கு ஏழுப் பிறப்பிலும் நன்மை இல்லை.",
+          "மனம் தளராமல் ஆராய்ந்து துணிந்து ஏற்றத் தொழிலைச் சோர்வு கொள்ளாமல் காலந் தாழ்த்தாமல் செய்து முடிக்க வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "All that happens, always, to all The king should know in full detail",
+          "Before the brave grief grieves and goes Who dare a host of pressing woes",
+          "Do what the wise commend as worth If not, for seven births no mirth",
+          "Waver not; do wakefully The deed resolved purposefully"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பொச்சாவாமை) பகுதியில் குறள் 538 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சான்றோர் புகழ்ந்து சொல்லியச் செயல்களைப் போற்றிச் செய்யவேண்டும், அவ்வாறு செய்யாமல் மறந்து சோர்ந்தவர்க்கு ஏழுப் பிறப்பிலும் நன்மை இல்லை. பரிமேலழகர் உரை நுட்பம்: புகழ்ந்தவை போற்றிச் செயல் வேண்டும் - நீதி நூலுடையார் இவை அரசர்க்கு உரியன என்று உயர்த்துக் கூறிய செயல்களைக் கடைப்பிடித்துச் செய்க, செய்யாது இகழ்ந்தார்க்கு எழுமையும் இல் - அங்ஙனம் செய்யாது மறந்தவர்க்கு எழுமையினும் நன்மை இல்லை ஆகலான். (அச்செயல்களாவன: மூவகை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 54: 'Unforgetfulness'), Kural 538 distills a foundational ethical insight: \"Let things that merit praise thy watchful soul employ; Who these despise attain through sevenfold births no joy\" Philosophically, Let (a man) observe and do these things which have been praised (by the wise); if he neglects and fails to perform them, for him there will be no (happiness) throughout the seven births.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "ethics",
+        "education",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 539,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தாம் தம் மகிழ்ச்சியால் செருக்குக் கொண்டு கடமையை மறந்திருக்கும் போது, அவ்வாறு சோர்ந்திருந்த காரணத்தால் முற்காலத்தில் அழிந்தவரை நினைக்க வேண்டும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Let (a king) think of those who have been ruined by neglect, when his mind is elated with joy.",
+        "story_title_ta": "பொச்சாவாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Unforgetfulness — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொச்சாவாமை' என்ற அதிகாரத்திலிருந்து குறள் 539 பற்றிக் கதை சொன்னார். 'தம் மகிழ்ச்சியில் மனவலிமை பெறும்பொழுது எல்லாம் முற்காலத்தில் மகிழ்ச்சியால் மறதி கொண்டு அழிந்தவர்களை நினைவிற் கொள்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 54, 'Unforgetfulness', centered on Kural 539: Let (a king) think of those who have been ruined by neglect, when his mind is elated with joy. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மமதையால் பூரித்துப்போய்க் கடமைகளை மறந்திருப்பவர்கள், அப்படி மறந்துபோய் அழிந்து போனவர்களை நினைத்துப் பார்த்துத் திருந்திக் கொள்ள வேண்டும்.",
+        "moral_en": "Moral: Think on the men whom scornful mind hath brought to nought, When exultation overwhelms thy wildered thought.",
+        "game_blank_word_ta": "இகழ்ச்சியின்",
+        "game_options_ta": [
+          "இறந்த",
+          "வெகுளியின்",
+          "சிறந்த",
+          "இகழ்ச்சியின்"
+        ],
+        "game_options_en": [
+          "Worse than wrath in excess is Forgetfulness in joy-excess",
+          "Negligence kills renown just as Ceaseless want wisdom destroys",
+          "Forgetful nature fails of fame All schools of thinkers say the same",
+          "When joy deludes, their fate recall Whom negligence has made to fall"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொச்சாவாமை (அரசியல்) பிரிவில் அமைந்த குறள் 539, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம் மகிழ்ச்சியில் மனவலிமை பெறும்பொழுது எல்லாம் முற்காலத்தில் மகிழ்ச்சியால் மறதி கொண்டு அழிந்தவர்களை நினைவிற் கொள்க. கலைஞர் உரை கூறுவது: மமதையால் பூரித்துப்போய்க் கடமைகளை மறந்திருப்பவர்கள், அப்படி மறந்துபோய் அழிந்து போனவர்களை நினைத்துப் பார்த்துத் திருந்திக் கொள்ள வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Unforgetfulness (Royalty & Polity), Kural 539 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let (a king) think of those who have been ruined by neglect, when his mind is elated with joy. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொச்சாவாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Unforgetfulness' thoughtfully.",
+        "quiz_question_ta": "'பொச்சாவாமை' அதிகாரத்தில் வரும் திருக்குறள் 539 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 539 from Chapter 'Unforgetfulness'?",
+        "quiz_options_ta": [
+          "ஒற்றரால் (நாட்டு நிகழ்ச்சிகளை) அறிந்து அவற்றின் பயனை ஆராய்ந்துணராத அரசன் வெற்றிபெறத்தக்க வழி வேறு இல்லை.",
+          "செல்வம் வந்த போது இதைப்பெற்றோமே என்று பற்றுக்கொண்டு காத்தறியாதவர் வறுமை வந்த போது இழந்தோமே என்று அல்லல்படுவரோ.",
+          "(முடிவில்) இன்பம் கொடுக்கும் தொழிலைச் செய்யும் போது துன்பம் மிக வந்த போதிலும் துணிவு மேற்கொண்டு செய்து முடிக்க வேண்டும்.",
+          "தாம் தம் மகிழ்ச்சியால் செருக்குக் கொண்டு கடமையை மறந்திருக்கும் போது, அவ்வாறு சோர்ந்திருந்த காரணத்தால் முற்காலத்தில் அழிந்தவரை நினைக்க வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Conquests are not for the monarch Who cares not for the Spy's remark",
+          "The wise that never gloat in gain Do not fret in fateful ruin",
+          "Do with firm will though pains beset The deed that brings delight at last",
+          "When joy deludes, their fate recall Whom negligence has made to fall"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பொச்சாவாமை) பகுதியில் குறள் 539 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தாம் தம் மகிழ்ச்சியால் செருக்குக் கொண்டு கடமையை மறந்திருக்கும் போது, அவ்வாறு சோர்ந்திருந்த காரணத்தால் முற்காலத்தில் அழிந்தவரை நினைக்க வேண்டும். பரிமேலழகர் உரை நுட்பம்: தம் மகிழ்ச்சியின் தாம் மைந்து உறும் போழ்து - அரசர் தம் மகிழ்ச்சிக்கண் தாம் வலியுறும் பொழுது, இகழ்ச்சியின் கெட்டாரை உள்ளுக - முற்காலத்து அதனினாய சோர்வால் கெட்டவர்களை நினைக்க. (காரணங்களோடு அவர்க்கு உளதாய உரிமையை மகிழ்ச்சிமேல் ஏற்றித் தம் மகிழ்ச்சியின் என்றும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 54: 'Unforgetfulness'), Kural 539 distills a foundational ethical insight: \"Think on the men whom scornful mind hath brought to nought, When exultation overwhelms thy wildered thought\" Philosophically, Let (a king) think of those who have been ruined by neglect, when his mind is elated with joy.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "ethics",
+        "time",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 540,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒருவன் எண்ணியதை விடாமல் எண்ணி (சோர்வில்லாமல்) இருக்கப் பெற்றால், அவன் கருதியதை அடைதல் எளிதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: It is easy for (one) to obtain whatever he may think of, if he can again think of it.",
+        "story_title_ta": "பொச்சாவாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Unforgetfulness — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பொச்சாவாமை' என்ற அதிகாரத்திலிருந்து குறள் 540 பற்றிக் கதை சொன்னார். 'நினைத்ததைத் தொடர்ந்து நினைத்துக் கொண்டிருக்க முடியுமானால் நினைத்ததை நினைத்தபடியே அடைவது எளிது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 54, 'Unforgetfulness', centered on Kural 540: It is easy for (one) to obtain whatever he may think of, if he can again think of it. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கொண்ட குறிக்கோளில் ஊக்கத்துடன் இருந்து அதில் வெற்றி காண்பதிலேயே நாட்டமுடையவர்களுக்கு அந்தக் குறிக்கோளை அடைவது எளிதானதாகும்.",
+        "moral_en": "Moral: 'Tis easy what thou hast in mind to gain, If what thou hast in mind thy mind retain.",
+        "game_blank_word_ta": "உள்ளியது",
+        "game_options_ta": [
+          "உள்ளியது",
+          "இறந்த",
+          "வெகுளியின்",
+          "சிறந்த"
+        ],
+        "game_options_en": [
+          "Easy it is a thing to get When the mind on it is set",
+          "Worse than wrath in excess is Forgetfulness in joy-excess",
+          "Negligence kills renown just as Ceaseless want wisdom destroys",
+          "Forgetful nature fails of fame All schools of thinkers say the same"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொச்சாவாமை (அரசியல்) பிரிவில் அமைந்த குறள் 540, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நினைத்ததைத் தொடர்ந்து நினைத்துக் கொண்டிருக்க முடியுமானால் நினைத்ததை நினைத்தபடியே அடைவது எளிது. கலைஞர் உரை கூறுவது: கொண்ட குறிக்கோளில் ஊக்கத்துடன் இருந்து அதில் வெற்றி காண்பதிலேயே நாட்டமுடையவர்களுக்கு அந்தக் குறிக்கோளை அடைவது எளிதானதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Unforgetfulness (Royalty & Polity), Kural 540 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is easy for (one) to obtain whatever he may think of, if he can again think of it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பொச்சாவாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Unforgetfulness' thoughtfully.",
+        "quiz_question_ta": "'பொச்சாவாமை' அதிகாரத்தில் வரும் திருக்குறள் 540 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 540 from Chapter 'Unforgetfulness'?",
+        "quiz_options_ta": [
+          "ஒருவன் எண்ணியதை விடாமல் எண்ணி (சோர்வில்லாமல்) இருக்கப் பெற்றால், அவன் கருதியதை அடைதல் எளிதாகும்.",
+          "தம்முடைய தொழிலைச் செய்கின்றவர், தம் சுற்றத்தார், தம் பகைவர் என்றுக்கூறப்படும் எல்லாரையும் ஆராய்வதே ஒற்றரின் தொழிலாகும்.",
+          "மேலோர், உடம்பு துன்பத்திற்கு இலக்கமானது என்று உணர்ந்து, (துன்பம் வந்த போது) கலங்குவதை ஒழுக்க நெறியாகக் கொள்ளமாட்டர்.",
+          "வேறு எத்தகைய உறுதி உடையவராக இருந்தாலும், செய்யும் தொழிலில் உறுதி இல்லாதவரை உலகம் விரும்பிப் போற்றாது."
+        ],
+        "quiz_options_en": [
+          "Easy it is a thing to get When the mind on it is set",
+          "His officers, kinsmen and foes Who watch keenly are worthy spies",
+          "The wise worry no more of woes Knowing body's butt of sorrows",
+          "The world merits no other strength But strength of will-to-do at length"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (பொச்சாவாமை) பகுதியில் குறள் 540 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் எண்ணியதை விடாமல் எண்ணி (சோர்வில்லாமல்) இருக்கப் பெற்றால், அவன் கருதியதை அடைதல் எளிதாகும். பரிமேலழகர் உரை நுட்பம்: தான் உள்ளியது எய்தல் எளிது மன் - அரசனுக்குத் தான் எய்த நினைத்த பொருளை அந்நினைத்த பெற்றியே எய்துதல் எளிதாம், மற்றும் உள்ளியது உள்ளப் பெறின் - பின்னும் அதனையே நினைக்கக் கூடுமாயின். (அது கூடாதென்பது ஒழிந்து நின்றமையின், 'மன்' ஒழி இசைக்கண் வந்தது. அதனையே...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 54: 'Unforgetfulness'), Kural 540 distills a foundational ethical insight: \"'Tis easy what thou hast in mind to gain, If what thou hast in mind thy mind retain\" Philosophically, It is easy for (one) to obtain whatever he may think of, if he can again think of it.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "self-mastery",
+        "education",
+        "speech"
+      ]
+    }
+  ]
+}

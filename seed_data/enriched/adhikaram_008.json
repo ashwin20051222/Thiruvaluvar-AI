@@ -1,0 +1,585 @@
+{
+  "adhikaram_id": 8,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.503539534+00:00",
+  "kurals": [
+    {
+      "kural_number": 71,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அன்புக்கும் அடைத்து வைக்கும் தாழ் உண்டோ? அன்புடையவரின் சிறு கண்ணீரே ( உள்ளே இருக்கும் அன்பைப் ) பலரும் அறிய வெளிப்படுத்திவிடும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Is there any fastening that can shut in love ? Tears of the affectionate will publish the love that is within.",
+        "story_title_ta": "அன்புடைமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Possession of Love — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அன்புடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 71 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அன்பிற்கும் கூடப் பிறர் அறியாமல் தன்னை மூடி வைக்கும் கதவு உண்டோ? இல்லை. தம்மால் அன்பு செய்யப்பட்டவரின் துன்பத்தைக் காணும்போது வடியும் கண்ணீரே அன்பு உள்ளத்தைக் காட்டிவிடும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'The Possession of Love'. Grandpa shared Kural 71 and explained in simple words: Is there any fastening that can shut in love ? Tears of the affectionate will publish the love that is within. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உள்ளத்தில் இருக்கும் அன்பைத் தாழ்ப்பாள் போட்டு அடைத்து வைக்க முடியாது அன்புக்குரியவரின் துன்பங்காணுமிடத்து, கண்ணீர்த்துளி வாயிலாக அது வெளிப்பட்டுவிடும்.",
+        "moral_en": "Moral: And is there bar that can even love restrain?The tiny tear shall make the lover's secret plain.",
+        "game_blank_word_ta": "உண்டோ",
+        "game_options_ta": [
+          "அன்பிலார்",
+          "எல்லாம்",
+          "தமக்குரியர்",
+          "உண்டோ"
+        ],
+        "game_options_en": [
+          "To selves belong the loveless ones; To oth'rs the loving e'en to bones",
+          "Soul is encased in frame of bone To taste the life of love alone",
+          "Love yields aspiration and thence Friendship springs up in excellence",
+          "What bolt can bar true love in fact The tricking tears reveal the heart"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அன்புடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 71, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அன்பிற்கும் கூடப் பிறர் அறியாமல் தன்னை மூடி வைக்கும் கதவு உண்டோ? இல்லை. தம்மால் அன்பு செய்யப்பட்டவரின் துன்பத்தைக் காணும்போது வடியும் கண்ணீரே அன்பு உள்ளத்தைக் காட்டிவிடும். கலைஞர் உரை கூறுவது: உள்ளத்தில் இருக்கும் அன்பைத் தாழ்ப்பாள் போட்டு அடைத்து வைக்க முடியாது அன்புக்குரியவரின் துன்பங்காணுமிடத்து, கண்ணீர்த்துளி வாயிலாக அது வெளிப்பட்டுவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Love (Domestic Virtue), Kural 71 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Is there any fastening that can shut in love ? Tears of the affectionate will publish the love that is within. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அன்புடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Love' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அன்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 71 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 71 from Chapter 'The Possession of Love'?",
+        "quiz_options_ta": [
+          "கேடும் ஆக்கமும் வாழ்வில் இல்லாதவை அல்ல; ஆகையால் நெஞ்சில் நடுவுநிலைமை தவறாமல் இருத்தலே சான்றோர்க்கு அழகாகும்.",
+          "செருக்கினால் தீங்கானவற்றைச் செய்தவரைத் தாம் தம்முடைய பொறுமைப் பண்பினால் பொறுத்து வென்று விட வேண்டும்.",
+          "தீயவை செய்தலாகிய செருக்கைத் தீவினை உடைய பாவிகள் அஞ்சார், தீவினை இல்லாத மேலோர் மட்டுமே அஞ்சுவர்.",
+          "அன்புக்கும் அடைத்து வைக்கும் தாழ் உண்டோ? அன்புடையவரின் சிறு கண்ணீரே ( உள்ளே இருக்கும் அன்பைப் ) பலரும் அறிய வெளிப்படுத்திவிடும்"
+        ],
+        "quiz_options_en": [
+          "Loss and gain by cause arise; Equal mind adorns the wise",
+          "By noble forbearance vanquish The proud that have caused you anguish",
+          "Sinners fear not the pride of sin The worthy dread the ill within",
+          "What bolt can bar true love in fact The tricking tears reveal the heart"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அன்புடைமை) பகுதியில் குறள் 71 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன்புக்கும் அடைத்து வைக்கும் தாழ் உண்டோ? அன்புடையவரின் சிறு கண்ணீரே ( உள்ளே இருக்கும் அன்பைப் ) பலரும் அறிய வெளிப்படுத்திவிடும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, அவ் வாழ்க்கைத்துணையும் புதல்வரும் முதலிய தொடர்புடையார்கண் காதலுடையன் ஆதல்.அதிகார முறைமையும் இதனானே விளங்கும். இல்லறம் இனிது நடத்தலும், பிற உயிர்கள்மேல் அருள்பிறத்தலும் அன்பின் பயன் ஆகலின் , இது வேண்டப்பட்டது. வாழ்க்கைத்துணை மேல் அன்பு இல்வழி இல்லறம...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 8: 'The Possession of Love'), Kural 71 distills a foundational ethical insight: \"And is there bar that can even love restrain?The tiny tear shall make the lover's secret plain\" Philosophically, Is there any fastening that can shut in love ? Tears of the affectionate will publish the love that is within.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "love",
+        "family",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 72,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அன்பு இல்லாதவர் எல்லாப்பொருள்களையும் தமக்கே உரிமையாகக் கொண்டு வாழ்வார்: அன்பு உடையவர் தம் உடமையும் பிறர்க்கு உரிமையாக்கி வாழ்வர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Those who are destitute of love appropriate all they have to themselves; but those who possess love consider even their bones to belong to others.",
+        "story_title_ta": "அன்புடைமை — கவின் கற்ற பாடம்",
+        "story_title_en": "The Possession of Love — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அன்புடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 72 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அன்பு இல்லாதவர் எல்லாவற்றாலும் தமக்கே உரிமை உடையவராய் இருப்பர். அன்புள்ளவரோ பொருளால் மட்டும் அன்று; உடம்பாலும் பிறர்க்கு உரியவராய் இருப்பர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'The Possession of Love'. Grandpa shared Kural 72 and explained in simple words: Those who are destitute of love appropriate all they have to themselves; but those who possess love consider even their bones to belong to others. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அன்பு இல்லாதவர், எல்லாம் தமக்கே என உரிமை கொண்டாடுவர்; அன்பு உடையவரோ தம் உடல், பொருள், ஆவி ஆகிய அனைத்தும் பிறருக்கென எண்ணிடுவர்.",
+        "moral_en": "Moral: The loveless to themselves belong alone; The loving men are others' to the very bone.",
+        "game_blank_word_ta": "தமக்குரியர்",
+        "game_options_ta": [
+          "தமக்குரியர்",
+          "அன்பிற்கும்",
+          "உண்டோ",
+          "அடைக்குந்தாழ்"
+        ],
+        "game_options_en": [
+          "To selves belong the loveless ones; To oth'rs the loving e'en to bones",
+          "What bolt can bar true love in fact The tricking tears reveal the heart",
+          "Soul is encased in frame of bone To taste the life of love alone",
+          "Love yields aspiration and thence Friendship springs up in excellence"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அன்புடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 72, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அன்பு இல்லாதவர் எல்லாவற்றாலும் தமக்கே உரிமை உடையவராய் இருப்பர். அன்புள்ளவரோ பொருளால் மட்டும் அன்று; உடம்பாலும் பிறர்க்கு உரியவராய் இருப்பர். கலைஞர் உரை கூறுவது: அன்பு இல்லாதவர், எல்லாம் தமக்கே என உரிமை கொண்டாடுவர்; அன்பு உடையவரோ தம் உடல், பொருள், ஆவி ஆகிய அனைத்தும் பிறருக்கென எண்ணிடுவர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Love (Domestic Virtue), Kural 72 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who are destitute of love appropriate all they have to themselves; but those who possess love consider even their bones to belong to others. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அன்புடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Love' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அன்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 72 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 72 from Chapter 'The Possession of Love'?",
+        "quiz_options_ta": [
+          "அன்பு இல்லாதவர் எல்லாப்பொருள்களையும் தமக்கே உரிமையாகக் கொண்டு வாழ்வார்: அன்பு உடையவர் தம் உடமையும் பிறர்க்கு உரிமையாக்கி வாழ்வர்",
+          "தன் நெஞ்சம் நடுவுநிலை நீங்கித் தவறு செய்ய நினைக்குமாயின், நான் கெடப்போகின்றேன் என்று ஒருவன் அறிய வேண்டும்.",
+          "வரம்பு கடந்து நடப்பவரின் வாயில் பிறக்கும் கொடுஞ்சொற்களைப் பொறுத்துக் கொள்பவர், துறந்தவரைப் போலத் தூய்மையானவர் ஆவர்.",
+          "தீயசெயல்கள் தீமையை விளைவிக்கும் தன்மை உடையனவாக இருத்தலால், அத் தீயச் செயல்கள் தீயைவிடக் கொடியனவாகக் கருதி அஞ்சப்படும்."
+        ],
+        "quiz_options_en": [
+          "To selves belong the loveless ones; To oth'rs the loving e'en to bones",
+          "Of perdition let him be sure Who leaves justice to sinful lure",
+          "More than ascetics they are pure Who bitter tongues meekly endure",
+          "Since evil begets evil dire Fear ye evil more than fire"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அன்புடைமை) பகுதியில் குறள் 72 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன்பு இல்லாதவர் எல்லாப்பொருள்களையும் தமக்கே உரிமையாகக் கொண்டு வாழ்வார்: அன்பு உடையவர் தம் உடமையும் பிறர்க்கு உரிமையாக்கி வாழ்வர். பரிமேலழகர் உரை நுட்பம்: அன்பிலார் எல்லாம் தமக்கு உரியர் - அன்பிலாதார் பிறர்க்குப் பயன்படாமையின் எல்லாப் பொருளானும் தமக்கே உரியர்; அன்புடையார் என்பும் பிறர்க்கு உரியர் - அன்புடையார் அவற்றானே அன்றித் தம் உடம்பானும் பிறர்க்கு உரியர். (ஆன் உருபுகளும் பிரிநிலை ஏகாரமும் விகாரத்தால...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 8: 'The Possession of Love'), Kural 72 distills a foundational ethical insight: \"The loveless to themselves belong alone; The loving men are others' to the very bone\" Philosophically, Those who are destitute of love appropriate all they have to themselves; but those who possess love consider even their bones to belong to others.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "love",
+        "wealth",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 73,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அருமையான உயிர்க்கு உடம்போடு பொருந்தி இருக்கின்ற உறவு, அன்போடு பொருந்தி வாழும் வாழ்க்கையின் பயன்என்று கூறுவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: They say that the union of soul and body in man is the fruit of the union of love and virtue (in a former birth).",
+        "story_title_ta": "அன்புடைமை — நிலா கற்ற பாடம்",
+        "story_title_en": "The Possession of Love — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அன்புடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 73 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பெறுவதற்கு அரிய உயிருக்கு நம் உடம்போடு உண்டாகிய தொடர்பு, அன்போடு கொண்ட ஆசையின் பயனே என்று அறிந்தவர் கூறுவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Possession of Love'. Grandpa shared Kural 73 and explained in simple words: They say that the union of soul and body in man is the fruit of the union of love and virtue (in a former birth). The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உயிரும் உடலும்போல் அன்பும் செயலும் இணைந்திருப்பதே உயர்ந்த பொருத்தமாகும்.",
+        "moral_en": "Moral: Of precious soul with body's flesh and bone, The union yields one fruit, the life of love alone.",
+        "game_blank_word_ta": "இயைந்த",
+        "game_options_ta": [
+          "அன்பிற்கும்",
+          "இயைந்த",
+          "உண்டோ",
+          "அடைக்குந்தாழ்"
+        ],
+        "game_options_en": [
+          "What bolt can bar true love in fact The tricking tears reveal the heart",
+          "Soul is encased in frame of bone To taste the life of love alone",
+          "To selves belong the loveless ones; To oth'rs the loving e'en to bones",
+          "Love yields aspiration and thence Friendship springs up in excellence"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அன்புடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 73, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெறுவதற்கு அரிய உயிருக்கு நம் உடம்போடு உண்டாகிய தொடர்பு, அன்போடு கொண்ட ஆசையின் பயனே என்று அறிந்தவர் கூறுவர். கலைஞர் உரை கூறுவது: உயிரும் உடலும்போல் அன்பும் செயலும் இணைந்திருப்பதே உயர்ந்த பொருத்தமாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Love (Domestic Virtue), Kural 73 speaks directly to teens navigating studies, friendships, leadership, and digital choices: They say that the union of soul and body in man is the fruit of the union of love and virtue (in a former birth). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அன்புடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Love' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அன்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 73 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 73 from Chapter 'The Possession of Love'?",
+        "quiz_options_ta": [
+          "நடுவுநிலைமை நின்று அறநெறியில் நிலைத்து வாழகின்றவன் அடைந்த வறுமை நிலையைக் கேடு என கொள்ளாது உலகு.",
+          "அருமையான உயிர்க்கு உடம்போடு பொருந்தி இருக்கின்ற உறவு, அன்போடு பொருந்தி வாழும் வாழ்க்கையின் பயன்என்று கூறுவர்.",
+          "உணவு உண்ணாமல் நோன்பு கிடப்பவர், பிறர் ‌சொல்லும் கொடுஞ் சொற்களைப் பொறுப்பவர்க்கு அடுத்த நிலையில்தான் பெரியவர் ஆவர்.",
+          "தம்மை வருத்துவோர்க்கும் தீய செயல்களைச் செய்யாமலிருத்தலை, அறிவு எல்லாவற்றிலும் தலையான அறிவு என்று கூறுவர்."
+        ],
+        "quiz_options_en": [
+          "The just reduced to poverty Is not held down by equity",
+          "Soul is encased in frame of bone To taste the life of love alone",
+          "Who fast are great to do penance Greater are they who bear offence",
+          "The wisest of the wise are those Who injure not even their foes"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அன்புடைமை) பகுதியில் குறள் 73 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அருமையான உயிர்க்கு உடம்போடு பொருந்தி இருக்கின்ற உறவு, அன்போடு பொருந்தி வாழும் வாழ்க்கையின் பயன்என்று கூறுவர். பரிமேலழகர் உரை நுட்பம்: ஆர் உயிர்க்கு என்போடு இயைந்த தொடர்பு - பெறுதற்கு அரிய மக்கள் உயிர்க்கு உடம்போடு உண்டாகிய தொடர்ச்சியினை; அன்போடு இயைந்த வழக்கு என்ப - அன்போடு பொருந்துதற்கு வந்த நெறியின் பயன் என்று சொல்லுவர் அறிந்தோர். (பிறப்பினது அருமை பிறந்த உயிர்மேல் ஏற்றப்பட்டது. 'இயைந்த...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 8: 'The Possession of Love'), Kural 73 distills a foundational ethical insight: \"Of precious soul with body's flesh and bone, The union yields one fruit, the life of love alone\" Philosophically, They say that the union of soul and body in man is the fruit of the union of love and virtue (in a former birth).",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "love",
+        "wealth",
+        "ethics",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 74,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அன்பு பிறரிடம் விருப்பம் உடையவராக வாழும் தன்மையைத் தரும்: அஃது எல்லாரிடத்தும் நட்பு என்றுசொல்லப்படும் அளவற்ற சிறப்பைத் தரும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Love begets desire: and that (desire) begets the immeasureable excellence of friendship.",
+        "story_title_ta": "அன்புடைமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Possession of Love — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அன்புடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 74 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'குடும்பம், உறவு என்பாரிடத்துக் கொள்ளும் அன்பு, உலகத்தவரிடம் எல்லாம் உறவு கொள்ளும் விருப்பை உண்டாக்கும். அதுவே அனைவரையும் நட்பாக்கும் சிறப்பையும் உண்டாக்கும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Possession of Love'. Grandpa shared Kural 74 and explained in simple words: Love begets desire: and that (desire) begets the immeasureable excellence of friendship. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அன்பு பிறரிடம் பற்றுள்ளம் கொள்ளச் செய்யும் அந்த உள்ளம், நட்பு எனும் பெருஞ்சிறப்பை உருவாக்கும்.",
+        "moral_en": "Moral: From love fond yearning springs for union sweet of minds; And that the bond of rare excelling friendship binds.",
+        "game_blank_word_ta": "உடைமை",
+        "game_options_ta": [
+          "அன்பிற்கும்",
+          "உண்டோ",
+          "உடைமை",
+          "அடைக்குந்தாழ்"
+        ],
+        "game_options_en": [
+          "What bolt can bar true love in fact The tricking tears reveal the heart",
+          "To selves belong the loveless ones; To oth'rs the loving e'en to bones",
+          "Love yields aspiration and thence Friendship springs up in excellence",
+          "Soul is encased in frame of bone To taste the life of love alone"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அன்புடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 74, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: குடும்பம், உறவு என்பாரிடத்துக் கொள்ளும் அன்பு, உலகத்தவரிடம் எல்லாம் உறவு கொள்ளும் விருப்பை உண்டாக்கும். அதுவே அனைவரையும் நட்பாக்கும் சிறப்பையும் உண்டாக்கும். கலைஞர் உரை கூறுவது: அன்பு பிறரிடம் பற்றுள்ளம் கொள்ளச் செய்யும் அந்த உள்ளம், நட்பு எனும் பெருஞ்சிறப்பை உருவாக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Love (Domestic Virtue), Kural 74 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Love begets desire: and that (desire) begets the immeasureable excellence of friendship. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அன்புடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Love' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அன்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 74 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 74 from Chapter 'The Possession of Love'?",
+        "quiz_options_ta": [
+          "முன்னே தான் சமமாக இருந்து, பின்பு பொருளைச் சீர்தூக்கும் துலாக்கோல் போல் அமைந்து, ஒரு பக்கமாக சாயாமல் நடுவுநி‌லைமை போற்றுவது சான்றோர்க்கு அழகாகும்.",
+          "ஒருவன் தன் நெஞ்சில் பொறாமை இல்லாமல் வாழும் இயல்பைத் தனக்கு உரிய ஒழுக்க நெறியாகக் கொண்டு போற்ற வேண்டும்.",
+          "அன்பு பிறரிடம் விருப்பம் உடையவராக வாழும் தன்மையைத் தரும்: அஃது எல்லாரிடத்தும் நட்பு என்றுசொல்லப்படும் அளவற்ற சிறப்பைத் தரும்",
+          "பிறனுக்கு கேட்டைத் தரும் தீய செயல்களை ஒருவன் மறந்தும் கூட எண்ணக்கூடாது, எண்ணினால் எண்ணியவனுக்கு கேடு விளையுமாறு அறம் எண்ணும்."
+        ],
+        "quiz_options_en": [
+          "Like balance holding equal scales A well poised mind is jewel of the wise",
+          "Deem your heart as virtuous When your nature is not jealous",
+          "Love yields aspiration and thence Friendship springs up in excellence",
+          "His ruin virtue plots who plans The ruin of another man's"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அன்புடைமை) பகுதியில் குறள் 74 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன்பு பிறரிடம் விருப்பம் உடையவராக வாழும் தன்மையைத் தரும்: அஃது எல்லாரிடத்தும் நட்பு என்றுசொல்லப்படும் அளவற்ற சிறப்பைத் தரும். பரிமேலழகர் உரை நுட்பம்: அன்பு ஆர்வமுடைமை ஈனும் - ஒருவனுக்குத் தொடர்புடையார் மாட்டுச் செய்த அன்பு அத்தன்மையால் பிறர் மாட்டும் விருப்பமுடைமையைத் தரும்; அது நண்பு என்னும் நாடாச்சிறப்பு ஈனும் - அவ்விருப்பமுடைமைதான்.அவற்குப் பகையும் நொதுமலும் இல்லையாய் யாவரும் நண்பு என்று சொல்லப்படும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 8: 'The Possession of Love'), Kural 74 distills a foundational ethical insight: \"From love fond yearning springs for union sweet of minds; And that the bond of rare excelling friendship binds\" Philosophically, Love begets desire: and that (desire) begets the immeasureable excellence of friendship.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "love",
+        "friendship",
+        "speech",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 75,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: உலகத்தில் இன்பம் உற்று வாழ்கின்றவர் அடையும் சிறப்பு, அன்பு உடையவராகிப் பொருந்தி வாழும் வாழ்கையின் பயன் என்று கூறுவர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: These are the fruits of tranquil life of love.",
+        "story_title_ta": "அன்புடைமை — இனியா கற்ற பாடம்",
+        "story_title_en": "The Possession of Love — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அன்புடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 75 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'இவ்வுலகில் வாழ்ந்து இன்பம் அடைந்தவர் பெறும் சிறப்பே அன்பு கொண்டு இல்வாழ்க்கை நடத்தியதன் பயன்தான் என்று அறிந்தோர் கூறுவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'The Possession of Love'. Grandpa shared Kural 75 and explained in simple words: These are the fruits of tranquil life of love. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உலகில் இன்புற்று வாழ்கின்றவர்க்கு வாய்க்கும் சிறப்பு, அவர் அன்புள்ளம் கொண்டவராக விளங்குவதன் பயனே என்று கூறலாம்.",
+        "moral_en": "Moral: Sweetness on earth and rarest bliss above, These are the fruits of tranquil life of love.",
+        "game_blank_word_ta": "எய்தும்",
+        "game_options_ta": [
+          "அன்பிற்கும்",
+          "உண்டோ",
+          "அடைக்குந்தாழ்",
+          "எய்தும்"
+        ],
+        "game_options_en": [
+          "What bolt can bar true love in fact The tricking tears reveal the heart",
+          "To selves belong the loveless ones; To oth'rs the loving e'en to bones",
+          "Soul is encased in frame of bone To taste the life of love alone",
+          "The crowning joy of home life flows From peaceful psychic love always"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அன்புடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 75, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இவ்வுலகில் வாழ்ந்து இன்பம் அடைந்தவர் பெறும் சிறப்பே அன்பு கொண்டு இல்வாழ்க்கை நடத்தியதன் பயன்தான் என்று அறிந்தோர் கூறுவர். கலைஞர் உரை கூறுவது: உலகில் இன்புற்று வாழ்கின்றவர்க்கு வாய்க்கும் சிறப்பு, அவர் அன்புள்ளம் கொண்டவராக விளங்குவதன் பயனே என்று கூறலாம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Love (Domestic Virtue), Kural 75 speaks directly to teens navigating studies, friendships, leadership, and digital choices: These are the fruits of tranquil life of love. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அன்புடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Love' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அன்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 75 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 75 from Chapter 'The Possession of Love'?",
+        "quiz_options_ta": [
+          "உள்ளத்தில் கோணுதல் இல்லாத தன்மையை உறுதியாகப் பெற்றால், சொல்லிலும் கோணுதல் இல்லாதிருத்தல் நடுவுநிலைமையாம்.",
+          "யாரிடத்திலும் பொறாமை இல்லாதிருக்கப் பெற்றால், ஒருவன் பெறத்தக்க மேம்பாடான பேறுகளில் அதற்கு ஒப்பானது வேறொன்றும் இல்லை.",
+          "யான் வறியவன் என்று நினைத்துத் தீய செயல்களைச் செய்யக்கூடாது, செய்தால் மீண்டும் வறியவன் ஆகி வருந்துவான்.",
+          "உலகத்தில் இன்பம் உற்று வாழ்கின்றவர் அடையும் சிறப்பு, அன்பு உடையவராகிப் பொருந்தி வாழும் வாழ்கையின் பயன் என்று கூறுவர்"
+        ],
+        "quiz_options_en": [
+          "Justice is upright, unbending And free from crooked word-twisting",
+          "No excellence excels the one That by nature envies none",
+          "Who makes poverty plea for ill Shall reduce himself poorer still",
+          "The crowning joy of home life flows From peaceful psychic love always"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அன்புடைமை) பகுதியில் குறள் 75 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உலகத்தில் இன்பம் உற்று வாழ்கின்றவர் அடையும் சிறப்பு, அன்பு உடையவராகிப் பொருந்தி வாழும் வாழ்கையின் பயன் என்று கூறுவர். பரிமேலழகர் உரை நுட்பம்: அன்பு உற்று அமர்ந்த வழக்கு என்ப - அன்புடையராய் இல்லறத்தோடு பொருந்திய நெறியின் பயன் என்று சொல்லுவர் அறிந்தோர்; வையகத்து இன்பு உற்றார் எய்தும் சிறப்பு - இவ்வுலகத்து இல்வாழ்க்கைக்கண் நின்று, இன்பம் நுகர்ந்து, அதன்மேல் துறக்கத்துச் சென்று எய்தும் பேரின்பத்தினை...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 8: 'The Possession of Love'), Kural 75 distills a foundational ethical insight: \"Sweetness on earth and rarest bliss above, These are the fruits of tranquil life of love\" Philosophically, These are the fruits of tranquil life of love.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "love",
+        "family",
+        "speech",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 76,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அறியாதவர், அறத்திற்கு மட்டுமே அன்பு துணையாகும் என்று கூறுவர்:ஆராய்ந்து பார்த்தால் வீரத்திற்க்கும் அதுவே துணையாக நிற்கின்றது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The ignorant say that love is an ally to virtue only, but it is also a help to get out of vice.",
+        "story_title_ta": "அன்புடைமை — முகில் கற்ற பாடம்",
+        "story_title_en": "The Possession of Love — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அன்புடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 76 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அறத்திற்கு மட்டுமே அன்பு துணையாகும் என்று கூறுவோர் அறியாதவரே; மறத்திற்கும் கூட அதுவே காரணம் ஆகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'The Possession of Love'. Grandpa shared Kural 76 and explained in simple words: The ignorant say that love is an ally to virtue only, but it is also a help to get out of vice. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வீரச் செயல்களுக்கும் அன்பு துணையாகத் திகழ்கிறது என்பதை அறியாதவர்களே, அறச் செயல்களுக்கு மட்டுமே அன்பு துணையாக இருப்பதாகக் கூறுவார்கள்.",
+        "moral_en": "Moral: The unwise deem love virtue only can sustain, It also helps the man who evil would restrain.",
+        "game_blank_word_ta": "மறத்திற்கும்",
+        "game_options_ta": [
+          "மறத்திற்கும்",
+          "அன்பிற்கும்",
+          "உண்டோ",
+          "அடைக்குந்தாழ்"
+        ],
+        "game_options_en": [
+          "\\\"Love is virtue's friend\\\" say know-nots It helps us against evil plots",
+          "What bolt can bar true love in fact The tricking tears reveal the heart",
+          "To selves belong the loveless ones; To oth'rs the loving e'en to bones",
+          "Soul is encased in frame of bone To taste the life of love alone"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அன்புடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 76, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறத்திற்கு மட்டுமே அன்பு துணையாகும் என்று கூறுவோர் அறியாதவரே; மறத்திற்கும் கூட அதுவே காரணம் ஆகும். கலைஞர் உரை கூறுவது: வீரச் செயல்களுக்கும் அன்பு துணையாகத் திகழ்கிறது என்பதை அறியாதவர்களே, அறச் செயல்களுக்கு மட்டுமே அன்பு துணையாக இருப்பதாகக் கூறுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Love (Domestic Virtue), Kural 76 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The ignorant say that love is an ally to virtue only, but it is also a help to get out of vice. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அன்புடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Love' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அன்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 76 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 76 from Chapter 'The Possession of Love'?",
+        "quiz_options_ta": [
+          "அறியாதவர், அறத்திற்கு மட்டுமே அன்பு துணையாகும் என்று கூறுவர்:ஆராய்ந்து பார்த்தால் வீரத்திற்க்கும் அதுவே துணையாக நிற்கின்றது",
+          "பிறர் பொருளையும் தம் பொருள் போல் போற்றிச் செய்தால், அதுவே வாணிகம் செய்வோர்க்கு உரி‌ய நல்ல வாணிக முறையாகும்.",
+          "தனக்கு அறமும் ஆக்கமும் விரும்பாதவன் என்று கருதத் தக்கவனே, பிறனுடைய ஆக்கத்தைக் கண்டு மகிழாமல் அதற்காகப் பொறாமைப்படுவான்.",
+          "துன்பம் செய்யும் தீவினைகள் தன்னை வருத்துதலை விரும்பாதவன், தீயசெயல்களைத் தான் பிறருக்குச் செய்யாமலிருக்க வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "\\\"Love is virtue's friend\\\" say know-nots It helps us against evil plots",
+          "A trader's trade prospers fairly When his dealings are neighbourly",
+          "Who envies others' good fortune Can't prosper in virtue of his own",
+          "From wounding others let him refrain Who would from harm himself remain"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அன்புடைமை) பகுதியில் குறள் 76 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறியாதவர், அறத்திற்கு மட்டுமே அன்பு துணையாகும் என்று கூறுவர்:ஆராய்ந்து பார்த்தால் வீரத்திற்க்கும் அதுவே துணையாக நிற்கின்றது. பரிமேலழகர் உரை நுட்பம்: அன்பு சார்பு அறத்திற்கே என்ப அறியார் - அன்பு துணையாவது அறத்திற்கே என்று சொல்லுவர் சிலர் அறியார்; மறத்திற்கும் அஃதே துணை - ஏனை மறத்திற்கும் அவ்வன்பே துணையாவது. (ஒருவன் செய்த பகைமைபற்றி உள்ளத்து மறம் நிகழ்ந்துழி, அவனை நட்பாகக் கருதி அவன் மேல் அன்புசெய்ய அது...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 8: 'The Possession of Love'), Kural 76 distills a foundational ethical insight: \"The unwise deem love virtue only can sustain, It also helps the man who evil would restrain\" Philosophically, The ignorant say that love is an ally to virtue only, but it is also a help to get out of vice.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "love",
+        "ethics",
+        "friendship",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 77,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: எலும்பு இல்லாத உடம்போடு வாழும் புழுவை வெயில் காய்ந்து வருத்துவது போல் அன்பு இல்லாத உயிரை அறம் வருத்தும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Virtue will burn up the soul which is without love, even as the sun burns up the creature which is without bone, ie worms.",
+        "story_title_ta": "அன்புடைமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Possession of Love — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அன்புடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 77 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எலும்பு இல்லாத புழுவை வெயில் காய்ந்து கொள்வது போல அன்பு இல்லாத உயிரை அறக்கடவுள் காய்ந்து கொல்லும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'The Possession of Love'. Grandpa shared Kural 77 and explained in simple words: Virtue will burn up the soul which is without love, even as the sun burns up the creature which is without bone, ie worms. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அறம் எதுவென அறிந்தும் அதனைக் கடைப்பிடிக்காதவரை, அவரது மனச்சாட்சியே வாட்டி வதைக்கும் அது வெயிலின் வெம்மை புழுவை வாட்டுவதுபோல இருக்கும்.",
+        "moral_en": "Moral: As sun's fierce ray dries up the boneless things, So loveless beings virtue's power to nothing brings.",
+        "game_blank_word_ta": "அறம்",
+        "game_options_ta": [
+          "அன்பிற்கும்",
+          "அறம்",
+          "உண்டோ",
+          "அடைக்குந்தாழ்"
+        ],
+        "game_options_en": [
+          "What bolt can bar true love in fact The tricking tears reveal the heart",
+          "Justice burns the loveless form Like solar blaze the boneless worm",
+          "To selves belong the loveless ones; To oth'rs the loving e'en to bones",
+          "Soul is encased in frame of bone To taste the life of love alone"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அன்புடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 77, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எலும்பு இல்லாத புழுவை வெயில் காய்ந்து கொள்வது போல அன்பு இல்லாத உயிரை அறக்கடவுள் காய்ந்து கொல்லும். கலைஞர் உரை கூறுவது: அறம் எதுவென அறிந்தும் அதனைக் கடைப்பிடிக்காதவரை, அவரது மனச்சாட்சியே வாட்டி வதைக்கும் அது வெயிலின் வெம்மை புழுவை வாட்டுவதுபோல இருக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Love (Domestic Virtue), Kural 77 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Virtue will burn up the soul which is without love, even as the sun burns up the creature which is without bone, ie worms. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அன்புடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Love' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அன்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 77 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 77 from Chapter 'The Possession of Love'?",
+        "quiz_options_ta": [
+          "அடக்கம் ஒருவனை உயர்த்தித் தேவருள் சேர்க்கும்; அடக்கம் இல்லாதிருத்தல், பொல்லாத இருள் போன்ற தீய வாழ்க்கையில் செலுத்தி விடும்.",
+          "எலும்பு இல்லாத உடம்போடு வாழும் புழுவை வெயில் காய்ந்து வருத்துவது போல் அன்பு இல்லாத உயிரை அறம் வருத்தும்.",
+          "பொறாமைப்படுதலாகிய தவறான நெறியில் துன்பம் ஏற்படுத‌ை அறிந்து, பொறாமை காரணமாக அறமல்லாதவைகளைச் செய்யார் அறிவுடையோர்.",
+          "எவ்வளவு கொடிய பகை உடையவரும் தப்பி வாழ முடியும், ஆனால் தீயவை செய்தால் வரும் தீவினையாகிய பகை நீங்காமல் பின் சென்று வருத்தும்."
+        ],
+        "quiz_options_en": [
+          "Self-rule leads to realms of gods Indulgence leads to gloomy hades",
+          "Justice burns the loveless form Like solar blaze the boneless worm",
+          "The wise through envy don't others wrong Knowing that woes from evils throng",
+          "Men may escape other foes and live But sin its deadly blow will give"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அன்புடைமை) பகுதியில் குறள் 77 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எலும்பு இல்லாத உடம்போடு வாழும் புழுவை வெயில் காய்ந்து வருத்துவது போல் அன்பு இல்லாத உயிரை அறம் வருத்தும். பரிமேலழகர் உரை நுட்பம்: என்பு இலதனை வெயில் போலக் காயும் - என்பு இல்லாத உடம்பை வெயில் காய்ந்தாற்போலக்காயும்; அன்பு இலதனை அறம் - அன்பில்லாத உயிரை அறக்கடவுள். ('என்பிலது' என்றதனான் உடம்பு என்பதூஉம் 'அன்பிலது' என்றதனான் உயிர் என்பதூஉம் பெற்றாம். வெறுப்பு இன்றி எங்கும் ஒருதன்மைத்து ஆகிய...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 8: 'The Possession of Love'), Kural 77 distills a foundational ethical insight: \"As sun's fierce ray dries up the boneless things, So loveless beings virtue's power to nothing brings\" Philosophically, Virtue will burn up the soul which is without love, even as the sun burns up the creature which is without bone, ie worms.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "love",
+        "ethics",
+        "justice",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 78,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அகத்தில் அன்பு இல்லாமல் வாழும் உயிர் வாழக்கை வளமற்ற பாலைநிலத்தில் பட்டமரம் தளிர்த்தாற் போன்றது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The domestic state of that man whose mind is without love is like the flourishing of a withered tree upon the parched desert.",
+        "story_title_ta": "அன்புடைமை — கவின் கற்ற பாடம்",
+        "story_title_en": "The Possession of Love — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அன்புடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 78 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மனத்தில் அன்பு இல்லாமல் குடும்பத்தோடு வாழும் வாழ்க்கை, வறண்ட பாலை நிலத்தில் காய்ந்து சுக்காகிப் போன மரம் மீண்டும் இலை விடுவது போலாம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'The Possession of Love'. Grandpa shared Kural 78 and explained in simple words: The domestic state of that man whose mind is without love is like the flourishing of a withered tree upon the parched desert. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மனத்தில் அன்பு இல்லாதவருடைய வாழ்க்கை, பாலைவனத்தில் பட்டமரம் தளிர்த்தது போன்றது.",
+        "moral_en": "Moral: The loveless soul, the very joys of life may know, When flowers, in barren soil, on sapless trees, shall blow.",
+        "game_blank_word_ta": "தில்லா",
+        "game_options_ta": [
+          "அன்பிற்கும்",
+          "உண்டோ",
+          "தில்லா",
+          "அடைக்குந்தாழ்"
+        ],
+        "game_options_en": [
+          "What bolt can bar true love in fact The tricking tears reveal the heart",
+          "To selves belong the loveless ones; To oth'rs the loving e'en to bones",
+          "Life bereft of love is gloom Can sapless tree in desert bloom?",
+          "Soul is encased in frame of bone To taste the life of love alone"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அன்புடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 78, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனத்தில் அன்பு இல்லாமல் குடும்பத்தோடு வாழும் வாழ்க்கை, வறண்ட பாலை நிலத்தில் காய்ந்து சுக்காகிப் போன மரம் மீண்டும் இலை விடுவது போலாம். கலைஞர் உரை கூறுவது: மனத்தில் அன்பு இல்லாதவருடைய வாழ்க்கை, பாலைவனத்தில் பட்டமரம் தளிர்த்தது போன்றது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Love (Domestic Virtue), Kural 78 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The domestic state of that man whose mind is without love is like the flourishing of a withered tree upon the parched desert. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அன்புடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Love' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அன்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 78 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 78 from Chapter 'The Possession of Love'?",
+        "quiz_options_ta": [
+          "அடக்கத்தை உறுதிப் பொருளாகக் கொண்டு போற்றிக் ‌காக்க வேண்டும். அந்த அடக்கத்தைவிட மேம்பட்ட ஆக்கம் உயிர்க்கு இல்லை.",
+          "பொறாமை உடை‌யவர்க்கு வேறு பகை வேண்டா. அஃது ஒன்றே போதும், பகைவர் தீங்கு செய்யத் தவறினாலும் தவறாது கேட்டைத் தருவது அது.",
+          "அகத்தில் அன்பு இல்லாமல் வாழும் உயிர் வாழக்கை வளமற்ற பாலைநிலத்தில் பட்டமரம் தளிர்த்தாற் போன்றது.",
+          "தீய செயல்களைச் செய்தவர் கேட்டை அடைதல், ஒருவனுடைய நிழல் அவனை விடாமல் வந்து அடியில் தங்கியிருத்தலைப் போன்றது."
+        ],
+        "quiz_options_en": [
+          "No gains with self-control measure Guard with care this great treasure",
+          "Man shall be wrecked by envy's whim Even if enemies spare him",
+          "Life bereft of love is gloom Can sapless tree in desert bloom?",
+          "Ruin follows who evil do As shadow follows as they go"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அன்புடைமை) பகுதியில் குறள் 78 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அகத்தில் அன்பு இல்லாமல் வாழும் உயிர் வாழக்கை வளமற்ற பாலைநிலத்தில் பட்டமரம் தளிர்த்தாற் போன்றது. பரிமேலழகர் உரை நுட்பம்: அகத்து அன்பு இல்லா உயிர் வாழ்க்கை - மனத்தின்கண் அன்பு இல்லாத உயிர் இல்லறத்தோடு கூடி வாழ்தல்; வன்பாற்கண் வற்றல் மரம் தளிர்த்தற்று - வன்பாலின்கண்வற்றல் ஆகிய மரம் தளிர்த்தாற் போலும். ( கூடாது என்பதாம். வன்பால் - வல்நிலம். வற்றல் என்பது பால் விளங்கா அஃறிணைப...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 8: 'The Possession of Love'), Kural 78 distills a foundational ethical insight: \"The loveless soul, the very joys of life may know, When flowers, in barren soil, on sapless trees, shall blow\" Philosophically, The domestic state of that man whose mind is without love is like the flourishing of a withered tree upon the parched desert.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "love",
+        "leadership",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 79,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: உடம்பின் அகத்து உறுப்பாகிய அன்பு இல்லாதவர்க்கு உடம்பின் புறத்து உறுப்புக்கள் எல்லாம் என்ன பயன் செய்யும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Of what avail are all the external members (of the body) to those who are destitute of love, the internal member.",
+        "story_title_ta": "அன்புடைமை — நிலா கற்ற பாடம்",
+        "story_title_en": "The Possession of Love — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அன்புடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 79 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'குடும்பத்திற்கு அக உறுப்பாகிய அன்பு இல்லாவதர்களுக்கு வெளி உறுப்பாக விளங்கும் இடம், பொருள், ஏவல் என்பன என்ன பயனைத் தரும்?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Possession of Love'. Grandpa shared Kural 79 and explained in simple words: Of what avail are all the external members (of the body) to those who are destitute of love, the internal member. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அன்பு எனும் அகத்து உறுப்பு இல்லாதவர்க்குப் புறத்து உறுப்புகள் அழகாக இருந்து என்ன பயன்?",
+        "moral_en": "Moral: Though every outward part complete, the body's fitly framed; What good, when soul within, of love devoid, lies halt and maimed.",
+        "game_blank_word_ta": "எவன்செய்யும்",
+        "game_options_ta": [
+          "அன்பிற்கும்",
+          "உண்டோ",
+          "அடைக்குந்தாழ்",
+          "எவன்செய்யும்"
+        ],
+        "game_options_en": [
+          "What bolt can bar true love in fact The tricking tears reveal the heart",
+          "To selves belong the loveless ones; To oth'rs the loving e'en to bones",
+          "Soul is encased in frame of bone To taste the life of love alone",
+          "Love is the heart which limbs must move, Or vain the outer parts will prove"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அன்புடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 79, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: குடும்பத்திற்கு அக உறுப்பாகிய அன்பு இல்லாவதர்களுக்கு வெளி உறுப்பாக விளங்கும் இடம், பொருள், ஏவல் என்பன என்ன பயனைத் தரும்? கலைஞர் உரை கூறுவது: அன்பு எனும் அகத்து உறுப்பு இல்லாதவர்க்குப் புறத்து உறுப்புகள் அழகாக இருந்து என்ன பயன்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Love (Domestic Virtue), Kural 79 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Of what avail are all the external members (of the body) to those who are destitute of love, the internal member. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அன்புடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Love' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அன்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 79 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 79 from Chapter 'The Possession of Love'?",
+        "quiz_options_ta": [
+          "அறிய வேண்டியவற்றை அறிந்து, நல்வழியில் அடங்கி ஒழுகப்பெற்றால், அந்த அடக்கம் நல்லோரால் அறியப்பட்டு மேன்மை பயக்கும்.",
+          "பிறர்க்கு உதவியாகக் கொடுக்கப்படும் பொருளைக் கண்டு பொறாமைப்படுகின்றவனுடைய சுற்றம், உடையும் உணவும் இல்லாமல் கெடும்.",
+          "ஒருவன் தன்னைத் தான் விரும்பி வாழ்பவனாயின், தீய செயலாகிய பகுதியை எவ்வளவு சிறியதாயினும் பொருந்தாமல் நீங்க வேண்டும்.",
+          "உடம்பின் அகத்து உறுப்பாகிய அன்பு இல்லாதவர்க்கு உடம்பின் புறத்து உறுப்புக்கள் எல்லாம் என்ன பயன் செய்யும்."
+        ],
+        "quiz_options_en": [
+          "Knowing wisdom who lives controlled Name and fame seek him untold",
+          "Who envies gifts shall suffer ruin Without food and clothes with his kin",
+          "Let none who loves himself at all Think of evil however small",
+          "Love is the heart which limbs must move, Or vain the outer parts will prove"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அன்புடைமை) பகுதியில் குறள் 79 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உடம்பின் அகத்து உறுப்பாகிய அன்பு இல்லாதவர்க்கு உடம்பின் புறத்து உறுப்புக்கள் எல்லாம் என்ன பயன் செய்யும். பரிமேலழகர் உரை நுட்பம்: யாக்கை அகத்து உறுப்பு அன்பு இலவர்க்கு - யாக்கை அகத்தின்கண் நின்று (இல்லறத்திற்கு) உறுப்பாகிய அன்புடையர் அல்லாதார்க்கு; புறத்து உறுப்பு எல்லாம் எவன் செய்யும் - ஏனைப் புறத்தின்கண் நின்று உறுப்பாவன எல்லாம் அவ்வறஞ்செய்தற்கண் என்ன உதவியைச் செய்யும்.? (புறத்து...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 8: 'The Possession of Love'), Kural 79 distills a foundational ethical insight: \"Though every outward part complete, the body's fitly framed; What good, when soul within, of love devoid, lies halt and maimed\" Philosophically, Of what avail are all the external members (of the body) to those who are destitute of love, the internal member.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "love",
+        "wealth",
+        "gratitude",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 80,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அன்பின் வழியில் இயங்கும் உடம்பே உயிர்நின்ற உடம்பாகும்: அன்பு இல்லாதவர்க்கு உள்ள உடம்பு எலும்பைத் தோல்போர்த்த வெற்றுடம்பே ஆகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: That body alone which is inspired with love contains a living soul: if void of it, (the body) is bone overlaid with skin.",
+        "story_title_ta": "அன்புடைமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Possession of Love — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அன்புடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 80 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அன்பை அடிப்படையாகக் கொண்டதே உயிர் நிறைந்த இந்த உடம்பு, அன்பு மட்டும் இல்லை என்றால் இந்த உடம்பு வெறும் எலும்பின்மேல் தோலைப் போர்த்தியது போன்றது ஆகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Possession of Love'. Grandpa shared Kural 80 and explained in simple words: That body alone which is inspired with love contains a living soul: if void of it, (the body) is bone overlaid with skin. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அன்புநெஞ்சத்தின் வழியில் இயங்குவதே உயிருள்ள உடலாகும்; இல்லையேல், அது எலும்பைத் தோல் போர்த்திய வெறும் உடலேயாகும்.",
+        "moral_en": "Moral: Bodies of loveless men are bony framework clad with skin; Then is the body seat of life, when love resides within.",
+        "game_blank_word_ta": "அஃதிலார்க்கு",
+        "game_options_ta": [
+          "அஃதிலார்க்கு",
+          "அன்பிற்கும்",
+          "உண்டோ",
+          "அடைக்குந்தாழ்"
+        ],
+        "game_options_en": [
+          "The seat of life is love alone; Or beings are but skin and bone!",
+          "What bolt can bar true love in fact The tricking tears reveal the heart",
+          "To selves belong the loveless ones; To oth'rs the loving e'en to bones",
+          "Soul is encased in frame of bone To taste the life of love alone"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அன்புடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 80, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அன்பை அடிப்படையாகக் கொண்டதே உயிர் நிறைந்த இந்த உடம்பு, அன்பு மட்டும் இல்லை என்றால் இந்த உடம்பு வெறும் எலும்பின்மேல் தோலைப் போர்த்தியது போன்றது ஆகும். கலைஞர் உரை கூறுவது: அன்புநெஞ்சத்தின் வழியில் இயங்குவதே உயிருள்ள உடலாகும்; இல்லையேல், அது எலும்பைத் தோல் போர்த்திய வெறும் உடலேயாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Love (Domestic Virtue), Kural 80 speaks directly to teens navigating studies, friendships, leadership, and digital choices: That body alone which is inspired with love contains a living soul: if void of it, (the body) is bone overlaid with skin. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அன்புடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Love' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அன்புடைமை' அதிகாரத்தில் வரும் திருக்குறள் 80 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 80 from Chapter 'The Possession of Love'?",
+        "quiz_options_ta": [
+          "அன்பின் வழியில் இயங்கும் உடம்பே உயிர்நின்ற உடம்பாகும்: அன்பு இல்லாதவர்க்கு உள்ள உடம்பு எலும்பைத் தோல்போர்த்த வெற்றுடம்பே ஆகும்",
+          "தன் நிலையிலிருந்து மாறுபடாமல் அடங்கி ஒழுகுவோனுடைய உயர்வு, மலையின் உயர்வை விட மிகவும் பெரிதாகும்.",
+          "பொறாமை உடையவனைத் திருமகள் கண்டு பொறாமைப்பட்டுத் தன் தமக்கைக்கு அவனைக் காட்டி நீங்கி விடுவாள்.",
+          "ஒருவன் தவறான நெறியில் சென்று தீயசெயல் செய்யாதிருப்பானானால் அவன் கேடு இல்லாதவன் என்று அறியலாம்."
+        ],
+        "quiz_options_en": [
+          "The seat of life is love alone; Or beings are but skin and bone!",
+          "Firmly fixed in self serene The sage looks grander than mountain",
+          "Fortune deserts the envious Leaving misfortune omnious",
+          "He is secure, know ye, from ills Who slips not right path to do evils"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அன்புடைமை) பகுதியில் குறள் 80 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன்பின் வழியில் இயங்கும் உடம்பே உயிர்நின்ற உடம்பாகும்: அன்பு இல்லாதவர்க்கு உள்ள உடம்பு எலும்பைத் தோல்போர்த்த வெற்றுடம்பே ஆகும். பரிமேலழகர் உரை நுட்பம்: அன்பின் வழியது உயிர்நிலை - அன்பு முதலாக அதன் வழிநின்ற உடம்பே உயிர்நின்ற உடம்பாவது; அஃது இலார்க்கு உடம்பு என்பு தோல் போர்த்த - அவ்வன்பு இல்லாதார்க்கு உளவான உடம்புகள் என்பினைத் தோலால் போர்த்தன ஆம்; உயிர் நின்றன ஆகா. (இல்லறம் பயவாமையின், அன்ன ஆயின. இவை நான்கு...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 8: 'The Possession of Love'), Kural 80 distills a foundational ethical insight: \"Bodies of loveless men are bony framework clad with skin; Then is the body seat of life, when love resides within\" Philosophically, That body alone which is inspired with love contains a living soul: if void of it, (the body) is bone overlaid with skin.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "love",
+        "discipline",
+        "family",
+        "leadership"
+      ]
+    }
+  ]
+}

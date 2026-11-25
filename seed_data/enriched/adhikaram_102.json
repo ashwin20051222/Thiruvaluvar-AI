@@ -1,0 +1,585 @@
+{
+  "adhikaram_id": 102,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.398288067+00:00",
+  "kurals": [
+    {
+      "kural_number": 1011,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தகாத செயல் காரணமாக நாணுவதே நாணமாகும், பெண்களுக்கு இயல்பான மற்ற நாணங்கள் வேறு வகையானவை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: True modesty is the fear of (evil) deeds; all other modesty is (simply) the bashfulness of virtuous maids.",
+        "story_title_ta": "நாணுடைமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Shame — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாணுடைமை' என்ற அதிகாரத்திலிருந்து குறள் 1011 பற்றிக் கதை சொன்னார். 'இழிவான செயல்களுக்கு வெட்கப்படுவதே அனைவர்க்கும் பொதுவான நாணம்; மற்றொன்று அழகிய நெற்றி கொண்ட பெண்களின் இயல்பான வெட்கம் ஆகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 102, 'Shame', centered on Kural 1011: True modesty is the fear of (evil) deeds; all other modesty is (simply) the bashfulness of virtuous maids. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவர் தமது தகாத நடத்தையின் காரணமாக நாணுவதற்கும், நல்ல பெண்களுக்கு இயல்பாக ஏற்படும் நாணத்துக்கும் மிகுந்த வேறுபாடு உண்டு.",
+        "moral_en": "Moral: To shrink abashed from evil deed is 'generous shame'; Other is that of bright-browed one of virtuous fame.",
+        "game_blank_word_ta": "திருநுதல்",
+        "game_options_ta": [
+          "ஊணுடை",
+          "எச்சம்",
+          "உயிர்க்கெல்லாம்",
+          "திருநுதல்"
+        ],
+        "game_options_en": [
+          "Food, dress and such are one for all Modesty marks the higher soul",
+          "All lives have their lodge in flesh Perfection has its home in blush",
+          "Shame is the jewel of dignity Shameless swagger is vanity",
+          "To shrink from evil deed is shame The rest is blush of fair-faced dame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1011, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இழிவான செயல்களுக்கு வெட்கப்படுவதே அனைவர்க்கும் பொதுவான நாணம்; மற்றொன்று அழகிய நெற்றி கொண்ட பெண்களின் இயல்பான வெட்கம் ஆகும். கலைஞர் உரை கூறுவது: ஒருவர் தமது தகாத நடத்தையின் காரணமாக நாணுவதற்கும், நல்ல பெண்களுக்கு இயல்பாக ஏற்படும் நாணத்துக்கும் மிகுந்த வேறுபாடு உண்டு. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Shame (Citizenship & Miscellaneous), Kural 1011 speaks directly to teens navigating studies, friendships, leadership, and digital choices: True modesty is the fear of (evil) deeds; all other modesty is (simply) the bashfulness of virtuous maids. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாணுடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Shame' thoughtfully.",
+        "quiz_question_ta": "'நாணுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 1011 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1011 from Chapter 'Shame'?",
+        "quiz_options_ta": [
+          "ஒருவர் முன் நின்று இரப்பவர் அந்த இரத்தலை மேற்கொள்வது, உள்ளதை இல்லை என்று ஒளித்துக்கூறாத நன்மைகள் உலகத்தில் இருப்பதால் தான்.",
+          "யான் நோக்கும் போது அதற்காக அன்பு கொண்டவனாய் மெல்லச் சிரிப்பாள், அசையும் மெல்லிய இயல்பை உடைய அவளுக்கு அப்போது ஓர் அழகு உள்ளது.",
+          "(எம் காதலைப் பற்றி) அலர் எழுவதால் அறிய உயிர் போகாமல் நிற்கின்றது, எம் நல்வினைப் பயனால் பலரும் அறியாமலிருக்கின்றனர்.",
+          "தகாத செயல் காரணமாக நாணுவதே நாணமாகும், பெண்களுக்கு இயல்பான மற்ற நாணங்கள் வேறு வகையானவை."
+        ],
+        "quiz_options_en": [
+          "The needy demand for help because The world has men who don't refuse",
+          "What a grace the slim maid has! As I look she slightly smiles",
+          "Rumour sustains my existence Good luck! many know not its sense",
+          "To shrink from evil deed is shame The rest is blush of fair-faced dame"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நாணுடைமை) பகுதியில் குறள் 1011 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தகாத செயல் காரணமாக நாணுவதே நாணமாகும், பெண்களுக்கு இயல்பான மற்ற நாணங்கள் வேறு வகையானவை. பரிமேலழகர் உரை நுட்பம்: நாணுக் கருமத்தால் நாணுதல் - நன்மக்கள் நாணாவது இழந்த கருமங் காரணமாக நாணுதல்; பிற திரு நுதல் நல்லவர் நாணு - அஃதன்றி மனமொழிமெய்களது ஒடுக்கத்தான் வருவனவோ வெனின், அவை அவரளவல்ல, அழகிய நுதலினையுடைய குலமகளிர் நாண்கள். ('பிற குலமகளிர் நாண்' என்றதனான், ஏனையது...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 102: 'Shame'), Kural 1011 distills a foundational ethical insight: \"To shrink abashed from evil deed is 'generous shame'; Other is that of bright-browed one of virtuous fame\" Philosophically, True modesty is the fear of (evil) deeds; all other modesty is (simply) the bashfulness of virtuous maids.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "justice",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 1012,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: உணவும், உடையும் எஞ்சி நிற்கும் மற்றவையும், எல்லா உயிர்களுக்கும் பொதுவானவை, மக்களின் சிறப்பியல்பாக விளங்குவது நாணுடைமையே ஆகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Food, clothing and the like are common to all men but modesty is peculiar to the good.",
+        "story_title_ta": "நாணுடைமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Shame — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாணுடைமை' என்ற அதிகாரத்திலிருந்து குறள் 1012 பற்றிக் கதை சொன்னார். 'உணவு, உடை இன்னும் பிற சிறப்புகள், எல்லா மனிதர்க்கும் ஒன்றே; நல்ல மனிதர்க்குச் சிறப்பாவது நாண் உடைமையே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 102, 'Shame', centered on Kural 1012: Food, clothing and the like are common to all men but modesty is peculiar to the good. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உணவு, உடை போன்ற அனைத்தும் எல்லோருக்கும் பொதுவான தேவைகளாக அமைகின்றன; ஆனால் சிறப்புக்குரிய தேவையாக இருப்பது, பிறரால் பழிக்கப்படும் செயல்களைத் தவிர்த்து வாழும் நாணுடைமைதான்.",
+        "moral_en": "Moral: Food, clothing, and other things alike all beings own; By sense of shame the excellence of men is known.",
+        "game_blank_word_ta": "நாணுடைமை",
+        "game_options_ta": [
+          "நாணுடைமை",
+          "கருமத்தால்",
+          "நாணுதல்",
+          "நாணுந்"
+        ],
+        "game_options_en": [
+          "Food, dress and such are one for all Modesty marks the higher soul",
+          "To shrink from evil deed is shame The rest is blush of fair-faced dame",
+          "All lives have their lodge in flesh Perfection has its home in blush",
+          "Shame is the jewel of dignity Shameless swagger is vanity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1012, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உணவு, உடை இன்னும் பிற சிறப்புகள், எல்லா மனிதர்க்கும் ஒன்றே; நல்ல மனிதர்க்குச் சிறப்பாவது நாண் உடைமையே. கலைஞர் உரை கூறுவது: உணவு, உடை போன்ற அனைத்தும் எல்லோருக்கும் பொதுவான தேவைகளாக அமைகின்றன; ஆனால் சிறப்புக்குரிய தேவையாக இருப்பது, பிறரால் பழிக்கப்படும் செயல்களைத் தவிர்த்து வாழும் நாணுடைமைதான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Shame (Citizenship & Miscellaneous), Kural 1012 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Food, clothing and the like are common to all men but modesty is peculiar to the good. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாணுடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Shame' thoughtfully.",
+        "quiz_question_ta": "'நாணுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 1012 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1012 from Chapter 'Shame'?",
+        "quiz_options_ta": [
+          "உணவும், உடையும் எஞ்சி நிற்கும் மற்றவையும், எல்லா உயிர்களுக்கும் பொதுவானவை, மக்களின் சிறப்பியல்பாக விளங்குவது நாணுடைமையே ஆகும்.",
+          "உள்ளதை ஒளிக்கும் துன்பநிலை இல்லாதவரைக் கண்டால், இரப்பவரின் வறுமைத் துன்பம் எல்லாம் ஒரு சேரக் கெடும்.",
+          "புறத்தே அயலார்போல் அன்பில்லாத பொது நோக்கம் கொண்டு பார்த்தல், அகத்தே காதல் கொண்டவரிடம் உள்ள இயல்பாகும்.",
+          "மலர் போன்ற கண்ணை உடைய இவளுடைய அருமை அறியாமல், இந்த ஊரார் எளியவளாகக் கருதி அலர் கூறி எமக்கு உதவி செய்தனர்."
+        ],
+        "quiz_options_en": [
+          "Food, dress and such are one for all Modesty marks the higher soul",
+          "The pain of poverty shall die Before the free who don't deny",
+          "Between lovers we do discern A stranger's look of unconcern",
+          "Rumour gives me the flower-like belle People know not what rare angel"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நாணுடைமை) பகுதியில் குறள் 1012 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உணவும், உடையும் எஞ்சி நிற்கும் மற்றவையும், எல்லா உயிர்களுக்கும் பொதுவானவை, மக்களின் சிறப்பியல்பாக விளங்குவது நாணுடைமையே ஆகும். பரிமேலழகர் உரை நுட்பம்: ஊண் உடை எச்சம் உயிர்க்கு எல்லாம் வேறு அல்ல - ஊணும் உடையும் அவை யொழிந்தனவும் மக்களுயிர்க்கெல்லாம் பொது; மாந்தர் சிறப்பு நாண் உடைமை - நன்மக்கட்குச் சிறப்பாவது நாணுடைமையே, அவையல்ல. (ஒழிந்தன - உறக்கமும் அச்சமும் காமமும். சிறப்பு - அவ்வுயிர்களின் வேறுபாடு...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 102: 'Shame'), Kural 1012 distills a foundational ethical insight: \"Food, clothing, and other things alike all beings own; By sense of shame the excellence of men is known\" Philosophically, Food, clothing and the like are common to all men but modesty is peculiar to the good.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 1013,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: எல்லா உயிர்களும் ஊனாலாகிய உடம்பை இருப்பிடமாகக் கொண்டவை, சால்பு என்பது நாணம் என்று சொல்லப்படும் நல்லப் பண்பை இருப்பிடமாகக் கொண்டது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: As the body is the abode of the spirit, so the excellence of modesty is the abode of perfection.",
+        "story_title_ta": "நாணுடைமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Shame — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாணுடைமை' என்ற அதிகாரத்திலிருந்து குறள் 1013 பற்றிக் கதை சொன்னார். 'எல்லா உயிர்களும் உடம்பை இடமாகக் கொண்டுள்ளன; அதுபோல், சான்றாண்மையும், நாணம் என்னும் நல்ல குணத்தை இடமாகக் கொண்டுள்ளது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 102, 'Shame', centered on Kural 1013: As the body is the abode of the spirit, so the excellence of modesty is the abode of perfection. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உடலுடன் இணைந்தே உயிர் இருப்பது போல், மாண்பு என்பது நாண உணர்வுடன் இணைந்து இருப்பதேயாகும்.",
+        "moral_en": "Moral: All spirits homes of flesh as habitation claim, And perfect virtue ever dwells with shame.",
+        "game_blank_word_ta": "குறித்தது",
+        "game_options_ta": [
+          "கருமத்தால்",
+          "குறித்தது",
+          "நாணுதல்",
+          "நாணுந்"
+        ],
+        "game_options_en": [
+          "To shrink from evil deed is shame The rest is blush of fair-faced dame",
+          "All lives have their lodge in flesh Perfection has its home in blush",
+          "Food, dress and such are one for all Modesty marks the higher soul",
+          "Shame is the jewel of dignity Shameless swagger is vanity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1013, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எல்லா உயிர்களும் உடம்பை இடமாகக் கொண்டுள்ளன; அதுபோல், சான்றாண்மையும், நாணம் என்னும் நல்ல குணத்தை இடமாகக் கொண்டுள்ளது. கலைஞர் உரை கூறுவது: உடலுடன் இணைந்தே உயிர் இருப்பது போல், மாண்பு என்பது நாண உணர்வுடன் இணைந்து இருப்பதேயாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Shame (Citizenship & Miscellaneous), Kural 1013 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As the body is the abode of the spirit, so the excellence of modesty is the abode of perfection. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாணுடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Shame' thoughtfully.",
+        "quiz_question_ta": "'நாணுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 1013 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1013 from Chapter 'Shame'?",
+        "quiz_options_ta": [
+          "இகழ்ந்து எள்ளாமல் பொருள் கொடுப்பவரைக் கண்டால், இரப்பவரின் உள்ளம் மகிழ்ந்து உள்ளுக்குள்ளே உவகை அடையும் தன்மையுடையதாகும்.",
+          "எல்லா உயிர்களும் ஊனாலாகிய உடம்பை இருப்பிடமாகக் கொண்டவை, சால்பு என்பது நாணம் என்று சொல்லப்படும் நல்லப் பண்பை இருப்பிடமாகக் கொண்டது.",
+          "கண்களோடு கண்கள் நோக்காமல் ஒத்திருந்து அன்பு செய்யுமானால் வாய்ச் சொற்கள் என்ன பயனும் இல்லாமற் போகின்றன.",
+          "ஊரார் எல்லோரும் அறிந்துள்ள அலர் நமக்குப் பொருந்தாதோ, (பொருந்தும்) அந்த அலர் பெறமுடியாமலிருந்து பெற்றார் போன்ற நன்மை உடையதாக இருக்கின்றது."
+        ],
+        "quiz_options_en": [
+          "When givers without scorn impart A thrill of delight fills the heart",
+          "All lives have their lodge in flesh Perfection has its home in blush",
+          "The words of mouth are of no use When eye to eye agrees the gaze",
+          "I profit by this public rumour Having not, I feel, I have her"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நாணுடைமை) பகுதியில் குறள் 1013 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எல்லா உயிர்களும் ஊனாலாகிய உடம்பை இருப்பிடமாகக் கொண்டவை, சால்பு என்பது நாணம் என்று சொல்லப்படும் நல்லப் பண்பை இருப்பிடமாகக் கொண்டது. பரிமேலழகர் உரை நுட்பம்: உயிர் எல்லாம் ஊனைக் குறித்த - எல்லா உயிர்களும் உடம்பினைத் தமக்கு நிலைக்களனாகக் கொண்டு அதனை விடா: சால்பு நாண் என்னும் நன்மை குறித்தது - அது போலச் சால்பு என்னும் நன்மைக் குணத்தைத் தனக்கு நிலைகளனாகக் கொண்டு, அதனை விடாது. ('உடம்பு' என்பது சாதியொருமை. நன்மை...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 102: 'Shame'), Kural 1013 distills a foundational ethical insight: \"All spirits homes of flesh as habitation claim, And perfect virtue ever dwells with shame\" Philosophically, As the body is the abode of the spirit, so the excellence of modesty is the abode of perfection.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "family",
+        "ethics",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 1014,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: சான்றோர்க்கு நாணுடைமை அணிகலம் அன்றோ, அந்த அணிகலம் இல்லையானால் பெருமிதமாக நடக்கும் நடை ஒரு நோய் அன்றோ.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Is not the modesty ornament of the noble ? Without it, their haughtiness would be a pain (to others).",
+        "story_title_ta": "நாணுடைமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Shame — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாணுடைமை' என்ற அதிகாரத்திலிருந்து குறள் 1014 பற்றிக் கதை சொன்னார். 'நாணம்‌ இருப்பது சான்றோர்க்கு ஆபரணம்; அது மட்டும் இல்‌லை என்றால் அவர்கள் நடக்கும் பெருமித நடை பார்ப்பவர்க்கு நோயாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 102, 'Shame', centered on Kural 1014: Is not the modesty ornament of the noble ? Without it, their haughtiness would be a pain (to others). Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நடந்த தவறு காரணமாகத் தமக்குள் வருந்துகிற நாணம் எனும் உணர்வு, பெரியவர்களுக்கு அணிகலன் ஆக விளங்கும் அந்த அணிகலன் இல்லாமல் என்னதான் பெருமிதமாக நடைபோட்டாலும், அந்த நடையை ஒரு நோய்க்கு ஒப்பானதாகவே கருத முடியும்.",
+        "moral_en": "Moral: And is not shame an ornament to men of dignity?Without it step of stately pride is piteous thing to see.",
+        "game_blank_word_ta": "பிணிஅன்றோ",
+        "game_options_ta": [
+          "கருமத்தால்",
+          "நாணுதல்",
+          "பிணிஅன்றோ",
+          "நாணுந்"
+        ],
+        "game_options_en": [
+          "To shrink from evil deed is shame The rest is blush of fair-faced dame",
+          "Food, dress and such are one for all Modesty marks the higher soul",
+          "Shame is the jewel of dignity Shameless swagger is vanity",
+          "All lives have their lodge in flesh Perfection has its home in blush"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1014, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாணம்‌ இருப்பது சான்றோர்க்கு ஆபரணம்; அது மட்டும் இல்‌லை என்றால் அவர்கள் நடக்கும் பெருமித நடை பார்ப்பவர்க்கு நோயாம். கலைஞர் உரை கூறுவது: நடந்த தவறு காரணமாகத் தமக்குள் வருந்துகிற நாணம் எனும் உணர்வு, பெரியவர்களுக்கு அணிகலன் ஆக விளங்கும் அந்த அணிகலன் இல்லாமல் என்னதான் பெருமிதமாக நடைபோட்டாலும், அந்த நடையை ஒரு நோய்க்கு ஒப்பானதாகவே கருத முடியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Shame (Citizenship & Miscellaneous), Kural 1014 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Is not the modesty ornament of the noble ? Without it, their haughtiness would be a pain (to others). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாணுடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Shame' thoughtfully.",
+        "quiz_question_ta": "'நாணுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 1014 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1014 from Chapter 'Shame'?",
+        "quiz_options_ta": [
+          "இரப்பவர் இல்லையானால், இப் பெரிய உலகின் இயக்கம் மரத்தால் செய்த பாவை கயிற்றினால் ஆட்டப்பட்டுச் சென்று வந்தாற் போன்றதாகும்.",
+          "கண்டும் கேட்டும் உண்டும் முகர்ந்தும் உற்றும் அறிகின்ற ஐந்து புலன்களாகிய இன்பங்களும் ஒளி பொருந்திய வளையல் அணிந்த இவளிடத்தில் உள்ளன.",
+          "சான்றோர்க்கு நாணுடைமை அணிகலம் அன்றோ, அந்த அணிகலம் இல்லையானால் பெருமிதமாக நடக்கும் நடை ஒரு நோய் அன்றோ.",
+          "எம் காமம் ஊரார் சொல்லுகின்ற அலரால் வளர்வதாயிற்று, அந்த அலர் இல்லையானால் அது தன் தன்மை இழந்து சுருங்கிப் போய்விடும்."
+        ],
+        "quiz_options_en": [
+          "This grand cool world shall move to and fro Sans Askers like a puppet show",
+          "In this bangled beauty dwell The joys of sight sound touch taste smell",
+          "Shame is the jewel of dignity Shameless swagger is vanity",
+          "Rumour inflames the love I seek Or else it becomes bleak and weak"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நாணுடைமை) பகுதியில் குறள் 1014 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சான்றோர்க்கு நாணுடைமை அணிகலம் அன்றோ, அந்த அணிகலம் இல்லையானால் பெருமிதமாக நடக்கும் நடை ஒரு நோய் அன்றோ. பரிமேலழகர் உரை நுட்பம்: சான்றோர்க்கு நாண் உடைமை அணியன்றோ - சான்றோர்க்கு நாண் உடைமை ஆபரணமாம்; அஃது இன்றேல் பீடுநடை பிணி அன்றோ - அவ்வாபரணம் இல்லையாயின் அவர் பெருமிதத்தையுடைய நடை கண்டார்க்குப் பிணியாம். (அழகு செய்தலின் 'அணி' என்றும், பொறுத்தற்கு அருமையின் 'பிணி' என்றும் கூறினார். ஓகார...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 102: 'Shame'), Kural 1014 distills a foundational ethical insight: \"And is not shame an ornament to men of dignity?Without it step of stately pride is piteous thing to see\" Philosophically, Is not the modesty ornament of the noble ? Without it, their haughtiness would be a pain (to others).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "humility",
+        "leadership",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 1015,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பிறர்க்கு வரும் பழிக்காகவும், தமக்கு வரும் பழிக்காகவும் நாணுகின்றவர் நாணத்திற்கு உறைவிட மானவர் என்று உலகம் சொல்லும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The world regards as the abode of modesty him who fear his own and other's guilt.",
+        "story_title_ta": "நாணுடைமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Shame — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாணுடைமை' என்ற அதிகாரத்திலிருந்து குறள் 1015 பற்றிக் கதை சொன்னார். 'தமக்கு வரும் பழிக்கு மட்டும் அன்றி, பிறர்க்கு வரும் பழிக்கும் வெட்கப்படுவோர், நாணம் வாழும் இடம் என்று உலகத்தவர் கூறுவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 102, 'Shame', centered on Kural 1015: The world regards as the abode of modesty him who fear his own and other's guilt. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தமக்கு வரும் பழிக்காக மட்டுமின்றிப் பிறர்க்கு வரும் பழிக்காகவும் வருந்தி நாணுகின்றவர், நாணம் எனும் பண்பிற்கான உறைவிடமாவார்.",
+        "moral_en": "Moral: As home of virtuous shame by all the world the men are known, Who feel ashamed for others, guilt as for their own.",
+        "game_blank_word_ta": "பிறர்பழியும்",
+        "game_options_ta": [
+          "கருமத்தால்",
+          "நாணுதல்",
+          "நாணுந்",
+          "பிறர்பழியும்"
+        ],
+        "game_options_en": [
+          "To shrink from evil deed is shame The rest is blush of fair-faced dame",
+          "Food, dress and such are one for all Modesty marks the higher soul",
+          "All lives have their lodge in flesh Perfection has its home in blush",
+          "In them resides the sense of shame Who blush for their and other's blame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1015, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தமக்கு வரும் பழிக்கு மட்டும் அன்றி, பிறர்க்கு வரும் பழிக்கும் வெட்கப்படுவோர், நாணம் வாழும் இடம் என்று உலகத்தவர் கூறுவர். கலைஞர் உரை கூறுவது: தமக்கு வரும் பழிக்காக மட்டுமின்றிப் பிறர்க்கு வரும் பழிக்காகவும் வருந்தி நாணுகின்றவர், நாணம் எனும் பண்பிற்கான உறைவிடமாவார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Shame (Citizenship & Miscellaneous), Kural 1015 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The world regards as the abode of modesty him who fear his own and other's guilt. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாணுடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Shame' thoughtfully.",
+        "quiz_question_ta": "'நாணுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 1015 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1015 from Chapter 'Shame'?",
+        "quiz_options_ta": [
+          "பொருள் இல்லை என்று இரந்து அதைப் பெற்றுக் கொள்ள விரும்புவோர் இல்லாதபோது, பொருள் கொடுப்பவனிடத்தில் என்ன புகழ் உண்டாகும்.",
+          "நோய்களுக்கு மருந்து வேறு பொருள்களாக இருக்கின்றன, ஆனால் அணிகலன் அணிந்த இவளால் வளர்ந்த நோய்க்கு இவளே மருந்தாக இருக்கின்றாள்.",
+          "காமம் அலரால் வெளிப்பட இனியதாதல், கள்ளுண்பவர் கள்ளுண்டு மயங்க மயங்க அக் கள்ளுண்பதையே விரும்பினாற் போன்றது.",
+          "பிறர்க்கு வரும் பழிக்காகவும், தமக்கு வரும் பழிக்காகவும் நாணுகின்றவர் நாணத்திற்கு உறைவிட மானவர் என்று உலகம் சொல்லும்."
+        ],
+        "quiz_options_en": [
+          "Where stands the glory of givers Without obligation seekers?",
+          "The cure for ailment is somewhere For fair maid's ill she is the cure",
+          "Drink delights as liquor flows Love delights as rumour grows",
+          "In them resides the sense of shame Who blush for their and other's blame"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நாணுடைமை) பகுதியில் குறள் 1015 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறர்க்கு வரும் பழிக்காகவும், தமக்கு வரும் பழிக்காகவும் நாணுகின்றவர் நாணத்திற்கு உறைவிட மானவர் என்று உலகம் சொல்லும். பரிமேலழகர் உரை நுட்பம்: பிறர் பழியும் தம் பழியும் நாணுவார் - பிறர்க்கு வரும் பழியையும் தமக்கு வரும் பழியையும் ஒப்ப மதித்து நாணுவாரை; உலகு நாணுக்கு உறைபதி என்னும் - உலகத்தார் நாணுக்கு உறைவிடம் என்று சொல்லுவர். (ஒப்ப மதித்தல் - அதுவும் தமக்கு வந்ததாகவே கருதுதல். அக்கருத்துடையர...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 102: 'Shame'), Kural 1015 distills a foundational ethical insight: \"As home of virtuous shame by all the world the men are known, Who feel ashamed for others, guilt as for their own\" Philosophically, The world regards as the abode of modesty him who fear his own and other's guilt.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "harmony",
+        "humility",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1016,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நாணமாகிய வேலியை தமக்கு காவலாகச் செய்து கொள்ளாமல், மேலோர் பரந்த உலகில் வாழும் வாழ்க்கை விரும்பி மேற்கொள்ள மாட்டார்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The great make modesty their barrier (of defence) and not the wide world.",
+        "story_title_ta": "நாணுடைமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Shame — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாணுடைமை' என்ற அதிகாரத்திலிருந்து குறள் 1016 பற்றிக் கதை சொன்னார். 'பெரியவர்கள் தனக்குப் பாதுகாப்பாக நாணத்தைக் கொள்வாரே அல்லாமல், இந்தப் பெரிய உலகத்தைக் கொள்ள விரும்ப மாட்டார்கள்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 102, 'Shame', centered on Kural 1016: The great make modesty their barrier (of defence) and not the wide world. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பரந்த இந்த உலகில் பாதுகாப்பையும்விட, நாணம் எனும் வேலியைத்தான் உயர்ந்த மனிதர்கள், தங்களின் பாதுகாப்பாகக் கொள்வார்கள்.",
+        "moral_en": "Moral: Unless the hedge of shame inviolate remain, For men of lofty soul the earth's vast realms no charms retain.",
+        "game_blank_word_ta": "மன்னோ",
+        "game_options_ta": [
+          "மன்னோ",
+          "கருமத்தால்",
+          "நாணுதல்",
+          "நாணுந்"
+        ],
+        "game_options_en": [
+          "The great refuse the wonder-world Without modesty's hedge and shield",
+          "To shrink from evil deed is shame The rest is blush of fair-faced dame",
+          "Food, dress and such are one for all Modesty marks the higher soul",
+          "All lives have their lodge in flesh Perfection has its home in blush"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1016, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெரியவர்கள் தனக்குப் பாதுகாப்பாக நாணத்தைக் கொள்வாரே அல்லாமல், இந்தப் பெரிய உலகத்தைக் கொள்ள விரும்ப மாட்டார்கள். கலைஞர் உரை கூறுவது: பரந்த இந்த உலகில் பாதுகாப்பையும்விட, நாணம் எனும் வேலியைத்தான் உயர்ந்த மனிதர்கள், தங்களின் பாதுகாப்பாகக் கொள்வார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Shame (Citizenship & Miscellaneous), Kural 1016 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The great make modesty their barrier (of defence) and not the wide world. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாணுடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Shame' thoughtfully.",
+        "quiz_question_ta": "'நாணுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 1016 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1016 from Chapter 'Shame'?",
+        "quiz_options_ta": [
+          "நாணமாகிய வேலியை தமக்கு காவலாகச் செய்து கொள்ளாமல், மேலோர் பரந்த உலகில் வாழும் வாழ்க்கை விரும்பி மேற்கொள்ள மாட்டார்.",
+          "இரப்பவன் எவரிடத்திலும் சினம் கொள்ளாதிருக்க வேண்டும், அவன் அடைந்துள்ள வறுமைத் துன்பமே அவனுக்கு அறிவு புகட்டும் சான்றாக அமையும்.",
+          "தாமரைக் கண்ணனுடைய உலகம், தாம் விரும்பும் காதலியரின் மெல்லிய தோள்களில் துயிலும் துயில் போல் இனிமை உடையதோ.",
+          "காதலரைக் கண்டது ஒருநாள் தான், அதனால் உண்டாகிய அலரோ, திங்களைப் பாம்பு கொண்ட செய்தி போல் எங்கும் பரந்து விட்டது."
+        ],
+        "quiz_options_en": [
+          "The great refuse the wonder-world Without modesty's hedge and shield",
+          "The needy should not scowl at \\\"No\\\" His need another's need must show * Saint valluvar talks of two kinds of Asking:() Asking help for public causes or enterprises () Begging when one is able to work and this is condemned",
+          "Is lotus-eyed lord's heaven so sweet As sleep in lover's arms so soft?",
+          "One lasting day we met alone Lasting rumours eclipse our moon"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நாணுடைமை) பகுதியில் குறள் 1016 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நாணமாகிய வேலியை தமக்கு காவலாகச் செய்து கொள்ளாமல், மேலோர் பரந்த உலகில் வாழும் வாழ்க்கை விரும்பி மேற்கொள்ள மாட்டார். பரிமேலழகர் உரை நுட்பம்: மேலாயவர் - உயர்ந்தவர்; வேலி நாண் கொள்ளாது - தமக்கு ஏமமாக நாணினைக் கொள்வதன்றி; வியன் ஞாலம் பேணலர் - அகன்ற ஞாலத்தைக் கொள்ள விரும்பார். (பழி பாவங்கள் புகுதாமற் காத்தலின், 'வேலி' என்றார். நாணும் ஞாலமும் தம்முள் மாறாயவழி அந்நாணினைக் கொள்வதல்லது, அவை புகுதும...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 102: 'Shame'), Kural 1016 distills a foundational ethical insight: \"Unless the hedge of shame inviolate remain, For men of lofty soul the earth's vast realms no charms retain\" Philosophically, The great make modesty their barrier (of defence) and not the wide world.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "humility",
+        "harmony",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 1017,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நாணத்தை தமக்கரிய பண்பாகக் கொள்பவர் நாணத்தால் உயிரை விடுவர், உயிரைக் காக்கும் பொருட்டாக நாணத்தை விட மாட்டார்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The modest would rather lose their life for the sake of modesty than lose modesty for the sake of life.",
+        "story_title_ta": "நாணுடைமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Shame — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாணுடைமை' என்ற அதிகாரத்திலிருந்து குறள் 1017 பற்றிக் கதை சொன்னார். 'நாணத்தின் சிறப்பை அறிந்து அதன் வழி நடப்பவர் நாணமா, உயிரா,என்ற நெருக்கடி வரும்போது உயிரையே விடுவர்; உயிரைக் காக்க நாணத்தை விடமாட்டார்‌.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 102, 'Shame', centered on Kural 1017: The modest would rather lose their life for the sake of modesty than lose modesty for the sake of life. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நாண உணர்வுடையவர்கள், மானத்தைக் காப்பாற்றிக் கொள்ள உயிரையும் விடுவார்கள் உயிரைக் காப்பாற்றிக் கொள்வதற்காக மானத்தை விடமாட்டார்கள்.",
+        "moral_en": "Moral: The men of modest soul for shame would life an offering make, But ne'er abandon virtuous shame for life's dear sake.",
+        "game_blank_word_ta": "துறப்பர்",
+        "game_options_ta": [
+          "கருமத்தால்",
+          "துறப்பர்",
+          "நாணுதல்",
+          "நாணுந்"
+        ],
+        "game_options_en": [
+          "To shrink from evil deed is shame The rest is blush of fair-faced dame",
+          "For shame their life the shame-sensed give Loss of shame they won't outlive",
+          "Food, dress and such are one for all Modesty marks the higher soul",
+          "All lives have their lodge in flesh Perfection has its home in blush"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1017, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாணத்தின் சிறப்பை அறிந்து அதன் வழி நடப்பவர் நாணமா, உயிரா,என்ற நெருக்கடி வரும்போது உயிரையே விடுவர்; உயிரைக் காக்க நாணத்தை விடமாட்டார்‌. கலைஞர் உரை கூறுவது: நாண உணர்வுடையவர்கள், மானத்தைக் காப்பாற்றிக் கொள்ள உயிரையும் விடுவார்கள் உயிரைக் காப்பாற்றிக் கொள்வதற்காக மானத்தை விடமாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Shame (Citizenship & Miscellaneous), Kural 1017 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The modest would rather lose their life for the sake of modesty than lose modesty for the sake of life. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாணுடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Shame' thoughtfully.",
+        "quiz_question_ta": "'நாணுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 1017 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1017 from Chapter 'Shame'?",
+        "quiz_options_ta": [
+          "உள்ளதை மறைக்காமல் உள்ளம் மகிழ்ந்து கொடுக்கும் கண்போல் சிறந்தவரிடத்திலும் சென்று இரவாமலிருப்பதே கோடி மடங்கு நல்லதாகும்.",
+          "நாணத்தை தமக்கரிய பண்பாகக் கொள்பவர் நாணத்தால் உயிரை விடுவர், உயிரைக் காக்கும் பொருட்டாக நாணத்தை விட மாட்டார்.",
+          "நீங்கினால் சுடுகின்றது, அணுகினால் குளிர்ச்சியாக இருக்கின்றது, இத்தகைய புதுமையானத் தீயை இவள் எவ்விடத்திலிருந்து பெற்றாள்.",
+          "இந்தக் காம நோய் ஊராரின் அலர் தூற்றலே எருவாகவும் அன்னை கடிந்து சொல்லும் கடுஞ்சொல்லே நீராகவும் கொண்டு செழித்து வளர்கின்றது."
+        ],
+        "quiz_options_en": [
+          "Not to beg is billions worth E'en from eye-like friends who give with mirth",
+          "For shame their life the shame-sensed give Loss of shame they won't outlive",
+          "Away it burns and cools anear Wherefrom did she get this fire?",
+          "Scandal manures; mother's refrain Waters the growth of this love-pain"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நாணுடைமை) பகுதியில் குறள் 1017 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நாணத்தை தமக்கரிய பண்பாகக் கொள்பவர் நாணத்தால் உயிரை விடுவர், உயிரைக் காக்கும் பொருட்டாக நாணத்தை விட மாட்டார். பரிமேலழகர் உரை நுட்பம்: நாண் ஆள்பவர் - நாணினது சிறப்பு அறிந்து அதனை விடாதொழுகுவார்; நாணால் உயிரைத் துறப்பர் - அந்நாணும் உயிரும் தம்முள் மாறாயவழி நாண் சிதையாமைப் பொருட்டு உயிரை நீப்பர்; உயிர்ப்பொருட்டு நாண் துறவார் - உயிர் சிதையாமைப் பொருட்டு நாணினை நீக்கார். (உயிரினும் நாண...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 102: 'Shame'), Kural 1017 distills a foundational ethical insight: \"The men of modest soul for shame would life an offering make, But ne'er abandon virtuous shame for life's dear sake\" Philosophically, The modest would rather lose their life for the sake of modesty than lose modesty for the sake of life.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "humility",
+        "kindness",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 1018,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவன் மற்றவர் நாணத்தக்க பழிக்குக் காரணமாக இருந்தும் தான் நாணாமலிருப்பானானால், அறம் நாணி அவனைக் கைவிடும் தன்மையுடையதாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Virtue is likely to forsake him who shamelessly does what others are ashamed of.",
+        "story_title_ta": "நாணுடைமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Shame — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாணுடைமை' என்ற அதிகாரத்திலிருந்து குறள் 1018 பற்றிக் கதை சொன்னார். 'மற்றவர் வெட்கப்படும் ஒன்றிற்கு ஒருவன் வெட்கப்படாமல் அதைச் செய்வான் என்றால், அறம் வெட்கப்படும் குற்றம் அவனிடம் இருக்கிறது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 102, 'Shame', centered on Kural 1018: Virtue is likely to forsake him who shamelessly does what others are ashamed of. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வெட்கப்படவேண்டிய அளவுக்குப் பழிக்கு ஆளானவர்கள் அதற்காக வெட்கப்படாமல் இருந்தால் அவர்களை விட்டு அறநெறி வெட்கப்பட்டு அகன்று விட்டதாகக் கருத வேண்டும்.",
+        "moral_en": "Moral: Though know'st no shame, while all around asha med must be:Virtue will shrink away ashamed of thee.",
+        "game_blank_word_ta": "அறம்நாணத்",
+        "game_options_ta": [
+          "கருமத்தால்",
+          "நாணுதல்",
+          "அறம்நாணத்",
+          "நாணுந்"
+        ],
+        "game_options_en": [
+          "To shrink from evil deed is shame The rest is blush of fair-faced dame",
+          "Food, dress and such are one for all Modesty marks the higher soul",
+          "Virtue is much ashamed of him Who shameless does what others shame",
+          "All lives have their lodge in flesh Perfection has its home in blush"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1018, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மற்றவர் வெட்கப்படும் ஒன்றிற்கு ஒருவன் வெட்கப்படாமல் அதைச் செய்வான் என்றால், அறம் வெட்கப்படும் குற்றம் அவனிடம் இருக்கிறது. கலைஞர் உரை கூறுவது: வெட்கப்படவேண்டிய அளவுக்குப் பழிக்கு ஆளானவர்கள் அதற்காக வெட்கப்படாமல் இருந்தால் அவர்களை விட்டு அறநெறி வெட்கப்பட்டு அகன்று விட்டதாகக் கருத வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Shame (Citizenship & Miscellaneous), Kural 1018 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Virtue is likely to forsake him who shamelessly does what others are ashamed of. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாணுடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Shame' thoughtfully.",
+        "quiz_question_ta": "'நாணுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 1018 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1018 from Chapter 'Shame'?",
+        "quiz_options_ta": [
+          "உலகத்தை படைத்தவன் உலகில் சிலர் இரந்தும் உயிர்வாழுமாறு ஏற்படுத்தியிருந்தால், அவன் இரப்பவரைப் போல் எங்கும் அலைந்து கெடுவானாக.",
+          "மலரணிந்த கூந்தலை உடைய இவளுடைய தோள்கள் விருப்பமான பொருள்களை நினைத்து விரும்பிய பொழுது அவ்வப் பொருள்களைப் போலவே இன்பம் செய்கின்றன.",
+          "ஒருவன் மற்றவர் நாணத்தக்க பழிக்குக் காரணமாக இருந்தும் தான் நாணாமலிருப்பானானால், அறம் நாணி அவனைக் கைவிடும் தன்மையுடையதாகும்.",
+          "அலர் கூறுவதால் காமத்தை அடக்குவோம் என்று முயலுதல், நெய்யால் நெருப்பை அவிப்போம் என்று முயல்வதைப் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Let World-Maker loiter and rot If \\\"beg and live\\\" be human fate",
+          "The arms of my flower-tressed maid Whatever I wish that that accord",
+          "Virtue is much ashamed of him Who shameless does what others shame",
+          "To quench the lust by rumour free Is to quench fire by pouring ghee"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நாணுடைமை) பகுதியில் குறள் 1018 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் மற்றவர் நாணத்தக்க பழிக்குக் காரணமாக இருந்தும் தான் நாணாமலிருப்பானானால், அறம் நாணி அவனைக் கைவிடும் தன்மையுடையதாகும். பரிமேலழகர் உரை நுட்பம்: பிறர் நாணத் தக்கது தான் நாணான் ஆயின் - கேட்டாரும் கண்டாரும் நாணத்தக்க பழியை ஒருவன் தான் நாணாது செய்யுமாயின்; அறம் நாணத்தக்கது உடைத்து - அந்நாணாமை அவனை அறம்விட்டு நீங்கத் தக்க குற்றத்தினையுடைத்து. ('தான்' எனச் செய்வானைப் பிரிக்கின்றார் ஆகலின், 'பிறர்' என்றார...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 102: 'Shame'), Kural 1018 distills a foundational ethical insight: \"Though know'st no shame, while all around asha med must be:Virtue will shrink away ashamed of thee\" Philosophically, Virtue is likely to forsake him who shamelessly does what others are ashamed of.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "speech",
+        "time",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 1019,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒருவன் கொள்கை தவறினால் , அத் தவறு அவனுடையக் குடிப் பிறப்பைத் கெடுக்கும், நாணில்லாத தன்மை நிலைப் பெற்றால் நன்மை எல்லாவற்றையும் கெடுக்கும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Want of manners injures one's family; but want of modesty injures one's character.",
+        "story_title_ta": "நாணுடைமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Shame — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாணுடைமை' என்ற அதிகாரத்திலிருந்து குறள் 1019 பற்றிக் கதை சொன்னார். 'ஒருவன் ஒழுக்கம் கெட்டால் அவன் குடும்பப் பிறப்பு கெடும்; அவனே நாணம் இல்லாது நின்றால் அவன் நலம் எல்லாம் கெடும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 102, 'Shame', centered on Kural 1019: Want of manners injures one's family; but want of modesty injures one's character. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கொண்ட கொள்கையில் தவறினால் குலத்துக்கு இழுக்கு நேரும் அதற்கு நாணாமல் பிறர் பழிக்கும் செயல் புரிந்தால் நலமனைத்தும் கெடும்.",
+        "moral_en": "Moral: 'Twill race consume if right observance fail;'Twill every good consume if shamelessness prevail.",
+        "game_blank_word_ta": "நின்றக்",
+        "game_options_ta": [
+          "கருமத்தால்",
+          "நாணுதல்",
+          "நாணுந்",
+          "நின்றக்"
+        ],
+        "game_options_en": [
+          "To shrink from evil deed is shame The rest is blush of fair-faced dame",
+          "Food, dress and such are one for all Modesty marks the higher soul",
+          "All lives have their lodge in flesh Perfection has its home in blush",
+          "Lapse in manners injures the race Want of shame harms every good grace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1019, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவன் ஒழுக்கம் கெட்டால் அவன் குடும்பப் பிறப்பு கெடும்; அவனே நாணம் இல்லாது நின்றால் அவன் நலம் எல்லாம் கெடும். கலைஞர் உரை கூறுவது: கொண்ட கொள்கையில் தவறினால் குலத்துக்கு இழுக்கு நேரும் அதற்கு நாணாமல் பிறர் பழிக்கும் செயல் புரிந்தால் நலமனைத்தும் கெடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Shame (Citizenship & Miscellaneous), Kural 1019 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Want of manners injures one's family; but want of modesty injures one's character. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாணுடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Shame' thoughtfully.",
+        "quiz_question_ta": "'நாணுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 1019 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1019 from Chapter 'Shame'?",
+        "quiz_options_ta": [
+          "வறுமைத் துன்பத்தை இரப்பதன் வாயிலாகத் தீர்ப்போம், என்று கருதி முயற்சியைக் கைவிட்ட வன்மையைப் போல் வன்மையானது வேறு இல்லை.",
+          "பொருந்து போதெல்லாம் உயிர் தளிர்க்கும் படியாகத் தீண்டுதலால் இவளுக்கு தோள்கள் அமிழ்தத்தால் செய்யப்பட்டிருக்க வேண்டும்.",
+          "அஞ்ச வேண்டா என்று அன்று உறுதிகூறியவர், இன்று பலரும் நாணும்படியாக நம்மை விட்டுப் பிரிந்தால் அதனால் அலருக்கு நாணியிருக்க முடியுமோ.",
+          "ஒருவன் கொள்கை தவறினால் , அத் தவறு அவனுடையக் குடிப் பிறப்பைத் கெடுக்கும், நாணில்லாத தன்மை நிலைப் பெற்றால் நன்மை எல்லாவற்றையும் கெடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "Nothing is hard like hard saying \\\"We end poverty by begging\\\"",
+          "My simple maid has nectar arms Each embrace brings life-thrilling charms",
+          "Who said \\\"fear not\\\" flared up rumour Why then should I blush this clamour?",
+          "Lapse in manners injures the race Want of shame harms every good grace"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நாணுடைமை) பகுதியில் குறள் 1019 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் கொள்கை தவறினால் , அத் தவறு அவனுடையக் குடிப் பிறப்பைத் கெடுக்கும், நாணில்லாத தன்மை நிலைப் பெற்றால் நன்மை எல்லாவற்றையும் கெடுக்கும். பரிமேலழகர் உரை நுட்பம்: கொள்கை பிழைப்பின் குலம் சுடும் - ஒருவனுக்கு ஒழுக்கம் பிழைக்குமாயின் அப்பிழைப்பு அவன் குடிப்பிறப்பொன்றனையும் கெடுக்கும்; நாணின்மை நின்றக்கடை நலம் சுடும் - ஒருவன் மாட்டு நாணின்மை நின்றவழி அந்நிலை அவன் நலம் யாவற்றையும் கெடுக்கும். (நிற்றல் - ஒரு பொழுதும...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 102: 'Shame'), Kural 1019 distills a foundational ethical insight: \"'Twill race consume if right observance fail;'Twill every good consume if shamelessness prevail\" Philosophically, Want of manners injures one's family; but want of modesty injures one's character.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "kindness",
+        "family",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1020,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: மனத்தில் நாணம் இல்லாதவர் உலகத்தில் இயங்குதல், மரத்தால் செய்த பாவையைக் கயிறு கொண்டு ஆட்டி உயிருள்ளதாக மயக்கினாற் போன்றது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The actions of those who are without modesty at heart are like those of puppet moved by a string.",
+        "story_title_ta": "நாணுடைமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Shame — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாணுடைமை' என்ற அதிகாரத்திலிருந்து குறள் 1020 பற்றிக் கதை சொன்னார். 'மனத்துள் வெட்கம் இல்லாதவர்களின் நடமாட்டம், மரத்தால் செய்த பொம்மைக்கு உயிர் ஊட்டியிருப்பதாகக் காட்டி மயக்கியது போலாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 102, 'Shame', centered on Kural 1020: The actions of those who are without modesty at heart are like those of puppet moved by a string. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உயிர் இருப்பது போலக் கயிறுகொண்டு ஆட்டி வைக்கப்படும் மரப்பொம்மைக்கும், மனத்தில் நாணமெனும் ஓர் உணர்வு இல்லாமல் உலகில் நடமாடுபவருக்கும் வேறுபாடு இல்லை.",
+        "moral_en": "Moral: 'Tis as with strings a wooden puppet apes life's functions, whenThose void of shame within hold intercourse with men.",
+        "game_blank_word_ta": "உயிர்மருட்டி",
+        "game_options_ta": [
+          "உயிர்மருட்டி",
+          "கருமத்தால்",
+          "நாணுதல்",
+          "நாணுந்"
+        ],
+        "game_options_en": [
+          "Movements of the shameless in heart Are string-led puppet show in fact",
+          "To shrink from evil deed is shame The rest is blush of fair-faced dame",
+          "Food, dress and such are one for all Modesty marks the higher soul",
+          "All lives have their lodge in flesh Perfection has its home in blush"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாணுடைமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1020, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனத்துள் வெட்கம் இல்லாதவர்களின் நடமாட்டம், மரத்தால் செய்த பொம்மைக்கு உயிர் ஊட்டியிருப்பதாகக் காட்டி மயக்கியது போலாம். கலைஞர் உரை கூறுவது: உயிர் இருப்பது போலக் கயிறுகொண்டு ஆட்டி வைக்கப்படும் மரப்பொம்மைக்கும், மனத்தில் நாணமெனும் ஓர் உணர்வு இல்லாமல் உலகில் நடமாடுபவருக்கும் வேறுபாடு இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Shame (Citizenship & Miscellaneous), Kural 1020 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The actions of those who are without modesty at heart are like those of puppet moved by a string. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாணுடைமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Shame' thoughtfully.",
+        "quiz_question_ta": "'நாணுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 1020 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1020 from Chapter 'Shame'?",
+        "quiz_options_ta": [
+          "மனத்தில் நாணம் இல்லாதவர் உலகத்தில் இயங்குதல், மரத்தால் செய்த பாவையைக் கயிறு கொண்டு ஆட்டி உயிருள்ளதாக மயக்கினாற் போன்றது.",
+          "வாழ வழி இல்லாத போதும் இரந்து கேட்க உடன்படாத சால்பு, உலகத்தில் இடமெல்லாம் கொள்ளாத அவ்வளவு பொருமையுடையதாகும்.",
+          "அழகிய மா நிறம் உடைய இவளுடைய தழுவுதல், தம்முடைய வீட்டிலிருந்து தாம் ஈட்டிய பொருளைப் பகுந்து கொடுத்து உண்டாற் போன்றது.",
+          "யாம் விரும்புகின்ற அலரை இவ்வூரார் எடுத்துக்கூறுகின்றனர், அதனால் இனிமேல் காதலர் விரும்பினால் விரும்பியவாறு அதனை உதவுவார்."
+        ],
+        "quiz_options_en": [
+          "Movements of the shameless in heart Are string-led puppet show in fact",
+          "All space is small before the great Who beg not e'en in want acute",
+          "Ah the embrace of this fair dame Is like sharing one's food at home",
+          "Town raising this cry, I desire Consent is easy from my sire"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (நாணுடைமை) பகுதியில் குறள் 1020 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனத்தில் நாணம் இல்லாதவர் உலகத்தில் இயங்குதல், மரத்தால் செய்த பாவையைக் கயிறு கொண்டு ஆட்டி உயிருள்ளதாக மயக்கினாற் போன்றது. பரிமேலழகர் உரை நுட்பம்: அகத்து நாண் இல்லார் இயக்கம் - தம் மனத்தின்கண் நாண் இல்லாத மக்கள் உயிருடையார் போன்று இயங்குகின்ற இயக்கம்; மரப்பாவை நாணால் உயிர் மருட்டியற்று - மரத்தாற் செய்த பாவை இயந்திரக் கயிற்றினானாய தன் இயக்கத்தால் உயிருடைத்தாக மயங்கினாற்போலும். (கருவியே கருத்தாவாயிற்று...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 102: 'Shame'), Kural 1020 distills a foundational ethical insight: \"'Tis as with strings a wooden puppet apes life's functions, whenThose void of shame within hold intercourse with men\" Philosophically, The actions of those who are without modesty at heart are like those of puppet moved by a string.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "humility",
+        "love",
+        "wisdom"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "adhikaram_id": 109,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.460887360+00:00",
+  "kurals": [
+    {
+      "kural_number": 1081,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தெய்வப் பெண்ணோ! மயிலோ, கனமான குழை அணிந்த மனிதப் பெண்ணோ, என் நெஞ்சம் மயங்குகின்றதே.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Is this jewelled female a celestial, a choice peahen, or a human being ? My mind is perplexed.",
+        "story_title_ta": "தகை அணங்குறுத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Pre-marital love — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தகை அணங்குறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1081 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1081 from 'The Pre-marital love', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: எனை வாட்டும் அழகோ! வண்ண மயிலோ! இந்த மங்கையைக் கண்டு மயங்குகிறதே நெஞ்சம்.",
+        "moral_en": "Moral: Goddess? or peafowl rare? She whose ears rich jewels wear, Is she a maid of human kind? All wildered is my mind.",
+        "game_blank_word_ta": "கனங்குழை",
+        "game_options_ta": [
+          "நோக்கினாள்",
+          "கனங்குழை",
+          "நோக்கெதிர்",
+          "நோக்குதல்"
+        ],
+        "game_options_en": [
+          "The counter glances of this belle Are armied dart of the Love-Angel",
+          "Is it an angel? A fair peacock Or jewelled belle? To my mind a shock!",
+          "Not known before -I spy Demise In woman's guise with battling eyes",
+          "This artless dame has darting eyes That drink the life of men who gaze"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தகை அணங்குறுத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1081, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அதோ பெரிய கம்மல்அணிந்து இருப்பது தெய்வமா? நல்லமயிலா? பெண்ணா? யார் என்று அறிய முடியாமல் என் மனம் மயங்குகிறது. கலைஞர் உரை கூறுவது: எனை வாட்டும் அழகோ! வண்ண மயிலோ! இந்த மங்கையைக் கண்டு மயங்குகிறதே நெஞ்சம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pre-marital love (Pre-marital Love), Kural 1081 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Is this jewelled female a celestial, a choice peahen, or a human being ? My mind is perplexed. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தகை அணங்குறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pre-marital love'.",
+        "quiz_question_ta": "'தகை அணங்குறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1081 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1081 from Chapter 'The Pre-marital love'?",
+        "quiz_options_ta": [
+          "போர் செய்யும் பண்புகளை உடைய இவளுடைய பண்புகளை யான் மறந்தால் பிறகு நினைக்க முடியும் ஆனால் ஒரு போதும் மறந்ததில்லையே.",
+          "தெய்வப் பெண்ணோ! மயிலோ, கனமான குழை அணிந்த மனிதப் பெண்ணோ, என் நெஞ்சம் மயங்குகின்றதே.",
+          "இந்த இராக்காலம் இரங்கத்தக்கது; எல்லா உயிரையும் தூங்கச் செய்துவிட்டு என்னை அல்லாமல் வேறு துணை இல்லாமல் இருக்கின்றது.",
+          "( யான் பிரிவால் வருந்தி உறங்கியபோது) காதலர் அனுப்பிய தூதோடு வந்த கனவுக்கு உரிய விருந்தாக என்ன செய்து உதவுவேன்?"
+        ],
+        "quiz_options_en": [
+          "Can I forget? I recall always The charms of her bright battling eyes",
+          "Is it an angel? A fair peacock Or jewelled belle? To my mind a shock!",
+          "Night's mercy lulls all souls to sleep Keeping but me for companionship",
+          "How shall I feast this dream-vision That brings the beloved's love-mission?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (தகை அணங்குறுத்தல்) பகுதியில் குறள் 1081 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தெய்வப் பெண்ணோ! மயிலோ, கனமான குழை அணிந்த மனிதப் பெண்ணோ, என் நெஞ்சம் மயங்குகின்றதே. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது , பொழில் விளையாட்டு விருப்பான் ஆயம் நீங்க , அதன்கண் தமியளாய் நின்றாளை , வேட்ட விருப்பான் இளையார் நீங்கத் தமியனாய் வந்து கண்ணுற்ற தலைமகன் , அவள் வனப்புத் தன்னை வருத்தம் உறுவித்தலைச் சொல்லுதல் . இது , கண்ணுற்ற பொழுதே நிகழ்வதாகலின் , முதற்கண...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 109: 'The Pre-marital love'), Kural 1081 distills a foundational ethical insight: \"Goddess? or peafowl rare? She whose ears rich jewels wear, Is she a maid of human kind? All wildered is my mind\" Philosophically, Is this jewelled female a celestial, a choice peahen, or a human being ? My mind is perplexed.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "justice",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 1082,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நோக்கிய அவள் பார்வைக்கு எதிரே நோக்குதல் தானே தாக்கி வருத்தும் அணங்கு, ஒரு சேனையையும் கொண்டு வந்து தாக்கினாற் போன்றது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: This female beauty returning my looks is like a celestial maiden coming with an army to contend against me.",
+        "story_title_ta": "தகை அணங்குறுத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Pre-marital love — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தகை அணங்குறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1082 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1082 from 'The Pre-marital love', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: அவள் வீசிடும் விழிவேலுக்கு எதிராக நான் அவளை நோக்க, அக்கணமே அவள் என்னைத் திரும்ப நோக்கியது தானெருத்தி மட்டும் தாக்குவது போதாதென்று, ஒரு தானையுடன் வந்து என்னைத் தாக்குவது போன்று இருந்தது.",
+        "moral_en": "Moral: She of the beaming eyes, To my rash look her glance replies, As if the matchless goddess' hand Led forth an armed band.",
+        "game_blank_word_ta": "தானைக்கொண்",
+        "game_options_ta": [
+          "அணங்குகொல்",
+          "ஆய்மயில்",
+          "தானைக்கொண்",
+          "கொல்லோ"
+        ],
+        "game_options_en": [
+          "Is it an angel? A fair peacock Or jewelled belle? To my mind a shock!",
+          "Not known before -I spy Demise In woman's guise with battling eyes",
+          "The counter glances of this belle Are armied dart of the Love-Angel",
+          "This artless dame has darting eyes That drink the life of men who gaze"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தகை அணங்குறுத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1082, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் பார்வைக்கு எதிராக அவள் என்னைப் பார்ப்பது, தானே தாக்கி எவரையும் கொல்லும் ஒரு தெய்வம், தாக்குவதற்குப் படைகளையும் கூட்டி வந்ததது போல் இருக்கிறது. கலைஞர் உரை கூறுவது: அவள் வீசிடும் விழிவேலுக்கு எதிராக நான் அவளை நோக்க, அக்கணமே அவள் என்னைத் திரும்ப நோக்கியது தானெருத்தி மட்டும் தாக்குவது போதாதென்று, ஒரு தானையுடன் வந்து என்னைத் தாக்குவது போன்று இருந்தது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pre-marital love (Pre-marital Love), Kural 1082 speaks directly to teens navigating studies, friendships, leadership, and digital choices: This female beauty returning my looks is like a celestial maiden coming with an army to contend against me. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தகை அணங்குறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pre-marital love'.",
+        "quiz_question_ta": "'தகை அணங்குறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1082 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1082 from Chapter 'The Pre-marital love'?",
+        "quiz_options_ta": [
+          "எம் காதலர் எம் கண்ணுள்ளிருந்து போக மாட்டார், கண்ணை மூடி இமைத்தாலும் அதனால் வருந்த மாட்டார், அவர் அவ்வளவு நுட்பமானவர்.",
+          "( பிரிந்து துன்புறுகின்ற) இந்நாட்களில் நெடுநேரம் உடையனவாய்க் கழிகின்ற இராக்காலங்கள், பிரிந்த கொடியவரின் கொடுமையை விடத் தாம் கொடியவை.",
+          "நோக்கிய அவள் பார்வைக்கு எதிரே நோக்குதல் தானே தாக்கி வருத்தும் அணங்கு, ஒரு சேனையையும் கொண்டு வந்து தாக்கினாற் போன்றது.",
+          "கண்கள் யான் வேண்டுவதுபோல் தூங்குமானால், ( அப்போது வரும் கனவில் காணும்) காதலர்க்கு யான் தப்பிப் பிழைத்திருக்கும்‌ தன்மையைச் சொல்வேன்."
+        ],
+        "quiz_options_en": [
+          "So subtle is my lover's form Ever in my eyes winking, no harm",
+          "Crueller than that cruel he Are midnight hours gliding slowly",
+          "The counter glances of this belle Are armied dart of the Love-Angel",
+          "I beg these fish-like dark eyes sleep To tell my lover how life I keep"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (தகை அணங்குறுத்தல்) பகுதியில் குறள் 1082 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நோக்கிய அவள் பார்வைக்கு எதிரே நோக்குதல் தானே தாக்கி வருத்தும் அணங்கு, ஒரு சேனையையும் கொண்டு வந்து தாக்கினாற் போன்றது. பரிமேலழகர் உரை நுட்பம்: (மானுட மாதராதல் தெளிந்த தலைமகன் அவள் நோக்கினானாய வருத்தம் கூறியது.) நோக்கினாள் நோக்கெதிர் நோக்குதல் - இப்பெற்றித்தாய வனப்பினை உடையாள் என் நோக்கிற்கு எதிர் நோக்குதல்; தாக்கு அணங்கு தானைக்கொண்டன்னது உடைத்து - தானே தாக்கி வருத்துவதோர் அணங்கு தாக்குதற்குத...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 109: 'The Pre-marital love'), Kural 1082 distills a foundational ethical insight: \"She of the beaming eyes, To my rash look her glance replies, As if the matchless goddess' hand Led forth an armed band\" Philosophically, This female beauty returning my looks is like a celestial maiden coming with an army to contend against me.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "leadership",
+        "wisdom",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 1083,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: எமன் என்று சொல்லப்படுவதை முன்பு அறியேன், இப்பொழுது கண்டறிந்தேன், அது பெண் தனமையுடன் போர் செய்யும் பெரிய கண்களை உடையது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: I never knew before what is called Yama; I see it now; it is the eyes that carry on a great fight with (the help of) female qualities.",
+        "story_title_ta": "தகை அணங்குறுத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Pre-marital love — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தகை அணங்குறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1083 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1083 from 'The Pre-marital love', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: கூற்றுவன் எனப்படும் பொல்லாத எமனை, எனக்கு முன்பெல்லாம் தெரியாது; இப்போது தெரிந்து கொண்டேன் அந்த எமன் என்பவன் பெண்ணுருவத்தில் வந்து போர் தொடுக்கக்கூடிய விழியம்புகளை உடையவன் என்ற உண்மையை.",
+        "moral_en": "Moral: Death's form I formerly Knew not; but now 'tis plain to me; He comes in lovely maiden's guise, With soul-subduing eyes.",
+        "game_blank_word_ta": "பேரமர்க்",
+        "game_options_ta": [
+          "அணங்குகொல்",
+          "ஆய்மயில்",
+          "கொல்லோ",
+          "பேரமர்க்"
+        ],
+        "game_options_en": [
+          "Is it an angel? A fair peacock Or jewelled belle? To my mind a shock!",
+          "The counter glances of this belle Are armied dart of the Love-Angel",
+          "This artless dame has darting eyes That drink the life of men who gaze",
+          "Not known before -I spy Demise In woman's guise with battling eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தகை அணங்குறுத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1083, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எமன் என்று நூலோர் சொல்ல முன்பு கேட்டிருக்கிறேன்; பார்த்தது இல்லை; இப்போது தெரிந்து கொண்டேன். பெண்ணிற்கே உரிய நல்ல குணங்களுடன் பெரிதாய்ப் போரிடும் கண்களையும் உடையது தான் எமன். கலைஞர் உரை கூறுவது: கூற்றுவன் எனப்படும் பொல்லாத எமனை, எனக்கு முன்பெல்லாம் தெரியாது; இப்போது தெரிந்து கொண்டேன் அந்த எமன் என்பவன் பெண்ணுருவத்தில் வந்து போர் தொடுக்கக்கூடிய விழியம்புகளை உடையவன் என்ற உண்மையை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pre-marital love (Pre-marital Love), Kural 1083 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I never knew before what is called Yama; I see it now; it is the eyes that carry on a great fight with (the help of) female qualities. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தகை அணங்குறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pre-marital love'.",
+        "quiz_question_ta": "'தகை அணங்குறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1083 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1083 from Chapter 'The Pre-marital love'?",
+        "quiz_options_ta": [
+          "எம் காதலர் கண்ணினுள் இருக்கின்றார், ஆகையால் மை எழுதினால் அவர் மறைவதை எண்ணிக் கண்ணுக்கு மையும் எழுதமாட்டோம்.",
+          "காதலர் உள்ள இடத்திற்கு என் மனத்தைப்போல் செல்ல முடியுமானால், என்‌ கண்கள் இவ்வாறு வெள்ளமாகிய கண்ணீரில் நீந்த வேண்டியதில்லை.",
+          "நனவில் வந்து அன்பு செய்யாத காதலரைக் கனவில் காண்பதால்தான் என்னுடைய உயிர் இன்னும் நீங்காமல் உள்ளதாகின்றது.",
+          "எமன் என்று சொல்லப்படுவதை முன்பு அறியேன், இப்பொழுது கண்டறிந்தேன், அது பெண் தனமையுடன் போர் செய்யும் பெரிய கண்களை உடையது"
+        ],
+        "quiz_options_en": [
+          "My lover in my eyes abides I paint them not lest he hides",
+          "Like heart, if my sight reaches him It won't in floods of tears swim!",
+          "In wakeful hours who sees me not I meet in dreams and linger yet",
+          "Not known before -I spy Demise In woman's guise with battling eyes"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (தகை அணங்குறுத்தல்) பகுதியில் குறள் 1083 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எமன் என்று சொல்லப்படுவதை முன்பு அறியேன், இப்பொழுது கண்டறிந்தேன், அது பெண் தனமையுடன் போர் செய்யும் பெரிய கண்களை உடையது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது) கூற்று என்பதனைப் பண்டு அறியேன் - கூற்றென்று நூலோர் சொல்வதனைப் பண்டு கேட்டு அறிவதல்லது கண்டறியேன்; இனி அறிந்தேன் - இப்பொழுது கண்டறிந்தேன்; பெண் தகையாள் பேர் அமர்க்கட்டு - அது பெண்தகையுடனே பெரியவாய் அமர்த்த கண்களை உடைத்து. (பெண்தகை: நாணம்,மடம...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 109: 'The Pre-marital love'), Kural 1083 distills a foundational ethical insight: \"Death's form I formerly Knew not; but now 'tis plain to me; He comes in lovely maiden's guise, With soul-subduing eyes\" Philosophically, I never knew before what is called Yama; I see it now; it is the eyes that carry on a great fight with (the help of) female qualities.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "time",
+        "truth",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1084,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பெண்தன்மை உடைய இந்தப் பேதைக்குக் கண்கள் கண்டவரின் உயிரை உண்ணும் தோற்றத்தோடு கூடி ஒன்றோடொன்று மாறுபட்டிருந்தன.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: These eyes that seem to kill those who look at them are as it were in hostilities with this feminine simplicity.",
+        "story_title_ta": "தகை அணங்குறுத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Pre-marital love — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தகை அணங்குறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1084 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1084 from 'The Pre-marital love', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பெண்மையின் வார்ப்படமாகத் திகழுகிற இந்தப் பேதையின் கண்கள் மட்டும் உயிரைப் பறிப்பதுபோல் தோன்றுகின்றனவே! ஏனிந்த மாறுபாடு?",
+        "moral_en": "Moral: In sweet simplicity, A woman's gracious form hath she; But yet those eyes, that drink my life, Are with the form at strife.",
+        "game_blank_word_ta": "பேதைக்கு",
+        "game_options_ta": [
+          "பேதைக்கு",
+          "அணங்குகொல்",
+          "ஆய்மயில்",
+          "கொல்லோ"
+        ],
+        "game_options_en": [
+          "This artless dame has darting eyes That drink the life of men who gaze",
+          "Is it an angel? A fair peacock Or jewelled belle? To my mind a shock!",
+          "The counter glances of this belle Are armied dart of the Love-Angel",
+          "Not known before -I spy Demise In woman's guise with battling eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தகை அணங்குறுத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1084, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெண்மைக் குணம் மிக்க இப்பெண்ணின் கண்களுக்கு அவற்றைப் பார்ப்பவர் உயிரைப் பறிக்கும் தோற்றம் இருப்பதால் அவள் குணத்திற்கும் அறிவிற்கும் மாறுபட்டு போர் செய்கின்றன. கலைஞர் உரை கூறுவது: பெண்மையின் வார்ப்படமாகத் திகழுகிற இந்தப் பேதையின் கண்கள் மட்டும் உயிரைப் பறிப்பதுபோல் தோன்றுகின்றனவே! ஏனிந்த மாறுபாடு? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pre-marital love (Pre-marital Love), Kural 1084 speaks directly to teens navigating studies, friendships, leadership, and digital choices: These eyes that seem to kill those who look at them are as it were in hostilities with this feminine simplicity. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தகை அணங்குறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pre-marital love'.",
+        "quiz_question_ta": "'தகை அணங்குறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1084 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1084 from Chapter 'The Pre-marital love'?",
+        "quiz_options_ta": [
+          "பெண்தன்மை உடைய இந்தப் பேதைக்குக் கண்கள் கண்டவரின் உயிரை உண்ணும் தோற்றத்தோடு கூடி ஒன்றோடொன்று மாறுபட்டிருந்தன.",
+          "எம் காதலர் நெஞ்சினுள் இருக்கின்றார், ஆகையால் சூடான பொருளை உண்டால் அவர் வெப்பமுறுதலை எண்ணிச் சூடான பொருளை உண்ண அஞ்சு கின்றோம்.",
+          "தீராத இக்காமநோய், கண்கள் காட்ட யாம் கண்டதால் விளைந்தது; அவ்வாறிருக்க, காட்டிய கண்கள், இன்று அன்பு கொண்டு உணராமல் துன்பத்தால் வருந்துவது ஏன்?",
+          "நனவில் வந்து அன்பு செய்யாத காதலரைத் தேடி அழைத்துக் கொண்டு வருவதற்காகக் கனவில் அவரைப் பற்றிய காதல் நிகழ்ச்சிகள் உண்டாகின்றன."
+        ],
+        "quiz_options_en": [
+          "This artless dame has darting eyes That drink the life of men who gaze",
+          "My lover abides in my heart I fear hot food lest he feels hot",
+          "The eye pointed him to me; why then They weep with malady and pine?",
+          "In dreams I enjoy his love-bliss Who in wakeful hours I miss"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (தகை அணங்குறுத்தல்) பகுதியில் குறள் 1084 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பெண்தன்மை உடைய இந்தப் பேதைக்குக் கண்கள் கண்டவரின் உயிரை உண்ணும் தோற்றத்தோடு கூடி ஒன்றோடொன்று மாறுபட்டிருந்தன. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது) பெண்தகைப் பேதைக்குக் கண் - பெண் தகையை உடைய இப்பேதைக்கு உளவாய கண்கள்; கண்டார் உயிர் உண்ணும் தோற்றத்தான் அமர்த்தன - தம்மைக் கண்டார் உயிர் உண்ணும் தோற்றத்துடனே கூடி அமர்த்திருந்தன. (அமர்த்தல்: மாறுபடுதல். குணங்கட்கும் பேதைமைக்கும் ஏலாது...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 109: 'The Pre-marital love'), Kural 1084 distills a foundational ethical insight: \"In sweet simplicity, A woman's gracious form hath she; But yet those eyes, that drink my life, Are with the form at strife\" Philosophically, These eyes that seem to kill those who look at them are as it were in hostilities with this feminine simplicity.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1085,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: எமனோ. கண்ணோ, பெண்மானோ, இந்த இளம் பெண்ணின் பார்வை இந்த மூன்றன் தன்மையும் உடையதாக இருக்கிறது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Is it Yama, (a pair of) eyes or a hind ?- Are not all these three in the looks of this maid ?",
+        "story_title_ta": "தகை அணங்குறுத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Pre-marital love — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தகை அணங்குறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1085 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1085 from 'The Pre-marital love', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: உயிர்பறிக்கும் கூற்றமோ? உறவாடும் விழியோ? மருட்சிகொள்ளும் பெண்மானோ? இளம் பெண்ணின் பார்வை இந்த மூன்று கேள்விகளையும் எழுப்புகிறதே.",
+        "moral_en": "Moral: The light that on me gleams, Is it death's dart? or eye's bright beams?Or fawn's shy glance? All three appear In form of maiden here.",
+        "game_blank_word_ta": "கூற்றமோ",
+        "game_options_ta": [
+          "அணங்குகொல்",
+          "கூற்றமோ",
+          "ஆய்மயில்",
+          "கொல்லோ"
+        ],
+        "game_options_en": [
+          "Is it an angel? A fair peacock Or jewelled belle? To my mind a shock!",
+          "Is it death, eye or doe? All three In winsome woman's look I see",
+          "The counter glances of this belle Are armied dart of the Love-Angel",
+          "Not known before -I spy Demise In woman's guise with battling eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தகை அணங்குறுத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1085, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என்னை துன்புறுத்துவது எமனா? என் மேனி எங்கும் படர்வதால் கண்ணா? ஏதோ ஒரு பயம் தெரிவதால் பெண்மானா? இப்பெண்ணின் பார்வை இம்மூன்று குணங்களையும் பெற்றிருக்கிறது. கலைஞர் உரை கூறுவது: உயிர்பறிக்கும் கூற்றமோ? உறவாடும் விழியோ? மருட்சிகொள்ளும் பெண்மானோ? இளம் பெண்ணின் பார்வை இந்த மூன்று கேள்விகளையும் எழுப்புகிறதே. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pre-marital love (Pre-marital Love), Kural 1085 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Is it Yama, (a pair of) eyes or a hind ?- Are not all these three in the looks of this maid ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தகை அணங்குறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pre-marital love'.",
+        "quiz_question_ta": "'தகை அணங்குறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1085 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1085 from Chapter 'The Pre-marital love'?",
+        "quiz_options_ta": [
+          "கண் இமைத்தால் காதலர் மறைந்து போதலை அறிகின்றேன், அவ்வளவிற்கே இந்த ஊரார் அவரை அன்பில்லாதவர் என்று சொல்லுவர்.",
+          "எமனோ. கண்ணோ, பெண்மானோ, இந்த இளம் பெண்ணின் பார்வை இந்த மூன்றன் தன்மையும் உடையதாக இருக்கிறது.",
+          "ஆராய்ந்து உணராமல் அன்று நோக்கிக் காதல் கொண்ட கண்கள், இன்று அன்பு கொண்டு உணராமல் துன்பத்தால் வருந்துவது ஏன்?",
+          "முன்பு நனவில் கண்ட இன்பமும் அப்பொழுது மட்டும் இனிதாயிற்று; இப்‌பொழுது காணும் கனவும் கண்ட பொழுது மட்டுமே இன்பமாக உள்ளது."
+        ],
+        "quiz_options_en": [
+          "My eyes wink not lest he should hide And him as cruel the townsmen chide",
+          "Is it death, eye or doe? All three In winsome woman's look I see",
+          "Why should these dyed eyes grieve now sans Regrets for their thoughtless glance?",
+          "Dream-sight of him delights at once Awake-What of seeing him -hence"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (தகை அணங்குறுத்தல்) பகுதியில் குறள் 1085 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எமனோ. கண்ணோ, பெண்மானோ, இந்த இளம் பெண்ணின் பார்வை இந்த மூன்றன் தன்மையும் உடையதாக இருக்கிறது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) கூற்றமோ - என்னை வருத்துதல் உடைமையான் கூற்றமோ; கண்ணோ - என்மேல் ஓடுதல் உடைமையான் கண்ணோ; பிணையோ - இயல்பாக வெருவுதலுடைமையான் பிணையோ? அறிகின்றிலேன்; மடவரல் நோக்கம் இம்மூன்றும் உடைத்து - இம் மடவரல் கண்களின் நோக்கம் இம்மூன்றின் தன்மையையும் உடைத்தாயிரா...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 109: 'The Pre-marital love'), Kural 1085 distills a foundational ethical insight: \"The light that on me gleams, Is it death's dart? or eye's bright beams?Or fawn's shy glance? All three appear In form of maiden here\" Philosophically, Is it Yama, (a pair of) eyes or a hind ?- Are not all these three in the looks of this maid ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1086,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: வளைந்த புருவங்கள் கோணாமல் நேராக இருந்து மறைக்குமானால், இவளுடைய கண்கள் யான் நடுங்கும் படியான துன்பத்தைச் செய்யமாட்டா.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Her eyes will cause (me) no trembling sorrow, if they are properly hidden by her cruel arched eyebrows.",
+        "story_title_ta": "தகை அணங்குறுத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Pre-marital love — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தகை அணங்குறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1086 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1086 from 'The Pre-marital love', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: புருவங்கள் வளைந்து கோணாமல் நேராக இருந்து மறைக்குமானால், இவள் கண்கள், நான் நடுங்கும்படியான துன்பத்தைச் செய்யமாட்டா.",
+        "moral_en": "Moral: If cruel eye-brow's bow, Unbent, would veil those glances now; The shafts that wound this trembling heart Her eyes no more would dart.",
+        "game_blank_word_ta": "மறைப்பின்",
+        "game_options_ta": [
+          "அணங்குகொல்",
+          "ஆய்மயில்",
+          "மறைப்பின்",
+          "கொல்லோ"
+        ],
+        "game_options_en": [
+          "Is it an angel? A fair peacock Or jewelled belle? To my mind a shock!",
+          "The counter glances of this belle Are armied dart of the Love-Angel",
+          "If cruel brows unbent, would screen Her eyes won't cause me trembling pain",
+          "Not known before -I spy Demise In woman's guise with battling eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தகை அணங்குறுத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1086, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அதோ வளைந்து இருக்கும் புருவங்கள் வளையாமல் நேராக நின்று தடுத்தால், அவள் கண்கள், எனக்கு நடுக்கம் தரும் துன்பத்தை தரமாட்டா. கலைஞர் உரை கூறுவது: புருவங்கள் வளைந்து கோணாமல் நேராக இருந்து மறைக்குமானால், இவள் கண்கள், நான் நடுங்கும்படியான துன்பத்தைச் செய்யமாட்டா. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pre-marital love (Pre-marital Love), Kural 1086 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Her eyes will cause (me) no trembling sorrow, if they are properly hidden by her cruel arched eyebrows. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தகை அணங்குறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pre-marital love'.",
+        "quiz_question_ta": "'தகை அணங்குறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1086 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1086 from Chapter 'The Pre-marital love'?",
+        "quiz_options_ta": [
+          "காதலர் எப்போதும் என் உள்ளத்தில் மகிழ்ந்து வாழ்கின்றார், ஆனால் அதை அறியாமல் பிரிந்து வாழ்கின்றார், அன்பில்லாதவர் என்று இந்த ஊரார் அவரைப் பழிப்பர்.",
+          "அன்று காதலரைக் கண்கள் தாமே விரைந்து நோக்கி இன்று தாமே அழுகின்றன; இது நகைக்கத்தக்க தன்மை உடையது.",
+          "வளைந்த புருவங்கள் கோணாமல் நேராக இருந்து மறைக்குமானால், இவளுடைய கண்கள் யான் நடுங்கும் படியான துன்பத்தைச் செய்யமாட்டா.",
+          "நனவு என்று சொல்லப்படுகின்ற ஒன்று இல்லாதிருக்குமானால், கனவில் வந்த காதலர் என்னை விட்டுப் பிரியாமலே இருப்பர்."
+        ],
+        "quiz_options_en": [
+          "He abides happy in my heart But people mistake he is apart",
+          "Eyes darted eager glance that day It's funny that they weep today",
+          "If cruel brows unbent, would screen Her eyes won't cause me trembling pain",
+          "If wakeful hours come to nought My lov'r in dreams would nev'r depart"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (தகை அணங்குறுத்தல்) பகுதியில் குறள் 1086 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வளைந்த புருவங்கள் கோணாமல் நேராக இருந்து மறைக்குமானால், இவளுடைய கண்கள் யான் நடுங்கும் படியான துன்பத்தைச் செய்யமாட்டா. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது) கொடும் புருவம் கோடா மறைப்பின் - பிரியா நட்பாய கொடும் புருவங்கள்தாம் செப்பமுடையவாய் விலக்கினவாயின்; இவள் கண் நடுங்கு அஞர் செய்யல - அவற்றைக் கடந்து இவள் கண்கள் எனக்கு நடுங்கும் துயரைச் செய்யமாட்டா. (நட்டாரைக் கழறுவார்க்குத் தாம் செம்மையுடையராதல...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 109: 'The Pre-marital love'), Kural 1086 distills a foundational ethical insight: \"If cruel eye-brow's bow, Unbent, would veil those glances now; The shafts that wound this trembling heart Her eyes no more would dart\" Philosophically, Her eyes will cause (me) no trembling sorrow, if they are properly hidden by her cruel arched eyebrows.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "discipline",
+        "speech",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1087,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மாதருடைய சாயாத கொங்கைகளின் மேல் அணிந்த ஆடை, மதம் பிடித்த யானையின் மேல் இட்ட முகப்படாம் போன்றது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The cloth that covers the firm bosom of this maiden is (like) that which covers the eyes of a rutting elephant.",
+        "story_title_ta": "தகை அணங்குறுத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Pre-marital love — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தகை அணங்குறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1087 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1087 from 'The Pre-marital love', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: மதங்கொண்ட யானையின் மத்தகத்தின் மேலிட்ட முகபடாம் கண்டேன்; அது மங்கையொருத்தியின் சாயாத கொங்கை மேல் அசைந்தாடும் ஆடைபோல் இருந்தது.",
+        "moral_en": "Moral: As veil o'er angry eyes Of raging elephant that lies, The silken cincture's folds invest This maiden's panting breast.",
+        "game_blank_word_ta": "கட்படாம்",
+        "game_options_ta": [
+          "அணங்குகொல்",
+          "ஆய்மயில்",
+          "கொல்லோ",
+          "கட்படாம்"
+        ],
+        "game_options_en": [
+          "Is it an angel? A fair peacock Or jewelled belle? To my mind a shock!",
+          "The counter glances of this belle Are armied dart of the Love-Angel",
+          "Not known before -I spy Demise In woman's guise with battling eyes",
+          "Vest on the buxom breast of her Looks like rutting tusker's eye-cover"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தகை அணங்குறுத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1087, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அந்தப் பெண்ணின் சாயாத முலைமேல் இருக்கும் சேலை, கொல்லம் மதம் பிடித்த ஆண் யானையின் முகபடாம் போன்று இருக்கிறது. கலைஞர் உரை கூறுவது: மதங்கொண்ட யானையின் மத்தகத்தின் மேலிட்ட முகபடாம் கண்டேன்; அது மங்கையொருத்தியின் சாயாத கொங்கை மேல் அசைந்தாடும் ஆடைபோல் இருந்தது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pre-marital love (Pre-marital Love), Kural 1087 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The cloth that covers the firm bosom of this maiden is (like) that which covers the eyes of a rutting elephant. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தகை அணங்குறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pre-marital love'.",
+        "quiz_question_ta": "'தகை அணங்குறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1087 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1087 from Chapter 'The Pre-marital love'?",
+        "quiz_options_ta": [
+          "காமத்தால் துன்புற்று (காதலின் அன்பு பெறாமல்) வருந்தினவர்க்குக் காவல் மடலூர்தல் அல்லாமல் வலிமையானத் துணை வேறொன்றும் இல்லை.",
+          "என் கண்கள், தப்பிப் பிழைக்க முடியாத தீராத காமநோயை என்னிடத்தில் உண்டாக்கி நிறுத்திவிட்டு, தாமும் அழமுடியாமல் நீர் வறண்டு விட்டன.",
+          "நனவில் வந்து எமக்கு அன்பு செய்யாத கொடுமை உடைய அவர், கனவில் வந்து எம்மை வருத்துவது என்ன காரணத்தால்?",
+          "மாதருடைய சாயாத கொங்கைகளின் மேல் அணிந்த ஆடை, மதம் பிடித்த யானையின் மேல் இட்ட முகப்படாம் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Pangs of passion find no recourse Except riding *`palmyra horse' * Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs The parents of the lovers first reproach them and then consent to their marriage",
+          "These eyes left me to endless grief Crying adry without relief",
+          "Awake he throws my overtures Adream, ah cruel! he tortures!",
+          "Vest on the buxom breast of her Looks like rutting tusker's eye-cover"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (தகை அணங்குறுத்தல்) பகுதியில் குறள் 1087 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மாதருடைய சாயாத கொங்கைகளின் மேல் அணிந்த ஆடை, மதம் பிடித்த யானையின் மேல் இட்ட முகப்படாம் போன்றது. பரிமேலழகர் உரை நுட்பம்: (அவள் முலைகளினாய வருத்தம் கூறியது.) மாதர் படா முலை மேல் துகில் - இம் மாதர் படாமுலைகளின் மேலிட்ட துகில்; கடாஅக் களிற்றின்மேல் கட்படாம் - அவை கொல்லாமல் காத்தலின் கொல்வதாய மதக்களிற்றின் மேலிட்ட முகபடாத்தினை ஒக்கும். (கண்ணை மறைத்தல் பற்றிக் 'கட்படாம்' என்றான...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 109: 'The Pre-marital love'), Kural 1087 distills a foundational ethical insight: \"As veil o'er angry eyes Of raging elephant that lies, The silken cincture's folds invest This maiden's panting breast\" Philosophically, The cloth that covers the firm bosom of this maiden is (like) that which covers the eyes of a rutting elephant.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 1088,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: போர்க்களத்தில் பகைவரும் அஞ்சுதற்க்கு காரணமான என் வலிமை, இவளுடைய ஒளி பொருந்திய நெற்றிக்குத் தோற்று அழிந்ததே.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: On her bright brow alone is destroyed even that power of mine that used to terrify the most fearless.",
+        "story_title_ta": "தகை அணங்குறுத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Pre-marital love — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தகை அணங்குறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1088 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1088 from 'The Pre-marital love', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: களத்தில் பகைவரைக் கலங்கவைக்கும் என் வலிமை இதோ இந்தக் காதலியின் ஒளி பொருந்திய நெற்றிக்கு வளைந்து கொடுத்துவிட்டதே!",
+        "moral_en": "Moral: Ah woe is me my might, That awed my foemen in the fight, By lustre of that beaming brow Borne down, lies broken now.",
+        "game_blank_word_ta": "நண்ணாரும்",
+        "game_options_ta": [
+          "நண்ணாரும்",
+          "அணங்குகொல்",
+          "ஆய்மயில்",
+          "கொல்லோ"
+        ],
+        "game_options_en": [
+          "Ah these fair brows shatter my might Feared by foemen yet to meet",
+          "Is it an angel? A fair peacock Or jewelled belle? To my mind a shock!",
+          "The counter glances of this belle Are armied dart of the Love-Angel",
+          "Not known before -I spy Demise In woman's guise with battling eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தகை அணங்குறுத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1088, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: களத்தில் முன்பு என்னை அறியாதவரும் அறிந்தவர் சொல்லக் கேட்டு வியக்கும் என் திறம், அவள் ஒளி பொருந்திய நெற்றியைக் கண்ட அளவில் அழிந்துவிட்டதே. கலைஞர் உரை கூறுவது: களத்தில் பகைவரைக் கலங்கவைக்கும் என் வலிமை இதோ இந்தக் காதலியின் ஒளி பொருந்திய நெற்றிக்கு வளைந்து கொடுத்துவிட்டதே! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pre-marital love (Pre-marital Love), Kural 1088 speaks directly to teens navigating studies, friendships, leadership, and digital choices: On her bright brow alone is destroyed even that power of mine that used to terrify the most fearless. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தகை அணங்குறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pre-marital love'.",
+        "quiz_question_ta": "'தகை அணங்குறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1088 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1088 from Chapter 'The Pre-marital love'?",
+        "quiz_options_ta": [
+          "போர்க்களத்தில் பகைவரும் அஞ்சுதற்க்கு காரணமான என் வலிமை, இவளுடைய ஒளி பொருந்திய நெற்றிக்குத் தோற்று அழிந்ததே.",
+          "(காதலின் பிரிவால் ஆகிய துன்பத்தைப்) பொறுக்காத என் உடம்பும் உயிரும், நாணத்தை நீக்கி நிறுத்தி விட்டு மடலூரத் துணிந்தன.",
+          "அன்று கடலும் தாங்கமுடியாத காமநோயை உண்டாக்கிய என் கண்கள், இன்று உறங்க முடியாமல் துன்பத்தால் வருந்துகின்றன.",
+          "தூங்கும்போது கனவில் வந்து என் தோள்மேல் உள்ளவராகி, விழி்த்தெழும்போது விரைந்து என் நெஞ்சில் உள்ளவராகிறார்‌."
+        ],
+        "quiz_options_en": [
+          "Ah these fair brows shatter my might Feared by foemen yet to meet",
+          "Pining body and mind lose shame And take to riding of the palm",
+          "My eyes causing lust more than sea Suffer that torture sleeplessly",
+          "Asleep he embraces me fast; Awake he enters quick my heart"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (தகை அணங்குறுத்தல்) பகுதியில் குறள் 1088 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: போர்க்களத்தில் பகைவரும் அஞ்சுதற்க்கு காரணமான என் வலிமை, இவளுடைய ஒளி பொருந்திய நெற்றிக்குத் தோற்று அழிந்ததே. பரிமேலழகர் உரை நுட்பம்: (நுதலினாய வருத்தம் கூறியது.) ஞாட்பினுள் நண்ணாரும் உட்கும் என் பீடு - போர்க்களத்து வந்து நேராத பகைவரும் நேர்ந்தார்வாய்க் கேட்டு அஞ்சுதற்கு ஏதுவாய என் வலி; ஒள் நுதற்குஓ உடைந்தது - இம்மாதரது ஒள்ளிய நுதலொன்றற்குமே அழிந்து விட்டது. ('மாதர்' என்பது அதிகாரத்தான...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 109: 'The Pre-marital love'), Kural 1088 distills a foundational ethical insight: \"Ah woe is me my might, That awed my foemen in the fight, By lustre of that beaming brow Borne down, lies broken now\" Philosophically, On her bright brow alone is destroyed even that power of mine that used to terrify the most fearless.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "courage",
+        "love",
+        "justice",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 1089,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பெண்மானைப் போன்ற இளமைப் பார்வையும் நாணமும் உடைய இவளுக்கு, ஒரு தொடர்பும் இல்லாத அணிகளைச் செய்து அணிவது ஏனோ.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Of what use are other jewels to her who is adorned with modesty, and the meek looks of a hind ?",
+        "story_title_ta": "தகை அணங்குறுத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Pre-marital love — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தகை அணங்குறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1089 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1089 from 'The Pre-marital love', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பெண்மானைப் போன்ற இளமை துள்ளும் பார்வையையும், நாணத்தையும் இயற்கையாகவே அணிகலன்களாகக் கொண்ட இப்பேரழகிக்குச் செயற்கையான அணிகலன்கள் எதற்காக?",
+        "moral_en": "Moral: Like tender fawn's her eye; Clothed on is she with modesty; What added beauty can be lent; By alien ornament.",
+        "game_blank_word_ta": "அணியெவனோ",
+        "game_options_ta": [
+          "அணங்குகொல்",
+          "அணியெவனோ",
+          "ஆய்மயில்",
+          "கொல்லோ"
+        ],
+        "game_options_en": [
+          "Is it an angel? A fair peacock Or jewelled belle? To my mind a shock!",
+          "Which jewel can add to her beauty With fawn-like looks and modesty?",
+          "The counter glances of this belle Are armied dart of the Love-Angel",
+          "Not known before -I spy Demise In woman's guise with battling eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தகை அணங்குறுத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1089, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெண்மானைப் போன்ற அச்சப் பார்வையையும் உள்ளத்தில் நாணத்தையும் நகைகளாகக் கொண்டிருக்கும் இவளுக்கு வேறு வேறு வகைப்பட்ட நகைகளை அணிவித்திருப்பது எதற்காகவோ? கலைஞர் உரை கூறுவது: பெண்மானைப் போன்ற இளமை துள்ளும் பார்வையையும், நாணத்தையும் இயற்கையாகவே அணிகலன்களாகக் கொண்ட இப்பேரழகிக்குச் செயற்கையான அணிகலன்கள் எதற்காக? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pre-marital love (Pre-marital Love), Kural 1089 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Of what use are other jewels to her who is adorned with modesty, and the meek looks of a hind ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தகை அணங்குறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pre-marital love'.",
+        "quiz_question_ta": "'தகை அணங்குறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1089 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1089 from Chapter 'The Pre-marital love'?",
+        "quiz_options_ta": [
+          "நாணமும் நல்ல ஆண்மையும் முன்பு பெற்றிருந்தேன், (காதலியை பிரிந்து வருந்துகின்ற) இப்போது காமம் மிக்கவர் ஏறும் மடலையே உடையேன்.",
+          "பெண்மானைப் போன்ற இளமைப் பார்வையும் நாணமும் உடைய இவளுக்கு, ஒரு தொடர்பும் இல்லாத அணிகளைச் செய்து அணிவது ஏனோ.",
+          "எமக்கு இந்தக் காமநோயைஉண்டாக்கிய கண்கள், தாமும் இத்தகைய துன்பத்தைப்பட்டு வருந்துவது மிகவும் நல்லதே!",
+          "கனவில் காதலர் வரக் காணாத மகளிர், நனவில் வந்து அன்பு செய்யாத கா‌தலரை ( அவர் வராத காரணம் பற்றி ) நொந்து கொள்வர்."
+        ],
+        "quiz_options_en": [
+          "Once I was modest and manly My love has now Madal only",
+          "Which jewel can add to her beauty With fawn-like looks and modesty?",
+          "Lo! eyes that wrought this love-sickness Are victims of the same themselves",
+          "In dreams who don't discern lovers Rue their missing in wakeful hours"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (தகை அணங்குறுத்தல்) பகுதியில் குறள் 1089 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பெண்மானைப் போன்ற இளமைப் பார்வையும் நாணமும் உடைய இவளுக்கு, ஒரு தொடர்பும் இல்லாத அணிகளைச் செய்து அணிவது ஏனோ. பரிமேலழகர் உரை நுட்பம்: (அணிகலத்தானாய வருத்தம் கூறியது.) பிணை ஏர் மடநோக்கும் நாணும் உடையாட்கு - புறத்து மான் பிணை ஒத்த மடநோக்கினையும் அகத்து நாணினையும் உடையாளாய இவட்கு; ஏதில தந்து அணி எவன்? - ஒற்றுமை உடைய இவ்வணிகளே அமைந்திருக்க வேற்றுமையுடைய அணிகளைப் படைத்து அணிதல் என்ன பயனுடைத்து...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 109: 'The Pre-marital love'), Kural 1089 distills a foundational ethical insight: \"Like tender fawn's her eye; Clothed on is she with modesty; What added beauty can be lent; By alien ornament\" Philosophically, Of what use are other jewels to her who is adorned with modesty, and the meek looks of a hind ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "humility",
+        "speech",
+        "love",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 1090,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: கள், தன்னை உண்டவரிடத்தில் அல்லாமல் காமத்தைப் போல் தன்னைக் கண்டவரிடத்தில் மயக்கத்தை உண்டாக்குவதில்லையே.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Unlike boiled honey which yields delight only when it is drunk, love gives pleasure even when looked at.",
+        "story_title_ta": "தகை அணங்குறுத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Pre-marital love — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'தகை அணங்குறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1090 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1090 from 'The Pre-marital love', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: மதுவை உண்டால்தான் மயக்கம் வரும்; ஆனால், கண்டாலே மயக்கம் தருவது காதல்தான்.",
+        "moral_en": "Moral: The palm-tree's fragrant wine, To those who taste yields joys divine; But love hath rare felicity For those that only see.",
+        "game_blank_word_ta": "மகிழ்செய்தல்",
+        "game_options_ta": [
+          "அணங்குகொல்",
+          "ஆய்மயில்",
+          "மகிழ்செய்தல்",
+          "கொல்லோ"
+        ],
+        "game_options_en": [
+          "Is it an angel? A fair peacock Or jewelled belle? To my mind a shock!",
+          "The counter glances of this belle Are armied dart of the Love-Angel",
+          "To the drunk alone is wine delight Nothing delights like love at sight",
+          "Not known before -I spy Demise In woman's guise with battling eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தகை அணங்குறுத்தல் (களவியல்) பிரிவில் அமைந்த குறள் 1090, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காய்ச்சப்பட்ட கள், உண்டவர்க்கே மகிழ்ச்சி தரும்; காதலைப் போல், காண்பவருக்கும் அது மகிழ்ச்சி தருவது இல்லை. கலைஞர் உரை கூறுவது: மதுவை உண்டால்தான் மயக்கம் வரும்; ஆனால், கண்டாலே மயக்கம் தருவது காதல்தான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pre-marital love (Pre-marital Love), Kural 1090 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Unlike boiled honey which yields delight only when it is drunk, love gives pleasure even when looked at. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'தகை அணங்குறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pre-marital love'.",
+        "quiz_question_ta": "'தகை அணங்குறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1090 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1090 from Chapter 'The Pre-marital love'?",
+        "quiz_options_ta": [
+          "நாணமும் நல்ல ஆண்மையுமாகிய தோணிகளைக் காமம் என்னும் கடுமையான வெள்ளம் அடித்துக் கொண்டு போய் விடுகின்றன.",
+          "அன்று விரும்பி நெகிழ்ந்து காதலரைக் கண்ட கண்கள் இன்று உறக்கமில்லாத துன்பத்தால் வருந்தி வருந்திக் கண்ணீரும் அற்றுப் போகட்டும்.",
+          "கள், தன்னை உண்டவரிடத்தில் அல்லாமல் காமத்தைப் போல் தன்னைக் கண்டவரிடத்தில் மயக்கத்தை உண்டாக்குவதில்லையே.",
+          "நனவில் நம்‌மை விட்டு நீங்கினார் என்று காதலரைப் பழித்து பேசுகின்றனரே! இந்த ஊரார் கனவில் அவரைக் காண்பதில்லையோ?"
+        ],
+        "quiz_options_en": [
+          "Rushing flood of love sweeps away The raft of shame and firmness, aye!",
+          "Let tears dry up pining pining In eyes that eyed him longing longing",
+          "To the drunk alone is wine delight Nothing delights like love at sight",
+          "The townsmen say he left me thus In dreams failing to see him close"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (தகை அணங்குறுத்தல்) பகுதியில் குறள் 1090 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கள், தன்னை உண்டவரிடத்தில் அல்லாமல் காமத்தைப் போல் தன்னைக் கண்டவரிடத்தில் மயக்கத்தை உண்டாக்குவதில்லையே. பரிமேலழகர் உரை நுட்பம்: (தலைமகள் குறிப்பறிதல் உற்றான் சொல்லியது.) அடுநறா - அடப்படும் நறா; உண்டார்கண் அல்லது - தன்னை உண்டார் மாட்டு மகிழ்ச்சியைச் செய்வதல்லது; காமம்போல் கண்டார் மகிழ் செய்தல் இன்று - காமம்போலக் கண்டார் மாட்டு மகிழ்ச்சியைச் செய்தல் உடைத்தன்று. (அடுநறா: வெளிப்படை...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 109: 'The Pre-marital love'), Kural 1090 distills a foundational ethical insight: \"The palm-tree's fragrant wine, To those who taste yields joys divine; But love hath rare felicity For those that only see\" Philosophically, Unlike boiled honey which yields delight only when it is drunk, love gives pleasure even when looked at.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "kindness"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "adhikaram_id": 92,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.310383304+00:00",
+  "kurals": [
+    {
+      "kural_number": 911,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அன் பினால் விரும்பாமல் பொருள் காரணமாக விரும்புகின்ற பொது மகளிர் பேசுகின்ற இனிய சொல், ஒருவனுக்கு துன்பத்தைக் கொடுக்கும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The sweet words of elegant braceleted (prostitutes) who desire (a man) not from affection but from avarice, will cause sorrow.",
+        "story_title_ta": "வரைவின் மகளிர் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Wanton Women — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வரைவின் மகளிர்' என்ற அதிகாரத்திலிருந்து குறள் 911 பற்றிக் கதை சொன்னார். 'அன்பால் நம்மை விரும்பாது, பொருள் பெறவே விரும்பும் பாலியல் தொழிலாளரின் இனிய சொற்கள் துன்பமே தரும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 92, 'Wanton Women', centered on Kural 911: The sweet words of elegant braceleted (prostitutes) who desire (a man) not from affection but from avarice, will cause sorrow. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அன்பே இல்லாமல் பொருள் திரட்டுவதையே குறிக்கோளாகக் கொண்ட பொதுமகளிர் இனிமையாகப் பேசுவதை நம்பி ஏமாறுகிறவர்களுக்கு இறுதியில் துன்பமே வந்து சேரும்.",
+        "moral_en": "Moral: Those that choice armlets wear who seek not thee with love, But seek thy wealth, their pleasant words will ruin prove.",
+        "game_blank_word_ta": "விழையார்",
+        "game_options_ta": [
+          "பயன்தூக்கிப்",
+          "பண்புரைக்கும்",
+          "பண்பின்",
+          "விழையார்"
+        ],
+        "game_options_en": [
+          "Avoid ill-natured whores who feign Love only for their selfish gain",
+          "The false embrace of whores is like That of a damned corpse in the dark",
+          "The wise who seek the wealth of grace Look not for harlots' low embrace",
+          "For gold, not love their tongue cajoles Men are ruined by bangled belles"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வரைவின் மகளிர் (அங்கவியல்) பிரிவில் அமைந்த குறள் 911, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அன்பால் நம்மை விரும்பாது, பொருள் பெறவே விரும்பும் பாலியல் தொழிலாளரின் இனிய சொற்கள் துன்பமே தரும். கலைஞர் உரை கூறுவது: அன்பே இல்லாமல் பொருள் திரட்டுவதையே குறிக்கோளாகக் கொண்ட பொதுமகளிர் இனிமையாகப் பேசுவதை நம்பி ஏமாறுகிறவர்களுக்கு இறுதியில் துன்பமே வந்து சேரும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Wanton Women (Ministers & Elements of State), Kural 911 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The sweet words of elegant braceleted (prostitutes) who desire (a man) not from affection but from avarice, will cause sorrow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வரைவின் மகளிர்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Wanton Women' thoughtfully.",
+        "quiz_question_ta": "'வரைவின் மகளிர்' அதிகாரத்தில் வரும் திருக்குறள் 911 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 911 from Chapter 'Wanton Women'?",
+        "quiz_options_ta": [
+          "தாம் பிறர்க்குக் கொடுத்துதவும் வன்மை வறுமையால் சுருங்கிய போதிலும், பழம் பெருமை உடைய குடியில் பிறந்தவர் தம் பண்பிலிருந்து நீங்குவதில்லை.",
+          "நட்பு கொள்ள முடியாதவராய்த் தீயவைச் செய்கின்றவரிடத்திலும் பண்பு உடையவராய் நடக்க முடியாமை இழிவானதாகும்.",
+          "வறுமையைப் போல் துன்பமானது எது என்று கேட்டால், வறுமையைப் போல் துன்பமானது வறுமை ஒன்றே ஆகும்.",
+          "அன் பினால் விரும்பாமல் பொருள் காரணமாக விரும்புகின்ற பொது மகளிர் பேசுகின்ற இனிய சொல், ஒருவனுக்கு துன்பத்தைக் கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "The means of gift may dwindle; yet Ancient homes guard their noble trait",
+          "Discourtesy is mean indeed E'en to a base unfriendly breed",
+          "What gives more pain than scarcity? No pain pinches like poverty",
+          "For gold, not love their tongue cajoles Men are ruined by bangled belles"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வரைவின் மகளிர்) பகுதியில் குறள் 911 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன் பினால் விரும்பாமல் பொருள் காரணமாக விரும்புகின்ற பொது மகளிர் பேசுகின்ற இனிய சொல், ஒருவனுக்கு துன்பத்தைக் கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: அன்பின் விழையார் பொருள் விழையும் ஆய் தொடியார் - ஒருவனை அன்புபற்றி விழையாது பொருள்பற்றி விழையும் மகளிர்; இன்சொல் இழுக்குத் தரும் - அது கையுறும் துணையும் தாம் அன்பு பற்றி விழைந்தாராகச் சொல்லும் இனிய சொல் அவனுக்குப் பின் இன்னாமையைப் பயக்கும். (பொருள் என்புழி...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 92: 'Wanton Women'), Kural 911 distills a foundational ethical insight: \"Those that choice armlets wear who seek not thee with love, But seek thy wealth, their pleasant words will ruin prove\" Philosophically, The sweet words of elegant braceleted (prostitutes) who desire (a man) not from affection but from avarice, will cause sorrow.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "wealth",
+        "love",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 912,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கிடைக்க கூடிய பயனை அளந்து பார்த்து, அதற்கு ஏற்றவாறு இனிய சொல் கூறுகின்ற பண்பற்ற பொது மகளிரின் இன்பத்தை ஆராய்ந்து பொருந்தாமல் விட வேண்டும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: One must ascertain the character of the ill-natured women who after ascertaining the wealth (of a man) speak (as if they were) good natured-ones, and avoid intercourse (with them).",
+        "story_title_ta": "வரைவின் மகளிர் — கவின் கற்ற பாடம்",
+        "story_title_en": "Wanton Women — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வரைவின் மகளிர்' என்ற அதிகாரத்திலிருந்து குறள் 912 பற்றிக் கதை சொன்னார். 'ஒருவனிடம் உள்ள செல்வத்தை அடையும்வரை நல்லவராய்ப் பேசும், பண்பு இல்லாத பாலியல் தொழிலாளரின் ஒழுக்கத்தை நன்கு எண்ணி, அவரைச் சேராது விடுக.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 92, 'Wanton Women', centered on Kural 912: One must ascertain the character of the ill-natured women who after ascertaining the wealth (of a man) speak (as if they were) good natured-ones, and avoid intercourse (with them). Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஆதாயத்தைக் கணக்கிட்டு அதற்கேற்றவாறு பாகுமொழிபேசும் பொதுமகளிர் உறவை ஒருபோதும் நம்பி ஏமாறக்கூடாது.",
+        "moral_en": "Moral: Who weigh the gain, and utter virtuous words with vicious heart, Weighing such women's worth, from their society depart.",
+        "game_blank_word_ta": "பண்பின்",
+        "game_options_ta": [
+          "பண்பின்",
+          "அன்பின்",
+          "விழையார்",
+          "பொருள்விழையும்"
+        ],
+        "game_options_en": [
+          "Avoid ill-natured whores who feign Love only for their selfish gain",
+          "For gold, not love their tongue cajoles Men are ruined by bangled belles",
+          "The false embrace of whores is like That of a damned corpse in the dark",
+          "The wise who seek the wealth of grace Look not for harlots' low embrace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வரைவின் மகளிர் (அங்கவியல்) பிரிவில் அமைந்த குறள் 912, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவனிடம் உள்ள செல்வத்தை அடையும்வரை நல்லவராய்ப் பேசும், பண்பு இல்லாத பாலியல் தொழிலாளரின் ஒழுக்கத்தை நன்கு எண்ணி, அவரைச் சேராது விடுக. கலைஞர் உரை கூறுவது: ஆதாயத்தைக் கணக்கிட்டு அதற்கேற்றவாறு பாகுமொழிபேசும் பொதுமகளிர் உறவை ஒருபோதும் நம்பி ஏமாறக்கூடாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Wanton Women (Ministers & Elements of State), Kural 912 speaks directly to teens navigating studies, friendships, leadership, and digital choices: One must ascertain the character of the ill-natured women who after ascertaining the wealth (of a man) speak (as if they were) good natured-ones, and avoid intercourse (with them). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வரைவின் மகளிர்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Wanton Women' thoughtfully.",
+        "quiz_question_ta": "'வரைவின் மகளிர்' அதிகாரத்தில் வரும் திருக்குறள் 912 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 912 from Chapter 'Wanton Women'?",
+        "quiz_options_ta": [
+          "கிடைக்க கூடிய பயனை அளந்து பார்த்து, அதற்கு ஏற்றவாறு இனிய சொல் கூறுகின்ற பண்பற்ற பொது மகளிரின் இன்பத்தை ஆராய்ந்து பொருந்தாமல் விட வேண்டும்.",
+          "மாசற்ற குடிப் பண்புடன் வாழ்வோம் என்று கருதி வாழ்வோர், வஞ்சனைக் கொண்டு தகுதியில்லாதவற்றைக் செய்யமாட்டார்.",
+          "பிறரோடு கலந்து பழகி மகிழ முடியாதவர்க்கு, மிகப் பெரிய இந்த உலகம் ஒளியுள்ள பகற் காலத்திலும் இருளில் கிடப்பதாம்.",
+          "வறுமை என்று சொல்லப்படும் பாவி ஒருவனை நெருங்கினால், அவனுக்கு மறுமையின்பமும், இன்மையின்பமும் இல்லாமற் போகும் நிலைமை வரும்."
+        ],
+        "quiz_options_en": [
+          "Avoid ill-natured whores who feign Love only for their selfish gain",
+          "Who guard their family prestige pure Stoop not to acts of cunning lure",
+          "To those bereft of smiling light Even in day the earth is night",
+          "The sinner Want is enemy dire Of joys of earth and heaven there"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வரைவின் மகளிர்) பகுதியில் குறள் 912 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கிடைக்க கூடிய பயனை அளந்து பார்த்து, அதற்கு ஏற்றவாறு இனிய சொல் கூறுகின்ற பண்பற்ற பொது மகளிரின் இன்பத்தை ஆராய்ந்து பொருந்தாமல் விட வேண்டும். பரிமேலழகர் உரை நுட்பம்: பயன் தூக்கிப் பண்பு உரைக்கும் பண்பு இல் மகளிர் - ஒருவனுக்கு உள்ள பொருளை அளந்தறிந்து, அஃது எய்தும் துணையும் தம் பண்புடைமை சொல்லும் பண்பில்லாத மகளிரது; நயன் தூக்கி நள்ளாவிடல் - ஒழுகலாற்றினை ஆராய்ந்தறிந்து அவரைப் பொருந்தாது விடுக. (பண்பு, சொல்லின்கண் அல்லது...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 92: 'Wanton Women'), Kural 912 distills a foundational ethical insight: \"Who weigh the gain, and utter virtuous words with vicious heart, Weighing such women's worth, from their society depart\" Philosophically, One must ascertain the character of the ill-natured women who after ascertaining the wealth (of a man) speak (as if they were) good natured-ones, and avoid intercourse (with them).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "wealth",
+        "love",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 913,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பொருளையே விரும்பும் பொது மகளிரின் பொய்யானத் தழுவல், இருட்டறையில் தொடர்பில்லாத ஒரு பிணத்தைத் தழுவினாற் போன்றது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The false embraces of wealth-loving women are like (hired men) embracing a strange corpse in a dark room.",
+        "story_title_ta": "வரைவின் மகளிர் — நிலா கற்ற பாடம்",
+        "story_title_en": "Wanton Women — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வரைவின் மகளிர்' என்ற அதிகாரத்திலிருந்து குறள் 913 பற்றிக் கதை சொன்னார். 'பொருளையே விரும்பும் பாலியல் தொழிலாளரின் போலித் தழுவல், இருட்டு அறையில் முன்பு அழியாத பிணத்தைத் தழுவுவது போலாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 92, 'Wanton Women', centered on Kural 913: The false embraces of wealth-loving women are like (hired men) embracing a strange corpse in a dark room. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: விலைமாதர்கள் பணத்துக்காக மட்டுமே ஒருவரைத் தழுவிப் பொய்யன்பு காட்டி நடிப்பது, இருட்டறையில் ஓர் அந்நியப் பிணத்தை அணைத்துக் கிடப்பது போன்றதாகும்.",
+        "moral_en": "Moral: As one in darkened room, some stranger corpse inarms, Is he who seeks delight in mercenary women's charms.",
+        "game_blank_word_ta": "இருட்டறையில்",
+        "game_options_ta": [
+          "அன்பின்",
+          "இருட்டறையில்",
+          "விழையார்",
+          "பொருள்விழையும்"
+        ],
+        "game_options_en": [
+          "For gold, not love their tongue cajoles Men are ruined by bangled belles",
+          "The false embrace of whores is like That of a damned corpse in the dark",
+          "Avoid ill-natured whores who feign Love only for their selfish gain",
+          "The wise who seek the wealth of grace Look not for harlots' low embrace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வரைவின் மகளிர் (அங்கவியல்) பிரிவில் அமைந்த குறள் 913, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொருளையே விரும்பும் பாலியல் தொழிலாளரின் போலித் தழுவல், இருட்டு அறையில் முன்பு அழியாத பிணத்தைத் தழுவுவது போலாம். கலைஞர் உரை கூறுவது: விலைமாதர்கள் பணத்துக்காக மட்டுமே ஒருவரைத் தழுவிப் பொய்யன்பு காட்டி நடிப்பது, இருட்டறையில் ஓர் அந்நியப் பிணத்தை அணைத்துக் கிடப்பது போன்றதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Wanton Women (Ministers & Elements of State), Kural 913 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The false embraces of wealth-loving women are like (hired men) embracing a strange corpse in a dark room. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வரைவின் மகளிர்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Wanton Women' thoughtfully.",
+        "quiz_question_ta": "'வரைவின் மகளிர்' அதிகாரத்தில் வரும் திருக்குறள் 913 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 913 from Chapter 'Wanton Women'?",
+        "quiz_options_ta": [
+          "உயர் குடியில் பிறந்தவரிடத்தில் உண்டாகும் குற்றம், ஆகாயத்தில் திங்களிடம் காணப்படும் களங்கம்போல் பலரறியத் தோன்றும்.",
+          "பொருளையே விரும்பும் பொது மகளிரின் பொய்யானத் தழுவல், இருட்டறையில் தொடர்பில்லாத ஒரு பிணத்தைத் தழுவினாற் போன்றது.",
+          "பண்பு இல்லாதவன் பெற்ற பெரிய செல்வம், வைத்த கலத்தின் தீமையால் நல்ல பால் தன் சுவை முதலியன கெட்டாற் போன்றதாகும்.",
+          "வறுமை என்று சொல்லப்படும் ஆசைநிலை ஒருவனைப் பற்றினால், அவனுடைய பழைமையானக் குடிப் பண்பையும் புகழையும் ஒரு சேரக் கெடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "The faults of nobly-born are seen Like on the sky the spots of moon",
+          "The false embrace of whores is like That of a damned corpse in the dark",
+          "The wealth heaped by the churlish base Is pure milk soured by impure vase",
+          "The craving itch of poverty Kills graceful words and ancestry"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வரைவின் மகளிர்) பகுதியில் குறள் 913 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருளையே விரும்பும் பொது மகளிரின் பொய்யானத் தழுவல், இருட்டறையில் தொடர்பில்லாத ஒரு பிணத்தைத் தழுவினாற் போன்றது. பரிமேலழகர் உரை நுட்பம்: பொருட்பெண்டிர் பொய்ம்மை முயக்கம் - கொடுப்பாரை விரும்பாது பொருளையே விரும்பும் பொது மகளிரது பொய்ம்மையையுடைய முயக்கம்; இருட்டு அறையில் ஏதில் பிணம் தழீஇயற்று - பிணமெடுப்பார் இருட்டறைக்கண்ணே முன்னறியாத பிணத்தைத் தழுவினாற்போலும். (பொருட்கு முயங்கும் மகளிர...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 92: 'Wanton Women'), Kural 913 distills a foundational ethical insight: \"As one in darkened room, some stranger corpse inarms, Is he who seeks delight in mercenary women's charms\" Philosophically, The false embraces of wealth-loving women are like (hired men) embracing a strange corpse in a dark room.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "truth",
+        "wealth",
+        "self-mastery",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 914,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பொருள் ஒன்றையே பொருளாகக் கொண்ட பொது மகளிரின் புன்மையான இன்பத்தை, அருளாகிய சிறந்த பொருளை ஆராயும் அறிவுடையோர் பொருந்த மாட்டார்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The wise who seek the wealth of grace will not desire the base favours of those who regard wealth (and not pleasure) as (their) riches.",
+        "story_title_ta": "வரைவின் மகளிர் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Wanton Women — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வரைவின் மகளிர்' என்ற அதிகாரத்திலிருந்து குறள் 914 பற்றிக் கதை சொன்னார். 'அருளோடுகூடப் பொருள்தேடும் அறிவினை உடையவர், வெறும் பொருளையே தேடும் பாலியல் தொழிலாளரின் அற்ப உடம்பைத் தீண்டமாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 92, 'Wanton Women', centered on Kural 914: The wise who seek the wealth of grace will not desire the base favours of those who regard wealth (and not pleasure) as (their) riches. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அருளை விரும்பி ஆராய்ந்திடும் அறிவுடையவர்கள் பொருளை மட்டுமே விரும்பும் விலைமகளிரின் இன்பத்தை இழிவானதாகக் கருதுவார்கள்.",
+        "moral_en": "Moral: Their worthless charms, whose only weal is wealth of gain, From touch of these the wise, who seek the wealth of grace, abstain.",
+        "game_blank_word_ta": "ஆயும்",
+        "game_options_ta": [
+          "அன்பின்",
+          "விழையார்",
+          "ஆயும்",
+          "பொருள்விழையும்"
+        ],
+        "game_options_en": [
+          "For gold, not love their tongue cajoles Men are ruined by bangled belles",
+          "Avoid ill-natured whores who feign Love only for their selfish gain",
+          "The wise who seek the wealth of grace Look not for harlots' low embrace",
+          "The false embrace of whores is like That of a damned corpse in the dark"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வரைவின் மகளிர் (அங்கவியல்) பிரிவில் அமைந்த குறள் 914, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அருளோடுகூடப் பொருள்தேடும் அறிவினை உடையவர், வெறும் பொருளையே தேடும் பாலியல் தொழிலாளரின் அற்ப உடம்பைத் தீண்டமாட்டார். கலைஞர் உரை கூறுவது: அருளை விரும்பி ஆராய்ந்திடும் அறிவுடையவர்கள் பொருளை மட்டுமே விரும்பும் விலைமகளிரின் இன்பத்தை இழிவானதாகக் கருதுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Wanton Women (Ministers & Elements of State), Kural 914 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The wise who seek the wealth of grace will not desire the base favours of those who regard wealth (and not pleasure) as (their) riches. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வரைவின் மகளிர்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Wanton Women' thoughtfully.",
+        "quiz_question_ta": "'வரைவின் மகளிர்' அதிகாரத்தில் வரும் திருக்குறள் 914 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 914 from Chapter 'Wanton Women'?",
+        "quiz_options_ta": [
+          "ஒருவனுடைய நல்லப் பண்புகளுக்கிடையில் அன்பற்றத் தன்மைக் காணப்பட்டால், அவனை அவனுடைய குடிப் பிறப்பு பற்றி ஐயப்பட நேரும்.",
+          "ஒருவன் இடமெல்லாம் நிறைந்த பெரும் பொருளைச் சேர்த்து வைத்து அதை உண்டு நூகராமல் இறந்து போனால் அவன் அந்த பொருளால் செய்ய முடிந்தது ஒன்றுமில்லை.",
+          "பொருள் ஒன்றையே பொருளாகக் கொண்ட பொது மகளிரின் புன்மையான இன்பத்தை, அருளாகிய சிறந்த பொருளை ஆராயும் அறிவுடையோர் பொருந்த மாட்டார்.",
+          "வறுமை என்பது, நல்ல குடியிற் பிறந்தவரிடத்திலும் இழிவு தரும் சொல் பிறப்பதற்குக் காரணமான சோர்வை உண்டாக்கி விடும்."
+        ],
+        "quiz_options_en": [
+          "If manners of the good are rude People deem their pedigree crude",
+          "Dead is he with wealth in pile Unenjoyed, it is futile",
+          "The wise who seek the wealth of grace Look not for harlots' low embrace",
+          "Want makes even good familymen Utter words that are low and mean"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வரைவின் மகளிர்) பகுதியில் குறள் 914 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருள் ஒன்றையே பொருளாகக் கொண்ட பொது மகளிரின் புன்மையான இன்பத்தை, அருளாகிய சிறந்த பொருளை ஆராயும் அறிவுடையோர் பொருந்த மாட்டார். பரிமேலழகர் உரை நுட்பம்: பொருட் பொருளார் புன்னலம் - இன்பமாகிய பொருளை இகழ்ந்து பொருளாகிய பொருளையே விரும்பும் மகளிரது புல்லிய நலத்தை; அருட் பொருள் ஆயும் அறிவினவர் தோயார் - அருளொடு கூடிய பொருளை ஆராய்ந்து செய்யும் அறிவினையுடையார் தீண்டார். (அறம் முதலிய நான்கும் பொருள் எனப்படுதலின...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 92: 'Wanton Women'), Kural 914 distills a foundational ethical insight: \"Their worthless charms, whose only weal is wealth of gain, From touch of these the wise, who seek the wealth of grace, abstain\" Philosophically, The wise who seek the wealth of grace will not desire the base favours of those who regard wealth (and not pleasure) as (their) riches.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "wisdom",
+        "kindness",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 915,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: இயற்கை யறிவின் நன்மையால் சிறப்புற்ற அறிவுடையோர், பொருள் தருவார் எல்லார்க்கும் பொதுவாக இன்பம் தரும் மகளிரின் புன்மையான நலத்தைப் பொருந்தார்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Those whose knowledge is made excellent by their (natural) sense will not covet the trffling delights.",
+        "story_title_ta": "வரைவின் மகளிர் — இனியா கற்ற பாடம்",
+        "story_title_en": "Wanton Women — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வரைவின் மகளிர்' என்ற அதிகாரத்திலிருந்து குறள் 915 பற்றிக் கதை சொன்னார். 'இயல்பாகிய மதிநலத்தால் சிறந்த அறிவினை உடையவர், பாலியல் தொழிலாளரின் அற்ப உடம்பைத் தீண்டமாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 92, 'Wanton Women', centered on Kural 915: Those whose knowledge is made excellent by their (natural) sense will not covet the trffling delights. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இயற்கையறிவும் மேலும் கற்றுணர்ந்த அறிவும் கொண்டவர்கள் பொதுமகளிர் தரும் இன்பத்தில் மூழ்கமாட்டார்கள்.",
+        "moral_en": "Moral: From contact with their worthless charms, whose charms to all are free, The men with sense of good and lofty wisdom blest will flee;.",
+        "game_blank_word_ta": "அறிவி",
+        "game_options_ta": [
+          "அன்பின்",
+          "விழையார்",
+          "பொருள்விழையும்",
+          "அறிவி"
+        ],
+        "game_options_en": [
+          "For gold, not love their tongue cajoles Men are ruined by bangled belles",
+          "Avoid ill-natured whores who feign Love only for their selfish gain",
+          "The false embrace of whores is like That of a damned corpse in the dark",
+          "The lofty wise will never covet The open charms of a vile harlot"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வரைவின் மகளிர் (அங்கவியல்) பிரிவில் அமைந்த குறள் 915, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இயல்பாகிய மதிநலத்தால் சிறந்த அறிவினை உடையவர், பாலியல் தொழிலாளரின் அற்ப உடம்பைத் தீண்டமாட்டார். கலைஞர் உரை கூறுவது: இயற்கையறிவும் மேலும் கற்றுணர்ந்த அறிவும் கொண்டவர்கள் பொதுமகளிர் தரும் இன்பத்தில் மூழ்கமாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Wanton Women (Ministers & Elements of State), Kural 915 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those whose knowledge is made excellent by their (natural) sense will not covet the trffling delights. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வரைவின் மகளிர்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Wanton Women' thoughtfully.",
+        "quiz_question_ta": "'வரைவின் மகளிர்' அதிகாரத்தில் வரும் திருக்குறள் 915 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 915 from Chapter 'Wanton Women'?",
+        "quiz_options_ta": [
+          "இன்ன நிலத்தில் இருந்து முளைத்தது என்பதை முளை காட்டும், அதுபோல் குடியிற் பிறந்தவரின் வாய்ச் சொல் அவருடைய குடிப்பிறப்பைக் காட்டும்.",
+          "பொருளால் எல்லாம் ஆகும் என்று பிறர்க்கு ஒன்றும் கொடுக்காமல் இறுகப்பற்றிய மயக்கத்தால் சிறப்பில்லாத பிறவி உண்டாம்.",
+          "வறுமை என்று சொல்லப்படும் துன்ப நிலையினுள் பலவகையாக வேறுபட்டுள்ள எல்லாத் துன்பங்களும் சென்று விளைந்திடும்.",
+          "இயற்கை யறிவின் நன்மையால் சிறப்புற்ற அறிவுடையோர், பொருள் தருவார் எல்லார்க்கும் பொதுவாக இன்பம் தரும் மகளிரின் புன்மையான நலத்தைப் பொருந்தார்."
+        ],
+        "quiz_options_en": [
+          "Soil's nature is seen in sprout The worth of birth from words flow out",
+          "The niggard miser thinks wealth is all He hoards, gives not is born devil",
+          "The pest of wanton poverty Brings a train of misery",
+          "The lofty wise will never covet The open charms of a vile harlot"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வரைவின் மகளிர்) பகுதியில் குறள் 915 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இயற்கை யறிவின் நன்மையால் சிறப்புற்ற அறிவுடையோர், பொருள் தருவார் எல்லார்க்கும் பொதுவாக இன்பம் தரும் மகளிரின் புன்மையான நலத்தைப் பொருந்தார். பரிமேலழகர் உரை நுட்பம்: மதி நலத்தின் மாண்ட அறிவினர் - இயற்கையாகிய மதிநன்மையான் மாட்சிமைப்பட்ட செயற்கை அறிவினையுடையார்; பொது நலத்தார் புல்நலம் தோயார் - பொருள் கொடுப்பார்க்கெல்லாம் பொதுவாய ஆசையினையுடைய மகளிரது புல்லிய நலத்தைத் தீண்டார். (மதி நன்மை - முற்பிறப்புக்களில் செய்த...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 92: 'Wanton Women'), Kural 915 distills a foundational ethical insight: \"From contact with their worthless charms, whose charms to all are free, The men with sense of good and lofty wisdom blest will flee;\" Philosophically, Those whose knowledge is made excellent by their (natural) sense will not covet the trffling delights.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "kindness",
+        "wealth",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 916,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அழகு முதலியவற்றால் செருக்கு கொண்டு தம் புன்மையான நலத்தை விற்கும் பொது மகளிரின் தோளை, தம் நல்லோழுக்கத்தைப் போற்றும் சான்றோர் பொருந்தார்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Those who would spread (the fame of) their own goodness will not desire the shoulders of those, who rejoice in their accomplishments and bestow their despicable favours (on all who pay).",
+        "story_title_ta": "வரைவின் மகளிர் — முகில் கற்ற பாடம்",
+        "story_title_en": "Wanton Women — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வரைவின் மகளிர்' என்ற அதிகாரத்திலிருந்து குறள் 916 பற்றிக் கதை சொன்னார். 'தம் திறமையில் செருக்குக் கொண்டு, தம் உடல் அழகைப் பலருக்கும் தந்து பணம் பெற விரும்பும் பாலிய தொழிலாளரின் தோளை, அறிவினால் தம் புகழைப் பரப்ப விரும்பும் பெரியோர் தீண்டமாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 92, 'Wanton Women', centered on Kural 916: Those who would spread (the fame of) their own goodness will not desire the shoulders of those, who rejoice in their accomplishments and bestow their despicable favours (on all who pay). Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: புகழ்ச்சிக்குரிய சான்றோர் எவரும், இகழ்ச்சிக்குரிய இன்பவல்லிகளின் தோளில் சாய்ந்து கிடக்க மாட்டார்.",
+        "moral_en": "Moral: From touch of those who worthless charms, with wanton arts, display, The men who would their own true good maintain will turn away.",
+        "game_blank_word_ta": "பாரிப்பார்",
+        "game_options_ta": [
+          "பாரிப்பார்",
+          "அன்பின்",
+          "விழையார்",
+          "பொருள்விழையும்"
+        ],
+        "game_options_en": [
+          "Those who guard their worthy fame Shun the wanton's vaunting charm",
+          "For gold, not love their tongue cajoles Men are ruined by bangled belles",
+          "Avoid ill-natured whores who feign Love only for their selfish gain",
+          "The false embrace of whores is like That of a damned corpse in the dark"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வரைவின் மகளிர் (அங்கவியல்) பிரிவில் அமைந்த குறள் 916, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம் திறமையில் செருக்குக் கொண்டு, தம் உடல் அழகைப் பலருக்கும் தந்து பணம் பெற விரும்பும் பாலிய தொழிலாளரின் தோளை, அறிவினால் தம் புகழைப் பரப்ப விரும்பும் பெரியோர் தீண்டமாட்டார். கலைஞர் உரை கூறுவது: புகழ்ச்சிக்குரிய சான்றோர் எவரும், இகழ்ச்சிக்குரிய இன்பவல்லிகளின் தோளில் சாய்ந்து கிடக்க மாட்டார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Wanton Women (Ministers & Elements of State), Kural 916 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who would spread (the fame of) their own goodness will not desire the shoulders of those, who rejoice in their accomplishments and bestow their despicable favours (on all who pay). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வரைவின் மகளிர்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Wanton Women' thoughtfully.",
+        "quiz_question_ta": "'வரைவின் மகளிர்' அதிகாரத்தில் வரும் திருக்குறள் 916 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 916 from Chapter 'Wanton Women'?",
+        "quiz_options_ta": [
+          "அழகு முதலியவற்றால் செருக்கு கொண்டு தம் புன்மையான நலத்தை விற்கும் பொது மகளிரின் தோளை, தம் நல்லோழுக்கத்தைப் போற்றும் சான்றோர் பொருந்தார்.",
+          "ஒருவனுக்கு நன்மை வேண்டுமானால் நாணம் உடையவனாக வேண்டும், குடியின் உயர்வு வேண்டுமானால் எல்லோரிடத்தும் பணிவு வேண்டும்.",
+          "சேர்த்து வைப்பதையே விரும்பிப் பற்றுள்ளம் கொண்டு புகழை விரும்பாத மக்கள் பிறந்து வாழ்தல் நிலத்திற்கு பாரமே ஆகும்.",
+          "நல்ல நூற் பொருளை நன்றாக உணர்ந்து எடுத்துச் சொன்னப் போதிலும் வறியவர் சொன்ன சொற்பொருள் கேட்பார் இல்லாமல் பயன்படாமல் போகும்."
+        ],
+        "quiz_options_en": [
+          "Those who guard their worthy fame Shun the wanton's vaunting charm",
+          "All gain good name by modesty Nobility by humility",
+          "A burden he is to earth indeed Who hoards without a worthy deed",
+          "The poor men's words are thrown away Though from heart good things they say"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வரைவின் மகளிர்) பகுதியில் குறள் 916 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அழகு முதலியவற்றால் செருக்கு கொண்டு தம் புன்மையான நலத்தை விற்கும் பொது மகளிரின் தோளை, தம் நல்லோழுக்கத்தைப் போற்றும் சான்றோர் பொருந்தார். பரிமேலழகர் உரை நுட்பம்: தம்முடைய நலத்தை உலகின்கண் பரப்புவார் சேரார்: வனப்பினால் களிப்புற்றுத் தமது புல்லிய நலத்தை எல்லார்மாட்டும் பரப்புவாரது தோளினை.",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 92: 'Wanton Women'), Kural 916 distills a foundational ethical insight: \"From touch of those who worthless charms, with wanton arts, display, The men who would their own true good maintain will turn away\" Philosophically, Those who would spread (the fame of) their own goodness will not desire the shoulders of those, who rejoice in their accomplishments and bestow their despicable favours (on all who pay).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "kindness",
+        "ethics",
+        "self-mastery",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 917,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நெஞ்சத்தை நிறுத்தி ஆளும் ஆற்றல் இல்லாதவர், தம் நெஞ்சில் வேறுபொருளை விரும்பிக்கூடும் போது மகளிரின் தோளைப் பொருந்துவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Those who are destitute of a perfectly (reformed) mind will covet the shoulders of those who embrace (them) while their hearts covet other things.",
+        "story_title_ta": "வரைவின் மகளிர் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Wanton Women — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வரைவின் மகளிர்' என்ற அதிகாரத்திலிருந்து குறள் 917 பற்றிக் கதை சொன்னார். 'பிறவற்றைப் பெறும் பொருட்டு மன ஆசை கொண்டு, அதற்காகவே உடம்பால் புணரும் பாலியல் தொழிலாளரின் தோளை மன அடக்கம் இல்லாதவரே தீண்டுவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 92, 'Wanton Women', centered on Kural 917: Those who are destitute of a perfectly (reformed) mind will covet the shoulders of those who embrace (them) while their hearts covet other things. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உள்ளத்தில் அன்பு இல்லாமல் தன்னலத்துக்காக உடலுறவு கொள்ளும் பொதுமகளிர் தோளை, உறுதியற்ற மனம் படைத்தோர் மட்டும் நம்பிக் கிடப்பர்.",
+        "moral_en": "Moral: Who cherish alien thoughts while folding in their feigned embrace, These none approach save those devoid of virtue's grace.",
+        "game_blank_word_ta": "புணர்பவர்",
+        "game_options_ta": [
+          "அன்பின்",
+          "புணர்பவர்",
+          "விழையார்",
+          "பொருள்விழையும்"
+        ],
+        "game_options_en": [
+          "For gold, not love their tongue cajoles Men are ruined by bangled belles",
+          "Hollow hearts alone desire The arms of whores with hearts elsewere",
+          "Avoid ill-natured whores who feign Love only for their selfish gain",
+          "The false embrace of whores is like That of a damned corpse in the dark"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வரைவின் மகளிர் (அங்கவியல்) பிரிவில் அமைந்த குறள் 917, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறவற்றைப் பெறும் பொருட்டு மன ஆசை கொண்டு, அதற்காகவே உடம்பால் புணரும் பாலியல் தொழிலாளரின் தோளை மன அடக்கம் இல்லாதவரே தீண்டுவர். கலைஞர் உரை கூறுவது: உள்ளத்தில் அன்பு இல்லாமல் தன்னலத்துக்காக உடலுறவு கொள்ளும் பொதுமகளிர் தோளை, உறுதியற்ற மனம் படைத்தோர் மட்டும் நம்பிக் கிடப்பர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Wanton Women (Ministers & Elements of State), Kural 917 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who are destitute of a perfectly (reformed) mind will covet the shoulders of those who embrace (them) while their hearts covet other things. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வரைவின் மகளிர்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Wanton Women' thoughtfully.",
+        "quiz_question_ta": "'வரைவின் மகளிர்' அதிகாரத்தில் வரும் திருக்குறள் 917 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 917 from Chapter 'Wanton Women'?",
+        "quiz_options_ta": [
+          "இன்றியமையாத சிறப்பை உடைய செயல்களே ஆயினும் குடிப்பெருமை தாழுமாறு வரும் செயல்களை ஒருவன் செய்யாமல் விட வேண்டும்.",
+          "நெஞ்சத்தை நிறுத்தி ஆளும் ஆற்றல் இல்லாதவர், தம் நெஞ்சில் வேறுபொருளை விரும்பிக்கூடும் போது மகளிரின் தோளைப் பொருந்துவர்.",
+          "பிறர்க்கு உதவியாக வாழாதக் காரணத்தால் ஒருவராலும் விரும்பப்படாதவன் , தான் இறந்த பிறகு எஞ்சி நிற்பது என்று எதனை எண்ணுவானே.",
+          "அறத்தோடு பொருந்தாத வறுமை ஒருவனைச் சேர்ந்தால் பெற்றத் தாயாலும் அவன் அயலானைப் போல் புறக்கணித்துப் பார்க்கப்படுவான்."
+        ],
+        "quiz_options_en": [
+          "Though needed for your life in main, From mean degrading acts refrain",
+          "Hollow hearts alone desire The arms of whores with hearts elsewere",
+          "What legacy can he leave behind Who is for approach too unkind",
+          "Even the mother looks as stranger The poor devoid of character"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வரைவின் மகளிர்) பகுதியில் குறள் 917 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெஞ்சத்தை நிறுத்தி ஆளும் ஆற்றல் இல்லாதவர், தம் நெஞ்சில் வேறுபொருளை விரும்பிக்கூடும் போது மகளிரின் தோளைப் பொருந்துவர். பரிமேலழகர் உரை நுட்பம்: நெஞ்சின் பிற பேணிப் புணர்பவர் தோள் - நெஞ்சினாற் பிறவற்றை ஆசைப்பட்டு அவைகாரணமாகக் கொடுப்பாரை மெய்யாற் புணரும் மகளிர் தோள்களை; நிறை நெஞ்சம் இல்லவர் தோய்வர் - நிறையால் திருந்திய நெஞ்சம் இல்லாதார் தோய்வர். (பொருளும் அதனால் படைக்கப்படுவனவும் விரும்பும் நெஞ்சு...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 92: 'Wanton Women'), Kural 917 distills a foundational ethical insight: \"Who cherish alien thoughts while folding in their feigned embrace, These none approach save those devoid of virtue's grace\" Philosophically, Those who are destitute of a perfectly (reformed) mind will covet the shoulders of those who embrace (them) while their hearts covet other things.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "self-mastery",
+        "love",
+        "harmony",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 918,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: வஞ்சம் நிறைந்த பொதுமகளிரின் சேர்க்கை, ஆராய்ந்தறியும் அறிவு இல்லாதவற்க்கு அணங்கு தாக்கு(மோகினி மயக்கு) என்று கூறுவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The wise say that to such as are destitute of discerning sense the embraces of faithless women are (as ruinous as those of) the celestail female.",
+        "story_title_ta": "வரைவின் மகளிர் — கவின் கற்ற பாடம்",
+        "story_title_en": "Wanton Women — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வரைவின் மகளிர்' என்ற அதிகாரத்திலிருந்து குறள் 918 பற்றிக் கதை சொன்னார். 'வஞ்சிப்பதில் வல்ல பாலியல் தொழிலாளரின் தழுவலை, வஞ்சனையைக் கண்டு அறியும் அறிவற்றவர், காமம் ஊட்டி உயிர் கவரும் தெய்வத்தின் தாக்குதல் என்பர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 92, 'Wanton Women', centered on Kural 918: The wise say that to such as are destitute of discerning sense the embraces of faithless women are (as ruinous as those of) the celestail female. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வஞ்சக எண்ணங்கொண்ட ``பொதுமகள்'' ஒருத்தியிடம் மயங்குவதை அறிவில்லாதவனுக்கு ஏற்பட்ட ``மோகினி மயக்கம்'' என்று கூறுவார்கள்.",
+        "moral_en": "Moral: As demoness who lures to ruin woman's treacherous loveTo men devoid of wisdom's searching power will prove.",
+        "game_blank_word_ta": "ஆயும்",
+        "game_options_ta": [
+          "அன்பின்",
+          "விழையார்",
+          "ஆயும்",
+          "பொருள்விழையும்"
+        ],
+        "game_options_en": [
+          "For gold, not love their tongue cajoles Men are ruined by bangled belles",
+          "Avoid ill-natured whores who feign Love only for their selfish gain",
+          "Senseless fools are lured away By arms of sirens who lead astray",
+          "The false embrace of whores is like That of a damned corpse in the dark"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வரைவின் மகளிர் (அங்கவியல்) பிரிவில் அமைந்த குறள் 918, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வஞ்சிப்பதில் வல்ல பாலியல் தொழிலாளரின் தழுவலை, வஞ்சனையைக் கண்டு அறியும் அறிவற்றவர், காமம் ஊட்டி உயிர் கவரும் தெய்வத்தின் தாக்குதல் என்பர். கலைஞர் உரை கூறுவது: வஞ்சக எண்ணங்கொண்ட ``பொதுமகள்'' ஒருத்தியிடம் மயங்குவதை அறிவில்லாதவனுக்கு ஏற்பட்ட ``மோகினி மயக்கம்'' என்று கூறுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Wanton Women (Ministers & Elements of State), Kural 918 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The wise say that to such as are destitute of discerning sense the embraces of faithless women are (as ruinous as those of) the celestail female. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வரைவின் மகளிர்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Wanton Women' thoughtfully.",
+        "quiz_question_ta": "'வரைவின் மகளிர்' அதிகாரத்தில் வரும் திருக்குறள் 918 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 918 from Chapter 'Wanton Women'?",
+        "quiz_options_ta": [
+          "புகழோடு பெரிய ஆண்மையும் விரும்புகின்றவர், புகழ் தோடும் வழியிலும் குடிப்பெருமைக்கு ஒவ்வாத செயல்களைச் செய்யமாட்டார்.",
+          "பிறர்க்கு கொடுத்து உதவுவதும் தான் நுகர்வதும் இல்லாதவர்க்கு மேன் மேலும் பெருகிய பல கோடிப் பொருள் உண்டானாலும் பயன் இல்லை.",
+          "வஞ்சம் நிறைந்த பொதுமகளிரின் சேர்க்கை, ஆராய்ந்தறியும் அறிவு இல்லாதவற்க்கு அணங்கு தாக்கு(மோகினி மயக்கு) என்று கூறுவர்.",
+          "நேற்றும் கொலை செய்தது போல் துன்புறுத்திய வறுமை இன்றும் என்னிடம் வருமோ, (என்று வறியவன் நாள்தோறும் கலங்கி வருந்துவான்)."
+        ],
+        "quiz_options_en": [
+          "Who seek honour and manly fame Don't do mean deeds even for name",
+          "What is the good of crores they hoard To give and enjoy whose heart is hard",
+          "Senseless fools are lured away By arms of sirens who lead astray",
+          "The killing Want of yesterday Will it pester me even to-day?"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வரைவின் மகளிர்) பகுதியில் குறள் 918 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வஞ்சம் நிறைந்த பொதுமகளிரின் சேர்க்கை, ஆராய்ந்தறியும் அறிவு இல்லாதவற்க்கு அணங்கு தாக்கு(மோகினி மயக்கு) என்று கூறுவர். பரிமேலழகர் உரை நுட்பம்: மாய மகளிர் முயக்கு - உருவு சொல் செயல்களான் வஞ்சித்தலை வல்ல மகளிரது முயக்கத்தை; ஆயும் அறிவினர் அல்லார்க்கு அணங்கு என்ப - அவ்வஞ்சனை ஆய்ந்தறியும் அறிவுடையார் அல்லார்க்கு அணங்கு தாக்கு என்று சொல்லுவர் நூலோர். (அணங்கு - காமநெறியான் உயிர் கொள்ளும் தெய்வமகள்.தாக்கு...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 92: 'Wanton Women'), Kural 918 distills a foundational ethical insight: \"As demoness who lures to ruin woman's treacherous loveTo men devoid of wisdom's searching power will prove\" Philosophically, The wise say that to such as are destitute of discerning sense the embraces of faithless women are (as ruinous as those of) the celestail female.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "love",
+        "education",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 919,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒழுக்க வரையரை இல்லாத பொது மகளிரின் மெல்லிய தோள், உயர்வில்லாத கீழ்மக்கள் ஆழ்ந்து கிடக்கின்ற நரகமாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The delicate shoulders of prostitutes with excellent jewels are a hell into which are plunged the ignorant base.",
+        "story_title_ta": "வரைவின் மகளிர் — நிலா கற்ற பாடம்",
+        "story_title_en": "Wanton Women — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வரைவின் மகளிர்' என்ற அதிகாரத்திலிருந்து குறள் 919 பற்றிக் கதை சொன்னார். 'வேறுபாடு கருதாது பொருள் தருவார் எவரையும் தழுவும் பாலியல் தொழிலாளரின் மெல்லிய தோள்கள், அறிவற்ற கீழ்மக்கள் புகுந்து மூழ்கும் நரகம் ஆகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 92, 'Wanton Women', centered on Kural 919: The delicate shoulders of prostitutes with excellent jewels are a hell into which are plunged the ignorant base. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: விலைமகளை விரும்பி அவள் பின்னால் போவதற்கும் ``நரகம்'' எனச் சொல்லப்படும் சகதியில் விழுவதற்கும் வேறுபாடே இல்லை.",
+        "moral_en": "Moral: The wanton's tender arm, with gleaming jewels decked, Is hell, where sink degraded souls of men abject.",
+        "game_blank_word_ta": "மென்தோள்",
+        "game_options_ta": [
+          "அன்பின்",
+          "விழையார்",
+          "பொருள்விழையும்",
+          "மென்தோள்"
+        ],
+        "game_options_en": [
+          "For gold, not love their tongue cajoles Men are ruined by bangled belles",
+          "Avoid ill-natured whores who feign Love only for their selfish gain",
+          "The false embrace of whores is like That of a damned corpse in the dark",
+          "The soft jewelled arms of whores are hell Into which the degraded fall"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வரைவின் மகளிர் (அங்கவியல்) பிரிவில் அமைந்த குறள் 919, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வேறுபாடு கருதாது பொருள் தருவார் எவரையும் தழுவும் பாலியல் தொழிலாளரின் மெல்லிய தோள்கள், அறிவற்ற கீழ்மக்கள் புகுந்து மூழ்கும் நரகம் ஆகும். கலைஞர் உரை கூறுவது: விலைமகளை விரும்பி அவள் பின்னால் போவதற்கும் ``நரகம்'' எனச் சொல்லப்படும் சகதியில் விழுவதற்கும் வேறுபாடே இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Wanton Women (Ministers & Elements of State), Kural 919 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The delicate shoulders of prostitutes with excellent jewels are a hell into which are plunged the ignorant base. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வரைவின் மகளிர்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Wanton Women' thoughtfully.",
+        "quiz_question_ta": "'வரைவின் மகளிர்' அதிகாரத்தில் வரும் திருக்குறள் 919 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 919 from Chapter 'Wanton Women'?",
+        "quiz_options_ta": [
+          "செல்வம் பெருகியுள்ள காலத்தில் ஒருவனுக்குப் பண்பு வேண்டும், செல்வம் குறைந்து சுருங்கும் வறுமையுள்ள காலத்தில் பணியாத உயர்வு வேண்டும்.",
+          "தானும் நுகராமல் தக்கவற்க்கு ஒன்று கொடுத்து உதவும் இயல்பும் இல்லாமல் வாழ்கின்றவன், தன்னிடமுள்ள பெருஞ் செல்வத்திற்கு ஒரு நோய் ஆவான்.",
+          "ஒருவன் நெருப்பினுள் இருந்து தூங்குதலும் முடியும், ஆனால் வறுமை நிலையில் எவ்வகையாலும் கண்மூடித் தூங்குதல் அரிது.",
+          "ஒழுக்க வரையரை இல்லாத பொது மகளிரின் மெல்லிய தோள், உயர்வில்லாத கீழ்மக்கள் ஆழ்ந்து கிடக்கின்ற நரகமாகும்."
+        ],
+        "quiz_options_en": [
+          "Be humble in prosperity In decline uphold dignity",
+          "Great wealth unused for oneself nor To worthy men is but a slur",
+          "One may sleep in the midst of fire In want a wink of sleep is rare",
+          "The soft jewelled arms of whores are hell Into which the degraded fall"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வரைவின் மகளிர்) பகுதியில் குறள் 919 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒழுக்க வரையரை இல்லாத பொது மகளிரின் மெல்லிய தோள், உயர்வில்லாத கீழ்மக்கள் ஆழ்ந்து கிடக்கின்ற நரகமாகும். பரிமேலழகர் உரை நுட்பம்: வரைவு இலா மாண் இழையார் மென்தோள் - உயர்ந்தோர் இழிந்தோர் என்னாது, விலை கொடுப்பார் யாவரையும் முயங்கும் மகளிரது மெல்லிய தோள்கள்; புரை இலாப் பூரியர்கள் ஆழும் அளறு - அக்குற்றத்தையறியும் அறிவில்லாத கீழ்மக்கள் புக்கு அழுந்தும் நிரயம். (உயர்தற்கு ஏதுவாகலின், 'புரை...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 92: 'Wanton Women'), Kural 919 distills a foundational ethical insight: \"The wanton's tender arm, with gleaming jewels decked, Is hell, where sink degraded souls of men abject\" Philosophically, The delicate shoulders of prostitutes with excellent jewels are a hell into which are plunged the ignorant base.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "family",
+        "speech",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 920,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: இருவகைப்பட்ட மனம் உடைய பொது மகளிரும், கள்ளும் சூதுமாகிய இவ் மூவகையும் திருமகளால் நீக்கப்பட்டவரின் உறவாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Treacherous women, liquor, and gambling are the associates of such as have forsaken by Fortune.",
+        "story_title_ta": "வரைவின் மகளிர் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Wanton Women — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'வரைவின் மகளிர்' என்ற அதிகாரத்திலிருந்து குறள் 920 பற்றிக் கதை சொன்னார். 'உள்ளம் ஓரிடமும், உடம்பு ஓரிடமுமாக இருமனம் கொண்ட பாலிய் தொழிலாளர், கள், சூதாட்டம் இவை எல்லாம் திருமகளால் விலக்கப்பட்டவருக்கு நட்பாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 92, 'Wanton Women', centered on Kural 920: Treacherous women, liquor, and gambling are the associates of such as have forsaken by Fortune. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இருமனம் கொண்ட பொதுமகளிருடனும், மதுவுடனும், சூதாட்டத்தினிடமும் தொடர்பு கொண்டு உழல்வோரைவிட்டு வாழ்வில் அமைய வேண்டிய சிறப்பு அகன்றுவிடும்.",
+        "moral_en": "Moral: Women of double minds, strong drink, and dice; to these giv'n o'er, Are those on whom the light of Fortune shines no more.",
+        "game_blank_word_ta": "கவறும்",
+        "game_options_ta": [
+          "கவறும்",
+          "அன்பின்",
+          "விழையார்",
+          "பொருள்விழையும்"
+        ],
+        "game_options_en": [
+          "Double-minded whores, wine and dice Are lures of those whom fortune flies",
+          "For gold, not love their tongue cajoles Men are ruined by bangled belles",
+          "Avoid ill-natured whores who feign Love only for their selfish gain",
+          "The false embrace of whores is like That of a damned corpse in the dark"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "வரைவின் மகளிர் (அங்கவியல்) பிரிவில் அமைந்த குறள் 920, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உள்ளம் ஓரிடமும், உடம்பு ஓரிடமுமாக இருமனம் கொண்ட பாலிய் தொழிலாளர், கள், சூதாட்டம் இவை எல்லாம் திருமகளால் விலக்கப்பட்டவருக்கு நட்பாகும். கலைஞர் உரை கூறுவது: இருமனம் கொண்ட பொதுமகளிருடனும், மதுவுடனும், சூதாட்டத்தினிடமும் தொடர்பு கொண்டு உழல்வோரைவிட்டு வாழ்வில் அமைய வேண்டிய சிறப்பு அகன்றுவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Wanton Women (Ministers & Elements of State), Kural 920 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Treacherous women, liquor, and gambling are the associates of such as have forsaken by Fortune. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'வரைவின் மகளிர்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Wanton Women' thoughtfully.",
+        "quiz_question_ta": "'வரைவின் மகளிர்' அதிகாரத்தில் வரும் திருக்குறள் 920 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 920 from Chapter 'Wanton Women'?",
+        "quiz_options_ta": [
+          "இருவகைப்பட்ட மனம் உடைய பொது மகளிரும், கள்ளும் சூதுமாகிய இவ் மூவகையும் திருமகளால் நீக்கப்பட்டவரின் உறவாகும்.",
+          "மக்கள் தம் உயர்வுக்கு உரிய நிலையிலிருந்து தாழ்ந்த போது, தலைமையிலிருந்து விழுந்து தாழ்வுற்ற மயிரினைப் போன்றவர் ஆவர்.",
+          "பொருள் இல்லாத வறியவர்க்கு ஒரு பொருள் கொடுத்து உதவாதவனுடையச் செல்வம், மிக்க அழகு பெற்றவள் தனியாக வாழ்ந்து முதுமையுற்றாற் போன்றது.",
+          "நுகரும் பொருள் இல்லாத வறியவர் முற்றுந் துறக்க கூடியவராக இருந்தும் துறக்காத காரணம், உப்புக்கும் கஞ்சிக்கும் எமனாக இருப்பதே ஆகும்."
+        ],
+        "quiz_options_en": [
+          "Double-minded whores, wine and dice Are lures of those whom fortune flies",
+          "Like hair fallen from head are those Who fall down from their high status",
+          "Who loaths to help have-nots, his gold Is like a spinster-belle grown old",
+          "Renounce their lives the poor must Or salt and gruel go to waste"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (வரைவின் மகளிர்) பகுதியில் குறள் 920 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இருவகைப்பட்ட மனம் உடைய பொது மகளிரும், கள்ளும் சூதுமாகிய இவ் மூவகையும் திருமகளால் நீக்கப்பட்டவரின் உறவாகும். பரிமேலழகர் உரை நுட்பம்: இருமனப் பெண்டிரும் கள்ளும் கவறும் - கவர்த்த மனத்தினையுடைய மகளிரும் கள்ளும் சூதும் என இம்மூன்றும்; திருநீக்கப்பட்டார் தொடர்பு - திருமகளால் துறக்கப்பட்டார்க்கு நட்பு. (இருமனம் - ஒருவனோடு புணர்தலும் புணராமையும் ஒரு காலத்தேயுடைய மனம். கவறு - ஆகுபெயர். ஒத்த...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 92: 'Wanton Women'), Kural 920 distills a foundational ethical insight: \"Women of double minds, strong drink, and dice; to these giv'n o'er, Are those on whom the light of Fortune shines no more\" Philosophically, Treacherous women, liquor, and gambling are the associates of such as have forsaken by Fortune.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "self-mastery",
+        "truth",
+        "friendship",
+        "discipline"
+      ]
+    }
+  ]
+}

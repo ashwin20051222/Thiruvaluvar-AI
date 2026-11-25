@@ -1,0 +1,580 @@
+{
+  "adhikaram_id": 108,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.452088984+00:00",
+  "kurals": [
+    {
+      "kural_number": 1071,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மக்களே போல் இருப்பார் கயவர், அவர் மக்களை ஒத்திருப்பது போன்ற ஒப்புமை வேறு எந்த இருவகைப் பொருள்களிடத்திலும் யாம் கண்டதில்லை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The base resemble men perfectly (as regards form); and we have not seen such (exact) resemblance (among any other species).",
+        "story_title_ta": "கயமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Baseness — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கயமை' என்ற அதிகாரத்திலிருந்து குறள் 1071 பற்றிக் கதை சொன்னார். 'கயவர் வெளித்தோற்றத்தில் மனிதரைப் போலவே இருப்பர்; விலங்கு பறவை போன்ற பிற இனங்களில் அவருக்கு ஒப்பானவரை நான் கண்டது இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 108, 'Baseness', centered on Kural 1071: The base resemble men perfectly (as regards form); and we have not seen such (exact) resemblance (among any other species). Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: குணத்தில் கயவராக இருப்பர் ஆனால், நல்லவரைப் போலக் காட்டிக் கொள்வார் மனிதர்களிடம் மட்டும்தான் இப்படி இருவகையான நிலைகளை ஒரே உருவத்தில் காண முடியும்.",
+        "moral_en": "Moral: The base resemble men in outward form, I ween; But counterpart exact to them I've never seen.",
+        "game_blank_word_ta": "அவரன்ன",
+        "game_options_ta": [
+          "நன்றறி",
+          "வாரிற்",
+          "கயவர்",
+          "அவரன்ன"
+        ],
+        "game_options_en": [
+          "The base seem richer than the good For no care enters their heart or head",
+          "The base are like gods; for they too As prompted by their desire do",
+          "When the base meets a rake so vile Him he will exceed, exult and smile",
+          "The mean seem men only in form We have never seen such a sham"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கயமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1071, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கயவர் வெளித்தோற்றத்தில் மனிதரைப் போலவே இருப்பர்; விலங்கு பறவை போன்ற பிற இனங்களில் அவருக்கு ஒப்பானவரை நான் கண்டது இல்லை. கலைஞர் உரை கூறுவது: குணத்தில் கயவராக இருப்பர் ஆனால், நல்லவரைப் போலக் காட்டிக் கொள்வார் மனிதர்களிடம் மட்டும்தான் இப்படி இருவகையான நிலைகளை ஒரே உருவத்தில் காண முடியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Baseness (Citizenship & Miscellaneous), Kural 1071 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The base resemble men perfectly (as regards form); and we have not seen such (exact) resemblance (among any other species). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கயமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Baseness' thoughtfully.",
+        "quiz_question_ta": "'கயமை' அதிகாரத்தில் வரும் திருக்குறள் 1071 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1071 from Chapter 'Baseness'?",
+        "quiz_options_ta": [
+          "அவள் தன் மென்மை அறியாமல் அனிச்ச மலர்களைக் காம்பு களையாமல் சூடினால், அவற்றால் நொந்து வருத்தும் அவளுடைய இடைக்குப் பறைகள் நல்லனவாய் ஒலியா.",
+          "இனத்தவராக நம்மேல் அன்புடையார் இல்லாத ஊரில் வாழ்தல் துன்பமானது, இனியக் காதலரின் பிரிவு அதை விடத் துன்பமானது.",
+          "நினைத்தாலும் தீராத பெரிய மகிழ்ச்சியைச் செய்தலால் ( உண்டபோது மட்டும் மகிழ்ச்சி தரும் ) கள்ளை விட காமம் இன்பமானதாகும்.",
+          "மக்களே போல் இருப்பார் கயவர், அவர் மக்களை ஒத்திருப்பது போன்ற ஒப்புமை வேறு எந்த இருவகைப் பொருள்களிடத்திலும் யாம் கண்டதில்லை."
+        ],
+        "quiz_options_en": [
+          "Anicha flower with stem she wears To her breaking waist sad-drum-blares!",
+          "Bitter is life in friendless place; Worse is parting love's embrace!",
+          "Love is sweeter than wine; for vast Is its delight at very thought",
+          "The mean seem men only in form We have never seen such a sham"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (கயமை) பகுதியில் குறள் 1071 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மக்களே போல் இருப்பார் கயவர், அவர் மக்களை ஒத்திருப்பது போன்ற ஒப்புமை வேறு எந்த இருவகைப் பொருள்களிடத்திலும் யாம் கண்டதில்லை. பரிமேலழகர் உரை நுட்பம்: மக்களே போல்வர் கயவர் - வடிவான் முழுதும் மக்களை ஒப்பர் கயவர்; அவர் அன்ன ஒப்பாரி யாம் கண்டது இல் - அவர் மக்களை யொத்தாற்போன்ற ஒப்பு வேறு இரண்டு சாதிக்கண் யாம் கண்டதில்லை. (முழுதும் ஒத்தல் தேற்றேகாரத்தால் பெற்றாம். 'அவர்' என்றது அவர் மாட்டுளதாய ஒப்புமையை. மக்கட...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 108: 'Baseness'), Kural 1071 distills a foundational ethical insight: \"The base resemble men in outward form, I ween; But counterpart exact to them I've never seen\" Philosophically, The base resemble men perfectly (as regards form); and we have not seen such (exact) resemblance (among any other species).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "wealth",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1072,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நன்மை அறிந்தவரை விடக் கயவரே நல்ல பேறு உடையவர், ஏன் என்றால், கயவர் தம் நெஞ்சில் எதைப் பற்றியும் கவலை இல்லாதவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The low enjoy more felicity than those who know what is good; for the former are not troubled with anxiety (as to the good).",
+        "story_title_ta": "கயமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Baseness — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கயமை' என்ற அதிகாரத்திலிருந்து குறள் 1072 பற்றிக் கதை சொன்னார். 'நல்லது கெட்டதை அறிந்தவரைக் காட்டிலும் கயவர் செல்வம் உடையவர் ஆவர்; காரணம், கயவர் நல்லத கெட்டது என்ற கவலையே நெஞ்சில் இல்லாதவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 108, 'Baseness', centered on Kural 1072: The low enjoy more felicity than those who know what is good; for the former are not troubled with anxiety (as to the good). Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எப்போதும் நல்லவை பற்றியே சிந்தித்துக் கவலைப்பட்டுக் கொண்டிருப்பவர்களைவிட எதைப் பற்றியும் கவலைப்படாமலிருக்கும் கயவர்கள் ஒரு வகையில் பாக்கியசாலிகள்தான்!",
+        "moral_en": "Moral: Than those of grateful heart the base must luckier be, Their minds from every anxious thought are free.",
+        "game_blank_word_ta": "வாரிற்",
+        "game_options_ta": [
+          "வாரிற்",
+          "மக்களே",
+          "போல்வர்",
+          "கயவர்"
+        ],
+        "game_options_en": [
+          "The base seem richer than the good For no care enters their heart or head",
+          "The mean seem men only in form We have never seen such a sham",
+          "The base are like gods; for they too As prompted by their desire do",
+          "When the base meets a rake so vile Him he will exceed, exult and smile"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கயமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1072, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்லது கெட்டதை அறிந்தவரைக் காட்டிலும் கயவர் செல்வம் உடையவர் ஆவர்; காரணம், கயவர் நல்லத கெட்டது என்ற கவலையே நெஞ்சில் இல்லாதவர். கலைஞர் உரை கூறுவது: எப்போதும் நல்லவை பற்றியே சிந்தித்துக் கவலைப்பட்டுக் கொண்டிருப்பவர்களைவிட எதைப் பற்றியும் கவலைப்படாமலிருக்கும் கயவர்கள் ஒரு வகையில் பாக்கியசாலிகள்தான்! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Baseness (Citizenship & Miscellaneous), Kural 1072 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The low enjoy more felicity than those who know what is good; for the former are not troubled with anxiety (as to the good). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கயமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Baseness' thoughtfully.",
+        "quiz_question_ta": "'கயமை' அதிகாரத்தில் வரும் திருக்குறள் 1072 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1072 from Chapter 'Baseness'?",
+        "quiz_options_ta": [
+          "நன்மை அறிந்தவரை விடக் கயவரே நல்ல பேறு உடையவர், ஏன் என்றால், கயவர் தம் நெஞ்சில் எதைப் பற்றியும் கவலை இல்லாதவர்.",
+          "விண்மீன்கள் திங்களையும் இவளுடைய முகத்தையும் வேறுபாடு கண்டு அறியமுடியாமல் தம் நிலையில் நிற்காமல் கலங்கித் திரிகின்றன.",
+          "நெருப்பு, தன்னைத் தொட்டால் சுடுமே அல்லாமல் காமநோய் போல் தன்னை விட்டு நீங்கிய பொழுது சுடவல்லதாகுமோ.",
+          "தாம் விரும்புகின்ற காதலர் தம்மை நினைத்தலும் பிரிவால் வரக்கூடிய துன்பம் இல்லாமல் போகின்றது. அதனால் காமம் எவ்வளவாயினும் இன்பம் தருவதே ஆகும்."
+        ],
+        "quiz_options_en": [
+          "The base seem richer than the good For no care enters their heart or head",
+          "Stars are confused to know which is The moon and which is woman's face",
+          "Can fire that burns by touch burn like Parting of the hearts love-sick?",
+          "Pains are off at the lover's thought In all aspects this love is sweet"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (கயமை) பகுதியில் குறள் 1072 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நன்மை அறிந்தவரை விடக் கயவரே நல்ல பேறு உடையவர், ஏன் என்றால், கயவர் தம் நெஞ்சில் எதைப் பற்றியும் கவலை இல்லாதவர். பரிமேலழகர் உரை நுட்பம்: நன்று அறிவாரின் கயவர் திரு உடையர் - தமக்குறுதியாவன அறிவாரின் அவையறியாத கீழ்மக்கள் நன்மையுடையார்; நெஞ்சத்து அவலம் இலர் - அவர்போல அவை காரணமாகத் தம்நெஞ்சத்தின்கண் கவலையிலராகலான். (நன்று என்பது சாதியொருமை. உறுதிகளாவன, இம்மை மறுமை வீடுகட்கு உரியவாய புகழ் அற...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 108: 'Baseness'), Kural 1072 distills a foundational ethical insight: \"Than those of grateful heart the base must luckier be, Their minds from every anxious thought are free\" Philosophically, The low enjoy more felicity than those who know what is good; for the former are not troubled with anxiety (as to the good).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "love",
+        "ethics",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1073,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கயவரும் தேவரைப் போல் தான் விரும்புகின்றவைகளைச் செய்து மனம் போன போக்கில் நடத்தலால், கயவர் தேவரைப் போன்றவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The base resemble the Gods; for the base act as they like.",
+        "story_title_ta": "கயமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Baseness — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கயமை' என்ற அதிகாரத்திலிருந்து குறள் 1073 பற்றிக் கதை சொன்னார். 'தம்மைக் கட்டுப்படுத்துவார் இல்லாமல் தாம் விரும்பியபடி எல்லாம் செய்து வாழ்வதால், கயவர் தேவரைப் போன்றவராவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 108, 'Baseness', centered on Kural 1073: The base resemble the Gods; for the base act as they like. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: புராணங்களில் வரும் தேவர்களைப் போல் மனம் விரும்பியதையெல்லாம் செய்யக்கூடியவர்கள் கயவர்கள் என்பதால், இருவரையும் சமமாகக் கருதலாம்.",
+        "moral_en": "Moral: The base are as the Gods; they tooDo ever what they list to do.",
+        "game_blank_word_ta": "செய்தொழுக",
+        "game_options_ta": [
+          "மக்களே",
+          "செய்தொழுக",
+          "போல்வர்",
+          "கயவர்"
+        ],
+        "game_options_en": [
+          "The mean seem men only in form We have never seen such a sham",
+          "The base are like gods; for they too As prompted by their desire do",
+          "The base seem richer than the good For no care enters their heart or head",
+          "When the base meets a rake so vile Him he will exceed, exult and smile"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கயமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1073, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம்மைக் கட்டுப்படுத்துவார் இல்லாமல் தாம் விரும்பியபடி எல்லாம் செய்து வாழ்வதால், கயவர் தேவரைப் போன்றவராவர். கலைஞர் உரை கூறுவது: புராணங்களில் வரும் தேவர்களைப் போல் மனம் விரும்பியதையெல்லாம் செய்யக்கூடியவர்கள் கயவர்கள் என்பதால், இருவரையும் சமமாகக் கருதலாம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Baseness (Citizenship & Miscellaneous), Kural 1073 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The base resemble the Gods; for the base act as they like. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கயமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Baseness' thoughtfully.",
+        "quiz_question_ta": "'கயமை' அதிகாரத்தில் வரும் திருக்குறள் 1073 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1073 from Chapter 'Baseness'?",
+        "quiz_options_ta": [
+          "குறைந்த இடமெல்லாம் படிப்படியாக நிறைந்து விளங்குகின்ற திங்களிடம் உள்ளது போல் இந்த மாதர் முகத்தில் களங்கம் உண்டோ.இல்லையே.",
+          "கயவரும் தேவரைப் போல் தான் விரும்புகின்றவைகளைச் செய்து மனம் போன போக்கில் நடத்தலால், கயவர் தேவரைப் போன்றவர்.",
+          "பிரிய முடியாத பிரிவிற்கு உடன்பட்டு,( பிரியும் போது) துன்பத்தால் கலங்குவதையும், விட்டு பிரிந்த பின் பொருத்திருந்து பின்னும் உயிரோடிருந்து வாழ்வோர் உலகில் பலர்.",
+          "தும்மல் வருவது போலிருந்து வாராமல் அடங்குகின்றதே! என் காதலர் என்னை நினைப்பவர் போலிருந்து நினையாமல் விடுகின்றாரோ?"
+        ],
+        "quiz_options_en": [
+          "Are there spots on the lady's face Just as in moon that changes phase?",
+          "The base are like gods; for they too As prompted by their desire do",
+          "Many survive pangs of parting Not I this sore so distressing",
+          "To sneeze I tried hence but could not Me he tried to think but did not"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (கயமை) பகுதியில் குறள் 1073 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கயவரும் தேவரைப் போல் தான் விரும்புகின்றவைகளைச் செய்து மனம் போன போக்கில் நடத்தலால், கயவர் தேவரைப் போன்றவர். பரிமேலழகர் உரை நுட்பம்: தேவர் அனையர் கயவர் - தேவரும் கயவரும் ஒரு தன்மையர்; அவரும் தாம் மேவன செய்து ஒழுகலான் - அஃது யாதினான் எனின், தேவரைப் போன்று தம்மை நியமிப்பாரின்றிக் கயவரும் தாம் விரும்புவனவற்றைச் செய்தொழுகலான். (உணர்ச்சியும் இழிவுமாகிய தம் காரண வேறுபாடு குறிப்பால் தோன்ற...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 108: 'Baseness'), Kural 1073 distills a foundational ethical insight: \"The base are as the Gods; they tooDo ever what they list to do\" Philosophically, The base resemble the Gods; for the base act as they like.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "self-mastery",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1074,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: கீழ் மக்கள் தமக்கு கீழ் பட்டவராய் நடப்பவரைக் கண்டால், அவரை விடத் தாம் மேம்பாடு உடையவராய் இறுமாப்படைவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The base feels proud when he sees persons whose acts meaner than his own.",
+        "story_title_ta": "கயமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Baseness — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கயமை' என்ற அதிகாரத்திலிருந்து குறள் 1074 பற்றிக் கதை சொன்னார். 'தனக்கும் கீழாகத் தான் விரும்பியபடி எல்லாம் வாழும் நாய் போன்றவரைக் கண்டால் அவரைக் காட்டிலும் மேலாகத் தன் நிலையைக் காட்டி கயமை, இறுமாப்புக் கொள்ளும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 108, 'Baseness', centered on Kural 1074: The base feels proud when he sees persons whose acts meaner than his own. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பண்பாடு இல்லாத கயவர்கள், தம்மைக் காட்டிலும் இழிவான குணமுடையோரைக் கண்டால், அவர்களைவிடத் தாம் சிறந்தவர்கள் என்ற கர்வம் கொள்வார்கள்.",
+        "moral_en": "Moral: When base men those behold of conduct vile, They straight surpass them, and exulting smile.",
+        "game_blank_word_ta": "அகப்பட்டி",
+        "game_options_ta": [
+          "மக்களே",
+          "போல்வர்",
+          "அகப்பட்டி",
+          "கயவர்"
+        ],
+        "game_options_en": [
+          "The mean seem men only in form We have never seen such a sham",
+          "The base seem richer than the good For no care enters their heart or head",
+          "When the base meets a rake so vile Him he will exceed, exult and smile",
+          "The base are like gods; for they too As prompted by their desire do"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கயமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1074, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தனக்கும் கீழாகத் தான் விரும்பியபடி எல்லாம் வாழும் நாய் போன்றவரைக் கண்டால் அவரைக் காட்டிலும் மேலாகத் தன் நிலையைக் காட்டி கயமை, இறுமாப்புக் கொள்ளும். கலைஞர் உரை கூறுவது: பண்பாடு இல்லாத கயவர்கள், தம்மைக் காட்டிலும் இழிவான குணமுடையோரைக் கண்டால், அவர்களைவிடத் தாம் சிறந்தவர்கள் என்ற கர்வம் கொள்வார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Baseness (Citizenship & Miscellaneous), Kural 1074 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The base feels proud when he sees persons whose acts meaner than his own. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கயமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Baseness' thoughtfully.",
+        "quiz_question_ta": "'கயமை' அதிகாரத்தில் வரும் திருக்குறள் 1074 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1074 from Chapter 'Baseness'?",
+        "quiz_options_ta": [
+          "திங்களே! இம் மாதரின் முகத்தைப் போல உண்ணால் ஒளி வீச முடியுமானால், நீயும் இவள் போல் என் காதலுக்கு உரிமை பெறுவாய்.",
+          "இக் காமநோயைப் பிறர் அறியாமல் யான் மறைப்பேன், ஆனால் இது இறைப்பவர்க்கு ஊற்று நீர் மிகுவது போல் மிகுகின்றது.",
+          "கீழ் மக்கள் தமக்கு கீழ் பட்டவராய் நடப்பவரைக் கண்டால், அவரை விடத் தாம் மேம்பாடு உடையவராய் இறுமாப்படைவர்.",
+          "எம்முடைய நெஞ்சில் காதலராகிய அவர் இருக்கின்றாரே! ( அது போலவே) யாமும் அவருடைய நெஞ்சத்தில் நீங்காமல் இருக்கின்றோ‌மோ?"
+        ],
+        "quiz_options_en": [
+          "Like my lady's face if you shine All my love to you; hail O moon!",
+          "It swells out like baled out spring How to bear this pain so writhing?",
+          "When the base meets a rake so vile Him he will exceed, exult and smile",
+          "Have I a place within his heart? Ah from mine he will never depart"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (கயமை) பகுதியில் குறள் 1074 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கீழ் மக்கள் தமக்கு கீழ் பட்டவராய் நடப்பவரைக் கண்டால், அவரை விடத் தாம் மேம்பாடு உடையவராய் இறுமாப்படைவர். பரிமேலழகர் உரை நுட்பம்: கீழ் - கீழாயினான்; அகப்பட்டி ஆவாரைக் காணின் - தன்னிற்சுருங்கிய பட்டியாய் ஒழுகுவாரைக் கண்டானாயின்; அவரின் மிகப்பட்டுச் செம்மாக்கும் - அவ்வொழுக்கத்தின்கண் அவரின் தான் மேம்பட்டு அதனால் தன் மிகுதிகாட்டி இறுமாக்கும். (அகப்பட்டி: அகமாகிய பட்டி, பட்டி போன்று...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 108: 'Baseness'), Kural 1074 distills a foundational ethical insight: \"When base men those behold of conduct vile, They straight surpass them, and exulting smile\" Philosophically, The base feels proud when he sees persons whose acts meaner than his own.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "speech",
+        "love",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 1075,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: கீழ் மக்களின் ஆசாரத்திற்கு காரணமாக இருப்பது அச்சமே, எஞ்சியவற்றில் அவா உண்டானால் அதனாலும் சிறிதளவு ஆசாரம் உண்டாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: (The principle of) behaviour in the mean is chiefly fear; if not, hope of gain, to some extent.",
+        "story_title_ta": "கயமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Baseness — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கயமை' என்ற அதிகாரத்திலிருந்து குறள் 1075 பற்றிக் கதை சொன்னார். 'கயவர்களிடம் நல்ஒழுக்கம் இருந்தால் ஆட்சியைப் பற்றிய பயமே காரணம் ஆகும். அதையும் மீறி அவர்கள் ஆசைப்படும் பொருள் கிடைப்பதாக இருந்தால் அதனாலும் கொஞ்சம் ஒழுக்கம் இருக்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 108, 'Baseness', centered on Kural 1075: (The principle of) behaviour in the mean is chiefly fear; if not, hope of gain, to some extent. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தாங்கள் விரும்புவது கிடைக்கும் என்ற நிலையேற்படும்போது கீழ்மக்கள், தங்களை ஒழுக்கமுடையவர்கள் போலக் காட்டிக் கொள்வார்கள் மற்ற சமயங்களில் அவர்கள் பயத்தின் காரணமாக மட்டுமே ஓரளவு ஒழுக்கமுள்ளவர்களாக நடந்து கொள்வார்கள்.",
+        "moral_en": "Moral: Fear is the base man's virtue; if that fail, Intense desire some little may avail.",
+        "game_blank_word_ta": "அவாவுண்டேல்",
+        "game_options_ta": [
+          "மக்களே",
+          "போல்வர்",
+          "கயவர்",
+          "அவாவுண்டேல்"
+        ],
+        "game_options_en": [
+          "The mean seem men only in form We have never seen such a sham",
+          "The base seem richer than the good For no care enters their heart or head",
+          "The base are like gods; for they too As prompted by their desire do",
+          "Fear forms the conduct of the low Craving avails a bit below"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கயமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1075, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கயவர்களிடம் நல்ஒழுக்கம் இருந்தால் ஆட்சியைப் பற்றிய பயமே காரணம் ஆகும். அதையும் மீறி அவர்கள் ஆசைப்படும் பொருள் கிடைப்பதாக இருந்தால் அதனாலும் கொஞ்சம் ஒழுக்கம் இருக்கும். கலைஞர் உரை கூறுவது: தாங்கள் விரும்புவது கிடைக்கும் என்ற நிலையேற்படும்போது கீழ்மக்கள், தங்களை ஒழுக்கமுடையவர்கள் போலக் காட்டிக் கொள்வார்கள் மற்ற சமயங்களில் அவர்கள் பயத்தின் காரணமாக மட்டுமே ஓரளவு ஒழுக்கமுள்ளவர்களாக நடந்து கொள்வார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Baseness (Citizenship & Miscellaneous), Kural 1075 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (The principle of) behaviour in the mean is chiefly fear; if not, hope of gain, to some extent. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கயமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Baseness' thoughtfully.",
+        "quiz_question_ta": "'கயமை' அதிகாரத்தில் வரும் திருக்குறள் 1075 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1075 from Chapter 'Baseness'?",
+        "quiz_options_ta": [
+          "திங்களே! மலர்போன்ற கண்களை உடைய இவளுடைய முகத்தை ஒத்திருக்க விரும்பினால், நீ பலரும் காணும்படியாகத் தோன்றாதே.",
+          "இக் காமநோயைப் பிறர் அறியாமல் முற்றிலும் மறைக்கவும் முடியவில்லை, நோய் செய்த காதலர்க்குச் சொல்வதும் நாணம் தருகின்றது.",
+          "தம்முடைய நெஞ்சில் எம்மை வரவிடாது காவல் கொண்ட காதலர், எம்முடைய நெஞ்சில் தாம் ஓயாமல் வரவதைப் பற்றி நாணமாட்டாரோ?",
+          "கீழ் மக்களின் ஆசாரத்திற்கு காரணமாக இருப்பது அச்சமே, எஞ்சியவற்றில் அவா உண்டானால் அதனாலும் சிறிதளவு ஆசாரம் உண்டாகும்."
+        ],
+        "quiz_options_en": [
+          "Like the face of my flower-eyed one If you look, then shine alone O moon!",
+          "I can't conceal this nor complain For shame to him who caused this pain",
+          "Shame! My heart often he enters Banning me entry into his",
+          "Fear forms the conduct of the low Craving avails a bit below"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (கயமை) பகுதியில் குறள் 1075 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கீழ் மக்களின் ஆசாரத்திற்கு காரணமாக இருப்பது அச்சமே, எஞ்சியவற்றில் அவா உண்டானால் அதனாலும் சிறிதளவு ஆசாரம் உண்டாகும். பரிமேலழகர் உரை நுட்பம்: கீழ்களது ஆசாரம் அச்சமே - கயவரதாய ஆசாரம் கண்டது உண்டாயின், அதற்குக் காரணம் அரசனான் ஏதம் வரும் என்று அஞ்சும் அச்சமே; எச்சம் அவா உண்டேல் சிறிது உண்டாம் - அஃதொழிந்தால், தம்மால் அவாவப்படும் பொருள் அதனால் உண்டாமாயின் சிறிது உண்டாம். (ஆசாரத்தின் காரணத்தை 'ஆசாரம...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 108: 'Baseness'), Kural 1075 distills a foundational ethical insight: \"Fear is the base man's virtue; if that fail, Intense desire some little may avail\" Philosophically, (The principle of) behaviour in the mean is chiefly fear; if not, hope of gain, to some extent.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "discipline",
+        "self-mastery",
+        "wealth",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 1076,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கயவர், தாம் கேட்டறிந்த மறைப்பொருளைப் பிறர்க்கு வலிய கொண்டுபோய்ச் சொல்லுவதலால், அறையப்படும் பறை போன்றவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The base are like a drum that is beaten, for they unburden to others the secrets they have heard.",
+        "story_title_ta": "கயமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Baseness — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கயமை' என்ற அதிகாரத்திலிருந்து குறள் 1076 பற்றிக் கதை சொன்னார். 'தாம் அறிந்த ரகசியங்களைப் பிறரிடம் வலியச் சென்று சொல்லுவதால், அடிக்கப்படும் பறையைப் போன்றவர் கயவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 108, 'Baseness', centered on Kural 1076: The base are like a drum that is beaten, for they unburden to others the secrets they have heard. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மறைக்கப்பட வேண்டிய இரகசியம் ஒன்றைக் கேட்ட மாத்திரத்தில், ஓடிச் சென்று பிறருக்குச் சொல்லுகிற கயவர்களைத், தமுக்கு என்னும் கருவிக்கு ஒப்பிடலாம்.",
+        "moral_en": "Moral: The base are like the beaten drum; for, when they hearThe sound the secret out in every neighbour's ear.",
+        "game_blank_word_ta": "கயவர்தாம்",
+        "game_options_ta": [
+          "கயவர்தாம்",
+          "மக்களே",
+          "போல்வர்",
+          "கயவர்"
+        ],
+        "game_options_en": [
+          "The base are like the beaten drum Since other's secrets they proclaim",
+          "The mean seem men only in form We have never seen such a sham",
+          "The base seem richer than the good For no care enters their heart or head",
+          "The base are like gods; for they too As prompted by their desire do"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கயமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1076, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தாம் அறிந்த ரகசியங்களைப் பிறரிடம் வலியச் சென்று சொல்லுவதால், அடிக்கப்படும் பறையைப் போன்றவர் கயவர். கலைஞர் உரை கூறுவது: மறைக்கப்பட வேண்டிய இரகசியம் ஒன்றைக் கேட்ட மாத்திரத்தில், ஓடிச் சென்று பிறருக்குச் சொல்லுகிற கயவர்களைத், தமுக்கு என்னும் கருவிக்கு ஒப்பிடலாம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Baseness (Citizenship & Miscellaneous), Kural 1076 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The base are like a drum that is beaten, for they unburden to others the secrets they have heard. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கயமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Baseness' thoughtfully.",
+        "quiz_question_ta": "'கயமை' அதிகாரத்தில் வரும் திருக்குறள் 1076 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1076 from Chapter 'Baseness'?",
+        "quiz_options_ta": [
+          "கயவர், தாம் கேட்டறிந்த மறைப்பொருளைப் பிறர்க்கு வலிய கொண்டுபோய்ச் சொல்லுவதலால், அறையப்படும் பறை போன்றவர்.",
+          "அனிச்ச மலரும், அன்னப்பறவையின் இறகும் ஆகிய இவைகள் மாதரின் மெல்லிய அடிகளுக்கு நெருஞ்சிமுள் போன்றவை.",
+          "துன்பத்தைப் பொருக்காமல் வருந்துகின்ற என் உடம்பினிடத்தில் உயிரே காவடித்தண்டாகக் கொண்டு காமநோயும் நாணமும் இருப்பக்கமாக தொங்குகின்றன.",
+          "காதலராகிய அவரோடு யான் பொருந்தியிருந்த நாட்களை நினைத்துக் கொள்வதால்தான் உயிரோடு இருக்கின்றேன்; வேறு எதனால் உயிர் வாழ்கின்றேன்?"
+        ],
+        "quiz_options_en": [
+          "The base are like the beaten drum Since other's secrets they proclaim",
+          "The soft flower and the swan's down are Like nettles to the feet of the fair",
+          "In life -poles of this wearied frame Are poised the weights of lust and shame",
+          "Beyond the thought of life with him What else of life can I presume?"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (கயமை) பகுதியில் குறள் 1076 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கயவர், தாம் கேட்டறிந்த மறைப்பொருளைப் பிறர்க்கு வலிய கொண்டுபோய்ச் சொல்லுவதலால், அறையப்படும் பறை போன்றவர். பரிமேலழகர் உரை நுட்பம்: தாம் கேட்ட மறை உய்த்துப் பிறர்க்கு உரைக்கலான் - தாம் கேட்ட மறைகளை இடந்தோறும் தாங்கிக்கொண்டு சென்று பிறர்க்குச் சொல்லுதலான்; கயவர் அறை பறை அன்னர் - கயவர் அறையப்படும் பறையினை ஒப்பர். (மறை: வெளிப்படின் குற்றம் விளையும் என்று பிறரை மறைத்து ஒருவன் சொல்லிய சொல...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 108: 'Baseness'), Kural 1076 distills a foundational ethical insight: \"The base are like the beaten drum; for, when they hearThe sound the secret out in every neighbour's ear\" Philosophically, The base are like a drum that is beaten, for they unburden to others the secrets they have heard.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "love",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1077,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கயவர் தம் கன்னத்தை இடித்து உடைக்கும் படி வளைந்த கை உடையவரல்லாத மற்றவர்க்கு உண்ட எச்சில் கையையும் உதற மாட்டார்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The mean will not (even) shake off (what sticks to) their hands (soon after a meal) to any but those who would break their jaws with their clenched fists.",
+        "story_title_ta": "கயமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Baseness — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கயமை' என்ற அதிகாரத்திலிருந்து குறள் 1077 பற்றிக் கதை சொன்னார். 'தாடையை உடைக்கும் முறுக்கிய கை இல்லாதவர்க்குக் கயவர், தாம் உண்டு கழுவிய ஈரக் கையைக்கூட உதறமாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 108, 'Baseness', centered on Kural 1077: The mean will not (even) shake off (what sticks to) their hands (soon after a meal) to any but those who would break their jaws with their clenched fists. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கையை மடக்கிக் கன்னத்தில் ஒரு குத்துவிடுகின்ற முரடர்களுக்குக் கொடுப்பார்களேயல்லாமல், ஈகைக் குணமில்லாத கயவர்கள் ஏழை எளியோருக்காகத் தமது எச்சில் கைகைக்கூட உதற மாட்டார்கள்.",
+        "moral_en": "Moral: From off their moistened hands no clinging grain they shake, Unless to those with clenched fist their jaws who break.",
+        "game_blank_word_ta": "தவர்க்கு",
+        "game_options_ta": [
+          "மக்களே",
+          "தவர்க்கு",
+          "போல்வர்",
+          "கயவர்"
+        ],
+        "game_options_en": [
+          "The mean seem men only in form We have never seen such a sham",
+          "The base their damp hand will not shake But for fists clenched their jaws to break",
+          "The base seem richer than the good For no care enters their heart or head",
+          "The base are like gods; for they too As prompted by their desire do"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கயமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1077, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தாடையை உடைக்கும் முறுக்கிய கை இல்லாதவர்க்குக் கயவர், தாம் உண்டு கழுவிய ஈரக் கையைக்கூட உதறமாட்டார். கலைஞர் உரை கூறுவது: கையை மடக்கிக் கன்னத்தில் ஒரு குத்துவிடுகின்ற முரடர்களுக்குக் கொடுப்பார்களேயல்லாமல், ஈகைக் குணமில்லாத கயவர்கள் ஏழை எளியோருக்காகத் தமது எச்சில் கைகைக்கூட உதற மாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Baseness (Citizenship & Miscellaneous), Kural 1077 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The mean will not (even) shake off (what sticks to) their hands (soon after a meal) to any but those who would break their jaws with their clenched fists. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கயமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Baseness' thoughtfully.",
+        "quiz_question_ta": "'கயமை' அதிகாரத்தில் வரும் திருக்குறள் 1077 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1077 from Chapter 'Baseness'?",
+        "quiz_options_ta": [
+          "மென்மையான மொழிகளைப் பேசு கின்ற இவளுடைய தூய பற்களில் ஊறிய நீர் பாலுடன் தேனைக் கலந்தாற் போன்றதாகும்.",
+          "கயவர் தம் கன்னத்தை இடித்து உடைக்கும் படி வளைந்த கை உடையவரல்லாத மற்றவர்க்கு உண்ட எச்சில் கையையும் உதற மாட்டார்.",
+          "காமநோயாகிய கடல் இருக்கின்றது. ஆனால் அதை நீந்திக்கடந்து செல்வதற்கு வேண்டிய காவலான ‌தோணியோ இல்லை.",
+          "( காதலரை ) மறந்தறியாமல் நினைத்தாலும் உள்ளத்தைப் பிரிவுத் துன்பம் சுடுகின்றதே! நினைக்காமல் மறந்து விட்டால் என்ன ஆவேனோ?"
+        ],
+        "quiz_options_en": [
+          "Like milk and honey the dew is sweet From her white teeth whose word is soft",
+          "The base their damp hand will not shake But for fists clenched their jaws to break",
+          "My lust is a sea; I do not see A raft to go across safely",
+          "What will happen if I forget When his memory burns my heart?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (கயமை) பகுதியில் குறள் 1077 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கயவர் தம் கன்னத்தை இடித்து உடைக்கும் படி வளைந்த கை உடையவரல்லாத மற்றவர்க்கு உண்ட எச்சில் கையையும் உதற மாட்டார். பரிமேலழகர் உரை நுட்பம்: கயவர் கொடிறு உடைக்கும் கூன் கையர் அல்லாதவர்க்கு - கயவர் தம் கதுப்பினை நெரிப்பதாக வளைந்த கையினை உடையரல்லாதார்க்கு: ஈர்ங்கை விதிரார் - தாம் உண்டு பூசிய கையைத் தெறித்தல் வேண்டும் என்று இரந்தாலும் தெறியார். (வளைந்த கை - முறுக்கிய கை. 'மெலிவார்க்கு யாதும் கொடார...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 108: 'Baseness'), Kural 1077 distills a foundational ethical insight: \"From off their moistened hands no clinging grain they shake, Unless to those with clenched fist their jaws who break\" Philosophically, The mean will not (even) shake off (what sticks to) their hands (soon after a meal) to any but those who would break their jaws with their clenched fists.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "education",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1078,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அணுகி குறைச் சொல்லுகின்ற அளவிலேயே சான்றோர் பயன்படுவர், கரும்புபோல் அழித்துப் பிழிந்தால் தான் கீழ்மக்கள் பயன்படுவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The great bestow (their alms) as soon as they are informed; (but) the mean, like the sugar-cane, only when they are tortured to death.",
+        "story_title_ta": "கயமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Baseness — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கயமை' என்ற அதிகாரத்திலிருந்து குறள் 1078 பற்றிக் கதை சொன்னார். 'இல்லாதவர் சென்று தம் நிலையைச் சொன்ன அளவில், சான்றோர் இரங்கிக் கொடுப்பர்; கயவர்களோ கரும்பைப் பிழிவதுபோல் பிழிந்தால்தான் கொடுப்பர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 108, 'Baseness', centered on Kural 1078: The great bestow (their alms) as soon as they are informed; (but) the mean, like the sugar-cane, only when they are tortured to death. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: குறைகளைச் சொன்னவுடனே சான்றோரிடம் கோரி பயனைப் பெற முடியும்; ஆனால் கயவரிடமோ கரும்பை நசுக்கிப் பிழிவதுபோல், போராடித்தான் கோரிய பயனைப் பெற முடியும்.",
+        "moral_en": "Moral: The good to those will profit yield fair words who use; The base, like sugar-cane, will profit those who bruise.",
+        "game_blank_word_ta": "கொல்லப்",
+        "game_options_ta": [
+          "மக்களே",
+          "போல்வர்",
+          "கொல்லப்",
+          "கயவர்"
+        ],
+        "game_options_en": [
+          "The mean seem men only in form We have never seen such a sham",
+          "The base seem richer than the good For no care enters their heart or head",
+          "The good by soft words profits yield The cane-like base when crushed and killed",
+          "The base are like gods; for they too As prompted by their desire do"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கயமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1078, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இல்லாதவர் சென்று தம் நிலையைச் சொன்ன அளவில், சான்றோர் இரங்கிக் கொடுப்பர்; கயவர்களோ கரும்பைப் பிழிவதுபோல் பிழிந்தால்தான் கொடுப்பர். கலைஞர் உரை கூறுவது: குறைகளைச் சொன்னவுடனே சான்றோரிடம் கோரி பயனைப் பெற முடியும்; ஆனால் கயவரிடமோ கரும்பை நசுக்கிப் பிழிவதுபோல், போராடித்தான் கோரிய பயனைப் பெற முடியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Baseness (Citizenship & Miscellaneous), Kural 1078 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The great bestow (their alms) as soon as they are informed; (but) the mean, like the sugar-cane, only when they are tortured to death. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கயமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Baseness' thoughtfully.",
+        "quiz_question_ta": "'கயமை' அதிகாரத்தில் வரும் திருக்குறள் 1078 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1078 from Chapter 'Baseness'?",
+        "quiz_options_ta": [
+          "இம் மடந்தையோடு எம்மிடையே உள்ள நட்பு முறைகள், உடம்போடு உயிர்க்கு உள்ள தொடர்புகள், எத்தன்மையானவையோ அத்தன்மையானவை.",
+          "( இன்பமான) நட்பிலேயே துயரத்தை வரச் செய்வதில் வல்லவர். ( துன்பம் தரும் பகையை வெல்லும்) வலிமை வேண்டும்போது என்ன ஆவாரோ?",
+          "அணுகி குறைச் சொல்லுகின்ற அளவிலேயே சான்றோர் பயன்படுவர், கரும்புபோல் அழித்துப் பிழிந்தால் தான் கீழ்மக்கள் பயன்படுவர்.",
+          "காதலரை எவ்வளவு மிகுதியாக நினைத்தாலும் அவர் என்மேல் சினங்கொள்ளார்; காதலர் செய்யும் சிறந்த உதவி அத்தன்மையானது அன்றோ!"
+        ],
+        "quiz_options_en": [
+          "Love between me and this lady Is like bond between soul and body",
+          "What wilt they prove when they are foes Who in friendship bring me woes!",
+          "The good by soft words profits yield The cane-like base when crushed and killed",
+          "I bring him to ceaseless memory He chides not; and thus honours me"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (கயமை) பகுதியில் குறள் 1078 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அணுகி குறைச் சொல்லுகின்ற அளவிலேயே சான்றோர் பயன்படுவர், கரும்புபோல் அழித்துப் பிழிந்தால் தான் கீழ்மக்கள் பயன்படுவர். பரிமேலழகர் உரை நுட்பம்: சொல்லப் பயன்படுவர் சான்றோர் -மெலியர் சென்று தம் குறையைச் சொல்லிய துணையானே இரங்கிப் பயன்படுவர் மேலாயினார்; கீழ் கரும்புபோல் கொல்லப் பயன்படும் - மறைக் கீழயினார் கரும்பு போல வலியார் நைய நெருக்கிய வழிப் பயன்படுவர். (பயன்படுதல்: உள்ளது கொடுத்தல். கீழாயினாரது இழிவு...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 108: 'Baseness'), Kural 1078 distills a foundational ethical insight: \"The good to those will profit yield fair words who use; The base, like sugar-cane, will profit those who bruise\" Philosophically, The great bestow (their alms) as soon as they are informed; (but) the mean, like the sugar-cane, only when they are tortured to death.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "gratitude",
+        "wealth",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 1079,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: கீழ் மகன் பிறர் உடுப்பதையும், உண்பதையும் கண்டால் அவர் மேல் பொறாமை கொண்டு, வேண்டும் என்றே குற்றம் காண வல்லவனாவான்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The base will bring an evil (accusation) against others, as soon as he sees them (enjoying) good food.",
+        "story_title_ta": "கயமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Baseness — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கயமை' என்ற அதிகாரத்திலிருந்து குறள் 1079 பற்றிக் கதை சொன்னார். 'பிறர் நன்கு உடுத்த, உண்ணக் கண்டால், அவர்மீத குற்றம் காணும் ஆற்றலை உடையவர் கயவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 108, 'Baseness', centered on Kural 1079: The base will bring an evil (accusation) against others, as soon as he sees them (enjoying) good food. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவர் உடுப்பதையும் உண்பதையும் கண்டுகூட பெறாமைப்படுகிற கயவன், அவர்மீது வேண்டுமென்றே குற்றம் கூறுவதில் வல்லவனாக இருப்பான்.",
+        "moral_en": "Moral: If neighbours clothed and fed he see, the baseIs mighty man some hidden fault to trace.",
+        "game_blank_word_ta": "வற்றாகும்",
+        "game_options_ta": [
+          "மக்களே",
+          "போல்வர்",
+          "கயவர்",
+          "வற்றாகும்"
+        ],
+        "game_options_en": [
+          "The mean seem men only in form We have never seen such a sham",
+          "The base seem richer than the good For no care enters their heart or head",
+          "The base are like gods; for they too As prompted by their desire do",
+          "Faults in others the mean will guess On seeing how they eat and dress"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கயமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1079, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர் நன்கு உடுத்த, உண்ணக் கண்டால், அவர்மீத குற்றம் காணும் ஆற்றலை உடையவர் கயவர். கலைஞர் உரை கூறுவது: ஒருவர் உடுப்பதையும் உண்பதையும் கண்டுகூட பெறாமைப்படுகிற கயவன், அவர்மீது வேண்டுமென்றே குற்றம் கூறுவதில் வல்லவனாக இருப்பான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Baseness (Citizenship & Miscellaneous), Kural 1079 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The base will bring an evil (accusation) against others, as soon as he sees them (enjoying) good food. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கயமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Baseness' thoughtfully.",
+        "quiz_question_ta": "'கயமை' அதிகாரத்தில் வரும் திருக்குறள் 1079 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1079 from Chapter 'Baseness'?",
+        "quiz_options_ta": [
+          "என் கண்ணின் கருமணியில் உள்ள பாவையே நீ போய் விடு, யாம் விரும்புகின்ற இவளுக்கு என் கண்ணில் இருக்க இடம் இல்லையே.",
+          "காமம் மகிழ்விக்கும்போது அதன் இன்பம் கடல் போன்றது; அது வருத்தும்போது அதன் துன்பமோ கடலைவிடப் பெரியது.",
+          "நாம் இருவரும் வேறு அல்லேம் என்று அடிக்கடி சொல்லும் அவர் இப்போது அன்பு இல்லாதிருத்தலை மிக நினைத்து என் இனிய உயிர் அழிகின்றது.",
+          "கீழ் மகன் பிறர் உடுப்பதையும், உண்பதையும் கண்டால் அவர் மேல் பொறாமை கொண்டு, வேண்டும் என்றே குற்றம் காண வல்லவனாவான்."
+        ],
+        "quiz_options_en": [
+          "Depart image in my pupil Giving room to my fair-browed belle!",
+          "The pleasure in love is oceanful But its pangs are more painful",
+          "Dear life ebbs away by thought Of him who said we are one heart",
+          "Faults in others the mean will guess On seeing how they eat and dress"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (கயமை) பகுதியில் குறள் 1079 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கீழ் மகன் பிறர் உடுப்பதையும், உண்பதையும் கண்டால் அவர் மேல் பொறாமை கொண்டு, வேண்டும் என்றே குற்றம் காண வல்லவனாவான். பரிமேலழகர் உரை நுட்பம்: உடுப்பதூஉம் உண்பதூஉம் கீழ் காணின் - பிறர் செல்வத்தால் பட்டும் துகிலும் உடுத்தலையும் பாலோடு அடிசில் உண்டலையும் கீழாயினான் காணுமாயின்; பிறர்மேல்வடுக்காண வற்றாகும் - அவற்றைப் பொறாது அவர்மாட்டு வடுவில்லையாகவும் உண்டாக்கவல்லனாம். (உடுப்பது உண்பது என்பன ஈண்டு...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 108: 'Baseness'), Kural 1079 distills a foundational ethical insight: \"If neighbours clothed and fed he see, the baseIs mighty man some hidden fault to trace\" Philosophically, The base will bring an evil (accusation) against others, as soon as he sees them (enjoying) good food.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1080,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கயவர், எதற்கு உரியவர், ஒரு துன்பம் வந்தடைந்த காலத்தில் அதற்காக தம்மை பிறர்க்கு விலையாக விற்றுவிடுவதற்கு உரியவர் ஆவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The base will hasten to sell themselves as soon as a calamity has befallen them. For what else are they fitted ?",
+        "story_title_ta": "கயமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Baseness — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கயமை' என்ற அதிகாரத்திலிருந்து குறள் 1080 பற்றிக் கதை சொன்னார். 'தமக்கு லாபமோ நட்டமோ வரும் என்றால் தம்மைப் பிறர்க்கு அடிமை ஆக்குவர்; இதற்கு அன்றி வேறு எந்தத் தொழிலுக்குக் கயவர் உரியர் ஆவர்?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 108, 'Baseness', centered on Kural 1080: The base will hasten to sell themselves as soon as a calamity has befallen them. For what else are they fitted ? Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒரு துன்பம் வரும்போது அதிலிருந்து தப்பித்துக் கொள்ள, தம்மையே பிறரிடம் விற்றுவிடுகிற தகுதிதான் கயவர்களுக்குரிய தகுதியாகும்.",
+        "moral_en": "Moral: For what is base man fit, if griefs assail?Himself to offer, there and then, for sale.",
+        "game_blank_word_ta": "கயவரொன்று",
+        "game_options_ta": [
+          "கயவரொன்று",
+          "மக்களே",
+          "போல்வர்",
+          "கயவர்"
+        ],
+        "game_options_en": [
+          "The base hasten to sell themselves From doom to flit and nothing else",
+          "The mean seem men only in form We have never seen such a sham",
+          "The base seem richer than the good For no care enters their heart or head",
+          "The base are like gods; for they too As prompted by their desire do"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கயமை (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1080, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தமக்கு லாபமோ நட்டமோ வரும் என்றால் தம்மைப் பிறர்க்கு அடிமை ஆக்குவர்; இதற்கு அன்றி வேறு எந்தத் தொழிலுக்குக் கயவர் உரியர் ஆவர்? கலைஞர் உரை கூறுவது: ஒரு துன்பம் வரும்போது அதிலிருந்து தப்பித்துக் கொள்ள, தம்மையே பிறரிடம் விற்றுவிடுகிற தகுதிதான் கயவர்களுக்குரிய தகுதியாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Baseness (Citizenship & Miscellaneous), Kural 1080 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The base will hasten to sell themselves as soon as a calamity has befallen them. For what else are they fitted ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கயமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Baseness' thoughtfully.",
+        "quiz_question_ta": "'கயமை' அதிகாரத்தில் வரும் திருக்குறள் 1080 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1080 from Chapter 'Baseness'?",
+        "quiz_options_ta": [
+          "கயவர், எதற்கு உரியவர், ஒரு துன்பம் வந்தடைந்த காலத்தில் அதற்காக தம்மை பிறர்க்கு விலையாக விற்றுவிடுவதற்கு உரியவர் ஆவர்.",
+          "ஆராய்ந்து அணிகலன்களை அணிந்த இவள் கூடும் போது உயிர்க்கு வாழ்வு போன்றவள், பிரியும் போது உயிர்க்கு சாவு போன்றவள்.",
+          "காமம் என்னும்‌ வெள்ளத்தை நீந்தியும் அதன் கரையை யான் காணவில்லை; நள்ளிரவிலும் யான் தனியே இருக்கின்றேன்.",
+          "தி்ங்களே! பிரியாமல் இருந்து இறுதியில் பிரிந்து சென்ற காதலரை என் கண்ணால் தேடிக் காணும்படியாக நீ மறைந்து விடாமல் இருப்பாயாக!"
+        ],
+        "quiz_options_en": [
+          "The base hasten to sell themselves From doom to flit and nothing else",
+          "Life with my jewel is existence Death it is her severance",
+          "Wild waves of love I swim shoreless Pining alone in midnight hush",
+          "Hail moon! Set not so that I find Him who left me but not my mind"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (கயமை) பகுதியில் குறள் 1080 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கயவர், எதற்கு உரியவர், ஒரு துன்பம் வந்தடைந்த காலத்தில் அதற்காக தம்மை பிறர்க்கு விலையாக விற்றுவிடுவதற்கு உரியவர் ஆவர். பரிமேலழகர் உரை நுட்பம்: கயவர் ஒன்று உற்றக்கால் விரைந்து விற்றற்கு உரியர் - கயவர் தம்மை யாதானும் ஒரு துன்பமுற்றக்கால் அதுவே பற்றுக்கோடாக விரைந்து தம்மைப் பிறர்க்கு விற்றற்கு உரியர்; எற்றிற்கு உரியர் - அதுவன்றி வேறு எத்தொழிற்கு உரியர்? (உணவின்மையாகப் பிறிதாக ஒன்று வந்து உற்ற துணையான...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 108: 'Baseness'), Kural 1080 distills a foundational ethical insight: \"For what is base man fit, if griefs assail?Himself to offer, there and then, for sale\" Philosophically, The base will hasten to sell themselves as soon as a calamity has befallen them. For what else are they fitted ?",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "ethics"
+      ]
+    }
+  ]
+}

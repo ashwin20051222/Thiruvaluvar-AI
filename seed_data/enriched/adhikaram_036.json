@@ -1,0 +1,586 @@
+{
+  "adhikaram_id": 36,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.771543198+00:00",
+  "kurals": [
+    {
+      "kural_number": 351,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மெய்ப்பொருள் அல்லாதவைகளை மெய்ப்பொருள் என்று தவறாக உணர்கின்ற மயக்க உணர்வால் சிறப்பில்லாத துன்பப் பிறவி உண்டாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Inglorious births are produced by the confusion (of mind) which considers those things to be real which are not real.",
+        "story_title_ta": "மெய்யுணர்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Truth-Conciousness — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மெய்யுணர்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 351 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொய்யானவற்றை மெய் என்று எண்ணும் மயக்கத்தால் இழிவான பிறப்பு வரும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Truth-Conciousness'. Grandpa shared Kural 351 and explained in simple words: Inglorious births are produced by the confusion (of mind) which considers those things to be real which are not real. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பொய்யான ஒரு பொருளை மெய்ப்பொருள் என்று மயங்கி நம்புகிறவனின் வாழ்க்கை சிறப்பாக அமையாது.",
+        "moral_en": "Moral: Of things devoid of truth as real things men deem;-Cause of degraded birth the fond delusive dream.",
+        "game_blank_word_ta": "வற்றைப்",
+        "game_options_ta": [
+          "இருள்நீங்கி",
+          "இன்பம்",
+          "பயக்கும்",
+          "வற்றைப்"
+        ],
+        "game_options_en": [
+          "Men of spotless pure insight Enjoy delight devoid of night",
+          "To doubtless minds whose heart is clear More than earth heaven is near",
+          "Knowledge of five senses is vain Without knowing the Truth within",
+          "That error entails ignoble birth Which deems vain things as things of worth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மெய்யுணர்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 351, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொய்யானவற்றை மெய் என்று எண்ணும் மயக்கத்தால் இழிவான பிறப்பு வரும். கலைஞர் உரை கூறுவது: பொய்யான ஒரு பொருளை மெய்ப்பொருள் என்று மயங்கி நம்புகிறவனின் வாழ்க்கை சிறப்பாக அமையாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Truth-Conciousness (Ascetic Virtue), Kural 351 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Inglorious births are produced by the confusion (of mind) which considers those things to be real which are not real. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மெய்யுணர்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Truth-Conciousness' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மெய்யுணர்தல்' அதிகாரத்தில் வரும் திருக்குறள் 351 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 351 from Chapter 'Truth-Conciousness'?",
+        "quiz_options_ta": [
+          "செல்வர் முன் வறியவர் நிற்பது போல் (கற்றவர்முன்) ஏங்கித் தாழ்ந்து நின்றும் கல்விக் கற்றவரே உயர்ந்தவர், கல்லாதவர் இழிந்தவர்.",
+          "பொருளினிடத்தில் பற்றுக் கொள்ளும் உள்ளமாகிய ஈயாத்தன்மை, குற்றம் எதனோடும் சேர்ந்து எண்ணத்தகாத ஒரு தனிக் குற்றமாகும்.",
+          "காக்கை தன்னைவிட வலிய கோட்டானைப் பகலில் வென்றுவிடும், அதுபோல் பகையை வெல்லக்கருதும் அரசர்க்கும் அதற்கு ஏற்ற காலம் வேண்டும்.",
+          "மெய்ப்பொருள் அல்லாதவைகளை மெய்ப்பொருள் என்று தவறாக உணர்கின்ற மயக்க உணர்வால் சிறப்பில்லாத துன்பப் பிறவி உண்டாகும்."
+        ],
+        "quiz_options_en": [
+          "Like poor before rich they yearn: For knowledge: the low never learn",
+          "The gripping greed of miser's heart Is more than fault the worst apart",
+          "By day the crow defeats the owl Kings need right time their foes to quell",
+          "That error entails ignoble birth Which deems vain things as things of worth"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (மெய்யுணர்தல்) பகுதியில் குறள் 351 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மெய்ப்பொருள் அல்லாதவைகளை மெய்ப்பொருள் என்று தவறாக உணர்கின்ற மயக்க உணர்வால் சிறப்பில்லாத துன்பப் பிறவி உண்டாகும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது,பிறப்பு வீடுகளையும் அவற்றின் காரணங்களையும் விபரீத ஐயங்களானன்றி உண்மையான் உணர்தல். இதனை வடநூலார் 'தத்துவ ஞானம்' என்ப. இதுவும் பற்றற்றான் பற்றினைப் பற்றியவாறு உளதாவது ஆகலின்,அக்காரண ஒற்றுமைபற்றித் துறவின்பின் வைக்கப்பட்டது. பொருள் அல்லவற்றைப் பொருள...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 36: 'Truth-Conciousness'), Kural 351 distills a foundational ethical insight: \"Of things devoid of truth as real things men deem;-Cause of degraded birth the fond delusive dream\" Philosophically, Inglorious births are produced by the confusion (of mind) which considers those things to be real which are not real.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "truth",
+        "wisdom",
+        "wealth",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 352,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: மயக்கம் நீங்கிக் குற்றம் அற்ற மெய்யுணர்வை உடையவர்க்கு, அம் மெய்யுணர்வு அறியாமையை நீக்கி இன்ப நிலையைக்கொடுக்கும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: A clear, undimmed vision of things will deliver its possessors from the darkness of future births, and confer the felicity (of heaven).",
+        "story_title_ta": "மெய்யுணர்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Truth-Conciousness — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மெய்யுணர்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 352 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மயக்கத்திலிருந்து விலகிக் குற்றமற்ற மெய்‌யை உணரும் நிலையை அடைந்தவர்க்கு, அந்நிலை துன்ப இருளை விலக்கும்; இன்ப நிலையைக் கொடுக்கும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Truth-Conciousness'. Grandpa shared Kural 352 and explained in simple words: A clear, undimmed vision of things will deliver its possessors from the darkness of future births, and confer the felicity (of heaven). The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மயக்கம் தெளிந்து மாசற்ற உண்மையை உணர்ந்தால் அறியாமை அகன்று நலம் தோன்றும்.",
+        "moral_en": "Moral: Darkness departs, and rapture springs to men who see, The mystic vision pure, from all delusion free.",
+        "game_blank_word_ta": "பயக்கும்",
+        "game_options_ta": [
+          "பயக்கும்",
+          "பொருளல்ல",
+          "வற்றைப்",
+          "பொருளென்று"
+        ],
+        "game_options_en": [
+          "Men of spotless pure insight Enjoy delight devoid of night",
+          "That error entails ignoble birth Which deems vain things as things of worth",
+          "To doubtless minds whose heart is clear More than earth heaven is near",
+          "Knowledge of five senses is vain Without knowing the Truth within"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மெய்யுணர்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 352, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மயக்கத்திலிருந்து விலகிக் குற்றமற்ற மெய்‌யை உணரும் நிலையை அடைந்தவர்க்கு, அந்நிலை துன்ப இருளை விலக்கும்; இன்ப நிலையைக் கொடுக்கும். கலைஞர் உரை கூறுவது: மயக்கம் தெளிந்து மாசற்ற உண்மையை உணர்ந்தால் அறியாமை அகன்று நலம் தோன்றும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Truth-Conciousness (Ascetic Virtue), Kural 352 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A clear, undimmed vision of things will deliver its possessors from the darkness of future births, and confer the felicity (of heaven). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மெய்யுணர்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Truth-Conciousness' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மெய்யுணர்தல்' அதிகாரத்தில் வரும் திருக்குறள் 352 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 352 from Chapter 'Truth-Conciousness'?",
+        "quiz_options_ta": [
+          "மயக்கம் நீங்கிக் குற்றம் அற்ற மெய்யுணர்வை உடையவர்க்கு, அம் மெய்யுணர்வு அறியாமையை நீக்கி இன்ப நிலையைக்கொடுக்கும்.",
+          "மணலில் உள்ள கேணியில் தோண்டிய அளவிற்க்கு நீர் ஊறும், அதுபோல் மக்களின் கற்றக் கல்வியின் அளவிற்கு அறிவு ஊறும்.",
+          "எக்காலத்திலும் தன்னை மிக உயர்வாக எண்ணி வியந்து மதிக்கக் கூடாது, நன்மை தராத செயலைத்தான் விரும்பவும் கூடாது.",
+          "காலத்தோடுப் பொருந்துமாறு ஆராய்ந்து நடத்தல் ( நில்லாத இயல்பு உடைய) செல்வத்தை நீங்காமல் நிற்குமாறு கட்டும் கயிறாகும்."
+        ],
+        "quiz_options_en": [
+          "Men of spotless pure insight Enjoy delight devoid of night",
+          "As deep you dig the sand spring flows As deep you learn the knowledge grows",
+          "Never boast yourself in any mood Nor do a deed that does no good",
+          "Well-ordered seasoned act is cord That fortune binds in bon accord"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (மெய்யுணர்தல்) பகுதியில் குறள் 352 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மயக்கம் நீங்கிக் குற்றம் அற்ற மெய்யுணர்வை உடையவர்க்கு, அம் மெய்யுணர்வு அறியாமையை நீக்கி இன்ப நிலையைக்கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: மருள்நீங்கி மாசு அறு காட்சியவர்க்கு - அவிச்சையின் நீங்கி மெய்யுணர்வுடையார் ஆயினார்க்கு, இருள் நீங்கி இன்பம் பயக்கும் - அம்மெய்யுணர்வு பிறப்பினை நீங்கி வீட்டினைக் கொடுக்கும். (இருள்: நரகம், அஃது ஆகுபெயராய்க் காரணத்தின்மேல் நின்றது. 'நீக்கி' எனத் தொடை நோக்கி...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 36: 'Truth-Conciousness'), Kural 352 distills a foundational ethical insight: \"Darkness departs, and rapture springs to men who see, The mystic vision pure, from all delusion free\" Philosophically, A clear, undimmed vision of things will deliver its possessors from the darkness of future births, and confer the felicity (of heaven).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 353,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஐயத்திலிருந்து நீங்கி மெய்யுணர்வு பெற்றவர்க்கு அடைந்துள்ள இவ்வுலகை விட அடைய வேண்டிய மேலுலகம் அண்மையில் உள்ளதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Heaven is nearer than earth to those men of purified minds who are freed from from doubt.",
+        "story_title_ta": "மெய்யுணர்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Truth-Conciousness — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மெய்யுணர்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 353 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'சந்தேகத்திலிருந்து விலகி மெய்ப்பொருளைத் தெளிவாக உணர்ந்தவருக்கு, அவர் வாழும் பூமியை விட, விரும்பும் வான உலகம் மிக அருகில் இருப்பதாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Truth-Conciousness'. Grandpa shared Kural 353 and explained in simple words: Heaven is nearer than earth to those men of purified minds who are freed from from doubt. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஐயப்பாடுகளைத் தெளிந்த ஆராய்ச்சி வாயிலாகத் தீர்த்துக் கொண்டவர்களுக்குப் பூமியைவிட வானம் மிக அருகில் இருப்பதாகக் கருதுகின்ற ஊக்கம் ஏற்படும்.",
+        "moral_en": "Moral: When doubts disperse, and mists of error rollAway, nearer is heav'n than earth to sage's soul.",
+        "game_blank_word_ta": "வையத்தின்",
+        "game_options_ta": [
+          "பொருளல்ல",
+          "வையத்தின்",
+          "வற்றைப்",
+          "பொருளென்று"
+        ],
+        "game_options_en": [
+          "That error entails ignoble birth Which deems vain things as things of worth",
+          "To doubtless minds whose heart is clear More than earth heaven is near",
+          "Men of spotless pure insight Enjoy delight devoid of night",
+          "Knowledge of five senses is vain Without knowing the Truth within"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மெய்யுணர்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 353, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சந்தேகத்திலிருந்து விலகி மெய்ப்பொருளைத் தெளிவாக உணர்ந்தவருக்கு, அவர் வாழும் பூமியை விட, விரும்பும் வான உலகம் மிக அருகில் இருப்பதாகும். கலைஞர் உரை கூறுவது: ஐயப்பாடுகளைத் தெளிந்த ஆராய்ச்சி வாயிலாகத் தீர்த்துக் கொண்டவர்களுக்குப் பூமியைவிட வானம் மிக அருகில் இருப்பதாகக் கருதுகின்ற ஊக்கம் ஏற்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Truth-Conciousness (Ascetic Virtue), Kural 353 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Heaven is nearer than earth to those men of purified minds who are freed from from doubt. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மெய்யுணர்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Truth-Conciousness' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மெய்யுணர்தல்' அதிகாரத்தில் வரும் திருக்குறள் 353 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 353 from Chapter 'Truth-Conciousness'?",
+        "quiz_options_ta": [
+          "கற்றவனுக்கு தன் நாடும் ஊரும் போல வேறு எதுவாயினும் நாடாகும், ஊராகும் ஆகையால் ஒருவன் சாகும் வரையில் கல்லாமல் காலங்கழிப்பது ஏன்.",
+          "ஐயத்திலிருந்து நீங்கி மெய்யுணர்வு பெற்றவர்க்கு அடைந்துள்ள இவ்வுலகை விட அடைய வேண்டிய மேலுலகம் அண்மையில் உள்ளதாகும்.",
+          "தன் விருப்பம் பிறர்க்கு தெரியாதபடி விருப்பமான வற்றை நுகர வல்லவனானால், பகைவர் தன்னை வஞ்சிப்பதற்காகச் செய்யும் சூழ்ச்சிகள் பலிக்காமல் போகும்.",
+          "(செய்யும் செயலை முடிப்பதற்கு வேண்டிய) கருவிகளுடன் ஏற்றக் காலத்தையும் அறிந்து செய்தால் அரிய செயல்கள் என்பது உண்டோ."
+        ],
+        "quiz_options_en": [
+          "All lands and towns are learner's own Why not till death learning go on!",
+          "To doubtless minds whose heart is clear More than earth heaven is near",
+          "All designs of the foes shall fail If one his wishes guards in veil",
+          "What is hard for him who acts With proper means and time and tacts?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (மெய்யுணர்தல்) பகுதியில் குறள் 353 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஐயத்திலிருந்து நீங்கி மெய்யுணர்வு பெற்றவர்க்கு அடைந்துள்ள இவ்வுலகை விட அடைய வேண்டிய மேலுலகம் அண்மையில் உள்ளதாகும். பரிமேலழகர் உரை நுட்பம்: ஐயத்தின் நீங்கித் தெளிந்தார்க்கு - ஐயத்தினின்று நீங்கி உணர்ந்தார்க்கு; வையத்தின் வானம் நணிய துடைத்து - எய்தி நின்ற நில உலகத்தினும் எய்தக்கடவதாய வீட்டுலகம் நணித்தாதலுடைத்து. (ஐயமாவது, பலதலையாய உணர்வு. அஃதாவது மறுபிறப்பும் இருவினைப் பயனும், கடவுளும் உளவோ இலவோ...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 36: 'Truth-Conciousness'), Kural 353 distills a foundational ethical insight: \"When doubts disperse, and mists of error rollAway, nearer is heav'n than earth to sage's soul\" Philosophically, Heaven is nearer than earth to those men of purified minds who are freed from from doubt.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "self-mastery",
+        "truth",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 354,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: மெய்யுணர்வு இல்லாதவர்க்கு ஐந்து புலன்களின் வேறுபாட்டால் வளர்ந்த ஐந்து வகை உணர்வும் முற்றப்பெற்ற போதிலும் பயன் இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Even those who have all the knowledge which can be attained by the five senses, will derive no benefit from it, if they are without a knowledge of the true nature of things.",
+        "story_title_ta": "மெய்யுணர்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Truth-Conciousness — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மெய்யுணர்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 354 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மனம் அடங்கக் கற்றவர் என்றாலும், உண்மையை உணரும் உணர்வு இல்லாதவர்க்கு ஒரு பயனும் இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Truth-Conciousness'. Grandpa shared Kural 354 and explained in simple words: Even those who have all the knowledge which can be attained by the five senses, will derive no benefit from it, if they are without a knowledge of the true nature of things. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உண்மையைக் கண்டறிந்து தெளிவடையாதவர்கள், தமது ஐம்புலன்களையும் அடக்கி வெற்றி கண்டிருந்தாலும் கூட அதனால் அவர்களுக்கு எந்தப் பயனும் இல்லை.",
+        "moral_en": "Moral: Five-fold perception gained, what benefits accrueTo them whose spirits lack perception of the true.",
+        "game_blank_word_ta": "மெய்யுணர்வு",
+        "game_options_ta": [
+          "பொருளல்ல",
+          "வற்றைப்",
+          "மெய்யுணர்வு",
+          "பொருளென்று"
+        ],
+        "game_options_en": [
+          "That error entails ignoble birth Which deems vain things as things of worth",
+          "Men of spotless pure insight Enjoy delight devoid of night",
+          "Knowledge of five senses is vain Without knowing the Truth within",
+          "To doubtless minds whose heart is clear More than earth heaven is near"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மெய்யுணர்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 354, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனம் அடங்கக் கற்றவர் என்றாலும், உண்மையை உணரும் உணர்வு இல்லாதவர்க்கு ஒரு பயனும் இல்லை. கலைஞர் உரை கூறுவது: உண்மையைக் கண்டறிந்து தெளிவடையாதவர்கள், தமது ஐம்புலன்களையும் அடக்கி வெற்றி கண்டிருந்தாலும் கூட அதனால் அவர்களுக்கு எந்தப் பயனும் இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Truth-Conciousness (Ascetic Virtue), Kural 354 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even those who have all the knowledge which can be attained by the five senses, will derive no benefit from it, if they are without a knowledge of the true nature of things. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மெய்யுணர்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Truth-Conciousness' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மெய்யுணர்தல்' அதிகாரத்தில் வரும் திருக்குறள் 354 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 354 from Chapter 'Truth-Conciousness'?",
+        "quiz_options_ta": [
+          "ஒரு பிறப்பில் தான் கற்றக் கல்வியானது அப்பிறப்பிற்கு மட்டும் அல்லாமல் அவனுக்கு ஏழுபிறப்பிறப்பிலும் உதவும் தன்மை உடையது.",
+          "அறம் உணர்ந்தவராய்த் தன்னை விட மூத்தவராய் உள்ள அறிவுடையவரின் நட்பை, கொள்ளும் வகை அறிந்து ஆராய்ந்து கொள்ள வேண்டும்.",
+          "மெய்யுணர்வு இல்லாதவர்க்கு ஐந்து புலன்களின் வேறுபாட்டால் வளர்ந்த ஐந்து வகை உணர்வும் முற்றப்பெற்ற போதிலும் பயன் இல்லை.",
+          "(செயலை முடிப்பதற்கு ஏற்ற) காலத்தை அறிந்து இடத்தோடு பொருந்துமாறு செய்தால், உலகமே வேண்டும் எனக் கருதினாலும் கைகூடும்."
+        ],
+        "quiz_options_en": [
+          "The joy of learning in one birth Exalts man upto his seventh",
+          "Weigh their worth and friendship gain Of men of virtue and mature brain",
+          "Knowledge of five senses is vain Without knowing the Truth within",
+          "Choose proper time and act and place Even the world you win with ease"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (மெய்யுணர்தல்) பகுதியில் குறள் 354 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மெய்யுணர்வு இல்லாதவர்க்கு ஐந்து புலன்களின் வேறுபாட்டால் வளர்ந்த ஐந்து வகை உணர்வும் முற்றப்பெற்ற போதிலும் பயன் இல்லை. பரிமேலழகர் உரை நுட்பம்: ஐயுணர்வு எய்தியக்கண்ணும் பயம் இன்றே - சொல்லப்படுகின்ற புலன்கள் வேறுபாட்டான் ஐந்தாகிய உணர்வு அவற்றை விட்டுத் தம் வயத்ததாய வழியும், அதனால் பயனில்லையேயாம், மெய்யுணர்வு இல்லாதவர்க்கு - மெய்யினையுணர்தல் இல்லாதார்க்கு. (ஐந்தாகிய உணர்வு : மனம் , அஃது எய்துதலாவது...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 36: 'Truth-Conciousness'), Kural 354 distills a foundational ethical insight: \"Five-fold perception gained, what benefits accrueTo them whose spirits lack perception of the true\" Philosophically, Even those who have all the knowledge which can be attained by the five senses, will derive no benefit from it, if they are without a knowledge of the true nature of things.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "truth",
+        "love",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 355,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: எப்பொருள் எத்தன்மையதாய்த் தோன்றினாலும் (அத்தோற்றத்தை மட்டும் கண்டுமங்காமல்) அப் பொருளின் உண்மையான இயல்பை அறிவதே மெய்யுணர்வு.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: (True) knowledge is the perception concerning every thing of whatever kind, that that thing is the true thing.",
+        "story_title_ta": "மெய்யுணர்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Truth-Conciousness — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மெய்யுணர்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 355 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எந்தப் பொருளானாலும், அது எப்படிக் காட்சி தந்தாலும், அப்பொருளின் வெளித்தோற்றத்தைக் காணாமல், உள்ளடக்கமாகிய உண்மைப் பொருளைக் காண்பதே மெய்யுணர்தல்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Truth-Conciousness'. Grandpa shared Kural 355 and explained in simple words: (True) knowledge is the perception concerning every thing of whatever kind, that that thing is the true thing. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வெளித்தோற்றத்தைப் பார்த்து ஏமாந்து விடாமல், அதுபற்றிய உண்மையை உணர்வதுதான் அறிவுடைமையாகும்.",
+        "moral_en": "Moral: Whatever thing, of whatsoever kind it be,'Tis wisdom's part in each the very thing to see.",
+        "game_blank_word_ta": "காண்பது",
+        "game_options_ta": [
+          "பொருளல்ல",
+          "வற்றைப்",
+          "பொருளென்று",
+          "காண்பது"
+        ],
+        "game_options_en": [
+          "That error entails ignoble birth Which deems vain things as things of worth",
+          "Men of spotless pure insight Enjoy delight devoid of night",
+          "To doubtless minds whose heart is clear More than earth heaven is near",
+          "Knowledge is truth of things to find In every case of every kind"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மெய்யுணர்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 355, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எந்தப் பொருளானாலும், அது எப்படிக் காட்சி தந்தாலும், அப்பொருளின் வெளித்தோற்றத்தைக் காணாமல், உள்ளடக்கமாகிய உண்மைப் பொருளைக் காண்பதே மெய்யுணர்தல். கலைஞர் உரை கூறுவது: வெளித்தோற்றத்தைப் பார்த்து ஏமாந்து விடாமல், அதுபற்றிய உண்மையை உணர்வதுதான் அறிவுடைமையாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Truth-Conciousness (Ascetic Virtue), Kural 355 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (True) knowledge is the perception concerning every thing of whatever kind, that that thing is the true thing. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மெய்யுணர்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Truth-Conciousness' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மெய்யுணர்தல்' அதிகாரத்தில் வரும் திருக்குறள் 355 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 355 from Chapter 'Truth-Conciousness'?",
+        "quiz_options_ta": [
+          "தாம் இன்புறுவதற்குக் காரணமான கல்வியால் உலகமும் இன்புறுவதைக் கண்டு, கற்றறிந்த அறிஞர் மேன்மேலும் (அக் கல்வியையே) விரும்புவர்.",
+          "வந்துள்ள துன்பத்தை நீக்கி, இனித் துன்பம் வராதபடி முன்னதாகவே காக்கவல்ல தன்மையுடையவரைப் போற்றி நட்புக் கொள்ள வேண்டும்.",
+          "உலகத்தைக் கொள்ளக் கருதிகின்றவர் அதைப்பற்றி எண்ணிக் கலங்காமல் அதற்கு ஏற்ற காலத்தைக் கருதிக்கொண்டு பொறுத்திருப்பர்.",
+          "எப்பொருள் எத்தன்மையதாய்த் தோன்றினாலும் (அத்தோற்றத்தை மட்டும் கண்டுமங்காமல்) அப் பொருளின் உண்மையான இயல்பை அறிவதே மெய்யுணர்வு."
+        ],
+        "quiz_options_en": [
+          "The learned foster learning more On seeing the world enjoy their lore",
+          "Cherish the help of men of skill Who ward and safe-guard you from ill",
+          "Who want to win the world sublime Wait unruffled biding their time",
+          "Knowledge is truth of things to find In every case of every kind"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (மெய்யுணர்தல்) பகுதியில் குறள் 355 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எப்பொருள் எத்தன்மையதாய்த் தோன்றினாலும் (அத்தோற்றத்தை மட்டும் கண்டுமங்காமல்) அப் பொருளின் உண்மையான இயல்பை அறிவதே மெய்யுணர்வு. பரிமேலழகர் உரை நுட்பம்: எப்பொருள் எத்தன்மைத்து ஆயினும் - யாதொரு பொருள் யாதோர் இயல்பிற்றாய்த் தோன்றினும், அப்பொருள் மெய்ப்பொருள் காண்பது அறிவு - அத்தோன்றிய ஆற்றைக் கண்டொழியாது, அப்பொருளின்கண் நின்று மெய்யாகிய பொருளைக் காண்பதே மெய் உணர்வாவது. (பொருள் தோறும் உலகத்தார் கற்பித்துக்கொண்டு...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 36: 'Truth-Conciousness'), Kural 355 distills a foundational ethical insight: \"Whatever thing, of whatsoever kind it be,'Tis wisdom's part in each the very thing to see\" Philosophically, (True) knowledge is the perception concerning every thing of whatever kind, that that thing is the true thing.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "truth",
+        "wealth",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 356,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கற்க வேண்டிய வற்றைக் கற்று இங்கு மெய்ப் பொருளை உணர்ந்தவர் , மீண்டும் இப்பிறப்பிற்கு வராத வழியை அடைவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: They, who in this birth have learned to know the True Being, enter the road which returns not into this world.",
+        "story_title_ta": "மெய்யுணர்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Truth-Conciousness — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மெய்யுணர்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 356 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பெரியவர்களிடம் கற்று, மெய்ப்பொருளை இவ்வுலகில் உணர்ந்தவர்கள் திரும்பவும் பிறக்காமல் இருக்கும் வழியில் செயல்படுவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Truth-Conciousness'. Grandpa shared Kural 356 and explained in simple words: They, who in this birth have learned to know the True Being, enter the road which returns not into this world. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: துறவற வாழ்வுக்குத் தகுதியுடையவராகச் செய்திடும் அனைத்தையும் கற்று, உண்மைப் பொருள் உணர்ந்து அதன்படி ஒழுகுபவர், மீண்டும் இல்லற வாழ்க்கையை விரும்ப மாட்டார்கள்.",
+        "moral_en": "Moral: Who learn, and here the knowledge of the true obtain, Shall find the path that hither cometh not again.",
+        "game_blank_word_ta": "மெய்ப்பொருள்",
+        "game_options_ta": [
+          "மெய்ப்பொருள்",
+          "பொருளல்ல",
+          "வற்றைப்",
+          "பொருளென்று"
+        ],
+        "game_options_en": [
+          "Who learn and here the Truth discern Enter the path of non-return",
+          "That error entails ignoble birth Which deems vain things as things of worth",
+          "Men of spotless pure insight Enjoy delight devoid of night",
+          "To doubtless minds whose heart is clear More than earth heaven is near"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மெய்யுணர்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 356, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெரியவர்களிடம் கற்று, மெய்ப்பொருளை இவ்வுலகில் உணர்ந்தவர்கள் திரும்பவும் பிறக்காமல் இருக்கும் வழியில் செயல்படுவர். கலைஞர் உரை கூறுவது: துறவற வாழ்வுக்குத் தகுதியுடையவராகச் செய்திடும் அனைத்தையும் கற்று, உண்மைப் பொருள் உணர்ந்து அதன்படி ஒழுகுபவர், மீண்டும் இல்லற வாழ்க்கையை விரும்ப மாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Truth-Conciousness (Ascetic Virtue), Kural 356 speaks directly to teens navigating studies, friendships, leadership, and digital choices: They, who in this birth have learned to know the True Being, enter the road which returns not into this world. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மெய்யுணர்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Truth-Conciousness' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மெய்யுணர்தல்' அதிகாரத்தில் வரும் திருக்குறள் 356 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 356 from Chapter 'Truth-Conciousness'?",
+        "quiz_options_ta": [
+          "கற்க வேண்டிய வற்றைக் கற்று இங்கு மெய்ப் பொருளை உணர்ந்தவர் , மீண்டும் இப்பிறப்பிற்கு வராத வழியை அடைவர்.",
+          "ஒருவனுக்கு அழிவு இல்லாத சிறந்த செல்வம் கல்வியே ஆகும், கல்வியைத் தவிர மற்றப் பொருள்கள் (அத்தகைய சிறப்புடைய) செல்வம் அல்ல.",
+          "பெரியாரைப் போற்றி தமக்குச் சுற்றத்தாராக்கிக் கொள்ளுதல், பெறத்தக்க அரிய பேறுகள் எல்லாவற்றிலும் அருமையானதாகும்.",
+          "ஊக்கம் மிகுந்தவன் (காலத்தை எதிர்பார்த்து) அடங்கியிருத்தல் போர் செய்யும் ஆட்டுக்கடா தன் பகையைத் தாக்குவதற்க்காகப் பின்னே கால் வாங்குதலைப் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Who learn and here the Truth discern Enter the path of non-return",
+          "Learning is wealth none could destroy Nothing else gives genuine joy",
+          "Honour and have the great your own Is rarest of the rare things known",
+          "By self-restraint stalwarts keep fit Like rams retreating but to butt"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (மெய்யுணர்தல்) பகுதியில் குறள் 356 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கற்க வேண்டிய வற்றைக் கற்று இங்கு மெய்ப் பொருளை உணர்ந்தவர் , மீண்டும் இப்பிறப்பிற்கு வராத வழியை அடைவர். பரிமேலழகர் உரை நுட்பம்: ஈண்டுக் கற்று மெய்ப்பொருள் கண்டார் - இம்மக்கட் பிறப்பின் கண்ணே உபதேச மொழிகளை அனுபவம் உடைய தேசிகர்பால் கேட்டு அதனான் மெய்ப்பொருளை உணர்ந்தவர், மற்று ஈண்டு வாரா நெறி தலைப்படுவர் - மீண்டு இப்பிறப்பின்கண் வாராத நெறியை எய்துவர். ('கற்று' என்றதனால் பலர்பக்கலினும...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 36: 'Truth-Conciousness'), Kural 356 distills a foundational ethical insight: \"Who learn, and here the knowledge of the true obtain, Shall find the path that hither cometh not again\" Philosophically, They, who in this birth have learned to know the True Being, enter the road which returns not into this world.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "truth",
+        "education",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 357,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவனுடைய உள்ளம் உண்மைப் பொருளை ஆராய்ந்து உறுதியாக உணர்ந்தால், அவனுக்கு மீண்டும் பிறப்பு உள்ள தென எண்ண வேண்டா.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Let it not be thought that there is another birth for him whose mind having thoroughly considered (all it has been taught) has known the True Being.",
+        "story_title_ta": "மெய்யுணர்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Truth-Conciousness — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மெய்யுணர்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 357 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பெரியவர்களிடம் கேட்டவற்றை மனத்துள் முழுமையாகக் கொண்டு, இடைவிடாமல் மெய்ப்பொருளை உணர்பவருக்குத் ‌திரும்பவும் ஒரு பிறவி இருக்கும் என்று எண்ண வேண்டா.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Truth-Conciousness'. Grandpa shared Kural 357 and explained in simple words: Let it not be thought that there is another birth for him whose mind having thoroughly considered (all it has been taught) has known the True Being. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உண்மையை ஆராய்ந்து உறுதியாக உணர்பவர்கள் மீண்டும் பிறப்பு உண்டு எனக் கருத மாட்டார்கள்.",
+        "moral_en": "Moral: The mind that knows with certitude what is, and ponders well, Its thoughts on birth again to other life need not to dwell.",
+        "game_blank_word_ta": "ஓர்த்துள்ளம்",
+        "game_options_ta": [
+          "பொருளல்ல",
+          "ஓர்த்துள்ளம்",
+          "வற்றைப்",
+          "பொருளென்று"
+        ],
+        "game_options_en": [
+          "That error entails ignoble birth Which deems vain things as things of worth",
+          "One-minded sage sees inner-truth He is free from thoughts of rebirth",
+          "Men of spotless pure insight Enjoy delight devoid of night",
+          "To doubtless minds whose heart is clear More than earth heaven is near"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மெய்யுணர்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 357, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெரியவர்களிடம் கேட்டவற்றை மனத்துள் முழுமையாகக் கொண்டு, இடைவிடாமல் மெய்ப்பொருளை உணர்பவருக்குத் ‌திரும்பவும் ஒரு பிறவி இருக்கும் என்று எண்ண வேண்டா. கலைஞர் உரை கூறுவது: உண்மையை ஆராய்ந்து உறுதியாக உணர்பவர்கள் மீண்டும் பிறப்பு உண்டு எனக் கருத மாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Truth-Conciousness (Ascetic Virtue), Kural 357 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let it not be thought that there is another birth for him whose mind having thoroughly considered (all it has been taught) has known the True Being. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மெய்யுணர்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Truth-Conciousness' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மெய்யுணர்தல்' அதிகாரத்தில் வரும் திருக்குறள் 357 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 357 from Chapter 'Truth-Conciousness'?",
+        "quiz_options_ta": [
+          "அறிவு நிரம்புவதற்குக் காரணமானக் நூல்களைக் கற்காமல் கற்றவரிடம் சென்று பேசதல், சூதாடும் அரங்கு இழைக்காமல் வட்டுக்காயை உருட்டிஆடினார் போன்றது.",
+          "ஒருவனுடைய உள்ளம் உண்மைப் பொருளை ஆராய்ந்து உறுதியாக உணர்ந்தால், அவனுக்கு மீண்டும் பிறப்பு உள்ள தென எண்ண வேண்டா.",
+          "தம்மைவிட (அறிவு முதலியவற்றால் ) பெரியவர் தமக்குச் சுற்றத்தராகுமாறு நடத்தல், வல்லமை எல்லாவற்றிலும் சிறந்ததாகும்.",
+          "அறிவுடையவர் ( பகைவர் தீங்கு செய்த) அப்பொழுதே உடனே புறத்தில் சினம் கொள்ளமாட்டார், (வெல்வதற்கு ஏற்ற) காலம் பார்த்து அகத்தில் சினம் கொள்வார்."
+        ],
+        "quiz_options_en": [
+          "Like play of chess on squareless board Vain is imperfect loreless word",
+          "One-minded sage sees inner-truth He is free from thoughts of rebirth",
+          "To have betters as intimates Power of all powers promotes",
+          "The wise jut not their vital fire They watch their time with hidden ire"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (மெய்யுணர்தல்) பகுதியில் குறள் 357 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவனுடைய உள்ளம் உண்மைப் பொருளை ஆராய்ந்து உறுதியாக உணர்ந்தால், அவனுக்கு மீண்டும் பிறப்பு உள்ள தென எண்ண வேண்டா. பரிமேலழகர் உரை நுட்பம்: உள்ளம் ஒருதலையா ஓர்த்து உள்ளது உணரின் - அங்ஙனம் கேட்ட உபதேச மொழிப் பொருளை, ஒருவன் உள்ளம் அளவைகளானும் பொருந்துமாற்றானும் தெளிய ஆராய்ந்து அதனான் முதற்பொருளை உணருமாயின், பேர்த்துப் பிறப்பு உள்ள வேண்டா - அவனுக்கு மாறிப் பிறப்புளதாக நினைக்க வேண்டா. ('ஒருதலையா...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 36: 'Truth-Conciousness'), Kural 357 distills a foundational ethical insight: \"The mind that knows with certitude what is, and ponders well, Its thoughts on birth again to other life need not to dwell\" Philosophically, Let it not be thought that there is another birth for him whose mind having thoroughly considered (all it has been taught) has known the True Being.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "truth",
+        "wisdom",
+        "self-mastery",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 358,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பிறவித்துன்பத்திற்கு காரணமான அறியாமை நீங்குமாறு முக்தி எனும் சிறந்த நிலைக்குக் காரணமான செம் பொருளைக் காண்பதே மெய்யுணர்வு.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: True knowledge consists in the removal of ignorance; which is (the cause of) births, and the perception of the True Being who is (the bestower of) heaven.",
+        "story_title_ta": "மெய்யுணர்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Truth-Conciousness — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மெய்யுணர்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 358 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறவி என்னும் அறியாமையிலிருந்து விலகப் பிறவாமை என்னும் செவ்விய பொருளைக் காண்பதே மெய்யுணர்தல்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Truth-Conciousness'. Grandpa shared Kural 358 and explained in simple words: True knowledge consists in the removal of ignorance; which is (the cause of) births, and the perception of the True Being who is (the bestower of) heaven. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அடுத்த பிறப்பு எனக் கூறப்படும் அறியாமையைப் போக்கித் தெளிந்த உண்மையை நிலைநாட்டுவதுதான் அறிவுடைமையாகும்.",
+        "moral_en": "Moral: When folly, cause of births, departs; and soul can viewThe truth of things, man's dignity- 'tis wisdom true.",
+        "game_blank_word_ta": "பேதைமை",
+        "game_options_ta": [
+          "பொருளல்ல",
+          "வற்றைப்",
+          "பேதைமை",
+          "பொருளென்று"
+        ],
+        "game_options_en": [
+          "That error entails ignoble birth Which deems vain things as things of worth",
+          "Men of spotless pure insight Enjoy delight devoid of night",
+          "It is knowledge to know Self-Truth And remove the folly of birth",
+          "To doubtless minds whose heart is clear More than earth heaven is near"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மெய்யுணர்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 358, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறவி என்னும் அறியாமையிலிருந்து விலகப் பிறவாமை என்னும் செவ்விய பொருளைக் காண்பதே மெய்யுணர்தல். கலைஞர் உரை கூறுவது: அடுத்த பிறப்பு எனக் கூறப்படும் அறியாமையைப் போக்கித் தெளிந்த உண்மையை நிலைநாட்டுவதுதான் அறிவுடைமையாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Truth-Conciousness (Ascetic Virtue), Kural 358 speaks directly to teens navigating studies, friendships, leadership, and digital choices: True knowledge consists in the removal of ignorance; which is (the cause of) births, and the perception of the True Being who is (the bestower of) heaven. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மெய்யுணர்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Truth-Conciousness' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மெய்யுணர்தல்' அதிகாரத்தில் வரும் திருக்குறள் 358 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 358 from Chapter 'Truth-Conciousness'?",
+        "quiz_options_ta": [
+          "(கற்றவரின் அவையில்) கல்லாதவன் ஒன்றைச் சொல்ல விரும்புதல், முலை இரண்டும் இல்லாதவள் பெண் தன்மையை விரும்பினாற் போன்றது.",
+          "தக்க வழிகளை ஆராய்ந்து கூறும் அறிஞரையே உலகம் கண்ணாகக் கொண்டு நடத்தலால், மன்னவனும் அத்தகையாரைக் ஆராய்ந்து நட்புக்கொள்ள வேண்டும்.",
+          "பிறவித்துன்பத்திற்கு காரணமான அறியாமை நீங்குமாறு முக்தி எனும் சிறந்த நிலைக்குக் காரணமான செம் பொருளைக் காண்பதே மெய்யுணர்வு.",
+          "பகைவரைக் கண்டால் பொறுத்துச் செல்லவேண்டும், அப் பகைவர்க்கு முடிவுகாலம் வந்த போது அவருடைய தலை கீழே விழும்."
+        ],
+        "quiz_options_en": [
+          "Unlearned man aspiring speech Is breastless lady's love-approach",
+          "Ministers are the monarch's eyes Round him should be the right and wise",
+          "It is knowledge to know Self-Truth And remove the folly of birth",
+          "Bear with hostiles when you meet them Fell down their head in fateful time"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (மெய்யுணர்தல்) பகுதியில் குறள் 358 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறவித்துன்பத்திற்கு காரணமான அறியாமை நீங்குமாறு முக்தி எனும் சிறந்த நிலைக்குக் காரணமான செம் பொருளைக் காண்பதே மெய்யுணர்வு. பரிமேலழகர் உரை நுட்பம்: பிறப்பு என்னும் பேதைமை நீங்க - பிறப்பிற்கு முதற்காரணமாய அவிச்சை கெட, சிறப்பு என்னும் செம்பொருள் காண்பது அறிவு - வீட்டிற்கு நிமித்த காரணமாய செவ்விய பொருளைக் காண்பதே ஒருவர்க்கு மெய் உணர்வாவது. (பிறப்பென்னும் பேதைமை எனவும் 'சிறப்பு என்னும் செம்பொருள்' எனவும...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 36: 'Truth-Conciousness'), Kural 358 distills a foundational ethical insight: \"When folly, cause of births, departs; and soul can viewThe truth of things, man's dignity- 'tis wisdom true\" Philosophically, True knowledge consists in the removal of ignorance; which is (the cause of) births, and the perception of the True Being who is (the bestower of) heaven.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "truth",
+        "wealth",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 359,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: எல்லாப் பொருளுக்கும் சார்பான செம்பொருளை உணர்ந்து பற்றுக் கெடுமாறு ஒழுகினால், சார்வதற்க்கு உரிய துன்பங்கள் திரும்ப வந்து அடையா.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: He who so lives as to know Him who is the support of all things and abandon all desire, will be freed from the evils which would otherwise cleave to him and destroy (his efforts after absorption).",
+        "story_title_ta": "மெய்யுணர்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Truth-Conciousness — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மெய்யுணர்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 359 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எல்லாப் பொருள்களுக்கும் இடமாகிய மெய்ப்பொருளை உணர்ந்து பற்றின்றி வாழ்ந்தால், பற்ற வரும் துன்பங்கள் ஒழுக்க உணர்வை அழி்த்துப் பற்ற மாட்டா.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Truth-Conciousness'. Grandpa shared Kural 359 and explained in simple words: He who so lives as to know Him who is the support of all things and abandon all desire, will be freed from the evils which would otherwise cleave to him and destroy (his efforts after absorption). The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: துன்பங்கள் நம்மைச் சாராமல் இருக்க வேண்டுமானால், அத்துன்பங்களுக்குக் காரணமானவற்றை உணர்ந்து அவற்றின் மீதுள்ள பற்றை விலக்கிக் கொள்ள வேண்டும்.",
+        "moral_en": "Moral: The true 'support' who knows- rejects 'supports' he sought before-Sorrow that clings all destroys, shall cling to him no more.",
+        "game_blank_word_ta": "சார்தரு",
+        "game_options_ta": [
+          "பொருளல்ல",
+          "வற்றைப்",
+          "பொருளென்று",
+          "சார்தரு"
+        ],
+        "game_options_en": [
+          "That error entails ignoble birth Which deems vain things as things of worth",
+          "Men of spotless pure insight Enjoy delight devoid of night",
+          "To doubtless minds whose heart is clear More than earth heaven is near",
+          "Know the Refuge; off with bondage Be free from ills of thraldom, O sage"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மெய்யுணர்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 359, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எல்லாப் பொருள்களுக்கும் இடமாகிய மெய்ப்பொருளை உணர்ந்து பற்றின்றி வாழ்ந்தால், பற்ற வரும் துன்பங்கள் ஒழுக்க உணர்வை அழி்த்துப் பற்ற மாட்டா. கலைஞர் உரை கூறுவது: துன்பங்கள் நம்மைச் சாராமல் இருக்க வேண்டுமானால், அத்துன்பங்களுக்குக் காரணமானவற்றை உணர்ந்து அவற்றின் மீதுள்ள பற்றை விலக்கிக் கொள்ள வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Truth-Conciousness (Ascetic Virtue), Kural 359 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who so lives as to know Him who is the support of all things and abandon all desire, will be freed from the evils which would otherwise cleave to him and destroy (his efforts after absorption). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மெய்யுணர்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Truth-Conciousness' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மெய்யுணர்தல்' அதிகாரத்தில் வரும் திருக்குறள் 359 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 359 from Chapter 'Truth-Conciousness'?",
+        "quiz_options_ta": [
+          "கற்றவரின் முன்னிலையில் ஒன்றையும் சொல்லாமல் அமைதியாக இருக்கப் பெற்றால் கல்லாதவர்களும் மிகவும் நல்லவரே ஆவார்.",
+          "தக்க பெரியாரின் கூட்டத்தில் உள்ளனவாய் நடக்கவல்ல ஒருவனுக்கு,அவனுடைய பகைவர் செய்யக்கூடியத் தீங்கு ஒன்றும் இல்லை.",
+          "கிடைத்தற்கறிய காலம் வந்து வாய்க்குமானால், அந்த வாய்ப்பைப் பயன்படுத்திக் கொண்டு அப்போதே செய்தற்கரியச் செயல்களைச் செய்ய வேண்டும்.",
+          "எல்லாப் பொருளுக்கும் சார்பான செம்பொருளை உணர்ந்து பற்றுக் கெடுமாறு ஒழுகினால், சார்வதற்க்கு உரிய துன்பங்கள் திரும்ப வந்து அடையா."
+        ],
+        "quiz_options_en": [
+          "Ev'n unread men are good and wise If before the wise, they hold their peace",
+          "To move with worthy friends who knows Has none to fear from frightful foes",
+          "When comes the season ripe and rare Dare and do hard things then and there",
+          "Know the Refuge; off with bondage Be free from ills of thraldom, O sage"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (மெய்யுணர்தல்) பகுதியில் குறள் 359 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எல்லாப் பொருளுக்கும் சார்பான செம்பொருளை உணர்ந்து பற்றுக் கெடுமாறு ஒழுகினால், சார்வதற்க்கு உரிய துன்பங்கள் திரும்ப வந்து அடையா. பரிமேலழகர் உரை நுட்பம்: சார்பு உணர்ந்து சார்புகெட ஒழுகின் - ஒருவன் எல்லாப் பொருட்கும் சார்பாய அச்செம்பொருளை உணர்ந்து, இருவகைப் பற்றும் அற ஒழுகவல்லனாயின்; சார்தரும் நோய் அழித்து மற்றுச் சார்தரா - அவனை முன் சாரக்கடவனவாய் நின்ற துன்பங்கள் அவ்வுணர்வு ஒழுக்கங்களை அழித்துப் பின...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 36: 'Truth-Conciousness'), Kural 359 distills a foundational ethical insight: \"The true 'support' who knows- rejects 'supports' he sought before-Sorrow that clings all destroys, shall cling to him no more\" Philosophically, He who so lives as to know Him who is the support of all things and abandon all desire, will be freed from the evils which would otherwise cleave to him and destroy (his efforts after absorption).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "truth",
+        "self-mastery",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 360,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: விருப்பு, வெறுப்பு, அறியாமை ஆகிய இக் குற்றங்கள் மூன்றனுடைய பெயரும் கெடுமாறு ஒழுகினால் துன்பங்கள் வராமற் கெடும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If the very names of these three things, desire, anger, and confusion of mind, be destroyed, then will also perish evils (which flow from them).",
+        "story_title_ta": "மெய்யுணர்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Truth-Conciousness — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'மெய்யுணர்தல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 360 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'விருப்பு, வெறுப்பு, மயக்கம் என்னும் இம்மூன்றன் பெயருங்கூட உள்ளத்திற்குள் இல்லாது போனால், அவற்றால் வரும் துன்பங்களும் இல்லாமல் போகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Truth-Conciousness'. Grandpa shared Kural 360 and explained in simple words: If the very names of these three things, desire, anger, and confusion of mind, be destroyed, then will also perish evils (which flow from them). The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: விருப்பு, வெறுப்பு, அறியாமை இவற்றுக்கு இடம் தராதவர்களை நெருங்குகிற துன்பம் அழிந்துவிடும்.",
+        "moral_en": "Moral: When lust and wrath and error's triple tyranny is o'er, Their very names for aye extinct, then pain shall be no more.",
+        "game_blank_word_ta": "காமம்",
+        "game_options_ta": [
+          "காமம்",
+          "பொருளல்ல",
+          "வற்றைப்",
+          "பொருளென்று"
+        ],
+        "game_options_en": [
+          "Woes expire when lust, wrath, folly Expire even to name, fully",
+          "That error entails ignoble birth Which deems vain things as things of worth",
+          "Men of spotless pure insight Enjoy delight devoid of night",
+          "To doubtless minds whose heart is clear More than earth heaven is near"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "மெய்யுணர்தல் (துறவறவியல்) பிரிவில் அமைந்த குறள் 360, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: விருப்பு, வெறுப்பு, மயக்கம் என்னும் இம்மூன்றன் பெயருங்கூட உள்ளத்திற்குள் இல்லாது போனால், அவற்றால் வரும் துன்பங்களும் இல்லாமல் போகும். கலைஞர் உரை கூறுவது: விருப்பு, வெறுப்பு, அறியாமை இவற்றுக்கு இடம் தராதவர்களை நெருங்குகிற துன்பம் அழிந்துவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Truth-Conciousness (Ascetic Virtue), Kural 360 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If the very names of these three things, desire, anger, and confusion of mind, be destroyed, then will also perish evils (which flow from them). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'மெய்யுணர்தல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Truth-Conciousness' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'மெய்யுணர்தல்' அதிகாரத்தில் வரும் திருக்குறள் 360 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 360 from Chapter 'Truth-Conciousness'?",
+        "quiz_options_ta": [
+          "விருப்பு, வெறுப்பு, அறியாமை ஆகிய இக் குற்றங்கள் மூன்றனுடைய பெயரும் கெடுமாறு ஒழுகினால் துன்பங்கள் வராமற் கெடும்.",
+          "கல்லாதவனுடைய அறிவுடைய ஒருக்கால் மிக நன்றாக இருந்தாலும் அறிவுடையோர் அதனை அறிவின் பகுதியாக ஏற்றுக்கொள்ள மாட்டார்.",
+          "கடிந்து அறிவுரைக் கூறவல்ல பெரியாரின் துணை கொண்டு நடப்பவரை கெடுக்கும் ஆற்றல் உள்ளவர் எவர் இருக்கின்றனர்.",
+          "பொறுத்திருக்கும் காலத்தில் கொக்குப் போல் அமைதியாக இருக்க வேண்டும், காலம் வாய்த்த போது அதன் குத்து போல் தவறாமல் செய்து முடிக்க வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Woes expire when lust, wrath, folly Expire even to name, fully",
+          "The unread's wit though excellent Is not valued by the savant",
+          "No foe can foil his powers whose friends reprove him when he errs",
+          "In waiting time feign peace like stork In fighting time strike like its peck"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (மெய்யுணர்தல்) பகுதியில் குறள் 360 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: விருப்பு, வெறுப்பு, அறியாமை ஆகிய இக் குற்றங்கள் மூன்றனுடைய பெயரும் கெடுமாறு ஒழுகினால் துன்பங்கள் வராமற் கெடும். பரிமேலழகர் உரை நுட்பம்: காமம் வெகுளி மயக்கம் இவை மூன்றன் நாமம் கெட - ஞான யோகங்களின் முதிர்ச்சியுடையார்க்கு விழைவு, வெறுப்பு, அவிச்சை என்னும் இக்குற்றங்கள் மூன்றனுடைய பெயருங்கூடக் கெடுதலான், நோய் கெடும் - அவற்றின் காரியமாய வினைப்பயன்கள் உளவாகா. (அநாதியாய அவிச்சையும் 'அதுபற்றி யான...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 36: 'Truth-Conciousness'), Kural 360 distills a foundational ethical insight: \"When lust and wrath and error's triple tyranny is o'er, Their very names for aye extinct, then pain shall be no more\" Philosophically, If the very names of these three things, desire, anger, and confusion of mind, be destroyed, then will also perish evils (which flow from them).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "self-mastery",
+        "truth",
+        "speech"
+      ]
+    }
+  ]
+}

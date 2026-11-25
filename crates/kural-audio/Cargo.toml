@@ -1,0 +1,34 @@
+[package]
+name = "kural-audio"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+
+[features]
+default = ["cli"]
+cli = ["dep:anyhow", "dep:clap"]
+
+[dependencies]
+anyhow = { workspace = true, optional = true }
+audioadapter-buffers.workspace = true
+clap = { workspace = true, optional = true }
+cpal.workspace = true
+kural-core = { path = "../kural-core" }
+ringbuf.workspace = true
+rodio.workspace = true
+rubato.workspace = true
+thiserror.workspace = true
+tokio = { workspace = true, features = ["sync", "time"] }
+
+[dev-dependencies]
+tokio = { workspace = true, features = ["macros", "rt-multi-thread", "sync", "time"] }
+
+[[bin]]
+name = "audio_test"
+path = "src/bin/audio_test.rs"
+required-features = ["cli"]
+
+[lints]
+workspace = true
+

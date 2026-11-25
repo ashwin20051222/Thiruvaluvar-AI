@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 3,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.451685751+00:00",
+  "kurals": [
+    {
+      "kural_number": 21,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒழுக்கத்தில் நிலைத்து நின்று பற்று விட்டவர்களின் பெருமையைச் சிறந்ததாக போற்றி கூறுவதே நூல்களின் துணிவாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The end and aim of all treatise is to extol beyond all other excellence, the greatness of those who, while abiding in the rule of conduct peculiar to their state, have abandoned all desire.",
+        "story_title_ta": "நீத்தார் பெருமை — இனியா கற்ற பாடம்",
+        "story_title_en": "The Greatness of Ascetics — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'நீத்தார் பெருமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 21 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தமக்குரிய ஒழுக்கத்தில் வாழ்ந்து, ஆசைகளை அறுத்து, உயர்ந்த மேன்மக்களின் பெருமையே, சிறந்தனவற்றுள் சிறந்தது என்று நூல்கள் சொல்கின்றன.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'The Greatness of Ascetics'. Grandpa shared Kural 21 and explained in simple words: The end and aim of all treatise is to extol beyond all other excellence, the greatness of those who, while abiding in the rule of conduct peculiar to their state, have abandoned all desire. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒழுக்கத்தில் உறுதியான துறவிகளின் பெருமை, சான்றோர் நூலில் விருப்பமுடனும், உயர்வாகவும் இடம் பெறும்.",
+        "moral_en": "Moral: The settled rule of every code requires, as highest good, Their greatness who, renouncing all, true to their rule have stood.",
+        "game_blank_word_ta": "ஒழுக்கத்து",
+        "game_options_ta": [
+          "துறந்தார்",
+          "ஒழுக்கத்து",
+          "பெருமை",
+          "துணைக்கூறின்"
+        ],
+        "game_options_en": [
+          "To con ascetic glory here Is to count the dead upon the sphere",
+          "No merit can be held so high As theirs who sense and self deny",
+          "No lustre can with theirs compare Who know the right and virtue wear",
+          "With hook of firmness to restrain The senses five, is heaven to gain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நீத்தார் பெருமை (பாயிரவியல்) பிரிவில் அமைந்த குறள் 21, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தமக்குரிய ஒழுக்கத்தில் வாழ்ந்து, ஆசைகளை அறுத்து, உயர்ந்த மேன்மக்களின் பெருமையே, சிறந்தனவற்றுள் சிறந்தது என்று நூல்கள் சொல்கின்றன. கலைஞர் உரை கூறுவது: ஒழுக்கத்தில் உறுதியான துறவிகளின் பெருமை, சான்றோர் நூலில் விருப்பமுடனும், உயர்வாகவும் இடம் பெறும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Greatness of Ascetics (Prologue), Kural 21 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The end and aim of all treatise is to extol beyond all other excellence, the greatness of those who, while abiding in the rule of conduct peculiar to their state, have abandoned all desire. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'நீத்தார் பெருமை' குறள் 21 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 21 (The Greatness of Ascetics) and writing one clear priority.",
+        "quiz_question_ta": "'நீத்தார் பெருமை' அதிகாரத்தில் வரும் திருக்குறள் 21 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 21 from Chapter 'The Greatness of Ascetics'?",
+        "quiz_options_ta": [
+          "மக்களின் உடம்பைத் தொடுதல் உடம்பிற்கு இன்பம் தருவதாகும்: அம் மக்களின் மழலைச் சொற்களைக் கேட்டால் செவிக்கு இன்பம் தருவதாகும்.",
+          "ஒழுக்கத்தில் நிலைத்து நின்று பற்று விட்டவர்களின் பெருமையைச் சிறந்ததாக போற்றி கூறுவதே நூல்களின் துணிவாகும்.",
+          "ஒருவரர்முன்செய்த நன்மையை மறப்பது அறம் அன்று; அவர் செய்த தீமையைச் செய்த அப்‌பொழுதே மறந்து விடுவது அறம்.",
+          "தன்னை வெட்டுவோரையும் விழாமல் தாங்குகின்ற நிலம் போல், தம்மை இகழ்வாரையும் பொறுப்பதே தலையான பண்பாகும்"
+        ],
+        "quiz_options_en": [
+          "Children's touch delights the body Sweet to ears are their words lovely",
+          "No merit can be held so high As theirs who sense and self deny",
+          "To forget good turns is not good Good it is over wrong not to brood",
+          "As earth bears up with diggers too To bear revilers is prime virtue"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (நீத்தார் பெருமை) பகுதியில் குறள் 21 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒழுக்கத்தில் நிலைத்து நின்று பற்று விட்டவர்களின் பெருமையைச் சிறந்ததாக போற்றி கூறுவதே நூல்களின் துணிவாகும். பரிமேலழகர் உரை நுட்பம்: ஒழுக்கத்து நீத்தார் பெருமை - தமக்குரிய ஒழுக்கத்தின் கண்ணே நின்று துறந்தாரது பெருமையை; விழுப்பத்து வேண்டும் பனுவல் துணிவு - விழுமிய பொருள்கள் பலவற்றுள்ளும் இதுவே விழுமியது என விரும்பும் நூல்களது துணிவு. (தமக்கு உரிய ஒழுக்கத்தின் கண்ணே நின்று துறத்தலாவது...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 3: 'The Greatness of Ascetics'), Kural 21 distills a foundational ethical insight: \"The settled rule of every code requires, as highest good, Their greatness who, renouncing all, true to their rule have stood\" Philosophically, The end and aim of all treatise is to extol beyond all other excellence, the greatness of those who, while abiding in the rule of conduct peculiar to their state, have abandoned all desire.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "humility",
+        "self-mastery",
+        "courage",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 22,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பற்றுக்களைத் துறந்தவர்களின் பெருமையை அளந்து கூறுதல், உலகத்தில் இதுவரை பிறந்து இறந்தவர்களை கணக்கிடுவதைப்போன்றது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: To describe the measure of the greatness of those who have forsaken the two-fold desires, is like counting the dead.",
+        "story_title_ta": "நீத்தார் பெருமை — முகில் கற்ற பாடம்",
+        "story_title_en": "The Greatness of Ascetics — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'நீத்தார் பெருமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 22 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஆசைகளை விட்டு விலகியவரின் பெருமைக்கு, எண்ணிக்கையால் அளவு கூறுவது, இந்த உலகத்தில் இறந்து போனவர்களின் எண்ணிக்கையை எல்லாம் எண்ணுவது போலாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'The Greatness of Ascetics'. Grandpa shared Kural 22 and explained in simple words: To describe the measure of the greatness of those who have forsaken the two-fold desires, is like counting the dead. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உலகில் இறந்தவர்களின் எண்ணிக்கை எவ்வளவு என்று கூற முடியுமா? அதுபோலத்தான் உண்மையாகவே பற்றுகளைத் துறந்த உத்தமர்களின் பெருமையையும் அளவிடவே முடியாது.",
+        "moral_en": "Moral: As counting those that from the earth have passed away,'Tis vain attempt the might of holy men to say.",
+        "game_blank_word_ta": "பெருமை",
+        "game_options_ta": [
+          "ஒழுக்கத்து",
+          "நீத்தார்",
+          "பெருமை",
+          "விழுப்பத்து"
+        ],
+        "game_options_en": [
+          "No merit can be held so high As theirs who sense and self deny",
+          "No lustre can with theirs compare Who know the right and virtue wear",
+          "To con ascetic glory here Is to count the dead upon the sphere",
+          "With hook of firmness to restrain The senses five, is heaven to gain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நீத்தார் பெருமை (பாயிரவியல்) பிரிவில் அமைந்த குறள் 22, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆசைகளை விட்டு விலகியவரின் பெருமைக்கு, எண்ணிக்கையால் அளவு கூறுவது, இந்த உலகத்தில் இறந்து போனவர்களின் எண்ணிக்கையை எல்லாம் எண்ணுவது போலாகும். கலைஞர் உரை கூறுவது: உலகில் இறந்தவர்களின் எண்ணிக்கை எவ்வளவு என்று கூற முடியுமா? அதுபோலத்தான் உண்மையாகவே பற்றுகளைத் துறந்த உத்தமர்களின் பெருமையையும் அளவிடவே முடியாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Greatness of Ascetics (Prologue), Kural 22 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To describe the measure of the greatness of those who have forsaken the two-fold desires, is like counting the dead. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'நீத்தார் பெருமை' குறள் 22 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 22 (The Greatness of Ascetics) and writing one clear priority.",
+        "quiz_question_ta": "'நீத்தார் பெருமை' அதிகாரத்தில் வரும் திருக்குறள் 22 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 22 from Chapter 'The Greatness of Ascetics'?",
+        "quiz_options_ta": [
+          "தம் மக்களின் மழலைச் சொல்லைக் கேட்டு அதன் இனிமையை நுகராதவரே குழலின் இசை இனியது யாழின் இசை இனியது என்று கூறுவர்.",
+          "முன் உதவி செய்தவர் பின்பு ‌கொன்றார் போன்ற துன்பத்தைச் செய்தாரானாலும், அவர் முன் செய்த ஒரு நன்மையை நினைத்தாலும் அந்தத் துன்பம் கெடும்.",
+          "பற்றுக்களைத் துறந்தவர்களின் பெருமையை அளந்து கூறுதல், உலகத்தில் இதுவரை பிறந்து இறந்தவர்களை கணக்கிடுவதைப்போன்றது.",
+          "வரம்பு கடந்து பிறர் செய்யும் தீங்கை எப்போதும் பொறுக்க வேண்டும்; அத் தீங்கை நினைவிலும் கொள்ளாமல் மறந்து விடுதல் பொறுத்தலை விட நல்லது."
+        ],
+        "quiz_options_en": [
+          "The flute and lute are sweet they say Deaf to baby's babble's lay!",
+          "Let deadly harms be forgotten While remembering one good-turn",
+          "To con ascetic glory here Is to count the dead upon the sphere",
+          "Forgive insults is a good habit Better it is to forget it"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (நீத்தார் பெருமை) பகுதியில் குறள் 22 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பற்றுக்களைத் துறந்தவர்களின் பெருமையை அளந்து கூறுதல், உலகத்தில் இதுவரை பிறந்து இறந்தவர்களை கணக்கிடுவதைப்போன்றது. பரிமேலழகர் உரை நுட்பம்: துறந்தார் பெருமை துணைக் கூறின் - இருவகைப் பற்றினையும் விட்டாரது பெருமையை இவ்வளவு என்று எண்ணால் கூறி அறியலுறின் அளவுபடாமையான்; வையத்து இறந்தாரை எண்ணிக்கொண்டு அற்று - இவ்வுலகத்துப் பிறந்து இறந்தாரை எண்ணி, இத்துணையர் என அறியலுற்றாற் போலும். (முடியாது என்பதாம...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 3: 'The Greatness of Ascetics'), Kural 22 distills a foundational ethical insight: \"As counting those that from the earth have passed away,'Tis vain attempt the might of holy men to say\" Philosophically, To describe the measure of the greatness of those who have forsaken the two-fold desires, is like counting the dead.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "self-mastery",
+        "humility",
+        "education",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 23,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பிறப்பு வீடு என்பன போல் இரண்டிரண்டாக உள்ளவைகளின் கூறுபாடுகளை ஆராய்ந்தறிந்து அறத்தை மேற்கொண்டவரின் பெருமையே உலகத்தில் உயர்ந்தது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The greatness of those who have discovered the properties of both states of being, and renounced the world, shines forth on earth (beyond all others).",
+        "story_title_ta": "நீத்தார் பெருமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Greatness of Ascetics — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'நீத்தார் பெருமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 23 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'இம்மையின் துன்பத்தையும் மறுமையின் இன்பத்தையும் அறிந்து, மெய் உணர்ந்து, ஆசைகள் அறுத்து எறியும் அறத்தைச்செய்தவரின் பெருமையே, இவ்வுலகில் உயர்ந்து விளங்குகிறது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'The Greatness of Ascetics'. Grandpa shared Kural 23 and explained in simple words: The greatness of those who have discovered the properties of both states of being, and renounced the world, shines forth on earth (beyond all others). The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நன்மை எது, தீமை எது என்பதை ஆய்ந்தறிந்து நன்மைகளை மேற்கொள்பவர்களே உலகில் பெருமைக்குரியவர்களாவார்கள்.",
+        "moral_en": "Moral: Their greatness earth transcends, who, way of both worlds weighed, In this world take their stand, in virtue's robe arrayed.",
+        "game_blank_word_ta": "ஈண்டுஅறம்",
+        "game_options_ta": [
+          "ஒழுக்கத்து",
+          "நீத்தார்",
+          "பெருமை",
+          "ஈண்டுஅறம்"
+        ],
+        "game_options_en": [
+          "No merit can be held so high As theirs who sense and self deny",
+          "To con ascetic glory here Is to count the dead upon the sphere",
+          "With hook of firmness to restrain The senses five, is heaven to gain",
+          "No lustre can with theirs compare Who know the right and virtue wear"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நீத்தார் பெருமை (பாயிரவியல்) பிரிவில் அமைந்த குறள் 23, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இம்மையின் துன்பத்தையும் மறுமையின் இன்பத்தையும் அறிந்து, மெய் உணர்ந்து, ஆசைகள் அறுத்து எறியும் அறத்தைச்செய்தவரின் பெருமையே, இவ்வுலகில் உயர்ந்து விளங்குகிறது. கலைஞர் உரை கூறுவது: நன்மை எது, தீமை எது என்பதை ஆய்ந்தறிந்து நன்மைகளை மேற்கொள்பவர்களே உலகில் பெருமைக்குரியவர்களாவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Greatness of Ascetics (Prologue), Kural 23 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The greatness of those who have discovered the properties of both states of being, and renounced the world, shines forth on earth (beyond all others). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'நீத்தார் பெருமை' குறள் 23 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 23 (The Greatness of Ascetics) and writing one clear priority.",
+        "quiz_question_ta": "'நீத்தார் பெருமை' அதிகாரத்தில் வரும் திருக்குறள் 23 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 23 from Chapter 'The Greatness of Ascetics'?",
+        "quiz_options_ta": [
+          "தந்தை தன் மகனுக்குச் செய்யத்தக்க நல்லுதவி, கற்றவர் கூட்டத்தில் தன் மகன் முந்தியிருக்கும்படியாக அவனைக் கல்வியில் மேம்படச் செய்தலாகும்.",
+          "எந்த அறத்தை அழித்தவர்க்கும் தப்பிப் பிழைக்க வழி உண்டாகும்; ஒருவர் செய்த உதவியை மறந்து அழித்தவனுக்கு உய்வு இல்லை.",
+          "வறுமையுள் வறுமை, விருந்தினரைப் போற்றாமல் நீக்குதல்; வல்லமையுள் வல்லமை என்பது அறிவிலார் தீங்கு செய்தலைப் பொறுத்தலாகும்.",
+          "பிறப்பு வீடு என்பன போல் இரண்டிரண்டாக உள்ளவைகளின் கூறுபாடுகளை ஆராய்ந்தறிந்து அறத்தை மேற்கொண்டவரின் பெருமையே உலகத்தில் உயர்ந்தது"
+        ],
+        "quiz_options_en": [
+          "A father's duty to his son is To seat him in front of the wise",
+          "The virtue-killer may be saved Not benefit-killer who is damned",
+          "Neglect the guest is dearth of dearth To bear with fools is strength of strength",
+          "No lustre can with theirs compare Who know the right and virtue wear"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (நீத்தார் பெருமை) பகுதியில் குறள் 23 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறப்பு வீடு என்பன போல் இரண்டிரண்டாக உள்ளவைகளின் கூறுபாடுகளை ஆராய்ந்தறிந்து அறத்தை மேற்கொண்டவரின் பெருமையே உலகத்தில் உயர்ந்தது. பரிமேலழகர் உரை நுட்பம்: இருமை வகை தெரிந்து - பிறப்பு வீடு என்னும் இரண்டனது துன்ப இன்பக் கூறுபாடுகளை ஆராய்ந்து அறிந்து; ஈண்டு அறம் பூண்டார் பெருமை - அப்பிறப்பு அறுத்தற்கு இப்பிறப்பின்கண் துறவறத்தைப் பூண்டாரது பெருமையே; உலகு பிறங்கிற்று - உலகின்கண் உயர்ந்தது. (தெரிமாண் தமிழ் மும்மைத...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 3: 'The Greatness of Ascetics'), Kural 23 distills a foundational ethical insight: \"Their greatness earth transcends, who, way of both worlds weighed, In this world take their stand, in virtue's robe arrayed\" Philosophically, The greatness of those who have discovered the properties of both states of being, and renounced the world, shines forth on earth (beyond all others).",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "humility",
+        "self-mastery",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 24,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அறிவு என்னும் கருவியினால் ஐம்பொறிகளாகிய யானைகளை அடக்கி காக்க வல்லவன், மேலான வீட்டிற்கு விதை போன்றவன்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: He who guides his five senses by the hook of wisdom will be a seed in the world of heaven.",
+        "story_title_ta": "நீத்தார் பெருமை — கவின் கற்ற பாடம்",
+        "story_title_en": "The Greatness of Ascetics — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'நீத்தார் பெருமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 24 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மெய், வாய்,கண், மூக்கு, செவி என்னும் ஐந்து யானைகளும் தத்தம் புலன்கள் ஆகிய ஊறு, சுவை, ஒளி, நாற்றம், ஓசை ஆகியவற்றின் மேல் செல்லாமல், அவற்றை மன உறுதி என்னும் அங்குசத்தால் காப்பவன் எல்லாவற்றிலும் சிறந்ததாகிய வீட்டுலகிற்கு ஒருவிதை ஆவான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'The Greatness of Ascetics'. Grandpa shared Kural 24 and explained in simple words: He who guides his five senses by the hook of wisdom will be a seed in the world of heaven. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உறுதியென்ற அங்குசம் கொண்டு, ஐம்பொறிகளையும் அடக்கிக் காப்பவன், துறவறம் எனும் நிலத்திற்கு ஏற்ற விதையாவான்.",
+        "moral_en": "Moral: He, who with firmness, curb the five restrains, Is seed for soil of yonder happy plains.",
+        "game_blank_word_ta": "காப்பான்",
+        "game_options_ta": [
+          "காப்பான்",
+          "ஒழுக்கத்து",
+          "நீத்தார்",
+          "பெருமை"
+        ],
+        "game_options_en": [
+          "With hook of firmness to restrain The senses five, is heaven to gain",
+          "No merit can be held so high As theirs who sense and self deny",
+          "To con ascetic glory here Is to count the dead upon the sphere",
+          "No lustre can with theirs compare Who know the right and virtue wear"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நீத்தார் பெருமை (பாயிரவியல்) பிரிவில் அமைந்த குறள் 24, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மெய், வாய்,கண், மூக்கு, செவி என்னும் ஐந்து யானைகளும் தத்தம் புலன்கள் ஆகிய ஊறு, சுவை, ஒளி, நாற்றம், ஓசை ஆகியவற்றின் மேல் செல்லாமல், அவற்றை மன உறுதி என்னும் அங்குசத்தால் காப்பவன் எல்லாவற்றிலும் சிறந்ததாகிய வீட்டுலகிற்கு ஒருவிதை ஆவான். கலைஞர் உரை கூறுவது: உறுதியென்ற அங்குசம் கொண்டு, ஐம்பொறிகளையும் அடக்கிக் காப்பவன், துறவறம் எனும் நிலத்திற்கு ஏற்ற விதையாவான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Greatness of Ascetics (Prologue), Kural 24 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who guides his five senses by the hook of wisdom will be a seed in the world of heaven. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'நீத்தார் பெருமை' குறள் 24 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 24 (The Greatness of Ascetics) and writing one clear priority.",
+        "quiz_question_ta": "'நீத்தார் பெருமை' அதிகாரத்தில் வரும் திருக்குறள் 24 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 24 from Chapter 'The Greatness of Ascetics'?",
+        "quiz_options_ta": [
+          "அறிவு என்னும் கருவியினால் ஐம்பொறிகளாகிய யானைகளை அடக்கி காக்க வல்லவன், மேலான வீட்டிற்கு விதை போன்றவன்",
+          "தம் மக்களின் அறிவுடைமை தமக்கு இன்பம் பயப்பதை விட உலகத்து உயிர்களுக்கேல்லாம் மிகுந்த இன்பம் பயப்பதாகும்.",
+          "அந்தந்தப் பகுதிதோறும் முறையோடு பொருந்தி ஒழுகப்பெற்றால், நடுவுநிலைமை என்று கூறப்படும் அறம் நன்மையாகும்.",
+          "நிறை உடையவனாக இருக்கும் தன்மை தன்னை விட்டு நீங்காமல் இருக்க வேண்டினால், பொறுமையைப் போற்றி ஒழுக வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "With hook of firmness to restrain The senses five, is heaven to gain",
+          "With joy the hearts of parents swell To see their children themselves excel",
+          "Equity is supreme virtue It is to give each man his due",
+          "Practice of patient quality Retains intact itegrity"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (நீத்தார் பெருமை) பகுதியில் குறள் 24 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறிவு என்னும் கருவியினால் ஐம்பொறிகளாகிய யானைகளை அடக்கி காக்க வல்லவன், மேலான வீட்டிற்கு விதை போன்றவன். பரிமேலழகர் உரை நுட்பம்: உரன் என்னும் தோட்டியான் ஓர் ஐந்தும் காப்பான் - திண்மை என்னும் தோட்டியால் பொறிகள் ஆகிய யானை ஐந்தினையும் தத்தம் புலன்கள்மேல் செல்லாமல் காப்பான்; வரன் என்னும் வைப்பிற்கு ஓர் வித்து - எல்லா நிலத்திலும் மிக்கது என்று சொல்லப்படும் வீட்டு நிலத்திற்கு ஓர் வித்து ஆம...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 3: 'The Greatness of Ascetics'), Kural 24 distills a foundational ethical insight: \"He, who with firmness, curb the five restrains, Is seed for soil of yonder happy plains\" Philosophically, He who guides his five senses by the hook of wisdom will be a seed in the world of heaven.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "self-mastery",
+        "humility",
+        "wisdom",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 25,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஐந்து புலன்களாலாகும் ஆசைகளை ஒழித்தவனுடைய வல்லமைக்கு, வானுலகத்தாரின் தலைவனாகிய இந்திரனே போதுமான சான்று ஆவான்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Indra, the king of the inhabitants of the spacious heaven, is himself, a sufficient proof of the strength of him who has subdued his five senses.",
+        "story_title_ta": "நீத்தார் பெருமை — நிலா கற்ற பாடம்",
+        "story_title_en": "The Greatness of Ascetics — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'நீத்தார் பெருமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 25 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அகன்ற வானத்து வாழ்பவரின் இறைவனாகிய இந்திரனே, புலன்வழிப் பெருகும் ஆசை ஐந்தையும் அறுத்தவனின்வலிமைக்குத் தகுந்த சான்று ஆவான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Greatness of Ascetics'. Grandpa shared Kural 25 and explained in simple words: Indra, the king of the inhabitants of the spacious heaven, is himself, a sufficient proof of the strength of him who has subdued his five senses. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: புலன்களை அடக்க முடியாமல் வழிதவறிச் சென்றிடும் மனிதனுக்குச் சான்றாக இந்திரன் விளங்கி, ஐம்புலன்களால் ஏற்படும் ஆசைகளைக் கட்டுப்படுத்தியதால் வான்புகழ் கொண்டவர்களின் ஆற்றலை எடுத்துக் காட்டுகிறான்.",
+        "moral_en": "Moral: Their might who have destroyed 'the five', shall soothly tellIndra, the lord of those in heaven's wide realms that dwell.",
+        "game_blank_word_ta": "ஆற்றல்",
+        "game_options_ta": [
+          "ஒழுக்கத்து",
+          "ஆற்றல்",
+          "நீத்தார்",
+          "பெருமை"
+        ],
+        "game_options_en": [
+          "No merit can be held so high As theirs who sense and self deny",
+          "Indra himself has cause to say How great the power ascetics' sway",
+          "To con ascetic glory here Is to count the dead upon the sphere",
+          "No lustre can with theirs compare Who know the right and virtue wear"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நீத்தார் பெருமை (பாயிரவியல்) பிரிவில் அமைந்த குறள் 25, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அகன்ற வானத்து வாழ்பவரின் இறைவனாகிய இந்திரனே, புலன்வழிப் பெருகும் ஆசை ஐந்தையும் அறுத்தவனின்வலிமைக்குத் தகுந்த சான்று ஆவான். கலைஞர் உரை கூறுவது: புலன்களை அடக்க முடியாமல் வழிதவறிச் சென்றிடும் மனிதனுக்குச் சான்றாக இந்திரன் விளங்கி, ஐம்புலன்களால் ஏற்படும் ஆசைகளைக் கட்டுப்படுத்தியதால் வான்புகழ் கொண்டவர்களின் ஆற்றலை எடுத்துக் காட்டுகிறான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Greatness of Ascetics (Prologue), Kural 25 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Indra, the king of the inhabitants of the spacious heaven, is himself, a sufficient proof of the strength of him who has subdued his five senses. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'நீத்தார் பெருமை' குறள் 25 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 25 (The Greatness of Ascetics) and writing one clear priority.",
+        "quiz_question_ta": "'நீத்தார் பெருமை' அதிகாரத்தில் வரும் திருக்குறள் 25 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 25 from Chapter 'The Greatness of Ascetics'?",
+        "quiz_options_ta": [
+          "தன் மகனை நற்பண்பு நிறைந்தவன் என பிறர் சொல்லக் கேள்வியுற்ற தாய், தான் அவனை பெற்றக் காலத்தில் உற்ற மகிழ்ச்சியை விடப் பெரிதும் மகிழ்வாள்.",
+          "ஐந்து புலன்களாலாகும் ஆசைகளை ஒழித்தவனுடைய வல்லமைக்கு, வானுலகத்தாரின் தலைவனாகிய இந்திரனே போதுமான சான்று ஆவான்",
+          "நடுவுநிலைமை உடையவனின் செல்வவளம் அழிவில்லாமல் அவனுடைய வழியில் உள்ளார்க்கும் உறுதியான நன்மை தருவதாகும்.",
+          "( தீங்கு செய்தவரைப்) பொறுக்காமல் வருத்தினவரை உலகத்தார் ஒரு பொருளாக மதியார்; ஆனால், பொறுத்தவரைப் பொன்போல் மனத்துள் வைத்து மதிப்பர்."
+        ],
+        "quiz_options_en": [
+          "The mother, hearing her son's merit Delights more than when she begot",
+          "Indra himself has cause to say How great the power ascetics' sway",
+          "Wealth of the man of equity Grows and lasts to posterity",
+          "Vengeance is not in esteem held Patience is praised as hidden gold"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (நீத்தார் பெருமை) பகுதியில் குறள் 25 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஐந்து புலன்களாலாகும் ஆசைகளை ஒழித்தவனுடைய வல்லமைக்கு, வானுலகத்தாரின் தலைவனாகிய இந்திரனே போதுமான சான்று ஆவான். பரிமேலழகர் உரை நுட்பம்: ஐந்து அவித்தான் ஆற்றல் - புலன்களில் செல்கின்ற அவா ஐந்தனையும் அடக்கினானது வலிக்கு; அகல் விசும்பு உளார் கோமான் இந்திரனே சாலும் கரி - அகன்ற வானத்துள்ளார் இறைவன் ஆகிய இந்திரனே அமையும் சான்று. (ஐந்தும் என்னும் முற்று உம்மையும் ஆற்றற்கு என்னும் நான்கன் உருபும...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 3: 'The Greatness of Ascetics'), Kural 25 distills a foundational ethical insight: \"Their might who have destroyed 'the five', shall soothly tellIndra, the lord of those in heaven's wide realms that dwell\" Philosophically, Indra, the king of the inhabitants of the spacious heaven, is himself, a sufficient proof of the strength of him who has subdued his five senses.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "self-mastery",
+        "humility",
+        "education",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 26,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: செய்வதற்கு அருமையான செயல்களை செய்ய வல்லவரே பெரியோர். செய்வதற்கு அரிய செயல்களைச் செய்யமாட்டாதவர் சிறியோர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The great will do those things which is difficult to be done; but the mean cannot do them.",
+        "story_title_ta": "நீத்தார் பெருமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Greatness of Ascetics — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'நீத்தார் பெருமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 26 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறர் செய்வதற்கு முடியாத செயல்களைச் செய்பவரே மேன்மக்கள்; செய்ய முடியாதவரோ சிறியவரே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Greatness of Ascetics'. Grandpa shared Kural 26 and explained in simple words: The great will do those things which is difficult to be done; but the mean cannot do them. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பெருமை தரும் செயல்களைப் புரிவோரைப் பெரியோர் என்றும், சிறுமையான செயல்களையன்றிப் பெருமைக்குரிய செயல்களைச் செய்யாதவர்களைச் சிறியோர் என்றும் வரையறுத்துவிட முடியும்.",
+        "moral_en": "Moral: Things hard in the doing will great men do; Things hard in the doing the mean eschew.",
+        "game_blank_word_ta": "செய்வார்",
+        "game_options_ta": [
+          "ஒழுக்கத்து",
+          "நீத்தார்",
+          "செய்வார்",
+          "பெருமை"
+        ],
+        "game_options_en": [
+          "No merit can be held so high As theirs who sense and self deny",
+          "To con ascetic glory here Is to count the dead upon the sphere",
+          "The small the paths of ease pursue The great achieve things rare to do",
+          "No lustre can with theirs compare Who know the right and virtue wear"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நீத்தார் பெருமை (பாயிரவியல்) பிரிவில் அமைந்த குறள் 26, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர் செய்வதற்கு முடியாத செயல்களைச் செய்பவரே மேன்மக்கள்; செய்ய முடியாதவரோ சிறியவரே. கலைஞர் உரை கூறுவது: பெருமை தரும் செயல்களைப் புரிவோரைப் பெரியோர் என்றும், சிறுமையான செயல்களையன்றிப் பெருமைக்குரிய செயல்களைச் செய்யாதவர்களைச் சிறியோர் என்றும் வரையறுத்துவிட முடியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Greatness of Ascetics (Prologue), Kural 26 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The great will do those things which is difficult to be done; but the mean cannot do them. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'நீத்தார் பெருமை' குறள் 26 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 26 (The Greatness of Ascetics) and writing one clear priority.",
+        "quiz_question_ta": "'நீத்தார் பெருமை' அதிகாரத்தில் வரும் திருக்குறள் 26 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 26 from Chapter 'The Greatness of Ascetics'?",
+        "quiz_options_ta": [
+          "மகன் தன் தந்தைக்குச் செய்யத் தக்க கைம்மாறு, இவன் தந்தை இவனை மகனாகப் பெற என்ன தவம் செய்தானோ என்று பிறர் புகழ்ந்து சொல்லும் சொல்லாகும்.",
+          "தீமை பயக்காமல் நன்மையே தருவதானாலும் நடுவு நி‌லைமை தவறி உண்டாகும் ஆக்கத்தை அப்போதே கைவிட வேண்டும்.",
+          "செய்வதற்கு அருமையான செயல்களை செய்ய வல்லவரே பெரியோர். செய்வதற்கு அரிய செயல்களைச் செய்யமாட்டாதவர் சிறியோர்.",
+          "தீங்கு செய்தவரைப் பொறுக்காமல் வருத்தினவர்க்கு ஒருநாள் இன்பமே; பொறுத்தவர்க்கு உலகம் அழியும் வரைக்கும் புகழ் உண்டு."
+        ],
+        "quiz_options_en": [
+          "The son to sire this word is debt \\\"What penance such a son begot!\\\"",
+          "Though profitable, turn away From unjust gains without delay",
+          "The small the paths of ease pursue The great achieve things rare to do",
+          "Revenge accords but one day's joy Patience carries its praise for aye"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (நீத்தார் பெருமை) பகுதியில் குறள் 26 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செய்வதற்கு அருமையான செயல்களை செய்ய வல்லவரே பெரியோர். செய்வதற்கு அரிய செயல்களைச் செய்யமாட்டாதவர் சிறியோர். பரிமேலழகர் உரை நுட்பம்: செயற்கு அரிய செய்வார் பெரியர் - ஒத்த பிறப்பினராய மக்களுள் செய்தற்கு எளியவற்றைச் செய்யாது அரியவற்றைச் செய்வார் பெரியர்;செயற்கு அரிய செய்கலாதார் சிறியர் - அவ்வெளியவற்றைச் செய்து அரியவற்றைச் செய்யமாட்டாதார் சிறியர். (செயற்கு எளிய ஆவன, மனம் வேண்டியவாறே அதனைப...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 3: 'The Greatness of Ascetics'), Kural 26 distills a foundational ethical insight: \"Things hard in the doing will great men do; Things hard in the doing the mean eschew\" Philosophically, The great will do those things which is difficult to be done; but the mean cannot do them.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "humility",
+        "self-mastery",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 27,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: சுவை, ஒளி, ஊறு, ஓசை, நாற்றம் என்று சொல்லப்படும் ஐந்தின் வகைகளையும் ஆராய்ந்து அறிய வல்லவனுடைய அறிவில் உள்ளது உலகம்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The world is within the knowledge of him who knows the properties of taste, sight, touch, hearing and smell.",
+        "story_title_ta": "நீத்தார் பெருமை — இனியா கற்ற பாடம்",
+        "story_title_en": "The Greatness of Ascetics — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'நீத்தார் பெருமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 27 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'சுவை, ஒளி, ஊறு, ஓசை, நாற்றம் என்று கூறப்படும் ஐந்து புலன்களின் வழிப் பிறக்கும் ஆசைகளை அறுத்து எறிபவனின் வசப்பட்டதே இவ்வுலகம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'The Greatness of Ascetics'. Grandpa shared Kural 27 and explained in simple words: The world is within the knowledge of him who knows the properties of taste, sight, touch, hearing and smell. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஐம்புலன்களின் இயல்பை உணர்ந்து அவற்றை அடக்கியாளும் திறன் கொண்டவனையே உலகம் போற்றும்.",
+        "moral_en": "Moral: Taste, light, touch, sound, and smell: who knows the wayOf all the five,- the world submissive owns his sway.",
+        "game_blank_word_ta": "உலகு",
+        "game_options_ta": [
+          "ஒழுக்கத்து",
+          "நீத்தார்",
+          "பெருமை",
+          "உலகு"
+        ],
+        "game_options_en": [
+          "No merit can be held so high As theirs who sense and self deny",
+          "To con ascetic glory here Is to count the dead upon the sphere",
+          "No lustre can with theirs compare Who know the right and virtue wear",
+          "They gain the world, who grasp and tell Of taste, sight, hearing, touch and smell"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நீத்தார் பெருமை (பாயிரவியல்) பிரிவில் அமைந்த குறள் 27, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சுவை, ஒளி, ஊறு, ஓசை, நாற்றம் என்று கூறப்படும் ஐந்து புலன்களின் வழிப் பிறக்கும் ஆசைகளை அறுத்து எறிபவனின் வசப்பட்டதே இவ்வுலகம். கலைஞர் உரை கூறுவது: ஐம்புலன்களின் இயல்பை உணர்ந்து அவற்றை அடக்கியாளும் திறன் கொண்டவனையே உலகம் போற்றும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Greatness of Ascetics (Prologue), Kural 27 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The world is within the knowledge of him who knows the properties of taste, sight, touch, hearing and smell. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'நீத்தார் பெருமை' குறள் 27 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 27 (The Greatness of Ascetics) and writing one clear priority.",
+        "quiz_question_ta": "'நீத்தார் பெருமை' அதிகாரத்தில் வரும் திருக்குறள் 27 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 27 from Chapter 'The Greatness of Ascetics'?",
+        "quiz_options_ta": [
+          "அன்புக்கும் அடைத்து வைக்கும் தாழ் உண்டோ? அன்புடையவரின் சிறு கண்ணீரே ( உள்ளே இருக்கும் அன்பைப் ) பலரும் அறிய வெளிப்படுத்திவிடும்",
+          "நடுவுநிலைமை உடையவர் நடுவுநிலை‌மை இல்லாதவர் என்பது அவரவர்க்குப் பின் எஞ்சி நிற்கும் புகழாலும் பழியாலும் காணப்படும்.",
+          "தகுதி அல்லாதவைகளைத் தனக்குப் பிறர் செய்த போதிலும், அதனால், அவர்க்கு வரும் துன்பத்திற்காக நொந்து, அறம் அல்லாதவைகளைச் செய்யாதிருத்தல் நல்லது.",
+          "சுவை, ஒளி, ஊறு, ஓசை, நாற்றம் என்று சொல்லப்படும் ஐந்தின் வகைகளையும் ஆராய்ந்து அறிய வல்லவனுடைய அறிவில் உள்ளது உலகம்."
+        ],
+        "quiz_options_en": [
+          "What bolt can bar true love in fact The tricking tears reveal the heart",
+          "The worthy and the unworthy Are seen in their posterity",
+          "Though others cause you wanton pain Grieve not; from unjust harm refrain",
+          "They gain the world, who grasp and tell Of taste, sight, hearing, touch and smell"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (நீத்தார் பெருமை) பகுதியில் குறள் 27 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சுவை, ஒளி, ஊறு, ஓசை, நாற்றம் என்று சொல்லப்படும் ஐந்தின் வகைகளையும் ஆராய்ந்து அறிய வல்லவனுடைய அறிவில் உள்ளது உலகம். பரிமேலழகர் உரை நுட்பம்: சுவை ஒளி ஊறு ஓசை நாற்றம் என்ற ஐந்தின் வகை - சுவையும், ஒளியும், ஊறும், ஓசையும், நாற்றமும் என்று சொல்லப்பட்ட தன் மாத்திரைகள் ஐந்தனது கூறுபாட்டையும்; தெரிவான்கட்டே உலகு - ஆராய்வான் அறிவின்கண்ணதே உலகம். (அவற்றின் கூறுபாடு ஆவன :பூதங்கட்கு முதல் ஆகிய அவைதாம...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 3: 'The Greatness of Ascetics'), Kural 27 distills a foundational ethical insight: \"Taste, light, touch, sound, and smell: who knows the wayOf all the five,- the world submissive owns his sway\" Philosophically, The world is within the knowledge of him who knows the properties of taste, sight, touch, hearing and smell.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "self-mastery",
+        "speech",
+        "harmony",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 28,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பயன் நிறைந்த மொழிகளில் வல்ல சான்றோரின் பெருமையை, உலகத்தில் அழியாமல் விளங்கும் அவர்களுடைய மறைமொழிகளே காட்டிவிடும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The hidden words of the men whose words are full of effect, will shew their greatness to the world.",
+        "story_title_ta": "நீத்தார் பெருமை — முகில் கற்ற பாடம்",
+        "story_title_en": "The Greatness of Ascetics — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'நீத்தார் பெருமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 28 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நிறைவான வாக்குப் பெருமை உடைய மேன் மக்களின் உயர்வை, அவர்கள் இவ்வுலகில் சொன்ன மந்திரச் சொற்களே அடையாளம் காட்டிவிடும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'The Greatness of Ascetics'. Grandpa shared Kural 28 and explained in simple words: The hidden words of the men whose words are full of effect, will shew their greatness to the world. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: சான்றோர்களின் பெருமையை, இந்த உலகில் அழியாமல் நிலைத்து நிற்கும் அவர்களது அறவழி நூல்களே எடுத்துக் காட்டும்.",
+        "moral_en": "Moral: The might of men whose word is never vain, The 'secret word' shall to the earth proclaim.",
+        "game_blank_word_ta": "நிறைமொழி",
+        "game_options_ta": [
+          "நிறைமொழி",
+          "ஒழுக்கத்து",
+          "நீத்தார்",
+          "பெருமை"
+        ],
+        "game_options_en": [
+          "Full-worded men by what they say, Their greatness to the world display",
+          "No merit can be held so high As theirs who sense and self deny",
+          "To con ascetic glory here Is to count the dead upon the sphere",
+          "No lustre can with theirs compare Who know the right and virtue wear"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நீத்தார் பெருமை (பாயிரவியல்) பிரிவில் அமைந்த குறள் 28, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நிறைவான வாக்குப் பெருமை உடைய மேன் மக்களின் உயர்வை, அவர்கள் இவ்வுலகில் சொன்ன மந்திரச் சொற்களே அடையாளம் காட்டிவிடும். கலைஞர் உரை கூறுவது: சான்றோர்களின் பெருமையை, இந்த உலகில் அழியாமல் நிலைத்து நிற்கும் அவர்களது அறவழி நூல்களே எடுத்துக் காட்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Greatness of Ascetics (Prologue), Kural 28 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The hidden words of the men whose words are full of effect, will shew their greatness to the world. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'நீத்தார் பெருமை' குறள் 28 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 28 (The Greatness of Ascetics) and writing one clear priority.",
+        "quiz_question_ta": "'நீத்தார் பெருமை' அதிகாரத்தில் வரும் திருக்குறள் 28 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 28 from Chapter 'The Greatness of Ascetics'?",
+        "quiz_options_ta": [
+          "பயன் நிறைந்த மொழிகளில் வல்ல சான்றோரின் பெருமையை, உலகத்தில் அழியாமல் விளங்கும் அவர்களுடைய மறைமொழிகளே காட்டிவிடும்.",
+          "அன்பு இல்லாதவர் எல்லாப்பொருள்களையும் தமக்கே உரிமையாகக் கொண்டு வாழ்வார்: அன்பு உடையவர் தம் உடமையும் பிறர்க்கு உரிமையாக்கி வாழ்வர்",
+          "கேடும் ஆக்கமும் வாழ்வில் இல்லாதவை அல்ல; ஆகையால் நெஞ்சில் நடுவுநிலைமை தவறாமல் இருத்தலே சான்றோர்க்கு அழகாகும்.",
+          "செருக்கினால் தீங்கானவற்றைச் செய்தவரைத் தாம் தம்முடைய பொறுமைப் பண்பினால் பொறுத்து வென்று விட வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Full-worded men by what they say, Their greatness to the world display",
+          "To selves belong the loveless ones; To oth'rs the loving e'en to bones",
+          "Loss and gain by cause arise; Equal mind adorns the wise",
+          "By noble forbearance vanquish The proud that have caused you anguish"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (நீத்தார் பெருமை) பகுதியில் குறள் 28 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பயன் நிறைந்த மொழிகளில் வல்ல சான்றோரின் பெருமையை, உலகத்தில் அழியாமல் விளங்கும் அவர்களுடைய மறைமொழிகளே காட்டிவிடும். பரிமேலழகர் உரை நுட்பம்: நிறைமொழி மாந்தர் பெருமை - நிறைந்த மொழியினை உடைய துறந்தாரது பெருமையை; நிலத்து மறைமொழி காட்டிவிடும் - நிலவுலகத்தின்கண் அவர் ஆணையாகச் சொல்லிய மந்திரங்களே கண்கூடாகக் காட்டும். ('நிறைமொழி' என்பது, அருளிக் கூறினும், வெகுண்டு கூறினும், அவ்வப் பயன்களைப் பயந்தே விடும...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 3: 'The Greatness of Ascetics'), Kural 28 distills a foundational ethical insight: \"The might of men whose word is never vain, The 'secret word' shall to the earth proclaim\" Philosophically, The hidden words of the men whose words are full of effect, will shew their greatness to the world.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "humility",
+        "speech",
+        "harmony",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 29,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நல்ல பண்புகளாகிய மலையின்மேல் ஏறி நின்ற பெரியோர், ஒரு கணப்பொழுதே சினம் கொள்வார் ஆயினும் அதிலிருந்து ஒருவரைக் காத்தல் அரிதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The anger of those who have ascended the mountain of goodness, though it continue but for a moment, cannot be resisted.",
+        "story_title_ta": "நீத்தார் பெருமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Greatness of Ascetics — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'நீத்தார் பெருமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 29 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நற்குணங்களாம் சிறுமலை மீது ஏறி நின்ற அம் மேன்மக்கள், தமக்குள் ஒரு கணப்பொழுதும் கோபத்தைக் கொண்டிருப்பது கடினம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'The Greatness of Ascetics'. Grandpa shared Kural 29 and explained in simple words: The anger of those who have ascended the mountain of goodness, though it continue but for a moment, cannot be resisted. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: குணக்குன்றுகளான பெரியவர்கள் கோபம் கொண்டால் அந்தக் கோபம் அவர்கள் உள்ளத்தில் ஒரு கணம் கூட நிலைத்து நிற்காது.",
+        "moral_en": "Moral: The wrath 'tis hard e'en for an instant to endure, Of those who virtue's hill have scaled, and stand secure.",
+        "game_blank_word_ta": "குன்றேறி",
+        "game_options_ta": [
+          "ஒழுக்கத்து",
+          "குன்றேறி",
+          "நீத்தார்",
+          "பெருமை"
+        ],
+        "game_options_en": [
+          "No merit can be held so high As theirs who sense and self deny",
+          "Their wrath, who've climb'd the mount of good, Though transient, cannot be withstood",
+          "To con ascetic glory here Is to count the dead upon the sphere",
+          "No lustre can with theirs compare Who know the right and virtue wear"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நீத்தார் பெருமை (பாயிரவியல்) பிரிவில் அமைந்த குறள் 29, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நற்குணங்களாம் சிறுமலை மீது ஏறி நின்ற அம் மேன்மக்கள், தமக்குள் ஒரு கணப்பொழுதும் கோபத்தைக் கொண்டிருப்பது கடினம். கலைஞர் உரை கூறுவது: குணக்குன்றுகளான பெரியவர்கள் கோபம் கொண்டால் அந்தக் கோபம் அவர்கள் உள்ளத்தில் ஒரு கணம் கூட நிலைத்து நிற்காது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Greatness of Ascetics (Prologue), Kural 29 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The anger of those who have ascended the mountain of goodness, though it continue but for a moment, cannot be resisted. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'நீத்தார் பெருமை' குறள் 29 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 29 (The Greatness of Ascetics) and writing one clear priority.",
+        "quiz_question_ta": "'நீத்தார் பெருமை' அதிகாரத்தில் வரும் திருக்குறள் 29 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 29 from Chapter 'The Greatness of Ascetics'?",
+        "quiz_options_ta": [
+          "அருமையான உயிர்க்கு உடம்போடு பொருந்தி இருக்கின்ற உறவு, அன்போடு பொருந்தி வாழும் வாழ்க்கையின் பயன்என்று கூறுவர்.",
+          "நல்ல பண்புகளாகிய மலையின்மேல் ஏறி நின்ற பெரியோர், ஒரு கணப்பொழுதே சினம் கொள்வார் ஆயினும் அதிலிருந்து ஒருவரைக் காத்தல் அரிதாகும்.",
+          "தன் நெஞ்சம் நடுவுநிலை நீங்கித் தவறு செய்ய நினைக்குமாயின், நான் கெடப்போகின்றேன் என்று ஒருவன் அறிய வேண்டும்.",
+          "வரம்பு கடந்து நடப்பவரின் வாயில் பிறக்கும் கொடுஞ்சொற்களைப் பொறுத்துக் கொள்பவர், துறந்தவரைப் போலத் தூய்மையானவர் ஆவர்."
+        ],
+        "quiz_options_en": [
+          "Soul is encased in frame of bone To taste the life of love alone",
+          "Their wrath, who've climb'd the mount of good, Though transient, cannot be withstood",
+          "Of perdition let him be sure Who leaves justice to sinful lure",
+          "More than ascetics they are pure Who bitter tongues meekly endure"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (நீத்தார் பெருமை) பகுதியில் குறள் 29 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நல்ல பண்புகளாகிய மலையின்மேல் ஏறி நின்ற பெரியோர், ஒரு கணப்பொழுதே சினம் கொள்வார் ஆயினும் அதிலிருந்து ஒருவரைக் காத்தல் அரிதாகும். பரிமேலழகர் உரை நுட்பம்: குணம் என்னும் குன்று ஏறி நின்றார் வெகுளி - துறவு, மெய்யுணர்வு, அவாவின்மை முதலிய நற்குணங்கள் ஆகிய குன்றின் முடிவின்கண் நின்ற முனிவரது வெகுளி; 'கணம் ஏயும்' காத்தல் அரிது - தான் உள்ள அளவு கணமே ஆயினும், வெகுளப்பட்டாரால் தடுத்தல் அரிது. (சலியாமையும், பெருமையும...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 3: 'The Greatness of Ascetics'), Kural 29 distills a foundational ethical insight: \"The wrath 'tis hard e'en for an instant to endure, Of those who virtue's hill have scaled, and stand secure\" Philosophically, The anger of those who have ascended the mountain of goodness, though it continue but for a moment, cannot be resisted.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "self-mastery",
+        "humility",
+        "ethics",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 30,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: எல்லா உயிர்களிடத்திலும் செம்மையான அருளை மேற்கொண்டு ஒழுகுவதால், அறவோரே அந்தணர் எனப்படுவோர் ஆவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The virtuous are truly called Anthanar; because in their conduct towards all creatures they are clothed in kindness.",
+        "story_title_ta": "நீத்தார் பெருமை — கவின் கற்ற பாடம்",
+        "story_title_en": "The Greatness of Ascetics — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'நீத்தார் பெருமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 30 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எல்லா உயிர்களிடத்திலும் இரக்கம் கொண்டு வாழ்பவரே அறவோர்; அவரே அந்தணர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'The Greatness of Ascetics'. Grandpa shared Kural 30 and explained in simple words: The virtuous are truly called Anthanar; because in their conduct towards all creatures they are clothed in kindness. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அனைத்து உயிர்களிடத்திலும் அன்புகொண்டு அருள் பொழியும் சான்றோர் எவராயினும் அவர் அந்தணர் எனப்படுவார்.",
+        "moral_en": "Moral: Towards all that breathe, with seemly graciousness adorned they live; And thus to virtue's sons the name of 'Anthanar' men give.",
+        "game_blank_word_ta": "அந்தணர்",
+        "game_options_ta": [
+          "ஒழுக்கத்து",
+          "நீத்தார்",
+          "அந்தணர்",
+          "பெருமை"
+        ],
+        "game_options_en": [
+          "No merit can be held so high As theirs who sense and self deny",
+          "To con ascetic glory here Is to count the dead upon the sphere",
+          "With gentle mercy towards all, The sage fulfils the vitue's call",
+          "No lustre can with theirs compare Who know the right and virtue wear"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நீத்தார் பெருமை (பாயிரவியல்) பிரிவில் அமைந்த குறள் 30, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எல்லா உயிர்களிடத்திலும் இரக்கம் கொண்டு வாழ்பவரே அறவோர்; அவரே அந்தணர். கலைஞர் உரை கூறுவது: அனைத்து உயிர்களிடத்திலும் அன்புகொண்டு அருள் பொழியும் சான்றோர் எவராயினும் அவர் அந்தணர் எனப்படுவார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Greatness of Ascetics (Prologue), Kural 30 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The virtuous are truly called Anthanar; because in their conduct towards all creatures they are clothed in kindness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'நீத்தார் பெருமை' குறள் 30 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 30 (The Greatness of Ascetics) and writing one clear priority.",
+        "quiz_question_ta": "'நீத்தார் பெருமை' அதிகாரத்தில் வரும் திருக்குறள் 30 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 30 from Chapter 'The Greatness of Ascetics'?",
+        "quiz_options_ta": [
+          "அன்பு பிறரிடம் விருப்பம் உடையவராக வாழும் தன்மையைத் தரும்: அஃது எல்லாரிடத்தும் நட்பு என்றுசொல்லப்படும் அளவற்ற சிறப்பைத் தரும்",
+          "நடுவுநிலைமை நின்று அறநெறியில் நிலைத்து வாழகின்றவன் அடைந்த வறுமை நிலையைக் கேடு என கொள்ளாது உலகு.",
+          "எல்லா உயிர்களிடத்திலும் செம்மையான அருளை மேற்கொண்டு ஒழுகுவதால், அறவோரே அந்தணர் எனப்படுவோர் ஆவர்.",
+          "உணவு உண்ணாமல் நோன்பு கிடப்பவர், பிறர் ‌சொல்லும் கொடுஞ் சொற்களைப் பொறுப்பவர்க்கு அடுத்த நிலையில்தான் பெரியவர் ஆவர்."
+        ],
+        "quiz_options_en": [
+          "Love yields aspiration and thence Friendship springs up in excellence",
+          "The just reduced to poverty Is not held down by equity",
+          "With gentle mercy towards all, The sage fulfils the vitue's call",
+          "Who fast are great to do penance Greater are they who bear offence"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (நீத்தார் பெருமை) பகுதியில் குறள் 30 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எல்லா உயிர்களிடத்திலும் செம்மையான அருளை மேற்கொண்டு ஒழுகுவதால், அறவோரே அந்தணர் எனப்படுவோர் ஆவர். பரிமேலழகர் உரை நுட்பம்: எவ்வுயிர்க்கும் செந்தண்மை பூண்டு ஒழுகலான் - எல்லா உயிர்கள் மேலும் செவ்விய தண்ணளியைப் பூண்டு ஒழுகலான்; அந்தணர் என்போர் அறவோர் - அந்தணரென்று சொல்லப்படுவார் துறவறத்தில் நின்றவர். (பூணுதல் விரதமாகக் கோடல். 'அந்தணர்' என்பது அழகிய தட்பத்தினை உடையார் என ஏதுப்பெயர...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 3: 'The Greatness of Ascetics'), Kural 30 distills a foundational ethical insight: \"Towards all that breathe, with seemly graciousness adorned they live; And thus to virtue's sons the name of 'Anthanar' men give\" Philosophically, The virtuous are truly called Anthanar; because in their conduct towards all creatures they are clothed in kindness.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "kindness",
+        "humility",
+        "self-mastery",
+        "family"
+      ]
+    }
+  ]
+}

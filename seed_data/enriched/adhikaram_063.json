@@ -1,0 +1,585 @@
+{
+  "adhikaram_id": 63,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.030388756+00:00",
+  "kurals": [
+    {
+      "kural_number": 621,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: துன்பம் வரும்போது (அதற்காக கலங்காமல்) நகுதல் வேண்டும், அத் துன்பத்தை எதிர்த்து வெல்லவல்லது அதைப் போன்றது வேறு இல்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: If troubles come, laugh; there is nothing like that, to press upon and drive away sorrow.",
+        "story_title_ta": "இடுக்கண் அழியாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Hopefulness in Trouble — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடுக்கண் அழியாமை' என்ற அதிகாரத்திலிருந்து குறள் 621 பற்றிக் கதை சொன்னார். 'நாம் அறியாமலே நமக்கு ஒரு துன்பம் வந்தால் அப்போது மனம் தளராமல் மனத்துள் மகிழ்க; அந்தத் துன்பத்தைத் தோற்கடிக்க அம்மகிழ்ச்சியைப் போல் ஆற்றல் மிக்கது வேறொன்றும் இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 63, 'Hopefulness in Trouble', centered on Kural 621: If troubles come, laugh; there is nothing like that, to press upon and drive away sorrow. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சோதனைகளை எதிர்த்து வெல்லக் கூடியது, அந்தச் சோதனைகளைக் கண்டு கலங்காமல் மகிழ்வுடன் இருக்கும் மனம்தான்.",
+        "moral_en": "Moral: Smile, with patient, hopeful heart, in troublous hour; Meet and so vanquish grief; nothing hath equal power.",
+        "game_blank_word_ta": "அதனை",
+        "game_options_ta": [
+          "வெள்ளத்",
+          "அதனை",
+          "தனைய",
+          "இடும்பை"
+        ],
+        "game_options_en": [
+          "Deluging sorrows come to nought When wise men face them with firm thought",
+          "Laugh away troubles; there is No other way to conquer woes",
+          "Grief they face and put to grief Who grieve not grief by mind's relief",
+          "Who pulls like bulls patiently on Causes grief to grieve anon"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடுக்கண் அழியாமை (அரசியல்) பிரிவில் அமைந்த குறள் 621, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாம் அறியாமலே நமக்கு ஒரு துன்பம் வந்தால் அப்போது மனம் தளராமல் மனத்துள் மகிழ்க; அந்தத் துன்பத்தைத் தோற்கடிக்க அம்மகிழ்ச்சியைப் போல் ஆற்றல் மிக்கது வேறொன்றும் இல்லை. கலைஞர் உரை கூறுவது: சோதனைகளை எதிர்த்து வெல்லக் கூடியது, அந்தச் சோதனைகளைக் கண்டு கலங்காமல் மகிழ்வுடன் இருக்கும் மனம்தான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hopefulness in Trouble (Royalty & Polity), Kural 621 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If troubles come, laugh; there is nothing like that, to press upon and drive away sorrow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடுக்கண் அழியாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hopefulness in Trouble' thoughtfully.",
+        "quiz_question_ta": "'இடுக்கண் அழியாமை' அதிகாரத்தில் வரும் திருக்குறள் 621 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 621 from Chapter 'Hopefulness in Trouble'?",
+        "quiz_options_ta": [
+          "செயல் திறனால் பெருமைபெற்று உயர்ந்தவரின் வினைத் திட்பமானது நாட்டை ஆளும் அரசனிடத்திலும் எட்டி மதிக்கப்பட்டு விளங்கும்.",
+          "துன்பம் வரும்போது (அதற்காக கலங்காமல்) நகுதல் வேண்டும், அத் துன்பத்தை எதிர்த்து வெல்லவல்லது அதைப் போன்றது வேறு இல்லை.",
+          "உள்ளக் குறிப்பை நோக்கி உற்றதை உணரவல்லவரைப் பெற்றால், (அவரிடம் எதையும் கூறாமல்) அவறுடைய முகத்தை நோக்கி நின்றால் போதும்.",
+          "ஒரு பொருளாக மதிக்கத் தகாதவரையும், மதிப்புடையவராகச் செய்வதாகிய பொருள் அல்லாமல் சிறப்புடைய பொருள் வேறு இல்லை."
+        ],
+        "quiz_options_en": [
+          "Dynamic deeds of a doughty soul Shall win the praise of king and all",
+          "Laugh away troubles; there is No other way to conquer woes",
+          "Just standing in front would suffice For those who read the mind on face",
+          "Naught exists that can, save wealth Make the worthless as men of worth"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடுக்கண் அழியாமை) பகுதியில் குறள் 621 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: துன்பம் வரும்போது (அதற்காக கலங்காமல்) நகுதல் வேண்டும், அத் துன்பத்தை எதிர்த்து வெல்லவல்லது அதைப் போன்றது வேறு இல்லை. பரிமேலழகர் உரை நுட்பம்: இடுக்கண் வருங்கால் நகுக - ஒருவன் வினையால் தனக்கு இடுக்கண் வருமிடத்து, அதற்கு அழியாது உளமகிழ்க; அதனை அடுத்து ஊர்வது அஃது ஒப்பது இல் - அவ்விடுக்கணை மேன்மேல் அடர வல்லது அம் மகிழ்ச்சி போல்வது பிறிதில்லையாகலான். (வினை இனிது முடிந்துழி நிகழற்பாலதாய மகிழ்ச்சியை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 63: 'Hopefulness in Trouble'), Kural 621 distills a foundational ethical insight: \"Smile, with patient, hopeful heart, in troublous hour; Meet and so vanquish grief; nothing hath equal power\" Philosophically, If troubles come, laugh; there is nothing like that, to press upon and drive away sorrow.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "time",
+        "self-mastery",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 622,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: வெள்ளம் போல் அளவற்றதாய் வரும் துன்பமும், அறிவுடையவன் தன் உள்ளத்தினால் அத் துன்பத்தின் இயல்பை நினைத்த அளவில் கெடும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: A flood of troubles will be overcome by the (courageous) thought which the minds of the wise will entertain, even in sorrow.",
+        "story_title_ta": "இடுக்கண் அழியாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Hopefulness in Trouble — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடுக்கண் அழியாமை' என்ற அதிகாரத்திலிருந்து குறள் 622 பற்றிக் கதை சொன்னார். 'வெள்ளம் போலக் கரை கடந்த துன்பம் வந்தாலும் அறிவு உடையவன், தன் மனத்தால் தளராமல் எண்ணிய அளவிலேயே அத்துன்பம் அழியும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 63, 'Hopefulness in Trouble', centered on Kural 622: A flood of troubles will be overcome by the (courageous) thought which the minds of the wise will entertain, even in sorrow. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வெள்ளம்போல் துன்பம் வந்தாலும் அதனை வெல்லும் வழி யாது என்பதை அறிவுடையவர்கள் நினைத்த மாத்திரத்திலேயே அத்துன்பம் விலகி ஓடி விடும்.",
+        "moral_en": "Moral: Though sorrow, like a flood, comes rolling on, When wise men's mind regards it,- it is gone.",
+        "game_blank_word_ta": "கெடும்",
+        "game_options_ta": [
+          "இடுக்கண்",
+          "வருங்கால்",
+          "கெடும்",
+          "நகுக"
+        ],
+        "game_options_en": [
+          "Laugh away troubles; there is No other way to conquer woes",
+          "Grief they face and put to grief Who grieve not grief by mind's relief",
+          "Deluging sorrows come to nought When wise men face them with firm thought",
+          "Who pulls like bulls patiently on Causes grief to grieve anon"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடுக்கண் அழியாமை (அரசியல்) பிரிவில் அமைந்த குறள் 622, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வெள்ளம் போலக் கரை கடந்த துன்பம் வந்தாலும் அறிவு உடையவன், தன் மனத்தால் தளராமல் எண்ணிய அளவிலேயே அத்துன்பம் அழியும். கலைஞர் உரை கூறுவது: வெள்ளம்போல் துன்பம் வந்தாலும் அதனை வெல்லும் வழி யாது என்பதை அறிவுடையவர்கள் நினைத்த மாத்திரத்திலேயே அத்துன்பம் விலகி ஓடி விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hopefulness in Trouble (Royalty & Polity), Kural 622 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A flood of troubles will be overcome by the (courageous) thought which the minds of the wise will entertain, even in sorrow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடுக்கண் அழியாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hopefulness in Trouble' thoughtfully.",
+        "quiz_question_ta": "'இடுக்கண் அழியாமை' அதிகாரத்தில் வரும் திருக்குறள் 622 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 622 from Chapter 'Hopefulness in Trouble'?",
+        "quiz_options_ta": [
+          "எண்ணியவர் (எண்ணியபடியே செயல் ஆற்றுவதில்) உறுதியுடையவராக இருக்கப்பெற்றால் அவர் எண்ணியவற்றை எண்ணியவாறே அடைவர்.",
+          "கண்பார்வையின் வேறுபாடுகளை உணரவல்லவரைப் பெற்றால்( ஒருவனுடைய மனதில் உள்ள) கையையும் நட்பையும் அவனுடைய கண்களே சொல்லி விடும்.",
+          "வெள்ளம் போல் அளவற்றதாய் வரும் துன்பமும், அறிவுடையவன் தன் உள்ளத்தினால் அத் துன்பத்தின் இயல்பை நினைத்த அளவில் கெடும்.",
+          "பொருள் இல்லாதவரை (வேறு நன்மை உடையவராக இருந்தாலும்) எல்லாரும் இகழ்வார், செல்வரை (வேறு நன்மை இல்லாவிட்டாலும்) எல்லாரும் சிறப்பு செய்வர்."
+        ],
+        "quiz_options_en": [
+          "The will-to-do achieves the deed When mind that wills is strong indeed",
+          "Friend or foe the eyes will show To those who changing outlooks know",
+          "Deluging sorrows come to nought When wise men face them with firm thought",
+          "The have-nothing poor all despise The men of wealth all raise and praise"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடுக்கண் அழியாமை) பகுதியில் குறள் 622 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வெள்ளம் போல் அளவற்றதாய் வரும் துன்பமும், அறிவுடையவன் தன் உள்ளத்தினால் அத் துன்பத்தின் இயல்பை நினைத்த அளவில் கெடும். பரிமேலழகர் உரை நுட்பம்: வெள்ளத்து அனைய இடும்பை - வெள்ளம்போலக் கரையிலவாய இடும்பைகள் எல்லாம்; அறிவுடையான் உள்ளத்தின் உள்ளக் கெடும் - அறிவுடையவன் தன் உள்ளத்தான் ஒன்றனை நினைக்க, அத்துணையானே கெடும். (இடும்பையாவது உள்ளத்து ஒரு கோட்பாடேயன்றிப் பிறிதில்லை என்பதூஉம், அது மாறுபடக்கொள்ள...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 63: 'Hopefulness in Trouble'), Kural 622 distills a foundational ethical insight: \"Though sorrow, like a flood, comes rolling on, When wise men's mind regards it,- it is gone\" Philosophically, A flood of troubles will be overcome by the (courageous) thought which the minds of the wise will entertain, even in sorrow.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "love",
+        "education",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 623,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: துன்பம் வந்த போது அதற்க்காக வருந்திக் கலங்காதவர் அந்தத் துன்பத்திற்கே துன்பம் உண்டாக்கி அதை வென்று விடுவார்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: They give sorrow to sorrow, who in sorrow do not suffer sorrow.",
+        "story_title_ta": "இடுக்கண் அழியாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Hopefulness in Trouble — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடுக்கண் அழியாமை' என்ற அதிகாரத்திலிருந்து குறள் 623 பற்றிக் கதை சொன்னார். 'வரும் துன்பத்திற்குத் துன்பப்படாத மன ஊக்கம் உள்ளவர். துன்பத்திற்குத் துன்பம் தருவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 63, 'Hopefulness in Trouble', centered on Kural 623: They give sorrow to sorrow, who in sorrow do not suffer sorrow. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: துன்பம் சூழும் போது, துவண்டு போகாதவர்கள் அந்தத் துன்பத்தையே துன்பத்தில் ஆழ்த்தி அதனைத் தோல்வியுறச் செய்வார்கள்.",
+        "moral_en": "Moral: Who griefs confront with meek, ungrieving heart, From them griefs, put to grief, depart.",
+        "game_blank_word_ta": "படாஅ",
+        "game_options_ta": [
+          "இடுக்கண்",
+          "வருங்கால்",
+          "நகுக",
+          "படாஅ"
+        ],
+        "game_options_en": [
+          "Laugh away troubles; there is No other way to conquer woes",
+          "Deluging sorrows come to nought When wise men face them with firm thought",
+          "Who pulls like bulls patiently on Causes grief to grieve anon",
+          "Grief they face and put to grief Who grieve not grief by mind's relief"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடுக்கண் அழியாமை (அரசியல்) பிரிவில் அமைந்த குறள் 623, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வரும் துன்பத்திற்குத் துன்பப்படாத மன ஊக்கம் உள்ளவர். துன்பத்திற்குத் துன்பம் தருவர். கலைஞர் உரை கூறுவது: துன்பம் சூழும் போது, துவண்டு போகாதவர்கள் அந்தத் துன்பத்தையே துன்பத்தில் ஆழ்த்தி அதனைத் தோல்வியுறச் செய்வார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hopefulness in Trouble (Royalty & Polity), Kural 623 speaks directly to teens navigating studies, friendships, leadership, and digital choices: They give sorrow to sorrow, who in sorrow do not suffer sorrow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடுக்கண் அழியாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hopefulness in Trouble' thoughtfully.",
+        "quiz_question_ta": "'இடுக்கண் அழியாமை' அதிகாரத்தில் வரும் திருக்குறள் 623 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 623 from Chapter 'Hopefulness in Trouble'?",
+        "quiz_options_ta": [
+          "உருளும் பெரிய தேர்க்கு அச்சில் இருந்து தாங்கும் சிறிய ஆணிப் போன்றவர்கள் உலகத்தில் உள்ளனர், அவர்களுடைய உருவின் சிறுமையைக்கண்டு இகழக் கூடாது.",
+          "யாம் நுட்பமான அறிவுடையேம் என்று பிறர் கருத்தை அறிபவரின் அளக்குங்கோல், ஆராய்ந்து பார்த்தால் அவனுடையக் கண்களே அல்லாமல் வேறு இல்லை.",
+          "பொருள் என்று சொல்லப்படுகின்ற நந்தா விளக்கு, நினைத்த இடத்திற்குச் சென்று உள்ள இடையூற்றைக் கெடுக்கும்",
+          "துன்பம் வந்த போது அதற்க்காக வருந்திக் கலங்காதவர் அந்தத் துன்பத்திற்கே துன்பம் உண்டாக்கி அதை வென்று விடுவார்."
+        ],
+        "quiz_options_en": [
+          "Scorn not the form: for men there are Like linchpin of big rolling car",
+          "The scale of keen discerning minds Is eye and eye that secrets finds",
+          "Waneless wealth is light that goes To every land and gloom removes",
+          "Grief they face and put to grief Who grieve not grief by mind's relief"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடுக்கண் அழியாமை) பகுதியில் குறள் 623 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: துன்பம் வந்த போது அதற்க்காக வருந்திக் கலங்காதவர் அந்தத் துன்பத்திற்கே துன்பம் உண்டாக்கி அதை வென்று விடுவார். பரிமேலழகர் உரை நுட்பம்: இடும்பைக்கு இடும்பை படாஅதவர் - வினை செய்யுங்கால் அதற்கு இடையே வந்த துன்பத்திற்கு வருந்தாதவர்; இடும்பைக்கு இடும்பை படுப்பர் - அத்துன்பந்தனக்குத் தாம் துன்பம் விளைப்பர். (வருந்துதல் - இளைத்துவிட நினைத்தல். மனத் திட்பமுடையராய் விடாது முயலவே வினை முற்றுப்பெற்றுப...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 63: 'Hopefulness in Trouble'), Kural 623 distills a foundational ethical insight: \"Who griefs confront with meek, ungrieving heart, From them griefs, put to grief, depart\" Philosophically, They give sorrow to sorrow, who in sorrow do not suffer sorrow.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "truth",
+        "courage"
+      ]
+    },
+    {
+      "kural_number": 624,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தடைபட்ட இடங்களில் எல்லாம் (வண்டியை இழுத்துச் செல்லும்) எருதுபோல் விடாமுயற்சி உடையவன் உற்றத் துன்பமே துன்பப்படுவதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Troubles will vanish (i.e., will be troubled) before the man who (struggles against difficulties) as a.",
+        "story_title_ta": "இடுக்கண் அழியாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Hopefulness in Trouble — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடுக்கண் அழியாமை' என்ற அதிகாரத்திலிருந்து குறள் 624 பற்றிக் கதை சொன்னார். 'செல்லும் வழிகளில் எல்லாம் வண்டியை இழுத்துச் செல்லும் காளையைப் போன்று மனந்தளராமல் செல்ல வல்லவனுக்கு வந்த துன்பமே துன்பப்படும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 63, 'Hopefulness in Trouble', centered on Kural 624: Troubles will vanish (i.e., will be troubled) before the man who (struggles against difficulties) as a. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தடங்கல் நிறைந்த கரடுமுரடான பாதையில் பெரும் பாரத்தை எருது இழுத்துக் கொண்டு போவது போல, விடா முயற்சியுடன் செயல்பட்டால் துன்பங்களுக்கு முடிவு ஏற்பட்டு வெற்றி கிட்டும்.",
+        "moral_en": "Moral: Like bullock struggle on through each obstructed way; From such an one will troubles, troubled, roll away.",
+        "game_blank_word_ta": "யெல்லாம்",
+        "game_options_ta": [
+          "யெல்லாம்",
+          "இடுக்கண்",
+          "வருங்கால்",
+          "நகுக"
+        ],
+        "game_options_en": [
+          "Who pulls like bulls patiently on Causes grief to grieve anon",
+          "Laugh away troubles; there is No other way to conquer woes",
+          "Deluging sorrows come to nought When wise men face them with firm thought",
+          "Grief they face and put to grief Who grieve not grief by mind's relief"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடுக்கண் அழியாமை (அரசியல்) பிரிவில் அமைந்த குறள் 624, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செல்லும் வழிகளில் எல்லாம் வண்டியை இழுத்துச் செல்லும் காளையைப் போன்று மனந்தளராமல் செல்ல வல்லவனுக்கு வந்த துன்பமே துன்பப்படும். கலைஞர் உரை கூறுவது: தடங்கல் நிறைந்த கரடுமுரடான பாதையில் பெரும் பாரத்தை எருது இழுத்துக் கொண்டு போவது போல, விடா முயற்சியுடன் செயல்பட்டால் துன்பங்களுக்கு முடிவு ஏற்பட்டு வெற்றி கிட்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hopefulness in Trouble (Royalty & Polity), Kural 624 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Troubles will vanish (i.e., will be troubled) before the man who (struggles against difficulties) as a. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடுக்கண் அழியாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hopefulness in Trouble' thoughtfully.",
+        "quiz_question_ta": "'இடுக்கண் அழியாமை' அதிகாரத்தில் வரும் திருக்குறள் 624 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 624 from Chapter 'Hopefulness in Trouble'?",
+        "quiz_options_ta": [
+          "தடைபட்ட இடங்களில் எல்லாம் (வண்டியை இழுத்துச் செல்லும்) எருதுபோல் விடாமுயற்சி உடையவன் உற்றத் துன்பமே துன்பப்படுவதாகும்.",
+          "மனம் தளராமல் ஆராய்ந்து துணிந்து ஏற்றத் தொழிலைச் சோர்வு கொள்ளாமல் காலந் தாழ்த்தாமல் செய்து முடிக்க வேண்டும்.",
+          "சொற்களின் தொகுதி அறிந்த தூய்மை உடையவர், அவைக்களத்தின் தன்மை அறிந்து ஏற்றச் சொற்களை ஆராய்ந்து சொல்ல வேண்டும்.",
+          "சேர்க்கும் திறம் அறிந்து தீமை ஒன்றும் இல்லாமல், சேர்க்கப் பட்டுவந்த பொருள் ஒருவனுக்கு அறத்தையும் கொடுக்கும் இன்பத்தையும் கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "Who pulls like bulls patiently on Causes grief to grieve anon",
+          "Waver not; do wakefully The deed resolved purposefully",
+          "The pure in thought and eloquence Adapt their words to audience",
+          "The blameless wealth from fairest means Brings good virtue and also bliss"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடுக்கண் அழியாமை) பகுதியில் குறள் 624 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தடைபட்ட இடங்களில் எல்லாம் (வண்டியை இழுத்துச் செல்லும்) எருதுபோல் விடாமுயற்சி உடையவன் உற்றத் துன்பமே துன்பப்படுவதாகும். பரிமேலழகர் உரை நுட்பம்: மடுத்த வாய் எல்லாம் பகடு அன்னான் - விலங்கிய இடங்கள் எல்லாவற்றினும், சகடம் ஈர்க்கும் பகடு போல வினையை எடுத்துக் கொண்டு உய்க்க வல்லானை; உற்ற இடுக்கண் இடர்ப்பாடு உடைத்து - வந்துற்ற இடுக்கண் தானே இடர்ப்படுதலை உடைத்து. ('மடுத்தவாய் எல்லாம்' என்பது பொதுப்பட...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 63: 'Hopefulness in Trouble'), Kural 624 distills a foundational ethical insight: \"Like bullock struggle on through each obstructed way; From such an one will troubles, troubled, roll away\" Philosophically, Troubles will vanish (i.e., will be troubled) before the man who (struggles against difficulties) as a.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "perseverance",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 625,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: விடாமல் மேன் மேலும் துன்பம் வந்தபோதிலும் கலங்காமலிருக்கும் ஆற்றலுடையவன் அடைந்த துன்பமே துன்பப்பட்டு போகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The troubles of that man will be troubled (and disappear) who, however thickly they may come upon him, does not abandon (his purpose).",
+        "story_title_ta": "இடுக்கண் அழியாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Hopefulness in Trouble — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடுக்கண் அழியாமை' என்ற அதிகாரத்திலிருந்து குறள் 625 பற்றிக் கதை சொன்னார். 'ஒன்றனுக்குப் பின் ஒன்றாகத் தொடர்ந்து துன்பம் வந்தாலும், மனம் தளராதவனுக்கு வந்த அவ்வகைத் துன்பம் துன்பப்படும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 63, 'Hopefulness in Trouble', centered on Kural 625: The troubles of that man will be troubled (and disappear) who, however thickly they may come upon him, does not abandon (his purpose). Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: துன்பங்களைக் கண்டு கலங்காதவனை, விடாமல் தொடரும் துன்பங்கள், துன்பப்பட்டு அழிந்து விடும்.",
+        "moral_en": "Moral: When griefs press on, but fail to crush the patient heart, Then griefs defeated, put to grief, depart.",
+        "game_blank_word_ta": "அழிவிலான்",
+        "game_options_ta": [
+          "இடுக்கண்",
+          "அழிவிலான்",
+          "வருங்கால்",
+          "நகுக"
+        ],
+        "game_options_en": [
+          "Laugh away troubles; there is No other way to conquer woes",
+          "Before the brave grief grieves and goes Who dare a host of pressing woes",
+          "Deluging sorrows come to nought When wise men face them with firm thought",
+          "Grief they face and put to grief Who grieve not grief by mind's relief"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடுக்கண் அழியாமை (அரசியல்) பிரிவில் அமைந்த குறள் 625, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒன்றனுக்குப் பின் ஒன்றாகத் தொடர்ந்து துன்பம் வந்தாலும், மனம் தளராதவனுக்கு வந்த அவ்வகைத் துன்பம் துன்பப்படும். கலைஞர் உரை கூறுவது: துன்பங்களைக் கண்டு கலங்காதவனை, விடாமல் தொடரும் துன்பங்கள், துன்பப்பட்டு அழிந்து விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hopefulness in Trouble (Royalty & Polity), Kural 625 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The troubles of that man will be troubled (and disappear) who, however thickly they may come upon him, does not abandon (his purpose). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடுக்கண் அழியாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hopefulness in Trouble' thoughtfully.",
+        "quiz_question_ta": "'இடுக்கண் அழியாமை' அதிகாரத்தில் வரும் திருக்குறள் 625 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 625 from Chapter 'Hopefulness in Trouble'?",
+        "quiz_options_ta": [
+          "(முடிவில்) இன்பம் கொடுக்கும் தொழிலைச் செய்யும் போது துன்பம் மிக வந்த போதிலும் துணிவு மேற்கொண்டு செய்து முடிக்க வேண்டும்.",
+          "விடாமல் மேன் மேலும் துன்பம் வந்தபோதிலும் கலங்காமலிருக்கும் ஆற்றலுடையவன் அடைந்த துன்பமே துன்பப்பட்டு போகும்.",
+          "சொற்களின் தன்மையை ஆராய்ந்த நன்மை உடையவர், அவையின் செவ்வியை ஆராய்ந்து நன்றாக உணர்ந்து சொல்ல வேண்டும்.",
+          "அருளோடும், அன்போடும் பொருந்தாத வழிகளில் வந்த செல்வத்தின் ஆக்கத்தைப் பெற்று மகிழாமல் அதைத் தீமையானது என்று நீக்கிவிட வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Do with firm will though pains beset The deed that brings delight at last",
+          "Before the brave grief grieves and goes Who dare a host of pressing woes",
+          "Who know the art of speech shall suit Their chosen words to time in fact",
+          "Riches devoid of love and grace Off with it; it is disgrace!"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடுக்கண் அழியாமை) பகுதியில் குறள் 625 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: விடாமல் மேன் மேலும் துன்பம் வந்தபோதிலும் கலங்காமலிருக்கும் ஆற்றலுடையவன் அடைந்த துன்பமே துன்பப்பட்டு போகும். பரிமேலழகர் உரை நுட்பம்: அடுக்கி வரினும் - இடைவிடாது மேன்மேல் வந்தனவாயினும்; அழிவிலான் உற்ற இடுக்கண் இடுக்கண்படும் - தன்னுள்ளக் கோட்பாடு விடாதான் உற்ற இடுக்கண்தாம் இடுக்கணிலே பட்டுப்போம். (ஒன்றே பலகால் வருதலும், வேறுபட்டன விராய் வருதலும் அடங்க 'அடுக்கி வரினும்' என்றார். 'அழிவு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 63: 'Hopefulness in Trouble'), Kural 625 distills a foundational ethical insight: \"When griefs press on, but fail to crush the patient heart, Then griefs defeated, put to grief, depart\" Philosophically, The troubles of that man will be troubled (and disappear) who, however thickly they may come upon him, does not abandon (his purpose).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "courage",
+        "ethics",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 626,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: செல்வம் வந்த போது இதைப்பெற்றோமே என்று பற்றுக்கொண்டு காத்தறியாதவர் வறுமை வந்த போது இழந்தோமே என்று அல்லல்படுவரோ.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Will those men ever cry out in sorrow, \"we are destitute\" who, (in their prosperity), give not way to (undue desire) to keep their wealth.",
+        "story_title_ta": "இடுக்கண் அழியாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Hopefulness in Trouble — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடுக்கண் அழியாமை' என்ற அதிகாரத்திலிருந்து குறள் 626 பற்றிக் கதை சொன்னார். 'பணம் இருந்த காலத்தில் மனக்கஞ்சம் இல்லாமல் பிறர்க்கு வழங்கியவர், இல்லாத காலத்தில் வரும் துன்பத்தினால் ஏழையாகி விட்டோமே என்று வருந்துவாரோ?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 63, 'Hopefulness in Trouble', centered on Kural 626: Will those men ever cry out in sorrow, \"we are destitute\" who, (in their prosperity), give not way to (undue desire) to keep their wealth. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இத்தனை வளத்தையும் பெற்றுள்ளோமே யென்று மகிழந்து அதைக் காத்திட வேண்டுமென்று கருதாதவர்கள் அந்த வளத்தை இழக்க நேரிடும் போது மட்டும் அதற்காகத் துவண்டு போய் விடுவார்களா?",
+        "moral_en": "Moral: Who boasted not of wealth, nor gave it all their heart, Will not bemoan the loss, when prosperous days depart.",
+        "game_blank_word_ta": "பெற்றேமென்று",
+        "game_options_ta": [
+          "இடுக்கண்",
+          "வருங்கால்",
+          "பெற்றேமென்று",
+          "நகுக"
+        ],
+        "game_options_en": [
+          "Laugh away troubles; there is No other way to conquer woes",
+          "Deluging sorrows come to nought When wise men face them with firm thought",
+          "The wise that never gloat in gain Do not fret in fateful ruin",
+          "Grief they face and put to grief Who grieve not grief by mind's relief"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடுக்கண் அழியாமை (அரசியல்) பிரிவில் அமைந்த குறள் 626, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பணம் இருந்த காலத்தில் மனக்கஞ்சம் இல்லாமல் பிறர்க்கு வழங்கியவர், இல்லாத காலத்தில் வரும் துன்பத்தினால் ஏழையாகி விட்டோமே என்று வருந்துவாரோ? கலைஞர் உரை கூறுவது: இத்தனை வளத்தையும் பெற்றுள்ளோமே யென்று மகிழந்து அதைக் காத்திட வேண்டுமென்று கருதாதவர்கள் அந்த வளத்தை இழக்க நேரிடும் போது மட்டும் அதற்காகத் துவண்டு போய் விடுவார்களா? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hopefulness in Trouble (Royalty & Polity), Kural 626 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Will those men ever cry out in sorrow, \"we are destitute\" who, (in their prosperity), give not way to (undue desire) to keep their wealth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடுக்கண் அழியாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hopefulness in Trouble' thoughtfully.",
+        "quiz_question_ta": "'இடுக்கண் அழியாமை' அதிகாரத்தில் வரும் திருக்குறள் 626 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 626 from Chapter 'Hopefulness in Trouble'?",
+        "quiz_options_ta": [
+          "வேறு எத்தகைய உறுதி உடையவராக இருந்தாலும், செய்யும் தொழிலில் உறுதி இல்லாதவரை உலகம் விரும்பிப் போற்றாது.",
+          "அவையின் தன்மை அறியாமல் சொல்லுதலை மேற்கொள்கின்றவர், சொற்களின் வகை அறியாதவரே, அவர் சொல்லவல்லதும் இல்லை.",
+          "செல்வம் வந்த போது இதைப்பெற்றோமே என்று பற்றுக்கொண்டு காத்தறியாதவர் வறுமை வந்த போது இழந்தோமே என்று அல்லல்படுவரோ.",
+          "இறையாக வந்து சேரும் பொருளும், சுங்கமாகக் கொள்ளும் பொருளும், தன் பகைவரை வென்று திறமையாகக் கொள்ளும் பொருளும் அரசனுடைய பொருள்களாகும்."
+        ],
+        "quiz_options_en": [
+          "The world merits no other strength But strength of will-to-do at length",
+          "They speak in vain at length who talk Words unversed which ears don't take",
+          "The wise that never gloat in gain Do not fret in fateful ruin",
+          "Escheats, derelicts; spoils of war Taxes duties are king's treasure"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடுக்கண் அழியாமை) பகுதியில் குறள் 626 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செல்வம் வந்த போது இதைப்பெற்றோமே என்று பற்றுக்கொண்டு காத்தறியாதவர் வறுமை வந்த போது இழந்தோமே என்று அல்லல்படுவரோ. பரிமேலழகர் உரை நுட்பம்: அற்றேம் என்று அல்லற்படுபவோ - வறுமைக்காலத்து யாம் வறியமாயினேம் என்று மனத்தால் துயருழப்பாரோ; பெற்றேம் என்று ஓம்புதல் தேற்றாதவர் - செல்வக்காலத்து இது பெற்றேம் என்று இவறுதலை யறியாதார்? (பெற்றவழி இவறாமை நோக்கி அற்றவழியும் அப்பகுதி விடாது ஆகலின், அல்லற்பாடு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 63: 'Hopefulness in Trouble'), Kural 626 distills a foundational ethical insight: \"Who boasted not of wealth, nor gave it all their heart, Will not bemoan the loss, when prosperous days depart\" Philosophically, Will those men ever cry out in sorrow, \"we are destitute\" who, (in their prosperity), give not way to (undue desire) to keep their wealth.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "wealth",
+        "wisdom",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 627,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மேலோர், உடம்பு துன்பத்திற்கு இலக்கமானது என்று உணர்ந்து, (துன்பம் வந்த போது) கலங்குவதை ஒழுக்க நெறியாகக் கொள்ளமாட்டர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The great will not regard trouble as trouble, knowing that the body is the butt of trouble.",
+        "story_title_ta": "இடுக்கண் அழியாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Hopefulness in Trouble — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடுக்கண் அழியாமை' என்ற அதிகாரத்திலிருந்து குறள் 627 பற்றிக் கதை சொன்னார். 'உடம்பு துன்பத்திற்கு இடமாவதே என்று தெளிந்த மேன்மக்கள், உடம்பிற்கு வந்த துன்பத்தைப் துன்பமாக எண்ணி மனந் தளரமாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 63, 'Hopefulness in Trouble', centered on Kural 627: The great will not regard trouble as trouble, knowing that the body is the butt of trouble. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: துன்பம் என்பது உயிருக்கும் உடலுக்கும் இயல்பானதே என்பதை உணர்ந்த பெரியோர், துன்பம் வரும் போது அதனைத் துன்பமாகவே கருத மாட்டார்கள்.",
+        "moral_en": "Moral: 'Man's frame is sorrow's target', the noble mind reflects, Nor meets with troubled mind the sorrows it expects.",
+        "game_blank_word_ta": "கலக்கத்தைக்",
+        "game_options_ta": [
+          "இடுக்கண்",
+          "வருங்கால்",
+          "நகுக",
+          "கலக்கத்தைக்"
+        ],
+        "game_options_en": [
+          "Laugh away troubles; there is No other way to conquer woes",
+          "Deluging sorrows come to nought When wise men face them with firm thought",
+          "Grief they face and put to grief Who grieve not grief by mind's relief",
+          "The wise worry no more of woes Knowing body's butt of sorrows"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடுக்கண் அழியாமை (அரசியல்) பிரிவில் அமைந்த குறள் 627, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உடம்பு துன்பத்திற்கு இடமாவதே என்று தெளிந்த மேன்மக்கள், உடம்பிற்கு வந்த துன்பத்தைப் துன்பமாக எண்ணி மனந் தளரமாட்டார். கலைஞர் உரை கூறுவது: துன்பம் என்பது உயிருக்கும் உடலுக்கும் இயல்பானதே என்பதை உணர்ந்த பெரியோர், துன்பம் வரும் போது அதனைத் துன்பமாகவே கருத மாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hopefulness in Trouble (Royalty & Polity), Kural 627 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The great will not regard trouble as trouble, knowing that the body is the butt of trouble. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடுக்கண் அழியாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hopefulness in Trouble' thoughtfully.",
+        "quiz_question_ta": "'இடுக்கண் அழியாமை' அதிகாரத்தில் வரும் திருக்குறள் 627 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 627 from Chapter 'Hopefulness in Trouble'?",
+        "quiz_options_ta": [
+          "ஆராய்ந்து எண்ணுவதற்கு எல்லை துணிவு கொள்வதே ஆகும், அவ்வாறு கொண்ட துணிவு காலந் தாழ்த்து நிற்பது குற்றமாகும்.",
+          "அறிவிற் சிறந்தவரின் முன் தானும் அறிவிற் சிறந்தவராக நடந்து கொள்ள வேண்டும், அறிவில்லாதவர் முன் தாமும் வெண் கண்ணம் போல் அறிவில்லாதவராய் இருக்க வேண்டும்.",
+          "அன்பினால் பெறப்பட்ட அருள் என்றுக் கூறப்படும் குழந்தை, பொருள் என்றுக் கூறப்படும் செல்வமுள்ள செவிலித் தாயால் வளர்வதாகும்.",
+          "மேலோர், உடம்பு துன்பத்திற்கு இலக்கமானது என்று உணர்ந்து, (துன்பம் வந்த போது) கலங்குவதை ஒழுக்க நெறியாகக் கொள்ளமாட்டர்."
+        ],
+        "quiz_options_en": [
+          "When counsel takes a resolve strong Weak delay of action is wrong",
+          "Before the bright be brilliant light Before the muff be mortar white",
+          "Grace the child of love is nourished By the wet-nurse of wealth cherished",
+          "The wise worry no more of woes Knowing body's butt of sorrows"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடுக்கண் அழியாமை) பகுதியில் குறள் 627 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மேலோர், உடம்பு துன்பத்திற்கு இலக்கமானது என்று உணர்ந்து, (துன்பம் வந்த போது) கலங்குவதை ஒழுக்க நெறியாகக் கொள்ளமாட்டர். பரிமேலழகர் உரை நுட்பம்: உடம்பு இடும்பைக்கு இலக்கம் என்று - நாற்கதியினும் உள்ள உடம்புகள் இடும்பை என்னும் வாளுக்கு இலக்கு என்று தெளிந்து; கலக்கத்தைக் கையாறாக் கொள்ளாதாம் மேல் - தம் மேல் வந்த இடும்பையை இடும்பையாகக் கொள்ளார் அறிவுடையார். (ஏகதேச உருவகம். 'உடம்பு' சாதிப்பெயர். 'கலக்கம...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 63: 'Hopefulness in Trouble'), Kural 627 distills a foundational ethical insight: \"'Man's frame is sorrow's target', the noble mind reflects, Nor meets with troubled mind the sorrows it expects\" Philosophically, The great will not regard trouble as trouble, knowing that the body is the butt of trouble.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "wisdom",
+        "discipline",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 628,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: இன்பமானதை விரும்பாதவனாய்த் துன்பம் இயற்கையானது என்று தெளிந்திருப்பவன், துன்பம் வந்த போது துன்ப முறுவது இல்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: That man never experiences sorrow, who does not seek for pleasure, and who considers distress to be natural (to man).",
+        "story_title_ta": "இடுக்கண் அழியாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Hopefulness in Trouble — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடுக்கண் அழியாமை' என்ற அதிகாரத்திலிருந்து குறள் 628 பற்றிக் கதை சொன்னார். 'உடம்பிற்கு இன்பம் விரும்பாதவனாய், அதற்கு வரும் துன்பத்தை இயல்புதானே என்பவன், மனம் தளர்ந்து துன்பப்படமாட்டான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 63, 'Hopefulness in Trouble', centered on Kural 628: That man never experiences sorrow, who does not seek for pleasure, and who considers distress to be natural (to man). Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இன்பத்தைத் தேடி அலையாமல், துன்பம் வந்தாலும் அதை இயல்பாகக் கருதிப்கொள்பவன் அந்தத் துன்பத்தினால் துவண்டு போவதில்லை.",
+        "moral_en": "Moral: He seeks not joy, to sorrow man is born, he knows; Such man will walk unharmed by touch of human woes.",
+        "game_blank_word_ta": "உறுதல்",
+        "game_options_ta": [
+          "உறுதல்",
+          "இடுக்கண்",
+          "வருங்கால்",
+          "நகுக"
+        ],
+        "game_options_en": [
+          "Who seek not joy, deem grief norm By sorrows do not come to harm",
+          "Laugh away troubles; there is No other way to conquer woes",
+          "Deluging sorrows come to nought When wise men face them with firm thought",
+          "Grief they face and put to grief Who grieve not grief by mind's relief"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடுக்கண் அழியாமை (அரசியல்) பிரிவில் அமைந்த குறள் 628, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உடம்பிற்கு இன்பம் விரும்பாதவனாய், அதற்கு வரும் துன்பத்தை இயல்புதானே என்பவன், மனம் தளர்ந்து துன்பப்படமாட்டான். கலைஞர் உரை கூறுவது: இன்பத்தைத் தேடி அலையாமல், துன்பம் வந்தாலும் அதை இயல்பாகக் கருதிப்கொள்பவன் அந்தத் துன்பத்தினால் துவண்டு போவதில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hopefulness in Trouble (Royalty & Polity), Kural 628 speaks directly to teens navigating studies, friendships, leadership, and digital choices: That man never experiences sorrow, who does not seek for pleasure, and who considers distress to be natural (to man). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடுக்கண் அழியாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hopefulness in Trouble' thoughtfully.",
+        "quiz_question_ta": "'இடுக்கண் அழியாமை' அதிகாரத்தில் வரும் திருக்குறள் 628 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 628 from Chapter 'Hopefulness in Trouble'?",
+        "quiz_options_ta": [
+          "இன்பமானதை விரும்பாதவனாய்த் துன்பம் இயற்கையானது என்று தெளிந்திருப்பவன், துன்பம் வந்த போது துன்ப முறுவது இல்லை.",
+          "காலந்தாழ்த்தி செய்யத் தக்கவற்றைக் காலந்தாழ்ந்தே செய்ய வேண்டும், காலந்தாழ்த்தாமல் விரைந்து செய்யவேண்டிய செயல்களைச் செய்ய காலந்தாழ்த்தக் கூடாது.",
+          "அறிவு மிகுந்தவரிடையே முந்திச் சென்று பேசாத அடக்கம் ஒருவனுக்கு நன்மை என்று சொல்லப்பட்டவை எல்லாவற்றிலும நல்லது.",
+          "தன் கைப்பொருள் ஒன்று தன்னிடம் இருக்க அதைக் கொண்டு ஒருவன் செயல் செய்தால், மலையின் மேல் ஏறி யானைப் போரைக் கண்டாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Who seek not joy, deem grief norm By sorrows do not come to harm",
+          "Delay such acts as need delay Delay not acts that need display",
+          "Modest restraint all good excels Which argues not before elders",
+          "Treasures in hand fulfil all things Like hill-tuskers the wars of kings"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடுக்கண் அழியாமை) பகுதியில் குறள் 628 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இன்பமானதை விரும்பாதவனாய்த் துன்பம் இயற்கையானது என்று தெளிந்திருப்பவன், துன்பம் வந்த போது துன்ப முறுவது இல்லை. பரிமேலழகர் உரை நுட்பம்: இன்பம் விழையான் இடும்பை இயல்பு என்பான் - தன் உடம்பிற்கு இன்பமாயவற்றை விரும்பாதே வினையால் இடும்பை எய்தல் இயல்பு என்று தெளிந்திருப்பான்; துன்பம் உறுதல் இலன் - தன் முயற்சியால் துன்பமுறான். (இன்பத்தை விழையினும், இடும்பையை இயல்பு என்னாது காக்கக் கருதினும் துன்பம...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 63: 'Hopefulness in Trouble'), Kural 628 distills a foundational ethical insight: \"He seeks not joy, to sorrow man is born, he knows; Such man will walk unharmed by touch of human woes\" Philosophically, That man never experiences sorrow, who does not seek for pleasure, and who considers distress to be natural (to man).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "kindness",
+        "love",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 629,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: இன்பம் வந்திக் காலத்தில் அந்த இன்பத்தை விரும்பிப் போற்றாதவன் துன்பம் வந்த காலத்தில் அந்தத் துன்பத்தை அடைவது இல்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: He does not suffer sorrow, in sorrow who does not look for pleasure in pleasure.",
+        "story_title_ta": "இடுக்கண் அழியாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Hopefulness in Trouble — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடுக்கண் அழியாமை' என்ற அதிகாரத்திலிருந்து குறள் 629 பற்றிக் கதை சொன்னார். 'தன் உடலுக்கு இன்பம் வரும்போது அதை மனத்தால் விரும்பாதவன், துன்பம் வரும்போது மனம் தளர்ந்து துன்பப்படமாட்டான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 63, 'Hopefulness in Trouble', centered on Kural 629: He does not suffer sorrow, in sorrow who does not look for pleasure in pleasure. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இன்பம் வரும் பொழுது அதற்காக ஆட்டம் போடாதவர்கள், துன்பம் வரும் பொழுதும் அதற்காக வாட்டம் கொள்ள மாட்டார்கள் இரண்டையும் ஒன்றுபோல் கருதும் உறுதிக்கு இது எடுத்துக்காட்டு.",
+        "moral_en": "Moral: Mid joys he yields not heart to joys' controlMid sorrows, sorrow cannot touch his soul.",
+        "game_blank_word_ta": "இலன்",
+        "game_options_ta": [
+          "இடுக்கண்",
+          "இலன்",
+          "வருங்கால்",
+          "நகுக"
+        ],
+        "game_options_en": [
+          "Laugh away troubles; there is No other way to conquer woes",
+          "In joy to joy who is not bound In grief he grieves not dual round!",
+          "Deluging sorrows come to nought When wise men face them with firm thought",
+          "Grief they face and put to grief Who grieve not grief by mind's relief"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடுக்கண் அழியாமை (அரசியல்) பிரிவில் அமைந்த குறள் 629, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் உடலுக்கு இன்பம் வரும்போது அதை மனத்தால் விரும்பாதவன், துன்பம் வரும்போது மனம் தளர்ந்து துன்பப்படமாட்டான். கலைஞர் உரை கூறுவது: இன்பம் வரும் பொழுது அதற்காக ஆட்டம் போடாதவர்கள், துன்பம் வரும் பொழுதும் அதற்காக வாட்டம் கொள்ள மாட்டார்கள் இரண்டையும் ஒன்றுபோல் கருதும் உறுதிக்கு இது எடுத்துக்காட்டு. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hopefulness in Trouble (Royalty & Polity), Kural 629 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He does not suffer sorrow, in sorrow who does not look for pleasure in pleasure. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடுக்கண் அழியாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hopefulness in Trouble' thoughtfully.",
+        "quiz_question_ta": "'இடுக்கண் அழியாமை' அதிகாரத்தில் வரும் திருக்குறள் 629 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 629 from Chapter 'Hopefulness in Trouble'?",
+        "quiz_options_ta": [
+          "இயலுமிடத்தில் எல்லாம் செயலைச் செய்து முடித்தல் நல்லது, இயலாவில்லையானால் பயன்படும் இடம் நோக்கியாவது செய்ய வேண்டும்.",
+          "இன்பம் வந்திக் காலத்தில் அந்த இன்பத்தை விரும்பிப் போற்றாதவன் துன்பம் வந்த காலத்தில் அந்தத் துன்பத்தை அடைவது இல்லை.",
+          "விரிவான அறிவுத்துறைகளை அறிந்து உணர்கின்றவரின் முன்னே குற்றப்படுதல், ஒழுக்கநெறியிலிருந்து நிலைத் தளர்ந்து கெடுவதைப் போன்றதாகும்.",
+          "ஒருவன் பொருளை ஈட்டவேண்டும், அவனுடைய பகைவரின் செருக்கைக் கெடுக்க வல்ல வாள் அதைவிடக் கூர்மையானது வேறு இல்லை."
+        ],
+        "quiz_options_en": [
+          "It's best to act when feasible If not see what is possible",
+          "In joy to joy who is not bound In grief he grieves not dual round!",
+          "Tongue-slip before the talented wise is like slipping from righteous ways",
+          "Make wealth; there is no sharper steel The insolence of foes to quell"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடுக்கண் அழியாமை) பகுதியில் குறள் 629 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இன்பம் வந்திக் காலத்தில் அந்த இன்பத்தை விரும்பிப் போற்றாதவன் துன்பம் வந்த காலத்தில் அந்தத் துன்பத்தை அடைவது இல்லை. பரிமேலழகர் உரை நுட்பம்: இன்பத்துள் இன்பம் விழையாதான் - வினையால் தனக்கு இன்பம் வந்துழி அதனை அனுபவியாநின்றே மனத்தான் விரும்பாதான்; துன்பத்துள் துன்பம் உறுதல் இலன் - துன்பம் வந்துழியும் அதனை அனுபவியாநின்றே மனத்தான் வருந்தான். (துன்பம் - முயற்சியான் வரும் இடுக்கண். இரண்டையும் ஒரு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 63: 'Hopefulness in Trouble'), Kural 629 distills a foundational ethical insight: \"Mid joys he yields not heart to joys' controlMid sorrows, sorrow cannot touch his soul\" Philosophically, He does not suffer sorrow, in sorrow who does not look for pleasure in pleasure.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 630,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவன் துன்பத்தையே தனக்கு இன்பமாகக் கருதிக்கொள்வானானால் அவனுடைய பகைவரும் விரும்பத்தக்க சிறப்பு உண்டாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The elevation, which even his enemies will esteem, will be gained by him, who regards pain as pleasure.",
+        "story_title_ta": "இடுக்கண் அழியாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Hopefulness in Trouble — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடுக்கண் அழியாமை' என்ற அதிகாரத்திலிருந்து குறள் 630 பற்றிக் கதை சொன்னார். 'ஒருவன் செயல் செய்யும்போது துன்பம் வந்தால் மனம் தளராமல் அதையே இன்பம் எனக் கொள்வான் என்றால், பகைவராலும் மதிக்கப்படும் சிறப்பு அவனுக்கு உண்டாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 63, 'Hopefulness in Trouble', centered on Kural 630: The elevation, which even his enemies will esteem, will be gained by him, who regards pain as pleasure. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: துன்பத்தை இன்பமாகக் கருதும் மனஉறுதி கொண்டவர்களுக்கு, அவர்களது பகைவர்களும் பாராட்டுகிற பெருமை வந்து சேரும்.",
+        "moral_en": "Moral: Who pain as pleasure takes, he shall acquireThe bliss to which his foes in vain aspire.",
+        "game_blank_word_ta": "இன்னாமை",
+        "game_options_ta": [
+          "இடுக்கண்",
+          "வருங்கால்",
+          "இன்னாமை",
+          "நகுக"
+        ],
+        "game_options_en": [
+          "Laugh away troubles; there is No other way to conquer woes",
+          "Deluging sorrows come to nought When wise men face them with firm thought",
+          "His glory is esteemed by foes Who sees weal in wanton woes!",
+          "Grief they face and put to grief Who grieve not grief by mind's relief"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடுக்கண் அழியாமை (அரசியல்) பிரிவில் அமைந்த குறள் 630, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவன் செயல் செய்யும்போது துன்பம் வந்தால் மனம் தளராமல் அதையே இன்பம் எனக் கொள்வான் என்றால், பகைவராலும் மதிக்கப்படும் சிறப்பு அவனுக்கு உண்டாகும். கலைஞர் உரை கூறுவது: துன்பத்தை இன்பமாகக் கருதும் மனஉறுதி கொண்டவர்களுக்கு, அவர்களது பகைவர்களும் பாராட்டுகிற பெருமை வந்து சேரும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hopefulness in Trouble (Royalty & Polity), Kural 630 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The elevation, which even his enemies will esteem, will be gained by him, who regards pain as pleasure. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடுக்கண் அழியாமை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hopefulness in Trouble' thoughtfully.",
+        "quiz_question_ta": "'இடுக்கண் அழியாமை' அதிகாரத்தில் வரும் திருக்குறள் 630 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 630 from Chapter 'Hopefulness in Trouble'?",
+        "quiz_options_ta": [
+          "செய்யத்தொடங்கியச் செயல், கொண்ட பகை என்று இவ்விரண்டின் குறை ஆராய்ந்து பார்த்தால், தீயின் குறைபோல் தெரியாமல் வளர்ந்து கெடுக்கும்.",
+          "குற்றமறச்சொற்களை ஆராயவதில் வ ல்ல அறிஞர்களிடத்தில் பல நூல்களைக் கற்றறிந்தவரின் கல்வியானது நன்றாக விளங்கித் தொன்றும்.",
+          "ஒருவன் துன்பத்தையே தனக்கு இன்பமாகக் கருதிக்கொள்வானானால் அவனுடைய பகைவரும் விரும்பத்தக்க சிறப்பு உண்டாகும்.",
+          "சிறந்ததாகிய பொருளை மிகுதியாக ஈட்டியவர்க்கு, மற்ற அறமும் இன்பமுமாகிய இரண்டும் ஒரு சேரக்கைகூடும் எளிய பொருளாகும்."
+        ],
+        "quiz_options_en": [
+          "Work or foe left unfinished Flare up like fire unextinguished",
+          "The learning of the learned shines Valued by flawless scholar-minds",
+          "His glory is esteemed by foes Who sees weal in wanton woes!",
+          "They have joy and virtue at hand Who acquire treasures abundant"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடுக்கண் அழியாமை) பகுதியில் குறள் 630 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் துன்பத்தையே தனக்கு இன்பமாகக் கருதிக்கொள்வானானால் அவனுடைய பகைவரும் விரும்பத்தக்க சிறப்பு உண்டாகும். பரிமேலழகர் உரை நுட்பம்: இன்னாமை இன்பம் எனக்கொளின் - ஒருவன் வினைசெய்யும் இடத்து முயற்சியான் வரும் துன்பந்தன்னையே தனக்கு இன்பமாகக் கற்பித்துக் கொள்வானாயின்; தன் ஒன்னார் விழையும் சிறப்பு ஆகும் - அதனால் தன் பகைவர் நன்கு மதித்தற்கு ஏதுவாய உயர்ச்சி உண்டாம். (துன்பந்தானும் உயிர்க்கு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 63: 'Hopefulness in Trouble'), Kural 630 distills a foundational ethical insight: \"Who pain as pleasure takes, he shall acquireThe bliss to which his foes in vain aspire\" Philosophically, The elevation, which even his enemies will esteem, will be gained by him, who regards pain as pleasure.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "love",
+        "kindness",
+        "humility"
+      ]
+    }
+  ]
+}

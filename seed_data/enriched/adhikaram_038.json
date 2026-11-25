@@ -1,0 +1,580 @@
+{
+  "adhikaram_id": 38,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.789537428+00:00",
+  "kurals": [
+    {
+      "kural_number": 371,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: கைப்பொருள் ஆவதற்க்கு காரணமான ஊழால் சோர்வில்லாத முயற்சி உண்டாகும், கைப்பொருள் போவதற்க்கு காரணமான ஊழால் சோம்பல் ஏற்படும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Perseverance comes from a prosperous fate, and idleness from an adverse fate.",
+        "story_title_ta": "ஊழ் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Fate — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஊழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 371 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பணம் சேர்வதற்கு உரிய விதி நமக்கு இருந்தால், சேர்ப்பதற்கான முயற்சி உண்டாகும். இருப்பதையும் இழப்பதற்கான விதி இருந்தால் சோம்பல் உண்டாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Fate'. Grandpa shared Kural 371 and explained in simple words: Perseverance comes from a prosperous fate, and idleness from an adverse fate. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஆக்கத்திற்கான இயற்கை நிலை சோர்வு தலை காட்டாத ஊக்கத்தைக் கொடுக்கும் ஊக்கத்தின் அழிவுக்கான இயற்கைநிலை சோம்பலை ஏற்படுத்தும்.",
+        "moral_en": "Moral: Wealth-giving fate power of unflinching effort brings; From fate that takes away idle remissness springs.",
+        "game_blank_word_ta": "தோன்றும்",
+        "game_options_ta": [
+          "பேதைப்",
+          "படுக்கும்",
+          "இழவூழ்",
+          "தோன்றும்"
+        ],
+        "game_options_en": [
+          "Loss-fate makes a dull fool of us Gain-fate makes us prosperous, wise!",
+          "What matters subtle study deep? Levels of innate wisdom-keep",
+          "Two natures in the world obtain Some wealth and others wisdom gain",
+          "Efforts succeed by waxing star Wealth-losing brings waning star"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊழ் (ஊழியல்) பிரிவில் அமைந்த குறள் 371, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பணம் சேர்வதற்கு உரிய விதி நமக்கு இருந்தால், சேர்ப்பதற்கான முயற்சி உண்டாகும். இருப்பதையும் இழப்பதற்கான விதி இருந்தால் சோம்பல் உண்டாகும். கலைஞர் உரை கூறுவது: ஆக்கத்திற்கான இயற்கை நிலை சோர்வு தலை காட்டாத ஊக்கத்தைக் கொடுக்கும் ஊக்கத்தின் அழிவுக்கான இயற்கைநிலை சோம்பலை ஏற்படுத்தும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Fate (Fate), Kural 371 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Perseverance comes from a prosperous fate, and idleness from an adverse fate. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'ஊழ்' குறள் 371 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 371 (Fate) and writing one clear priority.",
+        "quiz_question_ta": "'ஊழ்' அதிகாரத்தில் வரும் திருக்குறள் 371 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 371 from Chapter 'Fate'?",
+        "quiz_options_ta": [
+          "ஒழுக்கமுடைய சான்றோரின் வாய்ச் சொற்கள், வழுக்கல் உடைய சேற்று நிலத்தில் ஊன்றுகோல் போல் வாழ்க்கையில் உதவும்.",
+          "மனதின் நன்மையை உறுதியாக உடையவராயினும் சான்றோர்க்கு இனத்தின் நன்மை மேலும் நல்ல காவலாக அமையும்.",
+          "அறம், பொருள், இன்பம், உயிர்காக அஞ்சும் அச்சம் ஆகிய நான்கு வகையாலும் ஆராயப்பட்ட பிறகே ஒருவன் (ஒரு தொழிலுக்கு உரியவனாகத்) தெளியப்படுவான்.",
+          "கைப்பொருள் ஆவதற்க்கு காரணமான ஊழால் சோர்வில்லாத முயற்சி உண்டாகும், கைப்பொருள் போவதற்க்கு காரணமான ஊழால் சோம்பல் ஏற்படும்."
+        ],
+        "quiz_options_en": [
+          "Virtuous men's wisdom is found A strong staff on slippery ground",
+          "Men of wisdom, though good in mind In friends of worth a new strength find",
+          "Pleasure, gold, fear of life Virtue- Test by these four and trust the true",
+          "Efforts succeed by waxing star Wealth-losing brings waning star"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — ஊழியல் (ஊழ்) பகுதியில் குறள் 371 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கைப்பொருள் ஆவதற்க்கு காரணமான ஊழால் சோர்வில்லாத முயற்சி உண்டாகும், கைப்பொருள் போவதற்க்கு காரணமான ஊழால் சோம்பல் ஏற்படும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, இருவினைப்பயன் செய்தவனையே சென்றடைதற்கு ஏதுவாகிய நியதி. ஊழ், பால், முறை, உண்மை, தெய்வம், நியதி, விதியென்பன ஒருபொருட்கிளவி. இது பொருள் இன்பங்கள் இரண்டிற்கும் பொதுவாய் ஒன்றனுள் வைக்கப் படாமையானும், மேற்கூறிய அறத்தோடு இயைபு உடைமையானும், அதனது இறுதிக்கண...",
+        "reflection_en": "Within Book of Virtue (Fate — Chapter 38: 'Fate'), Kural 371 distills a foundational ethical insight: \"Wealth-giving fate power of unflinching effort brings; From fate that takes away idle remissness springs\" Philosophically, Perseverance comes from a prosperous fate, and idleness from an adverse fate.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "perseverance",
+        "wealth",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 372,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பொருள் இழந்தற்கு காரணமான ஊழ், பேதை யாக்கும் பொருள் ஆவதற்க்கு காரணமான ஊழ் அறிவைப் பெருக்கும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: An adverse fate produces folly, and a prosperous fate produces enlarged knowledge.",
+        "story_title_ta": "ஊழ் — கவின் கற்ற பாடம்",
+        "story_title_en": "Fate — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஊழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 372 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தாழ்வதற்கு உரிய விதி இருந்தால் அறிவு மனிதனைப் பேதை ஆக்கும்; உயர்வதற்கு உரிய விதி இருந்தால் அறிவு விரிவு பெறும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Fate'. Grandpa shared Kural 372 and explained in simple words: An adverse fate produces folly, and a prosperous fate produces enlarged knowledge. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அழிவுதரும் இயற்கை நிலை, அறியாமையை உண்டாக்கும்; ஆக்கம் தரும் இயற்கை நிலை, அதற்கேற்ப அறிவை விரிவாக்கும்.",
+        "moral_en": "Moral: The fate that loss ordains makes wise men's wisdom foolishness; The fate that gain bestows with ampler powers will wisdom bless.",
+        "game_blank_word_ta": "பேதைப்",
+        "game_options_ta": [
+          "பேதைப்",
+          "ஆகூழால்",
+          "தோன்றும்",
+          "அசைவின்மை"
+        ],
+        "game_options_en": [
+          "Loss-fate makes a dull fool of us Gain-fate makes us prosperous, wise!",
+          "Efforts succeed by waxing star Wealth-losing brings waning star",
+          "What matters subtle study deep? Levels of innate wisdom-keep",
+          "Two natures in the world obtain Some wealth and others wisdom gain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊழ் (ஊழியல்) பிரிவில் அமைந்த குறள் 372, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தாழ்வதற்கு உரிய விதி இருந்தால் அறிவு மனிதனைப் பேதை ஆக்கும்; உயர்வதற்கு உரிய விதி இருந்தால் அறிவு விரிவு பெறும். கலைஞர் உரை கூறுவது: அழிவுதரும் இயற்கை நிலை, அறியாமையை உண்டாக்கும்; ஆக்கம் தரும் இயற்கை நிலை, அதற்கேற்ப அறிவை விரிவாக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Fate (Fate), Kural 372 speaks directly to teens navigating studies, friendships, leadership, and digital choices: An adverse fate produces folly, and a prosperous fate produces enlarged knowledge. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'ஊழ்' குறள் 372 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 372 (Fate) and writing one clear priority.",
+        "quiz_question_ta": "'ஊழ்' அதிகாரத்தில் வரும் திருக்குறள் 372 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 372 from Chapter 'Fate'?",
+        "quiz_options_ta": [
+          "பொருள் இழந்தற்கு காரணமான ஊழ், பேதை யாக்கும் பொருள் ஆவதற்க்கு காரணமான ஊழ் அறிவைப் பெருக்கும்.",
+          "எவ்வளவு சிறிதே ஆயினும் நல்லவற்றைக் கேட்டறிய வேண்டும், கேட்ட அந்த அளவிற்கு அவை நிறைந்த பெருமையைத் தரும்.",
+          "மனத்தின் நன்மையால் மறுமை இன்பம் உண்டாகும், அதுவும் இனத்தின் நன்மையால் மேலும் சிறப்புடையதாகும்.",
+          "நல்லகுடியில் பிறந்து குற்றங்களிலிருந்து நீங்கிப் பழியாச் செயல்களைச் செய்ய அஞ்சுகின்ற நாணம் உடையவனையே நம்பித் தெளிய வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Loss-fate makes a dull fool of us Gain-fate makes us prosperous, wise!",
+          "Lend ear to good words however few That much will highly exalt you",
+          "Good mind decides the future bliss Good company gains strength to this",
+          "Spotless name of noble birth Shamed of stain-that choice is worth"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — ஊழியல் (ஊழ்) பகுதியில் குறள் 372 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருள் இழந்தற்கு காரணமான ஊழ், பேதை யாக்கும் பொருள் ஆவதற்க்கு காரணமான ஊழ் அறிவைப் பெருக்கும். பரிமேலழகர் உரை நுட்பம்: இழவு ஊழ்(உற்றக்கடை) அறிவு பேதைப் படுக்கும் - ஒருவனுக்கு எல்லா அறிவும் உளவாயினும், கைப்பொருள் இழத்தற்கு ஏதுவாகிய ஊழ் வந்துற்றவிடத்து, அஃது அதனைப் பேதையாக்கும், ஆகல் ஊழ் உற்றக்கடை அகற்றும் - இனி அவன் அறிவு சுருங்கியிருப்பினும்,கைப்பொருளாதற்கு ஏதுவாகிய ஊழ...",
+        "reflection_en": "Within Book of Virtue (Fate — Chapter 38: 'Fate'), Kural 372 distills a foundational ethical insight: \"The fate that loss ordains makes wise men's wisdom foolishness; The fate that gain bestows with ampler powers will wisdom bless\" Philosophically, An adverse fate produces folly, and a prosperous fate produces enlarged knowledge.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 373,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவன் நுட்பமான நூல் பலவற்றைக் கற்றாலும் ஊழுக்கு ஏற்றவாறு அவனுக்கு உள்ள தாகும் அறிவே மேம்பட்டுத் தோன்றும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Although (a man) may study the most polished treatises, the knowledge which fate has decreed to him will still prevail.",
+        "story_title_ta": "ஊழ் — நிலா கற்ற பாடம்",
+        "story_title_en": "Fate — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஊழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 373 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பேதை ஆக்குவதற்கு உரிய விதி நமக்கு இருந்தால், நுட்பமான கருத்துக்களை உடைய பல நூல்களைக் கற்றாலும் இயல்பான அறிவே இருக்கும். ( அறிவு விரிவ பெறாது).' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Fate'. Grandpa shared Kural 373 and explained in simple words: Although (a man) may study the most polished treatises, the knowledge which fate has decreed to him will still prevail. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: கூரிய அறிவு வழங்கக் கூடிய நூல்களை ஒருவர் கற்றிருந்த போதிலும் அவரது இயற்கை அறிவே மேலோங்கி நிற்கும்.",
+        "moral_en": "Moral: In subtle learning manifold though versed man be,'The wisdom, truly his, will gain supremacy.",
+        "game_blank_word_ta": "கற்பினும்",
+        "game_options_ta": [
+          "ஆகூழால்",
+          "கற்பினும்",
+          "தோன்றும்",
+          "அசைவின்மை"
+        ],
+        "game_options_en": [
+          "Efforts succeed by waxing star Wealth-losing brings waning star",
+          "What matters subtle study deep? Levels of innate wisdom-keep",
+          "Loss-fate makes a dull fool of us Gain-fate makes us prosperous, wise!",
+          "Two natures in the world obtain Some wealth and others wisdom gain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊழ் (ஊழியல்) பிரிவில் அமைந்த குறள் 373, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பேதை ஆக்குவதற்கு உரிய விதி நமக்கு இருந்தால், நுட்பமான கருத்துக்களை உடைய பல நூல்களைக் கற்றாலும் இயல்பான அறிவே இருக்கும். ( அறிவு விரிவ பெறாது). கலைஞர் உரை கூறுவது: கூரிய அறிவு வழங்கக் கூடிய நூல்களை ஒருவர் கற்றிருந்த போதிலும் அவரது இயற்கை அறிவே மேலோங்கி நிற்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Fate (Fate), Kural 373 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Although (a man) may study the most polished treatises, the knowledge which fate has decreed to him will still prevail. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'ஊழ்' குறள் 373 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 373 (Fate) and writing one clear priority.",
+        "quiz_question_ta": "'ஊழ்' அதிகாரத்தில் வரும் திருக்குறள் 373 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 373 from Chapter 'Fate'?",
+        "quiz_options_ta": [
+          "நுட்பமாக உணர்ந்து நிறைந்த கேள்வியறிவை உடையவர், ( ஒரு கால் பொருள்களைத்) தவறாக உணர்ந்திருந்தாலும் பேதைமையானவற்றைச் சொல்லார்.",
+          "ஒருவன் நுட்பமான நூல் பலவற்றைக் கற்றாலும் ஊழுக்கு ஏற்றவாறு அவனுக்கு உள்ள தாகும் அறிவே மேம்பட்டுத் தோன்றும்.",
+          "நல்ல இனத்தைவிடச் சிறந்ததாகிய துணையும் உலகத்தில் இல்லை, தீய இனத்தைவிடத் துன்பப்படுத்தும் பகையும் இல்லை.",
+          "அரிய நூல்களைத் கற்றுத் தேர்ந்து குற்றம் அற்றவரிடத்திலும் ஆராய்ந்துப் பார்க்குமிடத்தில் அறியாமை இல்லாதிருப்பது அருமையாகும்."
+        ],
+        "quiz_options_en": [
+          "Who listen well and learn sharply Not ev'n by slip speak foolishly",
+          "What matters subtle study deep? Levels of innate wisdom-keep",
+          "No help good company exeeds; The bad to untold anguish leads",
+          "Though deep scholars of stainless sense Rare is freedom from ignorance"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — ஊழியல் (ஊழ்) பகுதியில் குறள் 373 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் நுட்பமான நூல் பலவற்றைக் கற்றாலும் ஊழுக்கு ஏற்றவாறு அவனுக்கு உள்ள தாகும் அறிவே மேம்பட்டுத் தோன்றும். பரிமேலழகர் உரை நுட்பம்: நுண்ணிய நூல் பல கற்பினும் - பேதைப்படுக்கும் ஊழுடையான் ஒருவன் நுண்ணிய பொருள்களை உணர்த்தும் நூல் பலவற்றையும் கற்றானாயினும், மற்றும் தன் உண்மை அறிவே மிகும் - அவனுக்குப் பின்னும் தன் ஊழான் ஆகிய பேதைமை உணர்வே மேற்படும். (பொருளின் உண்மை நூலின்மேல் ஏற்றப்பட்டது...",
+        "reflection_en": "Within Book of Virtue (Fate — Chapter 38: 'Fate'), Kural 373 distills a foundational ethical insight: \"In subtle learning manifold though versed man be,'The wisdom, truly his, will gain supremacy\" Philosophically, Although (a man) may study the most polished treatises, the knowledge which fate has decreed to him will still prevail.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "wisdom",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 374,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: உலகத்தின் இயற்க்கை ஊழின் காரணமாக இரு வேறு வகைப்படும், செல்வம் உடையவராதலும் வேறு அறிவு உடையவராதலும் வேறு.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: There are (through fate) two different natures in the world, hence the difference (observable in men) in (their acquisition of) wealth, and in their attainment of knowledge.",
+        "story_title_ta": "ஊழ் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Fate — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஊழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 374 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உலகின் இயல்பு இருவகைப்பட்டது; செல்வரை ஆக்கும் விதியும், அறிஞரை ஆக்கும் விதியும் வேறு வேறாம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Fate'. Grandpa shared Kural 374 and explained in simple words: There are (through fate) two different natures in the world, hence the difference (observable in men) in (their acquisition of) wealth, and in their attainment of knowledge. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உலகின் இயற்கை நிலை இரு வேறுபட்டதாகும் ஒருவர் செல்வமுடையவராகவும், ஒருவர் அறிவுடையவராகவும் இருப்பதே அந்த வேறுபாடாகும்.",
+        "moral_en": "Moral: Two fold the fashion of the world: some live in fortune's light; While other some have souls in wisdom's radiance bright.",
+        "game_blank_word_ta": "இயற்கை",
+        "game_options_ta": [
+          "ஆகூழால்",
+          "தோன்றும்",
+          "இயற்கை",
+          "அசைவின்மை"
+        ],
+        "game_options_en": [
+          "Efforts succeed by waxing star Wealth-losing brings waning star",
+          "Loss-fate makes a dull fool of us Gain-fate makes us prosperous, wise!",
+          "Two natures in the world obtain Some wealth and others wisdom gain",
+          "What matters subtle study deep? Levels of innate wisdom-keep"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊழ் (ஊழியல்) பிரிவில் அமைந்த குறள் 374, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உலகின் இயல்பு இருவகைப்பட்டது; செல்வரை ஆக்கும் விதியும், அறிஞரை ஆக்கும் விதியும் வேறு வேறாம். கலைஞர் உரை கூறுவது: உலகின் இயற்கை நிலை இரு வேறுபட்டதாகும் ஒருவர் செல்வமுடையவராகவும், ஒருவர் அறிவுடையவராகவும் இருப்பதே அந்த வேறுபாடாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Fate (Fate), Kural 374 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There are (through fate) two different natures in the world, hence the difference (observable in men) in (their acquisition of) wealth, and in their attainment of knowledge. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'ஊழ்' குறள் 374 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 374 (Fate) and writing one clear priority.",
+        "quiz_question_ta": "'ஊழ்' அதிகாரத்தில் வரும் திருக்குறள் 374 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 374 from Chapter 'Fate'?",
+        "quiz_options_ta": [
+          "கேள்வியறிவால் துளைக்கப் படாத செவிகள், ( இயற்கையான துளைகள் கொண்டு ஓசையைக்) கேட்டறிந்தாலும் கேளாத செவிட்டுத் தன்மை உடையனவே.",
+          "(ஒரு செயலைத் தொடங்குமுன்) அதனால் அழிவதையும் அழிந்த பின் ஆவதையும், பின்பு உண்டாகும் ஊதியத்தையும் ஆராய்ந்து செய்ய வேண்டும்.",
+          "உலகத்தின் இயற்க்கை ஊழின் காரணமாக இரு வேறு வகைப்படும், செல்வம் உடையவராதலும் வேறு அறிவு உடையவராதலும் வேறு.",
+          "ஒருவனுடைய குணங்களை ஆராய்ந்து, பிறகு குற்றங்களையும் ஆராய்ந்து, மிகுதியானவை எவையென ஆராய்ந்து, மிகுந்திப்பவற்றால் தெளிந்து கொள்ள வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "That ear though hearing is dulled Which is not by wisdom drilled",
+          "Weigh well output the loss and gain And proper action ascertain",
+          "Two natures in the world obtain Some wealth and others wisdom gain",
+          "Good and evil in man weigh well Judge him by virtues which prevail"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — ஊழியல் (ஊழ்) பகுதியில் குறள் 374 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உலகத்தின் இயற்க்கை ஊழின் காரணமாக இரு வேறு வகைப்படும், செல்வம் உடையவராதலும் வேறு அறிவு உடையவராதலும் வேறு. பரிமேலழகர் உரை நுட்பம்: உலகத்து இயற்கை இரு வேறு - உலகத்து ஊழினான் ஆய இயற்கை இரண்டு கூறு, திரு வேறு தெள்ளியராதலும் வேறு - ஆதலால் செல்வமுடையராதலும் வேறு, அறிவுடையராதலும் வேறு. (செல்வத்தினைப் படைத்தலும் காத்தலும் பயன்கோடலும் அறிவுடையார்க்கல்லது இயலாவன்றே? அவ்வாறன்றி, அறிவுடையார...",
+        "reflection_en": "Within Book of Virtue (Fate — Chapter 38: 'Fate'), Kural 374 distills a foundational ethical insight: \"Two fold the fashion of the world: some live in fortune's light; While other some have souls in wisdom's radiance bright\" Philosophically, There are (through fate) two different natures in the world, hence the difference (observable in men) in (their acquisition of) wealth, and in their attainment of knowledge.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wealth",
+        "wisdom",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 375,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: செல்வத்தை ஈட்டும் முயற்சிக்கு ஊழ்வகையால் நல்லவை எல்லாம் தீயவை ஆதலும் உண்டு, தீயவை நல்லவை ஆதலும் உண்டு.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: In the acquisition of property, every thing favourable becomes unfavourable, and (on the other hand) everything unfavourable becomes favourable, (through the power of fate).",
+        "story_title_ta": "ஊழ் — இனியா கற்ற பாடம்",
+        "story_title_en": "Fate — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஊழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 375 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நாம் பணத்தைப் பெருக்க எடுக்கும் முயற்சியில் காலம், இடம், தொழில் ஆகியவை சரியாக இருந்தாலும், தீய விதி குறுக்கிட்டால் நட்டம் உண்டாகும். அவை சரியாக இல்லை என்றாலும் நல்ல விதி வருமானால் லாபம் உண்டாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Fate'. Grandpa shared Kural 375 and explained in simple words: In the acquisition of property, every thing favourable becomes unfavourable, and (on the other hand) everything unfavourable becomes favourable, (through the power of fate). The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நல்ல செயல்களை ஆற்ற முற்படும்போது அவை தீமையில் போய் முடிந்துவிடுவதும், தீய செயல்களை ஆற்றிட முனையும்போது அவை நல்லவைகளாக முடிந்து விடுவதும் இயற்கை நிலை எனப்படும்.",
+        "moral_en": "Moral: All things that good appear will oft have ill success; All evil things prove good for gain of happiness.",
+        "game_blank_word_ta": "நல்லவாம்",
+        "game_options_ta": [
+          "ஆகூழால்",
+          "தோன்றும்",
+          "அசைவின்மை",
+          "நல்லவாம்"
+        ],
+        "game_options_en": [
+          "Efforts succeed by waxing star Wealth-losing brings waning star",
+          "Loss-fate makes a dull fool of us Gain-fate makes us prosperous, wise!",
+          "What matters subtle study deep? Levels of innate wisdom-keep",
+          "In making wealth fate changes mood; The good as bad and bad as good"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊழ் (ஊழியல்) பிரிவில் அமைந்த குறள் 375, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாம் பணத்தைப் பெருக்க எடுக்கும் முயற்சியில் காலம், இடம், தொழில் ஆகியவை சரியாக இருந்தாலும், தீய விதி குறுக்கிட்டால் நட்டம் உண்டாகும். அவை சரியாக இல்லை என்றாலும் நல்ல விதி வருமானால் லாபம் உண்டாகும். கலைஞர் உரை கூறுவது: நல்ல செயல்களை ஆற்ற முற்படும்போது அவை தீமையில் போய் முடிந்துவிடுவதும், தீய செயல்களை ஆற்றிட முனையும்போது அவை நல்லவைகளாக முடிந்து விடுவதும் இயற்கை நிலை எனப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Fate (Fate), Kural 375 speaks directly to teens navigating studies, friendships, leadership, and digital choices: In the acquisition of property, every thing favourable becomes unfavourable, and (on the other hand) everything unfavourable becomes favourable, (through the power of fate). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'ஊழ்' குறள் 375 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 375 (Fate) and writing one clear priority.",
+        "quiz_question_ta": "'ஊழ்' அதிகாரத்தில் வரும் திருக்குறள் 375 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 375 from Chapter 'Fate'?",
+        "quiz_options_ta": [
+          "நுட்பமான பொருள்களைக் கேட்டறிந்தவர் அல்லாத மற்றவர், வணக்கமானச் சொற்களைப் பேசும் வாயினை உடையவராக முடியாது.",
+          "ஆராய்ந்து சேர்ந்த இனத்துடன் (செயலைப்பற்றி) நன்றாகத் தேர்ந்து, தாமும் எண்ணிப்பார்த்துச் செய்கின்றவர்க்கு அறிய பொருள் ஒன்றும் இல்லை.",
+          "(மக்களுடைய குணங்களாலாகிய) பெருமைக்கும் (குற்றங்களாலாகிய) சிறுமைக்கும் தேர்ந்தறியும் உரைக் கல்லாக இருப்பவை அவரவருடைய செயல்களே ஆகும்.",
+          "செல்வத்தை ஈட்டும் முயற்சிக்கு ஊழ்வகையால் நல்லவை எல்லாம் தீயவை ஆதலும் உண்டு, தீயவை நல்லவை ஆதலும் உண்டு."
+        ],
+        "quiz_options_en": [
+          "A modest mouth is hard for those Who care little to counsels wise",
+          "Nothing is hard for him who acts With worthy counsels weighing facts",
+          "By the touchstone of deeds is seen If any one is great or mean",
+          "In making wealth fate changes mood; The good as bad and bad as good"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — ஊழியல் (ஊழ்) பகுதியில் குறள் 375 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செல்வத்தை ஈட்டும் முயற்சிக்கு ஊழ்வகையால் நல்லவை எல்லாம் தீயவை ஆதலும் உண்டு, தீயவை நல்லவை ஆதலும் உண்டு. பரிமேலழகர் உரை நுட்பம்: செல்வம் செயற்கு - செல்வத்தை ஆக்குதற்கு, நல்லவைஎல்லாம் தீயவாம் - நல்லவை எல்லாம் தீயவாய் அழிக்கும்; தீயவும் நல்லவாம்-அதுவே யன்றித் தீயவை தாமும் நல்லவாய் ஆக்கும், (ஊழ் வயத்தான். 'நல்லவை' 'தீயவை' யென்பன காலமும், இடனும், கருவியும், தொழிலும் முதலியவற்றை. 'ஊழா...",
+        "reflection_en": "Within Book of Virtue (Fate — Chapter 38: 'Fate'), Kural 375 distills a foundational ethical insight: \"All things that good appear will oft have ill success; All evil things prove good for gain of happiness\" Philosophically, In the acquisition of property, every thing favourable becomes unfavourable, and (on the other hand) everything unfavourable becomes favourable, (through the power of fate).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wealth",
+        "leadership",
+        "family",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 376,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஊழால் தமக்கு உரியவை அல்லாதப் பொருள்கள் வருந்திக்காப்பாற்றினாலும் நில்லாமல் போகும் தமக்கு உரியவை கொண்டு போய்ச் சொரிந்தாலும் போகா.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Whatever is not conferred by fate cannot be preserved although it be guarded with most painful care; and that, which fate has made his, cannot be lost, although one should even take it and throw it away.",
+        "story_title_ta": "ஊழ் — முகில் கற்ற பாடம்",
+        "story_title_en": "Fate — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஊழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 376 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எத்தனை காத்தாலும் நமக்கு விதி இல்லை என்றால், செல்வம் நம்மிடம் தங்காது. வேண்டா என்று நாமே வெளியே தள்ளினாலும் விதி இருந்தால் செல்வம் நம்மை விட்டுப் போகமாட்டாது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Fate'. Grandpa shared Kural 376 and explained in simple words: Whatever is not conferred by fate cannot be preserved although it be guarded with most painful care; and that, which fate has made his, cannot be lost, although one should even take it and throw it away. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தனக்கு உரிமையல்லாதவற்றை எவ்வளவுதான் பாதுகாப்பாக வைத்தாலும் அவை தங்காமல் போய்விடக் கூடும்; உரிமையுள்ளவற்றை எங்கே கொண்டு போய்ப் போட்டாலும் அவை எங்கும் போகமாட்டா.",
+        "moral_en": "Moral: Things not your own will yield no good, howe'er you guard with pain; Your own, howe'er you scatter them abroad, will yours remain.",
+        "game_blank_word_ta": "ஆகாவாம்",
+        "game_options_ta": [
+          "ஆகாவாம்",
+          "ஆகூழால்",
+          "தோன்றும்",
+          "அசைவின்மை"
+        ],
+        "game_options_en": [
+          "Things not thine never remain Things destined are surely thine",
+          "Efforts succeed by waxing star Wealth-losing brings waning star",
+          "Loss-fate makes a dull fool of us Gain-fate makes us prosperous, wise!",
+          "What matters subtle study deep? Levels of innate wisdom-keep"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊழ் (ஊழியல்) பிரிவில் அமைந்த குறள் 376, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எத்தனை காத்தாலும் நமக்கு விதி இல்லை என்றால், செல்வம் நம்மிடம் தங்காது. வேண்டா என்று நாமே வெளியே தள்ளினாலும் விதி இருந்தால் செல்வம் நம்மை விட்டுப் போகமாட்டாது. கலைஞர் உரை கூறுவது: தனக்கு உரிமையல்லாதவற்றை எவ்வளவுதான் பாதுகாப்பாக வைத்தாலும் அவை தங்காமல் போய்விடக் கூடும்; உரிமையுள்ளவற்றை எங்கே கொண்டு போய்ப் போட்டாலும் அவை எங்கும் போகமாட்டா. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Fate (Fate), Kural 376 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Whatever is not conferred by fate cannot be preserved although it be guarded with most painful care; and that, which fate has made his, cannot be lost, although one should even take it and throw it away. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'ஊழ்' குறள் 376 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 376 (Fate) and writing one clear priority.",
+        "quiz_question_ta": "'ஊழ்' அதிகாரத்தில் வரும் திருக்குறள் 376 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 376 from Chapter 'Fate'?",
+        "quiz_options_ta": [
+          "ஊழால் தமக்கு உரியவை அல்லாதப் பொருள்கள் வருந்திக்காப்பாற்றினாலும் நில்லாமல் போகும் தமக்கு உரியவை கொண்டு போய்ச் சொரிந்தாலும் போகா.",
+          "செவியால் கேள்விச் சுவை உணராமல் வாயின் சுவையுணர்வு மட்டும் உடைய மக்கள், இறந்தாலும் என்ன, உயிரோடு வாழ்ந்தாலும் என்ன.",
+          "பின் விளையும் ஊதியத்தைக் கருதி இப்போது கையில் உள்ள முதலை இழந்து விடக் காரணமாச் செயலை அறிவுடையோர் மேற்க்கொள்ள மாட்டார்.",
+          "சுற்றத்தாறின் தெடர்பு அற்றவரை நம்பித் தெளியக்கூடாது, அவர் உலகத்தில் பற்று இல்லாதவராகையால் பழிக்கு நாண மாட்டார்."
+        ],
+        "quiz_options_en": [
+          "Things not thine never remain Things destined are surely thine",
+          "Who taste by mouth and not by ear What if they fare ill or well here?",
+          "The wise risk not their capital In doubtful gains and lose their all",
+          "Choose not those men without kinsmen Without affine or shame of sin"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — ஊழியல் (ஊழ்) பகுதியில் குறள் 376 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஊழால் தமக்கு உரியவை அல்லாதப் பொருள்கள் வருந்திக்காப்பாற்றினாலும் நில்லாமல் போகும் தமக்கு உரியவை கொண்டு போய்ச் சொரிந்தாலும் போகா. பரிமேலழகர் உரை நுட்பம்: பால் அல்ல பரியினும் ஆகாவாம் - தமக்கு ஊழல்லாத பொருள்கள் வருந்திக்காப்பினும் தம்மிடத்து நில்லாவாம், தம உய்த்துச் சொரியினும் போகா - ஊழால் தமவாய பொருள்கள் புறத்தே கொண்டுபோய்ச் சொரிந்தாலும் தம்மை விட்டுப் போகா. (பொருள்களின் நிலையும் போக்கும் ஊழினான் ஆவதல்லது...",
+        "reflection_en": "Within Book of Virtue (Fate — Chapter 38: 'Fate'), Kural 376 distills a foundational ethical insight: \"Things not your own will yield no good, howe'er you guard with pain; Your own, howe'er you scatter them abroad, will yours remain\" Philosophically, Whatever is not conferred by fate cannot be preserved although it be guarded with most painful care; and that, which fate has made his, cannot be lost, although one should even take it and throw it away.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wealth",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 377,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஊழ் ஏற்ப்படுத்திய வகையால் அல்லாமல் முயன்று கோடிக்கணக்கானப் பொருளைச் சேர்த்தவருக்கும் அவற்றை நுகர முடியாது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Even those who gather together millions will only enjoy them, as it has been determined by the disposer (of all things).",
+        "story_title_ta": "ஊழ் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Fate — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஊழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 377 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'கோடிப்பொருள் சேர்ந்திருந்தாலும் , இறைவன் விதித்த விதிப்படிதான் நாம் அதை அனுபவிக்க முடியுமே தவிர, நம் விருப்பப்படி அனுபவிப்பது கடினம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Fate'. Grandpa shared Kural 377 and explained in simple words: Even those who gather together millions will only enjoy them, as it has been determined by the disposer (of all things). The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வகுத்து முறைப்படுத்திய வாழ்க்கை நெறியை ஒட்டி நடக்கா விட்டால் கோடிப் பொருள் குவித்தாலும், அதன் பயனை அனுபவிப்பது என்பது அரிதேயாகும்.",
+        "moral_en": "Moral: Save as the 'sharer' shares to each in due degree, To those who millions store enjoyment scarce can be.",
+        "game_blank_word_ta": "அரிது",
+        "game_options_ta": [
+          "ஆகூழால்",
+          "அரிது",
+          "தோன்றும்",
+          "அசைவின்மை"
+        ],
+        "game_options_en": [
+          "Efforts succeed by waxing star Wealth-losing brings waning star",
+          "Who crores amass enjoy but what The Dispenser's decrees allot",
+          "Loss-fate makes a dull fool of us Gain-fate makes us prosperous, wise!",
+          "What matters subtle study deep? Levels of innate wisdom-keep"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊழ் (ஊழியல்) பிரிவில் அமைந்த குறள் 377, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கோடிப்பொருள் சேர்ந்திருந்தாலும் , இறைவன் விதித்த விதிப்படிதான் நாம் அதை அனுபவிக்க முடியுமே தவிர, நம் விருப்பப்படி அனுபவிப்பது கடினம். கலைஞர் உரை கூறுவது: வகுத்து முறைப்படுத்திய வாழ்க்கை நெறியை ஒட்டி நடக்கா விட்டால் கோடிப் பொருள் குவித்தாலும், அதன் பயனை அனுபவிப்பது என்பது அரிதேயாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Fate (Fate), Kural 377 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even those who gather together millions will only enjoy them, as it has been determined by the disposer (of all things). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'ஊழ்' குறள் 377 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 377 (Fate) and writing one clear priority.",
+        "quiz_question_ta": "'ஊழ்' அதிகாரத்தில் வரும் திருக்குறள் 377 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 377 from Chapter 'Fate'?",
+        "quiz_options_ta": [
+          "அறிவு அழிவு வராமல் காக்கும் கருவியாகும், அன்றியும் பகைகொண்டு எதிர்ப்பவர்க்கும் அழிக்க முடியாத உள்ளரணும் ஆகும்.",
+          "ஊழ் ஏற்ப்படுத்திய வகையால் அல்லாமல் முயன்று கோடிக்கணக்கானப் பொருளைச் சேர்த்தவருக்கும் அவற்றை நுகர முடியாது.",
+          "இழிவு தருவதாகியக் குற்றத்திற்கு அஞ்சுகின்றவர் (இன்ன ஊதியம் பயிக்கும் என்னும்) தெளிவு இல்லாத செயலைத் தொடங்கமாட்டார்.",
+          "அறியவேண்டியவற்றை அறியாதிருப்பவரை அன்புடைமை காரணமாக நம்பித்தெளிதல், (தெளிந்தவர்க்கு) எல்லா அறியாமையும் கெடும்."
+        ],
+        "quiz_options_en": [
+          "Wisdom's weapon wards off all woes It is a fort defying foes",
+          "Who crores amass enjoy but what The Dispenser's decrees allot",
+          "They who scornful reproach fear Commence no work not made clear",
+          "On favour leaning fools you choose; Folly in all its forms ensues"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — ஊழியல் (ஊழ்) பகுதியில் குறள் 377 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஊழ் ஏற்ப்படுத்திய வகையால் அல்லாமல் முயன்று கோடிக்கணக்கானப் பொருளைச் சேர்த்தவருக்கும் அவற்றை நுகர முடியாது. பரிமேலழகர் உரை நுட்பம்: கோடி தொகுத்தார்க்கும் - ஐம்பொறிகளான் நுகரப்படும் பொருள்கள் கோடியை முயன்று தொகுத்தார்க்கும், வகுத்தான் வகுத்த வகையல்லால் துய்த்தல் அரிது - தெய்வம் வகுத்த வகையான் அல்லது நுகர்தல் உண்டாகாது. (ஓர் உயிர் செய்த வினையின் பயன் பிறிதோர் உயிரின்கண் செல்லாமல...",
+        "reflection_en": "Within Book of Virtue (Fate — Chapter 38: 'Fate'), Kural 377 distills a foundational ethical insight: \"Save as the 'sharer' shares to each in due degree, To those who millions store enjoyment scarce can be\" Philosophically, Even those who gather together millions will only enjoy them, as it has been determined by the disposer (of all things).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wealth",
+        "ethics",
+        "education",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 378,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: வரவேண்டிய துன்பங்கள் வந்து வருத்தாமல் நீங்குமானால் நுகரும் பொருள் இல்லாத வறியவர் துறவறம் மேற்க்கொள்வர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The destitute will renounce desire (and become ascetics), if (fate) do not make them suffer the hindrances to which they are liable, and they pass away.",
+        "story_title_ta": "ஊழ் — கவின் கற்ற பாடம்",
+        "story_title_en": "Fate — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஊழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 378 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'துன்பங்களை அனுபவிக்க வேண்டும் என்னும் விதி, ஏழைகளைத் தடுத்திருக்கவில்லை என்றால், அவர்கள் துறவியர் ஆகியிருப்பார்கள்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Fate'. Grandpa shared Kural 378 and explained in simple words: The destitute will renounce desire (and become ascetics), if (fate) do not make them suffer the hindrances to which they are liable, and they pass away. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நுகர்வதற்குரியது எதுவுமில்லை என்ற உறுதியினால், தம்மை வருத்தக்கூடிய உணர்வுகள் வந்து வருத்தாமல் நீங்கிவிடுமானால் துறவறம் மேற்கொள்வர்.",
+        "moral_en": "Moral: The destitute with ascetics merit share, If fate to visit with predestined ills would spare.",
+        "game_blank_word_ta": "துறப்பார்மன்",
+        "game_options_ta": [
+          "ஆகூழால்",
+          "தோன்றும்",
+          "துறப்பார்மன்",
+          "அசைவின்மை"
+        ],
+        "game_options_en": [
+          "Efforts succeed by waxing star Wealth-losing brings waning star",
+          "Loss-fate makes a dull fool of us Gain-fate makes us prosperous, wise!",
+          "The destitute desire will quit If fate with ills visit them not",
+          "What matters subtle study deep? Levels of innate wisdom-keep"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊழ் (ஊழியல்) பிரிவில் அமைந்த குறள் 378, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: துன்பங்களை அனுபவிக்க வேண்டும் என்னும் விதி, ஏழைகளைத் தடுத்திருக்கவில்லை என்றால், அவர்கள் துறவியர் ஆகியிருப்பார்கள். கலைஞர் உரை கூறுவது: நுகர்வதற்குரியது எதுவுமில்லை என்ற உறுதியினால், தம்மை வருத்தக்கூடிய உணர்வுகள் வந்து வருத்தாமல் நீங்கிவிடுமானால் துறவறம் மேற்கொள்வர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Fate (Fate), Kural 378 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The destitute will renounce desire (and become ascetics), if (fate) do not make them suffer the hindrances to which they are liable, and they pass away. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'ஊழ்' குறள் 378 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 378 (Fate) and writing one clear priority.",
+        "quiz_question_ta": "'ஊழ்' அதிகாரத்தில் வரும் திருக்குறள் 378 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 378 from Chapter 'Fate'?",
+        "quiz_options_ta": [
+          "மனத்தை சென்ற இடத்தில் செல்லவிடாமல், தீமையானதிலிருந்து நீக்கிக் காத்து நன்மையானதில் செல்லவிடுவதே அறிவாகும்.",
+          "செயலின் வகைகளை எல்லாம் முற்ற எண்ணாமல் செய்யத்தொடங்குதல், பகைவரை வளரும் பாத்தியில் நிலைபெறச் செய்வதொரு வழியாகும்.",
+          "வரவேண்டிய துன்பங்கள் வந்து வருத்தாமல் நீங்குமானால் நுகரும் பொருள் இல்லாத வறியவர் துறவறம் மேற்க்கொள்வர்.",
+          "மற்றவனை ஒன்றும் ஆராயாமல் தெளிந்தால் அஃது (அவனுக்கு மட்டும் அல்லாமல்) அவனுடைய வழிமுறையில் தோன்றினவருக்கும் துன்பத்தைக் கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "Wisdom checks the straying senses Expels evils, impels goodness",
+          "Who marches without plans and ways His field is sure to foster foes",
+          "The destitute desire will quit If fate with ills visit them not",
+          "To trust an untried stranger brings Endless troubles on all our kins"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — ஊழியல் (ஊழ்) பகுதியில் குறள் 378 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வரவேண்டிய துன்பங்கள் வந்து வருத்தாமல் நீங்குமானால் நுகரும் பொருள் இல்லாத வறியவர் துறவறம் மேற்க்கொள்வர். பரிமேலழகர் உரை நுட்பம்: துப்புரவு இல்லார் துறப்பார் - வறுமையான் நுகர்ச்சி இல்லாதார் துறக்கும் கருத்துடையராவர், உறற்பால ஊட்டா கழியும் எனின் - ஊழ்கள் உறுதற்பாலவாய துன்பங்களை உறுவியாது ஒழியுமாயின். ('துறப்பார்' என்பது ஆர்ஈற்று எதிர்கால முற்றுச்சொல். தம்மால் விடப்பெறுவன தாமே விடப்பெற்று...",
+        "reflection_en": "Within Book of Virtue (Fate — Chapter 38: 'Fate'), Kural 378 distills a foundational ethical insight: \"The destitute with ascetics merit share, If fate to visit with predestined ills would spare\" Philosophically, The destitute will renounce desire (and become ascetics), if (fate) do not make them suffer the hindrances to which they are liable, and they pass away.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "wisdom",
+        "time",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 379,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நல்வினை விளையும் போது நல்லவை எனக் கருதி மகிழ்கின்றனர், தீவினை விளையும் போது துன்பப்பட்டுக் கலங்குவது ஏனோ.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: How is it that those, who are pleased with good fortune, trouble themselves when evil comes, (since both are equally the decree of fate) ?",
+        "story_title_ta": "ஊழ் — நிலா கற்ற பாடம்",
+        "story_title_en": "Fate — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஊழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 379 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நல்லது நடக்கும்போது மட்டும் நல்லது என அனுபவிப்பவர், தீயது நடக்கும்போது மட்டும் துன்பப்படுவது ஏன்?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Fate'. Grandpa shared Kural 379 and explained in simple words: How is it that those, who are pleased with good fortune, trouble themselves when evil comes, (since both are equally the decree of fate) ? The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நன்மையும் தீமையும் வாழ்க்கையில் மாறி மாறி வரும். நன்மை கண்டு மகிழ்கிறவர்கள், தீமை விளையும்போது மட்டும் மனம் கலங்குவது ஏன்?",
+        "moral_en": "Moral: When good things come, men view them all as gain; When evils come, why then should they complain.",
+        "game_blank_word_ta": "நல்லவாக்",
+        "game_options_ta": [
+          "ஆகூழால்",
+          "தோன்றும்",
+          "அசைவின்மை",
+          "நல்லவாக்"
+        ],
+        "game_options_en": [
+          "Efforts succeed by waxing star Wealth-losing brings waning star",
+          "Loss-fate makes a dull fool of us Gain-fate makes us prosperous, wise!",
+          "What matters subtle study deep? Levels of innate wisdom-keep",
+          "Who good in time of good perceive In evil time why should they grieve?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊழ் (ஊழியல்) பிரிவில் அமைந்த குறள் 379, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்லது நடக்கும்போது மட்டும் நல்லது என அனுபவிப்பவர், தீயது நடக்கும்போது மட்டும் துன்பப்படுவது ஏன்? கலைஞர் உரை கூறுவது: நன்மையும் தீமையும் வாழ்க்கையில் மாறி மாறி வரும். நன்மை கண்டு மகிழ்கிறவர்கள், தீமை விளையும்போது மட்டும் மனம் கலங்குவது ஏன்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Fate (Fate), Kural 379 speaks directly to teens navigating studies, friendships, leadership, and digital choices: How is it that those, who are pleased with good fortune, trouble themselves when evil comes, (since both are equally the decree of fate) ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'ஊழ்' குறள் 379 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 379 (Fate) and writing one clear priority.",
+        "quiz_question_ta": "'ஊழ்' அதிகாரத்தில் வரும் திருக்குறள் 379 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 379 from Chapter 'Fate'?",
+        "quiz_options_ta": [
+          "எப்பொருளை யார் யார் இடம் கேட்டாலும் (கேட்டவாறே கொள்ளாமல்) அப் பொருளின் மெய்யானப் பொருளைக் காண்பதே அறிவாகும்.",
+          "ஒருவன் செய்யத்தகாத செயல்களைச் செய்வதனால் கெடுவான், செய்யத்தக்க செயல்களை செய்யாமல் விடுவதனாலும் கெடுவான்.",
+          "யாரையும் ஆராயாமல் தெளியக்கூடாது, நன்றாக ஆராய்ந்த பின்னர் அவரிடம் தெளிவாகக் கொள்ளத்தக்க பொருள்களைத் தெளிந்து நம்ப வேண்டும்.",
+          "நல்வினை விளையும் போது நல்லவை எனக் கருதி மகிழ்கின்றனர், தீவினை விளையும் போது துன்பப்பட்டுக் கலங்குவது ஏனோ."
+        ],
+        "quiz_options_en": [
+          "To grasp the Truth from everywhere From everyone is wisdom fair",
+          "Doing unfit action ruins Failing fit-act also ruins",
+          "Trust not without testing and then Find proper work for trusted men",
+          "Who good in time of good perceive In evil time why should they grieve?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — ஊழியல் (ஊழ்) பகுதியில் குறள் 379 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நல்வினை விளையும் போது நல்லவை எனக் கருதி மகிழ்கின்றனர், தீவினை விளையும் போது துன்பப்பட்டுக் கலங்குவது ஏனோ. பரிமேலழகர் உரை நுட்பம்: நன்று ஆங்கால் நல்லவாக் காண்பவர் - நல்வினை விளையுங்கால், அதன் விளைவாய இன்பங்களைத் துடைக்கும் திறன் நாடாது, இவை நல்ல என்று இயைந்து அனுபவிப்பார், அன்று ஆங்கால் அல்லற்படுவது எவன் - ஏனைத் தீவினை விளையுங்கால் அதன் விளைவாய துன்பங்களையும் அவ்வாறு அனுபவியாது...",
+        "reflection_en": "Within Book of Virtue (Fate — Chapter 38: 'Fate'), Kural 379 distills a foundational ethical insight: \"When good things come, men view them all as gain; When evils come, why then should they complain\" Philosophically, How is it that those, who are pleased with good fortune, trouble themselves when evil comes, (since both are equally the decree of fate) ?",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "ethics",
+        "time",
+        "friendship",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 380,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஊழை விட மிக்க வலிமையுள்ளவை வேறு எவை உள்ளன, ஊழை விலக்கும் பொருட்டு மற்றோரு வழியைஆராய்ந்தாலும் அங்கும் தானே முன் வந்து நிற்கும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: What is stronger than fate ? If we think of an expedient (to avert it), it will itself be with us before (the thought).",
+        "story_title_ta": "ஊழ் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Fate — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஊழ்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 380 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'விதியை வெல்ல வேறொரு வழியை எண்ணி நாம் செயற்பட்டாலும், அந்த வழியிலேயோ வேறு ஒரு வழியிலேயோ அது நம்முன் வந்து நிற்கும்‌; ஆகவே விதியை விட வேறு எவை வலிமையானவை?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Fate'. Grandpa shared Kural 380 and explained in simple words: What is stronger than fate ? If we think of an expedient (to avert it), it will itself be with us before (the thought). The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: இயற்கை நிலையை மாற்றி மற்றொரு செயற்கை நிலையை அமைத்திட முனைந்தாலும், இயற்கை நிலையே முதன்மையாக வந்து நிற்பதால் அதைவிட வலிமையானவையாக வேறு எவை இருக்கின்றன?",
+        "moral_en": "Moral: What powers so great as those of Destiny? Man's skillSome other thing contrives; but fate's beforehand still.",
+        "game_blank_word_ta": "யாவுள",
+        "game_options_ta": [
+          "யாவுள",
+          "ஆகூழால்",
+          "தோன்றும்",
+          "அசைவின்மை"
+        ],
+        "game_options_en": [
+          "What power surpasses fate? Its will Persists against the human skill",
+          "Efforts succeed by waxing star Wealth-losing brings waning star",
+          "Loss-fate makes a dull fool of us Gain-fate makes us prosperous, wise!",
+          "What matters subtle study deep? Levels of innate wisdom-keep"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஊழ் (ஊழியல்) பிரிவில் அமைந்த குறள் 380, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: விதியை வெல்ல வேறொரு வழியை எண்ணி நாம் செயற்பட்டாலும், அந்த வழியிலேயோ வேறு ஒரு வழியிலேயோ அது நம்முன் வந்து நிற்கும்‌; ஆகவே விதியை விட வேறு எவை வலிமையானவை? கலைஞர் உரை கூறுவது: இயற்கை நிலையை மாற்றி மற்றொரு செயற்கை நிலையை அமைத்திட முனைந்தாலும், இயற்கை நிலையே முதன்மையாக வந்து நிற்பதால் அதைவிட வலிமையானவையாக வேறு எவை இருக்கின்றன? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Fate (Fate), Kural 380 speaks directly to teens navigating studies, friendships, leadership, and digital choices: What is stronger than fate ? If we think of an expedient (to avert it), it will itself be with us before (the thought). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'ஊழ்' குறள் 380 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 380 (Fate) and writing one clear priority.",
+        "quiz_question_ta": "'ஊழ்' அதிகாரத்தில் வரும் திருக்குறள் 380 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 380 from Chapter 'Fate'?",
+        "quiz_options_ta": [
+          "ஊழை விட மிக்க வலிமையுள்ளவை வேறு எவை உள்ளன, ஊழை விலக்கும் பொருட்டு மற்றோரு வழியைஆராய்ந்தாலும் அங்கும் தானே முன் வந்து நிற்கும்.",
+          "தான் சொல்லுவன எளிய பொருளையுடையனவாகப் பதியுமாறு சொல்லி, தான் பிறரிடம் கேட்பவற்றின் நுட்பமானப் பொருளையும் ஆராய்ந்து காண்பது அறிவாகும்.",
+          "(செய்யத் தகுந்த) செயலையும் வழிகளை எண்ணிய பிறகே துணிந்து தொடங்க வேண்டும், துணிந்த பின் எண்ணிப் பார்க்கலாம் என்பது குற்றமாகும்.",
+          "ஒருவனை ஆராயாமல் தெளிவடைதலும், ஆராய்ந்து தெளிவடைந்த ஒருவனிடம் ஐயப்படுதலும் ஆகிய இவை நீங்காதத் துன்பத்தைக் கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "What power surpasses fate? Its will Persists against the human skill",
+          "Speaking out thoughts in clear trends Wisdom subtle sense comprehends",
+          "Think and dare a proper deed Dare and think is bad in need",
+          "Trust without test; The trusted doubt; Both entail troubles in and out"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — ஊழியல் (ஊழ்) பகுதியில் குறள் 380 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஊழை விட மிக்க வலிமையுள்ளவை வேறு எவை உள்ளன, ஊழை விலக்கும் பொருட்டு மற்றோரு வழியைஆராய்ந்தாலும் அங்கும் தானே முன் வந்து நிற்கும். பரிமேலழகர் உரை நுட்பம்: மற்ற ஒன்று சூழினும் தான் முந்துறும் - தன்னை விலக்குதற் பொருட்டுத் தனக்கு மறுதலையாவதோர் உபாயத்தைச் சூழினும் , தான் அவ்வுபாயமேயானும் பிறிதொன்றானும் வழியாக வந்து அச்சூழ்ச்சியின் முற்பட்டு நிற்கும், ஊழின் பெருவழி யா உள - அதனால் ஊழ்போல மிக்க வலியுடையன யாஉள...",
+        "reflection_en": "Within Book of Virtue (Fate — Chapter 38: 'Fate'), Kural 380 distills a foundational ethical insight: \"What powers so great as those of Destiny? Man's skillSome other thing contrives; but fate's beforehand still\" Philosophically, What is stronger than fate ? If we think of an expedient (to avert it), it will itself be with us before (the thought).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "discipline",
+        "speech"
+      ]
+    }
+  ]
+}

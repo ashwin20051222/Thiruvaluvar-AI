@@ -1,0 +1,583 @@
+{
+  "adhikaram_id": 17,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.591480420+00:00",
+  "kurals": [
+    {
+      "kural_number": 161,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவன் தன் நெஞ்சில் பொறாமை இல்லாமல் வாழும் இயல்பைத் தனக்கு உரிய ஒழுக்க நெறியாகக் கொண்டு போற்ற வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Let a man esteem that disposition which is free from envy in the same manner as propriety of conduct.",
+        "story_title_ta": "அழுக்காறாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Not Envying — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அழுக்காறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 161 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உள்ளத்துள் பொறாமை இல்லாமல் வாழும் குணத்தை, ஒருவன் தனக்கு உரிய ஒழுக்கமாகக் கொள்க.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Not Envying'. Grandpa shared Kural 161 and explained in simple words: Let a man esteem that disposition which is free from envy in the same manner as propriety of conduct. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மனத்தில் பொறாமையில்லாமல் வாழும் இயல்பை ஒழுக்கத்திற்குரிய நெறியாகப் பெற்று விளங்கிட வேண்டும்.",
+        "moral_en": "Moral: As 'strict decorum's' laws, that all men bind, Let each regard unenvying grace of mind.",
+        "game_blank_word_ta": "ஒழுக்காறாக்",
+        "game_options_ta": [
+          "விழுப்பேற்றின்",
+          "ஒழுக்காறாக்",
+          "அஃதொப்பது",
+          "இல்லையார்"
+        ],
+        "game_options_en": [
+          "No excellence excels the one That by nature envies none",
+          "Deem your heart as virtuous When your nature is not jealous",
+          "Who envies others' good fortune Can't prosper in virtue of his own",
+          "The wise through envy don't others wrong Knowing that woes from evils throng"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அழுக்காறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 161, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உள்ளத்துள் பொறாமை இல்லாமல் வாழும் குணத்தை, ஒருவன் தனக்கு உரிய ஒழுக்கமாகக் கொள்க. கலைஞர் உரை கூறுவது: மனத்தில் பொறாமையில்லாமல் வாழும் இயல்பை ஒழுக்கத்திற்குரிய நெறியாகப் பெற்று விளங்கிட வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Envying (Domestic Virtue), Kural 161 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let a man esteem that disposition which is free from envy in the same manner as propriety of conduct. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அழுக்காறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Envying' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அழுக்காறாமை' அதிகாரத்தில் வரும் திருக்குறள் 161 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 161 from Chapter 'Not Envying'?",
+        "quiz_options_ta": [
+          "யான் வறியவன் என்று நினைத்துத் தீய செயல்களைச் செய்யக்கூடாது, செய்தால் மீண்டும் வறியவன் ஆகி வருந்துவான்.",
+          "ஒருவன் தன் நெஞ்சில் பொறாமை இல்லாமல் வாழும் இயல்பைத் தனக்கு உரிய ஒழுக்க நெறியாகக் கொண்டு போற்ற வேண்டும்.",
+          "பொருள் இல்லாதவர் ஒரு காலத்தில் வளம் பெற்று விளங்குவர், அருள் இல்லாதவர் வாழ்க்கையின் பயம் அற்றவரே அவர் ஒரு காலத்திலும் சிறந்து விளங்குதல் இல்லை.",
+          "வாய்மை என்று கூறப்படுவது எது என்றால், அது மற்றவர்க்கு ஒரு சிறிதும் தீங்கு இல்லாத சொற்களைக் சொல்லுதல் ஆகும்."
+        ],
+        "quiz_options_en": [
+          "Who makes poverty plea for ill Shall reduce himself poorer still",
+          "Deem your heart as virtuous When your nature is not jealous",
+          "The wealthless may prosper one day; The graceless never bloom agay",
+          "If \\\"What is truth\\\"? the question be, It is to speak out evil-free"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அழுக்காறாமை) பகுதியில் குறள் 161 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் தன் நெஞ்சில் பொறாமை இல்லாமல் வாழும் இயல்பைத் தனக்கு உரிய ஒழுக்க நெறியாகக் கொண்டு போற்ற வேண்டும். பரிமேலழகர் உரை நுட்பம்: (இதனுள் 'அழுக்காறு' என்பது ஒருசொல்.அதற்குப் பொருள் மேலே (குறள்: 35) உரைத்தாம். அச்சொல் பின் அழுக்காற்றைச் செய்யாமை என்னும் பொருள்பட எதிர்மறை ஆகாரமும் மகர ஐகார விகுதியும் பெற்று 'அழுக்காறாமை' என நின்றது. இப்பொறாமையும் பொறைக்கு மறுதலையாகலின், இதனை விலக்குதற்கு...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 17: 'Not Envying'), Kural 161 distills a foundational ethical insight: \"As 'strict decorum's' laws, that all men bind, Let each regard unenvying grace of mind\" Philosophically, Let a man esteem that disposition which is free from envy in the same manner as propriety of conduct.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "discipline",
+        "love",
+        "ethics",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 162,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: யாரிடத்திலும் பொறாமை இல்லாதிருக்கப் பெற்றால், ஒருவன் பெறத்தக்க மேம்பாடான பேறுகளில் அதற்கு ஒப்பானது வேறொன்றும் இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Amongst all attainable excellences there is none equal to that of being free from envy towords others.",
+        "story_title_ta": "அழுக்காறாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Not Envying — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அழுக்காறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 162 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எவர் இடத்தும் பொறாமை கொள்ளாதிருப்பதை ஒருவன் பெற்றால் சீரிய சிறப்புகளுள் அது போன்றது வேறு இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Not Envying'. Grandpa shared Kural 162 and explained in simple words: Amongst all attainable excellences there is none equal to that of being free from envy towords others. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: யாரிடமும் பொறாமை கொள்ளாத பண்பு ஒருவர்க்கு வாய்க்கப் பெறுமேயானால் அதற்கு மேலான பேறு அவருக்கு வேறு எதுவுமில்லை.",
+        "moral_en": "Moral: If man can learn to envy none on earth,'Tis richest gift, -beyond compare its worth.",
+        "game_blank_word_ta": "அஃதொப்பது",
+        "game_options_ta": [
+          "ஒழுக்காறாக்",
+          "கொள்க",
+          "அஃதொப்பது",
+          "ஒருவன்தன்"
+        ],
+        "game_options_en": [
+          "Deem your heart as virtuous When your nature is not jealous",
+          "Who envies others' good fortune Can't prosper in virtue of his own",
+          "No excellence excels the one That by nature envies none",
+          "The wise through envy don't others wrong Knowing that woes from evils throng"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அழுக்காறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 162, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எவர் இடத்தும் பொறாமை கொள்ளாதிருப்பதை ஒருவன் பெற்றால் சீரிய சிறப்புகளுள் அது போன்றது வேறு இல்லை. கலைஞர் உரை கூறுவது: யாரிடமும் பொறாமை கொள்ளாத பண்பு ஒருவர்க்கு வாய்க்கப் பெறுமேயானால் அதற்கு மேலான பேறு அவருக்கு வேறு எதுவுமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Envying (Domestic Virtue), Kural 162 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Amongst all attainable excellences there is none equal to that of being free from envy towords others. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அழுக்காறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Envying' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அழுக்காறாமை' அதிகாரத்தில் வரும் திருக்குறள் 162 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 162 from Chapter 'Not Envying'?",
+        "quiz_options_ta": [
+          "துன்பம் செய்யும் தீவினைகள் தன்னை வருத்துதலை விரும்பாதவன், தீயசெயல்களைத் தான் பிறருக்குச் செய்யாமலிருக்க வேண்டும்.",
+          "அருள் மேற்கொள்ளாதவன் செய்கின்ற அறச்செயலை ஆராய்ந்தால், அஃது அறிவு தெளியாதவன் ஒரு நூலின் உண்மைப் பொருளைக் கண்டாற் போன்றது.",
+          "யாரிடத்திலும் பொறாமை இல்லாதிருக்கப் பெற்றால், ஒருவன் பெறத்தக்க மேம்பாடான பேறுகளில் அதற்கு ஒப்பானது வேறொன்றும் இல்லை.",
+          "குற்றம் தீர்த்த நன்மையை விளைக்குமானால் பொய்யாச் சொற்களும் வாய்மை என்று கருதத் தக்க இடத்தைப் பெறும்."
+        ],
+        "quiz_options_en": [
+          "From wounding others let him refrain Who would from harm himself remain",
+          "Like Truth twisted by confused mind Wisdom is vain in hearts unkind",
+          "No excellence excels the one That by nature envies none",
+          "E'en falsehood may for truth suffice, When good it brings removing vice"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அழுக்காறாமை) பகுதியில் குறள் 162 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யாரிடத்திலும் பொறாமை இல்லாதிருக்கப் பெற்றால், ஒருவன் பெறத்தக்க மேம்பாடான பேறுகளில் அதற்கு ஒப்பானது வேறொன்றும் இல்லை. பரிமேலழகர் உரை நுட்பம்: யார் மாட்டும் அழுக்காற்றின் அன்மை பெறின் - யாவர் மாட்டும் அழுக்காற்றினின்று நீங்குதலை ஒருவன் பெறுமாயின்; விழுப்பேற்றின் அஃது ஒப்பது இல்லை - மற்று அவன் பெறும் சீரிய பேறுகளுள் அப்பேற்றினை ஒப்பது இல்லை. (அழுக்காறு பகைவர் மாட்டும் ஒழிதற்பாற்று என்பார், 'யார...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 17: 'Not Envying'), Kural 162 distills a foundational ethical insight: \"If man can learn to envy none on earth,'Tis richest gift, -beyond compare its worth\" Philosophically, Amongst all attainable excellences there is none equal to that of being free from envy towords others.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "time",
+        "education",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 163,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தனக்கு அறமும் ஆக்கமும் விரும்பாதவன் என்று கருதத் தக்கவனே, பிறனுடைய ஆக்கத்தைக் கண்டு மகிழாமல் அதற்காகப் பொறாமைப்படுவான்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Of him who instead of rejoicing in the wealth of others, envies it, it will be said \"he neither desires virtue not wealth.\".",
+        "story_title_ta": "அழுக்காறாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Not Envying — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அழுக்காறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 163 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறர் உயர்வு கண்டு மகிழாமல் பொறாமைப்படுபவன், அறத்தால் வரும் புண்ணியத்தை வேண்டா என மறுப்பவன் ஆவான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Not Envying'. Grandpa shared Kural 163 and explained in simple words: Of him who instead of rejoicing in the wealth of others, envies it, it will be said \"he neither desires virtue not wealth.\". The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அறநெறியையும், ஆக்கத்தையும் விரும்பிப் போற்றாதவன்தான், பிறர் பெருமையைப் போற்றாமல் பொறாமைக் களஞ்சியமாக விளங்குவான்.",
+        "moral_en": "Moral: Nor wealth nor virtue does that man desire 'tis plain, Whom others' wealth delights not, feeling envious pain.",
+        "game_blank_word_ta": "வேண்டாதான்",
+        "game_options_ta": [
+          "ஒழுக்காறாக்",
+          "கொள்க",
+          "ஒருவன்தன்",
+          "வேண்டாதான்"
+        ],
+        "game_options_en": [
+          "Deem your heart as virtuous When your nature is not jealous",
+          "No excellence excels the one That by nature envies none",
+          "The wise through envy don't others wrong Knowing that woes from evils throng",
+          "Who envies others' good fortune Can't prosper in virtue of his own"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அழுக்காறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 163, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர் உயர்வு கண்டு மகிழாமல் பொறாமைப்படுபவன், அறத்தால் வரும் புண்ணியத்தை வேண்டா என மறுப்பவன் ஆவான். கலைஞர் உரை கூறுவது: அறநெறியையும், ஆக்கத்தையும் விரும்பிப் போற்றாதவன்தான், பிறர் பெருமையைப் போற்றாமல் பொறாமைக் களஞ்சியமாக விளங்குவான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Envying (Domestic Virtue), Kural 163 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Of him who instead of rejoicing in the wealth of others, envies it, it will be said \"he neither desires virtue not wealth.\". Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அழுக்காறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Envying' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அழுக்காறாமை' அதிகாரத்தில் வரும் திருக்குறள் 163 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 163 from Chapter 'Not Envying'?",
+        "quiz_options_ta": [
+          "எவ்வளவு கொடிய பகை உடையவரும் தப்பி வாழ முடியும், ஆனால் தீயவை செய்தால் வரும் தீவினையாகிய பகை நீங்காமல் பின் சென்று வருத்தும்.",
+          "(அருள் இல்லாதவன் ) தன்னை விட மெலிந்தவர் மேல் துன்புறுத்த செல்லும் போது, தன்னை விட வலியவரின் முன் தான் அஞ்சி நிற்கும் நிலைமையை நினைக்க வேண்டும்.",
+          "ஒருவன் தன் நெஞ்சம் அறிவதாகிய ஒன்றைக்குறித்துப் பொய்ச் சொல்லக்கூடாது, பொய் சொன்னால் அதைக்குறித்துத் தன் நெஞ்சமே தன்னை வருத்தும்.",
+          "தனக்கு அறமும் ஆக்கமும் விரும்பாதவன் என்று கருதத் தக்கவனே, பிறனுடைய ஆக்கத்தைக் கண்டு மகிழாமல் அதற்காகப் பொறாமைப்படுவான்."
+        ],
+        "quiz_options_en": [
+          "Men may escape other foes and live But sin its deadly blow will give",
+          "Think how you feel before the strong When to the feeble you do wrong",
+          "Let not a man knowingly lie; Conscience will scorch and make him sigh",
+          "Who envies others' good fortune Can't prosper in virtue of his own"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அழுக்காறாமை) பகுதியில் குறள் 163 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தனக்கு அறமும் ஆக்கமும் விரும்பாதவன் என்று கருதத் தக்கவனே, பிறனுடைய ஆக்கத்தைக் கண்டு மகிழாமல் அதற்காகப் பொறாமைப்படுவான். பரிமேலழகர் உரை நுட்பம்: அறன் ஆக்கம் வேண்டாதான் என்பான் - மறுமைக்கும் இம்மைக்கும் அறமும் செல்வமும் ஆகிய உறுப்புக்களைத் தனக்கு வேண்டாதான் என்று சொல்லப்படுவான்; பிறன் ஆக்கம் பேணாது அழுக்கு அறுப்பான் - பிறன் செல்வம் கண்டவழி அதற்கு உதவாது அழுக்காற்றைச் செய்வான். ('அழுக்கறுத்தல்' எனினும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 17: 'Not Envying'), Kural 163 distills a foundational ethical insight: \"Nor wealth nor virtue does that man desire 'tis plain, Whom others' wealth delights not, feeling envious pain\" Philosophically, Of him who instead of rejoicing in the wealth of others, envies it, it will be said \"he neither desires virtue not wealth.\".",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "wealth",
+        "time",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 164,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பொறாமைப்படுதலாகிய தவறான நெறியில் துன்பம் ஏற்படுத‌ை அறிந்து, பொறாமை காரணமாக அறமல்லாதவைகளைச் செய்யார் அறிவுடையோர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: (The wise) knowing the misery that comes from transgression will not through envy commit unrighteous deeds.",
+        "story_title_ta": "அழுக்காறாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Not Envying — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அழுக்காறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 164 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொறாமை கொண்டால் துன்பம் வரும் என்பதை அறிந்து அறிவுடையோர் பொறாமை காரணமாகத் தீமைகளைச் செய்யமாட்டார்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Not Envying'. Grandpa shared Kural 164 and explained in simple words: (The wise) knowing the misery that comes from transgression will not through envy commit unrighteous deeds. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தீய வழியில் சென்றால் துன்பம் ஏற்படுமென்பதை அறிந்தவர்கள் பொறாமையினால் தீச்செயல்களில் ஈடுபடமாட்டார்கள்.",
+        "moral_en": "Moral: The wise through envy break not virtue's laws, Knowing ill-deeds of foul disgrace the cause.",
+        "game_blank_word_ta": "இழுக்காற்றின்",
+        "game_options_ta": [
+          "இழுக்காற்றின்",
+          "ஒழுக்காறாக்",
+          "கொள்க",
+          "ஒருவன்தன்"
+        ],
+        "game_options_en": [
+          "The wise through envy don't others wrong Knowing that woes from evils throng",
+          "Deem your heart as virtuous When your nature is not jealous",
+          "No excellence excels the one That by nature envies none",
+          "Who envies others' good fortune Can't prosper in virtue of his own"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அழுக்காறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 164, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொறாமை கொண்டால் துன்பம் வரும் என்பதை அறிந்து அறிவுடையோர் பொறாமை காரணமாகத் தீமைகளைச் செய்யமாட்டார். கலைஞர் உரை கூறுவது: தீய வழியில் சென்றால் துன்பம் ஏற்படுமென்பதை அறிந்தவர்கள் பொறாமையினால் தீச்செயல்களில் ஈடுபடமாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Envying (Domestic Virtue), Kural 164 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (The wise) knowing the misery that comes from transgression will not through envy commit unrighteous deeds. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அழுக்காறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Envying' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அழுக்காறாமை' அதிகாரத்தில் வரும் திருக்குறள் 164 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 164 from Chapter 'Not Envying'?",
+        "quiz_options_ta": [
+          "பொறாமைப்படுதலாகிய தவறான நெறியில் துன்பம் ஏற்படுத‌ை அறிந்து, பொறாமை காரணமாக அறமல்லாதவைகளைச் செய்யார் அறிவுடையோர்.",
+          "தீய செயல்களைச் செய்தவர் கேட்டை அடைதல், ஒருவனுடைய நிழல் அவனை விடாமல் வந்து அடியில் தங்கியிருத்தலைப் போன்றது.",
+          "தன் உடம்பைப் பெருக்கச் செய்வதற்காகத் தான் மற்றோர் உயிரின் உடம்பைத் தின்கின்றவன் எவ்வாறு அருளுடையவனாக இருக்க முடியும்.",
+          "ஒருவன் தன் உள்ளம் அறியப் பொய் இல்லாமல் நடப்பானானால் அத்தகையவன் உலகத்தாரின் உள்ளங்களில் எல்லாம் இருப்பவனாவான்."
+        ],
+        "quiz_options_en": [
+          "The wise through envy don't others wrong Knowing that woes from evils throng",
+          "Ruin follows who evil do As shadow follows as they go",
+          "What graciousness can one command who feeds his flesh by flesh gourmand",
+          "He lives in loving hearts of all Who serves the Truth serene in soul"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அழுக்காறாமை) பகுதியில் குறள் 164 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொறாமைப்படுதலாகிய தவறான நெறியில் துன்பம் ஏற்படுத‌ை அறிந்து, பொறாமை காரணமாக அறமல்லாதவைகளைச் செய்யார் அறிவுடையோர். பரிமேலழகர் உரை நுட்பம்: அழுக்காற்றின் அல்லவை செய்யார் - அழுக்காறு ஏதுவாக அறனல்லவற்றைச் செய்யார் அறிவுடையார்; இழுக்கு ஆற்றின் ஏதம் படுபாக்கு அறிந்து - அத்தீநெறியால் தமக்கு இருமையினும் துன்பம் வருதலை அறிந்து. (அறன் அல்லவையாவன: செல்வம், கல்வி, முதலியன உடையார்கண் தீங்கு நினைத்தலும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 17: 'Not Envying'), Kural 164 distills a foundational ethical insight: \"The wise through envy break not virtue's laws, Knowing ill-deeds of foul disgrace the cause\" Philosophically, (The wise) knowing the misery that comes from transgression will not through envy commit unrighteous deeds.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "ethics",
+        "wisdom",
+        "discipline",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 165,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பொறாமை உடை‌யவர்க்கு வேறு பகை வேண்டா. அஃது ஒன்றே போதும், பகைவர் தீங்கு செய்யத் தவறினாலும் தவறாது கேட்டைத் தருவது அது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: To those who cherish envy that is enough Though free from enemies that (envy) will bring destruction.",
+        "story_title_ta": "அழுக்காறாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Not Envying — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அழுக்காறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 165 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொறாமை உடையவர்க்குத் தீமை தரப் பகைவர் வேண்டியதில்லை; பொறாமையே போதும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Not Envying'. Grandpa shared Kural 165 and explained in simple words: To those who cherish envy that is enough Though free from enemies that (envy) will bring destruction. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பொறாமைக் குணம் கொண்டவர்களுக்கு அவர்களை வீழ்த்த வேறு பகையே வேண்டா அந்தக் குணமே அவர்களை வீழ்த்தி விடும்.",
+        "moral_en": "Moral: Envy they have within! Enough to seat their fate!Though foemen fail, envy can ruin consummate.",
+        "game_blank_word_ta": "ஒன்னார்",
+        "game_options_ta": [
+          "ஒழுக்காறாக்",
+          "ஒன்னார்",
+          "கொள்க",
+          "ஒருவன்தன்"
+        ],
+        "game_options_en": [
+          "Deem your heart as virtuous When your nature is not jealous",
+          "Man shall be wrecked by envy's whim Even if enemies spare him",
+          "No excellence excels the one That by nature envies none",
+          "Who envies others' good fortune Can't prosper in virtue of his own"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அழுக்காறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 165, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொறாமை உடையவர்க்குத் தீமை தரப் பகைவர் வேண்டியதில்லை; பொறாமையே போதும். கலைஞர் உரை கூறுவது: பொறாமைக் குணம் கொண்டவர்களுக்கு அவர்களை வீழ்த்த வேறு பகையே வேண்டா அந்தக் குணமே அவர்களை வீழ்த்தி விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Envying (Domestic Virtue), Kural 165 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To those who cherish envy that is enough Though free from enemies that (envy) will bring destruction. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அழுக்காறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Envying' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அழுக்காறாமை' அதிகாரத்தில் வரும் திருக்குறள் 165 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 165 from Chapter 'Not Envying'?",
+        "quiz_options_ta": [
+          "ஒருவன் தன்னைத் தான் விரும்பி வாழ்பவனாயின், தீய செயலாகிய பகுதியை எவ்வளவு சிறியதாயினும் பொருந்தாமல் நீங்க வேண்டும்.",
+          "பொறாமை உடை‌யவர்க்கு வேறு பகை வேண்டா. அஃது ஒன்றே போதும், பகைவர் தீங்கு செய்யத் தவறினாலும் தவறாது கேட்டைத் தருவது அது.",
+          "பொருளுடையவராக இருக்கும் சிறப்பு அப்பொருளை வைத்துக் காப்பாற்றாதவர்க்கு இல்லை, அருளுடையவராக இருக்கும் சிறப்பு புலால் தின்பவர்க்கு இல்லை.",
+          "ஒருவன் தன் மனதோடு பொருந்த உண்மை பேசுவானானால் அவன் தவத்தேடு தானமும் ஒருங்கே செய்வாரை விடச் சிறந்தவன்."
+        ],
+        "quiz_options_en": [
+          "Let none who loves himself at all Think of evil however small",
+          "Man shall be wrecked by envy's whim Even if enemies spare him",
+          "The thriftless have no property And flesh-eaters have no pity",
+          "To speak the truth from heart sincere Is more than giving and living austere"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அழுக்காறாமை) பகுதியில் குறள் 165 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொறாமை உடை‌யவர்க்கு வேறு பகை வேண்டா. அஃது ஒன்றே போதும், பகைவர் தீங்கு செய்யத் தவறினாலும் தவறாது கேட்டைத் தருவது அது. பரிமேலழகர் உரை நுட்பம்: ஒன்னார் வழுக்கியும் கேடு ஈன்பது - அழுக்காறு பகைவரைஒழிந்தும் கேடு பயப்பதொன்று ஆகலின்; அழுக்காறு உடையார்க்கு அது சாலும் - அவ்வழுக்காறு உடையார்க்குப் பகைவர் வேண்டா; கேடு பயப்பதற்கு அதுதானே அமையும். ('அதுவே' என்னும் பிரிநிலை ஏகாரம் விகாரத்தால் தொக்கது.).",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 17: 'Not Envying'), Kural 165 distills a foundational ethical insight: \"Envy they have within! Enough to seat their fate!Though foemen fail, envy can ruin consummate\" Philosophically, To those who cherish envy that is enough Though free from enemies that (envy) will bring destruction.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "courage",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 166,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பிறர்க்கு உதவியாகக் கொடுக்கப்படும் பொருளைக் கண்டு பொறாமைப்படுகின்றவனுடைய சுற்றம், உடையும் உணவும் இல்லாமல் கெடும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: He who is envious at a gift (made to another) will with his relations utterly perish destitute of food and rainment.",
+        "story_title_ta": "அழுக்காறாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Not Envying — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அழுக்காறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 166 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறர்க்குக் கொடுப்பதைக் கண்டு பொறாமைப் படுகிறவனின் குடும்பம், உடுக்கவும், உண்ணவும் இல்லாமல் அலையும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Not Envying'. Grandpa shared Kural 166 and explained in simple words: He who is envious at a gift (made to another) will with his relations utterly perish destitute of food and rainment. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உதவியாக ஒருவருக்குக் கொடுக்கப்படுவதைப் பார்த்துப் பொறாமை கொண்டால் அந்தத் தீய குணம், அவனை மட்டுமின்றி அவனைச் சார்ந்திருப்போரையும் உணவுக்கும், உடைக்கும்கூட வழியில்லாமல் ஆக்கிவிடும்.",
+        "moral_en": "Moral: Who scans good gifts to others given with envious eye, His kin, with none to clothe or feed them, surely die.",
+        "game_blank_word_ta": "இன்றிக்",
+        "game_options_ta": [
+          "ஒழுக்காறாக்",
+          "கொள்க",
+          "இன்றிக்",
+          "ஒருவன்தன்"
+        ],
+        "game_options_en": [
+          "Deem your heart as virtuous When your nature is not jealous",
+          "No excellence excels the one That by nature envies none",
+          "Who envies gifts shall suffer ruin Without food and clothes with his kin",
+          "Who envies others' good fortune Can't prosper in virtue of his own"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அழுக்காறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 166, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர்க்குக் கொடுப்பதைக் கண்டு பொறாமைப் படுகிறவனின் குடும்பம், உடுக்கவும், உண்ணவும் இல்லாமல் அலையும். கலைஞர் உரை கூறுவது: உதவியாக ஒருவருக்குக் கொடுக்கப்படுவதைப் பார்த்துப் பொறாமை கொண்டால் அந்தத் தீய குணம், அவனை மட்டுமின்றி அவனைச் சார்ந்திருப்போரையும் உணவுக்கும், உடைக்கும்கூட வழியில்லாமல் ஆக்கிவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Envying (Domestic Virtue), Kural 166 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who is envious at a gift (made to another) will with his relations utterly perish destitute of food and rainment. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அழுக்காறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Envying' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அழுக்காறாமை' அதிகாரத்தில் வரும் திருக்குறள் 166 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 166 from Chapter 'Not Envying'?",
+        "quiz_options_ta": [
+          "ஒருவன் தவறான நெறியில் சென்று தீயசெயல் செய்யாதிருப்பானானால் அவன் கேடு இல்லாதவன் என்று அறியலாம்.",
+          "ஓர் உயிரின் உடம்பைச் சுவையாக உண்டவரின் மனம் கொலைக்கருவியைக் கையில் கொண்டவரின் நெஞ்சம் போல் நன்மையாகி அருளைப் போற்றாது.",
+          "பிறர்க்கு உதவியாகக் கொடுக்கப்படும் பொருளைக் கண்டு பொறாமைப்படுகின்றவனுடைய சுற்றம், உடையும் உணவும் இல்லாமல் கெடும்.",
+          "ஒருவனுக்கு பொய் இல்லாமல் வாழ்தலை விடப் புகழ் நிலை வேறொன்றும் இல்லை, அஃது அவன் அறியாமலேயெ அவனுக்கு எல்லா அறமும் கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "He is secure, know ye, from ills Who slips not right path to do evils",
+          "Who wields a steel is steel-hearted Who tastes body is hard-hearted",
+          "Who envies gifts shall suffer ruin Without food and clothes with his kin",
+          "Not to lie brings all the praise All virtues from Truth arise"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அழுக்காறாமை) பகுதியில் குறள் 166 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறர்க்கு உதவியாகக் கொடுக்கப்படும் பொருளைக் கண்டு பொறாமைப்படுகின்றவனுடைய சுற்றம், உடையும் உணவும் இல்லாமல் கெடும். பரிமேலழகர் உரை நுட்பம்: கொடுப்பது அழுக்கறுப்பான் சுற்றம் - ஒருவன் பிறர்க்குக் கொடுப்பதன்கண் அழுக்காற்றைச் செய்வானது சுற்றம்; உடுப்பதும் உண்பதும் இன்றிக் கெடும் - உடுக்கப்படுவதும் உண்ணப்படுவதும் இன்றிக் கெடும். (கொடுப்பதன்கண் அழுக்கறுத்தலாவது, கொடுக்கப்படும் பொருள்களைப் பற்றிப...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 17: 'Not Envying'), Kural 166 distills a foundational ethical insight: \"Who scans good gifts to others given with envious eye, His kin, with none to clothe or feed them, surely die\" Philosophically, He who is envious at a gift (made to another) will with his relations utterly perish destitute of food and rainment.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "gratitude",
+        "kindness",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 167,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பொறாமை உடையவனைத் திருமகள் கண்டு பொறாமைப்பட்டுத் தன் தமக்கைக்கு அவனைக் காட்டி நீங்கி விடுவாள்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Lakshmi envying (the prosperity) of the envious man will depart and introduce him to her sister.",
+        "story_title_ta": "அழுக்காறாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Not Envying — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அழுக்காறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 167 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறர் உயர்வு கண்டு பொறாமைப்படுபவனைப் பார்க்கும் திருமகள் வெறுப்புக் கொண்டு தன் அக்காள் மூதேவிக்கு அவனை அடையாளம் காட்டிவிட்டு விலகிப் போய்விடுவாள்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Not Envying'. Grandpa shared Kural 167 and explained in simple words: Lakshmi envying (the prosperity) of the envious man will depart and introduce him to her sister. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: செல்வத்தை இலக்குமி என்றும், வறுமையை அவளது அக்காள் மூதேவி என்றும் வர்ணிப்பதுண்டு பொறாமைக் குணம் கொண்டவனை அக்காளுக்கு அடையாளம் காட்டிவிட்டுத் தங்கை இலக்குமி அவனைவிட்டு அகன்று விடுவாள்.",
+        "moral_en": "Moral: From envious man good fortune's goddess turns away, Grudging him good, and points him out misfortune's prey.",
+        "game_blank_word_ta": "விடும்",
+        "game_options_ta": [
+          "ஒழுக்காறாக்",
+          "கொள்க",
+          "ஒருவன்தன்",
+          "விடும்"
+        ],
+        "game_options_en": [
+          "Deem your heart as virtuous When your nature is not jealous",
+          "No excellence excels the one That by nature envies none",
+          "Who envies others' good fortune Can't prosper in virtue of his own",
+          "Fortune deserts the envious Leaving misfortune omnious"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அழுக்காறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 167, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர் உயர்வு கண்டு பொறாமைப்படுபவனைப் பார்க்கும் திருமகள் வெறுப்புக் கொண்டு தன் அக்காள் மூதேவிக்கு அவனை அடையாளம் காட்டிவிட்டு விலகிப் போய்விடுவாள். கலைஞர் உரை கூறுவது: செல்வத்தை இலக்குமி என்றும், வறுமையை அவளது அக்காள் மூதேவி என்றும் வர்ணிப்பதுண்டு பொறாமைக் குணம் கொண்டவனை அக்காளுக்கு அடையாளம் காட்டிவிட்டுத் தங்கை இலக்குமி அவனைவிட்டு அகன்று விடுவாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Envying (Domestic Virtue), Kural 167 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Lakshmi envying (the prosperity) of the envious man will depart and introduce him to her sister. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அழுக்காறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Envying' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அழுக்காறாமை' அதிகாரத்தில் வரும் திருக்குறள் 167 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 167 from Chapter 'Not Envying'?",
+        "quiz_options_ta": [
+          "இந்த உலகத்தார் மழைக்கு என்ன கைமாறு செய்கின்றனர்;, மழை போன்றவர் செய்யும் உதவிகளும் கைமாறு வேண்டாதவை.",
+          "அருள் எது என்றால் ஓர் உயிரையும் கொல்லாமலிருத்தல் அருளல்லாது எது என்றால் உயிர்களைக்கொள்ளுதல் அதன் உடம்பைத் தின்னுதல் அறம் அல்லாதது.",
+          "பொய்யாமை ஆகிய அறத்தை உண்மையாகவே போற்றி வாழ முடிந்தால் மற்ற அறங்களைச் செய்தலும் நல்லது ஆகும்.",
+          "பொறாமை உடையவனைத் திருமகள் கண்டு பொறாமைப்பட்டுத் தன் தமக்கைக்கு அவனைக் காட்டி நீங்கி விடுவாள்."
+        ],
+        "quiz_options_en": [
+          "Duty demands nothing in turn; How can the world recompense rain?",
+          "If merciless it is to kill, To kill and eat is disgraceful",
+          "Lie not lie not Naught else you need All virtues are in Truth indeed",
+          "Fortune deserts the envious Leaving misfortune omnious"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அழுக்காறாமை) பகுதியில் குறள் 167 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொறாமை உடையவனைத் திருமகள் கண்டு பொறாமைப்பட்டுத் தன் தமக்கைக்கு அவனைக் காட்டி நீங்கி விடுவாள். பரிமேலழகர் உரை நுட்பம்: அழுக்காறு உடையானை - பிறர் ஆக்கம் கண்டவழிப் பொறாமையுடையானை; செய்யவள் அவ்வித்துத் தவ்வையைக் காட்டிவிடும் - திருமகள் தானும் பொறாது, தன் தவ்வைக்குக் காட்டி நீங்கும். (தவ்வை: மூத்தவள். 'தவ்வையைக் காட்டி' என்பது 'அறிவுடை அந்தணன் அவளைக் காட்டென்றானே' (கலி.மருதம். 7...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 17: 'Not Envying'), Kural 167 distills a foundational ethical insight: \"From envious man good fortune's goddess turns away, Grudging him good, and points him out misfortune's prey\" Philosophically, Lakshmi envying (the prosperity) of the envious man will depart and introduce him to her sister.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wealth",
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 168,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பொறாமை என்று கூறப்படும் ஒப்பற்ற பாவி, ஒருவனுடைய செல்வத்தைக் கெடுத்துத் தீய வழியில் அவனைச் செலுத்தி விடும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Envy will destroy (a man's) wealth (in his world) and drive him into the pit of fire (in the world to come.).",
+        "story_title_ta": "அழுக்காறாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Not Envying — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அழுக்காறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 168 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொறாமை எனப்படும் ஒப்பில்லாத பாவி எவனிடம் இருக்கிறதோ, அவனது செல்வத்தை அழிப்பதோடு, அவனை நரகத்திலும் அது சேர்க்கும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Not Envying'. Grandpa shared Kural 168 and explained in simple words: Envy will destroy (a man's) wealth (in his world) and drive him into the pit of fire (in the world to come.). The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பொறாமை எனும் தீமை ஒருவனுடைய செல்வத்தையும் சிதைத்துத் தீய வழியிலும் அவனை விட்டுவிடும்.",
+        "moral_en": "Moral: Envy, embodied ill, incomparable bane, Good fortune slays, and soul consigns to fiery pain.",
+        "game_blank_word_ta": "அழுக்காறு",
+        "game_options_ta": [
+          "அழுக்காறு",
+          "ஒழுக்காறாக்",
+          "கொள்க",
+          "ஒருவன்தன்"
+        ],
+        "game_options_en": [
+          "Caitiff envy despoils wealth And drags one into evil path",
+          "Deem your heart as virtuous When your nature is not jealous",
+          "No excellence excels the one That by nature envies none",
+          "Who envies others' good fortune Can't prosper in virtue of his own"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அழுக்காறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 168, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொறாமை எனப்படும் ஒப்பில்லாத பாவி எவனிடம் இருக்கிறதோ, அவனது செல்வத்தை அழிப்பதோடு, அவனை நரகத்திலும் அது சேர்க்கும். கலைஞர் உரை கூறுவது: பொறாமை எனும் தீமை ஒருவனுடைய செல்வத்தையும் சிதைத்துத் தீய வழியிலும் அவனை விட்டுவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Envying (Domestic Virtue), Kural 168 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Envy will destroy (a man's) wealth (in his world) and drive him into the pit of fire (in the world to come.). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அழுக்காறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Envying' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அழுக்காறாமை' அதிகாரத்தில் வரும் திருக்குறள் 168 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 168 from Chapter 'Not Envying'?",
+        "quiz_options_ta": [
+          "பொறாமை என்று கூறப்படும் ஒப்பற்ற பாவி, ஒருவனுடைய செல்வத்தைக் கெடுத்துத் தீய வழியில் அவனைச் செலுத்தி விடும்.",
+          "ஒப்புரவாளன் தன்னால் இயன்ற முயற்சி செய்து சேர்த்த பொருள் எல்லாம் தக்கவர்க்கு உதவி செய்வதற்கே ஆகும்.",
+          "உயிர்கள் உடம்பு பெற்று வாழும் நிலைமை, ஊன் உண்ணாதிருத்தலை அடிப்படையாகக் கொண்டது ஊன் உண்டால் நரகம் அவனை வெளிவிடாது.",
+          "புறத்தே தூய்மையாக விளங்குதல் நீரினால் ஏற்ப்படும், அதுபோல அகத்தே தூய்மையாக விளங்குதல் வாய்மையால் உண்டாகும்."
+        ],
+        "quiz_options_en": [
+          "Caitiff envy despoils wealth And drags one into evil path",
+          "All the wealth that toils give Is meant to serve those who deserve",
+          "Off with flesh; a life you save The eater hell's mouth shall not waive!",
+          "Water makes you pure outward Truth renders you pure inward"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அழுக்காறாமை) பகுதியில் குறள் 168 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொறாமை என்று கூறப்படும் ஒப்பற்ற பாவி, ஒருவனுடைய செல்வத்தைக் கெடுத்துத் தீய வழியில் அவனைச் செலுத்தி விடும். பரிமேலழகர் உரை நுட்பம்: அழுக்காறு என ஒரு பாவி - அழுக்காறு என்று சொல்லப்பட்ட ஒப்பில்லாத பாவி; திருச்செற்றுத் தீயுழி உய்த்துவிடும் - தன்னை உடையானை இம்மைக்கண் செல்வத்தைக் கெடுத்து,மறுமைக்கண் நரகத்தில் செலுத்திவிடும். (பண்பிற்குப் பண்பி இல்லையேனும், தன்னை ஆக்கினானை இருமையுங்கெடுத்தற...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 17: 'Not Envying'), Kural 168 distills a foundational ethical insight: \"Envy, embodied ill, incomparable bane, Good fortune slays, and soul consigns to fiery pain\" Philosophically, Envy will destroy (a man's) wealth (in his world) and drive him into the pit of fire (in the world to come.).",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wealth",
+        "discipline",
+        "harmony",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 169,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பொறாமை பொருந்திய நெஞ்சத்தானுடைய ஆக்கமும், பொறாமை இல்லாத நல்லவனுடைய கேடும் ஆராயத் தக்கவை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The wealth of a man of envious mind and the poverty of the righteous will be pondered.",
+        "story_title_ta": "அழுக்காறாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Not Envying — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அழுக்காறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 169 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொறாமை கொண்ட மனத்தவனின் உயர்வும், அது இல்லாத நல்லவனின் தாழ்வும் பற்றி ஆராய்க.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Not Envying'. Grandpa shared Kural 169 and explained in simple words: The wealth of a man of envious mind and the poverty of the righteous will be pondered. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பொறாமைக் குணம் கொண்டவனின் வாழ்க்கை வளமாக இருப்பதும், பொறாமைக் குணம் இல்லாதவனின் வாழ்க்கை வேதனையாக இருப்பதும் வியப்புக்குரிய செய்தியாகும்.",
+        "moral_en": "Moral: To men of envious heart, when comes increase of joy, Or loss to blameless men, the 'why' will thoughtful hearts employ.",
+        "game_blank_word_ta": "நெஞ்சத்தான்",
+        "game_options_ta": [
+          "ஒழுக்காறாக்",
+          "நெஞ்சத்தான்",
+          "கொள்க",
+          "ஒருவன்தன்"
+        ],
+        "game_options_en": [
+          "Deem your heart as virtuous When your nature is not jealous",
+          "Why is envy rich, goodmen poor People with surprise think over",
+          "No excellence excels the one That by nature envies none",
+          "Who envies others' good fortune Can't prosper in virtue of his own"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அழுக்காறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 169, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொறாமை கொண்ட மனத்தவனின் உயர்வும், அது இல்லாத நல்லவனின் தாழ்வும் பற்றி ஆராய்க. கலைஞர் உரை கூறுவது: பொறாமைக் குணம் கொண்டவனின் வாழ்க்கை வளமாக இருப்பதும், பொறாமைக் குணம் இல்லாதவனின் வாழ்க்கை வேதனையாக இருப்பதும் வியப்புக்குரிய செய்தியாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Envying (Domestic Virtue), Kural 169 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The wealth of a man of envious mind and the poverty of the righteous will be pondered. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அழுக்காறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Envying' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அழுக்காறாமை' அதிகாரத்தில் வரும் திருக்குறள் 169 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 169 from Chapter 'Not Envying'?",
+        "quiz_options_ta": [
+          "பிறர்க்கு உதவி செய்து வாழும் ஒப்புரவைப் போல நல்லனவாகிய வேறு அறப்பகுதிகளைத் தேவருலகத்திலும் இவ்வுலகத்திலும் பெறுதல் இயலாது.",
+          "பொறாமை பொருந்திய நெஞ்சத்தானுடைய ஆக்கமும், பொறாமை இல்லாத நல்லவனுடைய கேடும் ஆராயத் தக்கவை",
+          "புலால் தின்னும் பொருட்டு உலகத்தார் உயிர்களைக் கொல்லா திருப்பாரானால், விலையின் பொருட்டு ஊன் விற்பவர் இல்லாமல் போவார்.",
+          "(புறத்தில் உள்ள இருளை நீக்கும்) விளக்குகள் எல்லாம் விளக்குகள் அல்ல, சான்றோர்க்கு (அகத்து இருள் நீக்கும்) பொய்யாமையாகிய விளக்கே விளக்கு ஆகும்."
+        ],
+        "quiz_options_en": [
+          "In heav'n and earth 'tis hard to find A greater good than being kind",
+          "Why is envy rich, goodmen poor People with surprise think over",
+          "None would kill and sell the flesh For eating it if they don't wish",
+          "All lights are not lights for the wise; Truth light is light bright like Sun-light"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அழுக்காறாமை) பகுதியில் குறள் 169 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொறாமை பொருந்திய நெஞ்சத்தானுடைய ஆக்கமும், பொறாமை இல்லாத நல்லவனுடைய கேடும் ஆராயத் தக்கவை. பரிமேலழகர் உரை நுட்பம்: அவ்விய நெஞ்சத்தான் ஆக்கமும் - கோட்டத்தினைப் பொருந்திய மனத்தை உடையவனது ஆக்கமும், செவ்வியான் கேடும் நினைக்கப்படும் - ஏனைச் செம்மையுடையவனது கேடும் உளவாயின், அவை ஆராயப்படும். (கோட்டம்: ஈண்டு அழுக்காறு. 'உளவாயின்' என்பது எஞ்சி நின்றது. ஆக்கக் கேடுகள் கோட்டமும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 17: 'Not Envying'), Kural 169 distills a foundational ethical insight: \"To men of envious heart, when comes increase of joy, Or loss to blameless men, the 'why' will thoughtful hearts employ\" Philosophically, The wealth of a man of envious mind and the poverty of the righteous will be pondered.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wealth",
+        "kindness",
+        "love",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 170,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பொறாமைப்பட்டுப் பெருமையுற்றவரும் உலகத்தில் இல்லை; பொறாமை இல்லாதவராய் மேம்பாட்டிலிருந்து நீங்கியவரும் இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Never have the envious become great; never have those who are free from envy been without greatness.",
+        "story_title_ta": "அழுக்காறாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Not Envying — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அழுக்காறாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 170 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொறாமை கொண்டு உயர்ந்தவரும் இல்லை. அது இல்லாதபோது தாழ்ந்தவரும் இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Not Envying'. Grandpa shared Kural 170 and explained in simple words: Never have the envious become great; never have those who are free from envy been without greatness. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பொறாமை கொண்டதால் புகழ் பெற்று உயர்ந்தோரும் இல்லை; பொறாமை இல்லாத காரணத்தால் புகழ் மங்கி வீழ்ந்தோரும் இல்லை.",
+        "moral_en": "Moral: No envious men to large and full felicity attain; No men from envy free have failed a sure increase to gain.",
+        "game_blank_word_ta": "இல்லை",
+        "game_options_ta": [
+          "ஒழுக்காறாக்",
+          "கொள்க",
+          "இல்லை",
+          "ஒருவன்தன்"
+        ],
+        "game_options_en": [
+          "Deem your heart as virtuous When your nature is not jealous",
+          "No excellence excels the one That by nature envies none",
+          "The envious prosper never The envyless prosper ever",
+          "Who envies others' good fortune Can't prosper in virtue of his own"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அழுக்காறாமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 170, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொறாமை கொண்டு உயர்ந்தவரும் இல்லை. அது இல்லாதபோது தாழ்ந்தவரும் இல்லை. கலைஞர் உரை கூறுவது: பொறாமை கொண்டதால் புகழ் பெற்று உயர்ந்தோரும் இல்லை; பொறாமை இல்லாத காரணத்தால் புகழ் மங்கி வீழ்ந்தோரும் இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not Envying (Domestic Virtue), Kural 170 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Never have the envious become great; never have those who are free from envy been without greatness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அழுக்காறாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not Envying' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அழுக்காறாமை' அதிகாரத்தில் வரும் திருக்குறள் 170 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 170 from Chapter 'Not Envying'?",
+        "quiz_options_ta": [
+          "ஒப்புரவை அறிந்து போற்றிப் பிறர்க்கு உதவியாக வாழ்கின்றவன் உயிர்வாழ்கின்றவன் ஆவான், மற்றவன் செத்தவருள் சேர்த்துக் கருதப்படுவான்.",
+          "புலால் உண்ணாமலிருக்க வேண்டும், ஆராய்ந்து அறிவாரைப் பெற்றால், அப் புலால் வேறோர் உயிரின் புண் என்பதை உணரலாம்.",
+          "பொறாமைப்பட்டுப் பெருமையுற்றவரும் உலகத்தில் இல்லை; பொறாமை இல்லாதவராய் மேம்பாட்டிலிருந்து நீங்கியவரும் இல்லை.",
+          "யாம் உண்மையாக கண்ட பொருள்களுள் வாய்மைவிடத் எத்தன்மையாலும் சிறந்தவைகளாகச் சொல்லத்தக்கவை வேறு இல்லை."
+        ],
+        "quiz_options_en": [
+          "He lives who knows befitting act Others are deemed as dead in fact",
+          "From eating flesh men must abstain If they but feel the being's pain",
+          "The envious prosper never The envyless prosper ever",
+          "Of all the things we here have seen Nothing surpasses Truth serene!"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அழுக்காறாமை) பகுதியில் குறள் 170 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொறாமைப்பட்டுப் பெருமையுற்றவரும் உலகத்தில் இல்லை; பொறாமை இல்லாதவராய் மேம்பாட்டிலிருந்து நீங்கியவரும் இல்லை. பரிமேலழகர் உரை நுட்பம்: அழுக்கற்று அகன்றாரும் இல்லை - அழுக்காற்றைச் செய்து பெரியராயினாரும் இல்லை; அஃது இல்லார் பெருக்கத்தின் தீர்ந்தாரும் இல் - அச் செயல் இலாதார் பெருக்கத்தின் நீங்கினாரும் இல்லை. (இவை இரண்டு பாட்டானும் கேடும் ஆக்கமும் வருவதற்கு ஏது ஒருங்கு கூறப்பட்டது).",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 17: 'Not Envying'), Kural 170 distills a foundational ethical insight: \"No envious men to large and full felicity attain; No men from envy free have failed a sure increase to gain\" Philosophically, Never have the envious become great; never have those who are free from envy been without greatness.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wealth",
+        "humility"
+      ]
+    }
+  ]
+}

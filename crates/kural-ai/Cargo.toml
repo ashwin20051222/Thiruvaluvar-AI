@@ -1,0 +1,36 @@
+[package]
+name = "kural-ai"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+
+[features]
+default = ["cli"]
+cli = ["dep:anyhow", "dep:clap", "tokio/rt-multi-thread", "tokio/macros", "tokio/time"]
+
+[dependencies]
+anyhow = { workspace = true, optional = true }
+clap = { workspace = true, optional = true }
+kural-audio = { path = "../kural-audio", default-features = false }
+kural-core = { path = "../kural-core" }
+kural-db = { path = "../kural-db", default-features = false }
+rustfft.workspace = true
+sherpa-onnx.workspace = true
+thiserror.workspace = true
+tokio = { workspace = true, features = ["sync"] }
+tokio-util.workspace = true
+
+[dev-dependencies]
+kural-db = { path = "../kural-db", default-features = false, features = ["test-fallback"] }
+tempfile.workspace = true
+tokio = { workspace = true, features = ["macros", "rt-multi-thread", "sync", "time"] }
+
+[[bin]]
+name = "ai_cli"
+path = "src/bin/ai_cli.rs"
+required-features = ["cli"]
+
+[lints]
+workspace = true
+

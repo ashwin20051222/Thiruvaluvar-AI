@@ -1,0 +1,580 @@
+{
+  "adhikaram_id": 35,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.762124953+00:00",
+  "kurals": [
+    {
+      "kural_number": 341,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவன் எந்தப் பொருளிலிருந்து, எந்தப் பொருளிலிருந்து பற்று நீங்கியவனாக இருக்கின்றானோ, அந்தந்தப் பொருளால் அவன் துன்பம் அடைவதில்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Whatever thing, a man has renounced, by that thing; he cannot suffer pain.",
+        "story_title_ta": "துறவு — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Renunciation — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'துறவு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 341 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எந்த எந்தப் பொருள்களின் மேல் விருப்பம் இல்லாதவனாய் விலகுகிறானோ அவன் அந்த அந்த பொருள்களால் துன்பப்படமாட்டான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Renunciation'. Grandpa shared Kural 341 and explained in simple words: Whatever thing, a man has renounced, by that thing; he cannot suffer pain. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவன் பல வகையான பற்றுகளில் எந்த ஒன்றை விட்டு விட்டாலும், குறிப்பிட்ட அந்தப் பற்று காரணமாக வரும் துன்பம், அவனை அணுகுவதில்லை.",
+        "moral_en": "Moral: From whatever, aye, whatever, man gets free, From what, aye, from that, no more of pain hath he.",
+        "game_blank_word_ta": "நீங்கியான்",
+        "game_options_ta": [
+          "வேண்டின்உண்",
+          "நீங்கியான்",
+          "டாகத்",
+          "துறக்க"
+        ],
+        "game_options_en": [
+          "Give up all to gain the True And endless joys shall hence seek you",
+          "From what from what a man is free From that, from that his torments flee",
+          "Curb the senses five and renounce The carving desires all at once",
+          "To have nothing is law of vows Having the least deludes and snares"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "துறவு (துறவறவியல்) பிரிவில் அமைந்த குறள் 341, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எந்த எந்தப் பொருள்களின் மேல் விருப்பம் இல்லாதவனாய் விலகுகிறானோ அவன் அந்த அந்த பொருள்களால் துன்பப்படமாட்டான். கலைஞர் உரை கூறுவது: ஒருவன் பல வகையான பற்றுகளில் எந்த ஒன்றை விட்டு விட்டாலும், குறிப்பிட்ட அந்தப் பற்று காரணமாக வரும் துன்பம், அவனை அணுகுவதில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renunciation (Ascetic Virtue), Kural 341 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Whatever thing, a man has renounced, by that thing; he cannot suffer pain. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'துறவு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renunciation' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'துறவு' அதிகாரத்தில் வரும் திருக்குறள் 341 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 341 from Chapter 'Renunciation'?",
+        "quiz_options_ta": [
+          "பொருள் வரும் வழிகளை மேன்மேலும் இயற்றலும் வந்த பொருள்களைச் சேர்த்தலும், காத்தலும் காத்தவற்றை வகுத்துச் செலவு செய்தலும் வல்லவன் அரசன்.",
+          "ஒருவன் எந்தப் பொருளிலிருந்து, எந்தப் பொருளிலிருந்து பற்று நீங்கியவனாக இருக்கின்றானோ, அந்தந்தப் பொருளால் அவன் துன்பம் அடைவதில்லை.",
+          "அஞ்சத்தக்கதைக் கண்டு அஞ்சாதிருப்பது அறியாமையாகும், அஞ்சத் தக்கதைக் கண்டு அஞ்சுவதே அறிவுடையவரின் தொழிலாகும்.",
+          "செயலின் வலிமையும் தன் வலிமையும் பகைவனுடைய வலிமையும் ,இருவருக்கும் துணையானவரின் வலிமையும் ஆராய்ந்து செயல்பட வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "The able king gets, stores and guards And spends them for people's safeguards",
+          "From what from what a man is free From that, from that his torments flee",
+          "Fear the frightful and act wisely Not to fear the frightful's folly",
+          "Judge act and might and foeman's strength The allies' strength and go at length"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (துறவு) பகுதியில் குறள் 341 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் எந்தப் பொருளிலிருந்து, எந்தப் பொருளிலிருந்து பற்று நீங்கியவனாக இருக்கின்றானோ, அந்தந்தப் பொருளால் அவன் துன்பம் அடைவதில்லை. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, புறமாகிய செல்வத்தின்கண்ணும் அகமாகிய யாக்கையின்கண்ணும் உளதாம் பற்றினை, அவற்றது நிலையாமை நோக்கி, விடுதல், அதிகார முறைமையும் இதனானே விளங்கும்.] யாதனின் யாதனின் நீங்கியான் - ஒருவன் யாதொரு பொருளின் யாதொரு பொருளின் நீங்கினான், அதனின் அதனின் நோதல் இலன...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 35: 'Renunciation'), Kural 341 distills a foundational ethical insight: \"From whatever, aye, whatever, man gets free, From what, aye, from that, no more of pain hath he\" Philosophically, Whatever thing, a man has renounced, by that thing; he cannot suffer pain.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 342,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: துன்பமில்லாத நிலைமை வேண்டுமானால் எல்லாப் பொருள்களும் உள்ள காலத்திலேயெ துறக்க வேண்டும்,துறந்த பின் இங்குப் பெறக்கூடும் இன்பங்கள் பல.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: After a man has renounced (all things), there will still be many things in this world (which he may enjoy); if he should desire them, let him, while it is time abandon (the world).",
+        "story_title_ta": "துறவு — கவின் கற்ற பாடம்",
+        "story_title_en": "Renunciation — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'துறவு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 342 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொருள்களின் மீதுள்ள பற்றைத் துறந்தபின் வந்து சேரும் இன்பங்கள் பல; இன்பங்களை விரும்பினால் துறவு கொள்க.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Renunciation'. Grandpa shared Kural 342 and explained in simple words: After a man has renounced (all things), there will still be many things in this world (which he may enjoy); if he should desire them, let him, while it is time abandon (the world). The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவனைத் துன்பம் துளைத்தெடுக்காமல் இருக்க எல்லாம் இருக்கும் போதே அவற்றைக் துறந்து விடுவானேயானால், அவன் உலகில் பெறக்கூடிய இன்பங்கள் பலவாகும்.",
+        "moral_en": "Moral: 'Renunciation' made- ev'n here true pleasures men acquire;'Renounce' while time is yet, if to those pleasures you aspire.",
+        "game_blank_word_ta": "துறக்க",
+        "game_options_ta": [
+          "யாதனின்",
+          "நீங்கியான்",
+          "துறக்க",
+          "நோதல்"
+        ],
+        "game_options_en": [
+          "From what from what a man is free From that, from that his torments flee",
+          "Curb the senses five and renounce The carving desires all at once",
+          "Give up all to gain the True And endless joys shall hence seek you",
+          "To have nothing is law of vows Having the least deludes and snares"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "துறவு (துறவறவியல்) பிரிவில் அமைந்த குறள் 342, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொருள்களின் மீதுள்ள பற்றைத் துறந்தபின் வந்து சேரும் இன்பங்கள் பல; இன்பங்களை விரும்பினால் துறவு கொள்க. கலைஞர் உரை கூறுவது: ஒருவனைத் துன்பம் துளைத்தெடுக்காமல் இருக்க எல்லாம் இருக்கும் போதே அவற்றைக் துறந்து விடுவானேயானால், அவன் உலகில் பெறக்கூடிய இன்பங்கள் பலவாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renunciation (Ascetic Virtue), Kural 342 speaks directly to teens navigating studies, friendships, leadership, and digital choices: After a man has renounced (all things), there will still be many things in this world (which he may enjoy); if he should desire them, let him, while it is time abandon (the world). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'துறவு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renunciation' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'துறவு' அதிகாரத்தில் வரும் திருக்குறள் 342 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 342 from Chapter 'Renunciation'?",
+        "quiz_options_ta": [
+          "காண்பதற்கு எளியவனாய்க் கடுஞ்சொல் கூறாதவாய் இருந்தால் அந்த மன்னனுடைய ஆட்சிக்கு உட்பட்ட நாட்டை உலகம் புகழும்.",
+          "வரப்போவதை முன்னே அறிந்து காத்துக் கொள்ளவல்ல அறிவுடையவர்க்கு, அவர் நடுங்கும் படியாக வரக்கூடிய துன்பம் ஒன்றும் இல்லை.",
+          "துன்பமில்லாத நிலைமை வேண்டுமானால் எல்லாப் பொருள்களும் உள்ள காலத்திலேயெ துறக்க வேண்டும்,துறந்த பின் இங்குப் பெறக்கூடும் இன்பங்கள் பல.",
+          "தனக்குப் பொருந்தும் செயலையும் அதற்காக அறிய வேண்டியதையும் அறிந்து அதனிடம் நிலைத்து முயல்கின்றவர்க்கு முடியாதது ஒன்றும் இல்லை."
+        ],
+        "quiz_options_en": [
+          "That land prospers where the king is Easy to see, not harsh of words",
+          "No frightful evil shocks the wise Who guard themselves against surprise",
+          "Give up all to gain the True And endless joys shall hence seek you",
+          "Nothing hampers the firm who know What they can and how to go"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (துறவு) பகுதியில் குறள் 342 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: துன்பமில்லாத நிலைமை வேண்டுமானால் எல்லாப் பொருள்களும் உள்ள காலத்திலேயெ துறக்க வேண்டும்,துறந்த பின் இங்குப் பெறக்கூடும் இன்பங்கள் பல. பரிமேலழகர் உரை நுட்பம்: துறந்த பின் ஈண்டு இயற்பால பல - எல்லாப் பொருள்களையும் துறந்தால், ஒருவர்க்கு இம்மைக்கண்ணே உளவாம் முறைமையை உடைய இன்பங்கள் பல, வேண்டின் உண்டாகத் துறக்க - அவ் இன்பங்களை வேண்டின், அவற்றைக்காலம் பெறத் துறக்க. (அவ்வின்பங்களாவன, அப்பொருள்கள் காரணமாக மனம், மொழி...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 35: 'Renunciation'), Kural 342 distills a foundational ethical insight: \"'Renunciation' made- ev'n here true pleasures men acquire;'Renounce' while time is yet, if to those pleasures you aspire\" Philosophically, After a man has renounced (all things), there will still be many things in this world (which he may enjoy); if he should desire them, let him, while it is time abandon (the world).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "kindness",
+        "time",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 343,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஐம்பொறிகளுக்கும் உரிய ஐந்து புலன்களின் ஆசையையும் வெல்லுதல் வேண்டும், அவற்றிற்கு வேண்டிய பொருள்களை எல்லாம் ஒரு சேர விட வேண்டும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Let the five senses be destroyed; and at the same time, let everything be abandoned that (the ascetic) has (formerly) desired.",
+        "story_title_ta": "துறவு — நிலா கற்ற பாடம்",
+        "story_title_en": "Renunciation — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'துறவு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 343 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஆசைகளைப் பிறப்பிக்கும் ஐந்து புலன்களையும் அடக்க வேண்டும்; அவற்றை அடக்குவதற்குத் தனக்குரிய அனைத்தையும் விட்டு விட வேண்டு்ம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Renunciation'. Grandpa shared Kural 343 and explained in simple words: Let the five senses be destroyed; and at the same time, let everything be abandoned that (the ascetic) has (formerly) desired. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஐம் புலன்களையும் அடக்கி வெல்வதும், அப்புலன்கள் விரும்புகின்றவற்றையெல்லாம் விட்டுவிடுவதும் துறவுக்கு இலக்கணமாகும்.",
+        "moral_en": "Moral: 'Perceptions of the five' must all expire;-Relinquished in its order each desire.",
+        "game_blank_word_ta": "அடல்வேண்டும்",
+        "game_options_ta": [
+          "யாதனின்",
+          "நீங்கியான்",
+          "நோதல்",
+          "அடல்வேண்டும்"
+        ],
+        "game_options_en": [
+          "From what from what a man is free From that, from that his torments flee",
+          "Give up all to gain the True And endless joys shall hence seek you",
+          "To have nothing is law of vows Having the least deludes and snares",
+          "Curb the senses five and renounce The carving desires all at once"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "துறவு (துறவறவியல்) பிரிவில் அமைந்த குறள் 343, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆசைகளைப் பிறப்பிக்கும் ஐந்து புலன்களையும் அடக்க வேண்டும்; அவற்றை அடக்குவதற்குத் தனக்குரிய அனைத்தையும் விட்டு விட வேண்டு்ம். கலைஞர் உரை கூறுவது: ஐம் புலன்களையும் அடக்கி வெல்வதும், அப்புலன்கள் விரும்புகின்றவற்றையெல்லாம் விட்டுவிடுவதும் துறவுக்கு இலக்கணமாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renunciation (Ascetic Virtue), Kural 343 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let the five senses be destroyed; and at the same time, let everything be abandoned that (the ascetic) has (formerly) desired. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'துறவு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renunciation' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'துறவு' அதிகாரத்தில் வரும் திருக்குறள் 343 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 343 from Chapter 'Renunciation'?",
+        "quiz_options_ta": [
+          "இனியச் சொற்களுடன் தக்கவர்க்குப் பொருளை உதவிக் காக்க வல்ல அரசனுக்கு இவ்வுலகம் தன் புகழோடு தான் கருதியபடி அமைவதாகும்.",
+          "அறிவுடையவர் (வேறொன்றும் இல்லாதிருப்பினும்) எல்லாம் உடையவரே ஆவர், அறிவில்லாதவர் வேறு என்ன உடையவராக இருப்பினும் ஒன்றும் இல்லாதவரே ஆவர்.",
+          "தன்னுடைய வலிமை இவ்வளவு என அறியாமல் ஊக்கத்தால் முனைந்து தொடங்கி இடையில் அதை முடிக்க வகையில்லாமல் அழிந்தவர் பலர்.",
+          "ஐம்பொறிகளுக்கும் உரிய ஐந்து புலன்களின் ஆசையையும் வெல்லுதல் வேண்டும், அவற்றிற்கு வேண்டிய பொருள்களை எல்லாம் ஒரு சேர விட வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "The world commends and acts his phrase Who sweetly speaks and gives with grace",
+          "Who have wisdom they are all full Whatev'r they own, misfits are nil",
+          "Many know not their meagre might Their pride breaks up in boastful fight",
+          "Curb the senses five and renounce The carving desires all at once"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (துறவு) பகுதியில் குறள் 343 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஐம்பொறிகளுக்கும் உரிய ஐந்து புலன்களின் ஆசையையும் வெல்லுதல் வேண்டும், அவற்றிற்கு வேண்டிய பொருள்களை எல்லாம் ஒரு சேர விட வேண்டும். பரிமேலழகர் உரை நுட்பம்: ஐந்தன் புலத்தை அடல் வேண்டும் - வீடு எய்துவார்க்குச் செவி முதலிய ஐம்பொறிகட்கு உரியவாய ஓசை முதலிய ஐம்புலன்களையும் கெடுத்தல் வேண்டும், வேண்டிய எல்லாம் ஒருங்கு விடல் வேண்டும் ; - கெடுக்குங்கால் அவற்றை நுகர்தற்பொருட்டுத் தாம் படைத்த பொருள் முழுவதையும் ஒருங்கே...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 35: 'Renunciation'), Kural 343 distills a foundational ethical insight: \"'Perceptions of the five' must all expire;-Relinquished in its order each desire\" Philosophically, Let the five senses be destroyed; and at the same time, let everything be abandoned that (the ascetic) has (formerly) desired.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "time",
+        "discipline",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 344,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தவம் செய்தவற்கு ஒரு பற்றும் இல்லாதிருத்தல் இயல்பாகும், பற்று உடையவராக இருத்தல் மீண்டும் மயங்குவதற்கு வழியாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: To be altogether destitute is the proper condition of those who perform austerities; if they possess anything, it will change (their resolution) and bring them back to their confused state.",
+        "story_title_ta": "துறவு — அன்பு கற்ற பாடம்",
+        "story_title_en": "Renunciation — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'துறவு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 344 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உடைமை ஏதும் இல்லாதிருப்பது துறவின் இயல்பு. உடைமைகளை வைத்திருப்பதோ ஆசை என்னும் மயக்கத்தை மறுபடியும் தரும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Renunciation'. Grandpa shared Kural 344 and explained in simple words: To be altogether destitute is the proper condition of those who perform austerities; if they possess anything, it will change (their resolution) and bring them back to their confused state. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒரு பற்றும் இல்லாதிருத்தலே துறவுக்கு ஏற்றதாகும் ஓன்றன் மேல் பற்று வைப்பினும், அது மேன்மேலும் பற்றுகளைப் பெருக்கி மயங்கச் செய்துவிடும்.",
+        "moral_en": "Moral: 'Privation absolute' is penance true;'Possession' brings bewilderment anew.",
+        "game_blank_word_ta": "நோன்பிற்கொன்று",
+        "game_options_ta": [
+          "நோன்பிற்கொன்று",
+          "யாதனின்",
+          "நீங்கியான்",
+          "நோதல்"
+        ],
+        "game_options_en": [
+          "To have nothing is law of vows Having the least deludes and snares",
+          "From what from what a man is free From that, from that his torments flee",
+          "Give up all to gain the True And endless joys shall hence seek you",
+          "Curb the senses five and renounce The carving desires all at once"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "துறவு (துறவறவியல்) பிரிவில் அமைந்த குறள் 344, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உடைமை ஏதும் இல்லாதிருப்பது துறவின் இயல்பு. உடைமைகளை வைத்திருப்பதோ ஆசை என்னும் மயக்கத்தை மறுபடியும் தரும். கலைஞர் உரை கூறுவது: ஒரு பற்றும் இல்லாதிருத்தலே துறவுக்கு ஏற்றதாகும் ஓன்றன் மேல் பற்று வைப்பினும், அது மேன்மேலும் பற்றுகளைப் பெருக்கி மயங்கச் செய்துவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renunciation (Ascetic Virtue), Kural 344 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To be altogether destitute is the proper condition of those who perform austerities; if they possess anything, it will change (their resolution) and bring them back to their confused state. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'துறவு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renunciation' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'துறவு' அதிகாரத்தில் வரும் திருக்குறள் 344 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 344 from Chapter 'Renunciation'?",
+        "quiz_options_ta": [
+          "தவம் செய்தவற்கு ஒரு பற்றும் இல்லாதிருத்தல் இயல்பாகும், பற்று உடையவராக இருத்தல் மீண்டும் மயங்குவதற்கு வழியாகும்.",
+          "நீதி முறை செய்து குடிமக்களைக் காப்பாற்றும் மன்னவன், மக்களுக்கு தலைவன் என்றுக் கருதித் தனியே மதிக்கப்படுவான்.",
+          "செருக்கும் சினமும் காமமும் ஆகிய இந்தக் குற்றங்கள் இல்லாதவனுடைய வாழ்வில் காணும் பெருக்கம் மேம்பாடு உடையதாகும்.",
+          "மற்றவர்களோடு ஒத்து நடக்காமல், தன் வலிமையின் அளவையும் அறியாமல், தன்னை வியந்து மதித்துக் கொண்டிருப்பவன் விரைவில் கெடுவான்."
+        ],
+        "quiz_options_en": [
+          "To have nothing is law of vows Having the least deludes and snares",
+          "He is the Lord of men who does Sound justice and saves his race",
+          "Plenty is their prosperity Who're free from wrath pride lust petty",
+          "Who adapts not, outsteps measure And brags himself-his fall is sure"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (துறவு) பகுதியில் குறள் 344 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தவம் செய்தவற்கு ஒரு பற்றும் இல்லாதிருத்தல் இயல்பாகும், பற்று உடையவராக இருத்தல் மீண்டும் மயங்குவதற்கு வழியாகும். பரிமேலழகர் உரை நுட்பம்: ஒன்று இன்மை நோன்பிற்கு இயல்பு ஆகும் - பற்றப்படுவதொரு பொருளும் இல்லாமை தவம் செய்வார்க்கு இயல்பாம், உடைமை பெயர்த்து மற்றும் மயல் ஆகும் - அஃதன்றி, ஒன்றாயினும் உடைமை அத்தவத்தைப் போக்குதலான், மீண்டும் மயங்குவதற்கு ஏதுவாம். (இழிவுசிறப்பு உம்மை விகாரத்தால் தொக்கது...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 35: 'Renunciation'), Kural 344 distills a foundational ethical insight: \"'Privation absolute' is penance true;'Possession' brings bewilderment anew\" Philosophically, To be altogether destitute is the proper condition of those who perform austerities; if they possess anything, it will change (their resolution) and bring them back to their confused state.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "discipline",
+        "justice",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 345,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பிறவித் துன்பத்தைப் போக்க முயல்கின்றவர்க்கு உடம்பும் மிகையான பொருள் ஆகையால் அதற்கு மேல் வேறு தொடர்பு கொள்வது ஏனோ.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: What means the addition of other things those who are attempting to cut off (future) births, when even their body is too much (for them).",
+        "story_title_ta": "துறவு — இனியா கற்ற பாடம்",
+        "story_title_en": "Renunciation — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'துறவு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 345 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'இனியும் பிறப்பது கூடாது என்று பிறப்பை‌யே அறுக்க முயன்றவர்க்கு அவரது உடம்பே அதிகம்; நிலைமை இப்படி இருக்க, உடம்பிற்கும் மேலான சுமை எதற்கு?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Renunciation'. Grandpa shared Kural 345 and explained in simple words: What means the addition of other things those who are attempting to cut off (future) births, when even their body is too much (for them). The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறந்ததால் ஏற்படும் துன்பத்தைப் போக்க முயல்கின்ற துறவிகளுக்கு அவர்களின் உடம்பே மிகையான ஒன்றாக இருக்கும்போது, அதற்கு மேலும் வேறு தொடர்பு எதற்காக?",
+        "moral_en": "Moral: To those who sev'rance seek from being's varied strife, Flesh is burthen sore; what then other bonds of life.",
+        "game_blank_word_ta": "பிறப்பறுக்கல்",
+        "game_options_ta": [
+          "யாதனின்",
+          "பிறப்பறுக்கல்",
+          "நீங்கியான்",
+          "நோதல்"
+        ],
+        "game_options_en": [
+          "From what from what a man is free From that, from that his torments flee",
+          "Why add to bonds while this body Is too much for saints to be birth-free",
+          "Give up all to gain the True And endless joys shall hence seek you",
+          "Curb the senses five and renounce The carving desires all at once"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "துறவு (துறவறவியல்) பிரிவில் அமைந்த குறள் 345, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இனியும் பிறப்பது கூடாது என்று பிறப்பை‌யே அறுக்க முயன்றவர்க்கு அவரது உடம்பே அதிகம்; நிலைமை இப்படி இருக்க, உடம்பிற்கும் மேலான சுமை எதற்கு? கலைஞர் உரை கூறுவது: பிறந்ததால் ஏற்படும் துன்பத்தைப் போக்க முயல்கின்ற துறவிகளுக்கு அவர்களின் உடம்பே மிகையான ஒன்றாக இருக்கும்போது, அதற்கு மேலும் வேறு தொடர்பு எதற்காக? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renunciation (Ascetic Virtue), Kural 345 speaks directly to teens navigating studies, friendships, leadership, and digital choices: What means the addition of other things those who are attempting to cut off (future) births, when even their body is too much (for them). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'துறவு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renunciation' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'துறவு' அதிகாரத்தில் வரும் திருக்குறள் 345 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 345 from Chapter 'Renunciation'?",
+        "quiz_options_ta": [
+          "குறைகூறுவோறின் சொற்களைக் செவிகைக்கும் நிலையிலும் பொறுக்கின்ற பண்பும் உடைய அரசனது குடைநிழலில் உலகம் தங்கும்.",
+          "பிறவித் துன்பத்தைப் போக்க முயல்கின்றவர்க்கு உடம்பும் மிகையான பொருள் ஆகையால் அதற்கு மேல் வேறு தொடர்பு கொள்வது ஏனோ.",
+          "பொருள் கொடாத தன்மையும் மாட்சியில்லாத மானமும், தகுதியற்ற மகிழ்ச்சியும் தலைவனாக இருப்பனுக்கு குற்றங்களாகும்.",
+          "மயிலிறகு ஏற்றிய வண்டியே ஆனாலும் , அந்த பண்டமும் (அளவோடு ஏற்றாமல்) அளவு கடந்து மிகுதியாக ஏற்றினால் அச்சு முறியும்."
+        ],
+        "quiz_options_en": [
+          "Under his shelter thrives the world Who bears remarks bitter and bold",
+          "Why add to bonds while this body Is too much for saints to be birth-free",
+          "Mean pride, low pleasure, avarice These add blemishes to a prince",
+          "Even the gentle peacock's plume Cart's axle breaks by gross volume"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (துறவு) பகுதியில் குறள் 345 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறவித் துன்பத்தைப் போக்க முயல்கின்றவர்க்கு உடம்பும் மிகையான பொருள் ஆகையால் அதற்கு மேல் வேறு தொடர்பு கொள்வது ஏனோ. பரிமேலழகர் உரை நுட்பம்: பிறப்பு அறுக்கல் உற்றார்க்கு உடம்பும் மிகை - பிறப்பறுத்தலை மேற்கொண்டார்க்கு அதற்குக் கருவி ஆகிய உடம்பும்மிகை ஆம், மற்றும் தொடர்ப்பாடு எவன் - ஆனபின் அதற்கு மேலே இயைபு இல்லனவும் சில தொடர்ப்பாடு உளவாதல் என்னாம்? ('உடம்பு' என்ற பொதுமையான் உருவுடம்பும...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 35: 'Renunciation'), Kural 345 distills a foundational ethical insight: \"To those who sev'rance seek from being's varied strife, Flesh is burthen sore; what then other bonds of life\" Philosophically, What means the addition of other things those who are attempting to cut off (future) births, when even their body is too much (for them).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "education",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 346,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: உடம்பை யான் எனக் கருதலும் தொடர்பு இல்லாத பொருளை எனது எனக்கருதலுமாகிய மயக்கத்தை போக்குகின்றவன், தேவர்க்கும் எட்டாத உயர்ந்த நிலை அடைவான்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Shall enter realms above the powers divine.",
+        "story_title_ta": "துறவு — முகில் கற்ற பாடம்",
+        "story_title_en": "Renunciation — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'துறவு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 346 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உடல் பற்றி நான் என்றும், பொருள் பற்றி எனது என்றும் வரும் செருக்கை மனத்துள் இருந்து அறுத்து விட்டவன், வானவர்க்கும் மேலான வீட்டுலகத்தை அடைவான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Renunciation'. Grandpa shared Kural 346 and explained in simple words: Shall enter realms above the powers divine. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: யான், எனது என்கின்ற ஆணவத்தை அறவே விலக்கி விட்டவன், வான்புகழையும் மிஞ்சுகின்ற உலகப் புகழுக்கு உரியவனாவான்.",
+        "moral_en": "Moral: Who kills conceit that utters 'I' and 'mine', Shall enter realms above the powers divine.",
+        "game_blank_word_ta": "வானோர்க்கு",
+        "game_options_ta": [
+          "யாதனின்",
+          "நீங்கியான்",
+          "வானோர்க்கு",
+          "நோதல்"
+        ],
+        "game_options_en": [
+          "From what from what a man is free From that, from that his torments flee",
+          "Give up all to gain the True And endless joys shall hence seek you",
+          "Who curbs the pride of I and mine Gets a world rare for gods to gain",
+          "Curb the senses five and renounce The carving desires all at once"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "துறவு (துறவறவியல்) பிரிவில் அமைந்த குறள் 346, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உடல் பற்றி நான் என்றும், பொருள் பற்றி எனது என்றும் வரும் செருக்கை மனத்துள் இருந்து அறுத்து விட்டவன், வானவர்க்கும் மேலான வீட்டுலகத்தை அடைவான். கலைஞர் உரை கூறுவது: யான், எனது என்கின்ற ஆணவத்தை அறவே விலக்கி விட்டவன், வான்புகழையும் மிஞ்சுகின்ற உலகப் புகழுக்கு உரியவனாவான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renunciation (Ascetic Virtue), Kural 346 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Shall enter realms above the powers divine. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'துறவு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renunciation' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'துறவு' அதிகாரத்தில் வரும் திருக்குறள் 346 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 346 from Chapter 'Renunciation'?",
+        "quiz_options_ta": [
+          "கொடை, அருள், செங்கோல்முறை, தளர்ந்த குடிமக்களைக்காத்தல் ஆகிய நான்கும் உடைய அரசன், அரசர்க்கெல்லாம் விளக்குப் போன்றவன்.",
+          "பழி நாணுகின்ற பெருமக்கள் தினையளவாகிய சிறு குற்றம் நேர்ந்தாலும் அதை பனையளவாகக் கருதிக் (குற்றம் செய்யாமல்) காத்துக் கொள்வர்.",
+          "உடம்பை யான் எனக் கருதலும் தொடர்பு இல்லாத பொருளை எனது எனக்கருதலுமாகிய மயக்கத்தை போக்குகின்றவன், தேவர்க்கும் எட்டாத உயர்ந்த நிலை அடைவான்.",
+          "ஒரு மரத்தின் நுனிக்கொம்பில் ஏறியவர், அதையும் கடந்து மேலே ஏற முனைந்தால், அவருடைய உயிர்க்கு முடிவாக நேர்ந்துவிடும்."
+        ],
+        "quiz_options_en": [
+          "He is the Light of Kings who has Bounty, justice, care and grace",
+          "Though millet-small their faults might seem Men fearing disgrace, Palm-tall deem",
+          "Who curbs the pride of I and mine Gets a world rare for gods to gain",
+          "Beyond the branches' tip who skips Ends the life as his body rips"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (துறவு) பகுதியில் குறள் 346 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உடம்பை யான் எனக் கருதலும் தொடர்பு இல்லாத பொருளை எனது எனக்கருதலுமாகிய மயக்கத்தை போக்குகின்றவன், தேவர்க்கும் எட்டாத உயர்ந்த நிலை அடைவான். பரிமேலழகர் உரை நுட்பம்: யான் எனது என்னும் செருக்கு அறுப்பான் - தான் அல்லாத உடம்பை 'யான்' என்றும், தன்னோடு இயைபு இல்லாத பொருளை 'எனது' என்றும் கருதி, அவற்றின்கண் பற்றுச் செய்தற்கு ஏதுவாகிய மயக்கத்தைக் கெடுப்பான், வானோர்க்கு உயர்ந்த உலகம் புகும் - வானோர்க்கும் எய்தற்கு அரிய...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 35: 'Renunciation'), Kural 346 distills a foundational ethical insight: \"Who kills conceit that utters 'I' and 'mine', Shall enter realms above the powers divine\" Philosophically, Shall enter realms above the powers divine.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "humility",
+        "harmony",
+        "self-mastery",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 347,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: யான் எனது என்னும் இருவகைப் பற்றுக்களையும் பற்றிக் கொண்டுவிடாத வரை, துன்பங்களும் விடாமல் பற்றிக்கொள்கின்றன.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Sorrows will never let go their hold of those who give not up their hold of desire.",
+        "story_title_ta": "துறவு — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Renunciation — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'துறவு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 347 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஆசைகளைப் பற்றிக்கொண்டு விட முடியாமல் இருப்பவரைத் துன்பங்கள் பற்றிக் கொண்டு விடமாட்டா.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Renunciation'. Grandpa shared Kural 347 and explained in simple words: Sorrows will never let go their hold of those who give not up their hold of desire. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பற்றுகளைப் பற்றிக்கொண்டு விடாதவர்களைத் துன்பங்களும் விடாமல் பற்றிக் கொள்கின்றன.",
+        "moral_en": "Moral: Who cling to things that cling and eager clasp, Griefs cling to them with unrelaxing grasp.",
+        "game_blank_word_ta": "இடும்பைகள்",
+        "game_options_ta": [
+          "யாதனின்",
+          "நீங்கியான்",
+          "நோதல்",
+          "இடும்பைகள்"
+        ],
+        "game_options_en": [
+          "From what from what a man is free From that, from that his torments flee",
+          "Give up all to gain the True And endless joys shall hence seek you",
+          "Curb the senses five and renounce The carving desires all at once",
+          "Grief clings on and on to those Who cling to bonds without release"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "துறவு (துறவறவியல்) பிரிவில் அமைந்த குறள் 347, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆசைகளைப் பற்றிக்கொண்டு விட முடியாமல் இருப்பவரைத் துன்பங்கள் பற்றிக் கொண்டு விடமாட்டா. கலைஞர் உரை கூறுவது: பற்றுகளைப் பற்றிக்கொண்டு விடாதவர்களைத் துன்பங்களும் விடாமல் பற்றிக் கொள்கின்றன. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renunciation (Ascetic Virtue), Kural 347 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Sorrows will never let go their hold of those who give not up their hold of desire. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'துறவு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renunciation' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'துறவு' அதிகாரத்தில் வரும் திருக்குறள் 347 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 347 from Chapter 'Renunciation'?",
+        "quiz_options_ta": [
+          "கல்வி கற்க நல்ல நூல்களைக் குற்றமறக் கற்க வேண்டும், அவ்வாறு கற்ற பிறகு, கற்ற கல்விக்கு தக்கவாறு நெறியில் நிற்க வேண்டும்.",
+          "குற்றமே ஒருவனுக்கு அழிவை உண்டாக்கும் பகையாகும், ஆகையால் குற்றம் செய்யாமல் இருப்பதே நோக்கமாகக் கொண்டு காத்துக் கொள்ள வேண்டும்.",
+          "தக்க வழியில் பிறர்க்கு கொடுக்கும் அளவு அறிந்து வாழாதவனுடைய வாழ்க்கை (பல வளமும்) இருப்பது போல் தோன்றி இல்லாமல் மறைந்து விடும்.",
+          "யான் எனது என்னும் இருவகைப் பற்றுக்களையும் பற்றிக் கொண்டுவிடாத வரை, துன்பங்களும் விடாமல் பற்றிக்கொள்கின்றன."
+        ],
+        "quiz_options_en": [
+          "Lore worth learning, learn flawlessly Live by that learning thoroughly",
+          "Watch like treasure freedom from fault Our fatal foe is that default",
+          "Know the limit; grant with measure This way give and guard your treasure",
+          "Grief clings on and on to those Who cling to bonds without release"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (துறவு) பகுதியில் குறள் 347 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யான் எனது என்னும் இருவகைப் பற்றுக்களையும் பற்றிக் கொண்டுவிடாத வரை, துன்பங்களும் விடாமல் பற்றிக்கொள்கின்றன. பரிமேலழகர் உரை நுட்பம்: பற்றினைப் பற்றி விடாஅ தவர்க்கு - இருவகைப் பற்றினையும் இறுகப்பற்றி விடாதாரை, இடும்பைகள் பற்றி விடாஅ - பிறவித் துன்பங்கள் இறுகப்பற்றி விடா. (இறுகப் பற்றுதல் - காதல் கூர்தல், விடாதவர்க்கு என்பது வேற்றுமை மயக்கம். இதனான், இவை விடாதவர்க்கு வீடு இல்லை என்பது...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 35: 'Renunciation'), Kural 347 distills a foundational ethical insight: \"Who cling to things that cling and eager clasp, Griefs cling to them with unrelaxing grasp\" Philosophically, Sorrows will never let go their hold of those who give not up their hold of desire.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 348,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: முற்றத் துறந்தவறே உயர்ந்த நிலையினர் ஆவர், அவ்வாறு துறக்காத மற்றவர் அறியாமையாகிய வலையில் அகப்பட்டவர் ஆவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Those who have entirely renounced (all things and all desire) have obtained (absorption into God); all others wander in confusion, entangled in the net of (many) births.",
+        "story_title_ta": "துறவு — கவின் கற்ற பாடம்",
+        "story_title_en": "Renunciation — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'துறவு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 348 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஆசைகளை முழுவதுமாக விட்டு விட்டவரே நல்வாழ்விற்கு முயன்றவர். விடாதவரோ மயங்கி, பிறவி வலைக்குள் அகப்பட்டவரே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Renunciation'. Grandpa shared Kural 348 and explained in simple words: Those who have entirely renounced (all things and all desire) have obtained (absorption into God); all others wander in confusion, entangled in the net of (many) births. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அரைகுறையாக இல்லாமல் அனைத்தும் துறந்தவர்களே உயர்ந்த நிலையை அடைவார்கள் அவ்வாறு துறவாதவர்கள் அறியாமையென்னும் வலையில் சிக்கியவர்களாவார்கள்.",
+        "moral_en": "Moral: Who thoroughly 'renounce' on highest height are set; The rest bewildered, lie entangled in the net.",
+        "game_blank_word_ta": "மற்றை",
+        "game_options_ta": [
+          "மற்றை",
+          "யாதனின்",
+          "நீங்கியான்",
+          "நோதல்"
+        ],
+        "game_options_en": [
+          "Who renounce all are free from care Others suffer delusive snare",
+          "From what from what a man is free From that, from that his torments flee",
+          "Give up all to gain the True And endless joys shall hence seek you",
+          "Curb the senses five and renounce The carving desires all at once"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "துறவு (துறவறவியல்) பிரிவில் அமைந்த குறள் 348, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆசைகளை முழுவதுமாக விட்டு விட்டவரே நல்வாழ்விற்கு முயன்றவர். விடாதவரோ மயங்கி, பிறவி வலைக்குள் அகப்பட்டவரே. கலைஞர் உரை கூறுவது: அரைகுறையாக இல்லாமல் அனைத்தும் துறந்தவர்களே உயர்ந்த நிலையை அடைவார்கள் அவ்வாறு துறவாதவர்கள் அறியாமையென்னும் வலையில் சிக்கியவர்களாவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renunciation (Ascetic Virtue), Kural 348 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who have entirely renounced (all things and all desire) have obtained (absorption into God); all others wander in confusion, entangled in the net of (many) births. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'துறவு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renunciation' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'துறவு' அதிகாரத்தில் வரும் திருக்குறள் 348 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 348 from Chapter 'Renunciation'?",
+        "quiz_options_ta": [
+          "முற்றத் துறந்தவறே உயர்ந்த நிலையினர் ஆவர், அவ்வாறு துறக்காத மற்றவர் அறியாமையாகிய வலையில் அகப்பட்டவர் ஆவர்.",
+          "எண் என்று சொல்லப்படுவன எழுத்து என்று சொல்லப்படுவன ஆகிய இரு வகைக் கலைகளையும் வாழும் மக்களுக்குக் கண்கள் என்று கூறுவர்.",
+          "குற்றம் நேர்வதற்கு முன்னமே வராமல் காத்துக் கொள்ளாதவனுடைய வாழ்க்கை, நெருப்பின் முன் நின்ற வைக்கோல் போர் போல் அழிந்துவிடும்.",
+          "பொருள் வரும் வழி (வருவாய்) சிறிதாக இருந்தாலும், போகும் வழி (செலவு) விரிவுபடாவிட்டால் அதனால் தீங்கு இல்லை."
+        ],
+        "quiz_options_en": [
+          "Who renounce all are free from care Others suffer delusive snare",
+          "Letter, number, art and science Of living kind both are the eyes",
+          "Who fails to guard himself from flaw Loses his life like flame-lit straw",
+          "The outflow must not be excess No matter how small income is"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (துறவு) பகுதியில் குறள் 348 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முற்றத் துறந்தவறே உயர்ந்த நிலையினர் ஆவர், அவ்வாறு துறக்காத மற்றவர் அறியாமையாகிய வலையில் அகப்பட்டவர் ஆவர். பரிமேலழகர் உரை நுட்பம்: தீரத் துறந்தார் தலைப்பட்டார் - முற்றத் துறந்தார் வீட்டினைத் தலைப்பட்டார், மற்றையவர் மயங்கி வலைப்பட்டார் - அங்ஙனம் துறவாதார் மயங்கிப் பிறப்பாகிய வலையுட்பட்டார். (முற்றத் துறத்தலாவது, பொருள்களையும் இருவகை உடம்பினையும் உவர்த்துப் பற்றற விடுதல். அங்ஙனம...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 35: 'Renunciation'), Kural 348 distills a foundational ethical insight: \"Who thoroughly 'renounce' on highest height are set; The rest bewildered, lie entangled in the net\" Philosophically, Those who have entirely renounced (all things and all desire) have obtained (absorption into God); all others wander in confusion, entangled in the net of (many) births.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "truth",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 349,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: இருவகைப் பற்றும் அற்றபொழுதே அந்நிலை பிறவித் துன்பத்தை ஒழிக்கும், இல்லையானால் (பிறவித்துன்பம் மாறி மாறி வந்து) நிலையாமைக் காணப்படும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: At the moment in which desire has been abandoned, (other) births will be cut off; when that has not been done, instability will be seen.",
+        "story_title_ta": "துறவு — நிலா கற்ற பாடம்",
+        "story_title_en": "Renunciation — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'துறவு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 349 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஆசைகளை முழுவதுமாக விட்டபோதுதான் பிறப்பு என்னும் கட்டு அறுபடும்; விடவில்லை என்றால், பிறப்பு மறுபடியும் தொடரும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Renunciation'. Grandpa shared Kural 349 and explained in simple words: At the moment in which desire has been abandoned, (other) births will be cut off; when that has not been done, instability will be seen. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பற்றுகளைத் துறந்துவிட்டால், பிறப்பில் ஏற்படும் இன்ப துன்பங்கள் வருவதில்லை இல்லையேல், அந்த இன்ப துன்பங்கள் மாறிமாறி வரக்கூடிய நிலையாமை தோன்றும்.",
+        "moral_en": "Moral: When that which clings falls off, severed is being's tie; All else will then be seen as instability.",
+        "game_blank_word_ta": "படும்",
+        "game_options_ta": [
+          "யாதனின்",
+          "படும்",
+          "நீங்கியான்",
+          "நோதல்"
+        ],
+        "game_options_en": [
+          "From what from what a man is free From that, from that his torments flee",
+          "Bondage cut off, rebirth is off The world then seems instable stuff",
+          "Give up all to gain the True And endless joys shall hence seek you",
+          "Curb the senses five and renounce The carving desires all at once"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "துறவு (துறவறவியல்) பிரிவில் அமைந்த குறள் 349, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆசைகளை முழுவதுமாக விட்டபோதுதான் பிறப்பு என்னும் கட்டு அறுபடும்; விடவில்லை என்றால், பிறப்பு மறுபடியும் தொடரும். கலைஞர் உரை கூறுவது: பற்றுகளைத் துறந்துவிட்டால், பிறப்பில் ஏற்படும் இன்ப துன்பங்கள் வருவதில்லை இல்லையேல், அந்த இன்ப துன்பங்கள் மாறிமாறி வரக்கூடிய நிலையாமை தோன்றும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renunciation (Ascetic Virtue), Kural 349 speaks directly to teens navigating studies, friendships, leadership, and digital choices: At the moment in which desire has been abandoned, (other) births will be cut off; when that has not been done, instability will be seen. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'துறவு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renunciation' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'துறவு' அதிகாரத்தில் வரும் திருக்குறள் 349 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 349 from Chapter 'Renunciation'?",
+        "quiz_options_ta": [
+          "கண்ணுடையவர் என்றுக் கூறப்படுபவர் கற்றவரே, கல்லாதவர் முகத்தில் இரண்டுப் புண் உடையவர் ஆவார்.",
+          "இருவகைப் பற்றும் அற்றபொழுதே அந்நிலை பிறவித் துன்பத்தை ஒழிக்கும், இல்லையானால் (பிறவித்துன்பம் மாறி மாறி வந்து) நிலையாமைக் காணப்படும்.",
+          "முன்னே தன் குற்றத்தைக் கண்டு நீக்கி பிறகு பிறருடையக் குற்றத்தை ஆராயவல்லவனானால், தலைவனுக்கு என்ன குற்றமாகும்.",
+          "பொருளின் அளவு அறிந்து வாழாதவனுடைய வாழ்க்கை (பல வளமும்) இருப்பது போல் தோன்றி இல்லாமல் மறைந்து கெட்டு விடும்."
+        ],
+        "quiz_options_en": [
+          "The learned alone have eyes on face The ignorant two sores of disgrace",
+          "Bondage cut off, rebirth is off The world then seems instable stuff",
+          "What fault can be the king's who cures First his faults, then scans others",
+          "Who does not know to live in bounds His life seems rich but thins and ends"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (துறவு) பகுதியில் குறள் 349 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இருவகைப் பற்றும் அற்றபொழுதே அந்நிலை பிறவித் துன்பத்தை ஒழிக்கும், இல்லையானால் (பிறவித்துன்பம் மாறி மாறி வந்து) நிலையாமைக் காணப்படும். பரிமேலழகர் உரை நுட்பம்: பற்று அற்ற கண்ணே பிறப்பு அறுக்கும் - ஒருவன் இருவகைப்பற்றும் அற்ற பொழுதே அப்பற்று அறுதி அவன் பிறப்பை அறுக்கும்; மற்று நிலையாமை காணப்படும் - அவை அறாதபொழுது அவற்றால் பிறந்து இறந்து வருகின்ற நிலையாமை காணப்படும். (காரணமாகிய பொழுதே காரியமும் அற்றதாம் முறைமைபற்றி...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 35: 'Renunciation'), Kural 349 distills a foundational ethical insight: \"When that which clings falls off, severed is being's tie; All else will then be seen as instability\" Philosophically, At the moment in which desire has been abandoned, (other) births will be cut off; when that has not been done, instability will be seen.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "love",
+        "harmony",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 350,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பற்றில்லாதவனாகிய கடவுளுடைய பற்றை மட்டும் பற்றிக் கொள்ள வேண்டும், உள்ள பற்றுக்களை விட்டொழிப்பதற்கே அப் பற்றைப் பற்ற வேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Desire the desire of Him who is without desire; in order to renounce desire, desire that desire.",
+        "story_title_ta": "துறவு — அன்பு கற்ற பாடம்",
+        "story_title_en": "Renunciation — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'துறவு' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 350 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஆசை ஏதும் இல்லாதவனாகிய இறைவன் மீது ஆசை கொள்க; அவன் மீது ஆசை கொள்வது நம் ஆசைகளை விடுவதற்கே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Renunciation'. Grandpa shared Kural 350 and explained in simple words: Desire the desire of Him who is without desire; in order to renounce desire, desire that desire. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: எதிலும் பற்றில்லாதவராக யார் இருக்கிறாரோ அவரிடம் மட்டும் பற்றுக் கொள்ள வேண்டும் துறவறத்தினர் தம் பற்றுகளை விட்டொழிப்பதற்கு அத்தகையோரிடம் கொள்ளும் பற்றுதான் துணை நிற்கும்.",
+        "moral_en": "Moral: Cling thou to that which He, to Whom nought clings, hath bid thee cling, Cling to that bond, to get thee free from every clinging thing.",
+        "game_blank_word_ta": "பற்றினை",
+        "game_options_ta": [
+          "யாதனின்",
+          "நீங்கியான்",
+          "பற்றினை",
+          "நோதல்"
+        ],
+        "game_options_en": [
+          "From what from what a man is free From that, from that his torments flee",
+          "Give up all to gain the True And endless joys shall hence seek you",
+          "Bind Thyself to the unbound one That binding breaks all bonds anon",
+          "Curb the senses five and renounce The carving desires all at once"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "துறவு (துறவறவியல்) பிரிவில் அமைந்த குறள் 350, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆசை ஏதும் இல்லாதவனாகிய இறைவன் மீது ஆசை கொள்க; அவன் மீது ஆசை கொள்வது நம் ஆசைகளை விடுவதற்கே. கலைஞர் உரை கூறுவது: எதிலும் பற்றில்லாதவராக யார் இருக்கிறாரோ அவரிடம் மட்டும் பற்றுக் கொள்ள வேண்டும் துறவறத்தினர் தம் பற்றுகளை விட்டொழிப்பதற்கு அத்தகையோரிடம் கொள்ளும் பற்றுதான் துணை நிற்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Renunciation (Ascetic Virtue), Kural 350 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Desire the desire of Him who is without desire; in order to renounce desire, desire that desire. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'துறவு' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Renunciation' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'துறவு' அதிகாரத்தில் வரும் திருக்குறள் 350 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 350 from Chapter 'Renunciation'?",
+        "quiz_options_ta": [
+          "மகிழும் படியாகக் கூடிபழகி (இனி இவரை எப்போது காண்போம் என்று ) வருந்தி நினைக்கும் படியாகப் பிரிதல் புலவரின் தொழிலாகும்.",
+          "செய்யத்தக்க நன்மைகளைச் செய்யாமல் பொருளைச் சேர்த்து வைத்திருப்பவனுடைய செல்வம், உய்யுந் தன்மை இல்லாமல் அழியும்.",
+          "பற்றில்லாதவனாகிய கடவுளுடைய பற்றை மட்டும் பற்றிக் கொள்ள வேண்டும், உள்ள பற்றுக்களை விட்டொழிப்பதற்கே அப் பற்றைப் பற்ற வேண்டும்.",
+          "தனக்கு பொருள் உள்ள அளவை ஆராயாமல் மேற்கொள்ளும் ஒப்புரவினால், ஒருவனுடைய செல்வத்தின் அளவு விரைவில் கெடும்."
+        ],
+        "quiz_options_en": [
+          "To meet with joy and part with thought Of learned men this is the art",
+          "That miser's wealth shall waste and end Who would not for a good cause spend",
+          "Bind Thyself to the unbound one That binding breaks all bonds anon",
+          "Wealth amassed quickly vanishes Sans level if one lavishes"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (துறவு) பகுதியில் குறள் 350 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பற்றில்லாதவனாகிய கடவுளுடைய பற்றை மட்டும் பற்றிக் கொள்ள வேண்டும், உள்ள பற்றுக்களை விட்டொழிப்பதற்கே அப் பற்றைப் பற்ற வேண்டும். பரிமேலழகர் உரை நுட்பம்: பற்று அற்றான் பற்றினைப் பற்றுக - எல்லாப் பொருளையும் பற்றி நின்றே பற்றற்ற இறைவன் ஓதிய வீட்டு நெறியை இதுவே நன்னெறி என்று மனத்துக் கொள்க, அப்பற்றைப் பற்றுக பற்றுவிடற்கு - கொண்டு, அதன்கண் உபாயத்தை அம்மனத்தான் செய்க , விடாது வந்த பற்று விடுதற்கு. (கடவுள...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 35: 'Renunciation'), Kural 350 distills a foundational ethical insight: \"Cling thou to that which He, to Whom nought clings, hath bid thee cling, Cling to that bond, to get thee free from every clinging thing\" Philosophically, Desire the desire of Him who is without desire; in order to renounce desire, desire that desire.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "discipline"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "adhikaram_id": 87,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.261742098+00:00",
+  "kurals": [
+    {
+      "kural_number": 861,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தம்மை விட வலியவர்க்கு மாறுபட்டு எதிர்த்தலை விட வேண்டும், தம்மை விட மெலியவர் மேல் பகைக் கொள்வதை விடாமல் விரும்பி மேற்கொள்ள வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Avoid offering resistance to the strong; (but) never fail to cherish enmity towards the weak.",
+        "story_title_ta": "பகை மாட்சி — இனியா கற்ற பாடம்",
+        "story_title_en": "The Might of Hatred — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 861 பற்றிக் கதை சொன்னார். 'பகைவர் நம்மிலும் வலியர் என்றால் அவரை எதிர்ப்தைத் தவிர்த்து விடுக; மெலியர் என்றால் உடனே எதிர்த்துச் செல்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 87, 'The Might of Hatred', centered on Kural 861: Avoid offering resistance to the strong; (but) never fail to cherish enmity towards the weak. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மெலியோரை விடுத்து, வலியோரை எதிர்த்துப் போரிட விரும்புவதே பகைமாட்சி எனப் போற்றப்படும்.",
+        "moral_en": "Moral: With stronger than thyself, turn from the strife away; With weaker shun not, rather court the fray.",
+        "game_blank_word_ta": "மாறேற்றல்",
+        "game_options_ta": [
+          "அன்பிலன்",
+          "மாறேற்றல்",
+          "ஆன்ற",
+          "துணையிலன்"
+        ],
+        "game_options_en": [
+          "Loveless, aidless, powerless king Can he withstand an enemy strong?",
+          "Turn from strife with foes too strong With the feeble for battle long",
+          "Unskilled, timid, miser, misfit He is easy for foes to hit",
+          "The wrathful restive man is prey To any, anywhere any day"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 861, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகைவர் நம்மிலும் வலியர் என்றால் அவரை எதிர்ப்தைத் தவிர்த்து விடுக; மெலியர் என்றால் உடனே எதிர்த்துச் செல்க. கலைஞர் உரை கூறுவது: மெலியோரை விடுத்து, வலியோரை எதிர்த்துப் போரிட விரும்புவதே பகைமாட்சி எனப் போற்றப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Might of Hatred (Ministers & Elements of State), Kural 861 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Avoid offering resistance to the strong; (but) never fail to cherish enmity towards the weak. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Might of Hatred' thoughtfully.",
+        "quiz_question_ta": "'பகை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 861 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 861 from Chapter 'The Might of Hatred'?",
+        "quiz_options_ta": [
+          "மனைவிக்கு அஞ்சி வாழ்கின்றவன் எப்போதும் நல்லவர்க்கு நன்மையான கடமையைச் செய்வதற்கு அஞ்சி நடப்பான்.",
+          "தம்மை விட வலியவர்க்கு மாறுபட்டு எதிர்த்தலை விட வேண்டும், தம்மை விட மெலியவர் மேல் பகைக் கொள்வதை விடாமல் விரும்பி மேற்கொள்ள வேண்டும்.",
+          "நோய் இன்னதென்று ஆராய்ந்து, நோயின் காரணம் ஆராய்ந்து, அதைத் தணிக்கும் வழியையும் ஆராய்ந்து, உடலுக்கு பொருந்தும் படியாகச் செய்யவேண்டும்.",
+          "பண்பு உடையவராக வாழும் நல்வழியை, யாரிடத்திலும் எளிய செவ்வியுடன் இருப்பதால் அடைவது எளிது என்று கூறுவர்."
+        ],
+        "quiz_options_en": [
+          "Who fears his wife fears always Good to do to the good and wise",
+          "Turn from strife with foes too strong With the feeble for battle long",
+          "Test disease, its cause and cure And apply remedy that is sure",
+          "To the polite free of access Easily comes courteousness"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகை மாட்சி) பகுதியில் குறள் 861 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம்மை விட வலியவர்க்கு மாறுபட்டு எதிர்த்தலை விட வேண்டும், தம்மை விட மெலியவர் மேல் பகைக் கொள்வதை விடாமல் விரும்பி மேற்கொள்ள வேண்டும். பரிமேலழகர் உரை நுட்பம்: வலியார்க்கு மாறு ஏற்றல் ஓம்புக - தம்மின் வலியார்க்குப் பகையாய் எதிர்தலை ஒழிக; மெலியார்மேல் பகை ஓம்பா மேக - ஏனை மெலியார்க்குப் பகையாதலை ஒழியாது விரும்புக. ('வலியார' என்புழித் துணை வலியும் அடங்கலின், 'மெலியார்' என்புழித் துணை வலியின்மையும் கொள்ளப்படும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 87: 'The Might of Hatred'), Kural 861 distills a foundational ethical insight: \"With stronger than thyself, turn from the strife away; With weaker shun not, rather court the fray\" Philosophically, Avoid offering resistance to the strong; (but) never fail to cherish enmity towards the weak.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 862,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவன் அன்பு இல்லாதவனாய், அமைந்த துணை இல்லாதடனாய், தானும் வலிமை இல்லாதவனாய் இருந்தால், அவன் பகைவனுடைய வலிமையை எவ்வாறு ஒழிக்க முடியும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: How can he who is unloving, destitute of powerful aids, and himself without strength overcome the might of his foe ?",
+        "story_title_ta": "பகை மாட்சி — முகில் கற்ற பாடம்",
+        "story_title_en": "The Might of Hatred — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 862 பற்றிக் கதை சொன்னார். 'மக்களிடத்தில் அன்பு இல்லாத, வலுவான துணையும் இல்லாத, ஆற்றலும் அற்ற அரசின்மீது ஆற்றல் மிக்க பகை வந்தால், அப்பகையின் வலி‌மையை எப்படி அழிக்க முடியும்?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 87, 'The Might of Hatred', centered on Kural 862: How can he who is unloving, destitute of powerful aids, and himself without strength overcome the might of his foe ? Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உடனிருப்போரிடம் அன்பு இல்லாமல், வலிமையான துணையுமில்லாமல், தானும் வலிமையற்றிருக்கும்போது பகையை எப்படி வெல்ல முடியும்?",
+        "moral_en": "Moral: No kinsman's love, no strength of friends has he; How can he bear his foeman's enmity.",
+        "game_blank_word_ta": "ஆன்ற",
+        "game_options_ta": [
+          "வலியார்க்கு",
+          "மாறேற்றல்",
+          "ஆன்ற",
+          "ஓம்புக"
+        ],
+        "game_options_en": [
+          "Turn from strife with foes too strong With the feeble for battle long",
+          "Unskilled, timid, miser, misfit He is easy for foes to hit",
+          "Loveless, aidless, powerless king Can he withstand an enemy strong?",
+          "The wrathful restive man is prey To any, anywhere any day"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 862, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மக்களிடத்தில் அன்பு இல்லாத, வலுவான துணையும் இல்லாத, ஆற்றலும் அற்ற அரசின்மீது ஆற்றல் மிக்க பகை வந்தால், அப்பகையின் வலி‌மையை எப்படி அழிக்க முடியும்? கலைஞர் உரை கூறுவது: உடனிருப்போரிடம் அன்பு இல்லாமல், வலிமையான துணையுமில்லாமல், தானும் வலிமையற்றிருக்கும்போது பகையை எப்படி வெல்ல முடியும்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Might of Hatred (Ministers & Elements of State), Kural 862 speaks directly to teens navigating studies, friendships, leadership, and digital choices: How can he who is unloving, destitute of powerful aids, and himself without strength overcome the might of his foe ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Might of Hatred' thoughtfully.",
+        "quiz_question_ta": "'பகை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 862 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 862 from Chapter 'The Might of Hatred'?",
+        "quiz_options_ta": [
+          "மனைவியின் தோளுக்கு அஞ்சி வாழ்கின்றவர் தேவரைப் போல் இவ்வுலகில் சிறப்பான நிலையில் வாழ்ந்த போதிலும் பெருமை இல்லாதவரே ஆவர்.",
+          "மருத்துவ நூலைக் கற்றவன், நோயுற்றவனுடைய வயது முதலியவற்றையும், நோயின் அளவையும், காலத்தையும் ஆராய்ந்து செய்ய வேண்டும்.",
+          "ஒருவன் அன்பு இல்லாதவனாய், அமைந்த துணை இல்லாதடனாய், தானும் வலிமை இல்லாதவனாய் இருந்தால், அவன் பகைவனுடைய வலிமையை எவ்வாறு ஒழிக்க முடியும்.",
+          "அன்புடையவராக இருத்தல், உயர்ந்த குடியில் பிறந்த தன்மை அமைந்திருத்தல் ஆகிய இவ் விரண்டும் பண்பு உடையவராக வாழும் நல்வழியாகும்."
+        ],
+        "quiz_options_en": [
+          "Who fear douce arms of their wives Look petty even with god-like lives",
+          "Let the skilful doctor note The sickmen, sickness, season and treat",
+          "Loveless, aidless, powerless king Can he withstand an enemy strong?",
+          "Humanity and noble birth Develop courtesy and moral worth"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகை மாட்சி) பகுதியில் குறள் 862 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் அன்பு இல்லாதவனாய், அமைந்த துணை இல்லாதடனாய், தானும் வலிமை இல்லாதவனாய் இருந்தால், அவன் பகைவனுடைய வலிமையை எவ்வாறு ஒழிக்க முடியும். பரிமேலழகர் உரை நுட்பம்: அன்பு இலன் - ஒருவன் தன் சுற்றத்தின்மேல் அன்பிலன்; ஆன்ற துணை இலன் - அதுவேயன்றி வலிய துணையிலன்; தான் துவ்வான் - அதன் மேல் தான் வலியிலன் : ஏதிலான் துப்பு என்பரியும் - அப்பெற்றியான்மேல் வந்த பகைவன் வலியினை யாங்ஙனம் தொலைக்கும்? (சுற்றமும் இருவகைத் துணையும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 87: 'The Might of Hatred'), Kural 862 distills a foundational ethical insight: \"No kinsman's love, no strength of friends has he; How can he bear his foeman's enmity\" Philosophically, How can he who is unloving, destitute of powerful aids, and himself without strength overcome the might of his foe ?",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "love",
+        "family",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 863,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒருவன் அஞ்சுகின்றவனாய், அறிவு இல்லாதவனாய், பொருந்தும் பண்பு இல்லாதவனாய், பிறர்க்கு ஒன்று ஈயாதவனாய் இருந்தால் , அவன் பகைவர்க்கு மிக எளியவன்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: In the estimation of foes miserably weak is he, who is timid, ignorant, unsociable and niggardly.",
+        "story_title_ta": "பகை மாட்சி — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Might of Hatred — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 863 பற்றிக் கதை சொன்னார். 'பயப்பட வேண்டாததற்குப் பயப்பட்டு, அறிய வேண்டியவற்றை அறியாத, பிறரோடு இணங்கிப் போகாத, எவர்க்கும் எதுவும் தராத அரசு, பகைவரால் தோற்கடிக்கப்படுவதற்கு மிக எளிது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 87, 'The Might of Hatred', centered on Kural 863: In the estimation of foes miserably weak is he, who is timid, ignorant, unsociable and niggardly. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அச்சமும், மடமையும் உடையவனாகவும், இணைந்து வாழும் இயல்பும், இரக்க சிந்தையும் இல்லாதவனாகவும் ஒருவன் இருந்தால், அவன் பகைவரால் எளிதில் வெல்லப்படுவான்.",
+        "moral_en": "Moral: A craven thing! knows nought, accords with none, gives nought away; To wrath of any foe he falls an easy prey.",
+        "game_blank_word_ta": "அமைவிலன்",
+        "game_options_ta": [
+          "வலியார்க்கு",
+          "மாறேற்றல்",
+          "ஓம்புக",
+          "அமைவிலன்"
+        ],
+        "game_options_en": [
+          "Turn from strife with foes too strong With the feeble for battle long",
+          "Loveless, aidless, powerless king Can he withstand an enemy strong?",
+          "The wrathful restive man is prey To any, anywhere any day",
+          "Unskilled, timid, miser, misfit He is easy for foes to hit"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 863, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பயப்பட வேண்டாததற்குப் பயப்பட்டு, அறிய வேண்டியவற்றை அறியாத, பிறரோடு இணங்கிப் போகாத, எவர்க்கும் எதுவும் தராத அரசு, பகைவரால் தோற்கடிக்கப்படுவதற்கு மிக எளிது. கலைஞர் உரை கூறுவது: அச்சமும், மடமையும் உடையவனாகவும், இணைந்து வாழும் இயல்பும், இரக்க சிந்தையும் இல்லாதவனாகவும் ஒருவன் இருந்தால், அவன் பகைவரால் எளிதில் வெல்லப்படுவான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Might of Hatred (Ministers & Elements of State), Kural 863 speaks directly to teens navigating studies, friendships, leadership, and digital choices: In the estimation of foes miserably weak is he, who is timid, ignorant, unsociable and niggardly. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Might of Hatred' thoughtfully.",
+        "quiz_question_ta": "'பகை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 863 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 863 from Chapter 'The Might of Hatred'?",
+        "quiz_options_ta": [
+          "மனைவியின் ஏவலைச் செய்து நடக்கின்றவனுடைய ஆண்மையைவிட, நாணத்தை தன் இயல்பாக உடையவளின் பெண்மையே பெருமை உடையது.",
+          "நோயுற்றவன், நோய் தீர்க்கும் மருத்துவன், மருந்து, மருந்தை அங்கிருந்து கொடுப்பவன் என்று மருத்துவ முறை அந்த நான்குவகைப் பாகுபாடு உடையது.",
+          "உடம்பால் ஒத்திருத்தல் மக்களோடு ஒப்புமை அன்று, பொருந்தத்தக்கப் பண்பால் ஒத்திருத்தலே கொள்ளத்தக்க ஒப்புமையாகும்.",
+          "ஒருவன் அஞ்சுகின்றவனாய், அறிவு இல்லாதவனாய், பொருந்தும் பண்பு இல்லாதவனாய், பிறர்க்கு ஒன்று ஈயாதவனாய் இருந்தால் , அவன் பகைவர்க்கு மிக எளியவன்."
+        ],
+        "quiz_options_en": [
+          "Esteemed more is women bashful Than man servile unto her will",
+          "Patient, doctor, medicine and nurse Are four-fold codes of treating course",
+          "Likeness in limbs is not likeness It's likeness in kind courteousness",
+          "Unskilled, timid, miser, misfit He is easy for foes to hit"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகை மாட்சி) பகுதியில் குறள் 863 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் அஞ்சுகின்றவனாய், அறிவு இல்லாதவனாய், பொருந்தும் பண்பு இல்லாதவனாய், பிறர்க்கு ஒன்று ஈயாதவனாய் இருந்தால் , அவன் பகைவர்க்கு மிக எளியவன். பரிமேலழகர் உரை நுட்பம்: அஞ்சும் - ஒருவன் அஞ்சவேண்டாதவற்றிற்கு அஞ்சாநிற்கும்; அறியான் - அறியவேண்டுமவற்றை அறியான்; அமைவு இலன் - பிறரோடு பொருத்தம் இலன்; ஈகலான் - இவற்றின் மேலும் யாவர் மாட்டும் இவறன்மாலையன்; பகைக்குத் தஞ்சம் எளியன் - இப்பெற்றியான் பகைவர்க்கு மிக எளியன். ('தஞ்சம...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 87: 'The Might of Hatred'), Kural 863 distills a foundational ethical insight: \"A craven thing! knows nought, accords with none, gives nought away; To wrath of any foe he falls an easy prey\" Philosophically, In the estimation of foes miserably weak is he, who is timid, ignorant, unsociable and niggardly.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "harmony",
+        "wisdom",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 864,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒருவன் சினம் நீங்காதவனாய், நெஞ்சத்தை நிறுத்தியாளும் தன்மை இல்லாதவனாய் இருந்தால் அவன் எக்காலத்திலும் எவ்விடத்திலும் எவர்க்கும் எளியவன்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: He who neither refrains from anger nor keeps his secrets will at all times and in all places be easily conquered by all.",
+        "story_title_ta": "பகை மாட்சி — கவின் கற்ற பாடம்",
+        "story_title_en": "The Might of Hatred — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 864 பற்றிக் கதை சொன்னார். 'கோபம் குறையாத, ரகசியங்களைக் காக்கத் தெரியாத அரசைத் தோற்கடிப்பது எப்போதும், எங்கும், எவர்க்கும் எளிது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 87, 'The Might of Hatred', centered on Kural 864: He who neither refrains from anger nor keeps his secrets will at all times and in all places be easily conquered by all. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சினத்தையும் மனத்தையும் கட்டுப்படுத்த முடியாதவர்களை, எவர் வேண்டுமானாலும், எப்போது வேண்டுமானாலும், எங்கு வேண்டுமானாலும் எளிதில் தோற்கடித்து விடலாம்.",
+        "moral_en": "Moral: His wrath still blazes, every secret told; each dayThis man's in every place to every foe an easy prey.",
+        "game_blank_word_ta": "எஞ்ஞான்றும்",
+        "game_options_ta": [
+          "எஞ்ஞான்றும்",
+          "வலியார்க்கு",
+          "மாறேற்றல்",
+          "ஓம்புக"
+        ],
+        "game_options_en": [
+          "The wrathful restive man is prey To any, anywhere any day",
+          "Turn from strife with foes too strong With the feeble for battle long",
+          "Loveless, aidless, powerless king Can he withstand an enemy strong?",
+          "Unskilled, timid, miser, misfit He is easy for foes to hit"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 864, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கோபம் குறையாத, ரகசியங்களைக் காக்கத் தெரியாத அரசைத் தோற்கடிப்பது எப்போதும், எங்கும், எவர்க்கும் எளிது. கலைஞர் உரை கூறுவது: சினத்தையும் மனத்தையும் கட்டுப்படுத்த முடியாதவர்களை, எவர் வேண்டுமானாலும், எப்போது வேண்டுமானாலும், எங்கு வேண்டுமானாலும் எளிதில் தோற்கடித்து விடலாம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Might of Hatred (Ministers & Elements of State), Kural 864 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who neither refrains from anger nor keeps his secrets will at all times and in all places be easily conquered by all. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Might of Hatred' thoughtfully.",
+        "quiz_question_ta": "'பகை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 864 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 864 from Chapter 'The Might of Hatred'?",
+        "quiz_options_ta": [
+          "ஒருவன் சினம் நீங்காதவனாய், நெஞ்சத்தை நிறுத்தியாளும் தன்மை இல்லாதவனாய் இருந்தால் அவன் எக்காலத்திலும் எவ்விடத்திலும் எவர்க்கும் எளியவன்.",
+          "மனைவி விரும்பியபடி செய்து நடப்பவர், தமது நண்பர்க்கு உற்ற குறையையும் செய்து முடிக்க மாட்டார், அறத்தையும் செய்ய மாட்டார்.",
+          "நடுவு நிமையும் நாணமும் உயர்குடியில் பிறந்தவனிடத்தில் அல்லாமல் மற்றவரிடத்தில் இயல்பாக ஒருசேர அமைவதில்லை.",
+          "நீதியையும் நன்மையையும் விரும்பிப் பிறர்க்குப் பயன்பட வாழும் பெரியோரின் நல்லப் பண்பை உலகத்தார் போற்றிக் கொண்டாடுவர்."
+        ],
+        "quiz_options_en": [
+          "The wrathful restive man is prey To any, anywhere any day",
+          "By fair-browed wives who are governed Help no friends nor goodness tend",
+          "Right-sense and bashfulness adorn By nature only the noble-born",
+          "The world applauds those helpful men Whose actions are just and benign"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகை மாட்சி) பகுதியில் குறள் 864 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் சினம் நீங்காதவனாய், நெஞ்சத்தை நிறுத்தியாளும் தன்மை இல்லாதவனாய் இருந்தால் அவன் எக்காலத்திலும் எவ்விடத்திலும் எவர்க்கும் எளியவன். பரிமேலழகர் உரை நுட்பம்: வெகுளி நீங்கான் - ஒருவன் வெகுளியின் நீங்கான்; நிறை இலன் - அதுவேயன்றித் தான் நிறையுடையன் அல்லன்; எஞ்ஞான்றும் யாங்கணும் யார்க்கும் எளிது - அவன்மேற்சேறல் எக்காலத்தும் எவ்விடத்தும் யார்க்கும் எளிது. (நிறை-மறை பிறரறியாமை. வெகுள்தல் மாலையன் ஆகலானும், மறை...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 87: 'The Might of Hatred'), Kural 864 distills a foundational ethical insight: \"His wrath still blazes, every secret told; each dayThis man's in every place to every foe an easy prey\" Philosophically, He who neither refrains from anger nor keeps his secrets will at all times and in all places be easily conquered by all.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "self-mastery",
+        "time",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 865,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவன் நல்வழியை நோக்காமல் பொருத்தமானவற்றைச் செய்யாமல், பழியையும் பார்க்காமல், நற்பண்பும் இல்லாமல் இருந்தால் அவன் பகைவர்க்கும் எளியனவான்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: (A) pleasing (object) to his foes is he who reads not moral works, does nothing that is enjoined by them cares not for reproach and is not possessed of good qualities.",
+        "story_title_ta": "பகை மாட்சி — நிலா கற்ற பாடம்",
+        "story_title_en": "The Might of Hatred — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 865 பற்றிக் கதை சொன்னார். 'நீதி நூல்கள் ‌சொல்லும் வழியைப் படித்து அறியாத, நல்லனவற்றைச் செய்யாத, அவை தெரியாமலே செயலாற்றுவதால் வரும் வழியையும் எண்ணாத, நல்ல பண்புகளும் இல்லாத அரசின் பகைமை, பகைவர்க்கு இனிது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 87, 'The Might of Hatred', centered on Kural 865: (A) pleasing (object) to his foes is he who reads not moral works, does nothing that is enjoined by them cares not for reproach and is not possessed of good qualities. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நல்வழி நாடாமல், பொருத்தமானதைச் செய்யாமல், பழிக்கு அஞ்சாமல், பண்பும் இல்லாமல் ஒருவன் இருந்தால் அவன் பகைவரால் எளிதில் வெல்லப்படுவான்.",
+        "moral_en": "Moral: No way of right he scans, no precepts bind, no crimes affright, No grace of good he owns; such man's his foes' delight.",
+        "game_blank_word_ta": "பண்பிலன்",
+        "game_options_ta": [
+          "வலியார்க்கு",
+          "பண்பிலன்",
+          "மாறேற்றல்",
+          "ஓம்புக"
+        ],
+        "game_options_en": [
+          "Turn from strife with foes too strong With the feeble for battle long",
+          "Crooked, cruel, tactless and base Any foe can fell him with ease",
+          "Loveless, aidless, powerless king Can he withstand an enemy strong?",
+          "Unskilled, timid, miser, misfit He is easy for foes to hit"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 865, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நீதி நூல்கள் ‌சொல்லும் வழியைப் படித்து அறியாத, நல்லனவற்றைச் செய்யாத, அவை தெரியாமலே செயலாற்றுவதால் வரும் வழியையும் எண்ணாத, நல்ல பண்புகளும் இல்லாத அரசின் பகைமை, பகைவர்க்கு இனிது. கலைஞர் உரை கூறுவது: நல்வழி நாடாமல், பொருத்தமானதைச் செய்யாமல், பழிக்கு அஞ்சாமல், பண்பும் இல்லாமல் ஒருவன் இருந்தால் அவன் பகைவரால் எளிதில் வெல்லப்படுவான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Might of Hatred (Ministers & Elements of State), Kural 865 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (A) pleasing (object) to his foes is he who reads not moral works, does nothing that is enjoined by them cares not for reproach and is not possessed of good qualities. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Might of Hatred' thoughtfully.",
+        "quiz_question_ta": "'பகை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 865 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 865 from Chapter 'The Might of Hatred'?",
+        "quiz_options_ta": [
+          "அறச் செயலும் அதற்க்கு காரணமாக அமைந்த பொருள் முயற்சியும், மற்றக் கடமைகளும் மனைவியின் ஏவலைச் செய்வோரிடத்தில் இல்லை.",
+          "ஒருவன் நல்வழியை நோக்காமல் பொருத்தமானவற்றைச் செய்யாமல், பழியையும் பார்க்காமல், நற்பண்பும் இல்லாமல் இருந்தால் அவன் பகைவர்க்கும் எளியனவான்.",
+          "உயர் குடியில் பிறந்தவர் ஒழுக்கமும் வாய்மையும் நாணமும் ஆகிய இம் மூன்றிலிருந்தும் வழுவாமல் இயல்பாகவே நன்னெறியில் வாழ்வர்.",
+          "ஒருவனை இகழ்ந்து பேசுதல் விளையாட்டிலும் துன்பம் தருவதாகும், பிறருடைய இயல்பை அறிந்து நடப்பவரிடத்தில் பகைமையிலும் நல்லப் பண்புகள் உள்ளன."
+        ],
+        "quiz_options_en": [
+          "No virtue riches nor joy is seen In those who submit to women",
+          "Crooked, cruel, tactless and base Any foe can fell him with ease",
+          "The noble-born lack not these three: Good conduct, truth and modesty",
+          "The courteous don't even foes detest For contempt offends even in jest"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகை மாட்சி) பகுதியில் குறள் 865 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் நல்வழியை நோக்காமல் பொருத்தமானவற்றைச் செய்யாமல், பழியையும் பார்க்காமல், நற்பண்பும் இல்லாமல் இருந்தால் அவன் பகைவர்க்கும் எளியனவான். பரிமேலழகர் உரை நுட்பம்: வழிநோக்கான் - ஒருவன் நீதிநூலை ஓதான்; வாய்ப்பன செய்யான் - அது விதித்த தொழில்களைச் செய்யான்; பழி நோக்கான் - தனக்கு வரும் பழியைப் பாரான்; பண்புஇலன் - தான் பண்புடையன் அல்லன்; பற்றார்க்கு இனிது - அவன் பகைவர்க்கு அப்பகைமை இனிது. (தொல்லோர் அடிப்பட வழங்கி வந்ததாகலான...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 87: 'The Might of Hatred'), Kural 865 distills a foundational ethical insight: \"No way of right he scans, no precepts bind, no crimes affright, No grace of good he owns; such man's his foes' delight\" Philosophically, (A) pleasing (object) to his foes is he who reads not moral works, does nothing that is enjoined by them cares not for reproach and is not possessed of good qualities.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "harmony",
+        "speech",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 866,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவன் உண்மை காணாத சினம் உடையவனாய், மிகப் பெரிய ஆசை உடையவனாய் இருந்தால் அவனுடைய பகை விரும்பி மேற்கொள்ளப்படும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Highly to be desired is the hatred of him whose anger is blind, and whose lust increases beyond measure.",
+        "story_title_ta": "பகை மாட்சி — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Might of Hatred — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 866 பற்றிக் கதை சொன்னார். 'நன்மை தீமை, வேண்டியவர் வேண்டாதார் என்றெல்லாம் எண்ணாது, கோபம் மிக்க, மேலும் மேலும் பெருகும் பெண்ணாசையை உடைய அரசின் பகைமை, பிறரால் விரும்ப்படும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 87, 'The Might of Hatred', centered on Kural 866: Highly to be desired is the hatred of him whose anger is blind, and whose lust increases beyond measure. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சிந்திக்காமலே சினம் கொள்பனாகவும், பேராசைக்காரனாகவும் இருப்பவனின் பகையை ஏற்று எதிர் கொள்ளலாம்.",
+        "moral_en": "Moral: Blind in his rage, his lustful passions rage and swell; If such a man mislikes you, like it well.",
+        "game_blank_word_ta": "பேணப்",
+        "game_options_ta": [
+          "வலியார்க்கு",
+          "மாறேற்றல்",
+          "பேணப்",
+          "ஓம்புக"
+        ],
+        "game_options_en": [
+          "Turn from strife with foes too strong With the feeble for battle long",
+          "Loveless, aidless, powerless king Can he withstand an enemy strong?",
+          "Blind in rage and mad in lust To have his hatred is but just",
+          "Unskilled, timid, miser, misfit He is easy for foes to hit"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 866, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நன்மை தீமை, வேண்டியவர் வேண்டாதார் என்றெல்லாம் எண்ணாது, கோபம் மிக்க, மேலும் மேலும் பெருகும் பெண்ணாசையை உடைய அரசின் பகைமை, பிறரால் விரும்ப்படும். கலைஞர் உரை கூறுவது: சிந்திக்காமலே சினம் கொள்பனாகவும், பேராசைக்காரனாகவும் இருப்பவனின் பகையை ஏற்று எதிர் கொள்ளலாம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Might of Hatred (Ministers & Elements of State), Kural 866 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Highly to be desired is the hatred of him whose anger is blind, and whose lust increases beyond measure. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Might of Hatred' thoughtfully.",
+        "quiz_question_ta": "'பகை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 866 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 866 from Chapter 'The Might of Hatred'?",
+        "quiz_options_ta": [
+          "நன்றாக எண்ணுதல், பொருந்திய நெஞ்சத்தோடு தக்க நிலையும் உடையார்க்கு எக்காலத்திலும் மனைவியின் ஏவலுக்கு இணங்கும் அறியாமை இல்லை.",
+          "உண்மையான உயர்குடியில் பிறந்தவர்க்கு முகமலர்ச்சி, ஈகை, இனிய சொல், பிறரை இகழ்ந்து கூறாமை ஆகிய நான்கும் நல்லப் பண்புகள் என்பர்.",
+          "ஒருவன் உண்மை காணாத சினம் உடையவனாய், மிகப் பெரிய ஆசை உடையவனாய் இருந்தால் அவனுடைய பகை விரும்பி மேற்கொள்ளப்படும்.",
+          "பண்பு உடையவரிடத்தில் பொருந்தியிருப்பதால் உலகம் உள்ளதாய் இயங்குகின்றது, அஃது இல்லையானால் மண்ணில் புகுந்து அழிந்து போகும்."
+        ],
+        "quiz_options_en": [
+          "Thinkers strong and broad of heart By folly on fair sex do not dote",
+          "Smile, gift, sweet words and courtesy These four mark true nobility",
+          "Blind in rage and mad in lust To have his hatred is but just",
+          "The world rests with the mannered best Or it crumbles and falls to dust"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகை மாட்சி) பகுதியில் குறள் 866 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் உண்மை காணாத சினம் உடையவனாய், மிகப் பெரிய ஆசை உடையவனாய் இருந்தால் அவனுடைய பகை விரும்பி மேற்கொள்ளப்படும். பரிமேலழகர் உரை நுட்பம்: காணாச் சினத்தான் - தன்னையும் பிறரையும் தான் அறியாமைக்கு ஏதுவாகிய வெகுளியையுடையான் யாவன்; கழி பெருங் காமத்தான் - மேன்மேல் வளராநின்ற மிக்க காமத்தையுடையான் யாவன்; பேணாமை பேணப்படும் - அவரது பகைமை விரும்பிக் கொள்ளப்படும். (காணாத சினம் என்பது விகாரமாயிற்று...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 87: 'The Might of Hatred'), Kural 866 distills a foundational ethical insight: \"Blind in his rage, his lustful passions rage and swell; If such a man mislikes you, like it well\" Philosophically, Highly to be desired is the hatred of him whose anger is blind, and whose lust increases beyond measure.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "self-mastery",
+        "courage",
+        "justice",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 867,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தன்னை அடுத்துத் தன்னோடிருந்தும் பொருந்தாதவற்றைச் செய்பவனுடைய பகையைப் பொருள் கொடுத்தாவது கொள்ள வேண்டும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: It is indeed necessary to obtain even by purchase the hatred of him who having begun (a work) does what is not conductive (to its accomplishment).",
+        "story_title_ta": "பகை மாட்சி — இனியா கற்ற பாடம்",
+        "story_title_en": "The Might of Hatred — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 867 பற்றிக் கதை சொன்னார். 'ஒரு செயலைத் தொடங்கி விட்டு, அதன் நலத்திற்குப் பொருந்தாதவற்றைச் செய்யும் அரசின் பகைமையைச், சிலவற்றை அழியக் கொடுத்தாவது உறுதியாகப் பெற வேண்டும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 87, 'The Might of Hatred', centered on Kural 867: It is indeed necessary to obtain even by purchase the hatred of him who having begun (a work) does what is not conductive (to its accomplishment). Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தன்னோடு இருந்துகொண்டே தனக்குப் பொருந்தாத காரியங்களைச் செய்து கொண்டிருப்பவனைப் பொருள் கொடுத்தாவது பகைவனாக்கிக் கொள்ள வேண்டும்.",
+        "moral_en": "Moral: Unseemly are his deeds, yet proffering aid, the man draws nigh:His hate- 'tis cheap at any price- be sure to buy.",
+        "game_blank_word_ta": "அடுத்திருந்து",
+        "game_options_ta": [
+          "வலியார்க்கு",
+          "மாறேற்றல்",
+          "ஓம்புக",
+          "அடுத்திருந்து"
+        ],
+        "game_options_en": [
+          "Turn from strife with foes too strong With the feeble for battle long",
+          "Loveless, aidless, powerless king Can he withstand an enemy strong?",
+          "Unskilled, timid, miser, misfit He is easy for foes to hit",
+          "Pay and buy his enmity Who muddles chance with oddity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 867, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு செயலைத் தொடங்கி விட்டு, அதன் நலத்திற்குப் பொருந்தாதவற்றைச் செய்யும் அரசின் பகைமையைச், சிலவற்றை அழியக் கொடுத்தாவது உறுதியாகப் பெற வேண்டும். கலைஞர் உரை கூறுவது: தன்னோடு இருந்துகொண்டே தனக்குப் பொருந்தாத காரியங்களைச் செய்து கொண்டிருப்பவனைப் பொருள் கொடுத்தாவது பகைவனாக்கிக் கொள்ள வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Might of Hatred (Ministers & Elements of State), Kural 867 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is indeed necessary to obtain even by purchase the hatred of him who having begun (a work) does what is not conductive (to its accomplishment). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Might of Hatred' thoughtfully.",
+        "quiz_question_ta": "'பகை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 867 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 867 from Chapter 'The Might of Hatred'?",
+        "quiz_options_ta": [
+          "அன் பினால் விரும்பாமல் பொருள் காரணமாக விரும்புகின்ற பொது மகளிர் பேசுகின்ற இனிய சொல், ஒருவனுக்கு துன்பத்தைக் கொடுக்கும்.",
+          "பல கோடிப் பொருளைப் பெறுவதாக இருந்தாலும் உயர்குடியில் பிறந்தவர் தம் குடியின் சிறப்புக் குன்றுவதற்கு காரணமான குற்றங்களைச் செய்வதில்லை.",
+          "மக்களுக்கு உரிய பண்பு இல்லாதவர் அரம் போல் கூர்மையான அறிவுடையவரானாலும், ஓரறிவுயிராகிய மரத்தைப் போன்றவரே ஆவர்.",
+          "தன்னை அடுத்துத் தன்னோடிருந்தும் பொருந்தாதவற்றைச் செய்பவனுடைய பகையைப் பொருள் கொடுத்தாவது கொள்ள வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "For gold, not love their tongue cajoles Men are ruined by bangled belles",
+          "Even for crores, the noble mood Cannot bend to degrading deed",
+          "The mannerless though sharp like file Are like wooden blocks indocile",
+          "Pay and buy his enmity Who muddles chance with oddity"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகை மாட்சி) பகுதியில் குறள் 867 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன்னை அடுத்துத் தன்னோடிருந்தும் பொருந்தாதவற்றைச் செய்பவனுடைய பகையைப் பொருள் கொடுத்தாவது கொள்ள வேண்டும். பரிமேலழகர் உரை நுட்பம்: அடுத்து இருந்து மாணாத செய்வான் பகை - வினையைத் தொடங்கியிருந்து அதற்கு ஏலாதன செய்வான் பகைமையை; கொடுத்தும் கொளல் மன்ற வேண்டும் - சில பொருள் அழியக் கொடுத்தாயினும் கோடல் ஒரு தலையாக வேண்டும். (ஏலாதன - மெலியனாய் வைத்துத் துணிதலும், வலியனாய் வைத்துத் துணிதலும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 87: 'The Might of Hatred'), Kural 867 distills a foundational ethical insight: \"Unseemly are his deeds, yet proffering aid, the man draws nigh:His hate- 'tis cheap at any price- be sure to buy\" Philosophically, It is indeed necessary to obtain even by purchase the hatred of him who having begun (a work) does what is not conductive (to its accomplishment).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "discipline",
+        "perseverance",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 868,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒருவன் குணம் இல்லாதவனாய், குற்றம் பல உடையவனானால் அவன் துணை இல்லாதவன் ஆவான், அந்நிலைமையே அவனுடைய பகைவர்க்கு நன்மையாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: He will become friendless who is without (any good) qualities and whose faults are many; (such a character) is a help to (his) foes.",
+        "story_title_ta": "பகை மாட்சி — முகில் கற்ற பாடம்",
+        "story_title_en": "The Might of Hatred — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 868 பற்றிக் கதை சொன்னார். 'நல்ல குணங்கள் இல்லாமல் குற்றங்கள் பலவும் உடைய அரசிற்குத் துணை இல்லாது போகும். துணை இல்லாது இருப்பதே அந்த அரசின் பகைவர்க்கு பலம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 87, 'The Might of Hatred', centered on Kural 868: He will become friendless who is without (any good) qualities and whose faults are many; (such a character) is a help to (his) foes. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: குணக்கேடராகவும், குற்றங்கள் மலிந்தவராகவும் ஒருவர் இருந்தால், அவர் பக்கத் துணைகளை இழந்து பகைவரால் எளிதாக வீழ்த்தப்படுவார்.",
+        "moral_en": "Moral: No gracious gifts he owns, faults many cloud his fame; His foes rejoice, for none with kindred claim.",
+        "game_blank_word_ta": "குணனிலனாய்க்",
+        "game_options_ta": [
+          "குணனிலனாய்க்",
+          "வலியார்க்கு",
+          "மாறேற்றல்",
+          "ஓம்புக"
+        ],
+        "game_options_en": [
+          "With no virtue but full of vice He loses friends and delights foes",
+          "Turn from strife with foes too strong With the feeble for battle long",
+          "Loveless, aidless, powerless king Can he withstand an enemy strong?",
+          "Unskilled, timid, miser, misfit He is easy for foes to hit"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 868, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்ல குணங்கள் இல்லாமல் குற்றங்கள் பலவும் உடைய அரசிற்குத் துணை இல்லாது போகும். துணை இல்லாது இருப்பதே அந்த அரசின் பகைவர்க்கு பலம். கலைஞர் உரை கூறுவது: குணக்கேடராகவும், குற்றங்கள் மலிந்தவராகவும் ஒருவர் இருந்தால், அவர் பக்கத் துணைகளை இழந்து பகைவரால் எளிதாக வீழ்த்தப்படுவார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Might of Hatred (Ministers & Elements of State), Kural 868 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He will become friendless who is without (any good) qualities and whose faults are many; (such a character) is a help to (his) foes. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Might of Hatred' thoughtfully.",
+        "quiz_question_ta": "'பகை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 868 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 868 from Chapter 'The Might of Hatred'?",
+        "quiz_options_ta": [
+          "ஒருவன் குணம் இல்லாதவனாய், குற்றம் பல உடையவனானால் அவன் துணை இல்லாதவன் ஆவான், அந்நிலைமையே அவனுடைய பகைவர்க்கு நன்மையாகும்.",
+          "கிடைக்க கூடிய பயனை அளந்து பார்த்து, அதற்கு ஏற்றவாறு இனிய சொல் கூறுகின்ற பண்பற்ற பொது மகளிரின் இன்பத்தை ஆராய்ந்து பொருந்தாமல் விட வேண்டும்.",
+          "தாம் பிறர்க்குக் கொடுத்துதவும் வன்மை வறுமையால் சுருங்கிய போதிலும், பழம் பெருமை உடைய குடியில் பிறந்தவர் தம் பண்பிலிருந்து நீங்குவதில்லை.",
+          "நட்பு கொள்ள முடியாதவராய்த் தீயவைச் செய்கின்றவரிடத்திலும் பண்பு உடையவராய் நடக்க முடியாமை இழிவானதாகும்."
+        ],
+        "quiz_options_en": [
+          "With no virtue but full of vice He loses friends and delights foes",
+          "Avoid ill-natured whores who feign Love only for their selfish gain",
+          "The means of gift may dwindle; yet Ancient homes guard their noble trait",
+          "Discourtesy is mean indeed E'en to a base unfriendly breed"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகை மாட்சி) பகுதியில் குறள் 868 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் குணம் இல்லாதவனாய், குற்றம் பல உடையவனானால் அவன் துணை இல்லாதவன் ஆவான், அந்நிலைமையே அவனுடைய பகைவர்க்கு நன்மையாகும். பரிமேலழகர் உரை நுட்பம்: குணன் இலனாய்க் குற்றம் பலவாயின் இனன் இலனாம் - ஒருவன் குணம் ஒன்றும் இலனாய், உடைய குற்றம் பலவாய வழி அவன் துணையிலனாம்; மாற்றார்க்கு ஏமாப்பு உடைத்து - அவ்விலனாதல் தானே அவன் பகைவர்க்குத் துணையாதலையுடைத்து. (குணம் - இறைமாட்சியுட் சொல்லியன, குற்றம் - இவ்வதிகாரத்துச...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 87: 'The Might of Hatred'), Kural 868 distills a foundational ethical insight: \"No gracious gifts he owns, faults many cloud his fame; His foes rejoice, for none with kindred claim\" Philosophically, He will become friendless who is without (any good) qualities and whose faults are many; (such a character) is a help to (his) foes.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "ethics",
+        "friendship",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 869,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அறிவு இல்லாத அஞ்சும் இயல்புடைய பகைவரைப் பெற்றால், அவரை எதிர்த்து பகை கொள்பவர்க்கு இன்பங்கள் தொலைவில் நீங்காமல் இருக்கும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: There will be no end of lofty delights to the victorious, if their foes are (both) ignorant and timid.",
+        "story_title_ta": "பகை மாட்சி — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Might of Hatred — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 869 பற்றிக் கதை சொன்னார். 'நீதியை அறியும் அறிவற்ற, எதற்கும் அஞ்சுகிற பகைவரைப் பெற்றால், அத்தகைய பகைவரைப் பெற்றவர்களை விட்டுச் சிறந்த நன்மைகள் விலக மாட்டா.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 87, 'The Might of Hatred', centered on Kural 869: There will be no end of lofty delights to the victorious, if their foes are (both) ignorant and timid. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அஞ்சிடும் கோழைகளாகவும், அறிவில்லாக் கோழைகளாகவும் பகைவர்கள் இருப்பின் அவர்களை எதிர்ப்போரை விடுத்து வெற்றியெனும் இன்பம் விலகாமலே நிலைத்து நிற்கும்.",
+        "moral_en": "Moral: The joy of victory is never far removed from thoseWho've luck to meet with ignorant and timid foes.",
+        "game_blank_word_ta": "சேணிகவா",
+        "game_options_ta": [
+          "வலியார்க்கு",
+          "சேணிகவா",
+          "மாறேற்றல்",
+          "ஓம்புக"
+        ],
+        "game_options_en": [
+          "Turn from strife with foes too strong With the feeble for battle long",
+          "The joy of heroes knows no bounds When timid fools are opponents",
+          "Loveless, aidless, powerless king Can he withstand an enemy strong?",
+          "Unskilled, timid, miser, misfit He is easy for foes to hit"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 869, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நீதியை அறியும் அறிவற்ற, எதற்கும் அஞ்சுகிற பகைவரைப் பெற்றால், அத்தகைய பகைவரைப் பெற்றவர்களை விட்டுச் சிறந்த நன்மைகள் விலக மாட்டா. கலைஞர் உரை கூறுவது: அஞ்சிடும் கோழைகளாகவும், அறிவில்லாக் கோழைகளாகவும் பகைவர்கள் இருப்பின் அவர்களை எதிர்ப்போரை விடுத்து வெற்றியெனும் இன்பம் விலகாமலே நிலைத்து நிற்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Might of Hatred (Ministers & Elements of State), Kural 869 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There will be no end of lofty delights to the victorious, if their foes are (both) ignorant and timid. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Might of Hatred' thoughtfully.",
+        "quiz_question_ta": "'பகை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 869 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 869 from Chapter 'The Might of Hatred'?",
+        "quiz_options_ta": [
+          "பொருளையே விரும்பும் பொது மகளிரின் பொய்யானத் தழுவல், இருட்டறையில் தொடர்பில்லாத ஒரு பிணத்தைத் தழுவினாற் போன்றது.",
+          "அறிவு இல்லாத அஞ்சும் இயல்புடைய பகைவரைப் பெற்றால், அவரை எதிர்த்து பகை கொள்பவர்க்கு இன்பங்கள் தொலைவில் நீங்காமல் இருக்கும்.",
+          "மாசற்ற குடிப் பண்புடன் வாழ்வோம் என்று கருதி வாழ்வோர், வஞ்சனைக் கொண்டு தகுதியில்லாதவற்றைக் செய்யமாட்டார்.",
+          "பிறரோடு கலந்து பழகி மகிழ முடியாதவர்க்கு, மிகப் பெரிய இந்த உலகம் ஒளியுள்ள பகற் காலத்திலும் இருளில் கிடப்பதாம்."
+        ],
+        "quiz_options_en": [
+          "The false embrace of whores is like That of a damned corpse in the dark",
+          "The joy of heroes knows no bounds When timid fools are opponents",
+          "Who guard their family prestige pure Stoop not to acts of cunning lure",
+          "To those bereft of smiling light Even in day the earth is night"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகை மாட்சி) பகுதியில் குறள் 869 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறிவு இல்லாத அஞ்சும் இயல்புடைய பகைவரைப் பெற்றால், அவரை எதிர்த்து பகை கொள்பவர்க்கு இன்பங்கள் தொலைவில் நீங்காமல் இருக்கும். பரிமேலழகர் உரை நுட்பம்: அறிவு இலா அஞ்சும் பகைவர்ப் பெறின் - நீதியை அறிதல் இல்லாத, அஞ்சும் பகைவரைப் பெற்றால்; செறுவார்க்குச் சேண் இன்பம் இகவா - அவரைச் செறுவார்க்கு உயர்ந்த இனபங்கள் நீங்கா. (உபாயம் அறிதலும் அறிந்தால் செய்து முடிக்கும் திண்மையும் இல்லாதாரே பகைவராதல் கூடாமையின் 'பெறின...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 87: 'The Might of Hatred'), Kural 869 distills a foundational ethical insight: \"The joy of victory is never far removed from thoseWho've luck to meet with ignorant and timid foes\" Philosophically, There will be no end of lofty delights to the victorious, if their foes are (both) ignorant and timid.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "justice",
+        "ethics",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 870,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: கல்வி கற்காதவனைப் பகைத்துக்கொள்ளும் எளிய செயலைச் செய்ய இயலாத ஒருவனிடம் எக்காலத்திலும் புகழ் வந்து பொருந்தாது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The light (of fame) will never be gained by him who gains not the trifling reputation of having fought an unlearned (foe).",
+        "story_title_ta": "பகை மாட்சி — கவின் கற்ற பாடம்",
+        "story_title_en": "The Might of Hatred — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'பகை மாட்சி' என்ற அதிகாரத்திலிருந்து குறள் 870 பற்றிக் கதை சொன்னார். 'நீதி நூல்களைக் கல்லாதவனைப் பகைப்பதால் கிடைக்கும் பொருள் சிறிது எனினும், அதை விரும்பாத அரசுக்கு ஒருபோது் புகழ் சேராது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 87, 'The Might of Hatred', centered on Kural 870: The light (of fame) will never be gained by him who gains not the trifling reputation of having fought an unlearned (foe). Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: போர்முறை கற்றிடாத பகைவர்களைக்கூட எதிர்ப்பதற்குத் தயக்கம் காட்டுகிறவர்கள், உண்மையான வீரர்களை எப்படி எதிர்கொள்வார்கள் எனக் கேலி புரிந்து, புகழ் அவர்களை அணுகாமலே விலகிப் போய்விடும்.",
+        "moral_en": "Moral: The task of angry war with men unlearned in virtue's loreWho will not meet, glory shall meet him never more.",
+        "game_blank_word_ta": "கல்லான்",
+        "game_options_ta": [
+          "வலியார்க்கு",
+          "மாறேற்றல்",
+          "கல்லான்",
+          "ஓம்புக"
+        ],
+        "game_options_en": [
+          "Turn from strife with foes too strong With the feeble for battle long",
+          "Loveless, aidless, powerless king Can he withstand an enemy strong?",
+          "Glory's light he will not gain Who fails to fight a fool and win",
+          "Unskilled, timid, miser, misfit He is easy for foes to hit"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பகை மாட்சி (அங்கவியல்) பிரிவில் அமைந்த குறள் 870, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நீதி நூல்களைக் கல்லாதவனைப் பகைப்பதால் கிடைக்கும் பொருள் சிறிது எனினும், அதை விரும்பாத அரசுக்கு ஒருபோது் புகழ் சேராது. கலைஞர் உரை கூறுவது: போர்முறை கற்றிடாத பகைவர்களைக்கூட எதிர்ப்பதற்குத் தயக்கம் காட்டுகிறவர்கள், உண்மையான வீரர்களை எப்படி எதிர்கொள்வார்கள் எனக் கேலி புரிந்து, புகழ் அவர்களை அணுகாமலே விலகிப் போய்விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Might of Hatred (Ministers & Elements of State), Kural 870 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The light (of fame) will never be gained by him who gains not the trifling reputation of having fought an unlearned (foe). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'பகை மாட்சி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Might of Hatred' thoughtfully.",
+        "quiz_question_ta": "'பகை மாட்சி' அதிகாரத்தில் வரும் திருக்குறள் 870 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 870 from Chapter 'The Might of Hatred'?",
+        "quiz_options_ta": [
+          "பொருள் ஒன்றையே பொருளாகக் கொண்ட பொது மகளிரின் புன்மையான இன்பத்தை, அருளாகிய சிறந்த பொருளை ஆராயும் அறிவுடையோர் பொருந்த மாட்டார்.",
+          "உயர் குடியில் பிறந்தவரிடத்தில் உண்டாகும் குற்றம், ஆகாயத்தில் திங்களிடம் காணப்படும் களங்கம்போல் பலரறியத் தோன்றும்.",
+          "கல்வி கற்காதவனைப் பகைத்துக்கொள்ளும் எளிய செயலைச் செய்ய இயலாத ஒருவனிடம் எக்காலத்திலும் புகழ் வந்து பொருந்தாது.",
+          "பண்பு இல்லாதவன் பெற்ற பெரிய செல்வம், வைத்த கலத்தின் தீமையால் நல்ல பால் தன் சுவை முதலியன கெட்டாற் போன்றதாகும்."
+        ],
+        "quiz_options_en": [
+          "The wise who seek the wealth of grace Look not for harlots' low embrace",
+          "The faults of nobly-born are seen Like on the sky the spots of moon",
+          "Glory's light he will not gain Who fails to fight a fool and win",
+          "The wealth heaped by the churlish base Is pure milk soured by impure vase"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (பகை மாட்சி) பகுதியில் குறள் 870 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கல்வி கற்காதவனைப் பகைத்துக்கொள்ளும் எளிய செயலைச் செய்ய இயலாத ஒருவனிடம் எக்காலத்திலும் புகழ் வந்து பொருந்தாது. பரிமேலழகர் உரை நுட்பம்: கல்லான் வெகுளும் சிறுபொருள் ஒல்லானை - நீதிநூலைக் கல்லாதானோடு பகைத்தலான் வரும் எளிய பொருளை மேவாதானை; எஞ்ஞான்றும் ஒளி ஒல்லாது - எஞ்ஞான்றும் புகழ் மேவாது. (சிறு பொருள் - முயற்சி சிறிதாய பொருள். நீதி அறியாதானை வேறல் எளிதாயிருக்கவும், அது மாட்டாதானை வெற்றியான...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 87: 'The Might of Hatred'), Kural 870 distills a foundational ethical insight: \"The task of angry war with men unlearned in virtue's loreWho will not meet, glory shall meet him never more\" Philosophically, The light (of fame) will never be gained by him who gains not the trifling reputation of having fought an unlearned (foe).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "education",
+        "courage",
+        "wealth",
+        "justice"
+      ]
+    }
+  ]
+}

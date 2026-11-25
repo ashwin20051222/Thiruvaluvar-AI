@@ -1,0 +1,584 @@
+{
+  "adhikaram_id": 14,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.563590772+00:00",
+  "kurals": [
+    {
+      "kural_number": 131,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒழுக்கமே எல்லார்க்கும் மேன்மையைத் தருவதாக இருப்பதால், அந்த ஒழுக்கமே உயிரை விடச் சிறந்ததாகப் போற்றப்படும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Propriety of conduct leads to eminence, it should therefore be preserved more carefully than life.",
+        "story_title_ta": "ஒழுக்கம் உடைமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Possession of Decorum — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒழுக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 131 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஒழுக்கம், அதை உடையவர்க்குச் சிறப்பைத் தருவதால் உயிரைக் காட்டிலும் மேலானதாக அதைக் காக்க வேண்டும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'The Possession of Decorum'. Grandpa shared Kural 131 and explained in simple words: Propriety of conduct leads to eminence, it should therefore be preserved more carefully than life. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவர்க்கு உயர்வு தரக் கூடியது ஒழுக்கம் என்பதால், அந்த ஒழுக்கமே உயிரைவிட மேலானதாகப் போற்றப்படுகிறது.",
+        "moral_en": "Moral: 'Decorum' gives especial excellence; with greater care'Decorum' should men guard than life, which all men share.",
+        "game_blank_word_ta": "படும்",
+        "game_options_ta": [
+          "பரிந்தோம்பிக்",
+          "காக்க",
+          "ஒழுக்கம்",
+          "படும்"
+        ],
+        "game_options_en": [
+          "Virtues of conduct all excel; The soul aid should be guarded well",
+          "Good conduct shows good family Low manners mark anomaly",
+          "Readers recall forgotten lore, But conduct lost returns no more",
+          "Decorum does one dignity More than life guard its purity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒழுக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 131, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒழுக்கம், அதை உடையவர்க்குச் சிறப்பைத் தருவதால் உயிரைக் காட்டிலும் மேலானதாக அதைக் காக்க வேண்டும். கலைஞர் உரை கூறுவது: ஒருவர்க்கு உயர்வு தரக் கூடியது ஒழுக்கம் என்பதால், அந்த ஒழுக்கமே உயிரைவிட மேலானதாகப் போற்றப்படுகிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Decorum (Domestic Virtue), Kural 131 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Propriety of conduct leads to eminence, it should therefore be preserved more carefully than life. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒழுக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Decorum' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒழுக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 131 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 131 from Chapter 'The Possession of Decorum'?",
+        "quiz_options_ta": [
+          "யாரிடத்திலும் பொருளைக் கவர விரும்பிப் பொருந்தாதவற்றைச் செய்தால், நுட்பமானதாய் விரிவுடையதாய் வளர்ந்த அறிவால் பயன் என்ன?",
+          "ஒப்புரவு அறிந்து ஒழுதலாகியத் தன் கடமை அறிந்த அறிவை உடையவர், செல்வ வளம் இல்லாத காலத்திலும் ஒப்புரவுக்குத் தளர மாட்டார்.",
+          "தனக்கு உற்ற துன்பத்தை பொறுத்தலும் மற்ற உயிர்க்குத் துன்பம் செய்யாதிருத்தலும் ஆகிய அவ்வளவே தவத்திற்கு வடிவமாகும்",
+          "ஒழுக்கமே எல்லார்க்கும் மேன்மையைத் தருவதாக இருப்பதால், அந்த ஒழுக்கமே உயிரை விடச் சிறந்ததாகப் போற்றப்படும்."
+        ],
+        "quiz_options_en": [
+          "What is one's subtle wisdom worth If it deals ill with all on earth",
+          "Though seers may fall on evil days Their sense of duty never strays",
+          "Pains endure; pain not beings This is the type of true penance",
+          "Decorum does one dignity More than life guard its purity"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒழுக்கம் உடைமை) பகுதியில் குறள் 131 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒழுக்கமே எல்லார்க்கும் மேன்மையைத் தருவதாக இருப்பதால், அந்த ஒழுக்கமே உயிரை விடச் சிறந்ததாகப் போற்றப்படும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, தத்தம் வருணத்திற்கும் நிலைக்கும் ஓதப்பட்ட ஒழுக்கத்தினையுடையர் ஆதல்.இது, மெய்ம்முதலிய அடங்கினார்க்கு அல்லது முடியாது ஆகலின் , அடக்கம் உடைமையின்பின் வைக்கப்பட்டது.) ஒழுக்கம் விழுப்பம் தரலான் - ஒழுக்கம் எல்லார்க்கும் சிறப்பினைத் தருதலான், ஒழுக்கம...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 14: 'The Possession of Decorum'), Kural 131 distills a foundational ethical insight: \"'Decorum' gives especial excellence; with greater care'Decorum' should men guard than life, which all men share\" Philosophically, Propriety of conduct leads to eminence, it should therefore be preserved more carefully than life.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "discipline",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 132,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒழுக்கத்தை வருந்தியும் போற்றிக் காக்க வேண்டும்; பலவற்றையும் ஆராய்ந்து போற்றித் தெளிந்தாலும், அந்த ஒழுக்கமே வாழ்க்கையில் துணையாக விளங்கும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Let propriety of conduct be laboriously preserved and guarded; though one know and practise and excel in many virtues, that will be an eminent aid.",
+        "story_title_ta": "ஒழுக்கம் உடைமை — கவின் கற்ற பாடம்",
+        "story_title_en": "The Possession of Decorum — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒழுக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 132 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எதனாலும், அழிந்து போகாமல் ஒழுக்கத்தை விரும்பிக் காத்துக்கொள்க; அறங்கள் பலவற்றையும் ஆய்ந்து, இம்மை மறுமைக்குத் துணையாவது எது எனத் தேர்வு செய்தால் ஒழுக்கமே துணையாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'The Possession of Decorum'. Grandpa shared Kural 132 and explained in simple words: Let propriety of conduct be laboriously preserved and guarded; though one know and practise and excel in many virtues, that will be an eminent aid. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: எந்தெந்த வழிகளில் ஆராய்ந்தாலும் வாழ்க்கையில் ஒழுக்கமே சிறந்த துணை என்பதால், எத்தகைய துன்பத்தை ஏற்றாவது அதைக் காக்க வேண்டும்.",
+        "moral_en": "Moral: Searching, duly watching, learning, 'decorum' still we find; Man's only aid; toiling, guard thou this with watchful mind.",
+        "game_blank_word_ta": "பரிந்தோம்பிக்",
+        "game_options_ta": [
+          "பரிந்தோம்பிக்",
+          "ஒழுக்கம்",
+          "விழுப்பந்",
+          "தரலான்"
+        ],
+        "game_options_en": [
+          "Virtues of conduct all excel; The soul aid should be guarded well",
+          "Decorum does one dignity More than life guard its purity",
+          "Good conduct shows good family Low manners mark anomaly",
+          "Readers recall forgotten lore, But conduct lost returns no more"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒழுக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 132, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எதனாலும், அழிந்து போகாமல் ஒழுக்கத்தை விரும்பிக் காத்துக்கொள்க; அறங்கள் பலவற்றையும் ஆய்ந்து, இம்மை மறுமைக்குத் துணையாவது எது எனத் தேர்வு செய்தால் ஒழுக்கமே துணையாகும். கலைஞர் உரை கூறுவது: எந்தெந்த வழிகளில் ஆராய்ந்தாலும் வாழ்க்கையில் ஒழுக்கமே சிறந்த துணை என்பதால், எத்தகைய துன்பத்தை ஏற்றாவது அதைக் காக்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Decorum (Domestic Virtue), Kural 132 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let propriety of conduct be laboriously preserved and guarded; though one know and practise and excel in many virtues, that will be an eminent aid. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒழுக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Decorum' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒழுக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 132 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 132 from Chapter 'The Possession of Decorum'?",
+        "quiz_options_ta": [
+          "ஒழுக்கத்தை வருந்தியும் போற்றிக் காக்க வேண்டும்; பலவற்றையும் ஆராய்ந்து போற்றித் தெளிந்தாலும், அந்த ஒழுக்கமே வாழ்க்கையில் துணையாக விளங்கும்.",
+          "அருளை விரும்பி அறநெறியில் நின்றவன், பிறனுடைய பொருளை விரும்பிப் பொல்லாத குற்றங்களை எண்ணினால் கெடுவான்.",
+          "ஒப்புரவாகிய நற்பண்பு உடையவன் வறுமை உடையவனாதல், செய்யத்தக்க உதவிகளைச் செய்யாமல் வருந்துகின்ற தன்மையாகும்.",
+          "தவக்கோலமும் தவஒழுக்கமும் உடையவர்க்கே பொருந்துவதாகும்; அக் கோலத்தை தவஒழுக்கம் இல்லாதவர் மேற்கொள்வது வீண்முயற்சியாகும்."
+        ],
+        "quiz_options_en": [
+          "Virtues of conduct all excel; The soul aid should be guarded well",
+          "Who seeks for grace on righteous path Suffers by evil covetous wealth",
+          "The good man's poverty and grief Is want of means to give relief",
+          "Penance is fit for penitents Not for him who in vain pretends"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒழுக்கம் உடைமை) பகுதியில் குறள் 132 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒழுக்கத்தை வருந்தியும் போற்றிக் காக்க வேண்டும்; பலவற்றையும் ஆராய்ந்து போற்றித் தெளிந்தாலும், அந்த ஒழுக்கமே வாழ்க்கையில் துணையாக விளங்கும். பரிமேலழகர் உரை நுட்பம்: ஒழுக்கம் ஓம்பிப் பரிந்து காக்க - ஒழுக்கத்தினை ஒன்றானும் அழிவுபடாமல் பேணி வருந்தியும் காக்க, தெரிந்து ஓம்பித்தேரினும் துணை அஃதே - அறங்கள் பலவற்றையும் ஆராய்ந்து, இவற்றுள் இருமைக்கும். துணையாவது யாது? எனது மனத்தை ஒருக்கித் தேர்ந்தாலும், துணையாய் முடிவது...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 14: 'The Possession of Decorum'), Kural 132 distills a foundational ethical insight: \"Searching, duly watching, learning, 'decorum' still we find; Man's only aid; toiling, guard thou this with watchful mind\" Philosophically, Let propriety of conduct be laboriously preserved and guarded; though one know and practise and excel in many virtues, that will be an eminent aid.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "discipline",
+        "ethics",
+        "education",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 133,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒழுக்கம் உடையவராக வாழ்வதே உயர்ந்த குடிப்பிறப்பின் தன்மையாகும்; ஒழுக்கம் தவறுதல் இழிந்த குடிப்பிறப்பின் தன்மையாகி விடும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Propriety of conduct is true greatness of birth, and impropriety will sink into a mean birth.",
+        "story_title_ta": "ஒழுக்கம் உடைமை — நிலா கற்ற பாடம்",
+        "story_title_en": "The Possession of Decorum — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒழுக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 133 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தனி மனிதன் தான் வகிக்கும் பாத்திரத்திற்கு ஏற்ற ஒழுக்கம் உடையவனாக வாழ்வதே குடும்பப் பெருமை; அத்தகைய ஒழுக்கம் இல்லாது போனால் இழிந்த குடும்பத்தில் பிறந்தது ஆகிவிடும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Possession of Decorum'. Grandpa shared Kural 133 and explained in simple words: Propriety of conduct is true greatness of birth, and impropriety will sink into a mean birth. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒழுக்கம் உடையவராக வாழ்வதுதான் உயர்ந்த குடிப்பிறப்புக்கு எடுத்துக் காட்டாகும் ஒழுக்கம் தவறுகிறவர்கள் யாராயினும் அவர்கள் இழிந்த குடியில் பிறந்தவர்களாகவே கருதப்படுவர்.",
+        "moral_en": "Moral: 'Decorum's' true nobility on earth;'Indecorum's' issue is ignoble birth.",
+        "game_blank_word_ta": "ஒழுக்கம்",
+        "game_options_ta": [
+          "விழுப்பந்",
+          "ஒழுக்கம்",
+          "தரலான்",
+          "உயிரினும்"
+        ],
+        "game_options_en": [
+          "Decorum does one dignity More than life guard its purity",
+          "Good conduct shows good family Low manners mark anomaly",
+          "Virtues of conduct all excel; The soul aid should be guarded well",
+          "Readers recall forgotten lore, But conduct lost returns no more"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒழுக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 133, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தனி மனிதன் தான் வகிக்கும் பாத்திரத்திற்கு ஏற்ற ஒழுக்கம் உடையவனாக வாழ்வதே குடும்பப் பெருமை; அத்தகைய ஒழுக்கம் இல்லாது போனால் இழிந்த குடும்பத்தில் பிறந்தது ஆகிவிடும். கலைஞர் உரை கூறுவது: ஒழுக்கம் உடையவராக வாழ்வதுதான் உயர்ந்த குடிப்பிறப்புக்கு எடுத்துக் காட்டாகும் ஒழுக்கம் தவறுகிறவர்கள் யாராயினும் அவர்கள் இழிந்த குடியில் பிறந்தவர்களாகவே கருதப்படுவர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Decorum (Domestic Virtue), Kural 133 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Propriety of conduct is true greatness of birth, and impropriety will sink into a mean birth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒழுக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Decorum' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒழுக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 133 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 133 from Chapter 'The Possession of Decorum'?",
+        "quiz_options_ta": [
+          "பிறர் பொருளைக் கவர விரும்புவதால் ஆகும் ஆக்கத்தை விரும்பாதிருக்க வேண்டும்; அது பயன் விளைவிக்கும்போது அப்பயன் நன்மையாவது அரிதாகும்.",
+          "ஒழுக்கம் உடையவராக வாழ்வதே உயர்ந்த குடிப்பிறப்பின் தன்மையாகும்; ஒழுக்கம் தவறுதல் இழிந்த குடிப்பிறப்பின் தன்மையாகி விடும்.",
+          "ஒப்புரவால் கேடு வரும் என்றால் அக் கேடு ஒருவன் தன்னை விற்றாவது வாங்கிக்கொள்ளும் தகுதி உடையதாகும்.",
+          "துறந்தவர்க்கு உணவு முதலியனக் கொடுத்து உதவவேண்டும் என விரும்பி மற்றவர்கள் (இல்லறத்தினர்) தவம் செய்தலை மறந்தார்களோ"
+        ],
+        "quiz_options_en": [
+          "Shun the fruit of covetousness All its yield is inglorious",
+          "Good conduct shows good family Low manners mark anomaly",
+          "By good if ruin comes across Sell yourself to save that loss",
+          "Is it to true penitent's aid, That others austere path avoid?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒழுக்கம் உடைமை) பகுதியில் குறள் 133 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒழுக்கம் உடையவராக வாழ்வதே உயர்ந்த குடிப்பிறப்பின் தன்மையாகும்; ஒழுக்கம் தவறுதல் இழிந்த குடிப்பிறப்பின் தன்மையாகி விடும். பரிமேலழகர் உரை நுட்பம்: ஒழுக்கம் உடைமை குடிமை - எல்லார்க்கும் தத்தம் வருணத்திற்கு ஏற்ற ஒழுக்கம் உடைமை குலனுடைமையாம் , இழுக்கம் இழிந்த பிறப்பாய் விடும் - அவ்வொழுக்கத்தில் தவறுதல் அவ்வருணத்தில் தாழ்ந்த வருணமாய்விடும். (பிறந்த வருணத்துள் இழிந்த குலத்தாராயினும் ஒழுக்கம் உடையராக...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 14: 'The Possession of Decorum'), Kural 133 distills a foundational ethical insight: \"'Decorum's' true nobility on earth;'Indecorum's' issue is ignoble birth\" Philosophically, Propriety of conduct is true greatness of birth, and impropriety will sink into a mean birth.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "discipline",
+        "family",
+        "ethics",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 134,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: கற்ற மறைப் பொருளை மறந்தாலும் மீண்டும் அதனை ஓதிக் கற்றுக் கொள்ள முடியும்; ஆனால் மறை ஓதுவனுடைய குடிப்பிறப்பு, ஒழுக்கம் குன்றினால் கெடு்ம்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: A Brahman though he should forget the Vedas may recover it by reading; but, if he fail in propriety of conduct even his high birth will be destroyed.",
+        "story_title_ta": "ஒழுக்கம் உடைமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Possession of Decorum — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒழுக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 134 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பார்ப்பான் தான் கற்ற வேதத்தை மறந்து போனாலும் பிறகு கற்றுக் கொள்ளலாம்; ஆனால், அவன் பிறந்த குலத்திற்கு ஏற்ற, மேலான ஒழுக்கத்திலிருந்து தாழ்ந்தால் அவன் குலத்தாலும் தாழ்வான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Possession of Decorum'. Grandpa shared Kural 134 and explained in simple words: A Brahman though he should forget the Vedas may recover it by reading; but, if he fail in propriety of conduct even his high birth will be destroyed. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பார்ப்பனன் ஒருவன் கற்றதை மறந்துவிட்டால் மீண்டும் படித்துக் கொள்ள முடியும்; ஆனால், பிறப்புக்குச் சிறப்பு சேர்க்கும் ஒழுக்கத்திலிருந்து அவன் தவறினால் இழிமகனே ஆவான்.",
+        "moral_en": "Moral: Though he forget, the Brahman may regain his Vedic lore; Failing in 'decorum due,' birthright's gone for evermore.",
+        "game_blank_word_ta": "ஓத்துக்",
+        "game_options_ta": [
+          "ஒழுக்கம்",
+          "விழுப்பந்",
+          "ஓத்துக்",
+          "தரலான்"
+        ],
+        "game_options_en": [
+          "Decorum does one dignity More than life guard its purity",
+          "Virtues of conduct all excel; The soul aid should be guarded well",
+          "Readers recall forgotten lore, But conduct lost returns no more",
+          "Good conduct shows good family Low manners mark anomaly"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒழுக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 134, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பார்ப்பான் தான் கற்ற வேதத்தை மறந்து போனாலும் பிறகு கற்றுக் கொள்ளலாம்; ஆனால், அவன் பிறந்த குலத்திற்கு ஏற்ற, மேலான ஒழுக்கத்திலிருந்து தாழ்ந்தால் அவன் குலத்தாலும் தாழ்வான். கலைஞர் உரை கூறுவது: பார்ப்பனன் ஒருவன் கற்றதை மறந்துவிட்டால் மீண்டும் படித்துக் கொள்ள முடியும்; ஆனால், பிறப்புக்குச் சிறப்பு சேர்க்கும் ஒழுக்கத்திலிருந்து அவன் தவறினால் இழிமகனே ஆவான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Decorum (Domestic Virtue), Kural 134 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A Brahman though he should forget the Vedas may recover it by reading; but, if he fail in propriety of conduct even his high birth will be destroyed. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒழுக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Decorum' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒழுக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 134 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 134 from Chapter 'The Possession of Decorum'?",
+        "quiz_options_ta": [
+          "ஒருவனுடைய செல்வத்திற்குக் குறைவு நேராதிருக்க வழி எது என்றால், அவன் பிறனுடைய கைப்பொருளை விரும்பாதிருத்தலாகும்.",
+          "வறியவர்க்கு ஒரு பொருளைக் கொடுப்பதே ஈகை எனப்படுவது, மற்றவர்க்குக் கொடுப்பதெல்லாம் பயன் எதிர்பார்த்து கொடுக்கும் தன்மை உடையது.",
+          "கற்ற மறைப் பொருளை மறந்தாலும் மீண்டும் அதனை ஓதிக் கற்றுக் கொள்ள முடியும்; ஆனால் மறை ஓதுவனுடைய குடிப்பிறப்பு, ஒழுக்கம் குன்றினால் கெடு்ம்.",
+          "தீமை செய்யும் பகைவரை அடக்குதலும் நன்மை செய்யும் நண்பரை உயர்த்துதலும் நினைத்த அளவில் தவத்தின் வலிமையால் உண்டாகும்."
+        ],
+        "quiz_options_en": [
+          "The mark of lasting wealth is shown By not coveting others' own",
+          "To give the poor is charity The rest is loan and vanity",
+          "Readers recall forgotten lore, But conduct lost returns no more",
+          "In penance lies the power to save The friends and foil the foe and knave"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒழுக்கம் உடைமை) பகுதியில் குறள் 134 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கற்ற மறைப் பொருளை மறந்தாலும் மீண்டும் அதனை ஓதிக் கற்றுக் கொள்ள முடியும்; ஆனால் மறை ஓதுவனுடைய குடிப்பிறப்பு, ஒழுக்கம் குன்றினால் கெடு்ம். பரிமேலழகர் உரை நுட்பம்: ஓத்து மறப்பினும் கொளலாகும் - கற்ற வேதத்தினை மறந்தானாயினும் அவ் வருணம் கெடாமையின் பின்னும் அஃது ஓதிக்கொள்ளலாம், பார்ப்பான் பிறப்பு ஒழுக்கம் குன்றக் கெடும்.- அந்தணது உயர்ந்த வருணம் தன் ஒழுக்கம் குன்றக் கெடும். (மறந்தவழி இழிகுலத்தனாம் ஆகலின், மறக்கலாகாது என்னும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 14: 'The Possession of Decorum'), Kural 134 distills a foundational ethical insight: \"Though he forget, the Brahman may regain his Vedic lore; Failing in 'decorum due,' birthright's gone for evermore\" Philosophically, A Brahman though he should forget the Vedas may recover it by reading; but, if he fail in propriety of conduct even his high birth will be destroyed.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "discipline",
+        "education",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 135,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பொறாமை உடையவனிடத்தில் ஆக்கம் இல்லாதவாறு போல, ஒழுக்கம் இல்லாதவனுடைய வாழ்க்கையில் உயர்வு இல்லையாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Just as the envious man will be without wealth, so will the man of destitute of propriety of conduct be without greatness.",
+        "story_title_ta": "ஒழுக்கம் உடைமை — இனியா கற்ற பாடம்",
+        "story_title_en": "The Possession of Decorum — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒழுக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 135 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொறாமை உள்ளவனுக்குச் செல்வம் இல்லை என்பது போல், ஒழுக்கம் இல்லாதவனுக்கு உயர்குலம் என்பதும் இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'The Possession of Decorum'. Grandpa shared Kural 135 and explained in simple words: Just as the envious man will be without wealth, so will the man of destitute of propriety of conduct be without greatness. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பொறாமையுடையவனுக்கும், நல்லொழுக்கமில்லாதவனுக்கும் அமையும் வாழ்வு, உயர்வான வாழ்வாகக் கருதப்பட மாட்டாது.",
+        "moral_en": "Moral: The envious soul in life no rich increase of blessing gains, So man of 'due decorum' void no dignity obtains.",
+        "game_blank_word_ta": "ஆக்கம்போன்று",
+        "game_options_ta": [
+          "ஒழுக்கம்",
+          "விழுப்பந்",
+          "தரலான்",
+          "ஆக்கம்போன்று"
+        ],
+        "game_options_en": [
+          "Decorum does one dignity More than life guard its purity",
+          "Virtues of conduct all excel; The soul aid should be guarded well",
+          "Good conduct shows good family Low manners mark anomaly",
+          "The envious prosper but ill The ill-behaved sinks lower still"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒழுக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 135, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொறாமை உள்ளவனுக்குச் செல்வம் இல்லை என்பது போல், ஒழுக்கம் இல்லாதவனுக்கு உயர்குலம் என்பதும் இல்லை. கலைஞர் உரை கூறுவது: பொறாமையுடையவனுக்கும், நல்லொழுக்கமில்லாதவனுக்கும் அமையும் வாழ்வு, உயர்வான வாழ்வாகக் கருதப்பட மாட்டாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Decorum (Domestic Virtue), Kural 135 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Just as the envious man will be without wealth, so will the man of destitute of propriety of conduct be without greatness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒழுக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Decorum' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒழுக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 135 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 135 from Chapter 'The Possession of Decorum'?",
+        "quiz_options_ta": [
+          "அறம் இஃது என்று அறிந்து பிறர் பொருளை விரும்பாத அறிவுடையாரைத் திருமகள் தான் சேரும் திறன் அறிந்து அதற்கு ஏற்றவாறு சேர்வாள்.",
+          "பிறரிடம் பொருள் பெற்றுக் கொள்ளுதல் நல்ல நெறி என்றாலும் கொள்ளல் தீமையானது, மேலுலகம் இல்லை என்றாலும் பிறக்குக் கொடுப்பதே சிறந்தது.",
+          "விரும்பிய பயன்களை விரும்பியவாறே அடைய முடியுமாகையால் செய்யத்தக்க தவம் இந்நிலையிலும் (இல்லற வாழ்க்கையிலும்) முயன்று செய்யப்படும்.",
+          "பொறாமை உடையவனிடத்தில் ஆக்கம் இல்லாதவாறு போல, ஒழுக்கம் இல்லாதவனுடைய வாழ்க்கையில் உயர்வு இல்லையாகும்."
+        ],
+        "quiz_options_en": [
+          "Fortune seeks the just and wise Who are free from coveting vice",
+          "To beg is bad e'en from the good To give is good, were heaven forbid",
+          "What they wish as they wish is won Here hence by men penance is done",
+          "The envious prosper but ill The ill-behaved sinks lower still"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒழுக்கம் உடைமை) பகுதியில் குறள் 135 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொறாமை உடையவனிடத்தில் ஆக்கம் இல்லாதவாறு போல, ஒழுக்கம் இல்லாதவனுடைய வாழ்க்கையில் உயர்வு இல்லையாகும். பரிமேலழகர் உரை நுட்பம்: அழுக்காறு உடையான்கண் ஆக்கம் போன்று - அழுக்காறுடையான்மாட்டு ஆக்கமில்லாதாற்போல, ஒழுக்கம் இலான் கண் உயர்வு இல்லை - ஒழுக்கம் இல்லாதவன் மாட்டும் உயர்ச்சி இல்லை. (உவமையான் ஒழுக்கம் இல்லாதவன் சுற்றத்திற்கும் உயர்ச்சி இல்லை என்பது பெற்றாம்; என்னை? கொடுப்பது...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 14: 'The Possession of Decorum'), Kural 135 distills a foundational ethical insight: \"The envious soul in life no rich increase of blessing gains, So man of 'due decorum' void no dignity obtains\" Philosophically, Just as the envious man will be without wealth, so will the man of destitute of propriety of conduct be without greatness.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "discipline",
+        "wealth",
+        "ethics",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 136,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒழுக்கம் தவறுதலால் குற்றம் உண்டாவதை அறிந்து, மனவலிமை உடைய சான்றோர் ஒழுக்கத்தில் தவறாமல் காத்துக் கொள்வர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Those firm in mind will not slacken in their observance of the proprieties of life, knowing, as they do, the misery that flows from the transgression from them.",
+        "story_title_ta": "ஒழுக்கம் உடைமை — முகில் கற்ற பாடம்",
+        "story_title_en": "The Possession of Decorum — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒழுக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 136 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஒழுக்கம் இழந்தால் தனக்குக் குலத்தாழ்வு உண்டாகும் என அறியும் மன உறுதி உடைய பெரியோர், கடினமே என்றாலும் ஒழுக்கத்திலிருந்து விலகமாட்டார்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'The Possession of Decorum'. Grandpa shared Kural 136 and explained in simple words: Those firm in mind will not slacken in their observance of the proprieties of life, knowing, as they do, the misery that flows from the transgression from them. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மன உறுதி கொண்டவர்கள் ஒழுக்கம் தவறுவதால் ஏற்படும் இழிவை உணர்ந்திருப்பதால், நல்லொழுக்கம் குன்றிடுமளவிற்கு நடக்க மாட்டார்கள்.",
+        "moral_en": "Moral: The strong of soul no jot abate of 'strict decorum's' laws, Knowing that 'due decorum's' breach foulest disgrace will cause.",
+        "game_blank_word_ta": "இழுக்கத்தின்",
+        "game_options_ta": [
+          "இழுக்கத்தின்",
+          "ஒழுக்கம்",
+          "விழுப்பந்",
+          "தரலான்"
+        ],
+        "game_options_en": [
+          "The firm from virtue falter not They know the ills of evil thought",
+          "Decorum does one dignity More than life guard its purity",
+          "Virtues of conduct all excel; The soul aid should be guarded well",
+          "Good conduct shows good family Low manners mark anomaly"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒழுக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 136, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒழுக்கம் இழந்தால் தனக்குக் குலத்தாழ்வு உண்டாகும் என அறியும் மன உறுதி உடைய பெரியோர், கடினமே என்றாலும் ஒழுக்கத்திலிருந்து விலகமாட்டார். கலைஞர் உரை கூறுவது: மன உறுதி கொண்டவர்கள் ஒழுக்கம் தவறுவதால் ஏற்படும் இழிவை உணர்ந்திருப்பதால், நல்லொழுக்கம் குன்றிடுமளவிற்கு நடக்க மாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Decorum (Domestic Virtue), Kural 136 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those firm in mind will not slacken in their observance of the proprieties of life, knowing, as they do, the misery that flows from the transgression from them. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒழுக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Decorum' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒழுக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 136 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 136 from Chapter 'The Possession of Decorum'?",
+        "quiz_options_ta": [
+          "ஒழுக்கம் தவறுதலால் குற்றம் உண்டாவதை அறிந்து, மனவலிமை உடைய சான்றோர் ஒழுக்கத்தில் தவறாமல் காத்துக் கொள்வர்.",
+          "வி‌ளைவை எண்ணாமல் பிறர் பொருளை விரும்பினால் அஃது அழிவைத் தரும்; அப்பொருளை விரும்பாமல் வாழும் பெருமை வெற்றியைத் தரும்.",
+          "யான் வறியவன் என்னும் துன்பச் சொல்லை ஒருவன் உரைப்பதற்கு முன் அவனுக்கு கொடுக்கும் தன்மை, நல்ல குடி பிறப்பு உடையவனிடம் உண்டு.",
+          "தவம் செய்கின்றவரே தமக்குரிய கடமையைச் செய்கின்றவர் ஆவர், அவர் அல்லாத மற்றவர் ஆசை வலையில் அகப்பட்டு வீண் முயற்சி செய்கின்றவரே."
+        ],
+        "quiz_options_en": [
+          "The firm from virtue falter not They know the ills of evil thought",
+          "Desireless, greatness conquers all; Coveting misers ruined fall",
+          "No pleading, \\\"I am nothing worth,\\\" But giving marks a noble birth",
+          "Who do penance achieve their aim Others desire-rid themselves harm"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒழுக்கம் உடைமை) பகுதியில் குறள் 136 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒழுக்கம் தவறுதலால் குற்றம் உண்டாவதை அறிந்து, மனவலிமை உடைய சான்றோர் ஒழுக்கத்தில் தவறாமல் காத்துக் கொள்வர். பரிமேலழகர் உரை நுட்பம்: ஒழுக்கத்தின் ஒல்கார் உரவோர் - செய்தற்கு அருமை நோக்கி ஒழுக்கத்தின் சுருங்கார் மனவலி உடையார்; இழுக்கத்தின் ஏதம் படுபாக்கு அறிந்து - அவ்விழுக்கத்தால் தமக்கு இழிகுலம் ஆகிய குற்றம் உண்டாம் ஆற்றை அறிந்து. (ஒழுக்கத்தின் சுருக்கம் அதனை உடையார் மேல் ஏற்றப்பட்டது...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 14: 'The Possession of Decorum'), Kural 136 distills a foundational ethical insight: \"The strong of soul no jot abate of 'strict decorum's' laws, Knowing that 'due decorum's' breach foulest disgrace will cause\" Philosophically, Those firm in mind will not slacken in their observance of the proprieties of life, knowing, as they do, the misery that flows from the transgression from them.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "discipline",
+        "ethics",
+        "harmony",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 137,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒழுக்கத்தால் எவரும் மேம்பாட்டை அடைவர்; ஒழுக்கத்திலிருந்து தவறுதலால் அடையத் தகாத பெரும் பழியை அடைவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: From propriety of conduct men obtain greatness; from impropriety comes insufferable disgrace.",
+        "story_title_ta": "ஒழுக்கம் உடைமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Possession of Decorum — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒழுக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 137 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஒழுக்கத்தினால் உயர்வை அடைவர்; ஒழுக்கம் இல்லாதவர் வேண்டாத பழியை அடைவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'The Possession of Decorum'. Grandpa shared Kural 137 and explained in simple words: From propriety of conduct men obtain greatness; from impropriety comes insufferable disgrace. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நல்ல நடத்தையினால் உயர்வு ஏற்படும்; இல்லையேல் இழிவான பழி வந்து சேரும்.",
+        "moral_en": "Moral: 'Tis source of dignity when 'true decorum' is preserved; Who break 'decorum's' rules endure e'en censures undeserved.",
+        "game_blank_word_ta": "மேன்மை",
+        "game_options_ta": [
+          "ஒழுக்கம்",
+          "மேன்மை",
+          "விழுப்பந்",
+          "தரலான்"
+        ],
+        "game_options_en": [
+          "Decorum does one dignity More than life guard its purity",
+          "Conduct good ennobles man, Bad conduct entails disgrace mean",
+          "Virtues of conduct all excel; The soul aid should be guarded well",
+          "Good conduct shows good family Low manners mark anomaly"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒழுக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 137, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒழுக்கத்தினால் உயர்வை அடைவர்; ஒழுக்கம் இல்லாதவர் வேண்டாத பழியை அடைவர். கலைஞர் உரை கூறுவது: நல்ல நடத்தையினால் உயர்வு ஏற்படும்; இல்லையேல் இழிவான பழி வந்து சேரும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Decorum (Domestic Virtue), Kural 137 speaks directly to teens navigating studies, friendships, leadership, and digital choices: From propriety of conduct men obtain greatness; from impropriety comes insufferable disgrace. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒழுக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Decorum' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒழுக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 137 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 137 from Chapter 'The Possession of Decorum'?",
+        "quiz_options_ta": [
+          "ஒருவன் அறத்தைப் போற்றிக் கூறாதவனாய் அறமல்லாதவற்றைச் செய்தாலும், மற்றவனைப் பற்றிப் புறங்கூறாமல் இருக்கிறான் என்று சொல்லப்படுதல் நல்லது.",
+          "ஒழுக்கத்தால் எவரும் மேம்பாட்டை அடைவர்; ஒழுக்கத்திலிருந்து தவறுதலால் அடையத் தகாத பெரும் பழியை அடைவர்.",
+          "பொருள் வேண்டும் என்ற இரந்தவரின் மகிழ்ந்த முகத்தைக் காணும் வரைக்கும் (இரத்தலைப் போலவே ) இரந்து கேட்கப்படுவதும் துன்பமானது.",
+          "புடமிட்டு சுடச்சுட ஒளிவிடுகின்ற பொன்னைப் போல் தவம் செய்கின்றவரை துன்பம் வருத்த வருத்த மெய்யுணர்வு மிகும்"
+        ],
+        "quiz_options_en": [
+          "Though a man from virtue strays, To keep from slander brings him praise",
+          "Conduct good ennobles man, Bad conduct entails disgrace mean",
+          "The cry for alms is painful sight Until the giver sees him bright",
+          "Pure and bright gets the gold in fire; and so the life by pain austere"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒழுக்கம் உடைமை) பகுதியில் குறள் 137 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒழுக்கத்தால் எவரும் மேம்பாட்டை அடைவர்; ஒழுக்கத்திலிருந்து தவறுதலால் அடையத் தகாத பெரும் பழியை அடைவர். பரிமேலழகர் உரை நுட்பம்: ஒழுக்கத்தின் மேன்மை எய்துவர் - எல்லாரும் ஒழுக்கத்தானே மேம்பாட்டை எய்துவர்; இழுக்கத்தின் எய்தாப்பழி எய்துவர் - அதனின்றும் இழுக்குதலானே தாம் எய்துவதற்கு உரித்தல்லாத பழியை எய்துவர். (பகை பற்றி அடாப்பழி கூறியவழி, அதனையும் இழுக்கம் பற்றி உலகம் அடுக்கும் என்று...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 14: 'The Possession of Decorum'), Kural 137 distills a foundational ethical insight: \"'Tis source of dignity when 'true decorum' is preserved; Who break 'decorum's' rules endure e'en censures undeserved\" Philosophically, From propriety of conduct men obtain greatness; from impropriety comes insufferable disgrace.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "discipline",
+        "harmony",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 138,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நல்லொழுக்கம் இன்பமான நல்வாழ்க்கைக்குக் காரணமாக இருக்கும்; தீயொழுக்கம் எப்போதும் துன்பத்தைக் கொடுக்கும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Propriety of conduct is the seed of virtue; impropriety will ever cause sorrow.",
+        "story_title_ta": "ஒழுக்கம் உடைமை — கவின் கற்ற பாடம்",
+        "story_title_en": "The Possession of Decorum — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒழுக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 138 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நல்லொழுக்கம், அறமாகிய நன்மைக்கு வித்தாக அமைந்து இம்மை மறுமையிலும் இன்பம் தரும்; தீயொழுக்கமோ துன்பமே தரும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'The Possession of Decorum'. Grandpa shared Kural 138 and explained in simple words: Propriety of conduct is the seed of virtue; impropriety will ever cause sorrow. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நல்லொழுக்கம், வாழ்க்கையில் நன்மைக்கு வித்தாக அமையும் தீயொழுக்கம், தீராத துன்பம் தரும்.",
+        "moral_en": "Moral: 'Decorum true' observed a seed of good will be;'Decorum's breach' will sorrow yield eternally.",
+        "game_blank_word_ta": "இடும்பை",
+        "game_options_ta": [
+          "ஒழுக்கம்",
+          "விழுப்பந்",
+          "இடும்பை",
+          "தரலான்"
+        ],
+        "game_options_en": [
+          "Decorum does one dignity More than life guard its purity",
+          "Virtues of conduct all excel; The soul aid should be guarded well",
+          "Good conduct sows seeds of blessings Bad conduct endless evil brings",
+          "Good conduct shows good family Low manners mark anomaly"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒழுக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 138, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்லொழுக்கம், அறமாகிய நன்மைக்கு வித்தாக அமைந்து இம்மை மறுமையிலும் இன்பம் தரும்; தீயொழுக்கமோ துன்பமே தரும். கலைஞர் உரை கூறுவது: நல்லொழுக்கம், வாழ்க்கையில் நன்மைக்கு வித்தாக அமையும் தீயொழுக்கம், தீராத துன்பம் தரும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Decorum (Domestic Virtue), Kural 138 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Propriety of conduct is the seed of virtue; impropriety will ever cause sorrow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒழுக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Decorum' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒழுக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 138 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 138 from Chapter 'The Possession of Decorum'?",
+        "quiz_options_ta": [
+          "அறத்தை அழித்துப் பேசி அறமல்லாதவைகளைச் செய்வதை விட, ஒருவன் இல்லாதவிடத்தில் அவனைப் பழித்துப் பேசி நேரில் பொய்யாக முகமலர்ந்து பேசுதல் தீமையாகும்.",
+          "தவ வலிமை உடையவரின் வலிமை பசியை பொறுத்துக் கொள்ளலாகும், அதுவும் அப் பசியை உணவு கொடுத்து மாற்றுகின்றவரின் ஆற்றலுக்குப் பிற்பட்டதாகும்.",
+          "நல்லொழுக்கம் இன்பமான நல்வாழ்க்கைக்குக் காரணமாக இருக்கும்; தீயொழுக்கம் எப்போதும் துன்பத்தைக் கொடுக்கும்.",
+          "தவ வலிமையால் தன்னுடைய உயிர், தான் என்னும் பற்று நீங்கப் பெற்றவனை மற்ற உயிர்கள் எல்லாம் (அவனுடைய பெருமையை உணர்ந்து) தொழும்."
+        ],
+        "quiz_options_en": [
+          "Who bite behind, and before smile Are worse than open traitors vile",
+          "Higher's power which hunger cures Than that of penance which endures",
+          "Good conduct sows seeds of blessings Bad conduct endless evil brings",
+          "He worship wins from every soul Who Master is by soul control"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒழுக்கம் உடைமை) பகுதியில் குறள் 138 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நல்லொழுக்கம் இன்பமான நல்வாழ்க்கைக்குக் காரணமாக இருக்கும்; தீயொழுக்கம் எப்போதும் துன்பத்தைக் கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: நல் ஒழுக்கம் நன்றிக்கு வித்து ஆகும். - ஒருவனுக்கு நல் ஒழுக்கம் அறத்திற்குக் காரணமாய் இருமையினும் இன்பம் பயக்கும்; தீயொழுக்கம் என்றும் இடும்பை தரும் - தீய ஒழுக்கம் பாவத்திற்குக் காரணமாய் இருமையினும் துன்பம் பயக்கும். ('நன்றிக்கு வித்தாகும்' என்றதனால...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 14: 'The Possession of Decorum'), Kural 138 distills a foundational ethical insight: \"'Decorum true' observed a seed of good will be;'Decorum's breach' will sorrow yield eternally\" Philosophically, Propriety of conduct is the seed of virtue; impropriety will ever cause sorrow.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "discipline",
+        "ethics",
+        "gratitude",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 139,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தீய சொற்களைத் தவறியும் தம்முடைய வாயால் சொல்லும் குற்றம், ஒழுக்கம் உடையவர்க்குப் பொருந்தாததாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Those who study propriety of conduct will not speak evil, even forgetfully.",
+        "story_title_ta": "ஒழுக்கம் உடைமை — நிலா கற்ற பாடம்",
+        "story_title_en": "The Possession of Decorum — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒழுக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 139 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மறந்தும் தீய சொற்களைத் தம் வாயால் கூறுவது, ஒழுக்கம் உடையவர்க்கு முடியாது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Possession of Decorum'. Grandpa shared Kural 139 and explained in simple words: Those who study propriety of conduct will not speak evil, even forgetfully. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தவறியும்கூடத் தம் வாயால் தகாத சொற்களைச் சொல்வது ஒழுக்கம் உடையவர்களிடம் இல்லாத பண்பாகும்.",
+        "moral_en": "Moral: It cannot be that they who 'strict decorum's' law fulfil, E'en in forgetful mood, should utter words of ill.",
+        "game_blank_word_ta": "முடையவர்க்கு",
+        "game_options_ta": [
+          "ஒழுக்கம்",
+          "விழுப்பந்",
+          "தரலான்",
+          "முடையவர்க்கு"
+        ],
+        "game_options_en": [
+          "Decorum does one dignity More than life guard its purity",
+          "Virtues of conduct all excel; The soul aid should be guarded well",
+          "Good conduct shows good family Low manners mark anomaly",
+          "Foul words will never fall from lips Of righteous men even by slips"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒழுக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 139, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மறந்தும் தீய சொற்களைத் தம் வாயால் கூறுவது, ஒழுக்கம் உடையவர்க்கு முடியாது. கலைஞர் உரை கூறுவது: தவறியும்கூடத் தம் வாயால் தகாத சொற்களைச் சொல்வது ஒழுக்கம் உடையவர்களிடம் இல்லாத பண்பாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Decorum (Domestic Virtue), Kural 139 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who study propriety of conduct will not speak evil, even forgetfully. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒழுக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Decorum' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒழுக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 139 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 139 from Chapter 'The Possession of Decorum'?",
+        "quiz_options_ta": [
+          "புறங்கூறிப் பொய்யாக நடந்து உயிர் வாழ்தலை விட, அவ்வாறு செய்யாமல் வறுமையுற்று இறந்து விடுதல், அறநூல்கள் சொல்லும் ஆக்கத்தைத் தரும்‌‌.",
+          "வறியவரின் கடும்பசியைத் தீர்க்க வேண்டும் அதுவே பொருள் பெற்ற ஒருவன் அப் பொருளைத் தனக்குப் பிற்காலத்தில் உதவுமாறு சேர்த்து வைக்கும் இடமாகும்.",
+          "தவம் செய்வதால் பெறத்தக்க ஆற்றலைப் பெற்றவர்க்கு (ஓர் இடையூறும் இல்லையாகையால் ) எமனை வெல்லுதலும் கைகூடும்",
+          "தீய சொற்களைத் தவறியும் தம்முடைய வாயால் சொல்லும் குற்றம், ஒழுக்கம் உடையவர்க்குப் பொருந்தாததாகும்."
+        ],
+        "quiz_options_en": [
+          "Virtue thinks it better to die, Than live to backbite and to lie",
+          "Drive from the poor their gnawing pains If room you seek to store your gains",
+          "They can even defy death Who get by penance godly strenth",
+          "Foul words will never fall from lips Of righteous men even by slips"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒழுக்கம் உடைமை) பகுதியில் குறள் 139 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தீய சொற்களைத் தவறியும் தம்முடைய வாயால் சொல்லும் குற்றம், ஒழுக்கம் உடையவர்க்குப் பொருந்தாததாகும். பரிமேலழகர் உரை நுட்பம்: வழுக்கியும் தீய வாயால் சொலல் - மறந்தும் தீய சொற்களைத் தம் வாயால் சொல்லும் தொழில்கள்; ஒழுக்கம் உடையவர்க்கு ஒல்லா - ஒழுக்கம் உடையவர்க்கு முடியா. (தீய சொற்களாவன: பிறர்க்குத் தீங்கு பயக்கும் பொய் முதலியனவும், வருணத்திற்கு உரிய அல்லனவும் ஆம். அவற்றது பன்மையால...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 14: 'The Possession of Decorum'), Kural 139 distills a foundational ethical insight: \"It cannot be that they who 'strict decorum's' law fulfil, E'en in forgetful mood, should utter words of ill\" Philosophically, Those who study propriety of conduct will not speak evil, even forgetfully.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "discipline",
+        "speech",
+        "ethics",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 140,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: உலகத்து உயர்ந்தவரோடு பொருந்த ஒழுகும் முறையைக் கற்காதவர், பல நூல்களைக் கற்றிருந்த போதிலும் அறிவில்லாதவரே ஆவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Those who know not how to act agreeably to the world, though they have learnt many things, are still ignorant.",
+        "story_title_ta": "ஒழுக்கம் உடைமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Possession of Decorum — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'ஒழுக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 140 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'முந்திய அறநூல்கள் கூறியவற்றுள் இன்றைக்குப் பொருந்தாதவற்றை விலக்கியும், கூறாதனவற்றுள் பொருந்துவனவற்றை ஏற்றும் வாழக் கல்லாதவர், பல்வேறு நூல்களைக் கற்றவரே என்றாலும் அறிவில்லாதவரே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Possession of Decorum'. Grandpa shared Kural 140 and explained in simple words: Those who know not how to act agreeably to the world, though they have learnt many things, are still ignorant. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உயர்ந்தோர் ஏற்றுக் கொண்ட ஒழுக்கம் எனும் பண்போடு வாழக் கற்காதவர்கள் பல நூல்களைப் படித்திருந்தும்கூட அறிவில்லாதவர்களே ஆவார்கள்.",
+        "moral_en": "Moral: Who know not with the world in harmony to dwell, May many things have learned, but nothing well.",
+        "game_blank_word_ta": "ஒழுகல்",
+        "game_options_ta": [
+          "ஒழுகல்",
+          "ஒழுக்கம்",
+          "விழுப்பந்",
+          "தரலான்"
+        ],
+        "game_options_en": [
+          "Though read much they are ignorant Whose life is not world-accordant",
+          "Decorum does one dignity More than life guard its purity",
+          "Virtues of conduct all excel; The soul aid should be guarded well",
+          "Good conduct shows good family Low manners mark anomaly"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "ஒழுக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 140, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முந்திய அறநூல்கள் கூறியவற்றுள் இன்றைக்குப் பொருந்தாதவற்றை விலக்கியும், கூறாதனவற்றுள் பொருந்துவனவற்றை ஏற்றும் வாழக் கல்லாதவர், பல்வேறு நூல்களைக் கற்றவரே என்றாலும் அறிவில்லாதவரே. கலைஞர் உரை கூறுவது: உயர்ந்தோர் ஏற்றுக் கொண்ட ஒழுக்கம் எனும் பண்போடு வாழக் கற்காதவர்கள் பல நூல்களைப் படித்திருந்தும்கூட அறிவில்லாதவர்களே ஆவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Decorum (Domestic Virtue), Kural 140 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who know not how to act agreeably to the world, though they have learnt many things, are still ignorant. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'ஒழுக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Decorum' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'ஒழுக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 140 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 140 from Chapter 'The Possession of Decorum'?",
+        "quiz_options_ta": [
+          "உலகத்து உயர்ந்தவரோடு பொருந்த ஒழுகும் முறையைக் கற்காதவர், பல நூல்களைக் கற்றிருந்த போதிலும் அறிவில்லாதவரே ஆவர்.",
+          "எதிரே நின்று கண்ணோ‌ட்டம் இல்லாமல் கடுமையாகச் சொன்னாலும் சொல்லலாம்; நேரில் இல்லாதபோது பின் விளைவை ஆராயாத சொல்லைச் சொல்லக்கூடாது.",
+          "தான் பெற்ற உணவை பலரோடும் பகிர்ந்து உண்ணும் பழக்கம் உடையவனை பசி என்று கூறப்படும் தீயநோய் அணுகுதல் இல்லை.",
+          "ஆற்றல் இல்லாதவர் பலராக உலகில் இருப்பதற்குக் காரணம் தவம் செய்கின்றவர் சிலராகவும், செய்யாதவர் பலராகவும் இருப்பதே ஆகும்."
+        ],
+        "quiz_options_en": [
+          "Though read much they are ignorant Whose life is not world-accordant",
+          "Though harsh you speak in one's presence Abuse is worse in his absence",
+          "Who shares his food with those who need Hunger shall not harm his creed",
+          "Many are poor and few are rich For they care not for penance much"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (ஒழுக்கம் உடைமை) பகுதியில் குறள் 140 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உலகத்து உயர்ந்தவரோடு பொருந்த ஒழுகும் முறையைக் கற்காதவர், பல நூல்களைக் கற்றிருந்த போதிலும் அறிவில்லாதவரே ஆவர். பரிமேலழகர் உரை நுட்பம்: உலகத்தோடு ஒட்ட ஒழுகல் கல்லார் - உலகத்தோடு பொருந்த ஒழுகுதலைக் கல்லாதார், பல கற்றும் அறிவிலாதார் - பல நூல்களையும் கற்றாராயினும் அறிவிலாதார். (உலகத்தோடு பொருந்த ஒழுகுதலாவது, உயர்ந்தோர் பலரும் ஒழுகிய ஆற்றான் ஒழுகுதல். அறநூல் சொல்லியவற்றுள் இக்காலத்திற்கு ஏலாதன...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 14: 'The Possession of Decorum'), Kural 140 distills a foundational ethical insight: \"Who know not with the world in harmony to dwell, May many things have learned, but nothing well\" Philosophically, Those who know not how to act agreeably to the world, though they have learnt many things, are still ignorant.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "discipline",
+        "harmony",
+        "education",
+        "kindness"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "adhikaram_id": 119,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.553084148+00:00",
+  "kurals": [
+    {
+      "kural_number": 1181,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: விரும்பிய காதலர்க்கு அன்று பிரிவை உடன்பட்டேன்; பிரிந்தபின் பசலை உற்ற என் தன்மையை வேறு யார்க்குச் சென்று சொல்வேன்?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: I who (then) consented to the absence of my loving lord, to whom can I (now) relate the fact of my having turned sallow.",
+        "story_title_ta": "பசப்புறு பருவரல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Pallid Hue — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பசப்புறு பருவரல்' என்ற அதிகாரத்தில் வரும் குறள் 1181 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1181 from 'The Pallid Hue', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என்னைப் பிரிந்து செல்வதற்கு என் காதலர்க்கு ஒப்புதல் அளித்துவிட்டேன்; ஆனால், இப்போது பிரிவுத் துன்பத்தால் என்னுடலில் பசலை படர்வதை, யாரிடம் போய்ச் சொல்வேன்?",
+        "moral_en": "Moral: I willed my lover absent should remain; Of pining's sickly hue to whom shall I complain.",
+        "game_blank_word_ta": "உரைக்கோ",
+        "game_options_ta": [
+          "அவர்தந்தார்",
+          "உரைக்கோ",
+          "என்னும்",
+          "தகையால்"
+        ],
+        "game_options_en": [
+          "Claiming it is begot through him Pallor creeps and rides over my frame",
+          "My lover's parting, I allowed Whom to complain my hue pallid?",
+          "He seized my beauty and modesty Leaving pangs and Pallor to me",
+          "He is my thought, his praise my theme Yet this pallor steals over my frame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பசப்புறு பருவரல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1181, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என்னை விரும்பிய என்னவர் பிரியச் சம்மதித்த நான், அவர் பிரிவைத் தாங்காமல் பசலை கொண்ட என் மேனியின் இயல்பை யாரிடம் போய்ச் சொல்வேன்? கலைஞர் உரை கூறுவது: என்னைப் பிரிந்து செல்வதற்கு என் காதலர்க்கு ஒப்புதல் அளித்துவிட்டேன்; ஆனால், இப்போது பிரிவுத் துன்பத்தால் என்னுடலில் பசலை படர்வதை, யாரிடம் போய்ச் சொல்வேன்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pallid Hue (Post-marital Love), Kural 1181 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I who (then) consented to the absence of my loving lord, to whom can I (now) relate the fact of my having turned sallow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பசப்புறு பருவரல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pallid Hue'.",
+        "quiz_question_ta": "'பசப்புறு பருவரல்' அதிகாரத்தில் வரும் திருக்குறள் 1181 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1181 from Chapter 'The Pallid Hue'?",
+        "quiz_options_ta": [
+          "யான் காலைப்பொழுதிற்குச் செய்த நன்மை என்ன? (என்னைத் துன்புறுத்துகின்ற) மாலைப் பொழுதிற்குச் செய்த பகையான தீமை என்ன?",
+          "விரும்பிய காதலர்க்கு அன்று பிரிவை உடன்பட்டேன்; பிரிந்தபின் பசலை உற்ற என் தன்மையை வேறு யார்க்குச் சென்று சொல்வேன்?",
+          "அரசன் இச் செயலில் முனைந்து நின்று வெற்றி பெறுவானாக; அதன்பின் யாம் மனைவியோடு கூடியிருந்து அனறு வரும் மாலைப் பொழுதிற்கு விருந்து செய்வோம்.",
+          "பரத்தமை உடையாய்! பெண் தன்மை உடையவர் எல்லாரும் தம்தம் கண்களால் ‌பொதுப் பொருளாகக் கொண்டு நுகர்கின்றார்கள்; ஆகையால் உன் மார்பைப் பொருந்தேன்."
+        ],
+        "quiz_options_en": [
+          "What good have I done to morning And what evil to this evening?",
+          "My lover's parting, I allowed Whom to complain my hue pallid?",
+          "May the king fight and win and give And with my wife I will feast this eve!",
+          "I shrink to clasp you bosom lewd To the gaze of all ladies exposed"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பசப்புறு பருவரல்) பகுதியில் குறள் 1181 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: விரும்பிய காதலர்க்கு அன்று பிரிவை உடன்பட்டேன்; பிரிந்தபின் பசலை உற்ற என் தன்மையை வேறு யார்க்குச் சென்று சொல்வேன்? பரிமேலழகர் உரை நுட்பம்: [அது, பசப்புற்ற பருவரல் என விரியும்.அஃதாவது, பசப்புறுதலானாய வருத்தம். இதனைப் 'பந்தெறிந்த வயா' (கலித், குறிஞ் .3) என்பதுபோலக் கொள்க. பசப்பாவது, பிரிவாற்றாமையான் வருவதோர் நிறவேறுபாடு. இது, தலைமகனைக் காணப் பெறாதவழி நிகழ்வதாகலின், கண் விதுப்பு அழிதலின்பின...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 119: 'The Pallid Hue'), Kural 1181 distills a foundational ethical insight: \"I willed my lover absent should remain; Of pining's sickly hue to whom shall I complain\" Philosophically, I who (then) consented to the absence of my loving lord, to whom can I (now) relate the fact of my having turned sallow.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1182,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அந்தக் காதலர் உண்டாக்கினார் என்னும் பெருமிதத்தோடு இந்தப் பசலை நிறம் என்னுடைய மேனிமேல் ஏறி ஊர்ந்து பரவி வருகிறது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Sallowness, as if proud of having been caused by him, would now ride on my person.",
+        "story_title_ta": "பசப்புறு பருவரல் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Pallid Hue — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பசப்புறு பருவரல்' என்ற அதிகாரத்தில் வரும் குறள் 1182 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1182 from 'The Pallid Hue', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பிரிவு காரணமாகக் காதலர் உண்டாக்கினார் எனும் பெருமிதம் பொங்கிடப் பசலை நிறம் என் உடலில் ஏறி ஊர்ந்து பரவுகின்றது!",
+        "moral_en": "Moral: 'He gave': this sickly hue thus proudly speaks, Then climbs, and all my frame its chariot makes.",
+        "game_blank_word_ta": "பசப்பு",
+        "game_options_ta": [
+          "நயந்தவர்க்கு",
+          "நல்காமை",
+          "பசப்பு",
+          "நேர்ந்தேன்"
+        ],
+        "game_options_en": [
+          "My lover's parting, I allowed Whom to complain my hue pallid?",
+          "He seized my beauty and modesty Leaving pangs and Pallor to me",
+          "Claiming it is begot through him Pallor creeps and rides over my frame",
+          "He is my thought, his praise my theme Yet this pallor steals over my frame"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பசப்புறு பருவரல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1182, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இந்தப் பசலை அவர் எனக்குத் தந்தது என்னும் பெருமையினால் என் மேனி எங்கும் படருகின்றன. கலைஞர் உரை கூறுவது: பிரிவு காரணமாகக் காதலர் உண்டாக்கினார் எனும் பெருமிதம் பொங்கிடப் பசலை நிறம் என் உடலில் ஏறி ஊர்ந்து பரவுகின்றது! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pallid Hue (Post-marital Love), Kural 1182 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Sallowness, as if proud of having been caused by him, would now ride on my person. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பசப்புறு பருவரல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pallid Hue'.",
+        "quiz_question_ta": "'பசப்புறு பருவரல்' அதிகாரத்தில் வரும் திருக்குறள் 1182 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1182 from Chapter 'The Pallid Hue'?",
+        "quiz_options_ta": [
+          "மாலைப் பொழுது இவ்வாறு துன்பம் செய்ய வல்லது என்பதைக் காதலர் என்னை விட்டு அகலாமல் உடனிருந்த காலத்தில் யான் அறியவில்லை.",
+          "தொலைவில் உள்ள வெளிநாட்டிற்குச் சென்ற காதலர் திரும்பி வரும் நாளை நினைத்து ஏங்கும் மகளிர்க்கு ஒருநாள் ஏழுநாள் போல ( நெடிதாக) கழியும்.",
+          "அந்தக் காதலர் உண்டாக்கினார் என்னும் பெருமிதத்தோடு இந்தப் பசலை நிறம் என்னுடைய மேனிமேல் ஏறி ஊர்ந்து பரவி வருகிறது.",
+          "காதலரோடு ஊடல் கொண்டிருந்தோமாக, யாம் தம்மை நெடுங்காலம் வாழ்க என்று வாய் திறந்து சொல்லுவோம் என நினைத்து அவர் தும்மினார்."
+        ],
+        "quiz_options_en": [
+          "Evening pangs I have not known When my lord nev'r left me alone",
+          "One day seems as seven to those Who yearn return of distant spouse",
+          "Claiming it is begot through him Pallor creeps and rides over my frame",
+          "He sneezed while we went on sulking Expecting me to say \\\"live long\\\""
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பசப்புறு பருவரல்) பகுதியில் குறள் 1182 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அந்தக் காதலர் உண்டாக்கினார் என்னும் பெருமிதத்தோடு இந்தப் பசலை நிறம் என்னுடைய மேனிமேல் ஏறி ஊர்ந்து பரவி வருகிறது. பரிமேலழகர் உரை நுட்பம்: (ஆற்றாள் எனக் கவன்ற தோழிக்கு ஆற்றுவல் என்பது படச் சொல்லியது.) (யான் ஆற்றியுளேனாகவும்) பசப்பு - இப்பசப்புத்தான்; தந்தார் அவர் என்னும் தகையால் - என்னையுண்டாக்கினார் அவர் என்னும் பெருமிதத்தான்; என் மேனிமேல் இவர்தந்து ஊரும் - என் மேனியை மேற்கொண்டு செலுத்தா...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 119: 'The Pallid Hue'), Kural 1182 distills a foundational ethical insight: \"'He gave': this sickly hue thus proudly speaks, Then climbs, and all my frame its chariot makes\" Philosophically, Sallowness, as if proud of having been caused by him, would now ride on my person.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "humility",
+        "family",
+        "speech",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1183,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: காம நோயையும் பசலை நிறத்தையும் எனக்குக் கைம்மாறாக ‌‌கொடுத்து விட்டு, என் சாயலையும் நாணத்தையும் அவர் என்னிடமிருந்து பெற்றுக் கொண்டார்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: He has taken (away) my beauty and modesty, and given me instead disease and sallowness.",
+        "story_title_ta": "பசப்புறு பருவரல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Pallid Hue — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பசப்புறு பருவரல்' என்ற அதிகாரத்தில் வரும் குறள் 1183 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1183 from 'The Pallid Hue', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதல் நோயையும், பசலை நிறத்தையும் கைம்மாறாகக் கொடுத்து விட்டு அவர் என் அழகையும், நாணத்தையும் எடுத்துக் கொண்டு பிரிந்து சென்று விட்டார்.",
+        "moral_en": "Moral: Of comeliness and shame he me bereft, While pain and sickly hue, in recompense, he left.",
+        "game_blank_word_ta": "சாயலும்",
+        "game_options_ta": [
+          "நயந்தவர்க்கு",
+          "நல்காமை",
+          "நேர்ந்தேன்",
+          "சாயலும்"
+        ],
+        "game_options_en": [
+          "My lover's parting, I allowed Whom to complain my hue pallid?",
+          "Claiming it is begot through him Pallor creeps and rides over my frame",
+          "He is my thought, his praise my theme Yet this pallor steals over my frame",
+          "He seized my beauty and modesty Leaving pangs and Pallor to me"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பசப்புறு பருவரல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1183, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவர் என்னைப் பிரிகிறபோதே உள்ளத் துன்பத்தையும் பசலையையும் எனக்குக் கொடுத்துவிட்டு அவற்றுக்கு ஈடாக என் அழகையும் வெட்கத்தையம் கொண்டு போய்விட்டார். கலைஞர் உரை கூறுவது: காதல் நோயையும், பசலை நிறத்தையும் கைம்மாறாகக் கொடுத்து விட்டு அவர் என் அழகையும், நாணத்தையும் எடுத்துக் கொண்டு பிரிந்து சென்று விட்டார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pallid Hue (Post-marital Love), Kural 1183 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He has taken (away) my beauty and modesty, and given me instead disease and sallowness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பசப்புறு பருவரல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pallid Hue'.",
+        "quiz_question_ta": "'பசப்புறு பருவரல்' அதிகாரத்தில் வரும் திருக்குறள் 1183 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1183 from Chapter 'The Pallid Hue'?",
+        "quiz_options_ta": [
+          "இந்த காமநோய், காலைப்பொழுதில் அரும்பாய்த் தோன்றி, பகற்பொழுதெல்லாம் பேரரும்பாய் வளர்ந்து மாலைப்பொழுதில் மலராகின்றது.",
+          "துன்பத்தைத் தாங்காமல் மனம் உடைந்து அழிந்து விட்டால், நம்மைத் திரும்பப்‌ பெறுவதனால் என்ன? பெற்றக்கால் என்ன? பெற்றுப் பொருந்தினாலும் என்ன?",
+          "கிளைகளில் மலர்ந்த மலர்களைச் சூடினாலும், நீர் இந்த அழகை யாரோ ஒருத்திக்கு காட்டுவதற்காகச் சூடினீர் என்று சினம் கொள்வாள்.",
+          "காம நோயையும் பசலை நிறத்தையும் எனக்குக் கைம்மாறாக ‌‌கொடுத்து விட்டு, என் சாயலையும் நாணத்தையும் அவர் என்னிடமிருந்து பெற்றுக் கொண்டார்."
+        ],
+        "quiz_options_en": [
+          "Budding at dawn burgeoning all day This disease blooms in evening gay",
+          "When her heart is broken, what is The good of meeting and love-embrace?",
+          "\\\"For which lady?\\\" she widely cries While I adorn myself with flowers",
+          "He seized my beauty and modesty Leaving pangs and Pallor to me"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பசப்புறு பருவரல்) பகுதியில் குறள் 1183 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காம நோயையும் பசலை நிறத்தையும் எனக்குக் கைம்மாறாக ‌‌கொடுத்து விட்டு, என் சாயலையும் நாணத்தையும் அவர் என்னிடமிருந்து பெற்றுக் கொண்டார். பரிமேலழகர் உரை நுட்பம்: ('அழகும் நாணும் அழியாமல் நீ ஆற்றல் வேண்டும்', என்ற தோழிக்குச் சொல்லியது.) கைம்மாறா நோயும் பசலையும் தந்து - பிரிகின்ற ஞான்றே அவ்விரண்டற்கும் தலைமாறாக இக்காமநோயினையும் பசலையையும் எனக்குத் தந்து; சாயலும் நாணும் அவர் கொண்டார் - என் மேனியழகினையும் நாணினையும் அவர...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 119: 'The Pallid Hue'), Kural 1183 distills a foundational ethical insight: \"Of comeliness and shame he me bereft, While pain and sickly hue, in recompense, he left\" Philosophically, He has taken (away) my beauty and modesty, and given me instead disease and sallowness.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "humility",
+        "speech",
+        "kindness",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1184,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: யான் அவருடைய நல்லியல்புகளை நினைக்கின்றேன்; யான் உரைப்பதும் அவற்றையே; அவ்வாறிருந்தும் பசலை வந்தது வஞ்சனையோ? வேறு வகையோ?",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: I think (of him); and what I speak about is but his excellence; still is there sallowness; and this is deceitful.",
+        "story_title_ta": "பசப்புறு பருவரல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Pallid Hue — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பசப்புறு பருவரல்' என்ற அதிகாரத்தில் வரும் குறள் 1184 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1184 from 'The Pallid Hue', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: யான் நினைப்பதும், உரைப்பதும் அவரது நேர்மைத் திறன் பற்றியதாகவே இருக்கும்போது, என்னையறியாமலோ வேறு வழியிலோ இப்பசலை நிறம் வந்தது எப்படி?",
+        "moral_en": "Moral: I meditate his words, his worth is theme of all I say, This sickly hue is false that would my trust betray.",
+        "game_blank_word_ta": "மன்யான்",
+        "game_options_ta": [
+          "மன்யான்",
+          "நயந்தவர்க்கு",
+          "நல்காமை",
+          "நேர்ந்தேன்"
+        ],
+        "game_options_en": [
+          "He is my thought, his praise my theme Yet this pallor steals over my frame",
+          "My lover's parting, I allowed Whom to complain my hue pallid?",
+          "Claiming it is begot through him Pallor creeps and rides over my frame",
+          "He seized my beauty and modesty Leaving pangs and Pallor to me"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பசப்புறு பருவரல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1184, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நான் நினைப்பதெல்லாம் அவரைத்தான். சொல்வது எல்லாம் அவர் குணங்களைத்தாம்; இருந்தும் இந்தப் பசலை வந்துவிட்டதே; இது வஞ்சகம் அல்லவா? கலைஞர் உரை கூறுவது: யான் நினைப்பதும், உரைப்பதும் அவரது நேர்மைத் திறன் பற்றியதாகவே இருக்கும்போது, என்னையறியாமலோ வேறு வழியிலோ இப்பசலை நிறம் வந்தது எப்படி? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pallid Hue (Post-marital Love), Kural 1184 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I think (of him); and what I speak about is but his excellence; still is there sallowness; and this is deceitful. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பசப்புறு பருவரல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pallid Hue'.",
+        "quiz_question_ta": "'பசப்புறு பருவரல்' அதிகாரத்தில் வரும் திருக்குறள் 1184 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1184 from Chapter 'The Pallid Hue'?",
+        "quiz_options_ta": [
+          "யான் அவருடைய நல்லியல்புகளை நினைக்கின்றேன்; யான் உரைப்பதும் அவற்றையே; அவ்வாறிருந்தும் பசலை வந்தது வஞ்சனையோ? வேறு வகையோ?",
+          "ஆயனுடைய புல்லாங்குழல், நெருப்புப்போல் வருத்தும்‌ மாலைப்பொழுதிற்குத் தூதாகி என்னைக் கொல்லும்‌‌ படையாகவும் வருகின்றது.",
+          "நீ சொல்லாமல் மறைத்தாலும் நிற்காமல் உன்னைக் கடந்து உன்னுடைய கண்கள் எனக்குச் சொல்லக் கூடிய செய்தி ஒன்று இருக்கிறது.",
+          "யாரையும் விட நாம் மிக்க காதல் கொண்டிருக்கிறோம் என்று சொன்னேனாக; ய‌ாரை விட...? யாரை விட..? என்று கேட்டு ஊடல் கொண்டாள்."
+        ],
+        "quiz_options_en": [
+          "He is my thought, his praise my theme Yet this pallor steals over my frame",
+          "A deadly arm, this shepherd's flute Hails flaming eve and slays my heart",
+          "You hide; but your painted eyes Restraint off, report your surmise",
+          "\\\"I love you more than all\\\" I said \\\"Than whom, than whom?\\\" she sulked and chid"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பசப்புறு பருவரல்) பகுதியில் குறள் 1184 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யான் அவருடைய நல்லியல்புகளை நினைக்கின்றேன்; யான் உரைப்பதும் அவற்றையே; அவ்வாறிருந்தும் பசலை வந்தது வஞ்சனையோ? வேறு வகையோ? பரிமேலழகர் உரை நுட்பம்: ('பிரிகின்றவர் தெளிவித்த சொற்களையும் அவர் நல்திறங்களையும் அறிதியாகலின் நீட்டியாது வருவர்', என்ற வழிச் சொல்லியது.) யான் உள்ளுவன் - அவர் சொற்களை யான் மனத்தால் நினையா நிற்பேன்; உரைப்பது அவர் திறம் - வாக்கால் உரைப்பதும் அவர் நல்திறங்களையே; பசப்புக் கள்ளம...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 119: 'The Pallid Hue'), Kural 1184 distills a foundational ethical insight: \"I meditate his words, his worth is theme of all I say, This sickly hue is false that would my trust betray\" Philosophically, I think (of him); and what I speak about is but his excellence; still is there sallowness; and this is deceitful.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "education",
+        "truth",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 1185,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அதோ பார்! எம்முடைய காதலர் பிரிந்து செல்கின்றார்; இதோ பார்! என்னுடைய மேனியில் பசலை நிறம் வந்து படர்கிறது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Just as my lover departed then, did not sallowness spread here on my person ?",
+        "story_title_ta": "பசப்புறு பருவரல் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Pallid Hue — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பசப்புறு பருவரல்' என்ற அதிகாரத்தில் வரும் குறள் 1185 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1185 from 'The Pallid Hue', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என்னைப் பிரிந்து காதலர் சிறிது தொலைவுகூடச் செல்லவில்லை; அதற்குள்ளாக என் மேனியில் படர்ந்து விட்டதே பசலை நிறம்.",
+        "moral_en": "Moral: My lover there went forth to roam; This pallor of my frame usurps his place at home.",
+        "game_blank_word_ta": "உவக்காண்எம்",
+        "game_options_ta": [
+          "நயந்தவர்க்கு",
+          "உவக்காண்எம்",
+          "நல்காமை",
+          "நேர்ந்தேன்"
+        ],
+        "game_options_en": [
+          "My lover's parting, I allowed Whom to complain my hue pallid?",
+          "My lover departed me there And pallor usurped my body here",
+          "Claiming it is begot through him Pallor creeps and rides over my frame",
+          "He seized my beauty and modesty Leaving pangs and Pallor to me"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பசப்புறு பருவரல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1185, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முன்பும்கூட, அந்தப் பக்கம் என் அன்பர் போயிருப்பார்; இந்தப் பக்கம் என் மேனி பசலை கொண்டு விடும். முன்பே அப்படி என்றால் இப்போது எப்படி இருக்கும்? கலைஞர் உரை கூறுவது: என்னைப் பிரிந்து காதலர் சிறிது தொலைவுகூடச் செல்லவில்லை; அதற்குள்ளாக என் மேனியில் படர்ந்து விட்டதே பசலை நிறம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pallid Hue (Post-marital Love), Kural 1185 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Just as my lover departed then, did not sallowness spread here on my person ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பசப்புறு பருவரல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pallid Hue'.",
+        "quiz_question_ta": "'பசப்புறு பருவரல்' அதிகாரத்தில் வரும் திருக்குறள் 1185 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1185 from Chapter 'The Pallid Hue'?",
+        "quiz_options_ta": [
+          "அறிவு மயங்கும்படியாக மாலைப்பொழுது வந்து படரும்போது, இந்த ஊரும் மயங்கி என்னைப் போல் துன்பத்தால் வருந்தும்.",
+          "அதோ பார்! எம்முடைய காதலர் பிரிந்து செல்கின்றார்; இதோ பார்! என்னுடைய மேனியில் பசலை நிறம் வந்து படர்கிறது.",
+          "கண் நிறைந்த அழகும் மூங்கில் போன்ற தோளும் உடைய என் காதலிக்குப் பெண்மைத்தன்மை நிறைந்து விளங்கும் இயல்பு மிகுதியாக உள்ளது.",
+          "இப்பிறப்பில் யாம் பிரிய மாட்டோம் என்று காதலியிடம் சொன்னேனாக, இனி வரும் பிறப்பில் பிரிவதாக உணர்ந்து கண் நிறையக் கண்ணீர் கொண்டாள்."
+        ],
+        "quiz_options_en": [
+          "Deluding eve if it prolongs The whole town will suffer love-pangs",
+          "My lover departed me there And pallor usurped my body here",
+          "With seemly grace and stem-like arms The simple she has ample charms",
+          "\\\"In this life we won't part\\\" I told Her eyes at once with tears were filled"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பசப்புறு பருவரல்) பகுதியில் குறள் 1185 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அதோ பார்! எம்முடைய காதலர் பிரிந்து செல்கின்றார்; இதோ பார்! என்னுடைய மேனியில் பசலை நிறம் வந்து படர்கிறது. பரிமேலழகர் உரை நுட்பம்: (காதலர் பிரிந்து அணித்தாயிருக்கவும் ஆற்றுகின்றிலை என்ற தோழிக்கு முன் நிகழ்ந்தது கூறியது.) எம் காதலர் உவக்காண் செல்வார் - பண்டும் நம் காதலர் உங்கே செல்வாராக; என் மேனி பசப்பு ஊர்வது இவக்காண- என் மேனி பசப்பூர்வது இங்கேயன்றோ? அப்பெற்றியது இன்று பிறிதொன்றாமோ...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 119: 'The Pallid Hue'), Kural 1185 distills a foundational ethical insight: \"My lover there went forth to roam; This pallor of my frame usurps his place at home\" Philosophically, Just as my lover departed then, did not sallowness spread here on my person ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "family",
+        "education",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 1186,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: விளக்கினுடைய மறைவைப் பார்த்துக் காத்திருக்கின்ற இருளைப் போலவே, தலைவனுடைய தழுவுதலின் ‌சோர்வைப் பார்த்துக் காத்திருக்கினறது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Just as darkness waits for the failing light; so does sallowness wait for the laxity of my husband's intercourse.",
+        "story_title_ta": "பசப்புறு பருவரல் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Pallid Hue — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பசப்புறு பருவரல்' என்ற அதிகாரத்தில் வரும் குறள் 1186 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1186 from 'The Pallid Hue', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: விளக்கின் ஒளிகுறையும் சமயம் பார்த்துப் பரவிடும் இருளைப்போல, இறுகத் தழுவிய காதலன்பிடி, சற்றுத் தளரும்போது காதலியின் உடலில் பசலைநிறம் படர்ந்து விடுகிறது.",
+        "moral_en": "Moral: As darkness waits till lamp expires, to fill the place, This pallor waits till I enjoy no more my lord's embrace.",
+        "game_blank_word_ta": "முயக்கற்றம்",
+        "game_options_ta": [
+          "நயந்தவர்க்கு",
+          "நல்காமை",
+          "முயக்கற்றம்",
+          "நேர்ந்தேன்"
+        ],
+        "game_options_en": [
+          "My lover's parting, I allowed Whom to complain my hue pallid?",
+          "Claiming it is begot through him Pallor creeps and rides over my frame",
+          "Just as darkness waits for light-off Pallor looks for lover's arms-off",
+          "He seized my beauty and modesty Leaving pangs and Pallor to me"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பசப்புறு பருவரல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1186, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: விளக்கு மெலிவதைப் பார்த்து நெருங்கும் இருட்டைப் போல என்னவரின் தழுவல் நெகிழ்வதைப் பார்த்துக் காத்திருந்த பசலை வரும். கலைஞர் உரை கூறுவது: விளக்கின் ஒளிகுறையும் சமயம் பார்த்துப் பரவிடும் இருளைப்போல, இறுகத் தழுவிய காதலன்பிடி, சற்றுத் தளரும்போது காதலியின் உடலில் பசலைநிறம் படர்ந்து விடுகிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pallid Hue (Post-marital Love), Kural 1186 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Just as darkness waits for the failing light; so does sallowness wait for the laxity of my husband's intercourse. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பசப்புறு பருவரல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pallid Hue'.",
+        "quiz_question_ta": "'பசப்புறு பருவரல்' அதிகாரத்தில் வரும் திருக்குறள் 1186 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1186 from Chapter 'The Pallid Hue'?",
+        "quiz_options_ta": [
+          "( பிரிவுத் துன்பத்தால்) மாயமாய் நின்ற என் உயிர், பொருள் காரணமாகப் பிரிந்து சென்ற காதலரை நினைந்து மயங்குகின்ற இம் மாலைப்பொழுதில் மாய்கின்றது.",
+          "( கோத்த) மணியினுள் விளங்கும் நூலைப் போல் என் காதலியின் அழகினுள் விளங்குவதான குறிப்பு ஒன்று இருக்கின்றது.",
+          "விளக்கினுடைய மறைவைப் பார்த்துக் காத்திருக்கின்ற இருளைப் போலவே, தலைவனுடைய தழுவுதலின் ‌சோர்வைப் பார்த்துக் காத்திருக்கினறது.",
+          "நினைத்தேன் என்று கூறி‌னேன்; நினைப்புக்கு முன் மறப்பு உண்டு அன்றோ? ஏன் மறந்தீர் என்று என்னைத் தழுவாமல் ஊடினாள்."
+        ],
+        "quiz_options_en": [
+          "Thinking of him whose quest is wealth My life outlives the twilight stealth",
+          "Something shines through her jewelled charm Like thread shining through wreathed gem",
+          "Just as darkness waits for light-off Pallor looks for lover's arms-off",
+          "I said I thought of you She left Her embrace crying \\\"Oft you forget\\\""
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பசப்புறு பருவரல்) பகுதியில் குறள் 1186 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: விளக்கினுடைய மறைவைப் பார்த்துக் காத்திருக்கின்ற இருளைப் போலவே, தலைவனுடைய தழுவுதலின் ‌சோர்வைப் பார்த்துக் காத்திருக்கினறது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) விளக்கு அற்றம் பார்க்கும் இருளேபோல் - விளக்கினது மெலிவு பார்த்து நெருங்கி வரும் இருளே போல்; கொண்கன் முயக்கு அற்றம் பார்க்கும் பசப்பு - கொண்கன் முயக்கினது மெலிவு பார்த்து நெருங்கி வரும் இப்பசப்பு. ('பார்க்கும்' என்பன இலக்கணைச் சொல். 'முன...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 119: 'The Pallid Hue'), Kural 1186 distills a foundational ethical insight: \"As darkness waits till lamp expires, to fill the place, This pallor waits till I enjoy no more my lord's embrace\" Philosophically, Just as darkness waits for the failing light; so does sallowness wait for the laxity of my husband's intercourse.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "justice",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1187,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தலைவனைத் தழுவிக் கிடந்தேன்; பக்கத்தே சிறிது அகன்றேன்; அவ்வளவிலேயே பசலை நிறம் அள்ளிக் கொள்வதுபோல் வந்து பரவி விட்டதே!",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: I who was in close embrace just turned aside and the moment I did so, sallowness came on me like something to be seized on.",
+        "story_title_ta": "பசப்புறு பருவரல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Pallid Hue — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பசப்புறு பருவரல்' என்ற அதிகாரத்தில் வரும் குறள் 1187 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1187 from 'The Pallid Hue', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: தழுவிக் கிடந்தேன்; சற்றுத் தள்ளிப் படுத்தேன்; அவ்வளவுதான்; என்னை அள்ளிக் கொண்டு விட்டதே பசலை நிறம்!",
+        "moral_en": "Moral: I lay in his embrace, I turned unwittingly; Forthwith this hue, as you might grasp it, came on me.",
+        "game_blank_word_ta": "அள்ளிக்கொள்",
+        "game_options_ta": [
+          "நயந்தவர்க்கு",
+          "நல்காமை",
+          "நேர்ந்தேன்",
+          "அள்ளிக்கொள்"
+        ],
+        "game_options_en": [
+          "My lover's parting, I allowed Whom to complain my hue pallid?",
+          "Claiming it is begot through him Pallor creeps and rides over my frame",
+          "He seized my beauty and modesty Leaving pangs and Pallor to me",
+          "From his embrace I turned a nonce This pallor swallowed me at once"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பசப்புறு பருவரல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1187, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முன்னொரு சமயம் நான் அவரைத் தழுவிக் கிடந்தேன்; கொஞ்சம் விலகினேன்; அவ்வளவுதான்; இந்தப் பசலை என்னை அப்படியே அள்ளிக் கொள்வது போல் வந்துவிட்டது. கலைஞர் உரை கூறுவது: தழுவிக் கிடந்தேன்; சற்றுத் தள்ளிப் படுத்தேன்; அவ்வளவுதான்; என்னை அள்ளிக் கொண்டு விட்டதே பசலை நிறம்! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pallid Hue (Post-marital Love), Kural 1187 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I who was in close embrace just turned aside and the moment I did so, sallowness came on me like something to be seized on. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பசப்புறு பருவரல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pallid Hue'.",
+        "quiz_question_ta": "'பசப்புறு பருவரல்' அதிகாரத்தில் வரும் திருக்குறள் 1187 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1187 from Chapter 'The Pallid Hue'?",
+        "quiz_options_ta": [
+          "இத்துன்பத்தை நமக்கு விட்டு விட்டுத் தொலைவில் உள்ள நாட்டுக்குச் சென்ற காதலரை நினைந்து அழுதமையால் கண்கள் அழகு இழந்து நறுமலர்களுக்கு நாணி விட்டன.",
+          "அரும்பு தோன்றும்போது அடங்கியிருக்கும் மணத்தைப் போல், காதலியின் புன்முறுவலின் தோற்றத்தில் அடங்கி இருக்கும் குறிப்பு ஒன்று உள்ளது.",
+          "யான் தும்மினேனாக; அவள் நூறாண்டு என வாழ்த்தினாள்; உடனே அதை விட்டு யார் நினைத்ததால் தும்மினீர்? என்று கேட்டு அழுதாள்?",
+          "தலைவனைத் தழுவிக் கிடந்தேன்; பக்கத்தே சிறிது அகன்றேன்; அவ்வளவிலேயே பசலை நிறம் அள்ளிக் கொள்வதுபோல் வந்து பரவி விட்டதே!"
+        ],
+        "quiz_options_en": [
+          "To lift from want he left me afar His thought makes my eyes blush the flower",
+          "Like scent in bud secrets conceal In the bosom of her half smile",
+          "I sneezed; she blessed; then changed and wept \\\"You sneezed now at which lady's thought?\\\"",
+          "From his embrace I turned a nonce This pallor swallowed me at once"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பசப்புறு பருவரல்) பகுதியில் குறள் 1187 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தலைவனைத் தழுவிக் கிடந்தேன்; பக்கத்தே சிறிது அகன்றேன்; அவ்வளவிலேயே பசலை நிறம் அள்ளிக் கொள்வதுபோல் வந்து பரவி விட்டதே! பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) புல்லிக் கிடந்தேன் புடை பெயர்ந்தேன் - முன்னொரு ஞான்று காதலரைப் புல்லிக்கிடந்த யான் அறியாது புடை பெயர்ந்தேன்; அவ்வளவில் பசப்பு அள்ளிக் கொள்வற்று - அப்புடைபெயர்ந்த அளவிலே பசப்பு அள்ளிக் கொள்வது போல வந்து செறிந்தது. ('கொள்வது' என்பது குறைந்து...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 119: 'The Pallid Hue'), Kural 1187 distills a foundational ethical insight: \"I lay in his embrace, I turned unwittingly; Forthwith this hue, as you might grasp it, came on me\" Philosophically, I who was in close embrace just turned aside and the moment I did so, sallowness came on me like something to be seized on.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "justice",
+        "speech",
+        "time",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1188,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: இவள் பிரிவால் வருத்திப் பசலை நிறம் அடைந்தாள் என்ற பழி சொல்வதே அல்லாமல், இவளைக் காதலர் விட்டுப் பிரிந்தார் என்று சொல்பவர் இல்லையே!",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Besides those who say \"she has turned sallow\" there are none who say \"he has forsaken her\".",
+        "story_title_ta": "பசப்புறு பருவரல் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Pallid Hue — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பசப்புறு பருவரல்' என்ற அதிகாரத்தில் வரும் குறள் 1188 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1188 from 'The Pallid Hue', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: இவள் உடலில் பசலை நிறம் படர்ந்தது எனப் பழித்துக் கூறுகிறார்களே அல்லாமல், இதற்குக் காரணம், காதலன் பிரிந்து சென்றிருப்பது தான் என்று சொல்பவர் இல்லையே.",
+        "moral_en": "Moral: On me, because I pine, they cast a slur; But no one says, 'He first deserted her.'.",
+        "game_blank_word_ta": "பசந்தாள்",
+        "game_options_ta": [
+          "பசந்தாள்",
+          "நயந்தவர்க்கு",
+          "நல்காமை",
+          "நேர்ந்தேன்"
+        ],
+        "game_options_en": [
+          "On my pallor they cast a slur But none says \\\"lo he parted her\\\"",
+          "My lover's parting, I allowed Whom to complain my hue pallid?",
+          "Claiming it is begot through him Pallor creeps and rides over my frame",
+          "He seized my beauty and modesty Leaving pangs and Pallor to me"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பசப்புறு பருவரல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1188, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இங்கோ இவள் பசலை உற்றாள் என்று சொல்கிறார்களே தவிர, இந்தப் பெண்ணை விட்டுவிட்டு அவர் போய்விட்டாரே என்று சொல்பவர் ஒருவரும் இல்லை. கலைஞர் உரை கூறுவது: இவள் உடலில் பசலை நிறம் படர்ந்தது எனப் பழித்துக் கூறுகிறார்களே அல்லாமல், இதற்குக் காரணம், காதலன் பிரிந்து சென்றிருப்பது தான் என்று சொல்பவர் இல்லையே. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pallid Hue (Post-marital Love), Kural 1188 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Besides those who say \"she has turned sallow\" there are none who say \"he has forsaken her\". Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பசப்புறு பருவரல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pallid Hue'.",
+        "quiz_question_ta": "'பசப்புறு பருவரல்' அதிகாரத்தில் வரும் திருக்குறள் 1188 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1188 from Chapter 'The Pallid Hue'?",
+        "quiz_options_ta": [
+          "இவள் பிரிவால் வருத்திப் பசலை நிறம் அடைந்தாள் என்ற பழி சொல்வதே அல்லாமல், இவளைக் காதலர் விட்டுப் பிரிந்தார் என்று சொல்பவர் இல்லையே!",
+          "பசலை நிறம் அடைந்து நீர் சொரியும் கண்கள், நாம் விரும்பிய காதலர் நமக்கு அன்பு செய்யாத தன்மையைப் ( பிறர்க்குச்) சொல்வன போல் உள்ளன.",
+          "காதலி என்னை நோக்கி செய்து விட்டுச் சென்ற கள்ளமான குறிப்பு, என் மிக்க துயரத்தைத் தீர்க்கும் மருந்து ஒன்று உடையதாக இருக்கின்றது.",
+          "அவளுடைய ஊடலுக்கு அஞ்சி யான் தும்மலை அடக்கிக் கொள்ள உம்மவர் உம்மை நினைப்பதை எமக்குத் தெரியாமல் மறைக்கின்றீரோ என்று அழுதாள்."
+        ],
+        "quiz_options_en": [
+          "On my pallor they cast a slur But none says \\\"lo he parted her\\\"",
+          "My pale tearful eyes betray The hardness of my husband, away",
+          "The close-bangled belle's hidden thought Has a cure for my troubled heart She to Her Maid",
+          "I repressed sneeze; she wept crying \\\"Your thoughts from me you are hiding\\\""
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பசப்புறு பருவரல்) பகுதியில் குறள் 1188 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இவள் பிரிவால் வருத்திப் பசலை நிறம் அடைந்தாள் என்ற பழி சொல்வதே அல்லாமல், இவளைக் காதலர் விட்டுப் பிரிந்தார் என்று சொல்பவர் இல்லையே! பரிமேலழகர் உரை நுட்பம்: ('நீ இங்ஙனம் பசக்கற்பாலையல்லை' என்ற தோழியோடு புலந்து சொல்லியது.) இவள் பசந்தாள் என்பது அல்லால் - இவள் ஆற்றியிராது பசந்தாள் என்று என்னைப் பழி கூறுவதல்லது; இவளை அவர் துறந்தார் என்பார் இல் - இவளை அவர் துறந்து போயினார் என்று அவரைக் கூறுவார் ஒருவருமில்லை...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 119: 'The Pallid Hue'), Kural 1188 distills a foundational ethical insight: \"On me, because I pine, they cast a slur; But no one says, 'He first deserted her.'\" Philosophically, Besides those who say \"she has turned sallow\" there are none who say \"he has forsaken her\".",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1189,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பிரிவுக்கு உடன்படச் செய்த காதலர் நல்ல நிலையுடையவர் ஆவார் என்றால், என்னுடைய மேனி உள்ளபடி பசலை நிறம் அடைவதாக.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: If he is clear of guilt who has conciliated me (to his departure) let my body suffer its due and turn sallow.",
+        "story_title_ta": "பசப்புறு பருவரல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Pallid Hue — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பசப்புறு பருவரல்' என்ற அதிகாரத்தில் வரும் குறள் 1189 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1189 from 'The Pallid Hue', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பிரிந்து சென்றிட என்னை ஒப்புக் கொள்ளுமாறு செய்த காதலர் நலமாக இருப்பார் என்றால் என்னுடல் பசலை படர்ந்தே விளங்கிடுமாக!",
+        "moral_en": "Moral: Well let my frame, as now, be sicklied o'er with pain, If he who won my heart's consent, in good estate remain.",
+        "game_blank_word_ta": "பட்டாங்கென்",
+        "game_options_ta": [
+          "நயந்தவர்க்கு",
+          "பட்டாங்கென்",
+          "நல்காமை",
+          "நேர்ந்தேன்"
+        ],
+        "game_options_en": [
+          "My lover's parting, I allowed Whom to complain my hue pallid?",
+          "Let all my body become pale If he who took my leave fares well",
+          "Claiming it is begot through him Pallor creeps and rides over my frame",
+          "He seized my beauty and modesty Leaving pangs and Pallor to me"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பசப்புறு பருவரல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1189, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இந்தப் பிரிவிற்கு நான் சம்மதிக்கும்படி செய்து பிரிந்தவர்தாம் நல்லவர் என்றால், என் மேனி மேலும் பசலை அடைந்து விட்டுப் போகட்டும்! கலைஞர் உரை கூறுவது: பிரிந்து சென்றிட என்னை ஒப்புக் கொள்ளுமாறு செய்த காதலர் நலமாக இருப்பார் என்றால் என்னுடல் பசலை படர்ந்தே விளங்கிடுமாக! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pallid Hue (Post-marital Love), Kural 1189 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If he is clear of guilt who has conciliated me (to his departure) let my body suffer its due and turn sallow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பசப்புறு பருவரல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pallid Hue'.",
+        "quiz_question_ta": "'பசப்புறு பருவரல்' அதிகாரத்தில் வரும் திருக்குறள் 1189 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1189 from Chapter 'The Pallid Hue'?",
+        "quiz_options_ta": [
+          "கூடியிருந்த காலத்தில் மகிழ்ந்து பூரித்திருந்த தோள்கள், ( இப்போது மெலிந்தும்) காதலருடைய பிரிவை நன்றாக அறிவிப்பவை போல் உள்ளன.",
+          "பிரிவுக்கு உடன்படச் செய்த காதலர் நல்ல நிலையுடையவர் ஆவார் என்றால், என்னுடைய மேனி உள்ளபடி பசலை நிறம் அடைவதாக.",
+          "பெரிதும் அன்பு செய்து விரும்புமாறு கூடுதல், அரிதாகிய பிரிவைச் செய்து பிறகு அன்பில்லாமல்கைவிட எண்ணுகின்ற குறிப்பை உடையதாகும்.",
+          "ஊடியிருந்தபோது அவளை ஊடல் உணர்த்தி மகிழ்வித்தாலும், நீர் மற்ற மகளிர்க்கும் இத்தன்மையானவராக ஆவீர் என்று ‌சொல்லிச் சினம் கொள்வாள்."
+        ],
+        "quiz_options_en": [
+          "These arms that swelled on nuptial day Now shrunk proclaim \\\"He is away\\\"",
+          "Let all my body become pale If he who took my leave fares well",
+          "His over-kind close embrace sooths; But makes me feel, loveless, he parts",
+          "I try to coax her and she remarks \\\"Your coaxing others thus this marks\\\""
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பசப்புறு பருவரல்) பகுதியில் குறள் 1189 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிரிவுக்கு உடன்படச் செய்த காதலர் நல்ல நிலையுடையவர் ஆவார் என்றால், என்னுடைய மேனி உள்ளபடி பசலை நிறம் அடைவதாக. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) நயப்பித்தார் நன்னிலையர் ஆவர் எனின் - இப்பிரிவை யானே உடம்படும் வகை சொல்லியவர் இன்று நின் கருத்தான் நல்ல நிலையினர் ஆவாராயின்; என் மேனி பட்டாங்கு பசக்க - என் மேனி பட்டதுபடப் பசப்பதாக. (நன்னிலையராதல் - நன்மைக்கண்ணே நிற்றலை உடையராதல். 'பட்டாங்காக...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 119: 'The Pallid Hue'), Kural 1189 distills a foundational ethical insight: \"Well let my frame, as now, be sicklied o'er with pain, If he who won my heart's consent, in good estate remain\" Philosophically, If he is clear of guilt who has conciliated me (to his departure) let my body suffer its due and turn sallow.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "leadership",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1190,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பிரிவுக்கு உடன்படச் செய்த காதலர் பிரிந்து வருத்துதலைப் பிறர் தூற்றாமல் இருப்பாரானால், யான் பசலை உற்றதாக பெயர் எடுத்தல் நல்லதே.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: It would be good to be said of me that I have turned sallow, if friends do not reproach with unkindness him who pleased me (then).",
+        "story_title_ta": "பசப்புறு பருவரல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Pallid Hue — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பசப்புறு பருவரல்' என்ற அதிகாரத்தில் வரும் குறள் 1190 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1190 from 'The Pallid Hue', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என்னைப் பிரிவுக்கு உடன்படுமாறு செய்த காதலரை அன்பில்லாதவர் என்று யாரும் தூற்றமாட்டார்கள் எனில், பசலை படர்ந்தவள் என நான் பெயரெடுப்பது நல்லது தான்!",
+        "moral_en": "Moral: 'Tis well, though men deride me for my sickly hue of pain; If they from calling him unkind, who won my love, refrain.",
+        "game_blank_word_ta": "பசப்பெனப்",
+        "game_options_ta": [
+          "நயந்தவர்க்கு",
+          "நல்காமை",
+          "பசப்பெனப்",
+          "நேர்ந்தேன்"
+        ],
+        "game_options_en": [
+          "My lover's parting, I allowed Whom to complain my hue pallid?",
+          "Claiming it is begot through him Pallor creeps and rides over my frame",
+          "Let people call me all pallid But my lover let them not deride",
+          "He seized my beauty and modesty Leaving pangs and Pallor to me"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பசப்புறு பருவரல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1190, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என்னைச் சம்மதிக்கச் செய்து பிரிந்தவர் இன்னும் வராமல் இருப்பதை எண்ணி அவரை ஏசாமல், இவளே பசலை ஆயினாள் என்று இம்மக்கள் சொல்லுவர் என்றால் அப்படி ஓரு பெயரைப் பெறுவதும் நல்லதே. கலைஞர் உரை கூறுவது: என்னைப் பிரிவுக்கு உடன்படுமாறு செய்த காதலரை அன்பில்லாதவர் என்று யாரும் தூற்றமாட்டார்கள் எனில், பசலை படர்ந்தவள் என நான் பெயரெடுப்பது நல்லது தான்! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Pallid Hue (Post-marital Love), Kural 1190 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It would be good to be said of me that I have turned sallow, if friends do not reproach with unkindness him who pleased me (then). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பசப்புறு பருவரல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Pallid Hue'.",
+        "quiz_question_ta": "'பசப்புறு பருவரல்' அதிகாரத்தில் வரும் திருக்குறள் 1190 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1190 from Chapter 'The Pallid Hue'?",
+        "quiz_options_ta": [
+          "துணைவர் விட்டு நீங்கியதால் பழைய அழகு கெட்டு வாடிய தோள்கள், பருத்த தன்மை கெட்டு மெலிந்து வளையல்களும் கழலச் செய்கின்றன.",
+          "குளிர்ந்த துறையை உடைய காதலன் பிரிந்த பிரிவை நம்மை விட முன்னம‌ே நம்முடைய வளையல்கள் உணர்ந்து கழன்று விட்டனவே!",
+          "பிரிவுக்கு உடன்படச் செய்த காதலர் பிரிந்து வருத்துதலைப் பிறர் தூற்றாமல் இருப்பாரானால், யான் பசலை உற்றதாக பெயர் எடுத்தல் நல்லதே.",
+          "அவளுடைய அழகை நி‌னைத்து அமைதியாக இருந்து நோக்கினாலும், நீர் யாரை நினைத்து ஒப்புமையாக எல்லாம் பார்க்கின்றீர்? என்று சினம் கொள்வாள்."
+        ],
+        "quiz_options_en": [
+          "Bracelets slip off the arms that have Lost old beauty for He took leave",
+          "Quick, my bracelets read before The mind of my lord of cool shore",
+          "Let people call me all pallid But my lover let them not deride",
+          "I think and gaze at her; she chides: \\\"On whom your thought just now abides?\\\""
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பசப்புறு பருவரல்) பகுதியில் குறள் 1190 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிரிவுக்கு உடன்படச் செய்த காதலர் பிரிந்து வருத்துதலைப் பிறர் தூற்றாமல் இருப்பாரானால், யான் பசலை உற்றதாக பெயர் எடுத்தல் நல்லதே. பரிமேலழகர் உரை நுட்பம்: (தலைமகள் ஆற்றுதற்பொருட்டுத் தோழி தலைமகனை இயற்பழித்தவழி அவள் இயற்பட மொழிந்தது.) நயப்பித்தார் நல்காமை தூற்றார் எனின் - அன்று தாம் குறை நயப்பித்துக் கூடியவர்க்கு இன்று நல்காமையை நட்டோர் தூற்றாராயின்; பசப்பு எனப் பேர் பெறுதல் நன்றே - பசப்புற்றாள் என...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 119: 'The Pallid Hue'), Kural 1190 distills a foundational ethical insight: \"'Tis well, though men deride me for my sickly hue of pain; If they from calling him unkind, who won my love, refrain\" Philosophically, It would be good to be said of me that I have turned sallow, if friends do not reproach with unkindness him who pleased me (then).",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "family",
+        "speech",
+        "education"
+      ]
+    }
+  ]
+}

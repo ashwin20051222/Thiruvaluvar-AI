@@ -1,0 +1,582 @@
+{
+  "adhikaram_id": 121,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.571456712+00:00",
+  "kurals": [
+    {
+      "kural_number": 1201,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நினைத்தாலும் தீராத பெரிய மகிழ்ச்சியைச் செய்தலால் ( உண்டபோது மட்டும் மகிழ்ச்சி தரும் ) கள்ளை விட காமம் இன்பமானதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Sexuality is sweeter than liquor, because when remembered, it creates a most rapturous delight.",
+        "story_title_ta": "நினைந்தவர் புலம்பல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Sad Memories — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நினைந்தவர் புலம்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1201 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1201 from 'Sad Memories', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: உண்டபோது மட்டும் மகிழ்ச்சி தரும் கள்ளைவிட நினைத்தாலே நெஞ்சினிக்கச் செய்யும் காதல் இன்பமானதாகும்.",
+        "moral_en": "Moral: From thought of her unfailing gladness springs, Sweeter than palm-rice wine the joy love brings.",
+        "game_blank_word_ta": "கள்ளினும்",
+        "game_options_ta": [
+          "எனைத்தொனறு",
+          "கள்ளினும்",
+          "இனிதேகாண்",
+          "காமம்தாம்"
+        ],
+        "game_options_en": [
+          "Pains are off at the lover's thought In all aspects this love is sweet",
+          "Love is sweeter than wine; for vast Is its delight at very thought",
+          "To sneeze I tried hence but could not Me he tried to think but did not",
+          "Have I a place within his heart? Ah from mine he will never depart"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நினைந்தவர் புலம்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1201, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முன்பு என் மனைவியுடன் கூடி அனுபவித்த இன்பத்தைப் பிரிந்திருக்கும் போது நினைத்தாலும் அது நீங்காத பெரு மகிழ்ச்சியைத் தருவதால் குடித்தால் மட்டுமே மகிழ்ச்சி தரும் கள்ளைக் காட்டிலும் காதல் இன்பமானது. கலைஞர் உரை கூறுவது: உண்டபோது மட்டும் மகிழ்ச்சி தரும் கள்ளைவிட நினைத்தாலே நெஞ்சினிக்கச் செய்யும் காதல் இன்பமானதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Sad Memories (Post-marital Love), Kural 1201 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Sexuality is sweeter than liquor, because when remembered, it creates a most rapturous delight. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நினைந்தவர் புலம்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Sad Memories'.",
+        "quiz_question_ta": "'நினைந்தவர் புலம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1201 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1201 from Chapter 'Sad Memories'?",
+        "quiz_options_ta": [
+          "நெஞ்சே! யாம் விரும்பி நாடினாலும் எம்மை நாடாத அவர் நம்மை வெறுத்து விட்டார் என்று எண்ணிக் கைவிட முடியும‌ோ?",
+          "நினைத்தாலும் தீராத பெரிய மகிழ்ச்சியைச் செய்தலால் ( உண்டபோது மட்டும் மகிழ்ச்சி தரும் ) கள்ளை விட காமம் இன்பமானதாகும்.",
+          "கள்வ! இழிவு வரத்தக்க துன்பங்களைச் செய்தாலும் கள்ளுண்டு களித்தவர்க்கு மேன்‌மேலும் விருப்பம் தரும் கள்ளைப் போன்றது உன் மார்பு.",
+          "எழுத்துக்கள் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கின்றன. அதுபோல உலகம் கடவுளை அடிப்படையாக கொண்டிருக்கிறது."
+        ],
+        "quiz_options_en": [
+          "He spurns our love and yet, O mind, Can we desert him as unkind?",
+          "Love is sweeter than wine; for vast Is its delight at very thought",
+          "Like wine to addicts that does disgrace Your breast, O thief, is for my embrace!",
+          "'A' leads letters; the Ancient Lord Leads and lords the entire world"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நினைந்தவர் புலம்பல்) பகுதியில் குறள் 1201 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நினைத்தாலும் தீராத பெரிய மகிழ்ச்சியைச் செய்தலால் ( உண்டபோது மட்டும் மகிழ்ச்சி தரும் ) கள்ளை விட காமம் இன்பமானதாகும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது , முன் கூடிய ஞான்றே இன்பத்தினை நினைந்து தலைமகள் தனிமை எய்தலும், பாசறைக்கண் தலைமகன் தனிமை எய்தலுமாம் . இவ்வாறு இருவர்க்கும் பொதுவாதல் பற்றிப் பன்மைப்பாலாற் கூறப்பட்டது. இது படர் மிகுதி தன்கண்ணதாக நினைந்த தலைமகட்கும் உரித்தாகலின் அவ்வியைபுபற்றித...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 121: 'Sad Memories'), Kural 1201 distills a foundational ethical insight: \"From thought of her unfailing gladness springs, Sweeter than palm-rice wine the joy love brings\" Philosophically, Sexuality is sweeter than liquor, because when remembered, it creates a most rapturous delight.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "family",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1202,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தாம் விரும்புகின்ற காதலர் தம்மை நினைத்தலும் பிரிவால் வரக்கூடிய துன்பம் இல்லாமல் போகின்றது. அதனால் காமம் எவ்வளவாயினும் இன்பம் தருவதே ஆகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Even to think of one's beloved gives one no pain Sexuality, in any degree, is always delightful.",
+        "story_title_ta": "நினைந்தவர் புலம்பல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Sad Memories — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நினைந்தவர் புலம்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1202 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1202 from 'Sad Memories', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: விரும்பி இணைந்த காதலரை நினைத்தலால், பிரிவின் போது வரக்கூடிய துன்பம் வருவதில்லை எனவே எந்த வகையிலும் காதல் இனிதேயாகும்.",
+        "moral_en": "Moral: How great is love! Behold its sweetness past belief!Think on the lover, and the spirit knows no grief.",
+        "game_blank_word_ta": "காமம்தாம்",
+        "game_options_ta": [
+          "உள்ளினும்",
+          "தீராப்",
+          "காமம்தாம்",
+          "பெருமகிழ்"
+        ],
+        "game_options_en": [
+          "Love is sweeter than wine; for vast Is its delight at very thought",
+          "To sneeze I tried hence but could not Me he tried to think but did not",
+          "Pains are off at the lover's thought In all aspects this love is sweet",
+          "Have I a place within his heart? Ah from mine he will never depart"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நினைந்தவர் புலம்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1202, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாம் விரும்புபவரைப் பிரிவிலும் நினைத்தால் பிரிவுத் துன்பம் வராது. அதனால் என்ன ஆனாலும் சரி, காதல் இனியதுதான். கலைஞர் உரை கூறுவது: விரும்பி இணைந்த காதலரை நினைத்தலால், பிரிவின் போது வரக்கூடிய துன்பம் வருவதில்லை எனவே எந்த வகையிலும் காதல் இனிதேயாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Sad Memories (Post-marital Love), Kural 1202 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even to think of one's beloved gives one no pain Sexuality, in any degree, is always delightful. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நினைந்தவர் புலம்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Sad Memories'.",
+        "quiz_question_ta": "'நினைந்தவர் புலம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1202 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1202 from Chapter 'Sad Memories'?",
+        "quiz_options_ta": [
+          "என் நெஞ்சே! ஊடியபோது கூடி ஊடல் உணர்த்த வல்ல காதலரைக் கண்டபோது நீ பிணங்கி உணர மாட்டாய்; பொய்யான சினங்கொண்டு காய்கினறாய்.",
+          "காமம் மலரை விட மென்மை உடையதாகும்; அந்த உண்மை அறிந்து அதன் நல்ல பயனைப் பெறக்கூடியவர் சிலரே.",
+          "தாம் விரும்புகின்ற காதலர் தம்மை நினைத்தலும் பிரிவால் வரக்கூடிய துன்பம் இல்லாமல் போகின்றது. அதனால் காமம் எவ்வளவாயினும் இன்பம் தருவதே ஆகும்.",
+          "தூய அறிவு வடிவாக விளங்கும் இறைவனுடைய நல்ல திருவடிகளை தொழாமல் இருப்பாரானால், அவர் கற்ற கல்வியினால் ஆகிய பயன் என்ன?"
+        ],
+        "quiz_options_en": [
+          "Wrath is false, O heart, face-to face Sans huff, you rush to his sweet embrace",
+          "Flower-soft is love; a few alone Know its delicacy so fine",
+          "Pains are off at the lover's thought In all aspects this love is sweet",
+          "That lore is vain which does not fall At His good feet who knoweth all"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நினைந்தவர் புலம்பல்) பகுதியில் குறள் 1202 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தாம் விரும்புகின்ற காதலர் தம்மை நினைத்தலும் பிரிவால் வரக்கூடிய துன்பம் இல்லாமல் போகின்றது. அதனால் காமம் எவ்வளவாயினும் இன்பம் தருவதே ஆகும். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) தாம் வீழ்வார் நினைப்ப வருவது ஒன்று இல் - தம்மால் விரும்பப் படுவாரைப் பிரிவின்கண் நினைத்தால் அந்நினைவார்க்கு அப்பிரிவின் வருவதோர் துன்பம் இல்லையாம்; காமம் எனைத்து இனிது ஒன்றே காண் - அதனால் காமம் எத்துணையேனும் இனிதொன்றே காண். (புணர்ந்துழியும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 121: 'Sad Memories'), Kural 1202 distills a foundational ethical insight: \"How great is love! Behold its sweetness past belief!Think on the lover, and the spirit knows no grief\" Philosophically, Even to think of one's beloved gives one no pain Sexuality, in any degree, is always delightful.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "truth",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 1203,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தும்மல் வருவது போலிருந்து வாராமல் அடங்குகின்றதே! என் காதலர் என்னை நினைப்பவர் போலிருந்து நினையாமல் விடுகின்றாரோ?",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: I feel as if I am going to sneeze but do not, and (therefore) my beloved is about to think (of me) but does not.",
+        "story_title_ta": "நினைந்தவர் புலம்பல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Sad Memories — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நினைந்தவர் புலம்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1203 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1203 from 'Sad Memories', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: வருவது போலிருந்து வராமல் நின்று விடுகிறதே தும்மல்; அதுபோலவே என் காதலரும் என்னை நினைப்பது போலிருந்து, நினைக்காது விடுகின்றாரோ?",
+        "moral_en": "Moral: A fit of sneezing threatened, but it passed away; He seemed to think of me, but do his fancies stray.",
+        "game_blank_word_ta": "தும்மல்",
+        "game_options_ta": [
+          "உள்ளினும்",
+          "தீராப்",
+          "பெருமகிழ்",
+          "தும்மல்"
+        ],
+        "game_options_en": [
+          "Love is sweeter than wine; for vast Is its delight at very thought",
+          "Pains are off at the lover's thought In all aspects this love is sweet",
+          "Have I a place within his heart? Ah from mine he will never depart",
+          "To sneeze I tried hence but could not Me he tried to think but did not"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நினைந்தவர் புலம்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1203, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எனக்குத் தும்மல் வருவது போல் வந்து அடங்கி விடுகிறது. அவர் என்னை நினைக்கத் தொடங்கி, நினைக்காமல் விடுவாரோ? கலைஞர் உரை கூறுவது: வருவது போலிருந்து வராமல் நின்று விடுகிறதே தும்மல்; அதுபோலவே என் காதலரும் என்னை நினைப்பது போலிருந்து, நினைக்காது விடுகின்றாரோ? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Sad Memories (Post-marital Love), Kural 1203 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I feel as if I am going to sneeze but do not, and (therefore) my beloved is about to think (of me) but does not. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நினைந்தவர் புலம்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Sad Memories'.",
+        "quiz_question_ta": "'நினைந்தவர் புலம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1203 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1203 from Chapter 'Sad Memories'?",
+        "quiz_options_ta": [
+          "நல்ல நெஞ்சே! ஒன்று காமத்தை விட்டு விடு; அல்லது நாணத்தை விட்டு விடு; இந்த இரண்டையும் பொறுத்துக் கொண்டிருக்க என்னால் முடியாது.",
+          "கண் பார்வையின் அளவில் பிணங்கி, என்னை விடத் தான் விரைந்து தழுவுதலை விரும்பி, ( பிணங்கிய நிலையையும் மறந்து) கலந்து விட்டாள்.",
+          "அன்பரின் அகமாகிய மலரில் வீற்றிருக்கும் கடவுளின் சிறந்த திருவடிகளை பொருந்தி நினைக்கின்றவர், இன்ப உலகில் நிலைத்து வாழ்வார்",
+          "தும்மல் வருவது போலிருந்து வாராமல் அடங்குகின்றதே! என் காதலர் என்னை நினைப்பவர் போலிருந்து நினையாமல் விடுகின்றாரோ?"
+        ],
+        "quiz_options_en": [
+          "Off with love O mind, or shame I cannot endure both of them",
+          "She feigned dislike awhile but flew Faster for embrace than I do",
+          "Long they live on earth who gain The feet of God in florid brain",
+          "To sneeze I tried hence but could not Me he tried to think but did not"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நினைந்தவர் புலம்பல்) பகுதியில் குறள் 1203 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தும்மல் வருவது போலிருந்து வாராமல் அடங்குகின்றதே! என் காதலர் என்னை நினைப்பவர் போலிருந்து நினையாமல் விடுகின்றாரோ? பரிமேலழகர் உரை நுட்பம்: (தலைமகனை நினைந்து வருந்துகின்ற தலைமகள் தோழிக்குச் சொல்லியது.) தும்மல் சினைப்பது போன்று கெடும் - எனக்குத் தும்மல் எழுவது போன்று தோன்றிக் கெடாநின்றது; நினைப்பவர் போன்று நினையார்கொல் - அதனால் காதலர் என்னை நினைப்பார் போன்று நினையாராகல் வேண்டும். (சினைத்தல...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 121: 'Sad Memories'), Kural 1203 distills a foundational ethical insight: \"A fit of sneezing threatened, but it passed away; He seemed to think of me, but do his fancies stray\" Philosophically, I feel as if I am going to sneeze but do not, and (therefore) my beloved is about to think (of me) but does not.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1204,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: எம்முடைய நெஞ்சில் காதலராகிய அவர் இருக்கின்றாரே! ( அது போலவே) யாமும் அவருடைய நெஞ்சத்தில் நீங்காமல் இருக்கின்றோ‌மோ?",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: He continues to abide in my soul, do I likewise abide in his ?",
+        "story_title_ta": "நினைந்தவர் புலம்பல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Sad Memories — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நினைந்தவர் புலம்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1204 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1204 from 'Sad Memories', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என் நெஞ்சைவிட்டு நீங்காமல் என் காதலர் இருப்பது போல, அவர் நெஞ்சை விட்டு நீங்காமல் நான் இருக்கின்றேனா?",
+        "moral_en": "Moral: Have I a place within his heart!From mine, alas! he never doth depart.",
+        "game_blank_word_ta": "உளரே",
+        "game_options_ta": [
+          "உளரே",
+          "உள்ளினும்",
+          "தீராப்",
+          "பெருமகிழ்"
+        ],
+        "game_options_en": [
+          "Have I a place within his heart? Ah from mine he will never depart",
+          "Love is sweeter than wine; for vast Is its delight at very thought",
+          "Pains are off at the lover's thought In all aspects this love is sweet",
+          "To sneeze I tried hence but could not Me he tried to think but did not"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நினைந்தவர் புலம்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1204, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் நெஞ்சத்தில் அவர் எப்போதும் இருக்கிறார். அவர் நெஞ்சத்தில் நானும் இருப்பேனா? கலைஞர் உரை கூறுவது: என் நெஞ்சைவிட்டு நீங்காமல் என் காதலர் இருப்பது போல, அவர் நெஞ்சை விட்டு நீங்காமல் நான் இருக்கின்றேனா? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Sad Memories (Post-marital Love), Kural 1204 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He continues to abide in my soul, do I likewise abide in his ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நினைந்தவர் புலம்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Sad Memories'.",
+        "quiz_question_ta": "'நினைந்தவர் புலம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1204 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1204 from Chapter 'Sad Memories'?",
+        "quiz_options_ta": [
+          "எம்முடைய நெஞ்சில் காதலராகிய அவர் இருக்கின்றாரே! ( அது போலவே) யாமும் அவருடைய நெஞ்சத்தில் நீங்காமல் இருக்கின்றோ‌மோ?",
+          "என் நெஞ்சே! பிரிவுத் துன்பத்தால் வருந்தி அவர் வந்து அன்பு செய்ய வில்லையே என்று ஏங்கி பிரிந்தவரின் பின் செல்கின்றாய் பேதை.",
+          "நெஞ்சே! அவருடைய நெஞ்சம் ( நம்மை நினையாமல் நம்மிடம் வராமல்) அவர்க்குத் துணையாதலைக் கண்டும் நீ எமக்குத் துணையாகாதது ஏன்?",
+          "விருப்பு வெறுப்பு இல்லாத கடவுளின் திருவடிகளை பொருந்தி நினைக்கின்றவர்க்கு எப்போதும் எவ்விடத்திலும் துன்பம் இல்லை"
+        ],
+        "quiz_options_en": [
+          "Have I a place within his heart? Ah from mine he will never depart",
+          "Without pity he would depart! You sigh and seek his favour, poor heart!",
+          "You see, his heart is his alone; Why not my heart be all my own?",
+          "Who hold His feet who likes nor loathes Are free from woes of human births"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நினைந்தவர் புலம்பல்) பகுதியில் குறள் 1204 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எம்முடைய நெஞ்சில் காதலராகிய அவர் இருக்கின்றாரே! ( அது போலவே) யாமும் அவருடைய நெஞ்சத்தில் நீங்காமல் இருக்கின்றோ‌மோ? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) எம் நெஞ்சத்து அவர் ஓ உளரே - எம்முடைய நெஞ்சத்து அவர் எப்பொழும் உளரேயாய் இராநின்றார்; அவர் நெஞ்சத்து யாமும் உளேங்கொல் - அவ்வகையே அவருடைய நெஞ்சத்தும் யாமும் உளமாதுமோ, ஆகேமோ? (ஓகார இடைச்சொல் ஈண்டு இடைவிடாமை உணர்த்தி நின்றது. 'உளமாயும், வினை...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 121: 'Sad Memories'), Kural 1204 distills a foundational ethical insight: \"Have I a place within his heart!From mine, alas! he never doth depart\" Philosophically, He continues to abide in my soul, do I likewise abide in his ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 1205,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தம்முடைய நெஞ்சில் எம்மை வரவிடாது காவல் கொண்ட காதலர், எம்முடைய நெஞ்சில் தாம் ஓயாமல் வரவதைப் பற்றி நாணமாட்டாரோ?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: He who has imprisoned me in his soul, is he ashamed to enter incessantly into mine.",
+        "story_title_ta": "நினைந்தவர் புலம்பல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Sad Memories — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நினைந்தவர் புலம்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1205 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1205 from 'Sad Memories', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: அவருடைய நெஞ்சில் எமக்கு இடம் தராமல் இருப்பவர்; எம் நெஞ்சில் மட்டும் இடைவிடாமல் வந்து புகுந்து கொள்வதற்காக வெட்கப்படமாட்டார் போலும்.",
+        "moral_en": "Moral: Me from his heart he jealously excludes:Hath he no shame who ceaseless on my heart intrudes.",
+        "game_blank_word_ta": "வரல்",
+        "game_options_ta": [
+          "உள்ளினும்",
+          "வரல்",
+          "தீராப்",
+          "பெருமகிழ்"
+        ],
+        "game_options_en": [
+          "Love is sweeter than wine; for vast Is its delight at very thought",
+          "Shame! My heart often he enters Banning me entry into his",
+          "Pains are off at the lover's thought In all aspects this love is sweet",
+          "To sneeze I tried hence but could not Me he tried to think but did not"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நினைந்தவர் புலம்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1205, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம் நெஞ்சத்தில் என்னை விலக்கிவிட்ட அவர், என் நெஞ்சத்தில் மட்டும் ஓயாமல் வருவதற்கு வெட்கப் படமாட்டாரோ? கலைஞர் உரை கூறுவது: அவருடைய நெஞ்சில் எமக்கு இடம் தராமல் இருப்பவர்; எம் நெஞ்சில் மட்டும் இடைவிடாமல் வந்து புகுந்து கொள்வதற்காக வெட்கப்படமாட்டார் போலும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Sad Memories (Post-marital Love), Kural 1205 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who has imprisoned me in his soul, is he ashamed to enter incessantly into mine. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நினைந்தவர் புலம்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Sad Memories'.",
+        "quiz_question_ta": "'நினைந்தவர் புலம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1205 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1205 from Chapter 'Sad Memories'?",
+        "quiz_options_ta": [
+          "என் நெஞ்சே! காதலர் உன் உள்ளத்தில் உள்ளவராக இருக்கும்போது நீ அவரை நினைத்து யாரிடம் தேடிச் செல்கின்றாய்?",
+          "தம்முடைய நெஞ்சில் எம்மை வரவிடாது காவல் கொண்ட காதலர், எம்முடைய நெஞ்சில் தாம் ஓயாமல் வரவதைப் பற்றி நாணமாட்டாரோ?",
+          "என் நெஞசே! நம்மேல் அன்பு கொள்ளாத காதலரைக் கண்டபோதும், அவர் வெறுக்கமாட்டார் என்று எண்ணி அவரிடம் செல்கின்றாயே!",
+          "கடவுளின் உண்மைப் புகழை விரும்பி அன்பு செலுத்துகின்றவரிடம் அறியாமையால் விளையும் இருவகை வினையும் சேர்வதில்லை"
+        ],
+        "quiz_options_en": [
+          "The lover lives in Self you know; Whom you think, mind to whom you go?",
+          "Shame! My heart often he enters Banning me entry into his",
+          "O heart, you see how he slights me Yet you clasp him as if friendly",
+          "God's praise who tell, are free from right And wrong, the twins of dreaming night"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நினைந்தவர் புலம்பல்) பகுதியில் குறள் 1205 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம்முடைய நெஞ்சில் எம்மை வரவிடாது காவல் கொண்ட காதலர், எம்முடைய நெஞ்சில் தாம் ஓயாமல் வரவதைப் பற்றி நாணமாட்டாரோ? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) தம் நெஞ்சத்து எம்மைக் கடிகொண்டார் - தம்முடைய நெஞ்சின்கண்ணே யாம் செல்லாமல் எம்மைக் காவல் கொண்ட காதலர்; எம் நெஞ்சத்து ஓவா வரல் நாணார்கொல் - தாம் எம்முடைய நெஞ்சின்கண் ஒழியாது வருதலை நாணார்கொல்லோ? (ஒருவரைத் தம்கண் வருதற்கு ஒருகாலும் உடம்படாது, தாம...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 121: 'Sad Memories'), Kural 1205 distills a foundational ethical insight: \"Me from his heart he jealously excludes:Hath he no shame who ceaseless on my heart intrudes\" Philosophically, He who has imprisoned me in his soul, is he ashamed to enter incessantly into mine.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "love",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1206,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: காதலராகிய அவரோடு யான் பொருந்தியிருந்த நாட்களை நினைத்துக் கொள்வதால்தான் உயிரோடு இருக்கின்றேன்; வேறு எதனால் உயிர் வாழ்கின்றேன்?",
+        "simple_meaning_en": "Dear child, remember this golden lesson: I live by remembering my (former) intercourse with him; if it were not so, how could I live ?",
+        "story_title_ta": "நினைந்தவர் புலம்பல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Sad Memories — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நினைந்தவர் புலம்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1206 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1206 from 'Sad Memories', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நான் அவரோடு சேர்ந்திருந்த நாட்களை நினைத்துத் தான் உயிரோடு இருக்கிறேன்; வேறு எதை நினைத்து நான் உயிர்வாழ முடியும்?",
+        "moral_en": "Moral: How live I yet? I live to ponder o'erThe days of bliss with him that are no more.",
+        "game_blank_word_ta": "மன்னோ",
+        "game_options_ta": [
+          "உள்ளினும்",
+          "தீராப்",
+          "மன்னோ",
+          "பெருமகிழ்"
+        ],
+        "game_options_en": [
+          "Love is sweeter than wine; for vast Is its delight at very thought",
+          "Pains are off at the lover's thought In all aspects this love is sweet",
+          "Beyond the thought of life with him What else of life can I presume?",
+          "To sneeze I tried hence but could not Me he tried to think but did not"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நினைந்தவர் புலம்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1206, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவரோடு கூடி வாழ்ந்த நாள்களின் நினைவுகளை நினைப்பதால்தான் நான் இன்னும் உயிர் வாழ்கிறேன். இல்லை என்றால், வேறு எதனால் வாழ்வேன்? கலைஞர் உரை கூறுவது: நான் அவரோடு சேர்ந்திருந்த நாட்களை நினைத்துத் தான் உயிரோடு இருக்கிறேன்; வேறு எதை நினைத்து நான் உயிர்வாழ முடியும்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Sad Memories (Post-marital Love), Kural 1206 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I live by remembering my (former) intercourse with him; if it were not so, how could I live ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நினைந்தவர் புலம்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Sad Memories'.",
+        "quiz_question_ta": "'நினைந்தவர் புலம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1206 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1206 from Chapter 'Sad Memories'?",
+        "quiz_options_ta": [
+          "நம்மோடு பொருந்தி இருக்காமல் கைவிட்டுச சென்ற காதலரை நெஞ்சில் வைத்திருக்கும்போது இன்னும் மெலிந்து அழகை இழந்து வருகின்றோம்.",
+          "நெஞ்சே! நீ உன் விருப்பத்தின்படியே அவர் பின் செல்வதற்குக் காரணம், துன்பத்தால் அழிந்தவர்‌க்கு நண்பர் இல்லை என்னும் எண்ண‌மோ?",
+          "காதலராகிய அவரோடு யான் பொருந்தியிருந்த நாட்களை நினைத்துக் கொள்வதால்தான் உயிரோடு இருக்கின்றேன்; வேறு எதனால் உயிர் வாழ்கின்றேன்?",
+          "ஐம்பொறி வாயிலாக பிறக்கும் வேட்கைகளை அவித்த இறைவனுடைய பொய்யற்ற ஒழுக்க நெறியில் நின்றவர், நிலை பெற்ற நல்வாழ்க்கை வாழ்வர்"
+        ],
+        "quiz_options_en": [
+          "Without a thought he deserted us To think of him will make us worse",
+          "You follow him at will Is it \\\"The fallen have no friends\\\" my heart?",
+          "Beyond the thought of life with him What else of life can I presume?",
+          "They prosper long who walk His way Who has the senses signed away"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நினைந்தவர் புலம்பல்) பகுதியில் குறள் 1206 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காதலராகிய அவரோடு யான் பொருந்தியிருந்த நாட்களை நினைத்துக் கொள்வதால்தான் உயிரோடு இருக்கின்றேன்; வேறு எதனால் உயிர் வாழ்கின்றேன்? பரிமேலழகர் உரை நுட்பம்: (அவரோடு புணர்ந்த ஞான்றை இன்பத்தை நினைந்து இறந்துபாடெய்தா நின்றாய்; அது மறத்தல் வேண்டும் என்றாட்குச் சொல்லியது.) யான் அவரொடு உற்ற நாள் உள்ள உளேன் - யான் அவரோடு புணர்நத ஞான்றை இன்பத்தை நினைதலான் இத் துன்ப வெள்ளத்தும் உயிர் வாழ்கின்றேன்; மற்று யான் என்னுளேன...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 121: 'Sad Memories'), Kural 1206 distills a foundational ethical insight: \"How live I yet? I live to ponder o'erThe days of bliss with him that are no more\" Philosophically, I live by remembering my (former) intercourse with him; if it were not so, how could I live ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1207,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ( காதலரை ) மறந்தறியாமல் நினைத்தாலும் உள்ளத்தைப் பிரிவுத் துன்பம் சுடுகின்றதே! நினைக்காமல் மறந்து விட்டால் என்ன ஆவேனோ?",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: I have never forgotten (the pleasure); even to think of it burns my soul; could I live, if I should ever forget it ?",
+        "story_title_ta": "நினைந்தவர் புலம்பல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Sad Memories — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நினைந்தவர் புலம்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1207 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1207 from 'Sad Memories', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: மறதி என்பதே இல்லாமல் நினைத்துக் கொண்டிருக்கும் பொழுதே பிரிவுத்துன்பம் சுட்டுப் பொசுக்குகிறதே! பினைக்காமல் மறந்துவிட்டால் என்ன ஆகுமோ?",
+        "moral_en": "Moral: If I remembered not what were I then? And yet, The fiery smart of what my spirit knows not to forget.",
+        "game_blank_word_ta": "மறப்பறியேன்",
+        "game_options_ta": [
+          "உள்ளினும்",
+          "தீராப்",
+          "பெருமகிழ்",
+          "மறப்பறியேன்"
+        ],
+        "game_options_en": [
+          "Love is sweeter than wine; for vast Is its delight at very thought",
+          "Pains are off at the lover's thought In all aspects this love is sweet",
+          "To sneeze I tried hence but could not Me he tried to think but did not",
+          "What will happen if I forget When his memory burns my heart?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நினைந்தவர் புலம்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1207, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அந்த நாள்களின் நினைவுகளை மறவாமல் நினைத்தாலும் என் நெஞ்சு சுடும்; அப்படி இருக்க மறந்தால் வாழ்வது எப்படி? கலைஞர் உரை கூறுவது: மறதி என்பதே இல்லாமல் நினைத்துக் கொண்டிருக்கும் பொழுதே பிரிவுத்துன்பம் சுட்டுப் பொசுக்குகிறதே! பினைக்காமல் மறந்துவிட்டால் என்ன ஆகுமோ? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Sad Memories (Post-marital Love), Kural 1207 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I have never forgotten (the pleasure); even to think of it burns my soul; could I live, if I should ever forget it ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நினைந்தவர் புலம்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Sad Memories'.",
+        "quiz_question_ta": "'நினைந்தவர் புலம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1207 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1207 from Chapter 'Sad Memories'?",
+        "quiz_options_ta": [
+          "நாணம் என்னும் தாழ்ப்பாள் பொருந்திய நிறை என்று சொல்லப்படும் கதவை காமம் ஆகிய கோடாலி உடைத்து விடுகிறதே.",
+          "நெஞ்‌சே! நீ ஊடலைச் செய்து அதன் பயனை நுகர மாட்டாய்; இனிமேல் அத்தகையவற்றைப் பற்றி உன்னோடு கலந்து எண்ணப் போகின்றவர் யார்?",
+          "தனக்கு ஒப்புமை இல்லாத தலைவனுடைய திருவடிகளைப் பொருந்தி நினைக்கின்றவர் அல்லாமல், மற்றவர்க்கு மனக்கவலையை மாற்ற முடியாது",
+          "( காதலரை ) மறந்தறியாமல் நினைத்தாலும் உள்ளத்தைப் பிரிவுத் துன்பம் சுடுகின்றதே! நினைக்காமல் மறந்து விட்டால் என்ன ஆவேனோ?"
+        ],
+        "quiz_options_en": [
+          "Passion's axe shall break the door Of reserve bolted with my honour",
+          "You won't sulk first and then submit Who will then consult you, my heart?",
+          "His feet, whose likeness none can find, Alone can ease the anxious mind",
+          "What will happen if I forget When his memory burns my heart?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நினைந்தவர் புலம்பல்) பகுதியில் குறள் 1207 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ( காதலரை ) மறந்தறியாமல் நினைத்தாலும் உள்ளத்தைப் பிரிவுத் துன்பம் சுடுகின்றதே! நினைக்காமல் மறந்து விட்டால் என்ன ஆவேனோ? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) மறப்பு அறியேன் உள்ளினும் உள்ளம் சுடும் - அவ்வின்பத்தை மறத்தலறியேனாய் இன்று உள்ளாநிற்கவும் பிரிவு என் உள்ளத்தைச் சுடாநின்றது; மறப்பின் எவனாவன் - அங்ஙனம் பிரிவாற்றாத யான் மறந்தால் இறந்து படாது உளேனாவது எத்தால்? (மறக்கப்படுவது அதிகாரத்தான் வந்தது...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 121: 'Sad Memories'), Kural 1207 distills a foundational ethical insight: \"If I remembered not what were I then? And yet, The fiery smart of what my spirit knows not to forget\" Philosophically, I have never forgotten (the pleasure); even to think of it burns my soul; could I live, if I should ever forget it ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "gratitude",
+        "speech",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1208,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: காதலரை எவ்வளவு மிகுதியாக நினைத்தாலும் அவர் என்மேல் சினங்கொள்ளார்; காதலர் செய்யும் சிறந்த உதவி அத்தன்மையானது அன்றோ!",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: He will not be angry however much I may think of him; is it not so much the delight my beloved.",
+        "story_title_ta": "நினைந்தவர் புலம்பல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Sad Memories — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நினைந்தவர் புலம்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1208 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1208 from 'Sad Memories', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: எவ்வளவு அதிகமாக நினைத்தாலும், அதற்காகக் காதலர் என் மீது சினம் கொள்ளமாட்டார். அவர் எனக்குச் செய்யும் பெரும் உதவி அதுவல்லவா?",
+        "moral_en": "Moral: My frequent thought no wrath excites It is not so?This honour doth my love on me bestow.",
+        "game_blank_word_ta": "காதலர்",
+        "game_options_ta": [
+          "காதலர்",
+          "உள்ளினும்",
+          "தீராப்",
+          "பெருமகிழ்"
+        ],
+        "game_options_en": [
+          "I bring him to ceaseless memory He chides not; and thus honours me",
+          "Love is sweeter than wine; for vast Is its delight at very thought",
+          "Pains are off at the lover's thought In all aspects this love is sweet",
+          "To sneeze I tried hence but could not Me he tried to think but did not"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நினைந்தவர் புலம்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1208, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவரை நான் எப்படி எண்ணினாலும் கோபப்படமாட்டார்; அன்புள்ள அவர் எனக்குத் தரும் இன்பம் அத்தகையது அன்றோ! கலைஞர் உரை கூறுவது: எவ்வளவு அதிகமாக நினைத்தாலும், அதற்காகக் காதலர் என் மீது சினம் கொள்ளமாட்டார். அவர் எனக்குச் செய்யும் பெரும் உதவி அதுவல்லவா? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Sad Memories (Post-marital Love), Kural 1208 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He will not be angry however much I may think of him; is it not so much the delight my beloved. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நினைந்தவர் புலம்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Sad Memories'.",
+        "quiz_question_ta": "'நினைந்தவர் புலம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1208 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1208 from Chapter 'Sad Memories'?",
+        "quiz_options_ta": [
+          "காதலரை எவ்வளவு மிகுதியாக நினைத்தாலும் அவர் என்மேல் சினங்கொள்ளார்; காதலர் செய்யும் சிறந்த உதவி அத்தன்மையானது அன்றோ!",
+          "காமம் என்று சொல்லப்படுகின்ற ஒன்று கண்ணோட்டம் இல்லாதது. அது என் நெஞ்சத்தை நள்ளிரவில் ஏவல் கொண்டு ஆள்கிறது.",
+          "( காதலரைப் பெறாதபோது) பெறாமைக்கு அஞ்சும்; பெற்றால் பிரிவை நினைத்து அஞ்சும்; ( இவ்வாறாக) என் நெஞ்சம் தீராத துன்பம் உடையதாகின்றது.",
+          "அறக்கடலாக விளங்கும் கடவுளின் திருவடிகளைப் பொருந்தி நினைக்கின்றவர் அல்லாமல், மற்றவர் பொருளும் இன்பமுமாகிய மற்ற கடல்களைக் கடக்க முடியாது"
+        ],
+        "quiz_options_en": [
+          "I bring him to ceaseless memory He chides not; and thus honours me",
+          "The thing called lust is a heartless power It sways my mind at midnight hour",
+          "Frets to gain and fears loss in gain O my heart suffers ceaseless pain",
+          "Who swims the sea of vice is he Who clasps the feet of Virtue's sea"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நினைந்தவர் புலம்பல்) பகுதியில் குறள் 1208 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காதலரை எவ்வளவு மிகுதியாக நினைத்தாலும் அவர் என்மேல் சினங்கொள்ளார்; காதலர் செய்யும் சிறந்த உதவி அத்தன்மையானது அன்றோ! பரிமேலழகர் உரை நுட்பம்: (இத்துன்பம் அறிந்து வந்து காதலர் நினக்கு இன்பம் செய்வர் என்றாட்குச் சொல்லியது.) எனைத்து நினைப்பினும் காயார் - தம்மை யான் எத்துணையும் மிக நினைந்தாலும் அதற்கு வெகுளார்; காதலர் செய்யும் சிறப்பு அனைத்து அன்றோ-காதலர் எனக்குச் செய்யும் இன்பமாவது அவ்வளவன்றோ...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 121: 'Sad Memories'), Kural 1208 distills a foundational ethical insight: \"My frequent thought no wrath excites It is not so?This honour doth my love on me bestow\" Philosophically, He will not be angry however much I may think of him; is it not so much the delight my beloved.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "education",
+        "speech",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 1209,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நாம் இருவரும் வேறு அல்லேம் என்று அடிக்கடி சொல்லும் அவர் இப்போது அன்பு இல்லாதிருத்தலை மிக நினைத்து என் இனிய உயிர் அழிகின்றது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: My precious life is wasting away by thinking too much on the cruelty of him who said we were not different.",
+        "story_title_ta": "நினைந்தவர் புலம்பல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Sad Memories — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நினைந்தவர் புலம்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1209 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1209 from 'Sad Memories', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ``நாம் ஒருவரே; வேறு வேறு அல்லர்'' எனக்கூறிய காதலர் இரக்கமில்லாதவராக என்னைப் பிரிந்து சென்றுள்ளதை நினைத்து வருந்துவதால் என்னுயிர் கொஞ்சம் கொஞ்சமாகப் போய்க் கொண்டிருக்கிறது.",
+        "moral_en": "Moral: Dear life departs, when his ungracious deeds I ponder o'er, Who said erewhile, 'We're one for evermore'.",
+        "game_blank_word_ta": "ஆற்ற",
+        "game_options_ta": [
+          "உள்ளினும்",
+          "ஆற்ற",
+          "தீராப்",
+          "பெருமகிழ்"
+        ],
+        "game_options_en": [
+          "Love is sweeter than wine; for vast Is its delight at very thought",
+          "Dear life ebbs away by thought Of him who said we are one heart",
+          "Pains are off at the lover's thought In all aspects this love is sweet",
+          "To sneeze I tried hence but could not Me he tried to think but did not"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நினைந்தவர் புலம்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1209, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நம் உயிர் வேறு அல்ல; ஒன்றே என்று முன்பு சொன்ன அவரின் இப்போதைய கருணையற்ற தன்மையை அதிகம் எண்ணி, என் உயிர் போய்க்கொண்டே இருக்கிறது. கலைஞர் உரை கூறுவது: ``நாம் ஒருவரே; வேறு வேறு அல்லர்'' எனக்கூறிய காதலர் இரக்கமில்லாதவராக என்னைப் பிரிந்து சென்றுள்ளதை நினைத்து வருந்துவதால் என்னுயிர் கொஞ்சம் கொஞ்சமாகப் போய்க் கொண்டிருக்கிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Sad Memories (Post-marital Love), Kural 1209 speaks directly to teens navigating studies, friendships, leadership, and digital choices: My precious life is wasting away by thinking too much on the cruelty of him who said we were not different. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நினைந்தவர் புலம்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Sad Memories'.",
+        "quiz_question_ta": "'நினைந்தவர் புலம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1209 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1209 from Chapter 'Sad Memories'?",
+        "quiz_options_ta": [
+          "யான் காமத்தை என்னுள்‌ளே மறைக்க முயல்வேன்; ஆனால் அதுவே என் குறிப்பின்படி நிற்காமல் தும்மல் போல் தானே வெளிப்பட்டு விடுகிறது.",
+          "நாம் இருவரும் வேறு அல்லேம் என்று அடிக்கடி சொல்லும் அவர் இப்போது அன்பு இல்லாதிருத்தலை மிக நினைத்து என் இனிய உயிர் அழிகின்றது.",
+          "காதலரைப் பிரிந்து தனியே இருந்து அவருடைய தவறுகளை நினைத்தபோது என் நெஞ்சம் என்னைத் தின்பது போல் துன்பம் செய்வதாக இருந்தது.",
+          "கேட்காதசெவி, பார்க்காத கண் போன்ற எண் குணங்களை உடைய கடவுளின் திருவடிகளை வணங்காதவரின் தலைகள் பயனற்றவைகளாம்"
+        ],
+        "quiz_options_en": [
+          "How to hide this lust which shows Itself while I sneeze unawares!",
+          "Dear life ebbs away by thought Of him who said we are one heart",
+          "My itching mind eats me anon As I muse on him all alone",
+          "Like senses stale that head is vain Which bows not to Eight-Virtued Divine"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நினைந்தவர் புலம்பல்) பகுதியில் குறள் 1209 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நாம் இருவரும் வேறு அல்லேம் என்று அடிக்கடி சொல்லும் அவர் இப்போது அன்பு இல்லாதிருத்தலை மிக நினைத்து என் இனிய உயிர் அழிகின்றது. பரிமேலழகர் உரை நுட்பம்: (தலைமகன் தூது வரக் காணாது வருந்துகின்றாள், வற்புறுத்தும் தோழிக்குச் சொல்லியது) வேறு அல்லம் என்பார் அளியின்மை ஆற்ற நினைந்து - முன்பெல்லாம் நாம் இருவரும் வேறல்லம் என்று சொல்லுவாரது அளியின்மையை மிகவும் நினைந்து: என் இன்னுயிர் விளியும்-எனது இனிய உயிர...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 121: 'Sad Memories'), Kural 1209 distills a foundational ethical insight: \"Dear life departs, when his ungracious deeds I ponder o'er, Who said erewhile, 'We're one for evermore'\" Philosophically, My precious life is wasting away by thinking too much on the cruelty of him who said we were not different.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "kindness",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1210,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தி்ங்களே! பிரியாமல் இருந்து இறுதியில் பிரிந்து சென்ற காதலரை என் கண்ணால் தேடிக் காணும்படியாக நீ மறைந்து விடாமல் இருப்பாயாக!",
+        "simple_meaning_en": "Dear child, remember this golden lesson: May you live, O Moon! Do not set, that I mine see him who has departed without quitting my soul.",
+        "story_title_ta": "நினைந்தவர் புலம்பல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Sad Memories — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'நினைந்தவர் புலம்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1210 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1210 from 'Sad Memories', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நிலவே! நீ வாழ்க; இணைபிரியாமலிருந்து, பிரிந்து சென்றுள்ள காதலரை நான் என் கண்களால் தேடிக் கண்டுபிடித்திடத் துணையாக நீ மறையாமல் இருப்பாயாக.",
+        "moral_en": "Moral: Set not; so may'st thou prosper, moon! that eyes may seeMy love who went away, but ever bides with me.",
+        "game_blank_word_ta": "விடாஅது",
+        "game_options_ta": [
+          "உள்ளினும்",
+          "தீராப்",
+          "விடாஅது",
+          "பெருமகிழ்"
+        ],
+        "game_options_en": [
+          "Love is sweeter than wine; for vast Is its delight at very thought",
+          "Pains are off at the lover's thought In all aspects this love is sweet",
+          "Hail moon! Set not so that I find Him who left me but not my mind",
+          "To sneeze I tried hence but could not Me he tried to think but did not"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நினைந்தவர் புலம்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1210, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: திங்களே! பிரியாமலிருந்து இறுதியில் பிரிந்து சென்ற காதலரை என் கண்ணால் தேடிக் காணும்படியாக நீ மறைந்து விடாமல் இருப்பாயாக! கலைஞர் உரை கூறுவது: நிலவே! நீ வாழ்க; இணைபிரியாமலிருந்து, பிரிந்து சென்றுள்ள காதலரை நான் என் கண்களால் தேடிக் கண்டுபிடித்திடத் துணையாக நீ மறையாமல் இருப்பாயாக. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Sad Memories (Post-marital Love), Kural 1210 speaks directly to teens navigating studies, friendships, leadership, and digital choices: May you live, O Moon! Do not set, that I mine see him who has departed without quitting my soul. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'நினைந்தவர் புலம்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Sad Memories'.",
+        "quiz_question_ta": "'நினைந்தவர் புலம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1210 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1210 from Chapter 'Sad Memories'?",
+        "quiz_options_ta": [
+          "யான் இதுவரையில் நிறையோடிருப்பதாக எண்ணிக கொண்டிருந்தேன். ஆனால் என் காமம் என்னுள் மறைந்திருத்தலைக் கடந்து மன்றத்தில் வெளிப்படுகின்றது.",
+          "காதலனை மறக்க முடியாத என்னுடைய சிறப்பில்லாத மட நெஞ்சினோடு சேர்ந்து, மறக்கத் தகாததாகிய நாணத்தையும் மறந்து விடடேன்.",
+          "தி்ங்களே! பிரியாமல் இருந்து இறுதியில் பிரிந்து சென்ற காதலரை என் கண்ணால் தேடிக் காணும்படியாக நீ மறைந்து விடாமல் இருப்பாயாக!",
+          "இறைவனுடைய திருவடிகளை பொருந்தி நினைக்கின்றவர் பிறவியாகிய பெரிய கடலைக் கடக்க முடியும். மற்றவர் கடக்க முடியாது"
+        ],
+        "quiz_options_en": [
+          "I was proud of my sex-reserve Lo lust betrays what I preserve",
+          "I forget shame but not his thought In mean foolish mind I'm caught",
+          "Hail moon! Set not so that I find Him who left me but not my mind",
+          "The sea of births they alone swim Who clench His feet and cleave to Him"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (நினைந்தவர் புலம்பல்) பகுதியில் குறள் 1210 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தி்ங்களே! பிரியாமல் இருந்து இறுதியில் பிரிந்து சென்ற காதலரை என் கண்ணால் தேடிக் காணும்படியாக நீ மறைந்து விடாமல் இருப்பாயாக! பரிமேலழகர் உரை நுட்பம்: (வன்புறை எதிரழிந்தாள் காமம் மிக்க கழிபடரால் சொல்லியது) மதி-மதியே; விடாது சென்றாரைக் கண்ணினால் காணப்படாதி - என் நெஞ்சின் இடைவிடாதிருந்தே விட்டுப் போயினாரை யான் என் கண்ணளவானாயினும் எதிர்ப்படும் வகை நீ படாதொழிவாயாக. (கண்ணளவான் எதிர்ப்படுதலாவது: மதி இருவரானும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 121: 'Sad Memories'), Kural 1210 distills a foundational ethical insight: \"Set not; so may'st thou prosper, moon! that eyes may seeMy love who went away, but ever bides with me\" Philosophically, May you live, O Moon! Do not set, that I mine see him who has departed without quitting my soul.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "speech",
+        "wealth"
+      ]
+    }
+  ]
+}

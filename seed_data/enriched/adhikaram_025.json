@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 25,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.668553297+00:00",
+  "kurals": [
+    {
+      "kural_number": 241,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பொருள்களாகிய செல்வங்கள் இழிந்தவரிடத்திலும் உள்ளன; (உயர்ந்தவரிடத்தில் மட்டுமே உள்ள) அருளாகிய செல்வமே செல்வங்களில் சிறந்த செல்வமாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The wealth of kindness is wealth of wealth, in as much as the wealth of property is possessed by the basest of men.",
+        "story_title_ta": "அருளுடைமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Compassion — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அருளுடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 241 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'செல்வங்கள் பலவற்றுள்ளும் சிறந்தது அருள் என்னும் செல்வமே. பொருட்செல்வம் இழிந்த மனிதரிடமும் உண்டு.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Compassion'. Grandpa shared Kural 241 and explained in simple words: The wealth of kindness is wealth of wealth, in as much as the wealth of property is possessed by the basest of men. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: கொடிய உள்ளம் கொண்ட இழிமக்களிடம்கூடக் கோடிக்கணக்கில் செல்வம் குவிந்திருக்கலாம்; ஆனாலும் அந்தச் செல்வம் அருட் செல்வத்துக்கு ஈடாகாது.",
+        "moral_en": "Moral: Wealth 'mid wealth is wealth 'kindliness'; Wealth of goods the vilest too possess.",
+        "game_blank_word_ta": "செல்வத்துள்",
+        "game_options_ta": [
+          "நல்லாற்றாள்",
+          "செல்வத்துள்",
+          "அருளாள்க",
+          "பல்லாற்றால்"
+        ],
+        "game_options_en": [
+          "Seek by sound ways good compassion; All faiths mark that for-salvation",
+          "The wealth of wealth is wealth of grace Earthly wealth e'en the basest has",
+          "The hearts of mercy shall not go Into dark worlds of gruesome woe",
+          "His soul is free from dread of sins Whose mercy serveth all beings"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அருளுடைமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 241, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செல்வங்கள் பலவற்றுள்ளும் சிறந்தது அருள் என்னும் செல்வமே. பொருட்செல்வம் இழிந்த மனிதரிடமும் உண்டு. கலைஞர் உரை கூறுவது: கொடிய உள்ளம் கொண்ட இழிமக்களிடம்கூடக் கோடிக்கணக்கில் செல்வம் குவிந்திருக்கலாம்; ஆனாலும் அந்தச் செல்வம் அருட் செல்வத்துக்கு ஈடாகாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Compassion (Ascetic Virtue), Kural 241 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The wealth of kindness is wealth of wealth, in as much as the wealth of property is possessed by the basest of men. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அருளுடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Compassion' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அருளுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 241 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 241 from Chapter 'Compassion'?",
+        "quiz_options_ta": [
+          "அருளைப் பெரிதாகக்கருதி அன்பு உடையவராய் நடத்தல், பிறருடைய பொருளைக்கவர எண்ணி அவர் சோர்ந்திருக்கும் நிலையைப் பார்ப்பவரிடத்தில் இல்லை.",
+          "பொருள்களாகிய செல்வங்கள் இழிந்தவரிடத்திலும் உள்ளன; (உயர்ந்தவரிடத்தில் மட்டுமே உள்ள) அருளாகிய செல்வமே செல்வங்களில் சிறந்த செல்வமாகும்.",
+          "கொலையால் நன்மையாக விளையும் ஆக்கம் பெரிதாக இருந்தாலும், சான்றோர்க்குக் கொலையால் வரும் ஆக்கம் மிக இழிவானதாகும்.",
+          "கைப்பொருள் ஆவதற்க்கு காரணமான ஊழால் சோர்வில்லாத முயற்சி உண்டாகும், கைப்பொருள் போவதற்க்கு காரணமான ஊழால் சோம்பல் ஏற்படும்."
+        ],
+        "quiz_options_en": [
+          "Love and Grace are not their worth Who watch to waylay dozer's wealth",
+          "The wealth of wealth is wealth of grace Earthly wealth e'en the basest has",
+          "The gain of slaughter is a vice Though deemed good in sacrifice",
+          "Efforts succeed by waxing star Wealth-losing brings waning star"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அருளுடைமை) பகுதியில் குறள் 241 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருள்களாகிய செல்வங்கள் இழிந்தவரிடத்திலும் உள்ளன; (உயர்ந்தவரிடத்தில் மட்டுமே உள்ள) அருளாகிய செல்வமே செல்வங்களில் சிறந்த செல்வமாகும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, தொடர்பு பற்றாது இயல்பாக எல்லா உயிர்கள் மேலும் செல்வதாகிய கருணை. இல்லறத்திற்கு அன்புடைமைபோல இது துறவறத்திற்குச் சிறந்தமையின் முன் கூறப்பட்டது.) செல்வத்துள் செல்வம் அருட்செல்வம் - செல்வங்கள் பலவற்றுள்ளும் ஆராய்ந்தெடுக்கப்பட்ட செல்வமாவது அருளான்வரும...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 25: 'Compassion'), Kural 241 distills a foundational ethical insight: \"Wealth 'mid wealth is wealth 'kindliness'; Wealth of goods the vilest too possess\" Philosophically, The wealth of kindness is wealth of wealth, in as much as the wealth of property is possessed by the basest of men.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "wealth",
+        "love",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 242,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நல்ல வழியால் ஆராய்ந்து அருளுடையவர்களாக விளங்க வேண்டும்; பலவழிகளால் ஆராய்ந்து கண்டாலும் அருளே வாழ்க்கைக்குத் துணையாக இருக்கும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: (Stand) in the good path, consider, and be kind. Even considering according to the conflicting tenets of the different sects, kindness will be your best aid, (in the acquisition of heavenly bliss.).",
+        "story_title_ta": "அருளுடைமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Compassion — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அருளுடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 242 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நல்லநெறியில் வாழ்ந்து, நமக்கு உதவும் அறம் எது என ஆய்ந்து, அருளுடன் வாழ்க; எல்லாச் சமய நெறிகளால் ஆய்ந்தாலும் அருளே நமக்குத் துணையாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Compassion'. Grandpa shared Kural 242 and explained in simple words: (Stand) in the good path, consider, and be kind. Even considering according to the conflicting tenets of the different sects, kindness will be your best aid, (in the acquisition of heavenly bliss.). The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பலவழிகளால் ஆராய்ந்து கண்டாலும் அருள் உடைமையே வாழ்க்கைக்குத் துணையாய் விளங்கும் நல்வழி எனக் கொள்ளல் வேண்டும்.",
+        "moral_en": "Moral: The law of 'grace' fulfil, by methods good due trial made, Though many systems you explore, this is your only aid.",
+        "game_blank_word_ta": "பல்லாற்றால்",
+        "game_options_ta": [
+          "அருட்செல்வம்",
+          "செல்வத்துள்",
+          "பல்லாற்றால்",
+          "செல்வம்"
+        ],
+        "game_options_en": [
+          "The wealth of wealth is wealth of grace Earthly wealth e'en the basest has",
+          "The hearts of mercy shall not go Into dark worlds of gruesome woe",
+          "Seek by sound ways good compassion; All faiths mark that for-salvation",
+          "His soul is free from dread of sins Whose mercy serveth all beings"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அருளுடைமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 242, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்லநெறியில் வாழ்ந்து, நமக்கு உதவும் அறம் எது என ஆய்ந்து, அருளுடன் வாழ்க; எல்லாச் சமய நெறிகளால் ஆய்ந்தாலும் அருளே நமக்குத் துணையாகும். கலைஞர் உரை கூறுவது: பலவழிகளால் ஆராய்ந்து கண்டாலும் அருள் உடைமையே வாழ்க்கைக்குத் துணையாய் விளங்கும் நல்வழி எனக் கொள்ளல் வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Compassion (Ascetic Virtue), Kural 242 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (Stand) in the good path, consider, and be kind. Even considering according to the conflicting tenets of the different sects, kindness will be your best aid, (in the acquisition of heavenly bliss.). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அருளுடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Compassion' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அருளுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 242 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 242 from Chapter 'Compassion'?",
+        "quiz_options_ta": [
+          "களவு செய்து பிறர் பொருள் கொள்ளுதலில் மிக்க விருப்பம் உடையவர், அளவு (சிக்கனம்) போற்றி வாழும் நெறியில் நின்று ஒழுக மாட்டார்.",
+          "கொலைத்தொழிலினராகிய மக்கள் அதன் இழிவை ஆராய்ந்தவரிடத்தில் புலைத்தொழிலுடையவராய்த் தாழ்ந்து தோன்றுவர்.",
+          "நல்ல வழியால் ஆராய்ந்து அருளுடையவர்களாக விளங்க வேண்டும்; பலவழிகளால் ஆராய்ந்து கண்டாலும் அருளே வாழ்க்கைக்குத் துணையாக இருக்கும்.",
+          "பொருள் இழந்தற்கு காரணமான ஊழ், பேதை யாக்கும் பொருள் ஆவதற்க்கு காரணமான ஊழ் அறிவைப் பெருக்கும்."
+        ],
+        "quiz_options_en": [
+          "They cannot walk in measured bounds who crave and have covetous ends",
+          "Those who live by slaying are Eaters of carrion bizarre!",
+          "Seek by sound ways good compassion; All faiths mark that for-salvation",
+          "Loss-fate makes a dull fool of us Gain-fate makes us prosperous, wise!"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அருளுடைமை) பகுதியில் குறள் 242 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நல்ல வழியால் ஆராய்ந்து அருளுடையவர்களாக விளங்க வேண்டும்; பலவழிகளால் ஆராய்ந்து கண்டாலும் அருளே வாழ்க்கைக்குத் துணையாக இருக்கும். பரிமேலழகர் உரை நுட்பம்: நல் ஆற்றான் நாடிஅருள் ஆள்க - அளவைகளானும் பொருந்து மாற்றானும் நன்றான நெறியிலே நின்று, நமக்குத் துணையாம் அறம் யாது? என்று ஆராய்ந்து, அருளுடையராக, பல் ஆற்றான் தேரினும் துணை அஃதே - ஒன்றையொன்று ஒவ்வாத சமய நெறிகள் எல்லாவற்றானும் ஆராய்ந்தாலும் துணையாவது அவ்வருளே...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 25: 'Compassion'), Kural 242 distills a foundational ethical insight: \"The law of 'grace' fulfil, by methods good due trial made, Though many systems you explore, this is your only aid\" Philosophically, (Stand) in the good path, consider, and be kind. Even considering according to the conflicting tenets of the different sects, kindness will be your best aid, (in the acquisition of heavenly bliss.).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "discipline",
+        "speech",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 243,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அறியாமையாகிய இருள் பொருந்திய துன்ப உலகில் இருந்து வாழும் வாழ்க்கை, அருள் பொருந்திய நெஞ்சம் உடையவர்களுக்கு இல்லை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: They will never enter the world of darkness and wretchedness whose minds are the abode of kindness.",
+        "story_title_ta": "அருளுடைமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Compassion — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அருளுடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 243 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அருள் நிறைந்த நெஞ்சத்தவர்க்கு, இருட்டான, துன்ப உலகமாகிய நரகம் புகும் நெருக்கடி இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Compassion'. Grandpa shared Kural 243 and explained in simple words: They will never enter the world of darkness and wretchedness whose minds are the abode of kindness. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அருள் நிறைந்த மனம் படைத்தவர் அறியாமை எனும் இருள் சூழ்ந்த துன்ப உலகில் உழலமாட்டார்.",
+        "moral_en": "Moral: They in whose breast a 'gracious kindliness' resides, See not the gruesome world, where darkness drear abides.",
+        "game_blank_word_ta": "உலகம்",
+        "game_options_ta": [
+          "அருட்செல்வம்",
+          "செல்வத்துள்",
+          "செல்வம்",
+          "உலகம்"
+        ],
+        "game_options_en": [
+          "The wealth of wealth is wealth of grace Earthly wealth e'en the basest has",
+          "Seek by sound ways good compassion; All faiths mark that for-salvation",
+          "His soul is free from dread of sins Whose mercy serveth all beings",
+          "The hearts of mercy shall not go Into dark worlds of gruesome woe"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அருளுடைமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 243, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அருள் நிறைந்த நெஞ்சத்தவர்க்கு, இருட்டான, துன்ப உலகமாகிய நரகம் புகும் நெருக்கடி இல்லை. கலைஞர் உரை கூறுவது: அருள் நிறைந்த மனம் படைத்தவர் அறியாமை எனும் இருள் சூழ்ந்த துன்ப உலகில் உழலமாட்டார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Compassion (Ascetic Virtue), Kural 243 speaks directly to teens navigating studies, friendships, leadership, and digital choices: They will never enter the world of darkness and wretchedness whose minds are the abode of kindness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அருளுடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Compassion' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அருளுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 243 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 243 from Chapter 'Compassion'?",
+        "quiz_options_ta": [
+          "களவு என்பதற்கு காரணமான மயங்கிய அறிவு உடையவராயிருத்தல், அளவு அறிந்து வாழ்தலாகிய ஆற்றலை விரும்பினவரிடத்தில் இல்லை.",
+          "நோய் மிகுந்த உடம்புடன் வறுமையான தீய வாழ்க்கை உடையவர், முன்பு கொலை பல செய்து உயிர்களை உடம்புகளில் இருந்து நீக்கினவர் என்று அறிஞர் கூறுவர்.",
+          "ஒருவன் நுட்பமான நூல் பலவற்றைக் கற்றாலும் ஊழுக்கு ஏற்றவாறு அவனுக்கு உள்ள தாகும் அறிவே மேம்பட்டுத் தோன்றும்.",
+          "அறியாமையாகிய இருள் பொருந்திய துன்ப உலகில் இருந்து வாழும் வாழ்க்கை, அருள் பொருந்திய நெஞ்சம் உடையவர்களுக்கு இல்லை."
+        ],
+        "quiz_options_en": [
+          "Men of measured wisdom shun Black art of fraud and what it won",
+          "The loathsome poor sickly and sore Are killers stained by blood before",
+          "What matters subtle study deep? Levels of innate wisdom-keep",
+          "The hearts of mercy shall not go Into dark worlds of gruesome woe"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அருளுடைமை) பகுதியில் குறள் 243 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறியாமையாகிய இருள் பொருந்திய துன்ப உலகில் இருந்து வாழும் வாழ்க்கை, அருள் பொருந்திய நெஞ்சம் உடையவர்களுக்கு இல்லை. பரிமேலழகர் உரை நுட்பம்: இருள் சேர்ந்த இன்னா உலகம் புகல் - இருள் செறிந்த துன்ப உலகத்துள் சென்று புகுதல், அருள் சேர்ந்த நெஞ்சினார்க்கு இல்லை - அருள் செறிந்த நெஞ்சினை உடையார்க்கு இல்லை. ('இருள் செறிந்த துன்ப உலகம்' என்றது, திணிந்த இருளை உடைத்தாய்த் தன் கண்ணே புக்கார்க்குத் துன்பம...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 25: 'Compassion'), Kural 243 distills a foundational ethical insight: \"They in whose breast a 'gracious kindliness' resides, See not the gruesome world, where darkness drear abides\" Philosophically, They will never enter the world of darkness and wretchedness whose minds are the abode of kindness.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "harmony",
+        "self-mastery",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 244,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தன் உயிரின் பொருட்டு அஞ்சி வாழ்கின்ற தீவினை, உலகில் நிலைபெற்றுள்ள மற்ற உயிர்களைப் போற்றி அருளுடையவனாக இருப்பவனுக்கு இல்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: (The wise) say that the evils, which his soul would dread, will never come upon the man who exercises kindness and protects the life (of other creatures).",
+        "story_title_ta": "அருளுடைமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Compassion — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அருளுடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 244 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நிலைத்து வரும் உயிர்களைக் காத்து அவற்றின் மீது அருள் உள்ளவனுக்குத் தன் உயிரைப் பற்றிய பயம் வராது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Compassion'. Grandpa shared Kural 244 and explained in simple words: (The wise) say that the evils, which his soul would dread, will never come upon the man who exercises kindness and protects the life (of other creatures). The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: எல்லா உயிர்களிடத்தும் கருணைக்கொண்டு அவற்றைக் காத்திடுவதைக் கடமையாகக் கொண்ட சான்றோர்கள் தமது உயிரைப் பற்றிக் கவலை அடைய மாட்டார்கள்.",
+        "moral_en": "Moral: Who for undying souls of men provides with gracious zeal, In his own soul the dreaded guilt of sin shall never feel.",
+        "game_blank_word_ta": "தன்னுயிர்",
+        "game_options_ta": [
+          "தன்னுயிர்",
+          "அருட்செல்வம்",
+          "செல்வத்துள்",
+          "செல்வம்"
+        ],
+        "game_options_en": [
+          "His soul is free from dread of sins Whose mercy serveth all beings",
+          "The wealth of wealth is wealth of grace Earthly wealth e'en the basest has",
+          "Seek by sound ways good compassion; All faiths mark that for-salvation",
+          "The hearts of mercy shall not go Into dark worlds of gruesome woe"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அருளுடைமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 244, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நிலைத்து வரும் உயிர்களைக் காத்து அவற்றின் மீது அருள் உள்ளவனுக்குத் தன் உயிரைப் பற்றிய பயம் வராது. கலைஞர் உரை கூறுவது: எல்லா உயிர்களிடத்தும் கருணைக்கொண்டு அவற்றைக் காத்திடுவதைக் கடமையாகக் கொண்ட சான்றோர்கள் தமது உயிரைப் பற்றிக் கவலை அடைய மாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Compassion (Ascetic Virtue), Kural 244 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (The wise) say that the evils, which his soul would dread, will never come upon the man who exercises kindness and protects the life (of other creatures). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அருளுடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Compassion' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அருளுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 244 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 244 from Chapter 'Compassion'?",
+        "quiz_options_ta": [
+          "தன் உயிரின் பொருட்டு அஞ்சி வாழ்கின்ற தீவினை, உலகில் நிலைபெற்றுள்ள மற்ற உயிர்களைப் போற்றி அருளுடையவனாக இருப்பவனுக்கு இல்லை.",
+          "அளவறிந்து வாழ்கின்றவரின் நெஞ்சில் நிற்கும் அறம் போல் களவு செய்து பழகி அறிந்தவரின் நெஞ்சில் வஞ்சம் நிற்கும்.",
+          "நிலையில்லாதவைகளை நிலையானவை என்று மயங்கி உணரும் புல்லறிவு உடையவராக இருத்தல் வாழ்க்கையில் இழிந்த நிலையாகும்.",
+          "உலகத்தின் இயற்க்கை ஊழின் காரணமாக இரு வேறு வகைப்படும், செல்வம் உடையவராதலும் வேறு அறிவு உடையவராதலும் வேறு."
+        ],
+        "quiz_options_en": [
+          "His soul is free from dread of sins Whose mercy serveth all beings",
+          "Virtue abides in righteous hearts Into minds of frauds deceit darts",
+          "The worst of follies it is told The fleeting as lasting to hold",
+          "Two natures in the world obtain Some wealth and others wisdom gain"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அருளுடைமை) பகுதியில் குறள் 244 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன் உயிரின் பொருட்டு அஞ்சி வாழ்கின்ற தீவினை, உலகில் நிலைபெற்றுள்ள மற்ற உயிர்களைப் போற்றி அருளுடையவனாக இருப்பவனுக்கு இல்லை. பரிமேலழகர் உரை நுட்பம்: மன்உயிர் ஓம்பி அருள் ஆள்வாற்கு - நிலைபேறுடைய உயிர்களைப் பேணி அவற்றின்கண் அருளுடையன் ஆவானுக்கு, தன் உயிர் அஞ்சும் வினை இல் என்ப - தன் உயிர் அஞ்சுதற்கு ஏதுவாகிய தீவினைகள் உளவாகா என்று சொல்லுவர் அறிந்தோர். (உயிர்கள் எல்லாம் நித்தம் ஆகலின், 'மன் உயிர்' என்றார...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 25: 'Compassion'), Kural 244 distills a foundational ethical insight: \"Who for undying souls of men provides with gracious zeal, In his own soul the dreaded guilt of sin shall never feel\" Philosophically, (The wise) say that the evils, which his soul would dread, will never come upon the man who exercises kindness and protects the life (of other creatures).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "ethics",
+        "family",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 245,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அருளுடையவராக வாழ்கின்றவர்களுக்குத் துன்பம் இல்லை, காற்று இயங்குகின்ற வளம் பெரிய உலகத்தில் வாழ்வோரே இதற்குச் சான்று ஆவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: This great rich earth over which the wind blows, is a witness that sorrow never comes upon the kindhearted.",
+        "story_title_ta": "அருளுடைமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Compassion — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அருளுடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 245 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அருள் உடையவர்க்கு இவ்வுலகில் துன்பம் வராது; இதற்குக் காற்று உலவும், வளம் மிக்க இந்தப் பேருலகமே சான்று.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Compassion'. Grandpa shared Kural 245 and explained in simple words: This great rich earth over which the wind blows, is a witness that sorrow never comes upon the kindhearted. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உள்ளத்தில் ஊறிடும் அருளின் இயக்கத்தினால் துன்பத்தை உணராமல் கடமையாற்றலாம் என்பதற்கு, காற்றின் இயக்கத்தினால் வலிமையுடன் திகழும் இந்தப் பெரிய உலகமே சான்று.",
+        "moral_en": "Moral: The teeming earth's vast realm, round which the wild winds blow, Is witness, men of 'grace' no woeful want shall know.",
+        "game_blank_word_ta": "ஞாலங்",
+        "game_options_ta": [
+          "அருட்செல்வம்",
+          "ஞாலங்",
+          "செல்வத்துள்",
+          "செல்வம்"
+        ],
+        "game_options_en": [
+          "The wealth of wealth is wealth of grace Earthly wealth e'en the basest has",
+          "The wide wind-fed world witness bears: Men of mercy meet not sorrows",
+          "Seek by sound ways good compassion; All faiths mark that for-salvation",
+          "The hearts of mercy shall not go Into dark worlds of gruesome woe"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அருளுடைமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 245, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அருள் உடையவர்க்கு இவ்வுலகில் துன்பம் வராது; இதற்குக் காற்று உலவும், வளம் மிக்க இந்தப் பேருலகமே சான்று. கலைஞர் உரை கூறுவது: உள்ளத்தில் ஊறிடும் அருளின் இயக்கத்தினால் துன்பத்தை உணராமல் கடமையாற்றலாம் என்பதற்கு, காற்றின் இயக்கத்தினால் வலிமையுடன் திகழும் இந்தப் பெரிய உலகமே சான்று. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Compassion (Ascetic Virtue), Kural 245 speaks directly to teens navigating studies, friendships, leadership, and digital choices: This great rich earth over which the wind blows, is a witness that sorrow never comes upon the kindhearted. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அருளுடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Compassion' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அருளுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 245 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 245 from Chapter 'Compassion'?",
+        "quiz_options_ta": [
+          "களவு செய்தலைத் தவிர மற்ற நல்லவழிகளைத் நம்பித் தெளியாதவர் அளவு அல்லாத செயல்களைச் செய்து அப்போதே கெட்டழிவர்.",
+          "அருளுடையவராக வாழ்கின்றவர்களுக்குத் துன்பம் இல்லை, காற்று இயங்குகின்ற வளம் பெரிய உலகத்தில் வாழ்வோரே இதற்குச் சான்று ஆவர்.",
+          "பெரிய செல்வம் வந்து சேர்தல், கூத்தாடும் இடத்தில் கூட்டம் சேர்வதைப் போன்றது, அது நீங்கிப் போதலும் கூத்து முடிந்ததும் கூட்டம் கலைவதைப் போன்றது.",
+          "செல்வத்தை ஈட்டும் முயற்சிக்கு ஊழ்வகையால் நல்லவை எல்லாம் தீயவை ஆதலும் உண்டு, தீயவை நல்லவை ஆதலும் உண்டு."
+        ],
+        "quiz_options_en": [
+          "They perish in their perfidy Who know nothing but pilfery",
+          "The wide wind-fed world witness bears: Men of mercy meet not sorrows",
+          "Like a drama-crowd wealth gathers Like passing show its pride too goes",
+          "In making wealth fate changes mood; The good as bad and bad as good"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அருளுடைமை) பகுதியில் குறள் 245 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அருளுடையவராக வாழ்கின்றவர்களுக்குத் துன்பம் இல்லை, காற்று இயங்குகின்ற வளம் பெரிய உலகத்தில் வாழ்வோரே இதற்குச் சான்று ஆவர். பரிமேலழகர் உரை நுட்பம்: அருள் ஆள்வார்க்கு அல்லல் இல்லை - அருளுடையார்க்கு இம்மையினும் ஒரு துன்பம் உண்டாகாது, வளி வழங்கும் மல்லல்மா ஞாலம் கரி - அதற்குக் காற்று இயங்குகின்ற வளப்பத்தை உடைய பெரிய ஞாலத்து வாழ்வார் சான்று. ( சான்று ஆவார் தாம் கண்டு தேறிய பொருளைக் காணாதார்க்குத் தேற்றுதற்கு...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 25: 'Compassion'), Kural 245 distills a foundational ethical insight: \"The teeming earth's vast realm, round which the wild winds blow, Is witness, men of 'grace' no woeful want shall know\" Philosophically, This great rich earth over which the wind blows, is a witness that sorrow never comes upon the kindhearted.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "harmony",
+        "wealth",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 246,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அருள் இல்லாதவராய் அறமல்லாதவைகளைச் செய்து நடப்பவர்களை, உறுதிப்பொருளாகிய அறத்திலிருந்து நீங்கித் தம் வாழ்க்கையின் குறிக்கோளை மறந்தவர் என்பார்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: (The wise) say that those who neglect kindness and practise cruelties, neglected virtue (in their former birth), and forgot (the sorrows which they must suffer.).",
+        "story_title_ta": "அருளுடைமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Compassion — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அருளுடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 246 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அருள் இல்லாமல் தீமைகளைச் செய்து வாழ்பவரைப் பொருளையும் இழந்து தாம் துன்பம் அடைந்ததையும் மறந்தவர் என்று அறிஞர் கூறுவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Compassion'. Grandpa shared Kural 246 and explained in simple words: (The wise) say that those who neglect kindness and practise cruelties, neglected virtue (in their former birth), and forgot (the sorrows which they must suffer.). The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அருளற்றவர்களாய்த் தீமைகளைச் செய்து வாழ்பவர்கள், பொருளற்றவர்களாகவும், கடமை மறந்தவர்களாகவும் ஆவர்.",
+        "moral_en": "Moral: Gain of true wealth oblivious they eschew, Who 'grace' forsake, and graceless actions do.",
+        "game_blank_word_ta": "பொருள்நீங்கிப்",
+        "game_options_ta": [
+          "அருட்செல்வம்",
+          "செல்வத்துள்",
+          "பொருள்நீங்கிப்",
+          "செல்வம்"
+        ],
+        "game_options_en": [
+          "The wealth of wealth is wealth of grace Earthly wealth e'en the basest has",
+          "Seek by sound ways good compassion; All faiths mark that for-salvation",
+          "Who grace forsake and graceless act The former loss and woes forget",
+          "The hearts of mercy shall not go Into dark worlds of gruesome woe"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அருளுடைமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 246, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அருள் இல்லாமல் தீமைகளைச் செய்து வாழ்பவரைப் பொருளையும் இழந்து தாம் துன்பம் அடைந்ததையும் மறந்தவர் என்று அறிஞர் கூறுவர். கலைஞர் உரை கூறுவது: அருளற்றவர்களாய்த் தீமைகளைச் செய்து வாழ்பவர்கள், பொருளற்றவர்களாகவும், கடமை மறந்தவர்களாகவும் ஆவர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Compassion (Ascetic Virtue), Kural 246 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (The wise) say that those who neglect kindness and practise cruelties, neglected virtue (in their former birth), and forgot (the sorrows which they must suffer.). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அருளுடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Compassion' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அருளுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 246 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 246 from Chapter 'Compassion'?",
+        "quiz_options_ta": [
+          "களவு செய்வார்க்கு உடலில் உயிர் வாழும் வாழ்வும் தவறிப் போகும், களவு செய்யாமல் வாழ்வோர்க்கு தேவருலகும் வாய்க்கத் தவறாது.",
+          "செல்வம் நிலைக்காத இயல்பை உடையது, அத்தகைய செல்வத்தைப்பெற்றால், பெற்ற அப்போதே நிலையான அறங்களைச் செய்ய வேண்டும்.",
+          "அருள் இல்லாதவராய் அறமல்லாதவைகளைச் செய்து நடப்பவர்களை, உறுதிப்பொருளாகிய அறத்திலிருந்து நீங்கித் தம் வாழ்க்கையின் குறிக்கோளை மறந்தவர் என்பார்.",
+          "ஊழால் தமக்கு உரியவை அல்லாதப் பொருள்கள் வருந்திக்காப்பாற்றினாலும் நில்லாமல் போகும் தமக்கு உரியவை கொண்டு போய்ச் சொரிந்தாலும் போகா."
+        ],
+        "quiz_options_en": [
+          "Even the body rejects thieves; The honest men, heaven receives",
+          "Wealth wanes away; but when it comes Take care to do enduring things",
+          "Who grace forsake and graceless act The former loss and woes forget",
+          "Things not thine never remain Things destined are surely thine"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அருளுடைமை) பகுதியில் குறள் 246 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அருள் இல்லாதவராய் அறமல்லாதவைகளைச் செய்து நடப்பவர்களை, உறுதிப்பொருளாகிய அறத்திலிருந்து நீங்கித் தம் வாழ்க்கையின் குறிக்கோளை மறந்தவர் என்பார். பரிமேலழகர் உரை நுட்பம்: அருள் நீங்கி அல்லவை செய்து ஒழுகுவார் - உயிர்கள் மாட்டுச் செய்யப்படும் அருளைத் தவிர்ந்து தவிரப்படும் கொடுமைகளைச் செய்து ஒழுகுவாரை, பொருள் நீங்கிப் பொச்சாந்தார் என்பர் - முன்னும் உறுதிப்பொருளைச் செய்யாது தாம் துன்புறுகின்றமையை மறந்தவர் என்று சொல்லுவர் நல்லோர...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 25: 'Compassion'), Kural 246 distills a foundational ethical insight: \"Gain of true wealth oblivious they eschew, Who 'grace' forsake, and graceless actions do\" Philosophically, (The wise) say that those who neglect kindness and practise cruelties, neglected virtue (in their former birth), and forgot (the sorrows which they must suffer.).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "wealth",
+        "harmony",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 247,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பொருள் இல்லாதவர்க்கு இவ்வுலகத்து வாழ்க்கை இல்லாதவாறு போல உயிர்களிடத்தில் அருள் இல்லாதவர்க்கு அவ்வுலகத்து வாழ்க்கை இல்லையாம்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: As this world is not for those who are without wealth, so that world is not for those who are without kindness.",
+        "story_title_ta": "அருளுடைமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Compassion — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அருளுடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 247 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொருள் இல்லாதவர்க்கு இப்பூவுலக இன்பம் இல்லாதது போலவே, அருள் இல்லாதவர்க்கு மேல் உலக இன்பம் இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Compassion'. Grandpa shared Kural 247 and explained in simple words: As this world is not for those who are without wealth, so that world is not for those who are without kindness. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பொருள் இல்லாதவர்களுக்கு இல்லற வாழ்க்கை சிறப்பாக இராது அதுபோலவே கருணை உள்ளம் இல்லாதவர்களின் துறவற வாழ்க்கையும் சிறப்பாக அமையாது.",
+        "moral_en": "Moral: As to impoverished men this present world is not; The 'graceless' in you world have neither part nor lot.",
+        "game_blank_word_ta": "இல்லை",
+        "game_options_ta": [
+          "அருட்செல்வம்",
+          "செல்வத்துள்",
+          "செல்வம்",
+          "இல்லை"
+        ],
+        "game_options_en": [
+          "The wealth of wealth is wealth of grace Earthly wealth e'en the basest has",
+          "Seek by sound ways good compassion; All faiths mark that for-salvation",
+          "The hearts of mercy shall not go Into dark worlds of gruesome woe",
+          "This world is not for weathless ones That world is not for graceless swines"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அருளுடைமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 247, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொருள் இல்லாதவர்க்கு இப்பூவுலக இன்பம் இல்லாதது போலவே, அருள் இல்லாதவர்க்கு மேல் உலக இன்பம் இல்லை. கலைஞர் உரை கூறுவது: பொருள் இல்லாதவர்களுக்கு இல்லற வாழ்க்கை சிறப்பாக இராது அதுபோலவே கருணை உள்ளம் இல்லாதவர்களின் துறவற வாழ்க்கையும் சிறப்பாக அமையாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Compassion (Ascetic Virtue), Kural 247 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As this world is not for those who are without wealth, so that world is not for those who are without kindness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அருளுடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Compassion' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அருளுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 247 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 247 from Chapter 'Compassion'?",
+        "quiz_options_ta": [
+          "வாய்மை என்று கூறப்படுவது எது என்றால், அது மற்றவர்க்கு ஒரு சிறிதும் தீங்கு இல்லாத சொற்களைக் சொல்லுதல் ஆகும்.",
+          "வாழ்க்கையை ஆராய்ந்து உணர்வாரைப் பெற்றால் நாள் என்பது ஒரு கால அளவுகோல்காட்டி, உயிரை உடம்பிலிருந்து பிரித்து அறுக்கும் வாளாக உள்ளது.",
+          "ஊழ் ஏற்ப்படுத்திய வகையால் அல்லாமல் முயன்று கோடிக்கணக்கானப் பொருளைச் சேர்த்தவருக்கும் அவற்றை நுகர முடியாது.",
+          "பொருள் இல்லாதவர்க்கு இவ்வுலகத்து வாழ்க்கை இல்லாதவாறு போல உயிர்களிடத்தில் அருள் இல்லாதவர்க்கு அவ்வுலகத்து வாழ்க்கை இல்லையாம்."
+        ],
+        "quiz_options_en": [
+          "If \\\"What is truth\\\"? the question be, It is to speak out evil-free",
+          "The showy day is but a saw Your life, know that, to file and gnaw",
+          "Who crores amass enjoy but what The Dispenser's decrees allot",
+          "This world is not for weathless ones That world is not for graceless swines"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அருளுடைமை) பகுதியில் குறள் 247 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருள் இல்லாதவர்க்கு இவ்வுலகத்து வாழ்க்கை இல்லாதவாறு போல உயிர்களிடத்தில் அருள் இல்லாதவர்க்கு அவ்வுலகத்து வாழ்க்கை இல்லையாம். பரிமேலழகர் உரை நுட்பம்: அருள் இல்லார்க்கு அவ்வுலகம் இல்லை - உயிர்கள்மேல் அருள் இல்லாதார்க்கு வீட்டுலகத்து இன்பம் இல்லை, பொருள் இல்லார்க்கு இவ்வுலகம் இல்லாகியாங்கு - பொருள் இல்லாதார்க்கு இவ்வுலகத்து இன்பம் இல்லையாயினாற் போல. ( 'அவ்வுலகம், இவ்வுலகம்' என்பன ஆகுபெயர். இவ்வுலகத்து...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 25: 'Compassion'), Kural 247 distills a foundational ethical insight: \"As to impoverished men this present world is not; The 'graceless' in you world have neither part nor lot\" Philosophically, As this world is not for those who are without wealth, so that world is not for those who are without kindness.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "harmony",
+        "wealth",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 248,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பொருள் இல்லாதவர் ஒரு காலத்தில் வளம் பெற்று விளங்குவர், அருள் இல்லாதவர் வாழ்க்கையின் பயம் அற்றவரே அவர் ஒரு காலத்திலும் சிறந்து விளங்குதல் இல்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Those who are without wealth may, at some future time, become prosperous; those who are destitute of kindness are utterly destitute; for them there is no change.",
+        "story_title_ta": "அருளுடைமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Compassion — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அருளுடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 248 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொருள் இல்லாமல் ஏழையாய்ப் போனவர் திரும்பவும் செல்வத்தால் பொலிவு பெறலாம்; அருள் இல்லாமல் போனவரோ, போனவர்தாம்; மீண்டும் அருள் உள்ளவராய் ஆவது கடினம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Compassion'. Grandpa shared Kural 248 and explained in simple words: Those who are without wealth may, at some future time, become prosperous; those who are destitute of kindness are utterly destitute; for them there is no change. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பொருளை இழந்தவர் அதனை மீண்டும் தேடிப் பெறலாம் அருளை இழந்தால் இழந்ததுதான்; மீண்டும் பெற இயலாது.",
+        "moral_en": "Moral: Who lose the flower of wealth, when seasons change, again may bloom; Who lose 'benevolence', lose all; nothing can change their doom.",
+        "game_blank_word_ta": "அருளற்றார்",
+        "game_options_ta": [
+          "அருளற்றார்",
+          "அருட்செல்வம்",
+          "செல்வத்துள்",
+          "செல்வம்"
+        ],
+        "game_options_en": [
+          "The wealthless may prosper one day; The graceless never bloom agay",
+          "The wealth of wealth is wealth of grace Earthly wealth e'en the basest has",
+          "Seek by sound ways good compassion; All faiths mark that for-salvation",
+          "The hearts of mercy shall not go Into dark worlds of gruesome woe"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அருளுடைமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 248, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொருள் இல்லாமல் ஏழையாய்ப் போனவர் திரும்பவும் செல்வத்தால் பொலிவு பெறலாம்; அருள் இல்லாமல் போனவரோ, போனவர்தாம்; மீண்டும் அருள் உள்ளவராய் ஆவது கடினம். கலைஞர் உரை கூறுவது: பொருளை இழந்தவர் அதனை மீண்டும் தேடிப் பெறலாம் அருளை இழந்தால் இழந்ததுதான்; மீண்டும் பெற இயலாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Compassion (Ascetic Virtue), Kural 248 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who are without wealth may, at some future time, become prosperous; those who are destitute of kindness are utterly destitute; for them there is no change. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அருளுடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Compassion' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அருளுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 248 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 248 from Chapter 'Compassion'?",
+        "quiz_options_ta": [
+          "பொருள் இல்லாதவர் ஒரு காலத்தில் வளம் பெற்று விளங்குவர், அருள் இல்லாதவர் வாழ்க்கையின் பயம் அற்றவரே அவர் ஒரு காலத்திலும் சிறந்து விளங்குதல் இல்லை.",
+          "குற்றம் தீர்த்த நன்மையை விளைக்குமானால் பொய்யாச் சொற்களும் வாய்மை என்று கருதத் தக்க இடத்தைப் பெறும்.",
+          "நாவை அடக்கி விக்கல் மேலெழுவதற்கு முன்னே (இறப்பு நெருங்குவதற்கு முன்) நல்ல அறச்செயலை விரைந்து செய்யத்தக்கதாகும்.",
+          "வரவேண்டிய துன்பங்கள் வந்து வருத்தாமல் நீங்குமானால் நுகரும் பொருள் இல்லாத வறியவர் துறவறம் மேற்க்கொள்வர்."
+        ],
+        "quiz_options_en": [
+          "The wealthless may prosper one day; The graceless never bloom agay",
+          "E'en falsehood may for truth suffice, When good it brings removing vice",
+          "Ere tongue benumbs and hiccough comes Rise up to do good deeds betimes",
+          "The destitute desire will quit If fate with ills visit them not"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அருளுடைமை) பகுதியில் குறள் 248 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருள் இல்லாதவர் ஒரு காலத்தில் வளம் பெற்று விளங்குவர், அருள் இல்லாதவர் வாழ்க்கையின் பயம் அற்றவரே அவர் ஒரு காலத்திலும் சிறந்து விளங்குதல் இல்லை. பரிமேலழகர் உரை நுட்பம்: பொருள் அற்றார் ஒருகால்பூப்பர்- ஊழான் வறியராயினார் அது நீங்கிப் பின் ஒரு காலத்துச் செல்வத்தால் பொலிவர், அருள் அற்றார் அற்றார் மற்று ஆதல் அரிது - அவ்வாறு அன்றி அருளிலாதார் பாவம் அறாமையின் அழிந்தாரே; பின் ஒருகாலத்தும் ஆதல் இல்லை. ( 'மற்று' வினைமாற்றின்கண...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 25: 'Compassion'), Kural 248 distills a foundational ethical insight: \"Who lose the flower of wealth, when seasons change, again may bloom; Who lose 'benevolence', lose all; nothing can change their doom\" Philosophically, Those who are without wealth may, at some future time, become prosperous; those who are destitute of kindness are utterly destitute; for them there is no change.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wealth",
+        "kindness",
+        "family",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 249,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அருள் மேற்கொள்ளாதவன் செய்கின்ற அறச்செயலை ஆராய்ந்தால், அஃது அறிவு தெளியாதவன் ஒரு நூலின் உண்மைப் பொருளைக் கண்டாற் போன்றது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: If you consider, the virtue of him who is without kindness is like the perception of the true being by him who is without wisdom.",
+        "story_title_ta": "அருளுடைமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Compassion — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அருளுடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 249 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மனத்துள் அருள் இல்லாதவன் செய்யும் அறத்தை ஆராய்ந்து பார்த்தால், ஞானம் இல்லாதவன் மெய்ப்பொருளை உணர்ந்தது போல ஆகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Compassion'. Grandpa shared Kural 249 and explained in simple words: If you consider, the virtue of him who is without kindness is like the perception of the true being by him who is without wisdom. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அறிவுத் தெளிவு இல்லாதவன் ஒரு நூலின் உண்மைப் பொருளைக் கண்டறிய முடியுமா? அது போலத்தான் அருள் இல்லாதவன் செய்யும் அறச்செயலும் இருக்கும்.",
+        "moral_en": "Moral: When souls unwise true wisdom's mystic vision see, The 'graceless' man may work true works of charity.",
+        "game_blank_word_ta": "அருளாதான்",
+        "game_options_ta": [
+          "அருட்செல்வம்",
+          "அருளாதான்",
+          "செல்வத்துள்",
+          "செல்வம்"
+        ],
+        "game_options_en": [
+          "The wealth of wealth is wealth of grace Earthly wealth e'en the basest has",
+          "Like Truth twisted by confused mind Wisdom is vain in hearts unkind",
+          "Seek by sound ways good compassion; All faiths mark that for-salvation",
+          "The hearts of mercy shall not go Into dark worlds of gruesome woe"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அருளுடைமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 249, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனத்துள் அருள் இல்லாதவன் செய்யும் அறத்தை ஆராய்ந்து பார்த்தால், ஞானம் இல்லாதவன் மெய்ப்பொருளை உணர்ந்தது போல ஆகும். கலைஞர் உரை கூறுவது: அறிவுத் தெளிவு இல்லாதவன் ஒரு நூலின் உண்மைப் பொருளைக் கண்டறிய முடியுமா? அது போலத்தான் அருள் இல்லாதவன் செய்யும் அறச்செயலும் இருக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Compassion (Ascetic Virtue), Kural 249 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If you consider, the virtue of him who is without kindness is like the perception of the true being by him who is without wisdom. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அருளுடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Compassion' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அருளுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 249 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 249 from Chapter 'Compassion'?",
+        "quiz_options_ta": [
+          "ஒருவன் தன் நெஞ்சம் அறிவதாகிய ஒன்றைக்குறித்துப் பொய்ச் சொல்லக்கூடாது, பொய் சொன்னால் அதைக்குறித்துத் தன் நெஞ்சமே தன்னை வருத்தும்.",
+          "அருள் மேற்கொள்ளாதவன் செய்கின்ற அறச்செயலை ஆராய்ந்தால், அஃது அறிவு தெளியாதவன் ஒரு நூலின் உண்மைப் பொருளைக் கண்டாற் போன்றது.",
+          "நேற்று இருந்தவன் ஒருவன் இன்று இல்லாமல் இறந்து போனான் என்று சொல்லப்படும் நிலையாமைஆகிய பெருமை உடையது இவ்வுலகம்.",
+          "நல்வினை விளையும் போது நல்லவை எனக் கருதி மகிழ்கின்றனர், தீவினை விளையும் போது துன்பப்பட்டுக் கலங்குவது ஏனோ."
+        ],
+        "quiz_options_en": [
+          "Let not a man knowingly lie; Conscience will scorch and make him sigh",
+          "Like Truth twisted by confused mind Wisdom is vain in hearts unkind",
+          "One was yesterday; not today!",
+          "Who good in time of good perceive In evil time why should they grieve?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அருளுடைமை) பகுதியில் குறள் 249 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அருள் மேற்கொள்ளாதவன் செய்கின்ற அறச்செயலை ஆராய்ந்தால், அஃது அறிவு தெளியாதவன் ஒரு நூலின் உண்மைப் பொருளைக் கண்டாற் போன்றது. பரிமேலழகர் உரை நுட்பம்: அருளாதான் செய்யும் அறம் தேரின் - உயிர்கள் மாட்டு அருள் செய்யாதவன் செய்யும் அறத்தை ஆராயின், தெருளாதான் மெய்ப்பொருள் கண்டற்று - ஞானம் இல்லாதவன் ஒருகால் மெய்ப்பொருளை உணர்ந்தாற் போலும். (மெய்ப்பொருள் - மெய்ந்நூலில் சொல்லும் பொருள். நிலை பெற்ற ஞானம் இல்லாதவன...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 25: 'Compassion'), Kural 249 distills a foundational ethical insight: \"When souls unwise true wisdom's mystic vision see, The 'graceless' man may work true works of charity\" Philosophically, If you consider, the virtue of him who is without kindness is like the perception of the true being by him who is without wisdom.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "kindness",
+        "love",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 250,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: (அருள் இல்லாதவன் ) தன்னை விட மெலிந்தவர் மேல் துன்புறுத்த செல்லும் போது, தன்னை விட வலியவரின் முன் தான் அஞ்சி நிற்கும் நிலைமையை நினைக்க வேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: When a man is about to rush upon those who are weaker than himself, let him remember how he has stood (trembling) before those who are stronger than himself.",
+        "story_title_ta": "அருளுடைமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Compassion — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அருளுடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 250 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அருள் இல்லாதவள், தன்னைவிட எளிய மனிதரைத் துன்புறுத்தச் செல்லும்போது, தன்னைவிட பலசாலி தன்னைத் துன்புறுத்த வந்தால் அவருக்கு முன் தான் அஞ்சி நிற்பதாக எண்ணிப் பார்க்க.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Compassion'. Grandpa shared Kural 250 and explained in simple words: When a man is about to rush upon those who are weaker than himself, let him remember how he has stood (trembling) before those who are stronger than himself. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தன்னைவிட மெலிந்தவர்களைத் துன்புறுத்த நினைக்கும் போது, தன்னைவிட வலியவர் முன்னால் அஞ்சி நிற்கும் நிலைமை தனக்கு இருப்பதை மறந்துவிடக் கூடாது.",
+        "moral_en": "Moral: When weaker men you front with threat'ning brow, Think how you felt in presence of some stronger foe.",
+        "game_blank_word_ta": "செல்லு",
+        "game_options_ta": [
+          "அருட்செல்வம்",
+          "செல்வத்துள்",
+          "செல்லு",
+          "செல்வம்"
+        ],
+        "game_options_en": [
+          "The wealth of wealth is wealth of grace Earthly wealth e'en the basest has",
+          "Seek by sound ways good compassion; All faiths mark that for-salvation",
+          "Think how you feel before the strong When to the feeble you do wrong",
+          "The hearts of mercy shall not go Into dark worlds of gruesome woe"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அருளுடைமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 250, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அருள் இல்லாதவள், தன்னைவிட எளிய மனிதரைத் துன்புறுத்தச் செல்லும்போது, தன்னைவிட பலசாலி தன்னைத் துன்புறுத்த வந்தால் அவருக்கு முன் தான் அஞ்சி நிற்பதாக எண்ணிப் பார்க்க. கலைஞர் உரை கூறுவது: தன்னைவிட மெலிந்தவர்களைத் துன்புறுத்த நினைக்கும் போது, தன்னைவிட வலியவர் முன்னால் அஞ்சி நிற்கும் நிலைமை தனக்கு இருப்பதை மறந்துவிடக் கூடாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Compassion (Ascetic Virtue), Kural 250 speaks directly to teens navigating studies, friendships, leadership, and digital choices: When a man is about to rush upon those who are weaker than himself, let him remember how he has stood (trembling) before those who are stronger than himself. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அருளுடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Compassion' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அருளுடைமை' அதிகாரத்தில் வரும் திருக்குறள் 250 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 250 from Chapter 'Compassion'?",
+        "quiz_options_ta": [
+          "ஒருவன் தன் உள்ளம் அறியப் பொய் இல்லாமல் நடப்பானானால் அத்தகையவன் உலகத்தாரின் உள்ளங்களில் எல்லாம் இருப்பவனாவான்.",
+          "அறிவில்லாதவர் ஒரு வேளையாவது வாழ்க்கையின் தன்மையை ஆராய்ந்து அறிவதில்லை.ஆனால் வீணீல் எண்ணுவனவோ ஒரு கோடியும் அல்ல, மிகப்பல எண்ணங்கள்.",
+          "(அருள் இல்லாதவன் ) தன்னை விட மெலிந்தவர் மேல் துன்புறுத்த செல்லும் போது, தன்னை விட வலியவரின் முன் தான் அஞ்சி நிற்கும் நிலைமையை நினைக்க வேண்டும்.",
+          "ஊழை விட மிக்க வலிமையுள்ளவை வேறு எவை உள்ளன, ஊழை விலக்கும் பொருட்டு மற்றோரு வழியைஆராய்ந்தாலும் அங்கும் தானே முன் வந்து நிற்கும்."
+        ],
+        "quiz_options_en": [
+          "He lives in loving hearts of all Who serves the Truth serene in soul",
+          "Man knows not his next moment On crores of things he is intent",
+          "Think how you feel before the strong When to the feeble you do wrong",
+          "What power surpasses fate? Its will Persists against the human skill"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (அருளுடைமை) பகுதியில் குறள் 250 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (அருள் இல்லாதவன் ) தன்னை விட மெலிந்தவர் மேல் துன்புறுத்த செல்லும் போது, தன்னை விட வலியவரின் முன் தான் அஞ்சி நிற்கும் நிலைமையை நினைக்க வேண்டும். பரிமேலழகர் உரை நுட்பம்: வலியார் முன் தன்னை நினைக்க - தன்னின் வலியார் தன்னை நலிய வரும்பொழுது அவர்முன் தான் அஞ்சிநிற்கும் நிலையினை நினைக்க, தான் தன்னின்மெலியார்மேல் செல்லுமிடத்து - அருளில்லாதவன் தன்னின் எளியார்மேல் தான் நலியச் செல்லும் பொழுது. ('மெலியார்' எனச் சிறப்புடைய உயர்திணைமேல...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 25: 'Compassion'), Kural 250 distills a foundational ethical insight: \"When weaker men you front with threat'ning brow, Think how you felt in presence of some stronger foe\" Philosophically, When a man is about to rush upon those who are weaker than himself, let him remember how he has stood (trembling) before those who are stronger than himself.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "education",
+        "courage"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "adhikaram_id": 107,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.443765872+00:00",
+  "kurals": [
+    {
+      "kural_number": 1061,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: உள்ளதை மறைக்காமல் உள்ளம் மகிழ்ந்து கொடுக்கும் கண்போல் சிறந்தவரிடத்திலும் சென்று இரவாமலிருப்பதே கோடி மடங்கு நல்லதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Not to beg (at all) even from those excellent persons who cheerfully give without refusing, will do immense good.",
+        "story_title_ta": "இரவச்சம் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Dread of Mendicancy — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவச்சம்' என்ற அதிகாரத்திலிருந்து குறள் 1061 பற்றிக் கதை சொன்னார். 'ஒளிவு மறைவு இல்லாமல், மனம் மகிழ்ந்து பிறர்க்குக் கொடுக்கும் இயல்பு உள்ளவரிடத்திலும் ஒன்றைக் கேட்கா திருப்பது கோடி நன்மையாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 107, 'The Dread of Mendicancy', centered on Kural 1061: Not to beg (at all) even from those excellent persons who cheerfully give without refusing, will do immense good. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இருப்பதை ஒளிக்காமல் வழங்கிடும் இரக்கச்சிந்தையுடைவரிடம்கூட, இரவாமல் இருப்பது கோடி மடங்கு உயர்வுடையதாகும்.",
+        "moral_en": "Moral: Ten million-fold 'tis greater gain, asking no alms to live, Even from those, like eyes in worth, who nought concealing gladly give.",
+        "game_blank_word_ta": "உறும்",
+        "game_options_ta": [
+          "இரந்தும்",
+          "உறும்",
+          "உயிர்வாழ்தல்",
+          "வேண்டின்"
+        ],
+        "game_options_en": [
+          "Let World-Maker loiter and rot If \\\"beg and live\\\" be human fate",
+          "Not to beg is billions worth E'en from eye-like friends who give with mirth",
+          "Nothing is hard like hard saying \\\"We end poverty by begging\\\"",
+          "All space is small before the great Who beg not e'en in want acute"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவச்சம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1061, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒளிவு மறைவு இல்லாமல், மனம் மகிழ்ந்து பிறர்க்குக் கொடுக்கும் இயல்பு உள்ளவரிடத்திலும் ஒன்றைக் கேட்கா திருப்பது கோடி நன்மையாகும். கலைஞர் உரை கூறுவது: இருப்பதை ஒளிக்காமல் வழங்கிடும் இரக்கச்சிந்தையுடைவரிடம்கூட, இரவாமல் இருப்பது கோடி மடங்கு உயர்வுடையதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Dread of Mendicancy (Citizenship & Miscellaneous), Kural 1061 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Not to beg (at all) even from those excellent persons who cheerfully give without refusing, will do immense good. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவச்சம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Dread of Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 1061 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1061 from Chapter 'The Dread of Mendicancy'?",
+        "quiz_options_ta": [
+          "மலரணிந்த கூந்தலை உடைய இவளுடைய தோள்கள் விருப்பமான பொருள்களை நினைத்து விரும்பிய பொழுது அவ்வப் பொருள்களைப் போலவே இன்பம் செய்கின்றன.",
+          "உள்ளதை மறைக்காமல் உள்ளம் மகிழ்ந்து கொடுக்கும் கண்போல் சிறந்தவரிடத்திலும் சென்று இரவாமலிருப்பதே கோடி மடங்கு நல்லதாகும்.",
+          "அலர் கூறுவதால் காமத்தை அடக்குவோம் என்று முயலுதல், நெய்யால் நெருப்பை அவிப்போம் என்று முயல்வதைப் போன்றது.",
+          "தாம் விரும்பும் காதலர் தம்மை விரும்புகின்ற பேறு பெற்றவர், காதல் வாழ்க்கையின் பயனாகிய விதை இல்லாத பழத்தைப் பெற்றவரே ஆவார்."
+        ],
+        "quiz_options_en": [
+          "The arms of my flower-tressed maid Whatever I wish that that accord",
+          "Not to beg is billions worth E'en from eye-like friends who give with mirth",
+          "To quench the lust by rumour free Is to quench fire by pouring ghee",
+          "Stoneless fruit of love they have Who are beloved by those they love"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவச்சம்) பகுதியில் குறள் 1061 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உள்ளதை மறைக்காமல் உள்ளம் மகிழ்ந்து கொடுக்கும் கண்போல் சிறந்தவரிடத்திலும் சென்று இரவாமலிருப்பதே கோடி மடங்கு நல்லதாகும். பரிமேலழகர் உரை நுட்பம்: கரவாது உவந்து ஈயும் கண் அன்னார் கண்ணும் இரவாமை - தமக்கு உள்ளது கரவாது இவர் வரப்பெற்றேம் என்று உள்மகிழ்ந்து கொடுக்கும் கண்போலச் சிறந்தார் மாட்டும், இரவாதே ஒருவன் வறுமை கூர்தல்; கோடி உறும் - இரந்து செல்வம் எய்தலின் கோடி மடங்கு நன்று. (நலகுரவு மறைக்கப்படாத...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 107: 'The Dread of Mendicancy'), Kural 1061 distills a foundational ethical insight: \"Ten million-fold 'tis greater gain, asking no alms to live, Even from those, like eyes in worth, who nought concealing gladly give\" Philosophically, Not to beg (at all) even from those excellent persons who cheerfully give without refusing, will do immense good.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "kindness",
+        "love",
+        "ethics",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 1062,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: உலகத்தை படைத்தவன் உலகில் சிலர் இரந்தும் உயிர்வாழுமாறு ஏற்படுத்தியிருந்தால், அவன் இரப்பவரைப் போல் எங்கும் அலைந்து கெடுவானாக.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If the Creator of the world has decreed even begging as a means of livelihood, may he too go abegging and perish.",
+        "story_title_ta": "இரவச்சம் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Dread of Mendicancy — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவச்சம்' என்ற அதிகாரத்திலிருந்து குறள் 1062 பற்றிக் கதை சொன்னார். 'பிச்சை எடுத்துத்தான் உயிர்வாழ வேண்டும் என்ற நிலை இருந்தால், இந்த உலகைப் படைத்தவன் அங்கும் இங்கும் அலைந்து கெடுவானாக.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 107, 'The Dread of Mendicancy', centered on Kural 1062: If the Creator of the world has decreed even begging as a means of livelihood, may he too go abegging and perish. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பிச்சையெடுத்துதான் சிலர் உயிர்வாழ வேண்டும் என்ற நிலையிருந்தால் இந்த உலகத்தைப் படைத்தவனாகச் சொல்லப்படுபவனும் கெட்டொழிந்து திரியட்டும்.",
+        "moral_en": "Moral: If he that shaped the world desires that men should begging go, Through life's long course, let him a wanderer be and perish so.",
+        "game_blank_word_ta": "இரந்தும்",
+        "game_options_ta": [
+          "கரவாது",
+          "உவந்தீயும்",
+          "இரந்தும்",
+          "கண்ணன்னார்"
+        ],
+        "game_options_en": [
+          "Not to beg is billions worth E'en from eye-like friends who give with mirth",
+          "Nothing is hard like hard saying \\\"We end poverty by begging\\\"",
+          "Let World-Maker loiter and rot If \\\"beg and live\\\" be human fate",
+          "All space is small before the great Who beg not e'en in want acute"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவச்சம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1062, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிச்சை எடுத்துத்தான் உயிர்வாழ வேண்டும் என்ற நிலை இருந்தால், இந்த உலகைப் படைத்தவன் அங்கும் இங்கும் அலைந்து கெடுவானாக. கலைஞர் உரை கூறுவது: பிச்சையெடுத்துதான் சிலர் உயிர்வாழ வேண்டும் என்ற நிலையிருந்தால் இந்த உலகத்தைப் படைத்தவனாகச் சொல்லப்படுபவனும் கெட்டொழிந்து திரியட்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Dread of Mendicancy (Citizenship & Miscellaneous), Kural 1062 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If the Creator of the world has decreed even begging as a means of livelihood, may he too go abegging and perish. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவச்சம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Dread of Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 1062 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1062 from Chapter 'The Dread of Mendicancy'?",
+        "quiz_options_ta": [
+          "பொருந்து போதெல்லாம் உயிர் தளிர்க்கும் படியாகத் தீண்டுதலால் இவளுக்கு தோள்கள் அமிழ்தத்தால் செய்யப்பட்டிருக்க வேண்டும்.",
+          "அஞ்ச வேண்டா என்று அன்று உறுதிகூறியவர், இன்று பலரும் நாணும்படியாக நம்மை விட்டுப் பிரிந்தால் அதனால் அலருக்கு நாணியிருக்க முடியுமோ.",
+          "உலகத்தை படைத்தவன் உலகில் சிலர் இரந்தும் உயிர்வாழுமாறு ஏற்படுத்தியிருந்தால், அவன் இரப்பவரைப் போல் எங்கும் அலைந்து கெடுவானாக.",
+          "தம்மை விரும்புகின்றவர்க்குக் காதலர் அளிக்கும் அன்பு, உயிர் வாழ்கினறவர்க்கு மேகம் மழை பெய்து காப்பாற்றுதலைப் போன்றது."
+        ],
+        "quiz_options_en": [
+          "My simple maid has nectar arms Each embrace brings life-thrilling charms",
+          "Who said \\\"fear not\\\" flared up rumour Why then should I blush this clamour?",
+          "Let World-Maker loiter and rot If \\\"beg and live\\\" be human fate",
+          "The lover-and-beloved's self-givings Are like rains to living beings"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவச்சம்) பகுதியில் குறள் 1062 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உலகத்தை படைத்தவன் உலகில் சிலர் இரந்தும் உயிர்வாழுமாறு ஏற்படுத்தியிருந்தால், அவன் இரப்பவரைப் போல் எங்கும் அலைந்து கெடுவானாக. பரிமேலழகர் உரை நுட்பம்: உலகு இயற்றியான் இரந்தும் உயிர் வாழ்தல் வேண்டின் - இவ்வுலகத்தைப் படைத்தவன் இதன்கண் வாழ்வார்க்கு முயன்று உயிர் வாழ்தலையன்றி, இரந்தும் உயிர் வாழ்தலை வேண்டி விதித்தானாயின்; பரந்து கெடுக - அக்கொடியோன் தானும் அவரைப் போன்று எங்கும் அலமந்து கெடுவானாக...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 107: 'The Dread of Mendicancy'), Kural 1062 distills a foundational ethical insight: \"If he that shaped the world desires that men should begging go, Through life's long course, let him a wanderer be and perish so\" Philosophically, If the Creator of the world has decreed even begging as a means of livelihood, may he too go abegging and perish.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "self-mastery",
+        "speech",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 1063,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: வறுமைத் துன்பத்தை இரப்பதன் வாயிலாகத் தீர்ப்போம், என்று கருதி முயற்சியைக் கைவிட்ட வன்மையைப் போல் வன்மையானது வேறு இல்லை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: There is no greater folly than the boldness with which one seeks to remedy the evils of poverty by begging (rather than by working).",
+        "story_title_ta": "இரவச்சம் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Dread of Mendicancy — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவச்சம்' என்ற அதிகாரத்திலிருந்து குறள் 1063 பற்றிக் கதை சொன்னார். 'இல்லாமையால் வரும் துன்பத்தை (உழைத்துப் போக்காது) பிச்சை எடுத்துப் போக்கிக் கொள்ளலாம் என்று எண்ணும் கொடுமையிலும் கொடுமை வேறு இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 107, 'The Dread of Mendicancy', centered on Kural 1063: There is no greater folly than the boldness with which one seeks to remedy the evils of poverty by begging (rather than by working). Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வறுமைக்கொடுமையைப் பிறரிடம் இரந்து போக்கிக் கொள்ளலாம் என்று கருதும் கொடுமையைப் போல் வேறொரு கொடுமை இல்லை.",
+        "moral_en": "Moral: Nothing is harder than the hardness that will say,'The plague of penury by asking alms we'll drive away.'.",
+        "game_blank_word_ta": "இடும்பை",
+        "game_options_ta": [
+          "கரவாது",
+          "உவந்தீயும்",
+          "கண்ணன்னார்",
+          "இடும்பை"
+        ],
+        "game_options_en": [
+          "Not to beg is billions worth E'en from eye-like friends who give with mirth",
+          "Let World-Maker loiter and rot If \\\"beg and live\\\" be human fate",
+          "All space is small before the great Who beg not e'en in want acute",
+          "Nothing is hard like hard saying \\\"We end poverty by begging\\\""
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவச்சம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1063, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இல்லாமையால் வரும் துன்பத்தை (உழைத்துப் போக்காது) பிச்சை எடுத்துப் போக்கிக் கொள்ளலாம் என்று எண்ணும் கொடுமையிலும் கொடுமை வேறு இல்லை. கலைஞர் உரை கூறுவது: வறுமைக்கொடுமையைப் பிறரிடம் இரந்து போக்கிக் கொள்ளலாம் என்று கருதும் கொடுமையைப் போல் வேறொரு கொடுமை இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Dread of Mendicancy (Citizenship & Miscellaneous), Kural 1063 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is no greater folly than the boldness with which one seeks to remedy the evils of poverty by begging (rather than by working). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவச்சம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Dread of Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 1063 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1063 from Chapter 'The Dread of Mendicancy'?",
+        "quiz_options_ta": [
+          "அழகிய மா நிறம் உடைய இவளுடைய தழுவுதல், தம்முடைய வீட்டிலிருந்து தாம் ஈட்டிய பொருளைப் பகுந்து கொடுத்து உண்டாற் போன்றது.",
+          "யாம் விரும்புகின்ற அலரை இவ்வூரார் எடுத்துக்கூறுகின்றனர், அதனால் இனிமேல் காதலர் விரும்பினால் விரும்பியவாறு அதனை உதவுவார்.",
+          "காதலரால் விரும்பப்படுகின்றவர்க்கும் ( பிரிவுத் துன்பம் இருந்தாலும்) மீண்டும் வந்தபின் வாழ்வோம் என்று இருக்கும் செருக்குத் தகும்.",
+          "வறுமைத் துன்பத்தை இரப்பதன் வாயிலாகத் தீர்ப்போம், என்று கருதி முயற்சியைக் கைவிட்ட வன்மையைப் போல் வன்மையானது வேறு இல்லை."
+        ],
+        "quiz_options_en": [
+          "Ah the embrace of this fair dame Is like sharing one's food at home",
+          "Town raising this cry, I desire Consent is easy from my sire",
+          "The pride of living is for those Whose love is returned by love so close",
+          "Nothing is hard like hard saying \\\"We end poverty by begging\\\""
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவச்சம்) பகுதியில் குறள் 1063 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வறுமைத் துன்பத்தை இரப்பதன் வாயிலாகத் தீர்ப்போம், என்று கருதி முயற்சியைக் கைவிட்ட வன்மையைப் போல் வன்மையானது வேறு இல்லை. பரிமேலழகர் உரை நுட்பம்: இன்மை இடும்பை இரந்து தீர்வாம் என்னும் வன்மையின் - வறுமையான் வருந்துன்பத்தை முயன்று நீக்கக்கடவேம் என்று கருதாது இரந்து நீக்கக் கடவேம் என்று கருதும் வன்மை போல; வன்பாட்டது இல் - வலிமைப்பாடுடையது பிறிது இல்லை. (நெறியாய முயற்சி நிற்க, நெறியல்லாத இரவான் தீர்க்கக...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 107: 'The Dread of Mendicancy'), Kural 1063 distills a foundational ethical insight: \"Nothing is harder than the hardness that will say,'The plague of penury by asking alms we'll drive away.'\" Philosophically, There is no greater folly than the boldness with which one seeks to remedy the evils of poverty by begging (rather than by working).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "perseverance",
+        "education",
+        "courage"
+      ]
+    },
+    {
+      "kural_number": 1064,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: வாழ வழி இல்லாத போதும் இரந்து கேட்க உடன்படாத சால்பு, உலகத்தில் இடமெல்லாம் கொள்ளாத அவ்வளவு பொருமையுடையதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Even the whole world cannot sufficiently praise the dignity that would not beg even in the midst of destitution.",
+        "story_title_ta": "இரவச்சம் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Dread of Mendicancy — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவச்சம்' என்ற அதிகாரத்திலிருந்து குறள் 1064 பற்றிக் கதை சொன்னார். 'ஏதும் இல்லாமல் வறுமை உற்றபோதும் பிறரிடம் சென்று பிச்சை கேட்கச் சம்மதியாத மன அடக்கம், எல்லா உலகும் சேர்ந்தாலும் ஈடாகாத பெருமையை உடையது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 107, 'The Dread of Mendicancy', centered on Kural 1064: Even the whole world cannot sufficiently praise the dignity that would not beg even in the midst of destitution. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வாழ்வதற்கு ஒரு வழியும் கிடைக்காத நிலையிலும் பிறரிடம் கையேந்திட நினைக்காத பண்புக்கு, இந்த வையகமே ஈடாகாது.",
+        "moral_en": "Moral: Who ne'er consent to beg in utmost need, their worthHas excellence of greatness that transcends the earth.",
+        "game_blank_word_ta": "இடமெல்லாம்",
+        "game_options_ta": [
+          "இடமெல்லாம்",
+          "கரவாது",
+          "உவந்தீயும்",
+          "கண்ணன்னார்"
+        ],
+        "game_options_en": [
+          "All space is small before the great Who beg not e'en in want acute",
+          "Not to beg is billions worth E'en from eye-like friends who give with mirth",
+          "Let World-Maker loiter and rot If \\\"beg and live\\\" be human fate",
+          "Nothing is hard like hard saying \\\"We end poverty by begging\\\""
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவச்சம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1064, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஏதும் இல்லாமல் வறுமை உற்றபோதும் பிறரிடம் சென்று பிச்சை கேட்கச் சம்மதியாத மன அடக்கம், எல்லா உலகும் சேர்ந்தாலும் ஈடாகாத பெருமையை உடையது. கலைஞர் உரை கூறுவது: வாழ்வதற்கு ஒரு வழியும் கிடைக்காத நிலையிலும் பிறரிடம் கையேந்திட நினைக்காத பண்புக்கு, இந்த வையகமே ஈடாகாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Dread of Mendicancy (Citizenship & Miscellaneous), Kural 1064 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even the whole world cannot sufficiently praise the dignity that would not beg even in the midst of destitution. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவச்சம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Dread of Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 1064 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1064 from Chapter 'The Dread of Mendicancy'?",
+        "quiz_options_ta": [
+          "வாழ வழி இல்லாத போதும் இரந்து கேட்க உடன்படாத சால்பு, உலகத்தில் இடமெல்லாம் கொள்ளாத அவ்வளவு பொருமையுடையதாகும்.",
+          "காற்று இடையறுத்துச் செல்லாதபடி தழுவும் தழுவுதல், ஒருவரை ஒருவர் விரும்பிய காதலர் இருவருக்கும் இனிமை உடையதாகும்.",
+          "பிரிந்து செல்லாத நிலைமை இருந்தால் எனக்குச் சொல், பிரிந்து சென்று விரைந்து வருதலைப் பற்றியானால் அதுவரையில் உயிர்வாழ வல்லவர்க்குச் சொல்.",
+          "தாம் விரும்பும் காதலரால் விரும்பப்படாவிட்டால் உலகத்தாரால் விரும்பப்படும் நிலையில் உள்ளவரும் நல்வினை பொருந்தியவர் அல்லர்."
+        ],
+        "quiz_options_en": [
+          "All space is small before the great Who beg not e'en in want acute",
+          "Joy is the fast embrace that doth Not admit e'en air between both",
+          "Tell me if you but do not leave, Your quick return to those who live",
+          "Whose love is void of love in turn Are luckless with all esteems they earn"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவச்சம்) பகுதியில் குறள் 1064 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வாழ வழி இல்லாத போதும் இரந்து கேட்க உடன்படாத சால்பு, உலகத்தில் இடமெல்லாம் கொள்ளாத அவ்வளவு பொருமையுடையதாகும். பரிமேலழகர் உரை நுட்பம்: இடம் இல்லாக்காலும் இரவு ஒல்லாச் சால்பு - நுகரவேண்டுவன இன்றி நல்கூர்ந்தவழியும் பிறர்பாற் சென்று இரத்தலை உடம்படாத அமைதி; இடமெல்லாம் கொள்ளாத் தகைத்தே - எல்லாவுலகும் ஒருங்கு இயைந்தாலும் கொள்ளாத பெருமையுடைத்து. (அவ்விரத்தலைச் சால்பு விலக்குமாகலின், இரவு ஒல்லாமை...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 107: 'The Dread of Mendicancy'), Kural 1064 distills a foundational ethical insight: \"Who ne'er consent to beg in utmost need, their worthHas excellence of greatness that transcends the earth\" Philosophically, Even the whole world cannot sufficiently praise the dignity that would not beg even in the midst of destitution.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "harmony",
+        "self-mastery",
+        "discipline",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 1065,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தெளிந்த நீர் போல் சமைத்த கூழே ஆனாலும், முயற்சியால் கிடைத்ததை உண்பதைவிட இனிமையானது வேறொன்றும் இல்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Even thin gruel is ambrosia to him who has obtained it by labour.",
+        "story_title_ta": "இரவச்சம் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Dread of Mendicancy — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவச்சம்' என்ற அதிகாரத்திலிருந்து குறள் 1065 பற்றிக் கதை சொன்னார். 'நீரே மிகுதியாக இருக்கச் சமைக்கப்பட்ட கஞ்சியே என்றாலும், உழைத்த வரவில் உண்பதைக் காட்டிலும் மேலான மகிழ்ச்சி இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 107, 'The Dread of Mendicancy', centered on Kural 1065: Even thin gruel is ambrosia to him who has obtained it by labour. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கூழ்தான் குடிக்கவேண்டிய நிலை என்றாலும், அதையும் தானே உழைத்துச் சம்பாதித்துக் குடித்தால் அதைவிட இனிமையானது வேறொன்றும் இல்லை.",
+        "moral_en": "Moral: Nothing is sweeter than to taste the toil-won cheer, Though mess of pottage as tasteless as the water clear.",
+        "game_blank_word_ta": "தாள்தந்தது",
+        "game_options_ta": [
+          "கரவாது",
+          "தாள்தந்தது",
+          "உவந்தீயும்",
+          "கண்ணன்னார்"
+        ],
+        "game_options_en": [
+          "Not to beg is billions worth E'en from eye-like friends who give with mirth",
+          "Though gruel thin, nothing is sweet Like the food earned by labour's sweat",
+          "Let World-Maker loiter and rot If \\\"beg and live\\\" be human fate",
+          "Nothing is hard like hard saying \\\"We end poverty by begging\\\""
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவச்சம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1065, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நீரே மிகுதியாக இருக்கச் சமைக்கப்பட்ட கஞ்சியே என்றாலும், உழைத்த வரவில் உண்பதைக் காட்டிலும் மேலான மகிழ்ச்சி இல்லை. கலைஞர் உரை கூறுவது: கூழ்தான் குடிக்கவேண்டிய நிலை என்றாலும், அதையும் தானே உழைத்துச் சம்பாதித்துக் குடித்தால் அதைவிட இனிமையானது வேறொன்றும் இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Dread of Mendicancy (Citizenship & Miscellaneous), Kural 1065 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even thin gruel is ambrosia to him who has obtained it by labour. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவச்சம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Dread of Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 1065 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1065 from Chapter 'The Dread of Mendicancy'?",
+        "quiz_options_ta": [
+          "ஊடுதல், ஊடலை உணர்ந்து விடுதல், அதன்பின் கூடுதல் ஆகிய இவை காதல் வாழ்வு நிறைவேறப் பெற்றவர் பெற்ற பயன்களாகும்.",
+          "தெளிந்த நீர் போல் சமைத்த கூழே ஆனாலும், முயற்சியால் கிடைத்ததை உண்பதைவிட இனிமையானது வேறொன்றும் இல்லை.",
+          "அவருடைய பார்வை முன்பு இன்பம் உடையதாக இருந்தது, இப்போது அவருடைய கூட்டம் பிரிவுக்கு அஞ்சுகின்ற துன்பம் உடையதாக இருக்கின்றது.",
+          "நாம் காதல் கொண்ட காதலர் தாமும் அவ்வாறே நம்மிடம் காதல் கொள்ளாதபோது, நமக்கு அவர் என்ன நன்மை செய்வார்?"
+        ],
+        "quiz_options_en": [
+          "Sulking, feeling and clasping fast These three are sweets of lover's tryst",
+          "Though gruel thin, nothing is sweet Like the food earned by labour's sweat",
+          "His sight itself was pleasing, near Embrace pains now by partings fear",
+          "What can our lover do us now If he does not requite our love?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவச்சம்) பகுதியில் குறள் 1065 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தெளிந்த நீர் போல் சமைத்த கூழே ஆனாலும், முயற்சியால் கிடைத்ததை உண்பதைவிட இனிமையானது வேறொன்றும் இல்லை. பரிமேலழகர் உரை நுட்பம்: தாள் தந்தது தெண்ணீர் அடுபுற்கையாயினும் - நெறியாய முயற்சி கொடுவந்து தந்தது தெளிந்த நீர் போலும் அடுபுற்கையே யாயினும், உண்ணலின் ஊங்கு இனியது இல் - அதனையுண்டற்கு மேல் இனியது இல்லை. (தாள் தந்த கூழ் செறிவின்றித் தெண்ணீர் போன்றதாயினும்; இழிவாய இரவான் வந்ததன்றித் தம...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 107: 'The Dread of Mendicancy'), Kural 1065 distills a foundational ethical insight: \"Nothing is sweeter than to taste the toil-won cheer, Though mess of pottage as tasteless as the water clear\" Philosophically, Even thin gruel is ambrosia to him who has obtained it by labour.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "family",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 1066,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பசுவிற்கு நீர் வேண்டும் என்று அறம் நோக்கி இரந்து கேட்டாலும், இர த்தலை விட நாவிற்கு இழிவானது மற்றொன்று இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: There is nothing more disgraceful to one's tongue than to use it in begging water even for a cow.",
+        "story_title_ta": "இரவச்சம் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Dread of Mendicancy — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவச்சம்' என்ற அதிகாரத்திலிருந்து குறள் 1066 பற்றிக் கதை சொன்னார். 'பசுவிற்குத் தண்ணீர் வேண்டும் என்று பிறரிடம் பிச்சையாகக் கேட்டாலும் அதுவும் பிச்சையாதலால், நம் நாவிற்கு அதைவிடக் கேவலம் வேறு இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 107, 'The Dread of Mendicancy', centered on Kural 1066: There is nothing more disgraceful to one's tongue than to use it in begging water even for a cow. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தாகம் கொண்டு தவிக்கும் பசுவுக்காகத் தண்ணீர் வேண்டுமென இரந்து கேட்டாலும்கூட, அப்படிக் கேட்கும் நாவுக்கு, அதைவிட இழிவானது வேறொன்றுமில்லை.",
+        "moral_en": "Moral: E'en if a draught of water for a cow you ask, Nought's so distasteful to the tongue as beggar's task.",
+        "game_blank_word_ta": "இரவின்",
+        "game_options_ta": [
+          "கரவாது",
+          "உவந்தீயும்",
+          "இரவின்",
+          "கண்ணன்னார்"
+        ],
+        "game_options_en": [
+          "Not to beg is billions worth E'en from eye-like friends who give with mirth",
+          "Let World-Maker loiter and rot If \\\"beg and live\\\" be human fate",
+          "It may be water for the cow Begging tongue is mean anyhow",
+          "Nothing is hard like hard saying \\\"We end poverty by begging\\\""
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவச்சம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1066, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பசுவிற்குத் தண்ணீர் வேண்டும் என்று பிறரிடம் பிச்சையாகக் கேட்டாலும் அதுவும் பிச்சையாதலால், நம் நாவிற்கு அதைவிடக் கேவலம் வேறு இல்லை. கலைஞர் உரை கூறுவது: தாகம் கொண்டு தவிக்கும் பசுவுக்காகத் தண்ணீர் வேண்டுமென இரந்து கேட்டாலும்கூட, அப்படிக் கேட்கும் நாவுக்கு, அதைவிட இழிவானது வேறொன்றுமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Dread of Mendicancy (Citizenship & Miscellaneous), Kural 1066 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is nothing more disgraceful to one's tongue than to use it in begging water even for a cow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவச்சம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Dread of Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 1066 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1066 from Chapter 'The Dread of Mendicancy'?",
+        "quiz_options_ta": [
+          "செந்நிற அணிகலன்களை அணிந்த இவளிடம் பொருந்துந்தோறும் காதல் உணர்தல்,நூற் பொருள்களை அறிய அறிய அறியாதமைக் கண்டாற் போன்றது.",
+          "அறிவுடைய காதலரிடத்தும் பிரிவு ஒரு காலத்தில் உள்ள படியால் அவர் பிரியேன் என்று சொல்லும் உறுதி மொழியை நம்பித் தெளிவது அரிது.",
+          "பசுவிற்கு நீர் வேண்டும் என்று அறம் நோக்கி இரந்து கேட்டாலும், இர த்தலை விட நாவிற்கு இழிவானது மற்றொன்று இல்லை.",
+          "காதல் ஒரு பக்கமாக இருத்தல் துன்பமானது; காவடியின் பாரம் போல் இருபக்கமாகவும் ஒத்திருப்பது இன்பமானதாகும்."
+        ],
+        "quiz_options_en": [
+          "As knowledge reveals past ignorance So is the belle as love gets close",
+          "On whom shall I lay my trust hence While parting lurks in knowing ones?",
+          "It may be water for the cow Begging tongue is mean anyhow",
+          "One sided pains; love in both souls Poises well like shoulder poles"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவச்சம்) பகுதியில் குறள் 1066 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பசுவிற்கு நீர் வேண்டும் என்று அறம் நோக்கி இரந்து கேட்டாலும், இர த்தலை விட நாவிற்கு இழிவானது மற்றொன்று இல்லை. பரிமேலழகர் உரை நுட்பம்: ஆவிற்கு நீர் என்று இரப்பினும் - தண்ணீர் பெறாது இறக்கும் நிலைமைத்தாயதோர் ஆவினைக் கண்டு, அறம் நோக்கி இதற்குத் தண்ணீர் தரல்வேண்டும் என்று இரந்து சொல்லுங்காலும்; இரவின் நாவிற்கு 'இளிவந்தது இல்' - அவ்விரவுபோல ஒருவன் நாவிற்கு இளிவந்தது பிறிது இல்லை. (ஆகாத்தோம்பல...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 107: 'The Dread of Mendicancy'), Kural 1066 distills a foundational ethical insight: \"E'en if a draught of water for a cow you ask, Nought's so distasteful to the tongue as beggar's task\" Philosophically, There is nothing more disgraceful to one's tongue than to use it in begging water even for a cow.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "kindness",
+        "harmony",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1067,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: இரந்து கேட்பதனால் உள்ளதை ஒளிப்பவரிடத்தில் சென்று இரக்க வேண்டுடாம் என்று இரப்பவர் எல்லோரையும் இரந்து வேண்டுகின்றேன்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: I beseech all beggars and say, \"If you need to beg, never beg of those who give unwillingly.\".",
+        "story_title_ta": "இரவச்சம் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Dread of Mendicancy — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவச்சம்' என்ற அதிகாரத்திலிருந்து குறள் 1067 பற்றிக் கதை சொன்னார். 'பிச்சை எடுத்துத்தான் ஆகவேண்டும் என்றால், தம்மிடம் இருப்பதை மறைப்பாரிடம் பிச்சை எடுக்க வேண்டா என்று, பிச்சை எடுப்பவரிடம் எல்லாம் நாம் பிச்சை கேட்கின்றேன்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 107, 'The Dread of Mendicancy', centered on Kural 1067: I beseech all beggars and say, \"If you need to beg, never beg of those who give unwillingly.\". Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கையில் உள்ளதை மறைத்து இல்லை என்போரிடம் கையேந்த வேண்டாமென்று கையேந்துபவர்களையெல்லாம் கையேந்திக்கேட்டு கொள்கிறேன்.",
+        "moral_en": "Moral: One thing I beg of beggars all, 'If beg ye may, Of those who hide their wealth, beg not, I pray.'.",
+        "game_blank_word_ta": "இரப்பின்",
+        "game_options_ta": [
+          "கரவாது",
+          "உவந்தீயும்",
+          "கண்ணன்னார்",
+          "இரப்பின்"
+        ],
+        "game_options_en": [
+          "Not to beg is billions worth E'en from eye-like friends who give with mirth",
+          "Let World-Maker loiter and rot If \\\"beg and live\\\" be human fate",
+          "Nothing is hard like hard saying \\\"We end poverty by begging\\\"",
+          "If beg they must I beg beggers Not to beg from shrinking misers"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவச்சம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1067, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிச்சை எடுத்துத்தான் ஆகவேண்டும் என்றால், தம்மிடம் இருப்பதை மறைப்பாரிடம் பிச்சை எடுக்க வேண்டா என்று, பிச்சை எடுப்பவரிடம் எல்லாம் நாம் பிச்சை கேட்கின்றேன். கலைஞர் உரை கூறுவது: கையில் உள்ளதை மறைத்து இல்லை என்போரிடம் கையேந்த வேண்டாமென்று கையேந்துபவர்களையெல்லாம் கையேந்திக்கேட்டு கொள்கிறேன். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Dread of Mendicancy (Citizenship & Miscellaneous), Kural 1067 speaks directly to teens navigating studies, friendships, leadership, and digital choices: I beseech all beggars and say, \"If you need to beg, never beg of those who give unwillingly.\". Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவச்சம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Dread of Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 1067 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1067 from Chapter 'The Dread of Mendicancy'?",
+        "quiz_options_ta": [
+          "அனிச்சப்பூவே நல்ல மென்மை தன்மை பெற்றிறுக்கின்றாய், நீ வாழ்க, யாம் விரும்பும் காதலி உன்னை விட மெல்லியத் தன்மை கொண்டவள்.",
+          "அருள் மிகுந்தவராய் அஞ்ச வேண்டா என்று முன் தேற்றியவர் பிரிந்து செல்வாரானால் அவர் கூறிய உறுதிமொழியை நம்பித் தெளிந்தவர்க்கு குற்றம் உண்டோ.",
+          "( காதலர் இருவரிடத்திலும் ஒத்திருக்காமல்) ஒருவரிடத்தில் மட்டும் காமன் நின்று இயங்குவதால், என்னுடைய துன்பத்தையும் வருத்தத்தையும் அறியானோ?",
+          "இரந்து கேட்பதனால் உள்ளதை ஒளிப்பவரிடத்தில் சென்று இரக்க வேண்டுடாம் என்று இரப்பவர் எல்லோரையும் இரந்து வேண்டுகின்றேன்."
+        ],
+        "quiz_options_en": [
+          "Soft blessed anicha flower, hail On whom I dote is softer still",
+          "He parts whose love told me -fear not Is my trust in him at default?",
+          "This cupid aims at me alone; Knows he not my pallor and pain?",
+          "If beg they must I beg beggers Not to beg from shrinking misers"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவச்சம்) பகுதியில் குறள் 1067 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இரந்து கேட்பதனால் உள்ளதை ஒளிப்பவரிடத்தில் சென்று இரக்க வேண்டுடாம் என்று இரப்பவர் எல்லோரையும் இரந்து வேண்டுகின்றேன். பரிமேலழகர் உரை நுட்பம்: இரப்பாரை எல்லாம் இரப்பன் - இரப்பாரையெல்லாம் யான் இரவாநின்றேன்; இரப்பின் கரப்பார் இரவன்மின் என்று - யாது சொல்லி? எனின், நுமக்கு இரக்கவேணடுமாயின் தமக்குள்ளது கரப்பாரை இரவாதொழிமின் என்று சொல்லி. (இரண்டாவது விகாரத்தால் தொக்கது. இவ்விளிவந்த செயலான் ஊட்டிய வழியும...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 107: 'The Dread of Mendicancy'), Kural 1067 distills a foundational ethical insight: \"One thing I beg of beggars all, 'If beg ye may, Of those who hide their wealth, beg not, I pray.'\" Philosophically, I beseech all beggars and say, \"If you need to beg, never beg of those who give unwillingly.\".",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "leadership",
+        "kindness",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 1068,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: இரத்தல் என்னும் காவல் இல்லாத மரக்கலம் உள்ளதை ஒளித்துவைக்கும் தன்மையாகிய வன்னிலம் தாக்கினால் உடைந்து விடும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The unsafe raft of begging will split when it strikes on the rock of refusal.",
+        "story_title_ta": "இரவச்சம் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Dread of Mendicancy — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவச்சம்' என்ற அதிகாரத்திலிருந்து குறள் 1068 பற்றிக் கதை சொன்னார். 'வறுமைக் கடலைக் கடந்துவிட ஏறிய பிச்சை என்னும் வலு இல்லாத தோணி இருப்பதை மறைத்தல் என்னும் பாறையில் மோதப் பிளந்துபோகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 107, 'The Dread of Mendicancy', centered on Kural 1068: The unsafe raft of begging will split when it strikes on the rock of refusal. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இருப்பதை மறைத்து இல்லையென்று கூறும் கல் நெஞ்சின் மீது, இரத்தல் எனப்படும் பாதுகாப்பற்ற தோணி மோதினால் பிளந்து நொறுங்கிவிடும்.",
+        "moral_en": "Moral: The fragile bark of beggaryWrecked on denial's rock will lie.",
+        "game_blank_word_ta": "இரவென்னும்",
+        "game_options_ta": [
+          "இரவென்னும்",
+          "கரவாது",
+          "உவந்தீயும்",
+          "கண்ணன்னார்"
+        ],
+        "game_options_en": [
+          "The hapless bark of beggary splits On the rock of refusing hits",
+          "Not to beg is billions worth E'en from eye-like friends who give with mirth",
+          "Let World-Maker loiter and rot If \\\"beg and live\\\" be human fate",
+          "Nothing is hard like hard saying \\\"We end poverty by begging\\\""
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவச்சம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1068, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வறுமைக் கடலைக் கடந்துவிட ஏறிய பிச்சை என்னும் வலு இல்லாத தோணி இருப்பதை மறைத்தல் என்னும் பாறையில் மோதப் பிளந்துபோகும். கலைஞர் உரை கூறுவது: இருப்பதை மறைத்து இல்லையென்று கூறும் கல் நெஞ்சின் மீது, இரத்தல் எனப்படும் பாதுகாப்பற்ற தோணி மோதினால் பிளந்து நொறுங்கிவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Dread of Mendicancy (Citizenship & Miscellaneous), Kural 1068 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The unsafe raft of begging will split when it strikes on the rock of refusal. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவச்சம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Dread of Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 1068 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1068 from Chapter 'The Dread of Mendicancy'?",
+        "quiz_options_ta": [
+          "இரத்தல் என்னும் காவல் இல்லாத மரக்கலம் உள்ளதை ஒளித்துவைக்கும் தன்மையாகிய வன்னிலம் தாக்கினால் உடைந்து விடும்.",
+          "நெஞ்சமே! இவளுடைய கண்கள் பலரும் காண்கின்ற மலர்களை ஒத்திருக்கின்றன, என்று நினைத்து ஒத்த மலர்களைக் கண்டால் நீ மயங்குகின்றாய்.",
+          "காத்துக் கொள்வதானால் காதலராக அமைந்தவரின் பிரிவு நேராமல் காக்க வேண்டும், அவர் பிரிந்து நீங்கினால் மீண்டும் கூடுதல் அரிது.",
+          "தான் விரும்பும் காதலரின் இனிய சொல்லைப் பெறாமல் உலகத்தில் ( பிரிவுத் துன்பத்தைப் பொறுத்து) வாழ்கின்றவரைப் போல் வன்கண்மை உடையவர் இல்லை."
+        ],
+        "quiz_options_en": [
+          "The hapless bark of beggary splits On the rock of refusing hits",
+          "You can't liken flowers by many eyed, To her bright eyes, O mind dismayed",
+          "Stop his parting -my life to save Meeting is rare if he would leave",
+          "None is so firm as she who loves Without kind words from whom she dotes"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவச்சம்) பகுதியில் குறள் 1068 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இரத்தல் என்னும் காவல் இல்லாத மரக்கலம் உள்ளதை ஒளித்துவைக்கும் தன்மையாகிய வன்னிலம் தாக்கினால் உடைந்து விடும். பரிமேலழகர் உரை நுட்பம்: இரவு என்னும் ஏமாப்பு இல் தோணி - இவ்வறுமை என்னும் கடலை இதனால் கடத்தும் என்று கருதி ஒருவன் ஏறிய இரவு என்னும் சேமமற்ற தோணி; கரவு என்னும் பார் தாக்கப்பக்குவிடும் - அதன்கண் ஓடுங்கால் கரத்தல் என்னும் வன்னிலத்தோடு தாக்குமாயின் பிளந்துபோம். (முயற்சியால் கடப்பதனை...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 107: 'The Dread of Mendicancy'), Kural 1068 distills a foundational ethical insight: \"The fragile bark of beggaryWrecked on denial's rock will lie\" Philosophically, The unsafe raft of begging will split when it strikes on the rock of refusal.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 1069,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: இரத்தலின் கொடுமையை நினைத்தால் உள்ளம் கரைந்து உருகும், உள்ளதை ஒழிக்கும் கொடுமையை நினைத்தால் உருகுமளவும் இல்லாமல் அழியும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: To think of (the evil of) begging is enough to melt one's heart; but to think of refusal is enough to break it.",
+        "story_title_ta": "இரவச்சம் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Dread of Mendicancy — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவச்சம்' என்ற அதிகாரத்திலிருந்து குறள் 1069 பற்றிக் கதை சொன்னார். 'பிறரிடம் போய்ப் பிச்சை ஏற்று நிற்கும் கொடுமையை எண்ணினால் என் உள்ளம் உருகும். இக்கொடுமையைப் பார்த்த பிறகும் இல்லை என்று மறைப்பவர் கொடுமையை எண்ணினால் உருகும் உள்ளமும் இல்லாது அழிந்துவிடும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 107, 'The Dread of Mendicancy', centered on Kural 1069: To think of (the evil of) begging is enough to melt one's heart; but to think of refusal is enough to break it. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இரந்து வாழ்வோர் நிலையை நினைக்கும் போது உள்ளம் உருகுகிறது, இருப்பதைக் கொடுக்க மனமின்றி மறைத்து வாழ்பவரை நினைத்தால் உருகிடவும் வழியின்றி உள்ளமே ஒழிந்து விடுகிறது.",
+        "moral_en": "Moral: The heart will melt away at thought of beggary, With thought of stern repulse 'twill perish utterly.",
+        "game_blank_word_ta": "இன்றிக்",
+        "game_options_ta": [
+          "கரவாது",
+          "இன்றிக்",
+          "உவந்தீயும்",
+          "கண்ணன்னார்"
+        ],
+        "game_options_en": [
+          "Not to beg is billions worth E'en from eye-like friends who give with mirth",
+          "The heart at thought of beggars melts; It dies at repulsing insults",
+          "Let World-Maker loiter and rot If \\\"beg and live\\\" be human fate",
+          "Nothing is hard like hard saying \\\"We end poverty by begging\\\""
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவச்சம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1069, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறரிடம் போய்ப் பிச்சை ஏற்று நிற்கும் கொடுமையை எண்ணினால் என் உள்ளம் உருகும். இக்கொடுமையைப் பார்த்த பிறகும் இல்லை என்று மறைப்பவர் கொடுமையை எண்ணினால் உருகும் உள்ளமும் இல்லாது அழிந்துவிடும். கலைஞர் உரை கூறுவது: இரந்து வாழ்வோர் நிலையை நினைக்கும் போது உள்ளம் உருகுகிறது, இருப்பதைக் கொடுக்க மனமின்றி மறைத்து வாழ்பவரை நினைத்தால் உருகிடவும் வழியின்றி உள்ளமே ஒழிந்து விடுகிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Dread of Mendicancy (Citizenship & Miscellaneous), Kural 1069 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To think of (the evil of) begging is enough to melt one's heart; but to think of refusal is enough to break it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவச்சம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Dread of Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 1069 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1069 from Chapter 'The Dread of Mendicancy'?",
+        "quiz_options_ta": [
+          "மூங்கில் போன்ற தோளை உடைய இவளுக்குத் தளிரே மேன், முத்தே பல், இயற்கை மணமே மணம், வேலே மை உண்ட கண்.",
+          "இரத்தலின் கொடுமையை நினைத்தால் உள்ளம் கரைந்து உருகும், உள்ளதை ஒழிக்கும் கொடுமையை நினைத்தால் உருகுமளவும் இல்லாமல் அழியும்.",
+          "பிரிவைப்பற்றி தெரிவிக்கும் அளவிற்குக் கல் நெஞ்சம் உடையவரானால் , அத்தகையவர் திரும்பிவந்து அன்பு செய்வார் என்னும் ஆசை பயனற்றது.",
+          "யான் விரும்பிய காதலர் மீண்டு வந்து அன்பு செய்யமாட்டார் என்றாலும், அவரைப் பற்றிய புகழைக் ‌கேட்பதும் என் செவிக்கு இன்பமாக இருக்கின்றது."
+        ],
+        "quiz_options_en": [
+          "The bamboo-shouldered has pearl-like smiles Fragrant breath and lance-like eyes",
+          "The heart at thought of beggars melts; It dies at repulsing insults",
+          "His hardness says, \\\"I leave you now\\\" Is there hope of his renewed love?",
+          "The lover accords not my desires And yet his words sweeten my ears"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவச்சம்) பகுதியில் குறள் 1069 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இரத்தலின் கொடுமையை நினைத்தால் உள்ளம் கரைந்து உருகும், உள்ளதை ஒழிக்கும் கொடுமையை நினைத்தால் உருகுமளவும் இல்லாமல் அழியும். பரிமேலழகர் உரை நுட்பம்: இரவு உள்ள உள்ளம் உருகும் - உடையார் முன் இல்லார் சென்று இரந்து நிற்றலின் கொடுமையை நினைத்தால் எம் உள்ளங் கரைந்து உருகாநிற்கும்; கரவு உள்ளதூஉம் இன்றிக் கெடும் - இனி அந்நிலையைக் கண்டுவைத்தவர் இல்லை என்றலின் கொடுமையை நினைத்தால், அவ்வுருகுமளவுதானும் இன்றிப...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 107: 'The Dread of Mendicancy'), Kural 1069 distills a foundational ethical insight: \"The heart will melt away at thought of beggary, With thought of stern repulse 'twill perish utterly\" Philosophically, To think of (the evil of) begging is enough to melt one's heart; but to think of refusal is enough to break it.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "ethics",
+        "discipline",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1070,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: இரப்பவர் இல்லை என்று சொல்கின்ற அளவிலேயே உயிர் போகின்றதே, உள்ளதை இல்லை என்று ஒளிப்பவர்க்கு உயிர் எங்கு ஒளிந்திருக்குமோ.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Saying \"No\" to a beggar takes away his life. (but as that very word will kill the refuser) where then would the latter's life hide itself ?",
+        "story_title_ta": "இரவச்சம் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Dread of Mendicancy — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இரவச்சம்' என்ற அதிகாரத்திலிருந்து குறள் 1070 பற்றிக் கதை சொன்னார். 'இல்லை என்று சொல்வதைக் கேட்ட உடனே பிச்சை எடுப்பவரிடமிருந்து போய் விடும் உயிர், இல்லை என்று சொல்பவர்க்கு மட்டும் போகாமல் எங்கே போய் ஒளிந்து கொள்கிறது?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 107, 'The Dread of Mendicancy', centered on Kural 1070: Saying \"No\" to a beggar takes away his life. (but as that very word will kill the refuser) where then would the latter's life hide itself ? Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இருப்பதை ஒளித்துக்கொண்டு `இல்லை' என்பவர்களின் சொல்லைக் கேட்டவுடன், இரப்போரின் உயிரே போய் விடுகிறதே; அப்படிச் சொல்பவர்களின் உயிர் மட்டும் எங்கே ஒளிந்துகொண்டு இருக்குமோ?",
+        "moral_en": "Moral: E'en as he asks, the shamefaced asker dies; Where shall his spirit hide who help denies.",
+        "game_blank_word_ta": "உயிர்",
+        "game_options_ta": [
+          "கரவாது",
+          "உவந்தீயும்",
+          "உயிர்",
+          "கண்ணன்னார்"
+        ],
+        "game_options_en": [
+          "Not to beg is billions worth E'en from eye-like friends who give with mirth",
+          "Let World-Maker loiter and rot If \\\"beg and live\\\" be human fate",
+          "The word \\\"No\\\" kills the begger's life Where can the niggard's life be safe?",
+          "Nothing is hard like hard saying \\\"We end poverty by begging\\\""
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இரவச்சம் (ஒழிபியல்) பிரிவில் அமைந்த குறள் 1070, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இல்லை என்று சொல்வதைக் கேட்ட உடனே பிச்சை எடுப்பவரிடமிருந்து போய் விடும் உயிர், இல்லை என்று சொல்பவர்க்கு மட்டும் போகாமல் எங்கே போய் ஒளிந்து கொள்கிறது? கலைஞர் உரை கூறுவது: இருப்பதை ஒளித்துக்கொண்டு `இல்லை' என்பவர்களின் சொல்லைக் கேட்டவுடன், இரப்போரின் உயிரே போய் விடுகிறதே; அப்படிச் சொல்பவர்களின் உயிர் மட்டும் எங்கே ஒளிந்துகொண்டு இருக்குமோ? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Dread of Mendicancy (Citizenship & Miscellaneous), Kural 1070 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Saying \"No\" to a beggar takes away his life. (but as that very word will kill the refuser) where then would the latter's life hide itself ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இரவச்சம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Dread of Mendicancy' thoughtfully.",
+        "quiz_question_ta": "'இரவச்சம்' அதிகாரத்தில் வரும் திருக்குறள் 1070 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1070 from Chapter 'The Dread of Mendicancy'?",
+        "quiz_options_ta": [
+          "குவளை மலர்கள் காணும் தன்மைப் பெற்றுக் கண்டால், இவளுடைய கண்களுக்கு தாம் ஒப்பாக வில்லையே என்று தலை கவிழ்ந்து நிலத்தை நோக்கும்.",
+          "என் மெலிவால் முன் கையில் இறை கடந்து கழலும் வளையல்கள், தலைவன் விட்டுப் பிரிந்த செய்தியைப் பலரறியத் தெரிவித்துத் தூற்றாமலிருக்குமோ.",
+          "இரப்பவர் இல்லை என்று சொல்கின்ற அளவிலேயே உயிர் போகின்றதே, உள்ளதை இல்லை என்று ஒளிப்பவர்க்கு உயிர் எங்கு ஒளிந்திருக்குமோ.",
+          "நெஞ்சமே! நீ வாழி! அன்பு இல்லாதவரிடம் உன் மிகுந்த துன்பத்தைச் சொல்கின்றாய்! அதை விட எளிதாகக் கடலைத் தூர்ப்பாயாக."
+        ],
+        "quiz_options_en": [
+          "Lily droops down to ground and says I can't equal the jewelled-one's eyes",
+          "Will not my gliding bangles' cry The parting of my lord betray?",
+          "The word \\\"No\\\" kills the begger's life Where can the niggard's life be safe?",
+          "You tell your grief to listless he Bless my heart! rather fill up sea!"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — ஒழிபியல் (இரவச்சம்) பகுதியில் குறள் 1070 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இரப்பவர் இல்லை என்று சொல்கின்ற அளவிலேயே உயிர் போகின்றதே, உள்ளதை இல்லை என்று ஒளிப்பவர்க்கு உயிர் எங்கு ஒளிந்திருக்குமோ. பரிமேலழகர் உரை நுட்பம்: சொல்லாட இரப்பவர் உயிர் போம் - கரப்பார் இல்லை என்று சொல்லாடிய துணையானே இரப்பார்க்கு உயிர் போகாநின்றது; கரப்பவர்க்கு யாங்கு ஒளிக்கும் கொல் - இனிச் சொல்லாடுகின்ற அவர்தமக்கு உயிர் பின்னும் நிற்றலான், அப்பொழுது எப்புரையுள் புக்கொளிந்து நிற்கும்? (உயிர் போகலாவது...",
+        "reflection_en": "Within Book of Wealth & Polity (Citizenship & Miscellaneous — Chapter 107: 'The Dread of Mendicancy'), Kural 1070 distills a foundational ethical insight: \"E'en as he asks, the shamefaced asker dies; Where shall his spirit hide who help denies\" Philosophically, Saying \"No\" to a beggar takes away his life. (but as that very word will kill the refuser) where then would the latter's life hide itself ?",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "education"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "adhikaram_id": 1,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.432112938+00:00",
+  "kurals": [
+    {
+      "kural_number": 1,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: எழுத்துக்கள் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கின்றன. அதுபோல உலகம் கடவுளை அடிப்படையாக கொண்டிருக்கிறது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: As the letter A is the first of all letters, so the eternal God is first in the world.",
+        "story_title_ta": "கடவுள் வாழ்த்து — நிலா கற்ற பாடம்",
+        "story_title_en": "The Praise of God — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கடவுள் வாழ்த்து' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 1 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எழுத்துக்கள் எல்லாம் அகரத்தில் தொடங்குகின்றன; (அது போல) உலகம் கடவுளில் தொடங்குகிறது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Praise of God'. Grandpa shared Kural 1 and explained in simple words: As the letter A is the first of all letters, so the eternal God is first in the world. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அகரம் எழுத்துக்களுக்கு முதன்மை; ஆதிபகவன், உலகில் வாழும் உயிர்களுக்கு முதன்மை.",
+        "moral_en": "Moral: A, as its first of letters, every speech maintains; The \"Primal Deity\" is first through all the world's domains.",
+        "game_blank_word_ta": "முதல",
+        "game_options_ta": [
+          "கற்றதனால்",
+          "முதல",
+          "பயனென்கொல்",
+          "வாலறிவன்"
+        ],
+        "game_options_en": [
+          "That lore is vain which does not fall At His good feet who knoweth all",
+          "'A' leads letters; the Ancient Lord Leads and lords the entire world",
+          "Long they live on earth who gain The feet of God in florid brain",
+          "Who hold His feet who likes nor loathes Are free from woes of human births"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கடவுள் வாழ்த்து (பாயிரவியல்) பிரிவில் அமைந்த குறள் 1, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எழுத்துக்கள் எல்லாம் அகரத்தில் தொடங்குகின்றன; (அது போல) உலகம் கடவுளில் தொடங்குகிறது. கலைஞர் உரை கூறுவது: அகரம் எழுத்துக்களுக்கு முதன்மை; ஆதிபகவன், உலகில் வாழும் உயிர்களுக்கு முதன்மை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of God (Prologue), Kural 1 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As the letter A is the first of all letters, so the eternal God is first in the world. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'கடவுள் வாழ்த்து' குறள் 1 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 1 (The Praise of God) and writing one clear priority.",
+        "quiz_question_ta": "'கடவுள் வாழ்த்து' அதிகாரத்தில் வரும் திருக்குறள் 1 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1 from Chapter 'The Praise of God'?",
+        "quiz_options_ta": [
+          "இல்வாழ்க்கையின் அன்பும் அறமும் உடையதாக விளங்குமானால், அந்த வாழக்கையின் பண்பும் பயனும் அதுவே ஆகும்.",
+          "எழுத்துக்கள் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கின்றன. அதுபோல உலகம் கடவுளை அடிப்படையாக கொண்டிருக்கிறது.",
+          "விருந்தினரை ஓம்பி அந்த வேள்வியில் ஈடுபடாதவர் பொருள்களை வருந்திக்காத்துப் (பின்பு இழந்து) பற்றுக்கொடு இழந்தோமே என்று இரங்குவர்",
+          "ஒழுக்கமே எல்லார்க்கும் மேன்மையைத் தருவதாக இருப்பதால், அந்த ஒழுக்கமே உயிரை விடச் சிறந்ததாகப் போற்றப்படும்."
+        ],
+        "quiz_options_en": [
+          "In grace and gain the home excels, Where love with virtue sweetly dwells",
+          "'A' leads letters; the Ancient Lord Leads and lords the entire world",
+          "Who loathe guest-service one day cry: \\\"We toil and store; but life is dry\\\"",
+          "Decorum does one dignity More than life guard its purity"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (கடவுள் வாழ்த்து) பகுதியில் குறள் 1 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எழுத்துக்கள் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கின்றன. அதுபோல உலகம் கடவுளை அடிப்படையாக கொண்டிருக்கிறது. பரிமேலழகர் உரை நுட்பம்: அஃதாவது, கவி தான் வழிபடு கடவுளையாதல் எடுத்துக் கொண்ட பொருட்கு ஏற்புடைக் கடவுளையாதல் வாழ்த்துதல். அவற்றுள் இவ்வாழ்த்து ஏற்புடைக் கடவுளை என அறிக; என்னை? சத்துவம் முதலிய குணங்களான் மூன்று ஆகிய உறுதிப்பொருட்கு அவற்றான் மூவராகிய முதற் கடவுளோடு இயைபு உண்டு ஆகலான...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 1: 'The Praise of God'), Kural 1 distills a foundational ethical insight: \"A, as its first of letters, every speech maintains; The \"Primal Deity\" is first through all the world's domains\" Philosophically, As the letter A is the first of all letters, so the eternal God is first in the world.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "education",
+        "harmony",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 2,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தூய அறிவு வடிவாக விளங்கும் இறைவனுடைய நல்ல திருவடிகளை தொழாமல் இருப்பாரானால், அவர் கற்ற கல்வியினால் ஆகிய பயன் என்ன?",
+        "simple_meaning_en": "Dear child, remember this golden lesson: What Profit have those derived from learning, who worship not the good feet of Him who is possessed of pure knowledge ?",
+        "story_title_ta": "கடவுள் வாழ்த்து — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Praise of God — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கடவுள் வாழ்த்து' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 2 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தூய அறிவு வடிவானவனின் திருவடிகளை வணங்காதவர், படித்ததனால் பெற்ற பயன்தான் என்ன?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Praise of God'. Grandpa shared Kural 2 and explained in simple words: What Profit have those derived from learning, who worship not the good feet of Him who is possessed of pure knowledge ? The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தன்னைவிட அறிவில் மூத்த பெருந்தகையாளரின் முன்னே வணங்கி நிற்கும் பண்பு இல்லாவிடில் என்னதான் ஒருவர் கற்றிருந்தாலும் அதனால் என்ன பயன்? ஒன்றுமில்லை.",
+        "moral_en": "Moral: No fruit have men of all their studied lore, Save they the 'Purely Wise One's' feet adore.",
+        "game_blank_word_ta": "வாலறிவன்",
+        "game_options_ta": [
+          "அகர",
+          "முதல",
+          "வாலறிவன்",
+          "எழுத்தெல்லாம்"
+        ],
+        "game_options_en": [
+          "'A' leads letters; the Ancient Lord Leads and lords the entire world",
+          "Long they live on earth who gain The feet of God in florid brain",
+          "That lore is vain which does not fall At His good feet who knoweth all",
+          "Who hold His feet who likes nor loathes Are free from woes of human births"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கடவுள் வாழ்த்து (பாயிரவியல்) பிரிவில் அமைந்த குறள் 2, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தூய அறிவு வடிவானவனின் திருவடிகளை வணங்காதவர், படித்ததனால் பெற்ற பயன்தான் என்ன? கலைஞர் உரை கூறுவது: தன்னைவிட அறிவில் மூத்த பெருந்தகையாளரின் முன்னே வணங்கி நிற்கும் பண்பு இல்லாவிடில் என்னதான் ஒருவர் கற்றிருந்தாலும் அதனால் என்ன பயன்? ஒன்றுமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of God (Prologue), Kural 2 speaks directly to teens navigating studies, friendships, leadership, and digital choices: What Profit have those derived from learning, who worship not the good feet of Him who is possessed of pure knowledge ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'கடவுள் வாழ்த்து' குறள் 2 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 2 (The Praise of God) and writing one clear priority.",
+        "quiz_question_ta": "'கடவுள் வாழ்த்து' அதிகாரத்தில் வரும் திருக்குறள் 2 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 2 from Chapter 'The Praise of God'?",
+        "quiz_options_ta": [
+          "ஒருவன் அறநெறியில் இல்வாழ்க்கையைச் செலுத்தி வாழ்வானானால், அத்தகையவன் வேறு நெறியில் சென்று பெறத்தக்கது என்ன?",
+          "செல்வநிலையில் உள்ள வறுமை என்பது விருந்தோம்புதலைப் போற்றாத அறியாமையாகும்: அஃது அறிவிலிகளிடம் உள்ளதாகும்.",
+          "தூய அறிவு வடிவாக விளங்கும் இறைவனுடைய நல்ல திருவடிகளை தொழாமல் இருப்பாரானால், அவர் கற்ற கல்வியினால் ஆகிய பயன் என்ன?",
+          "ஒழுக்கத்தை வருந்தியும் போற்றிக் காக்க வேண்டும்; பலவற்றையும் ஆராய்ந்து போற்றித் தெளிந்தாலும், அந்த ஒழுக்கமே வாழ்க்கையில் துணையாக விளங்கும்."
+        ],
+        "quiz_options_en": [
+          "Who turns from righteous family To be a monk, what profits he?",
+          "The man of wealth is poor indeed Whose folly fails the guest to feed",
+          "That lore is vain which does not fall At His good feet who knoweth all",
+          "Virtues of conduct all excel; The soul aid should be guarded well"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (கடவுள் வாழ்த்து) பகுதியில் குறள் 2 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தூய அறிவு வடிவாக விளங்கும் இறைவனுடைய நல்ல திருவடிகளை தொழாமல் இருப்பாரானால், அவர் கற்ற கல்வியினால் ஆகிய பயன் என்ன? பரிமேலழகர் உரை நுட்பம்: கற்றதனால் ஆய பயன் என் - எல்லா நூல்களையும் கற்றவர்க்கு அக்கல்வி அறிவான் ஆய பயன் யாது?; வால் அறிவன் நல் தாள் தொழாஅர் எனின் - மெய்யுணர்வினை உடையானது நல்ல தாள்களைத் தொழாராயின்? (எவன் என்னும் வினாப்பெயர் என் என்று ஆய், ஈண்டு இன்மை குறித்து நின்றது. 'கொல்' என்பது...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 1: 'The Praise of God'), Kural 2 distills a foundational ethical insight: \"No fruit have men of all their studied lore, Save they the 'Purely Wise One's' feet adore\" Philosophically, What Profit have those derived from learning, who worship not the good feet of Him who is possessed of pure knowledge ?",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "education",
+        "gratitude",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 3,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அன்பரின் அகமாகிய மலரில் வீற்றிருக்கும் கடவுளின் சிறந்த திருவடிகளை பொருந்தி நினைக்கின்றவர், இன்ப உலகில் நிலைத்து வாழ்வார்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: They who are united to the glorious feet of Him who passes swiftly over the flower of the mind, shall flourish long above all worlds.",
+        "story_title_ta": "கடவுள் வாழ்த்து — இனியா கற்ற பாடம்",
+        "story_title_en": "The Praise of God — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கடவுள் வாழ்த்து' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 3 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மனமாகிய மலர்மீது சென்று இருப்பவனாகிய கடவுளின் சிறந்த திருவடிகளை எப்போதும் நினைப்பவர் இப்பூமியில் நெடுங்காலம் வாழ்வர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'The Praise of God'. Grandpa shared Kural 3 and explained in simple words: They who are united to the glorious feet of Him who passes swiftly over the flower of the mind, shall flourish long above all worlds. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மலர் போன்ற மனத்தில் நிறைந்தவனைப் பின்பற்றுவோரின் புகழ்வாழ்வு, உலகில் நெடுங்காலம் நிலைத்து நிற்கும்.",
+        "moral_en": "Moral: His feet, 'Who o'er the full-blown flower hath past,' who gainIn bliss long time shall dwell above this earthly plain.",
+        "game_blank_word_ta": "சேர்ந்தார்",
+        "game_options_ta": [
+          "அகர",
+          "முதல",
+          "எழுத்தெல்லாம்",
+          "சேர்ந்தார்"
+        ],
+        "game_options_en": [
+          "'A' leads letters; the Ancient Lord Leads and lords the entire world",
+          "That lore is vain which does not fall At His good feet who knoweth all",
+          "Who hold His feet who likes nor loathes Are free from woes of human births",
+          "Long they live on earth who gain The feet of God in florid brain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கடவுள் வாழ்த்து (பாயிரவியல்) பிரிவில் அமைந்த குறள் 3, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனமாகிய மலர்மீது சென்று இருப்பவனாகிய கடவுளின் சிறந்த திருவடிகளை எப்போதும் நினைப்பவர் இப்பூமியில் நெடுங்காலம் வாழ்வர். கலைஞர் உரை கூறுவது: மலர் போன்ற மனத்தில் நிறைந்தவனைப் பின்பற்றுவோரின் புகழ்வாழ்வு, உலகில் நெடுங்காலம் நிலைத்து நிற்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of God (Prologue), Kural 3 speaks directly to teens navigating studies, friendships, leadership, and digital choices: They who are united to the glorious feet of Him who passes swiftly over the flower of the mind, shall flourish long above all worlds. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'கடவுள் வாழ்த்து' குறள் 3 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 3 (The Praise of God) and writing one clear priority.",
+        "quiz_question_ta": "'கடவுள் வாழ்த்து' அதிகாரத்தில் வரும் திருக்குறள் 3 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 3 from Chapter 'The Praise of God'?",
+        "quiz_options_ta": [
+          "அறத்தின் இயல்பொடு இல்வாழ்கை வாழ்கிறவன்- வாழ முயல்கிறவன் பல திறத்தாரிலும் மேம்பட்டு விளங்குகிறவன் ஆவான்.",
+          "அனிச்சப்பூ மோந்தவுடன் வாடிவிடும்: அதுபோல் முகம் மலராமல் வேறு பட்டு நோக்கியவுடன் விருந்தினர் வாடி நிற்பார்.",
+          "ஒழுக்கம் உடையவராக வாழ்வதே உயர்ந்த குடிப்பிறப்பின் தன்மையாகும்; ஒழுக்கம் தவறுதல் இழிந்த குடிப்பிறப்பின் தன்மையாகி விடும்.",
+          "அன்பரின் அகமாகிய மலரில் வீற்றிருக்கும் கடவுளின் சிறந்த திருவடிகளை பொருந்தி நினைக்கின்றவர், இன்ப உலகில் நிலைத்து வாழ்வார்"
+        ],
+        "quiz_options_en": [
+          "Of all who strive for bliss, the great Is he who leads the married state",
+          "Anicham smelt withers: like that A wry-faced look withers the guest",
+          "Good conduct shows good family Low manners mark anomaly",
+          "Long they live on earth who gain The feet of God in florid brain"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (கடவுள் வாழ்த்து) பகுதியில் குறள் 3 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன்பரின் அகமாகிய மலரில் வீற்றிருக்கும் கடவுளின் சிறந்த திருவடிகளை பொருந்தி நினைக்கின்றவர், இன்ப உலகில் நிலைத்து வாழ்வார். பரிமேலழகர் உரை நுட்பம்: மலர்மிசை ஏகினான் மாண்அடி சேர்ந்தார் - மலரின் கண்ணே சென்றவனது மாட்சிமைப்பட்ட அடிகளைச் சேர்ந்தார்; நிலமிசை நீடுவாழ்வார் - எல்லா உலகிற்கும் மேலாய வீட்டு உலகின்கண் அழிவின்றி வாழ்வார். (அன்பான் நினைவாரது உள்ளக் கமலத்தின்கண் அவர் நினைந்த வடிவோடு விரைந்து சேறலின...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 1: 'The Praise of God'), Kural 3 distills a foundational ethical insight: \"His feet, 'Who o'er the full-blown flower hath past,' who gainIn bliss long time shall dwell above this earthly plain\" Philosophically, They who are united to the glorious feet of Him who passes swiftly over the flower of the mind, shall flourish long above all worlds.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "time",
+        "self-mastery",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 4,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: விருப்பு வெறுப்பு இல்லாத கடவுளின் திருவடிகளை பொருந்தி நினைக்கின்றவர்க்கு எப்போதும் எவ்விடத்திலும் துன்பம் இல்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: To those who meditate the feet of Him who is void of desire or aversion, evil shall never come.",
+        "story_title_ta": "கடவுள் வாழ்த்து — முகில் கற்ற பாடம்",
+        "story_title_en": "The Praise of God — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கடவுள் வாழ்த்து' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 4 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எதிலும் விருப்பு வெறுப்பு இல்லாத கடவுளின் திருவடிகளை மனத்தால் எப்போதும் நினைப்பவருக்கு உலகத் துன்பம் ஒருபோதும் இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'The Praise of God'. Grandpa shared Kural 4 and explained in simple words: To those who meditate the feet of Him who is void of desire or aversion, evil shall never come. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: விருப்பு வெறுப்பற்றுத் தன்னலமின்றித் திகழ்கின்றவரைப் பின்பற்றி நடப்பவர்களுக்கு எப்போதுமே துன்பம் ஏற்படுவதில்லை.",
+        "moral_en": "Moral: His foot, 'Whom want affects not, irks not grief,' who gainShall not, through every time, of any woes complain.",
+        "game_blank_word_ta": "யாண்டும்",
+        "game_options_ta": [
+          "யாண்டும்",
+          "அகர",
+          "முதல",
+          "எழுத்தெல்லாம்"
+        ],
+        "game_options_en": [
+          "Who hold His feet who likes nor loathes Are free from woes of human births",
+          "'A' leads letters; the Ancient Lord Leads and lords the entire world",
+          "That lore is vain which does not fall At His good feet who knoweth all",
+          "Long they live on earth who gain The feet of God in florid brain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கடவுள் வாழ்த்து (பாயிரவியல்) பிரிவில் அமைந்த குறள் 4, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எதிலும் விருப்பு வெறுப்பு இல்லாத கடவுளின் திருவடிகளை மனத்தால் எப்போதும் நினைப்பவருக்கு உலகத் துன்பம் ஒருபோதும் இல்லை. கலைஞர் உரை கூறுவது: விருப்பு வெறுப்பற்றுத் தன்னலமின்றித் திகழ்கின்றவரைப் பின்பற்றி நடப்பவர்களுக்கு எப்போதுமே துன்பம் ஏற்படுவதில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of God (Prologue), Kural 4 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To those who meditate the feet of Him who is void of desire or aversion, evil shall never come. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'கடவுள் வாழ்த்து' குறள் 4 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 4 (The Praise of God) and writing one clear priority.",
+        "quiz_question_ta": "'கடவுள் வாழ்த்து' அதிகாரத்தில் வரும் திருக்குறள் 4 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 4 from Chapter 'The Praise of God'?",
+        "quiz_options_ta": [
+          "விருப்பு வெறுப்பு இல்லாத கடவுளின் திருவடிகளை பொருந்தி நினைக்கின்றவர்க்கு எப்போதும் எவ்விடத்திலும் துன்பம் இல்லை",
+          "மற்றவரை அறநெறியில் ஒழுகச்செய்து தானும்அறம் தவறாத இல்வாழ்க்கை , தவம் செய்வாரைவிட மிகச்சிறந்த வல்லமை உடைய வாழ்க்கையாகும்.",
+          "அன்பு கலந்து வஞ்சம் அற்றவைகளாகிய சொற்கள், மெய்ப்பொருள் கண்டவர்களின் வாய்ச்சொற்கள் இன்சொற்களாகும்.",
+          "கற்ற மறைப் பொருளை மறந்தாலும் மீண்டும் அதனை ஓதிக் கற்றுக் கொள்ள முடியும்; ஆனால் மறை ஓதுவனுடைய குடிப்பிறப்பு, ஒழுக்கம் குன்றினால் கெடு்ம்."
+        ],
+        "quiz_options_en": [
+          "Who hold His feet who likes nor loathes Are free from woes of human births",
+          "Straight in virtue, right in living Make men brighter than monks praying",
+          "The words of Seers are lovely sweet Merciful and free from deceit",
+          "Readers recall forgotten lore, But conduct lost returns no more"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (கடவுள் வாழ்த்து) பகுதியில் குறள் 4 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: விருப்பு வெறுப்பு இல்லாத கடவுளின் திருவடிகளை பொருந்தி நினைக்கின்றவர்க்கு எப்போதும் எவ்விடத்திலும் துன்பம் இல்லை. பரிமேலழகர் உரை நுட்பம்: வேண்டுதல் வேண்டாமை இலான் அடி சேர்ந்தார்க்கு - ஒரு பொருளையும் விழைதலும் வெறுத்தலும் இல்லாதவன் அடியைச் சேர்ந்தார்க்கு; யாண்டும் இடும்பை இல - எக்காலத்தும் பிறவித் துன்பங்கள் உளவாகா. (பிறவித் துன்பங்களாவன : தன்னைப் பற்றி வருவனவும், பிற உயிர்களைப் பற்றி வருவனவும...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 1: 'The Praise of God'), Kural 4 distills a foundational ethical insight: \"His foot, 'Whom want affects not, irks not grief,' who gainShall not, through every time, of any woes complain\" Philosophically, To those who meditate the feet of Him who is void of desire or aversion, evil shall never come.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "time",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 5,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கடவுளின் உண்மைப் புகழை விரும்பி அன்பு செலுத்துகின்றவரிடம் அறியாமையால் விளையும் இருவகை வினையும் சேர்வதில்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The two-fold deeds that spring from darkness shall not adhere to those who delight in the true praise of God.",
+        "story_title_ta": "கடவுள் வாழ்த்து — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Praise of God — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கடவுள் வாழ்த்து' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 5 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'கடவுளின் மெய்மைப் புகழையே விரும்புபவரிடம் அறியாமை இருளால் வரும் நல்வினை, தீவினை என்னும் இரண்டும் சேருவதில்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'The Praise of God'. Grandpa shared Kural 5 and explained in simple words: The two-fold deeds that spring from darkness shall not adhere to those who delight in the true praise of God. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: இறைவன் என்பதற்குரிய பொருளைப் புரிந்து கொண்டு புகழ் பெற விரும்புகிறவர்கள், நன்மை தீமைகளை ஒரே அளவில் எதிர் கொள்வார்கள்.",
+        "moral_en": "Moral: The men, who on the 'King's' true praised delight to dwell, Affects not them the fruit of deeds done ill or well.",
+        "game_blank_word_ta": "மாட்டு",
+        "game_options_ta": [
+          "அகர",
+          "மாட்டு",
+          "முதல",
+          "எழுத்தெல்லாம்"
+        ],
+        "game_options_en": [
+          "'A' leads letters; the Ancient Lord Leads and lords the entire world",
+          "God's praise who tell, are free from right And wrong, the twins of dreaming night",
+          "That lore is vain which does not fall At His good feet who knoweth all",
+          "Long they live on earth who gain The feet of God in florid brain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கடவுள் வாழ்த்து (பாயிரவியல்) பிரிவில் அமைந்த குறள் 5, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கடவுளின் மெய்மைப் புகழையே விரும்புபவரிடம் அறியாமை இருளால் வரும் நல்வினை, தீவினை என்னும் இரண்டும் சேருவதில்லை. கலைஞர் உரை கூறுவது: இறைவன் என்பதற்குரிய பொருளைப் புரிந்து கொண்டு புகழ் பெற விரும்புகிறவர்கள், நன்மை தீமைகளை ஒரே அளவில் எதிர் கொள்வார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of God (Prologue), Kural 5 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The two-fold deeds that spring from darkness shall not adhere to those who delight in the true praise of God. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'கடவுள் வாழ்த்து' குறள் 5 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 5 (The Praise of God) and writing one clear priority.",
+        "quiz_question_ta": "'கடவுள் வாழ்த்து' அதிகாரத்தில் வரும் திருக்குறள் 5 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 5 from Chapter 'The Praise of God'?",
+        "quiz_options_ta": [
+          "அறம் என்று சிறப்பித்து சொல்லப்பட்டது இல்வாழ்க்கையே ஆகும். அதுவும் மற்றவன் பழிக்கும் குற்றம் இல்லாமல் விளங்கினால் மேலும் நன்மையாகும்.",
+          "கடவுளின் உண்மைப் புகழை விரும்பி அன்பு செலுத்துகின்றவரிடம் அறியாமையால் விளையும் இருவகை வினையும் சேர்வதில்லை",
+          "முகம் மலர்ந்து இன்சொல் உடையவனாக இருக்கப்பெற்றால், மனம் மகிழ்ந்து பொருள் கொடுக்கும் ஈகையைவிட நல்லதாகும்.",
+          "பொறாமை உடையவனிடத்தில் ஆக்கம் இல்லாதவாறு போல, ஒழுக்கம் இல்லாதவனுடைய வாழ்க்கையில் உயர்வு இல்லையாகும்."
+        ],
+        "quiz_options_en": [
+          "Home-life and virtue, are the same; Which spotless monkhood too can claim",
+          "God's praise who tell, are free from right And wrong, the twins of dreaming night",
+          "Sweet words from smiling lips dispense More joys than heart's beneficence",
+          "The envious prosper but ill The ill-behaved sinks lower still"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (கடவுள் வாழ்த்து) பகுதியில் குறள் 5 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கடவுளின் உண்மைப் புகழை விரும்பி அன்பு செலுத்துகின்றவரிடம் அறியாமையால் விளையும் இருவகை வினையும் சேர்வதில்லை. பரிமேலழகர் உரை நுட்பம்: இருள்சேர் இருவினையும் சேரா - மயக்கத்தைப் பற்றி வரும் நல்வினை, தீவினை என்னும் இரண்டு வினையும் உளவாகா; இறைவன் பொருள் சேர் புகழ் புரிந்தார் மாட்டு - இறைவனது மெய்ம்மை சேர்ந்த புகழை விரும்பினாரிடத்து. (இன்ன தன்மைத்து என ஒருவராலும் கூறப்படாமையின் அவிச்சையை 'இருள...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 1: 'The Praise of God'), Kural 5 distills a foundational ethical insight: \"The men, who on the 'King's' true praised delight to dwell, Affects not them the fruit of deeds done ill or well\" Philosophically, The two-fold deeds that spring from darkness shall not adhere to those who delight in the true praise of God.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "wealth",
+        "ethics",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 6,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஐம்பொறி வாயிலாக பிறக்கும் வேட்கைகளை அவித்த இறைவனுடைய பொய்யற்ற ஒழுக்க நெறியில் நின்றவர், நிலை பெற்ற நல்வாழ்க்கை வாழ்வர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Those shall long proposer who abide in the faultless way of Him who has destroyed the five desires of the senses.",
+        "story_title_ta": "கடவுள் வாழ்த்து — கவின் கற்ற பாடம்",
+        "story_title_en": "The Praise of God — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கடவுள் வாழ்த்து' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 6 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மெய், வாய், கண், மூக்கு, செவி ஆகிய ஐந்து பொறிகளின் வழிப் பிறக்கும் தீய ஆசைகளை அழித்து கடவுளின் பொய்யற்ற ஒழுக்க வழியிலே நின்றவர் நெடுங்காலம் வாழ்வார்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'The Praise of God'. Grandpa shared Kural 6 and explained in simple words: Those shall long proposer who abide in the faultless way of Him who has destroyed the five desires of the senses. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மெய், வாய், கண், மூக்கு, செவி எனும் ஐம்பொறிகளையும் கட்டுப்படுத்திய தூயவனின் உண்மையான ஒழுக்கமுடைய நெறியைப் பின்பற்றி நிற்பவர்களின் புகழ்வாழ்வு நிலையானதாக அமையும்.",
+        "moral_en": "Moral: Long live they blest, who 've stood in path from falsehood freed; His, 'Who quenched lusts that from the sense-gates five proceed'.",
+        "game_blank_word_ta": "பொறிவாயில்",
+        "game_options_ta": [
+          "அகர",
+          "முதல",
+          "பொறிவாயில்",
+          "எழுத்தெல்லாம்"
+        ],
+        "game_options_en": [
+          "'A' leads letters; the Ancient Lord Leads and lords the entire world",
+          "That lore is vain which does not fall At His good feet who knoweth all",
+          "They prosper long who walk His way Who has the senses signed away",
+          "Long they live on earth who gain The feet of God in florid brain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கடவுள் வாழ்த்து (பாயிரவியல்) பிரிவில் அமைந்த குறள் 6, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மெய், வாய், கண், மூக்கு, செவி ஆகிய ஐந்து பொறிகளின் வழிப் பிறக்கும் தீய ஆசைகளை அழித்து கடவுளின் பொய்யற்ற ஒழுக்க வழியிலே நின்றவர் நெடுங்காலம் வாழ்வார். கலைஞர் உரை கூறுவது: மெய், வாய், கண், மூக்கு, செவி எனும் ஐம்பொறிகளையும் கட்டுப்படுத்திய தூயவனின் உண்மையான ஒழுக்கமுடைய நெறியைப் பின்பற்றி நிற்பவர்களின் புகழ்வாழ்வு நிலையானதாக அமையும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of God (Prologue), Kural 6 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those shall long proposer who abide in the faultless way of Him who has destroyed the five desires of the senses. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'கடவுள் வாழ்த்து' குறள் 6 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 6 (The Praise of God) and writing one clear priority.",
+        "quiz_question_ta": "'கடவுள் வாழ்த்து' அதிகாரத்தில் வரும் திருக்குறள் 6 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 6 from Chapter 'The Praise of God'?",
+        "quiz_options_ta": [
+          "உலகத்தில் வாழவேண்டிய அறநெறியில் நின்று வாழ்கிறவன், வானுலகத்தில் உள்ள தெய்வ முறையில் வைத்து மதிக்கப்படுவான்.",
+          "முகத்தால் விரும்பி- இனிமையுடன் நோக்கி- உள்ளம் கலந்து இன்சொற்களைக் கூறும் தன்மையில் உள்ளதே அறமாகும்.",
+          "ஐம்பொறி வாயிலாக பிறக்கும் வேட்கைகளை அவித்த இறைவனுடைய பொய்யற்ற ஒழுக்க நெறியில் நின்றவர், நிலை பெற்ற நல்வாழ்க்கை வாழ்வர்",
+          "ஒழுக்கம் தவறுதலால் குற்றம் உண்டாவதை அறிந்து, மனவலிமை உடைய சான்றோர் ஒழுக்கத்தில் தவறாமல் காத்துக் கொள்வர்."
+        ],
+        "quiz_options_en": [
+          "He is a man of divine worth Who lives in ideal home on earth",
+          "Calm face, sweet look, kind words from heart Such is the gracious virtue's part",
+          "They prosper long who walk His way Who has the senses signed away",
+          "The firm from virtue falter not They know the ills of evil thought"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (கடவுள் வாழ்த்து) பகுதியில் குறள் 6 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஐம்பொறி வாயிலாக பிறக்கும் வேட்கைகளை அவித்த இறைவனுடைய பொய்யற்ற ஒழுக்க நெறியில் நின்றவர், நிலை பெற்ற நல்வாழ்க்கை வாழ்வர். பரிமேலழகர் உரை நுட்பம்: பொறி வாயில் ஐந்து அவித்தான் - மெய், வாய், கண், மூக்கு, செவி என்னும் பொறிகளை வழியாக உடைய ஐந்து அவாவினையும் அறுத்தானது; பொய் தீர் ஒழுக்க நெறி நின்றார்-மெய்யான ஒழுக்க நெறியின்கண் நின்றார், நீடு வாழ்வார் - பிறப்பு இன்றி எக்காலத்தும் ஒரு தன்மையராய் வாழ்வார...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 1: 'The Praise of God'), Kural 6 distills a foundational ethical insight: \"Long live they blest, who 've stood in path from falsehood freed; His, 'Who quenched lusts that from the sense-gates five proceed'\" Philosophically, Those shall long proposer who abide in the faultless way of Him who has destroyed the five desires of the senses.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "truth",
+        "discipline",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 7,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தனக்கு ஒப்புமை இல்லாத தலைவனுடைய திருவடிகளைப் பொருந்தி நினைக்கின்றவர் அல்லாமல், மற்றவர்க்கு மனக்கவலையை மாற்ற முடியாது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Anxiety of mind cannot be removed, except from those who are united to the feet of Him who is incomparable.",
+        "story_title_ta": "கடவுள் வாழ்த்து — நிலா கற்ற பாடம்",
+        "story_title_en": "The Praise of God — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கடவுள் வாழ்த்து' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 7 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தனக்கு இணையில்லாத கடவுளின் திருவடிகளைச் சேர்ந்தவர்க்கே அன்றி, மற்றவர்களுக்கு மனக்கவலையைப் போக்குவது கடினம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Praise of God'. Grandpa shared Kural 7 and explained in simple words: Anxiety of mind cannot be removed, except from those who are united to the feet of Him who is incomparable. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒப்பாரும் மிக்காருமில்லாதவனுடைய அடியொற்றி நடப்பவர்களைத் தவிர, மற்றவர்களின் மனக்கவலை தீர வழியேதுமில்லை.",
+        "moral_en": "Moral: Unless His foot, 'to Whom none can compare,' men gain,'Tis hard for mind to find relief from anxious pain.",
+        "game_blank_word_ta": "தனக்குவமை",
+        "game_options_ta": [
+          "அகர",
+          "முதல",
+          "எழுத்தெல்லாம்",
+          "தனக்குவமை"
+        ],
+        "game_options_en": [
+          "'A' leads letters; the Ancient Lord Leads and lords the entire world",
+          "That lore is vain which does not fall At His good feet who knoweth all",
+          "Long they live on earth who gain The feet of God in florid brain",
+          "His feet, whose likeness none can find, Alone can ease the anxious mind"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கடவுள் வாழ்த்து (பாயிரவியல்) பிரிவில் அமைந்த குறள் 7, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தனக்கு இணையில்லாத கடவுளின் திருவடிகளைச் சேர்ந்தவர்க்கே அன்றி, மற்றவர்களுக்கு மனக்கவலையைப் போக்குவது கடினம். கலைஞர் உரை கூறுவது: ஒப்பாரும் மிக்காருமில்லாதவனுடைய அடியொற்றி நடப்பவர்களைத் தவிர, மற்றவர்களின் மனக்கவலை தீர வழியேதுமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of God (Prologue), Kural 7 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Anxiety of mind cannot be removed, except from those who are united to the feet of Him who is incomparable. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'கடவுள் வாழ்த்து' குறள் 7 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 7 (The Praise of God) and writing one clear priority.",
+        "quiz_question_ta": "'கடவுள் வாழ்த்து' அதிகாரத்தில் வரும் திருக்குறள் 7 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 7 from Chapter 'The Praise of God'?",
+        "quiz_options_ta": [
+          "இல்வாழ்க்கைக்கு ஏற்ற நற்பண்பு உடையவளாகித் தன்கணவனுடைய பொருள் வளத்துக்குத் தக்க வாழ்க்கை நடத்துகிறவளே வாழ்க்கைத்துணை ஆவாள்.",
+          "யாரிடத்திலும் இன்புறத்தக்க இன்சொல் வழங்குவோர்க்குத் துன்பத்தை மிகுதிபடுத்தும் வறுமை என்பது இல்லையாகும்.",
+          "ஒழுக்கத்தால் எவரும் மேம்பாட்டை அடைவர்; ஒழுக்கத்திலிருந்து தவறுதலால் அடையத் தகாத பெரும் பழியை அடைவர்.",
+          "தனக்கு ஒப்புமை இல்லாத தலைவனுடைய திருவடிகளைப் பொருந்தி நினைக்கின்றவர் அல்லாமல், மற்றவர்க்கு மனக்கவலையை மாற்ற முடியாது"
+        ],
+        "quiz_options_en": [
+          "A good housewife befits the house, Spending with thrift the mate's resource",
+          "Whose loving words delight each one The woe of want from them is gone",
+          "Conduct good ennobles man, Bad conduct entails disgrace mean",
+          "His feet, whose likeness none can find, Alone can ease the anxious mind"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (கடவுள் வாழ்த்து) பகுதியில் குறள் 7 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தனக்கு ஒப்புமை இல்லாத தலைவனுடைய திருவடிகளைப் பொருந்தி நினைக்கின்றவர் அல்லாமல், மற்றவர்க்கு மனக்கவலையை மாற்ற முடியாது. பரிமேலழகர் உரை நுட்பம்: தனக்கு உவமை இல்லாதான் தாள்சேர்ந்தார்க்கு அல்லால் - ஒருவாற்றானும் தனக்கு நிகர் இல்லாதவனது தாளைச் சேர்ந்தார்க்கு அல்லது; மனக்கவலை மாற்றல் அரிது - மனத்தின்கண் நிகழும் துன்பங்களை நீக்குதல் உண்டாகாது. (\"உறற்பால தீண்டா விடுதலரிது\" (நாலடி.109) என்றாற் போல, ஈண்டு...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 1: 'The Praise of God'), Kural 7 distills a foundational ethical insight: \"Unless His foot, 'to Whom none can compare,' men gain,'Tis hard for mind to find relief from anxious pain\" Philosophically, Anxiety of mind cannot be removed, except from those who are united to the feet of Him who is incomparable.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "self-mastery",
+        "truth",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 8,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அறக்கடலாக விளங்கும் கடவுளின் திருவடிகளைப் பொருந்தி நினைக்கின்றவர் அல்லாமல், மற்றவர் பொருளும் இன்பமுமாகிய மற்ற கடல்களைக் கடக்க முடியாது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: None can swim the sea of vice, but those who are united to the feet of that gracious Being who is a sea of virtue.",
+        "story_title_ta": "கடவுள் வாழ்த்து — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Praise of God — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கடவுள் வாழ்த்து' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 8 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அறக்கடலான கடவுளின் திருவடிகளை சேர்ந்தவரே அல்லாமல் மற்றவர் பிறவியாக கடலை நீந்திக் கடப்பது கடினம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Praise of God'. Grandpa shared Kural 8 and explained in simple words: None can swim the sea of vice, but those who are united to the feet of that gracious Being who is a sea of virtue. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அந்தணர் என்பதற்குப் பொருள் சான்றோர் என்பதால், அறக்கடலாகவே விளங்கும் அந்தச் சான்றோரின் அடியொற்றி நடப்பவர்க்கேயன்றி, மற்றவர்களுக்குப் பிற துன்பக் கடல்களைக் கடப்பது என்பது எளிதான காரியமல்ல.",
+        "moral_en": "Moral: Unless His feet 'the Sea of Good, the Fair and Bountiful,' men gain,'Tis hard the further bank of being's changeful sea to attain.",
+        "game_blank_word_ta": "அந்தணன்",
+        "game_options_ta": [
+          "அந்தணன்",
+          "அகர",
+          "முதல",
+          "எழுத்தெல்லாம்"
+        ],
+        "game_options_en": [
+          "Who swims the sea of vice is he Who clasps the feet of Virtue's sea",
+          "'A' leads letters; the Ancient Lord Leads and lords the entire world",
+          "That lore is vain which does not fall At His good feet who knoweth all",
+          "Long they live on earth who gain The feet of God in florid brain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கடவுள் வாழ்த்து (பாயிரவியல்) பிரிவில் அமைந்த குறள் 8, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறக்கடலான கடவுளின் திருவடிகளை சேர்ந்தவரே அல்லாமல் மற்றவர் பிறவியாக கடலை நீந்திக் கடப்பது கடினம். கலைஞர் உரை கூறுவது: அந்தணர் என்பதற்குப் பொருள் சான்றோர் என்பதால், அறக்கடலாகவே விளங்கும் அந்தச் சான்றோரின் அடியொற்றி நடப்பவர்க்கேயன்றி, மற்றவர்களுக்குப் பிற துன்பக் கடல்களைக் கடப்பது என்பது எளிதான காரியமல்ல. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of God (Prologue), Kural 8 speaks directly to teens navigating studies, friendships, leadership, and digital choices: None can swim the sea of vice, but those who are united to the feet of that gracious Being who is a sea of virtue. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'கடவுள் வாழ்த்து' குறள் 8 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 8 (The Praise of God) and writing one clear priority.",
+        "quiz_question_ta": "'கடவுள் வாழ்த்து' அதிகாரத்தில் வரும் திருக்குறள் 8 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 8 from Chapter 'The Praise of God'?",
+        "quiz_options_ta": [
+          "அறக்கடலாக விளங்கும் கடவுளின் திருவடிகளைப் பொருந்தி நினைக்கின்றவர் அல்லாமல், மற்றவர் பொருளும் இன்பமுமாகிய மற்ற கடல்களைக் கடக்க முடியாது",
+          "இல்வாழ்க்கைக்கு தக்க நற்பண்பு மனைவியிடம் இல்லையானால், ஒருவனுடைய வாழ்க்கை வேறு எவ்வளவு சிறப்புடையதானாலும் பயன் இல்லை.",
+          "வணக்கம் உடையவனாகவும் இன்சொல் வழங்குவோனாகவும் ஆதலே ஒருவனுக்கு அணிகலனாகும் மற்றவை அணிகள் அல்ல.",
+          "நல்லொழுக்கம் இன்பமான நல்வாழ்க்கைக்குக் காரணமாக இருக்கும்; தீயொழுக்கம் எப்போதும் துன்பத்தைக் கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "Who swims the sea of vice is he Who clasps the feet of Virtue's sea",
+          "Bright is home when wife is chaste If not all greatness is but waste",
+          "To be humble and sweet words speak No other jewel do wise men seek",
+          "Good conduct sows seeds of blessings Bad conduct endless evil brings"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (கடவுள் வாழ்த்து) பகுதியில் குறள் 8 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறக்கடலாக விளங்கும் கடவுளின் திருவடிகளைப் பொருந்தி நினைக்கின்றவர் அல்லாமல், மற்றவர் பொருளும் இன்பமுமாகிய மற்ற கடல்களைக் கடக்க முடியாது. பரிமேலழகர் உரை நுட்பம்: அற ஆழி அந்தணன் தாள் சேர்ந்தார்க்கு அல்லால் - அறக்கடல் ஆகிய அந்தணனது தாள் ஆகிய புணையைச் சேர்ந்தார்க்கல்லது; பிற ஆழி நீந்தல் அரிது. அதனின் பிறவாகிய கடல்களை நீந்தல் அரிது. (அறம், பொருள், இன்பம் என உடன் எண்ணப்பட்ட மூன்றனுள் அறத்தை முன்னர்ப் பிரித்தமையான், ஏனைப...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 1: 'The Praise of God'), Kural 8 distills a foundational ethical insight: \"Unless His feet 'the Sea of Good, the Fair and Bountiful,' men gain,'Tis hard the further bank of being's changeful sea to attain\" Philosophically, None can swim the sea of vice, but those who are united to the feet of that gracious Being who is a sea of virtue.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "ethics",
+        "wisdom",
+        "justice",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 9,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கேட்காதசெவி, பார்க்காத கண் போன்ற எண் குணங்களை உடைய கடவுளின் திருவடிகளை வணங்காதவரின் தலைகள் பயனற்றவைகளாம்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The head that worships not the feet of Him who is possessed of eight attributes, is as useless as a sense without the power of sensation.",
+        "story_title_ta": "கடவுள் வாழ்த்து — இனியா கற்ற பாடம்",
+        "story_title_en": "The Praise of God — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கடவுள் வாழ்த்து' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 9 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எண்ணும் நல்ல குணங்களுக்கு எல்லாம் இருப்பிடமான கடவுளின் திருவடிகளை வணங்காத தலைகள், புலன்கள் இல்லாத பொறிகள்போல, இருந்தும் பயன் இல்லாதவையே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'The Praise of God'. Grandpa shared Kural 9 and explained in simple words: The head that worships not the feet of Him who is possessed of eight attributes, is as useless as a sense without the power of sensation. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உடல், கண், காது, மூக்கு, வாய் எனும் ஐம்பொறிகள் இருந்தும், அவைகள் இயங்காவிட்டால் என்ன நிலையோ அதே நிலைதான் ஈடற்ற ஆற்றலும் பண்பும் கொண்டவனை வணங்கி நடக்காதவனின் நிலையும் ஆகும்.",
+        "moral_en": "Moral: Before His foot, 'the Eight-fold Excellence,' with unbent head, Who stands, like palsied sense, is to all living functions dead.",
+        "game_blank_word_ta": "வணங்காத்",
+        "game_options_ta": [
+          "அகர",
+          "வணங்காத்",
+          "முதல",
+          "எழுத்தெல்லாம்"
+        ],
+        "game_options_en": [
+          "'A' leads letters; the Ancient Lord Leads and lords the entire world",
+          "Like senses stale that head is vain Which bows not to Eight-Virtued Divine",
+          "That lore is vain which does not fall At His good feet who knoweth all",
+          "Long they live on earth who gain The feet of God in florid brain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கடவுள் வாழ்த்து (பாயிரவியல்) பிரிவில் அமைந்த குறள் 9, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எண்ணும் நல்ல குணங்களுக்கு எல்லாம் இருப்பிடமான கடவுளின் திருவடிகளை வணங்காத தலைகள், புலன்கள் இல்லாத பொறிகள்போல, இருந்தும் பயன் இல்லாதவையே. கலைஞர் உரை கூறுவது: உடல், கண், காது, மூக்கு, வாய் எனும் ஐம்பொறிகள் இருந்தும், அவைகள் இயங்காவிட்டால் என்ன நிலையோ அதே நிலைதான் ஈடற்ற ஆற்றலும் பண்பும் கொண்டவனை வணங்கி நடக்காதவனின் நிலையும் ஆகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of God (Prologue), Kural 9 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The head that worships not the feet of Him who is possessed of eight attributes, is as useless as a sense without the power of sensation. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'கடவுள் வாழ்த்து' குறள் 9 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 9 (The Praise of God) and writing one clear priority.",
+        "quiz_question_ta": "'கடவுள் வாழ்த்து' அதிகாரத்தில் வரும் திருக்குறள் 9 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 9 from Chapter 'The Praise of God'?",
+        "quiz_options_ta": [
+          "மனைவி நற்பண்பு உடையவளானால் வாழ்க்கையில் இல்லாதது என்ன? அவள் நற்பண்பு இல்லாதவளானால் வாழ்க்கையில் இருப்பது என்ன?",
+          "கேட்காதசெவி, பார்க்காத கண் போன்ற எண் குணங்களை உடைய கடவுளின் திருவடிகளை வணங்காதவரின் தலைகள் பயனற்றவைகளாம்",
+          "பிறர்க்கு நன்மையானவற்றை நாடி இனிமை உடையச் சொற்களைச் சொல்லின், பாவங்கள் தேய்ந்து குறைய அறம் வளர்ந்து பெருகும்.",
+          "தீய சொற்களைத் தவறியும் தம்முடைய வாயால் சொல்லும் குற்றம், ஒழுக்கம் உடையவர்க்குப் பொருந்தாததாகும்."
+        ],
+        "quiz_options_en": [
+          "What is rare when wife is good What can be there when she is bad?",
+          "Like senses stale that head is vain Which bows not to Eight-Virtued Divine",
+          "His sins vanish, his virtues grow Whose fruitful words with sweetness flow",
+          "Foul words will never fall from lips Of righteous men even by slips"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (கடவுள் வாழ்த்து) பகுதியில் குறள் 9 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கேட்காதசெவி, பார்க்காத கண் போன்ற எண் குணங்களை உடைய கடவுளின் திருவடிகளை வணங்காதவரின் தலைகள் பயனற்றவைகளாம். பரிமேலழகர் உரை நுட்பம்: கோள் இல் பொறியில் குணம் இல - தத்தமக்கு ஏற்ற புலன்களைக் கொள்கை இல்லாத பொறிகள் போலப் பயன்படுதலுடைய அல்ல; எண் குணத்தான் தாளை வணங்காத் தலை - எண் வகைப்பட்ட குணங்களை உடையானது தாள்களை வணங்காத தலைகள். (எண்குணங்களாவன: தன்வயத்தன் ஆதல், தூய உடம்பினன் ஆதல், இயற்கை...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 1: 'The Praise of God'), Kural 9 distills a foundational ethical insight: \"Before His foot, 'the Eight-fold Excellence,' with unbent head, Who stands, like palsied sense, is to all living functions dead\" Philosophically, The head that worships not the feet of Him who is possessed of eight attributes, is as useless as a sense without the power of sensation.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "education",
+        "ethics",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 10,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: இறைவனுடைய திருவடிகளை பொருந்தி நினைக்கின்றவர் பிறவியாகிய பெரிய கடலைக் கடக்க முடியும். மற்றவர் கடக்க முடியாது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: None can swim the great sea of births but those who are united to the feet of God.",
+        "story_title_ta": "கடவுள் வாழ்த்து — முகில் கற்ற பாடம்",
+        "story_title_en": "The Praise of God — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கடவுள் வாழ்த்து' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 10 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'கடவுளின் திருவடிகளைச் சேர்ந்தவர் பிறவியாகிய பெருங்கடலை நீந்திக் கடப்பர்; மற்றவர் நீந்தவும் மாட்டார்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'The Praise of God'. Grandpa shared Kural 10 and explained in simple words: None can swim the great sea of births but those who are united to the feet of God. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வாழ்க்கை எனும் பெருங்கடலை நீந்திக் கடக்க முனைவோர், தலையானவனாக இருப்பவனின் அடி தொடர்ந்து செல்லாவிடில் நீந்த முடியாமல் தவிக்க நேரிடும்.",
+        "moral_en": "Moral: They swim the sea of births, the 'Monarch's' foot who gain; None others reach the shore of being's mighty main.",
+        "game_blank_word_ta": "இறைவன்",
+        "game_options_ta": [
+          "அகர",
+          "முதல",
+          "இறைவன்",
+          "எழுத்தெல்லாம்"
+        ],
+        "game_options_en": [
+          "'A' leads letters; the Ancient Lord Leads and lords the entire world",
+          "That lore is vain which does not fall At His good feet who knoweth all",
+          "The sea of births they alone swim Who clench His feet and cleave to Him",
+          "Long they live on earth who gain The feet of God in florid brain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கடவுள் வாழ்த்து (பாயிரவியல்) பிரிவில் அமைந்த குறள் 10, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கடவுளின் திருவடிகளைச் சேர்ந்தவர் பிறவியாகிய பெருங்கடலை நீந்திக் கடப்பர்; மற்றவர் நீந்தவும் மாட்டார். கலைஞர் உரை கூறுவது: வாழ்க்கை எனும் பெருங்கடலை நீந்திக் கடக்க முனைவோர், தலையானவனாக இருப்பவனின் அடி தொடர்ந்து செல்லாவிடில் நீந்த முடியாமல் தவிக்க நேரிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Praise of God (Prologue), Kural 10 speaks directly to teens navigating studies, friendships, leadership, and digital choices: None can swim the great sea of births but those who are united to the feet of God. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று 'கடவுள் வாழ்த்து' குறள் 10 நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+        "action_tip_en": "Spend 15 distraction-free minutes today reflecting on Kural 10 (The Praise of God) and writing one clear priority.",
+        "quiz_question_ta": "'கடவுள் வாழ்த்து' அதிகாரத்தில் வரும் திருக்குறள் 10 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 10 from Chapter 'The Praise of God'?",
+        "quiz_options_ta": [
+          "இல்வாழ்க்கையில் கற்பு என்னும் உறுதிநிலை இருக்கப் பெற்றால், பெண்ணைவிட பெருமையுடையவை வேறு என்ன இருக்கின்றன?",
+          "பிறர்க்கு நன்மையான பயனைத் தந்து நல்ல பண்பிலிருந்து நீங்காத சொற்கள்,வழங்குவோனுக்கும் இன்பம் தந்து நன்மை பயக்கும்.",
+          "இறைவனுடைய திருவடிகளை பொருந்தி நினைக்கின்றவர் பிறவியாகிய பெரிய கடலைக் கடக்க முடியும். மற்றவர் கடக்க முடியாது",
+          "உலகத்து உயர்ந்தவரோடு பொருந்த ஒழுகும் முறையைக் கற்காதவர், பல நூல்களைக் கற்றிருந்த போதிலும் அறிவில்லாதவரே ஆவர்."
+        ],
+        "quiz_options_en": [
+          "What greater fortune is for men Than a constant chaste woman?",
+          "The fruitful courteous kindly words Lead to goodness and graceful deeds",
+          "The sea of births they alone swim Who clench His feet and cleave to Him",
+          "Though read much they are ignorant Whose life is not world-accordant"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — பாயிரவியல் (கடவுள் வாழ்த்து) பகுதியில் குறள் 10 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இறைவனுடைய திருவடிகளை பொருந்தி நினைக்கின்றவர் பிறவியாகிய பெரிய கடலைக் கடக்க முடியும். மற்றவர் கடக்க முடியாது. பரிமேலழகர் உரை நுட்பம்: இறைவன் அடி (சேர்ந்தார்) பிறவிப் பெருங்கடல் நீந்துவர் - இறைவன் அடி என்னும் புணையைச் சேர்ந்தார் பிறவி ஆகிய பெரிய கடலை நீந்துவர்; சேராதார் நீந்தார் - அதனைச் சேராதார் நீந்தமாட்டாராய் அதனுள் அழுந்துவர். (காரண காரியத் தொடர்ச்சியாய் கரை இன்றி வருதலின், 'பிறவிப...",
+        "reflection_en": "Within Book of Virtue (Prologue — Chapter 1: 'The Praise of God'), Kural 10 distills a foundational ethical insight: \"They swim the sea of births, the 'Monarch's' foot who gain; None others reach the shore of being's mighty main\" Philosophically, None can swim the great sea of births but those who are united to the feet of God.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "ethics"
+      ]
+    }
+  ]
+}

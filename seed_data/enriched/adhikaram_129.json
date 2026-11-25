@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 129,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.643139818+00:00",
+  "kurals": [
+    {
+      "kural_number": 1281,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நினைத்த அளவிலே களிப்படைதலும் கண்ட அளவிலே மகிழ்ச்சி அடைதலும் ஆகிய இந்த இருவகை தன்மையும் கள்ளுக்கு இல்‌லை; காமத்திற்கு உண்டு.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: To please by thought and cheer by sight is peculiar, not to liquor but lust.",
+        "story_title_ta": "புணர்ச்சி விதும்பல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Desire for Reunion — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1281 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1281 from 'Desire for Reunion', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: மதுவை அருந்தினால்தான் இன்பம், ஆனால் காதல் அப்படியல்ல; நினைத்தாலே இன்பம்; காதலர்கள் ஒருவரையொருவர் கண்டாலே இன்பம்.",
+        "moral_en": "Moral: Gladness at the thought, rejoicing at the sight, Not palm-tree wine, but love, yields such delight.",
+        "game_blank_word_ta": "கள்ளுக்கில்",
+        "game_options_ta": [
+          "தினைத்துணையும்",
+          "கள்ளுக்கில்",
+          "ஊடாமை",
+          "வேண்டும்"
+        ],
+        "game_options_en": [
+          "When passion grows palmyra-tall Sulking is wrong though millet-small",
+          "Rapture at thought and joy when seen Belong to love and not to wine",
+          "Though slighting me he acts his will My restless eyes would see him still",
+          "Huff I would, maid, but I forget; And leap to embrace him direct"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1281, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நினைத்த அளவிலே உணர்வு அழியாமல் உள்ளம் கிளர்தலும், பார்த்த அளவிலே உணர்வு அழிய உள்ளம் கிளர்தலும் கள் உண்பவர்க்கு இல்லை; காதல் வசப்பட்டவர்க்கே உண்டு. கலைஞர் உரை கூறுவது: மதுவை அருந்தினால்தான் இன்பம், ஆனால் காதல் அப்படியல்ல; நினைத்தாலே இன்பம்; காதலர்கள் ஒருவரையொருவர் கண்டாலே இன்பம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Desire for Reunion (Post-marital Love), Kural 1281 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To please by thought and cheer by sight is peculiar, not to liquor but lust. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Desire for Reunion'.",
+        "quiz_question_ta": "'புணர்ச்சி விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1281 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1281 from Chapter 'Desire for Reunion'?",
+        "quiz_options_ta": [
+          "தவறு இல்லாத போதும் ஊடலுக்கு ஆளாகித் தாம் விரும்பும் மகளிரின் மெல்லிய தோள்களை நீங்கி இருக்கும் போது ஓர் இன்பம் உள்ளது.",
+          "நினைத்த அளவிலே களிப்படைதலும் கண்ட அளவிலே மகிழ்ச்சி அடைதலும் ஆகிய இந்த இருவகை தன்மையும் கள்ளுக்கு இல்‌லை; காமத்திற்கு உண்டு",
+          "ஒருவன் அறம் செய்ய தவறிய நாள் ஏற்படாதவாறு அறத்தை செய்வானானால் அதுவே அவன் உடலோடு வாழும் நாள் வரும் பிறவி வழியை அடைக்கும் கல்லாகும்.",
+          "வீட்டில் இருந்து பொருள்களைக் காத்து இல்வாழ்க்கை நடத்துவதெல்லாம் விருந்தினரைப் போற்றி உதவி செய்யும் பொருட்டே ஆகும்"
+        ],
+        "quiz_options_en": [
+          "Though free form faults, one feels the charms Of feigned release from lover's arms",
+          "Rapture at thought and joy when seen Belong to love and not to wine",
+          "Like stones that block rebirth and pain Are doing good and good again",
+          "Men set up home, toil and earn To tend the guests and do good turn"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புணர்ச்சி விதும்பல்) பகுதியில் குறள் 1281 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நினைத்த அளவிலே களிப்படைதலும் கண்ட அளவிலே மகிழ்ச்சி அடைதலும் ஆகிய இந்த இருவகை தன்மையும் கள்ளுக்கு இல்‌லை; காமத்திற்கு உண்டு. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது , தலைமகனும் தலைமகளும் புணர்ச்சிக்கண்ணே விரைதல் . மேற் புணர்ச்சி மிகுதிபற்றித் தலைமகன் பிரிதற் குறிப்பு அறிவுறுத்தத் தலைமகள் , அவன் மாட்டே நிகழாது வேட்கை மிகவினாற் பின்னும் தன்கண்ணே நிகழ்தலான் . இது குறிப்பு அறிவுறுத்தலின் பின் வைக்கப்பட்டது...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 129: 'Desire for Reunion'), Kural 1281 distills a foundational ethical insight: \"Gladness at the thought, rejoicing at the sight, Not palm-tree wine, but love, yields such delight\" Philosophically, To please by thought and cheer by sight is peculiar, not to liquor but lust.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "wisdom",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1282,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: காமம் பனையளவாக நிறைய வரும்போது காதலரோடு தினையளவாகச் சிறிதேனும் ஊடல் கொள்ளாமல் இருக்க வேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If women have a lust that exceeds even the measure of the palmyra fruit, they will not desire (to feign) dislike even as much as the millet.",
+        "story_title_ta": "புணர்ச்சி விதும்பல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Desire for Reunion — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1282 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1282 from 'Desire for Reunion', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பனையளவாகக் காதல் பெருகிடும் போது தினையளவு ஊடலும் கொள்ளாமல் இருக்க வேண்டும்.",
+        "moral_en": "Moral: When as palmyra tall, fulness of perfect love we gain, Distrust can find no place small as the millet grain.",
+        "game_blank_word_ta": "ஊடாமை",
+        "game_options_ta": [
+          "உள்ளக்",
+          "களித்தலும்",
+          "ஊடாமை",
+          "மகிழ்தலும்"
+        ],
+        "game_options_en": [
+          "Rapture at thought and joy when seen Belong to love and not to wine",
+          "Though slighting me he acts his will My restless eyes would see him still",
+          "When passion grows palmyra-tall Sulking is wrong though millet-small",
+          "Huff I would, maid, but I forget; And leap to embrace him direct"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1282, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெண்களுக்குக் காதல் மிகப் பெரிதாகுமானால், கணவனோடு மிகச் சிறிதளவும் ஊடாமல் இருக்க வேண்டும். கலைஞர் உரை கூறுவது: பனையளவாகக் காதல் பெருகிடும் போது தினையளவு ஊடலும் கொள்ளாமல் இருக்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Desire for Reunion (Post-marital Love), Kural 1282 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If women have a lust that exceeds even the measure of the palmyra fruit, they will not desire (to feign) dislike even as much as the millet. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Desire for Reunion'.",
+        "quiz_question_ta": "'புணர்ச்சி விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1282 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1282 from Chapter 'Desire for Reunion'?",
+        "quiz_options_ta": [
+          "உண்பதை விட முன் உண்ட உணவுச் செரிப்பது இன்பமானது, அதுபோல் காமத்தில் கூடுவதைவிட ஊடுதல் இன்பமானது.",
+          "அறநெறியில் வாழ்வதன் பயனாக வருவதே இன்பமாகும். அறத்தோடு பொருந்தாமல் வருவன எல்லாம் இன்பம் இல்லாதவை: புகழும் இல்லாதவை.",
+          "காமம் பனையளவாக நிறைய வரும்போது காதலரோடு தினையளவாகச் சிறிதேனும் ஊடல் கொள்ளாமல் இருக்க வேண்டும்.",
+          "விருந்தினராக வந்தவர் வீட்டின் புறத்தே இருக்கத் தான் மட்டும் உண்பது சாவாமருந்தாகிய அமிழ்தமே ஆனாலும் அது விரும்பத்தக்கது அன்று"
+        ],
+        "quiz_options_en": [
+          "Sweeter than meal is digestion And sulk in love than union",
+          "Weal flows only from virtue done The rest is rue and renown gone",
+          "When passion grows palmyra-tall Sulking is wrong though millet-small",
+          "To keep out guests cannot be good Albeit you eat nector-like food"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புணர்ச்சி விதும்பல்) பகுதியில் குறள் 1282 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காமம் பனையளவாக நிறைய வரும்போது காதலரோடு தினையளவாகச் சிறிதேனும் ஊடல் கொள்ளாமல் இருக்க வேண்டும். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) காமம் பனைத்துணையும் நிறைய வரின் - மகளிர்க்குக் காமம் பனையளவினும் மிக உண்டாமாயின்; தினைத்துணையும் ஊடாமை வேண்டும் - அவரால், தம் காதலரோடு தினையளவும் ஊடுதல் செய்யாமை வேண்டப்படும். ('பனைத்துணையும்' என்புழி, ஐந்தனுருபு விகாரத்தால் தொக்கது. ஊடின...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 129: 'Desire for Reunion'), Kural 1282 distills a foundational ethical insight: \"When as palmyra tall, fulness of perfect love we gain, Distrust can find no place small as the millet grain\" Philosophically, If women have a lust that exceeds even the measure of the palmyra fruit, they will not desire (to feign) dislike even as much as the millet.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "family",
+        "love",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 1283,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: என்னை விரும்பாமல் புறக்கணித்துத் தனக்கு விருப்பமானவற்றையே செய்து ஒழுகினாலும், என்னுடைய கண்கள் காதலனைக் காணாமல் பொருந்தவில்லை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Though my eyes disregard me and do what is pleasing to my husband, still will they not be satisfied unless they see him.",
+        "story_title_ta": "புணர்ச்சி விதும்பல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Desire for Reunion — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1283 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1283 from 'Desire for Reunion', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என்னை அரவணைக்காமல் தமக்கு விருப்பமானவற்றையே செய்து கொண்டிருந்தாலும், என் கண்கள் அவரைக் காணாமல் அமைதி அடைவதில்லை.",
+        "moral_en": "Moral: Although his will his only law, he lightly value me, My heart knows no repose unless my lord I see.",
+        "game_blank_word_ta": "கொண்கனைக்",
+        "game_options_ta": [
+          "உள்ளக்",
+          "களித்தலும்",
+          "மகிழ்தலும்",
+          "கொண்கனைக்"
+        ],
+        "game_options_en": [
+          "Rapture at thought and joy when seen Belong to love and not to wine",
+          "When passion grows palmyra-tall Sulking is wrong though millet-small",
+          "Huff I would, maid, but I forget; And leap to embrace him direct",
+          "Though slighting me he acts his will My restless eyes would see him still"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1283, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என்னை அவமதித்து அவர் தம் விருப்பப்படியே செய்தாலும் என் கண்கள் அவரைக் காணாமல் இருப்பதில்லை. கலைஞர் உரை கூறுவது: என்னை அரவணைக்காமல் தமக்கு விருப்பமானவற்றையே செய்து கொண்டிருந்தாலும், என் கண்கள் அவரைக் காணாமல் அமைதி அடைவதில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Desire for Reunion (Post-marital Love), Kural 1283 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though my eyes disregard me and do what is pleasing to my husband, still will they not be satisfied unless they see him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Desire for Reunion'.",
+        "quiz_question_ta": "'புணர்ச்சி விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1283 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1283 from Chapter 'Desire for Reunion'?",
+        "quiz_options_ta": [
+          "ஊடலில் தோற்றவரே வெற்றி பெற்றவர் ஆவர், அந்த உண்மை,ஊடல் முடிந்த பின் கூடிமகிழும் நிலையில் காணப்படும்.",
+          "ஒருவன் வாழ்நாளில் முயற்சி மேற்கொண்டு செய்யத்தக்கது அறமே. செய்யாமல் காத்து கொள்ளத்தக்கது பழியே.",
+          "தன்னை நோக்கி வரும் விருந்தினரை நாள் தோறும் போற்றுகின்றவனுடைய வாழ்க்கை, துன்பத்தால் வருந்திக் கெட்டுப் போவதில்லை.",
+          "என்னை விரும்பாமல் புறக்கணித்துத் தனக்கு விருப்பமானவற்றையே செய்து ஒழுகினாலும், என்னுடைய கண்கள் காதலனைக் காணாமல் பொருந்தவில்லை."
+        ],
+        "quiz_options_en": [
+          "The yielder wins in lover's pout Reunited joy brings it out",
+          "Worthy act is virtue done Vice is what we ought to shun",
+          "Who tends his guests day in and out His life in want never wears out",
+          "Though slighting me he acts his will My restless eyes would see him still"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புணர்ச்சி விதும்பல்) பகுதியில் குறள் 1283 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: என்னை விரும்பாமல் புறக்கணித்துத் தனக்கு விருப்பமானவற்றையே செய்து ஒழுகினாலும், என்னுடைய கண்கள் காதலனைக் காணாமல் பொருந்தவில்லை. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) பேணாது பெட்பவே செய்யினும் - நம்மை அவமதித்துத் தான் செய்ய வேண்டியனவே செய்யுமாயினும்; கொண்களைக் கண் காணாது அமையல - கொண்கனை என் கண்கள் காணாது அமைகின்றன இல்லை. (தன் விதுப்புக் கண்கள்மேல் ஏற்றப்பட்டது. 'அத்தன்மையேன் அவனோடு புலக்குமாறு என்னை...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 129: 'Desire for Reunion'), Kural 1283 distills a foundational ethical insight: \"Although his will his only law, he lightly value me, My heart knows no repose unless my lord I see\" Philosophically, Though my eyes disregard me and do what is pleasing to my husband, still will they not be satisfied unless they see him.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "education",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 1284,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தோழி! யான் அவரோடு ஊடுவதற்காகச் சென்றேன்; ஆனால், என்னுடைய நெஞ்சம் அந்த நோக்கத்தை மறந்து அவரோடு கூடுவதற்காகச் சென்றது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: My heart, forgetting all, could not its love restrain.",
+        "story_title_ta": "புணர்ச்சி விதும்பல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Desire for Reunion — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1284 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1284 from 'Desire for Reunion', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ஊடுவதற்காகச் சென்றாலும்கூட அதை நெஞ்சம் மறந்து விட்டுக் கூடுவதற்கு இணங்கி விடுவதே காதலின் சிறப்பு.",
+        "moral_en": "Moral: My friend, I went prepared to show a cool disdain; My heart, forgetting all, could not its love restrain.",
+        "game_blank_word_ta": "ஊடற்கண்",
+        "game_options_ta": [
+          "ஊடற்கண்",
+          "உள்ளக்",
+          "களித்தலும்",
+          "மகிழ்தலும்"
+        ],
+        "game_options_en": [
+          "Huff I would, maid, but I forget; And leap to embrace him direct",
+          "Rapture at thought and joy when seen Belong to love and not to wine",
+          "When passion grows palmyra-tall Sulking is wrong though millet-small",
+          "Though slighting me he acts his will My restless eyes would see him still"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1284, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தோழி! காதலரைக் காண்டுபதற்கு முன், அவர் செய்த தவற்றை எண்ணி ஊட நினைத்தேன்; அவரைப் பார்த்த பிறகு, அதை மறந்து, அவருடன் கூடவே என் மனம் சென்றது. கலைஞர் உரை கூறுவது: ஊடுவதற்காகச் சென்றாலும்கூட அதை நெஞ்சம் மறந்து விட்டுக் கூடுவதற்கு இணங்கி விடுவதே காதலின் சிறப்பு. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Desire for Reunion (Post-marital Love), Kural 1284 speaks directly to teens navigating studies, friendships, leadership, and digital choices: My heart, forgetting all, could not its love restrain. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Desire for Reunion'.",
+        "quiz_question_ta": "'புணர்ச்சி விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1284 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1284 from Chapter 'Desire for Reunion'?",
+        "quiz_options_ta": [
+          "தோழி! யான் அவரோடு ஊடுவதற்காகச் சென்றேன்; ஆனால், என்னுடைய நெஞ்சம் அந்த நோக்கத்தை மறந்து அவரோடு கூடுவதற்காகச் சென்றது.",
+          "நெற்றி வியர்க்கும் படியாக கூடுவதில் உளதாகும் இனிமையை ஊடியிருந்து உணர்வதன் பயனாக இனியும் பெறுவோமோ.",
+          "இல்லறத்தில் வாழ்பவனாகச் சொல்லப்படுகிறவன் அறத்தின் இயல்பை உடைய மூவருக்கும் நல்வழியில் நிலை பெற்ற துணையாவான்.",
+          "நல்ல விருந்தினராய் வந்தவரை முகமலர்ச்சி கொண்டு போற்றுகின்றவனுடைய வீட்டில் மனமகிழ்ந்து திருமகள் வாழ்வாள்."
+        ],
+        "quiz_options_en": [
+          "Huff I would, maid, but I forget; And leap to embrace him direct",
+          "Shall not our pouting again give The dew-browed joy of joint love?",
+          "The ideal householder is he Who aids the natural orders there",
+          "The goddess of wealth will gladly rest Where smiles welcome the worthy guest"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புணர்ச்சி விதும்பல்) பகுதியில் குறள் 1284 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தோழி! யான் அவரோடு ஊடுவதற்காகச் சென்றேன்; ஆனால், என்னுடைய நெஞ்சம் அந்த நோக்கத்தை மறந்து அவரோடு கூடுவதற்காகச் சென்றது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) தோழி - தோழி; ஊடற்கண் சென்றேன் - காதலரைக் காணாமுன் அவர் செய்த தவற்றைத் தன்னோடு நினைந்து யான் அவரோடு ஊடுதற்கண்ணே சென்றேன்; என் நெஞ்சு அது மறந்து கூடற்கண் சென்றது - கண்டபின் என் நெஞ்சு அதனை மறந்து கூடுதற்கண்ணே சென்றது. (சேறல் நிகழ்தல் நினைத்த...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 129: 'Desire for Reunion'), Kural 1284 distills a foundational ethical insight: \"My friend, I went prepared to show a cool disdain; My heart, forgetting all, could not its love restrain\" Philosophically, My heart, forgetting all, could not its love restrain.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "love",
+        "education",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 1285,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மை தீட்டும் நேரத்தில் தீட்டு் கோலைக் காணாத கண்களைப் போல், காதலனைக் கண்டபோது மட்டும் அவனுடைய குற்றத்தை நினைக்காமல் மறந்து விடுகின்றேன்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Like the eyes which see not the pencil that paints it, I cannot see my husband's fault (just) when I meet him.",
+        "story_title_ta": "புணர்ச்சி விதும்பல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Desire for Reunion — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1285 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1285 from 'Desire for Reunion', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: கண்ணில் மை தீட்டிக் கொள்ளும் பொழுது அந்த மை தீட்டும் கோலைக் காணாதது போலவே, காதலனைக் காணும்பொழுது அவன் என்னைப் பிரிந்து சென்ற குற்றத்தை மறந்து விடுகிறேன்.",
+        "moral_en": "Moral: The eye sees not the rod that paints it; nor can ISee any fault, when I behold my husband nigh.",
+        "game_blank_word_ta": "பழிகாணேன்",
+        "game_options_ta": [
+          "உள்ளக்",
+          "பழிகாணேன்",
+          "களித்தலும்",
+          "மகிழ்தலும்"
+        ],
+        "game_options_en": [
+          "Rapture at thought and joy when seen Belong to love and not to wine",
+          "When close I see not lord's blemish Like eyes that see not painter's brush",
+          "When passion grows palmyra-tall Sulking is wrong though millet-small",
+          "Though slighting me he acts his will My restless eyes would see him still"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1285, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முன்பு பார்த்திருந்தும் மை தீட்டும்போது அஞ்சனக் கோலைக் காணாத கண்களைப் போல, கணவனின் தவற்றை அவர் இல்லாதபோது எண்ணி இருந்தும், நேரில் அவரைக் கண்ட போது காணேன். கலைஞர் உரை கூறுவது: கண்ணில் மை தீட்டிக் கொள்ளும் பொழுது அந்த மை தீட்டும் கோலைக் காணாதது போலவே, காதலனைக் காணும்பொழுது அவன் என்னைப் பிரிந்து சென்ற குற்றத்தை மறந்து விடுகிறேன். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Desire for Reunion (Post-marital Love), Kural 1285 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Like the eyes which see not the pencil that paints it, I cannot see my husband's fault (just) when I meet him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Desire for Reunion'.",
+        "quiz_question_ta": "'புணர்ச்சி விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1285 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1285 from Chapter 'Desire for Reunion'?",
+        "quiz_options_ta": [
+          "காதலி இன்னும் ஊடுவாளாக, அந்த ஊடலைத் தணிக்கும் பொருட்டு யாம் இரந்து நிற்குமாறு இராக்காலம் இன்னும் நீட்டிப்பதாக.",
+          "மை தீட்டும் நேரத்தில் தீட்டு் கோலைக் காணாத கண்களைப் போல், காதலனைக் கண்டபோது மட்டும் அவனுடைய குற்றத்தை நினைக்காமல் மறந்து விடுகின்றேன்.",
+          "துறந்தவர்கும் வறியவர்க்கும் தன்னிடத்தே இறந்தவர்க்கும் இல்லறம் மேற்கொண்டு வாழ்கிறவன் துணையாவான்.",
+          "விருந்தினரை முன்னே போற்றி உணவளித்து மிஞ்சிய உணவை உண்டு வாழ்கின்றவனுடைய நிலத்தில் விதையும் விதைக்க வேண்டுமோ?"
+        ],
+        "quiz_options_en": [
+          "Sulk on O belle of shining jewels! Prolong O night! our delight swells!",
+          "When close I see not lord's blemish Like eyes that see not painter's brush",
+          "His help the monk and retired share, And celibate students are his care",
+          "Should his field be sown who first Feeds the guests and eats the rest?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புணர்ச்சி விதும்பல்) பகுதியில் குறள் 1285 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மை தீட்டும் நேரத்தில் தீட்டு் கோலைக் காணாத கண்களைப் போல், காதலனைக் கண்டபோது மட்டும் அவனுடைய குற்றத்தை நினைக்காமல் மறந்து விடுகின்றேன். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) எழுதுங்கால் கோல் காணாக் கண்ணேபோல் - முன்னெல்லாங் கண்டிருந்தும் எழுதுங்காலத்து அஞ்சனக் கோலின் இயல்பு காணமாட்டாத கண்ணேபோல; கொண்கன் பழி கண்டவிடத்துக் காணேன் - கொண்கனது தவறு காணாதவிடத் தெல்லாம் கண்டிருந்து. அவனைக் கண்டவிடத்துக் காணமாட்டேன். (கோல...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 129: 'Desire for Reunion'), Kural 1285 distills a foundational ethical insight: \"The eye sees not the rod that paints it; nor can ISee any fault, when I behold my husband nigh\" Philosophically, Like the eyes which see not the pencil that paints it, I cannot see my husband's fault (just) when I meet him.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "love",
+        "education",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 1286,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: காதலரைக் யான் காணும்போது ( அவருடைய செயல்களில்) தவறானவற்றைக் காண்பதில்லை; அவரைக் காணாதபோது தவறு அல்லாத நன்மைகளைக் காண்பதில்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: When I see my husband, I do not see any faults; but when I do not see him, I do not see anything but faults.",
+        "story_title_ta": "புணர்ச்சி விதும்பல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Desire for Reunion — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1286 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1286 from 'Desire for Reunion', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: அவரைக் காணும்பொழுது அவர் குற்றங்களை நான் காண்பதில்லை; அவரைக் காணாதபொழுது அவர் குற்றங்களைத் தவிர வேறொன்றையும் நான் காண்பதில்லை.",
+        "moral_en": "Moral: When him I see, to all his faults I 'm blind; But when I see him not, nothing but faults I find.",
+        "game_blank_word_ta": "காணேன்",
+        "game_options_ta": [
+          "உள்ளக்",
+          "களித்தலும்",
+          "காணேன்",
+          "மகிழ்தலும்"
+        ],
+        "game_options_en": [
+          "Rapture at thought and joy when seen Belong to love and not to wine",
+          "When passion grows palmyra-tall Sulking is wrong though millet-small",
+          "When he's with me I see not fault And nought but fault when he is not",
+          "Though slighting me he acts his will My restless eyes would see him still"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1286, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கணவனை நான் காணும்போது அவரது தவறுகளைக் காணேன்; காணாதபோதோ, தவறுகளைத் தவிரப் பிறவற்றைக் காணேன். கலைஞர் உரை கூறுவது: அவரைக் காணும்பொழுது அவர் குற்றங்களை நான் காண்பதில்லை; அவரைக் காணாதபொழுது அவர் குற்றங்களைத் தவிர வேறொன்றையும் நான் காண்பதில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Desire for Reunion (Post-marital Love), Kural 1286 speaks directly to teens navigating studies, friendships, leadership, and digital choices: When I see my husband, I do not see any faults; but when I do not see him, I do not see anything but faults. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Desire for Reunion'.",
+        "quiz_question_ta": "'புணர்ச்சி விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1286 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1286 from Chapter 'Desire for Reunion'?",
+        "quiz_options_ta": [
+          "காமத்திற்கு இன்பம் தருவது ஊடுதல் ஆகும், ஊடல் முடிந்த பின் கூடித் தழுவப் பெற்றால் அந்த ஊடலுக்கு இன்பமாகும்.",
+          "தென்புலத்தார், தெய்வம் விருந்தினர், சுற்றத்தார், தான் என்ற ஐவகையிடத்தும் அறநெறி தவறாமல் போற்றுதல் சிறந்த கடமையாகும்.",
+          "காதலரைக் யான் காணும்போது ( அவருடைய செயல்களில்) தவறானவற்றைக் காண்பதில்லை; அவரைக் காணாதபோது தவறு அல்லாத நன்மைகளைக் காண்பதில்லை.",
+          "வந்த விருந்தினரைப் போற்றி, இனிவரும் விருந்தினரை எதிர் பார்த்திருப்பவன், வானுலகத்தில் உள்ள தேவர்க்கும் நல்ல விருந்தினனாவான்"
+        ],
+        "quiz_options_en": [
+          "Bouderie is lovers' delight Its delight grows when they unite",
+          "By dutiful householder's aid God, manes, kin, self and guests are served",
+          "When he's with me I see not fault And nought but fault when he is not",
+          "Who tends a guest and looks for next Is a welcome guest in heaven's feast"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புணர்ச்சி விதும்பல்) பகுதியில் குறள் 1286 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காதலரைக் யான் காணும்போது ( அவருடைய செயல்களில்) தவறானவற்றைக் காண்பதில்லை; அவரைக் காணாதபோது தவறு அல்லாத நன்மைகளைக் காண்பதில்லை. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) காணுங்கால் தவறாய காணேன் - கொண்கனை யான் காணும் பொழுது அவன் தவறாயவற்றைக் காண்கின்றிலேன்; காணாக்கால் தவறல்லவை காணேன் - காணாத பொழுது அவையேயல்லாது பிறவற்றைக் காண்கின்றிலேன். (செயப்படுபொருள் அதிகாரத்தான் வந்தது. 'முன்பு நான் நின்னொடு சொல்லிய தவறுகள...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 129: 'Desire for Reunion'), Kural 1286 distills a foundational ethical insight: \"When him I see, to all his faults I 'm blind; But when I see him not, nothing but faults I find\" Philosophically, When I see my husband, I do not see any faults; but when I do not see him, I do not see anything but faults.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "speech",
+        "ethics",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 1287,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: வெள்ளம் இழுத்துச் செல்வதை அறிந்திருந்தும் ஓட் நீரில் பாய்கின்றவரைப் போல், பயன்படாமை அறிந்திருந்திருந்தும் ஊடல் கொள்வதால் பயன் ன்னெ?",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Like those who leap into a stream which they know will carry them off, why should a wife feign dislike which she knows cannot hold out long?",
+        "story_title_ta": "புணர்ச்சி விதும்பல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Desire for Reunion — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1287 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1287 from 'Desire for Reunion', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: வெள்ளம் அடித்துக் கொண்டு போய் விடுமெனத் தெரிந்திருந்தும் நீரில் குதிப்பவரைப் போல, வெற்றி கிடைக்காது எனப் புரிந்திருந்தும், ஊடல் கொள்வதால் பயன் என்ன?",
+        "moral_en": "Moral: As those of rescue sure, who plunge into the stream, So did I anger feign, though it must falsehood seem.",
+        "game_blank_word_ta": "புலந்து",
+        "game_options_ta": [
+          "உள்ளக்",
+          "களித்தலும்",
+          "மகிழ்தலும்",
+          "புலந்து"
+        ],
+        "game_options_en": [
+          "Rapture at thought and joy when seen Belong to love and not to wine",
+          "When passion grows palmyra-tall Sulking is wrong though millet-small",
+          "Though slighting me he acts his will My restless eyes would see him still",
+          "To leap in stream which carries off When lord is close to feign a huff"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1287, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்னை இழுத்துக் கொண்டு போகும் என்று தெரிந்தும், ஓடும் வெள்ளத்துள் பாய்பவர் செயலைப் போல, என் சினம் பலன் அளிக்காது என்று தெரிந்தும் அவருடன் ஊடல் கொண்டு ஆவது என்ன? கலைஞர் உரை கூறுவது: வெள்ளம் அடித்துக் கொண்டு போய் விடுமெனத் தெரிந்திருந்தும் நீரில் குதிப்பவரைப் போல, வெற்றி கிடைக்காது எனப் புரிந்திருந்தும், ஊடல் கொள்வதால் பயன் என்ன? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Desire for Reunion (Post-marital Love), Kural 1287 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Like those who leap into a stream which they know will carry them off, why should a wife feign dislike which she knows cannot hold out long? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Desire for Reunion'.",
+        "quiz_question_ta": "'புணர்ச்சி விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1287 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1287 from Chapter 'Desire for Reunion'?",
+        "quiz_options_ta": [
+          "எழுத்துக்கள் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கின்றன. அதுபோல உலகம் கடவுளை அடிப்படையாக கொண்டிருக்கிறது.",
+          "பொருள் சேர்க்கும் பொது பழிக்கு அஞ்சிச் சேர்த்து, செலவு செய்யும் போது பகுந்து உண்பதை மேற்க்கொண்டால், அவ்வாழ்கையின் ஒழுங்கு எப்போதும் குறைவதில்லை.",
+          "விருந்தோம்புதலாகிய வேள்வியின் பயன் இவ்வளவு என்று அளவு படுத்தி கூறத்தக்கது அன்று, விருந்தினரின் தகுதிக்கு ஏற்ற அளவினதாகும்",
+          "வெள்ளம் இழுத்துச் செல்வதை அறிந்திருந்தும் ஓட் நீரில் பாய்கின்றவரைப் போல், பயன்படாமை அறிந்திருந்திருந்தும் ஊடல் கொள்வதால் பயன் ன்னெ?"
+        ],
+        "quiz_options_en": [
+          "'A' leads letters; the Ancient Lord Leads and lords the entire world",
+          "Sin he shuns and food he shares His home is bright and brighter fares",
+          "Worth of the guest of quality Is worth of hospitality",
+          "To leap in stream which carries off When lord is close to feign a huff"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புணர்ச்சி விதும்பல்) பகுதியில் குறள் 1287 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வெள்ளம் இழுத்துச் செல்வதை அறிந்திருந்தும் ஓட் நீரில் பாய்கின்றவரைப் போல், பயன்படாமை அறிந்திருந்திருந்தும் ஊடல் கொள்வதால் பயன் ன்னெ? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) உய்த்தல் அறிந்து புனல் பாய்பவரே போல - தம்மை ஈர்த்துக் கொண்டு போதல் அறிந்துவைத்து ஒழுகுகின்ற புனலுட் பாய்வார் செயல் போல; பொய்த்தல் அறிந்து புலந்து என்? - புலவி முடிவு போகாமை அறிந்து வைத்துக் கொண்கனோடு புலந்து பெறுவது என்? ('பாய்பவர்' என்பது...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 129: 'Desire for Reunion'), Kural 1287 distills a foundational ethical insight: \"As those of rescue sure, who plunge into the stream, So did I anger feign, though it must falsehood seem\" Philosophically, Like those who leap into a stream which they know will carry them off, why should a wife feign dislike which she knows cannot hold out long?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "truth",
+        "gratitude",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 1288,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கள்வ! இழிவு வரத்தக்க துன்பங்களைச் செய்தாலும் கள்ளுண்டு களித்தவர்க்கு மேன்‌மேலும் விருப்பம் தரும் கள்ளைப் போன்றது உன் மார்பு.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: O you rogue! your breast is to me what liquor is to those who rejoice in it, though it only gives them an unpleasant disgrace.",
+        "story_title_ta": "புணர்ச்சி விதும்பல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Desire for Reunion — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1288 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1288 from 'Desire for Reunion', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என்னுள்ளம் கவர்ந்த கள்வனே! இழிவு தரக்கூடிய துன்பத்தை நீ எனக்கு அளித்தாலும் கூட, கள்ளை உண்டு களித்தவர்க்கு மேலும் மேலும் அந்தக் கள்ளின் மீது விருப்பம் ஏற்படுவது போலவே என்னையும் மயங்கச் செய்கிறது உன் மார்பு.",
+        "moral_en": "Moral: Though shameful ill it works, dear is the palm-tree wineTo drunkards; traitor, so to me that breast of thine.",
+        "game_blank_word_ta": "இளித்தக்க",
+        "game_options_ta": [
+          "இளித்தக்க",
+          "உள்ளக்",
+          "களித்தலும்",
+          "மகிழ்தலும்"
+        ],
+        "game_options_en": [
+          "Like wine to addicts that does disgrace Your breast, O thief, is for my embrace!",
+          "Rapture at thought and joy when seen Belong to love and not to wine",
+          "When passion grows palmyra-tall Sulking is wrong though millet-small",
+          "Though slighting me he acts his will My restless eyes would see him still"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1288, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வஞ்சகரே! தன்னை உண்டு மகிழ்ந்தவர்க்கு எளிமை வரத்தக்க தீமையைச் செய்தாலும், அவரால் மேலும் மேலும் விரும்பப்படும் கள்ளைப் போன்றது எனக்கு உன் மார்பு. இத்தனையும் அவளுக்கு மட்டுந்தானா? அவன் எதுவுமே நினைக்கவில்லையா? அவள் நினைவுகளை அவளின் பார்வையிலேயே படித்துவிட்டான். அவளைத் தேற்றுகிறான். கலைஞர் உரை கூறுவது: என்னுள்ளம் கவர்ந்த கள்வனே! இழிவு தரக்கூடிய துன்பத்தை நீ எனக்கு அளித்தாலும் கூட, கள்ளை உண்டு களித்தவர்க்கு மேலும் மேலும் அந்தக் கள்ளின் மீது விருப்பம் ஏற்படுவது போலவே என்னையும் மயங்கச் செய்கிறது உன் மார்பு. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Desire for Reunion (Post-marital Love), Kural 1288 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O you rogue! your breast is to me what liquor is to those who rejoice in it, though it only gives them an unpleasant disgrace. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Desire for Reunion'.",
+        "quiz_question_ta": "'புணர்ச்சி விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1288 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1288 from Chapter 'Desire for Reunion'?",
+        "quiz_options_ta": [
+          "கள்வ! இழிவு வரத்தக்க துன்பங்களைச் செய்தாலும் கள்ளுண்டு களித்தவர்க்கு மேன்‌மேலும் விருப்பம் தரும் கள்ளைப் போன்றது உன் மார்பு.",
+          "தூய அறிவு வடிவாக விளங்கும் இறைவனுடைய நல்ல திருவடிகளை தொழாமல் இருப்பாரானால், அவர் கற்ற கல்வியினால் ஆகிய பயன் என்ன?",
+          "இல்வாழ்க்கையின் அன்பும் அறமும் உடையதாக விளங்குமானால், அந்த வாழக்கையின் பண்பும் பயனும் அதுவே ஆகும்.",
+          "விருந்தினரை ஓம்பி அந்த வேள்வியில் ஈடுபடாதவர் பொருள்களை வருந்திக்காத்துப் (பின்பு இழந்து) பற்றுக்கொடு இழந்தோமே என்று இரங்குவர்"
+        ],
+        "quiz_options_en": [
+          "Like wine to addicts that does disgrace Your breast, O thief, is for my embrace!",
+          "That lore is vain which does not fall At His good feet who knoweth all",
+          "In grace and gain the home excels, Where love with virtue sweetly dwells",
+          "Who loathe guest-service one day cry: \\\"We toil and store; but life is dry\\\""
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புணர்ச்சி விதும்பல்) பகுதியில் குறள் 1288 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கள்வ! இழிவு வரத்தக்க துன்பங்களைச் செய்தாலும் கள்ளுண்டு களித்தவர்க்கு மேன்‌மேலும் விருப்பம் தரும் கள்ளைப் போன்றது உன் மார்பு. பரிமேலழகர் உரை நுட்பம்: (தலைமகள் புணர்ச்சி விதுப்பு அறிந்த தோழி, தலைமகற்குச் சொல்லியது.) கள்வ - வஞ்சக; களித்தார்க்கு இளித்தக்க இன்னா செயினும் கள் அற்றே - தன்னை உண்டு களித்தார்க்கு இளிவரத்தக்க இன்னாதவற்றைச் செயினும் அவரால் மேன்மேல் விரும்பப்படுவதாய கள்ளுப் போலும்; நின் மார்பு...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 129: 'Desire for Reunion'), Kural 1288 distills a foundational ethical insight: \"Though shameful ill it works, dear is the palm-tree wineTo drunkards; traitor, so to me that breast of thine\" Philosophically, O you rogue! your breast is to me what liquor is to those who rejoice in it, though it only gives them an unpleasant disgrace.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "kindness",
+        "harmony",
+        "time",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1289,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: காமம் மலரை விட மென்மை உடையதாகும்; அந்த உண்மை அறிந்து அதன் நல்ல பயனைப் பெறக்கூடியவர் சிலரே.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Sexual delight is more delicate than a flower, and few are those who understand its real nature.",
+        "story_title_ta": "புணர்ச்சி விதும்பல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Desire for Reunion — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1289 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1289 from 'Desire for Reunion', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதல் இன்பம், மலரைவிட மென்மையானது அதனை அதே மென்மையுடன் நுகருபவர்கள் சிலரே ஆவார்கள்.",
+        "moral_en": "Moral: Love is tender as an opening flower In season dueTo gain its perfect bliss is rapture known to few.",
+        "game_blank_word_ta": "தலைப்படு",
+        "game_options_ta": [
+          "உள்ளக்",
+          "தலைப்படு",
+          "களித்தலும்",
+          "மகிழ்தலும்"
+        ],
+        "game_options_en": [
+          "Rapture at thought and joy when seen Belong to love and not to wine",
+          "Flower-soft is love; a few alone Know its delicacy so fine",
+          "When passion grows palmyra-tall Sulking is wrong though millet-small",
+          "Though slighting me he acts his will My restless eyes would see him still"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1289, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காதல் இன்பம் மலரைவிட மென்மையானது. அதை அறிந்து அனுபவிப்பதற்கு ஏற்ற இடம், காலம், தேவையானவை எல்லாம் பெற்றுக் காதல் இன்பத்தின் நலனை அனுபவிப்பவர் இவ்வுலகில் சிலரே. கலைஞர் உரை கூறுவது: காதல் இன்பம், மலரைவிட மென்மையானது அதனை அதே மென்மையுடன் நுகருபவர்கள் சிலரே ஆவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Desire for Reunion (Post-marital Love), Kural 1289 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Sexual delight is more delicate than a flower, and few are those who understand its real nature. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Desire for Reunion'.",
+        "quiz_question_ta": "'புணர்ச்சி விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1289 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1289 from Chapter 'Desire for Reunion'?",
+        "quiz_options_ta": [
+          "அன்பரின் அகமாகிய மலரில் வீற்றிருக்கும் கடவுளின் சிறந்த திருவடிகளை பொருந்தி நினைக்கின்றவர், இன்ப உலகில் நிலைத்து வாழ்வார்",
+          "காமம் மலரை விட மென்மை உடையதாகும்; அந்த உண்மை அறிந்து அதன் நல்ல பயனைப் பெறக்கூடியவர் சிலரே.",
+          "ஒருவன் அறநெறியில் இல்வாழ்க்கையைச் செலுத்தி வாழ்வானானால், அத்தகையவன் வேறு நெறியில் சென்று பெறத்தக்கது என்ன?",
+          "செல்வநிலையில் உள்ள வறுமை என்பது விருந்தோம்புதலைப் போற்றாத அறியாமையாகும்: அஃது அறிவிலிகளிடம் உள்ளதாகும்."
+        ],
+        "quiz_options_en": [
+          "Long they live on earth who gain The feet of God in florid brain",
+          "Flower-soft is love; a few alone Know its delicacy so fine",
+          "Who turns from righteous family To be a monk, what profits he?",
+          "The man of wealth is poor indeed Whose folly fails the guest to feed"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புணர்ச்சி விதும்பல்) பகுதியில் குறள் 1289 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காமம் மலரை விட மென்மை உடையதாகும்; அந்த உண்மை அறிந்து அதன் நல்ல பயனைப் பெறக்கூடியவர் சிலரே. பரிமேலழகர் உரை நுட்பம்: (உணர்ப்புவயின் வாரா ஊடற்கண் தலைமகன் சொல்லியது.) காமம் மலரினும் மெல்லிது - காம இன்பம் மலரினும் மெல்லியதாயிருக்கும்; அதன் செவ்வி தலைப்படுவார் சிலர் - அங்ஙனம் மெல்லியதாதலை யறிந்து அதன் செவ்வியைப் பெறுவார் உலகத்துச் சிலர். (தொட்ட துணையானே மனச்செவ்வி அழிவதாய மலர...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 129: 'Desire for Reunion'), Kural 1289 distills a foundational ethical insight: \"Love is tender as an opening flower In season dueTo gain its perfect bliss is rapture known to few\" Philosophically, Sexual delight is more delicate than a flower, and few are those who understand its real nature.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "time",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 1290,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: கண் பார்வையின் அளவில் பிணங்கி, என்னை விடத் தான் விரைந்து தழுவுதலை விரும்பி, ( பிணங்கிய நிலையையும் மறந்து) கலந்து விட்டாள்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: She once feigned dislike in her eyes, but the warmth of her embrace exceeded my own.",
+        "story_title_ta": "புணர்ச்சி விதும்பல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Desire for Reunion — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'புணர்ச்சி விதும்பல்' என்ற அதிகாரத்தில் வரும் குறள் 1290 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1290 from 'Desire for Reunion', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: விழிகளால் ஊடலை வெளியிட்டவள், கூடித் தழுவுவதில் என்னைக் காட்டிலும் விரைந்து செயல்பட்டு என்னோடு கலந்து விட்டாள்.",
+        "moral_en": "Moral: Her eye, as I drew nigh one day, with anger shone:By love o'erpowered, her tenderness surpassed my own.",
+        "game_blank_word_ta": "கலங்கினாள்",
+        "game_options_ta": [
+          "உள்ளக்",
+          "களித்தலும்",
+          "கலங்கினாள்",
+          "மகிழ்தலும்"
+        ],
+        "game_options_en": [
+          "Rapture at thought and joy when seen Belong to love and not to wine",
+          "When passion grows palmyra-tall Sulking is wrong though millet-small",
+          "She feigned dislike awhile but flew Faster for embrace than I do",
+          "Though slighting me he acts his will My restless eyes would see him still"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புணர்ச்சி விதும்பல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1290, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் கண் அளவில் என்னோடு ஊடி, என்னைத் தழுவுவதை என்னைக் காட்டிலும் அவள் விரைந்து விரும்புவதால், ஊடலை மறந்து கூடிவிட்டாள். கலைஞர் உரை கூறுவது: விழிகளால் ஊடலை வெளியிட்டவள், கூடித் தழுவுவதில் என்னைக் காட்டிலும் விரைந்து செயல்பட்டு என்னோடு கலந்து விட்டாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Desire for Reunion (Post-marital Love), Kural 1290 speaks directly to teens navigating studies, friendships, leadership, and digital choices: She once feigned dislike in her eyes, but the warmth of her embrace exceeded my own. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'புணர்ச்சி விதும்பல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Desire for Reunion'.",
+        "quiz_question_ta": "'புணர்ச்சி விதும்பல்' அதிகாரத்தில் வரும் திருக்குறள் 1290 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1290 from Chapter 'Desire for Reunion'?",
+        "quiz_options_ta": [
+          "விருப்பு வெறுப்பு இல்லாத கடவுளின் திருவடிகளை பொருந்தி நினைக்கின்றவர்க்கு எப்போதும் எவ்விடத்திலும் துன்பம் இல்லை",
+          "அறத்தின் இயல்பொடு இல்வாழ்கை வாழ்கிறவன்- வாழ முயல்கிறவன் பல திறத்தாரிலும் மேம்பட்டு விளங்குகிறவன் ஆவான்.",
+          "கண் பார்வையின் அளவில் பிணங்கி, என்னை விடத் தான் விரைந்து தழுவுதலை விரும்பி, ( பிணங்கிய நிலையையும் மறந்து) கலந்து விட்டாள்.",
+          "அனிச்சப்பூ மோந்தவுடன் வாடிவிடும்: அதுபோல் முகம் மலராமல் வேறு பட்டு நோக்கியவுடன் விருந்தினர் வாடி நிற்பார்."
+        ],
+        "quiz_options_en": [
+          "Who hold His feet who likes nor loathes Are free from woes of human births",
+          "Of all who strive for bliss, the great Is he who leads the married state",
+          "She feigned dislike awhile but flew Faster for embrace than I do",
+          "Anicham smelt withers: like that A wry-faced look withers the guest"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (புணர்ச்சி விதும்பல்) பகுதியில் குறள் 1290 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கண் பார்வையின் அளவில் பிணங்கி, என்னை விடத் தான் விரைந்து தழுவுதலை விரும்பி, ( பிணங்கிய நிலையையும் மறந்து) கலந்து விட்டாள். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) கண்ணின் துனித்தே - காதலி முன்னொரு ஞான்று புல்லல் விதுப்பினாற் சென்ற என்னொடு தன் கண் மாத்திரத்தான் ஊடி; புல்லுதல் என்னினும் தான் விதுப்பு உற்றுக் கலங்கினாள் - புல்லுதலை என்னினும் தான் விதும்பலால் அது தன்னையும் அப்பொழுதே மறந்து கூடிவிட்டாள...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 129: 'Desire for Reunion'), Kural 1290 distills a foundational ethical insight: \"Her eye, as I drew nigh one day, with anger shone:By love o'erpowered, her tenderness surpassed my own\" Philosophically, She once feigned dislike in her eyes, but the warmth of her embrace exceeded my own.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "time"
+      ]
+    }
+  ]
+}

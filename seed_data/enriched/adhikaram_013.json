@@ -1,0 +1,584 @@
+{
+  "adhikaram_id": 13,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.553860418+00:00",
+  "kurals": [
+    {
+      "kural_number": 121,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அடக்கம் ஒருவனை உயர்த்தித் தேவருள் சேர்க்கும்; அடக்கம் இல்லாதிருத்தல், பொல்லாத இருள் போன்ற தீய வாழ்க்கையில் செலுத்தி விடும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Self-control will place (a man) among the Gods; the want of it will drive (him) into the thickest darkness (of hell).",
+        "story_title_ta": "அடக்கம் உடைமை — நிலா கற்ற பாடம்",
+        "story_title_en": "The Possession of Self-restraint — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அடக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 121 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அடக்கம் ஒருவனைப் பிற்காலத்தில் தேவர் உலகிற்குக் கொண்டு சேர்க்கும்; அடங்காமல் வாழ்வதோ அவனை நிறைந்த இருளுக்குக் கொண்டு போகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Possession of Self-restraint'. Grandpa shared Kural 121 and explained in simple words: Self-control will place (a man) among the Gods; the want of it will drive (him) into the thickest darkness (of hell). The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அடக்கம் அழியாத புகழைக் கொடுக்கும் அடங்காமை வாழ்வையே இருளாக்கி விடும்.",
+        "moral_en": "Moral: Control of self does man conduct to bliss th' immortals share; Indulgence leads to deepest night, and leaves him there.",
+        "game_blank_word_ta": "உய்க்கும்",
+        "game_options_ta": [
+          "காக்க",
+          "உய்க்கும்",
+          "பொருளா",
+          "அடக்கத்தை"
+        ],
+        "game_options_en": [
+          "No gains with self-control measure Guard with care this great treasure",
+          "Self-rule leads to realms of gods Indulgence leads to gloomy hades",
+          "Knowing wisdom who lives controlled Name and fame seek him untold",
+          "Firmly fixed in self serene The sage looks grander than mountain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அடக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 121, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடக்கம் ஒருவனைப் பிற்காலத்தில் தேவர் உலகிற்குக் கொண்டு சேர்க்கும்; அடங்காமல் வாழ்வதோ அவனை நிறைந்த இருளுக்குக் கொண்டு போகும். கலைஞர் உரை கூறுவது: அடக்கம் அழியாத புகழைக் கொடுக்கும் அடங்காமை வாழ்வையே இருளாக்கி விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Self-restraint (Domestic Virtue), Kural 121 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Self-control will place (a man) among the Gods; the want of it will drive (him) into the thickest darkness (of hell). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அடக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Self-restraint' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அடக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 121 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 121 from Chapter 'The Possession of Self-restraint'?",
+        "quiz_options_ta": [
+          "பொறாமை உடை‌யவர்க்கு வேறு பகை வேண்டா. அஃது ஒன்றே போதும், பகைவர் தீங்கு செய்யத் தவறினாலும் தவறாது கேட்டைத் தருவது அது.",
+          "அடக்கம் ஒருவனை உயர்த்தித் தேவருள் சேர்க்கும்; அடக்கம் இல்லாதிருத்தல், பொல்லாத இருள் போன்ற தீய வாழ்க்கையில் செலுத்தி விடும்.",
+          "தீய செயல்களைச் செய்தவர் கேட்டை அடைதல், ஒருவனுடைய நிழல் அவனை விடாமல் வந்து அடியில் தங்கியிருத்தலைப் போன்றது.",
+          "தன் உடம்பைப் பெருக்கச் செய்வதற்காகத் தான் மற்றோர் உயிரின் உடம்பைத் தின்கின்றவன் எவ்வாறு அருளுடையவனாக இருக்க முடியும்."
+        ],
+        "quiz_options_en": [
+          "Man shall be wrecked by envy's whim Even if enemies spare him",
+          "Self-rule leads to realms of gods Indulgence leads to gloomy hades",
+          "Ruin follows who evil do As shadow follows as they go",
+          "What graciousness can one command who feeds his flesh by flesh gourmand"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அடக்கம் உடைமை) பகுதியில் குறள் 121 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அடக்கம் ஒருவனை உயர்த்தித் தேவருள் சேர்க்கும்; அடக்கம் இல்லாதிருத்தல், பொல்லாத இருள் போன்ற தீய வாழ்க்கையில் செலுத்தி விடும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, மெய், மொழி, மனங்கள் தீநெறிக்கண் செல்லாது அடங்குதல் உடையன் ஆதல். அஃது ஏதிலார் குற்றம்போல் தம் குற்றமும் காணும்(குறள்.190) நடுவுநிலைமை உடையார்க்கு ஆகலின், இது நடுவு நிலைமையின்பின் வைக்கப்பட்டது.) அடக்கம் அமரருள் உய்க்கும் - ஒருவனை அடக்கம் ஆகிய அறம...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 13: 'The Possession of Self-restraint'), Kural 121 distills a foundational ethical insight: \"Control of self does man conduct to bliss th' immortals share; Indulgence leads to deepest night, and leaves him there\" Philosophically, Self-control will place (a man) among the Gods; the want of it will drive (him) into the thickest darkness (of hell).",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "self-mastery",
+        "wisdom",
+        "truth",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 122,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அடக்கத்தை உறுதிப் பொருளாகக் கொண்டு போற்றிக் ‌காக்க வேண்டும். அந்த அடக்கத்தைவிட மேம்பட்ட ஆக்கம் உயிர்க்கு இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Let self-control be guarded as a treasure; there is no greater source of good for man than that.",
+        "story_title_ta": "அடக்கம் உடைமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Possession of Self-restraint — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அடக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 122 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அடக்கத்தைச் செல்வமாக எண்ணிக் காக்க; அதைக் காட்டிலும் பெரிய செல்வம் வேறு இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Possession of Self-restraint'. Grandpa shared Kural 122 and explained in simple words: Let self-control be guarded as a treasure; there is no greater source of good for man than that. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மிக்க உறுதியுடன் காக்கப்படவேண்டியது அடக்கமாகும் அடக்கத்தைவிட ஆக்கம் தரக் கூடியது வேறொன்றும் இல்லை.",
+        "moral_en": "Moral: Guard thou as wealth the power of self-control; Than this no greater gain to living soul.",
+        "game_blank_word_ta": "ஆக்கம்",
+        "game_options_ta": [
+          "அடக்கம்",
+          "அமரருள்",
+          "ஆக்கம்",
+          "உய்க்கும்"
+        ],
+        "game_options_en": [
+          "Self-rule leads to realms of gods Indulgence leads to gloomy hades",
+          "Knowing wisdom who lives controlled Name and fame seek him untold",
+          "No gains with self-control measure Guard with care this great treasure",
+          "Firmly fixed in self serene The sage looks grander than mountain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அடக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 122, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடக்கத்தைச் செல்வமாக எண்ணிக் காக்க; அதைக் காட்டிலும் பெரிய செல்வம் வேறு இல்லை. கலைஞர் உரை கூறுவது: மிக்க உறுதியுடன் காக்கப்படவேண்டியது அடக்கமாகும் அடக்கத்தைவிட ஆக்கம் தரக் கூடியது வேறொன்றும் இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Self-restraint (Domestic Virtue), Kural 122 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let self-control be guarded as a treasure; there is no greater source of good for man than that. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அடக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Self-restraint' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அடக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 122 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 122 from Chapter 'The Possession of Self-restraint'?",
+        "quiz_options_ta": [
+          "பிறர்க்கு உதவியாகக் கொடுக்கப்படும் பொருளைக் கண்டு பொறாமைப்படுகின்றவனுடைய சுற்றம், உடையும் உணவும் இல்லாமல் கெடும்.",
+          "ஒருவன் தன்னைத் தான் விரும்பி வாழ்பவனாயின், தீய செயலாகிய பகுதியை எவ்வளவு சிறியதாயினும் பொருந்தாமல் நீங்க வேண்டும்.",
+          "அடக்கத்தை உறுதிப் பொருளாகக் கொண்டு போற்றிக் ‌காக்க வேண்டும். அந்த அடக்கத்தைவிட மேம்பட்ட ஆக்கம் உயிர்க்கு இல்லை.",
+          "பொருளுடையவராக இருக்கும் சிறப்பு அப்பொருளை வைத்துக் காப்பாற்றாதவர்க்கு இல்லை, அருளுடையவராக இருக்கும் சிறப்பு புலால் தின்பவர்க்கு இல்லை."
+        ],
+        "quiz_options_en": [
+          "Who envies gifts shall suffer ruin Without food and clothes with his kin",
+          "Let none who loves himself at all Think of evil however small",
+          "No gains with self-control measure Guard with care this great treasure",
+          "The thriftless have no property And flesh-eaters have no pity"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அடக்கம் உடைமை) பகுதியில் குறள் 122 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அடக்கத்தை உறுதிப் பொருளாகக் கொண்டு போற்றிக் ‌காக்க வேண்டும். அந்த அடக்கத்தைவிட மேம்பட்ட ஆக்கம் உயிர்க்கு இல்லை. பரிமேலழகர் உரை நுட்பம்: உயிர்க்கு அதனின் ஊங்கு ஆக்கம் இல்லை - உயிர்கட்கு அடக்கத்தின் மிக்க செல்வம் இல்லை; அடக்கத்தைப் பொருளாகக் காக்க - ஆதலான் அவ்வடக்கத்தை உறுதிப் பொருளாகக் கொண்டு அழியாமல் காக்க. (உயிர் என்பது சாதியொருமை. அஃது ஈண்டு மக்கள் உயிர்மேல் நின்றது, அறிந்து அடங்கிப் பயன...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 13: 'The Possession of Self-restraint'), Kural 122 distills a foundational ethical insight: \"Guard thou as wealth the power of self-control; Than this no greater gain to living soul\" Philosophically, Let self-control be guarded as a treasure; there is no greater source of good for man than that.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "self-mastery",
+        "wealth",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 123,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அறிய வேண்டியவற்றை அறிந்து, நல்வழியில் அடங்கி ஒழுகப்பெற்றால், அந்த அடக்கம் நல்லோரால் அறியப்பட்டு மேன்மை பயக்கும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Knowing that self-control is knowledge, if a man should control himself, in the prescribed course, such self-control will bring him distinction among the wise.",
+        "story_title_ta": "அடக்கம் உடைமை — இனியா கற்ற பாடம்",
+        "story_title_en": "The Possession of Self-restraint — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அடக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 123 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அடக்கத்துடன் வாழ்வதே அறிவுடைமை என்று அறிந்து, ஒருவன் அடக்கமாக வாழ்ந்தால் அவனது அடக்கம் நல்லவர்களால் அறியப்பட்டு அது அவனுக்குப் பெருமையைக் கொடுக்கும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'The Possession of Self-restraint'. Grandpa shared Kural 123 and explained in simple words: Knowing that self-control is knowledge, if a man should control himself, in the prescribed course, such self-control will bring him distinction among the wise. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அறிந்து கொள்ள வேண்டியவற்றை அறிந்து அதற்கேற்ப அடக்கத்துடன் நடந்து கொள்பவரின் பண்பை உணர்ந்து பாராட்டுகள் குவியும்.",
+        "moral_en": "Moral: If versed in wisdom's lore by virtue's law you self restrainYour self-repression known will yield you glory's gain.",
+        "game_blank_word_ta": "ஆற்றின்",
+        "game_options_ta": [
+          "அடக்கம்",
+          "அமரருள்",
+          "உய்க்கும்",
+          "ஆற்றின்"
+        ],
+        "game_options_en": [
+          "Self-rule leads to realms of gods Indulgence leads to gloomy hades",
+          "No gains with self-control measure Guard with care this great treasure",
+          "Firmly fixed in self serene The sage looks grander than mountain",
+          "Knowing wisdom who lives controlled Name and fame seek him untold"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அடக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 123, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடக்கத்துடன் வாழ்வதே அறிவுடைமை என்று அறிந்து, ஒருவன் அடக்கமாக வாழ்ந்தால் அவனது அடக்கம் நல்லவர்களால் அறியப்பட்டு அது அவனுக்குப் பெருமையைக் கொடுக்கும். கலைஞர் உரை கூறுவது: அறிந்து கொள்ள வேண்டியவற்றை அறிந்து அதற்கேற்ப அடக்கத்துடன் நடந்து கொள்பவரின் பண்பை உணர்ந்து பாராட்டுகள் குவியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Self-restraint (Domestic Virtue), Kural 123 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Knowing that self-control is knowledge, if a man should control himself, in the prescribed course, such self-control will bring him distinction among the wise. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அடக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Self-restraint' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அடக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 123 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 123 from Chapter 'The Possession of Self-restraint'?",
+        "quiz_options_ta": [
+          "பொறாமை உடையவனைத் திருமகள் கண்டு பொறாமைப்பட்டுத் தன் தமக்கைக்கு அவனைக் காட்டி நீங்கி விடுவாள்.",
+          "ஒருவன் தவறான நெறியில் சென்று தீயசெயல் செய்யாதிருப்பானானால் அவன் கேடு இல்லாதவன் என்று அறியலாம்.",
+          "ஓர் உயிரின் உடம்பைச் சுவையாக உண்டவரின் மனம் கொலைக்கருவியைக் கையில் கொண்டவரின் நெஞ்சம் போல் நன்மையாகி அருளைப் போற்றாது.",
+          "அறிய வேண்டியவற்றை அறிந்து, நல்வழியில் அடங்கி ஒழுகப்பெற்றால், அந்த அடக்கம் நல்லோரால் அறியப்பட்டு மேன்மை பயக்கும்."
+        ],
+        "quiz_options_en": [
+          "Fortune deserts the envious Leaving misfortune omnious",
+          "He is secure, know ye, from ills Who slips not right path to do evils",
+          "Who wields a steel is steel-hearted Who tastes body is hard-hearted",
+          "Knowing wisdom who lives controlled Name and fame seek him untold"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அடக்கம் உடைமை) பகுதியில் குறள் 123 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறிய வேண்டியவற்றை அறிந்து, நல்வழியில் அடங்கி ஒழுகப்பெற்றால், அந்த அடக்கம் நல்லோரால் அறியப்பட்டு மேன்மை பயக்கும். பரிமேலழகர் உரை நுட்பம்: அறிவு அறிந்து ஆற்றின் அடங்கப் பெறின் - அடங்குதலே நமக்கு அறிவாவது என்று அறிந்து நெறியானே ஒருவன் அடங்கப் பெறின்; செறிவு அறிந்து சீர்மை பயக்கும் - அவ்வடக்கம் நல்லோரான் அறியப்பட்டு அவனுக்கு விழுப்பத்தைக் கொடுக்கும். (இல்வாழ்வானுக்கு அடங்கும் நெறியாவது...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 13: 'The Possession of Self-restraint'), Kural 123 distills a foundational ethical insight: \"If versed in wisdom's lore by virtue's law you self restrainYour self-repression known will yield you glory's gain\" Philosophically, Knowing that self-control is knowledge, if a man should control himself, in the prescribed course, such self-control will bring him distinction among the wise.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "self-mastery",
+        "wisdom",
+        "education",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 124,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தன் நிலையிலிருந்து மாறுபடாமல் அடங்கி ஒழுகுவோனுடைய உயர்வு, மலையின் உயர்வை விட மிகவும் பெரிதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: More lofty than a mountain will be the greatness of that man who without swerving from his domestic state, controls himself.",
+        "story_title_ta": "அடக்கம் உடைமை — முகில் கற்ற பாடம்",
+        "story_title_en": "The Possession of Self-restraint — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அடக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 124 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தன் நேர்மையான வழியை விட்டு விலகாது, அடக்கத்துடன் வாழ்பவனைப் பற்றிய பிறர் மனத் தோற்றம் மலையைக் காட்டிலும் மிக உயரமானது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'The Possession of Self-restraint'. Grandpa shared Kural 124 and explained in simple words: More lofty than a mountain will be the greatness of that man who without swerving from his domestic state, controls himself. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உறுதியான உள்ளமும், அத்துடன் ஆர்ப்பாட்டமற்ற அடக்க உணர்வும் கொண்டவரின் உயர்வு, மலையைவிடச் சிறந்தது எனப் போற்றப்படும்.",
+        "moral_en": "Moral: In his station, all unswerving, if man self subdue, Greater he than mountain proudly rising to the view.",
+        "game_blank_word_ta": "மாணப்",
+        "game_options_ta": [
+          "மாணப்",
+          "அடக்கம்",
+          "அமரருள்",
+          "உய்க்கும்"
+        ],
+        "game_options_en": [
+          "Firmly fixed in self serene The sage looks grander than mountain",
+          "Self-rule leads to realms of gods Indulgence leads to gloomy hades",
+          "No gains with self-control measure Guard with care this great treasure",
+          "Knowing wisdom who lives controlled Name and fame seek him untold"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அடக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 124, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் நேர்மையான வழியை விட்டு விலகாது, அடக்கத்துடன் வாழ்பவனைப் பற்றிய பிறர் மனத் தோற்றம் மலையைக் காட்டிலும் மிக உயரமானது. கலைஞர் உரை கூறுவது: உறுதியான உள்ளமும், அத்துடன் ஆர்ப்பாட்டமற்ற அடக்க உணர்வும் கொண்டவரின் உயர்வு, மலையைவிடச் சிறந்தது எனப் போற்றப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Self-restraint (Domestic Virtue), Kural 124 speaks directly to teens navigating studies, friendships, leadership, and digital choices: More lofty than a mountain will be the greatness of that man who without swerving from his domestic state, controls himself. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அடக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Self-restraint' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அடக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 124 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 124 from Chapter 'The Possession of Self-restraint'?",
+        "quiz_options_ta": [
+          "தன் நிலையிலிருந்து மாறுபடாமல் அடங்கி ஒழுகுவோனுடைய உயர்வு, மலையின் உயர்வை விட மிகவும் பெரிதாகும்.",
+          "பொறாமை என்று கூறப்படும் ஒப்பற்ற பாவி, ஒருவனுடைய செல்வத்தைக் கெடுத்துத் தீய வழியில் அவனைச் செலுத்தி விடும்.",
+          "இந்த உலகத்தார் மழைக்கு என்ன கைமாறு செய்கின்றனர்;, மழை போன்றவர் செய்யும் உதவிகளும் கைமாறு வேண்டாதவை.",
+          "அருள் எது என்றால் ஓர் உயிரையும் கொல்லாமலிருத்தல் அருளல்லாது எது என்றால் உயிர்களைக்கொள்ளுதல் அதன் உடம்பைத் தின்னுதல் அறம் அல்லாதது."
+        ],
+        "quiz_options_en": [
+          "Firmly fixed in self serene The sage looks grander than mountain",
+          "Caitiff envy despoils wealth And drags one into evil path",
+          "Duty demands nothing in turn; How can the world recompense rain?",
+          "If merciless it is to kill, To kill and eat is disgraceful"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அடக்கம் உடைமை) பகுதியில் குறள் 124 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன் நிலையிலிருந்து மாறுபடாமல் அடங்கி ஒழுகுவோனுடைய உயர்வு, மலையின் உயர்வை விட மிகவும் பெரிதாகும். பரிமேலழகர் உரை நுட்பம்: நிலையின் திரியாது அடங்கியான் தோற்றம் - இல்வாழ்க்கையாகிய தன் நெறியின் வேறுபடாது நின்று அடங்கியவனது உயர்ச்சி, மலையினும் மாணப்பெரிது - மலையின் உயர்ச்சியினும் மிகப் பெரிது. (திரியாது அடங்குதல் - பொறிகளால் புலன்களை நுகராநின்றே அடங்குதல். 'மலை' ஆகுபெயர்.).",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 13: 'The Possession of Self-restraint'), Kural 124 distills a foundational ethical insight: \"In his station, all unswerving, if man self subdue, Greater he than mountain proudly rising to the view\" Philosophically, More lofty than a mountain will be the greatness of that man who without swerving from his domestic state, controls himself.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "self-mastery",
+        "discipline",
+        "leadership",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 125,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பணிவுடையவராக ஒழுகுதல்பொதுவாக எல்லோர்க்கும் நல்லதாகும்; அவர்களுள் சிறப்பாகச் செல்வர்க்கே மற்றொரு செல்வம் போன்றதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Humility is good in all; but especially in the rich it is (the excellence of) higher riches.",
+        "story_title_ta": "அடக்கம் உடைமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Possession of Self-restraint — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அடக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 125 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'செருக்கு இல்லாமல் அடக்கமாக வாழ்வது எல்லார்க்குமே நல்லதுதான்; அவ் எல்லாருள்ளும் செல்வர்களுக்கு அது மேலும் ஒரு செல்வமாக விளங்கும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'The Possession of Self-restraint'. Grandpa shared Kural 125 and explained in simple words: Humility is good in all; but especially in the rich it is (the excellence of) higher riches. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பணிவு என்னும் பண்பு, எல்லார்க்கும் நலம் பயக்கும் ஏற்கனவே செல்வர்களாக இருப்பவர்களுக்கு அந்தப் பண்பு, மேலும் ஒரு செல்வமாகும்.",
+        "moral_en": "Moral: To all humility is goodly grace; but chief to themWith fortune blessed, -'tis fortune's diadem.",
+        "game_blank_word_ta": "தகைத்து",
+        "game_options_ta": [
+          "அடக்கம்",
+          "தகைத்து",
+          "அமரருள்",
+          "உய்க்கும்"
+        ],
+        "game_options_en": [
+          "Self-rule leads to realms of gods Indulgence leads to gloomy hades",
+          "Humility is good for all To the rich it adds a wealth special",
+          "No gains with self-control measure Guard with care this great treasure",
+          "Knowing wisdom who lives controlled Name and fame seek him untold"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அடக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 125, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செருக்கு இல்லாமல் அடக்கமாக வாழ்வது எல்லார்க்குமே நல்லதுதான்; அவ் எல்லாருள்ளும் செல்வர்களுக்கு அது மேலும் ஒரு செல்வமாக விளங்கும். கலைஞர் உரை கூறுவது: பணிவு என்னும் பண்பு, எல்லார்க்கும் நலம் பயக்கும் ஏற்கனவே செல்வர்களாக இருப்பவர்களுக்கு அந்தப் பண்பு, மேலும் ஒரு செல்வமாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Self-restraint (Domestic Virtue), Kural 125 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Humility is good in all; but especially in the rich it is (the excellence of) higher riches. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அடக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Self-restraint' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அடக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 125 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 125 from Chapter 'The Possession of Self-restraint'?",
+        "quiz_options_ta": [
+          "பொறாமை பொருந்திய நெஞ்சத்தானுடைய ஆக்கமும், பொறாமை இல்லாத நல்லவனுடைய கேடும் ஆராயத் தக்கவை",
+          "பணிவுடையவராக ஒழுகுதல்பொதுவாக எல்லோர்க்கும் நல்லதாகும்; அவர்களுள் சிறப்பாகச் செல்வர்க்கே மற்றொரு செல்வம் போன்றதாகும்.",
+          "ஒப்புரவாளன் தன்னால் இயன்ற முயற்சி செய்து சேர்த்த பொருள் எல்லாம் தக்கவர்க்கு உதவி செய்வதற்கே ஆகும்.",
+          "உயிர்கள் உடம்பு பெற்று வாழும் நிலைமை, ஊன் உண்ணாதிருத்தலை அடிப்படையாகக் கொண்டது ஊன் உண்டால் நரகம் அவனை வெளிவிடாது."
+        ],
+        "quiz_options_en": [
+          "Why is envy rich, goodmen poor People with surprise think over",
+          "Humility is good for all To the rich it adds a wealth special",
+          "All the wealth that toils give Is meant to serve those who deserve",
+          "Off with flesh; a life you save The eater hell's mouth shall not waive!"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அடக்கம் உடைமை) பகுதியில் குறள் 125 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பணிவுடையவராக ஒழுகுதல்பொதுவாக எல்லோர்க்கும் நல்லதாகும்; அவர்களுள் சிறப்பாகச் செல்வர்க்கே மற்றொரு செல்வம் போன்றதாகும். பரிமேலழகர் உரை நுட்பம்: பணிதல் எல்லோர்க்கும் நன்றாம் - பெருமிதம் இன்றி அடங்குதல் எல்லார்க்கும் ஒப்ப நன்றே எனினும்; அவருள்ளும் செல்வர்க்கே செல்வம் தகைத்து - அவ்வெல்லாருள்ளும் செல்வம் உடையார்க்கே வேறொரு செல்வம் ஆம் சிறப்பினை உடைத்து. (பெருமிதத்தினைச் செய்யுங் கல்வியும் குடிப்பிறப்பும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 13: 'The Possession of Self-restraint'), Kural 125 distills a foundational ethical insight: \"To all humility is goodly grace; but chief to themWith fortune blessed, -'tis fortune's diadem\" Philosophically, Humility is good in all; but especially in the rich it is (the excellence of) higher riches.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wealth",
+        "self-mastery",
+        "humility",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 126,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒரு பிறப்பில், ஆமைபோல் ஐம்பொறிகளையும் அடக்கியாள வல்லவனானால், அஃது அவனுக்குப் பல பிறப்பிலும் காப்பாகும் சிறப்பு உடையது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Should one throughout a single birth, like a tortoise keep in his five senses, the fruit of it will prove a safe-guard to him throughout the seven-fold births.",
+        "story_title_ta": "அடக்கம் உடைமை — கவின் கற்ற பாடம்",
+        "story_title_en": "The Possession of Self-restraint — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அடக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 126 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஆமை தன் நான்கு கால், ஒரு தலை ஆகிய ஐந்து உறுப்புகளையும் ஆபத்து வரும்போது ஓட்டுக்குள் மறைத்துக் கொள்வது போல, ஒருவன் தன் ஒரு பிறப்பில் மெய், வாய், கண், மூக்கு, செவி ஆகிய ஐந்து பொறிகளையும் அறத்திற்கு மாறான தீமை வரும்போது அடக்கும் ஆற்றல் பெறுவான் என்றால், அது அவனுக்குப் பிறவி தோறும் ஏழு பிறப்பிலும் - அரணாக இருந்து உதவும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'The Possession of Self-restraint'. Grandpa shared Kural 126 and explained in simple words: Should one throughout a single birth, like a tortoise keep in his five senses, the fruit of it will prove a safe-guard to him throughout the seven-fold births. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உறுப்புகளை ஓர் ஓட்டுக்குள் அடக்கிக் கொள்ளும் ஆமையைப் போல் ஐம்பொறிகளையும் அடக்கியாளும் உறுதி, காலமெல்லாம் வாழ்க்கைக்குக் காவல் அரணாக அமையும்.",
+        "moral_en": "Moral: Like tortoise, who the five restrainsIn one, through seven world bliss obtains.",
+        "game_blank_word_ta": "ஒருமையுள்",
+        "game_options_ta": [
+          "அடக்கம்",
+          "அமரருள்",
+          "ஒருமையுள்",
+          "உய்க்கும்"
+        ],
+        "game_options_en": [
+          "Self-rule leads to realms of gods Indulgence leads to gloomy hades",
+          "No gains with self-control measure Guard with care this great treasure",
+          "Who senses five like tortoise hold Their joy prolongs to births sevenfold",
+          "Knowing wisdom who lives controlled Name and fame seek him untold"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அடக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 126, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆமை தன் நான்கு கால், ஒரு தலை ஆகிய ஐந்து உறுப்புகளையும் ஆபத்து வரும்போது ஓட்டுக்குள் மறைத்துக் கொள்வது போல, ஒருவன் தன் ஒரு பிறப்பில் மெய், வாய், கண், மூக்கு, செவி ஆகிய ஐந்து பொறிகளையும் அறத்திற்கு மாறான தீமை வரும்போது அடக்கும் ஆற்றல் பெறுவான் என்றால், அது அவனுக்குப் பிறவி தோறும் ஏழு பிறப்பிலும் - அரணாக இருந்து உதவும். கலைஞர் உரை கூறுவது: உறுப்புகளை ஓர் ஓட்டுக்குள் அடக்கிக் கொள்ளும் ஆமையைப் போல் ஐம்பொறிகளையும் அடக்கியாளும் உறுதி, காலமெல்லாம் வாழ்க்கைக்குக் காவல் அரணாக அமையும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Self-restraint (Domestic Virtue), Kural 126 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Should one throughout a single birth, like a tortoise keep in his five senses, the fruit of it will prove a safe-guard to him throughout the seven-fold births. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அடக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Self-restraint' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அடக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 126 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 126 from Chapter 'The Possession of Self-restraint'?",
+        "quiz_options_ta": [
+          "பொறாமைப்பட்டுப் பெருமையுற்றவரும் உலகத்தில் இல்லை; பொறாமை இல்லாதவராய் மேம்பாட்டிலிருந்து நீங்கியவரும் இல்லை.",
+          "பிறர்க்கு உதவி செய்து வாழும் ஒப்புரவைப் போல நல்லனவாகிய வேறு அறப்பகுதிகளைத் தேவருலகத்திலும் இவ்வுலகத்திலும் பெறுதல் இயலாது.",
+          "ஒரு பிறப்பில், ஆமைபோல் ஐம்பொறிகளையும் அடக்கியாள வல்லவனானால், அஃது அவனுக்குப் பல பிறப்பிலும் காப்பாகும் சிறப்பு உடையது.",
+          "புலால் தின்னும் பொருட்டு உலகத்தார் உயிர்களைக் கொல்லா திருப்பாரானால், விலையின் பொருட்டு ஊன் விற்பவர் இல்லாமல் போவார்."
+        ],
+        "quiz_options_en": [
+          "The envious prosper never The envyless prosper ever",
+          "In heav'n and earth 'tis hard to find A greater good than being kind",
+          "Who senses five like tortoise hold Their joy prolongs to births sevenfold",
+          "None would kill and sell the flesh For eating it if they don't wish"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அடக்கம் உடைமை) பகுதியில் குறள் 126 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒரு பிறப்பில், ஆமைபோல் ஐம்பொறிகளையும் அடக்கியாள வல்லவனானால், அஃது அவனுக்குப் பல பிறப்பிலும் காப்பாகும் சிறப்பு உடையது. பரிமேலழகர் உரை நுட்பம்: ஆமை போல் ஒருமையுள் ஐந்து அடக்கல் ஆற்றின் - ஆமைபோல, ஒருவன் ஒரு பிறப்பின்கண் ஐம்பொறிகளையும் அடக்கவல்லன் ஆயின்; எழுமையும் ஏமாப்பு உடைத்து - அவ் வன்மை அவனுக்கு எழுபிறப்பின் கண்ணும் அரண் ஆதலை உடைத்து. (ஆமை ஐந்து உறுப்பினையும் இடர் புகுதாமல் அடக்குமாறு போல இவனும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 13: 'The Possession of Self-restraint'), Kural 126 distills a foundational ethical insight: \"Like tortoise, who the five restrainsIn one, through seven world bliss obtains\" Philosophically, Should one throughout a single birth, like a tortoise keep in his five senses, the fruit of it will prove a safe-guard to him throughout the seven-fold births.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "self-mastery",
+        "speech",
+        "ethics",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 127,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: காக்க வேண்டியவற்றுள் எவற்றைக் காக்கா விட்டாலும் நாவையாவது காக்க வேண்டு்ம்; காக்கத் தவறினால் சொற்குற்றத்தில் அகப்பட்டுத் துன்புறுவர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Whatever besides you leave unguarded, guard your tongue; otherwise errors of speech and the consequent misery will ensue.",
+        "story_title_ta": "அடக்கம் உடைமை — நிலா கற்ற பாடம்",
+        "story_title_en": "The Possession of Self-restraint — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அடக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 127 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எதைக் காக்க முடியாதவரானாலும் நா ஒன்றையாவது காத்துக் கொள்ள வேண்டும். முடியாது போனால் சொல்குற்றத்தில் சிக்கித் துன்பப்படுவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Possession of Self-restraint'. Grandpa shared Kural 127 and explained in simple words: Whatever besides you leave unguarded, guard your tongue; otherwise errors of speech and the consequent misery will ensue. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவர் எதைக் காத்திட முடியாவிட்டாலும் நாவையாவது அடக்கிக் காத்திட வேண்டும் இல்லையேல் அவர் சொன்ன சொல்லே அவர் துன்பத்துக்குக் காரணமாகி விடும்.",
+        "moral_en": "Moral: Whate'er they fail to guard, o'er lips men guard should keep; If not, through fault of tongue, they bitter tears shall weep.",
+        "game_blank_word_ta": "ராயினும்",
+        "game_options_ta": [
+          "அடக்கம்",
+          "அமரருள்",
+          "உய்க்கும்",
+          "ராயினும்"
+        ],
+        "game_options_en": [
+          "Self-rule leads to realms of gods Indulgence leads to gloomy hades",
+          "No gains with self-control measure Guard with care this great treasure",
+          "Knowing wisdom who lives controlled Name and fame seek him untold",
+          "Rein the tongue if nothing else Or slips of tongue bring all the woes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அடக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 127, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எதைக் காக்க முடியாதவரானாலும் நா ஒன்றையாவது காத்துக் கொள்ள வேண்டும். முடியாது போனால் சொல்குற்றத்தில் சிக்கித் துன்பப்படுவர். கலைஞர் உரை கூறுவது: ஒருவர் எதைக் காத்திட முடியாவிட்டாலும் நாவையாவது அடக்கிக் காத்திட வேண்டும் இல்லையேல் அவர் சொன்ன சொல்லே அவர் துன்பத்துக்குக் காரணமாகி விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Self-restraint (Domestic Virtue), Kural 127 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Whatever besides you leave unguarded, guard your tongue; otherwise errors of speech and the consequent misery will ensue. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அடக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Self-restraint' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அடக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 127 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 127 from Chapter 'The Possession of Self-restraint'?",
+        "quiz_options_ta": [
+          "நடுவுநிலைமை இல்லாமல் பிறர்க்குரிய நல்ல பொருளை ஒருவன் கவர விரும்பினால் அவனுடைய குடியும் கெட்டுக் குற்றமும் அப்போழுதே வந்து சேரும்.",
+          "ஒப்புரவை அறிந்து போற்றிப் பிறர்க்கு உதவியாக வாழ்கின்றவன் உயிர்வாழ்கின்றவன் ஆவான், மற்றவன் செத்தவருள் சேர்த்துக் கருதப்படுவான்.",
+          "புலால் உண்ணாமலிருக்க வேண்டும், ஆராய்ந்து அறிவாரைப் பெற்றால், அப் புலால் வேறோர் உயிரின் புண் என்பதை உணரலாம்.",
+          "காக்க வேண்டியவற்றுள் எவற்றைக் காக்கா விட்டாலும் நாவையாவது காக்க வேண்டு்ம்; காக்கத் தவறினால் சொற்குற்றத்தில் அகப்பட்டுத் துன்புறுவர்."
+        ],
+        "quiz_options_en": [
+          "Who covets others' honest wealth That greed ruins his house forthwith",
+          "He lives who knows befitting act Others are deemed as dead in fact",
+          "From eating flesh men must abstain If they but feel the being's pain",
+          "Rein the tongue if nothing else Or slips of tongue bring all the woes"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அடக்கம் உடைமை) பகுதியில் குறள் 127 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காக்க வேண்டியவற்றுள் எவற்றைக் காக்கா விட்டாலும் நாவையாவது காக்க வேண்டு்ம்; காக்கத் தவறினால் சொற்குற்றத்தில் அகப்பட்டுத் துன்புறுவர். பரிமேலழகர் உரை நுட்பம்: யாகாவாராயினும் நாகாக்க - தம்மால் காக்கப்படுவன எல்லாவற்றையும் காக்க மாட்டாராயினும் நாவொன்றனையும் காக்க, காவாக்கால் சொல் இழுக்குப்பட்டுச் சோகாப்பர் - அதனைக் காவாராயின் சொல் இழுக்குப்பட்டுச் சோகாப்பர் - அதனைக் காவாராயின் சொற்குற்றத்தின்கண் பட்டுத் தாமே...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 13: 'The Possession of Self-restraint'), Kural 127 distills a foundational ethical insight: \"Whate'er they fail to guard, o'er lips men guard should keep; If not, through fault of tongue, they bitter tears shall weep\" Philosophically, Whatever besides you leave unguarded, guard your tongue; otherwise errors of speech and the consequent misery will ensue.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "self-mastery",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 128,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தீய ‌சொற்களின் பொருளால் விளையும் தீமை ஒன்றாயினும் ஒருவனிடம் உண்டானால், அதனால் மற்ற அறங்களாலும் நன்மை விளையாமல் போகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If a man's speech be productive of a single evil, all the good by him will be turned into evil.",
+        "story_title_ta": "அடக்கம் உடைமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Possession of Self-restraint — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அடக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 128 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தீய சொற்களின் பொருளால் பிறர்க்கு வரும் துன்பம் சிறிதே என்றாலும் அந்தக் குறை ஒருவனிடம் இருந்தால் அவனுக்குப் பிற அறங்களால் வரும் நன்மையம் தீமையாகப் போய்விடும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Possession of Self-restraint'. Grandpa shared Kural 128 and explained in simple words: If a man's speech be productive of a single evil, all the good by him will be turned into evil. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒரு குடம் பாலில் துளி நஞ்சுபோல், பேசும் சொற்களில் ஒரு சொல் தீய சொல்லாக இருந்து துன்பம் விளைவிக்குமானாலும், அந்தப் பேச்சில் உள்ள நல்ல சொற்கள் அனைத்தும் தீயவாகிவிடும்.",
+        "moral_en": "Moral: Though some small gain of good it seem to bring, The evil word is parent still of evil thing.",
+        "game_blank_word_ta": "பொருட்பயன்",
+        "game_options_ta": [
+          "பொருட்பயன்",
+          "அடக்கம்",
+          "அமரருள்",
+          "உய்க்கும்"
+        ],
+        "game_options_en": [
+          "Even a single evil word Will turn all good results to bad",
+          "Self-rule leads to realms of gods Indulgence leads to gloomy hades",
+          "No gains with self-control measure Guard with care this great treasure",
+          "Knowing wisdom who lives controlled Name and fame seek him untold"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அடக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 128, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தீய சொற்களின் பொருளால் பிறர்க்கு வரும் துன்பம் சிறிதே என்றாலும் அந்தக் குறை ஒருவனிடம் இருந்தால் அவனுக்குப் பிற அறங்களால் வரும் நன்மையம் தீமையாகப் போய்விடும். கலைஞர் உரை கூறுவது: ஒரு குடம் பாலில் துளி நஞ்சுபோல், பேசும் சொற்களில் ஒரு சொல் தீய சொல்லாக இருந்து துன்பம் விளைவிக்குமானாலும், அந்தப் பேச்சில் உள்ள நல்ல சொற்கள் அனைத்தும் தீயவாகிவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Self-restraint (Domestic Virtue), Kural 128 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If a man's speech be productive of a single evil, all the good by him will be turned into evil. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அடக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Self-restraint' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அடக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 128 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 128 from Chapter 'The Possession of Self-restraint'?",
+        "quiz_options_ta": [
+          "தீய ‌சொற்களின் பொருளால் விளையும் தீமை ஒன்றாயினும் ஒருவனிடம் உண்டானால், அதனால் மற்ற அறங்களாலும் நன்மை விளையாமல் போகும்.",
+          "நடுவுநிலைமை அல்லாதவற்றைக் கண்டு நாணி ஒதுங்குகின்றவர், பிறர் பொருளைக் கவர்வதால் வரும் பயனை விரும்பிப் பழியான செயல்களைச் செய்யார்.",
+          "ஒப்புரவினால் உலகம் வாழுமாறு விரும்பும் பேரறிவாளியின் செல்வம், ஊரார் நீருண்ணும் குளம் நீரால் நிறைந்தாற் போன்றது.",
+          "குற்றத்திலிருந்து நீங்கிய அறிவை உடையவர், ஒர் உயிரினிடத்திலிருந்து பிரிந்து வந்த ஊனை உண்ணமாட்டார்."
+        ],
+        "quiz_options_en": [
+          "Even a single evil word Will turn all good results to bad",
+          "Who shrink with shame from sin, refrain From coveting which brings ruin",
+          "The wealth that wise and kind do make Is like water that fills a lake",
+          "Whose mind from illusion is freed Refuse on lifeless flesh to feed"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அடக்கம் உடைமை) பகுதியில் குறள் 128 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தீய ‌சொற்களின் பொருளால் விளையும் தீமை ஒன்றாயினும் ஒருவனிடம் உண்டானால், அதனால் மற்ற அறங்களாலும் நன்மை விளையாமல் போகும். பரிமேலழகர் உரை நுட்பம்: தீச்சொல் பொருள் பயன் ஒன்றானும் உண்டாயின்- தீயவாகிய சொற்களின் பொருள்களால் பிறர்க்கு வரும் துன்பம் ஒன்றாயினும் ஒருவன் பக்கல் உண்டாவதாயின்; நன்று ஆகாது ஆகிவிடும் - அவனுக்குப் பிற அறங்களான் உண்டான நன்மை தீதாய்விடும். (தீயசொல்லாவன - தீங்கு பயக்கும் பொய், குறளை...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 13: 'The Possession of Self-restraint'), Kural 128 distills a foundational ethical insight: \"Though some small gain of good it seem to bring, The evil word is parent still of evil thing\" Philosophically, If a man's speech be productive of a single evil, all the good by him will be turned into evil.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "self-mastery",
+        "ethics",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 129,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தீயினால் சுட்ட புண் புறத்தே வடு இருந்தாலும் உள்ளே ஆறிவிடும்; ஆனால் நாவினால் தீய சொல் கூறிச் சுடும் வடு என்றும் ஆறாது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The wound which has been burnt in by fire may heal, but a wound burnt in by the tongue will never heal.",
+        "story_title_ta": "அடக்கம் உடைமை — இனியா கற்ற பாடம்",
+        "story_title_en": "The Possession of Self-restraint — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அடக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 129 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'ஒருவனை மற்றொருவன் தீயால் சுட்ட புண் உடம்பின்மேல் வடுவாக இருந்தாலும் உள்ளத்துக் காயம் காலத்தில் ஆறிப்போய்விடும். ஆனால் கொடிய வார்த்தைகளால் நெஞ்சைச் சுட்ட வடு அதில் புண்ணாகவே கிடந்து ஒரு நாளும் ஆறாது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'The Possession of Self-restraint'. Grandpa shared Kural 129 and explained in simple words: The wound which has been burnt in by fire may heal, but a wound burnt in by the tongue will never heal. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நெருப்பு சுட்ட புண்கூட ஆறி விடும்; ஆனால் வெறுப்புக் கொண்டு திட்டிய சொற்கள் விளைத்த துன்பம் ஆறவே ஆறாது.",
+        "moral_en": "Moral: In flesh by fire inflamed, nature may thoroughly heal the sore; In soul by tongue inflamed, the ulcer healeth never more.",
+        "game_blank_word_ta": "ஆறாதே",
+        "game_options_ta": [
+          "அடக்கம்",
+          "ஆறாதே",
+          "அமரருள்",
+          "உய்க்கும்"
+        ],
+        "game_options_en": [
+          "Self-rule leads to realms of gods Indulgence leads to gloomy hades",
+          "The fire-burnt wounds do find a cure Tongue-burnt wound rests a running sore",
+          "No gains with self-control measure Guard with care this great treasure",
+          "Knowing wisdom who lives controlled Name and fame seek him untold"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அடக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 129, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவனை மற்றொருவன் தீயால் சுட்ட புண் உடம்பின்மேல் வடுவாக இருந்தாலும் உள்ளத்துக் காயம் காலத்தில் ஆறிப்போய்விடும். ஆனால் கொடிய வார்த்தைகளால் நெஞ்சைச் சுட்ட வடு அதில் புண்ணாகவே கிடந்து ஒரு நாளும் ஆறாது. கலைஞர் உரை கூறுவது: நெருப்பு சுட்ட புண்கூட ஆறி விடும்; ஆனால் வெறுப்புக் கொண்டு திட்டிய சொற்கள் விளைத்த துன்பம் ஆறவே ஆறாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Self-restraint (Domestic Virtue), Kural 129 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The wound which has been burnt in by fire may heal, but a wound burnt in by the tongue will never heal. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அடக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Self-restraint' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அடக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 129 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 129 from Chapter 'The Possession of Self-restraint'?",
+        "quiz_options_ta": [
+          "அறநெறியால் பெறும் இன்பத்தை விரும்புகின்றவர், நிலையில்லாத சிறிய இன்பத்தை விரும்பி அறம் அல்லாதவற்றைச் செய்யார்.",
+          "தீயினால் சுட்ட புண் புறத்தே வடு இருந்தாலும் உள்ளே ஆறிவிடும்; ஆனால் நாவினால் தீய சொல் கூறிச் சுடும் வடு என்றும் ஆறாது.",
+          "ஒப்புராவாகிய நற்பண்பு உடையவனிடம் செல்வம் சேர்ந்தால் அஃது ஊரின் நடுவே உள்ள பயன் மிகுந்த மரம் பழங்கள் பழுத்தாற் போன்றது.",
+          "நெய் முதலியப் பொருள்களைத் தீயில் சொரிந்து ஆயிரம் வேள்விகள் செய்தலை விட ஒன்றன் உயிரைக்கொன்று உடம்பைத் தின்னாதிருத்தல் நல்லது."
+        ],
+        "quiz_options_en": [
+          "For spiritual bliss who long For fleeting joy commit no wrong",
+          "The fire-burnt wounds do find a cure Tongue-burnt wound rests a running sore",
+          "Who plenty gets and plenty gives Is like town-tree teeming with fruits",
+          "Not to-kill-and-eat, truly Excels thousand pourings of ghee!"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அடக்கம் உடைமை) பகுதியில் குறள் 129 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தீயினால் சுட்ட புண் புறத்தே வடு இருந்தாலும் உள்ளே ஆறிவிடும்; ஆனால் நாவினால் தீய சொல் கூறிச் சுடும் வடு என்றும் ஆறாது. பரிமேலழகர் உரை நுட்பம்: தீயினால் சுட்டபுண் உள் ஆறும் - ஒருவனை ஒருவன் தீயினால் சுட்ட புண் மெய்க்கண் கிடப்பினும், மனத்தின்கண், அப்பொழுதே ஆறும்; நாவினால் சுட்ட வடு ஆறாது - அவ்வாறன்றி வெவ்வுரை உடைய நாவினால் சுட்ட வடு அதன் கண்ணும் எஞ்ஞான்றும் ஆறாது. (ஆறிப்போதலால் தீயினால் சுட்டதனைப...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 13: 'The Possession of Self-restraint'), Kural 129 distills a foundational ethical insight: \"In flesh by fire inflamed, nature may thoroughly heal the sore; In soul by tongue inflamed, the ulcer healeth never more\" Philosophically, The wound which has been burnt in by fire may heal, but a wound burnt in by the tongue will never heal.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 130,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: சினம் தோன்றாமல் காத்து, கல்வி கற்று, அடக்கமுடையவனாக இருக்க வல்லவனுடைய செவ்வியை, அவனுடைய வழியில் சென்று அறம் பார்த்திருக்கும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Virtue, seeking for an opportunity, will come into the path of that man who, possessed of learning and self-control, guards himself against anger.",
+        "story_title_ta": "அடக்கம் உடைமை — முகில் கற்ற பாடம்",
+        "story_title_en": "The Possession of Self-restraint — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'அடக்கம் உடைமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 130 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'கல்வி கற்று மனத்துள் கோபம் பிறக்காமல் காத்து, அடக்கமாக வாழும் ஆற்றல் படைத்தவனை அடைவதற்கான நேரத்தை எதிர்பார்த்து அறம் அவன் வழியில் நுழைந்து காத்து இருக்கும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'The Possession of Self-restraint'. Grandpa shared Kural 130 and explained in simple words: Virtue, seeking for an opportunity, will come into the path of that man who, possessed of learning and self-control, guards himself against anger. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: கற்பவை கற்றுச், சினம் காத்து, அடக்கமெனும் பண்பு கொண்டவரை அடைந்திட அறமானது வழிபார்த்துக் காத்திருக்கும்.",
+        "moral_en": "Moral: Who learns restraint, and guards his soul from wrath, Virtue, a timely aid, attends his path.",
+        "game_blank_word_ta": "அறம்பார்க்கும்",
+        "game_options_ta": [
+          "அடக்கம்",
+          "அமரருள்",
+          "அறம்பார்க்கும்",
+          "உய்க்கும்"
+        ],
+        "game_options_en": [
+          "Self-rule leads to realms of gods Indulgence leads to gloomy hades",
+          "No gains with self-control measure Guard with care this great treasure",
+          "Virtue seeks and peeps to see Self-controlled savant anger free",
+          "Knowing wisdom who lives controlled Name and fame seek him untold"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "அடக்கம் உடைமை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 130, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கல்வி கற்று மனத்துள் கோபம் பிறக்காமல் காத்து, அடக்கமாக வாழும் ஆற்றல் படைத்தவனை அடைவதற்கான நேரத்தை எதிர்பார்த்து அறம் அவன் வழியில் நுழைந்து காத்து இருக்கும். கலைஞர் உரை கூறுவது: கற்பவை கற்றுச், சினம் காத்து, அடக்கமெனும் பண்பு கொண்டவரை அடைந்திட அறமானது வழிபார்த்துக் காத்திருக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Possession of Self-restraint (Domestic Virtue), Kural 130 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Virtue, seeking for an opportunity, will come into the path of that man who, possessed of learning and self-control, guards himself against anger. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'அடக்கம் உடைமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Possession of Self-restraint' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'அடக்கம் உடைமை' அதிகாரத்தில் வரும் திருக்குறள் 130 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 130 from Chapter 'The Possession of Self-restraint'?",
+        "quiz_options_ta": [
+          "ஐம்புலன்களையும் வென்ற குற்றமில்லாத அறிவை உடையவர், யாம் வறுமை அடைந்தோம் என்று எண்ணியும் பிறர் பொருளை விரும்பார்‌.",
+          "ஒப்புரவாகிய பெருந்தகைமை உடையவனிடத்து செல்வம் சேர்ந்தால் அஃது எல்லா உறுப்புகளுக்கும் மருந்தாகிப் பயன்படத் தவறாத மரம் போன்றது.",
+          "சினம் தோன்றாமல் காத்து, கல்வி கற்று, அடக்கமுடையவனாக இருக்க வல்லவனுடைய செவ்வியை, அவனுடைய வழியில் சென்று அறம் பார்த்திருக்கும்.",
+          "ஓருயிரையும் கொல்லாமல் புலால் உண்ணாமல் வாழ்கின்றவனை உலகத்தில் உள்ள எல்லா உயிர்களும் கைகூப்பி வணங்கும்."
+        ],
+        "quiz_options_en": [
+          "The truth-knowers of sense-control Though in want covet not at all",
+          "The wealth of a wide-hearted soul Is a herbal tree that healeth all",
+          "Virtue seeks and peeps to see Self-controlled savant anger free",
+          "All lives shall lift their palms to him Who eats not flesh nor kills with whim"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (அடக்கம் உடைமை) பகுதியில் குறள் 130 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சினம் தோன்றாமல் காத்து, கல்வி கற்று, அடக்கமுடையவனாக இருக்க வல்லவனுடைய செவ்வியை, அவனுடைய வழியில் சென்று அறம் பார்த்திருக்கும். பரிமேலழகர் உரை நுட்பம்: கதம் காத்துக் கற்று அடங்கல் ஆற்றுவான் செவ்வி - மனத்தின்கண் வெகுளி தோன்றாமல் காத்துக் கல்வியுடையவனாய் அடங்குதலை வல்லவனது செவ்வியை, அறம் பார்க்கும் ஆற்றின் நுழைந்து - அறக் கடவுள் பாராநிற்கும் அவனை அடையும் நெற்றியின்கண் சென்று. (அடங்குதல் - மனம் புறத்துப் பரவாது...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 13: 'The Possession of Self-restraint'), Kural 130 distills a foundational ethical insight: \"Who learns restraint, and guards his soul from wrath, Virtue, a timely aid, attends his path\" Philosophically, Virtue, seeking for an opportunity, will come into the path of that man who, possessed of learning and self-control, guards himself against anger.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "self-mastery",
+        "ethics",
+        "time",
+        "harmony"
+      ]
+    }
+  ]
+}

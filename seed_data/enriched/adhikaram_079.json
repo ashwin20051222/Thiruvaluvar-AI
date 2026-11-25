@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 79,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.184016917+00:00",
+  "kurals": [
+    {
+      "kural_number": 781,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நட்பைப்போல் செய்து கொள்வதற்கு அருமையானவை எவை உள்ளன, அதுபோல் தொழிலுக்கு அரிய காவலாக இருப்பவை எவை உள்ளன.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: What so sure defence 'gainst all that foe can do?",
+        "story_title_ta": "நட்பு — நிலா கற்ற பாடம்",
+        "story_title_en": "Friendship — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பு' என்ற அதிகாரத்திலிருந்து குறள் 781 பற்றிக் கதை சொன்னார். 'சம்பாதிப்பதற்கு நட்பைப் போல அரிய பொருள் வேறு எவை உண்டு? அதைச் சம்பாதித்து விட்டால் பிறர் புக முடியாதபடி நம்மைக் காப்பதற்கு அரிய பொருள் வேறு எவை உண்டு?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 79, 'Friendship', centered on Kural 781: What so sure defence 'gainst all that foe can do? Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நட்புக் கொள்வது போன்ற அரிய செயல் இல்லை அதுபோல் பாதுகாப்புக்கு ஏற்ற செயலும் வேறொன்றில்லை.",
+        "moral_en": "Moral: What so hard for men to gain as friendship trueWhat so sure defence 'gainst all that foe can do.",
+        "game_blank_word_ta": "யாவுள",
+        "game_options_ta": [
+          "நிறைநீர",
+          "யாவுள",
+          "நீரவர்",
+          "கேண்மை"
+        ],
+        "game_options_en": [
+          "Good friendship shines like waxing moon, The bad withers like waning moon",
+          "Like friendship what's so hard to gain? That guards one against acts villain?",
+          "Like taste in books good friendship grows The more one moves the more he knows",
+          "Not to laugh is friendship made But to hit when faults exceed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பு (அங்கவியல்) பிரிவில் அமைந்த குறள் 781, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சம்பாதிப்பதற்கு நட்பைப் போல அரிய பொருள் வேறு எவை உண்டு? அதைச் சம்பாதித்து விட்டால் பிறர் புக முடியாதபடி நம்மைக் காப்பதற்கு அரிய பொருள் வேறு எவை உண்டு? கலைஞர் உரை கூறுவது: நட்புக் கொள்வது போன்ற அரிய செயல் இல்லை அதுபோல் பாதுகாப்புக்கு ஏற்ற செயலும் வேறொன்றில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Friendship (Ministers & Elements of State), Kural 781 speaks directly to teens navigating studies, friendships, leadership, and digital choices: What so sure defence 'gainst all that foe can do? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Friendship' thoughtfully.",
+        "quiz_question_ta": "'நட்பு' அதிகாரத்தில் வரும் திருக்குறள் 781 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 781 from Chapter 'Friendship'?",
+        "quiz_options_ta": [
+          "மனத்தால் தம்மொடு பொருந்தாமல் பழகுகின்றவரை அவர் கூறுகின்ற சொல்லைக் கொண்டு எத்தகைய ஒரு செயலிலும் நம்பித் தெளியக்கூடாது.",
+          "நட்பைப்போல் செய்து கொள்வதற்கு அருமையானவை எவை உள்ளன, அதுபோல் தொழிலுக்கு அரிய காவலாக இருப்பவை எவை உள்ளன.",
+          "ஒருவன் குணம் இல்லாதவனாய், குற்றம் பல உடையவனானால் அவன் துணை இல்லாதவன் ஆவான், அந்நிலைமையே அவனுடைய பகைவர்க்கு நன்மையாகும்.",
+          "அன் பினால் விரும்பாமல் பொருள் காரணமாக விரும்புகின்ற பொது மகளிர் பேசுகின்ற இனிய சொல், ஒருவனுக்கு துன்பத்தைக் கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "Do not trust in what they tell Whose mind with your mind goes ill",
+          "Like friendship what's so hard to gain? That guards one against acts villain?",
+          "With no virtue but full of vice He loses friends and delights foes",
+          "For gold, not love their tongue cajoles Men are ruined by bangled belles"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பு) பகுதியில் குறள் 781 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நட்பைப்போல் செய்து கொள்வதற்கு அருமையானவை எவை உள்ளன, அதுபோல் தொழிலுக்கு அரிய காவலாக இருப்பவை எவை உள்ளன. பரிமேலழகர் உரை நுட்பம்: நட்பின் செயற்கு அரிய யா உள - நட்புப்போலச் செய்து கோடற்கு அரிய பொருள்கள் யாவை உள? அதுபோல் வினைக்கு அரிய காப்பு யா உள - செய்துகொண்டால் அது போலப் பகைவர் செய்யும் வினைக்குப் புகற்கு அரிய காவலாவன யாவை உள? (நட்புச்செய்தற்கு ஆவாரைப் பெறுதலும், பெற்றால்செய்யும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 79: 'Friendship'), Kural 781 distills a foundational ethical insight: \"What so hard for men to gain as friendship trueWhat so sure defence 'gainst all that foe can do\" Philosophically, What so sure defence 'gainst all that foe can do?",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "education",
+        "courage",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 782,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அறிவுடையவரின் நட்பு பிறை நிறைந்து வருதல் போன்ற தன்மையுடையது, அறிவில்லாதவரின் நட்பு முழுமதி தேய்ந்து பின் செல்லுதல் போன்ற தன்மையுடையன.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The friendship of the wise waxes like the new moon; (but) that of fools wanes like the full moon.",
+        "story_title_ta": "நட்பு — அன்பு கற்ற பாடம்",
+        "story_title_en": "Friendship — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பு' என்ற அதிகாரத்திலிருந்து குறள் 782 பற்றிக் கதை சொன்னார். 'பிறை, நாளும் வளர்வதுபோல, அறிவுடையார் நட்பு வளரும்; முழு நிலவு தேய்வது போலப் பேதைகளின் நட்பு தேயும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 79, 'Friendship', centered on Kural 782: The friendship of the wise waxes like the new moon; (but) that of fools wanes like the full moon. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அறிவுள்ளவர்களுடன் கொள்ளும் நட்பு பிறைநிலவாகத் தொடங்கி முழுநிலவாக வளரும், அறிவில்லாதவர்களுடன் கொள்ளும் நட்போ முழுமதிபோல் முளைத்துப் பின்னர் தேய்பிறையாகக் குறைந்து மறைந்து போகும்.",
+        "moral_en": "Moral: Friendship with men fulfilled of good Waxes like the crescent moon; Friendship with men of foolish mood, Like the full orb, waneth soon.",
+        "game_blank_word_ta": "பேதையார்",
+        "game_options_ta": [
+          "செயற்கரிய",
+          "யாவுள",
+          "பேதையார்",
+          "நட்பின்"
+        ],
+        "game_options_en": [
+          "Like friendship what's so hard to gain? That guards one against acts villain?",
+          "Like taste in books good friendship grows The more one moves the more he knows",
+          "Good friendship shines like waxing moon, The bad withers like waning moon",
+          "Not to laugh is friendship made But to hit when faults exceed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பு (அங்கவியல்) பிரிவில் அமைந்த குறள் 782, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறை, நாளும் வளர்வதுபோல, அறிவுடையார் நட்பு வளரும்; முழு நிலவு தேய்வது போலப் பேதைகளின் நட்பு தேயும். கலைஞர் உரை கூறுவது: அறிவுள்ளவர்களுடன் கொள்ளும் நட்பு பிறைநிலவாகத் தொடங்கி முழுநிலவாக வளரும், அறிவில்லாதவர்களுடன் கொள்ளும் நட்போ முழுமதிபோல் முளைத்துப் பின்னர் தேய்பிறையாகக் குறைந்து மறைந்து போகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Friendship (Ministers & Elements of State), Kural 782 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The friendship of the wise waxes like the new moon; (but) that of fools wanes like the full moon. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Friendship' thoughtfully.",
+        "quiz_question_ta": "'நட்பு' அதிகாரத்தில் வரும் திருக்குறள் 782 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 782 from Chapter 'Friendship'?",
+        "quiz_options_ta": [
+          "நண்பர்போல் நன்மையானவற்றைச் சொன்னபோதிலும் பகைமை கொண்டவர் சொல்லும் சொற்களின் உண்மைத் தன்மை விரைவில் உணரப்படும்.",
+          "அறிவு இல்லாத அஞ்சும் இயல்புடைய பகைவரைப் பெற்றால், அவரை எதிர்த்து பகை கொள்பவர்க்கு இன்பங்கள் தொலைவில் நீங்காமல் இருக்கும்.",
+          "அறிவுடையவரின் நட்பு பிறை நிறைந்து வருதல் போன்ற தன்மையுடையது, அறிவில்லாதவரின் நட்பு முழுமதி தேய்ந்து பின் செல்லுதல் போன்ற தன்மையுடையன.",
+          "கிடைக்க கூடிய பயனை அளந்து பார்த்து, அதற்கு ஏற்றவாறு இனிய சொல் கூறுகின்ற பண்பற்ற பொது மகளிரின் இன்பத்தை ஆராய்ந்து பொருந்தாமல் விட வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "The words of foes is quickly seen Though they speak like friends in fine",
+          "The joy of heroes knows no bounds When timid fools are opponents",
+          "Good friendship shines like waxing moon, The bad withers like waning moon",
+          "Avoid ill-natured whores who feign Love only for their selfish gain"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பு) பகுதியில் குறள் 782 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறிவுடையவரின் நட்பு பிறை நிறைந்து வருதல் போன்ற தன்மையுடையது, அறிவில்லாதவரின் நட்பு முழுமதி தேய்ந்து பின் செல்லுதல் போன்ற தன்மையுடையன. பரிமேலழகர் உரை நுட்பம்: நீரவர் கேண்மை பிறை நிறை நீர - அறிவுடையார் நட்புக்கள் பிறை நிறையும் தன்மைபோல நாள்தோறும் நிறையுந் தன்மையவாம்; பேதையார் நட்பு மதிப் பின் நீர - மற்றைப் பேதைமையுடையார் நட்புக்கள் நிறைந்த மதி பின் குறையுந் தன்மை போல நாள்தோறும் குறையுந்தன்மையவாம். '('நீரவர...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 79: 'Friendship'), Kural 782 distills a foundational ethical insight: \"Friendship with men fulfilled of good Waxes like the crescent moon; Friendship with men of foolish mood, Like the full orb, waneth soon\" Philosophically, The friendship of the wise waxes like the new moon; (but) that of fools wanes like the full moon.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "wisdom",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 783,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பழகப் பழக நற்பண்பு உடையவரின் நட்பு இன்பம் தருதல், நூலின் நற்பொருள் கற்கக் கற்க மேன்மேலும் இன்பம் தருதலைப் போன்றதாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Like learning, the friendship of the noble, the more it is cultivated, the more delightful does it become.",
+        "story_title_ta": "நட்பு — இனியா கற்ற பாடம்",
+        "story_title_en": "Friendship — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பு' என்ற அதிகாரத்திலிருந்து குறள் 783 பற்றிக் கதை சொன்னார். 'படிக்கும்போது எல்லாம் மகிழ்ச்சி தரும் நூலின் இன்பம் போல நல்ல குணமுள்ளவரோடு கொண்ட நட்பு அவரோடு பழகும் போதெல்லாம் மகிழ்ச்சி தரும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 79, 'Friendship', centered on Kural 783: Like learning, the friendship of the noble, the more it is cultivated, the more delightful does it become. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: படிக்கப் படிக்க இன்பம் தரும் நூலின் சிறப்பைப் போல் பழகப் பழக இன்பம் தரக்கூடியது பண்புடையாளர்களின் நட்பு.",
+        "moral_en": "Moral: Learned scroll the more you ponder, Sweeter grows the mental food; So the heart by use grows fonder, Bound in friendship with the good.",
+        "game_blank_word_ta": "தொடர்பு",
+        "game_options_ta": [
+          "செயற்கரிய",
+          "யாவுள",
+          "நட்பின்",
+          "தொடர்பு"
+        ],
+        "game_options_en": [
+          "Like friendship what's so hard to gain? That guards one against acts villain?",
+          "Good friendship shines like waxing moon, The bad withers like waning moon",
+          "Not to laugh is friendship made But to hit when faults exceed",
+          "Like taste in books good friendship grows The more one moves the more he knows"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பு (அங்கவியல்) பிரிவில் அமைந்த குறள் 783, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: படிக்கும்போது எல்லாம் மகிழ்ச்சி தரும் நூலின் இன்பம் போல நல்ல குணமுள்ளவரோடு கொண்ட நட்பு அவரோடு பழகும் போதெல்லாம் மகிழ்ச்சி தரும். கலைஞர் உரை கூறுவது: படிக்கப் படிக்க இன்பம் தரும் நூலின் சிறப்பைப் போல் பழகப் பழக இன்பம் தரக்கூடியது பண்புடையாளர்களின் நட்பு. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Friendship (Ministers & Elements of State), Kural 783 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Like learning, the friendship of the noble, the more it is cultivated, the more delightful does it become. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Friendship' thoughtfully.",
+        "quiz_question_ta": "'நட்பு' அதிகாரத்தில் வரும் திருக்குறள் 783 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 783 from Chapter 'Friendship'?",
+        "quiz_options_ta": [
+          "வில்லின் வணக்கம் வணக்கமாக இருந்தாலும் தீங்கு செய்தலைக்குறித்தமையால், பகைவரிடத்திலும் அவருடைய சொல்லின் வணக்கத்தை நன்மையாகக் கொள்ளக் கூடாது.",
+          "கல்வி கற்காதவனைப் பகைத்துக்கொள்ளும் எளிய செயலைச் செய்ய இயலாத ஒருவனிடம் எக்காலத்திலும் புகழ் வந்து பொருந்தாது.",
+          "பொருளையே விரும்பும் பொது மகளிரின் பொய்யானத் தழுவல், இருட்டறையில் தொடர்பில்லாத ஒரு பிணத்தைத் தழுவினாற் போன்றது.",
+          "பழகப் பழக நற்பண்பு உடையவரின் நட்பு இன்பம் தருதல், நூலின் நற்பொருள் கற்கக் கற்க மேன்மேலும் இன்பம் தருதலைப் போன்றதாகும்."
+        ],
+        "quiz_options_en": [
+          "Trust not the humble words of foes Danger darts from bending bows",
+          "Glory's light he will not gain Who fails to fight a fool and win",
+          "The false embrace of whores is like That of a damned corpse in the dark",
+          "Like taste in books good friendship grows The more one moves the more he knows"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பு) பகுதியில் குறள் 783 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பழகப் பழக நற்பண்பு உடையவரின் நட்பு இன்பம் தருதல், நூலின் நற்பொருள் கற்கக் கற்க மேன்மேலும் இன்பம் தருதலைப் போன்றதாகும். பரிமேலழகர் உரை நுட்பம்: பண்பு உடையாளர் தொடர்பு பயில்தொறும் - நற்குணமுடைய மக்கள் தம்முள் செய்த நட்புப் பயிலுந்தோறும் அவர்க்கு இன்பஞ் செய்தல்; நூல் நவில்தொறும் நயம் போலும் - நூற்பொருள் கற்குந்தோறும் கற்றார்க்கு இன்பஞ் செய்தலை ஒக்கும். (நயத்தினைச் செய்தலான் 'நயம்' எனப்பட்டது...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 79: 'Friendship'), Kural 783 distills a foundational ethical insight: \"Learned scroll the more you ponder, Sweeter grows the mental food; So the heart by use grows fonder, Bound in friendship with the good\" Philosophically, Like learning, the friendship of the noble, the more it is cultivated, the more delightful does it become.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "education",
+        "harmony",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 784,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நட்புச் செய்தல் ஒருவரோடு ஒருவர் சிரித்து மகிழும் பொருட்டு அன்று, நண்பர் நெறிக்கடந்து செல்லும் போது முற்ப்பட்டுச் சென்று இடித்துரைப்பதற்காகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Friendship is to be practised not for the purpose of laughing but for that of being beforehand in giving one another sharp rebukes in case of transgression.",
+        "story_title_ta": "நட்பு — முகில் கற்ற பாடம்",
+        "story_title_en": "Friendship — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பு' என்ற அதிகாரத்திலிருந்து குறள் 784 பற்றிக் கதை சொன்னார். 'ஒருவனோடு நட்புக் கொள்வது சிரித்து மகிழ மட்டும் அன்று; நண்பனிடம் வேண்டாத செயல் இருக்கக் கண்டபோது விரைந்து கண்டித்துப் புத்தி சொல்வதற்கும் ஆம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 79, 'Friendship', centered on Kural 784: Friendship is to be practised not for the purpose of laughing but for that of being beforehand in giving one another sharp rebukes in case of transgression. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நட்பு என்பது சிரித்து மகிழ்வதற்காக அல்ல; நண்பர்கள் நல்வழி தவறிச் செல்லும்பொழுது இடித்துரைத்துத் திருத்துவதற்காகும்.",
+        "moral_en": "Moral: Nor for laughter only friendship all the pleasant day, But for strokes of sharp reproving, when from right you stray.",
+        "game_blank_word_ta": "நகுதற்",
+        "game_options_ta": [
+          "நகுதற்",
+          "செயற்கரிய",
+          "யாவுள",
+          "நட்பின்"
+        ],
+        "game_options_en": [
+          "Not to laugh is friendship made But to hit when faults exceed",
+          "Like friendship what's so hard to gain? That guards one against acts villain?",
+          "Good friendship shines like waxing moon, The bad withers like waning moon",
+          "Like taste in books good friendship grows The more one moves the more he knows"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பு (அங்கவியல்) பிரிவில் அமைந்த குறள் 784, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவனோடு நட்புக் கொள்வது சிரித்து மகிழ மட்டும் அன்று; நண்பனிடம் வேண்டாத செயல் இருக்கக் கண்டபோது விரைந்து கண்டித்துப் புத்தி சொல்வதற்கும் ஆம். கலைஞர் உரை கூறுவது: நட்பு என்பது சிரித்து மகிழ்வதற்காக அல்ல; நண்பர்கள் நல்வழி தவறிச் செல்லும்பொழுது இடித்துரைத்துத் திருத்துவதற்காகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Friendship (Ministers & Elements of State), Kural 784 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Friendship is to be practised not for the purpose of laughing but for that of being beforehand in giving one another sharp rebukes in case of transgression. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Friendship' thoughtfully.",
+        "quiz_question_ta": "'நட்பு' அதிகாரத்தில் வரும் திருக்குறள் 784 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 784 from Chapter 'Friendship'?",
+        "quiz_options_ta": [
+          "நட்புச் செய்தல் ஒருவரோடு ஒருவர் சிரித்து மகிழும் பொருட்டு அன்று, நண்பர் நெறிக்கடந்து செல்லும் போது முற்ப்பட்டுச் சென்று இடித்துரைப்பதற்காகும்.",
+          "பகைவர் வணங்கித் தொழுத கையினுள்ளும் கொலைக்கருவி மறைந்திருக்கும், பகைவர் அழுதுசொரிந்த கண்ணீரும் அத்தன்மையானதே.",
+          "பகை என்று சொல்லப்படும் பண்பு இல்லாத தீமையை ஒருவன் சிறிதும் பொழுது போக்கும் விளையாட்டாகவும் விரும்புதலாகாது.",
+          "பொருள் ஒன்றையே பொருளாகக் கொண்ட பொது மகளிரின் புன்மையான இன்பத்தை, அருளாகிய சிறந்த பொருளை ஆராயும் அறிவுடையோர் பொருந்த மாட்டார்."
+        ],
+        "quiz_options_en": [
+          "Not to laugh is friendship made But to hit when faults exceed",
+          "Adoring hands of foes hide arms Their sobbing tears have lurking harms",
+          "Let not one even as a sport The ill-natured enmity court",
+          "The wise who seek the wealth of grace Look not for harlots' low embrace"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பு) பகுதியில் குறள் 784 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நட்புச் செய்தல் ஒருவரோடு ஒருவர் சிரித்து மகிழும் பொருட்டு அன்று, நண்பர் நெறிக்கடந்து செல்லும் போது முற்ப்பட்டுச் சென்று இடித்துரைப்பதற்காகும். பரிமேலழகர் உரை நுட்பம்: நட்டல் நகுதற்பொருட்டன்று - ஒருவனோடு, ஒருவன் நட்புச் செய்தல் தம்முள் நகுதற்கு இயைந்தன சொல்லி நகையாடற் பொருட்டன்று; மிகுதிக்கண் மேற்சென்று இடித்தற் பொருட்டு - அவர்க்கு வேண்டாத செய்கை உளதாயவழி முற்பட்டுக் கழறுதற் பொருட்டு. (பழியும் பாவமும் தரும் செய்கை துன்பமே...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 79: 'Friendship'), Kural 784 distills a foundational ethical insight: \"Nor for laughter only friendship all the pleasant day, But for strokes of sharp reproving, when from right you stray\" Philosophically, Friendship is to be practised not for the purpose of laughing but for that of being beforehand in giving one another sharp rebukes in case of transgression.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "love",
+        "time",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 785,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நட்புச் செய்வதற்குத் தொடர்பும் பழக்கமும் வேண்டியதில்லை, ஒத்த உணர்ச்சியே நட்பு ஏற்படுத்துவதற்கு வேண்டிய உரிமையைக் கொடுக்கும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Living together and holding frequent intercourse are not necessary (for friendship); (mutual) understanding can alone create a claim for it.",
+        "story_title_ta": "நட்பு — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Friendship — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பு' என்ற அதிகாரத்திலிருந்து குறள் 785 பற்றிக் கதை சொன்னார். 'ஒருவனோடு ஒருவன் நட்புக் கொள்வதற்கு அருகருகே இருப்பதோ, நெருங்கிப் பழகுவதோ வேண்டியதில்ல. இருவரது எண்ணமும் ஒத்திருந்தால் அதுவே நட்பு என்னும் தோழமையைக் கொடுக்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 79, 'Friendship', centered on Kural 785: Living together and holding frequent intercourse are not necessary (for friendship); (mutual) understanding can alone create a claim for it. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இருவருக்கிடையே நட்புரிமை முகிழ்ப்பதற்கு ஏற்கனவே தொடர்பும் பழக்கமும் வேண்டுமென்பதில்லை இருவரின் ஒத்த மன உணர்வே போதுமானது.",
+        "moral_en": "Moral: Not association constant, not affection's token bind;'Tis the unison of feeling friends unites of kindred mind.",
+        "game_blank_word_ta": "பழகுதல்",
+        "game_options_ta": [
+          "செயற்கரிய",
+          "பழகுதல்",
+          "யாவுள",
+          "நட்பின்"
+        ],
+        "game_options_en": [
+          "Like friendship what's so hard to gain? That guards one against acts villain?",
+          "No close living nor clasping grip Friendship's feeling heart's fellowship",
+          "Good friendship shines like waxing moon, The bad withers like waning moon",
+          "Like taste in books good friendship grows The more one moves the more he knows"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பு (அங்கவியல்) பிரிவில் அமைந்த குறள் 785, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவனோடு ஒருவன் நட்புக் கொள்வதற்கு அருகருகே இருப்பதோ, நெருங்கிப் பழகுவதோ வேண்டியதில்ல. இருவரது எண்ணமும் ஒத்திருந்தால் அதுவே நட்பு என்னும் தோழமையைக் கொடுக்கும். கலைஞர் உரை கூறுவது: இருவருக்கிடையே நட்புரிமை முகிழ்ப்பதற்கு ஏற்கனவே தொடர்பும் பழக்கமும் வேண்டுமென்பதில்லை இருவரின் ஒத்த மன உணர்வே போதுமானது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Friendship (Ministers & Elements of State), Kural 785 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Living together and holding frequent intercourse are not necessary (for friendship); (mutual) understanding can alone create a claim for it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Friendship' thoughtfully.",
+        "quiz_question_ta": "'நட்பு' அதிகாரத்தில் வரும் திருக்குறள் 785 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 785 from Chapter 'Friendship'?",
+        "quiz_options_ta": [
+          "புறத்தே மிகுதியாக நட்புத் தோன்றச் செய்து அகத்தில் இகழ்கின்றவரைத் தாமும் அந் நட்பில் நகைத்து மகிழுமாறு செய்து அத் தொடர்பு சாகுமாறு நடக்க வேண்டும்.",
+          "நட்புச் செய்வதற்குத் தொடர்பும் பழக்கமும் வேண்டியதில்லை, ஒத்த உணர்ச்சியே நட்பு ஏற்படுத்துவதற்கு வேண்டிய உரிமையைக் கொடுக்கும்.",
+          "வில்லை ஏராக உடைய உழவராகிய வீரருடன் பகை கொண்ட போதிலும், சொல்லை ஏராக உடைய உழவராகிய அறிஞருடன் பகை கொள்ளக் கூடாது.",
+          "இயற்கை யறிவின் நன்மையால் சிறப்புற்ற அறிவுடையோர், பொருள் தருவார் எல்லார்க்கும் பொதுவாக இன்பம் தரும் மகளிரின் புன்மையான நலத்தைப் பொருந்தார்."
+        ],
+        "quiz_options_en": [
+          "In open who praise, at heart despise Cajole and crush them in friendly guise",
+          "No close living nor clasping grip Friendship's feeling heart's fellowship",
+          "Incur the hate of bow-ploughers But not the hate of word-ploughers",
+          "The lofty wise will never covet The open charms of a vile harlot"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பு) பகுதியில் குறள் 785 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நட்புச் செய்வதற்குத் தொடர்பும் பழக்கமும் வேண்டியதில்லை, ஒத்த உணர்ச்சியே நட்பு ஏற்படுத்துவதற்கு வேண்டிய உரிமையைக் கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: புணர்ச்சி பழகுதல் வேண்டா - ஒருவனோடு ஒருவன் நட்பாதற்குப் புணர்ச்சியும் பழகுதலுமாகிய காரணங்கள் வேண்டுவதில்லை; உணர்ச்சிதான் நட்பாம் கிழமை தரும் - இருவர்க்கும் ஒத்த உணர்ச்சி தானே நட்பாம் உரிமையைக் கொடுக்கும். (புணர்ச்சி: ஒரு தேயத்தராதல். 'இன்றே போல்க நும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 79: 'Friendship'), Kural 785 distills a foundational ethical insight: \"Not association constant, not affection's token bind;'Tis the unison of feeling friends unites of kindred mind\" Philosophically, Living together and holding frequent intercourse are not necessary (for friendship); (mutual) understanding can alone create a claim for it.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "love",
+        "family",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 786,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: முகம் மட்டும் மலரும் படியா நட்பு செய்வது நட்பு அன்று, நெஞ்சமும் மலரும் படியாக உள்ளன்பு கொண்டு நட்பு செய்வதே நட்பு ஆகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The love that dwells (merely in the smiles of the face is not friendship; (but) that which dwells deep in the smiles of the heart is true friendship.",
+        "story_title_ta": "நட்பு — கவின் கற்ற பாடம்",
+        "story_title_en": "Friendship — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பு' என்ற அதிகாரத்திலிருந்து குறள் 786 பற்றிக் கதை சொன்னார். 'பார்க்கும்போது மனம் மகிழாமல், முகம் மட்டுமே மலரப் பழகுவது நட்பு அன்று. அன்பால் மனமும் மலரப் பழகுவதே நட்பு.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 79, 'Friendship', centered on Kural 786: The love that dwells (merely in the smiles of the face is not friendship; (but) that which dwells deep in the smiles of the heart is true friendship. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இன்முகம் காட்டுவது மட்டும் நட்புக்கு அடையாளமல்ல; இதயமார நேசிப்பதே உண்மையான நட்பாகும்.",
+        "moral_en": "Moral: Not the face's smile of welcome shows the friend sincere, But the heart's rejoicing gladness when the friend is near.",
+        "game_blank_word_ta": "முகநக",
+        "game_options_ta": [
+          "செயற்கரிய",
+          "யாவுள",
+          "முகநக",
+          "நட்பின்"
+        ],
+        "game_options_en": [
+          "Like friendship what's so hard to gain? That guards one against acts villain?",
+          "Good friendship shines like waxing moon, The bad withers like waning moon",
+          "Friendship is not more smile on face It is the smiling heart's embrace",
+          "Like taste in books good friendship grows The more one moves the more he knows"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பு (அங்கவியல்) பிரிவில் அமைந்த குறள் 786, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பார்க்கும்போது மனம் மகிழாமல், முகம் மட்டுமே மலரப் பழகுவது நட்பு அன்று. அன்பால் மனமும் மலரப் பழகுவதே நட்பு. கலைஞர் உரை கூறுவது: இன்முகம் காட்டுவது மட்டும் நட்புக்கு அடையாளமல்ல; இதயமார நேசிப்பதே உண்மையான நட்பாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Friendship (Ministers & Elements of State), Kural 786 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The love that dwells (merely in the smiles of the face is not friendship; (but) that which dwells deep in the smiles of the heart is true friendship. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Friendship' thoughtfully.",
+        "quiz_question_ta": "'நட்பு' அதிகாரத்தில் வரும் திருக்குறள் 786 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 786 from Chapter 'Friendship'?",
+        "quiz_options_ta": [
+          "பகைவர் நண்பராகும் காலம் வரும் போது முகத்தளவில் நட்பு கொண்டு அகத்தில் நட்பு நீங்கி வாய்ப்புக் கிடைத்த போது அதையும் விட வேண்டும்.",
+          "தான் தனியாக இருந்து பலருடைய பகையைத் தேடிக் கொள்பவன், பித்துப் பிடித்தாரை விட அறிவில்லாதவனாகக் கருதப்படுவான்.",
+          "முகம் மட்டும் மலரும் படியா நட்பு செய்வது நட்பு அன்று, நெஞ்சமும் மலரும் படியாக உள்ளன்பு கொண்டு நட்பு செய்வதே நட்பு ஆகும்.",
+          "அழகு முதலியவற்றால் செருக்கு கொண்டு தம் புன்மையான நலத்தை விற்கும் பொது மகளிரின் தோளை, தம் நல்லோழுக்கத்தைப் போற்றும் சான்றோர் பொருந்தார்."
+        ],
+        "quiz_options_en": [
+          "When foes, in time, play friendship's part Feign love on face but not in heart",
+          "Forlorn, who rouses many foes The worst insanity betrays",
+          "Friendship is not more smile on face It is the smiling heart's embrace",
+          "Those who guard their worthy fame Shun the wanton's vaunting charm"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பு) பகுதியில் குறள் 786 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முகம் மட்டும் மலரும் படியா நட்பு செய்வது நட்பு அன்று, நெஞ்சமும் மலரும் படியாக உள்ளன்பு கொண்டு நட்பு செய்வதே நட்பு ஆகும். பரிமேலழகர் உரை நுட்பம்: முகம்நக நட்பது நட்பு அன்று - கண்டவழி அகமொழிய முகமாத்திரமே மலரும் வகை நட்குமது நட்பாகாது; நெஞ்சத்து அகம் நக நட்பது நட்பு - அன்பால் அகமும் மலர நட்குமதே நட்பாவது. (நெஞ்சின்கண் நிகழ்வதனை 'நெஞ்சு' என்றார்.இறந்தது தழீஇய எச்ச உம்மை விகாரத்தால் தொக்கது. இதனான...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 79: 'Friendship'), Kural 786 distills a foundational ethical insight: \"Not the face's smile of welcome shows the friend sincere, But the heart's rejoicing gladness when the friend is near\" Philosophically, The love that dwells (merely in the smiles of the face is not friendship; (but) that which dwells deep in the smiles of the heart is true friendship.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "love",
+        "truth",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 787,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அழிவைத் தரும் தீமைகளிலிருந்து நீக்கி, நல்ல வழியில் நடக்கச் செய்து, அழிவுவந்த காலத்தில் உடனிருந்து துன்பப்படுவதே நட்பாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: (True) friendship turns aside from evil (ways) makes (him) walk in the (good) way, and, in case of loss if shares his sorrow (with him).",
+        "story_title_ta": "நட்பு — நிலா கற்ற பாடம்",
+        "story_title_en": "Friendship — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பு' என்ற அதிகாரத்திலிருந்து குறள் 787 பற்றிக் கதை சொன்னார். 'அழிவு தரும் வழிகளில் நண்பன் சென்றால் தடுத்து, நல்ல வழியில் அவனைச் செலுத்தி அவனுக்குக் கேடு வரும் என்றால் அதை அவனுடன் பகிர்வது நட்பு.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 79, 'Friendship', centered on Kural 787: (True) friendship turns aside from evil (ways) makes (him) walk in the (good) way, and, in case of loss if shares his sorrow (with him). Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நண்பனைத் தீயவழி சென்று கெட்டுவிடாமல் தடுத்து, அவனை நல்வழியில் நடக்கச் செய்து, அவனுக்குத் தீங்கு வருங்காலத்தில் அந்தத் தீங்கின் துன்பத்தைப் பகிர்ந்து கொள்வதே உண்மையான நட்பாகும்.",
+        "moral_en": "Moral: Friendship from ruin saves, in way of virtue keeps; In troublous time, it weeps with him who weeps.",
+        "game_blank_word_ta": "அழிவின்கண்",
+        "game_options_ta": [
+          "செயற்கரிய",
+          "யாவுள",
+          "நட்பின்",
+          "அழிவின்கண்"
+        ],
+        "game_options_en": [
+          "Like friendship what's so hard to gain? That guards one against acts villain?",
+          "Good friendship shines like waxing moon, The bad withers like waning moon",
+          "Like taste in books good friendship grows The more one moves the more he knows",
+          "From ruin friendship saves and shares The load of pain and right path shows"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பு (அங்கவியல்) பிரிவில் அமைந்த குறள் 787, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அழிவு தரும் வழிகளில் நண்பன் சென்றால் தடுத்து, நல்ல வழியில் அவனைச் செலுத்தி அவனுக்குக் கேடு வரும் என்றால் அதை அவனுடன் பகிர்வது நட்பு. கலைஞர் உரை கூறுவது: நண்பனைத் தீயவழி சென்று கெட்டுவிடாமல் தடுத்து, அவனை நல்வழியில் நடக்கச் செய்து, அவனுக்குத் தீங்கு வருங்காலத்தில் அந்தத் தீங்கின் துன்பத்தைப் பகிர்ந்து கொள்வதே உண்மையான நட்பாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Friendship (Ministers & Elements of State), Kural 787 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (True) friendship turns aside from evil (ways) makes (him) walk in the (good) way, and, in case of loss if shares his sorrow (with him). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Friendship' thoughtfully.",
+        "quiz_question_ta": "'நட்பு' அதிகாரத்தில் வரும் திருக்குறள் 787 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 787 from Chapter 'Friendship'?",
+        "quiz_options_ta": [
+          "பேதைமை என்று சொல்லப்படுவது யாது என்றால், தனக்கு கெடுதியானதைக் கைக் கொண்டு ஊதியமானதை கைவிடுதலாகும்.",
+          "பகையையும் நட்பாக செய்து கொண்டு நடக்கும், பண்புடையவனது பெருந்தன்மையில் உலகம் தங்கியிருப்பதாகும்.",
+          "நெஞ்சத்தை நிறுத்தி ஆளும் ஆற்றல் இல்லாதவர், தம் நெஞ்சில் வேறுபொருளை விரும்பிக்கூடும் போது மகளிரின் தோளைப் பொருந்துவர்.",
+          "அழிவைத் தரும் தீமைகளிலிருந்து நீக்கி, நல்ல வழியில் நடக்கச் செய்து, அழிவுவந்த காலத்தில் உடனிருந்து துன்பப்படுவதே நட்பாகும்."
+        ],
+        "quiz_options_en": [
+          "This is folly's prominent vein To favour loss and forego gain",
+          "This world goes safely in his grace Whose heart makes friends even of foes",
+          "Hollow hearts alone desire The arms of whores with hearts elsewere",
+          "From ruin friendship saves and shares The load of pain and right path shows"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பு) பகுதியில் குறள் 787 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அழிவைத் தரும் தீமைகளிலிருந்து நீக்கி, நல்ல வழியில் நடக்கச் செய்து, அழிவுவந்த காலத்தில் உடனிருந்து துன்பப்படுவதே நட்பாகும். பரிமேலழகர் உரை நுட்பம்: அழிவினவை நீக்கி ஆறு உய்த்து - கேட்டினைத்தரும் தீநெறிகளைச் செல்லுங்கால் விலக்கி, ஏனை நன்னெறிகளைச் செல்லாக்காற் செலுத்தி; அழிவின்கண் அல்லல் உழப்பது நட்பாம் - தெய்வத்தால் கேடு வந்துழி அது விலக்கப்படாமையின் அத்துன்பத்தை உடன் அனுபவிப்பதே ஒருவனுக்கு நட்பாவது...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 79: 'Friendship'), Kural 787 distills a foundational ethical insight: \"Friendship from ruin saves, in way of virtue keeps; In troublous time, it weeps with him who weeps\" Philosophically, (True) friendship turns aside from evil (ways) makes (him) walk in the (good) way, and, in case of loss if shares his sorrow (with him).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "love",
+        "ethics",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 788,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: உடைநெகிழ்ந்தவனுடைய கை, உடனே உதவிக்காப்பது போல் (நண்பனுக்குத் துன்பம் வந்தால்) அப்போதே சென்று துன்பத்தைக் களைவது நட்பு.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: (True) friendship hastens to the rescue of the afflicted (as readily) as the hand of one whose garment is loosened (before an assembly).",
+        "story_title_ta": "நட்பு — அன்பு கற்ற பாடம்",
+        "story_title_en": "Friendship — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பு' என்ற அதிகாரத்திலிருந்து குறள் 788 பற்றிக் கதை சொன்னார். 'பலர் முன்னே ஆடை நழுவும்போது உடனே சென்று உதவும் கை போல, நண்பனுக்குத் துன்பம் வந்த போது உடனே சென்று போக்குவதே நட்பு.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 79, 'Friendship', centered on Kural 788: (True) friendship hastens to the rescue of the afflicted (as readily) as the hand of one whose garment is loosened (before an assembly). Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அணிந்திருக்கும் உடை உடலைவிட்டு நழுவும்போது எப்படிக் கைகள் உடனடியாகச் செயல்பட்டு அதனைச் சரிசெய்ய உதவுகின்றனவோ அதைப்போல நண்பனுக்கு வரும் துன்பத்தைப் போக்கத் துடித்து செல்வதே நப்புக்கு இலக்கணமாகும்.",
+        "moral_en": "Moral: As hand of him whose vesture slips away, Friendship at once the coming grief will stay.",
+        "game_blank_word_ta": "இடுக்கண்",
+        "game_options_ta": [
+          "இடுக்கண்",
+          "செயற்கரிய",
+          "யாவுள",
+          "நட்பின்"
+        ],
+        "game_options_en": [
+          "Friendship hastens help in mishaps Like hands picking up dress that slips",
+          "Like friendship what's so hard to gain? That guards one against acts villain?",
+          "Good friendship shines like waxing moon, The bad withers like waning moon",
+          "Like taste in books good friendship grows The more one moves the more he knows"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பு (அங்கவியல்) பிரிவில் அமைந்த குறள் 788, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பலர் முன்னே ஆடை நழுவும்போது உடனே சென்று உதவும் கை போல, நண்பனுக்குத் துன்பம் வந்த போது உடனே சென்று போக்குவதே நட்பு. கலைஞர் உரை கூறுவது: அணிந்திருக்கும் உடை உடலைவிட்டு நழுவும்போது எப்படிக் கைகள் உடனடியாகச் செயல்பட்டு அதனைச் சரிசெய்ய உதவுகின்றனவோ அதைப்போல நண்பனுக்கு வரும் துன்பத்தைப் போக்கத் துடித்து செல்வதே நப்புக்கு இலக்கணமாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Friendship (Ministers & Elements of State), Kural 788 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (True) friendship hastens to the rescue of the afflicted (as readily) as the hand of one whose garment is loosened (before an assembly). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Friendship' thoughtfully.",
+        "quiz_question_ta": "'நட்பு' அதிகாரத்தில் வரும் திருக்குறள் 788 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 788 from Chapter 'Friendship'?",
+        "quiz_options_ta": [
+          "உடைநெகிழ்ந்தவனுடைய கை, உடனே உதவிக்காப்பது போல் (நண்பனுக்குத் துன்பம் வந்தால்) அப்போதே சென்று துன்பத்தைக் களைவது நட்பு.",
+          "ஒருவனுக்கு பேதைமை எல்லாவற்றிலும் மிக்க பேதைமை, தன் ஒழுக்கத்திற்குப் பொருந்தாததில் தன் விருப்பத்தை செலுத்துதல் ஆகும்.",
+          "தனக்கு உதவியான துணையே இல்லை, பகையே இரண்டு, தானே ஒருவன் இந் நிலையில் அப் பகைகளில் ஒன்றை இனியத் துணையாகக் கொள்ள வேண்டும்.",
+          "வஞ்சம் நிறைந்த பொதுமகளிரின் சேர்க்கை, ஆராய்ந்தறியும் அறிவு இல்லாதவற்க்கு அணங்கு தாக்கு(மோகினி மயக்கு) என்று கூறுவர்."
+        ],
+        "quiz_options_en": [
+          "Friendship hastens help in mishaps Like hands picking up dress that slips",
+          "Folly of follies is to lead A lewd and lawless life so bad",
+          "Alone, if two foes you oppose Make one of them your ally close",
+          "Senseless fools are lured away By arms of sirens who lead astray"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பு) பகுதியில் குறள் 788 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உடைநெகிழ்ந்தவனுடைய கை, உடனே உதவிக்காப்பது போல் (நண்பனுக்குத் துன்பம் வந்தால்) அப்போதே சென்று துன்பத்தைக் களைவது நட்பு. பரிமேலழகர் உரை நுட்பம்: உடுக்கை இழந்தவன் கைபோல - அவையிடை ஆடை குலைந்தவனுக்கு அப்பொழுதே கை சென்று உதவி அவ்விளிவரல் களையுமாறு போல; ஆங்கே இடுக்கண் களைவது நட்பாம் - நட்டவனுக்கு இடுக்கண் வந்துழி அப்பொழுதே சென்று உதவி அதனைக் களைவதே நட்பாவது. (அற்றம் காத்தற்கண் கை தன் மனத்தினும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 79: 'Friendship'), Kural 788 distills a foundational ethical insight: \"As hand of him whose vesture slips away, Friendship at once the coming grief will stay\" Philosophically, (True) friendship hastens to the rescue of the afflicted (as readily) as the hand of one whose garment is loosened (before an assembly).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "family",
+        "love",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 789,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நட்புக்கு சிறந்த நிலை எது என்றால், எப்போதும் வேறுபடுதல் இல்லாமல், முடியும் போதெல்லாம் உதவி செய்து தாங்கும் நிலையாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Friendship may be said to be on its throne when it possesses the power of supporting one at all times and under all circumstances, (in the practice or virtue and wealth).",
+        "story_title_ta": "நட்பு — இனியா கற்ற பாடம்",
+        "story_title_en": "Friendship — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பு' என்ற அதிகாரத்திலிருந்து குறள் 789 பற்றிக் கதை சொன்னார். 'நட்பின் அரியணை எது என்றால், எப்போதும் மாறாமல் முடிந்தபோது எல்லாம் ஒருவர்க்கு ஒருவர் உதவுவதேயாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 79, 'Friendship', centered on Kural 789: Friendship may be said to be on its throne when it possesses the power of supporting one at all times and under all circumstances, (in the practice or virtue and wealth). Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மனவேறுபாடு கொள்ளாமல் தன்னால் இயலும் வழிகளிலெல்லாம் துணைநின்று நண்பனைத் தாங்குவது தான் நட்பின் சிறப்பாகும்.",
+        "moral_en": "Moral: And where is friendship's royal seat? In stable mind, Where friend in every time of need support may find.",
+        "game_blank_word_ta": "கொட்பின்றி",
+        "game_options_ta": [
+          "செயற்கரிய",
+          "கொட்பின்றி",
+          "யாவுள",
+          "நட்பின்"
+        ],
+        "game_options_en": [
+          "Like friendship what's so hard to gain? That guards one against acts villain?",
+          "Friendship is enthroned on the strength That always helps with utmost warmth",
+          "Good friendship shines like waxing moon, The bad withers like waning moon",
+          "Like taste in books good friendship grows The more one moves the more he knows"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பு (அங்கவியல்) பிரிவில் அமைந்த குறள் 789, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நட்பின் அரியணை எது என்றால், எப்போதும் மாறாமல் முடிந்தபோது எல்லாம் ஒருவர்க்கு ஒருவர் உதவுவதேயாம். கலைஞர் உரை கூறுவது: மனவேறுபாடு கொள்ளாமல் தன்னால் இயலும் வழிகளிலெல்லாம் துணைநின்று நண்பனைத் தாங்குவது தான் நட்பின் சிறப்பாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Friendship (Ministers & Elements of State), Kural 789 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Friendship may be said to be on its throne when it possesses the power of supporting one at all times and under all circumstances, (in the practice or virtue and wealth). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Friendship' thoughtfully.",
+        "quiz_question_ta": "'நட்பு' அதிகாரத்தில் வரும் திருக்குறள் 789 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 789 from Chapter 'Friendship'?",
+        "quiz_options_ta": [
+          "தகாதவற்றிற்கு நாணாமலிருத்தல், தக்கவற்றை நாடாமலிருத்தல், அன்பு இல்லாமை, நன்மை ஒன்றையும் விரும்பாமை ஆகியவை பேதையின் தொழில்கள்.",
+          "நட்புக்கு சிறந்த நிலை எது என்றால், எப்போதும் வேறுபடுதல் இல்லாமல், முடியும் போதெல்லாம் உதவி செய்து தாங்கும் நிலையாகும்.",
+          "இதற்கு முன் ஒருவனைப் பற்றி ஆராய்ந்து தெளிந்திருந்தாலும், தெளியாவிட்டாலும் அழிவு வந்த காலத்தில் அவனைத் தெளியாமலும் நீங்காமலும் வாளாவிட வேண்டும்.",
+          "ஒழுக்க வரையரை இல்லாத பொது மகளிரின் மெல்லிய தோள், உயர்வில்லாத கீழ்மக்கள் ஆழ்ந்து கிடக்கின்ற நரகமாகும்."
+        ],
+        "quiz_options_en": [
+          "Shameless, aimless, callous, listless Such are the marks of foolishness",
+          "Friendship is enthroned on the strength That always helps with utmost warmth",
+          "Trust or distrust; during distress Keep aloof; don't mix with foes",
+          "The soft jewelled arms of whores are hell Into which the degraded fall"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பு) பகுதியில் குறள் 789 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நட்புக்கு சிறந்த நிலை எது என்றால், எப்போதும் வேறுபடுதல் இல்லாமல், முடியும் போதெல்லாம் உதவி செய்து தாங்கும் நிலையாகும். பரிமேலழகர் உரை நுட்பம்: நட்பிற்கு வீற்றிருக்கை யாதெனின் - நட்பினுக்கு அரசிருக்கை யாதெனின்; கொட்பு இன்றி ஒல்லும் வாய் ஊன்றும் நிலை - அஃது எஞ்ஞான்றும் திரிபின்றி இயலும் எல்லையெல்லாம் அறம் பொருள்களில் தளராமைத் தாங்கும் திண்மை. (ஒரு ஞான்றும் வேறுபடாது மறுமை இம்மைகட்கு உறுதியாய...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 79: 'Friendship'), Kural 789 distills a foundational ethical insight: \"And where is friendship's royal seat? In stable mind, Where friend in every time of need support may find\" Philosophically, Friendship may be said to be on its throne when it possesses the power of supporting one at all times and under all circumstances, (in the practice or virtue and wealth).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "speech",
+        "discipline",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 790,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: இவர் எமக்கு இத்தன்மையானவர், யாம் இவர்க்கு இத் தன்மையுடையேம் என்று புனைந்துரைத்தாலும் நட்பு சிறப்பிழந்து விடும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Though friends may praise one another saying, \"He is so intimate with us, and we so much (with him)\"; (still) such friendship will appear mean.",
+        "story_title_ta": "நட்பு — முகில் கற்ற பாடம்",
+        "story_title_en": "Friendship — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நட்பு' என்ற அதிகாரத்திலிருந்து குறள் 790 பற்றிக் கதை சொன்னார். 'இவர் எமக்கு இத்தனை அன்பு உடையவர்; நாமும் இவர்க்கு இப்படியே என்று ஒருவரை ஒருவர் அலங்காரமாகப் பாராட்டிச் சொன்னாலும் நட்பு அற்பமானதாகப் போய்விடும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 79, 'Friendship', centered on Kural 790: Though friends may praise one another saying, \"He is so intimate with us, and we so much (with him)\"; (still) such friendship will appear mean. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நண்பர்கள் ஒருவருக்கொருவர் ``இவர் எமக்கு இத்தன்மையுடைவர்; யாம் இவருக்கு இத்தன்மையுடையோம்'' என்று செயற்கையாகப் புகழ்ந்து பேசினாலும் அந்த நட்பின் பெருமை குன்றிவிடும்.",
+        "moral_en": "Moral: Mean is the friendship that men blazon forth,'He's thus to me' and 'such to him my worth'.",
+        "game_blank_word_ta": "நட்பு",
+        "game_options_ta": [
+          "செயற்கரிய",
+          "யாவுள",
+          "நட்பு",
+          "நட்பின்"
+        ],
+        "game_options_en": [
+          "Like friendship what's so hard to gain? That guards one against acts villain?",
+          "Good friendship shines like waxing moon, The bad withers like waning moon",
+          "\\\"Such we are and such they are!\\\" Ev'n this boast will friendship mar",
+          "Like taste in books good friendship grows The more one moves the more he knows"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நட்பு (அங்கவியல்) பிரிவில் அமைந்த குறள் 790, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இவர் எமக்கு இத்தனை அன்பு உடையவர்; நாமும் இவர்க்கு இப்படியே என்று ஒருவரை ஒருவர் அலங்காரமாகப் பாராட்டிச் சொன்னாலும் நட்பு அற்பமானதாகப் போய்விடும். கலைஞர் உரை கூறுவது: நண்பர்கள் ஒருவருக்கொருவர் ``இவர் எமக்கு இத்தன்மையுடைவர்; யாம் இவருக்கு இத்தன்மையுடையோம்'' என்று செயற்கையாகப் புகழ்ந்து பேசினாலும் அந்த நட்பின் பெருமை குன்றிவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Friendship (Ministers & Elements of State), Kural 790 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though friends may praise one another saying, \"He is so intimate with us, and we so much (with him)\"; (still) such friendship will appear mean. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நட்பு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Friendship' thoughtfully.",
+        "quiz_question_ta": "'நட்பு' அதிகாரத்தில் வரும் திருக்குறள் 790 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 790 from Chapter 'Friendship'?",
+        "quiz_options_ta": [
+          "நூல்களை ஓதியும், அவற்றின் பொருளை உணர்ந்தும், பிறர்க்கு எடுத்துச் சொல்லியும் தான் அவற்றின் நெறியில் அடங்கி ஒழுகாதப் பேதைப் போல் வேறு பேதையர் இல்லை.",
+          "துன்புற்றதைத் தாமாகவே அறியாத நண்பர்க்குத் துன்பத்தைச் சொல்லக் கூடாது, பகைவரிடத்தில் மென்மை மேற்கொள்ளக் கூடாது.",
+          "இவர் எமக்கு இத்தன்மையானவர், யாம் இவர்க்கு இத் தன்மையுடையேம் என்று புனைந்துரைத்தாலும் நட்பு சிறப்பிழந்து விடும்.",
+          "இருவகைப்பட்ட மனம் உடைய பொது மகளிரும், கள்ளும் சூதுமாகிய இவ் மூவகையும் திருமகளால் நீக்கப்பட்டவரின் உறவாகும்."
+        ],
+        "quiz_options_en": [
+          "No fool equals the fool who learns Knows, teaches, but self-control spurns",
+          "To those who know not, tell not your pain Nor your weakness to foes explain",
+          "\\\"Such we are and such they are!\\\" Ev'n this boast will friendship mar",
+          "Double-minded whores, wine and dice Are lures of those whom fortune flies"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நட்பு) பகுதியில் குறள் 790 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இவர் எமக்கு இத்தன்மையானவர், யாம் இவர்க்கு இத் தன்மையுடையேம் என்று புனைந்துரைத்தாலும் நட்பு சிறப்பிழந்து விடும். பரிமேலழகர் உரை நுட்பம்: இவர் எமக்கு இனையர் யாம் இன்னம் என்று புனையினும் - இவர் நமக்கு இத்துணை யன்பினர், யாம் இவர்க்கு இத்தன்மையம் என்று ஒருவரையொருவர் புனைந்து சொல்லினும்; நட்புப் புல்லென்னும் - நட்புப் புல்லிதாய்த் தோன்றும். ('இவர்க்கு' என்பது வருவிக்கப்பட்டது. தாம் அவர் என்னும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 79: 'Friendship'), Kural 790 distills a foundational ethical insight: \"Mean is the friendship that men blazon forth,'He's thus to me' and 'such to him my worth'\" Philosophically, Though friends may praise one another saying, \"He is so intimate with us, and we so much (with him)\"; (still) such friendship will appear mean.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "speech",
+        "humility",
+        "love"
+      ]
+    }
+  ]
+}

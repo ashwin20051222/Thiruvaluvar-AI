@@ -1,0 +1,25 @@
+[package]
+name = "kural-backend"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+
+[dependencies]
+chrono.workspace = true
+kural-audio = { path = "../kural-audio", default-features = false }
+kural-ai = { path = "../kural-ai", default-features = false }
+kural-core = { path = "../kural-core" }
+kural-db = { path = "../kural-db", default-features = false }
+kural-voice-cmd = { path = "../kural-voice-cmd" }
+thiserror.workspace = true
+tokio = { workspace = true, features = ["rt-multi-thread", "macros", "sync", "time"] }
+tokio-util.workspace = true
+
+[dev-dependencies]
+kural-db = { path = "../kural-db", default-features = false, features = ["test-fallback"] }
+tempfile.workspace = true
+
+[lints]
+workspace = true
+

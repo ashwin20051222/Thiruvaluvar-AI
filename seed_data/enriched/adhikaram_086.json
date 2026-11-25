@@ -1,0 +1,579 @@
+{
+  "adhikaram_id": 86,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.252204953+00:00",
+  "kurals": [
+    {
+      "kural_number": 851,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: எல்லா உயிர்களுக்கும் மற்ற உயிர்களோடு பொருந்தாமல் வேறுபடுதலாகிய தீயப் பண்பை வளர்க்கும் நோய் இகழ் (மாறுபாடு) என்று சொல்வர் அறிஞர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The disease which fosters the evil of disunion among all creatures is termed hatred by the wise.",
+        "story_title_ta": "இகல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Hostility — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இகல்' என்ற அதிகாரத்திலிருந்து குறள் 851 பற்றிக் கதை சொன்னார். 'எல்லா உயிர்களிடத்திலும் இணங்கிச் சேராமல் இருக்கும் தீய குணத்தை வளர்க்கும் நோயே, மனவேறுபாடு என்று கூறுவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 86, 'Hostility', centered on Kural 851: The disease which fosters the evil of disunion among all creatures is termed hatred by the wise. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மனமாறுபாடு காரணமாக ஏற்படுகிற பகையுணர்வு மக்களை ஒன்று சேர்ந்து வாழ முடியாமல் செய்கிற தீய பண்பாகும்.",
+        "moral_en": "Moral: Hostility disunion's plague will bring, That evil quality, to every living thing.",
+        "game_blank_word_ta": "பார஧க்கும்",
+        "game_options_ta": [
+          "பகல்கருதிப்",
+          "பற்றா",
+          "செயினும்",
+          "பார஧க்கும்"
+        ],
+        "game_options_en": [
+          "Rouse not hatred and confusion Though foes provoke disunion",
+          "Shun the plague of enmity And win everlasting glory",
+          "Hate-the woe of woes destroy; Then joy of joys you can enjoy",
+          "Hatred is a plague that divides And rouses illwill on all sides"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இகல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 851, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எல்லா உயிர்களிடத்திலும் இணங்கிச் சேராமல் இருக்கும் தீய குணத்தை வளர்க்கும் நோயே, மனவேறுபாடு என்று கூறுவர். கலைஞர் உரை கூறுவது: மனமாறுபாடு காரணமாக ஏற்படுகிற பகையுணர்வு மக்களை ஒன்று சேர்ந்து வாழ முடியாமல் செய்கிற தீய பண்பாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hostility (Ministers & Elements of State), Kural 851 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The disease which fosters the evil of disunion among all creatures is termed hatred by the wise. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இகல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hostility' thoughtfully.",
+        "quiz_question_ta": "'இகல்' அதிகாரத்தில் வரும் திருக்குறள் 851 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 851 from Chapter 'Hostility'?",
+        "quiz_options_ta": [
+          "மிக்க வலிமை உள்ள அரசனால் வெகுளப்பட்டவர், அவனிடமிருந்து தப்புவதற்க்காக எங்கே சென்றாலும் எங்கும் வாழ முடியாது.",
+          "சூது உள்ள பொருளை அழித்துப் பொய்யை மேற்கொள்ளச் செய்து அருளையும் கெடுத்துப் பலவகையிலும் துன்பமுற்று வருந்தச் செய்யும்.",
+          "கடமை இவை என்று அறிந்து சான்றான்மை மேற்கொண்டு நடப்பவர்க்கு நல்லவை எல்லாம் இயல்பான கடமை என்று கூறுவர்.",
+          "எல்லா உயிர்களுக்கும் மற்ற உயிர்களோடு பொருந்தாமல் வேறுபடுதலாகிய தீயப் பண்பை வளர்க்கும் நோய் இகழ் (மாறுபாடு) என்று சொல்வர் அறிஞர்."
+        ],
+        "quiz_options_en": [
+          "Where can they go and thrive where Pursued by powerful monarch's ire?",
+          "Game ruins wealth and spoils grace Leads to lies and wretched woes",
+          "All goodness is duty to them Who are dutiful and sublime",
+          "Hatred is a plague that divides And rouses illwill on all sides"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (இகல்) பகுதியில் குறள் 851 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எல்லா உயிர்களுக்கும் மற்ற உயிர்களோடு பொருந்தாமல் வேறுபடுதலாகிய தீயப் பண்பை வளர்க்கும் நோய் இகழ் (மாறுபாடு) என்று சொல்வர் அறிஞர். பரிமேலழகர் உரை நுட்பம்: எல்லா உயிர்க்கும் பகல் என்னும் பண்பு இன்மை பாரிக்கும் நோய் - எல்லா உயிர்கட்கும் பிறஉயிர்களோடு கூடாமை என்னும் தீக்குணத்தை வளர்க்கும் குற்றம்; இகல் என்ப - இகல் என்று சொல்லுவர் நூலோர். (மக்களையும் விலங்குகளோடு ஒப்பிப்பது என்பது தோன்ற 'எல்லாஉயிர்க்கும்' என்றும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 86: 'Hostility'), Kural 851 distills a foundational ethical insight: \"Hostility disunion's plague will bring, That evil quality, to every living thing\" Philosophically, The disease which fosters the evil of disunion among all creatures is termed hatred by the wise.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "wisdom",
+        "courage"
+      ]
+    },
+    {
+      "kural_number": 852,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒருவன் தன்னோடு பொருந்தாமல் வேறுபடுதலைக் கருதி அன்பில்லாதவற்றைச் செய்தாலும் தான் இகழ் கொண்டு அவர்க்கு துன்பம் செய்யாதிருத்தல் சிறந்ததாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Though disagreeable things may be done from (a feeling of) disunion, it is far better that nothing painful be done from (that of) hatred.",
+        "story_title_ta": "இகல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Hostility — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இகல்' என்ற அதிகாரத்திலிருந்து குறள் 852 பற்றிக் கதை சொன்னார். 'நம்மோடு இணங்கிப் போக முடியாமல் ஒருவன் நமக்கு வெறுப்புத் தருவனவற்றைச் செய்தாலும், அவனைப் பகையாக எண்ணித் தீமை செய்யாதிருப்பது சிறந்த குணம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 86, 'Hostility', centered on Kural 852: Though disagreeable things may be done from (a feeling of) disunion, it is far better that nothing painful be done from (that of) hatred. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வேற்றுமை கருதி வெறுப்பான செயல்களில் ஒருவன் ஈடுபடுகிறான் என்றாலும் அவனோடு கொண்டுள்ள மாறுபாடு காரணமாக அவனுக்குத் துன்பம் தரும் எதனையும் செய்யாதிருப்பதே சிறந்த பண்பாகும்.",
+        "moral_en": "Moral: Though men disunion plan, and do thee much despite'Tis best no enmity to plan, nor evil deeds requite.",
+        "game_blank_word_ta": "செயினும்",
+        "game_options_ta": [
+          "செயினும்",
+          "இகலென்ப",
+          "எல்லா",
+          "உயிர்க்கும்"
+        ],
+        "game_options_en": [
+          "Rouse not hatred and confusion Though foes provoke disunion",
+          "Hatred is a plague that divides And rouses illwill on all sides",
+          "Shun the plague of enmity And win everlasting glory",
+          "Hate-the woe of woes destroy; Then joy of joys you can enjoy"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இகல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 852, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நம்மோடு இணங்கிப் போக முடியாமல் ஒருவன் நமக்கு வெறுப்புத் தருவனவற்றைச் செய்தாலும், அவனைப் பகையாக எண்ணித் தீமை செய்யாதிருப்பது சிறந்த குணம். கலைஞர் உரை கூறுவது: வேற்றுமை கருதி வெறுப்பான செயல்களில் ஒருவன் ஈடுபடுகிறான் என்றாலும் அவனோடு கொண்டுள்ள மாறுபாடு காரணமாக அவனுக்குத் துன்பம் தரும் எதனையும் செய்யாதிருப்பதே சிறந்த பண்பாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hostility (Ministers & Elements of State), Kural 852 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though disagreeable things may be done from (a feeling of) disunion, it is far better that nothing painful be done from (that of) hatred. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இகல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hostility' thoughtfully.",
+        "quiz_question_ta": "'இகல்' அதிகாரத்தில் வரும் திருக்குறள் 852 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 852 from Chapter 'Hostility'?",
+        "quiz_options_ta": [
+          "ஒருவன் தன்னோடு பொருந்தாமல் வேறுபடுதலைக் கருதி அன்பில்லாதவற்றைச் செய்தாலும் தான் இகழ் கொண்டு அவர்க்கு துன்பம் செய்யாதிருத்தல் சிறந்ததாகும்.",
+          "தீயால் சுடப்பட்டாலும் ஒருகால் உயிர் பிழைத்து வாழ முடியும், ஆற்றல் மிகுந்த பெரியவரிடத்தில் தவறு செய்து நடப்பவர் தப்பி பிழைக்க முடியாது.",
+          "சூதாடுதலை ஒருவன் மேற்கொண்டால், புகழ், கல்வி, செல்வம், உணவு, உடை ஆகிய ஐந்தும் அவனைச் சேராமல் ஒதுங்கும்.",
+          "சான்றோரின் நலம் என்று கூறப்படுவது அவறுடைய பண்புகளின் நலமே, மற்ற நலம் வேறு எந்த நலத்திலும் சேர்ந்துள்ளதும் அன்று."
+        ],
+        "quiz_options_en": [
+          "Rouse not hatred and confusion Though foes provoke disunion",
+          "One can escape in fire caught The great who offends escapes not",
+          "Dress, wealth, food, fame, learning-these five In gambler's hand will never thrive",
+          "Good in the great is character Than that there is nothing better"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (இகல்) பகுதியில் குறள் 852 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் தன்னோடு பொருந்தாமல் வேறுபடுதலைக் கருதி அன்பில்லாதவற்றைச் செய்தாலும் தான் இகழ் கொண்டு அவர்க்கு துன்பம் செய்யாதிருத்தல் சிறந்ததாகும். பரிமேலழகர் உரை நுட்பம்: பகல் கருதிப் பற்றா செயினும் - தம்மொடு கூடாமையைக் கருதி ஒருவன் வெறுப்பன செய்தானாயினும்; இகல் கருதி இன்னாசெய்யாமை தலை - அவனொடு மாறுபடுதலைக் குறித்துத் தாம் அவனுக்கு இன்னாதவற்றைச் செய்யாமை உயர்ந்தது. (செய்யின் பகைமை வளரத் தாம் தாழ்ந்து வரலானும், ஒழியின...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 86: 'Hostility'), Kural 852 distills a foundational ethical insight: \"Though men disunion plan, and do thee much despite'Tis best no enmity to plan, nor evil deeds requite\" Philosophically, Though disagreeable things may be done from (a feeling of) disunion, it is far better that nothing painful be done from (that of) hatred.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "time",
+        "kindness",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 853,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவன் இகல் என்று சொல்லப்படும் துன்ப நோயை நீக்கி விட்டால் அஃது அவனுக்கு அழிவில்லாத நிலையான புகழைக் கொடுக்கும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: To rid one-self of the distressing dtsease of hatred will bestow (on one) a never-decreasing imperishable fame.",
+        "story_title_ta": "இகல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Hostility — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இகல்' என்ற அதிகாரத்திலிருந்து குறள் 853 பற்றிக் கதை சொன்னார். 'மனவேறுபாடு என்னும் துன்பம் தரும் நோயை மனத்திலிருந்து நீக்கினால், அது ஒருவனுக்குக் கெடாத, அழியாத புகழைக் கொடுக்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 86, 'Hostility', centered on Kural 853: To rid one-self of the distressing dtsease of hatred will bestow (on one) a never-decreasing imperishable fame. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மனமாறுபாடு என்றும் நோயை யார் தங்கள் மனத்தை விட்டு அகற்றிவிடுகிறார்களோ அவர்களுக்கு மாசற்ற நீடித்த புகழ் உண்டாகும்.",
+        "moral_en": "Moral: If enmity, that grievous plague, you shun, Endless undying praises shall be won.",
+        "game_blank_word_ta": "தரும்",
+        "game_options_ta": [
+          "இகலென்ப",
+          "தரும்",
+          "எல்லா",
+          "உயிர்க்கும்"
+        ],
+        "game_options_en": [
+          "Hatred is a plague that divides And rouses illwill on all sides",
+          "Shun the plague of enmity And win everlasting glory",
+          "Rouse not hatred and confusion Though foes provoke disunion",
+          "Hate-the woe of woes destroy; Then joy of joys you can enjoy"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இகல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 853, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனவேறுபாடு என்னும் துன்பம் தரும் நோயை மனத்திலிருந்து நீக்கினால், அது ஒருவனுக்குக் கெடாத, அழியாத புகழைக் கொடுக்கும். கலைஞர் உரை கூறுவது: மனமாறுபாடு என்றும் நோயை யார் தங்கள் மனத்தை விட்டு அகற்றிவிடுகிறார்களோ அவர்களுக்கு மாசற்ற நீடித்த புகழ் உண்டாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hostility (Ministers & Elements of State), Kural 853 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To rid one-self of the distressing dtsease of hatred will bestow (on one) a never-decreasing imperishable fame. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இகல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hostility' thoughtfully.",
+        "quiz_question_ta": "'இகல்' அதிகாரத்தில் வரும் திருக்குறள் 853 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 853 from Chapter 'Hostility'?",
+        "quiz_options_ta": [
+          "தகுதியால் சிறப்புற்ற பெரியவர் ஒருவனை வெகுண்டால் அவனுக்கு பலவகையால் மாண்புற்ற வாழ்க்கையும் பெரும் பொருளும் இருந்தும் என்ன பயன்.",
+          "ஒருவன் இகல் என்று சொல்லப்படும் துன்ப நோயை நீக்கி விட்டால் அஃது அவனுக்கு அழிவில்லாத நிலையான புகழைக் கொடுக்கும்.",
+          "பொருள் வைத்து இழக்க இழக்க மேன்மேலும் விருப்பத்தை வளர்க்கும் சூதாட்டம் போல், உடல் துன்பப்பட்டு வருந்ந வருந்த உயிர் மேன்மேலும் காதல் உடையதாகும்.",
+          "அன்பு, நாணம்,ஒப்புரவு, கண்ணோட்டம், வாய்மை, என்னும் ஐந்து பண்புகளும், சால்பு என்பதைத் தாங்கியுள்ள தூண்களாகும்."
+        ],
+        "quiz_options_en": [
+          "If holy mighty sages frown Stately gifts and stores who can own?",
+          "Shun the plague of enmity And win everlasting glory",
+          "Love for game grows with every loss As love for life with sorrows grows",
+          "Love, truth, regard, modesty, grace These five are virtue's resting place"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (இகல்) பகுதியில் குறள் 853 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் இகல் என்று சொல்லப்படும் துன்ப நோயை நீக்கி விட்டால் அஃது அவனுக்கு அழிவில்லாத நிலையான புகழைக் கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: இகல் என்னும் எவ்வ நோய் நீக்கின் - மாறுபாடு என்று சொல்லப்படுகின்ற துன்பத்தைச் செய்யும் நோயை ஒருவன் தன் மனத்தினின்று நீக்குமாயின்; தவல் இல்லாத் தாவில் விளக்கம் தரும் - அவனுக்கு அந்நீக்குதல் எஞ்ஞான்றும் உளனாதற்கும் ஏதுவாய புகழைக் கொடுக்கும். (தவல் இல்லாமை...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 86: 'Hostility'), Kural 853 distills a foundational ethical insight: \"If enmity, that grievous plague, you shun, Endless undying praises shall be won\" Philosophically, To rid one-self of the distressing dtsease of hatred will bestow (on one) a never-decreasing imperishable fame.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 854,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: இகல் என்று சொல்லப்படும் துன்பங்களில் கொடிய துன்பம் கெட்டுவிட்டால், அஃது அவனுக்கு இன்பங்களில் சிறந்த இன்பத்தை கொடுக்கும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If hatred which is the greatest misery is destroyed, it will yield the greatest delight.",
+        "story_title_ta": "இகல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Hostility — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இகல்' என்ற அதிகாரத்திலிருந்து குறள் 854 பற்றிக் கதை சொன்னார். 'துன்பங்கள் எல்லாவற்றிலும் மிகக் கொடிதான மனவேறுபாடு எனும் துன்பம், ஒருவனது உள்ளத்துள் இல்லை என்றால், அது அவனுக்கு இன்பங்கள் எல்லாவற்றிலும் சிறந்த இன்பத்தைத் தரும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 86, 'Hostility', centered on Kural 854: If hatred which is the greatest misery is destroyed, it will yield the greatest delight. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: துன்பத்திலேயே பெருந்துன்பம் பகையுணர்வுதான் அந்த உணர்வை ஒருவன் அகற்றி விடுவானேயானால், அது இன்பத்திலேயே பெரும் இன்பமாகும்.",
+        "moral_en": "Moral: Joy of joys abundant grows, When malice dies that woe of woes.",
+        "game_blank_word_ta": "இன்பத்துள்",
+        "game_options_ta": [
+          "இகலென்ப",
+          "எல்லா",
+          "இன்பத்துள்",
+          "உயிர்க்கும்"
+        ],
+        "game_options_en": [
+          "Hatred is a plague that divides And rouses illwill on all sides",
+          "Rouse not hatred and confusion Though foes provoke disunion",
+          "Hate-the woe of woes destroy; Then joy of joys you can enjoy",
+          "Shun the plague of enmity And win everlasting glory"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இகல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 854, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: துன்பங்கள் எல்லாவற்றிலும் மிகக் கொடிதான மனவேறுபாடு எனும் துன்பம், ஒருவனது உள்ளத்துள் இல்லை என்றால், அது அவனுக்கு இன்பங்கள் எல்லாவற்றிலும் சிறந்த இன்பத்தைத் தரும். கலைஞர் உரை கூறுவது: துன்பத்திலேயே பெருந்துன்பம் பகையுணர்வுதான் அந்த உணர்வை ஒருவன் அகற்றி விடுவானேயானால், அது இன்பத்திலேயே பெரும் இன்பமாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hostility (Ministers & Elements of State), Kural 854 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If hatred which is the greatest misery is destroyed, it will yield the greatest delight. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இகல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hostility' thoughtfully.",
+        "quiz_question_ta": "'இகல்' அதிகாரத்தில் வரும் திருக்குறள் 854 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 854 from Chapter 'Hostility'?",
+        "quiz_options_ta": [
+          "மலை போன்ற பெரியவர் கெட நினைத்தால். உலகில் அழியாமல் நிலைபெற்றாற் போல் உள்ளவரும் தம் குடியோடு அழிவர்.",
+          "மருத்துவ நூலோர் வாதம் பித்தம் சிலேத்துமம் என எண்ணிய மூன்று அளவுக்கு மிகுந்தாலும் குறைந்தாலும் நோய் உண்டாகும்.",
+          "இகல் என்று சொல்லப்படும் துன்பங்களில் கொடிய துன்பம் கெட்டுவிட்டால், அஃது அவனுக்கு இன்பங்களில் சிறந்த இன்பத்தை கொடுக்கும்.",
+          "தவம் ஓர் உயிரையும் கொல்லாத அறத்தை அடிப்படையாகக் கொண்டது, சால்பு பிறருடையத் தீமையை எடுத்துச் சொல்லாத நற்பண்பை அடிப்படையாகக் கொண்டது."
+        ],
+        "quiz_options_en": [
+          "When hill-like sages are held small The firm on earth lose home and all",
+          "Wind, bile and phlegm three cause disease So doctors deem it more or less",
+          "Hate-the woe of woes destroy; Then joy of joys you can enjoy",
+          "Not to kill is penance pure Not to slander virtue sure"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (இகல்) பகுதியில் குறள் 854 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இகல் என்று சொல்லப்படும் துன்பங்களில் கொடிய துன்பம் கெட்டுவிட்டால், அஃது அவனுக்கு இன்பங்களில் சிறந்த இன்பத்தை கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: இகல் என்னும் துன்பத்துள் துன்பம் கெடின் - மாறுபாடு என்று சொல்லப்படுகின்ற துன்பங்கள் எல்லாவற்றினும் மிக்க துன்பம் ஒருவனுக்கு இல்லையாயின்; இன்பத்துள் இன்பம் பயக்கும் - அவ்வின்மை அவனுக்கு இன்பங்கள் எல்லாவற்றினும் மிக்க இன்பத்தினைக் கொடுக்கும். (துன்பத்துள...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 86: 'Hostility'), Kural 854 distills a foundational ethical insight: \"Joy of joys abundant grows, When malice dies that woe of woes\" Philosophically, If hatred which is the greatest misery is destroyed, it will yield the greatest delight.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "courage"
+      ]
+    },
+    {
+      "kural_number": 855,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: இகலை எதிர்த்து நிற்காமல் அதன் எதிரே சாய்ந்து நடக்க வல்லவரை வெல்லக் கருதுகின்ற ஆற்றல் உடையவர் யார்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Who indeed would think of conquering those who naturally shrink back from hatred ?",
+        "story_title_ta": "இகல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Hostility — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இகல்' என்ற அதிகாரத்திலிருந்து குறள் 855 பற்றிக் கதை சொன்னார். 'தன் மனத்துள் வேறுபாடு தோன்றும்போது அதை வளர்க்காமல் அதற்கு எதிராக நடக்கும் வலிமை மிக்கவரை வெல்ல எண்ணுபவர் யார்?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 86, 'Hostility', centered on Kural 855: Who indeed would think of conquering those who naturally shrink back from hatred ? Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மனத்தில் மாறுபாடான எண்ணம் உருவானால் அதற்கு இடம் தராமல் நடக்கக்கூடிய ஆற்றலுடையவர்களை வெல்லக்கூடியவர்கள் யாருமில்லை.",
+        "moral_en": "Moral: If men from enmity can keep their spirits free, Who over them shall gain the victory.",
+        "game_blank_word_ta": "மிக்லூக்கும்",
+        "game_options_ta": [
+          "இகலென்ப",
+          "எல்லா",
+          "உயிர்க்கும்",
+          "மிக்லூக்கும்"
+        ],
+        "game_options_en": [
+          "Hatred is a plague that divides And rouses illwill on all sides",
+          "Rouse not hatred and confusion Though foes provoke disunion",
+          "Shun the plague of enmity And win everlasting glory",
+          "Who can overcome them in glory That are free from enmity?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இகல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 855, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் மனத்துள் வேறுபாடு தோன்றும்போது அதை வளர்க்காமல் அதற்கு எதிராக நடக்கும் வலிமை மிக்கவரை வெல்ல எண்ணுபவர் யார்? கலைஞர் உரை கூறுவது: மனத்தில் மாறுபாடான எண்ணம் உருவானால் அதற்கு இடம் தராமல் நடக்கக்கூடிய ஆற்றலுடையவர்களை வெல்லக்கூடியவர்கள் யாருமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hostility (Ministers & Elements of State), Kural 855 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Who indeed would think of conquering those who naturally shrink back from hatred ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இகல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hostility' thoughtfully.",
+        "quiz_question_ta": "'இகல்' அதிகாரத்தில் வரும் திருக்குறள் 855 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 855 from Chapter 'Hostility'?",
+        "quiz_options_ta": [
+          "உயர்ந்த கொள்கையுடைய பெரியவர் சீறினால் நாட்டை ஆளும் அரசனும் இடை நடுவே முறிந்து அரசு இழந்து கெடுவான்.",
+          "முன் உண்ட உணவு செரித்த தன்மை ஆராய்ந்து போற்றியப் பிறகு தக்க அளவு உண்டால், உடம்பிற்கு மருந்து என ஒன்று வேண்டியதில்லை.",
+          "ஆற்றலுடையவரின் ஆற்றலாவது பணிவுடன் நடத்தலாகும், அது சான்றோர் தம் பகைவரைப் பகைமையிலிருந்து மாற்றுகின்ற கருவியாகும்.",
+          "இகலை எதிர்த்து நிற்காமல் அதன் எதிரே சாய்ந்து நடக்க வல்லவரை வெல்லக் கருதுகின்ற ஆற்றல் உடையவர் யார்."
+        ],
+        "quiz_options_en": [
+          "Before the holy sage's rage Ev'n Indra's empire meets damage",
+          "After digestion one who feeds His body no medicine needs",
+          "Humility is valour's strength A force that averts foes at length",
+          "Who can overcome them in glory That are free from enmity?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (இகல்) பகுதியில் குறள் 855 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இகலை எதிர்த்து நிற்காமல் அதன் எதிரே சாய்ந்து நடக்க வல்லவரை வெல்லக் கருதுகின்ற ஆற்றல் உடையவர் யார். பரிமேலழகர் உரை நுட்பம்: இகல் எதிர் சாய்ந்து ஒழுக வல்லாரை - தம் உள்ளத்து மாறுபாடு தோன்றியவழி அதனை ஏற்றுக்கொள்ளாது சாய்ந்தொழுக வல்லாரை; மிகல் ஊக்கும் தன்மையவர் யார் - வெல்லக்கருதும் தன்மையுடையார் யாவர்? (இகலை ஒழிந்தொழுகல் வேந்தர்க்கு எவ்வாற்றானும் அரிதாகலின், 'வல்லாரை' என்றும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 86: 'Hostility'), Kural 855 distills a foundational ethical insight: \"If men from enmity can keep their spirits free, Who over them shall gain the victory\" Philosophically, Who indeed would think of conquering those who naturally shrink back from hatred ?",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 856,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: இகல் கொள்வதால் வெல்லுதல் இனியது என்று கருதுகின்றவனுடைய வாழ்க்கை தவறிபோதலும் அழிதலும் விரைவவில் உள்ளனவாம்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Failure and ruin are not far from him who says it is sweet to excel in hatred.",
+        "story_title_ta": "இகல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Hostility — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இகல்' என்ற அதிகாரத்திலிருந்து குறள் 856 பற்றிக் கதை சொன்னார். 'பிறருடன் மனவேறுபாடு கொண்டு வளர்வது நல்லதே என்பவன் வாழ்க்கை, அழியாமல் இருப்பதும் சிறிது காலமே; அழிந்து போவதும் சிறிது காலத்திற்குள்ளேயாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 86, 'Hostility', centered on Kural 856: Failure and ruin are not far from him who says it is sweet to excel in hatred. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மாறுபாடு கொண்டு எதிர்ப்பதால் வெற்றி பெறுவது எளிது என எண்ணிச் செயல்படுபவரின் வாழ்க்கை விரைவில் தடம்புரண்டு கெட்டொழியும்.",
+        "moral_en": "Moral: The life of those who cherished enmity hold dear, To grievous fault and utter death is near.",
+        "game_blank_word_ta": "என்பவன்",
+        "game_options_ta": [
+          "என்பவன்",
+          "இகலென்ப",
+          "எல்லா",
+          "உயிர்க்கும்"
+        ],
+        "game_options_en": [
+          "His fall and ruin are quite near Who holds enmity sweet and dear",
+          "Hatred is a plague that divides And rouses illwill on all sides",
+          "Rouse not hatred and confusion Though foes provoke disunion",
+          "Shun the plague of enmity And win everlasting glory"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இகல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 856, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறருடன் மனவேறுபாடு கொண்டு வளர்வது நல்லதே என்பவன் வாழ்க்கை, அழியாமல் இருப்பதும் சிறிது காலமே; அழிந்து போவதும் சிறிது காலத்திற்குள்ளேயாம். கலைஞர் உரை கூறுவது: மாறுபாடு கொண்டு எதிர்ப்பதால் வெற்றி பெறுவது எளிது என எண்ணிச் செயல்படுபவரின் வாழ்க்கை விரைவில் தடம்புரண்டு கெட்டொழியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hostility (Ministers & Elements of State), Kural 856 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Failure and ruin are not far from him who says it is sweet to excel in hatred. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இகல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hostility' thoughtfully.",
+        "quiz_question_ta": "'இகல்' அதிகாரத்தில் வரும் திருக்குறள் 856 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 856 from Chapter 'Hostility'?",
+        "quiz_options_ta": [
+          "இகல் கொள்வதால் வெல்லுதல் இனியது என்று கருதுகின்றவனுடைய வாழ்க்கை தவறிபோதலும் அழிதலும் விரைவவில் உள்ளனவாம்.",
+          "மிகச் சிறப்பாக அமைந்த பெருமையுடையவர் வெகுண்டால் அளவு கடந்து அமைந்துள்ள சார்புகள் உடையவரானாலும் தப்பி பிழைக்க முடியாது.",
+          "முன் உண்ட உணவு செரித்துவிட்டால், பின் வேண்டிய அளவு அறிந்து உண்ணவேண்டும், அதுவே உடம்பு பெற்றவன் அதை நெடுங்காலம் செலுத்தும் வழியாகும்.",
+          "சால்புக்கு உரைகல் போல் மதிப்பிடும் கருவி எது என்றால் தமக்கு ஒப்பில்லாத தாழ்ந்தோரிடத்திலும்தோல்வியை ஏற்றுக் கொள்ளும் பண்பாகும்."
+        ],
+        "quiz_options_en": [
+          "His fall and ruin are quite near Who holds enmity sweet and dear",
+          "Even mighty aided men shall quail If the enraged holy seers will",
+          "Eat food to digestive measure Life in body lasts with pleasure",
+          "To bear repulse e'en from the mean Is the touch-stone of worthy men"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (இகல்) பகுதியில் குறள் 856 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இகல் கொள்வதால் வெல்லுதல் இனியது என்று கருதுகின்றவனுடைய வாழ்க்கை தவறிபோதலும் அழிதலும் விரைவவில் உள்ளனவாம். பரிமேலழகர் உரை நுட்பம்: இகலின் மிகல் இனிது என்பவன் வாழ்க்கை - பிறரொடு மாறுபடுதற்கண் மிகுதல் எனக்கு இனிது என்று அதனைச் செய்வானது உயிர் வாழ்க்கை; தவலும் கெடலும் நணித்து - பிழைத்தலும் முற்றக் கெடுதலும் சிறிது பொழுதுள் உளவாம். (மிகுதல் - மேன்மேல் ஊக்குதல். 'இனிது' என்பது தான் வேறல...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 86: 'Hostility'), Kural 856 distills a foundational ethical insight: \"The life of those who cherished enmity hold dear, To grievous fault and utter death is near\" Philosophically, Failure and ruin are not far from him who says it is sweet to excel in hatred.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 857,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: இகலை விரும்புகின்ற தீய அறிவை உடையவர் வெற்றி பொருந்துதலுக்குக் காரணமான உண்மைப் பொருளை அறியமாட்டார்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Who only know to work men woe, fulfilled of enmity.",
+        "story_title_ta": "இகல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Hostility — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இகல்' என்ற அதிகாரத்திலிருந்து குறள் 857 பற்றிக் கதை சொன்னார். 'மனவேறுபாட்டோடு கேடான அறிவையும் உடையவர், வெற்றி தரும் நீதிநூற் பொருளை அறியமாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 86, 'Hostility', centered on Kural 857: Who only know to work men woe, fulfilled of enmity. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பகை உணர்வு கொள்ளும் தீய அறிவுடையவர்கள் வெற்றிக்கு வழிகாட்டும் உண்மைப் பொருளை அறியமாட்டார்கள்.",
+        "moral_en": "Moral: The very truth that greatness gives their eyes can never see, Who only know to work men woe, fulfilled of enmity.",
+        "game_blank_word_ta": "இகல்மேவல்",
+        "game_options_ta": [
+          "இகலென்ப",
+          "இகல்மேவல்",
+          "எல்லா",
+          "உயிர்க்கும்"
+        ],
+        "game_options_en": [
+          "Hatred is a plague that divides And rouses illwill on all sides",
+          "They cannot see the supreme Truth Who hate and injure without ruth",
+          "Rouse not hatred and confusion Though foes provoke disunion",
+          "Shun the plague of enmity And win everlasting glory"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இகல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 857, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனவேறுபாட்டோடு கேடான அறிவையும் உடையவர், வெற்றி தரும் நீதிநூற் பொருளை அறியமாட்டார். கலைஞர் உரை கூறுவது: பகை உணர்வு கொள்ளும் தீய அறிவுடையவர்கள் வெற்றிக்கு வழிகாட்டும் உண்மைப் பொருளை அறியமாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hostility (Ministers & Elements of State), Kural 857 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Who only know to work men woe, fulfilled of enmity. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இகல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hostility' thoughtfully.",
+        "quiz_question_ta": "'இகல்' அதிகாரத்தில் வரும் திருக்குறள் 857 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 857 from Chapter 'Hostility'?",
+        "quiz_options_ta": [
+          "மனைவியை விரும்பி அவள் சொன்னபடி நடப்பவர், சிறந்த பயனை அடையமாட்டார், கடமையைச் செய்தலை விரும்புகின்றவர் வேண்டாத பொருளும் அதுவே.",
+          "இகலை விரும்புகின்ற தீய அறிவை உடையவர் வெற்றி பொருந்துதலுக்குக் காரணமான உண்மைப் பொருளை அறியமாட்டார்.",
+          "முன் உண்ட உணவு செரித்த தன்மையை அறிந்து மாறுபாடில்லாத உணவுகளைக் கடைபிடித்து அவற்றையும் பசித்த பிறகு உண்ண வேண்டும்.",
+          "துன்பமானவற்றைச் செய்தவர்க்கும் இனிய உதவிகளைச் செய்யா விட்டால், சான்றோரின் சால்பு என்ன பயன் உடையதாகும்."
+        ],
+        "quiz_options_en": [
+          "Who dote on wives lose mighty gain That lust, dynamic men disdain",
+          "They cannot see the supreme Truth Who hate and injure without ruth",
+          "Know digestion; with keen appetite Eat what is suitable and right",
+          "Of perfection what is the gain If it returns not joy for pain?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (இகல்) பகுதியில் குறள் 857 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இகலை விரும்புகின்ற தீய அறிவை உடையவர் வெற்றி பொருந்துதலுக்குக் காரணமான உண்மைப் பொருளை அறியமாட்டார். பரிமேலழகர் உரை நுட்பம்: இகல் மேவல் இன்னா அறிவினவர் - இகலோடு மேவுதலையுடைய இன்னாத அறிவினையுடையார்; மிகல் மேவல் மெய்ப்பொருள் காணார் - வெற்றி பொருந்துதலையுடைய நீதி நூற்பொருளை அறியமாட்டார். (இன்னா அறிவு -தமக்கும் பிறர்க்கும் தீங்கு பயக்கும் அறிவு. வெற்றி - வழிநின்றார்க்கு உளதாவது...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 86: 'Hostility'), Kural 857 distills a foundational ethical insight: \"The very truth that greatness gives their eyes can never see, Who only know to work men woe, fulfilled of enmity\" Philosophically, Who only know to work men woe, fulfilled of enmity.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "truth",
+        "wisdom",
+        "kindness",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 858,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: இகலுக்கு எதிரே சாய்ந்து நடத்தல் ஒருவனுக்கு ஆக்கமாகும், அதனை எதிர்த்து வெல்லக்கருதினால் கேடு அவனிடம் வரக் கருதும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Shrinking back from hatred will yield wealth; indulging in its increase will hasten ruin.",
+        "story_title_ta": "இகல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Hostility — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இகல்' என்ற அதிகாரத்திலிருந்து குறள் 858 பற்றிக் கதை சொன்னார். 'மனவேறுபாடு தோன்றும்போது அதை வரவேற்காமல் இருப்பது ஒருவனுக்குச் செல்வமாகும்; வரவேற்பது கேட்டையே வரவேற்ப‌தாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 86, 'Hostility', centered on Kural 858: Shrinking back from hatred will yield wealth; indulging in its increase will hasten ruin. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மனத்தில் தோன்றும் மாறுபாட்டை எதிர்கொண்டு நீக்கிக் கொண்டால் நன்மையும், அதற்கு மாறாக அதனை மிகுதியாக ஊக்கப்படுத்தி வளர்த்துக் கொண்டால் தீமையும் விளையும்.",
+        "moral_en": "Moral: 'Tis gain to turn the soul from enmity; Ruin reigns where this hath mastery.",
+        "game_blank_word_ta": "இகலிற்கு",
+        "game_options_ta": [
+          "இகலென்ப",
+          "எல்லா",
+          "இகலிற்கு",
+          "உயிர்க்கும்"
+        ],
+        "game_options_en": [
+          "Hatred is a plague that divides And rouses illwill on all sides",
+          "Rouse not hatred and confusion Though foes provoke disunion",
+          "To turn from enmity is gain Fomenting it brings fast ruin",
+          "Shun the plague of enmity And win everlasting glory"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இகல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 858, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனவேறுபாடு தோன்றும்போது அதை வரவேற்காமல் இருப்பது ஒருவனுக்குச் செல்வமாகும்; வரவேற்பது கேட்டையே வரவேற்ப‌தாகும். கலைஞர் உரை கூறுவது: மனத்தில் தோன்றும் மாறுபாட்டை எதிர்கொண்டு நீக்கிக் கொண்டால் நன்மையும், அதற்கு மாறாக அதனை மிகுதியாக ஊக்கப்படுத்தி வளர்த்துக் கொண்டால் தீமையும் விளையும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hostility (Ministers & Elements of State), Kural 858 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Shrinking back from hatred will yield wealth; indulging in its increase will hasten ruin. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இகல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hostility' thoughtfully.",
+        "quiz_question_ta": "'இகல்' அதிகாரத்தில் வரும் திருக்குறள் 858 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 858 from Chapter 'Hostility'?",
+        "quiz_options_ta": [
+          "கடமையை விரும்பாமல் மனைவியின் பெண்மையை விரும்புகின்றவனுடைய ஆக்கம், பெரியதொரு நாணத்தக்கச் செயலாக நாணத்தைக் கொடுக்கும்.",
+          "மாறுபாடில்லாதா உணவை அளவு மீறாமல் மறுத்து அளவோடு உண்டால், உயிர் உடம்பில் வாழ்வதற்கு இடையூறான நோய் இல்லை.",
+          "இகலுக்கு எதிரே சாய்ந்து நடத்தல் ஒருவனுக்கு ஆக்கமாகும், அதனை எதிர்த்து வெல்லக்கருதினால் கேடு அவனிடம் வரக் கருதும்.",
+          "சால்பு என்னும் வலிமை உண்டாகப் பெற்றால் ஒருவனுக்குப் பொருள் இல்லாத குறையாகிய வறுமை இழிவானது அன்று."
+        ],
+        "quiz_options_en": [
+          "Who dotes, unmanly, on his dame His wealth to him and all is shame",
+          "With fasting adjusted food right Cures ills of life and makes you bright",
+          "To turn from enmity is gain Fomenting it brings fast ruin",
+          "No shame there is in poverty To one strong in good quality"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (இகல்) பகுதியில் குறள் 858 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இகலுக்கு எதிரே சாய்ந்து நடத்தல் ஒருவனுக்கு ஆக்கமாகும், அதனை எதிர்த்து வெல்லக்கருதினால் கேடு அவனிடம் வரக் கருதும். பரிமேலழகர் உரை நுட்பம்: இகலிற்கு எதிர் சாய்தல் ஆக்கம் - தன் உள்ளத்து மாறுபாடு தோன்றியவழி அதனை எதிர்தலையொழிதல் ஒருவனுக்கு ஆக்கம் ஆம்; அதனை மிகல் ஊக்கின் கேடு ஊக்குமாம் - அது செய்யாது அதன்கண் மிகுதலை மேற்கொள்வானாயின் கேடும் தன்கண் வருதலை மேற்கொள்ளும். (எதிர்தல் - ஏற்றுக்கோடல், சாய்ந்த...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 86: 'Hostility'), Kural 858 distills a foundational ethical insight: \"'Tis gain to turn the soul from enmity; Ruin reigns where this hath mastery\" Philosophically, Shrinking back from hatred will yield wealth; indulging in its increase will hasten ruin.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "leadership",
+        "family",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 859,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒருவன் தனக்கு ஆக்கம் வரும்போது இகலைக் கருதமாட்டான், தனக்கு கேடு தருவிக்கொள்ளும் போது அதனை எதிர்த்து வெல்லக் கருதுவான்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: At the approach of wealth one will not think of hatred (but) to secure one's ruin, one will look to its increase.",
+        "story_title_ta": "இகல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Hostility — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இகல்' என்ற அதிகாரத்திலிருந்து குறள் 859 பற்றிக் கதை சொன்னார். 'ஒருவனுக்கு நன்மை வரும் போது காரணம் இருந்தாலும் மனவேறுபாடு கொள்ள மாட்டான்.தனக்குத் தானேகேட்டை விளைவிக்க எண்ணுபவன், காரணம் இல்லாவிட்டாலும் மனவேறுபாடு கொள்ள எண்ணுவான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 86, 'Hostility', centered on Kural 859: At the approach of wealth one will not think of hatred (but) to secure one's ruin, one will look to its increase. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவன் தனக்கு நன்மை வரும்போது மாறுபாட்டை நினைக்காமலே இருப்பான் ஆனால் தனக்குத் தானே கேடு தேடிக் கொள்வதென்றால் அந்த மாறுபாட்டைப் பெரிதுபடுத்திக் கொள்வான்.",
+        "moral_en": "Moral: Men think not hostile thought in fortune's favouring hour, They cherish enmity when in misfortune's power.",
+        "game_blank_word_ta": "ஆக்கம்",
+        "game_options_ta": [
+          "இகலென்ப",
+          "எல்லா",
+          "உயிர்க்கும்",
+          "ஆக்கம்"
+        ],
+        "game_options_en": [
+          "Hatred is a plague that divides And rouses illwill on all sides",
+          "Rouse not hatred and confusion Though foes provoke disunion",
+          "Shun the plague of enmity And win everlasting glory",
+          "Fortune favours when hate recedes Hatred exceeding ruin breeds"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இகல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 859, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவனுக்கு நன்மை வரும் போது காரணம் இருந்தாலும் மனவேறுபாடு கொள்ள மாட்டான்.தனக்குத் தானேகேட்டை விளைவிக்க எண்ணுபவன், காரணம் இல்லாவிட்டாலும் மனவேறுபாடு கொள்ள எண்ணுவான். கலைஞர் உரை கூறுவது: ஒருவன் தனக்கு நன்மை வரும்போது மாறுபாட்டை நினைக்காமலே இருப்பான் ஆனால் தனக்குத் தானே கேடு தேடிக் கொள்வதென்றால் அந்த மாறுபாட்டைப் பெரிதுபடுத்திக் கொள்வான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hostility (Ministers & Elements of State), Kural 859 speaks directly to teens navigating studies, friendships, leadership, and digital choices: At the approach of wealth one will not think of hatred (but) to secure one's ruin, one will look to its increase. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இகல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hostility' thoughtfully.",
+        "quiz_question_ta": "'இகல்' அதிகாரத்தில் வரும் திருக்குறள் 859 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 859 from Chapter 'Hostility'?",
+        "quiz_options_ta": [
+          "மனைவியிடத்தில் தாழ்ந்து நடக்கும் இழிந்த தன்மை ஒருவனுக்கு எப்போதும் நல்லவரிடையே இருக்கும் போது நாணத்தைச் தரும்.",
+          "குறைந்த அளவு இன்னதென்று அறிந்து உண்பவனிடத்தில் இன்பம் நிலைநிற்பது போல, மிகப்பெரிதும் உண்பவனிடத்தில் நோய் நிற்க்கும்.",
+          "சால்பு என்னும் தன்மைக்குக் கடல் என்று புகழப்படுகின்றவர், ஊழிக்காலத்தின் வேறுபாடுகளே நேர்ந்தாலும் தாம் வேறுபடாமல் இருப்பர்.",
+          "ஒருவன் தனக்கு ஆக்கம் வரும்போது இகலைக் கருதமாட்டான், தனக்கு கேடு தருவிக்கொள்ளும் போது அதனை எதிர்த்து வெல்லக் கருதுவான்."
+        ],
+        "quiz_options_en": [
+          "Who's servile to his wife always Shy he feels before the wise",
+          "Who eats with clean stomach gets health With greedy glutton abides ill-health",
+          "Aeons may change but not the seer Who is a sea of virtue pure",
+          "Fortune favours when hate recedes Hatred exceeding ruin breeds"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (இகல்) பகுதியில் குறள் 859 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் தனக்கு ஆக்கம் வரும்போது இகலைக் கருதமாட்டான், தனக்கு கேடு தருவிக்கொள்ளும் போது அதனை எதிர்த்து வெல்லக் கருதுவான். பரிமேலழகர் உரை நுட்பம்: ஆக்கம் வருங்கால் இகல் காணான் - ஒருவன் தன்கண் ஆக்கம் வரும்வழிக் காரணம் உண்டாயினும் இகலை நினையான்; கேடுதரற்கு அதனை மிகல் காணும் - தனக்குக் கேடு செய்து கோடற்கண் காரணம் இன்றியும் அதன்கண் மிகுதலை நினைக்கும். (இகலான் வருங்கேடு பிறரான் அன்றென்பது தோன்ற, 'தரற்கு...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 86: 'Hostility'), Kural 859 distills a foundational ethical insight: \"Men think not hostile thought in fortune's favouring hour, They cherish enmity when in misfortune's power\" Philosophically, At the approach of wealth one will not think of hatred (but) to secure one's ruin, one will look to its increase.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "gratitude",
+        "ethics",
+        "time",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 860,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒருவனுக்கு இகலால் துன்பமானவை எல்லாம் உண்டாகும்,அதற்கு மாறான நட்பால் நல்ல நீதியாகிய பெருமித நிலை உண்டாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: All calamities are caused by hatred; but by the delight (of friendship) is caused the great wealth of good virtues.",
+        "story_title_ta": "இகல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Hostility — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இகல்' என்ற அதிகாரத்திலிருந்து குறள் 860 பற்றிக் கதை சொன்னார். 'மன வேறுபாட்டால் துன்பம் எல்லாம் உண்டாகும். நல்லிணக்க நட்பால், நீதி என்னும் செல்வச் செருக்கு உண்டாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 86, 'Hostility', centered on Kural 860: All calamities are caused by hatred; but by the delight (of friendship) is caused the great wealth of good virtues. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மனமாறுபாடு கொண்டு பகையுணர்வைக் காட்டுவோரைத் துன்பங்கள் தொடரும் நட்புணர்வோடு செயல்படுவோர்க்குப் பெருமகிழ்ச்சி எனும் நற்பயன் விளையும்.",
+        "moral_en": "Moral: From enmity do all afflictive evils flow; But friendliness doth wealth of kindly good bestow.",
+        "game_blank_word_ta": "செருக்கு",
+        "game_options_ta": [
+          "செருக்கு",
+          "இகலென்ப",
+          "எல்லா",
+          "உயிர்க்கும்"
+        ],
+        "game_options_en": [
+          "All evils come from enmity All goodness flow from amity",
+          "Hatred is a plague that divides And rouses illwill on all sides",
+          "Rouse not hatred and confusion Though foes provoke disunion",
+          "Shun the plague of enmity And win everlasting glory"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இகல் (அங்கவியல்) பிரிவில் அமைந்த குறள் 860, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மன வேறுபாட்டால் துன்பம் எல்லாம் உண்டாகும். நல்லிணக்க நட்பால், நீதி என்னும் செல்வச் செருக்கு உண்டாகும். கலைஞர் உரை கூறுவது: மனமாறுபாடு கொண்டு பகையுணர்வைக் காட்டுவோரைத் துன்பங்கள் தொடரும் நட்புணர்வோடு செயல்படுவோர்க்குப் பெருமகிழ்ச்சி எனும் நற்பயன் விளையும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hostility (Ministers & Elements of State), Kural 860 speaks directly to teens navigating studies, friendships, leadership, and digital choices: All calamities are caused by hatred; but by the delight (of friendship) is caused the great wealth of good virtues. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இகல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Hostility' thoughtfully.",
+        "quiz_question_ta": "'இகல்' அதிகாரத்தில் வரும் திருக்குறள் 860 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 860 from Chapter 'Hostility'?",
+        "quiz_options_ta": [
+          "ஒருவனுக்கு இகலால் துன்பமானவை எல்லாம் உண்டாகும்,அதற்கு மாறான நட்பால் நல்ல நீதியாகிய பெருமித நிலை உண்டாகும்.",
+          "மனைவிக்கு அஞ்சி நடக்கின்ற மறுமைப் பயன் இல்லாத ஒருவன், செயல் ஆற்றுந்தன்மை பெருமை பெற்று விளங்க முடிவதில்லை.",
+          "பசித்தீயின் அளவின் படி அல்லாமல், அதை ஆராயாமல் மிகுதியாக உண்டால் , அதனால் நோய்கள் அளவில்லாமல் ஏற்ப்பட்டு விடும்.",
+          "சான்றோரின் சால்பு நிறைந்த பண்பு குறைபடுமானால் இந்தப் பெரிய நிலவுலகமும் தன் பாரத்தைத் தாங்க முடியாமற் போய் விடும்."
+        ],
+        "quiz_options_en": [
+          "All evils come from enmity All goodness flow from amity",
+          "Fearing his wife salvationless The weaklings' action has no grace",
+          "who glut beyond the hunger's fire Suffer from untold diseases here",
+          "The world will not more bear its weight If from high virtue fall the great"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (இகல்) பகுதியில் குறள் 860 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவனுக்கு இகலால் துன்பமானவை எல்லாம் உண்டாகும்,அதற்கு மாறான நட்பால் நல்ல நீதியாகிய பெருமித நிலை உண்டாகும். பரிமேலழகர் உரை நுட்பம்: இகலான் இன்னாத எல்லாம் ஆம் ஒருவனுக்கு - மாறுபாடு ஒன்றானே இன்னாதன எல்லாம் உளவாம்; நகலான் நன்னயம் என்னும் செருக்கு ஆம் - நட்பு ஒன்றானே நல்ல நீதி என்னும் பெருஞ்செல்வம் உளதாம். (இன்னாதன - வறுமை,பழி,பாவம் முதலாயின. நகல் - மகிழ்தல். 'நகல்' என்பதூஉம் 'செருக்கு...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 86: 'Hostility'), Kural 860 distills a foundational ethical insight: \"From enmity do all afflictive evils flow; But friendliness doth wealth of kindly good bestow\" Philosophically, All calamities are caused by hatred; but by the delight (of friendship) is caused the great wealth of good virtues.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "kindness",
+        "humility",
+        "friendship"
+      ]
+    }
+  ]
+}

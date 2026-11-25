@@ -1,0 +1,585 @@
+{
+  "adhikaram_id": 65,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.050092550+00:00",
+  "kurals": [
+    {
+      "kural_number": 641,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: நாவன்மையாகிய நலம் ஒருவகைச் செல்வம் ஆகும், அந்த நாநலம் தனிச்சிறப்புடையது, ஆகையால் மற்ற எந்த நலங்களிலும் அடங்குவது அன்று.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The possession of that goodness which is called the goodness of speech is (even to others) better than any other goodness.",
+        "story_title_ta": "சொல்வன்மை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Power of Speech — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சொல்வன்மை' என்ற அதிகாரத்திலிருந்து குறள் 641 பற்றிக் கதை சொன்னார். 'நாவினால் பேசிக் காரியத்தை வெற்றிகரமாக முடிக்கும் திறமை என்னும் சிறப்பு வேறு எந்தச் சிறப்பிலும் அடங்காத தனிச்சிறப்பாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 65, 'Power of Speech', centered on Kural 641: The possession of that goodness which is called the goodness of speech is (even to others) better than any other goodness. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சொல்வன்மைக்கு உள்ள சிறப்பு வேறு எதற்குமில்லை எனவே அது செல்வங்களில் எல்லாம் சிறந்த செல்வமாகும்.",
+        "moral_en": "Moral: A tongue that rightly speaks the right is greatest gain, It stands alone midst goodly things that men obtain.",
+        "game_blank_word_ta": "யாநலத்து",
+        "game_options_ta": [
+          "ஆக்கமுங்",
+          "யாநலத்து",
+          "கேடும்",
+          "அதனால்"
+        ],
+        "game_options_en": [
+          "Since gain or ruin speeches bring Guard against the slips of tongue",
+          "The goodness called goodness of speech Is goodness which nothing can reach",
+          "A speech is speech that holds ears And attracts ev'n those that are averse",
+          "Weigh thy words and speak; because No wealth or virtue words surpass"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சொல்வன்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 641, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாவினால் பேசிக் காரியத்தை வெற்றிகரமாக முடிக்கும் திறமை என்னும் சிறப்பு வேறு எந்தச் சிறப்பிலும் அடங்காத தனிச்சிறப்பாகும். கலைஞர் உரை கூறுவது: சொல்வன்மைக்கு உள்ள சிறப்பு வேறு எதற்குமில்லை எனவே அது செல்வங்களில் எல்லாம் சிறந்த செல்வமாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Power of Speech (Ministers & Elements of State), Kural 641 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The possession of that goodness which is called the goodness of speech is (even to others) better than any other goodness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சொல்வன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Power of Speech' thoughtfully.",
+        "quiz_question_ta": "'சொல்வன்மை' அதிகாரத்தில் வரும் திருக்குறள் 641 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 641 from Chapter 'Power of Speech'?",
+        "quiz_options_ta": [
+          "பலவற்றைத் தொகுத்து சொல்லியும், அவற்றுள் பயனற்றவைகளை நீக்கியும், மகிழுமாறு சொல்லியும் தன் தலைவனுக்கு நன்மை உண்டாக்குகின்றவன் தூதன்.",
+          "நாவன்மையாகிய நலம் ஒருவகைச் செல்வம் ஆகும், அந்த நாநலம் தனிச்சிறப்புடையது, ஆகையால் மற்ற எந்த நலங்களிலும் அடங்குவது அன்று.",
+          "நல்ல அறிஞரின் அவையில் நல்லப் பொருளைக் கேட்பவர் மனதில் பதியுமாறு சொல்ல முடியாதவர், பல நூல்களைக் கற்றாலும் பயன் இல்லாதவரே.",
+          "பகைவரே! என்னுடைய தலைவர் முன் எதிர்த்து நிற்காதீர்கள், என்னுடைய தலைவர் முன் எதிர்த்து நின்று கல்வடிவாய் நின்றவர் பலர்."
+        ],
+        "quiz_options_en": [
+          "Not harsh, the envoy's winsome ways Does good by pleasant words concise",
+          "The goodness called goodness of speech Is goodness which nothing can reach",
+          "Though learned much his lore is dead Who says no good before the good",
+          "Stand not before my chief, O foes! Many who stood, in stones repose"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (சொல்வன்மை) பகுதியில் குறள் 641 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நாவன்மையாகிய நலம் ஒருவகைச் செல்வம் ஆகும், அந்த நாநலம் தனிச்சிறப்புடையது, ஆகையால் மற்ற எந்த நலங்களிலும் அடங்குவது அன்று. பரிமேலழகர் உரை நுட்பம்: நாநலம் என்னும் நலன் உடைமை - அமைச்சர்க்கு இன்றியமையாக் குணமாவது சான்றோரான் நாநலம் என்று சிறப்பித்துச் சொல்லப்படும் நலத்தினை உடையராதல்; அந்நலம் யாநலத்து உள்ளதூஉம் அன்று - அந்நலம் பிறர்க்கும் பிறநலம் எல்லாவற்றுள்ளும் அடங்குவதன்றி மிக்கது ஆகலான். ('நாவால் உளதாய...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 65: 'Power of Speech'), Kural 641 distills a foundational ethical insight: \"A tongue that rightly speaks the right is greatest gain, It stands alone midst goodly things that men obtain\" Philosophically, The possession of that goodness which is called the goodness of speech is (even to others) better than any other goodness.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "ethics",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 642,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஆக்கமும் கேடும் சொல்லுகின்ற சொல்லால் வருவதால் ஒருவன் தன்னுடைய சொல்லிற்க்கு தவறு நேராமல் காத்துக்கொள்ள வேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Since (both) wealth and evil result from (their) speech, ministers should most carefully guard themselves against faultiness therein.",
+        "story_title_ta": "சொல்வன்மை — கவின் கற்ற பாடம்",
+        "story_title_en": "Power of Speech — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சொல்வன்மை' என்ற அதிகாரத்திலிருந்து குறள் 642 பற்றிக் கதை சொன்னார். 'அவரவர் சொல் திறந்தாலேயே நன்மையும், தீமையும் வருவதால், பேசும் பேச்சில் பிழை வராமல் விழிப்புடன் பேசுக.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 65, 'Power of Speech', centered on Kural 642: Since (both) wealth and evil result from (their) speech, ministers should most carefully guard themselves against faultiness therein. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஆக்கமும் அழிவும் சொல்லால் ஏற்படும் என்பதால், எந்தவொரு சொல்லிலும் குறைபாடு நேராமல் கவனமாக இருக்க வேண்டும்.",
+        "moral_en": "Moral: Since gain and loss in life on speech depend, From careless slip in speech thyself defend.",
+        "game_blank_word_ta": "சொல்லின்கட்",
+        "game_options_ta": [
+          "நாநலம்",
+          "என்னும்",
+          "சொல்லின்கட்",
+          "நலனுடைமை"
+        ],
+        "game_options_en": [
+          "The goodness called goodness of speech Is goodness which nothing can reach",
+          "A speech is speech that holds ears And attracts ev'n those that are averse",
+          "Since gain or ruin speeches bring Guard against the slips of tongue",
+          "Weigh thy words and speak; because No wealth or virtue words surpass"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சொல்வன்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 642, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவரவர் சொல் திறந்தாலேயே நன்மையும், தீமையும் வருவதால், பேசும் பேச்சில் பிழை வராமல் விழிப்புடன் பேசுக. கலைஞர் உரை கூறுவது: ஆக்கமும் அழிவும் சொல்லால் ஏற்படும் என்பதால், எந்தவொரு சொல்லிலும் குறைபாடு நேராமல் கவனமாக இருக்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Power of Speech (Ministers & Elements of State), Kural 642 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Since (both) wealth and evil result from (their) speech, ministers should most carefully guard themselves against faultiness therein. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சொல்வன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Power of Speech' thoughtfully.",
+        "quiz_question_ta": "'சொல்வன்மை' அதிகாரத்தில் வரும் திருக்குறள் 642 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 642 from Chapter 'Power of Speech'?",
+        "quiz_options_ta": [
+          "கற்பன கற்று, பிறருடைய பகையான பார்வைக்கு அஞ்சாமல் கேட்பவர் உள்ளத்தில் பதியுமாறு சொல்லி, காலத்திற்க்குப் பொருத்தமானதை அறிகின்றவனே தூதன்.",
+          "நூல்களைக் கற்றிந்த போதிலும் நல்ல அறிஞரின் அவைக்கு அஞ்சுகின்றவர், கல்லாதவரை விடக் கடைப்பட்டவர் என்று கூறுவர்.",
+          "ஆக்கமும் கேடும் சொல்லுகின்ற சொல்லால் வருவதால் ஒருவன் தன்னுடைய சொல்லிற்க்கு தவறு நேராமல் காத்துக்கொள்ள வேண்டும்",
+          "காட்டில் ஓடுகின்ற முயலை நோக்கி குறிதவறாமல் எய்த அம்பை ஏந்துதலைவிட, வெட்ட வெளியில் நின்ற யானை மேல் எறிந்து தவறிய வேலை ஏந்துதல் சிறந்தது."
+        ],
+        "quiz_options_en": [
+          "Learned; fearless, the envoy tends Convincing words which time demands",
+          "Who fear to face good assembly Are learned idiots, certainly",
+          "Since gain or ruin speeches bring Guard against the slips of tongue",
+          "To lift a lance that missed a tusker Is prouder than shaft that hit a hare"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (சொல்வன்மை) பகுதியில் குறள் 642 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஆக்கமும் கேடும் சொல்லுகின்ற சொல்லால் வருவதால் ஒருவன் தன்னுடைய சொல்லிற்க்கு தவறு நேராமல் காத்துக்கொள்ள வேண்டும். பரிமேலழகர் உரை நுட்பம்: ஆக்கமும் கேடும் அதனால் வருதலால் - தம் அரசர்க்கும் அங்கங்கட்கும் ஆக்க அழிவுகள் தம் சொல்லான் வரும் ஆகலான்; சொல்லின்கண் சோர்வு காத்து ஓம்பல் - அப்பெற்றித்தாய சொல்லின்கண் சோர்தலை அமைச்சர் தம்கண் நிகழாமல் போற்றிக் காக்க. (ஆக்கத்திற்கு ஏதுவாய நற்சொல்லையும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 65: 'Power of Speech'), Kural 642 distills a foundational ethical insight: \"Since gain and loss in life on speech depend, From careless slip in speech thyself defend\" Philosophically, Since (both) wealth and evil result from (their) speech, ministers should most carefully guard themselves against faultiness therein.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "ethics",
+        "wealth",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 643,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: சொல்லும் போது கேட்டவரைத் தன் வயப்படுத்தும் பண்புகளுடன், கேட்காதவரும் கேட்க விரும்புமாறு கூறப்படுவது சொல்வன்மையாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The (minister's) speech is that which seeks (to express) elements as bind his friends (to himself) and is so delivered as to make even his enemies desire (his friendship).",
+        "story_title_ta": "சொல்வன்மை — நிலா கற்ற பாடம்",
+        "story_title_en": "Power of Speech — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சொல்வன்மை' என்ற அதிகாரத்திலிருந்து குறள் 643 பற்றிக் கதை சொன்னார். 'நண்பர்களைப் பிரிக்காமல் சேர்க்கும் தன்மையதாய்ப் பகைவரும் கேட்க விரும்புவதாய்ப் பேசவது சொல்லாற்றல். ( முன்பு கேட்டவர் மீண்டும் கேட்க, இதுவரை கேளாதவரும் விரும்பிக் கேட்கப் பேசுவது என்றும் கூறலாம்).' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 65, 'Power of Speech', centered on Kural 643: The (minister's) speech is that which seeks (to express) elements as bind his friends (to himself) and is so delivered as to make even his enemies desire (his friendship). Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கேட்போரைக் கவரும் தன்மையுடைதாகவும், கேட்காதவரும் தேடிவந்து விரும்பிக் கேட்கக் கூடியதாகவும் அமைவதே சொல்வன்மை எனப்படும்.",
+        "moral_en": "Moral: 'Tis speech that spell-bound holds the listening ear, While those who have not heard desire to hear.",
+        "game_blank_word_ta": "பிணிக்கும்",
+        "game_options_ta": [
+          "நாநலம்",
+          "என்னும்",
+          "நலனுடைமை",
+          "பிணிக்கும்"
+        ],
+        "game_options_en": [
+          "The goodness called goodness of speech Is goodness which nothing can reach",
+          "Since gain or ruin speeches bring Guard against the slips of tongue",
+          "Weigh thy words and speak; because No wealth or virtue words surpass",
+          "A speech is speech that holds ears And attracts ev'n those that are averse"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சொல்வன்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 643, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நண்பர்களைப் பிரிக்காமல் சேர்க்கும் தன்மையதாய்ப் பகைவரும் கேட்க விரும்புவதாய்ப் பேசவது சொல்லாற்றல். ( முன்பு கேட்டவர் மீண்டும் கேட்க, இதுவரை கேளாதவரும் விரும்பிக் கேட்கப் பேசுவது என்றும் கூறலாம்). கலைஞர் உரை கூறுவது: கேட்போரைக் கவரும் தன்மையுடைதாகவும், கேட்காதவரும் தேடிவந்து விரும்பிக் கேட்கக் கூடியதாகவும் அமைவதே சொல்வன்மை எனப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Power of Speech (Ministers & Elements of State), Kural 643 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The (minister's) speech is that which seeks (to express) elements as bind his friends (to himself) and is so delivered as to make even his enemies desire (his friendship). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சொல்வன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Power of Speech' thoughtfully.",
+        "quiz_question_ta": "'சொல்வன்மை' அதிகாரத்தில் வரும் திருக்குறள் 643 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 643 from Chapter 'Power of Speech'?",
+        "quiz_options_ta": [
+          "தன் கடமை இன்னதென்று தெளிவாக அறிந்து , அதை செய்வதற்கு ஏற்றக்காலத்தை எதிர்நோக்கி தக்க இடத்தையும் ஆராய்ந்து சொல்கின்றவனே தூதன்.",
+          "அவைக்களத்திற்கு அஞ்சித் தாம் கற்றவைகளைக் (கேட்பவர் மனத்தில்) பதியுமாறு சொல்ல முடியாதவர், உயிரோடு வாழ்ந்தலும் இறந்தவர்க்கு ஒப்பாவர்.",
+          "பகைவரை எதிர்த்து நிற்க்கும் வீரத்தை மிக்க ஆண்மை என்று கூறுவர், ஒரு துன்பம் வந்த போது பகைவர்க்கும் உதவிச் செய்தலை அந்த ஆண்மையின் கூர்மை என்று கூறுவர்.",
+          "சொல்லும் போது கேட்டவரைத் தன் வயப்படுத்தும் பண்புகளுடன், கேட்காதவரும் கேட்க விரும்புமாறு கூறப்படுவது சொல்வன்மையாகும்."
+        ],
+        "quiz_options_en": [
+          "Knowing duty time and place The envoy employs mature phrase",
+          "They are breathing dead who dare not Empress before the wise their art",
+          "Valour is fight with fierce courage Mercy to the fallen is its edge",
+          "A speech is speech that holds ears And attracts ev'n those that are averse"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (சொல்வன்மை) பகுதியில் குறள் 643 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சொல்லும் போது கேட்டவரைத் தன் வயப்படுத்தும் பண்புகளுடன், கேட்காதவரும் கேட்க விரும்புமாறு கூறப்படுவது சொல்வன்மையாகும். பரிமேலழகர் உரை நுட்பம்: கேட்டார்ப் பிணிக்கும் தகை அவாய் - நட்பாய் ஏற்றுக் கொண்டாரைப் பின் வேறுபடாமல் பிணிக்கும் குணங்களை அவாவி; கேளாரும் வேட்ப மொழிவது - மற்றைப் பகையாய் ஏற்றுக்கொள்ளாதாரும் பின் அப்பகைமை ஒழிந்து நட்பினை விரும்பும் வண்ணம் சொல்லப்படுவதே; சொல்லாம் - அமைச்சர்க்குச...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 65: 'Power of Speech'), Kural 643 distills a foundational ethical insight: \"'Tis speech that spell-bound holds the listening ear, While those who have not heard desire to hear\" Philosophically, The (minister's) speech is that which seeks (to express) elements as bind his friends (to himself) and is so delivered as to make even his enemies desire (his friendship).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "friendship",
+        "education",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 644,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: சொல்லின் திறத்தை அறிந்து சொல்லை வழங்க வேண்டும், அத் தகைய சொல்வன்மையை விடச் சிறந்த அறமும் பொருளும் இல்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Understand the qualities (of your hearers) and (then) make your speech; for superior to it, there is neither virtue nor wealth.",
+        "story_title_ta": "சொல்வன்மை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Power of Speech — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சொல்வன்மை' என்ற அதிகாரத்திலிருந்து குறள் 644 பற்றிக் கதை சொன்னார். 'எவரிடம் பேசகிறோமோ அவர் குடிப்பிறப்பு, கல்வி, ஒழுக்கம், செல்வம், தோற்றம், வயது ஆகிய தகுதிகளை அறிந்து பேச்சு; அப்படிப் பேசுவதைவிட உயர்ந்த அறமும் பொருளும் வேறு இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 65, 'Power of Speech', centered on Kural 644: Understand the qualities (of your hearers) and (then) make your speech; for superior to it, there is neither virtue nor wealth. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: காரணத்தைத் தெளிவாக அறிந்து ஒன்றைச் சொல்ல வேண்டும் அந்தச் சொல் வன்மையைப் போன்ற அறமும், உண்மைப் பொருளும் வேறெதுவும் இல்லை.",
+        "moral_en": "Moral: Speak words adapted well to various hearers' state; No higher virtue lives, no gain more surely great.",
+        "game_blank_word_ta": "சொல்லை",
+        "game_options_ta": [
+          "சொல்லை",
+          "நாநலம்",
+          "என்னும்",
+          "நலனுடைமை"
+        ],
+        "game_options_en": [
+          "Weigh thy words and speak; because No wealth or virtue words surpass",
+          "The goodness called goodness of speech Is goodness which nothing can reach",
+          "Since gain or ruin speeches bring Guard against the slips of tongue",
+          "A speech is speech that holds ears And attracts ev'n those that are averse"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சொல்வன்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 644, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எவரிடம் பேசகிறோமோ அவர் குடிப்பிறப்பு, கல்வி, ஒழுக்கம், செல்வம், தோற்றம், வயது ஆகிய தகுதிகளை அறிந்து பேச்சு; அப்படிப் பேசுவதைவிட உயர்ந்த அறமும் பொருளும் வேறு இல்லை. கலைஞர் உரை கூறுவது: காரணத்தைத் தெளிவாக அறிந்து ஒன்றைச் சொல்ல வேண்டும் அந்தச் சொல் வன்மையைப் போன்ற அறமும், உண்மைப் பொருளும் வேறெதுவும் இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Power of Speech (Ministers & Elements of State), Kural 644 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Understand the qualities (of your hearers) and (then) make your speech; for superior to it, there is neither virtue nor wealth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சொல்வன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Power of Speech' thoughtfully.",
+        "quiz_question_ta": "'சொல்வன்மை' அதிகாரத்தில் வரும் திருக்குறள் 644 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 644 from Chapter 'Power of Speech'?",
+        "quiz_options_ta": [
+          "சொல்லின் திறத்தை அறிந்து சொல்லை வழங்க வேண்டும், அத் தகைய சொல்வன்மையை விடச் சிறந்த அறமும் பொருளும் இல்லை.",
+          "தூய ஒழுக்கம் உடையவனாதல், துணை உடையவனாதல், துணிவு உடையவனாதல் இந்த மூன்றும் வாய்த்திருத்தலே தூது உரைப்பவனுடைய தகுதியாகும்.",
+          "குறையாத விளைபொருளும் தக்க அறிஞரும் கேடில்லாத செல்வம் உடையவரும் கூடிப் பொருந்தியுள்ள நாடே நாடாகும்.",
+          "கையில் ஏந்திய வேலை ஒரு யானையின் மேல் எறிந்து துரத்திவிட்டு, வேறு வேல் தேடி வருகின்றவன் தன் மார்பில் பட்டிருந்த வேலைக் கண்டு பறித்து மகிழ்கின்றான்."
+        ],
+        "quiz_options_en": [
+          "Weigh thy words and speak; because No wealth or virtue words surpass",
+          "The true envoy of three virtues Is pure helpful and bold in views",
+          "It's country which has souls of worth Unfailing yields and ample wealth",
+          "At the tusker he flings his lance One in body smiles another chance"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (சொல்வன்மை) பகுதியில் குறள் 644 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சொல்லின் திறத்தை அறிந்து சொல்லை வழங்க வேண்டும், அத் தகைய சொல்வன்மையை விடச் சிறந்த அறமும் பொருளும் இல்லை. பரிமேலழகர் உரை நுட்பம்: சொல்லைத் திறன் அறிந்து சொல்லுக - அப்பெற்றித்தாய சொல்லை, அமைச்சர் தம்முடையவும், கேட்பாருடையவுமாய திறங்களை அறிந்து சொல்லுக; அதனின் ஊங்கு அறனும் பொருளும் இல் - அங்ஙனம் சொல்லுதற்கு மேற்பட்ட அறனும் பொருளும் இல்லையாகலான். (அத்திறங்களாவன: குடிப்பிறப்பு , கல்வி...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 65: 'Power of Speech'), Kural 644 distills a foundational ethical insight: \"Speak words adapted well to various hearers' state; No higher virtue lives, no gain more surely great\" Philosophically, Understand the qualities (of your hearers) and (then) make your speech; for superior to it, there is neither virtue nor wealth.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "wealth",
+        "ethics",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 645,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: வேறோரு சொல் அந்தச் சொல்லை வெல்லும் சொல்லாக இல்லாதிருந்தால் அறிந்த பிறகே சொல்லக்கருதியதைச் சொல்லவேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Deliver your speech, after assuring yourself that no counter speech can defeat your own.",
+        "story_title_ta": "சொல்வன்மை — இனியா கற்ற பாடம்",
+        "story_title_en": "Power of Speech — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சொல்வன்மை' என்ற அதிகாரத்திலிருந்து குறள் 645 பற்றிக் கதை சொன்னார். 'தாம் சொல்லும் சொல்லை வெல்ல, வேறொரு சொல் இல்லை என்பதை அறிந்து சொல்லுக.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 65, 'Power of Speech', centered on Kural 645: Deliver your speech, after assuring yourself that no counter speech can defeat your own. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இந்தச் சொல்லை இன்னொரு சொல் வெல்லாது என்று உணர்ந்த பிறகே அந்தச் சொல்லைப் பயன்படுத்த வேண்டும்.",
+        "moral_en": "Moral: Speak out your speech, when once 'tis past disputeThat none can utter speech that shall your speech refute.",
+        "game_blank_word_ta": "சொல்லைப்",
+        "game_options_ta": [
+          "நாநலம்",
+          "சொல்லைப்",
+          "என்னும்",
+          "நலனுடைமை"
+        ],
+        "game_options_en": [
+          "The goodness called goodness of speech Is goodness which nothing can reach",
+          "Speak out thy world so that no word Can win it and say untoward",
+          "Since gain or ruin speeches bring Guard against the slips of tongue",
+          "A speech is speech that holds ears And attracts ev'n those that are averse"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சொல்வன்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 645, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தாம் சொல்லும் சொல்லை வெல்ல, வேறொரு சொல் இல்லை என்பதை அறிந்து சொல்லுக. கலைஞர் உரை கூறுவது: இந்தச் சொல்லை இன்னொரு சொல் வெல்லாது என்று உணர்ந்த பிறகே அந்தச் சொல்லைப் பயன்படுத்த வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Power of Speech (Ministers & Elements of State), Kural 645 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Deliver your speech, after assuring yourself that no counter speech can defeat your own. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சொல்வன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Power of Speech' thoughtfully.",
+        "quiz_question_ta": "'சொல்வன்மை' அதிகாரத்தில் வரும் திருக்குறள் 645 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 645 from Chapter 'Power of Speech'?",
+        "quiz_options_ta": [
+          "குற்றமானச் சொற்களை வாய் சோர்ந்தும் சொல்லாத உறுதி உடையவனே அரசன் சொல்லியனுப்பிய சொற்களை மற்ற வேந்தர்க்கு உரைக்கும் தகுதியுடையவன்.",
+          "வேறோரு சொல் அந்தச் சொல்லை வெல்லும் சொல்லாக இல்லாதிருந்தால் அறிந்த பிறகே சொல்லக்கருதியதைச் சொல்லவேண்டும்.",
+          "மிக்க பொருள் வளம் உடையதாய், எல்லோரும் விரும்பத்தக்கதாய் கேடு இல்லாததாய், மிகுதியாக விளைபொருள் தருவதே நாடாகும்.",
+          "பகைவரை சினந்து நோக்கியக் கண், அவர் வேலைக் கொண்டு எறிந்த போது மூடி இமைக்குமானால், அது வீரமுடையவர்க்குத் தோல்வி அன்றோ."
+        ],
+        "quiz_options_en": [
+          "The envoy who ports the king's message Has flawless words and heart's courage",
+          "Speak out thy world so that no word Can win it and say untoward",
+          "The Land has large luring treasure Where pests are nil and yields are sure",
+          "When lances dart if heroes wink \\\"It is a rout\\\" the world will think"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (சொல்வன்மை) பகுதியில் குறள் 645 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வேறோரு சொல் அந்தச் சொல்லை வெல்லும் சொல்லாக இல்லாதிருந்தால் அறிந்த பிறகே சொல்லக்கருதியதைச் சொல்லவேண்டும். பரிமேலழகர் உரை நுட்பம்: சொல்லைப் பிறிது ஓர்சொல் வெல்லும் சொல் இன்மை அறிந்து - தாம் சொல்லக்கருதிய சொல்லைப் பிறிதோர் சொல்லால் வெல்ல வல்லதொரு சொல் இல்லாமை அறிந்து; அச்சொல்லைச் சொல்லுக - பின் அச்சொல்லைச் சொல்லுக. (பிறிதோர் சொல் - மாற்றாரது மறுதலைச்சொல். வெல்லுதல் - குணங்களான் மிகுதல...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 65: 'Power of Speech'), Kural 645 distills a foundational ethical insight: \"Speak out your speech, when once 'tis past disputeThat none can utter speech that shall your speech refute\" Philosophically, Deliver your speech, after assuring yourself that no counter speech can defeat your own.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "harmony",
+        "gratitude",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 646,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பிறர் விரும்பும் படியாகத் தாம் சொல்லின் பிறர் சொல்லும் போது அச் சொல்லின் பயனை ஆராய்ந்து கொள்ளுதல் மாசற்ற சிறப்புடையவரின் கொள்கையாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: It is the opinion of those who are free from defects in diplomacy that the minister should speak so as to make his hearers desire (to hear more) and grasp the meaning of what he hears himself.",
+        "story_title_ta": "சொல்வன்மை — முகில் கற்ற பாடம்",
+        "story_title_en": "Power of Speech — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சொல்வன்மை' என்ற அதிகாரத்திலிருந்து குறள் 646 பற்றிக் கதை சொன்னார். 'பிறரிடம் பேசும்போது அவர் திரும்பவும் நம் பேச்சைக் கேட்க விரும்புமாறு பேச்சு; மற்றவர் பேச்சைக் கேட்கும் போது அவரது சொற்குற்றம் பரவாமல் பொருளை மட்டுமே பார்க்க; இதுவே மனக்குற்றம் அற்றவர்களின் சிறந்த கொள்கை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 65, 'Power of Speech', centered on Kural 646: It is the opinion of those who are free from defects in diplomacy that the minister should speak so as to make his hearers desire (to hear more) and grasp the meaning of what he hears himself. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மற்றவர்கள் விரும்பிக் கேட்டு உணரும்படியாகக் கருத்துக்களைச் சொல்வதும், மற்றவர்கள் கூறும் சொற்களின் பயனை ஆராய்ந்து ஏற்றுக் கொள்வதும் அறிவுடையார் செயலாகும்.",
+        "moral_en": "Moral: Charming each hearer's ear, of others' words to seize the sense, Is method wise of men of spotless excellence.",
+        "game_blank_word_ta": "மாட்சியின்",
+        "game_options_ta": [
+          "நாநலம்",
+          "என்னும்",
+          "மாட்சியின்",
+          "நலனுடைமை"
+        ],
+        "game_options_en": [
+          "The goodness called goodness of speech Is goodness which nothing can reach",
+          "Since gain or ruin speeches bring Guard against the slips of tongue",
+          "Spotless men speak what is sweet And grasp in others what is meet",
+          "A speech is speech that holds ears And attracts ev'n those that are averse"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சொல்வன்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 646, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறரிடம் பேசும்போது அவர் திரும்பவும் நம் பேச்சைக் கேட்க விரும்புமாறு பேச்சு; மற்றவர் பேச்சைக் கேட்கும் போது அவரது சொற்குற்றம் பரவாமல் பொருளை மட்டுமே பார்க்க; இதுவே மனக்குற்றம் அற்றவர்களின் சிறந்த கொள்கை. கலைஞர் உரை கூறுவது: மற்றவர்கள் விரும்பிக் கேட்டு உணரும்படியாகக் கருத்துக்களைச் சொல்வதும், மற்றவர்கள் கூறும் சொற்களின் பயனை ஆராய்ந்து ஏற்றுக் கொள்வதும் அறிவுடையார் செயலாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Power of Speech (Ministers & Elements of State), Kural 646 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is the opinion of those who are free from defects in diplomacy that the minister should speak so as to make his hearers desire (to hear more) and grasp the meaning of what he hears himself. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சொல்வன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Power of Speech' thoughtfully.",
+        "quiz_question_ta": "'சொல்வன்மை' அதிகாரத்தில் வரும் திருக்குறள் 646 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 646 from Chapter 'Power of Speech'?",
+        "quiz_options_ta": [
+          "தனக்கு அழிவே தருவதாக இருந்தாலும் அதற்காக அஞ்சி விட்டுவிடாமல், தன் அரசனுக்கு நன்மை உண்டாகுமாறு செய்கின்றவனே தூதன்.",
+          "(மற்ற நாட்டு மக்கள் குடியேறுவதால்) சுமை ஒரு சேரத் தன் மேல் வரும் போது தாங்கி, அரசனுக்கு இறைபொருள் முழுதும் தர வல்லது நாடாகும்.",
+          "பிறர் விரும்பும் படியாகத் தாம் சொல்லின் பிறர் சொல்லும் போது அச் சொல்லின் பயனை ஆராய்ந்து கொள்ளுதல் மாசற்ற சிறப்புடையவரின் கொள்கையாகும்.",
+          "வீரன் தன் கழிந்த நாட்களைக் கணக்கிட்டு, விழுப்புண் படாத நாட்களை எல்லாம் பயன் படாமல் தவறிய நாட்களுள் சேர்ப்பான்."
+        ],
+        "quiz_options_en": [
+          "Braving death the bold envoy Assures his king's safety and joy",
+          "It's land that bears pressing burdens And pays its tax which king demands",
+          "Spotless men speak what is sweet And grasp in others what is meet",
+          "The brave shall deem the days as vain Which did not battle-wounds sustain"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (சொல்வன்மை) பகுதியில் குறள் 646 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறர் விரும்பும் படியாகத் தாம் சொல்லின் பிறர் சொல்லும் போது அச் சொல்லின் பயனை ஆராய்ந்து கொள்ளுதல் மாசற்ற சிறப்புடையவரின் கொள்கையாகும். பரிமேலழகர் உரை நுட்பம்: வேட்பத் தாம் சொல்லிப் பிறர் சொற்பயன் கோடல் - பிறர்க்குத் தாம் சொல்லுங்கால் அவர் பின்னும் கேட்டலை விரும்புமாறு சொல்லி, அவர் தமக்குச் சொல்லுங்கால் அச்சொல்லின் பயனைக் கொண்டொழிதல்; மாட்சியின் மாசு அற்றார் கோள் - அமைச்சியலுள் குற்றம் அற்றாரது துணிபு. (பிறர...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 65: 'Power of Speech'), Kural 646 distills a foundational ethical insight: \"Charming each hearer's ear, of others' words to seize the sense, Is method wise of men of spotless excellence\" Philosophically, It is the opinion of those who are free from defects in diplomacy that the minister should speak so as to make his hearers desire (to hear more) and grasp the meaning of what he hears himself.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "gratitude",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 647,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தான் கருதியவற்றை நன்கு சொல்ல வல்லவனாய் சொல்லும் போது சோர்வு இல்லாதவனாய், அஞ்சாதவனாய் உள்ளவனை மாறுபாட்டால் வெல்வது யார்க்கும் முடியாது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: It is impossible for any one to conquer him by intrique who possesses power of speech, and is neither faulty nor timid.",
+        "story_title_ta": "சொல்வன்மை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Power of Speech — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சொல்வன்மை' என்ற அதிகாரத்திலிருந்து குறள் 647 பற்றிக் கதை சொன்னார். 'தான் எண்ணியதைப் பிறர் ஏற்கச் சொல்லும் ஆற்றல் உள்ளவன், சொல்லும் செய்தி கடினமானது என்றாலும் சோர்வு இல்லாதவன், கேட்பவர் பகையாளர் என்றாலும் அஞ்சாதவன் இவன்மீது பகைகொண்டு வெல்வது எவர்க்கும் கடினமே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 65, 'Power of Speech', centered on Kural 647: It is impossible for any one to conquer him by intrique who possesses power of speech, and is neither faulty nor timid. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சொல்லாற்றல் படைத்தவனாகவும், சோர்வு அறியாதவனாகவும், அஞ்சா நெஞ்சங் கொண்டவனாகவும் இருப்பவனை எதிர்த்து எவராலும் வெல்ல முடியாது.",
+        "moral_en": "Moral: Mighty in word, of unforgetful mind, of fearless speech,'Tis hard for hostile power such man to overreach.",
+        "game_blank_word_ta": "அவனை",
+        "game_options_ta": [
+          "நாநலம்",
+          "என்னும்",
+          "நலனுடைமை",
+          "அவனை"
+        ],
+        "game_options_en": [
+          "The goodness called goodness of speech Is goodness which nothing can reach",
+          "Since gain or ruin speeches bring Guard against the slips of tongue",
+          "A speech is speech that holds ears And attracts ev'n those that are averse",
+          "No foe defies the speaker clear Flawless, puissant, and free from fear"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சொல்வன்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 647, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தான் எண்ணியதைப் பிறர் ஏற்கச் சொல்லும் ஆற்றல் உள்ளவன், சொல்லும் செய்தி கடினமானது என்றாலும் சோர்வு இல்லாதவன், கேட்பவர் பகையாளர் என்றாலும் அஞ்சாதவன் இவன்மீது பகைகொண்டு வெல்வது எவர்க்கும் கடினமே. கலைஞர் உரை கூறுவது: சொல்லாற்றல் படைத்தவனாகவும், சோர்வு அறியாதவனாகவும், அஞ்சா நெஞ்சங் கொண்டவனாகவும் இருப்பவனை எதிர்த்து எவராலும் வெல்ல முடியாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Power of Speech (Ministers & Elements of State), Kural 647 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is impossible for any one to conquer him by intrique who possesses power of speech, and is neither faulty nor timid. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சொல்வன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Power of Speech' thoughtfully.",
+        "quiz_question_ta": "'சொல்வன்மை' அதிகாரத்தில் வரும் திருக்குறள் 647 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 647 from Chapter 'Power of Speech'?",
+        "quiz_options_ta": [
+          "அரசரைச் சார்ந்து வாழ்கின்றவர், அவரை மிக நீங்காமலும், மிக அணுகாமலும் நெருப்பில் குளிர் காய்கின்றவர் போல இருக்க வேண்டும்.",
+          "மிக்க பசியும், ஓயாத நோயும் (வெளியே வந்து தாக்கி) அழிவு செய்யும் பகையும் தன்னிடம் சேராமல் நல்ல வகையில் நடைபெறுவதே நாடாகும்.",
+          "பரந்து நிற்க்கும் புகழை விரும்பி, உயிர்வாழ்வையும் விரும்பாத வீரர், வீரக் கழலை காலில் கட்டிக்கொள்ளுதல் அழகு செய்யும் தன்மையுடையதாகும்.",
+          "தான் கருதியவற்றை நன்கு சொல்ல வல்லவனாய் சொல்லும் போது சோர்வு இல்லாதவனாய், அஞ்சாதவனாய் உள்ளவனை மாறுபாட்டால் வெல்வது யார்க்கும் முடியாது."
+        ],
+        "quiz_options_en": [
+          "Move with hostile kings as with fire Not coming close nor going far",
+          "It is country which is free from Fierce famine, plague and foemen's harm",
+          "Their anklets aloud jingle their name Who sacrifice their life for fame",
+          "No foe defies the speaker clear Flawless, puissant, and free from fear"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (சொல்வன்மை) பகுதியில் குறள் 647 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தான் கருதியவற்றை நன்கு சொல்ல வல்லவனாய் சொல்லும் போது சோர்வு இல்லாதவனாய், அஞ்சாதவனாய் உள்ளவனை மாறுபாட்டால் வெல்வது யார்க்கும் முடியாது. பரிமேலழகர் உரை நுட்பம்: சொலல் வல்லன் - தான் எண்ணிய காரியங்களைப் பிறர்க்கு ஏற்பச் சொல்லுதல் வல்லனாய்; சோர்வு இலன் - அவை மிகப் பலவாயவழி ஒன்றினும் சோர்விலனாய்; அஞ்சான் - அவைக்கு அஞ்சானாயினான் யாவன்; அவனை இகல் வெல்லல் யார்க்கும் அரிது - அவனை மாறுபாட்டின்கண் வெல்லுதல் யாவர்க்கும் அரிது...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 65: 'Power of Speech'), Kural 647 distills a foundational ethical insight: \"Mighty in word, of unforgetful mind, of fearless speech,'Tis hard for hostile power such man to overreach\" Philosophically, It is impossible for any one to conquer him by intrique who possesses power of speech, and is neither faulty nor timid.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "courage",
+        "justice",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 648,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கருத்துக்களை ஒழுங்காகக் கோர்த்து இனியாக சொல்ல வல்லவரைப் பெற்றால், உலகம் விரைந்து அவருடைய ஏவலைக் கேட்டு நடக்கும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If there be those who can speak on various subjects in their proper order and in a pleasing manner, the world would readily accept them.",
+        "story_title_ta": "சொல்வன்மை — கவின் கற்ற பாடம்",
+        "story_title_en": "Power of Speech — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சொல்வன்மை' என்ற அதிகாரத்திலிருந்து குறள் 648 பற்றிக் கதை சொன்னார். 'சொல்லும் செய்திகளை வரிசைபடக் கோத்து இனிதாகச் சொல்லும் ஆற்றலை உடையவர் என்றால், அவர் சொல்வனவற்றை உலகம் விரைந்து ஏற்றுக் கொள்ளும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 65, 'Power of Speech', centered on Kural 648: If there be those who can speak on various subjects in their proper order and in a pleasing manner, the world would readily accept them. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வகைப்படுத்தியும், சுவையாகவும் கருத்துக்களைச் சொல்லும் வல்லமையுடையோர் சுட்டிக்காட்டும் பணியை, உலகத்தார் உடனடியாக நிறைவேற்ற முனைவார்கள்.",
+        "moral_en": "Moral: Swiftly the listening world will gather round, When men of mighty speech the weighty theme propound.",
+        "game_blank_word_ta": "சொல்லுதல்",
+        "game_options_ta": [
+          "சொல்லுதல்",
+          "நாநலம்",
+          "என்னும்",
+          "நலனுடைமை"
+        ],
+        "game_options_en": [
+          "The world will quickly carry out The words of counsellors astute",
+          "The goodness called goodness of speech Is goodness which nothing can reach",
+          "Since gain or ruin speeches bring Guard against the slips of tongue",
+          "A speech is speech that holds ears And attracts ev'n those that are averse"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சொல்வன்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 648, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சொல்லும் செய்திகளை வரிசைபடக் கோத்து இனிதாகச் சொல்லும் ஆற்றலை உடையவர் என்றால், அவர் சொல்வனவற்றை உலகம் விரைந்து ஏற்றுக் கொள்ளும். கலைஞர் உரை கூறுவது: வகைப்படுத்தியும், சுவையாகவும் கருத்துக்களைச் சொல்லும் வல்லமையுடையோர் சுட்டிக்காட்டும் பணியை, உலகத்தார் உடனடியாக நிறைவேற்ற முனைவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Power of Speech (Ministers & Elements of State), Kural 648 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If there be those who can speak on various subjects in their proper order and in a pleasing manner, the world would readily accept them. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சொல்வன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Power of Speech' thoughtfully.",
+        "quiz_question_ta": "'சொல்வன்மை' அதிகாரத்தில் வரும் திருக்குறள் 648 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 648 from Chapter 'Power of Speech'?",
+        "quiz_options_ta": [
+          "கருத்துக்களை ஒழுங்காகக் கோர்த்து இனியாக சொல்ல வல்லவரைப் பெற்றால், உலகம் விரைந்து அவருடைய ஏவலைக் கேட்டு நடக்கும்.",
+          "அரசர் விரும்புகின்றவர்களைத் தாம் விரும்பாமலிருத்தல் (அரசரைச் சார்ந்திருப்பவர்க்கு) அரசரால் நிலையான ஆக்கத்தைப் பெற்றுத் தரும்.",
+          "பல வகை மாறுபடும் கூட்டங்களும், உடனிருந்தே அழிவு செய்யும் பகையும், அரசனை வருத்துகின்ற கொலைத் தொழில் பொருந்திய குறுநில மன்னரும் இல்லாதது நாடு.",
+          "போர்வந்தால் உயிரின் பொருட்டு அஞ்சாமல் போர் செய்யத் துணியும் வீரர், அரசன் சினந்தாலும் தம்முடைய சிறப்புக் குன்றாதவர் ஆவர்."
+        ],
+        "quiz_options_en": [
+          "The world will quickly carry out The words of counsellors astute",
+          "Crave not for things which kings desire This brings thee their fruitful favour",
+          "Sects and ruinous foes are nil No traitors in a land tranquil",
+          "The king may chide, they pursue strife; They fear loss of glory; not life"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (சொல்வன்மை) பகுதியில் குறள் 648 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கருத்துக்களை ஒழுங்காகக் கோர்த்து இனியாக சொல்ல வல்லவரைப் பெற்றால், உலகம் விரைந்து அவருடைய ஏவலைக் கேட்டு நடக்கும்.",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 65: 'Power of Speech'), Kural 648 distills a foundational ethical insight: \"Swiftly the listening world will gather round, When men of mighty speech the weighty theme propound\" Philosophically, If there be those who can speak on various subjects in their proper order and in a pleasing manner, the world would readily accept them.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "harmony",
+        "time",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 649,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: குற்றமற்றவையாகியச் சில சொற்களைச் சொல்லத் தெரியாதவர், உண்மையாகவே பலச் சொற்களைச் சொல்லிக்கொண்டிருக்க விரும்புவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: They will desire to utter many words, who do not know how to speak a few faultless ones.",
+        "story_title_ta": "சொல்வன்மை — நிலா கற்ற பாடம்",
+        "story_title_en": "Power of Speech — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சொல்வன்மை' என்ற அதிகாரத்திலிருந்து குறள் 649 பற்றிக் கதை சொன்னார். 'குற்றமற்ற சில சொற்களால் சொல்லும் ஆற்றல் இல்லாதவர், பலபல சொற்களைப் பேச விரும்புவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 65, 'Power of Speech', centered on Kural 649: They will desire to utter many words, who do not know how to speak a few faultless ones. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: குறையில்லாத சில சொற்களைக் கொண்டு தெளிவான விளக்கம் தந்திட இயலாதவர்கள்தான் பல சொற்களைத் திரும்பத் திரும்பக் கூறிக் கொண்டிருப்பார்கள்.",
+        "moral_en": "Moral: Who have not skill ten faultless words to utter plain, Their tongues will itch with thousand words man's ears to pain.",
+        "game_blank_word_ta": "தேற்றா",
+        "game_options_ta": [
+          "நாநலம்",
+          "தேற்றா",
+          "என்னும்",
+          "நலனுடைமை"
+        ],
+        "game_options_en": [
+          "The goodness called goodness of speech Is goodness which nothing can reach",
+          "They overspeak who do not seek A few and flawless words to speak",
+          "Since gain or ruin speeches bring Guard against the slips of tongue",
+          "A speech is speech that holds ears And attracts ev'n those that are averse"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சொல்வன்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 649, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: குற்றமற்ற சில சொற்களால் சொல்லும் ஆற்றல் இல்லாதவர், பலபல சொற்களைப் பேச விரும்புவர். கலைஞர் உரை கூறுவது: குறையில்லாத சில சொற்களைக் கொண்டு தெளிவான விளக்கம் தந்திட இயலாதவர்கள்தான் பல சொற்களைத் திரும்பத் திரும்பக் கூறிக் கொண்டிருப்பார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Power of Speech (Ministers & Elements of State), Kural 649 speaks directly to teens navigating studies, friendships, leadership, and digital choices: They will desire to utter many words, who do not know how to speak a few faultless ones. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சொல்வன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Power of Speech' thoughtfully.",
+        "quiz_question_ta": "'சொல்வன்மை' அதிகாரத்தில் வரும் திருக்குறள் 649 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 649 from Chapter 'Power of Speech'?",
+        "quiz_options_ta": [
+          ".( அரசரைச் சார்ந்தவர்) தம்மைக் காத்துக் கொள்ள விரும்பினால் அரியத் தவறுகள் நேராமல் காத்துக்கொள்ள வேண்டும், ஐயுற்றபின் அரசரைத் தெளிவித்தல் எவர்க்கும் முடியாது.",
+          "குற்றமற்றவையாகியச் சில சொற்களைச் சொல்லத் தெரியாதவர், உண்மையாகவே பலச் சொற்களைச் சொல்லிக்கொண்டிருக்க விரும்புவர்.",
+          "பகைவரால் கெடுக்கப் படாததாய், கெட்டுவிட்ட காலத்திலும் வளம் குன்றாததாய் உள்ள நாடே நாடுகள் எல்லாவற்றிலும் தலைமையானது என்று கூறுவர்.",
+          "தாம் உரைத்த சூள் தவராத படி போர் செய்து சாக வல்லவரை, அவர் செய்தப் பிழைக்காக தண்டிக்க வல்லவர் யார்."
+        ],
+        "quiz_options_en": [
+          "Guard thyself from petty excess Suspected least, there's no redress",
+          "They overspeak who do not seek A few and flawless words to speak",
+          "The land of lands no ruin knows Even in grief its wealth yet grows",
+          "Who will blame the heroes that lose Their lives in war to keep their vows?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (சொல்வன்மை) பகுதியில் குறள் 649 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: குற்றமற்றவையாகியச் சில சொற்களைச் சொல்லத் தெரியாதவர், உண்மையாகவே பலச் சொற்களைச் சொல்லிக்கொண்டிருக்க விரும்புவர். பரிமேலழகர் உரை நுட்பம்: மாசு அற்ற சில சொல்லல் தேற்றாதவர் - குற்றமற்றனவாய்ச் சிலவாய வார்த்தைகளை அவ்வாற்றால் சொல்லுதலை அறியாதார்; பல சொல்லக் காமுறுவர் - பலவாய வார்த்தைகளைத் தொடுத்துச் சொல்ல விரும்புவர். (குற்றம் - மேல் சொல்லிய குணங்கட்கு மறுதலையாயின. இடைவிடாது பல சொல்லுதலையும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 65: 'Power of Speech'), Kural 649 distills a foundational ethical insight: \"Who have not skill ten faultless words to utter plain, Their tongues will itch with thousand words man's ears to pain\" Philosophically, They will desire to utter many words, who do not know how to speak a few faultless ones.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "justice",
+        "self-mastery",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 650,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தாம் கற்ற நூற்ப் பொருளைப் பிறர் உணருமாறு விரிந்துரைக்க முடியாதவர், கொத்தாக மலர்ந்திருந்த போதிலும் மணம் கமழாத மலரைப் போன்றவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Those who are unable to set forth their acquirements (before others) are like flowers blossoming in a cluster and yet without fragrance.",
+        "story_title_ta": "சொல்வன்மை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Power of Speech — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சொல்வன்மை' என்ற அதிகாரத்திலிருந்து குறள் 650 பற்றிக் கதை சொன்னார். 'தான் கற்றதைப் பிறர் மனங்கொள்ள விளக்கிச்சொல்லும் ஆற்றல் அற்றவர், கொத்தாக மலர்ந்தும் மணக்காத மலர் போன்றவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 65, 'Power of Speech', centered on Kural 650: Those who are unable to set forth their acquirements (before others) are like flowers blossoming in a cluster and yet without fragrance. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கற்றதைப் பிறர் உணர்ந்து கொள்ளும் வகையில் விளக்கிச் சொல்ல முடியாதவர், கொத்தாக மலர்ந்திருந்தாலும் மணம் கமழாத மலரைப் போன்றவர்.",
+        "moral_en": "Moral: Like scentless flower in blooming garland boundAre men who can't their lore acquired to other's ears expound.",
+        "game_blank_word_ta": "இணருழ்த்தும்",
+        "game_options_ta": [
+          "நாநலம்",
+          "என்னும்",
+          "இணருழ்த்தும்",
+          "நலனுடைமை"
+        ],
+        "game_options_en": [
+          "The goodness called goodness of speech Is goodness which nothing can reach",
+          "Since gain or ruin speeches bring Guard against the slips of tongue",
+          "Who can't express what they have learnt Are bunch of flowers not fragrant",
+          "A speech is speech that holds ears And attracts ev'n those that are averse"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சொல்வன்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 650, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தான் கற்றதைப் பிறர் மனங்கொள்ள விளக்கிச்சொல்லும் ஆற்றல் அற்றவர், கொத்தாக மலர்ந்தும் மணக்காத மலர் போன்றவர். கலைஞர் உரை கூறுவது: கற்றதைப் பிறர் உணர்ந்து கொள்ளும் வகையில் விளக்கிச் சொல்ல முடியாதவர், கொத்தாக மலர்ந்திருந்தாலும் மணம் கமழாத மலரைப் போன்றவர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Power of Speech (Ministers & Elements of State), Kural 650 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who are unable to set forth their acquirements (before others) are like flowers blossoming in a cluster and yet without fragrance. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சொல்வன்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Power of Speech' thoughtfully.",
+        "quiz_question_ta": "'சொல்வன்மை' அதிகாரத்தில் வரும் திருக்குறள் 650 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 650 from Chapter 'Power of Speech'?",
+        "quiz_options_ta": [
+          "வல்லமை அமைந்த பெரியாரிடத்தில் (மற்றொருவன்) செவியை நெருங்கிச் சொல்லுதல் உடன் சேர்ந்து நகைத்தலும் செய்யாமல் ஒழுகவேண்டும்.",
+          "ஊற்றும் மழையும் மாகிய இருவகை நீர்வளமும், தக்கவாறு அமைந்த மலையும் அந்த மலையிலிருந்து ஆறாக வரும் நீர் வளமும் வலிய அரணும் நாட்டிற்கு உறுப்புகளாகும்.",
+          "தாம் கற்ற நூற்ப் பொருளைப் பிறர் உணருமாறு விரிந்துரைக்க முடியாதவர், கொத்தாக மலர்ந்திருந்த போதிலும் மணம் கமழாத மலரைப் போன்றவர்.",
+          "தம்மைக் காத்த தலைவருடைய கண்கள் நீர் பெருக்குமாறு சாகப் பெற்றால், சாவு இரந்தாவது பெற்றுக் கொள்ளத் தக்க பெருமை உடையதாகும்."
+        ],
+        "quiz_options_en": [
+          "Whisper not; nor smile exchange Amidst august men's assemblage",
+          "Waters up and down, hills and streams With strong forts as limbs country beams",
+          "Who can't express what they have learnt Are bunch of flowers not fragrant",
+          "Such a death shall be prayed for Which draws the the tears of the ruler"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (சொல்வன்மை) பகுதியில் குறள் 650 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தாம் கற்ற நூற்ப் பொருளைப் பிறர் உணருமாறு விரிந்துரைக்க முடியாதவர், கொத்தாக மலர்ந்திருந்த போதிலும் மணம் கமழாத மலரைப் போன்றவர். பரிமேலழகர் உரை நுட்பம்: கற்றது உணர விரித்து உரையாதார் - கற்றுவைத்த நூலைப் பிறரறியும் வண்ணம் விரித்துரைக்கமாட்டாதவர்; இணர் ஊழ்த்தும் நாறா மலர் அனையர் - கொத்தின்கண்ணே மலர்ந்து வைத்தும் நாறாத பூவையொப்பர். (செவ்வி பெற மலர்ந்து வைத்தும் நாற்றம் இல்லாத பூச் சூடப்படாதவாறு போல, நூலைக...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 65: 'Power of Speech'), Kural 650 distills a foundational ethical insight: \"Like scentless flower in blooming garland boundAre men who can't their lore acquired to other's ears expound\" Philosophically, Those who are unable to set forth their acquirements (before others) are like flowers blossoming in a cluster and yet without fragrance.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "education"
+      ]
+    }
+  ]
+}

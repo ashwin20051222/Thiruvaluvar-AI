@@ -1,0 +1,586 @@
+{
+  "adhikaram_id": 27,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.687846143+00:00",
+  "kurals": [
+    {
+      "kural_number": 261,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தனக்கு உற்ற துன்பத்தை பொறுத்தலும் மற்ற உயிர்க்குத் துன்பம் செய்யாதிருத்தலும் ஆகிய அவ்வளவே தவத்திற்கு வடிவமாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The nature of religious discipline consists, in the endurance (by the ascetic) of the sufferings which it brings on himself, and in abstaining from giving pain to others.",
+        "story_title_ta": "தவம் — இனியா கற்ற பாடம்",
+        "story_title_en": "Penance — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தவம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 261 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறரால் தனக்குச் செய்யப்படும் துன்பங்களைப் பொறுத்துக் கொள்வது, துன்பம் செய்தவர்க்கும் துன்பம் செய்யாதிருப்பது என்னும் இவ்வளவுதான், தவம் என்பதன் இலக்கணம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Penance'. Grandpa shared Kural 261 and explained in simple words: The nature of religious discipline consists, in the endurance (by the ascetic) of the sufferings which it brings on himself, and in abstaining from giving pain to others. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: எதையும் தாங்கும் இதயத்தைப் பெற்றிருப்பதும், எந்த உயிருக்கும் தீங்கு செய்யாமல் இருப்பதும்தான் ``தவம்'' என்று கூறப்படும்.",
+        "moral_en": "Moral: To bear due penitential pains, while no offenceHe causes others, is the type of 'penitence'.",
+        "game_blank_word_ta": "செய்யாமை",
+        "game_options_ta": [
+          "தவமும்",
+          "செய்யாமை",
+          "தவமுடையார்க்கு",
+          "ஆகும்"
+        ],
+        "game_options_en": [
+          "Penance is fit for penitents Not for him who in vain pretends",
+          "Pains endure; pain not beings This is the type of true penance",
+          "Is it to true penitent's aid, That others austere path avoid?",
+          "In penance lies the power to save The friends and foil the foe and knave"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தவம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 261, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறரால் தனக்குச் செய்யப்படும் துன்பங்களைப் பொறுத்துக் கொள்வது, துன்பம் செய்தவர்க்கும் துன்பம் செய்யாதிருப்பது என்னும் இவ்வளவுதான், தவம் என்பதன் இலக்கணம். கலைஞர் உரை கூறுவது: எதையும் தாங்கும் இதயத்தைப் பெற்றிருப்பதும், எந்த உயிருக்கும் தீங்கு செய்யாமல் இருப்பதும்தான் ``தவம்'' என்று கூறப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Penance (Ascetic Virtue), Kural 261 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The nature of religious discipline consists, in the endurance (by the ascetic) of the sufferings which it brings on himself, and in abstaining from giving pain to others. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தவம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Penance' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தவம்' அதிகாரத்தில் வரும் திருக்குறள் 261 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 261 from Chapter 'Penance'?",
+        "quiz_options_ta": [
+          "ஒருவன் தன்னைத்தான் காத்துக் கொள்வதானால் சினம் வராமல் காத்துக் கொள்ள வேண்டும், காக்கா விட்டால் சினம் தன்னையே அழித்து விடும்.",
+          "தனக்கு உற்ற துன்பத்தை பொறுத்தலும் மற்ற உயிர்க்குத் துன்பம் செய்யாதிருத்தலும் ஆகிய அவ்வளவே தவத்திற்கு வடிவமாகும்",
+          "முற்றத் துறந்தவறே உயர்ந்த நிலையினர் ஆவர், அவ்வாறு துறக்காத மற்றவர் அறியாமையாகிய வலையில் அகப்பட்டவர் ஆவர்.",
+          "கல்வி கற்க நல்ல நூல்களைக் குற்றமறக் கற்க வேண்டும், அவ்வாறு கற்ற பிறகு, கற்ற கல்விக்கு தக்கவாறு நெறியில் நிற்க வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Thyself to save, from wrath away! If not thyself the wrath will slay",
+          "Pains endure; pain not beings This is the type of true penance",
+          "Who renounce all are free from care Others suffer delusive snare",
+          "Lore worth learning, learn flawlessly Live by that learning thoroughly"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (தவம்) பகுதியில் குறள் 261 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தனக்கு உற்ற துன்பத்தை பொறுத்தலும் மற்ற உயிர்க்குத் துன்பம் செய்யாதிருத்தலும் ஆகிய அவ்வளவே தவத்திற்கு வடிவமாகும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, மனம் பொறி வழி போகாது நிற்றற் பொருட்டு விரதங்களான் உண்டி சுருக்கலும், கோடைக்கண் வெயில்நிலை நிற்றலும், மாரியினும் பனியினும் நீர்நிலை நிற்றலும் முதலிய செயல்களை மேற்கொண்டு, அவற்றால் தம் உயிர்க்கு வரும் துன்பங்களைப் பொறுத்துப் பிற உயிர்களை...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 27: 'Penance'), Kural 261 distills a foundational ethical insight: \"To bear due penitential pains, while no offenceHe causes others, is the type of 'penitence'\" Philosophically, The nature of religious discipline consists, in the endurance (by the ascetic) of the sufferings which it brings on himself, and in abstaining from giving pain to others.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "love",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 262,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தவக்கோலமும் தவஒழுக்கமும் உடையவர்க்கே பொருந்துவதாகும்; அக் கோலத்தை தவஒழுக்கம் இல்லாதவர் மேற்கொள்வது வீண்முயற்சியாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Austerities can only be borne, and their benefits enjoyed, by those who have practised them (in a former birth); it will be useless for those who have not done so, to attempt to practise them (now).",
+        "story_title_ta": "தவம் — முகில் கற்ற பாடம்",
+        "story_title_en": "Penance — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தவம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 262 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'முற்பிறப்பில் தவ நோக்கம் பெற்றிருந்தவர்க்கே இப்பிறப்பில் தவம் செய்ய நேரும். அத்தகைய நோக்கம் இல்லாதவர், இப்போது தவத்தை மேற்கொள்வதும் வீண்தான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Penance'. Grandpa shared Kural 262 and explained in simple words: Austerities can only be borne, and their benefits enjoyed, by those who have practised them (in a former birth); it will be useless for those who have not done so, to attempt to practise them (now). The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உறுதிப்பாடும், மன அடக்கமும் உடையவருக்கே தவத்தின் பெருமை வாய்க்கும் எனவே கட்டுப்பாடான ஒழுக்கம் இல்லாதவர்கள், தவத்தை மேற்கொள்வது வீண் செயலேயாகும்.",
+        "moral_en": "Moral: To 'penitents' sincere avails their 'penitence'; Where that is not, 'tis but a vain pretence.",
+        "game_blank_word_ta": "அஃதிலார்",
+        "game_options_ta": [
+          "உற்றநோய்",
+          "நோன்றல்",
+          "அஃதிலார்",
+          "உயிர்க்குறுகண்"
+        ],
+        "game_options_en": [
+          "Pains endure; pain not beings This is the type of true penance",
+          "Is it to true penitent's aid, That others austere path avoid?",
+          "Penance is fit for penitents Not for him who in vain pretends",
+          "In penance lies the power to save The friends and foil the foe and knave"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தவம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 262, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முற்பிறப்பில் தவ நோக்கம் பெற்றிருந்தவர்க்கே இப்பிறப்பில் தவம் செய்ய நேரும். அத்தகைய நோக்கம் இல்லாதவர், இப்போது தவத்தை மேற்கொள்வதும் வீண்தான். கலைஞர் உரை கூறுவது: உறுதிப்பாடும், மன அடக்கமும் உடையவருக்கே தவத்தின் பெருமை வாய்க்கும் எனவே கட்டுப்பாடான ஒழுக்கம் இல்லாதவர்கள், தவத்தை மேற்கொள்வது வீண் செயலேயாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Penance (Ascetic Virtue), Kural 262 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Austerities can only be borne, and their benefits enjoyed, by those who have practised them (in a former birth); it will be useless for those who have not done so, to attempt to practise them (now). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தவம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Penance' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தவம்' அதிகாரத்தில் வரும் திருக்குறள் 262 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 262 from Chapter 'Penance'?",
+        "quiz_options_ta": [
+          "சினம் என்னும் சேர்ந்தவரை அழிக்கும் நெருப்பு ஒருவனுக்கு இனம் இன்பத் தெப்பத்தையும் சுட்டழிக்கும்.",
+          "இருவகைப் பற்றும் அற்றபொழுதே அந்நிலை பிறவித் துன்பத்தை ஒழிக்கும், இல்லையானால் (பிறவித்துன்பம் மாறி மாறி வந்து) நிலையாமைக் காணப்படும்.",
+          "தவக்கோலமும் தவஒழுக்கமும் உடையவர்க்கே பொருந்துவதாகும்; அக் கோலத்தை தவஒழுக்கம் இல்லாதவர் மேற்கொள்வது வீண்முயற்சியாகும்.",
+          "எண் என்று சொல்லப்படுவன எழுத்து என்று சொல்லப்படுவன ஆகிய இரு வகைக் கலைகளையும் வாழும் மக்களுக்குக் கண்கள் என்று கூறுவர்."
+        ],
+        "quiz_options_en": [
+          "Friend-killer is the fatal rage It burns the helpful kinship-barge",
+          "Bondage cut off, rebirth is off The world then seems instable stuff",
+          "Penance is fit for penitents Not for him who in vain pretends",
+          "Letter, number, art and science Of living kind both are the eyes"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (தவம்) பகுதியில் குறள் 262 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தவக்கோலமும் தவஒழுக்கமும் உடையவர்க்கே பொருந்துவதாகும்; அக் கோலத்தை தவஒழுக்கம் இல்லாதவர் மேற்கொள்வது வீண்முயற்சியாகும். பரிமேலழகர் உரை நுட்பம்: தவமும் தவம் உடையார்க்கு ஆகும் - பயனே அன்றித் தவந்தானும் உண்டாவது முன்தவம் உடையார்க்கே, அதனை அஃது இலார் மேற்கொள்வது அவம் - ஆகலான், அத்தவத்தை அம்முன்தவம் இல்லாதார் முயல்வது பயன் இல் முயற்சியாம். (பரிசயத்தால் அறிவும் ஆற்றலும் உடையராய் முடிவு போக்கலின், 'தவம...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 27: 'Penance'), Kural 262 distills a foundational ethical insight: \"To 'penitents' sincere avails their 'penitence'; Where that is not, 'tis but a vain pretence\" Philosophically, Austerities can only be borne, and their benefits enjoyed, by those who have practised them (in a former birth); it will be useless for those who have not done so, to attempt to practise them (now).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "gratitude",
+        "truth",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 263,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: துறந்தவர்க்கு உணவு முதலியனக் கொடுத்து உதவவேண்டும் என விரும்பி மற்றவர்கள் (இல்லறத்தினர்) தவம் செய்தலை மறந்தார்களோ.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: It is to provide food etc, for the ascetics who have abandoned (the desire of earthly possessions) that other persons have forgotten (to practise) austerity ?",
+        "story_title_ta": "தவம் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Penance — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தவம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 263 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'துறவு மேற்கொண்டவர்களுக்கு உதவ எண்ணி, மற்றவர்கள் தவம் செய்வதை மறந்து இருப்பார்கள் போலும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Penance'. Grandpa shared Kural 263 and explained in simple words: It is to provide food etc, for the ascetics who have abandoned (the desire of earthly possessions) that other persons have forgotten (to practise) austerity ? The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: துறவிகளுக்குத் துணை நிற்க விரும்புகிறோம் என்பதற்காகத் தாங்கள் கடைப்பிடிக்க வேண்டிய தவ ஒழுக்கத்தை மற்றவர்கள் மறந்து விடக் கூடாது.",
+        "moral_en": "Moral: Have other men forgotten 'penitence' who striveTo earn for penitents the things by which they live.",
+        "game_blank_word_ta": "மற்றை",
+        "game_options_ta": [
+          "உற்றநோய்",
+          "நோன்றல்",
+          "உயிர்க்குறுகண்",
+          "மற்றை"
+        ],
+        "game_options_en": [
+          "Pains endure; pain not beings This is the type of true penance",
+          "Penance is fit for penitents Not for him who in vain pretends",
+          "In penance lies the power to save The friends and foil the foe and knave",
+          "Is it to true penitent's aid, That others austere path avoid?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தவம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 263, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: துறவு மேற்கொண்டவர்களுக்கு உதவ எண்ணி, மற்றவர்கள் தவம் செய்வதை மறந்து இருப்பார்கள் போலும். கலைஞர் உரை கூறுவது: துறவிகளுக்குத் துணை நிற்க விரும்புகிறோம் என்பதற்காகத் தாங்கள் கடைப்பிடிக்க வேண்டிய தவ ஒழுக்கத்தை மற்றவர்கள் மறந்து விடக் கூடாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Penance (Ascetic Virtue), Kural 263 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is to provide food etc, for the ascetics who have abandoned (the desire of earthly possessions) that other persons have forgotten (to practise) austerity ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தவம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Penance' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தவம்' அதிகாரத்தில் வரும் திருக்குறள் 263 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 263 from Chapter 'Penance'?",
+        "quiz_options_ta": [
+          "(தன் வல்லமை புலப்படுத்தச்) சினத்தை பொருளென்று கொண்டவன் அழிதல், நிலத்தை அறைந்தவனுடைய கை தப்பாதது போல் ஆகும்.",
+          "பற்றில்லாதவனாகிய கடவுளுடைய பற்றை மட்டும் பற்றிக் கொள்ள வேண்டும், உள்ள பற்றுக்களை விட்டொழிப்பதற்கே அப் பற்றைப் பற்ற வேண்டும்.",
+          "கண்ணுடையவர் என்றுக் கூறப்படுபவர் கற்றவரே, கல்லாதவர் முகத்தில் இரண்டுப் புண் உடையவர் ஆவார்.",
+          "துறந்தவர்க்கு உணவு முதலியனக் கொடுத்து உதவவேண்டும் என விரும்பி மற்றவர்கள் (இல்லறத்தினர்) தவம் செய்தலை மறந்தார்களோ"
+        ],
+        "quiz_options_en": [
+          "The wrath-lover to doom is bound Like failless-hand that strikes the ground",
+          "Bind Thyself to the unbound one That binding breaks all bonds anon",
+          "The learned alone have eyes on face The ignorant two sores of disgrace",
+          "Is it to true penitent's aid, That others austere path avoid?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (தவம்) பகுதியில் குறள் 263 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: துறந்தவர்க்கு உணவு முதலியனக் கொடுத்து உதவவேண்டும் என விரும்பி மற்றவர்கள் (இல்லறத்தினர்) தவம் செய்தலை மறந்தார்களோ. பரிமேலழகர் உரை நுட்பம்: மற்றையவர்கள் - இல்லறத்தையே பற்றி நிற்பார், துறந்தார்க்குத் துப்புரவு வேண்டித் தவம் மறந்தார்கொல் - துறந்தார்க்கு உண்டியும் மருந்தும் உறையுளும் உதவலை விரும்பித் தாம் தவம் செய்தலை மறந்தார் போலும். ( துப்புரவு - அனுபவிக்கப்படுவன. 'வேண்டியாங்கு எய்தற்' பயத்தது...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 27: 'Penance'), Kural 263 distills a foundational ethical insight: \"Have other men forgotten 'penitence' who striveTo earn for penitents the things by which they live\" Philosophically, It is to provide food etc, for the ascetics who have abandoned (the desire of earthly possessions) that other persons have forgotten (to practise) austerity ?",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "education",
+        "family",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 264,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தீமை செய்யும் பகைவரை அடக்குதலும் நன்மை செய்யும் நண்பரை உயர்த்துதலும் நினைத்த அளவில் தவத்தின் வலிமையால் உண்டாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If (the ascetic) desire the destruction of his enemies, or the aggrandizement of his friends, it will be effected by (the power of) his austerities.",
+        "story_title_ta": "தவம் — கவின் கற்ற பாடம்",
+        "story_title_en": "Penance — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தவம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 264 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பகைவர்களை மாற்றவும், நண்பர்களைப் பெருக்கவும் எண்ணினால், தவத்தால் அதைச் செய்ய முடியும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Penance'. Grandpa shared Kural 264 and explained in simple words: If (the ascetic) desire the destruction of his enemies, or the aggrandizement of his friends, it will be effected by (the power of) his austerities. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மன உறுதியும் கட்டுப்பாடும் கொண்டு தவமென்னும் நோன்பு வலிமையுடையதாக அமைந்தால்தான், எண்ணிய மாத்திரத்தில் பகைவரை வீழ்த்தவும் நண்பரைக் காக்கவும் முடியும்.",
+        "moral_en": "Moral: Destruction to his foes, to friends increase of joyThe 'penitent' can cause, if this his thoughts employ.",
+        "game_blank_word_ta": "தவத்தான்",
+        "game_options_ta": [
+          "தவத்தான்",
+          "உற்றநோய்",
+          "நோன்றல்",
+          "உயிர்க்குறுகண்"
+        ],
+        "game_options_en": [
+          "In penance lies the power to save The friends and foil the foe and knave",
+          "Pains endure; pain not beings This is the type of true penance",
+          "Penance is fit for penitents Not for him who in vain pretends",
+          "Is it to true penitent's aid, That others austere path avoid?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தவம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 264, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகைவர்களை மாற்றவும், நண்பர்களைப் பெருக்கவும் எண்ணினால், தவத்தால் அதைச் செய்ய முடியும். கலைஞர் உரை கூறுவது: மன உறுதியும் கட்டுப்பாடும் கொண்டு தவமென்னும் நோன்பு வலிமையுடையதாக அமைந்தால்தான், எண்ணிய மாத்திரத்தில் பகைவரை வீழ்த்தவும் நண்பரைக் காக்கவும் முடியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Penance (Ascetic Virtue), Kural 264 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If (the ascetic) desire the destruction of his enemies, or the aggrandizement of his friends, it will be effected by (the power of) his austerities. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தவம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Penance' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தவம்' அதிகாரத்தில் வரும் திருக்குறள் 264 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 264 from Chapter 'Penance'?",
+        "quiz_options_ta": [
+          "தீமை செய்யும் பகைவரை அடக்குதலும் நன்மை செய்யும் நண்பரை உயர்த்துதலும் நினைத்த அளவில் தவத்தின் வலிமையால் உண்டாகும்.",
+          "பலச் சுடர்களை உடைய பெரு நெருப்பில் தோய்வது போன்ற துன்பத்தை ஒருவன் செய்த போதிலும் கூடுமானால் அவன் மேல் சினங் கொள்ளாதிருத்தல் நல்லது.",
+          "மெய்ப்பொருள் அல்லாதவைகளை மெய்ப்பொருள் என்று தவறாக உணர்கின்ற மயக்க உணர்வால் சிறப்பில்லாத துன்பப் பிறவி உண்டாகும்.",
+          "மகிழும் படியாகக் கூடிபழகி (இனி இவரை எப்போது காண்போம் என்று ) வருந்தி நினைக்கும் படியாகப் பிரிதல் புலவரின் தொழிலாகும்."
+        ],
+        "quiz_options_en": [
+          "In penance lies the power to save The friends and foil the foe and knave",
+          "Save thy soul from burning ire Though tortured like the touch of fire",
+          "That error entails ignoble birth Which deems vain things as things of worth",
+          "To meet with joy and part with thought Of learned men this is the art"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (தவம்) பகுதியில் குறள் 264 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தீமை செய்யும் பகைவரை அடக்குதலும் நன்மை செய்யும் நண்பரை உயர்த்துதலும் நினைத்த அளவில் தவத்தின் வலிமையால் உண்டாகும். பரிமேலழகர் உரை நுட்பம்: ஒன்னார்த் தெறலும் - அறத்திற்குப் பகையாய் அழிவு செய்தாரைக் கெடுத்தலும், உவந்தாரை ஆக்கலும் - அதனை உவந்தாரை உயர்த்தலும் ஆகிய இவ்விரண்டையும் எண்ணின் தவத்தான் வரும் - தவம் செய்வார் நினைப்பராயின், அவர் தவ வலியான் அவை அவர்க்கு உளவாம். (முற்றத் துறந்தார்க்கு...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 27: 'Penance'), Kural 264 distills a foundational ethical insight: \"Destruction to his foes, to friends increase of joyThe 'penitent' can cause, if this his thoughts employ\" Philosophically, If (the ascetic) desire the destruction of his enemies, or the aggrandizement of his friends, it will be effected by (the power of) his austerities.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "courage",
+        "friendship",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 265,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: விரும்பிய பயன்களை விரும்பியவாறே அடைய முடியுமாகையால் செய்யத்தக்க தவம் இந்நிலையிலும் (இல்லற வாழ்க்கையிலும்) முயன்று செய்யப்படும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Religious dislipline is practised in this world, because it secures the attainment of whatever one may wish to enjoy (in the world to come).",
+        "story_title_ta": "தவம் — நிலா கற்ற பாடம்",
+        "story_title_en": "Penance — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தவம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 265 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'விரும்பியவற்றை விரும்பியபடியே அடைய முடியுமாதலால் இப்பூமியில் தவம் முயன்று செய்யப்படும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Penance'. Grandpa shared Kural 265 and explained in simple words: Religious dislipline is practised in this world, because it secures the attainment of whatever one may wish to enjoy (in the world to come). The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உறுதிமிக்க நோன்பினால் விரும்பியதை விரும்பியவாறு அடைய முடியுமாதலால், அது விரைந்து முயன்று செய்யப்படுவதாகும்.",
+        "moral_en": "Moral: That what they wish may, as they wish, be won, By men on earth are works of painful 'penance' done.",
+        "game_blank_word_ta": "படும்",
+        "game_options_ta": [
+          "உற்றநோய்",
+          "படும்",
+          "நோன்றல்",
+          "உயிர்க்குறுகண்"
+        ],
+        "game_options_en": [
+          "Pains endure; pain not beings This is the type of true penance",
+          "What they wish as they wish is won Here hence by men penance is done",
+          "Penance is fit for penitents Not for him who in vain pretends",
+          "Is it to true penitent's aid, That others austere path avoid?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தவம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 265, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: விரும்பியவற்றை விரும்பியபடியே அடைய முடியுமாதலால் இப்பூமியில் தவம் முயன்று செய்யப்படும். கலைஞர் உரை கூறுவது: உறுதிமிக்க நோன்பினால் விரும்பியதை விரும்பியவாறு அடைய முடியுமாதலால், அது விரைந்து முயன்று செய்யப்படுவதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Penance (Ascetic Virtue), Kural 265 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Religious dislipline is practised in this world, because it secures the attainment of whatever one may wish to enjoy (in the world to come). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தவம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Penance' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தவம்' அதிகாரத்தில் வரும் திருக்குறள் 265 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 265 from Chapter 'Penance'?",
+        "quiz_options_ta": [
+          "ஒருவன் தன் மனதால் சினத்தை எண்ணாதிருப்பானானால் நினைத்த நன்மைகளை எல்லாம் அவன் ஒருங்கே பெறுவான்.",
+          "விரும்பிய பயன்களை விரும்பியவாறே அடைய முடியுமாகையால் செய்யத்தக்க தவம் இந்நிலையிலும் (இல்லற வாழ்க்கையிலும்) முயன்று செய்யப்படும்.",
+          "மயக்கம் நீங்கிக் குற்றம் அற்ற மெய்யுணர்வை உடையவர்க்கு, அம் மெய்யுணர்வு அறியாமையை நீக்கி இன்ப நிலையைக்கொடுக்கும்.",
+          "செல்வர் முன் வறியவர் நிற்பது போல் (கற்றவர்முன்) ஏங்கித் தாழ்ந்து நின்றும் கல்விக் கற்றவரே உயர்ந்தவர், கல்லாதவர் இழிந்தவர்."
+        ],
+        "quiz_options_en": [
+          "Wishes he gains as he wishes If man refrains from rage vicious!",
+          "What they wish as they wish is won Here hence by men penance is done",
+          "Men of spotless pure insight Enjoy delight devoid of night",
+          "Like poor before rich they yearn: For knowledge: the low never learn"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (தவம்) பகுதியில் குறள் 265 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: விரும்பிய பயன்களை விரும்பியவாறே அடைய முடியுமாகையால் செய்யத்தக்க தவம் இந்நிலையிலும் (இல்லற வாழ்க்கையிலும்) முயன்று செய்யப்படும். பரிமேலழகர் உரை நுட்பம்: வேண்டிய வேண்டியாங்கு எய்தலால் - முயன்றால் மறுமைக்கண் தாம் வேண்டிய பயன்கள் வேண்டியவாறே பெறலாம் ஆதலால்; செய்தவம் ஈண்டு முயலப்படும் - செய்யப்படுவதாய தவம் இம்மைக்கண் அறிவுடையோரான் முயலப்படும். ('ஈண்டு' என்பதனான் 'மறுமைக்கண்' என்பது பெற்றாம். மேற்கதி, வீடு பேறுகள...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 27: 'Penance'), Kural 265 distills a foundational ethical insight: \"That what they wish may, as they wish, be won, By men on earth are works of painful 'penance' done\" Philosophically, Religious dislipline is practised in this world, because it secures the attainment of whatever one may wish to enjoy (in the world to come).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "time",
+        "education",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 266,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தவம் செய்கின்றவரே தமக்குரிய கடமையைச் செய்கின்றவர் ஆவர், அவர் அல்லாத மற்றவர் ஆசை வலையில் அகப்பட்டு வீண் முயற்சி செய்கின்றவரே.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Those discharge their duty who perform austerities; all others accomplish their own destruction, through the entanglement of the desire (of riches and sensual pleasure).",
+        "story_title_ta": "தவம் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Penance — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தவம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 266 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தவத்தைச் செய்பவரே தமக்குரிய செயலைச் செய்தவர்; மற்றவர்களோ ஆசை வலைப்பட்டு வீணானவற்றைச் செய்தவர் ஆவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Penance'. Grandpa shared Kural 266 and explained in simple words: Those discharge their duty who perform austerities; all others accomplish their own destruction, through the entanglement of the desire (of riches and sensual pleasure). The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அடக்கமும், அன்பு நெறியும், துன்பங்களைத் தாங்கும் பொறுமையும் வாய்ந்த தவம் மேற்கொண்டவர்கள் மட்டுமே தமது கடமையைச் செய்பவர்கள்; அதற்கு மாறானவர்கள், ஆசையால் அலைக்கழிக்கப்பட்டு வீணான செயல்களில் ஈடுபடுபவர்கள்.",
+        "moral_en": "Moral: Who works of 'penance' do, their end attain, Others in passion's net enshared, toil but in vain.",
+        "game_blank_word_ta": "தவஞ்செய்வார்",
+        "game_options_ta": [
+          "உற்றநோய்",
+          "நோன்றல்",
+          "தவஞ்செய்வார்",
+          "உயிர்க்குறுகண்"
+        ],
+        "game_options_en": [
+          "Pains endure; pain not beings This is the type of true penance",
+          "Penance is fit for penitents Not for him who in vain pretends",
+          "Who do penance achieve their aim Others desire-rid themselves harm",
+          "Is it to true penitent's aid, That others austere path avoid?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தவம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 266, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தவத்தைச் செய்பவரே தமக்குரிய செயலைச் செய்தவர்; மற்றவர்களோ ஆசை வலைப்பட்டு வீணானவற்றைச் செய்தவர் ஆவர். கலைஞர் உரை கூறுவது: அடக்கமும், அன்பு நெறியும், துன்பங்களைத் தாங்கும் பொறுமையும் வாய்ந்த தவம் மேற்கொண்டவர்கள் மட்டுமே தமது கடமையைச் செய்பவர்கள்; அதற்கு மாறானவர்கள், ஆசையால் அலைக்கழிக்கப்பட்டு வீணான செயல்களில் ஈடுபடுபவர்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Penance (Ascetic Virtue), Kural 266 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those discharge their duty who perform austerities; all others accomplish their own destruction, through the entanglement of the desire (of riches and sensual pleasure). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தவம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Penance' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தவம்' அதிகாரத்தில் வரும் திருக்குறள் 266 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 266 from Chapter 'Penance'?",
+        "quiz_options_ta": [
+          "சினத்தில் அளவு கடந்து சென்றவர் இறந்தவரைப் போன்றவர், சினத்தை அடியோடு துறந்தவர் துறந்தவர்க்கு ஒப்பாவர்.",
+          "ஐயத்திலிருந்து நீங்கி மெய்யுணர்வு பெற்றவர்க்கு அடைந்துள்ள இவ்வுலகை விட அடைய வேண்டிய மேலுலகம் அண்மையில் உள்ளதாகும்.",
+          "தவம் செய்கின்றவரே தமக்குரிய கடமையைச் செய்கின்றவர் ஆவர், அவர் அல்லாத மற்றவர் ஆசை வலையில் அகப்பட்டு வீண் முயற்சி செய்கின்றவரே.",
+          "மணலில் உள்ள கேணியில் தோண்டிய அளவிற்க்கு நீர் ஊறும், அதுபோல் மக்களின் கற்றக் கல்வியின் அளவிற்கு அறிவு ஊறும்."
+        ],
+        "quiz_options_en": [
+          "Dead are they who are anger-fed Saints are they from whom wrath has fled",
+          "To doubtless minds whose heart is clear More than earth heaven is near",
+          "Who do penance achieve their aim Others desire-rid themselves harm",
+          "As deep you dig the sand spring flows As deep you learn the knowledge grows"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (தவம்) பகுதியில் குறள் 266 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தவம் செய்கின்றவரே தமக்குரிய கடமையைச் செய்கின்றவர் ஆவர், அவர் அல்லாத மற்றவர் ஆசை வலையில் அகப்பட்டு வீண் முயற்சி செய்கின்றவரே. பரிமேலழகர் உரை நுட்பம்: தம் கருமம் செய்வார் தவம் செய்வார் - தம் கருமம் செய்வாராவார் துறந்து தவத்தைச் செய்வார், மற்று அல்லார் ஆசையுள் பட்டு அவம் செய்வார் - ஒழிந்த பொருள் இன்பங்களைச் செய்வார், அவற்றின்கண் ஆசையாகிய வலையுள்பட்டுத் தமக்குக் கேடு செய்வார். (அநித்தமாய் மூவகைத் துன்பத்ததாய...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 27: 'Penance'), Kural 266 distills a foundational ethical insight: \"Who works of 'penance' do, their end attain, Others in passion's net enshared, toil but in vain\" Philosophically, Those discharge their duty who perform austerities; all others accomplish their own destruction, through the entanglement of the desire (of riches and sensual pleasure).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "ethics",
+        "kindness",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 267,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: புடமிட்டு சுடச்சுட ஒளிவிடுகின்ற பொன்னைப் போல் தவம் செய்கின்றவரை துன்பம் வருத்த வருத்த மெய்யுணர்வு மிகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Just as gold is purified as heated in the fire, will those shine, who have endured the burning of pain (in frequent austerities).",
+        "story_title_ta": "தவம் — இனியா கற்ற பாடம்",
+        "story_title_en": "Penance — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தவம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 267 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நெருப்பு சுடச்சுடப் பொன்னின் ஒளி பெருகுவது போலத் துன்பம் வருத்த வருத்தத் தவம் செய்பவர்க்கு ஞானம் பெருகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Penance'. Grandpa shared Kural 267 and explained in simple words: Just as gold is purified as heated in the fire, will those shine, who have endured the burning of pain (in frequent austerities). The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தம்மைத் தாமே வருத்திக் கொண்டு ஒரு குறிக்கோளுக்காக நோன்பு நோற்பவர்களை எந்தத் துன்பங்கள் தாக்கினாலும் அவர்கள் சுடச்சுட ஒளிவிடும் பொன்னைப் போல் புகழ் பெற்றே உயர்வார்கள்.",
+        "moral_en": "Moral: The hotter glows the fining fire, the gold the brighter shines; The pain of penitence, like fire, the soul of man refines.",
+        "game_blank_word_ta": "பொன்போல்",
+        "game_options_ta": [
+          "உற்றநோய்",
+          "நோன்றல்",
+          "உயிர்க்குறுகண்",
+          "பொன்போல்"
+        ],
+        "game_options_en": [
+          "Pains endure; pain not beings This is the type of true penance",
+          "Penance is fit for penitents Not for him who in vain pretends",
+          "Is it to true penitent's aid, That others austere path avoid?",
+          "Pure and bright gets the gold in fire; and so the life by pain austere"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தவம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 267, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நெருப்பு சுடச்சுடப் பொன்னின் ஒளி பெருகுவது போலத் துன்பம் வருத்த வருத்தத் தவம் செய்பவர்க்கு ஞானம் பெருகும். கலைஞர் உரை கூறுவது: தம்மைத் தாமே வருத்திக் கொண்டு ஒரு குறிக்கோளுக்காக நோன்பு நோற்பவர்களை எந்தத் துன்பங்கள் தாக்கினாலும் அவர்கள் சுடச்சுட ஒளிவிடும் பொன்னைப் போல் புகழ் பெற்றே உயர்வார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Penance (Ascetic Virtue), Kural 267 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Just as gold is purified as heated in the fire, will those shine, who have endured the burning of pain (in frequent austerities). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தவம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Penance' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தவம்' அதிகாரத்தில் வரும் திருக்குறள் 267 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 267 from Chapter 'Penance'?",
+        "quiz_options_ta": [
+          "சிறப்பைத்தருகின்ற பெருஞ் செல்வத்தைப் பெறுவதாக இருந்தாலும், பிறர்க்குத் துன்பம் செய்யாதிருத்தலே மாசற்றவரின் கொள்கையாம்.",
+          "மெய்யுணர்வு இல்லாதவர்க்கு ஐந்து புலன்களின் வேறுபாட்டால் வளர்ந்த ஐந்து வகை உணர்வும் முற்றப்பெற்ற போதிலும் பயன் இல்லை.",
+          "கற்றவனுக்கு தன் நாடும் ஊரும் போல வேறு எதுவாயினும் நாடாகும், ஊராகும் ஆகையால் ஒருவன் சாகும் வரையில் கல்லாமல் காலங்கழிப்பது ஏன்.",
+          "புடமிட்டு சுடச்சுட ஒளிவிடுகின்ற பொன்னைப் போல் தவம் செய்கின்றவரை துன்பம் வருத்த வருத்த மெய்யுணர்வு மிகும்"
+        ],
+        "quiz_options_en": [
+          "The pure by faith mean pain to none Though princely wealth by that is won",
+          "Knowledge of five senses is vain Without knowing the Truth within",
+          "All lands and towns are learner's own Why not till death learning go on!",
+          "Pure and bright gets the gold in fire; and so the life by pain austere"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (தவம்) பகுதியில் குறள் 267 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: புடமிட்டு சுடச்சுட ஒளிவிடுகின்ற பொன்னைப் போல் தவம் செய்கின்றவரை துன்பம் வருத்த வருத்த மெய்யுணர்வு மிகும். பரிமேலழகர் உரை நுட்பம்: சுடச்சுடரும் பொன் போல் - தீயின்கண் ஓடும் பொன்னுக்கு அது சுடச்சுடத் தன்னோடு கலந்த குற்றம் நீங்கி ஒளி மிகுமாறு போல, நோற்கிற்பவர்க்குத் துன்பம் சுடச்சுட ஒளி விடும். தவம் செய்ய வல்லார்க்கு அதனான் வரும் துன்பம் வருத்த வருத்தத் தம்மொடு கலந்த பாவம் நீங்கி ஞானம...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 27: 'Penance'), Kural 267 distills a foundational ethical insight: \"The hotter glows the fining fire, the gold the brighter shines; The pain of penitence, like fire, the soul of man refines\" Philosophically, Just as gold is purified as heated in the fire, will those shine, who have endured the burning of pain (in frequent austerities).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "wisdom",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 268,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தவ வலிமையால் தன்னுடைய உயிர், தான் என்னும் பற்று நீங்கப் பெற்றவனை மற்ற உயிர்கள் எல்லாம் (அவனுடைய பெருமையை உணர்ந்து) தொழும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: All other creatures will worship him who has attained the control of his own soul.",
+        "story_title_ta": "தவம் — முகில் கற்ற பாடம்",
+        "story_title_en": "Penance — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தவம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 268 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தன் உயிர், தான் என்னும் எண்ணம் முற்றும் இல்லாதவனைப் பிற உயிர்கள் எல்லாம் தொழும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Penance'. Grandpa shared Kural 268 and explained in simple words: All other creatures will worship him who has attained the control of his own soul. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ``தனது உயிர்'' என்கிற பற்றும், ``தான்'' என்கிற செருக்கும் கொள்ளாதவர்களை உலகம் புகழ்ந்து பாராட்டும்.",
+        "moral_en": "Moral: Who gains himself in utter self-control, Him worships every other living soul.",
+        "game_blank_word_ta": "பெற்றானை",
+        "game_options_ta": [
+          "பெற்றானை",
+          "உற்றநோய்",
+          "நோன்றல்",
+          "உயிர்க்குறுகண்"
+        ],
+        "game_options_en": [
+          "He worship wins from every soul Who Master is by soul control",
+          "Pains endure; pain not beings This is the type of true penance",
+          "Penance is fit for penitents Not for him who in vain pretends",
+          "Is it to true penitent's aid, That others austere path avoid?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தவம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 268, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் உயிர், தான் என்னும் எண்ணம் முற்றும் இல்லாதவனைப் பிற உயிர்கள் எல்லாம் தொழும். கலைஞர் உரை கூறுவது: ``தனது உயிர்'' என்கிற பற்றும், ``தான்'' என்கிற செருக்கும் கொள்ளாதவர்களை உலகம் புகழ்ந்து பாராட்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Penance (Ascetic Virtue), Kural 268 speaks directly to teens navigating studies, friendships, leadership, and digital choices: All other creatures will worship him who has attained the control of his own soul. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தவம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Penance' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தவம்' அதிகாரத்தில் வரும் திருக்குறள் 268 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 268 from Chapter 'Penance'?",
+        "quiz_options_ta": [
+          "தவ வலிமையால் தன்னுடைய உயிர், தான் என்னும் பற்று நீங்கப் பெற்றவனை மற்ற உயிர்கள் எல்லாம் (அவனுடைய பெருமையை உணர்ந்து) தொழும்.",
+          "ஒருவன் கறுவுகொண்டு துன்பம் செய்த போதிலும் அவனுக்கு திரும்ப துன்பம் செய்யாதிருத்தலே மாசற்றவரின் கொள்கையாகும்.",
+          "எப்பொருள் எத்தன்மையதாய்த் தோன்றினாலும் (அத்தோற்றத்தை மட்டும் கண்டுமங்காமல்) அப் பொருளின் உண்மையான இயல்பை அறிவதே மெய்யுணர்வு.",
+          "ஒரு பிறப்பில் தான் கற்றக் கல்வியானது அப்பிறப்பிற்கு மட்டும் அல்லாமல் அவனுக்கு ஏழுபிறப்பிறப்பிலும் உதவும் தன்மை உடையது."
+        ],
+        "quiz_options_en": [
+          "He worship wins from every soul Who Master is by soul control",
+          "The spotless hearts seek not revenge Though Malice does the worst in rage",
+          "Knowledge is truth of things to find In every case of every kind",
+          "The joy of learning in one birth Exalts man upto his seventh"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (தவம்) பகுதியில் குறள் 268 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தவ வலிமையால் தன்னுடைய உயிர், தான் என்னும் பற்று நீங்கப் பெற்றவனை மற்ற உயிர்கள் எல்லாம் (அவனுடைய பெருமையை உணர்ந்து) தொழும். பரிமேலழகர் உரை நுட்பம்: தன் உயிர் தான் அறப்பெற்றானை - தன் உயிரைத் தான் தனக்கு உரித்தாகப் பெற்றவனை, ஏனைய மன் உயிர் எல்லாம் தொழும் - பெறாதனவாகிய மன் உயிர்கள் எல்லாம் தொழும். (தனக்கு உரித்தாதல் - தவம் ஆகிய தன் கருமம் செய்தல். அதனின் ஊங்குப் பெறுதற்கு அரியது இன்மையின், 'பெற்றானை...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 27: 'Penance'), Kural 268 distills a foundational ethical insight: \"Who gains himself in utter self-control, Him worships every other living soul\" Philosophically, All other creatures will worship him who has attained the control of his own soul.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "humility",
+        "harmony",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 269,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தவம் செய்வதால் பெறத்தக்க ஆற்றலைப் பெற்றவர்க்கு (ஓர் இடையூறும் இல்லையாகையால் ) எமனை வெல்லுதலும் கைகூடும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Those who have attained the power which religious discipline confers, will be able also to pass the limit of Yama, (the God of death).",
+        "story_title_ta": "தவம் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Penance — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தவம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 269 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தவத்தால் வரும் வலிமையைப் பெற்றவரால் எமனையும் வெல்ல முடியும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Penance'. Grandpa shared Kural 269 and explained in simple words: Those who have attained the power which religious discipline confers, will be able also to pass the limit of Yama, (the God of death). The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: எத்தனைத் துன்பங்கள் வரினும் தாங்கிக் குறிக்கோளில் உறுதியாக நிற்கும் ஆற்றலுடையவர்கள் சாவையும் வென்று வாழ்வார்கள்.",
+        "moral_en": "Moral: E'en over death the victory he may gain, If power by penance won his soul obtain.",
+        "game_blank_word_ta": "நோற்றலின்",
+        "game_options_ta": [
+          "உற்றநோய்",
+          "நோற்றலின்",
+          "நோன்றல்",
+          "உயிர்க்குறுகண்"
+        ],
+        "game_options_en": [
+          "Pains endure; pain not beings This is the type of true penance",
+          "They can even defy death Who get by penance godly strenth",
+          "Penance is fit for penitents Not for him who in vain pretends",
+          "Is it to true penitent's aid, That others austere path avoid?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தவம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 269, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தவத்தால் வரும் வலிமையைப் பெற்றவரால் எமனையும் வெல்ல முடியும். கலைஞர் உரை கூறுவது: எத்தனைத் துன்பங்கள் வரினும் தாங்கிக் குறிக்கோளில் உறுதியாக நிற்கும் ஆற்றலுடையவர்கள் சாவையும் வென்று வாழ்வார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Penance (Ascetic Virtue), Kural 269 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who have attained the power which religious discipline confers, will be able also to pass the limit of Yama, (the God of death). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தவம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Penance' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தவம்' அதிகாரத்தில் வரும் திருக்குறள் 269 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 269 from Chapter 'Penance'?",
+        "quiz_options_ta": [
+          "தான் ஒன்றும் செய்யாதிருக்கத் தனக்குத் தீங்கு செய்தவர்க்கும் துன்பமானாவற்றைச் செய்தால் செய்தபிறகு தப்பமுடியாத துன்பத்தையே கொடுக்கும்.",
+          "தவம் செய்வதால் பெறத்தக்க ஆற்றலைப் பெற்றவர்க்கு (ஓர் இடையூறும் இல்லையாகையால் ) எமனை வெல்லுதலும் கைகூடும்",
+          "கற்க வேண்டிய வற்றைக் கற்று இங்கு மெய்ப் பொருளை உணர்ந்தவர் , மீண்டும் இப்பிறப்பிற்கு வராத வழியை அடைவர்.",
+          "தாம் இன்புறுவதற்குக் காரணமான கல்வியால் உலகமும் இன்புறுவதைக் கண்டு, கற்றறிந்த அறிஞர் மேன்மேலும் (அக் கல்வியையே) விரும்புவர்."
+        ],
+        "quiz_options_en": [
+          "Revenging even causeless hate Bad-blood breeds and baneful heat",
+          "They can even defy death Who get by penance godly strenth",
+          "Who learn and here the Truth discern Enter the path of non-return",
+          "The learned foster learning more On seeing the world enjoy their lore"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (தவம்) பகுதியில் குறள் 269 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தவம் செய்வதால் பெறத்தக்க ஆற்றலைப் பெற்றவர்க்கு (ஓர் இடையூறும் இல்லையாகையால் ) எமனை வெல்லுதலும் கைகூடும். பரிமேலழகர் உரை நுட்பம்: கூற்றம் குதித்தலும் கைகூடும் - கூற்றத்தைக் கடத்தலும் உண்டாவதாம், நோற்றலின் ஆற்றல் தலைப்பட்டவர்க்கு - தவத்தான் வரும் ஆற்றலைத் தலைப்பட்டார்க்கு. ( சிறப்பு உம்மை கூடாமை விளக்கிற்று. மன் உயிர் எல்லாம் தொழுதலேயன்றி இதுவும் கைகூடும் என எச்ச உம்மையாக உரைப்பினும...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 27: 'Penance'), Kural 269 distills a foundational ethical insight: \"E'en over death the victory he may gain, If power by penance won his soul obtain\" Philosophically, Those who have attained the power which religious discipline confers, will be able also to pass the limit of Yama, (the God of death).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "wisdom",
+        "discipline",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 270,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஆற்றல் இல்லாதவர் பலராக உலகில் இருப்பதற்குக் காரணம் தவம் செய்கின்றவர் சிலராகவும், செய்யாதவர் பலராகவும் இருப்பதே ஆகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Because there are few who practise austerity and many who do not, there are many destitute and few rich in this world.",
+        "story_title_ta": "தவம் — கவின் கற்ற பாடம்",
+        "story_title_en": "Penance — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'தவம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 270 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறர் செய்யும்தீமைகளைப் பொறுத்துக் கொள்வதும், அவர்க்குத் தீமை செய்யாது இருப்பதும் ஆகிய தவத்தைச் செய்பவர் சிலர்; செய்யாதவர் பலர்; ஏதுமற்ற ஏழைகள் பலராக இருப்பதற்கு இதுவே காரணம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Penance'. Grandpa shared Kural 270 and explained in simple words: Because there are few who practise austerity and many who do not, there are many destitute and few rich in this world. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஆற்றலற்றவர்கள் பலராக இருப்பதற்குக் காரணம், மன உறுதி கொண்டவர் சிலராக இருப்பதும், உறுதியற்றவர் பலராக இருப்பதும் தான்.",
+        "moral_en": "Moral: The many all things lack! The cause is plain, The 'penitents' are few The many shun such pain.",
+        "game_blank_word_ta": "இலர்பல",
+        "game_options_ta": [
+          "உற்றநோய்",
+          "நோன்றல்",
+          "இலர்பல",
+          "உயிர்க்குறுகண்"
+        ],
+        "game_options_en": [
+          "Pains endure; pain not beings This is the type of true penance",
+          "Penance is fit for penitents Not for him who in vain pretends",
+          "Many are poor and few are rich For they care not for penance much",
+          "Is it to true penitent's aid, That others austere path avoid?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தவம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 270, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர் செய்யும்தீமைகளைப் பொறுத்துக் கொள்வதும், அவர்க்குத் தீமை செய்யாது இருப்பதும் ஆகிய தவத்தைச் செய்பவர் சிலர்; செய்யாதவர் பலர்; ஏதுமற்ற ஏழைகள் பலராக இருப்பதற்கு இதுவே காரணம். கலைஞர் உரை கூறுவது: ஆற்றலற்றவர்கள் பலராக இருப்பதற்குக் காரணம், மன உறுதி கொண்டவர் சிலராக இருப்பதும், உறுதியற்றவர் பலராக இருப்பதும் தான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Penance (Ascetic Virtue), Kural 270 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Because there are few who practise austerity and many who do not, there are many destitute and few rich in this world. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'தவம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Penance' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'தவம்' அதிகாரத்தில் வரும் திருக்குறள் 270 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 270 from Chapter 'Penance'?",
+        "quiz_options_ta": [
+          "இன்னா செய்தவரைத் தண்டித்தல் அவரே நாணும் படியாக அவருக்கு நல்லுதவி செய்து அவருடைய தீமையையும் நன்மையையும் மறந்து விடுதலாகும்.",
+          "ஒருவனுடைய உள்ளம் உண்மைப் பொருளை ஆராய்ந்து உறுதியாக உணர்ந்தால், அவனுக்கு மீண்டும் பிறப்பு உள்ள தென எண்ண வேண்டா.",
+          "ஆற்றல் இல்லாதவர் பலராக உலகில் இருப்பதற்குக் காரணம் தவம் செய்கின்றவர் சிலராகவும், செய்யாதவர் பலராகவும் இருப்பதே ஆகும்.",
+          "ஒருவனுக்கு அழிவு இல்லாத சிறந்த செல்வம் கல்வியே ஆகும், கல்வியைத் தவிர மற்றப் பொருள்கள் (அத்தகைய சிறப்புடைய) செல்வம் அல்ல."
+        ],
+        "quiz_options_en": [
+          "Doing good-turns, put them to shame Thus chide the evil who do harm",
+          "One-minded sage sees inner-truth He is free from thoughts of rebirth",
+          "Many are poor and few are rich For they care not for penance much",
+          "Learning is wealth none could destroy Nothing else gives genuine joy"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (தவம்) பகுதியில் குறள் 270 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஆற்றல் இல்லாதவர் பலராக உலகில் இருப்பதற்குக் காரணம் தவம் செய்கின்றவர் சிலராகவும், செய்யாதவர் பலராகவும் இருப்பதே ஆகும். பரிமேலழகர் உரை நுட்பம்: இலர் பலர் ஆகிய காரணம் - உலகத்துச் செல்வர்கள் சிலராக நல்கூர்வார் பலராதற்குக் காரணம் யாது எனின், நோற்பார் சிலர் நோலாதார் பலர் - தவம் செய்வார் சிலராக, அது செய்யார் பலராதல். (செல்வம் நல்குரவு என்பன ஈண்டு அறிவினது உண்மை இன்மைகளையும் குறித்து நின்றன, என்னை...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 27: 'Penance'), Kural 270 distills a foundational ethical insight: \"The many all things lack! The cause is plain, The 'penitents' are few The many shun such pain\" Philosophically, Because there are few who practise austerity and many who do not, there are many destitute and few rich in this world.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "wealth",
+        "kindness",
+        "harmony"
+      ]
+    }
+  ]
+}

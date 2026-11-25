@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 40,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.808020153+00:00",
+  "kurals": [
+    {
+      "kural_number": 391,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: கல்வி கற்க நல்ல நூல்களைக் குற்றமறக் கற்க வேண்டும், அவ்வாறு கற்ற பிறகு, கற்ற கல்விக்கு தக்கவாறு நெறியில் நிற்க வேண்டும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Let a man learn thoroughly whatever he may learn, and let his conduct be worthy of his learning.",
+        "story_title_ta": "கல்வி — நிலா கற்ற பாடம்",
+        "story_title_en": "Learning — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்வி' என்ற அதிகாரத்திலிருந்து குறள் 391 பற்றிக் கதை சொன்னார். 'கற்கத் தகும் நூல்களைப் பிழை இல்லாமல் கற்க; கற்ற பிறகு கற்ற கல்விக்கு ஏற்ப நல்ல வழிகளில் வாழ்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 40, 'Learning', centered on Kural 391: Let a man learn thoroughly whatever he may learn, and let his conduct be worthy of his learning. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பிழை இல்லாதவற்றைத் தனது குறைகள் நீங்குமளவுக்குக் கற்றுக்கொள்ள வேண்டும் கற்ற பிறகு அதன்படி நடக்கவேண்டும்.",
+        "moral_en": "Moral: So learn that you may full and faultless learning gain, Then in obedience meet to lessons learnt remain.",
+        "game_blank_word_ta": "கசடறக்",
+        "game_options_ta": [
+          "எண்ணென்ப",
+          "எழுத்தென்ப",
+          "இவ்விரண்டும்",
+          "கசடறக்"
+        ],
+        "game_options_en": [
+          "Letter, number, art and science Of living kind both are the eyes",
+          "The learned alone have eyes on face The ignorant two sores of disgrace",
+          "To meet with joy and part with thought Of learned men this is the art",
+          "Lore worth learning, learn flawlessly Live by that learning thoroughly"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்வி (அரசியல்) பிரிவில் அமைந்த குறள் 391, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கற்கத் தகும் நூல்களைப் பிழை இல்லாமல் கற்க; கற்ற பிறகு கற்ற கல்விக்கு ஏற்ப நல்ல வழிகளில் வாழ்க. கலைஞர் உரை கூறுவது: பிழை இல்லாதவற்றைத் தனது குறைகள் நீங்குமளவுக்குக் கற்றுக்கொள்ள வேண்டும் கற்ற பிறகு அதன்படி நடக்கவேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Learning (Royalty & Polity), Kural 391 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let a man learn thoroughly whatever he may learn, and let his conduct be worthy of his learning. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்வி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Learning' thoughtfully.",
+        "quiz_question_ta": "'கல்வி' அதிகாரத்தில் வரும் திருக்குறள் 391 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 391 from Chapter 'Learning'?",
+        "quiz_options_ta": [
+          "குற்றம் நேர்வதற்கு முன்னமே வராமல் காத்துக் கொள்ளாதவனுடைய வாழ்க்கை, நெருப்பின் முன் நின்ற வைக்கோல் போர் போல் அழிந்துவிடும்.",
+          "பொருள் வரும் வழி (வருவாய்) சிறிதாக இருந்தாலும், போகும் வழி (செலவு) விரிவுபடாவிட்டால் அதனால் தீங்கு இல்லை.",
+          "ஒருவன் வறியவனான காலத்திலும் அவனுக்கும் தமக்கும் இருந்த உறவைப் பாராட்டிப் பேசும் பண்புகள் சுற்றத்தாரிடம் உண்டு.",
+          "கல்வி கற்க நல்ல நூல்களைக் குற்றமறக் கற்க வேண்டும், அவ்வாறு கற்ற பிறகு, கற்ற கல்விக்கு தக்கவாறு நெறியில் நிற்க வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Who fails to guard himself from flaw Loses his life like flame-lit straw",
+          "The outflow must not be excess No matter how small income is",
+          "Let fortunes go; yet kinsmen know The old accustomed love to show",
+          "Lore worth learning, learn flawlessly Live by that learning thoroughly"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்வி) பகுதியில் குறள் 391 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கல்வி கற்க நல்ல நூல்களைக் குற்றமறக் கற்க வேண்டும், அவ்வாறு கற்ற பிறகு, கற்ற கல்விக்கு தக்கவாறு நெறியில் நிற்க வேண்டும். பரிமேலழகர் உரை நுட்பம்: கற்பவை கசடு அறக் கற்க - ஒருவன் கற்கப்படு நூல்களைப் பழுதறக் கற்க, கற்றபின் அதற்குத் தக நிற்க - அங்ஙனம் கற்றால், அக்கல்விக்குத் தக அவை சொல்லுகின்ற நெறிக்கண்ணே நிற்க. ('கற்பவை' என்றதனான், அறம் பொருள் இன்பம் வீடு என்னும் உறுதிப்பொருள் உணர்த்துவன அன்றிப் பிற...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 40: 'Learning'), Kural 391 distills a foundational ethical insight: \"So learn that you may full and faultless learning gain, Then in obedience meet to lessons learnt remain\" Philosophically, Let a man learn thoroughly whatever he may learn, and let his conduct be worthy of his learning.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "discipline",
+        "justice",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 392,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: எண் என்று சொல்லப்படுவன எழுத்து என்று சொல்லப்படுவன ஆகிய இரு வகைக் கலைகளையும் வாழும் மக்களுக்குக் கண்கள் என்று கூறுவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Letters and numbers are the two eyes of man.",
+        "story_title_ta": "கல்வி — அன்பு கற்ற பாடம்",
+        "story_title_en": "Learning — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்வி' என்ற அதிகாரத்திலிருந்து குறள் 392 பற்றிக் கதை சொன்னார். 'வாழும் நல்லவர்க்கு அறிவியலும் கலைஇயலும் சிறந்த கண் என்று அறிந்தவர் கூறுவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 40, 'Learning', centered on Kural 392: Letters and numbers are the two eyes of man. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எண்ணும் எழுத்தும் எனப்படும் அறிவுக் கண்களைப் பெற்றவர்களே, உயிர் வாழ்வோர் எனக் கருதப்படுவார்கள்.",
+        "moral_en": "Moral: The twain that lore of numbers and of letters giveAre eyes, the wise declare, to all on earth that live.",
+        "game_blank_word_ta": "இவ்விரண்டும்",
+        "game_options_ta": [
+          "இவ்விரண்டும்",
+          "கற்க",
+          "கசடறக்",
+          "கற்பவை"
+        ],
+        "game_options_en": [
+          "Letter, number, art and science Of living kind both are the eyes",
+          "Lore worth learning, learn flawlessly Live by that learning thoroughly",
+          "The learned alone have eyes on face The ignorant two sores of disgrace",
+          "To meet with joy and part with thought Of learned men this is the art"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்வி (அரசியல்) பிரிவில் அமைந்த குறள் 392, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வாழும் நல்லவர்க்கு அறிவியலும் கலைஇயலும் சிறந்த கண் என்று அறிந்தவர் கூறுவர். கலைஞர் உரை கூறுவது: எண்ணும் எழுத்தும் எனப்படும் அறிவுக் கண்களைப் பெற்றவர்களே, உயிர் வாழ்வோர் எனக் கருதப்படுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Learning (Royalty & Polity), Kural 392 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Letters and numbers are the two eyes of man. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்வி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Learning' thoughtfully.",
+        "quiz_question_ta": "'கல்வி' அதிகாரத்தில் வரும் திருக்குறள் 392 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 392 from Chapter 'Learning'?",
+        "quiz_options_ta": [
+          "எண் என்று சொல்லப்படுவன எழுத்து என்று சொல்லப்படுவன ஆகிய இரு வகைக் கலைகளையும் வாழும் மக்களுக்குக் கண்கள் என்று கூறுவர்.",
+          "முன்னே தன் குற்றத்தைக் கண்டு நீக்கி பிறகு பிறருடையக் குற்றத்தை ஆராயவல்லவனானால், தலைவனுக்கு என்ன குற்றமாகும்.",
+          "பொருளின் அளவு அறிந்து வாழாதவனுடைய வாழ்க்கை (பல வளமும்) இருப்பது போல் தோன்றி இல்லாமல் மறைந்து கெட்டு விடும்.",
+          "அன்பு நீங்காத சுற்றம் ஒருவனுக்குக் கிடைத்தால், அது மேன்மேலும் வளர்ச்சி குறையாத ஆக்கம் பலவற்றையும் அவனுக்குக் கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "Letter, number, art and science Of living kind both are the eyes",
+          "What fault can be the king's who cures First his faults, then scans others",
+          "Who does not know to live in bounds His life seems rich but thins and ends",
+          "The gift of loving Kins bestows Fadeless fortune's fresh flowers"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்வி) பகுதியில் குறள் 392 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எண் என்று சொல்லப்படுவன எழுத்து என்று சொல்லப்படுவன ஆகிய இரு வகைக் கலைகளையும் வாழும் மக்களுக்குக் கண்கள் என்று கூறுவர். பரிமேலழகர் உரை நுட்பம்: எண் என்ப ஏனை எழுத்து என்ப இவ்விரண்டும் - அறியாதார் எண் என்று சொல்லுவனவும் மற்றை எழுத்து என்று சொல்லுவனவும் ஆகிய கலைகள் இரண்டினையும், வாழும் உயிர்க்குக் கண் என்ப - அறிந்தார் சிறப்புடை உயிர்கட்குக் கண் என்று சொல்லுவர். (எண் என்பது கணிதம். அது கருவியும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 40: 'Learning'), Kural 392 distills a foundational ethical insight: \"The twain that lore of numbers and of letters giveAre eyes, the wise declare, to all on earth that live\" Philosophically, Letters and numbers are the two eyes of man.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "love",
+        "kindness",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 393,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கண்ணுடையவர் என்றுக் கூறப்படுபவர் கற்றவரே, கல்லாதவர் முகத்தில் இரண்டுப் புண் உடையவர் ஆவார்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The learned are said to have eyes, but the unlearned have (merely) two sores in their face.",
+        "story_title_ta": "கல்வி — இனியா கற்ற பாடம்",
+        "story_title_en": "Learning — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்வி' என்ற அதிகாரத்திலிருந்து குறள் 393 பற்றிக் கதை சொன்னார். 'கற்றவரே கண் உடையவர்; கல்லாதவரோ முகத்தில் இரண்டு புண்ணையே உடையவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 40, 'Learning', centered on Kural 393: The learned are said to have eyes, but the unlearned have (merely) two sores in their face. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கண்ணில்லாவிடினும் அவர் கற்றவராக இருப்பின் கண்ணுடையவராகவே கருதப்படுவார் கல்லாதவருக்குக் கண் இருப்பினும் அது புண் என்றே கருதப்படும்.",
+        "moral_en": "Moral: Men who learning gain have eyes, men say; Blockheads' faces pairs of sores display.",
+        "game_blank_word_ta": "என்பவர்",
+        "game_options_ta": [
+          "கற்க",
+          "என்பவர்",
+          "கசடறக்",
+          "கற்பவை"
+        ],
+        "game_options_en": [
+          "Lore worth learning, learn flawlessly Live by that learning thoroughly",
+          "The learned alone have eyes on face The ignorant two sores of disgrace",
+          "Letter, number, art and science Of living kind both are the eyes",
+          "To meet with joy and part with thought Of learned men this is the art"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்வி (அரசியல்) பிரிவில் அமைந்த குறள் 393, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கற்றவரே கண் உடையவர்; கல்லாதவரோ முகத்தில் இரண்டு புண்ணையே உடையவர். கலைஞர் உரை கூறுவது: கண்ணில்லாவிடினும் அவர் கற்றவராக இருப்பின் கண்ணுடையவராகவே கருதப்படுவார் கல்லாதவருக்குக் கண் இருப்பினும் அது புண் என்றே கருதப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Learning (Royalty & Polity), Kural 393 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The learned are said to have eyes, but the unlearned have (merely) two sores in their face. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்வி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Learning' thoughtfully.",
+        "quiz_question_ta": "'கல்வி' அதிகாரத்தில் வரும் திருக்குறள் 393 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 393 from Chapter 'Learning'?",
+        "quiz_options_ta": [
+          "செய்யத்தக்க நன்மைகளைச் செய்யாமல் பொருளைச் சேர்த்து வைத்திருப்பவனுடைய செல்வம், உய்யுந் தன்மை இல்லாமல் அழியும்.",
+          "கண்ணுடையவர் என்றுக் கூறப்படுபவர் கற்றவரே, கல்லாதவர் முகத்தில் இரண்டுப் புண் உடையவர் ஆவார்.",
+          "தனக்கு பொருள் உள்ள அளவை ஆராயாமல் மேற்கொள்ளும் ஒப்புரவினால், ஒருவனுடைய செல்வத்தின் அளவு விரைவில் கெடும்.",
+          "சுற்றத்தாரோடு மனம் கலந்து பழகும் தன்மை இல்லாதவனுடைய வாழ்க்கை, குளப்பரப்பானது கரையில்லாமல் நீர் நிறைந்தாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "That miser's wealth shall waste and end Who would not for a good cause spend",
+          "The learned alone have eyes on face The ignorant two sores of disgrace",
+          "Wealth amassed quickly vanishes Sans level if one lavishes",
+          "A kinless wealth is like a tank Which overflows without a bank"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்வி) பகுதியில் குறள் 393 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கண்ணுடையவர் என்றுக் கூறப்படுபவர் கற்றவரே, கல்லாதவர் முகத்தில் இரண்டுப் புண் உடையவர் ஆவார். பரிமேலழகர் உரை நுட்பம்: கண் உடையர் என்பவர் கற்றோர் - கண்ணுடையர் என்று உயர்த்துச் சொல்லப்படுவார் கற்றவரே, கல்லாதவர் முகத்து இரண்டு புண் உடையர் - மற்றைக் கல்லாதவர் முகத்தின்கண் இரண்டு புண்ணுடையர், கண்ணிலர். (தேயம்இடையிட்டவற்றையும் காலம் இடையிட்டவற்றையும் காணும் ஞானக்கண்உடைமையின...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 40: 'Learning'), Kural 393 distills a foundational ethical insight: \"Men who learning gain have eyes, men say; Blockheads' faces pairs of sores display\" Philosophically, The learned are said to have eyes, but the unlearned have (merely) two sores in their face.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "love",
+        "harmony",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 394,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: மகிழும் படியாகக் கூடிபழகி (இனி இவரை எப்போது காண்போம் என்று ) வருந்தி நினைக்கும் படியாகப் பிரிதல் புலவரின் தொழிலாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: It is the part of the learned to give joy to those whom they meet, and on leaving, to make them think (Oh! when shall we meet them again.).",
+        "story_title_ta": "கல்வி — முகில் கற்ற பாடம்",
+        "story_title_en": "Learning — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்வி' என்ற அதிகாரத்திலிருந்து குறள் 394 பற்றிக் கதை சொன்னார். 'மற்றவர்கள் கூடி வரும்போது, மனம் மகிழ அவர்களுடன் கலந்து பேசி, இனி இவரை எப்போது, எவ்வாறு சந்திக்கப் போகிறோம் என்று அவர்கள் எண்ணுமாறு பிரிவது கற்று அறிந்தவரின் செயல்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 40, 'Learning', centered on Kural 394: It is the part of the learned to give joy to those whom they meet, and on leaving, to make them think (Oh! when shall we meet them again.). Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மகிழ்ச்சி பொங்கிடச் சேர்ந்து பழகுவதும், பிரிந்திட நேரும் போது மனங்கலங்குவதும் அறிவிற் சிறந்தோர் செயலாகும்.",
+        "moral_en": "Moral: You meet with joy, with pleasant thought you part; Such is the learned scholar's wonderous art.",
+        "game_blank_word_ta": "உள்ளப்",
+        "game_options_ta": [
+          "கற்க",
+          "கசடறக்",
+          "உள்ளப்",
+          "கற்பவை"
+        ],
+        "game_options_en": [
+          "Lore worth learning, learn flawlessly Live by that learning thoroughly",
+          "Letter, number, art and science Of living kind both are the eyes",
+          "To meet with joy and part with thought Of learned men this is the art",
+          "The learned alone have eyes on face The ignorant two sores of disgrace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்வி (அரசியல்) பிரிவில் அமைந்த குறள் 394, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மற்றவர்கள் கூடி வரும்போது, மனம் மகிழ அவர்களுடன் கலந்து பேசி, இனி இவரை எப்போது, எவ்வாறு சந்திக்கப் போகிறோம் என்று அவர்கள் எண்ணுமாறு பிரிவது கற்று அறிந்தவரின் செயல். கலைஞர் உரை கூறுவது: மகிழ்ச்சி பொங்கிடச் சேர்ந்து பழகுவதும், பிரிந்திட நேரும் போது மனங்கலங்குவதும் அறிவிற் சிறந்தோர் செயலாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Learning (Royalty & Polity), Kural 394 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is the part of the learned to give joy to those whom they meet, and on leaving, to make them think (Oh! when shall we meet them again.). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்வி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Learning' thoughtfully.",
+        "quiz_question_ta": "'கல்வி' அதிகாரத்தில் வரும் திருக்குறள் 394 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 394 from Chapter 'Learning'?",
+        "quiz_options_ta": [
+          "பொருளினிடத்தில் பற்றுக் கொள்ளும் உள்ளமாகிய ஈயாத்தன்மை, குற்றம் எதனோடும் சேர்ந்து எண்ணத்தகாத ஒரு தனிக் குற்றமாகும்.",
+          "காக்கை தன்னைவிட வலிய கோட்டானைப் பகலில் வென்றுவிடும், அதுபோல் பகையை வெல்லக்கருதும் அரசர்க்கும் அதற்கு ஏற்ற காலம் வேண்டும்.",
+          "மகிழும் படியாகக் கூடிபழகி (இனி இவரை எப்போது காண்போம் என்று ) வருந்தி நினைக்கும் படியாகப் பிரிதல் புலவரின் தொழிலாகும்.",
+          "தக்கவழியில் செய்யப்படாத முயற்சி பலர் துணையாக நின்று(அதை முடிக்குமாறு) காத்த போதிலும் குறையாகிவிடும்."
+        ],
+        "quiz_options_en": [
+          "The gripping greed of miser's heart Is more than fault the worst apart",
+          "By day the crow defeats the owl Kings need right time their foes to quell",
+          "To meet with joy and part with thought Of learned men this is the art",
+          "The fruit of growing wealth is gained When kith and kin are happy found"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்வி) பகுதியில் குறள் 394 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மகிழும் படியாகக் கூடிபழகி (இனி இவரை எப்போது காண்போம் என்று ) வருந்தி நினைக்கும் படியாகப் பிரிதல் புலவரின் தொழிலாகும். பரிமேலழகர் உரை நுட்பம்: உவப்பத் தலைக்கூடி உள்ளப் பிரிதல் அனைத்தே - யாவரையும். அவர் உவக்குமாறு தலைப்பெய்து, இனி இவரை யாம் எங்ஙனம் கூடுதும்? என நினையுமாறு நீங்குதலாகிய அத்தன்மைத்து, புலவர் தொழில் - கற்றறிந்தாரது தொழில். (தாம் நல்வழி ஒழுகல் பிறர்க்கு உறுதி கூறல் என்பன இரண்டும் தொழில...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 40: 'Learning'), Kural 394 distills a foundational ethical insight: \"You meet with joy, with pleasant thought you part; Such is the learned scholar's wonderous art\" Philosophically, It is the part of the learned to give joy to those whom they meet, and on leaving, to make them think (Oh! when shall we meet them again.).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "speech",
+        "friendship",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 395,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: செல்வர் முன் வறியவர் நிற்பது போல் (கற்றவர்முன்) ஏங்கித் தாழ்ந்து நின்றும் கல்விக் கற்றவரே உயர்ந்தவர், கல்லாதவர் இழிந்தவர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The unlearned are inferior to the learned, before whom they stand begging, as the destitute before the wealthy.",
+        "story_title_ta": "கல்வி — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Learning — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்வி' என்ற அதிகாரத்திலிருந்து குறள் 395 பற்றிக் கதை சொன்னார். 'செல்வர் முன்னே ஏழைகள் நிற்பது போல் ஆசிரியர் முன்னே, விரும்பிப் பணிந்து கற்றவரே உயர்ந்தவர்; அப்படி நின்று கற்க வெட்கப்பட்டுக் கல்லாதவர், இழிந்தவரே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 40, 'Learning', centered on Kural 395: The unlearned are inferior to the learned, before whom they stand begging, as the destitute before the wealthy. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அறிவுடையார் முன் அறிவில்லாதவர் போல் தாழ்ந்து நின்று, மேலும் கற்றுக்கொள்பவர்களின் ஆர்வத்தைக் கற்றுக் கொள்ளாதவர்கள் கடைநிலை மாந்தராக கருதப்படுவார்கள்.",
+        "moral_en": "Moral: With soul submiss they stand, as paupers front a rich man's face; Yet learned men are first; th'unlearned stand in lowest place.",
+        "game_blank_word_ta": "கற்றார்",
+        "game_options_ta": [
+          "கற்க",
+          "கசடறக்",
+          "கற்பவை",
+          "கற்றார்"
+        ],
+        "game_options_en": [
+          "Lore worth learning, learn flawlessly Live by that learning thoroughly",
+          "Letter, number, art and science Of living kind both are the eyes",
+          "The learned alone have eyes on face The ignorant two sores of disgrace",
+          "Like poor before rich they yearn: For knowledge: the low never learn"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்வி (அரசியல்) பிரிவில் அமைந்த குறள் 395, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செல்வர் முன்னே ஏழைகள் நிற்பது போல் ஆசிரியர் முன்னே, விரும்பிப் பணிந்து கற்றவரே உயர்ந்தவர்; அப்படி நின்று கற்க வெட்கப்பட்டுக் கல்லாதவர், இழிந்தவரே. கலைஞர் உரை கூறுவது: அறிவுடையார் முன் அறிவில்லாதவர் போல் தாழ்ந்து நின்று, மேலும் கற்றுக்கொள்பவர்களின் ஆர்வத்தைக் கற்றுக் கொள்ளாதவர்கள் கடைநிலை மாந்தராக கருதப்படுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Learning (Royalty & Polity), Kural 395 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The unlearned are inferior to the learned, before whom they stand begging, as the destitute before the wealthy. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்வி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Learning' thoughtfully.",
+        "quiz_question_ta": "'கல்வி' அதிகாரத்தில் வரும் திருக்குறள் 395 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 395 from Chapter 'Learning'?",
+        "quiz_options_ta": [
+          "எக்காலத்திலும் தன்னை மிக உயர்வாக எண்ணி வியந்து மதிக்கக் கூடாது, நன்மை தராத செயலைத்தான் விரும்பவும் கூடாது.",
+          "காலத்தோடுப் பொருந்துமாறு ஆராய்ந்து நடத்தல் ( நில்லாத இயல்பு உடைய) செல்வத்தை நீங்காமல் நிற்குமாறு கட்டும் கயிறாகும்.",
+          "பொருள் கொடுத்தலும் இன்சொல் கூறுதலுமாகிய இரண்டும் செய்யவல்லவனானால் ஒருவன் தொடர்ந்த பலச் சுற்றத்தால் சூழப்படுவான்.",
+          "செல்வர் முன் வறியவர் நிற்பது போல் (கற்றவர்முன்) ஏங்கித் தாழ்ந்து நின்றும் கல்விக் கற்றவரே உயர்ந்தவர், கல்லாதவர் இழிந்தவர்."
+        ],
+        "quiz_options_en": [
+          "Never boast yourself in any mood Nor do a deed that does no good",
+          "Well-ordered seasoned act is cord That fortune binds in bon accord",
+          "Loving words and liberal hand Encircle kith and kin around",
+          "Like poor before rich they yearn: For knowledge: the low never learn"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்வி) பகுதியில் குறள் 395 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செல்வர் முன் வறியவர் நிற்பது போல் (கற்றவர்முன்) ஏங்கித் தாழ்ந்து நின்றும் கல்விக் கற்றவரே உயர்ந்தவர், கல்லாதவர் இழிந்தவர்.",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 40: 'Learning'), Kural 395 distills a foundational ethical insight: \"With soul submiss they stand, as paupers front a rich man's face; Yet learned men are first; th'unlearned stand in lowest place\" Philosophically, The unlearned are inferior to the learned, before whom they stand begging, as the destitute before the wealthy.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "wealth",
+        "kindness",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 396,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: மணலில் உள்ள கேணியில் தோண்டிய அளவிற்க்கு நீர் ஊறும், அதுபோல் மக்களின் கற்றக் கல்வியின் அளவிற்கு அறிவு ஊறும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Water will flow from a well in the sand in proportion to the depth to which it is dug, and knowledge will flow from a man in proportion to his learning.",
+        "story_title_ta": "கல்வி — கவின் கற்ற பாடம்",
+        "story_title_en": "Learning — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்வி' என்ற அதிகாரத்திலிருந்து குறள் 396 பற்றிக் கதை சொன்னார். 'மணலில் தோண்டிய அளவு சிறு குளத்தில் நீர் ஊறும்; மக்கள் கற்ற அளவே அறிவும் வளரும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 40, 'Learning', centered on Kural 396: Water will flow from a well in the sand in proportion to the depth to which it is dug, and knowledge will flow from a man in proportion to his learning. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தோண்டத் தோண்ட ஊற்றுநீர் கிடைப்பது போலத் தொடர்ந்து படிக்கப் படிக்க அறிவு பெருகிக் கொண்டே இருக்கும்.",
+        "moral_en": "Moral: In sandy soil, when deep you delve, you reach the springs below; The more you learn, the freer streams of wisdom flow.",
+        "game_blank_word_ta": "தொட்டனைத்",
+        "game_options_ta": [
+          "தொட்டனைத்",
+          "கற்க",
+          "கசடறக்",
+          "கற்பவை"
+        ],
+        "game_options_en": [
+          "As deep you dig the sand spring flows As deep you learn the knowledge grows",
+          "Lore worth learning, learn flawlessly Live by that learning thoroughly",
+          "Letter, number, art and science Of living kind both are the eyes",
+          "The learned alone have eyes on face The ignorant two sores of disgrace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்வி (அரசியல்) பிரிவில் அமைந்த குறள் 396, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மணலில் தோண்டிய அளவு சிறு குளத்தில் நீர் ஊறும்; மக்கள் கற்ற அளவே அறிவும் வளரும். கலைஞர் உரை கூறுவது: தோண்டத் தோண்ட ஊற்றுநீர் கிடைப்பது போலத் தொடர்ந்து படிக்கப் படிக்க அறிவு பெருகிக் கொண்டே இருக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Learning (Royalty & Polity), Kural 396 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Water will flow from a well in the sand in proportion to the depth to which it is dug, and knowledge will flow from a man in proportion to his learning. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்வி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Learning' thoughtfully.",
+        "quiz_question_ta": "'கல்வி' அதிகாரத்தில் வரும் திருக்குறள் 396 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 396 from Chapter 'Learning'?",
+        "quiz_options_ta": [
+          "மணலில் உள்ள கேணியில் தோண்டிய அளவிற்க்கு நீர் ஊறும், அதுபோல் மக்களின் கற்றக் கல்வியின் அளவிற்கு அறிவு ஊறும்.",
+          "தன் விருப்பம் பிறர்க்கு தெரியாதபடி விருப்பமான வற்றை நுகர வல்லவனானால், பகைவர் தன்னை வஞ்சிப்பதற்காகச் செய்யும் சூழ்ச்சிகள் பலிக்காமல் போகும்.",
+          "(செய்யும் செயலை முடிப்பதற்கு வேண்டிய) கருவிகளுடன் ஏற்றக் காலத்தையும் அறிந்து செய்தால் அரிய செயல்கள் என்பது உண்டோ.",
+          "பெரிய கொடையாளியாகவும் சினமற்றவனாகவும் ஒருவன் இருந்தால் அவனைப் போல் சுற்றத்தாரை உடையவர் உலகத்தில் யாரும் இல்லை."
+        ],
+        "quiz_options_en": [
+          "As deep you dig the sand spring flows As deep you learn the knowledge grows",
+          "All designs of the foes shall fail If one his wishes guards in veil",
+          "What is hard for him who acts With proper means and time and tacts?",
+          "Large giver and wrathless man Commands on earth countless kinsmen"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்வி) பகுதியில் குறள் 396 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மணலில் உள்ள கேணியில் தோண்டிய அளவிற்க்கு நீர் ஊறும், அதுபோல் மக்களின் கற்றக் கல்வியின் அளவிற்கு அறிவு ஊறும். பரிமேலழகர் உரை நுட்பம்: மணற்கேணி தொட்ட அனைத்து ஊறும் - மணலின்கண் கேணி தோண்டிய அளவிற்றாக ஊறும், மாந்தற்கு அறிவு கற்றனைத்து ஊறும் - அதுபோல மக்கட்கு அறிவு கற்ற அளவிற்றாக ஊறும். (ஈண்டுக் 'கேணி' என்றது, அதற்கண் நீரை. 'அளவிற்றாக' என்றது, அதன் அளவும் செல்ல என்றவாறு. சிறிது கற்ற துணையான...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 40: 'Learning'), Kural 396 distills a foundational ethical insight: \"In sandy soil, when deep you delve, you reach the springs below; The more you learn, the freer streams of wisdom flow\" Philosophically, Water will flow from a well in the sand in proportion to the depth to which it is dug, and knowledge will flow from a man in proportion to his learning.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "wisdom",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 397,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கற்றவனுக்கு தன் நாடும் ஊரும் போல வேறு எதுவாயினும் நாடாகும், ஊராகும் ஆகையால் ஒருவன் சாகும் வரையில் கல்லாமல் காலங்கழிப்பது ஏன்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: How is it that any one can remain without learning, even to his death, when (to the learned man) every country is his own (country), and every town his own (town) ?",
+        "story_title_ta": "கல்வி — நிலா கற்ற பாடம்",
+        "story_title_en": "Learning — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்வி' என்ற அதிகாரத்திலிருந்து குறள் 397 பற்றிக் கதை சொன்னார். 'கற்றவனுக்கு எல்லா நாடும் சொந்த நாடாம்; எல்லா ஊரும் சொந்த ஊராம். இதனைத் தெரிந்தும் ஒருவன் இறக்கும் வரை கூடப் படிக்காமல் இருப்பது ஏன்?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 40, 'Learning', centered on Kural 397: How is it that any one can remain without learning, even to his death, when (to the learned man) every country is his own (country), and every town his own (town) ? Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கற்றோர்க்கு எல்லா நாடுகளிலும் எல்லா ஊர்களிலும் சிறப்பு என்கிறபோது, ஒருவன் சாகும் வரையில் கற்காமல் காலம் கழிப்பது ஏனோ?",
+        "moral_en": "Moral: The learned make each land their own, in every city find a home; Who, till they die; learn nought, along what weary ways they roam.",
+        "game_blank_word_ta": "நாடாமால்",
+        "game_options_ta": [
+          "கற்க",
+          "நாடாமால்",
+          "கசடறக்",
+          "கற்பவை"
+        ],
+        "game_options_en": [
+          "Lore worth learning, learn flawlessly Live by that learning thoroughly",
+          "All lands and towns are learner's own Why not till death learning go on!",
+          "Letter, number, art and science Of living kind both are the eyes",
+          "The learned alone have eyes on face The ignorant two sores of disgrace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்வி (அரசியல்) பிரிவில் அமைந்த குறள் 397, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கற்றவனுக்கு எல்லா நாடும் சொந்த நாடாம்; எல்லா ஊரும் சொந்த ஊராம். இதனைத் தெரிந்தும் ஒருவன் இறக்கும் வரை கூடப் படிக்காமல் இருப்பது ஏன்? கலைஞர் உரை கூறுவது: கற்றோர்க்கு எல்லா நாடுகளிலும் எல்லா ஊர்களிலும் சிறப்பு என்கிறபோது, ஒருவன் சாகும் வரையில் கற்காமல் காலம் கழிப்பது ஏனோ? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Learning (Royalty & Polity), Kural 397 speaks directly to teens navigating studies, friendships, leadership, and digital choices: How is it that any one can remain without learning, even to his death, when (to the learned man) every country is his own (country), and every town his own (town) ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்வி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Learning' thoughtfully.",
+        "quiz_question_ta": "'கல்வி' அதிகாரத்தில் வரும் திருக்குறள் 397 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 397 from Chapter 'Learning'?",
+        "quiz_options_ta": [
+          "அறம் உணர்ந்தவராய்த் தன்னை விட மூத்தவராய் உள்ள அறிவுடையவரின் நட்பை, கொள்ளும் வகை அறிந்து ஆராய்ந்து கொள்ள வேண்டும்.",
+          "கற்றவனுக்கு தன் நாடும் ஊரும் போல வேறு எதுவாயினும் நாடாகும், ஊராகும் ஆகையால் ஒருவன் சாகும் வரையில் கல்லாமல் காலங்கழிப்பது ஏன்.",
+          "(செயலை முடிப்பதற்கு ஏற்ற) காலத்தை அறிந்து இடத்தோடு பொருந்துமாறு செய்தால், உலகமே வேண்டும் எனக் கருதினாலும் கைகூடும்.",
+          "காக்கை (தனக்கு கிடைத்ததை) மறைத்து வைக்காமல் சுற்றத்தைக் கூவி அழைத்து உண்ணும். ஆக்கமும் அத்தகைய இயல்பு உடையவர்க்கே உண்டு."
+        ],
+        "quiz_options_en": [
+          "Weigh their worth and friendship gain Of men of virtue and mature brain",
+          "All lands and towns are learner's own Why not till death learning go on!",
+          "Choose proper time and act and place Even the world you win with ease",
+          "The crows hide not; thy call and eat Welfare abides a man of heart"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்வி) பகுதியில் குறள் 397 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கற்றவனுக்கு தன் நாடும் ஊரும் போல வேறு எதுவாயினும் நாடாகும், ஊராகும் ஆகையால் ஒருவன் சாகும் வரையில் கல்லாமல் காலங்கழிப்பது ஏன். பரிமேலழகர் உரை நுட்பம்: யாதானும் நாடுஆம் ஊர்ஆம் - கற்றவனுக்குத் தன்னாடும் தன்னூருமேயன்றி, யாதானும் ஒரு நாடும் நாடாம், யாதானும் ஓர் ஊரும் ஊர் ஆம்; ஒருவன் சாம் துணையும் கல்லாதவாறு என் - இங்ஙனமாயின், ஒருவன் தான் இறக்கும் அளவும் கல்லாது கழிகின்றது என் கருதி? (உயிரோடு சேறலின...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 40: 'Learning'), Kural 397 distills a foundational ethical insight: \"The learned make each land their own, in every city find a home; Who, till they die; learn nought, along what weary ways they roam\" Philosophically, How is it that any one can remain without learning, even to his death, when (to the learned man) every country is his own (country), and every town his own (town) ?",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "speech",
+        "time",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 398,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒரு பிறப்பில் தான் கற்றக் கல்வியானது அப்பிறப்பிற்கு மட்டும் அல்லாமல் அவனுக்கு ஏழுபிறப்பிறப்பிலும் உதவும் தன்மை உடையது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The learning, which a man has acquired in one birth, will yield him pleasure during seven births.",
+        "story_title_ta": "கல்வி — அன்பு கற்ற பாடம்",
+        "story_title_en": "Learning — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்வி' என்ற அதிகாரத்திலிருந்து குறள் 398 பற்றிக் கதை சொன்னார். 'ஒருவன் ஒரு பிறவியில் கற்ற கல்வி, அவனுக்கு ஏழு பிறப்பிலும் - எழும் பிறவிதோறும் கூடவே சென்று உதவும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 40, 'Learning', centered on Kural 398: The learning, which a man has acquired in one birth, will yield him pleasure during seven births. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒரு தலைமுறையில் பெறும் கல்வி அறிவானது, ஏழேழு தலைமுறைக்கும் பாதுகாப்பாக அமையும்.",
+        "moral_en": "Moral: The man who store of learning gains, In one, through seven worlds, bliss attains.",
+        "game_blank_word_ta": "புடைத்து",
+        "game_options_ta": [
+          "கற்க",
+          "கசடறக்",
+          "புடைத்து",
+          "கற்பவை"
+        ],
+        "game_options_en": [
+          "Lore worth learning, learn flawlessly Live by that learning thoroughly",
+          "Letter, number, art and science Of living kind both are the eyes",
+          "The joy of learning in one birth Exalts man upto his seventh",
+          "The learned alone have eyes on face The ignorant two sores of disgrace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்வி (அரசியல்) பிரிவில் அமைந்த குறள் 398, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவன் ஒரு பிறவியில் கற்ற கல்வி, அவனுக்கு ஏழு பிறப்பிலும் - எழும் பிறவிதோறும் கூடவே சென்று உதவும். கலைஞர் உரை கூறுவது: ஒரு தலைமுறையில் பெறும் கல்வி அறிவானது, ஏழேழு தலைமுறைக்கும் பாதுகாப்பாக அமையும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Learning (Royalty & Polity), Kural 398 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The learning, which a man has acquired in one birth, will yield him pleasure during seven births. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்வி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Learning' thoughtfully.",
+        "quiz_question_ta": "'கல்வி' அதிகாரத்தில் வரும் திருக்குறள் 398 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 398 from Chapter 'Learning'?",
+        "quiz_options_ta": [
+          "வந்துள்ள துன்பத்தை நீக்கி, இனித் துன்பம் வராதபடி முன்னதாகவே காக்கவல்ல தன்மையுடையவரைப் போற்றி நட்புக் கொள்ள வேண்டும்.",
+          "உலகத்தைக் கொள்ளக் கருதிகின்றவர் அதைப்பற்றி எண்ணிக் கலங்காமல் அதற்கு ஏற்ற காலத்தைக் கருதிக்கொண்டு பொறுத்திருப்பர்.",
+          "ஒரு பிறப்பில் தான் கற்றக் கல்வியானது அப்பிறப்பிற்கு மட்டும் அல்லாமல் அவனுக்கு ஏழுபிறப்பிறப்பிலும் உதவும் தன்மை உடையது.",
+          "அரசன் எல்லாரையும் பொதுவகையாக நோக்காமல், அவரவர் சிறப்புக்கு ஏற்றவாறு நோக்கினால், அதை விரும்பி சுற்றமாக வாழ்கின்றவர் பலர் ஆவர்."
+        ],
+        "quiz_options_en": [
+          "Cherish the help of men of skill Who ward and safe-guard you from ill",
+          "Who want to win the world sublime Wait unruffled biding their time",
+          "The joy of learning in one birth Exalts man upto his seventh",
+          "From public gaze when kings perceive Each one's merits so many thrive"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்வி) பகுதியில் குறள் 398 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒரு பிறப்பில் தான் கற்றக் கல்வியானது அப்பிறப்பிற்கு மட்டும் அல்லாமல் அவனுக்கு ஏழுபிறப்பிறப்பிலும் உதவும் தன்மை உடையது. பரிமேலழகர் உரை நுட்பம்: ஒருவற்கு - ஒருவனுக்கு, தான் ஒருமைக்கண் கற்ற கல்வி - தான் ஒரு பிறப்பின்கண் கற்ற கல்வி, எழுமையும் ஏமாப்பு உடைத்து - எழுபிறப்பினும் சென்று உதவுதலை உடைத்து. (வினைகள்போல உயிரின்கண் கிடந்து அது புக்குழிப் புகும் ஆகலின், 'எழுமையும் ஏமாப்பு உடைத்து' என்றார். எழுமை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 40: 'Learning'), Kural 398 distills a foundational ethical insight: \"The man who store of learning gains, In one, through seven worlds, bliss attains\" Philosophically, The learning, which a man has acquired in one birth, will yield him pleasure during seven births.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "love",
+        "harmony",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 399,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தாம் இன்புறுவதற்குக் காரணமான கல்வியால் உலகமும் இன்புறுவதைக் கண்டு, கற்றறிந்த அறிஞர் மேன்மேலும் (அக் கல்வியையே) விரும்புவர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The learned will long (for more learning), when they see that while it gives pleasure to themselves, the world also derives pleasure from it.",
+        "story_title_ta": "கல்வி — இனியா கற்ற பாடம்",
+        "story_title_en": "Learning — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்வி' என்ற அதிகாரத்திலிருந்து குறள் 399 பற்றிக் கதை சொன்னார். 'தம் மனத்தை மகிழ்விக்கும் கல்வியினால் உலகம் மகிழ்வதைக் கண்டு கற்று அறிந்தவர்கள் மேலும் கற்கவே விரும்புவார்கள்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 40, 'Learning', centered on Kural 399: The learned will long (for more learning), when they see that while it gives pleasure to themselves, the world also derives pleasure from it. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தமக்கு இன்பம் தருகின்ற கல்வியறிவு உலகத்தாருக்கும் இன்பம் தருவதைக் கண்டு, அறிஞர்கள் மேலும் மேலும் பலவற்றைக் கற்றிட விரும்புவார்கள்.",
+        "moral_en": "Moral: Their joy is joy of all the world, they see; thus moreThe learners learn to love their cherished lore.",
+        "game_blank_word_ta": "புறக்கண்டு",
+        "game_options_ta": [
+          "கற்க",
+          "கசடறக்",
+          "கற்பவை",
+          "புறக்கண்டு"
+        ],
+        "game_options_en": [
+          "Lore worth learning, learn flawlessly Live by that learning thoroughly",
+          "Letter, number, art and science Of living kind both are the eyes",
+          "The learned alone have eyes on face The ignorant two sores of disgrace",
+          "The learned foster learning more On seeing the world enjoy their lore"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்வி (அரசியல்) பிரிவில் அமைந்த குறள் 399, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம் மனத்தை மகிழ்விக்கும் கல்வியினால் உலகம் மகிழ்வதைக் கண்டு கற்று அறிந்தவர்கள் மேலும் கற்கவே விரும்புவார்கள். கலைஞர் உரை கூறுவது: தமக்கு இன்பம் தருகின்ற கல்வியறிவு உலகத்தாருக்கும் இன்பம் தருவதைக் கண்டு, அறிஞர்கள் மேலும் மேலும் பலவற்றைக் கற்றிட விரும்புவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Learning (Royalty & Polity), Kural 399 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The learned will long (for more learning), when they see that while it gives pleasure to themselves, the world also derives pleasure from it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்வி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Learning' thoughtfully.",
+        "quiz_question_ta": "'கல்வி' அதிகாரத்தில் வரும் திருக்குறள் 399 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 399 from Chapter 'Learning'?",
+        "quiz_options_ta": [
+          "பெரியாரைப் போற்றி தமக்குச் சுற்றத்தாராக்கிக் கொள்ளுதல், பெறத்தக்க அரிய பேறுகள் எல்லாவற்றிலும் அருமையானதாகும்.",
+          "ஊக்கம் மிகுந்தவன் (காலத்தை எதிர்பார்த்து) அடங்கியிருத்தல் போர் செய்யும் ஆட்டுக்கடா தன் பகையைத் தாக்குவதற்க்காகப் பின்னே கால் வாங்குதலைப் போன்றது.",
+          "முன் சுற்றத்தாறாக இருந்து பின் ஒருக் காரணத்தால் பிரிந்தவரின் உறவு, அவ்வாறு அவர் பொருந்தாமலிருந்த காரணம் நீங்கியபின் தானே வந்து சேரும்.",
+          "தாம் இன்புறுவதற்குக் காரணமான கல்வியால் உலகமும் இன்புறுவதைக் கண்டு, கற்றறிந்த அறிஞர் மேன்மேலும் (அக் கல்வியையே) விரும்புவர்."
+        ],
+        "quiz_options_en": [
+          "Honour and have the great your own Is rarest of the rare things known",
+          "By self-restraint stalwarts keep fit Like rams retreating but to butt",
+          "Forsaken friends will come and stay When cause for discord goes away",
+          "The learned foster learning more On seeing the world enjoy their lore"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்வி) பகுதியில் குறள் 399 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தாம் இன்புறுவதற்குக் காரணமான கல்வியால் உலகமும் இன்புறுவதைக் கண்டு, கற்றறிந்த அறிஞர் மேன்மேலும் (அக் கல்வியையே) விரும்புவர். பரிமேலழகர் உரை நுட்பம்: தாம் இன்புறுவது உலகு இன்புறக் கண்டு - தாம் இன்புறுதற்கு ஏதுவாகிய கல்விக்கு உலகம் இன்புறுதலால் அச்சிறப்பு நோக்கி, கற்றறிந்தார் காமுறுவர் - கற்றறிந்தார் பின்னும் அதனையே விரும்புவர். (தாம் இன்புறுதலானது, நிகழ்வின் கண் சொற்பொருள்களின் சுவை நுகர்வானும், புகழ...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 40: 'Learning'), Kural 399 distills a foundational ethical insight: \"Their joy is joy of all the world, they see; thus moreThe learners learn to love their cherished lore\" Philosophically, The learned will long (for more learning), when they see that while it gives pleasure to themselves, the world also derives pleasure from it.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "harmony",
+        "love",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 400,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒருவனுக்கு அழிவு இல்லாத சிறந்த செல்வம் கல்வியே ஆகும், கல்வியைத் தவிர மற்றப் பொருள்கள் (அத்தகைய சிறப்புடைய) செல்வம் அல்ல.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Learning is the true imperishable riches; all other things are not riches.",
+        "story_title_ta": "கல்வி — முகில் கற்ற பாடம்",
+        "story_title_en": "Learning — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கல்வி' என்ற அதிகாரத்திலிருந்து குறள் 400 பற்றிக் கதை சொன்னார். 'கல்வியே அழிவு இல்லாத சிறந்த செல்வம்; பிற எல்லாம் செல்வமே அல்ல.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 40, 'Learning', centered on Kural 400: Learning is the true imperishable riches; all other things are not riches. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கல்வி ஒன்றே அழிவற்ற செல்வமாகும் அதற்கொப்பான சிறந்த செல்வம் வேறு எதுவும் இல்லை.",
+        "moral_en": "Moral: Learning is excellence of wealth that none destroy; To man nought else affords reality of joy.",
+        "game_blank_word_ta": "மாடல்ல",
+        "game_options_ta": [
+          "மாடல்ல",
+          "கற்க",
+          "கசடறக்",
+          "கற்பவை"
+        ],
+        "game_options_en": [
+          "Learning is wealth none could destroy Nothing else gives genuine joy",
+          "Lore worth learning, learn flawlessly Live by that learning thoroughly",
+          "Letter, number, art and science Of living kind both are the eyes",
+          "The learned alone have eyes on face The ignorant two sores of disgrace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கல்வி (அரசியல்) பிரிவில் அமைந்த குறள் 400, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கல்வியே அழிவு இல்லாத சிறந்த செல்வம்; பிற எல்லாம் செல்வமே அல்ல. கலைஞர் உரை கூறுவது: கல்வி ஒன்றே அழிவற்ற செல்வமாகும் அதற்கொப்பான சிறந்த செல்வம் வேறு எதுவும் இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Learning (Royalty & Polity), Kural 400 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Learning is the true imperishable riches; all other things are not riches. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கல்வி' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Learning' thoughtfully.",
+        "quiz_question_ta": "'கல்வி' அதிகாரத்தில் வரும் திருக்குறள் 400 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 400 from Chapter 'Learning'?",
+        "quiz_options_ta": [
+          "ஒருவனுக்கு அழிவு இல்லாத சிறந்த செல்வம் கல்வியே ஆகும், கல்வியைத் தவிர மற்றப் பொருள்கள் (அத்தகைய சிறப்புடைய) செல்வம் அல்ல.",
+          "தம்மைவிட (அறிவு முதலியவற்றால் ) பெரியவர் தமக்குச் சுற்றத்தராகுமாறு நடத்தல், வல்லமை எல்லாவற்றிலும் சிறந்ததாகும்.",
+          "அறிவுடையவர் ( பகைவர் தீங்கு செய்த) அப்பொழுதே உடனே புறத்தில் சினம் கொள்ளமாட்டார், (வெல்வதற்கு ஏற்ற) காலம் பார்த்து அகத்தில் சினம் கொள்வார்.",
+          "தன்னிடமிருந்து பிரிந்து சென்று பின் ஒருக் காரணம்பற்றித் திரும்பிவந்தவனை, அரசன் அவன் நாடிய உதவியைச் செய்து ஆராய்ந்து உறவு கொள்ள வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Learning is wealth none could destroy Nothing else gives genuine joy",
+          "To have betters as intimates Power of all powers promotes",
+          "The wise jut not their vital fire They watch their time with hidden ire",
+          "Who leaves and returns with motive The king should test him and receive"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கல்வி) பகுதியில் குறள் 400 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவனுக்கு அழிவு இல்லாத சிறந்த செல்வம் கல்வியே ஆகும், கல்வியைத் தவிர மற்றப் பொருள்கள் (அத்தகைய சிறப்புடைய) செல்வம் அல்ல. பரிமேலழகர் உரை நுட்பம்: ஒருவற்குக் கேடு இல் விழுச் செல்வம் கல்வி - ஒருவனுக்கு அழிவு இல்லாத சீரிய செல்வமாவது கல்வி, மற்றையவை மாடு அல்ல - அஃது ஒழிந்த மணியும் பொன்னும் முதலாயின செல்வமல்ல. (அழிவின்மையாவது : தாயத்தார், கள்வர், வலியர், அரசர் என்ற இவரால் கொள்ளப்படாமையும் வழிபட்டார்க்குக...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 40: 'Learning'), Kural 400 distills a foundational ethical insight: \"Learning is excellence of wealth that none destroy; To man nought else affords reality of joy\" Philosophically, Learning is the true imperishable riches; all other things are not riches.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "education",
+        "wealth",
+        "kindness",
+        "truth"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "adhikaram_id": 58,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.979926472+00:00",
+  "kurals": [
+    {
+      "kural_number": 571,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: கண்ணோட்டம் என்று சொல்லப்படுகின்ற மிகச் சிறந்த அழகு இருக்கும் காரணத்தால் தான், இந்த உலகம் அழியாமல் இருக்கின்றது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The world exists through that greatest ornament (of princes), a gracious demeanour.",
+        "story_title_ta": "கண்ணோட்டம் — நிலா கற்ற பாடம்",
+        "story_title_en": "Benignity — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கண்ணோட்டம்' என்ற அதிகாரத்திலிருந்து குறள் 571 பற்றிக் கதை சொன்னார். 'முகம் பார்த்தல் என்னும் பேரழகு மனிதருள் இருப்பதால்தான் மக்கள் வாழ்க்கை தொடர்கின்றது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 58, 'Benignity', centered on Kural 571: The world exists through that greatest ornament (of princes), a gracious demeanour. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இந்த உலகம், அன்பும் இரக்கமும் இணைந்த கண்ணோட்டம் எனப்படுகிற பெரும் அழகைக் கொண்டவர்கள் இருப்பதால்தான் பெருமை அடைகிறது.",
+        "moral_en": "Moral: Since true benignity, that grace exceeding great, residesIn kingly souls, world in happy state abides.",
+        "game_blank_word_ta": "உண்மையான்",
+        "game_options_ta": [
+          "கண்ணோட்டத்",
+          "துள்ளது",
+          "உலகியல்",
+          "உண்மையான்"
+        ],
+        "game_options_en": [
+          "World lives by looks of lovely worth Who lack them are burdens of earth",
+          "Of tuneless song what is the use? Without gracious looks what are eyes?",
+          "Except that they are on the face What for are eyes sans measured grace",
+          "Living in the world implies The bounteous dame of benign eyes"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண்ணோட்டம் (அரசியல்) பிரிவில் அமைந்த குறள் 571, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முகம் பார்த்தல் என்னும் பேரழகு மனிதருள் இருப்பதால்தான் மக்கள் வாழ்க்கை தொடர்கின்றது. கலைஞர் உரை கூறுவது: இந்த உலகம், அன்பும் இரக்கமும் இணைந்த கண்ணோட்டம் எனப்படுகிற பெரும் அழகைக் கொண்டவர்கள் இருப்பதால்தான் பெருமை அடைகிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Benignity (Royalty & Polity), Kural 571 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The world exists through that greatest ornament (of princes), a gracious demeanour. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கண்ணோட்டம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Benignity' thoughtfully.",
+        "quiz_question_ta": "'கண்ணோட்டம்' அதிகாரத்தில் வரும் திருக்குறள் 571 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 571 from Chapter 'Benignity'?",
+        "quiz_options_ta": [
+          "தன் இன்பத்தை விரும்பாதவனாய் மேற்க்கொண்டச் செயலை முடிக்க விரும்புகிறவன், தன் சுற்றத்தாரின் துன்பத்தைப் போக்கித் தாங்குகின்ற தூண் ஆவான்.",
+          "ஆகாதவை என விலக்கப்பட்ட செயல்களை விலக்கிவிடாமல் மேற்கொண்டு செய்தவர்க்கும், அச் செயல் நிறைவேறினாலும் துன்பமே கொடுக்கும்.",
+          "ஓருவர் சொல்லாமலே அவறுடைய முகத்தை நோக்கி அவர் கருதிய குறிப்பை அறிகின்றவன் எப்போதும் உலகத்திற்க்கு ஓர் அணிகலன் ஆவான்.",
+          "கண்ணோட்டம் என்று சொல்லப்படுகின்ற மிகச் சிறந்த அழகு இருக்கும் காரணத்தால் தான், இந்த உலகம் அழியாமல் இருக்கின்றது."
+        ],
+        "quiz_options_en": [
+          "Work who likes and not pleasure Wipes grief of friends, pillar secure",
+          "Those who dare a forbidden deed Suffer troubles though they succeed",
+          "Who reads the mind by look, untold Adorns the changeless sea-girt world",
+          "Living in the world implies The bounteous dame of benign eyes"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கண்ணோட்டம்) பகுதியில் குறள் 571 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கண்ணோட்டம் என்று சொல்லப்படுகின்ற மிகச் சிறந்த அழகு இருக்கும் காரணத்தால் தான், இந்த உலகம் அழியாமல் இருக்கின்றது. பரிமேலழகர் உரை நுட்பம்: கண்ணோட்டம் என்னும் கழி பெருங்காரிகை உண்மையான் - கண்ணோட்டம் என்று சொல்லப்படுகின்ற சிறப்பு உடைய அழகு அரசர்மாட்டு உண்டு ஆகலான்; இவ்வுலகு உண்டு - இவ்வுலகம் உண்டாகாநின்றது. ('கழிபெருங்காரிகை' என்புழி ஒருபொருட் பன்மொழி, இவ் உயிரழகது சிறப்புணர நின்றது. இவ்வழகு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 58: 'Benignity'), Kural 571 distills a foundational ethical insight: \"Since true benignity, that grace exceeding great, residesIn kingly souls, world in happy state abides\" Philosophically, The world exists through that greatest ornament (of princes), a gracious demeanour.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "harmony",
+        "truth",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 572,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கண்ணோட்டத்தினால் உலகியல் நடைபெறுகின்றது, கண்ணோட்டம் இல்லாதவர் உயிரோடு இருத்தல் நிலத்திற்குச் சுமையே தவிர வேறு பயனில்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The prosperity of the world springs from the kindliness, the existence of those who have no (kindliness) is a burden to the earth.",
+        "story_title_ta": "கண்ணோட்டம் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Benignity — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கண்ணோட்டம்' என்ற அதிகாரத்திலிருந்து குறள் 572 பற்றிக் கதை சொன்னார். 'மக்கள் வாழ்க்கை கண்ணோட்டத்தால்தான் இயங்குகின்றது அக்கண்ணோட்டம் இல்லாதவர் வாழ்வது இப்பூமிக்கு பாரமே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 58, 'Benignity', centered on Kural 572: The prosperity of the world springs from the kindliness, the existence of those who have no (kindliness) is a burden to the earth. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அன்புடன் அரவணைத்து இரக்கம் காட்டும் கண்ணோட்டம் எனப்படும் உலகியலுக்கு, மாறாக இருப்பவர்கள் இந்தப் பூமிக்குச் சுமையாவார்கள்.",
+        "moral_en": "Moral: The world goes on its wonted way, since grace benign is there; All other men are burthen for the earth to bear.",
+        "game_blank_word_ta": "உலகியல்",
+        "game_options_ta": [
+          "உலகியல்",
+          "கண்ணோட்டம்",
+          "என்னும்",
+          "கழிபெருங்"
+        ],
+        "game_options_en": [
+          "World lives by looks of lovely worth Who lack them are burdens of earth",
+          "Living in the world implies The bounteous dame of benign eyes",
+          "Of tuneless song what is the use? Without gracious looks what are eyes?",
+          "Except that they are on the face What for are eyes sans measured grace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண்ணோட்டம் (அரசியல்) பிரிவில் அமைந்த குறள் 572, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மக்கள் வாழ்க்கை கண்ணோட்டத்தால்தான் இயங்குகின்றது அக்கண்ணோட்டம் இல்லாதவர் வாழ்வது இப்பூமிக்கு பாரமே. கலைஞர் உரை கூறுவது: அன்புடன் அரவணைத்து இரக்கம் காட்டும் கண்ணோட்டம் எனப்படும் உலகியலுக்கு, மாறாக இருப்பவர்கள் இந்தப் பூமிக்குச் சுமையாவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Benignity (Royalty & Polity), Kural 572 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The prosperity of the world springs from the kindliness, the existence of those who have no (kindliness) is a burden to the earth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கண்ணோட்டம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Benignity' thoughtfully.",
+        "quiz_question_ta": "'கண்ணோட்டம்' அதிகாரத்தில் வரும் திருக்குறள் 572 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 572 from Chapter 'Benignity'?",
+        "quiz_options_ta": [
+          "கண்ணோட்டத்தினால் உலகியல் நடைபெறுகின்றது, கண்ணோட்டம் இல்லாதவர் உயிரோடு இருத்தல் நிலத்திற்குச் சுமையே தவிர வேறு பயனில்லை.",
+          "முயற்சி ஒருவனுக்குச் செல்வத்தைப் பெருகச் செய்யும், முயற்சி இல்லாதிருத்தல் அவனுக்கு வறுமையைச் சேர்த்துவிடும்.",
+          "பிறர் வருந்துமாறு செய்து பெற்ற பொருள் எல்லாம் பெற்றவன் வருந்துமாறு செய்து போய்விடும், நல்வழியில் வந்தவை இழக்கப்பட்டாலும் பிறகு பயன் தரும்",
+          "ஐயப்படாமல் மனத்தில் உள்ளதை உணரவல்லவனை (அவன் மனிதனே ஆனாலும்) தெய்வத் தோடு ஒப்பாக கொள்ள வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "World lives by looks of lovely worth Who lack them are burdens of earth",
+          "Industry adds prosperity Indolence brings but poverty",
+          "Gains from weeping, weeping go Though lost, from good deeds blessings flow",
+          "Take him as God who reads the thought Of another man with without a doubt"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கண்ணோட்டம்) பகுதியில் குறள் 572 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கண்ணோட்டத்தினால் உலகியல் நடைபெறுகின்றது, கண்ணோட்டம் இல்லாதவர் உயிரோடு இருத்தல் நிலத்திற்குச் சுமையே தவிர வேறு பயனில்லை. பரிமேலழகர் உரை நுட்பம்: உலகியல் கண்ணோட்டத்து உள்ளது - உலகநடை கண்ணோட்டத்தின் கண்ணே நிகழ்வது; அஃது இலார் உண்மை நிலக்குப் பொறை - ஆகலான், அக்கண்ணோட்டம் இல்லாதார் உளராதல் இந்நிலத்திற்குப் பாரமாதற்கே, பிறிதொன்றற்கு அன்று. (உலகநடையாவது: ஒப்புரவு செய்தல், புறந்தருதல், பிழைத்தன பொறுத்தல...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 58: 'Benignity'), Kural 572 distills a foundational ethical insight: \"The world goes on its wonted way, since grace benign is there; All other men are burthen for the earth to bear\" Philosophically, The prosperity of the world springs from the kindliness, the existence of those who have no (kindliness) is a burden to the earth.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "harmony",
+        "family",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 573,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பாடலோடு பொருந்துதல் இல்லையானால் இசை என்ன பயனுடையதாகும், அதுபோல் கண்ணோட்டம் இல்லாவிட்டால் கண் என்ன பயனுடையதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Of what avail is a song if it be inconsistent with harmony ? what is the use of eyes which possess no kindliness.",
+        "story_title_ta": "கண்ணோட்டம் — இனியா கற்ற பாடம்",
+        "story_title_en": "Benignity — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கண்ணோட்டம்' என்ற அதிகாரத்திலிருந்து குறள் 573 பற்றிக் கதை சொன்னார். 'பாடப்படும் பாடலுக்குப் பொருந்தவில்லை என்றால் ராகத்தால் என்ன பயன்? அதுபோல கண்ணோட்டம் இல்லை என்றால் கண்ணால்தான் என்ன பயன்?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 58, 'Benignity', centered on Kural 573: Of what avail is a song if it be inconsistent with harmony ? what is the use of eyes which possess no kindliness. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இரக்க உணர்வு, அன்பு எனும் கண்ணோட்டத்துடன் பொருந்தி வராத கண்ணும், பாடலுடன் பொருந்தி வராத இசையும் பயன் தராதவையாகும்.",
+        "moral_en": "Moral: Where not accordant with the song, what use of sounding chordsWhat gain of eye that no benignant light affords.",
+        "game_blank_word_ta": "கண்என்னாம்",
+        "game_options_ta": [
+          "கண்ணோட்டம்",
+          "கண்என்னாம்",
+          "என்னும்",
+          "கழிபெருங்"
+        ],
+        "game_options_en": [
+          "Living in the world implies The bounteous dame of benign eyes",
+          "Of tuneless song what is the use? Without gracious looks what are eyes?",
+          "World lives by looks of lovely worth Who lack them are burdens of earth",
+          "Except that they are on the face What for are eyes sans measured grace"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண்ணோட்டம் (அரசியல்) பிரிவில் அமைந்த குறள் 573, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பாடப்படும் பாடலுக்குப் பொருந்தவில்லை என்றால் ராகத்தால் என்ன பயன்? அதுபோல கண்ணோட்டம் இல்லை என்றால் கண்ணால்தான் என்ன பயன்? கலைஞர் உரை கூறுவது: இரக்க உணர்வு, அன்பு எனும் கண்ணோட்டத்துடன் பொருந்தி வராத கண்ணும், பாடலுடன் பொருந்தி வராத இசையும் பயன் தராதவையாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Benignity (Royalty & Polity), Kural 573 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Of what avail is a song if it be inconsistent with harmony ? what is the use of eyes which possess no kindliness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கண்ணோட்டம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Benignity' thoughtfully.",
+        "quiz_question_ta": "'கண்ணோட்டம்' அதிகாரத்தில் வரும் திருக்குறள் 573 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 573 from Chapter 'Benignity'?",
+        "quiz_options_ta": [
+          "ஒருவனுடைய சோம்பலில் கரிய மூதேவி வாழ்கின்றாள், சோம்பல் இல்லாதவனுடைய முயற்சியிலே திருமகள் வாழ்கின்றாள்.",
+          "பாடலோடு பொருந்துதல் இல்லையானால் இசை என்ன பயனுடையதாகும், அதுபோல் கண்ணோட்டம் இல்லாவிட்டால் கண் என்ன பயனுடையதாகும்.",
+          "வஞ்சனையான வழியால் பொருளைச்சேர்த்துக் காப்பாற்றுதல், பச்சை மண்கலத்தில் நீரை விட்டு அதைக் காப்பாற்றி வைத்தாற் போன்றது.",
+          "(முகம் கண் இவற்றின்) குறிப்புக்களால் உள்ள குறிப்பை உணர வல்லவரை நாட்டின் உறுப்புக்களுள் எதைக் கொடுத்தாவது துணையாக பெற்றுக்கொள்ள வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Illuck abides with sloth they say *Laxmi's gifts with labourers stay *Laxmi the Goddes of wealth and prosperity",
+          "Of tuneless song what is the use? Without gracious looks what are eyes?",
+          "The wealth gathered in guilty ways Is water poured in wet clay vase",
+          "By sign who scans the sign admit At any cost in cabinet"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கண்ணோட்டம்) பகுதியில் குறள் 573 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பாடலோடு பொருந்துதல் இல்லையானால் இசை என்ன பயனுடையதாகும், அதுபோல் கண்ணோட்டம் இல்லாவிட்டால் கண் என்ன பயனுடையதாகும். பரிமேலழகர் உரை நுட்பம்: பண் என்னாம் பாடற்கு இயைபு இன்றேல் - பண் என்ன பயத்ததாம் பாடல் தொழிலோடு பொருத்தமின்றாயின்; கண் என்னாம் கண்ணோட்டம் இல்லாத கண் - அதுபோலக் கண் என்ன பயத்ததாம் கண்ணோட்டமில்லாத இடத்து. ('பண்', 'கண்' என்பன சாதிப்பெயர், பண்களாவன: பாலையாழ் முதலிய நூற்றுமூன்று. பாடல...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 58: 'Benignity'), Kural 573 distills a foundational ethical insight: \"Where not accordant with the song, what use of sounding chordsWhat gain of eye that no benignant light affords\" Philosophically, Of what avail is a song if it be inconsistent with harmony ? what is the use of eyes which possess no kindliness.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "family",
+        "harmony",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 574,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தக்க அளவிற்குக் கண்ணோட்டம் இல்லாத கண்கள் முகத்தில் உள்ளவை போல் தோன்றுதல் அல்லாமல் வேறு என்ன பயன் செய்யும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Beyond appearing to be in the face, what good do they do, those eyes in which is no well-regulated kindness ?",
+        "story_title_ta": "கண்ணோட்டம் — முகில் கற்ற பாடம்",
+        "story_title_en": "Benignity — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கண்ணோட்டம்' என்ற அதிகாரத்திலிருந்து குறள் 574 பற்றிக் கதை சொன்னார். 'வரம்பிற்கு உட்பட்ட கண்ணோட்டம் இல்லாத கண், முகத்தில் இருப்பது போல் இருக்கிறதே தவிர, அதனால் வேறு என்ன பயன் உண்டு?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 58, 'Benignity', centered on Kural 574: Beyond appearing to be in the face, what good do they do, those eyes in which is no well-regulated kindness ? Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அகத்தில் அன்பையும் இரக்கத்தையும் சுரக்கச் செய்யாத கண்கள் முகத்தில் உள்ளவைபோல் தோன்றுவதைத் தவிர, வேறு எந்தப்பயனும் இல்லாதவைகளாகும்.",
+        "moral_en": "Moral: The seeming eye of face gives no expressive light, When not with duly meted kindness bright.",
+        "game_blank_word_ta": "கண்ணோட்டம்",
+        "game_options_ta": [
+          "என்னும்",
+          "கழிபெருங்",
+          "கண்ணோட்டம்",
+          "காரிகை"
+        ],
+        "game_options_en": [
+          "Living in the world implies The bounteous dame of benign eyes",
+          "World lives by looks of lovely worth Who lack them are burdens of earth",
+          "Except that they are on the face What for are eyes sans measured grace",
+          "Of tuneless song what is the use? Without gracious looks what are eyes?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண்ணோட்டம் (அரசியல்) பிரிவில் அமைந்த குறள் 574, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வரம்பிற்கு உட்பட்ட கண்ணோட்டம் இல்லாத கண், முகத்தில் இருப்பது போல் இருக்கிறதே தவிர, அதனால் வேறு என்ன பயன் உண்டு? கலைஞர் உரை கூறுவது: அகத்தில் அன்பையும் இரக்கத்தையும் சுரக்கச் செய்யாத கண்கள் முகத்தில் உள்ளவைபோல் தோன்றுவதைத் தவிர, வேறு எந்தப்பயனும் இல்லாதவைகளாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Benignity (Royalty & Polity), Kural 574 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Beyond appearing to be in the face, what good do they do, those eyes in which is no well-regulated kindness ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கண்ணோட்டம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Benignity' thoughtfully.",
+        "quiz_question_ta": "'கண்ணோட்டம்' அதிகாரத்தில் வரும் திருக்குறள் 574 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 574 from Chapter 'Benignity'?",
+        "quiz_options_ta": [
+          "நன்மை விளைவிக்கும் ஊழ் இல்லாதிருத்தல் யார்க்கும் பழி அன்று, அறிய வேண்டியவற்றை அறிந்து முயற்சி செய்யாதிருத்தலே பழி.",
+          "ஒரு தொழிலின் திட்பம் என்று சொல்லப்படுவது ஒருவனுடைய மனதின் திட்பமே (உறுதியே) ஆகும், மற்றவை எல்லாம் வேறானவை.",
+          "தக்க அளவிற்குக் கண்ணோட்டம் இல்லாத கண்கள் முகத்தில் உள்ளவை போல் தோன்றுதல் அல்லாமல் வேறு என்ன பயன் செய்யும்.",
+          "ஒருவன் மனதில் கருதியதை அவன் கூறாமலே அறிந்து கொள்ள வல்லவரோடு மற்றவர் உறுப்பால் ஒத்தவராக இருந்தாலும் அறிவால் வேறுபட்டவர் ஆவார்."
+        ],
+        "quiz_options_en": [
+          "Misfortune is disgrace to none The shame is nothing learnt or done",
+          "A powerful mind does powerful act And all the rest are imperfect",
+          "Except that they are on the face What for are eyes sans measured grace",
+          "Untold, he who divines the thought Though same in form is quite apart"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கண்ணோட்டம்) பகுதியில் குறள் 574 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தக்க அளவிற்குக் கண்ணோட்டம் இல்லாத கண்கள் முகத்தில் உள்ளவை போல் தோன்றுதல் அல்லாமல் வேறு என்ன பயன் செய்யும். பரிமேலழகர் உரை நுட்பம்: முகத்து உளபோல் எவன் செய்யும் - கண்டார்க்கு, முகத்தின்கண் உளபோலத் தோன்றல் அல்லது வேறு என்ன பயனைச் செய்யும்; அளவினால் கண்ணோட்டம் இல்லாத கண் - அளவிறவாத கண்ணோடுதலை உடைய அல்லாத கண்கள். ('தோன்றல்', 'அல்லது' என்னும் சொற்கள் அவாய் நிலையான் வந்தன. கழிகண்ணோட்டத்தின...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 58: 'Benignity'), Kural 574 distills a foundational ethical insight: \"The seeming eye of face gives no expressive light, When not with duly meted kindness bright\" Philosophically, Beyond appearing to be in the face, what good do they do, those eyes in which is no well-regulated kindness ?",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "kindness",
+        "harmony",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 575,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஒருவனுடைய கண்ணுக்கு அணிகலமாவது கண்ணோட்டம் என்னும் பண்பே, அஃது இல்லையானால் புண் என்று உணரப்படும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Kind looks are the ornaments of the eyes; without these they will be considered (by the wise) to be merely two sores.",
+        "story_title_ta": "கண்ணோட்டம் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Benignity — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கண்ணோட்டம்' என்ற அதிகாரத்திலிருந்து குறள் 575 பற்றிக் கதை சொன்னார். 'ஒருவன் கண்ணிற்கு அணியும் நகை கண்ணோட்டமே; அந்த நகை மட்டும் இல்லை என்றால் அது புண் என்று பெரியோரால் அறியப்படும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 58, 'Benignity', centered on Kural 575: Kind looks are the ornaments of the eyes; without these they will be considered (by the wise) to be merely two sores. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கருணையுள்ளம் கொண்டவருடைய கண்ணே கண் என்று கூறப்படும் இல்லையானால் அது கண் அல்ல; புண்.",
+        "moral_en": "Moral: Benignity is eyes' adorning grace; Without it eyes are wounds disfiguring face.",
+        "game_blank_word_ta": "அணிகலம்",
+        "game_options_ta": [
+          "கண்ணோட்டம்",
+          "என்னும்",
+          "கழிபெருங்",
+          "அணிகலம்"
+        ],
+        "game_options_en": [
+          "Living in the world implies The bounteous dame of benign eyes",
+          "World lives by looks of lovely worth Who lack them are burdens of earth",
+          "Of tuneless song what is the use? Without gracious looks what are eyes?",
+          "Kind looks are jewels for eyes to wear Without them they are felt as sore"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண்ணோட்டம் (அரசியல்) பிரிவில் அமைந்த குறள் 575, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவன் கண்ணிற்கு அணியும் நகை கண்ணோட்டமே; அந்த நகை மட்டும் இல்லை என்றால் அது புண் என்று பெரியோரால் அறியப்படும். கலைஞர் உரை கூறுவது: கருணையுள்ளம் கொண்டவருடைய கண்ணே கண் என்று கூறப்படும் இல்லையானால் அது கண் அல்ல; புண். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Benignity (Royalty & Polity), Kural 575 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Kind looks are the ornaments of the eyes; without these they will be considered (by the wise) to be merely two sores. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கண்ணோட்டம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Benignity' thoughtfully.",
+        "quiz_question_ta": "'கண்ணோட்டம்' அதிகாரத்தில் வரும் திருக்குறள் 575 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 575 from Chapter 'Benignity'?",
+        "quiz_options_ta": [
+          "ஊழியின் காரணத்தால் ஒரு செயல் செய்ய முடியாமல் போகுமாயினும், முயற்சி தன் உடம்பு வருந்திய வருத்தத்தின் கூலியையாவது கொடுக்கும்.",
+          "இடையூறு வருவதற்கு முன்பே நீக்குதல், வந்த பின் தளராமை ஆகிய இந்த இரண்டினது வழியே வினைத்திட்பம் பற்றி ஆராய்ந்தவரின் கொள்கையாம்.",
+          "(முகம் கண் இவற்றின்) குறிப்புக்களால் உள்ளக்குறிப்பை உணராவிட்டால், ஒருவனுடைய உறுப்புகளுள் கண்கள் என்னப் பயன்படும்.",
+          "ஒருவனுடைய கண்ணுக்கு அணிகலமாவது கண்ணோட்டம் என்னும் பண்பே, அஃது இல்லையானால் புண் என்று உணரப்படும்."
+        ],
+        "quiz_options_en": [
+          "Though fate is against fulfilment Hard labour has ready payment",
+          "Shun failing fuss; fail not purpose These two are maxims of the wise",
+          "Among senses what for is eye If thought by thought one can't descry?",
+          "Kind looks are jewels for eyes to wear Without them they are felt as sore"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கண்ணோட்டம்) பகுதியில் குறள் 575 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவனுடைய கண்ணுக்கு அணிகலமாவது கண்ணோட்டம் என்னும் பண்பே, அஃது இல்லையானால் புண் என்று உணரப்படும். பரிமேலழகர் உரை நுட்பம்: கண்ணிற்கு அணிகலம் கண்ணோட்டம் - ஒருவன் கண்ணிற்கு அணியும்கலமாவது கண்ணோட்டம்; அஃது இன்றேல் புண் என்று உணரப்படும் - அக்கலம் இல்லையாயின் அஃது அறிவு உடையரால் புண் என்று அறியப்படும். (வேறு அணிகலம் இன்மையின் 'கண்ணிற்கு அணிகலம்' என்றும், கண்ணாய்த் தோன்றினும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 58: 'Benignity'), Kural 575 distills a foundational ethical insight: \"Benignity is eyes' adorning grace; Without it eyes are wounds disfiguring face\" Philosophically, Kind looks are the ornaments of the eyes; without these they will be considered (by the wise) to be merely two sores.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "kindness",
+        "family",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 576,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கண்ணோட்டதிற்க்கு உரிய கண்ணோடுப் பொருந்தி இருந்தும் கண்ணோட்டம் இல்லாதவர் (கண் இருந்தும் காணாத ) மரத்தினைப் போன்றவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: They resemble the trees of the earth, who although they have eyes, never look kindly (on others).",
+        "story_title_ta": "கண்ணோட்டம் — கவின் கற்ற பாடம்",
+        "story_title_en": "Benignity — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கண்ணோட்டம்' என்ற அதிகாரத்திலிருந்து குறள் 576 பற்றிக் கதை சொன்னார். 'கண் பெற்றிருந்தும் கண்ணோட்டம் இல்லாதவர் இயங்கினாலும் மண்ணோடு சேர்ந்து இயங்காமல் நிற்கும் மரம் போன்றவரே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 58, 'Benignity', centered on Kural 576: They resemble the trees of the earth, who although they have eyes, never look kindly (on others). Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவர்க்குக் கண் இருந்தும்கூட அந்தக் கண்ணுக்குரிய அன்பும் இரக்கமும் இல்லாவிட்டால் அவர் மரத்துக்கு ஒப்பானவரே ஆவார்.",
+        "moral_en": "Moral: Whose eyes 'neath brow infixed diffuse no rayOf grace; like tree in earth infixed are they.",
+        "game_blank_word_ta": "மண்ணோ",
+        "game_options_ta": [
+          "மண்ணோ",
+          "கண்ணோட்டம்",
+          "என்னும்",
+          "கழிபெருங்"
+        ],
+        "game_options_en": [
+          "Like trees on inert earth they grow Who don't eye to eye kindness show",
+          "Living in the world implies The bounteous dame of benign eyes",
+          "World lives by looks of lovely worth Who lack them are burdens of earth",
+          "Of tuneless song what is the use? Without gracious looks what are eyes?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண்ணோட்டம் (அரசியல்) பிரிவில் அமைந்த குறள் 576, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கண் பெற்றிருந்தும் கண்ணோட்டம் இல்லாதவர் இயங்கினாலும் மண்ணோடு சேர்ந்து இயங்காமல் நிற்கும் மரம் போன்றவரே. கலைஞர் உரை கூறுவது: ஒருவர்க்குக் கண் இருந்தும்கூட அந்தக் கண்ணுக்குரிய அன்பும் இரக்கமும் இல்லாவிட்டால் அவர் மரத்துக்கு ஒப்பானவரே ஆவார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Benignity (Royalty & Polity), Kural 576 speaks directly to teens navigating studies, friendships, leadership, and digital choices: They resemble the trees of the earth, who although they have eyes, never look kindly (on others). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கண்ணோட்டம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Benignity' thoughtfully.",
+        "quiz_question_ta": "'கண்ணோட்டம்' அதிகாரத்தில் வரும் திருக்குறள் 576 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 576 from Chapter 'Benignity'?",
+        "quiz_options_ta": [
+          "கண்ணோட்டதிற்க்கு உரிய கண்ணோடுப் பொருந்தி இருந்தும் கண்ணோட்டம் இல்லாதவர் (கண் இருந்தும் காணாத ) மரத்தினைப் போன்றவர்.",
+          "சோர்வு இல்லாமல் முயற்சியில் குறைவு இல்லாமல் முயல்கின்றவர்,(செயலுக்கு இடையூறாக வரும்)ஊழையும் ஒரு காலத்தில் தோல்வியுறச் செய்யும்.",
+          "செய்யும் செயலை முடிவில் வெளிப்படும் படியாக செய்யும் தகுதியே ஆண்மையாகும், இடையில் வெளிபட்டால் நீங்காத துன்பத்தைக் கொடுக்கும்.",
+          "தன்னை அடுத்தப் பொருளைத் தன்னிடம் காட்டும் பளிங்கு போல், ஒருவனுடைய நெஞ்சில் மிகுந்துள்ளதை அவனுடைய முகம் காட்டும்."
+        ],
+        "quiz_options_en": [
+          "Like trees on inert earth they grow Who don't eye to eye kindness show",
+          "Tireless Toiler's striving hand Shall leave even the fate behind",
+          "The strong achieve and then display Woe unto work displayed midway",
+          "What throbs in mind the face reflects Just as mirror nearby objects"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கண்ணோட்டம்) பகுதியில் குறள் 576 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கண்ணோட்டதிற்க்கு உரிய கண்ணோடுப் பொருந்தி இருந்தும் கண்ணோட்டம் இல்லாதவர் (கண் இருந்தும் காணாத ) மரத்தினைப் போன்றவர். பரிமேலழகர் உரை நுட்பம்: கண்ணோடு இயைந்து கண்ணோடாதவர் - ஓடுதற்கு உரிய கண்ணோடு பொருந்திவைத்து அஃது ஓடாதவர்; மண்ணோடு இயைந்த மரத்து அனையர் - இயங்காநின்றாராயினும் மண்ணொடு பொருந்தி நிற்கின்ற மரத்தினை ஒப்பர். ('ஓடாதவர்' என்புழிச் சினைவினை முதல்மேல் நின்றது. மரமும் கண்ணோடு இயைந்து...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 58: 'Benignity'), Kural 576 distills a foundational ethical insight: \"Whose eyes 'neath brow infixed diffuse no rayOf grace; like tree in earth infixed are they\" Philosophically, They resemble the trees of the earth, who although they have eyes, never look kindly (on others).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "kindness",
+        "family",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 577,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கண்ணோட்டம் இல்லாத மக்கள் கண் இல்லாதவரே ஆவர், கண் உடைய மக்கள் கண்ணோட்டம் இல்லா திருத்தலும் இல்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Men without kind looks are men without eyes; those who (really) have eyes are also not devoid of kind looks.",
+        "story_title_ta": "கண்ணோட்டம் — நிலா கற்ற பாடம்",
+        "story_title_en": "Benignity — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கண்ணோட்டம்' என்ற அதிகாரத்திலிருந்து குறள் 577 பற்றிக் கதை சொன்னார். 'கண்ணோட்டம் இல்லாதவர் கண் இல்லாதவரே; கண் இருப்பவர் கண்ணோட்டம் இல்லாதவராக இருப்பதும் இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 58, 'Benignity', centered on Kural 577: Men without kind looks are men without eyes; those who (really) have eyes are also not devoid of kind looks. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கருணை மனம் கொண்டவர்க்கு இருப்பதே கண்கள் எனப்படும்; கருணையற்றோர் கண்ணற்றோர் என்றே கருதப்படுவார்கள்.",
+        "moral_en": "Moral: Eyeless are they whose eyes with no benignant lustre shine; Who've eyes can never lack the light of grace benign.",
+        "game_blank_word_ta": "கண்ணிலர்",
+        "game_options_ta": [
+          "கண்ணோட்டம்",
+          "கண்ணிலர்",
+          "என்னும்",
+          "கழிபெருங்"
+        ],
+        "game_options_en": [
+          "Living in the world implies The bounteous dame of benign eyes",
+          "Ungracious men lack real eyes Men of real eyes show benign grace",
+          "World lives by looks of lovely worth Who lack them are burdens of earth",
+          "Of tuneless song what is the use? Without gracious looks what are eyes?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண்ணோட்டம் (அரசியல்) பிரிவில் அமைந்த குறள் 577, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கண்ணோட்டம் இல்லாதவர் கண் இல்லாதவரே; கண் இருப்பவர் கண்ணோட்டம் இல்லாதவராக இருப்பதும் இல்லை. கலைஞர் உரை கூறுவது: கருணை மனம் கொண்டவர்க்கு இருப்பதே கண்கள் எனப்படும்; கருணையற்றோர் கண்ணற்றோர் என்றே கருதப்படுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Benignity (Royalty & Polity), Kural 577 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Men without kind looks are men without eyes; those who (really) have eyes are also not devoid of kind looks. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கண்ணோட்டம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Benignity' thoughtfully.",
+        "quiz_question_ta": "'கண்ணோட்டம்' அதிகாரத்தில் வரும் திருக்குறள் 577 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 577 from Chapter 'Benignity'?",
+        "quiz_options_ta": [
+          "துன்பம் வரும்போது (அதற்காக கலங்காமல்) நகுதல் வேண்டும், அத் துன்பத்தை எதிர்த்து வெல்லவல்லது அதைப் போன்றது வேறு இல்லை.",
+          "கண்ணோட்டம் இல்லாத மக்கள் கண் இல்லாதவரே ஆவர், கண் உடைய மக்கள் கண்ணோட்டம் இல்லா திருத்தலும் இல்லை.",
+          "இச் செயலை இவ்வாறு செய்து முடிக்கலாம் என்று சொல்லுதல் எவர்க்கும் எளியனவாம், சொல்லிய படி செய்து முடித்தல் அரியனவாம்.",
+          "ஒருவன் விருப்பம் கொண்டாலும், வெறுப்புக் கொண்டாலும் அவனுடைய முகம் முற்ப்பட்டு அதைத் தெரிவிக்கும், அம் முகத்தைவிட அறிவு மிக்கது உண்டோ."
+        ],
+        "quiz_options_en": [
+          "Laugh away troubles; there is No other way to conquer woes",
+          "Ungracious men lack real eyes Men of real eyes show benign grace",
+          "Easy it is to tell a fact But hard it is to know and act",
+          "Than face what is subtler to tell First if the mind feels well or ill"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கண்ணோட்டம்) பகுதியில் குறள் 577 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கண்ணோட்டம் இல்லாத மக்கள் கண் இல்லாதவரே ஆவர், கண் உடைய மக்கள் கண்ணோட்டம் இல்லா திருத்தலும் இல்லை. பரிமேலழகர் உரை நுட்பம்: கண்ணோட்டம் இல்லவர் கண்இலர் - கண்ணோட்டம் இல்லாதவர் கண்ணுடையரும் அல்லர்; கண் உடையார் கண்ணோட்டம் இன்மையும் இல்- கண்ணுடையவர் கண்ணோட்டம் இலராதலும் இல்லை. (கண்ணுடையராயின் காட்சிக்கண்ணே அஃது ஓடும் என்பதுபற்றி, 'கண்ணோட்டம் இல்லவர் கண்ணிலர்' எனக் கூறியபின், அதனை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 58: 'Benignity'), Kural 577 distills a foundational ethical insight: \"Eyeless are they whose eyes with no benignant lustre shine; Who've eyes can never lack the light of grace benign\" Philosophically, Men without kind looks are men without eyes; those who (really) have eyes are also not devoid of kind looks.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "kindness",
+        "harmony",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 578,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தம் தம் கடமையாகிய தொழில் கெடாமல் கண்ணோட்டம் உடையவராக இருக்க வல்லவர்க்கு இவ்வுலகம் உரிமை உடையது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The world is theirs (kings) who are able to show kindness, without injury to their affairs, (administration of justice).",
+        "story_title_ta": "கண்ணோட்டம் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Benignity — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கண்ணோட்டம்' என்ற அதிகாரத்திலிருந்து குறள் 578 பற்றிக் கதை சொன்னார். 'தம் செயலுக்குச் சேதம் வராமல் கண்ணோட்டம் கொள்ளும் ஆற்றல் உடையவர்க்கு இந்த உலகம் சொந்தமாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 58, 'Benignity', centered on Kural 578: The world is theirs (kings) who are able to show kindness, without injury to their affairs, (administration of justice). Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கடமை தவறாமையிலும், கருணை பொழிவதிலும் முதன்மையாக இருப்போருக்கு இந்த உலகமே உரிமையுடையதாகும்.",
+        "moral_en": "Moral: Who can benignant smile, yet leave no work undone; By them as very own may all the earth be won.",
+        "game_blank_word_ta": "உரிமை",
+        "game_options_ta": [
+          "கண்ணோட்டம்",
+          "என்னும்",
+          "உரிமை",
+          "கழிபெருங்"
+        ],
+        "game_options_en": [
+          "Living in the world implies The bounteous dame of benign eyes",
+          "World lives by looks of lovely worth Who lack them are burdens of earth",
+          "Who gracious are but dutiful Have right for this earth beautiful",
+          "Of tuneless song what is the use? Without gracious looks what are eyes?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண்ணோட்டம் (அரசியல்) பிரிவில் அமைந்த குறள் 578, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம் செயலுக்குச் சேதம் வராமல் கண்ணோட்டம் கொள்ளும் ஆற்றல் உடையவர்க்கு இந்த உலகம் சொந்தமாகும். கலைஞர் உரை கூறுவது: கடமை தவறாமையிலும், கருணை பொழிவதிலும் முதன்மையாக இருப்போருக்கு இந்த உலகமே உரிமையுடையதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Benignity (Royalty & Polity), Kural 578 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The world is theirs (kings) who are able to show kindness, without injury to their affairs, (administration of justice). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கண்ணோட்டம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Benignity' thoughtfully.",
+        "quiz_question_ta": "'கண்ணோட்டம்' அதிகாரத்தில் வரும் திருக்குறள் 578 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 578 from Chapter 'Benignity'?",
+        "quiz_options_ta": [
+          "வெள்ளம் போல் அளவற்றதாய் வரும் துன்பமும், அறிவுடையவன் தன் உள்ளத்தினால் அத் துன்பத்தின் இயல்பை நினைத்த அளவில் கெடும்.",
+          "செயல் திறனால் பெருமைபெற்று உயர்ந்தவரின் வினைத் திட்பமானது நாட்டை ஆளும் அரசனிடத்திலும் எட்டி மதிக்கப்பட்டு விளங்கும்.",
+          "தம் தம் கடமையாகிய தொழில் கெடாமல் கண்ணோட்டம் உடையவராக இருக்க வல்லவர்க்கு இவ்வுலகம் உரிமை உடையது.",
+          "உள்ளக் குறிப்பை நோக்கி உற்றதை உணரவல்லவரைப் பெற்றால், (அவரிடம் எதையும் கூறாமல்) அவறுடைய முகத்தை நோக்கி நின்றால் போதும்."
+        ],
+        "quiz_options_en": [
+          "Deluging sorrows come to nought When wise men face them with firm thought",
+          "Dynamic deeds of a doughty soul Shall win the praise of king and all",
+          "Who gracious are but dutiful Have right for this earth beautiful",
+          "Just standing in front would suffice For those who read the mind on face"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கண்ணோட்டம்) பகுதியில் குறள் 578 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம் தம் கடமையாகிய தொழில் கெடாமல் கண்ணோட்டம் உடையவராக இருக்க வல்லவர்க்கு இவ்வுலகம் உரிமை உடையது. பரிமேலழகர் உரை நுட்பம்: கருமம் சிதையாமல் கண்ணோட வல்லார்க்கு - முறை செய்தல் ஆகிய தன் தொழில் அழியாமல் கண்ணோட வல்ல வேந்தர்க்கு; உரிமை உடைத்து இவ்வுலகு - உரித்தாம் தன்மை உடைத்து இவ்வுலகம். (தம்மொடு பயின்றார் பிறரை இடுக்கண் செய்துழி அவரைக் கண்ணோடி ஒறாதார்க்கு முறை சிதைத்தல்,மேல...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 58: 'Benignity'), Kural 578 distills a foundational ethical insight: \"Who can benignant smile, yet leave no work undone; By them as very own may all the earth be won\" Philosophically, The world is theirs (kings) who are able to show kindness, without injury to their affairs, (administration of justice).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "justice",
+        "harmony",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 579,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தண்டித்தற்குரிய தன்மை உடையவரிடத்திலும் கண்ணோட்டம் செய்து ( அவர் செய்த குற்றத்தைப்) பொருத்துக் காக்கும் பண்பே சிறந்தது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Patiently to bear with, and show kindness to those who grieve us, is the most excellent of all dispositions.",
+        "story_title_ta": "கண்ணோட்டம் — இனியா கற்ற பாடம்",
+        "story_title_en": "Benignity — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கண்ணோட்டம்' என்ற அதிகாரத்திலிருந்து குறள் 579 பற்றிக் கதை சொன்னார். 'தம்மை வருத்தும் இயல்புடையவரிடத்திலும் கண்ணோட்டம் கொண்டு, அவர்தம் பிழையைப் பொறுக்கும் பண்பே சிறந்தது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 58, 'Benignity', centered on Kural 579: Patiently to bear with, and show kindness to those who grieve us, is the most excellent of all dispositions. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அழிக்க நினைத்திடும் இயல்புடையவரிடத்திலும் பொறுமை காட்டுவது மிக உயர்ந்த பண்பாகும்.",
+        "moral_en": "Moral: To smile on those that vex, with kindly face, Enduring long, is most excelling grace.",
+        "game_blank_word_ta": "ணோடிப்",
+        "game_options_ta": [
+          "கண்ணோட்டம்",
+          "என்னும்",
+          "கழிபெருங்",
+          "ணோடிப்"
+        ],
+        "game_options_en": [
+          "Living in the world implies The bounteous dame of benign eyes",
+          "World lives by looks of lovely worth Who lack them are burdens of earth",
+          "Of tuneless song what is the use? Without gracious looks what are eyes?",
+          "To be benign and bear with foes Who vex us is true virtue's phase"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண்ணோட்டம் (அரசியல்) பிரிவில் அமைந்த குறள் 579, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம்மை வருத்தும் இயல்புடையவரிடத்திலும் கண்ணோட்டம் கொண்டு, அவர்தம் பிழையைப் பொறுக்கும் பண்பே சிறந்தது. கலைஞர் உரை கூறுவது: அழிக்க நினைத்திடும் இயல்புடையவரிடத்திலும் பொறுமை காட்டுவது மிக உயர்ந்த பண்பாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Benignity (Royalty & Polity), Kural 579 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Patiently to bear with, and show kindness to those who grieve us, is the most excellent of all dispositions. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கண்ணோட்டம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Benignity' thoughtfully.",
+        "quiz_question_ta": "'கண்ணோட்டம்' அதிகாரத்தில் வரும் திருக்குறள் 579 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 579 from Chapter 'Benignity'?",
+        "quiz_options_ta": [
+          "துன்பம் வந்த போது அதற்க்காக வருந்திக் கலங்காதவர் அந்தத் துன்பத்திற்கே துன்பம் உண்டாக்கி அதை வென்று விடுவார்.",
+          "எண்ணியவர் (எண்ணியபடியே செயல் ஆற்றுவதில்) உறுதியுடையவராக இருக்கப்பெற்றால் அவர் எண்ணியவற்றை எண்ணியவாறே அடைவர்.",
+          "கண்பார்வையின் வேறுபாடுகளை உணரவல்லவரைப் பெற்றால்( ஒருவனுடைய மனதில் உள்ள) கையையும் நட்பையும் அவனுடைய கண்களே சொல்லி விடும்.",
+          "தண்டித்தற்குரிய தன்மை உடையவரிடத்திலும் கண்ணோட்டம் செய்து ( அவர் செய்த குற்றத்தைப்) பொருத்துக் காக்கும் பண்பே சிறந்தது."
+        ],
+        "quiz_options_en": [
+          "Grief they face and put to grief Who grieve not grief by mind's relief",
+          "The will-to-do achieves the deed When mind that wills is strong indeed",
+          "Friend or foe the eyes will show To those who changing outlooks know",
+          "To be benign and bear with foes Who vex us is true virtue's phase"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கண்ணோட்டம்) பகுதியில் குறள் 579 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தண்டித்தற்குரிய தன்மை உடையவரிடத்திலும் கண்ணோட்டம் செய்து ( அவர் செய்த குற்றத்தைப்) பொருத்துக் காக்கும் பண்பே சிறந்தது. பரிமேலழகர் உரை நுட்பம்: ஒறுத் தாற்றும் பண்பினார் கண்ணும் - தம்மை ஒறுக்கும் இயல்பு உடையார் இடத்தும்; கண்ணோடிப் பொறுத்தாற்றும் பண்பே தலை - கண்ணோட்டம் உடையராய்க் குற்றத்தைப் பொறுக்கும் இயல்பே அரசர்க்குத் தலையாய இயல்பாவது. ('பண்பினார்' என்றதனான், அவர் பயிற்சி பெற்றாம் 'ஒறுத்தாற்றும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 58: 'Benignity'), Kural 579 distills a foundational ethical insight: \"To smile on those that vex, with kindly face, Enduring long, is most excelling grace\" Philosophically, Patiently to bear with, and show kindness to those who grieve us, is the most excellent of all dispositions.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "ethics",
+        "courage",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 580,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: எவராலும் விரும்பத்தக்க நாகரிகமான கண்ணோட்டத்தை விரும்புகின்றவர், பழகியவர் தமக்கு நஞ்சு இடக்கண்டும் அதை உண்டு அமைவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Those who desire (to cultivate that degree of) urbanity which all shall love, even after swallowing the poison served to them by their friends, will be friendly with them.",
+        "story_title_ta": "கண்ணோட்டம் — முகில் கற்ற பாடம்",
+        "story_title_en": "Benignity — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'கண்ணோட்டம்' என்ற அதிகாரத்திலிருந்து குறள் 580 பற்றிக் கதை சொன்னார். 'எல்லாராலும் விரும்பத்தக்க நாகரிகத்தை விரும்புபவர், தமக்கு நெருக்கமானவர் நஞ்சையே தருகிறார் என அறிந்தும் கண்ணோட்டம் காரணமாக அதை உண்டு அவருடன் பழகுவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 58, 'Benignity', centered on Kural 580: Those who desire (to cultivate that degree of) urbanity which all shall love, even after swallowing the poison served to them by their friends, will be friendly with them. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கருணை உள்ளமும் பண்பாடும் உள்ளவர்கள், தம்முடன் பழகியவர்கள் நஞ்சு கொடுத்தாலும் அதை அருந்திக் களிப்படைவார்கள்.",
+        "moral_en": "Moral: They drink with smiling grace, though poison interfused they see, Who seek the praise of all-esteemed courtesy.",
+        "game_blank_word_ta": "பவர்",
+        "game_options_ta": [
+          "பவர்",
+          "கண்ணோட்டம்",
+          "என்னும்",
+          "கழிபெருங்"
+        ],
+        "game_options_en": [
+          "Men of graceful courtesy Take hemlock and look cheerfully",
+          "Living in the world implies The bounteous dame of benign eyes",
+          "World lives by looks of lovely worth Who lack them are burdens of earth",
+          "Of tuneless song what is the use? Without gracious looks what are eyes?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கண்ணோட்டம் (அரசியல்) பிரிவில் அமைந்த குறள் 580, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எல்லாராலும் விரும்பத்தக்க நாகரிகத்தை விரும்புபவர், தமக்கு நெருக்கமானவர் நஞ்சையே தருகிறார் என அறிந்தும் கண்ணோட்டம் காரணமாக அதை உண்டு அவருடன் பழகுவர். கலைஞர் உரை கூறுவது: கருணை உள்ளமும் பண்பாடும் உள்ளவர்கள், தம்முடன் பழகியவர்கள் நஞ்சு கொடுத்தாலும் அதை அருந்திக் களிப்படைவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Benignity (Royalty & Polity), Kural 580 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who desire (to cultivate that degree of) urbanity which all shall love, even after swallowing the poison served to them by their friends, will be friendly with them. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'கண்ணோட்டம்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Benignity' thoughtfully.",
+        "quiz_question_ta": "'கண்ணோட்டம்' அதிகாரத்தில் வரும் திருக்குறள் 580 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 580 from Chapter 'Benignity'?",
+        "quiz_options_ta": [
+          "எவராலும் விரும்பத்தக்க நாகரிகமான கண்ணோட்டத்தை விரும்புகின்றவர், பழகியவர் தமக்கு நஞ்சு இடக்கண்டும் அதை உண்டு அமைவர்.",
+          "தடைபட்ட இடங்களில் எல்லாம் (வண்டியை இழுத்துச் செல்லும்) எருதுபோல் விடாமுயற்சி உடையவன் உற்றத் துன்பமே துன்பப்படுவதாகும்.",
+          "உருளும் பெரிய தேர்க்கு அச்சில் இருந்து தாங்கும் சிறிய ஆணிப் போன்றவர்கள் உலகத்தில் உள்ளனர், அவர்களுடைய உருவின் சிறுமையைக்கண்டு இகழக் கூடாது.",
+          "யாம் நுட்பமான அறிவுடையேம் என்று பிறர் கருத்தை அறிபவரின் அளக்குங்கோல், ஆராய்ந்து பார்த்தால் அவனுடையக் கண்களே அல்லாமல் வேறு இல்லை."
+        ],
+        "quiz_options_en": [
+          "Men of graceful courtesy Take hemlock and look cheerfully",
+          "Who pulls like bulls patiently on Causes grief to grieve anon",
+          "Scorn not the form: for men there are Like linchpin of big rolling car",
+          "The scale of keen discerning minds Is eye and eye that secrets finds"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (கண்ணோட்டம்) பகுதியில் குறள் 580 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எவராலும் விரும்பத்தக்க நாகரிகமான கண்ணோட்டத்தை விரும்புகின்றவர், பழகியவர் தமக்கு நஞ்சு இடக்கண்டும் அதை உண்டு அமைவர். பரிமேலழகர் உரை நுட்பம்: நஞ்சு பெயக் கண்டும் உண்டு அமைவர் - பயின்றார் தமக்கு நஞ்சிடக் கண்டுவைத்தும், கண் மறுக்கமாட்டாமையின் அதனை உண்டு பின்னும் அவரோடு மேவுவர்; நயத்தக்க நாகரிகம் வேண்டுபவர் - யாவரானும் விரும்பத்தக்க கண்ணோட்டத்தினை வேண்டுபவர். (நாகரிகம் என்பது கண்ணோட்டமாதல் 'முந்தை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 58: 'Benignity'), Kural 580 distills a foundational ethical insight: \"They drink with smiling grace, though poison interfused they see, Who seek the praise of all-esteemed courtesy\" Philosophically, Those who desire (to cultivate that degree of) urbanity which all shall love, even after swallowing the poison served to them by their friends, will be friendly with them.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "kindness",
+        "time",
+        "speech"
+      ]
+    }
+  ]
+}

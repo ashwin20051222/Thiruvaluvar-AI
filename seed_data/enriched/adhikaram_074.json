@@ -1,0 +1,588 @@
+{
+  "adhikaram_id": 74,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.136530856+00:00",
+  "kurals": [
+    {
+      "kural_number": 731,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: குறையாத விளைபொருளும் தக்க அறிஞரும் கேடில்லாத செல்வம் உடையவரும் கூடிப் பொருந்தியுள்ள நாடே நாடாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: A kingdom is that in which (those who carry on) a complete cultivation, virtuous persons, and.",
+        "story_title_ta": "நாடு — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Land — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாடு' என்ற அதிகாரத்திலிருந்து குறள் 731 பற்றிக் கதை சொன்னார். 'குறையாத உற்பத்தியைத் தரும் உழைப்பாளர்களும், அற உணர்வு உடையவர்களும், சுயநலம் இல்லாத செல்வரும் சேர்ந்து வாழ்வதே நாடு.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 74, 'The Land', centered on Kural 731: A kingdom is that in which (those who carry on) a complete cultivation, virtuous persons, and. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: செழிப்புக் குறையாத விளைபொருள்களும், சிறந்த பெருமக்களும், செல்வத்தைத் தீயவழியில் செலவிடாதவர்களும் அமையப்பெற்றதே நல்ல நாடாகும்.",
+        "moral_en": "Moral: Where spreads fertility unfailing, where resides a band, Of virtuous men, and those of ample wealth, call that a 'land'.",
+        "game_blank_word_ta": "சேர்வது",
+        "game_options_ta": [
+          "பெரும்பொருளால்",
+          "பெட்டக்க",
+          "அருங்கேட்டால்",
+          "சேர்வது"
+        ],
+        "game_options_en": [
+          "The Land has large luring treasure Where pests are nil and yields are sure",
+          "It's land that bears pressing burdens And pays its tax which king demands",
+          "It is country which is free from Fierce famine, plague and foemen's harm",
+          "It's country which has souls of worth Unfailing yields and ample wealth"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாடு (அங்கவியல்) பிரிவில் அமைந்த குறள் 731, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: குறையாத உற்பத்தியைத் தரும் உழைப்பாளர்களும், அற உணர்வு உடையவர்களும், சுயநலம் இல்லாத செல்வரும் சேர்ந்து வாழ்வதே நாடு. கலைஞர் உரை கூறுவது: செழிப்புக் குறையாத விளைபொருள்களும், சிறந்த பெருமக்களும், செல்வத்தைத் தீயவழியில் செலவிடாதவர்களும் அமையப்பெற்றதே நல்ல நாடாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Land (Ministers & Elements of State), Kural 731 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A kingdom is that in which (those who carry on) a complete cultivation, virtuous persons, and. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாடு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Land' thoughtfully.",
+        "quiz_question_ta": "'நாடு' அதிகாரத்தில் வரும் திருக்குறள் 731 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 731 from Chapter 'The Land'?",
+        "quiz_options_ta": [
+          "பகைவரை சினந்து நோக்கியக் கண், அவர் வேலைக் கொண்டு எறிந்த போது மூடி இமைக்குமானால், அது வீரமுடையவர்க்குத் தோல்வி அன்றோ.",
+          "முடியும் செயலையும் முடியாத படி செய்து கெடுப்பவரின் உறவை, அவர் அறியுமாறு ஒன்றும் செய்யாமலே தளரச் செய்து கைவிட வேண்டும்.",
+          "தம்மை விட வலியவர்க்கு மாறுபட்டு எதிர்த்தலை விட வேண்டும், தம்மை விட மெலியவர் மேல் பகைக் கொள்வதை விடாமல் விரும்பி மேற்கொள்ள வேண்டும்.",
+          "குறையாத விளைபொருளும் தக்க அறிஞரும் கேடில்லாத செல்வம் உடையவரும் கூடிப் பொருந்தியுள்ள நாடே நாடாகும்."
+        ],
+        "quiz_options_en": [
+          "When lances dart if heroes wink \\\"It is a rout\\\" the world will think",
+          "Without a word those friends eschew Who spoil deeds which they can do",
+          "Turn from strife with foes too strong With the feeble for battle long",
+          "It's country which has souls of worth Unfailing yields and ample wealth"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நாடு) பகுதியில் குறள் 731 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: குறையாத விளைபொருளும் தக்க அறிஞரும் கேடில்லாத செல்வம் உடையவரும் கூடிப் பொருந்தியுள்ள நாடே நாடாகும். பரிமேலழகர் உரை நுட்பம்: தள்ளா விளையுளும் - குன்றாத விளையுளைச் செய்வோரும்; தக்காரும் - அறவோரும்; தாழ்வு இலாச் செல்வரும் - கேடு இல்லாச் செல்வமுடையோரும்; சேர்வது நாடு - ஒருங்கு வாழ்வதே நாடாவது: (மற்றை உயர்திணைப் பொருள்களோடும் சேர்தல்தொழிலோடும் இயையாமையின், 'விளையுள்' என்பது உழவர்மேல...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 74: 'The Land'), Kural 731 distills a foundational ethical insight: \"Where spreads fertility unfailing, where resides a band, Of virtuous men, and those of ample wealth, call that a 'land'\" Philosophically, A kingdom is that in which (those who carry on) a complete cultivation, virtuous persons, and.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "wealth",
+        "time",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 732,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: மிக்க பொருள் வளம் உடையதாய், எல்லோரும் விரும்பத்தக்கதாய் கேடு இல்லாததாய், மிகுதியாக விளைபொருள் தருவதே நாடாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: A kingdom is that which is desire for its immense wealth, and which grows greatly in prosperity, being free from destructive causes.",
+        "story_title_ta": "நாடு — கவின் கற்ற பாடம்",
+        "story_title_en": "The Land — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாடு' என்ற அதிகாரத்திலிருந்து குறள் 732 பற்றிக் கதை சொன்னார். 'மிகுந்த பொருளை உடையது; அதனால் அயல்நாட்டாரால் விரும்பப்படுவது; பெரும் மழை, கடும் வெயில், கொடு விலங்கு, தீய பறவைகள், முறையற்ற அரசு ஆகிய கேடுகள் இல்லாதது; அதிக விளைச்சலை உடையது; இதுவே நாடு.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 74, 'The Land', centered on Kural 732: A kingdom is that which is desire for its immense wealth, and which grows greatly in prosperity, being free from destructive causes. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பொருள் வளம் நிறைந்ததாகவும், பிறர் போற்றத் தக்கதாகவும், கேடற்றதாகவும், நல்ல விளைச்சல் கொண்டதாகவும் அமைவதே சிறந்த நாடாகும்.",
+        "moral_en": "Moral: That is a 'land' which men desire for wealth's abundant share, Yielding rich increase, where calamities are rare.",
+        "game_blank_word_ta": "அருங்கேட்டால்",
+        "game_options_ta": [
+          "அருங்கேட்டால்",
+          "தள்ளா",
+          "விளையுளும்",
+          "தக்காரும்"
+        ],
+        "game_options_en": [
+          "The Land has large luring treasure Where pests are nil and yields are sure",
+          "It's country which has souls of worth Unfailing yields and ample wealth",
+          "It's land that bears pressing burdens And pays its tax which king demands",
+          "It is country which is free from Fierce famine, plague and foemen's harm"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாடு (அங்கவியல்) பிரிவில் அமைந்த குறள் 732, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மிகுந்த பொருளை உடையது; அதனால் அயல்நாட்டாரால் விரும்பப்படுவது; பெரும் மழை, கடும் வெயில், கொடு விலங்கு, தீய பறவைகள், முறையற்ற அரசு ஆகிய கேடுகள் இல்லாதது; அதிக விளைச்சலை உடையது; இதுவே நாடு. கலைஞர் உரை கூறுவது: பொருள் வளம் நிறைந்ததாகவும், பிறர் போற்றத் தக்கதாகவும், கேடற்றதாகவும், நல்ல விளைச்சல் கொண்டதாகவும் அமைவதே சிறந்த நாடாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Land (Ministers & Elements of State), Kural 732 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A kingdom is that which is desire for its immense wealth, and which grows greatly in prosperity, being free from destructive causes. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாடு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Land' thoughtfully.",
+        "quiz_question_ta": "'நாடு' அதிகாரத்தில் வரும் திருக்குறள் 732 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 732 from Chapter 'The Land'?",
+        "quiz_options_ta": [
+          "மிக்க பொருள் வளம் உடையதாய், எல்லோரும் விரும்பத்தக்கதாய் கேடு இல்லாததாய், மிகுதியாக விளைபொருள் தருவதே நாடாகும்.",
+          "வீரன் தன் கழிந்த நாட்களைக் கணக்கிட்டு, விழுப்புண் படாத நாட்களை எல்லாம் பயன் படாமல் தவறிய நாட்களுள் சேர்ப்பான்.",
+          "செய்யும் செயல் வேறாகவும் சொல்லும் சொல் வேறாகவும் உள்ளவரின் நட்பு, ஒருவனுக்கு கனவிலும் துன்பம் தருவதாகும்.",
+          "ஒருவன் அன்பு இல்லாதவனாய், அமைந்த துணை இல்லாதடனாய், தானும் வலிமை இல்லாதவனாய் இருந்தால், அவன் பகைவனுடைய வலிமையை எவ்வாறு ஒழிக்க முடியும்."
+        ],
+        "quiz_options_en": [
+          "The Land has large luring treasure Where pests are nil and yields are sure",
+          "The brave shall deem the days as vain Which did not battle-wounds sustain",
+          "Even in dreams the tie is bad With those whose deed is far from word",
+          "Loveless, aidless, powerless king Can he withstand an enemy strong?"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நாடு) பகுதியில் குறள் 732 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மிக்க பொருள் வளம் உடையதாய், எல்லோரும் விரும்பத்தக்கதாய் கேடு இல்லாததாய், மிகுதியாக விளைபொருள் தருவதே நாடாகும். பரிமேலழகர் உரை நுட்பம்: பெரும்பொருளால் பெட்டக்கது ஆகி - அளவிறந்த பொருளுடைமையால் பிற தேயத்தாரானும் விரும்பத்தக்கதாய்; அருங்கேட்டால் ஆற்ற விளைவது நாடு - கேடின்மையோடுகூடி மிகவிளைவதே நாடாவது. (அளவிறப்பு, பொருள்களது பன்மைமேலும் தனித்தனி அவற்றின் மிகுதி மேலும் நின்றது. கேடாவது, மிக்க...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 74: 'The Land'), Kural 732 distills a foundational ethical insight: \"That is a 'land' which men desire for wealth's abundant share, Yielding rich increase, where calamities are rare\" Philosophically, A kingdom is that which is desire for its immense wealth, and which grows greatly in prosperity, being free from destructive causes.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "speech",
+        "leadership",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 733,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: (மற்ற நாட்டு மக்கள் குடியேறுவதால்) சுமை ஒரு சேரத் தன் மேல் வரும் போது தாங்கி, அரசனுக்கு இறைபொருள் முழுதும் தர வல்லது நாடாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: A kingdom is that which can bear any burden that may be pressed on it (from adjoining kingdoms) and (yet) pay the full tribute to its sovereign.",
+        "story_title_ta": "நாடு — நிலா கற்ற பாடம்",
+        "story_title_en": "The Land — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாடு' என்ற அதிகாரத்திலிருந்து குறள் 733 பற்றிக் கதை சொன்னார். 'போர், இயற்கை அழிவு ஆகியவற்றால் மக்கள் பிற நாடுகளில் இருந்து வந்தால் அந்த பாரத்தையும் தாங்கும்; தன் அரசிற்குத் தான் தரவேண்டிய வரியையும் மகிழ்வோடு தரும்; இதுவே நாடு.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 74, 'The Land', centered on Kural 733: A kingdom is that which can bear any burden that may be pressed on it (from adjoining kingdoms) and (yet) pay the full tribute to its sovereign. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: புதிய சுமைகள் ஒன்றுணிரண்டு வரும் போதும் அவற்றைத் தாங்கிக் கொண்டு, அரசுக்குரிய வரி வகைகளைச் செலுத்துமளவுக்கு வளம் படைத்ததே சிறந்த நாடாகும்.",
+        "moral_en": "Moral: When burthens press, it bears; Yet, With unfailing handTo king due tribute pays: that is the 'land'.",
+        "game_blank_word_ta": "மேல்வருங்கால்",
+        "game_options_ta": [
+          "தள்ளா",
+          "மேல்வருங்கால்",
+          "விளையுளும்",
+          "தக்காரும்"
+        ],
+        "game_options_en": [
+          "It's country which has souls of worth Unfailing yields and ample wealth",
+          "It's land that bears pressing burdens And pays its tax which king demands",
+          "The Land has large luring treasure Where pests are nil and yields are sure",
+          "It is country which is free from Fierce famine, plague and foemen's harm"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாடு (அங்கவியல்) பிரிவில் அமைந்த குறள் 733, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: போர், இயற்கை அழிவு ஆகியவற்றால் மக்கள் பிற நாடுகளில் இருந்து வந்தால் அந்த பாரத்தையும் தாங்கும்; தன் அரசிற்குத் தான் தரவேண்டிய வரியையும் மகிழ்வோடு தரும்; இதுவே நாடு. கலைஞர் உரை கூறுவது: புதிய சுமைகள் ஒன்றுணிரண்டு வரும் போதும் அவற்றைத் தாங்கிக் கொண்டு, அரசுக்குரிய வரி வகைகளைச் செலுத்துமளவுக்கு வளம் படைத்ததே சிறந்த நாடாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Land (Ministers & Elements of State), Kural 733 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A kingdom is that which can bear any burden that may be pressed on it (from adjoining kingdoms) and (yet) pay the full tribute to its sovereign. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாடு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Land' thoughtfully.",
+        "quiz_question_ta": "'நாடு' அதிகாரத்தில் வரும் திருக்குறள் 733 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 733 from Chapter 'The Land'?",
+        "quiz_options_ta": [
+          "பரந்து நிற்க்கும் புகழை விரும்பி, உயிர்வாழ்வையும் விரும்பாத வீரர், வீரக் கழலை காலில் கட்டிக்கொள்ளுதல் அழகு செய்யும் தன்மையுடையதாகும்.",
+          "(மற்ற நாட்டு மக்கள் குடியேறுவதால்) சுமை ஒரு சேரத் தன் மேல் வரும் போது தாங்கி, அரசனுக்கு இறைபொருள் முழுதும் தர வல்லது நாடாகும்.",
+          "தனியே வீட்டில் உள்ளபோது பொருந்தியிருந்து, பலர் கூடிய மன்றத்தில் பழித்து பேசுவோரின் நட்பை எவ்வளவு சிறிய அளவிலும் அணுகாமல் விட வேண்டும்.",
+          "ஒருவன் அஞ்சுகின்றவனாய், அறிவு இல்லாதவனாய், பொருந்தும் பண்பு இல்லாதவனாய், பிறர்க்கு ஒன்று ஈயாதவனாய் இருந்தால் , அவன் பகைவர்க்கு மிக எளியவன்."
+        ],
+        "quiz_options_en": [
+          "Their anklets aloud jingle their name Who sacrifice their life for fame",
+          "It's land that bears pressing burdens And pays its tax which king demands",
+          "Keep aloof from those that smile At home and in public revile",
+          "Unskilled, timid, miser, misfit He is easy for foes to hit"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நாடு) பகுதியில் குறள் 733 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (மற்ற நாட்டு மக்கள் குடியேறுவதால்) சுமை ஒரு சேரத் தன் மேல் வரும் போது தாங்கி, அரசனுக்கு இறைபொருள் முழுதும் தர வல்லது நாடாகும். பரிமேலழகர் உரை நுட்பம்: பொறை ஒருங்கு மேல் வருங்கால் தாங்கி - பிற நாடுகள் பொறுத்த பாரமெல்லாம் ஒருங்கே தன்கண் வருங்கால் அவற்றைத் தாங்கி; இறைவற்கு இறை ஒருங்கு நேர்வது நாடு - அதன்மேல் தன் அரசனுக்கு இறைப்பொருள் முழுவதையும் உடம்பட்டுக் கொடுப்பதே நாடாவது. (பாரங்கள் - மக்கள் தொகுதியும் ஆன...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 74: 'The Land'), Kural 733 distills a foundational ethical insight: \"When burthens press, it bears; Yet, With unfailing handTo king due tribute pays: that is the 'land'\" Philosophically, A kingdom is that which can bear any burden that may be pressed on it (from adjoining kingdoms) and (yet) pay the full tribute to its sovereign.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "leadership",
+        "family",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 734,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: மிக்க பசியும், ஓயாத நோயும் (வெளியே வந்து தாக்கி) அழிவு செய்யும் பகையும் தன்னிடம் சேராமல் நல்ல வகையில் நடைபெறுவதே நாடாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: A kingdom is that which continues to be free from excessive starvation, irremediable epidemics, and destructive foes.",
+        "story_title_ta": "நாடு — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Land — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாடு' என்ற அதிகாரத்திலிருந்து குறள் 734 பற்றிக் கதை சொன்னார். 'மிகுந்த பசி, நீங்காத நோய், வெளியில் இருந்து வந்து தாக்கும் பகை ஆகிய இவை இல்லாமல் இருப்பது நாடு.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 74, 'The Land', centered on Kural 734: A kingdom is that which continues to be free from excessive starvation, irremediable epidemics, and destructive foes. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பசியும், பிணியும், பகையுமற்ற நாடுதான் சிறந்த நாடு எனப் பாராட்டப்படும்.",
+        "moral_en": "Moral: That is a 'land' whose peaceful annals know, Nor famine fierce, nor wasting plague, nor ravage of the foe.",
+        "game_blank_word_ta": "தியல்வது",
+        "game_options_ta": [
+          "தள்ளா",
+          "விளையுளும்",
+          "தியல்வது",
+          "தக்காரும்"
+        ],
+        "game_options_en": [
+          "It's country which has souls of worth Unfailing yields and ample wealth",
+          "The Land has large luring treasure Where pests are nil and yields are sure",
+          "It is country which is free from Fierce famine, plague and foemen's harm",
+          "It's land that bears pressing burdens And pays its tax which king demands"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாடு (அங்கவியல்) பிரிவில் அமைந்த குறள் 734, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மிகுந்த பசி, நீங்காத நோய், வெளியில் இருந்து வந்து தாக்கும் பகை ஆகிய இவை இல்லாமல் இருப்பது நாடு. கலைஞர் உரை கூறுவது: பசியும், பிணியும், பகையுமற்ற நாடுதான் சிறந்த நாடு எனப் பாராட்டப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Land (Ministers & Elements of State), Kural 734 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A kingdom is that which continues to be free from excessive starvation, irremediable epidemics, and destructive foes. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாடு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Land' thoughtfully.",
+        "quiz_question_ta": "'நாடு' அதிகாரத்தில் வரும் திருக்குறள் 734 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 734 from Chapter 'The Land'?",
+        "quiz_options_ta": [
+          "போர்வந்தால் உயிரின் பொருட்டு அஞ்சாமல் போர் செய்யத் துணியும் வீரர், அரசன் சினந்தாலும் தம்முடைய சிறப்புக் குன்றாதவர் ஆவர்.",
+          "அகத்தே பொருந்தாமல் புறத்தே பொருந்தி நடப்பவரின் நட்பு, தக்க இடம் கண்டபோது எறிவதற்கு உரிய பட்டையாகும்.",
+          "மிக்க பசியும், ஓயாத நோயும் (வெளியே வந்து தாக்கி) அழிவு செய்யும் பகையும் தன்னிடம் சேராமல் நல்ல வகையில் நடைபெறுவதே நாடாகும்.",
+          "ஒருவன் சினம் நீங்காதவனாய், நெஞ்சத்தை நிறுத்தியாளும் தன்மை இல்லாதவனாய் இருந்தால் அவன் எக்காலத்திலும் எவ்விடத்திலும் எவர்க்கும் எளியவன்."
+        ],
+        "quiz_options_en": [
+          "The king may chide, they pursue strife; They fear loss of glory; not life",
+          "The friendship by an enemy shown Is anvil in time, to strike you down",
+          "It is country which is free from Fierce famine, plague and foemen's harm",
+          "The wrathful restive man is prey To any, anywhere any day"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நாடு) பகுதியில் குறள் 734 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மிக்க பசியும், ஓயாத நோயும் (வெளியே வந்து தாக்கி) அழிவு செய்யும் பகையும் தன்னிடம் சேராமல் நல்ல வகையில் நடைபெறுவதே நாடாகும். பரிமேலழகர் உரை நுட்பம்: உறு பசியும் - மிக்க பசியும்; ஓவாப்பிணியும் - நீங்காத நோயும்; செறுபகையும் சேராது - புறத்து நின்றுவந்து அழிவு செய்யும் பகையும் இன்றி; இயல்வது நாடு - இனிது நடப்பதே நாடாவது. (உறுபசி, உழவருடைமையானும் ஆற்ற விளைதலானும் சேராதாயிற்று. ஓவாப்பிணி, தீக்காற்று மிக்க...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 74: 'The Land'), Kural 734 distills a foundational ethical insight: \"That is a 'land' whose peaceful annals know, Nor famine fierce, nor wasting plague, nor ravage of the foe\" Philosophically, A kingdom is that which continues to be free from excessive starvation, irremediable epidemics, and destructive foes.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "courage",
+        "kindness",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 735,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பல வகை மாறுபடும் கூட்டங்களும், உடனிருந்தே அழிவு செய்யும் பகையும், அரசனை வருத்துகின்ற கொலைத் தொழில் பொருந்திய குறுநில மன்னரும் இல்லாதது நாடு.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: A kingdom is that which is without various (irregular) associations, destructive internal enemies, and murderous savages who (sometimes) harass the sovereign.",
+        "story_title_ta": "நாடு — இனியா கற்ற பாடம்",
+        "story_title_en": "The Land — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாடு' என்ற அதிகாரத்திலிருந்து குறள் 735 பற்றிக் கதை சொன்னார். 'சாதி, சமய, அரசியல், கருத்து முரண்பாடுகளால் வளரும் பல்வேறு குழுக்கள், கூட இருந்தே குழி பறிக்கும் சொந்தக் கட்சியினர், அரசை நெரக்கடிக்கு உள்ளாக்கும் சிறு கலகக்காரர்கள் (ரௌடிகள், தாதாக்கள், வட்டாரப் போக்கிரிகள்) ஆகியோர் இல்லாது இருப்பதே நாடு.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 74, 'The Land', centered on Kural 735: A kingdom is that which is without various (irregular) associations, destructive internal enemies, and murderous savages who (sometimes) harass the sovereign. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பல குழுக்களாகப் பிரிந்து பாழ்படுத்தும் உட்பகையும், அரசில் ஆதிக்கம் செலுத்தும் கொலைகாரர்களால் விளையும் பொல்லாங்கும் இல்லாததே சிறந்த நாடாகும்.",
+        "moral_en": "Moral: From factions free, and desolating civil strife, and bandOf lurking murderers that king afflict, that is the 'land'.",
+        "game_blank_word_ta": "வேந்தலைக்கும்",
+        "game_options_ta": [
+          "தள்ளா",
+          "விளையுளும்",
+          "தக்காரும்",
+          "வேந்தலைக்கும்"
+        ],
+        "game_options_en": [
+          "It's country which has souls of worth Unfailing yields and ample wealth",
+          "The Land has large luring treasure Where pests are nil and yields are sure",
+          "It's land that bears pressing burdens And pays its tax which king demands",
+          "Sects and ruinous foes are nil No traitors in a land tranquil"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாடு (அங்கவியல்) பிரிவில் அமைந்த குறள் 735, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சாதி, சமய, அரசியல், கருத்து முரண்பாடுகளால் வளரும் பல்வேறு குழுக்கள், கூட இருந்தே குழி பறிக்கும் சொந்தக் கட்சியினர், அரசை நெரக்கடிக்கு உள்ளாக்கும் சிறு கலகக்காரர்கள் (ரௌடிகள், தாதாக்கள், வட்டாரப் போக்கிரிகள்) ஆகியோர் இல்லாது இருப்பதே நாடு. கலைஞர் உரை கூறுவது: பல குழுக்களாகப் பிரிந்து பாழ்படுத்தும் உட்பகையும், அரசில் ஆதிக்கம் செலுத்தும் கொலைகாரர்களால் விளையும் பொல்லாங்கும் இல்லாததே சிறந்த நாடாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Land (Ministers & Elements of State), Kural 735 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A kingdom is that which is without various (irregular) associations, destructive internal enemies, and murderous savages who (sometimes) harass the sovereign. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாடு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Land' thoughtfully.",
+        "quiz_question_ta": "'நாடு' அதிகாரத்தில் வரும் திருக்குறள் 735 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 735 from Chapter 'The Land'?",
+        "quiz_options_ta": [
+          "தாம் உரைத்த சூள் தவராத படி போர் செய்து சாக வல்லவரை, அவர் செய்தப் பிழைக்காக தண்டிக்க வல்லவர் யார்.",
+          "இனம் போலவே இருந்து உண்மையில் இனம் அல்லாதவரின் நட்பு, பொதுமகளிரின் மனம் போல உள்ளொன்று புறமொன்றாக வேறுபட்டு நிற்கும்.",
+          "ஒருவன் நல்வழியை நோக்காமல் பொருத்தமானவற்றைச் செய்யாமல், பழியையும் பார்க்காமல், நற்பண்பும் இல்லாமல் இருந்தால் அவன் பகைவர்க்கும் எளியனவான்.",
+          "பல வகை மாறுபடும் கூட்டங்களும், உடனிருந்தே அழிவு செய்யும் பகையும், அரசனை வருத்துகின்ற கொலைத் தொழில் பொருந்திய குறுநில மன்னரும் இல்லாதது நாடு."
+        ],
+        "quiz_options_en": [
+          "Who will blame the heroes that lose Their lives in war to keep their vows?",
+          "Who pretend kinship but are not Their friendship's fickle like woman's heart",
+          "Crooked, cruel, tactless and base Any foe can fell him with ease",
+          "Sects and ruinous foes are nil No traitors in a land tranquil"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நாடு) பகுதியில் குறள் 735 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பல வகை மாறுபடும் கூட்டங்களும், உடனிருந்தே அழிவு செய்யும் பகையும், அரசனை வருத்துகின்ற கொலைத் தொழில் பொருந்திய குறுநில மன்னரும் இல்லாதது நாடு. பரிமேலழகர் உரை நுட்பம்: பல்குழுவும் - சங்கேத வயத்தான் மாறுபட்டுக் கூடும் பல கூட்டமும்; பாழ் செய்யும் உட்பகையும் - உடனுறையா நின்றே பாழாகச் செய்யும் உட்பகையும்; வேந்து அலைக்கும் கொல் குறும்பும் இல்லது நாடு - அளவு வந்தால் வேந்தனை அலைக்கும் கொல்வினைக் குறும்பரும் இல்லாததே நாடாவது...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 74: 'The Land'), Kural 735 distills a foundational ethical insight: \"From factions free, and desolating civil strife, and bandOf lurking murderers that king afflict, that is the 'land'\" Philosophically, A kingdom is that which is without various (irregular) associations, destructive internal enemies, and murderous savages who (sometimes) harass the sovereign.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "leadership",
+        "courage",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 736,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பகைவரால் கெடுக்கப் படாததாய், கெட்டுவிட்ட காலத்திலும் வளம் குன்றாததாய் உள்ள நாடே நாடுகள் எல்லாவற்றிலும் தலைமையானது என்று கூறுவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The learned say that the best kingdom is that which knows no evil (from its foes), and, if injured (at all), suffers no diminution in its fruitfulness.",
+        "story_title_ta": "நாடு — முகில் கற்ற பாடம்",
+        "story_title_en": "The Land — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாடு' என்ற அதிகாரத்திலிருந்து குறள் 736 பற்றிக் கதை சொன்னார். 'பகைவரால் கெடுதலை அறியாததாய், அறிந்தாலும் வளம் தருவதில் குறையாததாய் இருப்பதையே நாடுகளில் சிறந்தது என்று அறிந்தோர் கூறுவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 74, 'The Land', centered on Kural 736: The learned say that the best kingdom is that which knows no evil (from its foes), and, if injured (at all), suffers no diminution in its fruitfulness. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எந்த வகையிலும் கெடுதலை அறியாமல், ஒருவேளை கெடுதல் ஏற்படினும் அதனைச் சீர் செய்யுமளவுக்கு வளங்குன்றா நிலையில் உள்ள நாடுதான், நாடுகளிலேயே தலைசிறந்ததாகும்.",
+        "moral_en": "Moral: Chief of all lands is that, where nought disturbs its peace; Or, if invaders come, still yields its rich increase.",
+        "game_blank_word_ta": "நாடென்ப",
+        "game_options_ta": [
+          "நாடென்ப",
+          "தள்ளா",
+          "விளையுளும்",
+          "தக்காரும்"
+        ],
+        "game_options_en": [
+          "The land of lands no ruin knows Even in grief its wealth yet grows",
+          "It's country which has souls of worth Unfailing yields and ample wealth",
+          "The Land has large luring treasure Where pests are nil and yields are sure",
+          "It's land that bears pressing burdens And pays its tax which king demands"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாடு (அங்கவியல்) பிரிவில் அமைந்த குறள் 736, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகைவரால் கெடுதலை அறியாததாய், அறிந்தாலும் வளம் தருவதில் குறையாததாய் இருப்பதையே நாடுகளில் சிறந்தது என்று அறிந்தோர் கூறுவர். கலைஞர் உரை கூறுவது: எந்த வகையிலும் கெடுதலை அறியாமல், ஒருவேளை கெடுதல் ஏற்படினும் அதனைச் சீர் செய்யுமளவுக்கு வளங்குன்றா நிலையில் உள்ள நாடுதான், நாடுகளிலேயே தலைசிறந்ததாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Land (Ministers & Elements of State), Kural 736 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The learned say that the best kingdom is that which knows no evil (from its foes), and, if injured (at all), suffers no diminution in its fruitfulness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாடு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Land' thoughtfully.",
+        "quiz_question_ta": "'நாடு' அதிகாரத்தில் வரும் திருக்குறள் 736 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 736 from Chapter 'The Land'?",
+        "quiz_options_ta": [
+          "பகைவரால் கெடுக்கப் படாததாய், கெட்டுவிட்ட காலத்திலும் வளம் குன்றாததாய் உள்ள நாடே நாடுகள் எல்லாவற்றிலும் தலைமையானது என்று கூறுவர்.",
+          "தம்மைக் காத்த தலைவருடைய கண்கள் நீர் பெருக்குமாறு சாகப் பெற்றால், சாவு இரந்தாவது பெற்றுக் கொள்ளத் தக்க பெருமை உடையதாகும்.",
+          "பல நல்ல நூல்களைக் கற்றுத் தேர்ந்த போதிலும், அவற்றின் பயனாக நல்ல மனம் உடையவராகப் பழகுதல், (உள்ளன்பினால்) மாட்சியடையாதவர்க்கு இல்லை.",
+          "ஒருவன் உண்மை காணாத சினம் உடையவனாய், மிகப் பெரிய ஆசை உடையவனாய் இருந்தால் அவனுடைய பகை விரும்பி மேற்கொள்ளப்படும்."
+        ],
+        "quiz_options_en": [
+          "The land of lands no ruin knows Even in grief its wealth yet grows",
+          "Such a death shall be prayed for Which draws the the tears of the ruler",
+          "They may be vast in good studies But heartfelt-love is hard for foes",
+          "Blind in rage and mad in lust To have his hatred is but just"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நாடு) பகுதியில் குறள் 736 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பகைவரால் கெடுக்கப் படாததாய், கெட்டுவிட்ட காலத்திலும் வளம் குன்றாததாய் உள்ள நாடே நாடுகள் எல்லாவற்றிலும் தலைமையானது என்று கூறுவர். பரிமேலழகர் உரை நுட்பம்: கெடுதலை யறியாதாய், கெட்டதாயினும் பயன்குன்றாத நாட்டினை எல்லா நாடுகளினும் தலையான நாடென்று சொல்லுவார். இது மேற்கூறிய விட்டில் முதலாயினவற்றால் நாடு கெட்டதாயினும் பின்பும் ஒருவழியால் பயன்படுதல் கூறிற்று.",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 74: 'The Land'), Kural 736 distills a foundational ethical insight: \"Chief of all lands is that, where nought disturbs its peace; Or, if invaders come, still yields its rich increase\" Philosophically, The learned say that the best kingdom is that which knows no evil (from its foes), and, if injured (at all), suffers no diminution in its fruitfulness.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "wealth",
+        "leadership",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 737,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஊற்றும் மழையும் மாகிய இருவகை நீர்வளமும், தக்கவாறு அமைந்த மலையும் அந்த மலையிலிருந்து ஆறாக வரும் நீர் வளமும் வலிய அரணும் நாட்டிற்கு உறுப்புகளாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The constituents of a kingdom are the two waters (from above and below), well situated hills and an undestructible fort.",
+        "story_title_ta": "நாடு — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Land — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாடு' என்ற அதிகாரத்திலிருந்து குறள் 737 பற்றிக் கதை சொன்னார். 'ஆற்றுநீரும், ஊற்றுநீரும் உயரமும் அகலமும் உடைய வாய்ப்பான மலையும், மழை நீரும், அழிக்க முடியாத கோட்டையும் நாட்டிற்குத் தேவையான உறுப்புகளாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 74, 'The Land', centered on Kural 737: The constituents of a kingdom are the two waters (from above and below), well situated hills and an undestructible fort. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஆறு, கடல் எனும் இருபுனலும், வளர்ந்தோங்கி நீண்டமைந்த மலைத் தொடரும், வருபுனலாம் மழையும், வலிமைமிகு அரணும், ஒரு நாட்டின் சிறந்த உறுப்புகளாகும்.",
+        "moral_en": "Moral: Waters from rains and springs, a mountain near, and waters thence; These make a land, with fortress' sure defence.",
+        "game_blank_word_ta": "மலையும்",
+        "game_options_ta": [
+          "தள்ளா",
+          "மலையும்",
+          "விளையுளும்",
+          "தக்காரும்"
+        ],
+        "game_options_en": [
+          "It's country which has souls of worth Unfailing yields and ample wealth",
+          "Waters up and down, hills and streams With strong forts as limbs country beams",
+          "The Land has large luring treasure Where pests are nil and yields are sure",
+          "It's land that bears pressing burdens And pays its tax which king demands"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாடு (அங்கவியல்) பிரிவில் அமைந்த குறள் 737, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஆற்றுநீரும், ஊற்றுநீரும் உயரமும் அகலமும் உடைய வாய்ப்பான மலையும், மழை நீரும், அழிக்க முடியாத கோட்டையும் நாட்டிற்குத் தேவையான உறுப்புகளாம். கலைஞர் உரை கூறுவது: ஆறு, கடல் எனும் இருபுனலும், வளர்ந்தோங்கி நீண்டமைந்த மலைத் தொடரும், வருபுனலாம் மழையும், வலிமைமிகு அரணும், ஒரு நாட்டின் சிறந்த உறுப்புகளாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Land (Ministers & Elements of State), Kural 737 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The constituents of a kingdom are the two waters (from above and below), well situated hills and an undestructible fort. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாடு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Land' thoughtfully.",
+        "quiz_question_ta": "'நாடு' அதிகாரத்தில் வரும் திருக்குறள் 737 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 737 from Chapter 'The Land'?",
+        "quiz_options_ta": [
+          "நட்பைப்போல் செய்து கொள்வதற்கு அருமையானவை எவை உள்ளன, அதுபோல் தொழிலுக்கு அரிய காவலாக இருப்பவை எவை உள்ளன.",
+          "ஊற்றும் மழையும் மாகிய இருவகை நீர்வளமும், தக்கவாறு அமைந்த மலையும் அந்த மலையிலிருந்து ஆறாக வரும் நீர் வளமும் வலிய அரணும் நாட்டிற்கு உறுப்புகளாகும்.",
+          "முகத்தால் இனிமையாகச் சிரித்துப் பழகி அகத்தில் தீமை கொண்டுள்ள வஞ்சகருடன் நட்பு கொள்வதற்கு அஞ்ச வேண்டும்.",
+          "தன்னை அடுத்துத் தன்னோடிருந்தும் பொருந்தாதவற்றைச் செய்பவனுடைய பகையைப் பொருள் கொடுத்தாவது கொள்ள வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Like friendship what's so hard to gain? That guards one against acts villain?",
+          "Waters up and down, hills and streams With strong forts as limbs country beams",
+          "Fear foes whose face has winning smiles Whose heart is full of cunning guiles",
+          "Pay and buy his enmity Who muddles chance with oddity"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நாடு) பகுதியில் குறள் 737 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஊற்றும் மழையும் மாகிய இருவகை நீர்வளமும், தக்கவாறு அமைந்த மலையும் அந்த மலையிலிருந்து ஆறாக வரும் நீர் வளமும் வலிய அரணும் நாட்டிற்கு உறுப்புகளாகும். பரிமேலழகர் உரை நுட்பம்: மேல்நீர் கீழ்நீர் நிறுத்தலாமிடத்தினைக் கிணறுகல்லி நீருண்டாக்குமிடத்தினையும், பயன்படு மலையினையும், ஆறொழுகுமிடத்தினையும், வலிய அரணாகும் இடத்தினையும் கண்டு அவ்விடத்தை நாடாக்குக: அவை நாட்டிற்கு உறுப்பாதலால். இஃது இவை ஐந்துங்குறையாமல் வேண்டுமென்றது.",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 74: 'The Land'), Kural 737 distills a foundational ethical insight: \"Waters from rains and springs, a mountain near, and waters thence; These make a land, with fortress' sure defence\" Philosophically, The constituents of a kingdom are the two waters (from above and below), well situated hills and an undestructible fort.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "leadership",
+        "time",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 738,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நோயில்லாதிருத்தல், செல்வம், விளை பொருள், வளம், இன்பவாழ்வு, நல்ல காவல் இந்த ஐந்தும் நாட்டிற்கு அழகு என்று கூறுவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Freedom from epidemics, wealth, produce, happiness and protection (to subjects); these five, the learned, say, are the ornaments of a kingdom.",
+        "story_title_ta": "நாடு — கவின் கற்ற பாடம்",
+        "story_title_en": "The Land — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாடு' என்ற அதிகாரத்திலிருந்து குறள் 738 பற்றிக் கதை சொன்னார். 'நோய் இல்லாமை, செல்வம், விளைச்சல், மகிழ்ச்சி, நல்ல காவல் இவை ஐந்தும் ஒரு நாட்டிற்கு அழகு என்று நூலோர் கூறுவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 74, 'The Land', centered on Kural 738: Freedom from epidemics, wealth, produce, happiness and protection (to subjects); these five, the learned, say, are the ornaments of a kingdom. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மக்களுக்கு நோயற்ற வாழ்வு, விளைச்சல் மிகுதி, பொருளாதார வளம், இன்ப நிலை, உரிய பாதுகாப்பு ஆகிய ஐந்தும் ஒரு நாட்டுக்கு அழகு எனக் கூறப்படுபவைகளாகும்.",
+        "moral_en": "Moral: A country's jewels are these five: unfailing health, Fertility, and joy, a sure defence, and wealth.",
+        "game_blank_word_ta": "ஏமம்",
+        "game_options_ta": [
+          "தள்ளா",
+          "விளையுளும்",
+          "ஏமம்",
+          "தக்காரும்"
+        ],
+        "game_options_en": [
+          "It's country which has souls of worth Unfailing yields and ample wealth",
+          "The Land has large luring treasure Where pests are nil and yields are sure",
+          "Rich yield, delight, defence and wealth Are jewels of lands with blooming health",
+          "It's land that bears pressing burdens And pays its tax which king demands"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாடு (அங்கவியல்) பிரிவில் அமைந்த குறள் 738, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நோய் இல்லாமை, செல்வம், விளைச்சல், மகிழ்ச்சி, நல்ல காவல் இவை ஐந்தும் ஒரு நாட்டிற்கு அழகு என்று நூலோர் கூறுவர். கலைஞர் உரை கூறுவது: மக்களுக்கு நோயற்ற வாழ்வு, விளைச்சல் மிகுதி, பொருளாதார வளம், இன்ப நிலை, உரிய பாதுகாப்பு ஆகிய ஐந்தும் ஒரு நாட்டுக்கு அழகு எனக் கூறப்படுபவைகளாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Land (Ministers & Elements of State), Kural 738 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Freedom from epidemics, wealth, produce, happiness and protection (to subjects); these five, the learned, say, are the ornaments of a kingdom. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாடு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Land' thoughtfully.",
+        "quiz_question_ta": "'நாடு' அதிகாரத்தில் வரும் திருக்குறள் 738 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 738 from Chapter 'The Land'?",
+        "quiz_options_ta": [
+          "அறிவுடையவரின் நட்பு பிறை நிறைந்து வருதல் போன்ற தன்மையுடையது, அறிவில்லாதவரின் நட்பு முழுமதி தேய்ந்து பின் செல்லுதல் போன்ற தன்மையுடையன.",
+          "மனத்தால் தம்மொடு பொருந்தாமல் பழகுகின்றவரை அவர் கூறுகின்ற சொல்லைக் கொண்டு எத்தகைய ஒரு செயலிலும் நம்பித் தெளியக்கூடாது.",
+          "நோயில்லாதிருத்தல், செல்வம், விளை பொருள், வளம், இன்பவாழ்வு, நல்ல காவல் இந்த ஐந்தும் நாட்டிற்கு அழகு என்று கூறுவர்.",
+          "ஒருவன் குணம் இல்லாதவனாய், குற்றம் பல உடையவனானால் அவன் துணை இல்லாதவன் ஆவான், அந்நிலைமையே அவனுடைய பகைவர்க்கு நன்மையாகும்."
+        ],
+        "quiz_options_en": [
+          "Good friendship shines like waxing moon, The bad withers like waning moon",
+          "Do not trust in what they tell Whose mind with your mind goes ill",
+          "Rich yield, delight, defence and wealth Are jewels of lands with blooming health",
+          "With no virtue but full of vice He loses friends and delights foes"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நாடு) பகுதியில் குறள் 738 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நோயில்லாதிருத்தல், செல்வம், விளை பொருள், வளம், இன்பவாழ்வு, நல்ல காவல் இந்த ஐந்தும் நாட்டிற்கு அழகு என்று கூறுவர். பரிமேலழகர் உரை நுட்பம்: பிணியின்மை செல்வம் விளைவு இன்பம் ஏமம் இவ் ஐந்து - நோயின்மையும் செல்வம் விளைதல் இன்பம் காவல் என்றிவை உடைமையுமாகிய இவ்வைந்தனையும்; நாட்டிற்கு அணி என்ப- நாட்டிற்கு அழகு என்று சொல்லுவர் நூலோர். (பிணியின்மை, நில நலத்தான் வருவது. செல்வம், மேற்சொல்லியன. இன்பம...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 74: 'The Land'), Kural 738 distills a foundational ethical insight: \"A country's jewels are these five: unfailing health, Fertility, and joy, a sure defence, and wealth\" Philosophically, Freedom from epidemics, wealth, produce, happiness and protection (to subjects); these five, the learned, say, are the ornaments of a kingdom.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "speech",
+        "leadership",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 739,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: முயற்சி செய்து தேடாமலேயே தரும் வளத்தை உடைய நாடுகளைச் சிறந்த நாடுகள் என்று கூறுவர், தேடிமுயன்றால் வளம் தரும் நாடுகள் சிறந்த நாடுகள் அல்ல.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The learned say that those are kingdom whose wealth is not laboured for, and those not, whose wealth is only obtained through labour.",
+        "story_title_ta": "நாடு — நிலா கற்ற பாடம்",
+        "story_title_en": "The Land — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாடு' என்ற அதிகாரத்திலிருந்து குறள் 739 பற்றிக் கதை சொன்னார். 'தன் மக்கள் சிரமப்படாமல் இருக்க அதிக உற்பத்தியைத் தருவதே நாடு என்று நூலோர் கூறுவர்; தேடிவருந்திப் பெறும் நிலையில் இருப்பது நாடு அன்று.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 74, 'The Land', centered on Kural 739: The learned say that those are kingdom whose wealth is not laboured for, and those not, whose wealth is only obtained through labour. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இடைவிடாமல் முயற்சி மேற்கொண்டு வளம் பெறும் நாடுகளைவிட, இயற்கையிலேயே எல்லா வளங்களையும் உடைய நாடுகள் சிறந்த நாடுகளாகும்.",
+        "moral_en": "Moral: That is a land that yields increase unsought, That is no land whose gifts with toil are bought.",
+        "game_blank_word_ta": "வளந்தரு",
+        "game_options_ta": [
+          "தள்ளா",
+          "விளையுளும்",
+          "தக்காரும்",
+          "வளந்தரு"
+        ],
+        "game_options_en": [
+          "It's country which has souls of worth Unfailing yields and ample wealth",
+          "The Land has large luring treasure Where pests are nil and yields are sure",
+          "It's land that bears pressing burdens And pays its tax which king demands",
+          "A land is land which yields unsought Needing hard work the land is nought"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாடு (அங்கவியல்) பிரிவில் அமைந்த குறள் 739, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் மக்கள் சிரமப்படாமல் இருக்க அதிக உற்பத்தியைத் தருவதே நாடு என்று நூலோர் கூறுவர்; தேடிவருந்திப் பெறும் நிலையில் இருப்பது நாடு அன்று. கலைஞர் உரை கூறுவது: இடைவிடாமல் முயற்சி மேற்கொண்டு வளம் பெறும் நாடுகளைவிட, இயற்கையிலேயே எல்லா வளங்களையும் உடைய நாடுகள் சிறந்த நாடுகளாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Land (Ministers & Elements of State), Kural 739 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The learned say that those are kingdom whose wealth is not laboured for, and those not, whose wealth is only obtained through labour. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாடு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Land' thoughtfully.",
+        "quiz_question_ta": "'நாடு' அதிகாரத்தில் வரும் திருக்குறள் 739 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 739 from Chapter 'The Land'?",
+        "quiz_options_ta": [
+          "பழகப் பழக நற்பண்பு உடையவரின் நட்பு இன்பம் தருதல், நூலின் நற்பொருள் கற்கக் கற்க மேன்மேலும் இன்பம் தருதலைப் போன்றதாகும்.",
+          "நண்பர்போல் நன்மையானவற்றைச் சொன்னபோதிலும் பகைமை கொண்டவர் சொல்லும் சொற்களின் உண்மைத் தன்மை விரைவில் உணரப்படும்.",
+          "அறிவு இல்லாத அஞ்சும் இயல்புடைய பகைவரைப் பெற்றால், அவரை எதிர்த்து பகை கொள்பவர்க்கு இன்பங்கள் தொலைவில் நீங்காமல் இருக்கும்.",
+          "முயற்சி செய்து தேடாமலேயே தரும் வளத்தை உடைய நாடுகளைச் சிறந்த நாடுகள் என்று கூறுவர், தேடிமுயன்றால் வளம் தரும் நாடுகள் சிறந்த நாடுகள் அல்ல."
+        ],
+        "quiz_options_en": [
+          "Like taste in books good friendship grows The more one moves the more he knows",
+          "The words of foes is quickly seen Though they speak like friends in fine",
+          "The joy of heroes knows no bounds When timid fools are opponents",
+          "A land is land which yields unsought Needing hard work the land is nought"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நாடு) பகுதியில் குறள் 739 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முயற்சி செய்து தேடாமலேயே தரும் வளத்தை உடைய நாடுகளைச் சிறந்த நாடுகள் என்று கூறுவர், தேடிமுயன்றால் வளம் தரும் நாடுகள் சிறந்த நாடுகள் அல்ல. பரிமேலழகர் உரை நுட்பம்: நாடா வளத்தன நாடு என்ப - தங்கண் வாழ்வார் தேடி வருந்தாமல் அவர்பால் தானே அடையும் செல்வத்தை உடையவற்றை நூலோர் நாடு என்று சொல்வர்; நாடவளம் தரும் நாடு நாடு அல்ல - ஆதலால் தேடி வருந்தச் செல்வம் அடைவிக்கும் நாடுகள் நாடாகா. (நாடுதல், இரு வழியும் வருத்தத்தின்மேல...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 74: 'The Land'), Kural 739 distills a foundational ethical insight: \"That is a land that yields increase unsought, That is no land whose gifts with toil are bought\" Philosophically, The learned say that those are kingdom whose wealth is not laboured for, and those not, whose wealth is only obtained through labour.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "perseverance",
+        "family",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 740,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நல்ல அரசன் பொருந்தாத நாடு, மேற்சொன்ன நன்மைகள் எல்லாம் அமைதிருந்த போதிலும் அவற்றால் பயன் இல்லாமல் போகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Although in possession of all the above mentioned excellences, these are indeed of no use to a country, in the absence of harmony between the sovereign and the sujects.",
+        "story_title_ta": "நாடு — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Land — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'நாடு' என்ற அதிகாரத்திலிருந்து குறள் 740 பற்றிக் கதை சொன்னார். 'மேலே சொல்லப்பட்ட எல்லாம் இருந்தாலும் குடிமக்கள் மீது அன்பு இல்லாத அரசு அமைந்துவிட்டால் அதனால் ஒரு நன்மையும் இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 74, 'The Land', centered on Kural 740: Although in possession of all the above mentioned excellences, these are indeed of no use to a country, in the absence of harmony between the sovereign and the sujects. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நல்ல அரசு அமையாத நாட்டில் எல்லாவித வளங்களும் இருந்தாலும் எந்தப் பயனும் இல்லாமற் போகும்.",
+        "moral_en": "Moral: Though blest with all these varied gifts' increase, A land gains nought that is not with its king at peace.",
+        "game_blank_word_ta": "கண்ணும்",
+        "game_options_ta": [
+          "கண்ணும்",
+          "தள்ளா",
+          "விளையுளும்",
+          "தக்காரும்"
+        ],
+        "game_options_en": [
+          "Though a land has thus every thing It is worthless without a king",
+          "It's country which has souls of worth Unfailing yields and ample wealth",
+          "The Land has large luring treasure Where pests are nil and yields are sure",
+          "It's land that bears pressing burdens And pays its tax which king demands"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "நாடு (அங்கவியல்) பிரிவில் அமைந்த குறள் 740, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மேலே சொல்லப்பட்ட எல்லாம் இருந்தாலும் குடிமக்கள் மீது அன்பு இல்லாத அரசு அமைந்துவிட்டால் அதனால் ஒரு நன்மையும் இல்லை. கலைஞர் உரை கூறுவது: நல்ல அரசு அமையாத நாட்டில் எல்லாவித வளங்களும் இருந்தாலும் எந்தப் பயனும் இல்லாமற் போகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Land (Ministers & Elements of State), Kural 740 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Although in possession of all the above mentioned excellences, these are indeed of no use to a country, in the absence of harmony between the sovereign and the sujects. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'நாடு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Land' thoughtfully.",
+        "quiz_question_ta": "'நாடு' அதிகாரத்தில் வரும் திருக்குறள் 740 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 740 from Chapter 'The Land'?",
+        "quiz_options_ta": [
+          "நல்ல அரசன் பொருந்தாத நாடு, மேற்சொன்ன நன்மைகள் எல்லாம் அமைதிருந்த போதிலும் அவற்றால் பயன் இல்லாமல் போகும்.",
+          "நட்புச் செய்தல் ஒருவரோடு ஒருவர் சிரித்து மகிழும் பொருட்டு அன்று, நண்பர் நெறிக்கடந்து செல்லும் போது முற்ப்பட்டுச் சென்று இடித்துரைப்பதற்காகும்.",
+          "வில்லின் வணக்கம் வணக்கமாக இருந்தாலும் தீங்கு செய்தலைக்குறித்தமையால், பகைவரிடத்திலும் அவருடைய சொல்லின் வணக்கத்தை நன்மையாகக் கொள்ளக் கூடாது.",
+          "கல்வி கற்காதவனைப் பகைத்துக்கொள்ளும் எளிய செயலைச் செய்ய இயலாத ஒருவனிடம் எக்காலத்திலும் புகழ் வந்து பொருந்தாது."
+        ],
+        "quiz_options_en": [
+          "Though a land has thus every thing It is worthless without a king",
+          "Not to laugh is friendship made But to hit when faults exceed",
+          "Trust not the humble words of foes Danger darts from bending bows",
+          "Glory's light he will not gain Who fails to fight a fool and win"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (நாடு) பகுதியில் குறள் 740 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நல்ல அரசன் பொருந்தாத நாடு, மேற்சொன்ன நன்மைகள் எல்லாம் அமைதிருந்த போதிலும் அவற்றால் பயன் இல்லாமல் போகும். பரிமேலழகர் உரை நுட்பம்: வேந்து அமைவு இல்லாத நாடு - வேந்தனோடு மேவுதல் இல்லாத நாடு; ஆங்கு அமைவு எய்தியக் கண்ணும் பயம் இன்றே - மேற்சொல்லிய குணங்கள் எல்லாவற்றினும் நிறைந்திருந்ததாயினும், அவற்றால் பயனுடைத்தன்று. (வேந்து அமைவு எனவே, குடிகள் அவன்மாட்டு அன்புடையராதலும்,அவன்தான் இவர்மாட்டு...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 74: 'The Land'), Kural 740 distills a foundational ethical insight: \"Though blest with all these varied gifts' increase, A land gains nought that is not with its king at peace\" Philosophically, Although in possession of all the above mentioned excellences, these are indeed of no use to a country, in the absence of harmony between the sovereign and the sujects.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "speech",
+        "family",
+        "love"
+      ]
+    }
+  ]
+}

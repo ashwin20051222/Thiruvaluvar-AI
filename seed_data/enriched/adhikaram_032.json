@@ -1,0 +1,586 @@
+{
+  "adhikaram_id": 32,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.735204727+00:00",
+  "kurals": [
+    {
+      "kural_number": 311,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: சிறப்பைத்தருகின்ற பெருஞ் செல்வத்தைப் பெறுவதாக இருந்தாலும், பிறர்க்குத் துன்பம் செய்யாதிருத்தலே மாசற்றவரின் கொள்கையாம்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: It is the determination of the spotless not to cause sorrow to others, although they could (by so causing) obtain the wealth which confers greatness.",
+        "story_title_ta": "இன்னா செய்யாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Not doing Evil — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இன்னா செய்யாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 311 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'சிறப்பைத் தரும் செல்வத்தைப் பெறுவதாக இருந்தாலும்கூட அடுத்தவர்க்குத் தீமை செய்யாதிருப்பது குற்றமற்றவரின் கொள்கை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Not doing Evil'. Grandpa shared Kural 311 and explained in simple words: It is the determination of the spotless not to cause sorrow to others, although they could (by so causing) obtain the wealth which confers greatness. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மிகுந்த செழிப்பைத் தருகின்ற செல்வத்தைப் பெறக் கூடுமென்றாலும் அதன் பொருட்டுப் பிறருக்குப் கேடு செய்யாமலிருப்பதே மாசற்றவர்களின் கொள்கையாகும்.",
+        "moral_en": "Moral: Though ill to neighbour wrought should glorious pride of wealth secure, No ill to do is fixed decree of men in spirit pure.",
+        "game_blank_word_ta": "மாசற்றார்",
+        "game_options_ta": [
+          "கறுத்துஇன்னா",
+          "செய்தவக்",
+          "கண்ணும்",
+          "மாசற்றார்"
+        ],
+        "game_options_en": [
+          "The spotless hearts seek not revenge Though Malice does the worst in rage",
+          "Revenging even causeless hate Bad-blood breeds and baneful heat",
+          "Doing good-turns, put them to shame Thus chide the evil who do harm",
+          "The pure by faith mean pain to none Though princely wealth by that is won"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இன்னா செய்யாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 311, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சிறப்பைத் தரும் செல்வத்தைப் பெறுவதாக இருந்தாலும்கூட அடுத்தவர்க்குத் தீமை செய்யாதிருப்பது குற்றமற்றவரின் கொள்கை. கலைஞர் உரை கூறுவது: மிகுந்த செழிப்பைத் தருகின்ற செல்வத்தைப் பெறக் கூடுமென்றாலும் அதன் பொருட்டுப் பிறருக்குப் கேடு செய்யாமலிருப்பதே மாசற்றவர்களின் கொள்கையாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not doing Evil (Ascetic Virtue), Kural 311 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is the determination of the spotless not to cause sorrow to others, although they could (by so causing) obtain the wealth which confers greatness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இன்னா செய்யாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not doing Evil' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இன்னா செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 311 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 311 from Chapter 'Not doing Evil'?",
+        "quiz_options_ta": [
+          "எப்பொருள் எத்தன்மையதாய்த் தோன்றினாலும் (அத்தோற்றத்தை மட்டும் கண்டுமங்காமல்) அப் பொருளின் உண்மையான இயல்பை அறிவதே மெய்யுணர்வு.",
+          "ஒரு பிறப்பில் தான் கற்றக் கல்வியானது அப்பிறப்பிற்கு மட்டும் அல்லாமல் அவனுக்கு ஏழுபிறப்பிறப்பிலும் உதவும் தன்மை உடையது.",
+          "அறம் உணர்ந்தவராய்த் தன்னை விட மூத்தவராய் உள்ள அறிவுடையவரின் நட்பை, கொள்ளும் வகை அறிந்து ஆராய்ந்து கொள்ள வேண்டும்.",
+          "சிறப்பைத்தருகின்ற பெருஞ் செல்வத்தைப் பெறுவதாக இருந்தாலும், பிறர்க்குத் துன்பம் செய்யாதிருத்தலே மாசற்றவரின் கொள்கையாம்."
+        ],
+        "quiz_options_en": [
+          "Knowledge is truth of things to find In every case of every kind",
+          "The joy of learning in one birth Exalts man upto his seventh",
+          "Weigh their worth and friendship gain Of men of virtue and mature brain",
+          "The pure by faith mean pain to none Though princely wealth by that is won"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (இன்னா செய்யாமை) பகுதியில் குறள் 311 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சிறப்பைத்தருகின்ற பெருஞ் செல்வத்தைப் பெறுவதாக இருந்தாலும், பிறர்க்குத் துன்பம் செய்யாதிருத்தலே மாசற்றவரின் கொள்கையாம். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, தனக்கு ஒரு பயன் நோக்கியாதல் ,செற்றம் பற்றியாதல். சோர்வானாதல் ஓர் உயிர்க்கு இன்னாதவற்றைச் செய்யாமை. இன்னா செய்தல் வெகுளி ஒழியவும் நிகழும் என்பது அறிவித்தற்கு , இது வெகுளாமையின்பின் வைக்கப்பட்டது.) சிறப்பு ஈனும் செல்வம் பெறினும் - யோகமாகிய...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 32: 'Not doing Evil'), Kural 311 distills a foundational ethical insight: \"Though ill to neighbour wrought should glorious pride of wealth secure, No ill to do is fixed decree of men in spirit pure\" Philosophically, It is the determination of the spotless not to cause sorrow to others, although they could (by so causing) obtain the wealth which confers greatness.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wealth",
+        "kindness",
+        "ethics",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 312,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒருவன் கறுவுகொண்டு துன்பம் செய்த போதிலும் அவனுக்கு திரும்ப துன்பம் செய்யாதிருத்தலே மாசற்றவரின் கொள்கையாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: It is the determination of the spotless not to do evil, even in return, to those who have cherished enmity and done them evil.",
+        "story_title_ta": "இன்னா செய்யாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Not doing Evil — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இன்னா செய்யாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 312 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நம்மீது கோபம் கொண்டு தீமை செய்தாலும், பதிலுக்குத் தீமை செய்யாதிருப்பது குற்றமற்றவரின் கொள்கை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Not doing Evil'. Grandpa shared Kural 312 and explained in simple words: It is the determination of the spotless not to do evil, even in return, to those who have cherished enmity and done them evil. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: சினங்கொண்டு சொல்லாலோ செயலாலோ ஒருவன் துன்பம் தரும்போது அந்தத் துன்பத்தை அவனுக்குத் திரும்பச் செய்யாமல் தாங்கிக் கொள்வதே சிறந்த மனிதரின் கொள்கையாகும்.",
+        "moral_en": "Moral: Though malice work its worst, planning no ill return, to endure, And work no ill, is fixed decree of men in spirit pure.",
+        "game_blank_word_ta": "கறுத்துஇன்னா",
+        "game_options_ta": [
+          "கறுத்துஇன்னா",
+          "சிறப்பீனும்",
+          "செல்வம்",
+          "பெறினும்"
+        ],
+        "game_options_en": [
+          "The spotless hearts seek not revenge Though Malice does the worst in rage",
+          "The pure by faith mean pain to none Though princely wealth by that is won",
+          "Revenging even causeless hate Bad-blood breeds and baneful heat",
+          "Doing good-turns, put them to shame Thus chide the evil who do harm"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இன்னா செய்யாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 312, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நம்மீது கோபம் கொண்டு தீமை செய்தாலும், பதிலுக்குத் தீமை செய்யாதிருப்பது குற்றமற்றவரின் கொள்கை. கலைஞர் உரை கூறுவது: சினங்கொண்டு சொல்லாலோ செயலாலோ ஒருவன் துன்பம் தரும்போது அந்தத் துன்பத்தை அவனுக்குத் திரும்பச் செய்யாமல் தாங்கிக் கொள்வதே சிறந்த மனிதரின் கொள்கையாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not doing Evil (Ascetic Virtue), Kural 312 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is the determination of the spotless not to do evil, even in return, to those who have cherished enmity and done them evil. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இன்னா செய்யாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not doing Evil' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இன்னா செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 312 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 312 from Chapter 'Not doing Evil'?",
+        "quiz_options_ta": [
+          "ஒருவன் கறுவுகொண்டு துன்பம் செய்த போதிலும் அவனுக்கு திரும்ப துன்பம் செய்யாதிருத்தலே மாசற்றவரின் கொள்கையாகும்.",
+          "கற்க வேண்டிய வற்றைக் கற்று இங்கு மெய்ப் பொருளை உணர்ந்தவர் , மீண்டும் இப்பிறப்பிற்கு வராத வழியை அடைவர்.",
+          "தாம் இன்புறுவதற்குக் காரணமான கல்வியால் உலகமும் இன்புறுவதைக் கண்டு, கற்றறிந்த அறிஞர் மேன்மேலும் (அக் கல்வியையே) விரும்புவர்.",
+          "வந்துள்ள துன்பத்தை நீக்கி, இனித் துன்பம் வராதபடி முன்னதாகவே காக்கவல்ல தன்மையுடையவரைப் போற்றி நட்புக் கொள்ள வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "The spotless hearts seek not revenge Though Malice does the worst in rage",
+          "Who learn and here the Truth discern Enter the path of non-return",
+          "The learned foster learning more On seeing the world enjoy their lore",
+          "Cherish the help of men of skill Who ward and safe-guard you from ill"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (இன்னா செய்யாமை) பகுதியில் குறள் 312 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் கறுவுகொண்டு துன்பம் செய்த போதிலும் அவனுக்கு திரும்ப துன்பம் செய்யாதிருத்தலே மாசற்றவரின் கொள்கையாகும். பரிமேலழகர் உரை நுட்பம்: கறுத்து இன்னா செய்த அக்கண்ணும் - தம்மேல் செற்றம் கொண்டு ஒருவன் இன்னாதவற்றைச் செய்த இடத்தும். மறுத்து இன்னா செய்யாமை மாசு அற்றார் கோள் - மீண்டுதாம் அவனுக்கு இன்னாதவற்றைச் செய்யாமையும் அவரது துணிவு. (இறந்தது தழீஇய எச்ச உம்மை விகாரத்தால் தொக்கது. அவ் இன்னாதவற்றை...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 32: 'Not doing Evil'), Kural 312 distills a foundational ethical insight: \"Though malice work its worst, planning no ill return, to endure, And work no ill, is fixed decree of men in spirit pure\" Philosophically, It is the determination of the spotless not to do evil, even in return, to those who have cherished enmity and done them evil.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "love",
+        "speech",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 313,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தான் ஒன்றும் செய்யாதிருக்கத் தனக்குத் தீங்கு செய்தவர்க்கும் துன்பமானாவற்றைச் செய்தால் செய்தபிறகு தப்பமுடியாத துன்பத்தையே கொடுக்கும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: In an ascetic inflict suffering even on those who hate him, when he has not done them any evil, it will afterwards give him irretrievable sorrow.",
+        "story_title_ta": "இன்னா செய்யாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Not doing Evil — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இன்னா செய்யாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 313 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நாம் ஒரு தீமையும் செய்யாதிருக்க, கோபம் கொண்டு நமக்குத் தீமை செய்தவர்க்கு, நாம் தீமை செய்தால், தப்பிக்க முடியாத அளவு துன்பத்தை அது நமக்குத் தரும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Not doing Evil'. Grandpa shared Kural 313 and explained in simple words: In an ascetic inflict suffering even on those who hate him, when he has not done them any evil, it will afterwards give him irretrievable sorrow. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: யாருக்கும் கேடு செய்யாமல் இருப்பவருக்குப் பகைவர் கேடு செய்துவிட்டால் அதற்குப் பதிலாக அவருக்கு வரும் கேடு மீளாத் துன்பம் தரக் கூடியதாகும்.",
+        "moral_en": "Moral: Though unprovoked thy soul malicious foes should sting, Retaliation wrought inevitable woes will bring.",
+        "game_blank_word_ta": "விழுமந்",
+        "game_options_ta": [
+          "சிறப்பீனும்",
+          "விழுமந்",
+          "செல்வம்",
+          "பெறினும்"
+        ],
+        "game_options_en": [
+          "The pure by faith mean pain to none Though princely wealth by that is won",
+          "Revenging even causeless hate Bad-blood breeds and baneful heat",
+          "The spotless hearts seek not revenge Though Malice does the worst in rage",
+          "Doing good-turns, put them to shame Thus chide the evil who do harm"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இன்னா செய்யாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 313, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாம் ஒரு தீமையும் செய்யாதிருக்க, கோபம் கொண்டு நமக்குத் தீமை செய்தவர்க்கு, நாம் தீமை செய்தால், தப்பிக்க முடியாத அளவு துன்பத்தை அது நமக்குத் தரும். கலைஞர் உரை கூறுவது: யாருக்கும் கேடு செய்யாமல் இருப்பவருக்குப் பகைவர் கேடு செய்துவிட்டால் அதற்குப் பதிலாக அவருக்கு வரும் கேடு மீளாத் துன்பம் தரக் கூடியதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not doing Evil (Ascetic Virtue), Kural 313 speaks directly to teens navigating studies, friendships, leadership, and digital choices: In an ascetic inflict suffering even on those who hate him, when he has not done them any evil, it will afterwards give him irretrievable sorrow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இன்னா செய்யாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not doing Evil' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இன்னா செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 313 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 313 from Chapter 'Not doing Evil'?",
+        "quiz_options_ta": [
+          "ஒருவனுடைய உள்ளம் உண்மைப் பொருளை ஆராய்ந்து உறுதியாக உணர்ந்தால், அவனுக்கு மீண்டும் பிறப்பு உள்ள தென எண்ண வேண்டா.",
+          "தான் ஒன்றும் செய்யாதிருக்கத் தனக்குத் தீங்கு செய்தவர்க்கும் துன்பமானாவற்றைச் செய்தால் செய்தபிறகு தப்பமுடியாத துன்பத்தையே கொடுக்கும்.",
+          "ஒருவனுக்கு அழிவு இல்லாத சிறந்த செல்வம் கல்வியே ஆகும், கல்வியைத் தவிர மற்றப் பொருள்கள் (அத்தகைய சிறப்புடைய) செல்வம் அல்ல.",
+          "பெரியாரைப் போற்றி தமக்குச் சுற்றத்தாராக்கிக் கொள்ளுதல், பெறத்தக்க அரிய பேறுகள் எல்லாவற்றிலும் அருமையானதாகும்."
+        ],
+        "quiz_options_en": [
+          "One-minded sage sees inner-truth He is free from thoughts of rebirth",
+          "Revenging even causeless hate Bad-blood breeds and baneful heat",
+          "Learning is wealth none could destroy Nothing else gives genuine joy",
+          "Honour and have the great your own Is rarest of the rare things known"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (இன்னா செய்யாமை) பகுதியில் குறள் 313 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தான் ஒன்றும் செய்யாதிருக்கத் தனக்குத் தீங்கு செய்தவர்க்கும் துன்பமானாவற்றைச் செய்தால் செய்தபிறகு தப்பமுடியாத துன்பத்தையே கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: செய்யாமல் செற்றார்க்கும் இன்னாத செய்தபின் - தான் முன்பு ஓர் இன்னாமை செய்யாதிருக்கத் தன்மேல் செற்றம் கொண்டவர்க்கும் இன்னாதவற்றைத் துறந்தவன் செய்யுமாயின்; உய்யா விழுமம் தரும் - அச்செயல் அவனுக்குக் கடக்க முடியாத இடும்பையைக் கொடுக்கும். (அவ்விடும்பையாவது தவம...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 32: 'Not doing Evil'), Kural 313 distills a foundational ethical insight: \"Though unprovoked thy soul malicious foes should sting, Retaliation wrought inevitable woes will bring\" Philosophically, In an ascetic inflict suffering even on those who hate him, when he has not done them any evil, it will afterwards give him irretrievable sorrow.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "courage",
+        "speech",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 314,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: இன்னா செய்தவரைத் தண்டித்தல் அவரே நாணும் படியாக அவருக்கு நல்லுதவி செய்து அவருடைய தீமையையும் நன்மையையும் மறந்து விடுதலாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The (proper) punishment to those who have done evil (to you), is to put them to shame by showing them kindness, in return and to forget both the evil and the good done on both sides.",
+        "story_title_ta": "இன்னா செய்யாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Not doing Evil — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இன்னா செய்யாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 314 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நமக்குத் தீமை செய்தவரைத் தண்டிக்கும் வழி, அவர் வெட்கப்படும்படி அவருக்கு நன்மையைச் செய்து அவர் செய்த தீமையையும், நாம் செய்த நன்மையையும் மறந்துவிடுவதே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Not doing Evil'. Grandpa shared Kural 314 and explained in simple words: The (proper) punishment to those who have done evil (to you), is to put them to shame by showing them kindness, in return and to forget both the evil and the good done on both sides. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நமக்குத் தீங்கு செய்தவரைத் தண்டிப்பதற்குச் சரியான வழி, அவர் வெட்கித் தலைகுனியும்படியாக அவருக்கு நன்மை செய்வதுதான்.",
+        "moral_en": "Moral: To punish wrong, with kindly benefits the doers ply; Thus shame their souls; but pass the ill unheeded by.",
+        "game_blank_word_ta": "அவர்நாண",
+        "game_options_ta": [
+          "சிறப்பீனும்",
+          "செல்வம்",
+          "அவர்நாண",
+          "பெறினும்"
+        ],
+        "game_options_en": [
+          "The pure by faith mean pain to none Though princely wealth by that is won",
+          "The spotless hearts seek not revenge Though Malice does the worst in rage",
+          "Doing good-turns, put them to shame Thus chide the evil who do harm",
+          "Revenging even causeless hate Bad-blood breeds and baneful heat"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இன்னா செய்யாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 314, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நமக்குத் தீமை செய்தவரைத் தண்டிக்கும் வழி, அவர் வெட்கப்படும்படி அவருக்கு நன்மையைச் செய்து அவர் செய்த தீமையையும், நாம் செய்த நன்மையையும் மறந்துவிடுவதே. கலைஞர் உரை கூறுவது: நமக்குத் தீங்கு செய்தவரைத் தண்டிப்பதற்குச் சரியான வழி, அவர் வெட்கித் தலைகுனியும்படியாக அவருக்கு நன்மை செய்வதுதான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not doing Evil (Ascetic Virtue), Kural 314 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The (proper) punishment to those who have done evil (to you), is to put them to shame by showing them kindness, in return and to forget both the evil and the good done on both sides. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இன்னா செய்யாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not doing Evil' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இன்னா செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 314 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 314 from Chapter 'Not doing Evil'?",
+        "quiz_options_ta": [
+          "பிறவித்துன்பத்திற்கு காரணமான அறியாமை நீங்குமாறு முக்தி எனும் சிறந்த நிலைக்குக் காரணமான செம் பொருளைக் காண்பதே மெய்யுணர்வு.",
+          "அறிவு நிரம்புவதற்குக் காரணமானக் நூல்களைக் கற்காமல் கற்றவரிடம் சென்று பேசதல், சூதாடும் அரங்கு இழைக்காமல் வட்டுக்காயை உருட்டிஆடினார் போன்றது.",
+          "இன்னா செய்தவரைத் தண்டித்தல் அவரே நாணும் படியாக அவருக்கு நல்லுதவி செய்து அவருடைய தீமையையும் நன்மையையும் மறந்து விடுதலாகும்.",
+          "தம்மைவிட (அறிவு முதலியவற்றால் ) பெரியவர் தமக்குச் சுற்றத்தராகுமாறு நடத்தல், வல்லமை எல்லாவற்றிலும் சிறந்ததாகும்."
+        ],
+        "quiz_options_en": [
+          "It is knowledge to know Self-Truth And remove the folly of birth",
+          "Like play of chess on squareless board Vain is imperfect loreless word",
+          "Doing good-turns, put them to shame Thus chide the evil who do harm",
+          "To have betters as intimates Power of all powers promotes"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (இன்னா செய்யாமை) பகுதியில் குறள் 314 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இன்னா செய்தவரைத் தண்டித்தல் அவரே நாணும் படியாக அவருக்கு நல்லுதவி செய்து அவருடைய தீமையையும் நன்மையையும் மறந்து விடுதலாகும். பரிமேலழகர் உரை நுட்பம்: இன்னா செய்தாரை ஒறுத்தல் - தமக்கு இன்னாதவற்றைச் செய்தாரைத் துறந்தார் ஒறுத்தலாவது: அவர் நாண நல் நயம் செய்துவிடல் - அவர் தாமே நாணுமாறு அவர்க்கு இனிய உவகைகளைச் செய்து அவ்விரண்டனையும் மறத்தல். (மறவாவழிப் பின்னும் வந்து கிளைக்கும் ஆகலின் , மறக்கற்பால ஆயின. அவரை...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 32: 'Not doing Evil'), Kural 314 distills a foundational ethical insight: \"To punish wrong, with kindly benefits the doers ply; Thus shame their souls; but pass the ill unheeded by\" Philosophically, The (proper) punishment to those who have done evil (to you), is to put them to shame by showing them kindness, in return and to forget both the evil and the good done on both sides.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "speech",
+        "ethics",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 315,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மற்ற உயிரின் துன்பத்தை தன் துன்பம் போல் கருதிக் காப்பாற்றா விட்டால் பெற்றுள்ள அறிவினால் ஆகும் பயன் உண்டோ.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: What benefit has he derived from his knowledge, who does not endeavour to keep off pain from another as much as from himself ?",
+        "story_title_ta": "இன்னா செய்யாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Not doing Evil — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இன்னா செய்யாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 315 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அடுத்த உயிர்க்கு வரும் துன்பத்தைத் தமக்கு வந்ததாக எண்ணாவிட்டால், அறிவைப் பெற்றதால் ஆகும் பயன்தான் என்ன?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Not doing Evil'. Grandpa shared Kural 315 and explained in simple words: What benefit has he derived from his knowledge, who does not endeavour to keep off pain from another as much as from himself ? The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிற உயிர்களுக்கு வரும் துன்பத்தைத் தம் துன்பம் போலக் கருதிக் காப்பாற்ற முனையாதவர்களுக்கு அறிவு இருந்தும் அதனால் எந்தப் பயனுமில்லை.",
+        "moral_en": "Moral: From wisdom's vaunted lore what doth the learner gain, If as his own he guard not others' souls from pain.",
+        "game_blank_word_ta": "பிறிதின்நோய்",
+        "game_options_ta": [
+          "சிறப்பீனும்",
+          "செல்வம்",
+          "பெறினும்",
+          "பிறிதின்நோய்"
+        ],
+        "game_options_en": [
+          "The pure by faith mean pain to none Though princely wealth by that is won",
+          "The spotless hearts seek not revenge Though Malice does the worst in rage",
+          "Revenging even causeless hate Bad-blood breeds and baneful heat",
+          "What does a man from wisdom gain If he pines not at other's pain?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இன்னா செய்யாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 315, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடுத்த உயிர்க்கு வரும் துன்பத்தைத் தமக்கு வந்ததாக எண்ணாவிட்டால், அறிவைப் பெற்றதால் ஆகும் பயன்தான் என்ன? கலைஞர் உரை கூறுவது: பிற உயிர்களுக்கு வரும் துன்பத்தைத் தம் துன்பம் போலக் கருதிக் காப்பாற்ற முனையாதவர்களுக்கு அறிவு இருந்தும் அதனால் எந்தப் பயனுமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not doing Evil (Ascetic Virtue), Kural 315 speaks directly to teens navigating studies, friendships, leadership, and digital choices: What benefit has he derived from his knowledge, who does not endeavour to keep off pain from another as much as from himself ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இன்னா செய்யாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not doing Evil' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இன்னா செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 315 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 315 from Chapter 'Not doing Evil'?",
+        "quiz_options_ta": [
+          "எல்லாப் பொருளுக்கும் சார்பான செம்பொருளை உணர்ந்து பற்றுக் கெடுமாறு ஒழுகினால், சார்வதற்க்கு உரிய துன்பங்கள் திரும்ப வந்து அடையா.",
+          "(கற்றவரின் அவையில்) கல்லாதவன் ஒன்றைச் சொல்ல விரும்புதல், முலை இரண்டும் இல்லாதவள் பெண் தன்மையை விரும்பினாற் போன்றது.",
+          "தக்க வழிகளை ஆராய்ந்து கூறும் அறிஞரையே உலகம் கண்ணாகக் கொண்டு நடத்தலால், மன்னவனும் அத்தகையாரைக் ஆராய்ந்து நட்புக்கொள்ள வேண்டும்.",
+          "மற்ற உயிரின் துன்பத்தை தன் துன்பம் போல் கருதிக் காப்பாற்றா விட்டால் பெற்றுள்ள அறிவினால் ஆகும் பயன் உண்டோ."
+        ],
+        "quiz_options_en": [
+          "Know the Refuge; off with bondage Be free from ills of thraldom, O sage",
+          "Unlearned man aspiring speech Is breastless lady's love-approach",
+          "Ministers are the monarch's eyes Round him should be the right and wise",
+          "What does a man from wisdom gain If he pines not at other's pain?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (இன்னா செய்யாமை) பகுதியில் குறள் 315 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மற்ற உயிரின் துன்பத்தை தன் துன்பம் போல் கருதிக் காப்பாற்றா விட்டால் பெற்றுள்ள அறிவினால் ஆகும் பயன் உண்டோ. பரிமேலழகர் உரை நுட்பம்: அறிவினான் ஆகுவது உண்டோ - துறந்தார்க்கு உயிர் முதலியவற்றை உள்ளவாறறிந்த அறிவினான் ஆவதொரு பயன் உண்டோ, பிறிதின் நோய் தம் நோய்போல் போற்றாக்கடை - பிறிதோர் உயிர்க்கு வரும் இன்னாதவற்றைத் தம் உயிர்க்கு வந்தனபோலக் குறிக்கொண்டு காவா இடத்து? (குறிக்கொண்டு காத்தலாவது...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 32: 'Not doing Evil'), Kural 315 distills a foundational ethical insight: \"From wisdom's vaunted lore what doth the learner gain, If as his own he guard not others' souls from pain\" Philosophically, What benefit has he derived from his knowledge, who does not endeavour to keep off pain from another as much as from himself ?",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "wisdom",
+        "education",
+        "kindness",
+        "gratitude"
+      ]
+    },
+    {
+      "kural_number": 316,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஒருவன் துன்பமானவை என்று தன் வாழ்க்கையில் கண்டு உணர்ந்தவைகளை மற்றவனிடத்தில் செய்யாமல் தவிர்க்க வேண்டும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Let not a man consent to do those things to another which, he knows, will cause sorrow.",
+        "story_title_ta": "இன்னா செய்யாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Not doing Evil — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இன்னா செய்யாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 316 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தீமை எனத் தான் அறிந்தவற்றை அடுத்தவர்க்குச் செய்யாது இருக்க வேண்டும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Not doing Evil'. Grandpa shared Kural 316 and explained in simple words: Let not a man consent to do those things to another which, he knows, will cause sorrow. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவன் தன்னுடைய வாழ்க்கையில் துன்பமானவை என்று அனுபவித்து அறிந்தவற்றை, மற்றவர்க்குச் செய்யாமலிருக்க வேண்டும்.",
+        "moral_en": "Moral: What his own soul has felt as bitter pain, From making others feel should man abstain.",
+        "game_blank_word_ta": "எனத்தான்",
+        "game_options_ta": [
+          "எனத்தான்",
+          "சிறப்பீனும்",
+          "செல்வம்",
+          "பெறினும்"
+        ],
+        "game_options_en": [
+          "What you feel as pain to yourself Do it not to the other-self",
+          "The pure by faith mean pain to none Though princely wealth by that is won",
+          "The spotless hearts seek not revenge Though Malice does the worst in rage",
+          "Revenging even causeless hate Bad-blood breeds and baneful heat"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இன்னா செய்யாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 316, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தீமை எனத் தான் அறிந்தவற்றை அடுத்தவர்க்குச் செய்யாது இருக்க வேண்டும். கலைஞர் உரை கூறுவது: ஒருவன் தன்னுடைய வாழ்க்கையில் துன்பமானவை என்று அனுபவித்து அறிந்தவற்றை, மற்றவர்க்குச் செய்யாமலிருக்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not doing Evil (Ascetic Virtue), Kural 316 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let not a man consent to do those things to another which, he knows, will cause sorrow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இன்னா செய்யாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not doing Evil' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இன்னா செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 316 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 316 from Chapter 'Not doing Evil'?",
+        "quiz_options_ta": [
+          "ஒருவன் துன்பமானவை என்று தன் வாழ்க்கையில் கண்டு உணர்ந்தவைகளை மற்றவனிடத்தில் செய்யாமல் தவிர்க்க வேண்டும்.",
+          "விருப்பு, வெறுப்பு, அறியாமை ஆகிய இக் குற்றங்கள் மூன்றனுடைய பெயரும் கெடுமாறு ஒழுகினால் துன்பங்கள் வராமற் கெடும்.",
+          "கற்றவரின் முன்னிலையில் ஒன்றையும் சொல்லாமல் அமைதியாக இருக்கப் பெற்றால் கல்லாதவர்களும் மிகவும் நல்லவரே ஆவார்.",
+          "தக்க பெரியாரின் கூட்டத்தில் உள்ளனவாய் நடக்கவல்ல ஒருவனுக்கு,அவனுடைய பகைவர் செய்யக்கூடியத் தீங்கு ஒன்றும் இல்லை."
+        ],
+        "quiz_options_en": [
+          "What you feel as pain to yourself Do it not to the other-self",
+          "Woes expire when lust, wrath, folly Expire even to name, fully",
+          "Ev'n unread men are good and wise If before the wise, they hold their peace",
+          "To move with worthy friends who knows Has none to fear from frightful foes"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (இன்னா செய்யாமை) பகுதியில் குறள் 316 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் துன்பமானவை என்று தன் வாழ்க்கையில் கண்டு உணர்ந்தவைகளை மற்றவனிடத்தில் செய்யாமல் தவிர்க்க வேண்டும். பரிமேலழகர் உரை நுட்பம்: இன்னா எனத் தான் உணர்ந்தவை - இவை மக்கட்கு இன்னாதன என அனுமானத்தால் தான் அறிந்தவற்றை, பிறன்கண் செயல் துன்னாமை வேண்டும் - பிறன் மாட்டுச் செய்தலை மேவாமை துறந்தவனுக்கு வேண்டும். (இன்பதுன்பங்கள் உயிர்க்குணம் ஆகலின், அவை காட்சி அளவையான் அறியப்படாமை அறிக. அறமும...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 32: 'Not doing Evil'), Kural 316 distills a foundational ethical insight: \"What his own soul has felt as bitter pain, From making others feel should man abstain\" Philosophically, Let not a man consent to do those things to another which, he knows, will cause sorrow.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "love",
+        "leadership",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 317,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: எவ்வளவு சிறியதாயினும் எக்காலத்திலும் எவரிடத்திலும் மனதால் எண்ணி உண்டாகின்ற துன்பச்செயலைச் செய்யாதிருத்தலே நல்லது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: It is the chief of all virtues not knowingly to do any person evil, even in the lowest degree, and at any time.",
+        "story_title_ta": "இன்னா செய்யாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Not doing Evil — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இன்னா செய்யாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 317 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எவ்வளவு சிறிதாயினும், எவருக்கு என்றாலும், எப்பொழுது ஆனாலும் சரி, மனத்தால் கூடத் தீமையைச் செய்யா திருப்பதே உயர்ந்தது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Not doing Evil'. Grandpa shared Kural 317 and explained in simple words: It is the chief of all virtues not knowingly to do any person evil, even in the lowest degree, and at any time. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: எவ்வளவிலும், எப்பொழுதும், எவரையும் இழிவுபடுத்தும் செயலை மனத்தால்கூட நினைக்காமல் இருப்பதே முதன்மையான சிறப்பாகும்.",
+        "moral_en": "Moral: To work no wilful woe, in any wise, through all the days, To any living soul, is virtue's highest praise.",
+        "game_blank_word_ta": "யார்க்கும்",
+        "game_options_ta": [
+          "சிறப்பீனும்",
+          "யார்க்கும்",
+          "செல்வம்",
+          "பெறினும்"
+        ],
+        "game_options_en": [
+          "The pure by faith mean pain to none Though princely wealth by that is won",
+          "Any, anywhere injure not At any time even in thought",
+          "The spotless hearts seek not revenge Though Malice does the worst in rage",
+          "Revenging even causeless hate Bad-blood breeds and baneful heat"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இன்னா செய்யாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 317, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எவ்வளவு சிறிதாயினும், எவருக்கு என்றாலும், எப்பொழுது ஆனாலும் சரி, மனத்தால் கூடத் தீமையைச் செய்யா திருப்பதே உயர்ந்தது. கலைஞர் உரை கூறுவது: எவ்வளவிலும், எப்பொழுதும், எவரையும் இழிவுபடுத்தும் செயலை மனத்தால்கூட நினைக்காமல் இருப்பதே முதன்மையான சிறப்பாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not doing Evil (Ascetic Virtue), Kural 317 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is the chief of all virtues not knowingly to do any person evil, even in the lowest degree, and at any time. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இன்னா செய்யாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not doing Evil' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இன்னா செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 317 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 317 from Chapter 'Not doing Evil'?",
+        "quiz_options_ta": [
+          "எல்லா உயிர்களுக்கும் எக்காலத்திலும் ஒழியாமல் வருகின்ற பிறவித்துன்பத்தை உண்டாக்கும் வித்து அவா என்றுக் கூறுவர்.",
+          "எவ்வளவு சிறியதாயினும் எக்காலத்திலும் எவரிடத்திலும் மனதால் எண்ணி உண்டாகின்ற துன்பச்செயலைச் செய்யாதிருத்தலே நல்லது.",
+          "கல்லாதவனுடைய அறிவுடைய ஒருக்கால் மிக நன்றாக இருந்தாலும் அறிவுடையோர் அதனை அறிவின் பகுதியாக ஏற்றுக்கொள்ள மாட்டார்.",
+          "கடிந்து அறிவுரைக் கூறவல்ல பெரியாரின் துணை கொண்டு நடப்பவரை கெடுக்கும் ஆற்றல் உள்ளவர் எவர் இருக்கின்றனர்."
+        ],
+        "quiz_options_en": [
+          "Desire to all, always is seed From which ceaseless births proceed",
+          "Any, anywhere injure not At any time even in thought",
+          "The unread's wit though excellent Is not valued by the savant",
+          "No foe can foil his powers whose friends reprove him when he errs"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (இன்னா செய்யாமை) பகுதியில் குறள் 317 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எவ்வளவு சிறியதாயினும் எக்காலத்திலும் எவரிடத்திலும் மனதால் எண்ணி உண்டாகின்ற துன்பச்செயலைச் செய்யாதிருத்தலே நல்லது. பரிமேலழகர் உரை நுட்பம்: மனத்தான் ஆம் மாணா - மனத்தோடு உளவாகினற் இன்னாத செயல்களை; எஞ்ஞான்றும் யார்க்கும் எனைத்தானும் செய்யாமை தலை - எக்காலத்தும் யாவர்க்கும் சிறிதாயினும் செய்யாமை தலையாய அறம். (ஈண்டு மனத்தான் ஆகாத வழிப் பாவம் இல்லை என்பது பெற்றாம். ஆற்றலுண்டாய காலத்தும் ஆகாமையின...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 32: 'Not doing Evil'), Kural 317 distills a foundational ethical insight: \"To work no wilful woe, in any wise, through all the days, To any living soul, is virtue's highest praise\" Philosophically, It is the chief of all virtues not knowingly to do any person evil, even in the lowest degree, and at any time.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "time",
+        "kindness",
+        "ethics",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 318,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தன் உயிருக்குத் துன்பமானவை இவை என்று உணர்ந்தவன், அத் துன்பத்தை மற்ற உயிருக்குச் செய்தல் என்ன காரணத்தாலோ.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Why does a man inflict upon other creatures those sufferings, which he has found by experience are sufferings to himself ?",
+        "story_title_ta": "இன்னா செய்யாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Not doing Evil — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இன்னா செய்யாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 318 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அடுத்தவர் செய்த தீமை தனக்குத் துன்பமானதை அனுபவித்து அறிந்தவன், அடுத்த உயிர்களுக்குத் தீமை செய்ய எண்ணுவது என்ன காரணத்தால்?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Not doing Evil'. Grandpa shared Kural 318 and explained in simple words: Why does a man inflict upon other creatures those sufferings, which he has found by experience are sufferings to himself ? The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறர் தரும் துன்பத்தால் தனக்கேற்படும் துன்பத்தை உணர்ந்தவன் அந்தத் துன்பத்தைப் பிற உயிர்களுக்குத் தரவும் கூடாதல்லவா?",
+        "moral_en": "Moral: Whose soul has felt the bitter smart of wrong, how canHe wrongs inflict on ever-living soul of man.",
+        "game_blank_word_ta": "என்கொலோ",
+        "game_options_ta": [
+          "சிறப்பீனும்",
+          "செல்வம்",
+          "என்கொலோ",
+          "பெறினும்"
+        ],
+        "game_options_en": [
+          "The pure by faith mean pain to none Though princely wealth by that is won",
+          "The spotless hearts seek not revenge Though Malice does the worst in rage",
+          "How can he injure other souls Who in his life injury feels",
+          "Revenging even causeless hate Bad-blood breeds and baneful heat"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இன்னா செய்யாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 318, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடுத்தவர் செய்த தீமை தனக்குத் துன்பமானதை அனுபவித்து அறிந்தவன், அடுத்த உயிர்களுக்குத் தீமை செய்ய எண்ணுவது என்ன காரணத்தால்? கலைஞர் உரை கூறுவது: பிறர் தரும் துன்பத்தால் தனக்கேற்படும் துன்பத்தை உணர்ந்தவன் அந்தத் துன்பத்தைப் பிற உயிர்களுக்குத் தரவும் கூடாதல்லவா? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not doing Evil (Ascetic Virtue), Kural 318 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Why does a man inflict upon other creatures those sufferings, which he has found by experience are sufferings to himself ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இன்னா செய்யாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not doing Evil' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இன்னா செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 318 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 318 from Chapter 'Not doing Evil'?",
+        "quiz_options_ta": [
+          "ஒருவன் ஒன்றை விரும்புவதனால் பிறவா நிலைமையை விரும்ப வேண்டும், அது அவா அற்ற நிலையை விரும்பினால் உண்டாகும்.",
+          "கல்லாதவன் ஒருவன் தன்னைத்தான் மகிழ்ந்து பேசும் மதிப்பு ( கற்றவரிடம்) கூடிபேசும் போது அப்பேசினால் கெடும்.",
+          "தன் உயிருக்குத் துன்பமானவை இவை என்று உணர்ந்தவன், அத் துன்பத்தை மற்ற உயிருக்குச் செய்தல் என்ன காரணத்தாலோ.",
+          "கடிந்து அறிவுரைக் கூறும் பெரியாரின் துணை இல்லாதக் காவலற்ற அரசன், தன்னைக் கெடுக்ககும் பகைவர் எவரும் இல்லாவிட்டாலும் கெடுவான்."
+        ],
+        "quiz_options_en": [
+          "If long thou must, long for non-birth It comes by longing no more for earth",
+          "A man untaught when speech he vaunts Sadly fails before savants",
+          "How can he injure other souls Who in his life injury feels",
+          "The careless king whom none reproves Ruins himself sans harmful foes"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (இன்னா செய்யாமை) பகுதியில் குறள் 318 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன் உயிருக்குத் துன்பமானவை இவை என்று உணர்ந்தவன், அத் துன்பத்தை மற்ற உயிருக்குச் செய்தல் என்ன காரணத்தாலோ. பரிமேலழகர் உரை நுட்பம்: தன் உயிர்க்கு இன்னாமை தான் அறிவான் - பிறர் செய்யும் இன்னாதன தன்னுயிர்க்கு இன்னாவாம் தன்மையை அனுபவித்து அறிகின்றவன்: மன் உயிர்க்கு இன்னா செயல்என் கொல் - நிலைபேறுடைய பிற உயிர்கட்குத் தான் அவற்றைச் செய்தல் என்ன காரணத்தான்? (இவ்வாறே இவை பிற உயிர்க்கும் இன்னா...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 32: 'Not doing Evil'), Kural 318 distills a foundational ethical insight: \"Whose soul has felt the bitter smart of wrong, how canHe wrongs inflict on ever-living soul of man\" Philosophically, Why does a man inflict upon other creatures those sufferings, which he has found by experience are sufferings to himself ?",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "ethics",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 319,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: முற்பகலில் மற்றவருக்கு துன்பமானவற்றைச் செய்தால் அவ்வாறு செய்தவர்க்கே பிற்பகலில் துன்பங்கள் தாமாக வந்து சேரும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: If a man inflict sorrow upon others in the morning, it will come upon him unsought in the very evening.",
+        "story_title_ta": "இன்னா செய்யாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Not doing Evil — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இன்னா செய்யாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 319 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அடுத்தவர்க்குத் தீமையைக் காலையில் செய்தால், நமக்குத் தீமை நம்மைத் தேடி மாலையில் தானாக வரும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Not doing Evil'. Grandpa shared Kural 319 and explained in simple words: If a man inflict sorrow upon others in the morning, it will come upon him unsought in the very evening. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பிறருக்குத் தீங்கு விளைவித்துவிட்டோம் என்று ஒருவர் மகிழ்ந்து கொண்டிருக்கும்போதே, அதேபோன்ற தீங்கு அவரையே தாக்கும்.",
+        "moral_en": "Moral: If, ere the noontide, you to others evil do, Before the eventide will evil visit you.",
+        "game_blank_word_ta": "முற்பகல்",
+        "game_options_ta": [
+          "சிறப்பீனும்",
+          "செல்வம்",
+          "பெறினும்",
+          "முற்பகல்"
+        ],
+        "game_options_en": [
+          "The pure by faith mean pain to none Though princely wealth by that is won",
+          "The spotless hearts seek not revenge Though Malice does the worst in rage",
+          "Revenging even causeless hate Bad-blood breeds and baneful heat",
+          "Harm others in the forenoon Harm seeks thee in afternoon"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இன்னா செய்யாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 319, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அடுத்தவர்க்குத் தீமையைக் காலையில் செய்தால், நமக்குத் தீமை நம்மைத் தேடி மாலையில் தானாக வரும். கலைஞர் உரை கூறுவது: பிறருக்குத் தீங்கு விளைவித்துவிட்டோம் என்று ஒருவர் மகிழ்ந்து கொண்டிருக்கும்போதே, அதேபோன்ற தீங்கு அவரையே தாக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not doing Evil (Ascetic Virtue), Kural 319 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If a man inflict sorrow upon others in the morning, it will come upon him unsought in the very evening. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இன்னா செய்யாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not doing Evil' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இன்னா செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 319 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 319 from Chapter 'Not doing Evil'?",
+        "quiz_options_ta": [
+          "அவா அற்ற நிலைமை போன்ற சிறந்த செல்வம் இவ்வுலகில் இல்லை, வேறு எங்கும் அதற்க்கு நிகரான ஒன்று இல்லை.",
+          "கல்லாதவர் உயிரோடிருக்கின்றனர் என்று சொல்லப்படும் அளவினரே அல்லாமல் ஒன்றும் விளையாத களர் நிலத்திற்கு ஒப்பாவர்.",
+          "முதல் இல்லாத வணிகர்க்கு அதனால் வரும் ஊதியம் இல்லை, அதுபோல் தம்மைத் தாங்கிக் காப்பாற்றும் துணை இல்லாதவர்க்கு நிலைபேறு இல்லை.",
+          "முற்பகலில் மற்றவருக்கு துன்பமானவற்றைச் செய்தால் அவ்வாறு செய்தவர்க்கே பிற்பகலில் துன்பங்கள் தாமாக வந்து சேரும்."
+        ],
+        "quiz_options_en": [
+          "No such wealth is here and there As peerless wealth of non-desire",
+          "People speak of untaught minds \\\"They just exist like barren lands\\\"",
+          "No capital, no gain in trade No prop secure sans good comrade",
+          "Harm others in the forenoon Harm seeks thee in afternoon"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (இன்னா செய்யாமை) பகுதியில் குறள் 319 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முற்பகலில் மற்றவருக்கு துன்பமானவற்றைச் செய்தால் அவ்வாறு செய்தவர்க்கே பிற்பகலில் துன்பங்கள் தாமாக வந்து சேரும். பரிமேலழகர் உரை நுட்பம்: பிறர்க்கு இன்னா முற்பகல் செய்யின் - துறந்தவர் பிறர்க்கு இன்னாதனவற்றை ஒரு பகலது முற்கூற்றின்கண் செய்வராயின், தமக்கு இன்னா பிற்பகல் தாமே வரும் - தமக்கு இன்னாதன அதன் பிற்கூற்றின்கண் அவர் செய்யாமல் தாமே வரும். ('முற்பகல்', 'பிற்பகல்' என்பன பின் முன்னாகத் தொக்க...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 32: 'Not doing Evil'), Kural 319 distills a foundational ethical insight: \"If, ere the noontide, you to others evil do, Before the eventide will evil visit you\" Philosophically, If a man inflict sorrow upon others in the morning, it will come upon him unsought in the very evening.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "time",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 320,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: துன்பம் எல்லாம் துன்பம் செய்தவரையேச் சார்வன, ஆகையால் துன்பம் இல்லாமல் வாழ்தலை விரும்புகின்றவர் பிறர்க்கு துன்பம் செய்யார்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Sorrow will come upon those who cause pain to others; therfore those, who desire to be free from sorrow, give no pain to others.",
+        "story_title_ta": "இன்னா செய்யாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Not doing Evil — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இன்னா செய்யாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 320 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'செய்யும் தீமை எல்லாம் செய்தவர்க்கே, அதனால் நமக்குத் தீமை வேண்டா என்பவர், அடுத்தவர்க்குத் தீமை செய்யமாட்டார்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Not doing Evil'. Grandpa shared Kural 320 and explained in simple words: Sorrow will come upon those who cause pain to others; therfore those, who desire to be free from sorrow, give no pain to others. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தீங்கு செய்தவருக்கே தீங்குகள் வந்து சேரும்; எனவே தீங்கற்ற வாழ்வை விரும்புகிறவர்கள், பிறருக்குத் தீங்கிழைத்தல் கூடாது.",
+        "moral_en": "Moral: O'er every evil-doer evil broodeth still; He evil shuns who freedom seeks from ill.",
+        "game_blank_word_ta": "வேண்டு",
+        "game_options_ta": [
+          "வேண்டு",
+          "சிறப்பீனும்",
+          "செல்வம்",
+          "பெறினும்"
+        ],
+        "game_options_en": [
+          "No harm is done by peace-lovers For pains rebound on pain-givers",
+          "The pure by faith mean pain to none Though princely wealth by that is won",
+          "The spotless hearts seek not revenge Though Malice does the worst in rage",
+          "Revenging even causeless hate Bad-blood breeds and baneful heat"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இன்னா செய்யாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 320, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செய்யும் தீமை எல்லாம் செய்தவர்க்கே, அதனால் நமக்குத் தீமை வேண்டா என்பவர், அடுத்தவர்க்குத் தீமை செய்யமாட்டார். கலைஞர் உரை கூறுவது: தீங்கு செய்தவருக்கே தீங்குகள் வந்து சேரும்; எனவே தீங்கற்ற வாழ்வை விரும்புகிறவர்கள், பிறருக்குத் தீங்கிழைத்தல் கூடாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not doing Evil (Ascetic Virtue), Kural 320 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Sorrow will come upon those who cause pain to others; therfore those, who desire to be free from sorrow, give no pain to others. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இன்னா செய்யாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not doing Evil' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இன்னா செய்யாமை' அதிகாரத்தில் வரும் திருக்குறள் 320 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 320 from Chapter 'Not doing Evil'?",
+        "quiz_options_ta": [
+          "துன்பம் எல்லாம் துன்பம் செய்தவரையேச் சார்வன, ஆகையால் துன்பம் இல்லாமல் வாழ்தலை விரும்புகின்றவர் பிறர்க்கு துன்பம் செய்யார்.",
+          "தூயநிலை என்றுக் கூறப்படுவது அவா இல்லா திருத்தலே யாகும், அவா அற்ற அத்தன்மை மெய்ப்பொருளை விரும்புவதால் உண்டாகும்.",
+          "நுட்பமானதாய் மாட்சியுடையதாய் ஆராய வல்லவான அறிவு இல்லாதவனுடைய எழுச்சியான அழகு மண்ணால் சிறப்பாகப் புனையப்பட்ட பாவை போன்றது.",
+          "நல்லவராகிய பெரியாரின் தொடர்பைக் கைவிடுதல் பலருடைய பகையைத் தேடிக்கொள்வதைவிடப் பத்து மடங்கு தீமை உடையதாகும்."
+        ],
+        "quiz_options_en": [
+          "No harm is done by peace-lovers For pains rebound on pain-givers",
+          "To nothing crave is purity That is the fruit of verity",
+          "Like painted clay-doll is his show Grand subtle lore who fails to know",
+          "To give up good friends is ten times worse Than being hated by countless foes"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (இன்னா செய்யாமை) பகுதியில் குறள் 320 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: துன்பம் எல்லாம் துன்பம் செய்தவரையேச் சார்வன, ஆகையால் துன்பம் இல்லாமல் வாழ்தலை விரும்புகின்றவர் பிறர்க்கு துன்பம் செய்யார். பரிமேலழகர் உரை நுட்பம்: நோய் எல்லாம் நோய் செய்தார் மேலவாம் - இன்னாதன எல்லாம் பிறிதோர் உயிர்க்கு இன்னாதன செய்தார் மேல் ஆம், நோய் இன்மை வேண்டுபவர் நோய் செய்யார் - அதனால் தம் உயிர்க்கு இன்னாதன வேண்டாதார், பிறிதோர் உயிர்க்கு இன்னாதன செய்யார். ('உயிர்நிலத்து வினைவித்து இட்டார்க்கு...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 32: 'Not doing Evil'), Kural 320 distills a foundational ethical insight: \"O'er every evil-doer evil broodeth still; He evil shuns who freedom seeks from ill\" Philosophically, Sorrow will come upon those who cause pain to others; therfore those, who desire to be free from sorrow, give no pain to others.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "love",
+        "harmony",
+        "ethics"
+      ]
+    }
+  ]
+}

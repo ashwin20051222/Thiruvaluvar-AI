@@ -1,0 +1,586 @@
+{
+  "adhikaram_id": 10,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.524678404+00:00",
+  "kurals": [
+    {
+      "kural_number": 91,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அன்பு கலந்து வஞ்சம் அற்றவைகளாகிய சொற்கள், மெய்ப்பொருள் கண்டவர்களின் வாய்ச்சொற்கள் இன்சொற்களாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Sweet words are those which imbued with love and free from deceit flow from the mouth of the virtuous.",
+        "story_title_ta": "இனியவை கூறல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Utterance of Pleasant Words — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இனியவை கூறல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 91 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அறம் அறிந்தவர் வாயிலிருந்து பிறந்து, அன்பு கலந்து உள்நோக்கம் இல்லாது வருவதே இனிய சொல்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Utterance of Pleasant Words'. Grandpa shared Kural 91 and explained in simple words: Sweet words are those which imbued with love and free from deceit flow from the mouth of the virtuous. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒருவர் வாயிலிருந்து வரும் சொல் அன்பு கலந்ததாகவும், வஞ்சனையற்றதாகவும், வாய்மையுடையதாகவும் இருப்பின் அதுவே இன்சொல் எனப்படும்.",
+        "moral_en": "Moral: Pleasant words are words with all pervading love that burn; Words from his guileless mouth who can the very truth discern.",
+        "game_blank_word_ta": "ஈரம்",
+        "game_options_ta": [
+          "அகன்அமர்ந்து",
+          "ஈதலின்",
+          "நன்றே",
+          "ஈரம்"
+        ],
+        "game_options_en": [
+          "Sweet words from smiling lips dispense More joys than heart's beneficence",
+          "Calm face, sweet look, kind words from heart Such is the gracious virtue's part",
+          "Whose loving words delight each one The woe of want from them is gone",
+          "The words of Seers are lovely sweet Merciful and free from deceit"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இனியவை கூறல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 91, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறம் அறிந்தவர் வாயிலிருந்து பிறந்து, அன்பு கலந்து உள்நோக்கம் இல்லாது வருவதே இனிய சொல். கலைஞர் உரை கூறுவது: ஒருவர் வாயிலிருந்து வரும் சொல் அன்பு கலந்ததாகவும், வஞ்சனையற்றதாகவும், வாய்மையுடையதாகவும் இருப்பின் அதுவே இன்சொல் எனப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Utterance of Pleasant Words (Domestic Virtue), Kural 91 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Sweet words are those which imbued with love and free from deceit flow from the mouth of the virtuous. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இனியவை கூறல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Utterance of Pleasant Words' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இனியவை கூறல்' அதிகாரத்தில் வரும் திருக்குறள் 91 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 91 from Chapter 'The Utterance of Pleasant Words'?",
+        "quiz_options_ta": [
+          "பொறாமை உடையவனிடத்தில் ஆக்கம் இல்லாதவாறு போல, ஒழுக்கம் இல்லாதவனுடைய வாழ்க்கையில் உயர்வு இல்லையாகும்.",
+          "ஒருவனுடைய செல்வத்திற்குக் குறைவு நேராதிருக்க வழி எது என்றால், அவன் பிறனுடைய கைப்பொருளை விரும்பாதிருத்தலாகும்.",
+          "வறியவர்க்கு ஒரு பொருளைக் கொடுப்பதே ஈகை எனப்படுவது, மற்றவர்க்குக் கொடுப்பதெல்லாம் பயன் எதிர்பார்த்து கொடுக்கும் தன்மை உடையது.",
+          "அன்பு கலந்து வஞ்சம் அற்றவைகளாகிய சொற்கள், மெய்ப்பொருள் கண்டவர்களின் வாய்ச்சொற்கள் இன்சொற்களாகும்."
+        ],
+        "quiz_options_en": [
+          "The envious prosper but ill The ill-behaved sinks lower still",
+          "The mark of lasting wealth is shown By not coveting others' own",
+          "To give the poor is charity The rest is loan and vanity",
+          "The words of Seers are lovely sweet Merciful and free from deceit"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இனியவை கூறல்) பகுதியில் குறள் 91 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன்பு கலந்து வஞ்சம் அற்றவைகளாகிய சொற்கள், மெய்ப்பொருள் கண்டவர்களின் வாய்ச்சொற்கள் இன்சொற்களாகும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, மனத்தின்கண் உவகையை வெளிப்படுப்பனவாகிய இனிய சொற்களைச் சொல்லுதல். இதுவும், விருந்தோம்புவார்க்கு இன்றியமையாதது ஆகலின், விருந்தோம்புதலின்பின் வைக்கப்பட்டது.) இன்சொல் - இன்சொலாவன; ஈரம் அளைஇப் படிறு இலவாம் செம்பொருள் கண்டார் வாய்ச்சொல் - அன்போடு கலந்து...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 10: 'The Utterance of Pleasant Words'), Kural 91 distills a foundational ethical insight: \"Pleasant words are words with all pervading love that burn; Words from his guileless mouth who can the very truth discern\" Philosophically, Sweet words are those which imbued with love and free from deceit flow from the mouth of the virtuous.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "love",
+        "truth",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 92,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: முகம் மலர்ந்து இன்சொல் உடையவனாக இருக்கப்பெற்றால், மனம் மகிழ்ந்து பொருள் கொடுக்கும் ஈகையைவிட நல்லதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Sweet speech, with a cheerful countenance is better than a gift made with a joyous mind.",
+        "story_title_ta": "இனியவை கூறல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Utterance of Pleasant Words — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இனியவை கூறல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 92 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'முகத்தால் விரும்பி, இனிய சொற்களைக் கூறுகிறவனாகவும் ஆகிவிட்டால், உள்ளம் மகிழ்ந்து பொருளைக் கொடுப்பதைக் காட்டிலும் அது நல்லது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Utterance of Pleasant Words'. Grandpa shared Kural 92 and explained in simple words: Sweet speech, with a cheerful countenance is better than a gift made with a joyous mind. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: முகம் மலர்ந்து இனிமையாகப் பேசுவது, அகம் குளிர்ந்து ஒன்றைக் கொடுப்பதை விட மேலான பண்பாகும்.",
+        "moral_en": "Moral: A pleasant word with beaming smile's preferred, Even to gifts with liberal heart conferred.",
+        "game_blank_word_ta": "ஈதலின்",
+        "game_options_ta": [
+          "ஈதலின்",
+          "இன்சொலால்",
+          "ஈரம்",
+          "அளைஇப்"
+        ],
+        "game_options_en": [
+          "Sweet words from smiling lips dispense More joys than heart's beneficence",
+          "The words of Seers are lovely sweet Merciful and free from deceit",
+          "Calm face, sweet look, kind words from heart Such is the gracious virtue's part",
+          "Whose loving words delight each one The woe of want from them is gone"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இனியவை கூறல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 92, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முகத்தால் விரும்பி, இனிய சொற்களைக் கூறுகிறவனாகவும் ஆகிவிட்டால், உள்ளம் மகிழ்ந்து பொருளைக் கொடுப்பதைக் காட்டிலும் அது நல்லது. கலைஞர் உரை கூறுவது: முகம் மலர்ந்து இனிமையாகப் பேசுவது, அகம் குளிர்ந்து ஒன்றைக் கொடுப்பதை விட மேலான பண்பாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Utterance of Pleasant Words (Domestic Virtue), Kural 92 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Sweet speech, with a cheerful countenance is better than a gift made with a joyous mind. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இனியவை கூறல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Utterance of Pleasant Words' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இனியவை கூறல்' அதிகாரத்தில் வரும் திருக்குறள் 92 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 92 from Chapter 'The Utterance of Pleasant Words'?",
+        "quiz_options_ta": [
+          "முகம் மலர்ந்து இன்சொல் உடையவனாக இருக்கப்பெற்றால், மனம் மகிழ்ந்து பொருள் கொடுக்கும் ஈகையைவிட நல்லதாகும்.",
+          "ஒழுக்கம் தவறுதலால் குற்றம் உண்டாவதை அறிந்து, மனவலிமை உடைய சான்றோர் ஒழுக்கத்தில் தவறாமல் காத்துக் கொள்வர்.",
+          "அறம் இஃது என்று அறிந்து பிறர் பொருளை விரும்பாத அறிவுடையாரைத் திருமகள் தான் சேரும் திறன் அறிந்து அதற்கு ஏற்றவாறு சேர்வாள்.",
+          "பிறரிடம் பொருள் பெற்றுக் கொள்ளுதல் நல்ல நெறி என்றாலும் கொள்ளல் தீமையானது, மேலுலகம் இல்லை என்றாலும் பிறக்குக் கொடுப்பதே சிறந்தது."
+        ],
+        "quiz_options_en": [
+          "Sweet words from smiling lips dispense More joys than heart's beneficence",
+          "The firm from virtue falter not They know the ills of evil thought",
+          "Fortune seeks the just and wise Who are free from coveting vice",
+          "To beg is bad e'en from the good To give is good, were heaven forbid"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இனியவை கூறல்) பகுதியில் குறள் 92 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முகம் மலர்ந்து இன்சொல் உடையவனாக இருக்கப்பெற்றால், மனம் மகிழ்ந்து பொருள் கொடுக்கும் ஈகையைவிட நல்லதாகும். பரிமேலழகர் உரை நுட்பம்: அகன் அமர்ந்து ஈதலின் நன்று - நெஞ்சு உவந்து ஒருவற்கு வேண்டிய பொருளைக் கொடுத்தலினும் நன்று; முகன்அமர்ந்து இன்சொலன் ஆகப் பெறின் - கண்டபொழுதே முகம் இனியனாய் அதனொடு இனிய சொல்லையும் உடையனாகப் பெறின். (இன்முகத்தோடு கூடிய இன்சொல் ஈதல் போலப் பொருள் வயத்தது அன்றித் தன...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 10: 'The Utterance of Pleasant Words'), Kural 92 distills a foundational ethical insight: \"A pleasant word with beaming smile's preferred, Even to gifts with liberal heart conferred\" Philosophically, Sweet speech, with a cheerful countenance is better than a gift made with a joyous mind.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "love",
+        "self-mastery",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 93,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: முகத்தால் விரும்பி- இனிமையுடன் நோக்கி- உள்ளம் கலந்து இன்சொற்களைக் கூறும் தன்மையில் உள்ளதே அறமாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Sweet speech, flowing from the heart (uttered) with a cheerful countenance and a sweet look, is true virtue.",
+        "story_title_ta": "இனியவை கூறல் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Utterance of Pleasant Words — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இனியவை கூறல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 93 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறரைப் பார்க்கும்போது முகத்தால் விரும்பி, இனிமையாகப் பார்த்து, உள்ளத்துள் இருந்து வரும் இனிய சொற்களைச் சொல்வதே அறம் ஆகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'The Utterance of Pleasant Words'. Grandpa shared Kural 93 and explained in simple words: Sweet speech, flowing from the heart (uttered) with a cheerful countenance and a sweet look, is true virtue. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: முகம் மலர நோக்கி, அகம் மலர இனிய சொற்களைக் கூறுவதே அறவழியில் அமைந்த பண்பாகும்.",
+        "moral_en": "Moral: With brightly beaming smile, and kindly light of loving eye, And heart sincere, to utter pleasant words is charity.",
+        "game_blank_word_ta": "இனிதுநோக்கி",
+        "game_options_ta": [
+          "இன்சொலால்",
+          "இனிதுநோக்கி",
+          "ஈரம்",
+          "அளைஇப்"
+        ],
+        "game_options_en": [
+          "The words of Seers are lovely sweet Merciful and free from deceit",
+          "Calm face, sweet look, kind words from heart Such is the gracious virtue's part",
+          "Sweet words from smiling lips dispense More joys than heart's beneficence",
+          "Whose loving words delight each one The woe of want from them is gone"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இனியவை கூறல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 93, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறரைப் பார்க்கும்போது முகத்தால் விரும்பி, இனிமையாகப் பார்த்து, உள்ளத்துள் இருந்து வரும் இனிய சொற்களைச் சொல்வதே அறம் ஆகும். கலைஞர் உரை கூறுவது: முகம் மலர நோக்கி, அகம் மலர இனிய சொற்களைக் கூறுவதே அறவழியில் அமைந்த பண்பாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Utterance of Pleasant Words (Domestic Virtue), Kural 93 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Sweet speech, flowing from the heart (uttered) with a cheerful countenance and a sweet look, is true virtue. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இனியவை கூறல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Utterance of Pleasant Words' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இனியவை கூறல்' அதிகாரத்தில் வரும் திருக்குறள் 93 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 93 from Chapter 'The Utterance of Pleasant Words'?",
+        "quiz_options_ta": [
+          "ஒழுக்கத்தால் எவரும் மேம்பாட்டை அடைவர்; ஒழுக்கத்திலிருந்து தவறுதலால் அடையத் தகாத பெரும் பழியை அடைவர்.",
+          "முகத்தால் விரும்பி- இனிமையுடன் நோக்கி- உள்ளம் கலந்து இன்சொற்களைக் கூறும் தன்மையில் உள்ளதே அறமாகும்.",
+          "வி‌ளைவை எண்ணாமல் பிறர் பொருளை விரும்பினால் அஃது அழிவைத் தரும்; அப்பொருளை விரும்பாமல் வாழும் பெருமை வெற்றியைத் தரும்.",
+          "யான் வறியவன் என்னும் துன்பச் சொல்லை ஒருவன் உரைப்பதற்கு முன் அவனுக்கு கொடுக்கும் தன்மை, நல்ல குடி பிறப்பு உடையவனிடம் உண்டு."
+        ],
+        "quiz_options_en": [
+          "Conduct good ennobles man, Bad conduct entails disgrace mean",
+          "Calm face, sweet look, kind words from heart Such is the gracious virtue's part",
+          "Desireless, greatness conquers all; Coveting misers ruined fall",
+          "No pleading, \\\"I am nothing worth,\\\" But giving marks a noble birth"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இனியவை கூறல்) பகுதியில் குறள் 93 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முகத்தால் விரும்பி- இனிமையுடன் நோக்கி- உள்ளம் கலந்து இன்சொற்களைக் கூறும் தன்மையில் உள்ளதே அறமாகும். பரிமேலழகர் உரை நுட்பம்: முகத்தான் அமர்ந்து இனிது நோக்கி - கண்டபொழுதே முகத்தான் விரும்பி இனிதாக நோக்கி; அகத்தான் ஆம் இன்சொலினதே அறம் - பின் நண்ணிய வழி, மனத்துடன் ஆகிய இனிய சொற்களைச் சொல்லுதலின் கண்ணதே அறம். ('நோக்கி' என்னும் வினையெச்சம் 'இன்சொல்' என அடையடுத்து நின்ற முதல்நிலைத...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 10: 'The Utterance of Pleasant Words'), Kural 93 distills a foundational ethical insight: \"With brightly beaming smile, and kindly light of loving eye, And heart sincere, to utter pleasant words is charity\" Philosophically, Sweet speech, flowing from the heart (uttered) with a cheerful countenance and a sweet look, is true virtue.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "ethics",
+        "kindness",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 94,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: யாரிடத்திலும் இன்புறத்தக்க இன்சொல் வழங்குவோர்க்குத் துன்பத்தை மிகுதிபடுத்தும் வறுமை என்பது இல்லையாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Sorrow-increasing poverty shall not come upon those who use towards all, pleasure-increasing sweetness of speech.",
+        "story_title_ta": "இனியவை கூறல் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Utterance of Pleasant Words — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இனியவை கூறல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 94 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எவரிடமும் இன்பம் தரும் இனிய சொற்களைப் பேசுபவர்க்குத் துன்பம் தரும் வறுமை வராது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'The Utterance of Pleasant Words'. Grandpa shared Kural 94 and explained in simple words: Sorrow-increasing poverty shall not come upon those who use towards all, pleasure-increasing sweetness of speech. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: இன்சொல் பேசி எல்லோரிடத்திலும் கனிவுடன் பழகுவோர்க்கு `நட்பில் வறுமை' எனும் துன்பமில்லை.",
+        "moral_en": "Moral: The men of pleasant speech that gladness breathe around, Through indigence shall never sorrow's prey be found.",
+        "game_blank_word_ta": "யார்மாட்டும்",
+        "game_options_ta": [
+          "இன்சொலால்",
+          "ஈரம்",
+          "யார்மாட்டும்",
+          "அளைஇப்"
+        ],
+        "game_options_en": [
+          "The words of Seers are lovely sweet Merciful and free from deceit",
+          "Sweet words from smiling lips dispense More joys than heart's beneficence",
+          "Whose loving words delight each one The woe of want from them is gone",
+          "Calm face, sweet look, kind words from heart Such is the gracious virtue's part"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இனியவை கூறல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 94, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எவரிடமும் இன்பம் தரும் இனிய சொற்களைப் பேசுபவர்க்குத் துன்பம் தரும் வறுமை வராது. கலைஞர் உரை கூறுவது: இன்சொல் பேசி எல்லோரிடத்திலும் கனிவுடன் பழகுவோர்க்கு `நட்பில் வறுமை' எனும் துன்பமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Utterance of Pleasant Words (Domestic Virtue), Kural 94 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Sorrow-increasing poverty shall not come upon those who use towards all, pleasure-increasing sweetness of speech. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இனியவை கூறல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Utterance of Pleasant Words' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இனியவை கூறல்' அதிகாரத்தில் வரும் திருக்குறள் 94 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 94 from Chapter 'The Utterance of Pleasant Words'?",
+        "quiz_options_ta": [
+          "நல்லொழுக்கம் இன்பமான நல்வாழ்க்கைக்குக் காரணமாக இருக்கும்; தீயொழுக்கம் எப்போதும் துன்பத்தைக் கொடுக்கும்.",
+          "ஒருவன் அறத்தைப் போற்றிக் கூறாதவனாய் அறமல்லாதவற்றைச் செய்தாலும், மற்றவனைப் பற்றிப் புறங்கூறாமல் இருக்கிறான் என்று சொல்லப்படுதல் நல்லது.",
+          "யாரிடத்திலும் இன்புறத்தக்க இன்சொல் வழங்குவோர்க்குத் துன்பத்தை மிகுதிபடுத்தும் வறுமை என்பது இல்லையாகும்.",
+          "பொருள் வேண்டும் என்ற இரந்தவரின் மகிழ்ந்த முகத்தைக் காணும் வரைக்கும் (இரத்தலைப் போலவே ) இரந்து கேட்கப்படுவதும் துன்பமானது."
+        ],
+        "quiz_options_en": [
+          "Good conduct sows seeds of blessings Bad conduct endless evil brings",
+          "Though a man from virtue strays, To keep from slander brings him praise",
+          "Whose loving words delight each one The woe of want from them is gone",
+          "The cry for alms is painful sight Until the giver sees him bright"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இனியவை கூறல்) பகுதியில் குறள் 94 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யாரிடத்திலும் இன்புறத்தக்க இன்சொல் வழங்குவோர்க்குத் துன்பத்தை மிகுதிபடுத்தும் வறுமை என்பது இல்லையாகும். பரிமேலழகர் உரை நுட்பம்: யார்மாட்டும் இன்புஉறூஉம் இன்சொலவர்க்கு - எல்லார் மாட்டும் இன்பத்தை மிகுவிக்கும் இன்சொல்லை உடையார்க்கு; துன்பு உறூஉம் துவ்வாமை இல்லாகும் - துன்பத்தை மிகுவிக்கும் நல்குரவு இல்லையாம். (நா முதலிய பொறிகள் சுவை முதலிய புலன்களை நுகராமை உடைமையின், 'துவ்வாமை' என்றார...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 10: 'The Utterance of Pleasant Words'), Kural 94 distills a foundational ethical insight: \"The men of pleasant speech that gladness breathe around, Through indigence shall never sorrow's prey be found\" Philosophically, Sorrow-increasing poverty shall not come upon those who use towards all, pleasure-increasing sweetness of speech.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "wealth",
+        "ethics",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 95,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: வணக்கம் உடையவனாகவும் இன்சொல் வழங்குவோனாகவும் ஆதலே ஒருவனுக்கு அணிகலனாகும் மற்றவை அணிகள் அல்ல.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Humility and sweetness of speech are the ornaments of man; all others are not (ornaments).",
+        "story_title_ta": "இனியவை கூறல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Utterance of Pleasant Words — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இனியவை கூறல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 95 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தகுதிக்குக் குறைவானவரிடமும் பணிவுடன் இனிய சொற்களைச் சொல்பவனாக ஆவது ஒருவனுக்கு ஆபரணம் ஆகும்; பிற அணிகள் அணி ஆகா.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'The Utterance of Pleasant Words'. Grandpa shared Kural 95 and explained in simple words: Humility and sweetness of speech are the ornaments of man; all others are not (ornaments). The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அடக்கமான பண்பும், இனிமையாகப் பேசும் இயல்பும் தவிர, ஒருவருக்குச் சிறந்த அணிகலன் வேறு இருக்க முடியாது.",
+        "moral_en": "Moral: Humility with pleasant speech to man on earth, Is choice adornment; all besides is nothing worth.",
+        "game_blank_word_ta": "மற்றுப்",
+        "game_options_ta": [
+          "இன்சொலால்",
+          "ஈரம்",
+          "அளைஇப்",
+          "மற்றுப்"
+        ],
+        "game_options_en": [
+          "The words of Seers are lovely sweet Merciful and free from deceit",
+          "Sweet words from smiling lips dispense More joys than heart's beneficence",
+          "Calm face, sweet look, kind words from heart Such is the gracious virtue's part",
+          "To be humble and sweet words speak No other jewel do wise men seek"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இனியவை கூறல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 95, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தகுதிக்குக் குறைவானவரிடமும் பணிவுடன் இனிய சொற்களைச் சொல்பவனாக ஆவது ஒருவனுக்கு ஆபரணம் ஆகும்; பிற அணிகள் அணி ஆகா. கலைஞர் உரை கூறுவது: அடக்கமான பண்பும், இனிமையாகப் பேசும் இயல்பும் தவிர, ஒருவருக்குச் சிறந்த அணிகலன் வேறு இருக்க முடியாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Utterance of Pleasant Words (Domestic Virtue), Kural 95 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Humility and sweetness of speech are the ornaments of man; all others are not (ornaments). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இனியவை கூறல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Utterance of Pleasant Words' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இனியவை கூறல்' அதிகாரத்தில் வரும் திருக்குறள் 95 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 95 from Chapter 'The Utterance of Pleasant Words'?",
+        "quiz_options_ta": [
+          "தீய சொற்களைத் தவறியும் தம்முடைய வாயால் சொல்லும் குற்றம், ஒழுக்கம் உடையவர்க்குப் பொருந்தாததாகும்.",
+          "அறத்தை அழித்துப் பேசி அறமல்லாதவைகளைச் செய்வதை விட, ஒருவன் இல்லாதவிடத்தில் அவனைப் பழித்துப் பேசி நேரில் பொய்யாக முகமலர்ந்து பேசுதல் தீமையாகும்.",
+          "தவ வலிமை உடையவரின் வலிமை பசியை பொறுத்துக் கொள்ளலாகும், அதுவும் அப் பசியை உணவு கொடுத்து மாற்றுகின்றவரின் ஆற்றலுக்குப் பிற்பட்டதாகும்.",
+          "வணக்கம் உடையவனாகவும் இன்சொல் வழங்குவோனாகவும் ஆதலே ஒருவனுக்கு அணிகலனாகும் மற்றவை அணிகள் அல்ல."
+        ],
+        "quiz_options_en": [
+          "Foul words will never fall from lips Of righteous men even by slips",
+          "Who bite behind, and before smile Are worse than open traitors vile",
+          "Higher's power which hunger cures Than that of penance which endures",
+          "To be humble and sweet words speak No other jewel do wise men seek"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இனியவை கூறல்) பகுதியில் குறள் 95 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வணக்கம் உடையவனாகவும் இன்சொல் வழங்குவோனாகவும் ஆதலே ஒருவனுக்கு அணிகலனாகும் மற்றவை அணிகள் அல்ல. பரிமேலழகர் உரை நுட்பம்: ஒருவற்கு அணி பணிவு உடையன் இன்சொலன் ஆதல் - ஒருவனுக்கு அணியாவது தன்னால் தாழப்படுவார்கண் தாழ்ச்சியுடையனாய் எல்லார் கண்ணும் இனிய சொல்லையும் உடையனாதல், பிற அல்ல - அன்றி மெய்க்கு அணியும் பிற அணிகள் அணி ஆகா. (இன்சொலனாதற்கு இனமாகலின், பணிவுடைமையும் உடன் கூறினார...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 10: 'The Utterance of Pleasant Words'), Kural 95 distills a foundational ethical insight: \"Humility with pleasant speech to man on earth, Is choice adornment; all besides is nothing worth\" Philosophically, Humility and sweetness of speech are the ornaments of man; all others are not (ornaments).",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "humility",
+        "wisdom",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 96,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பிறர்க்கு நன்மையானவற்றை நாடி இனிமை உடையச் சொற்களைச் சொல்லின், பாவங்கள் தேய்ந்து குறைய அறம் வளர்ந்து பெருகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If a man, while seeking to speak usefully, speaks also sweetly, his sins will diminish and his virtue increase.",
+        "story_title_ta": "இனியவை கூறல் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Utterance of Pleasant Words — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இனியவை கூறல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 96 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறர்க்கு நன்மை தரும் இனிய சொற்களை மனத்தால் எண்ணிச் சொன்னால், அவனுள்ளும், நாட்டிலும் அறம் வளரும்; பாவங்கள் குறையும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'The Utterance of Pleasant Words'. Grandpa shared Kural 96 and explained in simple words: If a man, while seeking to speak usefully, speaks also sweetly, his sins will diminish and his virtue increase. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தீய செயல்களை அகற்றி அறநெறி தழைக்கச் செய்ய வேண்டுமானால், இனிய சொற்களைப் பயன்படுத்தி நல்வழி எதுவெனக் காட்ட வேண்டும்.",
+        "moral_en": "Moral: Who seeks out good, words from his lips of sweetness flow; In him the power of vice declines, and virtues grow.",
+        "game_blank_word_ta": "அறம்பெருகும்",
+        "game_options_ta": [
+          "அறம்பெருகும்",
+          "இன்சொலால்",
+          "ஈரம்",
+          "அளைஇப்"
+        ],
+        "game_options_en": [
+          "His sins vanish, his virtues grow Whose fruitful words with sweetness flow",
+          "The words of Seers are lovely sweet Merciful and free from deceit",
+          "Sweet words from smiling lips dispense More joys than heart's beneficence",
+          "Calm face, sweet look, kind words from heart Such is the gracious virtue's part"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இனியவை கூறல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 96, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர்க்கு நன்மை தரும் இனிய சொற்களை மனத்தால் எண்ணிச் சொன்னால், அவனுள்ளும், நாட்டிலும் அறம் வளரும்; பாவங்கள் குறையும். கலைஞர் உரை கூறுவது: தீய செயல்களை அகற்றி அறநெறி தழைக்கச் செய்ய வேண்டுமானால், இனிய சொற்களைப் பயன்படுத்தி நல்வழி எதுவெனக் காட்ட வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Utterance of Pleasant Words (Domestic Virtue), Kural 96 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If a man, while seeking to speak usefully, speaks also sweetly, his sins will diminish and his virtue increase. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இனியவை கூறல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Utterance of Pleasant Words' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இனியவை கூறல்' அதிகாரத்தில் வரும் திருக்குறள் 96 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 96 from Chapter 'The Utterance of Pleasant Words'?",
+        "quiz_options_ta": [
+          "பிறர்க்கு நன்மையானவற்றை நாடி இனிமை உடையச் சொற்களைச் சொல்லின், பாவங்கள் தேய்ந்து குறைய அறம் வளர்ந்து பெருகும்.",
+          "உலகத்து உயர்ந்தவரோடு பொருந்த ஒழுகும் முறையைக் கற்காதவர், பல நூல்களைக் கற்றிருந்த போதிலும் அறிவில்லாதவரே ஆவர்.",
+          "புறங்கூறிப் பொய்யாக நடந்து உயிர் வாழ்தலை விட, அவ்வாறு செய்யாமல் வறுமையுற்று இறந்து விடுதல், அறநூல்கள் சொல்லும் ஆக்கத்தைத் தரும்‌‌.",
+          "வறியவரின் கடும்பசியைத் தீர்க்க வேண்டும் அதுவே பொருள் பெற்ற ஒருவன் அப் பொருளைத் தனக்குப் பிற்காலத்தில் உதவுமாறு சேர்த்து வைக்கும் இடமாகும்."
+        ],
+        "quiz_options_en": [
+          "His sins vanish, his virtues grow Whose fruitful words with sweetness flow",
+          "Though read much they are ignorant Whose life is not world-accordant",
+          "Virtue thinks it better to die, Than live to backbite and to lie",
+          "Drive from the poor their gnawing pains If room you seek to store your gains"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இனியவை கூறல்) பகுதியில் குறள் 96 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறர்க்கு நன்மையானவற்றை நாடி இனிமை உடையச் சொற்களைச் சொல்லின், பாவங்கள் தேய்ந்து குறைய அறம் வளர்ந்து பெருகும். பரிமேலழகர் உரை நுட்பம்: நல்லவை நாடி இனிய சொலின் - பொருளால் பிறர்க்கு நன்மை பயக்கும் சொற்களை மனத்தான் ஆராய்ந்து இனியவாக ஒருவன் சொல்லுமாயின்; அல்லவை தேய அறம் பெருகும் - அவனுக்குப் பாவங்கள் தேய அறம் வளரும். (தேய்தல் : தன் பகை ஆகிய அறம் வளர்தலின் தனக்கு நிலையின்றி மெலிதல். \"தவத்தின்முன...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 10: 'The Utterance of Pleasant Words'), Kural 96 distills a foundational ethical insight: \"Who seeks out good, words from his lips of sweetness flow; In him the power of vice declines, and virtues grow\" Philosophically, If a man, while seeking to speak usefully, speaks also sweetly, his sins will diminish and his virtue increase.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "ethics",
+        "discipline",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 97,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பிறர்க்கு நன்மையான பயனைத் தந்து நல்ல பண்பிலிருந்து நீங்காத சொற்கள்,வழங்குவோனுக்கும் இன்பம் தந்து நன்மை பயக்கும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: That speech which, while imparting benefits ceases not to please, will yield righteousness (for this world) and merit (for the next world).",
+        "story_title_ta": "இனியவை கூறல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Utterance of Pleasant Words — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இனியவை கூறல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 97 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறர்க்கு நன்மையைத் தந்து, இனிய பண்பிலிருந்து விலகாத சொல், இம்மைக்கு உலகத்தாரோடு ஒற்றுமையையும், மறுமைக்கு அறத்தையும் கொடுக்கும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'The Utterance of Pleasant Words'. Grandpa shared Kural 97 and explained in simple words: That speech which, while imparting benefits ceases not to please, will yield righteousness (for this world) and merit (for the next world). The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நன்மையான பயனைத் தரக்கூடிய நல்ல பண்பிலிருந்து விலகாத சொற்கள் அவற்றைக் கூறுவோருக்கும் இன்பத்தையும், நன்மையையும் உண்டாக்கக் கூடியவைகளாகும்.",
+        "moral_en": "Moral: The words of sterling sense, to rule of right that strict adhere, To virtuous action prompting, blessings yield in every sphere.",
+        "game_blank_word_ta": "நன்றி",
+        "game_options_ta": [
+          "இன்சொலால்",
+          "நன்றி",
+          "ஈரம்",
+          "அளைஇப்"
+        ],
+        "game_options_en": [
+          "The words of Seers are lovely sweet Merciful and free from deceit",
+          "The fruitful courteous kindly words Lead to goodness and graceful deeds",
+          "Sweet words from smiling lips dispense More joys than heart's beneficence",
+          "Calm face, sweet look, kind words from heart Such is the gracious virtue's part"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இனியவை கூறல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 97, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர்க்கு நன்மையைத் தந்து, இனிய பண்பிலிருந்து விலகாத சொல், இம்மைக்கு உலகத்தாரோடு ஒற்றுமையையும், மறுமைக்கு அறத்தையும் கொடுக்கும். கலைஞர் உரை கூறுவது: நன்மையான பயனைத் தரக்கூடிய நல்ல பண்பிலிருந்து விலகாத சொற்கள் அவற்றைக் கூறுவோருக்கும் இன்பத்தையும், நன்மையையும் உண்டாக்கக் கூடியவைகளாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Utterance of Pleasant Words (Domestic Virtue), Kural 97 speaks directly to teens navigating studies, friendships, leadership, and digital choices: That speech which, while imparting benefits ceases not to please, will yield righteousness (for this world) and merit (for the next world). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இனியவை கூறல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Utterance of Pleasant Words' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இனியவை கூறல்' அதிகாரத்தில் வரும் திருக்குறள் 97 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 97 from Chapter 'The Utterance of Pleasant Words'?",
+        "quiz_options_ta": [
+          "பிறனுடைய உரிமையாகிய மனைவியை விரும்பி நடக்கும் அறியாமை, உலகத்தில் அறமும் பொருளும் ஆராய்ந்து கண்டவரிடம் இல்லை.",
+          "பிறர்க்கு நன்மையான பயனைத் தந்து நல்ல பண்பிலிருந்து நீங்காத சொற்கள்,வழங்குவோனுக்கும் இன்பம் தந்து நன்மை பயக்கும்.",
+          "எதிரே நின்று கண்ணோ‌ட்டம் இல்லாமல் கடுமையாகச் சொன்னாலும் சொல்லலாம்; நேரில் இல்லாதபோது பின் விளைவை ஆராயாத சொல்லைச் சொல்லக்கூடாது.",
+          "தான் பெற்ற உணவை பலரோடும் பகிர்ந்து உண்ணும் பழக்கம் உடையவனை பசி என்று கூறப்படும் தீயநோய் அணுகுதல் இல்லை."
+        ],
+        "quiz_options_en": [
+          "Who know the wealth and virtue's way After other's wife do not stray",
+          "The fruitful courteous kindly words Lead to goodness and graceful deeds",
+          "Though harsh you speak in one's presence Abuse is worse in his absence",
+          "Who shares his food with those who need Hunger shall not harm his creed"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இனியவை கூறல்) பகுதியில் குறள் 97 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறர்க்கு நன்மையான பயனைத் தந்து நல்ல பண்பிலிருந்து நீங்காத சொற்கள்,வழங்குவோனுக்கும் இன்பம் தந்து நன்மை பயக்கும். பரிமேலழகர் உரை நுட்பம்: நயன் ஈன்று நன்றி பயக்கும் - ஒருவனுக்கு இம்மைக்கு நீதியையும் உண்டாக்கி மறுமைக்கு அறத்தையும் பயக்கும்: பயன் ஈன்று பண்பின் தலைப்பிரியாச் சொல் - பொருளால் பிறர்க்கு நன்மையைக் கொடுத்து இனிமைப் பண்பின் நீங்காத சொல். (நீதி: உலகத்தோடு பொருந்துதல். 'பண்பு' என்பது ஈண்டு...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 10: 'The Utterance of Pleasant Words'), Kural 97 distills a foundational ethical insight: \"The words of sterling sense, to rule of right that strict adhere, To virtuous action prompting, blessings yield in every sphere\" Philosophically, That speech which, while imparting benefits ceases not to please, will yield righteousness (for this world) and merit (for the next world).",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "ethics",
+        "gratitude",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 98,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பிறர்க்குத் துன்பம் விளைக்கும் சிறுமையிலிருந்து நீங்கிய இனிய சொற்கள் மறுமைக்கும் இம்மைக்கும் வழங்குவோனுக்கு இன்பம் தரும் .",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Sweet speech, free from harm to others, will give pleasure both in this world and in the next.",
+        "story_title_ta": "இனியவை கூறல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Utterance of Pleasant Words — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இனியவை கூறல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 98 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறர்க்கு மனத்துன்பம் தராத இனிய சொல் ஒருவனுக்கு இம்மையிலும் மறுமையிலும் இன்பம் தரும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'The Utterance of Pleasant Words'. Grandpa shared Kural 98 and explained in simple words: Sweet speech, free from harm to others, will give pleasure both in this world and in the next. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: சிறுமைத்தனமற்ற இனியசொல் ஒருவனுக்கு அவன் வாழும் போதும், வாழ்ந்து மறைந்த பிறகும் புகழைத் தரக்கூடியதாகும்.",
+        "moral_en": "Moral: Sweet kindly words, from meanness free, delight of heart, In world to come and in this world impart.",
+        "game_blank_word_ta": "சிறுமையுவு",
+        "game_options_ta": [
+          "இன்சொலால்",
+          "ஈரம்",
+          "சிறுமையுவு",
+          "அளைஇப்"
+        ],
+        "game_options_en": [
+          "The words of Seers are lovely sweet Merciful and free from deceit",
+          "Sweet words from smiling lips dispense More joys than heart's beneficence",
+          "Kind words free from meanness delight This life on earth and life the next",
+          "Calm face, sweet look, kind words from heart Such is the gracious virtue's part"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இனியவை கூறல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 98, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர்க்கு மனத்துன்பம் தராத இனிய சொல் ஒருவனுக்கு இம்மையிலும் மறுமையிலும் இன்பம் தரும். கலைஞர் உரை கூறுவது: சிறுமைத்தனமற்ற இனியசொல் ஒருவனுக்கு அவன் வாழும் போதும், வாழ்ந்து மறைந்த பிறகும் புகழைத் தரக்கூடியதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Utterance of Pleasant Words (Domestic Virtue), Kural 98 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Sweet speech, free from harm to others, will give pleasure both in this world and in the next. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இனியவை கூறல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Utterance of Pleasant Words' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இனியவை கூறல்' அதிகாரத்தில் வரும் திருக்குறள் 98 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 98 from Chapter 'The Utterance of Pleasant Words'?",
+        "quiz_options_ta": [
+          "அறத்தை விட்டுத் தீநெறியில் நின்றவர் எல்லாரிலும் பிறன் மனைவியை விரும்பி அவனுடைய வாயிலில் சென்று நின்றவரைப் போல் அறிவிலிகள் இல்லை.",
+          "அறத்தை நல்லதென்று போற்றும் நெஞ்சம் இல்லாததன்மை, ஒருவன் மற்றவனைப் பற்றிப் புறங்கூறுகின்ற சிறுமையால் காணப்படும்.",
+          "பிறர்க்குத் துன்பம் விளைக்கும் சிறுமையிலிருந்து நீங்கிய இனிய சொற்கள் மறுமைக்கும் இம்மைக்கும் வழங்குவோனுக்கு இன்பம் தரும் .",
+          "தாம் சேர்த்து வைத்துள்ள பொருளைப் பிறருக்குக் கொடுக்காமல் வைத்திருந்து பின் இழந்து விடும் வன் கண்மை உடையவர், பிறர்க்கு கொடுத்து மகிழும் மகிழ்ச்சியை அறியாரோ."
+        ],
+        "quiz_options_en": [
+          "He is the worst law breaking boor Who haunts around his neighbour's door",
+          "Who turns to slander makes it plain His praise of virtue is in vain",
+          "Kind words free from meanness delight This life on earth and life the next",
+          "The joy of give and take they lose Hard-hearted rich whose hoarding fails"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இனியவை கூறல்) பகுதியில் குறள் 98 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிறர்க்குத் துன்பம் விளைக்கும் சிறுமையிலிருந்து நீங்கிய இனிய சொற்கள் மறுமைக்கும் இம்மைக்கும் வழங்குவோனுக்கு இன்பம் தரும் . பரிமேலழகர் உரை நுட்பம்: சிறுமையுள் நீங்கிய இன்சொல் - பொருளால் பிறர்க்கு நோய் செய்யாத இனிய சொல்; மறுமையும் இம்மையும் இன்பம் தரும் - ஒருவனுக்கு இருமையினும் இன்பத்தைப் பயக்கும். (மறுமை இன்பம் பெரிதாகலின், முன் கூறப்பட்டது. இம்மை இன்பமாவது, உலகம் தன் வயத்ததாகலான் நல்லன எய்தி இன்புறுதல...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 10: 'The Utterance of Pleasant Words'), Kural 98 distills a foundational ethical insight: \"Sweet kindly words, from meanness free, delight of heart, In world to come and in this world impart\" Philosophically, Sweet speech, free from harm to others, will give pleasure both in this world and in the next.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "kindness",
+        "family",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 99,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: இனிய சொற்கள் இன்பம் பயத்தலைக் காண்கின்றவன், அவற்றிற்கு மாறான வன்சொற்களை வழங்குவது என்ன பயன் கருதியோ?",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Why does he use harsh words, who sees the pleasure which sweet speech yields ?",
+        "story_title_ta": "இனியவை கூறல் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Utterance of Pleasant Words — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இனியவை கூறல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 99 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பிறர் சொல்லும் இனிய சொற்கள், இன்பம் தருவதை உணர்ந்தவன், பிறர்க்கும் தனக்கும் துன்பம் தரும் கடும் சொற்களைப் பேசுவது என்ன பயன் கருதியோ?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'The Utterance of Pleasant Words'. Grandpa shared Kural 99 and explained in simple words: Why does he use harsh words, who sees the pleasure which sweet speech yields ? The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: இனிய சொற்கள் இன்பத்தை வழங்கும் என்பதை உணர்ந்தவர் அதற்கு மாறாக எதற்காகக் கடுஞ் சொற்களைப் பயன்படுத்த வேண்டும்?",
+        "moral_en": "Moral: Who sees the pleasure kindly speech affords, Why makes he use of harsh, repellant words.",
+        "game_blank_word_ta": "எவன்கொலோ",
+        "game_options_ta": [
+          "இன்சொலால்",
+          "ஈரம்",
+          "அளைஇப்",
+          "எவன்கொலோ"
+        ],
+        "game_options_en": [
+          "The words of Seers are lovely sweet Merciful and free from deceit",
+          "Sweet words from smiling lips dispense More joys than heart's beneficence",
+          "Calm face, sweet look, kind words from heart Such is the gracious virtue's part",
+          "Who sees the sweets of sweetness here To use harsh words how can he dare?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இனியவை கூறல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 99, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பிறர் சொல்லும் இனிய சொற்கள், இன்பம் தருவதை உணர்ந்தவன், பிறர்க்கும் தனக்கும் துன்பம் தரும் கடும் சொற்களைப் பேசுவது என்ன பயன் கருதியோ? கலைஞர் உரை கூறுவது: இனிய சொற்கள் இன்பத்தை வழங்கும் என்பதை உணர்ந்தவர் அதற்கு மாறாக எதற்காகக் கடுஞ் சொற்களைப் பயன்படுத்த வேண்டும்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Utterance of Pleasant Words (Domestic Virtue), Kural 99 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Why does he use harsh words, who sees the pleasure which sweet speech yields ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இனியவை கூறல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Utterance of Pleasant Words' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இனியவை கூறல்' அதிகாரத்தில் வரும் திருக்குறள் 99 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 99 from Chapter 'The Utterance of Pleasant Words'?",
+        "quiz_options_ta": [
+          "ஐயமில்லாமல் தெளிந்து நம்பியவருடைய மனைவியிடத்தே விருப்பம் கொண்டு தீமையைச் செய்து நடப்பவர், செத்தவரை விட வேறுபட்டவர் அல்லர்.",
+          "மற்றவனைப் பற்றிப் புறங்கூறுகின்றவன், அவனுடைய பழிகள் பலவற்றிலும் நோகத்தக்கவை ஆராய்ந்து கூறிப் பிறரால் பழிக்கப்படுவான்.",
+          "பொருளின் குறைபாட்டை நிரப்புவதற்க்காக உள்ளதைப் பிறர்க்கு ஈயாமல் தாமே தமியராய் உண்பது வறுமையால் இறப்பதை விடத் துன்பமானது.",
+          "இனிய சொற்கள் இன்பம் பயத்தலைக் காண்கின்றவன், அவற்றிற்கு மாறான வன்சொற்களை வழங்குவது என்ன பயன் கருதியோ?"
+        ],
+        "quiz_options_en": [
+          "The vile are dead who evil aim And put faithful friends' wives to shame",
+          "His failings will be found and shown, Who makes another's failings known",
+          "Worse than begging is that boarding Alone what one's greed is hoarding",
+          "Who sees the sweets of sweetness here To use harsh words how can he dare?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இனியவை கூறல்) பகுதியில் குறள் 99 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இனிய சொற்கள் இன்பம் பயத்தலைக் காண்கின்றவன், அவற்றிற்கு மாறான வன்சொற்களை வழங்குவது என்ன பயன் கருதியோ? பரிமேலழகர் உரை நுட்பம்: இன்சொல் இனிது ஈன்றல் காண்பான் - பிறர் கூறும் இன்சொல் தனக்கு இன்பம் பயத்தலை அனுபவித்து அறிகின்றவன்; வன்சொல் வழங்குவது எவன்கொல் - அது நிற்கப் பிறர்மாட்டு வன்சொல்லைச் சொல்வது என்ன பயன் கருதி? ('இனிது' என்றது வினைக்குறிப்புப் பெயர். கடுஞ்சொல் பிறர்க்கும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 10: 'The Utterance of Pleasant Words'), Kural 99 distills a foundational ethical insight: \"Who sees the pleasure kindly speech affords, Why makes he use of harsh, repellant words\" Philosophically, Why does he use harsh words, who sees the pleasure which sweet speech yields ?",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "gratitude",
+        "kindness",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 100,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: இனிய சொற்கள் இருக்கும் போது அவற்றை விட்டுக் கடுமையான சொற்களைக் கூறுதல் கனிகள் இருக்கும் போது அவற்றை விட்டு காய்களைப் பறித்துத் தின்பதைப் போன்றது .",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: To say disagreeable things when agreeable are at hand is like eating unripe fruit when there is ripe.",
+        "story_title_ta": "இனியவை கூறல் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Utterance of Pleasant Words — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இனியவை கூறல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 100 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மனத்திற்கு இன்பம் தரும் சொற்கள் இருக்க, அவற்றை விட்டுவிட்டுத் துன்பம் தரும் சொற்களைக் கூறுவது, நல்ல பழம் இருக்க நச்சுக்காயை உண்பது போலாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'The Utterance of Pleasant Words'. Grandpa shared Kural 100 and explained in simple words: To say disagreeable things when agreeable are at hand is like eating unripe fruit when there is ripe. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: இனிமையான சொற்கள் இருக்கும்போது அவற்றை விடுத்துக் கடுமையாகப் பேசுவது கனிகளை ஒதுக்கி விட்டுக் காய்களைப் பறித்துத் தின்பதற்குச் சமமாகும்.",
+        "moral_en": "Moral: When pleasant words are easy, bitter words to use, Is, leaving sweet ripe fruit, the sour unripe to choose.",
+        "game_blank_word_ta": "இன்னாத",
+        "game_options_ta": [
+          "இன்னாத",
+          "இன்சொலால்",
+          "ஈரம்",
+          "அளைஇப்"
+        ],
+        "game_options_en": [
+          "Leaving ripe fruits the raw he eats Who speaks harsh words when sweet word suits",
+          "The words of Seers are lovely sweet Merciful and free from deceit",
+          "Sweet words from smiling lips dispense More joys than heart's beneficence",
+          "Calm face, sweet look, kind words from heart Such is the gracious virtue's part"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இனியவை கூறல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 100, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனத்திற்கு இன்பம் தரும் சொற்கள் இருக்க, அவற்றை விட்டுவிட்டுத் துன்பம் தரும் சொற்களைக் கூறுவது, நல்ல பழம் இருக்க நச்சுக்காயை உண்பது போலாகும். கலைஞர் உரை கூறுவது: இனிமையான சொற்கள் இருக்கும்போது அவற்றை விடுத்துக் கடுமையாகப் பேசுவது கனிகளை ஒதுக்கி விட்டுக் காய்களைப் பறித்துத் தின்பதற்குச் சமமாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Utterance of Pleasant Words (Domestic Virtue), Kural 100 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To say disagreeable things when agreeable are at hand is like eating unripe fruit when there is ripe. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இனியவை கூறல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'The Utterance of Pleasant Words' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இனியவை கூறல்' அதிகாரத்தில் வரும் திருக்குறள் 100 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 100 from Chapter 'The Utterance of Pleasant Words'?",
+        "quiz_options_ta": [
+          "இனிய சொற்கள் இருக்கும் போது அவற்றை விட்டுக் கடுமையான சொற்களைக் கூறுதல் கனிகள் இருக்கும் போது அவற்றை விட்டு காய்களைப் பறித்துத் தின்பதைப் போன்றது .",
+          "தினையளவும் ஆராய்ந்து பார்க்காமல் பிறனுடைய மனைவியிடம் செல்லுதல், எவ்வளவு பெருமையை உடையவராயினும் என்னவாக முடியும்?",
+          "மகிழும்படியாகப் பேசி நட்புக் கொள்ளுதல் நன்மை என்று தெளியாதவர் தம்மை விட்டு நீங்கும்படியாகப் புறம் கூறி நண்பரையும் பிரித்து விடுவர்.",
+          "சாவதை விடத் துன்பமானது வேறொன்றும் இல்லை, ஆனால் வறியவர்க்கு ஒரு பொருள் கொடுக்க முடியாதநிலை வந்தபோது அச் சாதலும் இனியதே ஆகும்."
+        ],
+        "quiz_options_en": [
+          "Leaving ripe fruits the raw he eats Who speaks harsh words when sweet word suits",
+          "Their boasted greatness means nothing When to another's wife they cling",
+          "By pleasing words who make not friends Sever their hearts by hostile trends",
+          "Nothing is more painful than death Yet more is pain of giftless dearth"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இனியவை கூறல்) பகுதியில் குறள் 100 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இனிய சொற்கள் இருக்கும் போது அவற்றை விட்டுக் கடுமையான சொற்களைக் கூறுதல் கனிகள் இருக்கும் போது அவற்றை விட்டு காய்களைப் பறித்துத் தின்பதைப் போன்றது . பரிமேலழகர் உரை நுட்பம்: இனிய உளவாக இன்னாதகூறல் - அறம் பயக்கும் இனிய சொற்களும் தனக்கு உளவாயிருக்க, அவற்றைக் கூறாது பாவம் பயக்கும் இன்னாத சொற்களை ஒருவன் கூறுதல்; கனி இருப்பக் காய் கவர்ந்தற்று - இனிய கனிகளும் தன் கைக்கண் உளவாயிருக்க, அவற்றை நுகராது காய்களை நுகர்ந்ததனோடு ஒக்கும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 10: 'The Utterance of Pleasant Words'), Kural 100 distills a foundational ethical insight: \"When pleasant words are easy, bitter words to use, Is, leaving sweet ripe fruit, the sour unripe to choose\" Philosophically, To say disagreeable things when agreeable are at hand is like eating unripe fruit when there is ripe.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "speech",
+        "kindness"
+      ]
+    }
+  ]
+}

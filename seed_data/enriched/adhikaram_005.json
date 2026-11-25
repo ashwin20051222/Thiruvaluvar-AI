@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 5,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.471830278+00:00",
+  "kurals": [
+    {
+      "kural_number": 41,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: இல்லறத்தில் வாழ்பவனாகச் சொல்லப்படுகிறவன் அறத்தின் இயல்பை உடைய மூவருக்கும் நல்வழியில் நிலை பெற்ற துணையாவான்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: He will be called a (true) householder, who is a firm support to the virtuous of the three orders in.",
+        "story_title_ta": "இல்வாழ்க்கை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Domestic Life — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இல்வாழ்க்கை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 41 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மனைவியோடு வாழ்பவன்தான் பிள்ளைகள், பெற்றோர், உறவினர் என்னும் மூவர்க்கும் நல்ல வழியில் உதவுபவன்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Domestic Life'. Grandpa shared Kural 41 and explained in simple words: He will be called a (true) householder, who is a firm support to the virtuous of the three orders in. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பெற்றோர், வாழ்க்கைத் துணை, குழந்தைகள் என இயற்கையாக அமைந்திடும் மூவர்க்கும் துணையாக இருப்பது இல்லறம் நடத்துவோர் கடமையாகும்.",
+        "moral_en": "Moral: The men of household virtue, firm in way of good, sustainThe other orders three that rule professed maintain.",
+        "game_blank_word_ta": "நின்ற",
+        "game_options_ta": [
+          "துறந்தார்க்கும்",
+          "நின்ற",
+          "துவ்வாதவர்க்கும்",
+          "இறந்தார்க்கும்"
+        ],
+        "game_options_en": [
+          "His help the monk and retired share, And celibate students are his care",
+          "The ideal householder is he Who aids the natural orders there",
+          "By dutiful householder's aid God, manes, kin, self and guests are served",
+          "Sin he shuns and food he shares His home is bright and brighter fares"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இல்வாழ்க்கை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 41, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனைவியோடு வாழ்பவன்தான் பிள்ளைகள், பெற்றோர், உறவினர் என்னும் மூவர்க்கும் நல்ல வழியில் உதவுபவன். கலைஞர் உரை கூறுவது: பெற்றோர், வாழ்க்கைத் துணை, குழந்தைகள் என இயற்கையாக அமைந்திடும் மூவர்க்கும் துணையாக இருப்பது இல்லறம் நடத்துவோர் கடமையாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Domestic Life (Domestic Virtue), Kural 41 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He will be called a (true) householder, who is a firm support to the virtuous of the three orders in. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இல்வாழ்க்கை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Domestic Life' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இல்வாழ்க்கை' அதிகாரத்தில் வரும் திருக்குறள் 41 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 41 from Chapter 'Domestic Life'?",
+        "quiz_options_ta": [
+          "விருந்தினரை முன்னே போற்றி உணவளித்து மிஞ்சிய உணவை உண்டு வாழ்கின்றவனுடைய நிலத்தில் விதையும் விதைக்க வேண்டுமோ?",
+          "இல்லறத்தில் வாழ்பவனாகச் சொல்லப்படுகிறவன் அறத்தின் இயல்பை உடைய மூவருக்கும் நல்வழியில் நிலை பெற்ற துணையாவான்.",
+          "தீய ‌சொற்களின் பொருளால் விளையும் தீமை ஒன்றாயினும் ஒருவனிடம் உண்டானால், அதனால் மற்ற அறங்களாலும் நன்மை விளையாமல் போகும்.",
+          "நடுவுநிலைமை இல்லாமல் பிறர்க்குரிய நல்ல பொருளை ஒருவன் கவர விரும்பினால் அவனுடைய குடியும் கெட்டுக் குற்றமும் அப்போழுதே வந்து சேரும்."
+        ],
+        "quiz_options_en": [
+          "Should his field be sown who first Feeds the guests and eats the rest?",
+          "The ideal householder is he Who aids the natural orders there",
+          "Even a single evil word Will turn all good results to bad",
+          "Who covets others' honest wealth That greed ruins his house forthwith"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இல்வாழ்க்கை) பகுதியில் குறள் 41 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இல்லறத்தில் வாழ்பவனாகச் சொல்லப்படுகிறவன் அறத்தின் இயல்பை உடைய மூவருக்கும் நல்வழியில் நிலை பெற்ற துணையாவான். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, இல்லாளோடு கூடி வாழ்தலினது சிறப்பு.இந்நிலை அறம் செய்தற்கு உரிய இருவகை நிலையுள் முதலது ஆதலின், இஃது அறன் வலியுறுத்தலின் பின் வைக்கப்பட்டது) இல்வாழ்வான் என்பான் - இல்லறத்தோடு கூடி வாழ்வான் என்று சொல்லப்படுவான்; இயல்பு உடைய மூவர்க்கும் நல் ஆற்றின் நின்ற...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 5: 'Domestic Life'), Kural 41 distills a foundational ethical insight: \"The men of household virtue, firm in way of good, sustainThe other orders three that rule professed maintain\" Philosophically, He will be called a (true) householder, who is a firm support to the virtuous of the three orders in.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "discipline",
+        "ethics",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 42,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: துறந்தவர்கும் வறியவர்க்கும் தன்னிடத்தே இறந்தவர்க்கும் இல்லறம் மேற்கொண்டு வாழ்கிறவன் துணையாவான்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: He will be said to flourish in domestic virtue who aids the forsaken, the poor, and the dead.",
+        "story_title_ta": "இல்வாழ்க்கை — கவின் கற்ற பாடம்",
+        "story_title_en": "Domestic Life — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இல்வாழ்க்கை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 42 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மனைவியோடு வாழ்பவன்தான் துறவியர், வறுமைப்பட்டவர், இறந்து போனவர் என்பவர்க்கும் உதவுபவன்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Domestic Life'. Grandpa shared Kural 42 and explained in simple words: He will be said to flourish in domestic virtue who aids the forsaken, the poor, and the dead. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பற்றற்ற துறவிகட்கும், பசியால் வாடுவோர்க்கும், பாதுகாப்பற்றவர்க்கும் இல்லற வாழ்வு நடத்துவோர் துணையாக இருத்தல் வேண்டும்.",
+        "moral_en": "Moral: To anchorites, to indigent, to those who've passed away, The man for household virtue famed is needful held and stay.",
+        "game_blank_word_ta": "இறந்தார்க்கும்",
+        "game_options_ta": [
+          "இல்வாழ்வான்",
+          "என்பான்",
+          "இறந்தார்க்கும்",
+          "இயல்புடைய"
+        ],
+        "game_options_en": [
+          "The ideal householder is he Who aids the natural orders there",
+          "By dutiful householder's aid God, manes, kin, self and guests are served",
+          "His help the monk and retired share, And celibate students are his care",
+          "Sin he shuns and food he shares His home is bright and brighter fares"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இல்வாழ்க்கை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 42, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனைவியோடு வாழ்பவன்தான் துறவியர், வறுமைப்பட்டவர், இறந்து போனவர் என்பவர்க்கும் உதவுபவன். கலைஞர் உரை கூறுவது: பற்றற்ற துறவிகட்கும், பசியால் வாடுவோர்க்கும், பாதுகாப்பற்றவர்க்கும் இல்லற வாழ்வு நடத்துவோர் துணையாக இருத்தல் வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Domestic Life (Domestic Virtue), Kural 42 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He will be said to flourish in domestic virtue who aids the forsaken, the poor, and the dead. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இல்வாழ்க்கை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Domestic Life' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இல்வாழ்க்கை' அதிகாரத்தில் வரும் திருக்குறள் 42 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 42 from Chapter 'Domestic Life'?",
+        "quiz_options_ta": [
+          "வந்த விருந்தினரைப் போற்றி, இனிவரும் விருந்தினரை எதிர் பார்த்திருப்பவன், வானுலகத்தில் உள்ள தேவர்க்கும் நல்ல விருந்தினனாவான்",
+          "தீயினால் சுட்ட புண் புறத்தே வடு இருந்தாலும் உள்ளே ஆறிவிடும்; ஆனால் நாவினால் தீய சொல் கூறிச் சுடும் வடு என்றும் ஆறாது.",
+          "துறந்தவர்கும் வறியவர்க்கும் தன்னிடத்தே இறந்தவர்க்கும் இல்லறம் மேற்கொண்டு வாழ்கிறவன் துணையாவான்.",
+          "நடுவுநிலைமை அல்லாதவற்றைக் கண்டு நாணி ஒதுங்குகின்றவர், பிறர் பொருளைக் கவர்வதால் வரும் பயனை விரும்பிப் பழியான செயல்களைச் செய்யார்."
+        ],
+        "quiz_options_en": [
+          "Who tends a guest and looks for next Is a welcome guest in heaven's feast",
+          "The fire-burnt wounds do find a cure Tongue-burnt wound rests a running sore",
+          "His help the monk and retired share, And celibate students are his care",
+          "Who shrink with shame from sin, refrain From coveting which brings ruin"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இல்வாழ்க்கை) பகுதியில் குறள் 42 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: துறந்தவர்கும் வறியவர்க்கும் தன்னிடத்தே இறந்தவர்க்கும் இல்லறம் மேற்கொண்டு வாழ்கிறவன் துணையாவான். பரிமேலழகர் உரை நுட்பம்: துறந்தார்க்கும்- களைகண் ஆனவரால் துறக்கப்பட்டார்க்கும்; துவ்வாதவர்க்கும் - நல்கூர்ந்தார்க்கும்; இறந்தார்க்கும்-ஒருவருமன்றித் தன்பால்வந்து இறந்தார்க்கும்; இல்வாழ்வான் என்பான் 'துணை'-இல்வாழ்வானென்று சொல்லப்படுவான் துணை (துறந்தார்க்குப் பாவம் ஒழிய அவர் களைகணாய...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 5: 'Domestic Life'), Kural 42 distills a foundational ethical insight: \"To anchorites, to indigent, to those who've passed away, The man for household virtue famed is needful held and stay\" Philosophically, He will be said to flourish in domestic virtue who aids the forsaken, the poor, and the dead.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "kindness",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 43,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தென்புலத்தார், தெய்வம் விருந்தினர், சுற்றத்தார், தான் என்ற ஐவகையிடத்தும் அறநெறி தவறாமல் போற்றுதல் சிறந்த கடமையாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The chief (duty of the householder) is to preserve the five-fold rule (of conduct) towards the manes, the Gods, his guests, his relations and himself.",
+        "story_title_ta": "இல்வாழ்க்கை — நிலா கற்ற பாடம்",
+        "story_title_en": "Domestic Life — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இல்வாழ்க்கை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 43 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'இறந்து தென்திசையில் வாழ்பவர், தேவர்கள், விருந்தினர், சுற்றத்தார், தான் என்னும் ஐந்து பேருக்கும் செய்ய வேண்டிய அறத்தைத் தவறாமல் செய்வது சிறப்பு.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Domestic Life'. Grandpa shared Kural 43 and explained in simple words: The chief (duty of the householder) is to preserve the five-fold rule (of conduct) towards the manes, the Gods, his guests, his relations and himself. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வாழ்ந்து மறைந்தோரை நினைவுகூர்தல், வாழ்வாங்கு வாழ்வோரைப் போற்றுதல், விருந்தோம்பல், சுற்றம் பேணல் ஆகிய கடமைகளை நிறைவேற்றத் தன்னை நிலைப்படுத்திக் கொள்ளல் எனப்படும் ஐவகை அறநெறிகளும் இல்வாழ்வுக்குரியனவாம்.",
+        "moral_en": "Moral: The manes, God, guests kindred, self, in due degree, These five to cherish well is chiefest charity.",
+        "game_blank_word_ta": "தெய்வம்",
+        "game_options_ta": [
+          "இல்வாழ்வான்",
+          "என்பான்",
+          "இயல்புடைய",
+          "தெய்வம்"
+        ],
+        "game_options_en": [
+          "The ideal householder is he Who aids the natural orders there",
+          "His help the monk and retired share, And celibate students are his care",
+          "Sin he shuns and food he shares His home is bright and brighter fares",
+          "By dutiful householder's aid God, manes, kin, self and guests are served"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இல்வாழ்க்கை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 43, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இறந்து தென்திசையில் வாழ்பவர், தேவர்கள், விருந்தினர், சுற்றத்தார், தான் என்னும் ஐந்து பேருக்கும் செய்ய வேண்டிய அறத்தைத் தவறாமல் செய்வது சிறப்பு. கலைஞர் உரை கூறுவது: வாழ்ந்து மறைந்தோரை நினைவுகூர்தல், வாழ்வாங்கு வாழ்வோரைப் போற்றுதல், விருந்தோம்பல், சுற்றம் பேணல் ஆகிய கடமைகளை நிறைவேற்றத் தன்னை நிலைப்படுத்திக் கொள்ளல் எனப்படும் ஐவகை அறநெறிகளும் இல்வாழ்வுக்குரியனவாம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Domestic Life (Domestic Virtue), Kural 43 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The chief (duty of the householder) is to preserve the five-fold rule (of conduct) towards the manes, the Gods, his guests, his relations and himself. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இல்வாழ்க்கை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Domestic Life' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இல்வாழ்க்கை' அதிகாரத்தில் வரும் திருக்குறள் 43 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 43 from Chapter 'Domestic Life'?",
+        "quiz_options_ta": [
+          "விருந்தோம்புதலாகிய வேள்வியின் பயன் இவ்வளவு என்று அளவு படுத்தி கூறத்தக்கது அன்று, விருந்தினரின் தகுதிக்கு ஏற்ற அளவினதாகும்",
+          "சினம் தோன்றாமல் காத்து, கல்வி கற்று, அடக்கமுடையவனாக இருக்க வல்லவனுடைய செவ்வியை, அவனுடைய வழியில் சென்று அறம் பார்த்திருக்கும்.",
+          "அறநெறியால் பெறும் இன்பத்தை விரும்புகின்றவர், நிலையில்லாத சிறிய இன்பத்தை விரும்பி அறம் அல்லாதவற்றைச் செய்யார்.",
+          "தென்புலத்தார், தெய்வம் விருந்தினர், சுற்றத்தார், தான் என்ற ஐவகையிடத்தும் அறநெறி தவறாமல் போற்றுதல் சிறந்த கடமையாகும்."
+        ],
+        "quiz_options_en": [
+          "Worth of the guest of quality Is worth of hospitality",
+          "Virtue seeks and peeps to see Self-controlled savant anger free",
+          "For spiritual bliss who long For fleeting joy commit no wrong",
+          "By dutiful householder's aid God, manes, kin, self and guests are served"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இல்வாழ்க்கை) பகுதியில் குறள் 43 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தென்புலத்தார், தெய்வம் விருந்தினர், சுற்றத்தார், தான் என்ற ஐவகையிடத்தும் அறநெறி தவறாமல் போற்றுதல் சிறந்த கடமையாகும். பரிமேலழகர் உரை நுட்பம்: தென்புலத்தார் தெய்வம் விருந்து ஒக்கல் தான் என்று - பிதிரர்,தேவர்,விருந்தினர்,சுற்றத்தார் தான் என்று சொல்லப்பட்ட; ஐம் புலத்து ஆறு ஓம்பல் தலை - ஐந்து இடத்தும் செய்யும் அறநெறியை வழுவாமல் செய்தல் இல்வாழ்வானுக்குச் சிறப்புடைய அறம்ஆம். (பிதிரராவார் படைப்புக்காலத்து...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 5: 'Domestic Life'), Kural 43 distills a foundational ethical insight: \"The manes, God, guests kindred, self, in due degree, These five to cherish well is chiefest charity\" Philosophically, The chief (duty of the householder) is to preserve the five-fold rule (of conduct) towards the manes, the Gods, his guests, his relations and himself.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "wisdom",
+        "ethics",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 44,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பொருள் சேர்க்கும் பொது பழிக்கு அஞ்சிச் சேர்த்து, செலவு செய்யும் போது பகுந்து உண்பதை மேற்க்கொண்டால், அவ்வாழ்கையின் ஒழுங்கு எப்போதும் குறைவதில்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: His descendants shall never fail who, living in the domestic state, fears vice (in the acquisition of property) and shares his food (with others).",
+        "story_title_ta": "இல்வாழ்க்கை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Domestic Life — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இல்வாழ்க்கை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 44 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'பொருள் தேடும்போது பாவத்திற்குப் பயந்து தேடிய பொருளை உறவோடு பகிர்ந்து உண்ணும் இல்வாழ்பவனின் பரம்பரை ஒருகாலும் அழிவதில்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Domestic Life'. Grandpa shared Kural 44 and explained in simple words: His descendants shall never fail who, living in the domestic state, fears vice (in the acquisition of property) and shares his food (with others). The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பழிக்கு அஞ்சாமல் சேர்த்த பொருள் கணக்கின்றி இருப்பினும் அதைவிட, பழிக்கு அஞ்சிச் சேர்த்த பொருளைப் பகுத்து உண்ணும் பண்பிலேதான் வாழ்க்கையின் ஒழுக்கமே இருக்கிறது.",
+        "moral_en": "Moral: Who shares his meal with other, while all guilt he shuns, His virtuous line unbroken though the ages runs.",
+        "game_blank_word_ta": "உடைத்தாயின்",
+        "game_options_ta": [
+          "உடைத்தாயின்",
+          "இல்வாழ்வான்",
+          "என்பான்",
+          "இயல்புடைய"
+        ],
+        "game_options_en": [
+          "Sin he shuns and food he shares His home is bright and brighter fares",
+          "The ideal householder is he Who aids the natural orders there",
+          "His help the monk and retired share, And celibate students are his care",
+          "By dutiful householder's aid God, manes, kin, self and guests are served"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இல்வாழ்க்கை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 44, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொருள் தேடும்போது பாவத்திற்குப் பயந்து தேடிய பொருளை உறவோடு பகிர்ந்து உண்ணும் இல்வாழ்பவனின் பரம்பரை ஒருகாலும் அழிவதில்லை. கலைஞர் உரை கூறுவது: பழிக்கு அஞ்சாமல் சேர்த்த பொருள் கணக்கின்றி இருப்பினும் அதைவிட, பழிக்கு அஞ்சிச் சேர்த்த பொருளைப் பகுத்து உண்ணும் பண்பிலேதான் வாழ்க்கையின் ஒழுக்கமே இருக்கிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Domestic Life (Domestic Virtue), Kural 44 speaks directly to teens navigating studies, friendships, leadership, and digital choices: His descendants shall never fail who, living in the domestic state, fears vice (in the acquisition of property) and shares his food (with others). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இல்வாழ்க்கை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Domestic Life' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இல்வாழ்க்கை' அதிகாரத்தில் வரும் திருக்குறள் 44 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 44 from Chapter 'Domestic Life'?",
+        "quiz_options_ta": [
+          "பொருள் சேர்க்கும் பொது பழிக்கு அஞ்சிச் சேர்த்து, செலவு செய்யும் போது பகுந்து உண்பதை மேற்க்கொண்டால், அவ்வாழ்கையின் ஒழுங்கு எப்போதும் குறைவதில்லை.",
+          "விருந்தினரை ஓம்பி அந்த வேள்வியில் ஈடுபடாதவர் பொருள்களை வருந்திக்காத்துப் (பின்பு இழந்து) பற்றுக்கொடு இழந்தோமே என்று இரங்குவர்",
+          "ஒழுக்கமே எல்லார்க்கும் மேன்மையைத் தருவதாக இருப்பதால், அந்த ஒழுக்கமே உயிரை விடச் சிறந்ததாகப் போற்றப்படும்.",
+          "ஐம்புலன்களையும் வென்ற குற்றமில்லாத அறிவை உடையவர், யாம் வறுமை அடைந்தோம் என்று எண்ணியும் பிறர் பொருளை விரும்பார்‌."
+        ],
+        "quiz_options_en": [
+          "Sin he shuns and food he shares His home is bright and brighter fares",
+          "Who loathe guest-service one day cry: \\\"We toil and store; but life is dry\\\"",
+          "Decorum does one dignity More than life guard its purity",
+          "The truth-knowers of sense-control Though in want covet not at all"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இல்வாழ்க்கை) பகுதியில் குறள் 44 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருள் சேர்க்கும் பொது பழிக்கு அஞ்சிச் சேர்த்து, செலவு செய்யும் போது பகுந்து உண்பதை மேற்க்கொண்டால், அவ்வாழ்கையின் ஒழுங்கு எப்போதும் குறைவதில்லை. பரிமேலழகர் உரை நுட்பம்: பழி அஞ்சிப் பாத்து ஊண் வாழ்க்கை உடைத்தாயின் - பொருள் செய்யுங்கால் பாவத்தை அஞ்சி ஈட்டி, அப்பொருளை இயல்பு உடைய மூவர் முதலாயினார்க்கும் தென் புலத்தார் முதலிய நால்வர்க்கும் பகுத்துத் தான் உண்டலை ஒருவன் இல்வாழ்க்கை உடைத்தாயின்; வழி எஞ்ஞான்றும் எஞ்சல் இல் - அவன...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 5: 'Domestic Life'), Kural 44 distills a foundational ethical insight: \"Who shares his meal with other, while all guilt he shuns, His virtuous line unbroken though the ages runs\" Philosophically, His descendants shall never fail who, living in the domestic state, fears vice (in the acquisition of property) and shares his food (with others).",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "discipline",
+        "ethics",
+        "courage"
+      ]
+    },
+    {
+      "kural_number": 45,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: இல்வாழ்க்கையின் அன்பும் அறமும் உடையதாக விளங்குமானால், அந்த வாழக்கையின் பண்பும் பயனும் அதுவே ஆகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: If the married life possess love and virtue, these will be both its duty and reward.",
+        "story_title_ta": "இல்வாழ்க்கை — இனியா கற்ற பாடம்",
+        "story_title_en": "Domestic Life — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இல்வாழ்க்கை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 45 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மனைவி பிள்ளைகளிடத்தில் அன்பும், தேடிய பொருளை நட்பு சுற்றங்களுடன் பகிர்ந்து கொள்ளும் அறமும் இருந்தால் இல்வாழ்க்கையின் பண்பும் அதுவே; பயனும் அதுவே.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Domestic Life'. Grandpa shared Kural 45 and explained in simple words: If the married life possess love and virtue, these will be both its duty and reward. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: இல்வாழ்க்கை பண்புடையதாகவும் பயனுடையதாகவும் விளங்குவதற்கு அன்பான உள்ளமும் அதையொட்டிய நல்ல செயல்களும் தேவை.",
+        "moral_en": "Moral: If love and virtue in the household reign, This is of life the perfect grace and gain.",
+        "game_blank_word_ta": "இல்வாழ்க்கை",
+        "game_options_ta": [
+          "இல்வாழ்வான்",
+          "இல்வாழ்க்கை",
+          "என்பான்",
+          "இயல்புடைய"
+        ],
+        "game_options_en": [
+          "The ideal householder is he Who aids the natural orders there",
+          "In grace and gain the home excels, Where love with virtue sweetly dwells",
+          "His help the monk and retired share, And celibate students are his care",
+          "By dutiful householder's aid God, manes, kin, self and guests are served"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இல்வாழ்க்கை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 45, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனைவி பிள்ளைகளிடத்தில் அன்பும், தேடிய பொருளை நட்பு சுற்றங்களுடன் பகிர்ந்து கொள்ளும் அறமும் இருந்தால் இல்வாழ்க்கையின் பண்பும் அதுவே; பயனும் அதுவே. கலைஞர் உரை கூறுவது: இல்வாழ்க்கை பண்புடையதாகவும் பயனுடையதாகவும் விளங்குவதற்கு அன்பான உள்ளமும் அதையொட்டிய நல்ல செயல்களும் தேவை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Domestic Life (Domestic Virtue), Kural 45 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If the married life possess love and virtue, these will be both its duty and reward. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இல்வாழ்க்கை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Domestic Life' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இல்வாழ்க்கை' அதிகாரத்தில் வரும் திருக்குறள் 45 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 45 from Chapter 'Domestic Life'?",
+        "quiz_options_ta": [
+          "செல்வநிலையில் உள்ள வறுமை என்பது விருந்தோம்புதலைப் போற்றாத அறியாமையாகும்: அஃது அறிவிலிகளிடம் உள்ளதாகும்.",
+          "இல்வாழ்க்கையின் அன்பும் அறமும் உடையதாக விளங்குமானால், அந்த வாழக்கையின் பண்பும் பயனும் அதுவே ஆகும்.",
+          "ஒழுக்கத்தை வருந்தியும் போற்றிக் காக்க வேண்டும்; பலவற்றையும் ஆராய்ந்து போற்றித் தெளிந்தாலும், அந்த ஒழுக்கமே வாழ்க்கையில் துணையாக விளங்கும்.",
+          "யாரிடத்திலும் பொருளைக் கவர விரும்பிப் பொருந்தாதவற்றைச் செய்தால், நுட்பமானதாய் விரிவுடையதாய் வளர்ந்த அறிவால் பயன் என்ன?"
+        ],
+        "quiz_options_en": [
+          "The man of wealth is poor indeed Whose folly fails the guest to feed",
+          "In grace and gain the home excels, Where love with virtue sweetly dwells",
+          "Virtues of conduct all excel; The soul aid should be guarded well",
+          "What is one's subtle wisdom worth If it deals ill with all on earth"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இல்வாழ்க்கை) பகுதியில் குறள் 45 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இல்வாழ்க்கையின் அன்பும் அறமும் உடையதாக விளங்குமானால், அந்த வாழக்கையின் பண்பும் பயனும் அதுவே ஆகும். பரிமேலழகர் உரை நுட்பம்: இல்வாழ்க்கை அன்பும் அறனும் உடைத்தாயின் - ஒருவன் இல்வாழ்க்கை தன் துணைவிமேல் செய்யத்தகும் அன்பினையும், பிறர்க்குப் பகுத்து உண்டல் ஆகிய அறத்தினையும் உடைத்தாயின்; அது பண்பும் பயனும் - அவ்வுடைமை அதற்குப் பண்பும் பயனும் ஆகும். (நிரல்நிறை. இல்லாட்கும் கணவற்கும...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 5: 'Domestic Life'), Kural 45 distills a foundational ethical insight: \"If love and virtue in the household reign, This is of life the perfect grace and gain\" Philosophically, If the married life possess love and virtue, these will be both its duty and reward.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "love",
+        "harmony",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 46,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவன் அறநெறியில் இல்வாழ்க்கையைச் செலுத்தி வாழ்வானானால், அத்தகையவன் வேறு நெறியில் சென்று பெறத்தக்கது என்ன?",
+        "simple_meaning_en": "Dear child, remember this golden lesson: What will he who lives virtuously in the domestic state gain by going into the other, (ascetic) state ?",
+        "story_title_ta": "இல்வாழ்க்கை — முகில் கற்ற பாடம்",
+        "story_title_en": "Domestic Life — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இல்வாழ்க்கை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 46 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மனைவியோடு கூடிய வாழ்க்கையை அதற்குரிய இயல்புகளோடு அறவழிகளில் நடத்தினால் இல்லறத்திற்கு மாறான பிற வழிகளில் போய்ப் பெறும் பயன்தான் என்ன?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Domestic Life'. Grandpa shared Kural 46 and explained in simple words: What will he who lives virtuously in the domestic state gain by going into the other, (ascetic) state ? The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அறநெறியில் இல்வாழ்க்கையை அமைத்துக் கொண்டவர்கள் பெற்றிடும் பயனை, வேறு நெறியில் சென்று பெற்றிட இயலுமோ? இயலாது.",
+        "moral_en": "Moral: If man in active household life a virtuous soul retain, What fruit from other modes of virtue can he gain.",
+        "game_blank_word_ta": "போஒய்ப்",
+        "game_options_ta": [
+          "இல்வாழ்வான்",
+          "என்பான்",
+          "போஒய்ப்",
+          "இயல்புடைய"
+        ],
+        "game_options_en": [
+          "The ideal householder is he Who aids the natural orders there",
+          "His help the monk and retired share, And celibate students are his care",
+          "Who turns from righteous family To be a monk, what profits he?",
+          "By dutiful householder's aid God, manes, kin, self and guests are served"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இல்வாழ்க்கை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 46, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனைவியோடு கூடிய வாழ்க்கையை அதற்குரிய இயல்புகளோடு அறவழிகளில் நடத்தினால் இல்லறத்திற்கு மாறான பிற வழிகளில் போய்ப் பெறும் பயன்தான் என்ன? கலைஞர் உரை கூறுவது: அறநெறியில் இல்வாழ்க்கையை அமைத்துக் கொண்டவர்கள் பெற்றிடும் பயனை, வேறு நெறியில் சென்று பெற்றிட இயலுமோ? இயலாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Domestic Life (Domestic Virtue), Kural 46 speaks directly to teens navigating studies, friendships, leadership, and digital choices: What will he who lives virtuously in the domestic state gain by going into the other, (ascetic) state ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இல்வாழ்க்கை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Domestic Life' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இல்வாழ்க்கை' அதிகாரத்தில் வரும் திருக்குறள் 46 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 46 from Chapter 'Domestic Life'?",
+        "quiz_options_ta": [
+          "அனிச்சப்பூ மோந்தவுடன் வாடிவிடும்: அதுபோல் முகம் மலராமல் வேறு பட்டு நோக்கியவுடன் விருந்தினர் வாடி நிற்பார்.",
+          "ஒழுக்கம் உடையவராக வாழ்வதே உயர்ந்த குடிப்பிறப்பின் தன்மையாகும்; ஒழுக்கம் தவறுதல் இழிந்த குடிப்பிறப்பின் தன்மையாகி விடும்.",
+          "ஒருவன் அறநெறியில் இல்வாழ்க்கையைச் செலுத்தி வாழ்வானானால், அத்தகையவன் வேறு நெறியில் சென்று பெறத்தக்கது என்ன?",
+          "அருளை விரும்பி அறநெறியில் நின்றவன், பிறனுடைய பொருளை விரும்பிப் பொல்லாத குற்றங்களை எண்ணினால் கெடுவான்."
+        ],
+        "quiz_options_en": [
+          "Anicham smelt withers: like that A wry-faced look withers the guest",
+          "Good conduct shows good family Low manners mark anomaly",
+          "Who turns from righteous family To be a monk, what profits he?",
+          "Who seeks for grace on righteous path Suffers by evil covetous wealth"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இல்வாழ்க்கை) பகுதியில் குறள் 46 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் அறநெறியில் இல்வாழ்க்கையைச் செலுத்தி வாழ்வானானால், அத்தகையவன் வேறு நெறியில் சென்று பெறத்தக்கது என்ன? பரிமேலழகர் உரை நுட்பம்: இல்வாழ்க்கை அறத்தாற்றின் ஆற்றின் - ஒருவன் இல் வாழ்க்கையை அறத்தின் வழியே செலுத்துவன் ஆயின்; புறத்தாற்றின் போஒய்ப் பெறுவது எவன் - அவன் அதற்குப் புறம் ஆகிய நெறியில் போய்ப் பெறும் பயன் யாது? ('அறத்தாறு' என்பது பழி அஞ்சிப் பகுத்து உண்டலும், அன்பு உடைமையும் என...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 5: 'Domestic Life'), Kural 46 distills a foundational ethical insight: \"If man in active household life a virtuous soul retain, What fruit from other modes of virtue can he gain\" Philosophically, What will he who lives virtuously in the domestic state gain by going into the other, (ascetic) state ?",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "ethics",
+        "discipline",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 47,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அறத்தின் இயல்பொடு இல்வாழ்கை வாழ்கிறவன்- வாழ முயல்கிறவன் பல திறத்தாரிலும் மேம்பட்டு விளங்குகிறவன் ஆவான்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Among all those who labour (for future happiness) he is greatest who lives well in the household state.",
+        "story_title_ta": "இல்வாழ்க்கை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Domestic Life — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இல்வாழ்க்கை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 47 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'கடவுளை அறியவும், அடையவும் முயல்பவருள் மனைவியோடு கூடிய வாழ்க்கையை அதற்குரிய இயல்புகளோடு வாழ்பவனே முதன்மையானவன்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Domestic Life'. Grandpa shared Kural 47 and explained in simple words: Among all those who labour (for future happiness) he is greatest who lives well in the household state. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நல்வாழ்வுக்கான முயற்சிகளை மேற்கொள்வோரில் தலையானவராகத் திகழ்பவர், இல்வாழ்வின் இலக்கணமுணர்ந்து அதற்கேற்ப வாழ்பவர்தான்.",
+        "moral_en": "Moral: In nature's way who spends his calm domestic days,'Mid all that strive for virtue's crown hath foremost place.",
+        "game_blank_word_ta": "எல்லாம்",
+        "game_options_ta": [
+          "இல்வாழ்வான்",
+          "என்பான்",
+          "இயல்புடைய",
+          "எல்லாம்"
+        ],
+        "game_options_en": [
+          "The ideal householder is he Who aids the natural orders there",
+          "His help the monk and retired share, And celibate students are his care",
+          "By dutiful householder's aid God, manes, kin, self and guests are served",
+          "Of all who strive for bliss, the great Is he who leads the married state"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இல்வாழ்க்கை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 47, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கடவுளை அறியவும், அடையவும் முயல்பவருள் மனைவியோடு கூடிய வாழ்க்கையை அதற்குரிய இயல்புகளோடு வாழ்பவனே முதன்மையானவன். கலைஞர் உரை கூறுவது: நல்வாழ்வுக்கான முயற்சிகளை மேற்கொள்வோரில் தலையானவராகத் திகழ்பவர், இல்வாழ்வின் இலக்கணமுணர்ந்து அதற்கேற்ப வாழ்பவர்தான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Domestic Life (Domestic Virtue), Kural 47 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Among all those who labour (for future happiness) he is greatest who lives well in the household state. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இல்வாழ்க்கை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Domestic Life' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இல்வாழ்க்கை' அதிகாரத்தில் வரும் திருக்குறள் 47 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 47 from Chapter 'Domestic Life'?",
+        "quiz_options_ta": [
+          "அன்பு கலந்து வஞ்சம் அற்றவைகளாகிய சொற்கள், மெய்ப்பொருள் கண்டவர்களின் வாய்ச்சொற்கள் இன்சொற்களாகும்.",
+          "கற்ற மறைப் பொருளை மறந்தாலும் மீண்டும் அதனை ஓதிக் கற்றுக் கொள்ள முடியும்; ஆனால் மறை ஓதுவனுடைய குடிப்பிறப்பு, ஒழுக்கம் குன்றினால் கெடு்ம்.",
+          "பிறர் பொருளைக் கவர விரும்புவதால் ஆகும் ஆக்கத்தை விரும்பாதிருக்க வேண்டும்; அது பயன் விளைவிக்கும்போது அப்பயன் நன்மையாவது அரிதாகும்.",
+          "அறத்தின் இயல்பொடு இல்வாழ்கை வாழ்கிறவன்- வாழ முயல்கிறவன் பல திறத்தாரிலும் மேம்பட்டு விளங்குகிறவன் ஆவான்."
+        ],
+        "quiz_options_en": [
+          "The words of Seers are lovely sweet Merciful and free from deceit",
+          "Readers recall forgotten lore, But conduct lost returns no more",
+          "Shun the fruit of covetousness All its yield is inglorious",
+          "Of all who strive for bliss, the great Is he who leads the married state"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இல்வாழ்க்கை) பகுதியில் குறள் 47 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறத்தின் இயல்பொடு இல்வாழ்கை வாழ்கிறவன்- வாழ முயல்கிறவன் பல திறத்தாரிலும் மேம்பட்டு விளங்குகிறவன் ஆவான். பரிமேலழகர் உரை நுட்பம்: இல் வாழ்க்கை இயல்பினான் வாழ்பவன் என்பான் - இல்வாழ்க்கைக்கண் நின்று அதற்கு உரிய இயல்போடு கூடி வாழ்பவன் என்று சொல்லப்படுவான்; முயல்வாருள் எல்லாம் தலை - புலன்களை விட முயல்வார் எல்லாருள்ளும் மிக்கவன். (முற்றத் துறந்தவர் விட்டமையின், 'முயல்வார்' என்றது மூன்றாம...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 5: 'Domestic Life'), Kural 47 distills a foundational ethical insight: \"In nature's way who spends his calm domestic days,'Mid all that strive for virtue's crown hath foremost place\" Philosophically, Among all those who labour (for future happiness) he is greatest who lives well in the household state.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "perseverance",
+        "leadership",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 48,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: மற்றவரை அறநெறியில் ஒழுகச்செய்து தானும்அறம் தவறாத இல்வாழ்க்கை , தவம் செய்வாரைவிட மிகச்சிறந்த வல்லமை உடைய வாழ்க்கையாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The householder who, not swerving from virtue, helps the ascetic in his way, endures more than those who endure penance.",
+        "story_title_ta": "இல்வாழ்க்கை — கவின் கற்ற பாடம்",
+        "story_title_en": "Domestic Life — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இல்வாழ்க்கை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 48 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மற்றவர்களை அவர்களின் வழியில் வாழச்செய்து, தானும் அறத்திலிருந்து விலகாமல், மனைவியுடன் வாழும் வாழ்க்கை, துறவறத்தார் காட்டும் பொறுமையிலும் வலிமை மிக்கது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Domestic Life'. Grandpa shared Kural 48 and explained in simple words: The householder who, not swerving from virtue, helps the ascetic in his way, endures more than those who endure penance. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தானும் அறவழியில் நடந்து, பிறரையும் அவ்வழியில் நடக்கச் செய்திடுவோரின் இல்வாழ்க்கை, துறவிகள் கடைப்பிடிக்கும் நோன்பைவிடப் பெருமையுடையதாகும்.",
+        "moral_en": "Moral: Others it sets upon their way, itself from virtue ne'er declines; Than stern ascetics' pains such life domestic brighter shines.",
+        "game_blank_word_ta": "உடைத்து",
+        "game_options_ta": [
+          "உடைத்து",
+          "இல்வாழ்வான்",
+          "என்பான்",
+          "இயல்புடைய"
+        ],
+        "game_options_en": [
+          "Straight in virtue, right in living Make men brighter than monks praying",
+          "The ideal householder is he Who aids the natural orders there",
+          "His help the monk and retired share, And celibate students are his care",
+          "By dutiful householder's aid God, manes, kin, self and guests are served"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இல்வாழ்க்கை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 48, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மற்றவர்களை அவர்களின் வழியில் வாழச்செய்து, தானும் அறத்திலிருந்து விலகாமல், மனைவியுடன் வாழும் வாழ்க்கை, துறவறத்தார் காட்டும் பொறுமையிலும் வலிமை மிக்கது. கலைஞர் உரை கூறுவது: தானும் அறவழியில் நடந்து, பிறரையும் அவ்வழியில் நடக்கச் செய்திடுவோரின் இல்வாழ்க்கை, துறவிகள் கடைப்பிடிக்கும் நோன்பைவிடப் பெருமையுடையதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Domestic Life (Domestic Virtue), Kural 48 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The householder who, not swerving from virtue, helps the ascetic in his way, endures more than those who endure penance. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இல்வாழ்க்கை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Domestic Life' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இல்வாழ்க்கை' அதிகாரத்தில் வரும் திருக்குறள் 48 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 48 from Chapter 'Domestic Life'?",
+        "quiz_options_ta": [
+          "மற்றவரை அறநெறியில் ஒழுகச்செய்து தானும்அறம் தவறாத இல்வாழ்க்கை , தவம் செய்வாரைவிட மிகச்சிறந்த வல்லமை உடைய வாழ்க்கையாகும்.",
+          "முகம் மலர்ந்து இன்சொல் உடையவனாக இருக்கப்பெற்றால், மனம் மகிழ்ந்து பொருள் கொடுக்கும் ஈகையைவிட நல்லதாகும்.",
+          "பொறாமை உடையவனிடத்தில் ஆக்கம் இல்லாதவாறு போல, ஒழுக்கம் இல்லாதவனுடைய வாழ்க்கையில் உயர்வு இல்லையாகும்.",
+          "ஒருவனுடைய செல்வத்திற்குக் குறைவு நேராதிருக்க வழி எது என்றால், அவன் பிறனுடைய கைப்பொருளை விரும்பாதிருத்தலாகும்."
+        ],
+        "quiz_options_en": [
+          "Straight in virtue, right in living Make men brighter than monks praying",
+          "Sweet words from smiling lips dispense More joys than heart's beneficence",
+          "The envious prosper but ill The ill-behaved sinks lower still",
+          "The mark of lasting wealth is shown By not coveting others' own"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இல்வாழ்க்கை) பகுதியில் குறள் 48 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மற்றவரை அறநெறியில் ஒழுகச்செய்து தானும்அறம் தவறாத இல்வாழ்க்கை , தவம் செய்வாரைவிட மிகச்சிறந்த வல்லமை உடைய வாழ்க்கையாகும். பரிமேலழகர் உரை நுட்பம்: ஆற்றின் ஒழுக்கி அறன் இழுக்கா இல்வாழ்க்கை - தவஞ்செய்வாரையும் தத்தம் நெறியின்கண் ஒழுகப் பண்ணித் தானும் தன் அறத்தின் தவறாத இல்வாழ்க்கை; நோற்பாரின் நோன்மை உடைத்து - அத் தவஞ்செய்வார் நிலையினும் பொறையுடைத்து. (பசி முதலிய இடையூறு நீக்கலின் 'ஆற்றின் ஒழுக்கி' என்றார...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 5: 'Domestic Life'), Kural 48 distills a foundational ethical insight: \"Others it sets upon their way, itself from virtue ne'er declines; Than stern ascetics' pains such life domestic brighter shines\" Philosophically, The householder who, not swerving from virtue, helps the ascetic in his way, endures more than those who endure penance.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "ethics",
+        "discipline",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 49,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அறம் என்று சிறப்பித்து சொல்லப்பட்டது இல்வாழ்க்கையே ஆகும். அதுவும் மற்றவன் பழிக்கும் குற்றம் இல்லாமல் விளங்கினால் மேலும் நன்மையாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The marriage state is truly called virtue The other state is also good, if others do not reproach it.",
+        "story_title_ta": "இல்வாழ்க்கை — நிலா கற்ற பாடம்",
+        "story_title_en": "Domestic Life — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இல்வாழ்க்கை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 49 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அறம் என்று சிறப்பிக்கப்பட்டது, மனைவியுடன் வாழும் வாழ்க்கையே; துறவற வாழ்க்கையும், பிறரால் பழிக்கப்படாமல் இருக்குமானால் நல்லது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Domestic Life'. Grandpa shared Kural 49 and explained in simple words: The marriage state is truly called virtue The other state is also good, if others do not reproach it. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பழிப்புக்கு இடமில்லாத இல்வாழ்க்கை இல்லறம் எனப் போற்றப்படும்.",
+        "moral_en": "Moral: The life domestic rightly bears true virtue's name; That other too, if blameless found, due praise may claim.",
+        "game_blank_word_ta": "அறனெனப்",
+        "game_options_ta": [
+          "இல்வாழ்வான்",
+          "அறனெனப்",
+          "என்பான்",
+          "இயல்புடைய"
+        ],
+        "game_options_en": [
+          "The ideal householder is he Who aids the natural orders there",
+          "Home-life and virtue, are the same; Which spotless monkhood too can claim",
+          "His help the monk and retired share, And celibate students are his care",
+          "By dutiful householder's aid God, manes, kin, self and guests are served"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இல்வாழ்க்கை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 49, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறம் என்று சிறப்பிக்கப்பட்டது, மனைவியுடன் வாழும் வாழ்க்கையே; துறவற வாழ்க்கையும், பிறரால் பழிக்கப்படாமல் இருக்குமானால் நல்லது. கலைஞர் உரை கூறுவது: பழிப்புக்கு இடமில்லாத இல்வாழ்க்கை இல்லறம் எனப் போற்றப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Domestic Life (Domestic Virtue), Kural 49 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The marriage state is truly called virtue The other state is also good, if others do not reproach it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இல்வாழ்க்கை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Domestic Life' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இல்வாழ்க்கை' அதிகாரத்தில் வரும் திருக்குறள் 49 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 49 from Chapter 'Domestic Life'?",
+        "quiz_options_ta": [
+          "முகத்தால் விரும்பி- இனிமையுடன் நோக்கி- உள்ளம் கலந்து இன்சொற்களைக் கூறும் தன்மையில் உள்ளதே அறமாகும்.",
+          "அறம் என்று சிறப்பித்து சொல்லப்பட்டது இல்வாழ்க்கையே ஆகும். அதுவும் மற்றவன் பழிக்கும் குற்றம் இல்லாமல் விளங்கினால் மேலும் நன்மையாகும்.",
+          "ஒழுக்கம் தவறுதலால் குற்றம் உண்டாவதை அறிந்து, மனவலிமை உடைய சான்றோர் ஒழுக்கத்தில் தவறாமல் காத்துக் கொள்வர்.",
+          "அறம் இஃது என்று அறிந்து பிறர் பொருளை விரும்பாத அறிவுடையாரைத் திருமகள் தான் சேரும் திறன் அறிந்து அதற்கு ஏற்றவாறு சேர்வாள்."
+        ],
+        "quiz_options_en": [
+          "Calm face, sweet look, kind words from heart Such is the gracious virtue's part",
+          "Home-life and virtue, are the same; Which spotless monkhood too can claim",
+          "The firm from virtue falter not They know the ills of evil thought",
+          "Fortune seeks the just and wise Who are free from coveting vice"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இல்வாழ்க்கை) பகுதியில் குறள் 49 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறம் என்று சிறப்பித்து சொல்லப்பட்டது இல்வாழ்க்கையே ஆகும். அதுவும் மற்றவன் பழிக்கும் குற்றம் இல்லாமல் விளங்கினால் மேலும் நன்மையாகும். பரிமேலழகர் உரை நுட்பம்: அறன் எனப்பட்டது இல்வாழ்க்கை - இருவகை அறத்தினும் நூல்களான் அறன் என்று சிறப்பித்துச் சொல்லப்பட்டது இல்வாழ்க்கையே; அஃதும் பிறன் பழிப்பது இல்லாயின் நன்று - ஏனைத் துறவறமோ எனின், அதுவும் பிறனால் பழிக்கப்படுவது இல்லையாயின், அவ்வாழ்க்கையோடு ஒரு தன்மைத்தாக நன்று...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 5: 'Domestic Life'), Kural 49 distills a foundational ethical insight: \"The life domestic rightly bears true virtue's name; That other too, if blameless found, due praise may claim\" Philosophically, The marriage state is truly called virtue The other state is also good, if others do not reproach it.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "ethics",
+        "speech",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 50,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: உலகத்தில் வாழவேண்டிய அறநெறியில் நின்று வாழ்கிறவன், வானுலகத்தில் உள்ள தெய்வ முறையில் வைத்து மதிக்கப்படுவான்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: He who on earth has lived in the conjugal state as he should live, will be placed among the Gods who dwell in heaven.",
+        "story_title_ta": "இல்வாழ்க்கை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Domestic Life — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'இல்வாழ்க்கை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 50 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மனைவியுடன் வாழும் வாழ்க்கையைச் சிறப்பாக வாழ்பவன், பூமியில் வாழ்ந்தாலும், வானத்துள் வாழும் தேவருள் ஒருவனாகவே மதிக்கப்படுவான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Domestic Life'. Grandpa shared Kural 50 and explained in simple words: He who on earth has lived in the conjugal state as he should live, will be placed among the Gods who dwell in heaven. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தெய்வத்துக்கென எத்தனையோ அருங்குணங்கள் கூறப்படுகின்றன உலகில் வாழ வேண்டிய அறநெறியில் நின்று வாழ்கிறவன் வானில் வாழ்வதாகச் சொல்லப்படும் தெய்வத்துக்கு இணையாக வைத்து மதிக்கப்படுவான்.",
+        "moral_en": "Moral: Who shares domestic life, by household virtues graced, Shall, mid the Gods, in heaven who dwell, be placed.",
+        "game_blank_word_ta": "வாழ்வாங்கு",
+        "game_options_ta": [
+          "இல்வாழ்வான்",
+          "என்பான்",
+          "வாழ்வாங்கு",
+          "இயல்புடைய"
+        ],
+        "game_options_en": [
+          "The ideal householder is he Who aids the natural orders there",
+          "His help the monk and retired share, And celibate students are his care",
+          "He is a man of divine worth Who lives in ideal home on earth",
+          "By dutiful householder's aid God, manes, kin, self and guests are served"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இல்வாழ்க்கை (இல்லறவியல்) பிரிவில் அமைந்த குறள் 50, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனைவியுடன் வாழும் வாழ்க்கையைச் சிறப்பாக வாழ்பவன், பூமியில் வாழ்ந்தாலும், வானத்துள் வாழும் தேவருள் ஒருவனாகவே மதிக்கப்படுவான். கலைஞர் உரை கூறுவது: தெய்வத்துக்கென எத்தனையோ அருங்குணங்கள் கூறப்படுகின்றன உலகில் வாழ வேண்டிய அறநெறியில் நின்று வாழ்கிறவன் வானில் வாழ்வதாகச் சொல்லப்படும் தெய்வத்துக்கு இணையாக வைத்து மதிக்கப்படுவான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Domestic Life (Domestic Virtue), Kural 50 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who on earth has lived in the conjugal state as he should live, will be placed among the Gods who dwell in heaven. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'இல்வாழ்க்கை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Domestic Life' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'இல்வாழ்க்கை' அதிகாரத்தில் வரும் திருக்குறள் 50 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 50 from Chapter 'Domestic Life'?",
+        "quiz_options_ta": [
+          "யாரிடத்திலும் இன்புறத்தக்க இன்சொல் வழங்குவோர்க்குத் துன்பத்தை மிகுதிபடுத்தும் வறுமை என்பது இல்லையாகும்.",
+          "ஒழுக்கத்தால் எவரும் மேம்பாட்டை அடைவர்; ஒழுக்கத்திலிருந்து தவறுதலால் அடையத் தகாத பெரும் பழியை அடைவர்.",
+          "உலகத்தில் வாழவேண்டிய அறநெறியில் நின்று வாழ்கிறவன், வானுலகத்தில் உள்ள தெய்வ முறையில் வைத்து மதிக்கப்படுவான்.",
+          "வி‌ளைவை எண்ணாமல் பிறர் பொருளை விரும்பினால் அஃது அழிவைத் தரும்; அப்பொருளை விரும்பாமல் வாழும் பெருமை வெற்றியைத் தரும்."
+        ],
+        "quiz_options_en": [
+          "Whose loving words delight each one The woe of want from them is gone",
+          "Conduct good ennobles man, Bad conduct entails disgrace mean",
+          "He is a man of divine worth Who lives in ideal home on earth",
+          "Desireless, greatness conquers all; Coveting misers ruined fall"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (இல்வாழ்க்கை) பகுதியில் குறள் 50 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உலகத்தில் வாழவேண்டிய அறநெறியில் நின்று வாழ்கிறவன், வானுலகத்தில் உள்ள தெய்வ முறையில் வைத்து மதிக்கப்படுவான். பரிமேலழகர் உரை நுட்பம்: வாழ்வாங்கு வையத்துள் வாழ்பவன் - இல்லறத்தோடு கூடி வாழும் இயல்பினால் வையத்தின்கண் வாழ்பவன்; வான் உறையும் தெய்வத்துள் வைக்கப்படும்- வையத்தானே எனினும் வானின்கண் உறையும் தேவருள் ஒருவனாக வைத்து நன்கு மதிக்கப்படும். பின் தேவனாய் அவ்வறப்பயன் நுகர்தல் ஒருதலையாகலின...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 5: 'Domestic Life'), Kural 50 distills a foundational ethical insight: \"Who shares domestic life, by household virtues graced, Shall, mid the Gods, in heaven who dwell, be placed\" Philosophically, He who on earth has lived in the conjugal state as he should live, will be placed among the Gods who dwell in heaven.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "ethics",
+        "kindness",
+        "discipline"
+      ]
+    }
+  ]
+}

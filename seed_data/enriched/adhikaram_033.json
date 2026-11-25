@@ -1,0 +1,585 @@
+{
+  "adhikaram_id": 33,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.744550711+00:00",
+  "kurals": [
+    {
+      "kural_number": 321,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அறமாகிய செயல் எது என்றால் ஒரு உயிரையும் கொல்லாமையாகும், கொல்லுதல் அறமல்லாத செயல்கள் எல்லாவற்றையும் விளைக்கும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Never to destroy life is the sum of all virtuous conduct The destruction of life leads to every evil.",
+        "story_title_ta": "கொல்லாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Not killing — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கொல்லாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 321 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'அறச்செயல் எது என்றால், பிற உயிர்களைக் கொலை செய்யாது இருப்பதே; கொல்வது அனைத்துப் பாவங்களையும் தரும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Not killing'. Grandpa shared Kural 321 and explained in simple words: Never to destroy life is the sum of all virtuous conduct The destruction of life leads to every evil. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: எந்த உயிரையும் கொல்லாதிருப்பதே அறச்செயலாகும் கொலை செய்தல் தீயவினைகள் அனைத்தையும் விளைவிக்கும்.",
+        "moral_en": "Moral: What is the work of virtue? 'Not to kill'; For 'killing' leads to every work of ill.",
+        "game_blank_word_ta": "தரும்",
+        "game_options_ta": [
+          "பகுத்துண்டு",
+          "தரும்",
+          "பல்லுயிர்",
+          "ஓம்புதல்"
+        ],
+        "game_options_en": [
+          "Share the food and serve all lives This is the law of all the laws",
+          "What is Virtue? 'Tis not to kill For killing causes every ill",
+          "Not to kill is unique good The next, not to utter falsehood",
+          "What way is good? That we can say The way away from heat to slay"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொல்லாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 321, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறச்செயல் எது என்றால், பிற உயிர்களைக் கொலை செய்யாது இருப்பதே; கொல்வது அனைத்துப் பாவங்களையும் தரும். கலைஞர் உரை கூறுவது: எந்த உயிரையும் கொல்லாதிருப்பதே அறச்செயலாகும் கொலை செய்தல் தீயவினைகள் அனைத்தையும் விளைவிக்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not killing (Ascetic Virtue), Kural 321 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Never to destroy life is the sum of all virtuous conduct The destruction of life leads to every evil. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கொல்லாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not killing' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கொல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 321 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 321 from Chapter 'Not killing'?",
+        "quiz_options_ta": [
+          "பற்றற்றவர் என்றுக் கூறப்படுவோர் அவா அற்றவரே, அவா அறாத மற்றவர் அவ்வளவாகப் பற்று அற்றவர் அல்லர்.",
+          "அறமாகிய செயல் எது என்றால் ஒரு உயிரையும் கொல்லாமையாகும், கொல்லுதல் அறமல்லாத செயல்கள் எல்லாவற்றையும் விளைக்கும்.",
+          "கல்லாதவனிடம் சேர்ந்துள்ள செல்வமானது, கற்றறிந்த நல்லவரிடம் உள்ள வறுமையைவிட மிகத்துன்பம் செய்வதாகும்.",
+          "பெரியோரின் இயல்பு சிற்றினத்தை அஞ்சி ஒதுக்கும், சிறியோரின் இயல்பு அதையே சுற்றமாக எண்ணித் தழுவிக் கொள்ளும்."
+        ],
+        "quiz_options_en": [
+          "The free are those who desire not The rest not free in bonds are caught",
+          "What is Virtue? 'Tis not to kill For killing causes every ill",
+          "Wealth in the hand of fools is worse Than a learned man's empty purse",
+          "The ignoble the noble fear The mean hold them as kinsmen dear"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கொல்லாமை) பகுதியில் குறள் 321 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறமாகிய செயல் எது என்றால் ஒரு உயிரையும் கொல்லாமையாகும், கொல்லுதல் அறமல்லாத செயல்கள் எல்லாவற்றையும் விளைக்கும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது,ஐயறிவு உடையன முதல் ஓர் அறிவுடையன ஈறாய உயிர்களைச் சோர்ந்தும் கொல்லுதலைச் செய்யாமை,இதுமேற்கூறிய அறங்கள் எல்லாவற்றினும் சிறப்புடைத்தாய்க்கூறாத அறங்களையும் அகப்படுத்து நிற்றலின், இறுதிக்கண்வைக்கப்பட்டது.] (அறவினை யாது எனின் கொல்லாமை - அறங்களெல்லாம் ஆகிய...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 33: 'Not killing'), Kural 321 distills a foundational ethical insight: \"What is the work of virtue? 'Not to kill'; For 'killing' leads to every work of ill\" Philosophically, Never to destroy life is the sum of all virtuous conduct The destruction of life leads to every evil.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "ethics",
+        "discipline",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 322,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: கிடைத்ததைப் பகுந்து கொடுத்துத் தானும் உண்டு பல உயிர்களையும் காப்பாற்றுதல் அறநூலார் தொகுத்த அறங்கள் எல்லாவற்றிலும் தலையான அறமாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The chief of all (the virtues) which authors have summed up, is the partaking of food that has been shared with others, and the preservation of the mainfold life of other creatures.",
+        "story_title_ta": "கொல்லாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Not killing — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கொல்லாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 322 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'இருப்பதைப் பகிர்ந்து உண்டு, பல உயிர்களையும் பாதுகாப்பது, நூல் எழுதியவர்கள் தொகுத்த அறங்களுள் எல்லாம் முதன்மையான அறமாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Not killing'. Grandpa shared Kural 322 and explained in simple words: The chief of all (the virtues) which authors have summed up, is the partaking of food that has been shared with others, and the preservation of the mainfold life of other creatures. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: இருப்போர் இல்லாதோர் என்றில்லாமல், கிடைத்ததைப் பகிர்ந்துகொண்டு, எல்லா உயிர்களும் வாழ வேண்டும் என்ற சமநிலைக் கொள்கைக்கு ஈடானது வேறு எதுவுமே இல்லை.",
+        "moral_en": "Moral: Let those that need partake your meal; guard every-thing that lives; This the chief and sum of lore that hoarded wisdom gives.",
+        "game_blank_word_ta": "தொகுத்தவற்றுள்",
+        "game_options_ta": [
+          "அறவினை",
+          "யாதெனின்",
+          "தொகுத்தவற்றுள்",
+          "கொல்லாமை"
+        ],
+        "game_options_en": [
+          "What is Virtue? 'Tis not to kill For killing causes every ill",
+          "Not to kill is unique good The next, not to utter falsehood",
+          "Share the food and serve all lives This is the law of all the laws",
+          "What way is good? That we can say The way away from heat to slay"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொல்லாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 322, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இருப்பதைப் பகிர்ந்து உண்டு, பல உயிர்களையும் பாதுகாப்பது, நூல் எழுதியவர்கள் தொகுத்த அறங்களுள் எல்லாம் முதன்மையான அறமாகும். கலைஞர் உரை கூறுவது: இருப்போர் இல்லாதோர் என்றில்லாமல், கிடைத்ததைப் பகிர்ந்துகொண்டு, எல்லா உயிர்களும் வாழ வேண்டும் என்ற சமநிலைக் கொள்கைக்கு ஈடானது வேறு எதுவுமே இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not killing (Ascetic Virtue), Kural 322 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The chief of all (the virtues) which authors have summed up, is the partaking of food that has been shared with others, and the preservation of the mainfold life of other creatures. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கொல்லாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not killing' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கொல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 322 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 322 from Chapter 'Not killing'?",
+        "quiz_options_ta": [
+          "ஒருவன் அவாவிற்கு அஞ்சி வாழ்வதே அறம், ஏன் எனில் ஒருவனைச் சோர்வு கண்டுகொடுத்து வஞ்சிப்பது அவாவே.",
+          "கல்லாதவர் உயர்ந்த குடியில் பிறந்தவராக இருப்பினும் தாழ்ந்த குடியில் பிறந்திருந்தும் கல்விக் கற்றவரைப் போன்ற பெருமை இல்லாதவரே.",
+          "கிடைத்ததைப் பகுந்து கொடுத்துத் தானும் உண்டு பல உயிர்களையும் காப்பாற்றுதல் அறநூலார் தொகுத்த அறங்கள் எல்லாவற்றிலும் தலையான அறமாகும்.",
+          "சேர்ந்த நிலத்தின் இயல்பால் அந்த நீர் வேறுபட்டு அந் நிலத்தின் தன்மையுடையதாகும், அதுபோல் மக்களுடைய அறிவு இனத்தின் இயல்பினை உடையதாகும்."
+        ],
+        "quiz_options_en": [
+          "Dread desire; Virtue is there To every soul desire is snare!",
+          "Lower are fools of higher birth Than low-born men of learning's worth",
+          "Share the food and serve all lives This is the law of all the laws",
+          "With soil changes water's taste With mates changes the mental state"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கொல்லாமை) பகுதியில் குறள் 322 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கிடைத்ததைப் பகுந்து கொடுத்துத் தானும் உண்டு பல உயிர்களையும் காப்பாற்றுதல் அறநூலார் தொகுத்த அறங்கள் எல்லாவற்றிலும் தலையான அறமாகும். பரிமேலழகர் உரை நுட்பம்: பகுத்து உண்டு பல் உயிர் ஓம்புதல் - உண்பதனைப் பசித்த உயிர்கட்குப் பகுத்துக் கொடுத்து உண்டு ஐவகை உயிர்களையும் ஓம்புதல், நூலோர் தொகுத்தவற்றுள் எல்லாம் தலை -அறநூலை உடையார் துறந்தார்க்குத் தொகுத்த அறங்கள் எல்லாவற்றினும் தலையாய அறம். ('பல்லுயிரும்' என்னும் முற்று...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 33: 'Not killing'), Kural 322 distills a foundational ethical insight: \"Let those that need partake your meal; guard every-thing that lives; This the chief and sum of lore that hoarded wisdom gives\" Philosophically, The chief of all (the virtues) which authors have summed up, is the partaking of food that has been shared with others, and the preservation of the mainfold life of other creatures.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "education",
+        "justice",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 323,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: இணையில்லாத ஓர் அறமாகக் கொல்லாமை நல்லது, அதற்கு அடுத்த நிலையில் கூறத்தக்கதாகப் பொய்யாமை நல்லது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Not to destroy life is an incomparably (great) good next to it in goodness ranks freedom from falsehood.",
+        "story_title_ta": "கொல்லாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Not killing — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கொல்லாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 323 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உயிர்களைக் கொல்லாத செயல், அறங்களுள் எல்லாம் சிறந்த தனி அறமாம். அதற்கு அடுத்துச் சிறந்த அறம் பொய்யாமை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Not killing'. Grandpa shared Kural 323 and explained in simple words: Not to destroy life is an incomparably (great) good next to it in goodness ranks freedom from falsehood. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அறங்களின் வரிசையில் முதலில் கொல்லாமையும் அதற்கடுத்துப் பொய்யாமையும் இடம் பெறுகின்றன.",
+        "moral_en": "Moral: Alone, first of goods things, is 'not to slay'; The second is, no untrue word to say.",
+        "game_blank_word_ta": "நல்லது",
+        "game_options_ta": [
+          "அறவினை",
+          "யாதெனின்",
+          "கொல்லாமை",
+          "நல்லது"
+        ],
+        "game_options_en": [
+          "What is Virtue? 'Tis not to kill For killing causes every ill",
+          "Share the food and serve all lives This is the law of all the laws",
+          "What way is good? That we can say The way away from heat to slay",
+          "Not to kill is unique good The next, not to utter falsehood"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொல்லாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 323, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உயிர்களைக் கொல்லாத செயல், அறங்களுள் எல்லாம் சிறந்த தனி அறமாம். அதற்கு அடுத்துச் சிறந்த அறம் பொய்யாமை. கலைஞர் உரை கூறுவது: அறங்களின் வரிசையில் முதலில் கொல்லாமையும் அதற்கடுத்துப் பொய்யாமையும் இடம் பெறுகின்றன. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not killing (Ascetic Virtue), Kural 323 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Not to destroy life is an incomparably (great) good next to it in goodness ranks freedom from falsehood. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கொல்லாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not killing' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கொல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 323 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 323 from Chapter 'Not killing'?",
+        "quiz_options_ta": [
+          "ஒருவன் ஆசையை முழுதும் ஒழித்தால், அவன் கெடாமல் வாழ்வதற்கு உரிய நல்ல செயல் அவன் விரும்புமாறு வாய்க்கும்.",
+          "அறிவு விளங்குதற்குக் காரணமான நூல்களைக் கற்றவரோடுக் கல்லாதவர், மக்களோடு விலங்குகளுக்கு உள்ள அவ்வளவு வேற்றுமை உடையவர்.",
+          "மக்களுக்கு இயற்கையறிவு மனத்தால் ஏற்படும், இப்படிப் பட்டவன் என்று உலகத்தாரால் மதிக்கப்படும் சொல், சேர்ந்த இனத்தால் ஏற்படும்.",
+          "இணையில்லாத ஓர் அறமாகக் கொல்லாமை நல்லது, அதற்கு அடுத்த நிலையில் கூறத்தக்கதாகப் பொய்யாமை நல்லது."
+        ],
+        "quiz_options_en": [
+          "Destroy desire; deliverance Comes as much as you aspire hence",
+          "Like beasts before men, dunces are Before scholars of shining lore",
+          "Wisdom depends upon the mind The worth of man upon his friend",
+          "Not to kill is unique good The next, not to utter falsehood"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கொல்லாமை) பகுதியில் குறள் 323 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இணையில்லாத ஓர் அறமாகக் கொல்லாமை நல்லது, அதற்கு அடுத்த நிலையில் கூறத்தக்கதாகப் பொய்யாமை நல்லது. பரிமேலழகர் உரை நுட்பம்: ஒன்றாக நல்லது கொல்லாமை - நூலோர் தொகுத்த அறங்களுள் தன்னோடு இணையொப்பதின்றித் தானேயாக நல்லது கொல்லாமை; பொய்யாமை அதன் பின்சார நன்று - அஃது ஒழிந்தால் பொய்யாமை அதன் பின்னே நிற்க நன்று. '('நூலோர் தொகுத்த அறங்களுள்' என்பது அதிகாரத்தான் வந்தது. அதிகாரம...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 33: 'Not killing'), Kural 323 distills a foundational ethical insight: \"Alone, first of goods things, is 'not to slay'; The second is, no untrue word to say\" Philosophically, Not to destroy life is an incomparably (great) good next to it in goodness ranks freedom from falsehood.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "truth",
+        "kindness",
+        "ethics",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 324,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நல்ல வழி என்று அறநூல்களால் சொல்லப்படுவது எது என்றால், எந்த உயிரையும் கொல்லாத அறத்தைப் போற்றும் நெறியாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Good path is that which considers how it may avoid killing any creature.",
+        "story_title_ta": "கொல்லாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Not killing — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கொல்லாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 324 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நல்ல வழி எது என்றால், எந்த உயிரையும் கொலை செய்யாமல் அறம் காக்கும் வழிதான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Not killing'. Grandpa shared Kural 324 and explained in simple words: Good path is that which considers how it may avoid killing any creature. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: எந்த உயிரையும் கொல்லக் கூடாது எனும் நெறி காப்பதுதான் நல்லற வழி எனப்படும்.",
+        "moral_en": "Moral: You ask, What is the good and perfect way?'Tis path of him who studies nought to slay.",
+        "game_blank_word_ta": "நல்லாறு",
+        "game_options_ta": [
+          "நல்லாறு",
+          "அறவினை",
+          "யாதெனின்",
+          "கொல்லாமை"
+        ],
+        "game_options_en": [
+          "What way is good? That we can say The way away from heat to slay",
+          "What is Virtue? 'Tis not to kill For killing causes every ill",
+          "Share the food and serve all lives This is the law of all the laws",
+          "Not to kill is unique good The next, not to utter falsehood"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொல்லாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 324, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நல்ல வழி எது என்றால், எந்த உயிரையும் கொலை செய்யாமல் அறம் காக்கும் வழிதான். கலைஞர் உரை கூறுவது: எந்த உயிரையும் கொல்லக் கூடாது எனும் நெறி காப்பதுதான் நல்லற வழி எனப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not killing (Ascetic Virtue), Kural 324 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Good path is that which considers how it may avoid killing any creature. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கொல்லாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not killing' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கொல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 324 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 324 from Chapter 'Not killing'?",
+        "quiz_options_ta": [
+          "நல்ல வழி என்று அறநூல்களால் சொல்லப்படுவது எது என்றால், எந்த உயிரையும் கொல்லாத அறத்தைப் போற்றும் நெறியாகும்.",
+          "அவா இல்லாதவர்க்குத் துன்பம் இல்லையாகும், அவா இருந்தால் எல்லாத் துன்பங்களும் மேலும் மேலும் ஒழியாமல் வரும்.",
+          "செவியால் கேட்டறியும் செல்வம், செல்வங்களுள் ஒன்றாகப் போற்றப்படும் செல்வமாகும், அச் செல்வம் செல்வங்கள் எல்லாவற்றிலும் தலையானதாகும்.",
+          "ஒருவனுக்கு சிறப்பறிவு மனத்தில் உள்ளது போலக் காட்டி (உண்மையாக நோக்கும் போது) அவன் சேர்ந்த இனத்தில் உள்ளதாகும்."
+        ],
+        "quiz_options_en": [
+          "What way is good? That we can say The way away from heat to slay",
+          "Desire extinct no sorrow-taints Grief comes on grief where it pretends",
+          "Wealth of wealths is listening's wealth It is the best of wealths on earth",
+          "Wisdom seems to come from mind But it truly flows from the kind"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கொல்லாமை) பகுதியில் குறள் 324 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நல்ல வழி என்று அறநூல்களால் சொல்லப்படுவது எது என்றால், எந்த உயிரையும் கொல்லாத அறத்தைப் போற்றும் நெறியாகும். பரிமேலழகர் உரை நுட்பம்: நல் ஆறு எனப்படுவது யாது எனின் - மேற்கதி வீடு பேறுகட்கு நல்ல நெறி என்று சொல்லப்படுவது யாது என்று வினவின், யாது ஒன்றும் கொல்லாமை சூழும் நெறி - அஃது யாதோர் உயிரையும் கொல்லாமை ஆகிய அறத்தினைக் காக்கக் கருதும் நெறி. ('யாது ஒன்றும்' என்றது, ஓரறிவுயிரையும...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 33: 'Not killing'), Kural 324 distills a foundational ethical insight: \"You ask, What is the good and perfect way?'Tis path of him who studies nought to slay\" Philosophically, Good path is that which considers how it may avoid killing any creature.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "discipline",
+        "ethics",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 325,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: வாழ்க்கையின் தன்மையைக்கண்டு அஞ்சித் துறந்தவர்கள் எல்லாரிலும், கொலைசெய்வதற்க்கு அஞ்சிக் கொல்லாத அறத்தைப் போற்றுகின்றவன் உயர்ந்தவன்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Of all those who, fearing the permanence of earthly births, have abandoned desire, he is the chief who, fearing (the guilt of) murder, considers how he may avoid the destruction of life.",
+        "story_title_ta": "கொல்லாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Not killing — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கொல்லாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 325 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'வாழ்க்கை நிலைக்கு அஞ்சி மனத் துறவு கொண்டவருள் எல்லாம் கொலை செய்வதால் வரும் பாவத்திற்கு அஞ்சி வாழ்பவன் உயர்ந்தவன் ஆவான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Not killing'. Grandpa shared Kural 325 and explained in simple words: Of all those who, fearing the permanence of earthly births, have abandoned desire, he is the chief who, fearing (the guilt of) murder, considers how he may avoid the destruction of life. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உலகியல் நிலையை வெறுத்துத் துறவு பூண்டவர் எல்லோரையும்விடக் கொலையை வெறுத்துக் கொல்லாமையைக் கடைப்பிடிப்பவரே சிறந்தவராவார்.",
+        "moral_en": "Moral: Of those who 'being' dread, and all renounce, the chief are they, Who dreading crime of slaughter, study nought to slay.",
+        "game_blank_word_ta": "நீத்தாருள்",
+        "game_options_ta": [
+          "அறவினை",
+          "நீத்தாருள்",
+          "யாதெனின்",
+          "கொல்லாமை"
+        ],
+        "game_options_en": [
+          "What is Virtue? 'Tis not to kill For killing causes every ill",
+          "Of saints who renounce birth-fearing The head is he who dreads killing",
+          "Share the food and serve all lives This is the law of all the laws",
+          "Not to kill is unique good The next, not to utter falsehood"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொல்லாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 325, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வாழ்க்கை நிலைக்கு அஞ்சி மனத் துறவு கொண்டவருள் எல்லாம் கொலை செய்வதால் வரும் பாவத்திற்கு அஞ்சி வாழ்பவன் உயர்ந்தவன் ஆவான். கலைஞர் உரை கூறுவது: உலகியல் நிலையை வெறுத்துத் துறவு பூண்டவர் எல்லோரையும்விடக் கொலையை வெறுத்துக் கொல்லாமையைக் கடைப்பிடிப்பவரே சிறந்தவராவார். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not killing (Ascetic Virtue), Kural 325 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Of all those who, fearing the permanence of earthly births, have abandoned desire, he is the chief who, fearing (the guilt of) murder, considers how he may avoid the destruction of life. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கொல்லாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not killing' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கொல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 325 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 325 from Chapter 'Not killing'?",
+        "quiz_options_ta": [
+          "அவா என்று சொல்லப்படுகின்ற துன்பங்களுள் பொல்லாதத் துன்பம் கெடுமானால் இவ் வுலகில் இன்பம் இடையறாமல் வாய்க்கும்.",
+          "வாழ்க்கையின் தன்மையைக்கண்டு அஞ்சித் துறந்தவர்கள் எல்லாரிலும், கொலைசெய்வதற்க்கு அஞ்சிக் கொல்லாத அறத்தைப் போற்றுகின்றவன் உயர்ந்தவன்.",
+          "செவிக்கு கேள்வியாகிய உணவு இல்லாத போது (அதற்க்கு துணையாக உடலை ஒப்புமாறு) வயிற்றுக்கும் சிறிது உணவு தரப்படும்.",
+          "மனத்தின் தூய்மை செய்யும் செயலின் தூய்மை ஆகிய இவ்விரண்டும் சேர்ந்த இனத்தின் தூய்மையைப் பொறுத்தே ஏற்ப்படும்."
+        ],
+        "quiz_options_en": [
+          "Desire, the woe of woes destroy Joy of joys here you enjoy",
+          "Of saints who renounce birth-fearing The head is he who dreads killing",
+          "Some food for the stomach is brought When the ear gets no food for thought",
+          "Purity of the thought and deed Comes from good company indeed"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கொல்லாமை) பகுதியில் குறள் 325 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வாழ்க்கையின் தன்மையைக்கண்டு அஞ்சித் துறந்தவர்கள் எல்லாரிலும், கொலைசெய்வதற்க்கு அஞ்சிக் கொல்லாத அறத்தைப் போற்றுகின்றவன் உயர்ந்தவன். பரிமேலழகர் உரை நுட்பம்: நிலை அஞ்சி நீத்தாருள் எல்லாம் - பிறப்பு நின்ற நிலையை அஞ்சிப் பிறவாமைப் பொருட்டு மனை வாழ்க்கையைத் துறந்தார் எல்லாருள்ளும், கொலை அஞ்சிக் கொல்லாமை சூழ்வான் தலை - கொலைப் பாவத்தை அஞ்சிக் கொல்லாமை ஆகிய அறத்தை மறவாதவன் உயர்ந்தவன். (பிறப்பு நின்ற நிலையாவது, இயங்குவ...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 33: 'Not killing'), Kural 325 distills a foundational ethical insight: \"Of those who 'being' dread, and all renounce, the chief are they, Who dreading crime of slaughter, study nought to slay\" Philosophically, Of all those who, fearing the permanence of earthly births, have abandoned desire, he is the chief who, fearing (the guilt of) murder, considers how he may avoid the destruction of life.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "self-mastery",
+        "education",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 326,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: கொல்லாத அறத்தை மேற்கொண்டு நடக்கின்றவனுடைய வாழ்நாளின் மேல், உயிரைக்கொண்டு செல்லும் கூற்றுவனும் செல்லமாட்டான்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Yama, the destroyer of life, will not attack the life of him, who acts under the determination of never destroying life.",
+        "story_title_ta": "கொல்லாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Not killing — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கொல்லாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 326 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'கொலை செய்யாமல் வாழ்வதைக் குறிக்கோளாகக் கொண்டு வாழ்பவனின் வாழ்நாளின்மேல் உயிர் உண்ணும் கூற்று குறுக்கிடாது.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Not killing'. Grandpa shared Kural 326 and explained in simple words: Yama, the destroyer of life, will not attack the life of him, who acts under the determination of never destroying life. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: கொலை செய்யாமையை வாழ்வில் அறநெறியாகக் கொண்டவரின் பெருமையை வியந்து, சாவுகூட அவர் உயிரைப் பறிக்கத் தயங்கி நிற்கும்.",
+        "moral_en": "Moral: Ev'n death that life devours, their happy days shall spare, Who law, 'Thou shall not kill', uphold with reverent care.",
+        "game_blank_word_ta": "செல்லாது",
+        "game_options_ta": [
+          "அறவினை",
+          "யாதெனின்",
+          "செல்லாது",
+          "கொல்லாமை"
+        ],
+        "game_options_en": [
+          "What is Virtue? 'Tis not to kill For killing causes every ill",
+          "Share the food and serve all lives This is the law of all the laws",
+          "Life-eating-Death shall spare the breath Of him who no life puts to death",
+          "Not to kill is unique good The next, not to utter falsehood"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொல்லாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 326, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கொலை செய்யாமல் வாழ்வதைக் குறிக்கோளாகக் கொண்டு வாழ்பவனின் வாழ்நாளின்மேல் உயிர் உண்ணும் கூற்று குறுக்கிடாது. கலைஞர் உரை கூறுவது: கொலை செய்யாமையை வாழ்வில் அறநெறியாகக் கொண்டவரின் பெருமையை வியந்து, சாவுகூட அவர் உயிரைப் பறிக்கத் தயங்கி நிற்கும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not killing (Ascetic Virtue), Kural 326 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Yama, the destroyer of life, will not attack the life of him, who acts under the determination of never destroying life. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கொல்லாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not killing' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கொல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 326 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 326 from Chapter 'Not killing'?",
+        "quiz_options_ta": [
+          "ஒருபோதும் நிரம்பாத தன்மை உடைய அவாவை ஒழித்தால் ஒழித்த அந்நிலையே எப்போதும் மாறாதிருக்கும் இன்ப வாழ்வைத் தரும்.",
+          "செவியுணவாகிய கேள்வி உடையவர் நிலத்தில் வாழ்கின்றவரே ஆயினும் அவி உணவைக் கொள்ளும் தேவரோடு ஒப்பாவார்.",
+          "கொல்லாத அறத்தை மேற்கொண்டு நடக்கின்றவனுடைய வாழ்நாளின் மேல், உயிரைக்கொண்டு செல்லும் கூற்றுவனும் செல்லமாட்டான்.",
+          "மனம் தூய்மையாகப் பெற்றவர்க்கு , அவர்க்குப் பின் எஞ்சி நிற்கும் புகழ் முதலியவை நன்மையாகும், இனம் தூய்மையாக உள்ளவர்க்கு நன்மையாகாத செயல் இல்லை."
+        ],
+        "quiz_options_en": [
+          "Off with desire insatiate You gain the native blissful state",
+          "Whose ears get lots of wisdom-food Equal gods on oblations fed",
+          "Life-eating-Death shall spare the breath Of him who no life puts to death",
+          "Pure-hearted get good progeny Pure friendship acts with victory"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கொல்லாமை) பகுதியில் குறள் 326 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கொல்லாத அறத்தை மேற்கொண்டு நடக்கின்றவனுடைய வாழ்நாளின் மேல், உயிரைக்கொண்டு செல்லும் கூற்றுவனும் செல்லமாட்டான். பரிமேலழகர் உரை நுட்பம்: கொல்லாமை மேற்கொண்டு ஒழுகுவான் வாழ்நாள் மேல் - கொல்லாமையை விரதமாக மேற்கொண்டு ஒழுகுவானது வாழ்நாளின்மேல், உயிர் உண்ணும் கூற்றுச் செல்லாது - உயிர் உண்ணும் கூற்றுச் செல்லாது. (மிகப்பெரிய அறம் செய்தாரும் மிகப்பெரிய பாவம் செய்தாரும் முறையான் அன்றி இம்மைதன்னுள்ளே...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 33: 'Not killing'), Kural 326 distills a foundational ethical insight: \"Ev'n death that life devours, their happy days shall spare, Who law, 'Thou shall not kill', uphold with reverent care\" Philosophically, Yama, the destroyer of life, will not attack the life of him, who acts under the determination of never destroying life.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "speech",
+        "discipline",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 327,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தன் உயிர் உடம்பிலிருந்து நீங்கிச் செல்வதாக இருந்தாலும், அதைத் தடுப்பதற்காகத் தான் வேறோர் உயிரை நீக்கும் செயலைச் செய்யக்கூடாது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Let no one do that which would destroy the life of another, although he should by so doing, lose his own life.",
+        "story_title_ta": "கொல்லாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Not killing — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கொல்லாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 327 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தன் உயிரையே இழக்க நேர்ந்தாலும், பிற இன்னுயிரை அதன் உடம்பிலிருந்து போக்கும் செயலைச் செய்யவேண்டா.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Not killing'. Grandpa shared Kural 327 and explained in simple words: Let no one do that which would destroy the life of another, although he should by so doing, lose his own life. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தன்னுயிரே போவதாக இருப்பினும்கூட அதற்காக இன்னொரு உயிரைப் போக்கும் செயலில் ஈடுபடக்கூடாது.",
+        "moral_en": "Moral: Though thine own life for that spared life the price must pay, Take not from aught that lives gift of sweet life away.",
+        "game_blank_word_ta": "தான்பிறிது",
+        "game_options_ta": [
+          "அறவினை",
+          "யாதெனின்",
+          "கொல்லாமை",
+          "தான்பிறிது"
+        ],
+        "game_options_en": [
+          "What is Virtue? 'Tis not to kill For killing causes every ill",
+          "Share the food and serve all lives This is the law of all the laws",
+          "Not to kill is unique good The next, not to utter falsehood",
+          "Kill not life that others cherish Even when your life must perish"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொல்லாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 327, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் உயிரையே இழக்க நேர்ந்தாலும், பிற இன்னுயிரை அதன் உடம்பிலிருந்து போக்கும் செயலைச் செய்யவேண்டா. கலைஞர் உரை கூறுவது: தன்னுயிரே போவதாக இருப்பினும்கூட அதற்காக இன்னொரு உயிரைப் போக்கும் செயலில் ஈடுபடக்கூடாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not killing (Ascetic Virtue), Kural 327 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let no one do that which would destroy the life of another, although he should by so doing, lose his own life. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கொல்லாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not killing' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கொல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 327 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 327 from Chapter 'Not killing'?",
+        "quiz_options_ta": [
+          "கைப்பொருள் ஆவதற்க்கு காரணமான ஊழால் சோர்வில்லாத முயற்சி உண்டாகும், கைப்பொருள் போவதற்க்கு காரணமான ஊழால் சோம்பல் ஏற்படும்.",
+          "நூல்களைக் கற்றவில்லையாயினும், கற்றறிந்தவர்களிடம் கேட்டறிய வேண்டும், அது ஒருவனுக்கு வாழ்க்கையில் தளர்ச்சி வந்த போது ஊன்றுகோல் போல் துணையாகும்.",
+          "மனதின் நன்மை உயிர்க்கு ஆக்கமாகும், இனத்தின் தன்மை (அவ்வளவோடு நிற்காமல்) எல்லாப் புகழையும் கொடுக்கும்.",
+          "தன் உயிர் உடம்பிலிருந்து நீங்கிச் செல்வதாக இருந்தாலும், அதைத் தடுப்பதற்காகத் தான் வேறோர் உயிரை நீக்கும் செயலைச் செய்யக்கூடாது."
+        ],
+        "quiz_options_en": [
+          "Efforts succeed by waxing star Wealth-losing brings waning star",
+          "Though not learned, hear and heed That serves a staff and stay in need",
+          "Goodness of mind increases gain Good friendship fosters fame again",
+          "Kill not life that others cherish Even when your life must perish"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கொல்லாமை) பகுதியில் குறள் 327 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன் உயிர் உடம்பிலிருந்து நீங்கிச் செல்வதாக இருந்தாலும், அதைத் தடுப்பதற்காகத் தான் வேறோர் உயிரை நீக்கும் செயலைச் செய்யக்கூடாது. பரிமேலழகர் உரை நுட்பம்: தன் உயிர் நீப்பினும் - அது செய்யாவழித் தன்னுயிர் உடம்பின் நீங்கிப் போமாயினும்: தான் பிறிது இன் உயிர் நீக்கும் வினை செய்யற்க - தான் பிறிதோர் இன்னுயிரை அதன் உடம்பின் நீக்கும் தொழிலைச் செய்யற்க. ('தன்னை அது கொல்லினும் தான் அதனைக் கொல்லற்க' என்றது, பாவம...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 33: 'Not killing'), Kural 327 distills a foundational ethical insight: \"Though thine own life for that spared life the price must pay, Take not from aught that lives gift of sweet life away\" Philosophically, Let no one do that which would destroy the life of another, although he should by so doing, lose his own life.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 328,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கொலையால் நன்மையாக விளையும் ஆக்கம் பெரிதாக இருந்தாலும், சான்றோர்க்குக் கொலையால் வரும் ஆக்கம் மிக இழிவானதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The advantage which might flow from destroying life in sacrifice, is dishonourable to the wise (who renounced the world), even although it should be said to be productive of great good.",
+        "story_title_ta": "கொல்லாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Not killing — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கொல்லாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 328 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'வேள்விகளில் கொலை செய்வதால் நன்மை வரும், செல்வம் பெருகும் என்றாலும், பிற உயிரைக் கொல்வதால் வரும் செல்வத்தைச் சான்றோர் இழிவானதாகவே எண்ணுவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Not killing'. Grandpa shared Kural 328 and explained in simple words: The advantage which might flow from destroying life in sacrifice, is dishonourable to the wise (who renounced the world), even although it should be said to be productive of great good. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பெரிதாக நன்மை தரக்கூடிய அளவுக்கு ஒரு கொலை பயன்படக் கூடுமெனினும், நல்ல பண்புடைய மக்கள், அந்த நன்மையை இழிவானதாகவே கருதுவார்கள்.",
+        "moral_en": "Moral: Though great the gain of good should seem, the wiseWill any gain by staughter won despise.",
+        "game_blank_word_ta": "கொன்றாகும்",
+        "game_options_ta": [
+          "கொன்றாகும்",
+          "அறவினை",
+          "யாதெனின்",
+          "கொல்லாமை"
+        ],
+        "game_options_en": [
+          "The gain of slaughter is a vice Though deemed good in sacrifice",
+          "What is Virtue? 'Tis not to kill For killing causes every ill",
+          "Share the food and serve all lives This is the law of all the laws",
+          "Not to kill is unique good The next, not to utter falsehood"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொல்லாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 328, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வேள்விகளில் கொலை செய்வதால் நன்மை வரும், செல்வம் பெருகும் என்றாலும், பிற உயிரைக் கொல்வதால் வரும் செல்வத்தைச் சான்றோர் இழிவானதாகவே எண்ணுவர். கலைஞர் உரை கூறுவது: பெரிதாக நன்மை தரக்கூடிய அளவுக்கு ஒரு கொலை பயன்படக் கூடுமெனினும், நல்ல பண்புடைய மக்கள், அந்த நன்மையை இழிவானதாகவே கருதுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not killing (Ascetic Virtue), Kural 328 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The advantage which might flow from destroying life in sacrifice, is dishonourable to the wise (who renounced the world), even although it should be said to be productive of great good. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கொல்லாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not killing' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கொல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 328 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 328 from Chapter 'Not killing'?",
+        "quiz_options_ta": [
+          "கொலையால் நன்மையாக விளையும் ஆக்கம் பெரிதாக இருந்தாலும், சான்றோர்க்குக் கொலையால் வரும் ஆக்கம் மிக இழிவானதாகும்.",
+          "பொருள் இழந்தற்கு காரணமான ஊழ், பேதை யாக்கும் பொருள் ஆவதற்க்கு காரணமான ஊழ் அறிவைப் பெருக்கும்.",
+          "ஒழுக்கமுடைய சான்றோரின் வாய்ச் சொற்கள், வழுக்கல் உடைய சேற்று நிலத்தில் ஊன்றுகோல் போல் வாழ்க்கையில் உதவும்.",
+          "மனதின் நன்மையை உறுதியாக உடையவராயினும் சான்றோர்க்கு இனத்தின் நன்மை மேலும் நல்ல காவலாக அமையும்."
+        ],
+        "quiz_options_en": [
+          "The gain of slaughter is a vice Though deemed good in sacrifice",
+          "Loss-fate makes a dull fool of us Gain-fate makes us prosperous, wise!",
+          "Virtuous men's wisdom is found A strong staff on slippery ground",
+          "Men of wisdom, though good in mind In friends of worth a new strength find"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கொல்லாமை) பகுதியில் குறள் 328 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கொலையால் நன்மையாக விளையும் ஆக்கம் பெரிதாக இருந்தாலும், சான்றோர்க்குக் கொலையால் வரும் ஆக்கம் மிக இழிவானதாகும். பரிமேலழகர் உரை நுட்பம்: நன்று ஆகும் ஆக்கம் பெரிது எனினும் - தேவர்பொருட்டு வேள்விக்கண் கொன்றால் இன்பம் மிகும் செல்வம் பெரிதாம் என்று இல்வாழ்வார்க்குக் கூறப்பட்டதாயினும், சான்றோர்க்கு கொன்று ஆகும் ஆக்கம் கடை - துறவான் அமைந்தார்க்கு ஓர் உயிரைக் கொல்ல வரும் செல்வம் கடை. (இன்பம் மிகும...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 33: 'Not killing'), Kural 328 distills a foundational ethical insight: \"Though great the gain of good should seem, the wiseWill any gain by staughter won despise\" Philosophically, The advantage which might flow from destroying life in sacrifice, is dishonourable to the wise (who renounced the world), even although it should be said to be productive of great good.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "ethics",
+        "wealth",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 329,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: கொலைத்தொழிலினராகிய மக்கள் அதன் இழிவை ஆராய்ந்தவரிடத்தில் புலைத்தொழிலுடையவராய்த் தாழ்ந்து தோன்றுவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: To minds of them who what is vileness know.",
+        "story_title_ta": "கொல்லாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Not killing — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கொல்லாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 329 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'கொலை செய்வதைத் தொழிலாகக் கொண்டு வாழும் மக்கள், அத்தொழிலின் தீமையை அறியாதவர் என்றாலும், அறிந்த பெரியோர் மனத்துள் அவர்கள் கீழான செயல் செய்பவராய் எண்ணப்படுவார்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Not killing'. Grandpa shared Kural 329 and explained in simple words: To minds of them who what is vileness know. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: பகுத்தறிவை இழந்து செயல்படும் கொலைகாரர்களைச் சான்றோர் உள்ளம், இழிதகைப் பிறவிகளாகவே கருதும்.",
+        "moral_en": "Moral: Whose trade is 'killing', always vile they show, To minds of them who what is vileness know.",
+        "game_blank_word_ta": "கொலைவினைய",
+        "game_options_ta": [
+          "அறவினை",
+          "கொலைவினைய",
+          "யாதெனின்",
+          "கொல்லாமை"
+        ],
+        "game_options_en": [
+          "What is Virtue? 'Tis not to kill For killing causes every ill",
+          "Those who live by slaying are Eaters of carrion bizarre!",
+          "Share the food and serve all lives This is the law of all the laws",
+          "Not to kill is unique good The next, not to utter falsehood"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொல்லாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 329, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கொலை செய்வதைத் தொழிலாகக் கொண்டு வாழும் மக்கள், அத்தொழிலின் தீமையை அறியாதவர் என்றாலும், அறிந்த பெரியோர் மனத்துள் அவர்கள் கீழான செயல் செய்பவராய் எண்ணப்படுவார். கலைஞர் உரை கூறுவது: பகுத்தறிவை இழந்து செயல்படும் கொலைகாரர்களைச் சான்றோர் உள்ளம், இழிதகைப் பிறவிகளாகவே கருதும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not killing (Ascetic Virtue), Kural 329 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To minds of them who what is vileness know. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கொல்லாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not killing' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கொல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 329 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 329 from Chapter 'Not killing'?",
+        "quiz_options_ta": [
+          "ஒருவன் நுட்பமான நூல் பலவற்றைக் கற்றாலும் ஊழுக்கு ஏற்றவாறு அவனுக்கு உள்ள தாகும் அறிவே மேம்பட்டுத் தோன்றும்.",
+          "கொலைத்தொழிலினராகிய மக்கள் அதன் இழிவை ஆராய்ந்தவரிடத்தில் புலைத்தொழிலுடையவராய்த் தாழ்ந்து தோன்றுவர்.",
+          "எவ்வளவு சிறிதே ஆயினும் நல்லவற்றைக் கேட்டறிய வேண்டும், கேட்ட அந்த அளவிற்கு அவை நிறைந்த பெருமையைத் தரும்.",
+          "மனத்தின் நன்மையால் மறுமை இன்பம் உண்டாகும், அதுவும் இனத்தின் நன்மையால் மேலும் சிறப்புடையதாகும்."
+        ],
+        "quiz_options_en": [
+          "What matters subtle study deep? Levels of innate wisdom-keep",
+          "Those who live by slaying are Eaters of carrion bizarre!",
+          "Lend ear to good words however few That much will highly exalt you",
+          "Good mind decides the future bliss Good company gains strength to this"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கொல்லாமை) பகுதியில் குறள் 329 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கொலைத்தொழிலினராகிய மக்கள் அதன் இழிவை ஆராய்ந்தவரிடத்தில் புலைத்தொழிலுடையவராய்த் தாழ்ந்து தோன்றுவர். பரிமேலழகர் உரை நுட்பம்: கொலை வினையர் ஆகிய மாக்கள் - கொலைத் தொழிலையுடையராகிய மாந்தர், புன்மை தெரிவார் அகத்துப் புலைவினையர் - அத்தொழிலின் கீழ்மையை அறியாத நெஞ்சத்தராயினும், அறிவார் நெஞ்சத்துப் புலைத் தொழிலினர். (கொலை வினையர் என்றதனான், வேள்விக் கண் கொலையன்மை அறிக. 'புலை வினையர்' என்றது...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 33: 'Not killing'), Kural 329 distills a foundational ethical insight: \"Whose trade is 'killing', always vile they show, To minds of them who what is vileness know\" Philosophically, To minds of them who what is vileness know.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "family",
+        "ethics",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 330,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: நோய் மிகுந்த உடம்புடன் வறுமையான தீய வாழ்க்கை உடையவர், முன்பு கொலை பல செய்து உயிர்களை உடம்புகளில் இருந்து நீக்கினவர் என்று அறிஞர் கூறுவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: (The wise) will say that men of diseased bodies, who live in degradation and in poverty, are those who separated the life from the body of animals (in a former birth).",
+        "story_title_ta": "கொல்லாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Not killing — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கொல்லாமை' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 330 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நோய் நிறைந்த உடம்புடன், வறுமையால், இழிந்த வாழ்க்கையை இன்று வாழ்பவர்கள், முற்பிறப்பில் பிற உயிர்களை உடம்பிலிருந்து நீக்கிக் கொலை செய்தவர் என்று அறிந்தோர் கூறுவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Not killing'. Grandpa shared Kural 330 and explained in simple words: (The wise) will say that men of diseased bodies, who live in degradation and in poverty, are those who separated the life from the body of animals (in a former birth). The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வறுமையும் நோயும் மிகுந்த தீய வாழ்க்கையில் உழல்வோர், ஏற்கனவே கொலைகள் பல செய்தவராக இருப்பர் என்று முன்னோர் கூறுவர்.",
+        "moral_en": "Moral: Who lead a loathed life in bodies sorely pained, Are men, the wise declare, by guilt of slaughter stained.",
+        "game_blank_word_ta": "நீக்கியா",
+        "game_options_ta": [
+          "அறவினை",
+          "யாதெனின்",
+          "நீக்கியா",
+          "கொல்லாமை"
+        ],
+        "game_options_en": [
+          "What is Virtue? 'Tis not to kill For killing causes every ill",
+          "Share the food and serve all lives This is the law of all the laws",
+          "The loathsome poor sickly and sore Are killers stained by blood before",
+          "Not to kill is unique good The next, not to utter falsehood"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கொல்லாமை (துறவறவியல்) பிரிவில் அமைந்த குறள் 330, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நோய் நிறைந்த உடம்புடன், வறுமையால், இழிந்த வாழ்க்கையை இன்று வாழ்பவர்கள், முற்பிறப்பில் பிற உயிர்களை உடம்பிலிருந்து நீக்கிக் கொலை செய்தவர் என்று அறிந்தோர் கூறுவர். கலைஞர் உரை கூறுவது: வறுமையும் நோயும் மிகுந்த தீய வாழ்க்கையில் உழல்வோர், ஏற்கனவே கொலைகள் பல செய்தவராக இருப்பர் என்று முன்னோர் கூறுவர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Not killing (Ascetic Virtue), Kural 330 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (The wise) will say that men of diseased bodies, who live in degradation and in poverty, are those who separated the life from the body of animals (in a former birth). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கொல்லாமை' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Not killing' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கொல்லாமை' அதிகாரத்தில் வரும் திருக்குறள் 330 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 330 from Chapter 'Not killing'?",
+        "quiz_options_ta": [
+          "உலகத்தின் இயற்க்கை ஊழின் காரணமாக இரு வேறு வகைப்படும், செல்வம் உடையவராதலும் வேறு அறிவு உடையவராதலும் வேறு.",
+          "நுட்பமாக உணர்ந்து நிறைந்த கேள்வியறிவை உடையவர், ( ஒரு கால் பொருள்களைத்) தவறாக உணர்ந்திருந்தாலும் பேதைமையானவற்றைச் சொல்லார்.",
+          "நோய் மிகுந்த உடம்புடன் வறுமையான தீய வாழ்க்கை உடையவர், முன்பு கொலை பல செய்து உயிர்களை உடம்புகளில் இருந்து நீக்கினவர் என்று அறிஞர் கூறுவர்.",
+          "நல்ல இனத்தைவிடச் சிறந்ததாகிய துணையும் உலகத்தில் இல்லை, தீய இனத்தைவிடத் துன்பப்படுத்தும் பகையும் இல்லை."
+        ],
+        "quiz_options_en": [
+          "Two natures in the world obtain Some wealth and others wisdom gain",
+          "Who listen well and learn sharply Not ev'n by slip speak foolishly",
+          "The loathsome poor sickly and sore Are killers stained by blood before",
+          "No help good company exeeds; The bad to untold anguish leads"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கொல்லாமை) பகுதியில் குறள் 330 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நோய் மிகுந்த உடம்புடன் வறுமையான தீய வாழ்க்கை உடையவர், முன்பு கொலை பல செய்து உயிர்களை உடம்புகளில் இருந்து நீக்கினவர் என்று அறிஞர் கூறுவர். பரிமேலழகர் உரை நுட்பம்: செயிர் உடம்பின் செல்லாத் தீ வாழ்க்கையவர் - நோக்கலாகா நோய் உடம்புடனே வறுமை கூர்ந்த இழிதொழில் வாழ்க்கையினை உடையாரை, உயிர் உடம்பின் நீக்கியார் என்ப - இவர் முற்பிறப்பின் கண் உயிர்களை அவை நின்ற உடம்பினின்றும் நீக்கினவர் என்று சொல்லுவர் வினை விளைவுகளை அறிந்தோர...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 33: 'Not killing'), Kural 330 distills a foundational ethical insight: \"Who lead a loathed life in bodies sorely pained, Are men, the wise declare, by guilt of slaughter stained\" Philosophically, (The wise) will say that men of diseased bodies, who live in degradation and in poverty, are those who separated the life from the body of animals (in a former birth).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "kindness",
+        "wealth",
+        "wisdom"
+      ]
+    }
+  ]
+}

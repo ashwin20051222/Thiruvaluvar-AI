@@ -1,0 +1,582 @@
+{
+  "adhikaram_id": 9,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.514118301+00:00",
+  "kurals": [
+    {
+      "kural_number": 81,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: வீட்டில் இருந்து பொருள்களைக் காத்து இல்வாழ்க்கை நடத்துவதெல்லாம் விருந்தினரைப் போற்றி உதவி செய்யும் பொருட்டே ஆகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The whole design of living in the domestic state and laying up (property) is (to be able) to exercise the benevolence of hospitality.",
+        "story_title_ta": "விருந்தோம்பல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Hospitality — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'விருந்தோம்பல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 81 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'வீட்டில் இருந்து, பொருள்களைச் சேர்த்தும் காத்தும் வாழ்வது எல்லாம், வந்த விருந்தினரைப் பேணி அவர்களுக்கு உதவுவதற்கே ஆம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Hospitality'. Grandpa shared Kural 81 and explained in simple words: The whole design of living in the domestic state and laying up (property) is (to be able) to exercise the benevolence of hospitality. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: இல்லறத்தைப் போற்றி வாழ்வது, விருந்தினரை வரவேற்று, அவர்க்கு வேண்டிய உதவிகளைச் செய்வதற்காகவே.",
+        "moral_en": "Moral: All household cares and course of daily life have this in viewGuests to receive with courtesy, and kindly acts to do.",
+        "game_blank_word_ta": "வேளாண்மை",
+        "game_options_ta": [
+          "விருந்து",
+          "வேளாண்மை",
+          "புறத்ததாத்",
+          "தானுண்டல்"
+        ],
+        "game_options_en": [
+          "To keep out guests cannot be good Albeit you eat nector-like food",
+          "Men set up home, toil and earn To tend the guests and do good turn",
+          "Who tends his guests day in and out His life in want never wears out",
+          "The goddess of wealth will gladly rest Where smiles welcome the worthy guest"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "விருந்தோம்பல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 81, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வீட்டில் இருந்து, பொருள்களைச் சேர்த்தும் காத்தும் வாழ்வது எல்லாம், வந்த விருந்தினரைப் பேணி அவர்களுக்கு உதவுவதற்கே ஆம். கலைஞர் உரை கூறுவது: இல்லறத்தைப் போற்றி வாழ்வது, விருந்தினரை வரவேற்று, அவர்க்கு வேண்டிய உதவிகளைச் செய்வதற்காகவே. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hospitality (Domestic Virtue), Kural 81 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The whole design of living in the domestic state and laying up (property) is (to be able) to exercise the benevolence of hospitality. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'விருந்தோம்பல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Hospitality' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'விருந்தோம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 81 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 81 from Chapter 'Hospitality'?",
+        "quiz_options_ta": [
+          "பணிவுடையவராக ஒழுகுதல்பொதுவாக எல்லோர்க்கும் நல்லதாகும்; அவர்களுள் சிறப்பாகச் செல்வர்க்கே மற்றொரு செல்வம் போன்றதாகும்.",
+          "வீட்டில் இருந்து பொருள்களைக் காத்து இல்வாழ்க்கை நடத்துவதெல்லாம் விருந்தினரைப் போற்றி உதவி செய்யும் பொருட்டே ஆகும்",
+          "பொறாமை என்று கூறப்படும் ஒப்பற்ற பாவி, ஒருவனுடைய செல்வத்தைக் கெடுத்துத் தீய வழியில் அவனைச் செலுத்தி விடும்.",
+          "இந்த உலகத்தார் மழைக்கு என்ன கைமாறு செய்கின்றனர்;, மழை போன்றவர் செய்யும் உதவிகளும் கைமாறு வேண்டாதவை."
+        ],
+        "quiz_options_en": [
+          "Humility is good for all To the rich it adds a wealth special",
+          "Men set up home, toil and earn To tend the guests and do good turn",
+          "Caitiff envy despoils wealth And drags one into evil path",
+          "Duty demands nothing in turn; How can the world recompense rain?"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (விருந்தோம்பல்) பகுதியில் குறள் 81 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வீட்டில் இருந்து பொருள்களைக் காத்து இல்வாழ்க்கை நடத்துவதெல்லாம் விருந்தினரைப் போற்றி உதவி செய்யும் பொருட்டே ஆகும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, இரு வகை விருந்தினரையும் புறந்தருதல். தென்புலத்தார் முதலிய ஐம்புலத்துள் முன்னைய இரண்டும் கட்புலனாகாதாரை நினைந்து செய்வன ஆகலானும், பின்னைய இரண்டும் பிறர்க்கு ஈதல் அன்மையானும், இடைநின்ற விருந்து ஓம்பல் சிறப்புடைத்தாய் இல்லறங்கட்கு முதல் ஆயிற்று...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 9: 'Hospitality'), Kural 81 distills a foundational ethical insight: \"All household cares and course of daily life have this in viewGuests to receive with courtesy, and kindly acts to do\" Philosophically, The whole design of living in the domestic state and laying up (property) is (to be able) to exercise the benevolence of hospitality.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "friendship",
+        "gratitude",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 82,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: விருந்தினராக வந்தவர் வீட்டின் புறத்தே இருக்கத் தான் மட்டும் உண்பது சாவாமருந்தாகிய அமிழ்தமே ஆனாலும் அது விரும்பத்தக்கது அன்று.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: It is not fit that one should wish his guests to be outside (his house) even though he were eating the food of immortality.",
+        "story_title_ta": "விருந்தோம்பல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Hospitality — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'விருந்தோம்பல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 82 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'விருந்தினர் வீட்டிற்கு வெளியே இருக்கத் தான் மட்டும் தனித்து உண்பது, சாவைத் தடுக்கும் மருந்தே என்றாலும், விரும்பத் தக்கது அன்று.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Hospitality'. Grandpa shared Kural 82 and explained in simple words: It is not fit that one should wish his guests to be outside (his house) even though he were eating the food of immortality. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: விருந்தினராக வந்தவரை வெளியே விட்டுவிட்டுச் சாகாத மருந்தாக இருந்தாலும் அதனைத் தான் மட்டும் உண்பது விரும்பத் தக்க பண்பாடல்ல.",
+        "moral_en": "Moral: Though food of immortality should crown the board, Feasting alone, the guests without unfed, is thing abhorred.",
+        "game_blank_word_ta": "டற்பாற்",
+        "game_options_ta": [
+          "இருந்தோம்பி",
+          "இல்வாழ்வ",
+          "டற்பாற்",
+          "தெல்லாம்"
+        ],
+        "game_options_en": [
+          "Men set up home, toil and earn To tend the guests and do good turn",
+          "Who tends his guests day in and out His life in want never wears out",
+          "To keep out guests cannot be good Albeit you eat nector-like food",
+          "The goddess of wealth will gladly rest Where smiles welcome the worthy guest"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "விருந்தோம்பல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 82, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: விருந்தினர் வீட்டிற்கு வெளியே இருக்கத் தான் மட்டும் தனித்து உண்பது, சாவைத் தடுக்கும் மருந்தே என்றாலும், விரும்பத் தக்கது அன்று. கலைஞர் உரை கூறுவது: விருந்தினராக வந்தவரை வெளியே விட்டுவிட்டுச் சாகாத மருந்தாக இருந்தாலும் அதனைத் தான் மட்டும் உண்பது விரும்பத் தக்க பண்பாடல்ல. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hospitality (Domestic Virtue), Kural 82 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is not fit that one should wish his guests to be outside (his house) even though he were eating the food of immortality. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'விருந்தோம்பல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Hospitality' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'விருந்தோம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 82 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 82 from Chapter 'Hospitality'?",
+        "quiz_options_ta": [
+          "ஒரு பிறப்பில், ஆமைபோல் ஐம்பொறிகளையும் அடக்கியாள வல்லவனானால், அஃது அவனுக்குப் பல பிறப்பிலும் காப்பாகும் சிறப்பு உடையது.",
+          "பொறாமை பொருந்திய நெஞ்சத்தானுடைய ஆக்கமும், பொறாமை இல்லாத நல்லவனுடைய கேடும் ஆராயத் தக்கவை",
+          "விருந்தினராக வந்தவர் வீட்டின் புறத்தே இருக்கத் தான் மட்டும் உண்பது சாவாமருந்தாகிய அமிழ்தமே ஆனாலும் அது விரும்பத்தக்கது அன்று",
+          "ஒப்புரவாளன் தன்னால் இயன்ற முயற்சி செய்து சேர்த்த பொருள் எல்லாம் தக்கவர்க்கு உதவி செய்வதற்கே ஆகும்."
+        ],
+        "quiz_options_en": [
+          "Who senses five like tortoise hold Their joy prolongs to births sevenfold",
+          "Why is envy rich, goodmen poor People with surprise think over",
+          "To keep out guests cannot be good Albeit you eat nector-like food",
+          "All the wealth that toils give Is meant to serve those who deserve"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (விருந்தோம்பல்) பகுதியில் குறள் 82 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: விருந்தினராக வந்தவர் வீட்டின் புறத்தே இருக்கத் தான் மட்டும் உண்பது சாவாமருந்தாகிய அமிழ்தமே ஆனாலும் அது விரும்பத்தக்கது அன்று. பரிமேலழகர் உரை நுட்பம்: சாவா மருந்து எனினும் - உண்ணப்படும் பொருள் அமிழ்தமே எனினும் ; விருந்து புறத்ததாத் தானுண்டல் - தன்னை நோக்கி வந்த விருந்து தன் இல்லின் புறத்ததாகத் தானே உண்டல்; வேண்டற்பாற்று அன்று - விரும்புதல் முறைமையுடைத்து அன்று.(சாவா மருந்து : சாவாமைக்குக் காரணமாகிய மருந்து...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 9: 'Hospitality'), Kural 82 distills a foundational ethical insight: \"Though food of immortality should crown the board, Feasting alone, the guests without unfed, is thing abhorred\" Philosophically, It is not fit that one should wish his guests to be outside (his house) even though he were eating the food of immortality.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 83,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தன்னை நோக்கி வரும் விருந்தினரை நாள் தோறும் போற்றுகின்றவனுடைய வாழ்க்கை, துன்பத்தால் வருந்திக் கெட்டுப் போவதில்லை.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The domestic life of the man that daily entertains the guests who come to him shall not be laid waste by poverty.",
+        "story_title_ta": "விருந்தோம்பல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Hospitality — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'விருந்தோம்பல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 83 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'நாளும் வரும் விருந்தினரைப் பேணுபவனின் வாழ்க்கை வறுமைப்பட்டுக் கெட்டுப் போவது இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Hospitality'. Grandpa shared Kural 83 and explained in simple words: The domestic life of the man that daily entertains the guests who come to him shall not be laid waste by poverty. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: விருந்தினரை நாள்தோறும் வரவேற்று மகிழ்பவரின் வாழ்க்கை, அதன் காரணமாகத் துன்பமுற்றுக் கெட்டொழிவதில்லை.",
+        "moral_en": "Moral: Each day he tends the coming guest with kindly care; Painless, unfailing plenty shall his household share.",
+        "game_blank_word_ta": "இன்று",
+        "game_options_ta": [
+          "இருந்தோம்பி",
+          "இல்வாழ்வ",
+          "தெல்லாம்",
+          "இன்று"
+        ],
+        "game_options_en": [
+          "Men set up home, toil and earn To tend the guests and do good turn",
+          "To keep out guests cannot be good Albeit you eat nector-like food",
+          "The goddess of wealth will gladly rest Where smiles welcome the worthy guest",
+          "Who tends his guests day in and out His life in want never wears out"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "விருந்தோம்பல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 83, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நாளும் வரும் விருந்தினரைப் பேணுபவனின் வாழ்க்கை வறுமைப்பட்டுக் கெட்டுப் போவது இல்லை. கலைஞர் உரை கூறுவது: விருந்தினரை நாள்தோறும் வரவேற்று மகிழ்பவரின் வாழ்க்கை, அதன் காரணமாகத் துன்பமுற்றுக் கெட்டொழிவதில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hospitality (Domestic Virtue), Kural 83 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The domestic life of the man that daily entertains the guests who come to him shall not be laid waste by poverty. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'விருந்தோம்பல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Hospitality' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'விருந்தோம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 83 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 83 from Chapter 'Hospitality'?",
+        "quiz_options_ta": [
+          "காக்க வேண்டியவற்றுள் எவற்றைக் காக்கா விட்டாலும் நாவையாவது காக்க வேண்டு்ம்; காக்கத் தவறினால் சொற்குற்றத்தில் அகப்பட்டுத் துன்புறுவர்.",
+          "பொறாமைப்பட்டுப் பெருமையுற்றவரும் உலகத்தில் இல்லை; பொறாமை இல்லாதவராய் மேம்பாட்டிலிருந்து நீங்கியவரும் இல்லை.",
+          "பிறர்க்கு உதவி செய்து வாழும் ஒப்புரவைப் போல நல்லனவாகிய வேறு அறப்பகுதிகளைத் தேவருலகத்திலும் இவ்வுலகத்திலும் பெறுதல் இயலாது.",
+          "தன்னை நோக்கி வரும் விருந்தினரை நாள் தோறும் போற்றுகின்றவனுடைய வாழ்க்கை, துன்பத்தால் வருந்திக் கெட்டுப் போவதில்லை."
+        ],
+        "quiz_options_en": [
+          "Rein the tongue if nothing else Or slips of tongue bring all the woes",
+          "The envious prosper never The envyless prosper ever",
+          "In heav'n and earth 'tis hard to find A greater good than being kind",
+          "Who tends his guests day in and out His life in want never wears out"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (விருந்தோம்பல்) பகுதியில் குறள் 83 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன்னை நோக்கி வரும் விருந்தினரை நாள் தோறும் போற்றுகின்றவனுடைய வாழ்க்கை, துன்பத்தால் வருந்திக் கெட்டுப் போவதில்லை. பரிமேலழகர் உரை நுட்பம்: வருவிருந்து வைகலும் ஓம்புவான் வாழ்க்கை - தன்னை நோக்கி வந்த விருந்தை நாள்தோறும் புறந்தருவானது இல்வாழ்க்கை; பருவந்து பாழ்படுதல் இன்று - நல்குரவான் வருந்திக்கெடுதல் இல்லை. (நாள்தோறும் விருந்தோம்புவானுக்கு அதனான் பொருள் தொலையாது; மேன்மேல் கிளைக்கும் என்பதாம்.).",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 9: 'Hospitality'), Kural 83 distills a foundational ethical insight: \"Each day he tends the coming guest with kindly care; Painless, unfailing plenty shall his household share\" Philosophically, The domestic life of the man that daily entertains the guests who come to him shall not be laid waste by poverty.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "kindness",
+        "speech",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 84,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: நல்ல விருந்தினராய் வந்தவரை முகமலர்ச்சி கொண்டு போற்றுகின்றவனுடைய வீட்டில் மனமகிழ்ந்து திருமகள் வாழ்வாள்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Lakshmi with joyous mind shall dwell in the house of that man who, with cheerful countenance, entertains the good as guests.",
+        "story_title_ta": "விருந்தோம்பல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Hospitality — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'விருந்தோம்பல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 84 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'இனிய முகத்தோடு தக்க விருந்தினரைப் பேணுபவரின் வீட்டில் திருமகள் மனம் மகிழ்ந்து குடி இருப்பாள்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Hospitality'. Grandpa shared Kural 84 and explained in simple words: Lakshmi with joyous mind shall dwell in the house of that man who, with cheerful countenance, entertains the good as guests. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மனமகிழ்ச்சியை முகமலர்ச்சியால் காட்டி விருந்தினரை வரவேற்பவர் வீட்டில் அமர்ந்து செல்வம் எனும் திருமகள் வாழ்வாள்.",
+        "moral_en": "Moral: With smiling face he entertains each virtuous guest,'Fortune' with gladsome mind shall in his dwelling rest.",
+        "game_blank_word_ta": "அகனமர்ந்து",
+        "game_options_ta": [
+          "அகனமர்ந்து",
+          "இருந்தோம்பி",
+          "இல்வாழ்வ",
+          "தெல்லாம்"
+        ],
+        "game_options_en": [
+          "The goddess of wealth will gladly rest Where smiles welcome the worthy guest",
+          "Men set up home, toil and earn To tend the guests and do good turn",
+          "To keep out guests cannot be good Albeit you eat nector-like food",
+          "Who tends his guests day in and out His life in want never wears out"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "விருந்தோம்பல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 84, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இனிய முகத்தோடு தக்க விருந்தினரைப் பேணுபவரின் வீட்டில் திருமகள் மனம் மகிழ்ந்து குடி இருப்பாள். கலைஞர் உரை கூறுவது: மனமகிழ்ச்சியை முகமலர்ச்சியால் காட்டி விருந்தினரை வரவேற்பவர் வீட்டில் அமர்ந்து செல்வம் எனும் திருமகள் வாழ்வாள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hospitality (Domestic Virtue), Kural 84 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Lakshmi with joyous mind shall dwell in the house of that man who, with cheerful countenance, entertains the good as guests. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'விருந்தோம்பல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Hospitality' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'விருந்தோம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 84 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 84 from Chapter 'Hospitality'?",
+        "quiz_options_ta": [
+          "நல்ல விருந்தினராய் வந்தவரை முகமலர்ச்சி கொண்டு போற்றுகின்றவனுடைய வீட்டில் மனமகிழ்ந்து திருமகள் வாழ்வாள்.",
+          "தீய ‌சொற்களின் பொருளால் விளையும் தீமை ஒன்றாயினும் ஒருவனிடம் உண்டானால், அதனால் மற்ற அறங்களாலும் நன்மை விளையாமல் போகும்.",
+          "நடுவுநிலைமை இல்லாமல் பிறர்க்குரிய நல்ல பொருளை ஒருவன் கவர விரும்பினால் அவனுடைய குடியும் கெட்டுக் குற்றமும் அப்போழுதே வந்து சேரும்.",
+          "ஒப்புரவை அறிந்து போற்றிப் பிறர்க்கு உதவியாக வாழ்கின்றவன் உயிர்வாழ்கின்றவன் ஆவான், மற்றவன் செத்தவருள் சேர்த்துக் கருதப்படுவான்."
+        ],
+        "quiz_options_en": [
+          "The goddess of wealth will gladly rest Where smiles welcome the worthy guest",
+          "Even a single evil word Will turn all good results to bad",
+          "Who covets others' honest wealth That greed ruins his house forthwith",
+          "He lives who knows befitting act Others are deemed as dead in fact"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (விருந்தோம்பல்) பகுதியில் குறள் 84 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நல்ல விருந்தினராய் வந்தவரை முகமலர்ச்சி கொண்டு போற்றுகின்றவனுடைய வீட்டில் மனமகிழ்ந்து திருமகள் வாழ்வாள். பரிமேலழகர் உரை நுட்பம்: செய்யாள் அகன் அமர்ந்து உறையும் - திருமகள் மனம் மகிழ்ந்து வாழாநிற்கும்; முகன் அமர்ந்து நல்விருந்து ஓம்புவான் இல் - முகம் இனியனாய்த் தக்க விருந்தினரைப் பேணுவானது இல்லின்கண். (மனம் மகிழ்தற்குக் காரணம் தன் செல்வம் நல்வழிப்படுதல். தகுதி: ஞான ஒழுக்கங்களான் உயர்தல...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 9: 'Hospitality'), Kural 84 distills a foundational ethical insight: \"With smiling face he entertains each virtuous guest,'Fortune' with gladsome mind shall in his dwelling rest\" Philosophically, Lakshmi with joyous mind shall dwell in the house of that man who, with cheerful countenance, entertains the good as guests.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "wealth",
+        "self-mastery",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 85,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: விருந்தினரை முன்னே போற்றி உணவளித்து மிஞ்சிய உணவை உண்டு வாழ்கின்றவனுடைய நிலத்தில் விதையும் விதைக்க வேண்டுமோ?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Is it necessary to sow the field of the man who, having feasted his guests, eats what may remain ?",
+        "story_title_ta": "விருந்தோம்பல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Hospitality — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'விருந்தோம்பல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 85 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'விருந்தினர் முதலில் உண்ண, மிஞ்சியவற்றையே உண்பவனின் நிலத்தில் விதைக்கவும் வேண்டுமா?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Hospitality'. Grandpa shared Kural 85 and explained in simple words: Is it necessary to sow the field of the man who, having feasted his guests, eats what may remain ? The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: விருந்தினர்க்கு முதலில் உணவளித்து மிஞ்சியதை உண்டு வாழும் பண்பாளன், தன் நிலத்திற்குரிய விதையைக்கூட விருந்தோம்பலுக்குப் பயன்படுத்தாமல் இருப்பானா?",
+        "moral_en": "Moral: Who first regales his guest, and then himself supplies, O'er all his fields, unsown, shall plenteous harvests rise.",
+        "game_blank_word_ta": "இடல்வேண்டும்",
+        "game_options_ta": [
+          "இருந்தோம்பி",
+          "இடல்வேண்டும்",
+          "இல்வாழ்வ",
+          "தெல்லாம்"
+        ],
+        "game_options_en": [
+          "Men set up home, toil and earn To tend the guests and do good turn",
+          "Should his field be sown who first Feeds the guests and eats the rest?",
+          "To keep out guests cannot be good Albeit you eat nector-like food",
+          "Who tends his guests day in and out His life in want never wears out"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "விருந்தோம்பல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 85, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: விருந்தினர் முதலில் உண்ண, மிஞ்சியவற்றையே உண்பவனின் நிலத்தில் விதைக்கவும் வேண்டுமா? கலைஞர் உரை கூறுவது: விருந்தினர்க்கு முதலில் உணவளித்து மிஞ்சியதை உண்டு வாழும் பண்பாளன், தன் நிலத்திற்குரிய விதையைக்கூட விருந்தோம்பலுக்குப் பயன்படுத்தாமல் இருப்பானா? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hospitality (Domestic Virtue), Kural 85 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Is it necessary to sow the field of the man who, having feasted his guests, eats what may remain ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'விருந்தோம்பல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Hospitality' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'விருந்தோம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 85 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 85 from Chapter 'Hospitality'?",
+        "quiz_options_ta": [
+          "தீயினால் சுட்ட புண் புறத்தே வடு இருந்தாலும் உள்ளே ஆறிவிடும்; ஆனால் நாவினால் தீய சொல் கூறிச் சுடும் வடு என்றும் ஆறாது.",
+          "விருந்தினரை முன்னே போற்றி உணவளித்து மிஞ்சிய உணவை உண்டு வாழ்கின்றவனுடைய நிலத்தில் விதையும் விதைக்க வேண்டுமோ?",
+          "நடுவுநிலைமை அல்லாதவற்றைக் கண்டு நாணி ஒதுங்குகின்றவர், பிறர் பொருளைக் கவர்வதால் வரும் பயனை விரும்பிப் பழியான செயல்களைச் செய்யார்.",
+          "ஒப்புரவினால் உலகம் வாழுமாறு விரும்பும் பேரறிவாளியின் செல்வம், ஊரார் நீருண்ணும் குளம் நீரால் நிறைந்தாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "The fire-burnt wounds do find a cure Tongue-burnt wound rests a running sore",
+          "Should his field be sown who first Feeds the guests and eats the rest?",
+          "Who shrink with shame from sin, refrain From coveting which brings ruin",
+          "The wealth that wise and kind do make Is like water that fills a lake"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (விருந்தோம்பல்) பகுதியில் குறள் 85 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: விருந்தினரை முன்னே போற்றி உணவளித்து மிஞ்சிய உணவை உண்டு வாழ்கின்றவனுடைய நிலத்தில் விதையும் விதைக்க வேண்டுமோ? பரிமேலழகர் உரை நுட்பம்: விருந்து ஓம்பி மிச்சில் மிசைவான் புலம் - முன்னே விருந்தினரை மிசைவித்துப் பின் மிக்கதனைத் தான் மிசைவானது விளைபுலத்திற்கு; வித்தும் இடல் வேண்டுமோ - வித்திடுதலும் வேண்டுமோ? வேண்டா. ('கொல்' என்பது அசைநிலை. 'தானே விளையும்' என்பது குறிப்பெச்சம். இவை மூன்று...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 9: 'Hospitality'), Kural 85 distills a foundational ethical insight: \"Who first regales his guest, and then himself supplies, O'er all his fields, unsown, shall plenteous harvests rise\" Philosophically, Is it necessary to sow the field of the man who, having feasted his guests, eats what may remain ?",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "gratitude",
+        "truth",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 86,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: வந்த விருந்தினரைப் போற்றி, இனிவரும் விருந்தினரை எதிர் பார்த்திருப்பவன், வானுலகத்தில் உள்ள தேவர்க்கும் நல்ல விருந்தினனாவான்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: He who, having entertained the guests that have come, looks out for others who may yet come, will be a welcome guest to the inhabitants of heaven.",
+        "story_title_ta": "விருந்தோம்பல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Hospitality — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'விருந்தோம்பல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 86 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'வந்த விருந்தினரைப் பேணி, வரும் விருந்தை எதிர்பார்த்து இருப்பவன் மறுமையில் வானத்தவர்க்கு நல்ல விருந்தினன் ஆவான்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Hospitality'. Grandpa shared Kural 86 and explained in simple words: He who, having entertained the guests that have come, looks out for others who may yet come, will be a welcome guest to the inhabitants of heaven. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வந்த விருந்தினரை உபசரித்து அவர்களை வழியனுப்பி வைக்கும்போதே, மேலும் வரக்கூடிய விருந்தினரை ஆவலுடன் எதிர்நோக்கி நிற்பவனை, புகழ்வானில் இருப்போர் நல்ல விருந்தினன் என்று வரவேற்றுப் போற்றுவர்.",
+        "moral_en": "Moral: The guest arrived he tends, the coming guest expects to see; To those in heavenly homes that dwell a welcome guest is he.",
+        "game_blank_word_ta": "வருவிருந்து",
+        "game_options_ta": [
+          "இருந்தோம்பி",
+          "இல்வாழ்வ",
+          "வருவிருந்து",
+          "தெல்லாம்"
+        ],
+        "game_options_en": [
+          "Men set up home, toil and earn To tend the guests and do good turn",
+          "To keep out guests cannot be good Albeit you eat nector-like food",
+          "Who tends a guest and looks for next Is a welcome guest in heaven's feast",
+          "Who tends his guests day in and out His life in want never wears out"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "விருந்தோம்பல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 86, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வந்த விருந்தினரைப் பேணி, வரும் விருந்தை எதிர்பார்த்து இருப்பவன் மறுமையில் வானத்தவர்க்கு நல்ல விருந்தினன் ஆவான். கலைஞர் உரை கூறுவது: வந்த விருந்தினரை உபசரித்து அவர்களை வழியனுப்பி வைக்கும்போதே, மேலும் வரக்கூடிய விருந்தினரை ஆவலுடன் எதிர்நோக்கி நிற்பவனை, புகழ்வானில் இருப்போர் நல்ல விருந்தினன் என்று வரவேற்றுப் போற்றுவர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hospitality (Domestic Virtue), Kural 86 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who, having entertained the guests that have come, looks out for others who may yet come, will be a welcome guest to the inhabitants of heaven. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'விருந்தோம்பல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Hospitality' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'விருந்தோம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 86 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 86 from Chapter 'Hospitality'?",
+        "quiz_options_ta": [
+          "சினம் தோன்றாமல் காத்து, கல்வி கற்று, அடக்கமுடையவனாக இருக்க வல்லவனுடைய செவ்வியை, அவனுடைய வழியில் சென்று அறம் பார்த்திருக்கும்.",
+          "அறநெறியால் பெறும் இன்பத்தை விரும்புகின்றவர், நிலையில்லாத சிறிய இன்பத்தை விரும்பி அறம் அல்லாதவற்றைச் செய்யார்.",
+          "வந்த விருந்தினரைப் போற்றி, இனிவரும் விருந்தினரை எதிர் பார்த்திருப்பவன், வானுலகத்தில் உள்ள தேவர்க்கும் நல்ல விருந்தினனாவான்",
+          "ஒப்புராவாகிய நற்பண்பு உடையவனிடம் செல்வம் சேர்ந்தால் அஃது ஊரின் நடுவே உள்ள பயன் மிகுந்த மரம் பழங்கள் பழுத்தாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Virtue seeks and peeps to see Self-controlled savant anger free",
+          "For spiritual bliss who long For fleeting joy commit no wrong",
+          "Who tends a guest and looks for next Is a welcome guest in heaven's feast",
+          "Who plenty gets and plenty gives Is like town-tree teeming with fruits"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (விருந்தோம்பல்) பகுதியில் குறள் 86 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வந்த விருந்தினரைப் போற்றி, இனிவரும் விருந்தினரை எதிர் பார்த்திருப்பவன், வானுலகத்தில் உள்ள தேவர்க்கும் நல்ல விருந்தினனாவான். பரிமேலழகர் உரை நுட்பம்: செல் லிருந்து ஓம்பி வருவிருந்து பார்த்து இருப்பான் - தன் கண்சென்ற விருந்தைப் பேணிப் பின் செல்லக் கடவ விருந்தைப் பார்த்துத் தான், அதனோடு உண்ண இருப்பான்; வானத்தவர்க்கு நல் விருந்து - மறுபிறப்பில் தேவனாய் வானிலுள்ளார்க்கு நல் விருந்து ஆம். ('வருவிருந்து' என்பது...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 9: 'Hospitality'), Kural 86 distills a foundational ethical insight: \"The guest arrived he tends, the coming guest expects to see; To those in heavenly homes that dwell a welcome guest is he\" Philosophically, He who, having entertained the guests that have come, looks out for others who may yet come, will be a welcome guest to the inhabitants of heaven.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 87,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: விருந்தோம்புதலாகிய வேள்வியின் பயன் இவ்வளவு என்று அளவு படுத்தி கூறத்தக்கது அன்று, விருந்தினரின் தகுதிக்கு ஏற்ற அளவினதாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The advantages of benevolence cannot be measured; the measure (of the virtue) of the guests (entertained) is the only measure.",
+        "story_title_ta": "விருந்தோம்பல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Hospitality — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'விருந்தோம்பல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 87 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'விருந்தினரைப் பேணுவதும் ஒரு யாகமே. அதைச் செய்வதால் வரும் நன்மை இவ்வளவு என்று அளவிட முடியாது; வரும் விருந்தினரின் தகுதி அளவுதான் நன்மையின் அளவாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Hospitality'. Grandpa shared Kural 87 and explained in simple words: The advantages of benevolence cannot be measured; the measure (of the virtue) of the guests (entertained) is the only measure. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: விருந்தினராக வந்தவரின் சிறப்பை எண்ணிப் பார்த்து விருந்தோம்பலை ஒரு வேள்வியாகவே கருதலாம்.",
+        "moral_en": "Moral: To reckon up the fruit of kindly deeds were all in vain; Their worth is as the worth of guests you entertain.",
+        "game_blank_word_ta": "விருந்தின்",
+        "game_options_ta": [
+          "இருந்தோம்பி",
+          "இல்வாழ்வ",
+          "தெல்லாம்",
+          "விருந்தின்"
+        ],
+        "game_options_en": [
+          "Men set up home, toil and earn To tend the guests and do good turn",
+          "To keep out guests cannot be good Albeit you eat nector-like food",
+          "Who tends his guests day in and out His life in want never wears out",
+          "Worth of the guest of quality Is worth of hospitality"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "விருந்தோம்பல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 87, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: விருந்தினரைப் பேணுவதும் ஒரு யாகமே. அதைச் செய்வதால் வரும் நன்மை இவ்வளவு என்று அளவிட முடியாது; வரும் விருந்தினரின் தகுதி அளவுதான் நன்மையின் அளவாகும். கலைஞர் உரை கூறுவது: விருந்தினராக வந்தவரின் சிறப்பை எண்ணிப் பார்த்து விருந்தோம்பலை ஒரு வேள்வியாகவே கருதலாம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hospitality (Domestic Virtue), Kural 87 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The advantages of benevolence cannot be measured; the measure (of the virtue) of the guests (entertained) is the only measure. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'விருந்தோம்பல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Hospitality' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'விருந்தோம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 87 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 87 from Chapter 'Hospitality'?",
+        "quiz_options_ta": [
+          "ஒழுக்கமே எல்லார்க்கும் மேன்மையைத் தருவதாக இருப்பதால், அந்த ஒழுக்கமே உயிரை விடச் சிறந்ததாகப் போற்றப்படும்.",
+          "ஐம்புலன்களையும் வென்ற குற்றமில்லாத அறிவை உடையவர், யாம் வறுமை அடைந்தோம் என்று எண்ணியும் பிறர் பொருளை விரும்பார்‌.",
+          "ஒப்புரவாகிய பெருந்தகைமை உடையவனிடத்து செல்வம் சேர்ந்தால் அஃது எல்லா உறுப்புகளுக்கும் மருந்தாகிப் பயன்படத் தவறாத மரம் போன்றது.",
+          "விருந்தோம்புதலாகிய வேள்வியின் பயன் இவ்வளவு என்று அளவு படுத்தி கூறத்தக்கது அன்று, விருந்தினரின் தகுதிக்கு ஏற்ற அளவினதாகும்"
+        ],
+        "quiz_options_en": [
+          "Decorum does one dignity More than life guard its purity",
+          "The truth-knowers of sense-control Though in want covet not at all",
+          "The wealth of a wide-hearted soul Is a herbal tree that healeth all",
+          "Worth of the guest of quality Is worth of hospitality"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (விருந்தோம்பல்) பகுதியில் குறள் 87 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: விருந்தோம்புதலாகிய வேள்வியின் பயன் இவ்வளவு என்று அளவு படுத்தி கூறத்தக்கது அன்று, விருந்தினரின் தகுதிக்கு ஏற்ற அளவினதாகும். பரிமேலழகர் உரை நுட்பம்: வேள்விப்பயன் இனைத்துணைத்து என்பது ஒன்று இல்லை - விருந்தோம்பல் ஆகிய வேள்விப் பயன் இன்ன அளவிற்று என்பதோர் அளவுடைத்தன்று; விருந்தின் துணைத்துணை - அதற்கு அவ்விருந்தின் தகுதியளவே அளவு. (ஐம்பெரு வேள்வியின் ஒன்றாகலின் 'வேள்வி' என்றும், பொருள் அளவு தான் சிறிது...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 9: 'Hospitality'), Kural 87 distills a foundational ethical insight: \"To reckon up the fruit of kindly deeds were all in vain; Their worth is as the worth of guests you entertain\" Philosophically, The advantages of benevolence cannot be measured; the measure (of the virtue) of the guests (entertained) is the only measure.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "gratitude",
+        "wealth",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 88,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: விருந்தினரை ஓம்பி அந்த வேள்வியில் ஈடுபடாதவர் பொருள்களை வருந்திக்காத்துப் (பின்பு இழந்து) பற்றுக்கொடு இழந்தோமே என்று இரங்குவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Those who have taken no part in the benevolence of hospitality shall (at length lament) saying, \"we have laboured and laid up wealth and are now without support.\".",
+        "story_title_ta": "விருந்தோம்பல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Hospitality — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'விருந்தோம்பல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 88 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'விருந்தினரைப் பேணி, அந்த யாகத்தின் பயனைப் பெறும் பேறு அற்றவர். செல்வத்தைச் சிரமப்பட்டுக் காத்தும் அதனை இழக்கும் போது, இப்போது எந்தத் துணையும் இல்லாதவராய்ப் போனோமே என்று வருந்துவர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Hospitality'. Grandpa shared Kural 88 and explained in simple words: Those who have taken no part in the benevolence of hospitality shall (at length lament) saying, \"we have laboured and laid up wealth and are now without support.\". The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: செல்வத்தைச் சேர்த்துவைத்து அதனை இழக்கும்போது, விருந்தோம்பல் எனும் வேள்விக்கு அது பயன்படுத்தப்படாமற் போயிற்றே என வருந்துவார்கள்.",
+        "moral_en": "Moral: With pain they guard their stores, yet 'All forlorn are we,' they'll cry, Who cherish not their guests, nor kindly help supply.",
+        "game_blank_word_ta": "வேள்வி",
+        "game_options_ta": [
+          "வேள்வி",
+          "இருந்தோம்பி",
+          "இல்வாழ்வ",
+          "தெல்லாம்"
+        ],
+        "game_options_en": [
+          "Who loathe guest-service one day cry: \\\"We toil and store; but life is dry\\\"",
+          "Men set up home, toil and earn To tend the guests and do good turn",
+          "To keep out guests cannot be good Albeit you eat nector-like food",
+          "Who tends his guests day in and out His life in want never wears out"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "விருந்தோம்பல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 88, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: விருந்தினரைப் பேணி, அந்த யாகத்தின் பயனைப் பெறும் பேறு அற்றவர். செல்வத்தைச் சிரமப்பட்டுக் காத்தும் அதனை இழக்கும் போது, இப்போது எந்தத் துணையும் இல்லாதவராய்ப் போனோமே என்று வருந்துவர். கலைஞர் உரை கூறுவது: செல்வத்தைச் சேர்த்துவைத்து அதனை இழக்கும்போது, விருந்தோம்பல் எனும் வேள்விக்கு அது பயன்படுத்தப்படாமற் போயிற்றே என வருந்துவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hospitality (Domestic Virtue), Kural 88 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who have taken no part in the benevolence of hospitality shall (at length lament) saying, \"we have laboured and laid up wealth and are now without support.\". Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'விருந்தோம்பல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Hospitality' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'விருந்தோம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 88 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 88 from Chapter 'Hospitality'?",
+        "quiz_options_ta": [
+          "விருந்தினரை ஓம்பி அந்த வேள்வியில் ஈடுபடாதவர் பொருள்களை வருந்திக்காத்துப் (பின்பு இழந்து) பற்றுக்கொடு இழந்தோமே என்று இரங்குவர்",
+          "ஒழுக்கத்தை வருந்தியும் போற்றிக் காக்க வேண்டும்; பலவற்றையும் ஆராய்ந்து போற்றித் தெளிந்தாலும், அந்த ஒழுக்கமே வாழ்க்கையில் துணையாக விளங்கும்.",
+          "யாரிடத்திலும் பொருளைக் கவர விரும்பிப் பொருந்தாதவற்றைச் செய்தால், நுட்பமானதாய் விரிவுடையதாய் வளர்ந்த அறிவால் பயன் என்ன?",
+          "ஒப்புரவு அறிந்து ஒழுதலாகியத் தன் கடமை அறிந்த அறிவை உடையவர், செல்வ வளம் இல்லாத காலத்திலும் ஒப்புரவுக்குத் தளர மாட்டார்."
+        ],
+        "quiz_options_en": [
+          "Who loathe guest-service one day cry: \\\"We toil and store; but life is dry\\\"",
+          "Virtues of conduct all excel; The soul aid should be guarded well",
+          "What is one's subtle wisdom worth If it deals ill with all on earth",
+          "Though seers may fall on evil days Their sense of duty never strays"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (விருந்தோம்பல்) பகுதியில் குறள் 88 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: விருந்தினரை ஓம்பி அந்த வேள்வியில் ஈடுபடாதவர் பொருள்களை வருந்திக்காத்துப் (பின்பு இழந்து) பற்றுக்கொடு இழந்தோமே என்று இரங்குவர். பரிமேலழகர் உரை நுட்பம்: பரிந்து ஓம்பிப் பற்று அற்றேம் என்பர் - நிலையாப் பொருளை வருந்திக் காத்துப் பின் அதனை இழந்து இது பொழுது யாம் பற்றுக்கோடு இலமாயினேம் என்று இரங்குவர்; விருந்து ஓம்பி வேள்வி தலைப்படாதார் - அப்பொருளான் விருந்தினரை ஓம்பி வேள்விப் பயனை எய்தும் பொறியிலாதார். (\"ஈட்டிய...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 9: 'Hospitality'), Kural 88 distills a foundational ethical insight: \"With pain they guard their stores, yet 'All forlorn are we,' they'll cry, Who cherish not their guests, nor kindly help supply\" Philosophically, Those who have taken no part in the benevolence of hospitality shall (at length lament) saying, \"we have laboured and laid up wealth and are now without support.\".",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "wealth",
+        "ethics",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 89,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: செல்வநிலையில் உள்ள வறுமை என்பது விருந்தோம்புதலைப் போற்றாத அறியாமையாகும்: அஃது அறிவிலிகளிடம் உள்ளதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: That stupidity which excercises no hospitality is poverty in the midst of wealth It is the property of the stupid.",
+        "story_title_ta": "விருந்தோம்பல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Hospitality — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'விருந்தோம்பல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 89 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'செல்வம் இருந்தும் வறுமையாய் வாழ்வது விருந்தினரைப் பேணாமல் வாழும் மடமையே. இது மூடரிடம் மட்டுமே இருக்கும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Hospitality'. Grandpa shared Kural 89 and explained in simple words: That stupidity which excercises no hospitality is poverty in the midst of wealth It is the property of the stupid. The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: விருந்தினரை வரவேற்றுப் போற்றத் தெரியாத அறிவற்றவர்கள் எவ்வளவு பணம் படைத்தவர்களாக இருந்தாலும் தரித்திரம் பிடித்தவர்களாகவே கருதப்படுவார்கள்.",
+        "moral_en": "Moral: To turn from guests is penury, though worldly goods abound;'Tis senseless folly, only with the senseless found.",
+        "game_blank_word_ta": "மடவார்கண்",
+        "game_options_ta": [
+          "இருந்தோம்பி",
+          "மடவார்கண்",
+          "இல்வாழ்வ",
+          "தெல்லாம்"
+        ],
+        "game_options_en": [
+          "Men set up home, toil and earn To tend the guests and do good turn",
+          "The man of wealth is poor indeed Whose folly fails the guest to feed",
+          "To keep out guests cannot be good Albeit you eat nector-like food",
+          "Who tends his guests day in and out His life in want never wears out"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "விருந்தோம்பல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 89, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செல்வம் இருந்தும் வறுமையாய் வாழ்வது விருந்தினரைப் பேணாமல் வாழும் மடமையே. இது மூடரிடம் மட்டுமே இருக்கும். கலைஞர் உரை கூறுவது: விருந்தினரை வரவேற்றுப் போற்றத் தெரியாத அறிவற்றவர்கள் எவ்வளவு பணம் படைத்தவர்களாக இருந்தாலும் தரித்திரம் பிடித்தவர்களாகவே கருதப்படுவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hospitality (Domestic Virtue), Kural 89 speaks directly to teens navigating studies, friendships, leadership, and digital choices: That stupidity which excercises no hospitality is poverty in the midst of wealth It is the property of the stupid. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'விருந்தோம்பல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Hospitality' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'விருந்தோம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 89 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 89 from Chapter 'Hospitality'?",
+        "quiz_options_ta": [
+          "ஒழுக்கம் உடையவராக வாழ்வதே உயர்ந்த குடிப்பிறப்பின் தன்மையாகும்; ஒழுக்கம் தவறுதல் இழிந்த குடிப்பிறப்பின் தன்மையாகி விடும்.",
+          "செல்வநிலையில் உள்ள வறுமை என்பது விருந்தோம்புதலைப் போற்றாத அறியாமையாகும்: அஃது அறிவிலிகளிடம் உள்ளதாகும்.",
+          "அருளை விரும்பி அறநெறியில் நின்றவன், பிறனுடைய பொருளை விரும்பிப் பொல்லாத குற்றங்களை எண்ணினால் கெடுவான்.",
+          "ஒப்புரவாகிய நற்பண்பு உடையவன் வறுமை உடையவனாதல், செய்யத்தக்க உதவிகளைச் செய்யாமல் வருந்துகின்ற தன்மையாகும்."
+        ],
+        "quiz_options_en": [
+          "Good conduct shows good family Low manners mark anomaly",
+          "The man of wealth is poor indeed Whose folly fails the guest to feed",
+          "Who seeks for grace on righteous path Suffers by evil covetous wealth",
+          "The good man's poverty and grief Is want of means to give relief"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (விருந்தோம்பல்) பகுதியில் குறள் 89 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செல்வநிலையில் உள்ள வறுமை என்பது விருந்தோம்புதலைப் போற்றாத அறியாமையாகும்: அஃது அறிவிலிகளிடம் உள்ளதாகும். பரிமேலழகர் உரை நுட்பம்: உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா மடமை -உடைமைக் காலத்து இன்மையாவது விருந்தோம்பலை இகழும் பேதைமை; மடவார்கண் உண்டு - அஃது அறிந்தார் மாட்டு உளதாகாது; பேதையார் மாட்டே உளதாம். (உடைமை - பொருளுடையனாம் தன்மை. பொருளால் கொள்ளும் பயனை இழப்பித்து உடைமையை இன்மை ஆக்கலின...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 9: 'Hospitality'), Kural 89 distills a foundational ethical insight: \"To turn from guests is penury, though worldly goods abound;'Tis senseless folly, only with the senseless found\" Philosophically, That stupidity which excercises no hospitality is poverty in the midst of wealth It is the property of the stupid.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "wealth",
+        "family",
+        "kindness",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 90,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அனிச்சப்பூ மோந்தவுடன் வாடிவிடும்: அதுபோல் முகம் மலராமல் வேறு பட்டு நோக்கியவுடன் விருந்தினர் வாடி நிற்பார்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: As the Anicham flower fades in smelling, so fades the guest when the face is turned away.",
+        "story_title_ta": "விருந்தோம்பல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Hospitality — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'விருந்தோம்பல்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 90 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தொட்டு மோந்து பார்த்த அளவில் அனிச்சப்பூ வாடும்; நம் முகம் வேறுபட்டுப் பார்த்த அளவில் விருந்து வாடும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Hospitality'. Grandpa shared Kural 90 and explained in simple words: As the Anicham flower fades in smelling, so fades the guest when the face is turned away. The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: அனிச்சம் எனப்படும் பூ, முகர்ந்தவுடன் வாடி விடக் கூடியது அதுபோல் சற்று முகங்கோணி வரவேற்றாலே விருந்தினர் வாடிவிடுவர்.",
+        "moral_en": "Moral: The flower of 'Anicha' withers away, If you do but its fragrance inhale; If the face of the host cold welcome convey, The guest's heart within him will fail.",
+        "game_blank_word_ta": "விருந்து",
+        "game_options_ta": [
+          "இருந்தோம்பி",
+          "இல்வாழ்வ",
+          "விருந்து",
+          "தெல்லாம்"
+        ],
+        "game_options_en": [
+          "Men set up home, toil and earn To tend the guests and do good turn",
+          "To keep out guests cannot be good Albeit you eat nector-like food",
+          "Anicham smelt withers: like that A wry-faced look withers the guest",
+          "Who tends his guests day in and out His life in want never wears out"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "விருந்தோம்பல் (இல்லறவியல்) பிரிவில் அமைந்த குறள் 90, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தொட்டு மோந்து பார்த்த அளவில் அனிச்சப்பூ வாடும்; நம் முகம் வேறுபட்டுப் பார்த்த அளவில் விருந்து வாடும். கலைஞர் உரை கூறுவது: அனிச்சம் எனப்படும் பூ, முகர்ந்தவுடன் வாடி விடக் கூடியது அதுபோல் சற்று முகங்கோணி வரவேற்றாலே விருந்தினர் வாடிவிடுவர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Hospitality (Domestic Virtue), Kural 90 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As the Anicham flower fades in smelling, so fades the guest when the face is turned away. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'விருந்தோம்பல்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Hospitality' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'விருந்தோம்பல்' அதிகாரத்தில் வரும் திருக்குறள் 90 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 90 from Chapter 'Hospitality'?",
+        "quiz_options_ta": [
+          "கற்ற மறைப் பொருளை மறந்தாலும் மீண்டும் அதனை ஓதிக் கற்றுக் கொள்ள முடியும்; ஆனால் மறை ஓதுவனுடைய குடிப்பிறப்பு, ஒழுக்கம் குன்றினால் கெடு்ம்.",
+          "பிறர் பொருளைக் கவர விரும்புவதால் ஆகும் ஆக்கத்தை விரும்பாதிருக்க வேண்டும்; அது பயன் விளைவிக்கும்போது அப்பயன் நன்மையாவது அரிதாகும்.",
+          "அனிச்சப்பூ மோந்தவுடன் வாடிவிடும்: அதுபோல் முகம் மலராமல் வேறு பட்டு நோக்கியவுடன் விருந்தினர் வாடி நிற்பார்.",
+          "ஒப்புரவால் கேடு வரும் என்றால் அக் கேடு ஒருவன் தன்னை விற்றாவது வாங்கிக்கொள்ளும் தகுதி உடையதாகும்."
+        ],
+        "quiz_options_en": [
+          "Readers recall forgotten lore, But conduct lost returns no more",
+          "Shun the fruit of covetousness All its yield is inglorious",
+          "Anicham smelt withers: like that A wry-faced look withers the guest",
+          "By good if ruin comes across Sell yourself to save that loss"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — இல்லறவியல் (விருந்தோம்பல்) பகுதியில் குறள் 90 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அனிச்சப்பூ மோந்தவுடன் வாடிவிடும்: அதுபோல் முகம் மலராமல் வேறு பட்டு நோக்கியவுடன் விருந்தினர் வாடி நிற்பார். பரிமேலழகர் உரை நுட்பம்: அனிச்சம் மோப்பக் குழையும் - அனிச்சப்பூ மோந்துழியன்றிக் குழையாது; விருந்து முகம் திரிந்து நோக்கக்குழையும் - விருந்தினர் முகம் வேறுபட்டு நோக்கக் குழைவர். (அனிச்சம் ஆகுபெயர். சேய்மைக்கண் கண்டுழி இன்முகமும், அதுபற்றி நண்ணியவழி இன்சொல்லும், அதுபற்றி உடன்பட்ட வழி...",
+        "reflection_en": "Within Book of Virtue (Domestic Virtue — Chapter 9: 'Hospitality'), Kural 90 distills a foundational ethical insight: \"The flower of 'Anicha' withers away, If you do but its fragrance inhale; If the face of the host cold welcome convey, The guest's heart within him will fail\" Philosophically, As the Anicham flower fades in smelling, so fades the guest when the face is turned away.",
+        "research_theme": "virtue"
+      },
+      "tags": [
+        "family",
+        "love"
+      ]
+    }
+  ]
+}

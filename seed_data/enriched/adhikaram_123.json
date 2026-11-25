@@ -1,0 +1,582 @@
+{
+  "adhikaram_id": 123,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.589846140+00:00",
+  "kurals": [
+    {
+      "kural_number": 1221,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பொழுதே! நீ மாலைக்காலம் அல்ல; (காதலரோடு கூடியிருந்து பிறகு பிரிந்து வாழும்) மகளிரின் உயிரை உண்ணும் முடிவுக் காலமாக இருக்கினறாய்!",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Live, O you evening are you (the former) evening? No, you are the season that slays (married) women.",
+        "story_title_ta": "பொழுதுகண்டு இரங்கல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Lamentations at Eventide — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பொழுதுகண்டு இரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1221 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1221 from 'Lamentations at Eventide', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நீ மாலைப் பொழுதாக இல்லாமல் காதலரைப் பிரிந்திருக்கும் மகளிர் உயிரைக் குடிக்கும் வேலாக இருப்பதற்காக உனக்கோர் வாழ்த்து!",
+        "moral_en": "Moral: Thou art not evening, but a spear that doth devourThe souls of brides; farewell, thou evening hour.",
+        "game_blank_word_ta": "உயிருண்ணும்",
+        "game_options_ta": [
+          "புன்கண்ணை",
+          "உயிருண்ணும்",
+          "மருள்மாலை",
+          "எம்கேள்போல்"
+        ],
+        "game_options_en": [
+          "Hail sad eventide dim and grim Has your mate like mine, cruel whim!",
+          "Bless you! you are not eventide But killing dart to wedded bride!",
+          "Wet eve came pale and trembling then Now it makes bold with growing pain",
+          "Lover away, comes eventide Like slayer to field of homicide"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொழுதுகண்டு இரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1221, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொழுதே! நீ வாழ்க! முன்பெல்லாம் வருவாயே அந்த மாலையா நீ என்றால் இல்லை; திருமணம் செய்து கொண்ட பெண்களின் உயிரை வாங்கும் பொழுது நீ. கலைஞர் உரை கூறுவது: நீ மாலைப் பொழுதாக இல்லாமல் காதலரைப் பிரிந்திருக்கும் மகளிர் உயிரைக் குடிக்கும் வேலாக இருப்பதற்காக உனக்கோர் வாழ்த்து! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Lamentations at Eventide (Post-marital Love), Kural 1221 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Live, O you evening are you (the former) evening? No, you are the season that slays (married) women. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பொழுதுகண்டு இரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Lamentations at Eventide'.",
+        "quiz_question_ta": "'பொழுதுகண்டு இரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1221 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1221 from Chapter 'Lamentations at Eventide'?",
+        "quiz_options_ta": [
+          "என் காதலரைக் கண்ணாரக் காண்பேனாக; கண்ட பிறகு என்னுடைய மெல்லிய தோளில் உண்டாகிய பசலை நிறம் தானே நீங்கி விடும்.",
+          "பொழுதே! நீ மாலைக்காலம் அல்ல; (காதலரோடு கூடியிருந்து பிறகு பிரிந்து வாழும்) மகளிரின் உயிரை உண்ணும் முடிவுக் காலமாக இருக்கினறாய்!",
+          "நம்மால் இவர் வருந்தினார் என்று அந்த வருத்தத்தை அறிகின்ற காதலர் இல்லாதபோது, வருந்துவதால் பயன் என்ன?",
+          "ஒழுக்கத்தில் நிலைத்து நின்று பற்று விட்டவர்களின் பெருமையைச் சிறந்ததாக போற்றி கூறுவதே நூல்களின் துணிவாகும்."
+        ],
+        "quiz_options_en": [
+          "Let me but gaze and gaze my spouse sallow on my soft shoulders files",
+          "Bless you! you are not eventide But killing dart to wedded bride!",
+          "What's the good of grieving lament When concious lover is not present?",
+          "No merit can be held so high As theirs who sense and self deny"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பொழுதுகண்டு இரங்கல்) பகுதியில் குறள் 1221 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொழுதே! நீ மாலைக்காலம் அல்ல; (காதலரோடு கூடியிருந்து பிறகு பிரிந்து வாழும்) மகளிரின் உயிரை உண்ணும் முடிவுக் காலமாக இருக்கினறாய்! பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, மாலைப்பொழுது வந்துழி, அதனைக் கண்டு தலைமகள் இரங்குதல். 'கனா முந்துறாத வினையில்லை' (பழமொழி.2) என்பதுபற்றிப் பகற்பொழுது ஆற்றிஇருந்தாட்கு உரியதாகலின், இது கனவு நிலை உரைத்தலின் பின் வைக்கப் பட்டது.] (பொழுதொடு புலந்து சொல்லியது.) பொழுது - பொழுதே; நீ...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 123: 'Lamentations at Eventide'), Kural 1221 distills a foundational ethical insight: \"Thou art not evening, but a spear that doth devourThe souls of brides; farewell, thou evening hour\" Philosophically, Live, O you evening are you (the former) evening? No, you are the season that slays (married) women.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "time",
+        "love",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1222,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: மயங்கிய மாலைப்‌பொழுதே! நீயும் எம்மைப்போல் துன்பப்படுகின்‌றாயே! உன் துணையும் எம் காதலர் போல் இரக்கம் அற்றதோ?",
+        "simple_meaning_en": "Dear child, remember this golden lesson: A long life to you, O dark evening! You are sightless Is your help-mate (also) as hard-hearted as mine.",
+        "story_title_ta": "பொழுதுகண்டு இரங்கல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Lamentations at Eventide — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பொழுதுகண்டு இரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1222 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1222 from 'Lamentations at Eventide', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: மயங்கும் மாலைப் பொழுதே! நீயும் எம்மைப் போல் துன்பப்படுகின்றாயே! எம் காதலர் போல் உன் துணையும் இரக்கம் அற்றதோ?",
+        "moral_en": "Moral: Thine eye is sad; Hail, doubtful hour of eventide!Of cruel eye, as is my spouse, is too thy bride.",
+        "game_blank_word_ta": "எம்கேள்போல்",
+        "game_options_ta": [
+          "மாலையோ",
+          "அல்லை",
+          "எம்கேள்போல்",
+          "மணந்தார்"
+        ],
+        "game_options_en": [
+          "Bless you! you are not eventide But killing dart to wedded bride!",
+          "Wet eve came pale and trembling then Now it makes bold with growing pain",
+          "Hail sad eventide dim and grim Has your mate like mine, cruel whim!",
+          "Lover away, comes eventide Like slayer to field of homicide"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொழுதுகண்டு இரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1222, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகலும் இரவுமாய் மயங்கும் மாலைப்பொழுதே! என்னைப் போலவே நீயும் ஒளி இழந்த கண்ணோடு இருக்கிறாயே; உன் கணவரும் என் கணவரைப் போல் கொடியவரோ? கலைஞர் உரை கூறுவது: மயங்கும் மாலைப் பொழுதே! நீயும் எம்மைப் போல் துன்பப்படுகின்றாயே! எம் காதலர் போல் உன் துணையும் இரக்கம் அற்றதோ? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Lamentations at Eventide (Post-marital Love), Kural 1222 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A long life to you, O dark evening! You are sightless Is your help-mate (also) as hard-hearted as mine. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பொழுதுகண்டு இரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Lamentations at Eventide'.",
+        "quiz_question_ta": "'பொழுதுகண்டு இரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1222 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1222 from Chapter 'Lamentations at Eventide'?",
+        "quiz_options_ta": [
+          "என் காதலன் ஒருநாள் என்னிடம் வருவானாக; வந்த பிறகு, என்னுடைய துன்பநோய் எல்லொம் தீருமாறு நான் நன்றாக நுகர்வேன்.",
+          "நீரும் நிழலை அடுத்திருப்பதே இனிமையானது; அதுபோல், ஊடலும் அன்பு செலுத்துவோரிடத்தில் கொள்வதே இன்பமானது.",
+          "மயங்கிய மாலைப்‌பொழுதே! நீயும் எம்மைப்போல் துன்பப்படுகின்‌றாயே! உன் துணையும் எம் காதலர் போல் இரக்கம் அற்றதோ?",
+          "பற்றுக்களைத் துறந்தவர்களின் பெருமையை அளந்து கூறுதல், உலகத்தில் இதுவரை பிறந்து இறந்தவர்களை கணக்கிடுவதைப்போன்றது."
+        ],
+        "quiz_options_en": [
+          "Let my spouse return just a day Joy-drink shall drive my pain away",
+          "Water delights in a shady grove And sulking in souls of psychic love",
+          "Hail sad eventide dim and grim Has your mate like mine, cruel whim!",
+          "To con ascetic glory here Is to count the dead upon the sphere"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பொழுதுகண்டு இரங்கல்) பகுதியில் குறள் 1222 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மயங்கிய மாலைப்‌பொழுதே! நீயும் எம்மைப்போல் துன்பப்படுகின்‌றாயே! உன் துணையும் எம் காதலர் போல் இரக்கம் அற்றதோ? பரிமேலழகர் உரை நுட்பம்: (தன்னுட் கையாற்றை அதன்மேலிட்டுச் சொல்லியது.) மருள்மாலை - மயங்கிய மாலாய்; புன்கண்ணை -நீயும் எம்போலப் புன்கணுடையையாயிருந்தாய்; நின் துணை எம்கேள்போல் வன்கண்ணதோ - நின் துணையும் எம் துணை போல வன்கண்மையுடையதோ? கூறுவாயாக. (மயங்குதல் - பகலும் இரவும் தம்முள்ளே...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 123: 'Lamentations at Eventide'), Kural 1222 distills a foundational ethical insight: \"Thine eye is sad; Hail, doubtful hour of eventide!Of cruel eye, as is my spouse, is too thy bride\" Philosophically, A long life to you, O dark evening! You are sightless Is your help-mate (also) as hard-hearted as mine.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 1223,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பனி தோன்றிப் பசந்த நிறம் கொண்ட மாலைப் பொழுது எனக்கு வருத்தம் ஏற்பட்டுத் துன்பம் மேன்மேலும் வளரும்படியாக வருகின்றது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The evening that (once) came in with trembling and dimness (now) brings me an aversion for life and increasing sorrow.",
+        "story_title_ta": "பொழுதுகண்டு இரங்கல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Lamentations at Eventide — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பொழுதுகண்டு இரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1223 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1223 from 'Lamentations at Eventide', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பக்கத்தில் என் காதலர் இருந்த போது பயந்து, பசலை நிறத்துடன் வந்த மாலைப் பொழுது, இப்போது என் உயிரை வெறுக்குமளவுக்குத் துன்பத்தை மிகுதியாகக் கொண்டு வருகிறது.",
+        "moral_en": "Moral: With buds of chilly dew wan evening's shade enclose; My anguish buds space and all my sorrow grows.",
+        "game_blank_word_ta": "வரும்",
+        "game_options_ta": [
+          "மாலையோ",
+          "அல்லை",
+          "மணந்தார்",
+          "வரும்"
+        ],
+        "game_options_en": [
+          "Bless you! you are not eventide But killing dart to wedded bride!",
+          "Hail sad eventide dim and grim Has your mate like mine, cruel whim!",
+          "Lover away, comes eventide Like slayer to field of homicide",
+          "Wet eve came pale and trembling then Now it makes bold with growing pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொழுதுகண்டு இரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1223, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவர் என்னைப் பிரிவதற்கு முன்பு என்முன் வரவே நடுக்கம் எய்தி மேனி கறுத்து வந்த இந்த மாலைப் பொழுது இப்போது எனக்குச் சாவு வரும்படி தோன்றி, அதற்கான துன்பம் பெருகும்படி நாளும் வருகின்றது. கலைஞர் உரை கூறுவது: பக்கத்தில் என் காதலர் இருந்த போது பயந்து, பசலை நிறத்துடன் வந்த மாலைப் பொழுது, இப்போது என் உயிரை வெறுக்குமளவுக்குத் துன்பத்தை மிகுதியாகக் கொண்டு வருகிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Lamentations at Eventide (Post-marital Love), Kural 1223 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The evening that (once) came in with trembling and dimness (now) brings me an aversion for life and increasing sorrow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பொழுதுகண்டு இரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Lamentations at Eventide'.",
+        "quiz_question_ta": "'பொழுதுகண்டு இரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1223 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1223 from Chapter 'Lamentations at Eventide'?",
+        "quiz_options_ta": [
+          "என்னுடைய கண்போன்ற காதலர் வருவாரானால், யான் அவரோடு ஊடுவேனோ? அல்லது அவரைத் தழுவுவேனோ? அவரோடு கூடுவேனோ?",
+          "ஊடல் கொண்ட‌போது உணர்த்தி மகிழ்விக்காமல் வாட விடுகின்றவரோடு என் நெஞ்சம் கூடியிருப்போம் என்று முயல்வதற்குக் காரணம் அதன் ஆசையே.",
+          "பிறப்பு வீடு என்பன போல் இரண்டிரண்டாக உள்ளவைகளின் கூறுபாடுகளை ஆராய்ந்தறிந்து அறத்தை மேற்கொண்டவரின் பெருமையே உலகத்தில் உயர்ந்தது",
+          "பனி தோன்றிப் பசந்த நிறம் கொண்ட மாலைப் பொழுது எனக்கு வருத்தம் ஏற்பட்டுத் துன்பம் மேன்மேலும் வளரும்படியாக வருகின்றது."
+        ],
+        "quiz_options_en": [
+          "If my eye-like lord returneth Shall I sulk or clasp or do both?",
+          "My heart athirst would still unite With her who me in sulking left!",
+          "No lustre can with theirs compare Who know the right and virtue wear",
+          "Wet eve came pale and trembling then Now it makes bold with growing pain"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பொழுதுகண்டு இரங்கல்) பகுதியில் குறள் 1223 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பனி தோன்றிப் பசந்த நிறம் கொண்ட மாலைப் பொழுது எனக்கு வருத்தம் ஏற்பட்டுத் துன்பம் மேன்மேலும் வளரும்படியாக வருகின்றது. பரிமேலழகர் உரை நுட்பம்: (ஆற்றல் வேண்டும் என்ற தோழிக்குச் சொல்லியது.) பனி அரும்பிப் பைதல்கொள் மாலை - காதலர் கூடிய நாளெல்லாம் என்முன் நடுக்கம் எய்திப் பசந்து வந்த மாலை; துனி அரும்பித் துன்பம் வளர வரும் - இந்நாள் எனக்கு இறந்துபாடு வந்து தோன்றி அதற்கு உளதாம் துன்பம் ஒரு காலைக்கு ஒருகால...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 123: 'Lamentations at Eventide'), Kural 1223 distills a foundational ethical insight: \"With buds of chilly dew wan evening's shade enclose; My anguish buds space and all my sorrow grows\" Philosophically, The evening that (once) came in with trembling and dimness (now) brings me an aversion for life and increasing sorrow.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "time",
+        "love",
+        "courage",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1224,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: காதலர் இல்லாத இப்போது, கொலை செய்யும் இடத்தில் பகைவர் வருவது போல் மாலைப்பொழுது ( என் உயிரைக் கொள்ள) வருகின்றது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: In the absence of my lover, evening comes in like slayers on the field of slaughter.",
+        "story_title_ta": "பொழுதுகண்டு இரங்கல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Lamentations at Eventide — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பொழுதுகண்டு இரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1224 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1224 from 'Lamentations at Eventide', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதலர் பிரிந்திருக்கும்போது வருகிற மாலைப் பொழுது கொலைக் களத்தில் பகைவர் ஓங்கி வீசுகிற வாளைப்போல் வருகிறது.",
+        "moral_en": "Moral: When absent is my love, the evening hour descends, As when an alien host to field of battle wends.",
+        "game_blank_word_ta": "வரும்",
+        "game_options_ta": [
+          "வரும்",
+          "மாலையோ",
+          "அல்லை",
+          "மணந்தார்"
+        ],
+        "game_options_en": [
+          "Lover away, comes eventide Like slayer to field of homicide",
+          "Bless you! you are not eventide But killing dart to wedded bride!",
+          "Hail sad eventide dim and grim Has your mate like mine, cruel whim!",
+          "Wet eve came pale and trembling then Now it makes bold with growing pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொழுதுகண்டு இரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1224, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவர் என்னைப் பிரியாமல் என்னுடன் இருந்தபோது எல்லாம் என் உயிர் வளர வந்த இந்த மாலைப் பொழுது, அவர் என்னைப் பிரிந்து இருக்கும் இப்போது, கொலைக் காலத்திற்கு வரும் கொலையாளிகள் போலக் கருணை இல்லாமல் வருகிறது. கலைஞர் உரை கூறுவது: காதலர் பிரிந்திருக்கும்போது வருகிற மாலைப் பொழுது கொலைக் களத்தில் பகைவர் ஓங்கி வீசுகிற வாளைப்போல் வருகிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Lamentations at Eventide (Post-marital Love), Kural 1224 speaks directly to teens navigating studies, friendships, leadership, and digital choices: In the absence of my lover, evening comes in like slayers on the field of slaughter. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பொழுதுகண்டு இரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Lamentations at Eventide'.",
+        "quiz_question_ta": "'பொழுதுகண்டு இரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1224 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1224 from Chapter 'Lamentations at Eventide'?",
+        "quiz_options_ta": [
+          "காதலர் இல்லாத இப்போது, கொலை செய்யும் இடத்தில் பகைவர் வருவது போல் மாலைப்பொழுது ( என் உயிரைக் கொள்ள) வருகின்றது.",
+          "அரசன் இச் செயலில் முனைந்து நின்று வெற்றி பெறுவானாக; அதன்பின் யாம் மனைவியோடு கூடியிருந்து அனறு வரும் மாலைப் பொழுதிற்கு விருந்து செய்வோம்.",
+          "பரத்தமை உடையாய்! பெண் தன்மை உடையவர் எல்லாரும் தம்தம் கண்களால் ‌பொதுப் பொருளாகக் கொண்டு நுகர்கின்றார்கள்; ஆகையால் உன் மார்பைப் பொருந்தேன்.",
+          "அறிவு என்னும் கருவியினால் ஐம்பொறிகளாகிய யானைகளை அடக்கி காக்க வல்லவன், மேலான வீட்டிற்கு விதை போன்றவன்"
+        ],
+        "quiz_options_en": [
+          "Lover away, comes eventide Like slayer to field of homicide",
+          "May the king fight and win and give And with my wife I will feast this eve!",
+          "I shrink to clasp you bosom lewd To the gaze of all ladies exposed",
+          "With hook of firmness to restrain The senses five, is heaven to gain"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பொழுதுகண்டு இரங்கல்) பகுதியில் குறள் 1224 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காதலர் இல்லாத இப்போது, கொலை செய்யும் இடத்தில் பகைவர் வருவது போல் மாலைப்பொழுது ( என் உயிரைக் கொள்ள) வருகின்றது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) மாலை - காதலர் உள்ள பொழுதெல்லாம் என் உயிர் தளிர்ப்ப வந்த மாலை; காதலர் இல்வழி - அவர் இல்லாத இப்பொழுது; கொலைக்களத்து ஏதிலர் போல வரும் - அஃது ஒழிந்து நிற்றலே அன்றிக் கொல்லுங்களரியில் கொலைஞர் வருமாறுபோல அவ்வுயிரைக் கோடற்கு வாராநின்றது. (ஏதிலர...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 123: 'Lamentations at Eventide'), Kural 1224 distills a foundational ethical insight: \"When absent is my love, the evening hour descends, As when an alien host to field of battle wends\" Philosophically, In the absence of my lover, evening comes in like slayers on the field of slaughter.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "time",
+        "discipline",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 1225,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: யான் காலைப்பொழுதிற்குச் செய்த நன்மை என்ன? (என்னைத் துன்புறுத்துகின்ற) மாலைப் பொழுதிற்குச் செய்த பகையான தீமை என்ன?",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: O eve, why art thou foe! thou dost renew my grief.",
+        "story_title_ta": "பொழுதுகண்டு இரங்கல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Lamentations at Eventide — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பொழுதுகண்டு இரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1225 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1225 from 'Lamentations at Eventide', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: மாலைப் பொழுதாகிவிட்டால் காதல் துன்பம் அதிகமாக வருத்துகிறது அதனால் பிரிந்திருக்கும் காதலர் உள்ளம் ``காலை நேரத்துக்கு நான் செய்த நன்மை என்ன? மாலை நேரத்துக்குச் செய்த தீமைதான் என்ன?'' என்று புலம்புகிறது.",
+        "moral_en": "Moral: O morn, how have I won thy grace? thou bring'st reliefO eve, why art thou foe! thou dost renew my grief.",
+        "game_blank_word_ta": "செய்தநன்று",
+        "game_options_ta": [
+          "மாலையோ",
+          "செய்தநன்று",
+          "அல்லை",
+          "மணந்தார்"
+        ],
+        "game_options_en": [
+          "Bless you! you are not eventide But killing dart to wedded bride!",
+          "What good have I done to morning And what evil to this evening?",
+          "Hail sad eventide dim and grim Has your mate like mine, cruel whim!",
+          "Wet eve came pale and trembling then Now it makes bold with growing pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொழுதுகண்டு இரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1225, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காலைக்கு நான் செய்த நன்மை என்ன? மாலைக்கு நான் செய்த தீமை என்ன? கலைஞர் உரை கூறுவது: மாலைப் பொழுதாகிவிட்டால் காதல் துன்பம் அதிகமாக வருத்துகிறது அதனால் பிரிந்திருக்கும் காதலர் உள்ளம் ``காலை நேரத்துக்கு நான் செய்த நன்மை என்ன? மாலை நேரத்துக்குச் செய்த தீமைதான் என்ன?'' என்று புலம்புகிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Lamentations at Eventide (Post-marital Love), Kural 1225 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O eve, why art thou foe! thou dost renew my grief. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பொழுதுகண்டு இரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Lamentations at Eventide'.",
+        "quiz_question_ta": "'பொழுதுகண்டு இரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1225 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1225 from Chapter 'Lamentations at Eventide'?",
+        "quiz_options_ta": [
+          "தொலைவில் உள்ள வெளிநாட்டிற்குச் சென்ற காதலர் திரும்பி வரும் நாளை நினைத்து ஏங்கும் மகளிர்க்கு ஒருநாள் ஏழுநாள் போல ( நெடிதாக) கழியும்.",
+          "யான் காலைப்பொழுதிற்குச் செய்த நன்மை என்ன? (என்னைத் துன்புறுத்துகின்ற) மாலைப் பொழுதிற்குச் செய்த பகையான தீமை என்ன?",
+          "காதலரோடு ஊடல் கொண்டிருந்தோமாக, யாம் தம்மை நெடுங்காலம் வாழ்க என்று வாய் திறந்து சொல்லுவோம் என நினைத்து அவர் தும்மினார்.",
+          "ஐந்து புலன்களாலாகும் ஆசைகளை ஒழித்தவனுடைய வல்லமைக்கு, வானுலகத்தாரின் தலைவனாகிய இந்திரனே போதுமான சான்று ஆவான்"
+        ],
+        "quiz_options_en": [
+          "One day seems as seven to those Who yearn return of distant spouse",
+          "What good have I done to morning And what evil to this evening?",
+          "He sneezed while we went on sulking Expecting me to say \\\"live long\\\"",
+          "Indra himself has cause to say How great the power ascetics' sway"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பொழுதுகண்டு இரங்கல்) பகுதியில் குறள் 1225 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: யான் காலைப்பொழுதிற்குச் செய்த நன்மை என்ன? (என்னைத் துன்புறுத்துகின்ற) மாலைப் பொழுதிற்குச் செய்த பகையான தீமை என்ன? பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) (காலையும், மாலையும், அவர் கூடிய ஞான்று போலாது இஞ்ஞான்று வேறுபட்டு வாராநின்றன; அவற்றுள்) யான் காலைக்குச் செய்த நன்று என் - யான் காலைக்குச் செய்த உபகாரம் யாது? மாலைக்குச் செய்த பகை எவன் - மாலைக்குச் செய்த அபகாரம் யாது? (கூடிய ஞான்று பிரிவர் என்று...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 123: 'Lamentations at Eventide'), Kural 1225 distills a foundational ethical insight: \"O morn, how have I won thy grace? thou bring'st reliefO eve, why art thou foe! thou dost renew my grief\" Philosophically, O eve, why art thou foe! thou dost renew my grief.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "courage",
+        "love",
+        "time",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1226,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: மாலைப் பொழுது இவ்வாறு துன்பம் செய்ய வல்லது என்பதைக் காதலர் என்னை விட்டு அகலாமல் உடனிருந்த காலத்தில் யான் அறியவில்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Previous to my husband's departure, I know not the painful nature of evening.",
+        "story_title_ta": "பொழுதுகண்டு இரங்கல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Lamentations at Eventide — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பொழுதுகண்டு இரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1226 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1226 from 'Lamentations at Eventide', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: மாலைக்காலம் இப்படியெல்லாம் இன்னல் விளைவிக்கக் கூடியது என்பதைக் காதலர் என்னை விட்டுப் பிரியாமல் இருந்த போது நான் அறிந்திருக்கவில்லை.",
+        "moral_en": "Moral: The pangs that evening brings I never knew, Till he, my wedded spouse, from me withdrew.",
+        "game_blank_word_ta": "மணந்தார்",
+        "game_options_ta": [
+          "மாலையோ",
+          "அல்லை",
+          "மணந்தார்",
+          "உயிருண்ணும்"
+        ],
+        "game_options_en": [
+          "Bless you! you are not eventide But killing dart to wedded bride!",
+          "Hail sad eventide dim and grim Has your mate like mine, cruel whim!",
+          "Evening pangs I have not known When my lord nev'r left me alone",
+          "Wet eve came pale and trembling then Now it makes bold with growing pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொழுதுகண்டு இரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1226, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முன்பு எனக்கு மகிழ்ச்சி தந்த மாலைப்பொழுது இப்படித் துன்பம் தரும் என்பதை, என்னை மணந்த காதலர் என்னைப் பிரிவதற்கு முன்பு நான் அறிந்தது கூட இல்லை. கலைஞர் உரை கூறுவது: மாலைக்காலம் இப்படியெல்லாம் இன்னல் விளைவிக்கக் கூடியது என்பதைக் காதலர் என்னை விட்டுப் பிரியாமல் இருந்த போது நான் அறிந்திருக்கவில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Lamentations at Eventide (Post-marital Love), Kural 1226 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Previous to my husband's departure, I know not the painful nature of evening. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பொழுதுகண்டு இரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Lamentations at Eventide'.",
+        "quiz_question_ta": "'பொழுதுகண்டு இரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1226 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1226 from Chapter 'Lamentations at Eventide'?",
+        "quiz_options_ta": [
+          "துன்பத்தைத் தாங்காமல் மனம் உடைந்து அழிந்து விட்டால், நம்மைத் திரும்பப்‌ பெறுவதனால் என்ன? பெற்றக்கால் என்ன? பெற்றுப் பொருந்தினாலும் என்ன?",
+          "கிளைகளில் மலர்ந்த மலர்களைச் சூடினாலும், நீர் இந்த அழகை யாரோ ஒருத்திக்கு காட்டுவதற்காகச் சூடினீர் என்று சினம் கொள்வாள்.",
+          "மாலைப் பொழுது இவ்வாறு துன்பம் செய்ய வல்லது என்பதைக் காதலர் என்னை விட்டு அகலாமல் உடனிருந்த காலத்தில் யான் அறியவில்லை.",
+          "செய்வதற்கு அருமையான செயல்களை செய்ய வல்லவரே பெரியோர். செய்வதற்கு அரிய செயல்களைச் செய்யமாட்டாதவர் சிறியோர்."
+        ],
+        "quiz_options_en": [
+          "When her heart is broken, what is The good of meeting and love-embrace?",
+          "\\\"For which lady?\\\" she widely cries While I adorn myself with flowers",
+          "Evening pangs I have not known When my lord nev'r left me alone",
+          "The small the paths of ease pursue The great achieve things rare to do"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பொழுதுகண்டு இரங்கல்) பகுதியில் குறள் 1226 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மாலைப் பொழுது இவ்வாறு துன்பம் செய்ய வல்லது என்பதைக் காதலர் என்னை விட்டு அகலாமல் உடனிருந்த காலத்தில் யான் அறியவில்லை. பரிமேலழகர் உரை நுட்பம்: ('இன்று இன்னையாகின்ற நீ, அன்று அவர் பிரிவிற்கு உடம்பட்டது என்னை'? என்றாட்குச் சொல்லியது.) மாலை நோய் செய்தல் -முன்னெல்லாம் எனக்கு நட்பாய் இன்பஞ்செய்து போந்த மாலை இன்று பகையாய்த் துன்பஞ்செய்தலை; மணந்தார் அகலாத காலை அறிந்தது இலேன் -காதலர் பிரிதற்கு முன்னே அறியப...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 123: 'Lamentations at Eventide'), Kural 1226 distills a foundational ethical insight: \"The pangs that evening brings I never knew, Till he, my wedded spouse, from me withdrew\" Philosophically, Previous to my husband's departure, I know not the painful nature of evening.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "time",
+        "love",
+        "speech",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1227,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: இந்த காமநோய், காலைப்பொழுதில் அரும்பாய்த் தோன்றி, பகற்பொழுதெல்லாம் பேரரும்பாய் வளர்ந்து மாலைப்பொழுதில் மலராகின்றது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: This malady buds forth in the morning, expands all day long and blossoms in the evening.",
+        "story_title_ta": "பொழுதுகண்டு இரங்கல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Lamentations at Eventide — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பொழுதுகண்டு இரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1227 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1227 from 'Lamentations at Eventide', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதல் என்பது காலையில் அரும்பாகி, பகல் முழுதும் முதிர்ச்சியடைந்து, மாலையில் மலரும் ஒரு நோயாகும்.",
+        "moral_en": "Moral: My grief at morn a bud, all day an opening flower, Full-blown expands in evening hour.",
+        "game_blank_word_ta": "மலரும்இந்",
+        "game_options_ta": [
+          "மாலையோ",
+          "அல்லை",
+          "மணந்தார்",
+          "மலரும்இந்"
+        ],
+        "game_options_en": [
+          "Bless you! you are not eventide But killing dart to wedded bride!",
+          "Hail sad eventide dim and grim Has your mate like mine, cruel whim!",
+          "Wet eve came pale and trembling then Now it makes bold with growing pain",
+          "Budding at dawn burgeoning all day This disease blooms in evening gay"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொழுதுகண்டு இரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1227, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காதல் துன்பமாகிய இப்பூ, காலையில் அரும்புகிறது; பகலில் முதிர்கிறது; மாலைப்பொழுதில் மலர்ந்து விடுகிறது. கலைஞர் உரை கூறுவது: காதல் என்பது காலையில் அரும்பாகி, பகல் முழுதும் முதிர்ச்சியடைந்து, மாலையில் மலரும் ஒரு நோயாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Lamentations at Eventide (Post-marital Love), Kural 1227 speaks directly to teens navigating studies, friendships, leadership, and digital choices: This malady buds forth in the morning, expands all day long and blossoms in the evening. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பொழுதுகண்டு இரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Lamentations at Eventide'.",
+        "quiz_question_ta": "'பொழுதுகண்டு இரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1227 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1227 from Chapter 'Lamentations at Eventide'?",
+        "quiz_options_ta": [
+          "நீ சொல்லாமல் மறைத்தாலும் நிற்காமல் உன்னைக் கடந்து உன்னுடைய கண்கள் எனக்குச் சொல்லக் கூடிய செய்தி ஒன்று இருக்கிறது.",
+          "யாரையும் விட நாம் மிக்க காதல் கொண்டிருக்கிறோம் என்று சொன்னேனாக; ய‌ாரை விட...? யாரை விட..? என்று கேட்டு ஊடல் கொண்டாள்.",
+          "சுவை, ஒளி, ஊறு, ஓசை, நாற்றம் என்று சொல்லப்படும் ஐந்தின் வகைகளையும் ஆராய்ந்து அறிய வல்லவனுடைய அறிவில் உள்ளது உலகம்.",
+          "இந்த காமநோய், காலைப்பொழுதில் அரும்பாய்த் தோன்றி, பகற்பொழுதெல்லாம் பேரரும்பாய் வளர்ந்து மாலைப்பொழுதில் மலராகின்றது."
+        ],
+        "quiz_options_en": [
+          "You hide; but your painted eyes Restraint off, report your surmise",
+          "\\\"I love you more than all\\\" I said \\\"Than whom, than whom?\\\" she sulked and chid",
+          "They gain the world, who grasp and tell Of taste, sight, hearing, touch and smell",
+          "Budding at dawn burgeoning all day This disease blooms in evening gay"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பொழுதுகண்டு இரங்கல்) பகுதியில் குறள் 1227 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இந்த காமநோய், காலைப்பொழுதில் அரும்பாய்த் தோன்றி, பகற்பொழுதெல்லாம் பேரரும்பாய் வளர்ந்து மாலைப்பொழுதில் மலராகின்றது. பரிமேலழகர் உரை நுட்பம்: ('மாலைப் பொழுதின்கண் இனையையாதற்குக் காரணம் என்னை'? என்றாட்குச் சொல்லியது.) இந்நோய் - இக்காமநோயாகிய பூ; காலை அரும்பி - காலைப் பொழுதின்கண் அரும்பி; பகல் எல்லாம் போது ஆகி - பகற்பொழுதெல்லாம் பேரரும்பாய் முதிர்ந்து; மாலை மலரும் - மாலைப் பொழுதின்கண் மலராநிற்கும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 123: 'Lamentations at Eventide'), Kural 1227 distills a foundational ethical insight: \"My grief at morn a bud, all day an opening flower, Full-blown expands in evening hour\" Philosophically, This malady buds forth in the morning, expands all day long and blossoms in the evening.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "time",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1228,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: ஆயனுடைய புல்லாங்குழல், நெருப்புப்போல் வருத்தும்‌ மாலைப்பொழுதிற்குத் தூதாகி என்னைக் கொல்லும்‌‌ படையாகவும் வருகின்றது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The shepherd's flute now sounds as a fiery forerunner of night, and is become a weapon that slays (me).",
+        "story_title_ta": "பொழுதுகண்டு இரங்கல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Lamentations at Eventide — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பொழுதுகண்டு இரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1228 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1228 from 'Lamentations at Eventide', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதலர் பிரிவால் என்னைத் தணலாகச் சுடுகின்ற மாலைப்பொழுதை அறிவிக்கும் தூதாக வருவது போல வரும் ஆயனின் புல்லாங்குழலோசை என்னைக் கொல்லும் படைக்கருவியின் ஓசைபோல் அல்லவா காதில் ஒலிக்கிறது.",
+        "moral_en": "Moral: The shepherd's pipe is like a murderous weapon, to my ear, For it proclaims the hour of ev'ning's fiery anguish near.",
+        "game_blank_word_ta": "குழல்போலும்",
+        "game_options_ta": [
+          "குழல்போலும்",
+          "மாலையோ",
+          "அல்லை",
+          "மணந்தார்"
+        ],
+        "game_options_en": [
+          "A deadly arm, this shepherd's flute Hails flaming eve and slays my heart",
+          "Bless you! you are not eventide But killing dart to wedded bride!",
+          "Hail sad eventide dim and grim Has your mate like mine, cruel whim!",
+          "Wet eve came pale and trembling then Now it makes bold with growing pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொழுதுகண்டு இரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1228, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முன்பு இனிதாய் ஒலித்த ஆயனின் புல்லாங்குழல் இப்போது நெருப்பாய்ச் சுடும் மாலைப் பொழுதிற்கு் தூதானது மட்டும் அன்றி, என்னைக் கொல்லும் ஆயுதமுமாகிவிட்டது. கலைஞர் உரை கூறுவது: காதலர் பிரிவால் என்னைத் தணலாகச் சுடுகின்ற மாலைப்பொழுதை அறிவிக்கும் தூதாக வருவது போல வரும் ஆயனின் புல்லாங்குழலோசை என்னைக் கொல்லும் படைக்கருவியின் ஓசைபோல் அல்லவா காதில் ஒலிக்கிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Lamentations at Eventide (Post-marital Love), Kural 1228 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The shepherd's flute now sounds as a fiery forerunner of night, and is become a weapon that slays (me). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பொழுதுகண்டு இரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Lamentations at Eventide'.",
+        "quiz_question_ta": "'பொழுதுகண்டு இரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1228 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1228 from Chapter 'Lamentations at Eventide'?",
+        "quiz_options_ta": [
+          "ஆயனுடைய புல்லாங்குழல், நெருப்புப்போல் வருத்தும்‌ மாலைப்பொழுதிற்குத் தூதாகி என்னைக் கொல்லும்‌‌ படையாகவும் வருகின்றது.",
+          "கண் நிறைந்த அழகும் மூங்கில் போன்ற தோளும் உடைய என் காதலிக்குப் பெண்மைத்தன்மை நிறைந்து விளங்கும் இயல்பு மிகுதியாக உள்ளது.",
+          "இப்பிறப்பில் யாம் பிரிய மாட்டோம் என்று காதலியிடம் சொன்னேனாக, இனி வரும் பிறப்பில் பிரிவதாக உணர்ந்து கண் நிறையக் கண்ணீர் கொண்டாள்.",
+          "பயன் நிறைந்த மொழிகளில் வல்ல சான்றோரின் பெருமையை, உலகத்தில் அழியாமல் விளங்கும் அவர்களுடைய மறைமொழிகளே காட்டிவிடும்."
+        ],
+        "quiz_options_en": [
+          "A deadly arm, this shepherd's flute Hails flaming eve and slays my heart",
+          "With seemly grace and stem-like arms The simple she has ample charms",
+          "\\\"In this life we won't part\\\" I told Her eyes at once with tears were filled",
+          "Full-worded men by what they say, Their greatness to the world display"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பொழுதுகண்டு இரங்கல்) பகுதியில் குறள் 1228 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஆயனுடைய புல்லாங்குழல், நெருப்புப்போல் வருத்தும்‌ மாலைப்பொழுதிற்குத் தூதாகி என்னைக் கொல்லும்‌‌ படையாகவும் வருகின்றது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) ஆயன் குழல் - முன்னெல்லாம் இனியதாய்ப் போந்த ஆயன் குழல்; அழல் போலும் மாலைக்குத் தூதாகி - இது பொழுது அழல்போலச் சுடுவதாய மாலைக்குத் தூதுமாய்; கொல்லும்படை-அது வந்து என்னை கொல்வுழிக் கொல்லும் படையும் ஆயிற்று. (பின்னின்ற 'போலும்' என்பது உரையசை...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 123: 'Lamentations at Eventide'), Kural 1228 distills a foundational ethical insight: \"The shepherd's pipe is like a murderous weapon, to my ear, For it proclaims the hour of ev'ning's fiery anguish near\" Philosophically, The shepherd's flute now sounds as a fiery forerunner of night, and is become a weapon that slays (me).",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "time",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 1229,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அறிவு மயங்கும்படியாக மாலைப்பொழுது வந்து படரும்போது, இந்த ஊரும் மயங்கி என்னைப் போல் துன்பத்தால் வருந்தும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: When night comes on confusing (everyone's) mind, the (whole) town will lose its sense and be plunged in sorrow.",
+        "story_title_ta": "பொழுதுகண்டு இரங்கல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Lamentations at Eventide — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பொழுதுகண்டு இரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1229 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1229 from 'Lamentations at Eventide', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என் அறிவை மயக்கும் மாலைப் பொழுது, இந்த ஊரையே மயக்கித் துன்பத்தில் ஆழ்த்துவது போல் எனக்குத் தோன்றுகிறது.",
+        "moral_en": "Moral: If evening's shades, that darken all my soul, extend; From this afflicted town will would of grief ascend.",
+        "game_blank_word_ta": "போழ்து",
+        "game_options_ta": [
+          "மாலையோ",
+          "போழ்து",
+          "அல்லை",
+          "மணந்தார்"
+        ],
+        "game_options_en": [
+          "Bless you! you are not eventide But killing dart to wedded bride!",
+          "Deluding eve if it prolongs The whole town will suffer love-pangs",
+          "Hail sad eventide dim and grim Has your mate like mine, cruel whim!",
+          "Wet eve came pale and trembling then Now it makes bold with growing pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொழுதுகண்டு இரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1229, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இதற்கு முன்பு நான் மட்டும்தான் மயங்கித் துன்புற்றேன்; இனிப் பார்த்தவர் எல்லாம் மதி மயங்கும்படி மாலைப் பொழுது வரும்போது இந்த ஊரே மயங்கித் துன்பப்படும். கலைஞர் உரை கூறுவது: என் அறிவை மயக்கும் மாலைப் பொழுது, இந்த ஊரையே மயக்கித் துன்பத்தில் ஆழ்த்துவது போல் எனக்குத் தோன்றுகிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Lamentations at Eventide (Post-marital Love), Kural 1229 speaks directly to teens navigating studies, friendships, leadership, and digital choices: When night comes on confusing (everyone's) mind, the (whole) town will lose its sense and be plunged in sorrow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பொழுதுகண்டு இரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Lamentations at Eventide'.",
+        "quiz_question_ta": "'பொழுதுகண்டு இரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1229 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1229 from Chapter 'Lamentations at Eventide'?",
+        "quiz_options_ta": [
+          "( கோத்த) மணியினுள் விளங்கும் நூலைப் போல் என் காதலியின் அழகினுள் விளங்குவதான குறிப்பு ஒன்று இருக்கின்றது.",
+          "அறிவு மயங்கும்படியாக மாலைப்பொழுது வந்து படரும்போது, இந்த ஊரும் மயங்கி என்னைப் போல் துன்பத்தால் வருந்தும்.",
+          "நினைத்தேன் என்று கூறி‌னேன்; நினைப்புக்கு முன் மறப்பு உண்டு அன்றோ? ஏன் மறந்தீர் என்று என்னைத் தழுவாமல் ஊடினாள்.",
+          "நல்ல பண்புகளாகிய மலையின்மேல் ஏறி நின்ற பெரியோர், ஒரு கணப்பொழுதே சினம் கொள்வார் ஆயினும் அதிலிருந்து ஒருவரைக் காத்தல் அரிதாகும்."
+        ],
+        "quiz_options_en": [
+          "Something shines through her jewelled charm Like thread shining through wreathed gem",
+          "Deluding eve if it prolongs The whole town will suffer love-pangs",
+          "I said I thought of you She left Her embrace crying \\\"Oft you forget\\\"",
+          "Their wrath, who've climb'd the mount of good, Though transient, cannot be withstood"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பொழுதுகண்டு இரங்கல்) பகுதியில் குறள் 1229 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறிவு மயங்கும்படியாக மாலைப்பொழுது வந்து படரும்போது, இந்த ஊரும் மயங்கி என்னைப் போல் துன்பத்தால் வருந்தும். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) (இதற்கு முன்னெல்லாம் யானே மயங்கி நோயுழந்தேன்) மதி மருண்டு மாலை படர்தரும் போழ்து - இனிக் கண்டாரும் மதி மருளும் வகை மாலை வரும்பொழுது; பதி மருண்டு பைதல் உழக்கும் - இப்பதியெல்லாம் மயங்கி நோயுழக்கும். ('மதி மருள' என்பது 'மதி மருண்டு' எனத் திரிந்து...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 123: 'Lamentations at Eventide'), Kural 1229 distills a foundational ethical insight: \"If evening's shades, that darken all my soul, extend; From this afflicted town will would of grief ascend\" Philosophically, When night comes on confusing (everyone's) mind, the (whole) town will lose its sense and be plunged in sorrow.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "time",
+        "speech",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1230,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ( பிரிவுத் துன்பத்தால்) மாயமாய் நின்ற என் உயிர், பொருள் காரணமாகப் பிரிந்து சென்ற காதலரை நினைந்து மயங்குகின்ற இம் மாலைப்பொழுதில் மாய்கின்றது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: My (hitherto) unextinguished life is now lost in this bewildering night at the thought of him who has the nature of wealth.",
+        "story_title_ta": "பொழுதுகண்டு இரங்கல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Lamentations at Eventide — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பொழுதுகண்டு இரங்கல்' என்ற அதிகாரத்தில் வரும் குறள் 1230 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1230 from 'Lamentations at Eventide', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பொருள் ஈட்டுவதற்கச் சென்றுள்ள காதலரை எண்ணி மாய்ந்து போகாத என்னுயிர், மயக்கும் இந்த மாலைப் பொழுதில் மாய்ந்து போகின்றது.",
+        "moral_en": "Moral: This darkening eve, my darkling soul must perish utterly; Remembering him who seeks for wealth, but seeks not me.",
+        "game_blank_word_ta": "பொருள்மாலை",
+        "game_options_ta": [
+          "மாலையோ",
+          "அல்லை",
+          "பொருள்மாலை",
+          "மணந்தார்"
+        ],
+        "game_options_en": [
+          "Bless you! you are not eventide But killing dart to wedded bride!",
+          "Hail sad eventide dim and grim Has your mate like mine, cruel whim!",
+          "Thinking of him whose quest is wealth My life outlives the twilight stealth",
+          "Wet eve came pale and trembling then Now it makes bold with growing pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பொழுதுகண்டு இரங்கல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1230, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவர் என்னைப் பிரிந்தபோது பொறுத்துக் கொண்ட என் உயிர், பொருள் மயக்கமே பெரிதாக உடைய அவரை நினைத்து மயங்கும் இந்த மாலைப் பொழுதில் மடிகின்றது. கலைஞர் உரை கூறுவது: பொருள் ஈட்டுவதற்கச் சென்றுள்ள காதலரை எண்ணி மாய்ந்து போகாத என்னுயிர், மயக்கும் இந்த மாலைப் பொழுதில் மாய்ந்து போகின்றது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Lamentations at Eventide (Post-marital Love), Kural 1230 speaks directly to teens navigating studies, friendships, leadership, and digital choices: My (hitherto) unextinguished life is now lost in this bewildering night at the thought of him who has the nature of wealth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பொழுதுகண்டு இரங்கல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Lamentations at Eventide'.",
+        "quiz_question_ta": "'பொழுதுகண்டு இரங்கல்' அதிகாரத்தில் வரும் திருக்குறள் 1230 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1230 from Chapter 'Lamentations at Eventide'?",
+        "quiz_options_ta": [
+          "அரும்பு தோன்றும்போது அடங்கியிருக்கும் மணத்தைப் போல், காதலியின் புன்முறுவலின் தோற்றத்தில் அடங்கி இருக்கும் குறிப்பு ஒன்று உள்ளது.",
+          "யான் தும்மினேனாக; அவள் நூறாண்டு என வாழ்த்தினாள்; உடனே அதை விட்டு யார் நினைத்ததால் தும்மினீர்? என்று கேட்டு அழுதாள்?",
+          "( பிரிவுத் துன்பத்தால்) மாயமாய் நின்ற என் உயிர், பொருள் காரணமாகப் பிரிந்து சென்ற காதலரை நினைந்து மயங்குகின்ற இம் மாலைப்பொழுதில் மாய்கின்றது.",
+          "எல்லா உயிர்களிடத்திலும் செம்மையான அருளை மேற்கொண்டு ஒழுகுவதால், அறவோரே அந்தணர் எனப்படுவோர் ஆவர்."
+        ],
+        "quiz_options_en": [
+          "Like scent in bud secrets conceal In the bosom of her half smile",
+          "I sneezed; she blessed; then changed and wept \\\"You sneezed now at which lady's thought?\\\"",
+          "Thinking of him whose quest is wealth My life outlives the twilight stealth",
+          "With gentle mercy towards all, The sage fulfils the vitue's call"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (பொழுதுகண்டு இரங்கல்) பகுதியில் குறள் 1230 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ( பிரிவுத் துன்பத்தால்) மாயமாய் நின்ற என் உயிர், பொருள் காரணமாகப் பிரிந்து சென்ற காதலரை நினைந்து மயங்குகின்ற இம் மாலைப்பொழுதில் மாய்கின்றது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) மாயா என் உயிர் -காதலர் பிரிவைப் பொறுத்து இறந்துபடாதிருந்த என் உயிர்; பொருள் மாலையாளரை உள்ளி மருள் மாலை மாயும் - இன்று பொருளியல்பே தமக்கியல்பாக உடையவரை நினைந்து, இம்மயங்கும் மாலைக்கண்ணே இறந்துபடாநின்றது. ('குறித்த பருவம் கழியவும், பொருள் முடிவு...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 123: 'Lamentations at Eventide'), Kural 1230 distills a foundational ethical insight: \"This darkening eve, my darkling soul must perish utterly; Remembering him who seeks for wealth, but seeks not me\" Philosophically, My (hitherto) unextinguished life is now lost in this bewildering night at the thought of him who has the nature of wealth.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "wealth",
+        "love",
+        "time",
+        "family"
+      ]
+    }
+  ]
+}

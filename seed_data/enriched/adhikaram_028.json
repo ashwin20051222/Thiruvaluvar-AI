@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 28,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.697939674+00:00",
+  "kurals": [
+    {
+      "kural_number": 271,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: வஞ்சமனம் உடையவனது பொய்யொழுக்கத்தை அவனுடைய உடம்பில் கலந்து நிற்க்கும் ஐந்து பூதங்களும் கண்டு தம்முள் சிரிக்கும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The five elements (of his body) will laugh within him at the feigned conduct of the deceitful minded man.",
+        "story_title_ta": "கூடா ஒழுக்கம் — நிலா கற்ற பாடம்",
+        "story_title_en": "Imposture — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கூடா ஒழுக்கம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 271 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'வஞ்ச மனத்தவனின் திருட்டு நடத்தையைக் கண்டு அவன் உடம்போடு கலந்து இருக்கும் நிலம், நீர், தீ, காற்று, ஆகாயம் என்னும் ஐந்து பூதங்களும் தமக்குள் சிரிக்கும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Imposture'. Grandpa shared Kural 271 and explained in simple words: The five elements (of his body) will laugh within him at the feigned conduct of the deceitful minded man. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: ஒழுக்க சீலரைப் போல உலகத்தை ஏமாற்றும் வஞ்சகரைப் பார்த்து அவரது உடலில் கலந்துள்ள நிலம், நீர், தீ, காற்று, வெளி எனப்படும் பஞ்சபூதங்களும் தமக்குள் சிரித்துக் கொள்ளும்.",
+        "moral_en": "Moral: Who with deceitful mind in false way walks of covert sin, The five-fold elements his frame compose, decide within.",
+        "game_blank_word_ta": "அகத்தே",
+        "game_options_ta": [
+          "வானுயர்",
+          "தோற்றம்",
+          "எவன்செய்யும்",
+          "அகத்தே"
+        ],
+        "game_options_en": [
+          "Of what avail are sky-high shows When guild the conscience gnaws and knows",
+          "Vaunting sainthood while week within Seems a grazer with tiger skin",
+          "Sinning in saintly show is like Fowlers in ambush birds to strike",
+          "Elements five of feigned life Of a sly hypocrite within laugh"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கூடா ஒழுக்கம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 271, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வஞ்ச மனத்தவனின் திருட்டு நடத்தையைக் கண்டு அவன் உடம்போடு கலந்து இருக்கும் நிலம், நீர், தீ, காற்று, ஆகாயம் என்னும் ஐந்து பூதங்களும் தமக்குள் சிரிக்கும். கலைஞர் உரை கூறுவது: ஒழுக்க சீலரைப் போல உலகத்தை ஏமாற்றும் வஞ்சகரைப் பார்த்து அவரது உடலில் கலந்துள்ள நிலம், நீர், தீ, காற்று, வெளி எனப்படும் பஞ்சபூதங்களும் தமக்குள் சிரித்துக் கொள்ளும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Imposture (Ascetic Virtue), Kural 271 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The five elements (of his body) will laugh within him at the feigned conduct of the deceitful minded man. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கூடா ஒழுக்கம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Imposture' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கூடா ஒழுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 271 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 271 from Chapter 'Imposture'?",
+        "quiz_options_ta": [
+          "மற்ற உயிரின் துன்பத்தை தன் துன்பம் போல் கருதிக் காப்பாற்றா விட்டால் பெற்றுள்ள அறிவினால் ஆகும் பயன் உண்டோ.",
+          "பிறவித்துன்பத்திற்கு காரணமான அறியாமை நீங்குமாறு முக்தி எனும் சிறந்த நிலைக்குக் காரணமான செம் பொருளைக் காண்பதே மெய்யுணர்வு.",
+          "அறிவு நிரம்புவதற்குக் காரணமானக் நூல்களைக் கற்காமல் கற்றவரிடம் சென்று பேசதல், சூதாடும் அரங்கு இழைக்காமல் வட்டுக்காயை உருட்டிஆடினார் போன்றது.",
+          "வஞ்சமனம் உடையவனது பொய்யொழுக்கத்தை அவனுடைய உடம்பில் கலந்து நிற்க்கும் ஐந்து பூதங்களும் கண்டு தம்முள் சிரிக்கும்."
+        ],
+        "quiz_options_en": [
+          "What does a man from wisdom gain If he pines not at other's pain?",
+          "It is knowledge to know Self-Truth And remove the folly of birth",
+          "Like play of chess on squareless board Vain is imperfect loreless word",
+          "Elements five of feigned life Of a sly hypocrite within laugh"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கூடா ஒழுக்கம்) பகுதியில் குறள் 271 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வஞ்சமனம் உடையவனது பொய்யொழுக்கத்தை அவனுடைய உடம்பில் கலந்து நிற்க்கும் ஐந்து பூதங்களும் கண்டு தம்முள் சிரிக்கும். பரிமேலழகர் உரை நுட்பம்: [அஃதாவது, தாம் விட்ட காம இன்பத்தை உரன் இன்மையின் பின்னும் விரும்புமாறு தோன்ற , அவ்வாறே கொண்டு நின்று தவத்தோடு பொருந்தாததாய தீய ஒழுக்கம் . அது விலக்குதற்கு , இது தவத்தின்பின் வைக்கப்பட்டது.) வஞ்ச மனத்தான் படிற்று ஒழுக்கம் - வஞ்சம் பொருந்திய மனத்தை உடையவனது...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 28: 'Imposture'), Kural 271 distills a foundational ethical insight: \"Who with deceitful mind in false way walks of covert sin, The five-fold elements his frame compose, decide within\" Philosophically, The five elements (of his body) will laugh within him at the feigned conduct of the deceitful minded man.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "discipline",
+        "education",
+        "self-mastery",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 272,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தன் மனம் தான் அறிந்த குற்றத்தில் தங்குமானால் வானத்தைப் போல் உயர்ந்துள்ள தவக்கோலம் ஒருவனுக்கு என்ன பயன் செய்யும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: What avails an appearance (of sanctity) high as heaven, if his mind suffers (the indulgence) of conscious sin.",
+        "story_title_ta": "கூடா ஒழுக்கம் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Imposture — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கூடா ஒழுக்கம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 272 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'தன் மீது தன் நெஞ்சமே குற்றம் சொல்லுமானால் மேலான நிலையினால் வரும் பலன்தான் என்ன?' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Imposture'. Grandpa shared Kural 272 and explained in simple words: What avails an appearance (of sanctity) high as heaven, if his mind suffers (the indulgence) of conscious sin. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: தன் மனத்திற்குக் குற்றம் என்று தெரிந்தும்கூட அதைச் செய்பவர், துறவுக்கோலம் பூண்டிருப்பதால் எந்தப் பயனும் இல்லை.",
+        "moral_en": "Moral: What gain, though virtue's semblance high as heaven his fame exalt, If heart dies down through sense of self-detected fault.",
+        "game_blank_word_ta": "படின்",
+        "game_options_ta": [
+          "படின்",
+          "வஞ்ச",
+          "மனத்தான்",
+          "படிற்றொழுக்கம்"
+        ],
+        "game_options_en": [
+          "Of what avail are sky-high shows When guild the conscience gnaws and knows",
+          "Elements five of feigned life Of a sly hypocrite within laugh",
+          "Vaunting sainthood while week within Seems a grazer with tiger skin",
+          "Sinning in saintly show is like Fowlers in ambush birds to strike"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கூடா ஒழுக்கம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 272, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் மீது தன் நெஞ்சமே குற்றம் சொல்லுமானால் மேலான நிலையினால் வரும் பலன்தான் என்ன? கலைஞர் உரை கூறுவது: தன் மனத்திற்குக் குற்றம் என்று தெரிந்தும்கூட அதைச் செய்பவர், துறவுக்கோலம் பூண்டிருப்பதால் எந்தப் பயனும் இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Imposture (Ascetic Virtue), Kural 272 speaks directly to teens navigating studies, friendships, leadership, and digital choices: What avails an appearance (of sanctity) high as heaven, if his mind suffers (the indulgence) of conscious sin. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கூடா ஒழுக்கம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Imposture' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கூடா ஒழுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 272 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 272 from Chapter 'Imposture'?",
+        "quiz_options_ta": [
+          "தன் மனம் தான் அறிந்த குற்றத்தில் தங்குமானால் வானத்தைப் போல் உயர்ந்துள்ள தவக்கோலம் ஒருவனுக்கு என்ன பயன் செய்யும்.",
+          "ஒருவன் துன்பமானவை என்று தன் வாழ்க்கையில் கண்டு உணர்ந்தவைகளை மற்றவனிடத்தில் செய்யாமல் தவிர்க்க வேண்டும்.",
+          "எல்லாப் பொருளுக்கும் சார்பான செம்பொருளை உணர்ந்து பற்றுக் கெடுமாறு ஒழுகினால், சார்வதற்க்கு உரிய துன்பங்கள் திரும்ப வந்து அடையா.",
+          "(கற்றவரின் அவையில்) கல்லாதவன் ஒன்றைச் சொல்ல விரும்புதல், முலை இரண்டும் இல்லாதவள் பெண் தன்மையை விரும்பினாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Of what avail are sky-high shows When guild the conscience gnaws and knows",
+          "What you feel as pain to yourself Do it not to the other-self",
+          "Know the Refuge; off with bondage Be free from ills of thraldom, O sage",
+          "Unlearned man aspiring speech Is breastless lady's love-approach"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கூடா ஒழுக்கம்) பகுதியில் குறள் 272 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன் மனம் தான் அறிந்த குற்றத்தில் தங்குமானால் வானத்தைப் போல் உயர்ந்துள்ள தவக்கோலம் ஒருவனுக்கு என்ன பயன் செய்யும். பரிமேலழகர் உரை நுட்பம்: வான் உயர் தோற்றம் எவன் செய்யும் - ஒருவனுக்கு வான் போல உயர்ந்த தவவேடம் என்ன பயனைச் செய்யும்; தான் அறி குற்றம் தன் நெஞ்சம் படின் - தான் குற்றம் என்று அறிந்த அதன் கண்ணே தன் நெஞ்சு தாழும் ஆயின். ( 'வான் உயர் தோற்றம்' என்பது 'வான் தோய்குடி' (நாலடி 142) என்றாற்போல...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 28: 'Imposture'), Kural 272 distills a foundational ethical insight: \"What gain, though virtue's semblance high as heaven his fame exalt, If heart dies down through sense of self-detected fault\" Philosophically, What avails an appearance (of sanctity) high as heaven, if his mind suffers (the indulgence) of conscious sin.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "discipline",
+        "ethics",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 273,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: மனத்தை அடக்கும் வல்லமை இல்லாதவன் மேற்கொண்ட வலிய தவக்கோலம், புலியின் தோலைப் போர்த்திக் கொண்டு பயிரை பசு மேய்ந்தாற் போன்றது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The assumed appearance of power, by a man who has no power (to restrain his senses and perform austerity), is like a cow feeding on grass covered with a tiger's skin.",
+        "story_title_ta": "கூடா ஒழுக்கம் — இனியா கற்ற பாடம்",
+        "story_title_en": "Imposture — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கூடா ஒழுக்கம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 273 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'கெட்டவன் நல்லவன் போல நடிப்பது, பசு புலியின் தோலைப் போர்த்திக் கொண்டு மேய்ந்தது போலாகும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Imposture'. Grandpa shared Kural 273 and explained in simple words: The assumed appearance of power, by a man who has no power (to restrain his senses and perform austerity), is like a cow feeding on grass covered with a tiger's skin. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: மனத்தை அடக்க முடியாதவர் துறவுக்கோலம் பூணுவது, பசு ஒன்று புலித்தோலைப் போர்த்திக் கொண்டு பயிரை மேய்வது போன்றதாகும்.",
+        "moral_en": "Moral: As if a steer should graze wrapped round with tiger's skin, Is show of virtuous might when weakness lurks within.",
+        "game_blank_word_ta": "வலியில்",
+        "game_options_ta": [
+          "வஞ்ச",
+          "வலியில்",
+          "மனத்தான்",
+          "படிற்றொழுக்கம்"
+        ],
+        "game_options_en": [
+          "Elements five of feigned life Of a sly hypocrite within laugh",
+          "Vaunting sainthood while week within Seems a grazer with tiger skin",
+          "Of what avail are sky-high shows When guild the conscience gnaws and knows",
+          "Sinning in saintly show is like Fowlers in ambush birds to strike"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கூடா ஒழுக்கம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 273, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கெட்டவன் நல்லவன் போல நடிப்பது, பசு புலியின் தோலைப் போர்த்திக் கொண்டு மேய்ந்தது போலாகும். கலைஞர் உரை கூறுவது: மனத்தை அடக்க முடியாதவர் துறவுக்கோலம் பூணுவது, பசு ஒன்று புலித்தோலைப் போர்த்திக் கொண்டு பயிரை மேய்வது போன்றதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Imposture (Ascetic Virtue), Kural 273 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The assumed appearance of power, by a man who has no power (to restrain his senses and perform austerity), is like a cow feeding on grass covered with a tiger's skin. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கூடா ஒழுக்கம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Imposture' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கூடா ஒழுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 273 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 273 from Chapter 'Imposture'?",
+        "quiz_options_ta": [
+          "எவ்வளவு சிறியதாயினும் எக்காலத்திலும் எவரிடத்திலும் மனதால் எண்ணி உண்டாகின்ற துன்பச்செயலைச் செய்யாதிருத்தலே நல்லது.",
+          "மனத்தை அடக்கும் வல்லமை இல்லாதவன் மேற்கொண்ட வலிய தவக்கோலம், புலியின் தோலைப் போர்த்திக் கொண்டு பயிரை பசு மேய்ந்தாற் போன்றது.",
+          "விருப்பு, வெறுப்பு, அறியாமை ஆகிய இக் குற்றங்கள் மூன்றனுடைய பெயரும் கெடுமாறு ஒழுகினால் துன்பங்கள் வராமற் கெடும்.",
+          "கற்றவரின் முன்னிலையில் ஒன்றையும் சொல்லாமல் அமைதியாக இருக்கப் பெற்றால் கல்லாதவர்களும் மிகவும் நல்லவரே ஆவார்."
+        ],
+        "quiz_options_en": [
+          "Any, anywhere injure not At any time even in thought",
+          "Vaunting sainthood while week within Seems a grazer with tiger skin",
+          "Woes expire when lust, wrath, folly Expire even to name, fully",
+          "Ev'n unread men are good and wise If before the wise, they hold their peace"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கூடா ஒழுக்கம்) பகுதியில் குறள் 273 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனத்தை அடக்கும் வல்லமை இல்லாதவன் மேற்கொண்ட வலிய தவக்கோலம், புலியின் தோலைப் போர்த்திக் கொண்டு பயிரை பசு மேய்ந்தாற் போன்றது. பரிமேலழகர் உரை நுட்பம்: வலி இல் நிலைமையான் வல் உருவம்- மனத்தைத் தன் வழிப்படுத்தும் வலி இல்லாத இயல்பினை உடையான் வலியுடையார் வேடத்தைக் கொண்டு தான் அதன்வழிப்படுதல்; பெற்றம் புலியின் தோல் போர்த்து மேய்ந்தற்று - பசு 'காவலர் கடியாமல்' புலியின் தோலைப் போர்த்துப் பைங்கூழை மேய்ந்தாற் போலும...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 28: 'Imposture'), Kural 273 distills a foundational ethical insight: \"As if a steer should graze wrapped round with tiger's skin, Is show of virtuous might when weakness lurks within\" Philosophically, The assumed appearance of power, by a man who has no power (to restrain his senses and perform austerity), is like a cow feeding on grass covered with a tiger's skin.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "family",
+        "discipline",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 274,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தவக்கோலத்தில் மறைந்து கொண்டு தவம் அல்லாத தீயச்செயல்களைச் செய்தல், புதரில் மறைந்து கொண்டு வேடன் பறவைகளை வலைவீசிப் பிடித்தலைப் போன்றது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: He who hides himself under the mask of an ascetic and commits sins, like a sportsman who conceals himself in the thicket to catch birds.",
+        "story_title_ta": "கூடா ஒழுக்கம் — முகில் கற்ற பாடம்",
+        "story_title_en": "Imposture — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கூடா ஒழுக்கம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 274 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மேலான நிலையில் இருந்தும் கீழான செயல்களைச் செய்வது, வேட்டை ஆடுபவர் புதருக்குப் பின் மறைந்து நின்று பறவைகளைப் பிடிப்பது போலாம்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Imposture'. Grandpa shared Kural 274 and explained in simple words: He who hides himself under the mask of an ascetic and commits sins, like a sportsman who conceals himself in the thicket to catch birds. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: புதரில் மறைந்து கொண்டு வேடன் பறவைகளைக் கண்ணி வைத்துப் பிடிப்பதற்கும், தவக்கோலத்தில் இருப்பவர்கள் தகாத செயல்களில் ஈடுபடுவதற்கும் வேறுபாடு இல்லை.",
+        "moral_en": "Moral: 'Tis as a fowler, silly birds to snare, in thicket lurksWhen, clad in stern ascetic garb, one secret evil works.",
+        "game_blank_word_ta": "அல்லவை",
+        "game_options_ta": [
+          "வஞ்ச",
+          "மனத்தான்",
+          "அல்லவை",
+          "படிற்றொழுக்கம்"
+        ],
+        "game_options_en": [
+          "Elements five of feigned life Of a sly hypocrite within laugh",
+          "Of what avail are sky-high shows When guild the conscience gnaws and knows",
+          "Sinning in saintly show is like Fowlers in ambush birds to strike",
+          "Vaunting sainthood while week within Seems a grazer with tiger skin"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கூடா ஒழுக்கம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 274, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மேலான நிலையில் இருந்தும் கீழான செயல்களைச் செய்வது, வேட்டை ஆடுபவர் புதருக்குப் பின் மறைந்து நின்று பறவைகளைப் பிடிப்பது போலாம். கலைஞர் உரை கூறுவது: புதரில் மறைந்து கொண்டு வேடன் பறவைகளைக் கண்ணி வைத்துப் பிடிப்பதற்கும், தவக்கோலத்தில் இருப்பவர்கள் தகாத செயல்களில் ஈடுபடுவதற்கும் வேறுபாடு இல்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Imposture (Ascetic Virtue), Kural 274 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who hides himself under the mask of an ascetic and commits sins, like a sportsman who conceals himself in the thicket to catch birds. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கூடா ஒழுக்கம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Imposture' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கூடா ஒழுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 274 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 274 from Chapter 'Imposture'?",
+        "quiz_options_ta": [
+          "தன் உயிருக்குத் துன்பமானவை இவை என்று உணர்ந்தவன், அத் துன்பத்தை மற்ற உயிருக்குச் செய்தல் என்ன காரணத்தாலோ.",
+          "எல்லா உயிர்களுக்கும் எக்காலத்திலும் ஒழியாமல் வருகின்ற பிறவித்துன்பத்தை உண்டாக்கும் வித்து அவா என்றுக் கூறுவர்.",
+          "தவக்கோலத்தில் மறைந்து கொண்டு தவம் அல்லாத தீயச்செயல்களைச் செய்தல், புதரில் மறைந்து கொண்டு வேடன் பறவைகளை வலைவீசிப் பிடித்தலைப் போன்றது.",
+          "கல்லாதவனுடைய அறிவுடைய ஒருக்கால் மிக நன்றாக இருந்தாலும் அறிவுடையோர் அதனை அறிவின் பகுதியாக ஏற்றுக்கொள்ள மாட்டார்."
+        ],
+        "quiz_options_en": [
+          "How can he injure other souls Who in his life injury feels",
+          "Desire to all, always is seed From which ceaseless births proceed",
+          "Sinning in saintly show is like Fowlers in ambush birds to strike",
+          "The unread's wit though excellent Is not valued by the savant"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கூடா ஒழுக்கம்) பகுதியில் குறள் 274 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தவக்கோலத்தில் மறைந்து கொண்டு தவம் அல்லாத தீயச்செயல்களைச் செய்தல், புதரில் மறைந்து கொண்டு வேடன் பறவைகளை வலைவீசிப் பிடித்தலைப் போன்றது. பரிமேலழகர் உரை நுட்பம்: தவம் மறைந்து அல்லவை செய்தல் - அவ் வலிஇல் நிலைமையான் தவவேடத்தின்கண்ணே மறைந்து நின்று தவமல்லவற்றைச் செய்தல், வேட்டுவன் புதல் மறைந்து புள் சிமிழ்த்தற்று - வேட்டுவன் புதலின் கண்ணே மறைந்து நின்று புட்களைப் பிணித்தாற்போலும். ( 'தவம்' ஆகுபெயர்.தவம் அல்லவற்றைச...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 28: 'Imposture'), Kural 274 distills a foundational ethical insight: \"'Tis as a fowler, silly birds to snare, in thicket lurksWhen, clad in stern ascetic garb, one secret evil works\" Philosophically, He who hides himself under the mask of an ascetic and commits sins, like a sportsman who conceals himself in the thicket to catch birds.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "ethics",
+        "discipline",
+        "self-mastery",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 275,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பற்றுக்களைத் துறந்தோம் என்று சொல்கின்றவரின் பொய்யொழுக்கம் என்ன செய்தோம் என்ன செய்தோம் என்று வருந்தும் படியான துன்பம் பலவும் தரும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The false conduct of those who say they have renounced all desire will one day bring them sorrows that will make them cry out, \"Oh! what have we done, what have we done.\".",
+        "story_title_ta": "கூடா ஒழுக்கம் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Imposture — Tamizhini's Lesson",
+        "kutty_story_ta": "தமிழினி பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கூடா ஒழுக்கம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 275 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'எத்தகைய பற்றுகளும் இல்லாதவர் என்று வாயால் சொல்லிச் செயலால் தவறாக வாழ்பவரின் வாழ்க்கை, பிறகு ஏன் அப்படிச் செய்தோம் ஏன் அப்படிச் செய்தோம் என்று வருந்தும்படி பல துன்பங்களையும் தரும்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் தமிழினி காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என தமிழினி மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Tamizhini sat under the mango tree with Grandpa to hear a story on 'Imposture'. Grandpa shared Kural 275 and explained in simple words: The false conduct of those who say they have renounced all desire will one day bring them sorrows that will make them cry out, \"Oh! what have we done, what have we done.\". The very next morning, Tamizhini put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Tamizhini remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: எத்தகைய செயல் புரிந்துவிட்டோம் என்று தமக்குத் தாமே வருந்த வேண்டிய துன்பம், பற்றுகளை விட்டு விட்டதாகப் பொய்கூறி, உலகை ஏமாற்றுவோர்க்கு வந்து சேரும்.",
+        "moral_en": "Moral: 'Our souls are free,' who say, yet practise evil secretly,'What folly have we wrought!' by many shames o'er-whelmed, shall cry.",
+        "game_blank_word_ta": "படிற்றொழுக்கம்",
+        "game_options_ta": [
+          "வஞ்ச",
+          "மனத்தான்",
+          "பூதங்கள்",
+          "படிற்றொழுக்கம்"
+        ],
+        "game_options_en": [
+          "Elements five of feigned life Of a sly hypocrite within laugh",
+          "Of what avail are sky-high shows When guild the conscience gnaws and knows",
+          "Vaunting sainthood while week within Seems a grazer with tiger skin",
+          "Who false within but freedom feign Shall moan \\\"What have we done\\\" with pain"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கூடா ஒழுக்கம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 275, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எத்தகைய பற்றுகளும் இல்லாதவர் என்று வாயால் சொல்லிச் செயலால் தவறாக வாழ்பவரின் வாழ்க்கை, பிறகு ஏன் அப்படிச் செய்தோம் ஏன் அப்படிச் செய்தோம் என்று வருந்தும்படி பல துன்பங்களையும் தரும். கலைஞர் உரை கூறுவது: எத்தகைய செயல் புரிந்துவிட்டோம் என்று தமக்குத் தாமே வருந்த வேண்டிய துன்பம், பற்றுகளை விட்டு விட்டதாகப் பொய்கூறி, உலகை ஏமாற்றுவோர்க்கு வந்து சேரும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Imposture (Ascetic Virtue), Kural 275 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The false conduct of those who say they have renounced all desire will one day bring them sorrows that will make them cry out, \"Oh! what have we done, what have we done.\". Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கூடா ஒழுக்கம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Imposture' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கூடா ஒழுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 275 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 275 from Chapter 'Imposture'?",
+        "quiz_options_ta": [
+          "முற்பகலில் மற்றவருக்கு துன்பமானவற்றைச் செய்தால் அவ்வாறு செய்தவர்க்கே பிற்பகலில் துன்பங்கள் தாமாக வந்து சேரும்.",
+          "ஒருவன் ஒன்றை விரும்புவதனால் பிறவா நிலைமையை விரும்ப வேண்டும், அது அவா அற்ற நிலையை விரும்பினால் உண்டாகும்.",
+          "கல்லாதவன் ஒருவன் தன்னைத்தான் மகிழ்ந்து பேசும் மதிப்பு ( கற்றவரிடம்) கூடிபேசும் போது அப்பேசினால் கெடும்.",
+          "பற்றுக்களைத் துறந்தோம் என்று சொல்கின்றவரின் பொய்யொழுக்கம் என்ன செய்தோம் என்ன செய்தோம் என்று வருந்தும் படியான துன்பம் பலவும் தரும்."
+        ],
+        "quiz_options_en": [
+          "Harm others in the forenoon Harm seeks thee in afternoon",
+          "If long thou must, long for non-birth It comes by longing no more for earth",
+          "A man untaught when speech he vaunts Sadly fails before savants",
+          "Who false within but freedom feign Shall moan \\\"What have we done\\\" with pain"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கூடா ஒழுக்கம்) பகுதியில் குறள் 275 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பற்றுக்களைத் துறந்தோம் என்று சொல்கின்றவரின் பொய்யொழுக்கம் என்ன செய்தோம் என்ன செய்தோம் என்று வருந்தும் படியான துன்பம் பலவும் தரும். பரிமேலழகர் உரை நுட்பம்: பற்று அற்றேம் என்பார் படிற்று ஒழுக்கம் - தம்மைப் பிறர் நன்கு மதித்தற்பொருட்டு யாம் பற்று அற்றேம் என்று சொல்வாரது மறைந்த ஒழுக்கம், எற்று எற்று என்று ஏதம் பலவும் தரும் - அப்பொழுது இனிதுபோலத் தோன்றும் ஆயினும், பின் என் செய்தோம் என்று தாமே இரங்கும்வகை, அவர்க்குப...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 28: 'Imposture'), Kural 275 distills a foundational ethical insight: \"'Our souls are free,' who say, yet practise evil secretly,'What folly have we wrought!' by many shames o'er-whelmed, shall cry\" Philosophically, The false conduct of those who say they have renounced all desire will one day bring them sorrows that will make them cry out, \"Oh! what have we done, what have we done.\".",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "discipline",
+        "education",
+        "speech",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 276,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: மனத்தில் பற்றுக்களைத் துறக்காமல் துறந்தவரைப் போல் வஞ்சனைச் செய்து வாழ்கின்றவரைப் போல் இரக்கமற்றவர் எவரும் இல்லை.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Amongst living men there are none so hard-hearted as those who without to saking (desire) in their heart, falsely take the appearance of those who have forsaken (it).",
+        "story_title_ta": "கூடா ஒழுக்கம் — கவின் கற்ற பாடம்",
+        "story_title_en": "Imposture — Kavin's Lesson",
+        "kutty_story_ta": "கவின் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கூடா ஒழுக்கம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 276 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மனத்துள் எதையும் வெறுக்காமல், வெளியே வெறுத்தவர் போல் ஏமாற்றி வாழும் மனிதரைக் காட்டிலும் கொடியவர், இவ்வுலகத்தில் இல்லை.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் கவின் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என கவின் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Kavin sat under the mango tree with Grandpa to hear a story on 'Imposture'. Grandpa shared Kural 276 and explained in simple words: Amongst living men there are none so hard-hearted as those who without to saking (desire) in their heart, falsely take the appearance of those who have forsaken (it). The very next morning, Kavin put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Kavin remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உண்மையிலேயே மனதாரப் பற்றுகளைத் துறக்காமல் துறந்தவரைப் போல் வாழ்கின்ற வஞ்சகர்களைவிட இரக்கமற்றவர் யாருமில்லை.",
+        "moral_en": "Moral: In mind renouncing nought, in speech renouncing every tie, Who guileful live,- no men are found than these of 'harder eye'.",
+        "game_blank_word_ta": "நெஞ்சின்",
+        "game_options_ta": [
+          "நெஞ்சின்",
+          "வஞ்ச",
+          "மனத்தான்",
+          "படிற்றொழுக்கம்"
+        ],
+        "game_options_en": [
+          "Vilest is he who seems a saint Cheating the world without restraint",
+          "Elements five of feigned life Of a sly hypocrite within laugh",
+          "Of what avail are sky-high shows When guild the conscience gnaws and knows",
+          "Vaunting sainthood while week within Seems a grazer with tiger skin"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கூடா ஒழுக்கம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 276, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனத்துள் எதையும் வெறுக்காமல், வெளியே வெறுத்தவர் போல் ஏமாற்றி வாழும் மனிதரைக் காட்டிலும் கொடியவர், இவ்வுலகத்தில் இல்லை. கலைஞர் உரை கூறுவது: உண்மையிலேயே மனதாரப் பற்றுகளைத் துறக்காமல் துறந்தவரைப் போல் வாழ்கின்ற வஞ்சகர்களைவிட இரக்கமற்றவர் யாருமில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Imposture (Ascetic Virtue), Kural 276 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Amongst living men there are none so hard-hearted as those who without to saking (desire) in their heart, falsely take the appearance of those who have forsaken (it). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கூடா ஒழுக்கம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Imposture' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கூடா ஒழுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 276 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 276 from Chapter 'Imposture'?",
+        "quiz_options_ta": [
+          "மனத்தில் பற்றுக்களைத் துறக்காமல் துறந்தவரைப் போல் வஞ்சனைச் செய்து வாழ்கின்றவரைப் போல் இரக்கமற்றவர் எவரும் இல்லை.",
+          "துன்பம் எல்லாம் துன்பம் செய்தவரையேச் சார்வன, ஆகையால் துன்பம் இல்லாமல் வாழ்தலை விரும்புகின்றவர் பிறர்க்கு துன்பம் செய்யார்.",
+          "அவா அற்ற நிலைமை போன்ற சிறந்த செல்வம் இவ்வுலகில் இல்லை, வேறு எங்கும் அதற்க்கு நிகரான ஒன்று இல்லை.",
+          "கல்லாதவர் உயிரோடிருக்கின்றனர் என்று சொல்லப்படும் அளவினரே அல்லாமல் ஒன்றும் விளையாத களர் நிலத்திற்கு ஒப்பாவர்."
+        ],
+        "quiz_options_en": [
+          "Vilest is he who seems a saint Cheating the world without restraint",
+          "No harm is done by peace-lovers For pains rebound on pain-givers",
+          "No such wealth is here and there As peerless wealth of non-desire",
+          "People speak of untaught minds \\\"They just exist like barren lands\\\""
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கூடா ஒழுக்கம்) பகுதியில் குறள் 276 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனத்தில் பற்றுக்களைத் துறக்காமல் துறந்தவரைப் போல் வஞ்சனைச் செய்து வாழ்கின்றவரைப் போல் இரக்கமற்றவர் எவரும் இல்லை. பரிமேலழகர் உரை நுட்பம்: நெஞ்சின் துறவார் - நெஞ்சால் பற்று அறாது வைத்து, துறந்தார் போல் வஞ்சித்து வாழ்வாரின் - பற்று அற்றார் போன்று தானம் செய்வாரை வஞ்சித்து வாழுபவர் போல், வன்கணார் இல் - வன்கண்மையையுடையார் உலகத்து இல்லை. (தானம் செய்வாரை வஞ்சித்தலாவது, 'யாம் மறுமைக்கண் தேவராற்பொருட்டு...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 28: 'Imposture'), Kural 276 distills a foundational ethical insight: \"In mind renouncing nought, in speech renouncing every tie, Who guileful live,- no men are found than these of 'harder eye'\" Philosophically, Amongst living men there are none so hard-hearted as those who without to saking (desire) in their heart, falsely take the appearance of those who have forsaken (it).",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "self-mastery",
+        "discipline",
+        "harmony",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 277,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: புறத்தில் குன்றிமணிப்போல் செம்மையானவராய் காணப்பட்டாராயினும் அகத்தில் குன்றிமணியின் மூக்குப்போல் கருத்திருப்பவர் உலகில் உணடு.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: (The world) contains persons whose outside appears (as fair) as the (red) berry of the Abrus, but whose inside is as black as the nose of that berry.",
+        "story_title_ta": "கூடா ஒழுக்கம் — நிலா கற்ற பாடம்",
+        "story_title_en": "Imposture — Nila's Lesson",
+        "kutty_story_ta": "நிலா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கூடா ஒழுக்கம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 277 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'குன்றிமணியின் மேனியைப் போல் வெளித் தோற்றத்தில் நல்லவராயும், குன்றிமணியின் மூக்கு கறுத்து இருப்பதுபோல் மனத்தால் கரியவராகவும் வாழ்வோர் இவ்வுலகில் இருக்கவே செய்கின்றனர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் நிலா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என நிலா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Nila sat under the mango tree with Grandpa to hear a story on 'Imposture'. Grandpa shared Kural 277 and explained in simple words: (The world) contains persons whose outside appears (as fair) as the (red) berry of the Abrus, but whose inside is as black as the nose of that berry. The very next morning, Nila put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Nila remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: வெளித்தோற்றத்துக்குக் குன்றிமணி போல் சிவப்பாக இருந்தாலும், குன்றிமணியின் முனைபோலக் கறுத்த மனம் படைத்தவர்களும் உலகில் உண்டு.",
+        "moral_en": "Moral: Outward, they shine as 'kunri' berry's scarlet bright; Inward, like tip of 'kunri' bead, as black as night.",
+        "game_blank_word_ta": "முக்கிற்",
+        "game_options_ta": [
+          "வஞ்ச",
+          "முக்கிற்",
+          "மனத்தான்",
+          "படிற்றொழுக்கம்"
+        ],
+        "game_options_en": [
+          "Elements five of feigned life Of a sly hypocrite within laugh",
+          "Berry-red is his outward view, Black like its nose his inward hue",
+          "Of what avail are sky-high shows When guild the conscience gnaws and knows",
+          "Vaunting sainthood while week within Seems a grazer with tiger skin"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கூடா ஒழுக்கம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 277, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: குன்றிமணியின் மேனியைப் போல் வெளித் தோற்றத்தில் நல்லவராயும், குன்றிமணியின் மூக்கு கறுத்து இருப்பதுபோல் மனத்தால் கரியவராகவும் வாழ்வோர் இவ்வுலகில் இருக்கவே செய்கின்றனர். கலைஞர் உரை கூறுவது: வெளித்தோற்றத்துக்குக் குன்றிமணி போல் சிவப்பாக இருந்தாலும், குன்றிமணியின் முனைபோலக் கறுத்த மனம் படைத்தவர்களும் உலகில் உண்டு. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Imposture (Ascetic Virtue), Kural 277 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (The world) contains persons whose outside appears (as fair) as the (red) berry of the Abrus, but whose inside is as black as the nose of that berry. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கூடா ஒழுக்கம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Imposture' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கூடா ஒழுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 277 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 277 from Chapter 'Imposture'?",
+        "quiz_options_ta": [
+          "அறமாகிய செயல் எது என்றால் ஒரு உயிரையும் கொல்லாமையாகும், கொல்லுதல் அறமல்லாத செயல்கள் எல்லாவற்றையும் விளைக்கும்.",
+          "புறத்தில் குன்றிமணிப்போல் செம்மையானவராய் காணப்பட்டாராயினும் அகத்தில் குன்றிமணியின் மூக்குப்போல் கருத்திருப்பவர் உலகில் உணடு.",
+          "தூயநிலை என்றுக் கூறப்படுவது அவா இல்லா திருத்தலே யாகும், அவா அற்ற அத்தன்மை மெய்ப்பொருளை விரும்புவதால் உண்டாகும்.",
+          "நுட்பமானதாய் மாட்சியுடையதாய் ஆராய வல்லவான அறிவு இல்லாதவனுடைய எழுச்சியான அழகு மண்ணால் சிறப்பாகப் புனையப்பட்ட பாவை போன்றது."
+        ],
+        "quiz_options_en": [
+          "What is Virtue? 'Tis not to kill For killing causes every ill",
+          "Berry-red is his outward view, Black like its nose his inward hue",
+          "To nothing crave is purity That is the fruit of verity",
+          "Like painted clay-doll is his show Grand subtle lore who fails to know"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கூடா ஒழுக்கம்) பகுதியில் குறள் 277 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: புறத்தில் குன்றிமணிப்போல் செம்மையானவராய் காணப்பட்டாராயினும் அகத்தில் குன்றிமணியின் மூக்குப்போல் கருத்திருப்பவர் உலகில் உணடு. பரிமேலழகர் உரை நுட்பம்: குன்றிப் புறம் கண்டு அனையரேனும் - குன்றியின் புறம் போல வேடத்தாற் செம்மையுடையராயினும், குன்றி மூக்கின் அகம் கரியார் உடைத்து - அதன் மூக்குப் போல மனம் இருண்டு இருப்பாரை உடைத்து உலகம் ('குன்றி' ஆகுபெயர். செம்மை கருமை என்பன பொருள்களின் நிறத்தை விட்டுச...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 28: 'Imposture'), Kural 277 distills a foundational ethical insight: \"Outward, they shine as 'kunri' berry's scarlet bright; Inward, like tip of 'kunri' bead, as black as night\" Philosophically, (The world) contains persons whose outside appears (as fair) as the (red) berry of the Abrus, but whose inside is as black as the nose of that berry.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "discipline",
+        "love",
+        "harmony",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 278,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: மனத்தில் மாசு இருக்க, தவத்தால் மாண்பு பெற்றவரைப்போல், நீரில் மறைந்து நடக்கும் வஞ்சனை உடைய மாந்தர் உலகில் பலர் உள்ளனர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: There are many men of masked conduct, who perform their ablutions, and (make a show) of.",
+        "story_title_ta": "கூடா ஒழுக்கம் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Imposture — Anbu's Lesson",
+        "kutty_story_ta": "அன்பு பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கூடா ஒழுக்கம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 278 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'மனம் முழுக்க இருட்டு; வெளியே தூய நீரில் குளித்து வருபவர்போல் போலி வெளிச்சம் - இப்படி வாழும் மனிதர் பலர் இருக்கின்றனர்.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் அன்பு காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என அன்பு மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Anbu sat under the mango tree with Grandpa to hear a story on 'Imposture'. Grandpa shared Kural 278 and explained in simple words: There are many men of masked conduct, who perform their ablutions, and (make a show) of. The very next morning, Anbu put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Anbu remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நீருக்குள் மூழ்கியோர் தம்மை மறைத்துக் கொள்வது போல, மாண்புடையோர் எனும் பெயருக்குள் தம்மை மறைத்துக்கொண்டு மனத்தில் மாசுடையோர் பலர் உலவுகின்றனர்.",
+        "moral_en": "Moral: Many wash in hollowed waters, living lives of hidden shame; Foul in heart, yet high upraised of men in virtuous fame.",
+        "game_blank_word_ta": "மாந்தர்",
+        "game_options_ta": [
+          "வஞ்ச",
+          "மனத்தான்",
+          "மாந்தர்",
+          "படிற்றொழுக்கம்"
+        ],
+        "game_options_en": [
+          "Elements five of feigned life Of a sly hypocrite within laugh",
+          "Of what avail are sky-high shows When guild the conscience gnaws and knows",
+          "Filthy in mind some bathe in streams Hiding sins in showy extremes",
+          "Vaunting sainthood while week within Seems a grazer with tiger skin"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கூடா ஒழுக்கம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 278, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனம் முழுக்க இருட்டு; வெளியே தூய நீரில் குளித்து வருபவர்போல் போலி வெளிச்சம் - இப்படி வாழும் மனிதர் பலர் இருக்கின்றனர். கலைஞர் உரை கூறுவது: நீருக்குள் மூழ்கியோர் தம்மை மறைத்துக் கொள்வது போல, மாண்புடையோர் எனும் பெயருக்குள் தம்மை மறைத்துக்கொண்டு மனத்தில் மாசுடையோர் பலர் உலவுகின்றனர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Imposture (Ascetic Virtue), Kural 278 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There are many men of masked conduct, who perform their ablutions, and (make a show) of. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கூடா ஒழுக்கம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Imposture' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கூடா ஒழுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 278 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 278 from Chapter 'Imposture'?",
+        "quiz_options_ta": [
+          "கிடைத்ததைப் பகுந்து கொடுத்துத் தானும் உண்டு பல உயிர்களையும் காப்பாற்றுதல் அறநூலார் தொகுத்த அறங்கள் எல்லாவற்றிலும் தலையான அறமாகும்.",
+          "பற்றற்றவர் என்றுக் கூறப்படுவோர் அவா அற்றவரே, அவா அறாத மற்றவர் அவ்வளவாகப் பற்று அற்றவர் அல்லர்.",
+          "மனத்தில் மாசு இருக்க, தவத்தால் மாண்பு பெற்றவரைப்போல், நீரில் மறைந்து நடக்கும் வஞ்சனை உடைய மாந்தர் உலகில் பலர் உள்ளனர்.",
+          "கல்லாதவனிடம் சேர்ந்துள்ள செல்வமானது, கற்றறிந்த நல்லவரிடம் உள்ள வறுமையைவிட மிகத்துன்பம் செய்வதாகும்."
+        ],
+        "quiz_options_en": [
+          "Share the food and serve all lives This is the law of all the laws",
+          "The free are those who desire not The rest not free in bonds are caught",
+          "Filthy in mind some bathe in streams Hiding sins in showy extremes",
+          "Wealth in the hand of fools is worse Than a learned man's empty purse"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கூடா ஒழுக்கம்) பகுதியில் குறள் 278 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மனத்தில் மாசு இருக்க, தவத்தால் மாண்பு பெற்றவரைப்போல், நீரில் மறைந்து நடக்கும் வஞ்சனை உடைய மாந்தர் உலகில் பலர் உள்ளனர். பரிமேலழகர் உரை நுட்பம்: மாசு மனத்தது ஆக - மாசு தம் மனத்தின் கண்ணதாக, மாண்டார் நீர் ஆடி - பிறர்க்குத் தவத்தான் மாட்சிமையுயராய் நீரின் மூழ்கிக் காட்டி, மறைந்து செல்லும் மாந்தர் உலகத்துப் பலர். (மாசு: காம வெகுளி மயக்கங்கள். அவை போதற்கு அன்றி மாண்டார் என்று பிறர் கருதுதற்கு நீராடுதலான...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 28: 'Imposture'), Kural 278 distills a foundational ethical insight: \"Many wash in hollowed waters, living lives of hidden shame; Foul in heart, yet high upraised of men in virtuous fame\" Philosophically, There are many men of masked conduct, who perform their ablutions, and (make a show) of.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "discipline",
+        "self-mastery",
+        "ethics",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 279,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நேராகத் தோன்றினும் அம்பு கொடியது; வளைவுடன் தோன்றினாலும் யாழின் கொம்பு நன்மையானது. மக்களின் பண்புகளையும் செயல்வகையால் உணர்ந்துகொள்ள வேண்டும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: As, in its use, the arrow is crooked, and the curved lute is straight, so by their deeds, (and not by their appearance) let (the uprightness or crookedness of) men be estimated.",
+        "story_title_ta": "கூடா ஒழுக்கம் — இனியா கற்ற பாடம்",
+        "story_title_en": "Imposture — Iniya's Lesson",
+        "kutty_story_ta": "இனியா பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கூடா ஒழுக்கம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 279 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'வடிவால் நேரானது என்றாலும் செயலால் அம்பு கொடியது. கழுத்தால் வளைந்தது ஆயினும் செயலால் யாழ் இனிது. அதனால் தோற்றத்தால் அன்றிச் செயலால் மனிதரை எடை போடுக.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் இனியா காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என இனியா மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Iniya sat under the mango tree with Grandpa to hear a story on 'Imposture'. Grandpa shared Kural 279 and explained in simple words: As, in its use, the arrow is crooked, and the curved lute is straight, so by their deeds, (and not by their appearance) let (the uprightness or crookedness of) men be estimated. The very next morning, Iniya put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Iniya remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: நேராகத் தோன்றும் அம்பு, கொலைச் செயல் புரியும் வளைந்து தோன்றும் யாழ், இசை, இன்பம் பயக்கும் அது போலவே மக்களின் பண்புகளையும் அவர்களது செயலால் மட்டுமே உணர்ந்து கொள்ள வேண்டும்.",
+        "moral_en": "Moral: Cruel is the arrow straight, the crooked lute is sweet, Judge by their deeds the many forms of men you meet.",
+        "game_blank_word_ta": "கொளல்",
+        "game_options_ta": [
+          "வஞ்ச",
+          "மனத்தான்",
+          "படிற்றொழுக்கம்",
+          "கொளல்"
+        ],
+        "game_options_en": [
+          "Elements five of feigned life Of a sly hypocrite within laugh",
+          "Of what avail are sky-high shows When guild the conscience gnaws and knows",
+          "Vaunting sainthood while week within Seems a grazer with tiger skin",
+          "Know men by acts and not by forms Strait arrow kills, bent lute but charms"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கூடா ஒழுக்கம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 279, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வடிவால் நேரானது என்றாலும் செயலால் அம்பு கொடியது. கழுத்தால் வளைந்தது ஆயினும் செயலால் யாழ் இனிது. அதனால் தோற்றத்தால் அன்றிச் செயலால் மனிதரை எடை போடுக. கலைஞர் உரை கூறுவது: நேராகத் தோன்றும் அம்பு, கொலைச் செயல் புரியும் வளைந்து தோன்றும் யாழ், இசை, இன்பம் பயக்கும் அது போலவே மக்களின் பண்புகளையும் அவர்களது செயலால் மட்டுமே உணர்ந்து கொள்ள வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Imposture (Ascetic Virtue), Kural 279 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As, in its use, the arrow is crooked, and the curved lute is straight, so by their deeds, (and not by their appearance) let (the uprightness or crookedness of) men be estimated. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கூடா ஒழுக்கம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Imposture' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கூடா ஒழுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 279 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 279 from Chapter 'Imposture'?",
+        "quiz_options_ta": [
+          "இணையில்லாத ஓர் அறமாகக் கொல்லாமை நல்லது, அதற்கு அடுத்த நிலையில் கூறத்தக்கதாகப் பொய்யாமை நல்லது.",
+          "ஒருவன் அவாவிற்கு அஞ்சி வாழ்வதே அறம், ஏன் எனில் ஒருவனைச் சோர்வு கண்டுகொடுத்து வஞ்சிப்பது அவாவே.",
+          "கல்லாதவர் உயர்ந்த குடியில் பிறந்தவராக இருப்பினும் தாழ்ந்த குடியில் பிறந்திருந்தும் கல்விக் கற்றவரைப் போன்ற பெருமை இல்லாதவரே.",
+          "நேராகத் தோன்றினும் அம்பு கொடியது; வளைவுடன் தோன்றினாலும் யாழின் கொம்பு நன்மையானது. மக்களின் பண்புகளையும் செயல்வகையால் உணர்ந்துகொள்ள வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Not to kill is unique good The next, not to utter falsehood",
+          "Dread desire; Virtue is there To every soul desire is snare!",
+          "Lower are fools of higher birth Than low-born men of learning's worth",
+          "Know men by acts and not by forms Strait arrow kills, bent lute but charms"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கூடா ஒழுக்கம்) பகுதியில் குறள் 279 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நேராகத் தோன்றினும் அம்பு கொடியது; வளைவுடன் தோன்றினாலும் யாழின் கொம்பு நன்மையானது. மக்களின் பண்புகளையும் செயல்வகையால் உணர்ந்துகொள்ள வேண்டும். பரிமேலழகர் உரை நுட்பம்: கணை கொடிது யாழ் கோடு செவ்விது - அம்பு வடிவால் செவ்விதாயினும், செயலால் கொடிது, யாழ் கோட்டால் வளைந்ததாயினும் செயலால் செவ்விது. ஆங்கு அன்ன வினைபடு பாலால் கொளல் - அவ்வகையே தவம் செய்வோரையும் கொடியர் செவ்வியர் என்பது வடிவால் கொள்ளாது அவர்செயல்பட்ட கூற்றானே அறிந்து...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 28: 'Imposture'), Kural 279 distills a foundational ethical insight: \"Cruel is the arrow straight, the crooked lute is sweet, Judge by their deeds the many forms of men you meet\" Philosophically, As, in its use, the arrow is crooked, and the curved lute is straight, so by their deeds, (and not by their appearance) let (the uprightness or crookedness of) men be estimated.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "discipline",
+        "harmony",
+        "kindness",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 280,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: உலகம் பழிக்கும் தீயொழுக்கத்தை விட்டு விட்டால் மொட்டை அடித்தலும் சடை வளர்த்தலுமாகிய புறக்கோலங்கள் வேண்டா.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: There is no need of a shaven crown, nor of tangled hair, if a man abstain from those deeds which the wise have condemned.",
+        "story_title_ta": "கூடா ஒழுக்கம் — முகில் கற்ற பாடம்",
+        "story_title_en": "Imposture — Mugil's Lesson",
+        "kutty_story_ta": "முகில் பள்ளி முடிந்து வீட்டுக்கு வந்ததும் தன் தாத்தாவுடன் பூங்காவில் அமர்ந்திருந்தான்/அமர்ந்திருந்தாள். அன்று 'கூடா ஒழுக்கம்' என்ற அதிகாரத்தில் உள்ள திருக்குறள் 280 பற்றி தாத்தா ஒரு சுவையான கதை கூறினார். 'உயர்ந்தோர் வெறுத்தவற்றை மனத்தால் ஒதுக்கிவிட்ட பின் தலைமுடியைச் சிரைத்தல், நீள வளர்த்தல் என்பன பற்றி எண்ண வேண்டா.' என்று திருவள்ளுவர் ஏன் கூறினார் என்பதைத் தன் நண்பர்களுக்குச் சிறு செயலால் முகில் காட்டியது. கூட இருந்த அனைவரும் அந்த நல்ல குணத்தைப் பாராட்டினார்கள். நல்லொழுக்கமும் அன்பும் கொண்ட வாழ்க்கையே உண்மையான மகிழ்ச்சி தரும் என முகில் மகிழ்ச்சியுடன் புரிந்துகொண்டாள்.",
+        "kutty_story_en": "After school, Mugil sat under the mango tree with Grandpa to hear a story on 'Imposture'. Grandpa shared Kural 280 and explained in simple words: There is no need of a shaven crown, nor of tangled hair, if a man abstain from those deeds which the wise have condemned. The very next morning, Mugil put that virtue into action at school by helping a classmate with patience and warmth. The teacher smiled and praised how one small good habit brightened the entire classroom. From that day on, Mugil remembered that living truthfully and kindly brings lasting joy.",
+        "moral_ta": "நீதி: உலகத்தாரின் பழிப்புக்கு உள்ளாகும் செயல்களைத் துறக்காமல் ஒரு துறவி, தனது தலையை மொட்டையடித்துக் கொண்டோ, சடாமுடி வளர்த்துக் கொண்டோ கோலத்தை மட்டும் மாற்றிக் கொள்வது ஒரு ஏமாற்று வித்தையே ஆகும்.",
+        "moral_en": "Moral: What's the worth of shaven head or tresses long, If you shun what all the world condemns as wrong.",
+        "game_blank_word_ta": "மழித்தலும்",
+        "game_options_ta": [
+          "மழித்தலும்",
+          "வஞ்ச",
+          "மனத்தான்",
+          "படிற்றொழுக்கம்"
+        ],
+        "game_options_en": [
+          "No balding nor tangling the hair! Abstain from condemned acts with care",
+          "Elements five of feigned life Of a sly hypocrite within laugh",
+          "Of what avail are sky-high shows When guild the conscience gnaws and knows",
+          "Vaunting sainthood while week within Seems a grazer with tiger skin"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "கூடா ஒழுக்கம் (துறவறவியல்) பிரிவில் அமைந்த குறள் 280, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உயர்ந்தோர் வெறுத்தவற்றை மனத்தால் ஒதுக்கிவிட்ட பின் தலைமுடியைச் சிரைத்தல், நீள வளர்த்தல் என்பன பற்றி எண்ண வேண்டா. கலைஞர் உரை கூறுவது: உலகத்தாரின் பழிப்புக்கு உள்ளாகும் செயல்களைத் துறக்காமல் ஒரு துறவி, தனது தலையை மொட்டையடித்துக் கொண்டோ, சடாமுடி வளர்த்துக் கொண்டோ கோலத்தை மட்டும் மாற்றிக் கொள்வது ஒரு ஏமாற்று வித்தையே ஆகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Imposture (Ascetic Virtue), Kural 280 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is no need of a shaven crown, nor of tangled hair, if a man abstain from those deeds which the wise have condemned. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒருவரிடம் கனிவாகப் பேசி 'கூடா ஒழுக்கம்' பண்பைச் செயலில் காட்டு.",
+        "action_tip_en": "Practice 'Imposture' today by speaking kindly and doing one unprompted helpful act at home or school.",
+        "quiz_question_ta": "'கூடா ஒழுக்கம்' அதிகாரத்தில் வரும் திருக்குறள் 280 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 280 from Chapter 'Imposture'?",
+        "quiz_options_ta": [
+          "உலகம் பழிக்கும் தீயொழுக்கத்தை விட்டு விட்டால் மொட்டை அடித்தலும் சடை வளர்த்தலுமாகிய புறக்கோலங்கள் வேண்டா.",
+          "நல்ல வழி என்று அறநூல்களால் சொல்லப்படுவது எது என்றால், எந்த உயிரையும் கொல்லாத அறத்தைப் போற்றும் நெறியாகும்.",
+          "ஒருவன் ஆசையை முழுதும் ஒழித்தால், அவன் கெடாமல் வாழ்வதற்கு உரிய நல்ல செயல் அவன் விரும்புமாறு வாய்க்கும்.",
+          "அறிவு விளங்குதற்குக் காரணமான நூல்களைக் கற்றவரோடுக் கல்லாதவர், மக்களோடு விலங்குகளுக்கு உள்ள அவ்வளவு வேற்றுமை உடையவர்."
+        ],
+        "quiz_options_en": [
+          "No balding nor tangling the hair! Abstain from condemned acts with care",
+          "What way is good? That we can say The way away from heat to slay",
+          "Destroy desire; deliverance Comes as much as you aspire hence",
+          "Like beasts before men, dunces are Before scholars of shining lore"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "அறத்துப்பால் — துறவறவியல் (கூடா ஒழுக்கம்) பகுதியில் குறள் 280 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உலகம் பழிக்கும் தீயொழுக்கத்தை விட்டு விட்டால் மொட்டை அடித்தலும் சடை வளர்த்தலுமாகிய புறக்கோலங்கள் வேண்டா. பரிமேலழகர் உரை நுட்பம்: மழித்தலும் நீட்டலும் வேண்டா - தவம் செய்வோர்க்கு தலை மயிரை மழித்தலும் சடையாக்கலும் ஆகிய வேடமும் வேண்டா. உலகம் பழித்தது ஒழித்து விடின் - உயர்ந்தோர் தவத்திற்கு ஆகாது என்று குற்றம் கூறிய ஒழுக்கத்தைக் கடிந்து விடின். (பறித்தலும் மழித்தலுள் அடங்கும், மழித்தல...",
+        "reflection_en": "Within Book of Virtue (Ascetic Virtue — Chapter 28: 'Imposture'), Kural 280 distills a foundational ethical insight: \"What's the worth of shaven head or tresses long, If you shun what all the world condemns as wrong\" Philosophically, There is no need of a shaven crown, nor of tangled hair, if a man abstain from those deeds which the wise have condemned.",
+        "research_theme": "philosophy"
+      },
+      "tags": [
+        "harmony",
+        "discipline",
+        "wisdom",
+        "education"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "adhikaram_id": 50,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.903350550+00:00",
+  "kurals": [
+    {
+      "kural_number": 491,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: முற்றுகை செய்வதற்கு ஏற்ற இடத்தைக் கண்டபின் அல்லாமல் எச் செயலையும் தொடங்கக்கூடாது, பகைவரை இகழவும் கூடாது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Let not (a king) despise (an enemy), nor undertake any thing (against him), until he has obtained (a suitable) place for besieging him.",
+        "story_title_ta": "இடனறிதல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Knowing the Place — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடனறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 491 பற்றிக் கதை சொன்னார். 'பகைவரை வளைத்து வெல்லும் இடத்தைக் காணும் முன் எந்தச் செயலையும் தொடங்க வேண்டா; பகைவரை அற்பர் என்று இகழவும் வேண்டா.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 50, 'Knowing the Place', centered on Kural 491: Let not (a king) despise (an enemy), nor undertake any thing (against him), until he has obtained (a suitable) place for besieging him. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஈடுபடும் செயல் ஒன்றும் பெரிதல்ல என இகழ்ச்சியாகக் கருதாமல், முற்றிலும் சரியான இடத்தைத் தேர்ந்தெடுத்து அச்செயலில் இறங்க வேண்டும்.",
+        "moral_en": "Moral: Begin no work of war, depise no foe, Till place where you can wholly circumvent you know.",
+        "game_blank_word_ta": "பின்அல்",
+        "game_options_ta": [
+          "முரண்சேர்ந்த",
+          "மொய்ம்பி",
+          "னவர்க்கும்",
+          "பின்அல்"
+        ],
+        "game_options_en": [
+          "Many are gains of fortresses Ev'n to kings of power and prowess",
+          "Weaklings too withstand foe's offence In proper fields of strong defence",
+          "If fighters fight in vantage field The plans of foes shall be baffled",
+          "No action take, no foe despise Until you have surveyed the place"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடனறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 491, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகைவரை வளைத்து வெல்லும் இடத்தைக் காணும் முன் எந்தச் செயலையும் தொடங்க வேண்டா; பகைவரை அற்பர் என்று இகழவும் வேண்டா. கலைஞர் உரை கூறுவது: ஈடுபடும் செயல் ஒன்றும் பெரிதல்ல என இகழ்ச்சியாகக் கருதாமல், முற்றிலும் சரியான இடத்தைத் தேர்ந்தெடுத்து அச்செயலில் இறங்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Place (Royalty & Polity), Kural 491 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let not (a king) despise (an enemy), nor undertake any thing (against him), until he has obtained (a suitable) place for besieging him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடனறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Place' thoughtfully.",
+        "quiz_question_ta": "'இடனறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 491 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 491 from Chapter 'Knowing the Place'?",
+        "quiz_options_ta": [
+          "வரும் இடையூறுகளை முன்னே அறிந்துக் காக்காமல் மறந்து சோர்ந்தவன், பின்பு அவை வந்துற்றபோது தன் பிழையை நினைத்து இரங்குவான்.",
+          "தம் தம் கடமையாகிய தொழில் கெடாமல் கண்ணோட்டம் உடையவராக இருக்க வல்லவர்க்கு இவ்வுலகம் உரிமை உடையது.",
+          "துன்பம் வரும்போது (அதற்காக கலங்காமல்) நகுதல் வேண்டும், அத் துன்பத்தை எதிர்த்து வெல்லவல்லது அதைப் போன்றது வேறு இல்லை.",
+          "முற்றுகை செய்வதற்கு ஏற்ற இடத்தைக் கண்டபின் அல்லாமல் எச் செயலையும் தொடங்கக்கூடாது, பகைவரை இகழவும் கூடாது."
+        ],
+        "quiz_options_en": [
+          "Failing foresight the guardless man Shall rue his folly later on",
+          "Who gracious are but dutiful Have right for this earth beautiful",
+          "Laugh away troubles; there is No other way to conquer woes",
+          "No action take, no foe despise Until you have surveyed the place"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடனறிதல்) பகுதியில் குறள் 491 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முற்றுகை செய்வதற்கு ஏற்ற இடத்தைக் கண்டபின் அல்லாமல் எச் செயலையும் தொடங்கக்கூடாது, பகைவரை இகழவும் கூடாது. பரிமேலழகர் உரை நுட்பம்: முற்றும் இடம் கண்ட பின்அல்லது - பகைவரை முற்றுதற்கு ஆவதோர் இடம் பெற்றபின் அல்லது, எவ்வினையும் தொடங்கற்க - அவர்மாட்டு யாதொரு வினையையும் தொடங்காதொழிக, எள்ளற்க - அவரைச் சிறியர் என்று இகழாதொழிக. (முற்றுதல்: வளைத்தல். அதற்கு ஆம் இடமாவது: வாயில்களானும் நூழைகளானும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 50: 'Knowing the Place'), Kural 491 distills a foundational ethical insight: \"Begin no work of war, depise no foe, Till place where you can wholly circumvent you know\" Philosophically, Let not (a king) despise (an enemy), nor undertake any thing (against him), until he has obtained (a suitable) place for besieging him.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "love",
+        "education",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 492,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: மாறுபாடு பொருந்திய வலிமை உடையவர்க்கும் அரணோடு பொருந்தி ஏற்படுகின்ற வெற்றியானது பல வகைப் பயன்களையும் கொடுக்கும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Even to those who are men of power and expedients, an attack in connection with a fortification will yield many advantages.",
+        "story_title_ta": "இடனறிதல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Knowing the Place — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடனறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 492 பற்றிக் கதை சொன்னார். 'பகை உணர்வுகள் நிறைந்தும், ஆற்றலில் மிகுந்தும் இருப்பவர்க்குப் பாதுகாப்பான இடத்துள் இருப்பது பல பயன்களையும் தரும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 50, 'Knowing the Place', centered on Kural 492: Even to those who are men of power and expedients, an attack in connection with a fortification will yield many advantages. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வரும்பகையை எதிர்க்கும் வலிமை இருப்பினும், அத்துடன் அரணைச் சார்ந்து போரிடும் வாய்ப்பும் இணையுமானால் பெரும்பயன் கிட்டும்.",
+        "moral_en": "Moral: Though skill in war combine with courage tried on battle-field, The added gain of fort doth great advantage yield.",
+        "game_blank_word_ta": "னவர்க்கும்",
+        "game_options_ta": [
+          "னவர்க்கும்",
+          "தொடங்கற்க",
+          "எவ்வினையும்",
+          "எள்ளற்க"
+        ],
+        "game_options_en": [
+          "Many are gains of fortresses Ev'n to kings of power and prowess",
+          "No action take, no foe despise Until you have surveyed the place",
+          "Weaklings too withstand foe's offence In proper fields of strong defence",
+          "If fighters fight in vantage field The plans of foes shall be baffled"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடனறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 492, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகை உணர்வுகள் நிறைந்தும், ஆற்றலில் மிகுந்தும் இருப்பவர்க்குப் பாதுகாப்பான இடத்துள் இருப்பது பல பயன்களையும் தரும். கலைஞர் உரை கூறுவது: வரும்பகையை எதிர்க்கும் வலிமை இருப்பினும், அத்துடன் அரணைச் சார்ந்து போரிடும் வாய்ப்பும் இணையுமானால் பெரும்பயன் கிட்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Place (Royalty & Polity), Kural 492 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even to those who are men of power and expedients, an attack in connection with a fortification will yield many advantages. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடனறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Place' thoughtfully.",
+        "quiz_question_ta": "'இடனறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 492 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 492 from Chapter 'Knowing the Place'?",
+        "quiz_options_ta": [
+          "மாறுபாடு பொருந்திய வலிமை உடையவர்க்கும் அரணோடு பொருந்தி ஏற்படுகின்ற வெற்றியானது பல வகைப் பயன்களையும் கொடுக்கும்.",
+          "யாரிடத்திலும் எக்காலத்திலும் மறந்தும் சோர்ந்திருக்காதத் தன்மை தவறாமல் பொருந்தியிருக்குமானால், அதற்கு ஒப்பான நன்மை வேறொன்றும் இல்லை.",
+          "தண்டித்தற்குரிய தன்மை உடையவரிடத்திலும் கண்ணோட்டம் செய்து ( அவர் செய்த குற்றத்தைப்) பொருத்துக் காக்கும் பண்பே சிறந்தது.",
+          "வெள்ளம் போல் அளவற்றதாய் வரும் துன்பமும், அறிவுடையவன் தன் உள்ளத்தினால் அத் துன்பத்தின் இயல்பை நினைத்த அளவில் கெடும்."
+        ],
+        "quiz_options_en": [
+          "Many are gains of fortresses Ev'n to kings of power and prowess",
+          "Forget none; watch with wakeful care Miss none; the gain is sans compare",
+          "To be benign and bear with foes Who vex us is true virtue's phase",
+          "Deluging sorrows come to nought When wise men face them with firm thought"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடனறிதல்) பகுதியில் குறள் 492 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மாறுபாடு பொருந்திய வலிமை உடையவர்க்கும் அரணோடு பொருந்தி ஏற்படுகின்ற வெற்றியானது பல வகைப் பயன்களையும் கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: முரண் சேர்ந்த மொய்ம்பினவர்க்கும் - மாறுபாட்டோடு கூடிய வலியினை உடையார்க்கும், அரண் சேர்ந்து ஆம் ஆக்கம் பலவும் தரும் - அரணைச் சேர்ந்து ஆகின்ற ஆக்கம் பல பயன்களையும் கொடுக்கும். (மாறுபாடாவது: ஞாலம் பொது எனப் பொறா அரசர் மனத்தின் நிகழ்வதாகலானும், வலியுடைமை கூறிய...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 50: 'Knowing the Place'), Kural 492 distills a foundational ethical insight: \"Though skill in war combine with courage tried on battle-field, The added gain of fort doth great advantage yield\" Philosophically, Even to those who are men of power and expedients, an attack in connection with a fortification will yield many advantages.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "leadership",
+        "courage",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 493,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: தக்க இடத்தை அறிந்து தம்மைக் காத்துக் கொண்டு பகைவரிடத்திற் சென்று தம் செயலைச் செய்தால், வலிமை இல்லாதவறும் வலிமை உடையவராக வெல்வர்,.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Even the powerless will become powerful and conquer, if they select a proper field (of action), and guard themselves, while they make war on their enemies.",
+        "story_title_ta": "இடனறிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Knowing the Place — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடனறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 493 பற்றிக் கதை சொன்னார். 'பலம் இல்லாதவர் என்றாலும்கூட ஏற்ற இடத்தை அறிந்து, தம்மையும் காத்து, பகைவரோடு மோதுபவர், பலம் உள்ளவராய்ப் பகையை அழிப்பர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 50, 'Knowing the Place', centered on Kural 493: Even the powerless will become powerful and conquer, if they select a proper field (of action), and guard themselves, while they make war on their enemies. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தாக்குதல் நடத்துவதற்குரிய இடத்தையும் தேர்ந்து, தம்மையும் காத்துக்கொண்டு பகைவருடன் மோதினால் வலிமையில்லாதவர்க்கும் வலிமை ஏற்பட்டு வெற்றி கிட்டும்.",
+        "moral_en": "Moral: E'en weak ones mightily prevail, if place of strong defence, They find, protect themselves, and work their foes offence.",
+        "game_blank_word_ta": "இடனறிந்து",
+        "game_options_ta": [
+          "தொடங்கற்க",
+          "இடனறிந்து",
+          "எவ்வினையும்",
+          "எள்ளற்க"
+        ],
+        "game_options_en": [
+          "No action take, no foe despise Until you have surveyed the place",
+          "Weaklings too withstand foe's offence In proper fields of strong defence",
+          "Many are gains of fortresses Ev'n to kings of power and prowess",
+          "If fighters fight in vantage field The plans of foes shall be baffled"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடனறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 493, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பலம் இல்லாதவர் என்றாலும்கூட ஏற்ற இடத்தை அறிந்து, தம்மையும் காத்து, பகைவரோடு மோதுபவர், பலம் உள்ளவராய்ப் பகையை அழிப்பர். கலைஞர் உரை கூறுவது: தாக்குதல் நடத்துவதற்குரிய இடத்தையும் தேர்ந்து, தம்மையும் காத்துக்கொண்டு பகைவருடன் மோதினால் வலிமையில்லாதவர்க்கும் வலிமை ஏற்பட்டு வெற்றி கிட்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Place (Royalty & Polity), Kural 493 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even the powerless will become powerful and conquer, if they select a proper field (of action), and guard themselves, while they make war on their enemies. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடனறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Place' thoughtfully.",
+        "quiz_question_ta": "'இடனறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 493 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 493 from Chapter 'Knowing the Place'?",
+        "quiz_options_ta": [
+          "மறவாமை என்னும் கருவிகொண்டு (கடமைகளைப்) போற்றிச் செய்தால், செய்வதற்கு அரியவை என்று ஒருவனால் முடியாத செயல்கள் இல்லை.",
+          "தக்க இடத்தை அறிந்து தம்மைக் காத்துக் கொண்டு பகைவரிடத்திற் சென்று தம் செயலைச் செய்தால், வலிமை இல்லாதவறும் வலிமை உடையவராக வெல்வர்,",
+          "எவராலும் விரும்பத்தக்க நாகரிகமான கண்ணோட்டத்தை விரும்புகின்றவர், பழகியவர் தமக்கு நஞ்சு இடக்கண்டும் அதை உண்டு அமைவர்.",
+          "துன்பம் வந்த போது அதற்க்காக வருந்திக் கலங்காதவர் அந்தத் துன்பத்திற்கே துன்பம் உண்டாக்கி அதை வென்று விடுவார்."
+        ],
+        "quiz_options_en": [
+          "With cautious care pursue a thing Impossible there is nothing",
+          "Weaklings too withstand foe's offence In proper fields of strong defence",
+          "Men of graceful courtesy Take hemlock and look cheerfully",
+          "Grief they face and put to grief Who grieve not grief by mind's relief"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடனறிதல்) பகுதியில் குறள் 493 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தக்க இடத்தை அறிந்து தம்மைக் காத்துக் கொண்டு பகைவரிடத்திற் சென்று தம் செயலைச் செய்தால், வலிமை இல்லாதவறும் வலிமை உடையவராக வெல்வர்,. பரிமேலழகர் உரை நுட்பம்: ஆற்றாரும் ஆற்றி அடுப - வலியர் அல்லாதாரும் வலியாராய் வெல்வர், இடன் அறிந்து போற்றிப் போற்றார்கண் செயின் - அதற்கு ஏற்ற இடத்தினை அறிந்து, தம்மைக் காத்துப் பகைவர்மாட்டு வினை செய்வாராயின். ('வினை' என்பதூஉம் 'தம்மை' என்பதூஉம் அவாய் நிலையான் வந்தன. காத்தல், பகைவரான...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 50: 'Knowing the Place'), Kural 493 distills a foundational ethical insight: \"E'en weak ones mightily prevail, if place of strong defence, They find, protect themselves, and work their foes offence\" Philosophically, Even the powerless will become powerful and conquer, if they select a proper field (of action), and guard themselves, while they make war on their enemies.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "discipline",
+        "love",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 494,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தக்க இடத்தை அறிந்து பொருந்தியவராய்ச் செயலைச் செய்வாராயின், அவரை வெல்ல எண்ணியிருந்த பகைவர் தம் எண்ணத்தை இழந்துவிடுவார்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If they who draw near (to fight) choose a suitable place to approach (their enemy), the latter, will have to relinquish the thought which they once entertained, of conquering them.",
+        "story_title_ta": "இடனறிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Knowing the Place — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடனறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 494 பற்றிக் கதை சொன்னார். 'ஏற்ற இடத்தை அறிந்து அதைச் சூழ்ந்து செயல் செய்வார் என்றால், அவரை வெல்ல எண்ணிய பகைவர். அவ் எண்ணத்தில் தோல்வி அடைவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 50, 'Knowing the Place', centered on Kural 494: If they who draw near (to fight) choose a suitable place to approach (their enemy), the latter, will have to relinquish the thought which they once entertained, of conquering them. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஏற்ற இடமறிந்து தொடர்ந்து தாக்கினால் பகைவர்கள், வெற்றி என்பதை நினைத்துக்கூடப் பார்க்க மாட்டார்கள்.",
+        "moral_en": "Moral: The foes who thought to triumph, find their thoughts were vain, If hosts advance, seize vantage ground, and thence the fight maintain.",
+        "game_blank_word_ta": "துன்னியார்",
+        "game_options_ta": [
+          "தொடங்கற்க",
+          "எவ்வினையும்",
+          "துன்னியார்",
+          "எள்ளற்க"
+        ],
+        "game_options_en": [
+          "No action take, no foe despise Until you have surveyed the place",
+          "Many are gains of fortresses Ev'n to kings of power and prowess",
+          "If fighters fight in vantage field The plans of foes shall be baffled",
+          "Weaklings too withstand foe's offence In proper fields of strong defence"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடனறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 494, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஏற்ற இடத்தை அறிந்து அதைச் சூழ்ந்து செயல் செய்வார் என்றால், அவரை வெல்ல எண்ணிய பகைவர். அவ் எண்ணத்தில் தோல்வி அடைவர். கலைஞர் உரை கூறுவது: ஏற்ற இடமறிந்து தொடர்ந்து தாக்கினால் பகைவர்கள், வெற்றி என்பதை நினைத்துக்கூடப் பார்க்க மாட்டார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Place (Royalty & Polity), Kural 494 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If they who draw near (to fight) choose a suitable place to approach (their enemy), the latter, will have to relinquish the thought which they once entertained, of conquering them. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடனறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Place' thoughtfully.",
+        "quiz_question_ta": "'இடனறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 494 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 494 from Chapter 'Knowing the Place'?",
+        "quiz_options_ta": [
+          "சான்றோர் புகழ்ந்து சொல்லியச் செயல்களைப் போற்றிச் செய்யவேண்டும், அவ்வாறு செய்யாமல் மறந்து சோர்ந்தவர்க்கு ஏழுப் பிறப்பிலும் நன்மை இல்லை.",
+          "ஒற்றரும் புகழ் அமைந்த நீதிநூலும் ஆகிய இவ்விருவகைக் கருவிகளையும் அரசன் தன்னுடைய கண்களாகத் தெளியவேணடும்.",
+          "தக்க இடத்தை அறிந்து பொருந்தியவராய்ச் செயலைச் செய்வாராயின், அவரை வெல்ல எண்ணியிருந்த பகைவர் தம் எண்ணத்தை இழந்துவிடுவார்.",
+          "தடைபட்ட இடங்களில் எல்லாம் (வண்டியை இழுத்துச் செல்லும்) எருதுபோல் விடாமுயற்சி உடையவன் உற்றத் துன்பமே துன்பப்படுவதாகும்."
+        ],
+        "quiz_options_en": [
+          "Do what the wise commend as worth If not, for seven births no mirth",
+          "A king should treat these two as eyes The code of laws and careful spies",
+          "If fighters fight in vantage field The plans of foes shall be baffled",
+          "Who pulls like bulls patiently on Causes grief to grieve anon"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடனறிதல்) பகுதியில் குறள் 494 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தக்க இடத்தை அறிந்து பொருந்தியவராய்ச் செயலைச் செய்வாராயின், அவரை வெல்ல எண்ணியிருந்த பகைவர் தம் எண்ணத்தை இழந்துவிடுவார். பரிமேலழகர் உரை நுட்பம்: இடன் அறிந்து துன்னியார் - தாம் வினை செய்தற்கு ஏற்ற இடத்தினை அறிந்து சென்ற அரசர், துன்னிச் செயின் - அரணைப் பொருந்தி நின்று அதனைச் செய்வாராயின், எண்ணியார் எண்ணம் இழப்பர் - அவரை வெல்வதாக எண்ணி இருந்த பகைவர் அவ்வெண்ணத்தினை இழப்பர். (அரண்' என்பது அவாய் நிலையான...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 50: 'Knowing the Place'), Kural 494 distills a foundational ethical insight: \"The foes who thought to triumph, find their thoughts were vain, If hosts advance, seize vantage ground, and thence the fight maintain\" Philosophically, If they who draw near (to fight) choose a suitable place to approach (their enemy), the latter, will have to relinquish the thought which they once entertained, of conquering them.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "education",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 495,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: ஆழமுள்ள நீரில் முதலை மற்ற உயிர்களை வெல்லும், ஆனால் நீரிலிருந்து விலகிவந்தால் அந்த முதலையையும் மற்ற உயிர்கள் வென்றுவிடும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: In deep water, a crocodile will conquer (all other animals); but if it leave the water, other animals will conquer it.",
+        "story_title_ta": "இடனறிதல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Knowing the Place — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடனறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 495 பற்றிக் கதை சொன்னார். 'முதலை நீரில் வெற்றி பெறும்; நீரைவிட்டு வெளியே வந்தால் அதனை மற்றவை வெல்லும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 50, 'Knowing the Place', centered on Kural 495: In deep water, a crocodile will conquer (all other animals); but if it leave the water, other animals will conquer it. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தண்ணீரில் இருக்கும் வரையில்தான் முதலைக்குப் பலம்; தண்ணீரைவிட்டு வெளியே வந்து விட்டால் ஒரு சாதாரண உயிர்கூட அதனை விரட்டி விடும்.",
+        "moral_en": "Moral: The crocodile prevails in its own flow of water wide, If this it leaves, 'tis slain by anything beside.",
+        "game_blank_word_ta": "அடும்புனலின்",
+        "game_options_ta": [
+          "தொடங்கற்க",
+          "எவ்வினையும்",
+          "எள்ளற்க",
+          "அடும்புனலின்"
+        ],
+        "game_options_en": [
+          "No action take, no foe despise Until you have surveyed the place",
+          "Many are gains of fortresses Ev'n to kings of power and prowess",
+          "Weaklings too withstand foe's offence In proper fields of strong defence",
+          "In water crocodile prevails In land before others it fails"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடனறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 495, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முதலை நீரில் வெற்றி பெறும்; நீரைவிட்டு வெளியே வந்தால் அதனை மற்றவை வெல்லும். கலைஞர் உரை கூறுவது: தண்ணீரில் இருக்கும் வரையில்தான் முதலைக்குப் பலம்; தண்ணீரைவிட்டு வெளியே வந்து விட்டால் ஒரு சாதாரண உயிர்கூட அதனை விரட்டி விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Place (Royalty & Polity), Kural 495 speaks directly to teens navigating studies, friendships, leadership, and digital choices: In deep water, a crocodile will conquer (all other animals); but if it leave the water, other animals will conquer it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடனறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Place' thoughtfully.",
+        "quiz_question_ta": "'இடனறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 495 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 495 from Chapter 'Knowing the Place'?",
+        "quiz_options_ta": [
+          "தாம் தம் மகிழ்ச்சியால் செருக்குக் கொண்டு கடமையை மறந்திருக்கும் போது, அவ்வாறு சோர்ந்திருந்த காரணத்தால் முற்காலத்தில் அழிந்தவரை நினைக்க வேண்டும்.",
+          "எல்லாரிடத்திலும் நிகழ்கின்றவை எல்லாவற்றையும் எக்காலத்திலும் (ஒற்றரைக் கொண்டு) விரைந்து அறிதல் அரசனுக்குரிய தொழிலாகும்.",
+          "விடாமல் மேன் மேலும் துன்பம் வந்தபோதிலும் கலங்காமலிருக்கும் ஆற்றலுடையவன் அடைந்த துன்பமே துன்பப்பட்டு போகும்.",
+          "ஆழமுள்ள நீரில் முதலை மற்ற உயிர்களை வெல்லும், ஆனால் நீரிலிருந்து விலகிவந்தால் அந்த முதலையையும் மற்ற உயிர்கள் வென்றுவிடும்."
+        ],
+        "quiz_options_en": [
+          "When joy deludes, their fate recall Whom negligence has made to fall",
+          "All that happens, always, to all The king should know in full detail",
+          "Before the brave grief grieves and goes Who dare a host of pressing woes",
+          "In water crocodile prevails In land before others it fails"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடனறிதல்) பகுதியில் குறள் 495 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஆழமுள்ள நீரில் முதலை மற்ற உயிர்களை வெல்லும், ஆனால் நீரிலிருந்து விலகிவந்தால் அந்த முதலையையும் மற்ற உயிர்கள் வென்றுவிடும். பரிமேலழகர் உரை நுட்பம்: முதலை நெடும்புனலுள்(பிற) வெல்லும் - முதலை ஆழமுடைய நீரின்கண் ஆயின், பிறவற்றையெல்லாம் தான் வெல்லாநிற்கும், புனலின் நீங்கின் அதனைப் 'பிற' அடும் - அப்புனலின் நீங்குமாயின், அதனைப் பிற எல்லாம் வெல்லா நிற்கும். (எனவே, 'எல்லாரும் தம்நிலத்து வலியர்' என்பது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 50: 'Knowing the Place'), Kural 495 distills a foundational ethical insight: \"The crocodile prevails in its own flow of water wide, If this it leaves, 'tis slain by anything beside\" Philosophically, In deep water, a crocodile will conquer (all other animals); but if it leave the water, other animals will conquer it.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 496,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: வலிய சக்கரங்களையுடைய பெரியத் தேர்கள் கடலில் ஓடமுடியாது, கடலில் ஓடுகின்ற கப்பல்களும் நிலத்தில் ஓடமுடியாது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Wide chariots, with mighty wheels, will not run on the ocean; neither will ships that the traverse ocean, move on the earth.",
+        "story_title_ta": "இடனறிதல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Knowing the Place — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடனறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 496 பற்றிக் கதை சொன்னார். 'வலிய சக்கரங்களை உடைய நெடிய தேர்கள் கடலில் ஒடமாட்டா; கடலில் ஓடும் கப்பல்கள் நிலத்தில் ஓடமாட்டா.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 50, 'Knowing the Place', centered on Kural 496: Wide chariots, with mighty wheels, will not run on the ocean; neither will ships that the traverse ocean, move on the earth. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒரு செயலுக்குரிய இடத்தைத் தேர்ந்தெடுப்பவர் `தேர் கடலிலே ஓடாது' `கப்பல் நிலத்தில் போகாது' என்பதையாவது தெரிந்தவராக இருக்க வேண்டும்.",
+        "moral_en": "Moral: The lofty car, with mighty wheel, sails not o'er watery main, The boat that skims the sea, runs not on earth's hard plain.",
+        "game_blank_word_ta": "நாவாயும்",
+        "game_options_ta": [
+          "நாவாயும்",
+          "தொடங்கற்க",
+          "எவ்வினையும்",
+          "எள்ளற்க"
+        ],
+        "game_options_en": [
+          "Sea-going ship goes not on shore Nor on sea the strong-wheeled car",
+          "No action take, no foe despise Until you have surveyed the place",
+          "Many are gains of fortresses Ev'n to kings of power and prowess",
+          "Weaklings too withstand foe's offence In proper fields of strong defence"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடனறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 496, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வலிய சக்கரங்களை உடைய நெடிய தேர்கள் கடலில் ஒடமாட்டா; கடலில் ஓடும் கப்பல்கள் நிலத்தில் ஓடமாட்டா. கலைஞர் உரை கூறுவது: ஒரு செயலுக்குரிய இடத்தைத் தேர்ந்தெடுப்பவர் `தேர் கடலிலே ஓடாது' `கப்பல் நிலத்தில் போகாது' என்பதையாவது தெரிந்தவராக இருக்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Place (Royalty & Polity), Kural 496 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Wide chariots, with mighty wheels, will not run on the ocean; neither will ships that the traverse ocean, move on the earth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடனறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Place' thoughtfully.",
+        "quiz_question_ta": "'இடனறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 496 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 496 from Chapter 'Knowing the Place'?",
+        "quiz_options_ta": [
+          "வலிய சக்கரங்களையுடைய பெரியத் தேர்கள் கடலில் ஓடமுடியாது, கடலில் ஓடுகின்ற கப்பல்களும் நிலத்தில் ஓடமுடியாது.",
+          "ஒருவன் எண்ணியதை விடாமல் எண்ணி (சோர்வில்லாமல்) இருக்கப் பெற்றால், அவன் கருதியதை அடைதல் எளிதாகும்.",
+          "ஒற்றரால் (நாட்டு நிகழ்ச்சிகளை) அறிந்து அவற்றின் பயனை ஆராய்ந்துணராத அரசன் வெற்றிபெறத்தக்க வழி வேறு இல்லை.",
+          "செல்வம் வந்த போது இதைப்பெற்றோமே என்று பற்றுக்கொண்டு காத்தறியாதவர் வறுமை வந்த போது இழந்தோமே என்று அல்லல்படுவரோ."
+        ],
+        "quiz_options_en": [
+          "Sea-going ship goes not on shore Nor on sea the strong-wheeled car",
+          "Easy it is a thing to get When the mind on it is set",
+          "Conquests are not for the monarch Who cares not for the Spy's remark",
+          "The wise that never gloat in gain Do not fret in fateful ruin"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடனறிதல்) பகுதியில் குறள் 496 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வலிய சக்கரங்களையுடைய பெரியத் தேர்கள் கடலில் ஓடமுடியாது, கடலில் ஓடுகின்ற கப்பல்களும் நிலத்தில் ஓடமுடியாது. பரிமேலழகர் உரை நுட்பம்: கால் வல் நெடுந்தேர் கடல் ஓடா - நிலத்தின்கண் ஓடும் கால்வலிய நெடிய தேர்கள் கடலின்கண் ஓடமாட்டா, கடல் ஓடும் நாவாயும் நிலத்து ஓடா - இனி அக்கடலின்கண் ஓடும் நாவாய்கள் தாமும் நிலத்தின் கண் ஓடமாட்டா. ('கடல் ஓடா' என்ற மறுதலை அடையான் 'நிலத்து ஓடும்' என்பது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 50: 'Knowing the Place'), Kural 496 distills a foundational ethical insight: \"The lofty car, with mighty wheel, sails not o'er watery main, The boat that skims the sea, runs not on earth's hard plain\" Philosophically, Wide chariots, with mighty wheels, will not run on the ocean; neither will ships that the traverse ocean, move on the earth.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 497,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: (செய்யும் வழிவகைகமைக்) குறைவில்லாமல் எண்ணித் தக்க இடத்தில் பொருந்திச் செய்தால், அஞ்சாமை அல்லாமல் வேறு துணை வேண்டியதில்லை.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: You will need no other aid than fearlessness, if you thoroughly reflect (on what you are to do), and select (a suitable) place for your operations.",
+        "story_title_ta": "இடனறிதல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Knowing the Place — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடனறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 497 பற்றிக் கதை சொன்னார். 'செய்யும் செயலை இடைவிடாமல் எண்ணி, இடம் அறிந்து செயதால், பகைக்குப் பயப்படாத மனஉறுதி போதும்; வேறு துணை தேவை இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 50, 'Knowing the Place', centered on Kural 497: You will need no other aid than fearlessness, if you thoroughly reflect (on what you are to do), and select (a suitable) place for your operations. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒரு செயலுக்குரிய வழி முறைகளைக் குறையின்றிச் சிந்தித்துச் செய்யுமிடத்து, அஞ்சாமை ஒன்றைத் தவிர, வேறு துணை தேவையில்லை.",
+        "moral_en": "Moral: Save their own fearless might they need no other aid, If in right place they fight, all due provision made.",
+        "game_blank_word_ta": "அஞ்சாமை",
+        "game_options_ta": [
+          "தொடங்கற்க",
+          "அஞ்சாமை",
+          "எவ்வினையும்",
+          "எள்ளற்க"
+        ],
+        "game_options_en": [
+          "No action take, no foe despise Until you have surveyed the place",
+          "No aid but daring dash they need When field is chosen right for deed",
+          "Many are gains of fortresses Ev'n to kings of power and prowess",
+          "Weaklings too withstand foe's offence In proper fields of strong defence"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடனறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 497, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செய்யும் செயலை இடைவிடாமல் எண்ணி, இடம் அறிந்து செயதால், பகைக்குப் பயப்படாத மனஉறுதி போதும்; வேறு துணை தேவை இல்லை. கலைஞர் உரை கூறுவது: ஒரு செயலுக்குரிய வழி முறைகளைக் குறையின்றிச் சிந்தித்துச் செய்யுமிடத்து, அஞ்சாமை ஒன்றைத் தவிர, வேறு துணை தேவையில்லை. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Place (Royalty & Polity), Kural 497 speaks directly to teens navigating studies, friendships, leadership, and digital choices: You will need no other aid than fearlessness, if you thoroughly reflect (on what you are to do), and select (a suitable) place for your operations. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடனறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Place' thoughtfully.",
+        "quiz_question_ta": "'இடனறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 497 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 497 from Chapter 'Knowing the Place'?",
+        "quiz_options_ta": [
+          "யாரிடத்திலும் (குற்றம் இன்னதென்று) ஆராய்ந்து, கண்ணோட்டம் செய்யாமல் நடுவுநிலைமைப் பொருந்தி (செய்யத்தக்கதை) ஆராய்ந்து செய்வதே நீதிமுறையாகும்.",
+          "(செய்யும் வழிவகைகமைக்) குறைவில்லாமல் எண்ணித் தக்க இடத்தில் பொருந்திச் செய்தால், அஞ்சாமை அல்லாமல் வேறு துணை வேண்டியதில்லை.",
+          "தம்முடைய தொழிலைச் செய்கின்றவர், தம் சுற்றத்தார், தம் பகைவர் என்றுக்கூறப்படும் எல்லாரையும் ஆராய்வதே ஒற்றரின் தொழிலாகும்.",
+          "மேலோர், உடம்பு துன்பத்திற்கு இலக்கமானது என்று உணர்ந்து, (துன்பம் வந்த போது) கலங்குவதை ஒழுக்க நெறியாகக் கொள்ளமாட்டர்."
+        ],
+        "quiz_options_en": [
+          "Test and attest impartially Consult and act the laws justly",
+          "No aid but daring dash they need When field is chosen right for deed",
+          "His officers, kinsmen and foes Who watch keenly are worthy spies",
+          "The wise worry no more of woes Knowing body's butt of sorrows"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடனறிதல்) பகுதியில் குறள் 497 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (செய்யும் வழிவகைகமைக்) குறைவில்லாமல் எண்ணித் தக்க இடத்தில் பொருந்திச் செய்தால், அஞ்சாமை அல்லாமல் வேறு துணை வேண்டியதில்லை. பரிமேலழகர் உரை நுட்பம்: எஞ்சாமை எண்ணி இடத்தான் செயின் - பகையிடத்து வினை செய்யும் திறங்களை எல்லாம் ஒழியாது எண்ணி அவற்றை அரசர் இடத்தோடு பொருந்தச் செய்வராயின், அஞ்சாமை அல்லால் துணை வேண்டா - அச்செயற்குத் தம்திண்மை அல்லது பிறிதொரு துணை வேண்டுவதில்லை. ('திண்ணியராய் நின்று செய்துமுடித்தலே...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 50: 'Knowing the Place'), Kural 497 distills a foundational ethical insight: \"Save their own fearless might they need no other aid, If in right place they fight, all due provision made\" Philosophically, You will need no other aid than fearlessness, if you thoroughly reflect (on what you are to do), and select (a suitable) place for your operations.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "education",
+        "time",
+        "discipline"
+      ]
+    },
+    {
+      "kural_number": 498,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: சிறிய படை உடையவனுக்குத் தக்கதாக உள்ள இடத்தில் பொருந்தி நின்றால், பெரிய படை உடையவன் தன் ஊக்கம் அழிவான்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The power of one who has a large army will perish, if he goes into ground where only a small army can act.",
+        "story_title_ta": "இடனறிதல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Knowing the Place — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடனறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 498 பற்றிக் கதை சொன்னார். 'பெரிய படையை உடையவன், சிறிய படையை உடையவன் ஓடி இருக்கும் இடந்தேடிப் போனால், போனவனின் பெருமை அழியும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 50, 'Knowing the Place', centered on Kural 498: The power of one who has a large army will perish, if he goes into ground where only a small army can act. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சிறிய படை என்றாலும் அது தனக்குரிய இடத்தில் இருந்து போரிட்டால் பெரிய படையை வென்று விட முடியும்.",
+        "moral_en": "Moral: If lord of army vast the safe retreat assailOf him whose host is small, his mightiest efforts fail.",
+        "game_blank_word_ta": "செல்லிடம்",
+        "game_options_ta": [
+          "தொடங்கற்க",
+          "எவ்வினையும்",
+          "செல்லிடம்",
+          "எள்ளற்க"
+        ],
+        "game_options_en": [
+          "No action take, no foe despise Until you have surveyed the place",
+          "Many are gains of fortresses Ev'n to kings of power and prowess",
+          "Though force is small, if place is right One quells a foe of well-armed might",
+          "Weaklings too withstand foe's offence In proper fields of strong defence"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடனறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 498, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெரிய படையை உடையவன், சிறிய படையை உடையவன் ஓடி இருக்கும் இடந்தேடிப் போனால், போனவனின் பெருமை அழியும். கலைஞர் உரை கூறுவது: சிறிய படை என்றாலும் அது தனக்குரிய இடத்தில் இருந்து போரிட்டால் பெரிய படையை வென்று விட முடியும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Place (Royalty & Polity), Kural 498 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The power of one who has a large army will perish, if he goes into ground where only a small army can act. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடனறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Place' thoughtfully.",
+        "quiz_question_ta": "'இடனறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 498 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 498 from Chapter 'Knowing the Place'?",
+        "quiz_options_ta": [
+          "உலகத்தில் உள்ள உயிர்கள் எல்லாம் மழையை நம்பி வாழ்கின்றன, அதுபோல் குடிமக்கள் எல்லாம் அரசனுடைய செங்கோலை நோக்கி வாழ்கின்றனர்.",
+          "ஐயுற முடியாத உருவத்தோடு, பார்த்தவருடைய கண் பார்வைக்கு அஞ்சாமல் எவ்விடத்திலும் மனதிலுள்ளதை வெளிப்படுத்தாமல் இருக்க வல்லவனே ஒற்றன் ஆவன்.",
+          "சிறிய படை உடையவனுக்குத் தக்கதாக உள்ள இடத்தில் பொருந்தி நின்றால், பெரிய படை உடையவன் தன் ஊக்கம் அழிவான்.",
+          "இன்பமானதை விரும்பாதவனாய்த் துன்பம் இயற்கையானது என்று தெளிந்திருப்பவன், துன்பம் வந்த போது துன்ப முறுவது இல்லை."
+        ],
+        "quiz_options_en": [
+          "The earth looks up to sky and thrives And mankind to king's rod of justice",
+          "Fearless gaze, suspectless guise Guarding secrets mark the spies",
+          "Though force is small, if place is right One quells a foe of well-armed might",
+          "Who seek not joy, deem grief norm By sorrows do not come to harm"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடனறிதல்) பகுதியில் குறள் 498 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சிறிய படை உடையவனுக்குத் தக்கதாக உள்ள இடத்தில் பொருந்தி நின்றால், பெரிய படை உடையவன் தன் ஊக்கம் அழிவான். பரிமேலழகர் உரை நுட்பம்: உறுபடையான் - பெரும்படையுடைய அரசன், சிறுபடையான் செல் இடம் சேரின் - ஏனைச் சிறுபடையானை அழித்தல் கருதி அவன் புகலைச் சென்று சாருமாயின், ஊக்கம் அழிந்து விடும் - அவனால் தன் பெருமை அழியும். ('செல் இடம்' அவனுக்குச் செல்லும் இடம். 'அழிந்துவிடும்' என்பது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 50: 'Knowing the Place'), Kural 498 distills a foundational ethical insight: \"If lord of army vast the safe retreat assailOf him whose host is small, his mightiest efforts fail\" Philosophically, The power of one who has a large army will perish, if he goes into ground where only a small army can act.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "leadership",
+        "perseverance",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 499,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அரணாகிய நன்மையும் மற்றச் சிறப்பும் இல்லாதவராயினும் பகைவர் வாழ்கின்ற இடத்திற்குச் சென்று அவரைத் தாக்குதல் அரிது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: It is a hazardous thing to attack men in their own country, although they may neither have power nor a good fortress.",
+        "story_title_ta": "இடனறிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Knowing the Place — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடனறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 499 பற்றிக் கதை சொன்னார். 'மனிதர்கள் வலிமையான கோட்டையும், மிகுந்த பலமும் இல்லாதவர்தாம் என்றாலும் அவர்கள் இருக்கும் இடத்திற்கே சென்று தாக்குவது கடினம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 50, 'Knowing the Place', centered on Kural 499: It is a hazardous thing to attack men in their own country, although they may neither have power nor a good fortress. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பாதுகாப்புக்கான கோட்டையும், மற்றும் பல படைச் சிறப்புகளும் இல்லாதிருப்பினும், அப்பகைவர் வாழும் நிலையான இடத்திற்குப் படையெடுத்துச் சென்று தாக்குவது எளிதான செயல் அல்ல.",
+        "moral_en": "Moral: Though fort be none, and store of wealth they lack,'Tis hard a people's homesteads to attack.",
+        "game_blank_word_ta": "இலரெனினும்",
+        "game_options_ta": [
+          "தொடங்கற்க",
+          "எவ்வினையும்",
+          "எள்ளற்க",
+          "இலரெனினும்"
+        ],
+        "game_options_en": [
+          "No action take, no foe despise Until you have surveyed the place",
+          "Many are gains of fortresses Ev'n to kings of power and prowess",
+          "Weaklings too withstand foe's offence In proper fields of strong defence",
+          "To face a foe at home is vain Though fort and status are not fine"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடனறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 499, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மனிதர்கள் வலிமையான கோட்டையும், மிகுந்த பலமும் இல்லாதவர்தாம் என்றாலும் அவர்கள் இருக்கும் இடத்திற்கே சென்று தாக்குவது கடினம். கலைஞர் உரை கூறுவது: பாதுகாப்புக்கான கோட்டையும், மற்றும் பல படைச் சிறப்புகளும் இல்லாதிருப்பினும், அப்பகைவர் வாழும் நிலையான இடத்திற்குப் படையெடுத்துச் சென்று தாக்குவது எளிதான செயல் அல்ல. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Place (Royalty & Polity), Kural 499 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is a hazardous thing to attack men in their own country, although they may neither have power nor a good fortress. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடனறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Place' thoughtfully.",
+        "quiz_question_ta": "'இடனறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 499 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 499 from Chapter 'Knowing the Place'?",
+        "quiz_options_ta": [
+          "அந்தணர் போற்றும் மறைநூலுக்கும் அறத்திற்கும் அடிப்படையாய் நின்று உலகத்தைக் காப்பது அரசனுடைய செங்கோலாகும்.",
+          "துறந்தவரின் வடிவத்தை உடையவராய், அறிய இடங்களிலெல்லாம் சென்று ஆராய்ந்து (ஐயுற்றவர்) என்ன செய்தாலும் சோர்ந்து விடாதவரே ஒற்றர் ஆவர்.",
+          "இன்பம் வந்திக் காலத்தில் அந்த இன்பத்தை விரும்பிப் போற்றாதவன் துன்பம் வந்த காலத்தில் அந்தத் துன்பத்தை அடைவது இல்லை.",
+          "அரணாகிய நன்மையும் மற்றச் சிறப்பும் இல்லாதவராயினும் பகைவர் வாழ்கின்ற இடத்திற்குச் சென்று அவரைத் தாக்குதல் அரிது."
+        ],
+        "quiz_options_en": [
+          "The Sage's scripture and virtue spring From the sceptre of a stately king",
+          "Guised as monks they gather secrets They betray them not under threats",
+          "In joy to joy who is not bound In grief he grieves not dual round!",
+          "To face a foe at home is vain Though fort and status are not fine"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடனறிதல்) பகுதியில் குறள் 499 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அரணாகிய நன்மையும் மற்றச் சிறப்பும் இல்லாதவராயினும் பகைவர் வாழ்கின்ற இடத்திற்குச் சென்று அவரைத் தாக்குதல் அரிது. பரிமேலழகர் உரை நுட்பம்: சிறை நலனும் சீரும் இலர் எனினும் - அரண் அழித்தற்கு அருமையும் பெருமையுமாகிய ஆற்றல் உடையர் அல்லராயினும், மாந்தர் உறை நிலத்தொடு ஒட்டல் அரிது - வினைக்கு உரிய மாந்தரை அவர் உறைகின்ற நிலத்தின்கண் சென்று தாக்குதல் அரிது. ('நிலத்தொடு' என்பது வேற்றுமை மயக்கம். ஆண்மை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 50: 'Knowing the Place'), Kural 499 distills a foundational ethical insight: \"Though fort be none, and store of wealth they lack,'Tis hard a people's homesteads to attack\" Philosophically, It is a hazardous thing to attack men in their own country, although they may neither have power nor a good fortress.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "family",
+        "leadership",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 500,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: வேல் ஏந்திய வீரரைக் கோர்த்தெடுத்த கொம்பு உடைய யானையையும், கால் ஆழும் சேற்று நில்த்தில் அகப்பட்ட போது நரிகள் கொன்றுவிடும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: A fox can kill a fearless, warrior-faced elephant, if it go into mud in which its legs sink down.",
+        "story_title_ta": "இடனறிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Knowing the Place — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'இடனறிதல்' என்ற அதிகாரத்திலிருந்து குறள் 500 பற்றிக் கதை சொன்னார். 'பாகனுக்கு அடங்காததும், தன்னை எதிர்த்துப் பிடித்த வீரனைத் தன் தந்தத்தால் தாக்கித் தூக்கியதுமான ஆண்யானை, கால் புதையும் சேற்றில் சிக்கிக் கொண்டால், நரிகூட அதைக் கொன்றுவிடும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 50, 'Knowing the Place', centered on Kural 500: A fox can kill a fearless, warrior-faced elephant, if it go into mud in which its legs sink down. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வேலேந்திய வீரர்களை வீழ்த்துகின்ற ஆற்றல் படைத்த யானை, சேற்றில் சிக்கி விட்டால் அதனை நரிகள் கூடக் கொன்று விடும்.",
+        "moral_en": "Moral: The jackal slays, in miry paths of foot-betraying fen, The elephant of fearless eye and tusks transfixing armed men.",
+        "game_blank_word_ta": "கண்ணஞ்சா",
+        "game_options_ta": [
+          "கண்ணஞ்சா",
+          "தொடங்கற்க",
+          "எவ்வினையும்",
+          "எள்ளற்க"
+        ],
+        "game_options_en": [
+          "A fox can kill a war tusker Fearless with feet in deep quagmire",
+          "No action take, no foe despise Until you have surveyed the place",
+          "Many are gains of fortresses Ev'n to kings of power and prowess",
+          "Weaklings too withstand foe's offence In proper fields of strong defence"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "இடனறிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 500, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பாகனுக்கு அடங்காததும், தன்னை எதிர்த்துப் பிடித்த வீரனைத் தன் தந்தத்தால் தாக்கித் தூக்கியதுமான ஆண்யானை, கால் புதையும் சேற்றில் சிக்கிக் கொண்டால், நரிகூட அதைக் கொன்றுவிடும். கலைஞர் உரை கூறுவது: வேலேந்திய வீரர்களை வீழ்த்துகின்ற ஆற்றல் படைத்த யானை, சேற்றில் சிக்கி விட்டால் அதனை நரிகள் கூடக் கொன்று விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Knowing the Place (Royalty & Polity), Kural 500 speaks directly to teens navigating studies, friendships, leadership, and digital choices: A fox can kill a fearless, warrior-faced elephant, if it go into mud in which its legs sink down. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'இடனறிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Knowing the Place' thoughtfully.",
+        "quiz_question_ta": "'இடனறிதல்' அதிகாரத்தில் வரும் திருக்குறள் 500 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 500 from Chapter 'Knowing the Place'?",
+        "quiz_options_ta": [
+          "வேல் ஏந்திய வீரரைக் கோர்த்தெடுத்த கொம்பு உடைய யானையையும், கால் ஆழும் சேற்று நில்த்தில் அகப்பட்ட போது நரிகள் கொன்றுவிடும்.",
+          "குடிகளை அன்போடு அணைத்துக் கொண்டு செங்கோல் செலுத்துகின்ற அரசனுடைய அடியைப்பொருந்தி உலகம் நிலை பெறும்.",
+          "மறைந்த செய்திகளையும் கேட்டறிய வல்லவனாய் அறிந்த செய்திகளை ஐயப்படாமல் துணிய வல்லவனாய் உள்ளவனே ஒற்றன் ஆவான்.",
+          "ஒருவன் துன்பத்தையே தனக்கு இன்பமாகக் கருதிக்கொள்வானானால் அவனுடைய பகைவரும் விரும்பத்தக்க சிறப்பு உண்டாகும்."
+        ],
+        "quiz_options_en": [
+          "A fox can kill a war tusker Fearless with feet in deep quagmire",
+          "The world clings to the ruler's feet Whose sceptre clasps the people's heart",
+          "A spy draws out other's secrets Beyond a doubt he clears his facts",
+          "His glory is esteemed by foes Who sees weal in wanton woes!"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (இடனறிதல்) பகுதியில் குறள் 500 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வேல் ஏந்திய வீரரைக் கோர்த்தெடுத்த கொம்பு உடைய யானையையும், கால் ஆழும் சேற்று நில்த்தில் அகப்பட்ட போது நரிகள் கொன்றுவிடும். பரிமேலழகர் உரை நுட்பம்: கண் அஞ்சா வேலாள் முகத்த களிறு - பாகர்க்கு அடங்காவுமாய், வேலாள்களைக் கோத்த கோட்டவுமாய களிறுகளை, கால்ஆழ் களரின் நரி அடும் - அவை கால் ஆழும் இயல்பிற்றாய சேற்றுநிலத்துப் பட்டுழி நரி கொல்லும் என்றவாறு. ('முகம் ஆகுபெயர்'. 'ஆண்மையும் பெருமையும் உடையாரும் தமக்கு ஏலா...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 50: 'Knowing the Place'), Kural 500 distills a foundational ethical insight: \"The jackal slays, in miry paths of foot-betraying fen, The elephant of fearless eye and tusks transfixing armed men\" Philosophically, A fox can kill a fearless, warrior-faced elephant, if it go into mud in which its legs sink down.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "love",
+        "leadership",
+        "ethics"
+      ]
+    }
+  ]
+}

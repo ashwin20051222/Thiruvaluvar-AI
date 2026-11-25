@@ -1,0 +1,100 @@
+use crate::RetryReason;
+
+/// Immutable bilingual UI/TTS copy pair (`ta` / `en`).
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub struct BilingualCopy {
+    pub ta: &'static str,
+    pub en: &'static str,
+}
+
+/// Out-of-scope refusal displayed in `AiChat` (`Synopsis.pdf` literary boundary).
+pub const OOS_CHAT_REFUSAL: BilingualCopy = BilingualCopy {
+    ta: "மன்னிக்கவும், திருவள்ளுவர் AI திருக்குறள், அதன் உரைகள் மற்றும் திருவள்ளுவர் வரலாறு தொடர்பான கேள்விகளுக்கு மட்டுமே பதிலளிக்கும்.",
+    en: "Thiruvalluvar AI only answers questions about Thirukkural couplets, commentaries, and Thiruvalluvar's biography.",
+};
+
+/// Concise (`<= 12` word) spoken out-of-scope TTS prompt for hands-free voice queries.
+pub const OOS_VOICE_TTS_REFUSAL: BilingualCopy = BilingualCopy {
+    ta: "திருக்குறள் தொடர்பான கேள்விகளுக்கு மட்டுமே என்னால் உதவ முடியும்.",
+    en: "I can only help with questions about the Thirukkural.",
+};
+
+/// Fallback notice shown when `Parimel` is unavailable (`#395` and `#648`).
+pub const PARIMEL_FALLBACK_NOTICE: BilingualCopy = BilingualCopy {
+    ta: "இந்தக் குறளுக்குப் பரிமேலழகர் உரை இல்லை; மு.வ. உரை காட்டப்படுகிறது.",
+    en: "Parimelazhagar commentary is unavailable for this Kural; showing Mu. Va. instead.",
+};
+
+/// Validation error when a voice/input Kural number falls outside `1..=1330`.
+pub const VOICE_KURAL_RANGE_ERROR: BilingualCopy = BilingualCopy {
+    ta: "குறள் எண் 1 முதல் 1330 வரை மட்டுமே இருக்க வேண்டும்.",
+    en: "Kural number must be between 1 and 1330.",
+};
+
+/// Validation error when an Adhikaram number falls outside `1..=133`.
+pub const VOICE_ADHIKARAM_RANGE_ERROR: BilingualCopy = BilingualCopy {
+    ta: "அதிகாரம் எண் 1 முதல் 133 வரை மட்டுமே இருக்க வேண்டும்.",
+    en: "Adhikaram number must be between 1 and 133.",
+};
+
+/// Return locked bilingual retry copy for Voice Age Detection quality rejections.
+pub const fn retry_copy(reason: RetryReason) -> BilingualCopy {
+    match reason {
+        RetryReason::TooShort => BilingualCopy {
+            ta: "குரல் பதிவு மிகக் குறுகியது; குறைந்தது 1.2 வினாடிகள் பேசவும்.",
+            en: "Speech sample too short; please speak for at least 1.2 seconds.",
+        },
+        RetryReason::TooQuiet => BilingualCopy {
+            ta: "குரல் மிக மெதுவாக உள்ளது; மைக்கிற்கு அருகில் பேசவும்.",
+            en: "Audio level too low; please speak closer to the microphone.",
+        },
+        RetryReason::TooNoisy => BilingualCopy {
+            ta: "பின்னணி இரைச்சல் அதிகம்; சற்று அமைதியான சூழலில் மீண்டும் முயலவும்.",
+            en: "Background noise is too high; please retry or choose an age card.",
+        },
+        RetryReason::Clipped => BilingualCopy {
+            ta: "ஒலி அளவு அதிகமாகிவிட்டது; மைக்கிலிருந்து சற்று தள்ளிப் பேசவும்.",
+            en: "Audio clipped; please step slightly back from the microphone.",
+        },
+        RetryReason::HardwareUnavailable => BilingualCopy {
+            ta: "ஒலிவாங்கி கிடைக்கவில்லை; கீழே உள்ள வயது அட்டையைத் தேர்ந்தெடுக்கவும்.",
+            en: "Microphone unavailable; please select an age card below.",
+        },
+    }
+}
+
+/// Format bilingual confirmation toast strings for recognized voice commands.
+pub fn format_voice_toast(transcript: &str) -> (String, String) {
+    (
+        format!("கேட்டது: {transcript}"),
+        format!("Heard: {transcript}"),
+    )
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use crate::is_nfc;
+
+    #[test]
+    fn all_locked_copy_constants_are_non_empty_and_nfc() {
+        for copy in [
+            OOS_CHAT_REFUSAL,
+            OOS_VOICE_TTS_REFUSAL,
+            PARIMEL_FALLBACK_NOTICE,
+            VOICE_KURAL_RANGE_ERROR,
+            VOICE_ADHIKARAM_RANGE_ERROR,
+            retry_copy(RetryReason::TooShort),
+            retry_copy(RetryReason::TooQuiet),
+            retry_copy(RetryReason::TooNoisy),
+            retry_copy(RetryReason::Clipped),
+            retry_copy(RetryReason::HardwareUnavailable),
+        ] {
+            assert!(!copy.ta.is_empty());
+            assert!(!copy.en.is_empty());
+            assert!(is_nfc(copy.ta));
+            assert!(is_nfc(copy.en));
+        }
+    }
+}
+

@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 78,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.173995168+00:00",
+  "kurals": [
+    {
+      "kural_number": 771,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பகைவரே! என்னுடைய தலைவர் முன் எதிர்த்து நிற்காதீர்கள், என்னுடைய தலைவர் முன் எதிர்த்து நின்று கல்வடிவாய் நின்றவர் பலர்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: O my foes, stand not before my leader; (for) many are those who did so but afterwards stood (in the shape of) statues.",
+        "story_title_ta": "படைச் செருக்கு — இனியா கற்ற பாடம்",
+        "story_title_en": "Military Spirit — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படைச் செருக்கு' என்ற அதிகாரத்திலிருந்து குறள் 771 பற்றிக் கதை சொன்னார். 'பகைவர்கேள! என் அரசின் முன்னே போரிட நிற்காதீர்; உங்களைப் போலவே இதற்கு முன்பு பலர் நின்றனர்; எல்லாம் மறைந்து இப்போது நடுகல்லில் சிலையாக நிற்கின்றனர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 78, 'Military Spirit', centered on Kural 771: O my foes, stand not before my leader; (for) many are those who did so but afterwards stood (in the shape of) statues. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: போர்களத்து வீரன் ஒருவன், ``பகைவயர்களே என் தலைவனை எதிர்த்து நிற்காதீர்; அவனை எதிர்த்து நடுகல்லாய்ப் போனவர்கள் பலர்'' என முழங்குகிறான்.",
+        "moral_en": "Moral: Ye foes stand not before my lord for many a oneWho did my lord withstand, now stands in stone.",
+        "game_blank_word_ta": "நில்லன்மின்",
+        "game_options_ta": [
+          "முயலெய்த",
+          "அம்பினில்",
+          "பிழைத்தவேல்",
+          "நில்லன்மின்"
+        ],
+        "game_options_en": [
+          "To lift a lance that missed a tusker Is prouder than shaft that hit a hare",
+          "Valour is fight with fierce courage Mercy to the fallen is its edge",
+          "At the tusker he flings his lance One in body smiles another chance",
+          "Stand not before my chief, O foes! Many who stood, in stones repose"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படைச் செருக்கு (அங்கவியல்) பிரிவில் அமைந்த குறள் 771, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகைவர்கேள! என் அரசின் முன்னே போரிட நிற்காதீர்; உங்களைப் போலவே இதற்கு முன்பு பலர் நின்றனர்; எல்லாம் மறைந்து இப்போது நடுகல்லில் சிலையாக நிற்கின்றனர். கலைஞர் உரை கூறுவது: போர்களத்து வீரன் ஒருவன், ``பகைவயர்களே என் தலைவனை எதிர்த்து நிற்காதீர்; அவனை எதிர்த்து நடுகல்லாய்ப் போனவர்கள் பலர்'' என முழங்குகிறான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Military Spirit (Ministers & Elements of State), Kural 771 speaks directly to teens navigating studies, friendships, leadership, and digital choices: O my foes, stand not before my leader; (for) many are those who did so but afterwards stood (in the shape of) statues. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படைச் செருக்கு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Military Spirit' thoughtfully.",
+        "quiz_question_ta": "'படைச் செருக்கு' அதிகாரத்தில் வரும் திருக்குறள் 771 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 771 from Chapter 'Military Spirit'?",
+        "quiz_options_ta": [
+          "காவல் செய்து வைத்தாலும் காவல் ஆகாத கீழ்மக்களின் தீய நட்பு, ஒருவனுக்கு ஏற்படுவதை விட ஏற்படாமலிருப்பதே நன்மையாகும்.",
+          "இகலுக்கு எதிரே சாய்ந்து நடத்தல் ஒருவனுக்கு ஆக்கமாகும், அதனை எதிர்த்து வெல்லக்கருதினால் கேடு அவனிடம் வரக் கருதும்.",
+          "மனைவியை விரும்பி அவள் சொன்னபடி நடப்பவர், சிறந்த பயனை அடையமாட்டார், கடமையைச் செய்தலை விரும்புகின்றவர் வேண்டாத பொருளும் அதுவே.",
+          "பகைவரே! என்னுடைய தலைவர் முன் எதிர்த்து நிற்காதீர்கள், என்னுடைய தலைவர் முன் எதிர்த்து நின்று கல்வடிவாய் நின்றவர் பலர்."
+        ],
+        "quiz_options_en": [
+          "Friends low and mean that give no help- Leave them is better than to keep",
+          "To turn from enmity is gain Fomenting it brings fast ruin",
+          "Who dote on wives lose mighty gain That lust, dynamic men disdain",
+          "Stand not before my chief, O foes! Many who stood, in stones repose"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படைச் செருக்கு) பகுதியில் குறள் 771 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பகைவரே! என்னுடைய தலைவர் முன் எதிர்த்து நிற்காதீர்கள், என்னுடைய தலைவர் முன் எதிர்த்து நின்று கல்வடிவாய் நின்றவர் பலர். பரிமேலழகர் உரை நுட்பம்: தெவ்விர் என் ஐ முன் நின்று கல் நின்றவர் பலர் - பகைவீர்,இன்று இங்கு என் தலைவன் எதிர் போரேற்று நின்று அவன் வேல்வாய் வீழ்ந்து பின் கல்லின்கண்ணே நின்ற வீரர் பலர்; என் ஐ முன் நில்லன்மின் - நீவிர் அதன்கணின்றி நும் உடற்கண் நிற்றல் வேண்டின் என் தலைவனெதிர் போரேற்று...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 78: 'Military Spirit'), Kural 771 distills a foundational ethical insight: \"Ye foes stand not before my lord for many a oneWho did my lord withstand, now stands in stone\" Philosophically, O my foes, stand not before my leader; (for) many are those who did so but afterwards stood (in the shape of) statues.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "courage",
+        "humility",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 772,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: காட்டில் ஓடுகின்ற முயலை நோக்கி குறிதவறாமல் எய்த அம்பை ஏந்துதலைவிட, வெட்ட வெளியில் நின்ற யானை மேல் எறிந்து தவறிய வேலை ஏந்துதல் சிறந்தது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: It is more pleasant to hold the dart that has missed an elephant than that which has hit hare in the forest.",
+        "story_title_ta": "படைச் செருக்கு — முகில் கற்ற பாடம்",
+        "story_title_en": "Military Spirit — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படைச் செருக்கு' என்ற அதிகாரத்திலிருந்து குறள் 772 பற்றிக் கதை சொன்னார். 'காட்டில் அஞ்சி ஓடும் முயலைக் கொன்ற அம்பைப் பிடித்திருப்பதை விட, எதிர்த்து வரும் யானையின் மீது பட்டும், அதை வீழ்த்தாத வேலைப் பிடித்திருப்பது நல்லது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 78, 'Military Spirit', centered on Kural 772: It is more pleasant to hold the dart that has missed an elephant than that which has hit hare in the forest. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வலிவு மிகுந்த யானைக்குக் குறிவைத்து, அந்தக் குறிதப்பினாலும்கூட அது, வலிவற்ற முயலுக்குக் குறிவைத்து அதனை வீழ்த்துவதைக் காட்டிலும் சிறப்புடையது.",
+        "moral_en": "Moral: Who aims at elephant, though dart should fail, has greater praiseThan he who woodland hare with winged arrow slays.",
+        "game_blank_word_ta": "பிழைத்தவேல்",
+        "game_options_ta": [
+          "பிழைத்தவேல்",
+          "என்னைமுன்",
+          "நில்லன்மின்",
+          "தெவ்விர்"
+        ],
+        "game_options_en": [
+          "To lift a lance that missed a tusker Is prouder than shaft that hit a hare",
+          "Stand not before my chief, O foes! Many who stood, in stones repose",
+          "Valour is fight with fierce courage Mercy to the fallen is its edge",
+          "At the tusker he flings his lance One in body smiles another chance"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படைச் செருக்கு (அங்கவியல்) பிரிவில் அமைந்த குறள் 772, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காட்டில் அஞ்சி ஓடும் முயலைக் கொன்ற அம்பைப் பிடித்திருப்பதை விட, எதிர்த்து வரும் யானையின் மீது பட்டும், அதை வீழ்த்தாத வேலைப் பிடித்திருப்பது நல்லது. கலைஞர் உரை கூறுவது: வலிவு மிகுந்த யானைக்குக் குறிவைத்து, அந்தக் குறிதப்பினாலும்கூட அது, வலிவற்ற முயலுக்குக் குறிவைத்து அதனை வீழ்த்துவதைக் காட்டிலும் சிறப்புடையது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Military Spirit (Ministers & Elements of State), Kural 772 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It is more pleasant to hold the dart that has missed an elephant than that which has hit hare in the forest. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படைச் செருக்கு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Military Spirit' thoughtfully.",
+        "quiz_question_ta": "'படைச் செருக்கு' அதிகாரத்தில் வரும் திருக்குறள் 772 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 772 from Chapter 'Military Spirit'?",
+        "quiz_options_ta": [
+          "காட்டில் ஓடுகின்ற முயலை நோக்கி குறிதவறாமல் எய்த அம்பை ஏந்துதலைவிட, வெட்ட வெளியில் நின்ற யானை மேல் எறிந்து தவறிய வேலை ஏந்துதல் சிறந்தது.",
+          "அறிவில்லாதவனுடைய மிகப் பொருந்திய நட்பை விட அறிவுடையவரின் நட்பில்லாத தன்மை கோடி மடங்கு நன்மை தருவதாகும்.",
+          "ஒருவன் தனக்கு ஆக்கம் வரும்போது இகலைக் கருதமாட்டான், தனக்கு கேடு தருவிக்கொள்ளும் போது அதனை எதிர்த்து வெல்லக் கருதுவான்.",
+          "கடமையை விரும்பாமல் மனைவியின் பெண்மையை விரும்புகின்றவனுடைய ஆக்கம், பெரியதொரு நாணத்தக்கச் செயலாக நாணத்தைக் கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "To lift a lance that missed a tusker Is prouder than shaft that hit a hare",
+          "Million times the wise man's hate Is better than a fool intimate",
+          "Fortune favours when hate recedes Hatred exceeding ruin breeds",
+          "Who dotes, unmanly, on his dame His wealth to him and all is shame"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படைச் செருக்கு) பகுதியில் குறள் 772 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காட்டில் ஓடுகின்ற முயலை நோக்கி குறிதவறாமல் எய்த அம்பை ஏந்துதலைவிட, வெட்ட வெளியில் நின்ற யானை மேல் எறிந்து தவறிய வேலை ஏந்துதல் சிறந்தது. பரிமேலழகர் உரை நுட்பம்: கான முயல் எய்த அம்பினில் - கான முயல் எய்த அம்பை ஏந்தலினும்; யானை பிழைத்த வேல் ஏந்தல் இனிது - வெள்ளிடை நின்ற யானையை எறிந்து பிழைத்த வேலை ஏந்தல் நன்று. ('கானமுயல்' என்றதனால் வெள்ளிடை நின்ற என்பதும், 'பிழைத்த' என்¢றதனாற் பிழையாமல் என்பதும், முயற்குத்தக 'எய்த...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 78: 'Military Spirit'), Kural 772 distills a foundational ethical insight: \"Who aims at elephant, though dart should fail, has greater praiseThan he who woodland hare with winged arrow slays\" Philosophically, It is more pleasant to hold the dart that has missed an elephant than that which has hit hare in the forest.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "humility",
+        "leadership",
+        "harmony",
+        "kindness"
+      ]
+    },
+    {
+      "kural_number": 773,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பகைவரை எதிர்த்து நிற்க்கும் வீரத்தை மிக்க ஆண்மை என்று கூறுவர், ஒரு துன்பம் வந்த போது பகைவர்க்கும் உதவிச் செய்தலை அந்த ஆண்மையின் கூர்மை என்று கூறுவர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The learned say that fierceness (incontest with a foe) is indeed great valour; but to become a benefactor in case of accident (to a foe) is the extreme (limit) of that valour.",
+        "story_title_ta": "படைச் செருக்கு — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Military Spirit — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படைச் செருக்கு' என்ற அதிகாரத்திலிருந்து குறள் 773 பற்றிக் கதை சொன்னார். 'பகைவர் மீது இரக்கம் காட்டாமல் இருப்பதை மிகுந்த ஆண்மை என்பர்; ஆனால், அந்தப் பகைவர்க்கு ஒரு தாழ்வு வரும்போது அவர் மீது இரக்கம் கொண்டு, அவர் தாழ்ச்சியைப் போக்க உதவுவது ஆளுமையை மேலும் சிறப்பிக்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 78, 'Military Spirit', centered on Kural 773: The learned say that fierceness (incontest with a foe) is indeed great valour; but to become a benefactor in case of accident (to a foe) is the extreme (limit) of that valour. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பகைவர்க்கு அஞ்சாத வீரம் பெரும் ஆண்மை என்று போற்றப்படும் அந்தப் பகைவர்க்கு ஒரு துன்பம் வரும்போது அதைத் தீர்க்க உதவிடுவது ஆண்மையின் உச்சம் எனப் புகழப்படும்.",
+        "moral_en": "Moral: Fierceness in hour of strife heroic greatness shows; Its edge is kindness to our suffering foes.",
+        "game_blank_word_ta": "றுற்றக்கால்",
+        "game_options_ta": [
+          "என்னைமுன்",
+          "றுற்றக்கால்",
+          "நில்லன்மின்",
+          "தெவ்விர்"
+        ],
+        "game_options_en": [
+          "Stand not before my chief, O foes! Many who stood, in stones repose",
+          "Valour is fight with fierce courage Mercy to the fallen is its edge",
+          "To lift a lance that missed a tusker Is prouder than shaft that hit a hare",
+          "At the tusker he flings his lance One in body smiles another chance"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படைச் செருக்கு (அங்கவியல்) பிரிவில் அமைந்த குறள் 773, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகைவர் மீது இரக்கம் காட்டாமல் இருப்பதை மிகுந்த ஆண்மை என்பர்; ஆனால், அந்தப் பகைவர்க்கு ஒரு தாழ்வு வரும்போது அவர் மீது இரக்கம் கொண்டு, அவர் தாழ்ச்சியைப் போக்க உதவுவது ஆளுமையை மேலும் சிறப்பிக்கும். கலைஞர் உரை கூறுவது: பகைவர்க்கு அஞ்சாத வீரம் பெரும் ஆண்மை என்று போற்றப்படும் அந்தப் பகைவர்க்கு ஒரு துன்பம் வரும்போது அதைத் தீர்க்க உதவிடுவது ஆண்மையின் உச்சம் எனப் புகழப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Military Spirit (Ministers & Elements of State), Kural 773 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The learned say that fierceness (incontest with a foe) is indeed great valour; but to become a benefactor in case of accident (to a foe) is the extreme (limit) of that valour. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படைச் செருக்கு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Military Spirit' thoughtfully.",
+        "quiz_question_ta": "'படைச் செருக்கு' அதிகாரத்தில் வரும் திருக்குறள் 773 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 773 from Chapter 'Military Spirit'?",
+        "quiz_options_ta": [
+          "(அகத்தில் அன்பு இல்லாமல் புறத்தில்) நகைக்கும் தன்மை உடையவரின் நட்பை விட, பகைவரால் வருவன பத்துகோடி மடங்கு நன்மையாகும்.",
+          "பகைவரை எதிர்த்து நிற்க்கும் வீரத்தை மிக்க ஆண்மை என்று கூறுவர், ஒரு துன்பம் வந்த போது பகைவர்க்கும் உதவிச் செய்தலை அந்த ஆண்மையின் கூர்மை என்று கூறுவர்.",
+          "ஒருவனுக்கு இகலால் துன்பமானவை எல்லாம் உண்டாகும்,அதற்கு மாறான நட்பால் நல்ல நீதியாகிய பெருமித நிலை உண்டாகும்.",
+          "மனைவியிடத்தில் தாழ்ந்து நடக்கும் இழிந்த தன்மை ஒருவனுக்கு எப்போதும் நல்லவரிடையே இருக்கும் போது நாணத்தைச் தரும்."
+        ],
+        "quiz_options_en": [
+          "Ten-fold crore you gain from foes Than from friends who are vain laughers",
+          "Valour is fight with fierce courage Mercy to the fallen is its edge",
+          "All evils come from enmity All goodness flow from amity",
+          "Who's servile to his wife always Shy he feels before the wise"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படைச் செருக்கு) பகுதியில் குறள் 773 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பகைவரை எதிர்த்து நிற்க்கும் வீரத்தை மிக்க ஆண்மை என்று கூறுவர், ஒரு துன்பம் வந்த போது பகைவர்க்கும் உதவிச் செய்தலை அந்த ஆண்மையின் கூர்மை என்று கூறுவர். பரிமேலழகர் உரை நுட்பம்: தறுகண் பேராண்மை என்ப - பகைவர்மேற் கண்ணோடாது செய்யும் மறத்தை நூலோர் மிக்க ஆண்தன்மையென்று சொல்லுவர்; ஒன்று உற்றக்கால் ஊராண்மை அதன் எஃகு - அவர்க்கு ஒரு தாழ்வு வந்ததாயின், கண்ணோடி அது தீ£த்துக்கோடற் பொருட்டு ஊராண்மை செய்தலை நூலோர் அதற்குக் கூர்மை என்று சொல்லுவர...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 78: 'Military Spirit'), Kural 773 distills a foundational ethical insight: \"Fierceness in hour of strife heroic greatness shows; Its edge is kindness to our suffering foes\" Philosophically, The learned say that fierceness (incontest with a foe) is indeed great valour; but to become a benefactor in case of accident (to a foe) is the extreme (limit) of that valour.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "leadership",
+        "kindness",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 774,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: கையில் ஏந்திய வேலை ஒரு யானையின் மேல் எறிந்து துரத்திவிட்டு, வேறு வேல் தேடி வருகின்றவன் தன் மார்பில் பட்டிருந்த வேலைக் கண்டு பறித்து மகிழ்கின்றான்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The hero who after casting the lance in his hand on an elephant, comes (in search of another) will pluck the one (that sticks) in his body and laugh (exultingly).",
+        "story_title_ta": "படைச் செருக்கு — கவின் கற்ற பாடம்",
+        "story_title_en": "Military Spirit — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படைச் செருக்கு' என்ற அதிகாரத்திலிருந்து குறள் 774 பற்றிக் கதை சொன்னார். 'தன்னை எதிர்த்து வந்த யானையின் மீது தன் கையிலிருந்த வேலை எறிந்து விட்டவன், அடுத்து வருகி்ன்ற யானை மீது எறிவதற்காகத் தன் மார்பில் பதிந்து நின்ற வேலைப் பறித்துக் கொண்டே மகிழ்வான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 78, 'Military Spirit', centered on Kural 774: The hero who after casting the lance in his hand on an elephant, comes (in search of another) will pluck the one (that sticks) in his body and laugh (exultingly). Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: கையிலிருந்த வேலினை யானையின் மீது வீசி விட்டதால் களத்தில் போரினைத் தொடர வேறு வேல் தேடுகிற வீரன், தன் மார்பின்மீதே ஒரு வேல் பாயந்திருப்பது கண்டு மகிழ்ந்து அதனைப் பறித்துப் பகையை எதிர்த்திடுகின்றான்.",
+        "moral_en": "Moral: At elephant he hurls the dart in hand; for weapon pressed, He laughs and plucks the javelin from his wounded breast.",
+        "game_blank_word_ta": "மெய்வேல்",
+        "game_options_ta": [
+          "என்னைமுன்",
+          "நில்லன்மின்",
+          "மெய்வேல்",
+          "தெவ்விர்"
+        ],
+        "game_options_en": [
+          "Stand not before my chief, O foes! Many who stood, in stones repose",
+          "To lift a lance that missed a tusker Is prouder than shaft that hit a hare",
+          "At the tusker he flings his lance One in body smiles another chance",
+          "Valour is fight with fierce courage Mercy to the fallen is its edge"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படைச் செருக்கு (அங்கவியல்) பிரிவில் அமைந்த குறள் 774, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன்னை எதிர்த்து வந்த யானையின் மீது தன் கையிலிருந்த வேலை எறிந்து விட்டவன், அடுத்து வருகி்ன்ற யானை மீது எறிவதற்காகத் தன் மார்பில் பதிந்து நின்ற வேலைப் பறித்துக் கொண்டே மகிழ்வான். கலைஞர் உரை கூறுவது: கையிலிருந்த வேலினை யானையின் மீது வீசி விட்டதால் களத்தில் போரினைத் தொடர வேறு வேல் தேடுகிற வீரன், தன் மார்பின்மீதே ஒரு வேல் பாயந்திருப்பது கண்டு மகிழ்ந்து அதனைப் பறித்துப் பகையை எதிர்த்திடுகின்றான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Military Spirit (Ministers & Elements of State), Kural 774 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The hero who after casting the lance in his hand on an elephant, comes (in search of another) will pluck the one (that sticks) in his body and laugh (exultingly). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படைச் செருக்கு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Military Spirit' thoughtfully.",
+        "quiz_question_ta": "'படைச் செருக்கு' அதிகாரத்தில் வரும் திருக்குறள் 774 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 774 from Chapter 'Military Spirit'?",
+        "quiz_options_ta": [
+          "முடியும் செயலையும் முடியாத படி செய்து கெடுப்பவரின் உறவை, அவர் அறியுமாறு ஒன்றும் செய்யாமலே தளரச் செய்து கைவிட வேண்டும்.",
+          "தம்மை விட வலியவர்க்கு மாறுபட்டு எதிர்த்தலை விட வேண்டும், தம்மை விட மெலியவர் மேல் பகைக் கொள்வதை விடாமல் விரும்பி மேற்கொள்ள வேண்டும்.",
+          "கையில் ஏந்திய வேலை ஒரு யானையின் மேல் எறிந்து துரத்திவிட்டு, வேறு வேல் தேடி வருகின்றவன் தன் மார்பில் பட்டிருந்த வேலைக் கண்டு பறித்து மகிழ்கின்றான்.",
+          "மனைவிக்கு அஞ்சி நடக்கின்ற மறுமைப் பயன் இல்லாத ஒருவன், செயல் ஆற்றுந்தன்மை பெருமை பெற்று விளங்க முடிவதில்லை."
+        ],
+        "quiz_options_en": [
+          "Without a word those friends eschew Who spoil deeds which they can do",
+          "Turn from strife with foes too strong With the feeble for battle long",
+          "At the tusker he flings his lance One in body smiles another chance",
+          "Fearing his wife salvationless The weaklings' action has no grace"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படைச் செருக்கு) பகுதியில் குறள் 774 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கையில் ஏந்திய வேலை ஒரு யானையின் மேல் எறிந்து துரத்திவிட்டு, வேறு வேல் தேடி வருகின்றவன் தன் மார்பில் பட்டிருந்த வேலைக் கண்டு பறித்து மகிழ்கின்றான். பரிமேலழகர் உரை நுட்பம்: கைவேல் களிற்றோடு போக்கி வருபவன் - கைப்படையாய வேலைத் தன்மேல் வந்த களிற்றோடு போக்கி; வருகின்ற களிற்றுக்கு வேல் நாடித்திரிவான்; மெய்வேல் பறியா நகும் - தன் மார்பின்கண் நின்ற வேலைக் கண்டு பறித்து மகிழும். (களிற்றோடு போக்கல் - களிற்றினது உயிரைக் கொடுபோகுமாறு...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 78: 'Military Spirit'), Kural 774 distills a foundational ethical insight: \"At elephant he hurls the dart in hand; for weapon pressed, He laughs and plucks the javelin from his wounded breast\" Philosophically, The hero who after casting the lance in his hand on an elephant, comes (in search of another) will pluck the one (that sticks) in his body and laugh (exultingly).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "humility",
+        "wisdom",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 775,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பகைவரை சினந்து நோக்கியக் கண், அவர் வேலைக் கொண்டு எறிந்த போது மூடி இமைக்குமானால், அது வீரமுடையவர்க்குத் தோல்வி அன்றோ.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Is it not a defeat to the valiant to wink and destroy their ferocious look when a lance in cast at them (by their foe) ?",
+        "story_title_ta": "படைச் செருக்கு — நிலா கற்ற பாடம்",
+        "story_title_en": "Military Spirit — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படைச் செருக்கு' என்ற அதிகாரத்திலிருந்து குறள் 775 பற்றிக் கதை சொன்னார். 'பகைவரைச் சினந்து பார்க்கும் கண், அவர்கள் எறியும் வேலைப் பார்த்து மூடித் திறந்தாலும், சிறந்த வீரர்க்கு அதுவே புறங் கொடுத்தலாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 78, 'Military Spirit', centered on Kural 775: Is it not a defeat to the valiant to wink and destroy their ferocious look when a lance in cast at them (by their foe) ? Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: களத்தில் பகைவர் வீசிடும் வேல் பாயும்போது விழிகளை இமைத்து விட்டால்கூட அது புறமுதுகுகாட்டி ஓடுவதற்குஒப்பாகும்.",
+        "moral_en": "Moral: To hero fearless must it not defeat appear, If he but wink his eye when foemen hurls his spear.",
+        "game_blank_word_ta": "வன்க",
+        "game_options_ta": [
+          "என்னைமுன்",
+          "நில்லன்மின்",
+          "தெவ்விர்",
+          "வன்க"
+        ],
+        "game_options_en": [
+          "Stand not before my chief, O foes! Many who stood, in stones repose",
+          "To lift a lance that missed a tusker Is prouder than shaft that hit a hare",
+          "Valour is fight with fierce courage Mercy to the fallen is its edge",
+          "When lances dart if heroes wink \\\"It is a rout\\\" the world will think"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படைச் செருக்கு (அங்கவியல்) பிரிவில் அமைந்த குறள் 775, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பகைவரைச் சினந்து பார்க்கும் கண், அவர்கள் எறியும் வேலைப் பார்த்து மூடித் திறந்தாலும், சிறந்த வீரர்க்கு அதுவே புறங் கொடுத்தலாகும். கலைஞர் உரை கூறுவது: களத்தில் பகைவர் வீசிடும் வேல் பாயும்போது விழிகளை இமைத்து விட்டால்கூட அது புறமுதுகுகாட்டி ஓடுவதற்குஒப்பாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Military Spirit (Ministers & Elements of State), Kural 775 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Is it not a defeat to the valiant to wink and destroy their ferocious look when a lance in cast at them (by their foe) ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படைச் செருக்கு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Military Spirit' thoughtfully.",
+        "quiz_question_ta": "'படைச் செருக்கு' அதிகாரத்தில் வரும் திருக்குறள் 775 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 775 from Chapter 'Military Spirit'?",
+        "quiz_options_ta": [
+          "செய்யும் செயல் வேறாகவும் சொல்லும் சொல் வேறாகவும் உள்ளவரின் நட்பு, ஒருவனுக்கு கனவிலும் துன்பம் தருவதாகும்.",
+          "ஒருவன் அன்பு இல்லாதவனாய், அமைந்த துணை இல்லாதடனாய், தானும் வலிமை இல்லாதவனாய் இருந்தால், அவன் பகைவனுடைய வலிமையை எவ்வாறு ஒழிக்க முடியும்.",
+          "மனைவிக்கு அஞ்சி வாழ்கின்றவன் எப்போதும் நல்லவர்க்கு நன்மையான கடமையைச் செய்வதற்கு அஞ்சி நடப்பான்.",
+          "பகைவரை சினந்து நோக்கியக் கண், அவர் வேலைக் கொண்டு எறிந்த போது மூடி இமைக்குமானால், அது வீரமுடையவர்க்குத் தோல்வி அன்றோ."
+        ],
+        "quiz_options_en": [
+          "Even in dreams the tie is bad With those whose deed is far from word",
+          "Loveless, aidless, powerless king Can he withstand an enemy strong?",
+          "Who fears his wife fears always Good to do to the good and wise",
+          "When lances dart if heroes wink \\\"It is a rout\\\" the world will think"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படைச் செருக்கு) பகுதியில் குறள் 775 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பகைவரை சினந்து நோக்கியக் கண், அவர் வேலைக் கொண்டு எறிந்த போது மூடி இமைக்குமானால், அது வீரமுடையவர்க்குத் தோல்வி அன்றோ. பரிமேலழகர் உரை நுட்பம்: விழித்த கண் - பகைவரை வெகுண்டு நோக்கிய கண்; வேல் கொண்டு எறிய அழித்து இமைப்பின் - அவர் வேலைக்கொண்டு எறிய அஃது ஆற்றாது அந்நோக்கை அழித்து இமைக்குமாயின்; வன்கணவர்க்கு ஒட்டு அன்றோ - அது வீரர்க்குப் புறங்கொடுத்தலாம். (அவ்வெகுளி நோக்கம் மீட்டலும் போரின்கண் மீட்சி...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 78: 'Military Spirit'), Kural 775 distills a foundational ethical insight: \"To hero fearless must it not defeat appear, If he but wink his eye when foemen hurls his spear\" Philosophically, Is it not a defeat to the valiant to wink and destroy their ferocious look when a lance in cast at them (by their foe) ?",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "leadership",
+        "courage",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 776,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: வீரன் தன் கழிந்த நாட்களைக் கணக்கிட்டு, விழுப்புண் படாத நாட்களை எல்லாம் பயன் படாமல் தவறிய நாட்களுள் சேர்ப்பான்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The hero will reckon among wasted days all those on which he had not received severe wounds.",
+        "story_title_ta": "படைச் செருக்கு — அன்பு கற்ற பாடம்",
+        "story_title_en": "Military Spirit — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படைச் செருக்கு' என்ற அதிகாரத்திலிருந்து குறள் 776 பற்றிக் கதை சொன்னார். 'ஒரு வீரன் தன் கடந்த நாள்களை எண்ணி எடுத்து, அவற்றுள் முகத்திலும் மார்பிலும் போரின்போது புண்படாத நாள்களைப் பயனில்லாமல் கழிந்த நாள்களாகக் கருதுவான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 78, 'Military Spirit', centered on Kural 776: The hero will reckon among wasted days all those on which he had not received severe wounds. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒரு வீரன், தான் வாழ்ந்த நாட்களைக் கணக்குப் பார்த்து அந்த நாட்களில் தன்னுடலில் விழுப்புண்படாத நாட்களையெல்லாம் வீணான நாட்கள் என்று வெறுத்து ஒதுக்குவான்.",
+        "moral_en": "Moral: The heroes, counting up their days, set down as vainEach day when they no glorious wound sustain.",
+        "game_blank_word_ta": "எல்லாம்",
+        "game_options_ta": [
+          "எல்லாம்",
+          "என்னைமுன்",
+          "நில்லன்மின்",
+          "தெவ்விர்"
+        ],
+        "game_options_en": [
+          "The brave shall deem the days as vain Which did not battle-wounds sustain",
+          "Stand not before my chief, O foes! Many who stood, in stones repose",
+          "To lift a lance that missed a tusker Is prouder than shaft that hit a hare",
+          "Valour is fight with fierce courage Mercy to the fallen is its edge"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படைச் செருக்கு (அங்கவியல்) பிரிவில் அமைந்த குறள் 776, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு வீரன் தன் கடந்த நாள்களை எண்ணி எடுத்து, அவற்றுள் முகத்திலும் மார்பிலும் போரின்போது புண்படாத நாள்களைப் பயனில்லாமல் கழிந்த நாள்களாகக் கருதுவான். கலைஞர் உரை கூறுவது: ஒரு வீரன், தான் வாழ்ந்த நாட்களைக் கணக்குப் பார்த்து அந்த நாட்களில் தன்னுடலில் விழுப்புண்படாத நாட்களையெல்லாம் வீணான நாட்கள் என்று வெறுத்து ஒதுக்குவான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Military Spirit (Ministers & Elements of State), Kural 776 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The hero will reckon among wasted days all those on which he had not received severe wounds. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படைச் செருக்கு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Military Spirit' thoughtfully.",
+        "quiz_question_ta": "'படைச் செருக்கு' அதிகாரத்தில் வரும் திருக்குறள் 776 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 776 from Chapter 'Military Spirit'?",
+        "quiz_options_ta": [
+          "வீரன் தன் கழிந்த நாட்களைக் கணக்கிட்டு, விழுப்புண் படாத நாட்களை எல்லாம் பயன் படாமல் தவறிய நாட்களுள் சேர்ப்பான்.",
+          "தனியே வீட்டில் உள்ளபோது பொருந்தியிருந்து, பலர் கூடிய மன்றத்தில் பழித்து பேசுவோரின் நட்பை எவ்வளவு சிறிய அளவிலும் அணுகாமல் விட வேண்டும்.",
+          "ஒருவன் அஞ்சுகின்றவனாய், அறிவு இல்லாதவனாய், பொருந்தும் பண்பு இல்லாதவனாய், பிறர்க்கு ஒன்று ஈயாதவனாய் இருந்தால் , அவன் பகைவர்க்கு மிக எளியவன்.",
+          "மனைவியின் தோளுக்கு அஞ்சி வாழ்கின்றவர் தேவரைப் போல் இவ்வுலகில் சிறப்பான நிலையில் வாழ்ந்த போதிலும் பெருமை இல்லாதவரே ஆவர்."
+        ],
+        "quiz_options_en": [
+          "The brave shall deem the days as vain Which did not battle-wounds sustain",
+          "Keep aloof from those that smile At home and in public revile",
+          "Unskilled, timid, miser, misfit He is easy for foes to hit",
+          "Who fear douce arms of their wives Look petty even with god-like lives"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படைச் செருக்கு) பகுதியில் குறள் 776 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: வீரன் தன் கழிந்த நாட்களைக் கணக்கிட்டு, விழுப்புண் படாத நாட்களை எல்லாம் பயன் படாமல் தவறிய நாட்களுள் சேர்ப்பான். பரிமேலழகர் உரை நுட்பம்: தன் நாளை எடுத்து - தனக்குச் சென்ற நாள்களையெடுத்து எண்ணி; விழுப்புண் படாத நாளெல்லாம் வழுக்கினுள் வைக்கும் - அவற்றுள் விழுப்புண் படாத நாள்களையெல்லாம் பயன்படாது கழிந்த நாளுள்ளே வைக்கும், வீரன் . (விழுப்புண்: முகத்தினும் மார்பினும் பட்ட புண். போர...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 78: 'Military Spirit'), Kural 776 distills a foundational ethical insight: \"The heroes, counting up their days, set down as vainEach day when they no glorious wound sustain\" Philosophically, The hero will reckon among wasted days all those on which he had not received severe wounds.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "leadership",
+        "humility",
+        "courage"
+      ]
+    },
+    {
+      "kural_number": 777,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பரந்து நிற்க்கும் புகழை விரும்பி, உயிர்வாழ்வையும் விரும்பாத வீரர், வீரக் கழலை காலில் கட்டிக்கொள்ளுதல் அழகு செய்யும் தன்மையுடையதாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The fastening of ankle-ring by those who disire a world-wide renown and not (the safety of) their lives is like adorning (themselves).",
+        "story_title_ta": "படைச் செருக்கு — இனியா கற்ற பாடம்",
+        "story_title_en": "Military Spirit — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படைச் செருக்கு' என்ற அதிகாரத்திலிருந்து குறள் 777 பற்றிக் கதை சொன்னார். 'தம்முடன் சொர்க்கத்திற்கு வராது பூமியில் மட்டு் நிலைத்து நிற்கும் புகழை விரும்பி, உயிரையும் விரும்பாத வீரர், தம் கால்களில் வீரக்கழலைக் கட்டுவது அவர்க்கு அழகே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 78, 'Military Spirit', centered on Kural 777: The fastening of ankle-ring by those who disire a world-wide renown and not (the safety of) their lives is like adorning (themselves). Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சூழ்ந்து பரவிடும் புகழை மட்டுமே விரும்பி உயிரைப் பற்றிக் கவலைப்படாத வீரர்களின் காலில் கட்டப்படும் வீரக்கழல் தனிப் பெருமை உடையதாகும்.",
+        "moral_en": "Moral: Who seek for world-wide fame, regardless of their life, The glorious clasp adorns, sign of heroic strife.",
+        "game_blank_word_ta": "சுழலும்",
+        "game_options_ta": [
+          "என்னைமுன்",
+          "சுழலும்",
+          "நில்லன்மின்",
+          "தெவ்விர்"
+        ],
+        "game_options_en": [
+          "Stand not before my chief, O foes! Many who stood, in stones repose",
+          "Their anklets aloud jingle their name Who sacrifice their life for fame",
+          "To lift a lance that missed a tusker Is prouder than shaft that hit a hare",
+          "Valour is fight with fierce courage Mercy to the fallen is its edge"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படைச் செருக்கு (அங்கவியல்) பிரிவில் அமைந்த குறள் 777, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம்முடன் சொர்க்கத்திற்கு வராது பூமியில் மட்டு் நிலைத்து நிற்கும் புகழை விரும்பி, உயிரையும் விரும்பாத வீரர், தம் கால்களில் வீரக்கழலைக் கட்டுவது அவர்க்கு அழகே. கலைஞர் உரை கூறுவது: சூழ்ந்து பரவிடும் புகழை மட்டுமே விரும்பி உயிரைப் பற்றிக் கவலைப்படாத வீரர்களின் காலில் கட்டப்படும் வீரக்கழல் தனிப் பெருமை உடையதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Military Spirit (Ministers & Elements of State), Kural 777 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The fastening of ankle-ring by those who disire a world-wide renown and not (the safety of) their lives is like adorning (themselves). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படைச் செருக்கு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Military Spirit' thoughtfully.",
+        "quiz_question_ta": "'படைச் செருக்கு' அதிகாரத்தில் வரும் திருக்குறள் 777 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 777 from Chapter 'Military Spirit'?",
+        "quiz_options_ta": [
+          "அகத்தே பொருந்தாமல் புறத்தே பொருந்தி நடப்பவரின் நட்பு, தக்க இடம் கண்டபோது எறிவதற்கு உரிய பட்டையாகும்.",
+          "பரந்து நிற்க்கும் புகழை விரும்பி, உயிர்வாழ்வையும் விரும்பாத வீரர், வீரக் கழலை காலில் கட்டிக்கொள்ளுதல் அழகு செய்யும் தன்மையுடையதாகும்.",
+          "ஒருவன் சினம் நீங்காதவனாய், நெஞ்சத்தை நிறுத்தியாளும் தன்மை இல்லாதவனாய் இருந்தால் அவன் எக்காலத்திலும் எவ்விடத்திலும் எவர்க்கும் எளியவன்.",
+          "மனைவியின் ஏவலைச் செய்து நடக்கின்றவனுடைய ஆண்மையைவிட, நாணத்தை தன் இயல்பாக உடையவளின் பெண்மையே பெருமை உடையது."
+        ],
+        "quiz_options_en": [
+          "The friendship by an enemy shown Is anvil in time, to strike you down",
+          "Their anklets aloud jingle their name Who sacrifice their life for fame",
+          "The wrathful restive man is prey To any, anywhere any day",
+          "Esteemed more is women bashful Than man servile unto her will"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படைச் செருக்கு) பகுதியில் குறள் 777 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பரந்து நிற்க்கும் புகழை விரும்பி, உயிர்வாழ்வையும் விரும்பாத வீரர், வீரக் கழலை காலில் கட்டிக்கொள்ளுதல் அழகு செய்யும் தன்மையுடையதாகும். பரிமேலழகர் உரை நுட்பம்: சுழலும் இசைவேண்டி வேண்டா உயிரார் - துறக்கத்துத் தம்மொடு செல்லாது வையத்தைச் சூழ்ந்து நிற்கும் புகழை வேண்டி உயிர் வாழ்தலை வேண்டாத வீரர்; கழல் யாப்புக்காரிகை நீர்த்து - கழல் கட்டுதல் அலங்கார நீர்மையை உடைத்து. (வையைத்தைச் சூழும் எனவே, அதன் பெருமை பெற்றாம...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 78: 'Military Spirit'), Kural 777 distills a foundational ethical insight: \"Who seek for world-wide fame, regardless of their life, The glorious clasp adorns, sign of heroic strife\" Philosophically, The fastening of ankle-ring by those who disire a world-wide renown and not (the safety of) their lives is like adorning (themselves).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "humility",
+        "leadership",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 778,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: போர்வந்தால் உயிரின் பொருட்டு அஞ்சாமல் போர் செய்யத் துணியும் வீரர், அரசன் சினந்தாலும் தம்முடைய சிறப்புக் குன்றாதவர் ஆவர்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: The heroes who are not afraid of losing their life in a contest will not cool their ardour, even if the king prohibits (their fighting).",
+        "story_title_ta": "படைச் செருக்கு — முகில் கற்ற பாடம்",
+        "story_title_en": "Military Spirit — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படைச் செருக்கு' என்ற அதிகாரத்திலிருந்து குறள் 778 பற்றிக் கதை சொன்னார். 'போர் வந்தால் தம் உயிர்க்கு அஞ்சாது செல்லும் வீரர், அப்போரை வேண்டா என்று அரசு சினந்து தடுத்தாலும், தம் வீரத்தில் குறைய மாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 78, 'Military Spirit', centered on Kural 778: The heroes who are not afraid of losing their life in a contest will not cool their ardour, even if the king prohibits (their fighting). Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தலைவன் சினந்தாலும் சிறப்புக் குறையாமல் கடமை ஆற்றுபவர்கள்தான், போர்களத்தில் உயிரைப் பற்றிக் கலங்காத வீர மறவர்கள் எனப் போற்றப்படுவர்.",
+        "moral_en": "Moral: Fearless they rush where'er 'the tide of battle rolls'; The king's reproof damps not the ardour of their eager souls.",
+        "game_blank_word_ta": "அஞ்சா",
+        "game_options_ta": [
+          "என்னைமுன்",
+          "நில்லன்மின்",
+          "அஞ்சா",
+          "தெவ்விர்"
+        ],
+        "game_options_en": [
+          "Stand not before my chief, O foes! Many who stood, in stones repose",
+          "To lift a lance that missed a tusker Is prouder than shaft that hit a hare",
+          "The king may chide, they pursue strife; They fear loss of glory; not life",
+          "Valour is fight with fierce courage Mercy to the fallen is its edge"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படைச் செருக்கு (அங்கவியல்) பிரிவில் அமைந்த குறள் 778, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: போர் வந்தால் தம் உயிர்க்கு அஞ்சாது செல்லும் வீரர், அப்போரை வேண்டா என்று அரசு சினந்து தடுத்தாலும், தம் வீரத்தில் குறைய மாட்டார். கலைஞர் உரை கூறுவது: தலைவன் சினந்தாலும் சிறப்புக் குறையாமல் கடமை ஆற்றுபவர்கள்தான், போர்களத்தில் உயிரைப் பற்றிக் கலங்காத வீர மறவர்கள் எனப் போற்றப்படுவர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Military Spirit (Ministers & Elements of State), Kural 778 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The heroes who are not afraid of losing their life in a contest will not cool their ardour, even if the king prohibits (their fighting). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படைச் செருக்கு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Military Spirit' thoughtfully.",
+        "quiz_question_ta": "'படைச் செருக்கு' அதிகாரத்தில் வரும் திருக்குறள் 778 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 778 from Chapter 'Military Spirit'?",
+        "quiz_options_ta": [
+          "இனம் போலவே இருந்து உண்மையில் இனம் அல்லாதவரின் நட்பு, பொதுமகளிரின் மனம் போல உள்ளொன்று புறமொன்றாக வேறுபட்டு நிற்கும்.",
+          "ஒருவன் நல்வழியை நோக்காமல் பொருத்தமானவற்றைச் செய்யாமல், பழியையும் பார்க்காமல், நற்பண்பும் இல்லாமல் இருந்தால் அவன் பகைவர்க்கும் எளியனவான்.",
+          "போர்வந்தால் உயிரின் பொருட்டு அஞ்சாமல் போர் செய்யத் துணியும் வீரர், அரசன் சினந்தாலும் தம்முடைய சிறப்புக் குன்றாதவர் ஆவர்.",
+          "மனைவி விரும்பியபடி செய்து நடப்பவர், தமது நண்பர்க்கு உற்ற குறையையும் செய்து முடிக்க மாட்டார், அறத்தையும் செய்ய மாட்டார்."
+        ],
+        "quiz_options_en": [
+          "Who pretend kinship but are not Their friendship's fickle like woman's heart",
+          "Crooked, cruel, tactless and base Any foe can fell him with ease",
+          "The king may chide, they pursue strife; They fear loss of glory; not life",
+          "By fair-browed wives who are governed Help no friends nor goodness tend"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படைச் செருக்கு) பகுதியில் குறள் 778 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: போர்வந்தால் உயிரின் பொருட்டு அஞ்சாமல் போர் செய்யத் துணியும் வீரர், அரசன் சினந்தாலும் தம்முடைய சிறப்புக் குன்றாதவர் ஆவர். பரிமேலழகர் உரை நுட்பம்: உறின் உயிர் அஞ்சா மறவர் - போர்பெறின் தம்முயிர்ப் பொருட்டு அஞ்சாது அதன்மேற் செல்லும் வீரர்; இறைவன் செறினும் சீர்குன்றல் இலர் - தம் இறைவன் அது வேண்டா என்று முனியினும் அவ் வீரமிகுதி குன்றார். (போர் பெற்று அறியாமையின், அது பெற்றால் அரசன் தடுப்பினும் நில்லார...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 78: 'Military Spirit'), Kural 778 distills a foundational ethical insight: \"Fearless they rush where'er 'the tide of battle rolls'; The king's reproof damps not the ardour of their eager souls\" Philosophically, The heroes who are not afraid of losing their life in a contest will not cool their ardour, even if the king prohibits (their fighting).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "courage",
+        "gratitude",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 779,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தாம் உரைத்த சூள் தவராத படி போர் செய்து சாக வல்லவரை, அவர் செய்தப் பிழைக்காக தண்டிக்க வல்லவர் யார்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Who would reproach with failure those who seal their oath with their death ?",
+        "story_title_ta": "படைச் செருக்கு — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Military Spirit — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படைச் செருக்கு' என்ற அதிகாரத்திலிருந்து குறள் 779 பற்றிக் கதை சொன்னார். 'தாம் சொன்ன சபதம் நிறைவேறாமல் போனாலும், அதற்காகவே போர்க் களத்தில் தோற்றவர் என்று எவர் இகழ்ந்து பேசுவார்?' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 78, 'Military Spirit', centered on Kural 779: Who would reproach with failure those who seal their oath with their death ? Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சபதம் செய்தவாறு களத்தில் சாவதற்குத் துணிந்த வீரனை யாராவது இழித்துப் பேச முடியுமா? முடியாது.",
+        "moral_en": "Moral: Who says they err, and visits them scorn, Who die and faithful guard the vow they've sworn.",
+        "game_blank_word_ta": "பவர்",
+        "game_options_ta": [
+          "என்னைமுன்",
+          "நில்லன்மின்",
+          "தெவ்விர்",
+          "பவர்"
+        ],
+        "game_options_en": [
+          "Stand not before my chief, O foes! Many who stood, in stones repose",
+          "To lift a lance that missed a tusker Is prouder than shaft that hit a hare",
+          "Valour is fight with fierce courage Mercy to the fallen is its edge",
+          "Who will blame the heroes that lose Their lives in war to keep their vows?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படைச் செருக்கு (அங்கவியல்) பிரிவில் அமைந்த குறள் 779, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தாம் சொன்ன சபதம் நிறைவேறாமல் போனாலும், அதற்காகவே போர்க் களத்தில் தோற்றவர் என்று எவர் இகழ்ந்து பேசுவார்? கலைஞர் உரை கூறுவது: சபதம் செய்தவாறு களத்தில் சாவதற்குத் துணிந்த வீரனை யாராவது இழித்துப் பேச முடியுமா? முடியாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Military Spirit (Ministers & Elements of State), Kural 779 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Who would reproach with failure those who seal their oath with their death ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படைச் செருக்கு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Military Spirit' thoughtfully.",
+        "quiz_question_ta": "'படைச் செருக்கு' அதிகாரத்தில் வரும் திருக்குறள் 779 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 779 from Chapter 'Military Spirit'?",
+        "quiz_options_ta": [
+          "பல நல்ல நூல்களைக் கற்றுத் தேர்ந்த போதிலும், அவற்றின் பயனாக நல்ல மனம் உடையவராகப் பழகுதல், (உள்ளன்பினால்) மாட்சியடையாதவர்க்கு இல்லை.",
+          "ஒருவன் உண்மை காணாத சினம் உடையவனாய், மிகப் பெரிய ஆசை உடையவனாய் இருந்தால் அவனுடைய பகை விரும்பி மேற்கொள்ளப்படும்.",
+          "அறச் செயலும் அதற்க்கு காரணமாக அமைந்த பொருள் முயற்சியும், மற்றக் கடமைகளும் மனைவியின் ஏவலைச் செய்வோரிடத்தில் இல்லை.",
+          "தாம் உரைத்த சூள் தவராத படி போர் செய்து சாக வல்லவரை, அவர் செய்தப் பிழைக்காக தண்டிக்க வல்லவர் யார்."
+        ],
+        "quiz_options_en": [
+          "They may be vast in good studies But heartfelt-love is hard for foes",
+          "Blind in rage and mad in lust To have his hatred is but just",
+          "No virtue riches nor joy is seen In those who submit to women",
+          "Who will blame the heroes that lose Their lives in war to keep their vows?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படைச் செருக்கு) பகுதியில் குறள் 779 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தாம் உரைத்த சூள் தவராத படி போர் செய்து சாக வல்லவரை, அவர் செய்தப் பிழைக்காக தண்டிக்க வல்லவர் யார். பரிமேலழகர் உரை நுட்பம்: இழைத்தது இகவாமைச் சாவாரை - தாம் கூறின வஞ்சினம் தப்பாமைப் பொருட்டுச் சென்று சாவ வல்ல வீரரை; பிழைத்தது ஒறுக்கிற்பவர் யார் - அது தப்பியவாறு சொல்லி எள்ளுதற்குரியார் யாவர்? (இழைத்தல்: இன்னது செய்யேனாயின் இன்னனாகுக எனத் தான் வகுத்தல். 'சொல்லி' என்பது அவாய...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 78: 'Military Spirit'), Kural 779 distills a foundational ethical insight: \"Who says they err, and visits them scorn, Who die and faithful guard the vow they've sworn\" Philosophically, Who would reproach with failure those who seal their oath with their death ?",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "humility",
+        "education",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 780,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தம்மைக் காத்த தலைவருடைய கண்கள் நீர் பெருக்குமாறு சாகப் பெற்றால், சாவு இரந்தாவது பெற்றுக் கொள்ளத் தக்க பெருமை உடையதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If (heroes) can so die as to fill with tears the eyes of their rulers, such a death deserves to be obtained even by begging.",
+        "story_title_ta": "படைச் செருக்கு — கவின் கற்ற பாடம்",
+        "story_title_en": "Military Spirit — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'படைச் செருக்கு' என்ற அதிகாரத்திலிருந்து குறள் 780 பற்றிக் கதை சொன்னார். 'வீரர்களின் வீரச்செயலை எல்லாம் எண்ணிப் பார்க்கும் கண்களோடு ஆட்சியாளர் நிற்க, அந்தப்போரில் சாகும் வாய்ப்பைப் பெற்றவரின் சாவு, பிறரிடம் கேட்டுப் பெறத்தக்க சிறப்பினை உடையது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 78, 'Military Spirit', centered on Kural 780: If (heroes) can so die as to fill with tears the eyes of their rulers, such a death deserves to be obtained even by begging. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தன்னைக் காத்த தலைவனுடைய கண்களில் நீர் பெருகுமாறு வீரமரணம் அடைந்தால், அத்தகைய மரணத்தை யாசித்தாவது பெற்றுக் கொள்வதில் பெருமை உண்டு.",
+        "moral_en": "Moral: If monarch's eyes o'erflow with tears for hero slain, Who would not beg such boon of glorious death to gain.",
+        "game_blank_word_ta": "சாக்காடு",
+        "game_options_ta": [
+          "சாக்காடு",
+          "என்னைமுன்",
+          "நில்லன்மின்",
+          "தெவ்விர்"
+        ],
+        "game_options_en": [
+          "Such a death shall be prayed for Which draws the the tears of the ruler",
+          "Stand not before my chief, O foes! Many who stood, in stones repose",
+          "To lift a lance that missed a tusker Is prouder than shaft that hit a hare",
+          "Valour is fight with fierce courage Mercy to the fallen is its edge"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "படைச் செருக்கு (அங்கவியல்) பிரிவில் அமைந்த குறள் 780, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: வீரர்களின் வீரச்செயலை எல்லாம் எண்ணிப் பார்க்கும் கண்களோடு ஆட்சியாளர் நிற்க, அந்தப்போரில் சாகும் வாய்ப்பைப் பெற்றவரின் சாவு, பிறரிடம் கேட்டுப் பெறத்தக்க சிறப்பினை உடையது. கலைஞர் உரை கூறுவது: தன்னைக் காத்த தலைவனுடைய கண்களில் நீர் பெருகுமாறு வீரமரணம் அடைந்தால், அத்தகைய மரணத்தை யாசித்தாவது பெற்றுக் கொள்வதில் பெருமை உண்டு. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Military Spirit (Ministers & Elements of State), Kural 780 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If (heroes) can so die as to fill with tears the eyes of their rulers, such a death deserves to be obtained even by begging. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'படைச் செருக்கு' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Military Spirit' thoughtfully.",
+        "quiz_question_ta": "'படைச் செருக்கு' அதிகாரத்தில் வரும் திருக்குறள் 780 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 780 from Chapter 'Military Spirit'?",
+        "quiz_options_ta": [
+          "தம்மைக் காத்த தலைவருடைய கண்கள் நீர் பெருக்குமாறு சாகப் பெற்றால், சாவு இரந்தாவது பெற்றுக் கொள்ளத் தக்க பெருமை உடையதாகும்.",
+          "முகத்தால் இனிமையாகச் சிரித்துப் பழகி அகத்தில் தீமை கொண்டுள்ள வஞ்சகருடன் நட்பு கொள்வதற்கு அஞ்ச வேண்டும்.",
+          "தன்னை அடுத்துத் தன்னோடிருந்தும் பொருந்தாதவற்றைச் செய்பவனுடைய பகையைப் பொருள் கொடுத்தாவது கொள்ள வேண்டும்.",
+          "நன்றாக எண்ணுதல், பொருந்திய நெஞ்சத்தோடு தக்க நிலையும் உடையார்க்கு எக்காலத்திலும் மனைவியின் ஏவலுக்கு இணங்கும் அறியாமை இல்லை."
+        ],
+        "quiz_options_en": [
+          "Such a death shall be prayed for Which draws the the tears of the ruler",
+          "Fear foes whose face has winning smiles Whose heart is full of cunning guiles",
+          "Pay and buy his enmity Who muddles chance with oddity",
+          "Thinkers strong and broad of heart By folly on fair sex do not dote"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (படைச் செருக்கு) பகுதியில் குறள் 780 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம்மைக் காத்த தலைவருடைய கண்கள் நீர் பெருக்குமாறு சாகப் பெற்றால், சாவு இரந்தாவது பெற்றுக் கொள்ளத் தக்க பெருமை உடையதாகும். பரிமேலழகர் உரை நுட்பம்: புரந்தார்கண் நீர் மல்கச் சாகிற்பின் - தமக்குச் செய்த நன்றிகளை நினைந்து ஆண்ட அரசர் கண்கள் நீர்மல்கும் வகை போரிடைச் சாவப் பெறின்; சாக்காடு இரந்துகோள்தக்கது உடைத்து - அச்சாக்காடு இரந்தாயினும் கொள்ளுந் தகுதியை உடைத்து. (மல்குதலாகிய இடத்து நிகழ்பொருளின் தொழில...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 78: 'Military Spirit'), Kural 780 distills a foundational ethical insight: \"If monarch's eyes o'erflow with tears for hero slain, Who would not beg such boon of glorious death to gain\" Philosophically, If (heroes) can so die as to fill with tears the eyes of their rulers, such a death deserves to be obtained even by begging.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "humility",
+        "time",
+        "love"
+      ]
+    }
+  ]
+}

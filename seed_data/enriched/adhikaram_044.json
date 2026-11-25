@@ -1,0 +1,587 @@
+{
+  "adhikaram_id": 44,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.845136217+00:00",
+  "kurals": [
+    {
+      "kural_number": 431,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: செருக்கும் சினமும் காமமும் ஆகிய இந்தக் குற்றங்கள் இல்லாதவனுடைய வாழ்வில் காணும் பெருக்கம் மேம்பாடு உடையதாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Truly great is the excellence of those (kings) who are free from pride, anger, and lust.",
+        "story_title_ta": "குற்றங்கடிதல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Correction of Faults — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'குற்றங்கடிதல்' என்ற அதிகாரத்திலிருந்து குறள் 431 பற்றிக் கதை சொன்னார். 'தான் என்னும் அகங்காரம், கோபம், பெண்ணாசை என்னும் சிறுமை இவை இல்லாத ஆட்சியாளர்களின் செல்வம் மேன்மையானது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 44, 'The Correction of Faults', centered on Kural 431: Truly great is the excellence of those (kings) who are free from pride, anger, and lust. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: இறுமாப்பு, ஆத்திரம், இழிவான நடத்தை இவைகள் இல்லாதவர்களுடைய செல்வாக்குதான் மதிக்கத் தக்கதாகும்.",
+        "moral_en": "Moral: Who arrogance, and wrath, and littleness of low desire restrain, To sure increase of lofty dignity attain.",
+        "game_blank_word_ta": "பெருக்கம்",
+        "game_options_ta": [
+          "இவறலும்",
+          "மாண்பிறந்த",
+          "மானமும்",
+          "பெருக்கம்"
+        ],
+        "game_options_en": [
+          "Mean pride, low pleasure, avarice These add blemishes to a prince",
+          "Though millet-small their faults might seem Men fearing disgrace, Palm-tall deem",
+          "Watch like treasure freedom from fault Our fatal foe is that default",
+          "Plenty is their prosperity Who're free from wrath pride lust petty"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குற்றங்கடிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 431, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தான் என்னும் அகங்காரம், கோபம், பெண்ணாசை என்னும் சிறுமை இவை இல்லாத ஆட்சியாளர்களின் செல்வம் மேன்மையானது. கலைஞர் உரை கூறுவது: இறுமாப்பு, ஆத்திரம், இழிவான நடத்தை இவைகள் இல்லாதவர்களுடைய செல்வாக்குதான் மதிக்கத் தக்கதாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Correction of Faults (Royalty & Polity), Kural 431 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Truly great is the excellence of those (kings) who are free from pride, anger, and lust. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'குற்றங்கடிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Correction of Faults' thoughtfully.",
+        "quiz_question_ta": "'குற்றங்கடிதல்' அதிகாரத்தில் வரும் திருக்குறள் 431 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 431 from Chapter 'The Correction of Faults'?",
+        "quiz_options_ta": [
+          "மயிலிறகு ஏற்றிய வண்டியே ஆனாலும் , அந்த பண்டமும் (அளவோடு ஏற்றாமல்) அளவு கடந்து மிகுதியாக ஏற்றினால் அச்சு முறியும்.",
+          "ஒருவன் ஒரு தொழிலைச் செய்வதற்கு உரியவனாக இருப்பதை ஆராய்ந்த பிறகு அவனைத் அத் தொழிலுக்கு உரியவனாகும்படிச் செய்ய வேண்டும்.",
+          "செய்த குற்றத்தை தக்கவாறு ஆராய்ந்து மீண்டும் அக் குற்றம் செய்யாத படி குற்றத்திற்குப் பொருந்துமாறு தண்டிப்பவனே அரசன் ஆவான்.",
+          "செருக்கும் சினமும் காமமும் ஆகிய இந்தக் குற்றங்கள் இல்லாதவனுடைய வாழ்வில் காணும் பெருக்கம் மேம்பாடு உடையதாகும்."
+        ],
+        "quiz_options_en": [
+          "Even the gentle peacock's plume Cart's axle breaks by gross volume",
+          "His fitness for the duty scan Leave him to do the best he can",
+          "A king enquires and gives sentence Just to prevent future offence",
+          "Plenty is their prosperity Who're free from wrath pride lust petty"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (குற்றங்கடிதல்) பகுதியில் குறள் 431 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செருக்கும் சினமும் காமமும் ஆகிய இந்தக் குற்றங்கள் இல்லாதவனுடைய வாழ்வில் காணும் பெருக்கம் மேம்பாடு உடையதாகும். பரிமேலழகர் உரை நுட்பம்: செருக்கும் சினமும் சிறுமையும் இல்லார் பெருக்கம் - மதமும் வெகுளியும் காமமும் ஆகிய குற்றங்கள் இல்லாத அரசரது செல்வம், பெருமித நீர்த்து - மேம்பாட்டு நீர்மையினை உடைத்து. (மதம் : செல்வக்களிப்பு. சிறியோர் செயலாகலின், அளவறிந்த காமம் 'சிறுமை' எனப்பட்டது. இவை நீதியல்லன...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 44: 'The Correction of Faults'), Kural 431 distills a foundational ethical insight: \"Who arrogance, and wrath, and littleness of low desire restrain, To sure increase of lofty dignity attain\" Philosophically, Truly great is the excellence of those (kings) who are free from pride, anger, and lust.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "humility",
+        "wealth",
+        "leadership",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 432,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பொருள் கொடாத தன்மையும் மாட்சியில்லாத மானமும், தகுதியற்ற மகிழ்ச்சியும் தலைவனாக இருப்பனுக்கு குற்றங்களாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Avarice, undignified pride, and low pleasures are faults in a king.",
+        "story_title_ta": "குற்றங்கடிதல் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Correction of Faults — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'குற்றங்கடிதல்' என்ற அதிகாரத்திலிருந்து குறள் 432 பற்றிக் கதை சொன்னார். 'நியாயமாகத் தேவைப்படுவோர்க்குத் தேவையானவற்றைக் கொடாதிருப்பது, பெரியோர் என்று தெரிந்தும் தம் பதவிப் பெருமை கருதி வணங்காதிருப்பது, தீயவற்றில் மகிழ்வது - இவை ஆட்சியாளர்க்குக் குற்றங்களாம்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 44, 'The Correction of Faults', centered on Kural 432: Avarice, undignified pride, and low pleasures are faults in a king. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: மனத்தில் பேராசை, மான உணர்வில் ஊனம், மாசுபடியும் செயல்களில் மகிழ்ச்சி ஆகியவை தலைமைக்குரிய தகுதிக்கே பெருங்கேடுகளாகும்.",
+        "moral_en": "Moral: A niggard hand, o'erweening self-regard, and mirthUnseemly, bring disgrace to men of kingly brith.",
+        "game_blank_word_ta": "இவறலும்",
+        "game_options_ta": [
+          "இவறலும்",
+          "செருக்குஞ்",
+          "சினமும்",
+          "சிறுமையும்"
+        ],
+        "game_options_en": [
+          "Mean pride, low pleasure, avarice These add blemishes to a prince",
+          "Plenty is their prosperity Who're free from wrath pride lust petty",
+          "Though millet-small their faults might seem Men fearing disgrace, Palm-tall deem",
+          "Watch like treasure freedom from fault Our fatal foe is that default"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குற்றங்கடிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 432, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நியாயமாகத் தேவைப்படுவோர்க்குத் தேவையானவற்றைக் கொடாதிருப்பது, பெரியோர் என்று தெரிந்தும் தம் பதவிப் பெருமை கருதி வணங்காதிருப்பது, தீயவற்றில் மகிழ்வது - இவை ஆட்சியாளர்க்குக் குற்றங்களாம். கலைஞர் உரை கூறுவது: மனத்தில் பேராசை, மான உணர்வில் ஊனம், மாசுபடியும் செயல்களில் மகிழ்ச்சி ஆகியவை தலைமைக்குரிய தகுதிக்கே பெருங்கேடுகளாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Correction of Faults (Royalty & Polity), Kural 432 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Avarice, undignified pride, and low pleasures are faults in a king. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'குற்றங்கடிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Correction of Faults' thoughtfully.",
+        "quiz_question_ta": "'குற்றங்கடிதல்' அதிகாரத்தில் வரும் திருக்குறள் 432 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 432 from Chapter 'The Correction of Faults'?",
+        "quiz_options_ta": [
+          "பொருள் கொடாத தன்மையும் மாட்சியில்லாத மானமும், தகுதியற்ற மகிழ்ச்சியும் தலைவனாக இருப்பனுக்கு குற்றங்களாகும்.",
+          "ஒரு மரத்தின் நுனிக்கொம்பில் ஏறியவர், அதையும் கடந்து மேலே ஏற முனைந்தால், அவருடைய உயிர்க்கு முடிவாக நேர்ந்துவிடும்.",
+          "மேற்க்கொண்ட தொழிலில் எப்போதும் முயற்சி உடையவனின் உறவைத் தவறாக நினைக்கும் தலைவனை விட்டுச் செல்வம் நீங்கும்.",
+          "ஆக்கம் நெடுங்காலம் நீங்காமலிருக்க விரும்புகின்றவர் (தண்டிக்கத் தொடங்கும் போது) அளவு கடந்து செய்வது போல் காட்டி அளவு மீறாமல் முறை செய்ய வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Mean pride, low pleasure, avarice These add blemishes to a prince",
+          "Beyond the branches' tip who skips Ends the life as his body rips",
+          "Who do duty for duty's sake Doubt them; and fortune departs quick",
+          "Wield fast the rod but gently lay This strict mildness prolongs the sway"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (குற்றங்கடிதல்) பகுதியில் குறள் 432 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருள் கொடாத தன்மையும் மாட்சியில்லாத மானமும், தகுதியற்ற மகிழ்ச்சியும் தலைவனாக இருப்பனுக்கு குற்றங்களாகும். பரிமேலழகர் உரை நுட்பம்: இவறலும் - வேண்டும்வழிப் பொருள் கொடாமையும்; மாண்பு இறந்த மானமும் - நன்மையின் நீங்கிய மானமும், மாணா உவகையும் - அளவிறந்த உவகையும், இறைக்கு ஏதம் - அரசனுக்குக் குற்றம். (மாட்சியான மானத்தின் நீக்குதற்கு 'மாண்பு இறந்த மானம்' என்றார். அஃதாவது, 'அந்தணர் சான்றோர...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 44: 'The Correction of Faults'), Kural 432 distills a foundational ethical insight: \"A niggard hand, o'erweening self-regard, and mirthUnseemly, bring disgrace to men of kingly brith\" Philosophically, Avarice, undignified pride, and low pleasures are faults in a king.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "humility",
+        "leadership",
+        "family",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 433,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பழி நாணுகின்ற பெருமக்கள் தினையளவாகிய சிறு குற்றம் நேர்ந்தாலும் அதை பனையளவாகக் கருதிக் (குற்றம் செய்யாமல்) காத்துக் கொள்வர்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Those who fear guilt, if they commit a fault small as a millet seed, will consider it to be as large as a palmyra tree.",
+        "story_title_ta": "குற்றங்கடிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Correction of Faults — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'குற்றங்கடிதல்' என்ற அதிகாரத்திலிருந்து குறள் 433 பற்றிக் கதை சொன்னார். 'பழிபாவங்களுக்கு அஞ்சி, நானும் பெரியோர், தினை என மிகச்சிறிய அளவே குற்றம் வந்தாலும், அதனைப் பனை என மிகப்பெரிய அளவாகக் கொள்வர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 44, 'The Correction of Faults', centered on Kural 433: Those who fear guilt, if they commit a fault small as a millet seed, will consider it to be as large as a palmyra tree. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பழிக்கு நாணுகின்றவர்கள், தினையளவு குற்றத்தையும் பனையளவாகக் கருதி, அதைச் செய்யாமல், தங்களைக் காத்துக் கொள்வார்கள்.",
+        "moral_en": "Moral: Though small as millet-seed the fault men deem; As palm tree vast to those who fear disgrace 'twill seem.",
+        "game_blank_word_ta": "குற்றம்",
+        "game_options_ta": [
+          "செருக்குஞ்",
+          "குற்றம்",
+          "சினமும்",
+          "சிறுமையும்"
+        ],
+        "game_options_en": [
+          "Plenty is their prosperity Who're free from wrath pride lust petty",
+          "Though millet-small their faults might seem Men fearing disgrace, Palm-tall deem",
+          "Mean pride, low pleasure, avarice These add blemishes to a prince",
+          "Watch like treasure freedom from fault Our fatal foe is that default"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குற்றங்கடிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 433, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பழிபாவங்களுக்கு அஞ்சி, நானும் பெரியோர், தினை என மிகச்சிறிய அளவே குற்றம் வந்தாலும், அதனைப் பனை என மிகப்பெரிய அளவாகக் கொள்வர். கலைஞர் உரை கூறுவது: பழிக்கு நாணுகின்றவர்கள், தினையளவு குற்றத்தையும் பனையளவாகக் கருதி, அதைச் செய்யாமல், தங்களைக் காத்துக் கொள்வார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Correction of Faults (Royalty & Polity), Kural 433 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who fear guilt, if they commit a fault small as a millet seed, will consider it to be as large as a palmyra tree. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'குற்றங்கடிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Correction of Faults' thoughtfully.",
+        "quiz_question_ta": "'குற்றங்கடிதல்' அதிகாரத்தில் வரும் திருக்குறள் 433 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 433 from Chapter 'The Correction of Faults'?",
+        "quiz_options_ta": [
+          "தக்க வழியில் பிறர்க்கு கொடுக்கும் அளவு அறிந்து வாழாதவனுடைய வாழ்க்கை (பல வளமும்) இருப்பது போல் தோன்றி இல்லாமல் மறைந்து விடும்.",
+          "பழி நாணுகின்ற பெருமக்கள் தினையளவாகிய சிறு குற்றம் நேர்ந்தாலும் அதை பனையளவாகக் கருதிக் (குற்றம் செய்யாமல்) காத்துக் கொள்வர்.",
+          "தொழில் செய்கின்றவன் கோணாதிருக்கும் வரையில் உலகம் கெடாது, ஆகையால் மன்னன் நாள்தோறும் அவனுடைய நிலைமையை ஆராய வேண்டும்.",
+          "குடிகள் அஞ்சும் படியான கொடுமைகளைச் செய்து ஆளும் கொடுங்கோல் அரசனானால், அவன் திண்ணமாக விரைவில் கெடுவான்."
+        ],
+        "quiz_options_en": [
+          "Know the limit; grant with measure This way give and guard your treasure",
+          "Though millet-small their faults might seem Men fearing disgrace, Palm-tall deem",
+          "Worker straight the world is straight The king must look to this aright",
+          "His cruel rod of dreadful deed Brings king's ruin quick indeed"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (குற்றங்கடிதல்) பகுதியில் குறள் 433 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பழி நாணுகின்ற பெருமக்கள் தினையளவாகிய சிறு குற்றம் நேர்ந்தாலும் அதை பனையளவாகக் கருதிக் (குற்றம் செய்யாமல்) காத்துக் கொள்வர். பரிமேலழகர் உரை நுட்பம்: பழி நாணுவார் - பழியை அஞ்சுவார், தினைத்துணையாம் குற்றம் வரினும் பனைத்துணையாக் கொள்வர் - தம்கண் தினையின் அளவாம் குற்றம் வந்ததாயினும், அதனை அவ்வளவாக அன்றிப் பனையின் அளவாகக் கொள்வர். (குற்றம் சாதிப்பெயர். தமக்கு ஏலாமையின் சிறிது என்று பொறார், பெரிதாகக் கொண்டு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 44: 'The Correction of Faults'), Kural 433 distills a foundational ethical insight: \"Though small as millet-seed the fault men deem; As palm tree vast to those who fear disgrace 'twill seem\" Philosophically, Those who fear guilt, if they commit a fault small as a millet seed, will consider it to be as large as a palmyra tree.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "harmony",
+        "kindness",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 434,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: குற்றமே ஒருவனுக்கு அழிவை உண்டாக்கும் பகையாகும், ஆகையால் குற்றம் செய்யாமல் இருப்பதே நோக்கமாகக் கொண்டு காத்துக் கொள்ள வேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Guard against faults as a matter (of great consequence; for) faults are a deadly enemy.",
+        "story_title_ta": "குற்றங்கடிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Correction of Faults — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'குற்றங்கடிதல்' என்ற அதிகாரத்திலிருந்து குறள் 434 பற்றிக் கதை சொன்னார். 'அரசிற்கு அழிவுதரும் பகை மனக்குற்றந்தான். அதனால் அக்குற்றம் தன்னிடம் வராமல் காப்பதையே பொருளாகக் கொள்ள வேண்டும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 44, 'The Correction of Faults', centered on Kural 434: Guard against faults as a matter (of great consequence; for) faults are a deadly enemy. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: குற்றம் புரிவது அழிவை உண்டாக்கக் கூடிய பகையாக மாறுவதால் குற்றம் புரியாமல் இருப்பது என்பதையே நோக்கமாகக் கொள்ள வேண்டும்.",
+        "moral_en": "Moral: Freedom from faults is wealth; watch heedfully'Gainst these, for fault is fatal enmity.",
+        "game_blank_word_ta": "த்ரூஉம்",
+        "game_options_ta": [
+          "செருக்குஞ்",
+          "சினமும்",
+          "த்ரூஉம்",
+          "சிறுமையும்"
+        ],
+        "game_options_en": [
+          "Plenty is their prosperity Who're free from wrath pride lust petty",
+          "Mean pride, low pleasure, avarice These add blemishes to a prince",
+          "Watch like treasure freedom from fault Our fatal foe is that default",
+          "Though millet-small their faults might seem Men fearing disgrace, Palm-tall deem"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குற்றங்கடிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 434, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அரசிற்கு அழிவுதரும் பகை மனக்குற்றந்தான். அதனால் அக்குற்றம் தன்னிடம் வராமல் காப்பதையே பொருளாகக் கொள்ள வேண்டும். கலைஞர் உரை கூறுவது: குற்றம் புரிவது அழிவை உண்டாக்கக் கூடிய பகையாக மாறுவதால் குற்றம் புரியாமல் இருப்பது என்பதையே நோக்கமாகக் கொள்ள வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Correction of Faults (Royalty & Polity), Kural 434 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Guard against faults as a matter (of great consequence; for) faults are a deadly enemy. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'குற்றங்கடிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Correction of Faults' thoughtfully.",
+        "quiz_question_ta": "'குற்றங்கடிதல்' அதிகாரத்தில் வரும் திருக்குறள் 434 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 434 from Chapter 'The Correction of Faults'?",
+        "quiz_options_ta": [
+          "பொருள் வரும் வழி (வருவாய்) சிறிதாக இருந்தாலும், போகும் வழி (செலவு) விரிவுபடாவிட்டால் அதனால் தீங்கு இல்லை.",
+          "ஒருவன் வறியவனான காலத்திலும் அவனுக்கும் தமக்கும் இருந்த உறவைப் பாராட்டிப் பேசும் பண்புகள் சுற்றத்தாரிடம் உண்டு.",
+          "குற்றமே ஒருவனுக்கு அழிவை உண்டாக்கும் பகையாகும், ஆகையால் குற்றம் செய்யாமல் இருப்பதே நோக்கமாகக் கொண்டு காத்துக் கொள்ள வேண்டும்.",
+          "நம் அரசன் கடுமையானவன் என்று குடிகளால் கூறப்படும் கொடுஞ்சொல்லை உடைய அரசன், தன் ஆயுள் குறைந்து விரைவில் கெடுவான்."
+        ],
+        "quiz_options_en": [
+          "The outflow must not be excess No matter how small income is",
+          "Let fortunes go; yet kinsmen know The old accustomed love to show",
+          "Watch like treasure freedom from fault Our fatal foe is that default",
+          "As men the king a tyrant call His days dwindled, hasten his fall"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (குற்றங்கடிதல்) பகுதியில் குறள் 434 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: குற்றமே ஒருவனுக்கு அழிவை உண்டாக்கும் பகையாகும், ஆகையால் குற்றம் செய்யாமல் இருப்பதே நோக்கமாகக் கொண்டு காத்துக் கொள்ள வேண்டும். பரிமேலழகர் உரை நுட்பம்: அற்றம் தருஉம் பகை குற்றமே - தனக்கு இறுதி பயக்கும் பகை குற்றமே, குற்றமே பொருளாகக் காக்க - ஆகலான், அக்குற்றம் தன்கண் வாராமையே பயனாகக் கொண்டு காக்க வேண்டும். (இவைபற்றி அல்லது பகைவர் அற்றம் தாராமையின் 'இவையே பகையாவன' என்னும் வடநூலார் மதம் பற்றி, 'குற்றம் அற்றம...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 44: 'The Correction of Faults'), Kural 434 distills a foundational ethical insight: \"Freedom from faults is wealth; watch heedfully'Gainst these, for fault is fatal enmity\" Philosophically, Guard against faults as a matter (of great consequence; for) faults are a deadly enemy.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "wealth",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 435,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: குற்றம் நேர்வதற்கு முன்னமே வராமல் காத்துக் கொள்ளாதவனுடைய வாழ்க்கை, நெருப்பின் முன் நின்ற வைக்கோல் போர் போல் அழிந்துவிடும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The prosperity of him who does not timely guard against faults, will perish like straw before fire.",
+        "story_title_ta": "குற்றங்கடிதல் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Correction of Faults — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'குற்றங்கடிதல்' என்ற அதிகாரத்திலிருந்து குறள் 435 பற்றிக் கதை சொன்னார். 'தனக்கு ஒரு குற்றம் வருவதற்கு முன்பே வராமல் காத்துக் கொள்ளாத அரசு, நெருப்பிற்கு முன் வைக்கப்பட்ட வைக்கோல் போல அழிந்துபோகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 44, 'The Correction of Faults', centered on Kural 435: The prosperity of him who does not timely guard against faults, will perish like straw before fire. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: முன்கூட்டியே எச்சரிக்கையாக இருந்து ஒரு தவறான செயலைத் தவிர்த்துக் கொள்ளாதவருடைய வாழ்க்கையானது நெருப்பின் முன்னால் உள்ள வைக்கோல் போர் போலக் கருகிவிடும்.",
+        "moral_en": "Moral: His joy who guards not 'gainst the coming evil day, Like straw before the fire shall swift consume away.",
+        "game_blank_word_ta": "காவாதான்",
+        "game_options_ta": [
+          "செருக்குஞ்",
+          "சினமும்",
+          "சிறுமையும்",
+          "காவாதான்"
+        ],
+        "game_options_en": [
+          "Plenty is their prosperity Who're free from wrath pride lust petty",
+          "Mean pride, low pleasure, avarice These add blemishes to a prince",
+          "Though millet-small their faults might seem Men fearing disgrace, Palm-tall deem",
+          "Who fails to guard himself from flaw Loses his life like flame-lit straw"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குற்றங்கடிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 435, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தனக்கு ஒரு குற்றம் வருவதற்கு முன்பே வராமல் காத்துக் கொள்ளாத அரசு, நெருப்பிற்கு முன் வைக்கப்பட்ட வைக்கோல் போல அழிந்துபோகும். கலைஞர் உரை கூறுவது: முன்கூட்டியே எச்சரிக்கையாக இருந்து ஒரு தவறான செயலைத் தவிர்த்துக் கொள்ளாதவருடைய வாழ்க்கையானது நெருப்பின் முன்னால் உள்ள வைக்கோல் போர் போலக் கருகிவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Correction of Faults (Royalty & Polity), Kural 435 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The prosperity of him who does not timely guard against faults, will perish like straw before fire. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'குற்றங்கடிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Correction of Faults' thoughtfully.",
+        "quiz_question_ta": "'குற்றங்கடிதல்' அதிகாரத்தில் வரும் திருக்குறள் 435 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 435 from Chapter 'The Correction of Faults'?",
+        "quiz_options_ta": [
+          "பொருளின் அளவு அறிந்து வாழாதவனுடைய வாழ்க்கை (பல வளமும்) இருப்பது போல் தோன்றி இல்லாமல் மறைந்து கெட்டு விடும்.",
+          "அன்பு நீங்காத சுற்றம் ஒருவனுக்குக் கிடைத்தால், அது மேன்மேலும் வளர்ச்சி குறையாத ஆக்கம் பலவற்றையும் அவனுக்குக் கொடுக்கும்.",
+          "எளிதில் காணமுடியாத அருமையும், இனிமையற்ற முகமும் உடையவனது பெரிய செல்வம், பேய் கண்டு காத்திருப்பதைப் போன்ற தன்மையுடையது.",
+          "குற்றம் நேர்வதற்கு முன்னமே வராமல் காத்துக் கொள்ளாதவனுடைய வாழ்க்கை, நெருப்பின் முன் நின்ற வைக்கோல் போர் போல் அழிந்துவிடும்."
+        ],
+        "quiz_options_en": [
+          "Who does not know to live in bounds His life seems rich but thins and ends",
+          "The gift of loving Kins bestows Fadeless fortune's fresh flowers",
+          "Whose sight is scarce, whose face is foul His wealth seems watched by a ghoul",
+          "Who fails to guard himself from flaw Loses his life like flame-lit straw"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (குற்றங்கடிதல்) பகுதியில் குறள் 435 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: குற்றம் நேர்வதற்கு முன்னமே வராமல் காத்துக் கொள்ளாதவனுடைய வாழ்க்கை, நெருப்பின் முன் நின்ற வைக்கோல் போர் போல் அழிந்துவிடும். பரிமேலழகர் உரை நுட்பம்: வருமுன்னர்க் காவாதான் வாழ்க்கை - குற்றம் வரக்கடவதாகின்ற முற்காலத்திலே அதனைக் காவாத அரசன் வாழ்க்கை, எரி முன்னர் வைத்தூறு போலக் கெடும் - அது வந்தால் எரிமுகத்து நின்ற வைக்குவை போல அழிந்து விடும். ('குற்றம்' என்பது அதிகாரத்தான் வந்தது. முன்னர் என்றதன் ஈற்றது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 44: 'The Correction of Faults'), Kural 435 distills a foundational ethical insight: \"His joy who guards not 'gainst the coming evil day, Like straw before the fire shall swift consume away\" Philosophically, The prosperity of him who does not timely guard against faults, will perish like straw before fire.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "justice",
+        "wealth",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 436,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: முன்னே தன் குற்றத்தைக் கண்டு நீக்கி பிறகு பிறருடையக் குற்றத்தை ஆராயவல்லவனானால், தலைவனுக்கு என்ன குற்றமாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: What fault will remain in the king who has put away his own evils, and looks after the evils of others.",
+        "story_title_ta": "குற்றங்கடிதல் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Correction of Faults — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'குற்றங்கடிதல்' என்ற அதிகாரத்திலிருந்து குறள் 436 பற்றிக் கதை சொன்னார். 'முதலில் தன் குற்றத்தைக் கண்டு விலக்கிப் பிறகு அடுத்தவர் குற்றத்தைக் காணும் ஆற்றல் மிக்க அரசிற்குக் குற்றம் ஏதும் வராது!' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 44, 'The Correction of Faults', centered on Kural 436: What fault will remain in the king who has put away his own evils, and looks after the evils of others. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: முதலில் தனக்குள்ள குறையை நீக்கிக் கொண்டு அதன் பின்னர் பிறர் குறையைக் கண்டு சொல்லும் தலைவனுக்கு என்ன குறை நேரும்?",
+        "moral_en": "Moral: Faultless the king who first his own faults cures, and thenPermits himself to scan faults of other men.",
+        "game_blank_word_ta": "பிறர்குற்றங்",
+        "game_options_ta": [
+          "பிறர்குற்றங்",
+          "செருக்குஞ்",
+          "சினமும்",
+          "சிறுமையும்"
+        ],
+        "game_options_en": [
+          "What fault can be the king's who cures First his faults, then scans others",
+          "Plenty is their prosperity Who're free from wrath pride lust petty",
+          "Mean pride, low pleasure, avarice These add blemishes to a prince",
+          "Though millet-small their faults might seem Men fearing disgrace, Palm-tall deem"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குற்றங்கடிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 436, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முதலில் தன் குற்றத்தைக் கண்டு விலக்கிப் பிறகு அடுத்தவர் குற்றத்தைக் காணும் ஆற்றல் மிக்க அரசிற்குக் குற்றம் ஏதும் வராது! கலைஞர் உரை கூறுவது: முதலில் தனக்குள்ள குறையை நீக்கிக் கொண்டு அதன் பின்னர் பிறர் குறையைக் கண்டு சொல்லும் தலைவனுக்கு என்ன குறை நேரும்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Correction of Faults (Royalty & Polity), Kural 436 speaks directly to teens navigating studies, friendships, leadership, and digital choices: What fault will remain in the king who has put away his own evils, and looks after the evils of others. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'குற்றங்கடிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Correction of Faults' thoughtfully.",
+        "quiz_question_ta": "'குற்றங்கடிதல்' அதிகாரத்தில் வரும் திருக்குறள் 436 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 436 from Chapter 'The Correction of Faults'?",
+        "quiz_options_ta": [
+          "முன்னே தன் குற்றத்தைக் கண்டு நீக்கி பிறகு பிறருடையக் குற்றத்தை ஆராயவல்லவனானால், தலைவனுக்கு என்ன குற்றமாகும்.",
+          "தனக்கு பொருள் உள்ள அளவை ஆராயாமல் மேற்கொள்ளும் ஒப்புரவினால், ஒருவனுடைய செல்வத்தின் அளவு விரைவில் கெடும்.",
+          "சுற்றத்தாரோடு மனம் கலந்து பழகும் தன்மை இல்லாதவனுடைய வாழ்க்கை, குளப்பரப்பானது கரையில்லாமல் நீர் நிறைந்தாற் போன்றது.",
+          "கடுஞ்சொல் உடையவனாய்க் கண்ணோட்டம் இல்லாதவனாய் உள்ளவனுடைய பெரிய செல்வம் நீடித்தல் இல்லாமல் அப்பொழுதே கெடும்."
+        ],
+        "quiz_options_en": [
+          "What fault can be the king's who cures First his faults, then scans others",
+          "Wealth amassed quickly vanishes Sans level if one lavishes",
+          "A kinless wealth is like a tank Which overflows without a bank",
+          "Whose word is harsh, whose sight is rude His wealth and power quickly fade"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (குற்றங்கடிதல்) பகுதியில் குறள் 436 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முன்னே தன் குற்றத்தைக் கண்டு நீக்கி பிறகு பிறருடையக் குற்றத்தை ஆராயவல்லவனானால், தலைவனுக்கு என்ன குற்றமாகும். பரிமேலழகர் உரை நுட்பம்: தன் குற்றம் நீக்கிப் பிறர் குற்றம் காண்கிற்பின் - முன்னர்த்தன் குற்றத்தைக் கண்டு கடிந்து, பின்னர்ப் பிறர் குற்றங்காண வல்லனாயின், இறைக்கு ஆகும் குற்றம் என் - அரசனுக்கு ஆகக்கடவ குற்றம் யாது? (அரசனுக்குத் தன் குற்றம் கடியா வழியே பிறர் குற்றம் கடிதல் குற்றமாம...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 44: 'The Correction of Faults'), Kural 436 distills a foundational ethical insight: \"Faultless the king who first his own faults cures, and thenPermits himself to scan faults of other men\" Philosophically, What fault will remain in the king who has put away his own evils, and looks after the evils of others.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "family",
+        "love",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 437,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: செய்யத்தக்க நன்மைகளைச் செய்யாமல் பொருளைச் சேர்த்து வைத்திருப்பவனுடைய செல்வம், உய்யுந் தன்மை இல்லாமல் அழியும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The wealth of the avaricious man, who does not expend it for the purposes for which he ought to expend it will waste away and not continue.",
+        "story_title_ta": "குற்றங்கடிதல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Correction of Faults — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'குற்றங்கடிதல்' என்ற அதிகாரத்திலிருந்து குறள் 437 பற்றிக் கதை சொன்னார். 'செல்வத்தால் தனக்குச் செய்து கொள்ள வேண்டியவற்றைப் பொருள்மீது கொண்ட பற்றினால் செய்யாமல், கஞ்சனாய் வாழும் ஆட்சியாளனின் செல்வம் வீணே கெட்டு, அழிந்து போகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 44, 'The Correction of Faults', centered on Kural 437: The wealth of the avaricious man, who does not expend it for the purposes for which he ought to expend it will waste away and not continue. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நற்பணிகளைச் செய்யாமல் சேமித்து வைக்கப்படும் கருமியின் செல்வம் பயன் ஏதுமின்றிப் பாழாகிவிடும்.",
+        "moral_en": "Moral: Who leaves undone what should be done, with niggard mind, His wealth shall perish, leaving not a wrack behind.",
+        "game_blank_word_ta": "செல்வம்",
+        "game_options_ta": [
+          "செருக்குஞ்",
+          "செல்வம்",
+          "சினமும்",
+          "சிறுமையும்"
+        ],
+        "game_options_en": [
+          "Plenty is their prosperity Who're free from wrath pride lust petty",
+          "That miser's wealth shall waste and end Who would not for a good cause spend",
+          "Mean pride, low pleasure, avarice These add blemishes to a prince",
+          "Though millet-small their faults might seem Men fearing disgrace, Palm-tall deem"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குற்றங்கடிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 437, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செல்வத்தால் தனக்குச் செய்து கொள்ள வேண்டியவற்றைப் பொருள்மீது கொண்ட பற்றினால் செய்யாமல், கஞ்சனாய் வாழும் ஆட்சியாளனின் செல்வம் வீணே கெட்டு, அழிந்து போகும். கலைஞர் உரை கூறுவது: நற்பணிகளைச் செய்யாமல் சேமித்து வைக்கப்படும் கருமியின் செல்வம் பயன் ஏதுமின்றிப் பாழாகிவிடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Correction of Faults (Royalty & Polity), Kural 437 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The wealth of the avaricious man, who does not expend it for the purposes for which he ought to expend it will waste away and not continue. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'குற்றங்கடிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Correction of Faults' thoughtfully.",
+        "quiz_question_ta": "'குற்றங்கடிதல்' அதிகாரத்தில் வரும் திருக்குறள் 437 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 437 from Chapter 'The Correction of Faults'?",
+        "quiz_options_ta": [
+          "காக்கை தன்னைவிட வலிய கோட்டானைப் பகலில் வென்றுவிடும், அதுபோல் பகையை வெல்லக்கருதும் அரசர்க்கும் அதற்கு ஏற்ற காலம் வேண்டும்.",
+          "செய்யத்தக்க நன்மைகளைச் செய்யாமல் பொருளைச் சேர்த்து வைத்திருப்பவனுடைய செல்வம், உய்யுந் தன்மை இல்லாமல் அழியும்.",
+          "தக்கவழியில் செய்யப்படாத முயற்சி பலர் துணையாக நின்று(அதை முடிக்குமாறு) காத்த போதிலும் குறையாகிவிடும்.",
+          "கடுமையான சொல்லும் முறைகடந்த தண்டனையும் அரசனுடைய வெற்றிக்கு காரணமான வலிமையைத் தேய்க்கும் அரம் ஆகும்."
+        ],
+        "quiz_options_en": [
+          "By day the crow defeats the owl Kings need right time their foes to quell",
+          "That miser's wealth shall waste and end Who would not for a good cause spend",
+          "The fruit of growing wealth is gained When kith and kin are happy found",
+          "Reproofs rough and punishments rude Like files conquering power corrode"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (குற்றங்கடிதல்) பகுதியில் குறள் 437 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செய்யத்தக்க நன்மைகளைச் செய்யாமல் பொருளைச் சேர்த்து வைத்திருப்பவனுடைய செல்வம், உய்யுந் தன்மை இல்லாமல் அழியும். பரிமேலழகர் உரை நுட்பம்: செயற்பால செய்யாது இவறியான் செல்வம் - பொருளால் தனக்குச் செய்து கொள்ளப்படும் அவற்றைச் செய்து கொள்ளாது அதன்கண் பற்றுள்ளம் செய்தானது செல்வம் உயற்பாலது அன்றிக் கெடும் - பின் உளதாம்பான்மைத்து அன்றி வறிதே கெடும். (செயற்பால ஆவன: அறம் பொருள் இன்பங்கள். பொருளாற் பொருள...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 44: 'The Correction of Faults'), Kural 437 distills a foundational ethical insight: \"Who leaves undone what should be done, with niggard mind, His wealth shall perish, leaving not a wrack behind\" Philosophically, The wealth of the avaricious man, who does not expend it for the purposes for which he ought to expend it will waste away and not continue.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "kindness",
+        "leadership",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 438,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பொருளினிடத்தில் பற்றுக் கொள்ளும் உள்ளமாகிய ஈயாத்தன்மை, குற்றம் எதனோடும் சேர்ந்து எண்ணத்தகாத ஒரு தனிக் குற்றமாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Griping avarice is not to be reckoned as one among other faults; (it stands alone - greater than all).",
+        "story_title_ta": "குற்றங்கடிதல் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Correction of Faults — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'குற்றங்கடிதல்' என்ற அதிகாரத்திலிருந்து குறள் 438 பற்றிக் கதை சொன்னார். 'செலவிட வேண்டியவற்றிற்குச் செலவிடாமல் செல்வத்தின் மீது ஆசை கொண்ட கஞ்ச மனத்தைப் பெற்றிருப்பது குற்றங்கள் எல்லாவற்றிலும் கொடிய குற்றமாகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 44, 'The Correction of Faults', centered on Kural 438: Griping avarice is not to be reckoned as one among other faults; (it stands alone - greater than all). Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எல்லாக் குற்றங்களையும்விடத் தனிப்பெருங் குற்றமாகக் கருதப்படுவது பொருள் சேர்ப்பதில் பற்றுக்கொண்டு எவருக்கும் எதுவும் ஈயாமல் வாழ்வதுதான்.",
+        "moral_en": "Moral: The greed of soul that avarice men call, When faults are summed, is worst of all.",
+        "game_blank_word_ta": "எண்ணப்",
+        "game_options_ta": [
+          "செருக்குஞ்",
+          "சினமும்",
+          "எண்ணப்",
+          "சிறுமையும்"
+        ],
+        "game_options_en": [
+          "Plenty is their prosperity Who're free from wrath pride lust petty",
+          "Mean pride, low pleasure, avarice These add blemishes to a prince",
+          "The gripping greed of miser's heart Is more than fault the worst apart",
+          "Though millet-small their faults might seem Men fearing disgrace, Palm-tall deem"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குற்றங்கடிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 438, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செலவிட வேண்டியவற்றிற்குச் செலவிடாமல் செல்வத்தின் மீது ஆசை கொண்ட கஞ்ச மனத்தைப் பெற்றிருப்பது குற்றங்கள் எல்லாவற்றிலும் கொடிய குற்றமாகும். கலைஞர் உரை கூறுவது: எல்லாக் குற்றங்களையும்விடத் தனிப்பெருங் குற்றமாகக் கருதப்படுவது பொருள் சேர்ப்பதில் பற்றுக்கொண்டு எவருக்கும் எதுவும் ஈயாமல் வாழ்வதுதான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Correction of Faults (Royalty & Polity), Kural 438 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Griping avarice is not to be reckoned as one among other faults; (it stands alone - greater than all). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'குற்றங்கடிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Correction of Faults' thoughtfully.",
+        "quiz_question_ta": "'குற்றங்கடிதல்' அதிகாரத்தில் வரும் திருக்குறள் 438 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 438 from Chapter 'The Correction of Faults'?",
+        "quiz_options_ta": [
+          "காலத்தோடுப் பொருந்துமாறு ஆராய்ந்து நடத்தல் ( நில்லாத இயல்பு உடைய) செல்வத்தை நீங்காமல் நிற்குமாறு கட்டும் கயிறாகும்.",
+          "பொருள் கொடுத்தலும் இன்சொல் கூறுதலுமாகிய இரண்டும் செய்யவல்லவனானால் ஒருவன் தொடர்ந்த பலச் சுற்றத்தால் சூழப்படுவான்.",
+          "பொருளினிடத்தில் பற்றுக் கொள்ளும் உள்ளமாகிய ஈயாத்தன்மை, குற்றம் எதனோடும் சேர்ந்து எண்ணத்தகாத ஒரு தனிக் குற்றமாகும்.",
+          "அமைச்சர் முதலான தன் இனத்தாரிடம் கலந்து எண்ணாத அரசன், சினத்தின் வழியில் சென்று சீறி நிற்பானானால், அவனுடைய செல்வம் சுருங்கும்."
+        ],
+        "quiz_options_en": [
+          "Well-ordered seasoned act is cord That fortune binds in bon accord",
+          "Loving words and liberal hand Encircle kith and kin around",
+          "The gripping greed of miser's heart Is more than fault the worst apart",
+          "The king who would not take counsels Rages with wrath-his fortune fails"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (குற்றங்கடிதல்) பகுதியில் குறள் 438 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருளினிடத்தில் பற்றுக் கொள்ளும் உள்ளமாகிய ஈயாத்தன்மை, குற்றம் எதனோடும் சேர்ந்து எண்ணத்தகாத ஒரு தனிக் குற்றமாகும். பரிமேலழகர் உரை நுட்பம்: பற்றுள்ளம் என்னும் இவறன்மை -பொருளை விடத்தகும் இடத்து விடாது பற்றுதலைச் செய்யும் உள்ளம் ஆகிய உலோபத்தினது தன்மை, எற்றுள்ளும் எண்ணப்படுவது ஒன்று அன்று - குற்றத் தன்மைகள் எல்லாவற்றுள்ளும் வைத்து எண்ணப்படுவது ஒன்று அன்று , மிக்கது. (இவறலது தன்மையாவது : குணங்கள...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 44: 'The Correction of Faults'), Kural 438 distills a foundational ethical insight: \"The greed of soul that avarice men call, When faults are summed, is worst of all\" Philosophically, Griping avarice is not to be reckoned as one among other faults; (it stands alone - greater than all).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "education",
+        "love",
+        "self-mastery",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 439,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: எக்காலத்திலும் தன்னை மிக உயர்வாக எண்ணி வியந்து மதிக்கக் கூடாது, நன்மை தராத செயலைத்தான் விரும்பவும் கூடாது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Let no (one) praise himself, at any time; let him not desire to do useless things.",
+        "story_title_ta": "குற்றங்கடிதல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Correction of Faults — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'குற்றங்கடிதல்' என்ற அதிகாரத்திலிருந்து குறள் 439 பற்றிக் கதை சொன்னார். 'எவ்வளவு பெரிதாக வளர்ந்தாலும் அகங்காரம் கொண்டு பெரிதாகப் பேசாதே; நாட்டுக்கும் ஆட்சிக்கும் நன்மை தராத செயல்களைச் செய்ய விரும்பாதே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 44, 'The Correction of Faults', centered on Kural 439: Let no (one) praise himself, at any time; let him not desire to do useless things. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எந்தவொரு காலகட்டத்திலும் தன்னைத்தானே உயர்வாக எண்ணிடும் தற்பெருமைகொண்டு நன்மை தராத செயல்களில் ஈடுபடக் கூடாது.",
+        "moral_en": "Moral: Never indulge in self-complaisant mood, Nor deed desire that yields no gain of good.",
+        "game_blank_word_ta": "எஞ்ஞான்றும்",
+        "game_options_ta": [
+          "செருக்குஞ்",
+          "சினமும்",
+          "சிறுமையும்",
+          "எஞ்ஞான்றும்"
+        ],
+        "game_options_en": [
+          "Plenty is their prosperity Who're free from wrath pride lust petty",
+          "Mean pride, low pleasure, avarice These add blemishes to a prince",
+          "Though millet-small their faults might seem Men fearing disgrace, Palm-tall deem",
+          "Never boast yourself in any mood Nor do a deed that does no good"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குற்றங்கடிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 439, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எவ்வளவு பெரிதாக வளர்ந்தாலும் அகங்காரம் கொண்டு பெரிதாகப் பேசாதே; நாட்டுக்கும் ஆட்சிக்கும் நன்மை தராத செயல்களைச் செய்ய விரும்பாதே. கலைஞர் உரை கூறுவது: எந்தவொரு காலகட்டத்திலும் தன்னைத்தானே உயர்வாக எண்ணிடும் தற்பெருமைகொண்டு நன்மை தராத செயல்களில் ஈடுபடக் கூடாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Correction of Faults (Royalty & Polity), Kural 439 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let no (one) praise himself, at any time; let him not desire to do useless things. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'குற்றங்கடிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Correction of Faults' thoughtfully.",
+        "quiz_question_ta": "'குற்றங்கடிதல்' அதிகாரத்தில் வரும் திருக்குறள் 439 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 439 from Chapter 'The Correction of Faults'?",
+        "quiz_options_ta": [
+          "(செய்யும் செயலை முடிப்பதற்கு வேண்டிய) கருவிகளுடன் ஏற்றக் காலத்தையும் அறிந்து செய்தால் அரிய செயல்கள் என்பது உண்டோ.",
+          "பெரிய கொடையாளியாகவும் சினமற்றவனாகவும் ஒருவன் இருந்தால் அவனைப் போல் சுற்றத்தாரை உடையவர் உலகத்தில் யாரும் இல்லை.",
+          "முன்னமே தக்கவாறு அரண் செய்து கொள்ளாத அரசன் போர் வந்த காலத்தில் (தற்காப்பு இல்லாமல்) அஞ்சி விரைவில் அழிவான்.",
+          "எக்காலத்திலும் தன்னை மிக உயர்வாக எண்ணி வியந்து மதிக்கக் கூடாது, நன்மை தராத செயலைத்தான் விரும்பவும் கூடாது."
+        ],
+        "quiz_options_en": [
+          "What is hard for him who acts With proper means and time and tacts?",
+          "Large giver and wrathless man Commands on earth countless kinsmen",
+          "The king who builds not fort betimes Fears his foes in wars and dies",
+          "Never boast yourself in any mood Nor do a deed that does no good"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (குற்றங்கடிதல்) பகுதியில் குறள் 439 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எக்காலத்திலும் தன்னை மிக உயர்வாக எண்ணி வியந்து மதிக்கக் கூடாது, நன்மை தராத செயலைத்தான் விரும்பவும் கூடாது. பரிமேலழகர் உரை நுட்பம்: எஞ்ஞான்றும் தன்னை வியவற்க - தான் இறப்ப உயர்ந்த ஞான்றும் மதத்தால் தன்னை நன்கு மதியாது ஒழிக, நன்றி பயவா வினை நயவற்க - தனக்கு நன்மை பயவா வினைகளை மனத்தால் விரும்பாது ஒழிக. (தன்னை வியந்துழி இடமும் காலமும் வலியும் அறியப்படாமை யானும் , அறனும் பொருளும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 44: 'The Correction of Faults'), Kural 439 distills a foundational ethical insight: \"Never indulge in self-complaisant mood, Nor deed desire that yields no gain of good\" Philosophically, Let no (one) praise himself, at any time; let him not desire to do useless things.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "gratitude",
+        "speech",
+        "leadership",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 440,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தன் விருப்பம் பிறர்க்கு தெரியாதபடி விருப்பமான வற்றை நுகர வல்லவனானால், பகைவர் தன்னை வஞ்சிப்பதற்காகச் செய்யும் சூழ்ச்சிகள் பலிக்காமல் போகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: If (a king) enjoys, privately the things which he desires, the designs of his enemies will be useless.",
+        "story_title_ta": "குற்றங்கடிதல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Correction of Faults — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'குற்றங்கடிதல்' என்ற அதிகாரத்திலிருந்து குறள் 440 பற்றிக் கதை சொன்னார். 'தான் செய்ய எண்ணியவற்றைப் பிறர் முன்னதாகவே அறிந்துவிடாதபடி காத்தால், அவனை அழிக்க எண்ணும் பகைவர் எண்ணம் பழுதுபடும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 44, 'The Correction of Faults', centered on Kural 440: If (a king) enjoys, privately the things which he desires, the designs of his enemies will be useless. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தமது விருப்பத்தைப் பகைவர் அறிந்து கொள்ள முடியாமல் நிறைவேற்றுபவரிடம் அந்தப் பகைவரின் எண்ணம் பலிக்காமற் போய்விடும்.",
+        "moral_en": "Moral: If, to your foes unknown, you cherish what you love, Counsels of men who wish you harm will harmless prove.",
+        "game_blank_word_ta": "அறியாமை",
+        "game_options_ta": [
+          "அறியாமை",
+          "செருக்குஞ்",
+          "சினமும்",
+          "சிறுமையும்"
+        ],
+        "game_options_en": [
+          "All designs of the foes shall fail If one his wishes guards in veil",
+          "Plenty is their prosperity Who're free from wrath pride lust petty",
+          "Mean pride, low pleasure, avarice These add blemishes to a prince",
+          "Though millet-small their faults might seem Men fearing disgrace, Palm-tall deem"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குற்றங்கடிதல் (அரசியல்) பிரிவில் அமைந்த குறள் 440, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தான் செய்ய எண்ணியவற்றைப் பிறர் முன்னதாகவே அறிந்துவிடாதபடி காத்தால், அவனை அழிக்க எண்ணும் பகைவர் எண்ணம் பழுதுபடும். கலைஞர் உரை கூறுவது: தமது விருப்பத்தைப் பகைவர் அறிந்து கொள்ள முடியாமல் நிறைவேற்றுபவரிடம் அந்தப் பகைவரின் எண்ணம் பலிக்காமற் போய்விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Correction of Faults (Royalty & Polity), Kural 440 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If (a king) enjoys, privately the things which he desires, the designs of his enemies will be useless. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'குற்றங்கடிதல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'The Correction of Faults' thoughtfully.",
+        "quiz_question_ta": "'குற்றங்கடிதல்' அதிகாரத்தில் வரும் திருக்குறள் 440 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 440 from Chapter 'The Correction of Faults'?",
+        "quiz_options_ta": [
+          "தன் விருப்பம் பிறர்க்கு தெரியாதபடி விருப்பமான வற்றை நுகர வல்லவனானால், பகைவர் தன்னை வஞ்சிப்பதற்காகச் செய்யும் சூழ்ச்சிகள் பலிக்காமல் போகும்.",
+          "(செயலை முடிப்பதற்கு ஏற்ற) காலத்தை அறிந்து இடத்தோடு பொருந்துமாறு செய்தால், உலகமே வேண்டும் எனக் கருதினாலும் கைகூடும்.",
+          "காக்கை (தனக்கு கிடைத்ததை) மறைத்து வைக்காமல் சுற்றத்தைக் கூவி அழைத்து உண்ணும். ஆக்கமும் அத்தகைய இயல்பு உடையவர்க்கே உண்டு.",
+          "கடுங்கோலாகிய ஆட்சிமுறை கல்லாதவரைத் தனக்கு அரணாகச் சேர்த்துக் கொள்ளும், அது தவிர நிலத்திற்கு சுமை வேறு இல்லை."
+        ],
+        "quiz_options_en": [
+          "All designs of the foes shall fail If one his wishes guards in veil",
+          "Choose proper time and act and place Even the world you win with ease",
+          "The crows hide not; thy call and eat Welfare abides a man of heart",
+          "The crushing burden borne by earth Is tyrants bound to fools uncouth"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (குற்றங்கடிதல்) பகுதியில் குறள் 440 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன் விருப்பம் பிறர்க்கு தெரியாதபடி விருப்பமான வற்றை நுகர வல்லவனானால், பகைவர் தன்னை வஞ்சிப்பதற்காகச் செய்யும் சூழ்ச்சிகள் பலிக்காமல் போகும். பரிமேலழகர் உரை நுட்பம்: காதல காதல் அறியாமை உய்க்கிற்பின் - தான் காதலித்த பொருள்களை அவர் அக்காதல் அறியாமல் அனுபவிக்க வல்லனாயின், ஏதிலார் நூல் ஏதில் - பகைவர் தன்னை வஞ்சித்தற்கு எண்ணும் எண்ணம் பழுதாம். (அறிந்தவழி அவை வாயிலாகப் புகுந்து வஞ்சிப்பர் ஆகலின், அறியாமல் உய்த்தால் வாயில...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 44: 'The Correction of Faults'), Kural 440 distills a foundational ethical insight: \"If, to your foes unknown, you cherish what you love, Counsels of men who wish you harm will harmless prove\" Philosophically, If (a king) enjoys, privately the things which he desires, the designs of his enemies will be useless.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "education",
+        "courage",
+        "love",
+        "leadership"
+      ]
+    }
+  ]
+}

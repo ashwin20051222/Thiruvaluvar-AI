@@ -1,0 +1,581 @@
+{
+  "adhikaram_id": 85,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.242388168+00:00",
+  "kurals": [
+    {
+      "kural_number": 841,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அறியாமையே இல்லாமைப் பலவற்றுளளும் கொடிய இல்லாமையாகும், மற்ற இல்லாமைகளை உலகம் அத்தகைய இல்லாமையாகக் கருதாது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: The want of wisdom is the greatest of all wants; but that of wealth the world will not regard as such.",
+        "story_title_ta": "புல்லறிவாண்மை — நிலா கற்ற பாடம்",
+        "story_title_en": "Ignorance — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'புல்லறிவாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 841 பற்றிக் கதை சொன்னார். 'இல்லாமை பலவற்றுள்ளும் இல்லாமை, அறிவு இல்லாமல் இருத்தலே, பிற இல்லாமையைப் பெரியோர் இல்லாமையாகக் கருதமாட்டார்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 85, 'Ignorance', centered on Kural 841: The want of wisdom is the greatest of all wants; but that of wealth the world will not regard as such. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அறிவுப் பஞ்சம்தான் மிகக் கொடுமையான பஞ்சமாகும் மற்ற பஞ்சங்களைக்கூட உலகம் அவ்வளவாகப் பொருட்படுத்தாது.",
+        "moral_en": "Moral: Want of knowledge, 'mid all wants the sorest want we deem; Want of other things the world will not as want esteem.",
+        "game_blank_word_ta": "இன்மையுள்",
+        "game_options_ta": [
+          "அறிவிலான்",
+          "இன்மையுள்",
+          "நெஞ்சுவந்து",
+          "ஈதல்"
+        ],
+        "game_options_en": [
+          "When fool bestows with glee a gift It comes but by getter's merit",
+          "Want of wisdom is want of wants Want of aught else the world nev'r counts",
+          "The self-torments of fools exceed Ev'n tortures of their foes indeed",
+          "Stupidity is vanity That cries \\\"We have sagacity\\\""
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புல்லறிவாண்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 841, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இல்லாமை பலவற்றுள்ளும் இல்லாமை, அறிவு இல்லாமல் இருத்தலே, பிற இல்லாமையைப் பெரியோர் இல்லாமையாகக் கருதமாட்டார். கலைஞர் உரை கூறுவது: அறிவுப் பஞ்சம்தான் மிகக் கொடுமையான பஞ்சமாகும் மற்ற பஞ்சங்களைக்கூட உலகம் அவ்வளவாகப் பொருட்படுத்தாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Ministers & Elements of State), Kural 841 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The want of wisdom is the greatest of all wants; but that of wealth the world will not regard as such. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'புல்லறிவாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'புல்லறிவாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 841 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 841 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "உறவுமுறையோடு உட்பகை உண்டாகுமானால், அது ஒருவனுக்கு இறக்கும் வகையான துன்பம் பலவற்றையும் கொடுக்கும்.",
+          "அறியாமையே இல்லாமைப் பலவற்றுளளும் கொடிய இல்லாமையாகும், மற்ற இல்லாமைகளை உலகம் அத்தகைய இல்லாமையாகக் கருதாது.",
+          "கள்ளுண்பவன் யான் ஒருபோதும் கள்ளுண்டறியேன் என்று சொல்வதை விட வேண்டும், நெஞ்சில் ஒளிந்திருந்த குற்றமும் கள்ளுண்டபோதே வெளிப்படும்.",
+          "ஒருவனுக்கு ஒளி ஊக்கமிகுதியே ஆகும், ஒருவனுக்கு இழிவு அந்த ஊக்கம் இல்லாமலேயே உயிர்வாழலாம் என்று எண்ணுதலாம்."
+        ],
+        "quiz_options_en": [
+          "A traitor among kinsmen will Bring life-endangering evil",
+          "Want of wisdom is want of wants Want of aught else the world nev'r counts",
+          "Don't say I'm not a drunkard hard The hidden fraud is known abroad",
+          "A heart of courage lives in light Devoid of that one's life is night"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (புல்லறிவாண்மை) பகுதியில் குறள் 841 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறியாமையே இல்லாமைப் பலவற்றுளளும் கொடிய இல்லாமையாகும், மற்ற இல்லாமைகளை உலகம் அத்தகைய இல்லாமையாகக் கருதாது. பரிமேலழகர் உரை நுட்பம்: இன்மையுள் இன்மை அறிவின்மை - ஒருவனுக்கு இல்லாமை பலவற்றுள்ளும் மிக்க இல்லாமையாவது அறிவில்லாமை; பிறிது இன்மை இன்மையா வையாது உலகு - மற்றைப்பொருள் இல்லாமை யோவெனின், அதனை அப்பெற்றித்தாய் இல்லாமையாகக் கொள்ளார் உலகத்தார். (அறிவு என்பது ஈண்டுத் தலைமைபற்றி...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 85: 'Ignorance'), Kural 841 distills a foundational ethical insight: \"Want of knowledge, 'mid all wants the sorest want we deem; Want of other things the world will not as want esteem\" Philosophically, The want of wisdom is the greatest of all wants; but that of wealth the world will not regard as such.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "harmony",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 842,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அறிவில்லாதவவன் மனம் மகிழ்ந்து ஒரு பொருளைக் கொடுத்தலுக்கு காரணம், வேறொன்றும் இல்லை, அப் பொருளைப் பெறுகின்றவனுடைய நல்வினையே ஆகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: (The cause of) a fool cheerfully giving (something) is nothing else but the receiver's merit (in a former birth).",
+        "story_title_ta": "புல்லறிவாண்மை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Ignorance — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'புல்லறிவாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 842 பற்றிக் கதை சொன்னார். 'அறிவற்றவன் மனம் மகிழ்ந்து ஒன்றைப் பிறர்க்குத் தந்தால், அது பெறுகின்றவன் செய்த நல்வினையே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 85, 'Ignorance', centered on Kural 842: (The cause of) a fool cheerfully giving (something) is nothing else but the receiver's merit (in a former birth). Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அறிவில்லாத ஒருவன் வள்ளலைப்போல ஒரு பொருளை மகிழ்ச்சியுடன் வழங்குவதற்குக் காரணம் வேறொன்றுமில்லை; அது அப்பொருளைப் பெறுகிறவன் பெற்றபேறு என்றுதான் கருதவேண்டும்.",
+        "moral_en": "Moral: The gift of foolish man, with willing heart bestowed, is nought, But blessing by receiver's penance bought.",
+        "game_blank_word_ta": "ஈதல்",
+        "game_options_ta": [
+          "அறிவின்மை",
+          "இன்மையுள்",
+          "ஈதல்",
+          "இன்மை"
+        ],
+        "game_options_en": [
+          "Want of wisdom is want of wants Want of aught else the world nev'r counts",
+          "The self-torments of fools exceed Ev'n tortures of their foes indeed",
+          "When fool bestows with glee a gift It comes but by getter's merit",
+          "Stupidity is vanity That cries \\\"We have sagacity\\\""
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புல்லறிவாண்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 842, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறிவற்றவன் மனம் மகிழ்ந்து ஒன்றைப் பிறர்க்குத் தந்தால், அது பெறுகின்றவன் செய்த நல்வினையே. கலைஞர் உரை கூறுவது: அறிவில்லாத ஒருவன் வள்ளலைப்போல ஒரு பொருளை மகிழ்ச்சியுடன் வழங்குவதற்குக் காரணம் வேறொன்றுமில்லை; அது அப்பொருளைப் பெறுகிறவன் பெற்றபேறு என்றுதான் கருதவேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Ministers & Elements of State), Kural 842 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (The cause of) a fool cheerfully giving (something) is nothing else but the receiver's merit (in a former birth). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'புல்லறிவாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'புல்லறிவாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 842 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 842 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "ஒருவனுடைய உற்றாரிடத்தில் பகைமை ஏற்படுமானால், அந்த உட்பகையால் அவன் அழியாமலிருத்தல் எப்போதும் அரிது.",
+          "கள்ளுண்டு மயங்கினவனைக் காரணம் காட்டி தெளிவித்தல், நீரின் கீழ் மூழ்கின ஒருவனைத் தீவிளக்கு கொண்டு தேடினாற் போன்றது.",
+          "அறிவில்லாதவவன் மனம் மகிழ்ந்து ஒரு பொருளைக் கொடுத்தலுக்கு காரணம், வேறொன்றும் இல்லை, அப் பொருளைப் பெறுகின்றவனுடைய நல்வினையே ஆகும்.",
+          "எல்லா உயிர்க்கும் பிறப்பு ஒருத் தன்மையானதே, ஆயினும் செய்கின்ற தொழில்களின் உயர்வு தாழ்வு வேறுபாடுகளால் சிறப்பியல்பு ஒத்திருப்பதில்லை."
+        ],
+        "quiz_options_en": [
+          "Discord in kings' circle entails Life-destroying deadly evils",
+          "Can torch search one in water sunk? Can reason reach the raving drunk?",
+          "When fool bestows with glee a gift It comes but by getter's merit",
+          "All beings are the same in birth But work decides their varied worth"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (புல்லறிவாண்மை) பகுதியில் குறள் 842 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறிவில்லாதவவன் மனம் மகிழ்ந்து ஒரு பொருளைக் கொடுத்தலுக்கு காரணம், வேறொன்றும் இல்லை, அப் பொருளைப் பெறுகின்றவனுடைய நல்வினையே ஆகும். பரிமேலழகர் உரை நுட்பம்: அறிவிலான் நெஞ்சு உவந்து ஈதல் - புல்லறிவுடையான் ஒருவனுக்கு மனம் உவந்து ஒன்று கொடுத்தல் கூடிற்றாயின்; பெறுவான் தவம் பிறிது யாதும் இல்லை - அதற்குக் காரணம் பெறுகின்றவன் நல்வினையே, வேறொன்றும் இல்லை. (ஒரோ வழி நெஞ்சு உவந்து ஈதல் கூடலின் 'புல்லறிவாளரும் நல்வினை...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 85: 'Ignorance'), Kural 842 distills a foundational ethical insight: \"The gift of foolish man, with willing heart bestowed, is nought, But blessing by receiver's penance bought\" Philosophically, (The cause of) a fool cheerfully giving (something) is nothing else but the receiver's merit (in a former birth).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "self-mastery",
+        "love",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 843,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அறிவில்லாதவர் தம்மைத்தாமே துன்புறுத்தும் துன்பம் அவருடைய பகைவர்க்கும் செய்யமுடியாத அளவினதாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The suffering that fools inflict upon themselves is hardly possible even to foes.",
+        "story_title_ta": "புல்லறிவாண்மை — இனியா கற்ற பாடம்",
+        "story_title_en": "Ignorance — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'புல்லறிவாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 843 பற்றிக் கதை சொன்னார். 'அறிவு அற்றவர், தாமே நம்மை வருத்திக் கொள்ளும் வருத்தம், பகைவராலும்கூட அவருக்குச் செய்வது அரிது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 85, 'Ignorance', centered on Kural 843: The suffering that fools inflict upon themselves is hardly possible even to foes. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எதிரிகளால்கூட வழங்க முடியாத வேதனையை, அறிவில்லாதவர்கள் தங்களுக்குத் தாங்களே வழங்கிக் கொள்வார்கள்.",
+        "moral_en": "Moral: With keener anguish foolish men their own hearts wring, Than aught that even malice of their foes can bring.",
+        "game_blank_word_ta": "செறுவார்க்கும்",
+        "game_options_ta": [
+          "அறிவின்மை",
+          "இன்மையுள்",
+          "இன்மை",
+          "செறுவார்க்கும்"
+        ],
+        "game_options_en": [
+          "Want of wisdom is want of wants Want of aught else the world nev'r counts",
+          "When fool bestows with glee a gift It comes but by getter's merit",
+          "Stupidity is vanity That cries \\\"We have sagacity\\\"",
+          "The self-torments of fools exceed Ev'n tortures of their foes indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புல்லறிவாண்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 843, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறிவு அற்றவர், தாமே நம்மை வருத்திக் கொள்ளும் வருத்தம், பகைவராலும்கூட அவருக்குச் செய்வது அரிது. கலைஞர் உரை கூறுவது: எதிரிகளால்கூட வழங்க முடியாத வேதனையை, அறிவில்லாதவர்கள் தங்களுக்குத் தாங்களே வழங்கிக் கொள்வார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Ministers & Elements of State), Kural 843 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The suffering that fools inflict upon themselves is hardly possible even to foes. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'புல்லறிவாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'புல்லறிவாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 843 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 843 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "செப்பின் இணைப்பைப் போல புறத்தே பொருந்தி இருந்தாலும், உட்பகை உண்டான குடியில் உள்ளவர் அகத்தே பொருந்தி இருக்கமாட்டார்.",
+          "ஒருவன் தான் கள் உண்ணாத போது கள்ளுண்டு மயங்கினவளைக் காணுமிடத்தில் உண்டு மயங்குவதால் வரும் சோர்வை நினைக்கமாட்டானோ.",
+          "மேல்நிலையில் இருந்தாலும் மேன்மைப் பண்பு இல்லாதவர் மேலானவர் அல்லர், கீழ் நிலையில் இருந்தாலும் இழிகுணம் இல்லாதவர் கீழ் மக்கள் அல்லர்.",
+          "அறிவில்லாதவர் தம்மைத்தாமே துன்புறுத்தும் துன்பம் அவருடைய பகைவர்க்கும் செய்யமுடியாத அளவினதாகும்."
+        ],
+        "quiz_options_en": [
+          "A house hiding hostiles in core Just seems on like the lid in jar",
+          "The sober seeing the drunkard's plight On selves can't they feel same effect?",
+          "Ignoble high not high they are The noble low not low they fare",
+          "The self-torments of fools exceed Ev'n tortures of their foes indeed"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (புல்லறிவாண்மை) பகுதியில் குறள் 843 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறிவில்லாதவர் தம்மைத்தாமே துன்புறுத்தும் துன்பம் அவருடைய பகைவர்க்கும் செய்யமுடியாத அளவினதாகும். பரிமேலழகர் உரை நுட்பம்: அறிவிலார் தாம் தம்மைப் பீழிக்கும் பீழை - புல்லறிவுடையார் தாமே தம்மை வருத்தும் வருத்தம்; செறுவார்க்கும் செய்தல் அரிது - அது செய்தற்குரியராய தம் பகைவர்க்கும் செய்தல் அரிது. (பகைவர் தாம் அறிந்ததொன்றனைக் காலம் பார்த்திருந்துசெய்வதல்லது வறுமை, பழி, பாவம் முதலிய...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 85: 'Ignorance'), Kural 843 distills a foundational ethical insight: \"With keener anguish foolish men their own hearts wring, Than aught that even malice of their foes can bring\" Philosophically, The suffering that fools inflict upon themselves is hardly possible even to foes.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "courage",
+        "wisdom",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 844,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: புல்லறிவு என்று சொல்லப்படுவது யாது என்றால் யாம் அறிவுடையேம் என்று ஒருவன் தன்னைத்தான் மதித்துகொள்ளும் செருக்காகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: What is called want of wisdom is the vanity which says, \"We are wise\".",
+        "story_title_ta": "புல்லறிவாண்மை — முகில் கற்ற பாடம்",
+        "story_title_en": "Ignorance — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'புல்லறிவாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 844 பற்றிக் கதை சொன்னார். 'அறிவின்மை என்று சொல்லப்படுவது என்ன என்று கேட்டால், அது தம்மைத் தாமே நல அறிவு உடையவரென்று என்னும் மயக்கமே ஆகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 85, 'Ignorance', centered on Kural 844: What is called want of wisdom is the vanity which says, \"We are wise\". Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவன் தன்னைத்தானே அறிவுடையவனாக மதித்துக் கொள்ளும் ஆணவத்திற்குப் பெயர்தான் அறியாமை எனப்படும்.",
+        "moral_en": "Moral: What is stupidity? The arrogance that cries,'Behold, we claim the glory of the wise.'.",
+        "game_blank_word_ta": "உடையம்யாம்",
+        "game_options_ta": [
+          "உடையம்யாம்",
+          "அறிவின்மை",
+          "இன்மையுள்",
+          "இன்மை"
+        ],
+        "game_options_en": [
+          "Stupidity is vanity That cries \\\"We have sagacity\\\"",
+          "Want of wisdom is want of wants Want of aught else the world nev'r counts",
+          "When fool bestows with glee a gift It comes but by getter's merit",
+          "The self-torments of fools exceed Ev'n tortures of their foes indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புல்லறிவாண்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 844, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறிவின்மை என்று சொல்லப்படுவது என்ன என்று கேட்டால், அது தம்மைத் தாமே நல அறிவு உடையவரென்று என்னும் மயக்கமே ஆகும். கலைஞர் உரை கூறுவது: ஒருவன் தன்னைத்தானே அறிவுடையவனாக மதித்துக் கொள்ளும் ஆணவத்திற்குப் பெயர்தான் அறியாமை எனப்படும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Ministers & Elements of State), Kural 844 speaks directly to teens navigating studies, friendships, leadership, and digital choices: What is called want of wisdom is the vanity which says, \"We are wise\". Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'புல்லறிவாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'புல்லறிவாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 844 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 844 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "புல்லறிவு என்று சொல்லப்படுவது யாது என்றால் யாம் அறிவுடையேம் என்று ஒருவன் தன்னைத்தான் மதித்துகொள்ளும் செருக்காகும்.",
+          "உட்பகை உண்டான குடி அரத்தினால் தேய்க்கப் பட்ட இரும்பு போல் வலிமை குறைக்கப் பட்டு தேய்ந்து போகும்.",
+          "வெற்றியே பெறுவதாலும் சூதாட்டத்தை விரும்பக்கூடாது, வென்ற வெற்றியும் தூண்டில் இரும்பை இரை என்று மயங்கி மீன் விழுகினாற் போன்றது.",
+          "ஒரு தன்மையான கற்புடைய மகளிரைப்போல் பெருமைப் பண்பும் ஒருவன் தன்னைத் தான் காத்துக் கொண்டு நடந்தால் உளதாகும்."
+        ],
+        "quiz_options_en": [
+          "Stupidity is vanity That cries \\\"We have sagacity\\\"",
+          "By secret spite the house wears out Like gold crumbling by file's contact",
+          "Avoid gambling, albeit you win Gulping bait-hook what does fish gain?",
+          "Greatness like woman's chastity Is guarded by self-varacity"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (புல்லறிவாண்மை) பகுதியில் குறள் 844 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: புல்லறிவு என்று சொல்லப்படுவது யாது என்றால் யாம் அறிவுடையேம் என்று ஒருவன் தன்னைத்தான் மதித்துகொள்ளும் செருக்காகும். பரிமேலழகர் உரை நுட்பம்: வெண்மை எனப்படுவது யாது எனின் - புல்லறிவுடைமை என்று சொல்லப்படுவது யாது என்று வினவின்; யாம் ஒண்மை உடையம் என்னும் செருக்கு - அது தம்மைத் தாமே யாம் நல்லறிவுடையம் என்று நன்கு மதிக்கும் மயக்கம். (வெண்மையாவது அறிவு முதிராமை. ஒண்மை எனக் காரியப் பெயர...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 85: 'Ignorance'), Kural 844 distills a foundational ethical insight: \"What is stupidity? The arrogance that cries,'Behold, we claim the glory of the wise.'\" Philosophically, What is called want of wisdom is the vanity which says, \"We are wise\".",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "humility",
+        "wisdom",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 845,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அறிவில்லாதவர் தாம் கற்காத நூல்களை கற்றவர் போல் மேற்கொண்டு நடத்தல், அவர் குற்றமறக் கற்றுவல்ல பொருளைப் பற்றியும் மற்றவர்க்கு ஐயம் உண்டாகும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Fools pretending to know what has not been read (by them) will rouse suspicion even as to what they have thoroughly mastered.",
+        "story_title_ta": "புல்லறிவாண்மை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Ignorance — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'புல்லறிவாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 845 பற்றிக் கதை சொன்னார். 'அறிவற்றவர், தாம் படிக்காத நூல்களையும் படித்தவர் போலப் பேசிச்செயற்படுவது, அவர் உணமையிலேயே நன்கு அறிந்த நூல்களின் மேலும் சந்தேகத்தைப் பிறர்க்கு உண்டாக்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 85, 'Ignorance', centered on Kural 845: Fools pretending to know what has not been read (by them) will rouse suspicion even as to what they have thoroughly mastered. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அறிந்து கொள்ளாதவைகளையும் அறிந்தவர் போல ஒருவர் போலித்தனமாகக் காட்டிக் கொள்ளும் போது, அவர் ஏற்கனவே எந்தத் துறையில் திறமையுடையவராக இருக்கிறாரோ அதைப் பற்றிய சந்தேகமும் மற்றவர்களுக்கு உருவாகும்.",
+        "moral_en": "Moral: If men what they have never learned assume to know, Upon their real learning's power a doubt 'twill throw.",
+        "game_blank_word_ta": "ஐயம்",
+        "game_options_ta": [
+          "அறிவின்மை",
+          "ஐயம்",
+          "இன்மையுள்",
+          "இன்மை"
+        ],
+        "game_options_en": [
+          "Want of wisdom is want of wants Want of aught else the world nev'r counts",
+          "Feigning knowledge that one has not Leads to doubt ev'n that he has got",
+          "When fool bestows with glee a gift It comes but by getter's merit",
+          "The self-torments of fools exceed Ev'n tortures of their foes indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புல்லறிவாண்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 845, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறிவற்றவர், தாம் படிக்காத நூல்களையும் படித்தவர் போலப் பேசிச்செயற்படுவது, அவர் உணமையிலேயே நன்கு அறிந்த நூல்களின் மேலும் சந்தேகத்தைப் பிறர்க்கு உண்டாக்கும். கலைஞர் உரை கூறுவது: அறிந்து கொள்ளாதவைகளையும் அறிந்தவர் போல ஒருவர் போலித்தனமாகக் காட்டிக் கொள்ளும் போது, அவர் ஏற்கனவே எந்தத் துறையில் திறமையுடையவராக இருக்கிறாரோ அதைப் பற்றிய சந்தேகமும் மற்றவர்களுக்கு உருவாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Ministers & Elements of State), Kural 845 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Fools pretending to know what has not been read (by them) will rouse suspicion even as to what they have thoroughly mastered. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'புல்லறிவாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'புல்லறிவாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 845 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 845 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "எள்ளின் பிளவைப் போன்ற சிறிய அளவு உடையதே ஆனாலும், ஒரு குடியை அழிக்கவல்ல கேடு உட்பகையில் உள்ளதாகும்.",
+          "அறிவில்லாதவர் தாம் கற்காத நூல்களை கற்றவர் போல் மேற்கொண்டு நடத்தல், அவர் குற்றமறக் கற்றுவல்ல பொருளைப் பற்றியும் மற்றவர்க்கு ஐயம் உண்டாகும்.",
+          "ஒரு பொருள் பெற்று நூறு மடங்கு பொருளை இழந்து விடும் சூதாடிகளுக்கும், நன்மை பெற்று வாழும் ஒரு வழி உண்டோ.",
+          "பெருமைப் பண்பு உடையவர் செய்வதற்கு அருமையானச் செயலைச் செய்வதற்க்கு உரிய நெறியில் செய்து முடிக்க வல்லவர் ஆவர்."
+        ],
+        "quiz_options_en": [
+          "Ruin lurks in enmity As slit in sesame though it be",
+          "Feigning knowledge that one has not Leads to doubt ev'n that he has got",
+          "Can gamblers in life good obtain Who lose a hundred one to gain?",
+          "Great souls when their will is active Do mighty deeds rare to achieve"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (புல்லறிவாண்மை) பகுதியில் குறள் 845 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறிவில்லாதவர் தாம் கற்காத நூல்களை கற்றவர் போல் மேற்கொண்டு நடத்தல், அவர் குற்றமறக் கற்றுவல்ல பொருளைப் பற்றியும் மற்றவர்க்கு ஐயம் உண்டாகும். பரிமேலழகர் உரை நுட்பம்: கல்லாத மேற்கொண்டு ஒழுகல் - புல்லறிவாளர் தாம் கல்லாத நூல்களையும் கற்றாராகத் தாம் மேலிட்டுக் கொண்டு ஒழுகுதல்; கசடு அற வல்லதூஉம் ஐயம் தரும் - கசடறக் கற்றதொரு நூலுண்டாயின் அதன்கண்ணும் பிறர்க்கு ஐயத்தை விளைக்கும். (வல்லது என ஏழாவது இறுதிக்கண்தொக்கது, 'உண்டாயின...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 85: 'Ignorance'), Kural 845 distills a foundational ethical insight: \"If men what they have never learned assume to know, Upon their real learning's power a doubt 'twill throw\" Philosophically, Fools pretending to know what has not been read (by them) will rouse suspicion even as to what they have thoroughly mastered.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "education",
+        "truth",
+        "speech"
+      ]
+    },
+    {
+      "kural_number": 846,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தம்மிடத்தில் உள்ளக் குற்றத்தை அறிந்து நீக்காத போது , உடம்பில் மறைப்பதற்குரிய பகுதியை மட்டும், ஆடையால் மறைத்தல் புல்லறிவாகும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Even to cover one's nakedness would be folly, if (one's) faults were not covered (by forsaking them).",
+        "story_title_ta": "புல்லறிவாண்மை — கவின் கற்ற பாடம்",
+        "story_title_en": "Ignorance — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'புல்லறிவாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 846 பற்றிக் கதை சொன்னார். 'தம்மிடம் உள்ள குற்றத்தை அறிந்து அதைப் போக்காதவர், ஆடையால் தம்உடம்பை மறைக்கக் கருதுவதும் அறிவின்மையே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 85, 'Ignorance', centered on Kural 846: Even to cover one's nakedness would be folly, if (one's) faults were not covered (by forsaking them). Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நமது குற்றத்தை உணர்ந்து அதை நீக்காமல் உடலை மறைக்க மட்டும் உடை அணிவது மடமையாகும்.",
+        "moral_en": "Moral: Fools are they who their nakedness conceal, And yet their faults unveiled reveal.",
+        "game_blank_word_ta": "அற்றம்",
+        "game_options_ta": [
+          "அறிவின்மை",
+          "இன்மையுள்",
+          "அற்றம்",
+          "இன்மை"
+        ],
+        "game_options_en": [
+          "Want of wisdom is want of wants Want of aught else the world nev'r counts",
+          "When fool bestows with glee a gift It comes but by getter's merit",
+          "Fools their nakedness conceal And yet their glaring faults reveal",
+          "The self-torments of fools exceed Ev'n tortures of their foes indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புல்லறிவாண்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 846, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தம்மிடம் உள்ள குற்றத்தை அறிந்து அதைப் போக்காதவர், ஆடையால் தம்உடம்பை மறைக்கக் கருதுவதும் அறிவின்மையே. கலைஞர் உரை கூறுவது: நமது குற்றத்தை உணர்ந்து அதை நீக்காமல் உடலை மறைக்க மட்டும் உடை அணிவது மடமையாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Ministers & Elements of State), Kural 846 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even to cover one's nakedness would be folly, if (one's) faults were not covered (by forsaking them). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'புல்லறிவாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'புல்லறிவாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 846 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 846 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "அகத்தில் உடண்பாடு இல்லாதவருடன் குடிவாழும் வாழ்க்கை, ஒரு குடிசையிற் பாம்போடு உடன்வாழ்ந்தாற் போன்றது.",
+          "ஒருவன் உருளுகின்ற கருவியால் வரும் ஒரு பொருளை இடைவிடாமல் கூறி சூதாடினால், பொருள் வருவாய் அவனை விட்டு நீங்கிப் பகைவரிடத்தில் சேரும்.",
+          "தம்மிடத்தில் உள்ளக் குற்றத்தை அறிந்து நீக்காத போது , உடம்பில் மறைப்பதற்குரிய பகுதியை மட்டும், ஆடையால் மறைத்தல் புல்லறிவாகும்.",
+          "பெரியாரை விரும்பிப் போற்றுவோம் எண்ணும் உயர்ந்த நோக்கம், அவருடைய சிறப்பை உணராத சிறியோரின் உணர்ச்சியில் இல்லை."
+        ],
+        "quiz_options_en": [
+          "Dwell with traitors that hate in heart Is dwelling with snake in selfsame hut",
+          "If kings indulge in casting dice All their fortune will flow to foes",
+          "Fools their nakedness conceal And yet their glaring faults reveal",
+          "The petty-natured ones have not The mind to seek and befriend the great"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (புல்லறிவாண்மை) பகுதியில் குறள் 846 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தம்மிடத்தில் உள்ளக் குற்றத்தை அறிந்து நீக்காத போது , உடம்பில் மறைப்பதற்குரிய பகுதியை மட்டும், ஆடையால் மறைத்தல் புல்லறிவாகும். பரிமேலழகர் உரை நுட்பம்: தம் வயின் குற்றம் மறையாவழி - புல்லறிவாளர் தம்கண் நிகழும் குற்றங்களை அறிந்து கடியாராயின்; அற்றம் மறைத்தலோ புல்லறிவு - ஆடையால் அற்றம் மறைத்தாராகக் கருதுதலும் புல்லறிவாம். (குற்றம் மறைத்தலாவது, அவற்றை இலவாக்குதல். மறைக்கப்படுவன பலவற்றுள்ளும் உயர்ந்தவற்றை எல்லாம...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 85: 'Ignorance'), Kural 846 distills a foundational ethical insight: \"Fools are they who their nakedness conceal, And yet their faults unveiled reveal\" Philosophically, Even to cover one's nakedness would be folly, if (one's) faults were not covered (by forsaking them).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "discipline",
+        "family",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 847,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: அரிய மறைபொருளை மனத்தில் வைத்துக் காக்காமல் சேர்த்தும் வெளிபடுத்தும் அறிவில்லாதவன் தனக்குத் தானே பெருந்தீங்கு செய்து கொள்வான்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The fool who neglects precious counsel does, of his own accord, a great injury to himself.",
+        "story_title_ta": "புல்லறிவாண்மை — நிலா கற்ற பாடம்",
+        "story_title_en": "Ignorance — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'புல்லறிவாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 847 பற்றிக் கதை சொன்னார். 'அறிவற்றவன் அரிய புத்திமதியையும் ஏற்றுக் கொள்ளான்; அதனால் அவன் தனக்குத் தானே பெரும் துன்பத்தைச் செய்து கொள்வான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 85, 'Ignorance', centered on Kural 847: The fool who neglects precious counsel does, of his own accord, a great injury to himself. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நல்வழிக்கான அறிவுரைகளைப் போற்றி அவ்வழி நடக்காத அறிவிலிகள், தமக்குத் தாமே பெருந்துன்பத்தைத் தேடிக் கொள்வார்கள்.",
+        "moral_en": "Moral: From out his soul who lets the mystic teachings die, Entails upon himself abiding misery.",
+        "game_blank_word_ta": "சோரும்",
+        "game_options_ta": [
+          "அறிவின்மை",
+          "இன்மையுள்",
+          "இன்மை",
+          "சோரும்"
+        ],
+        "game_options_en": [
+          "Want of wisdom is want of wants Want of aught else the world nev'r counts",
+          "When fool bestows with glee a gift It comes but by getter's merit",
+          "The self-torments of fools exceed Ev'n tortures of their foes indeed",
+          "The fool that slights sacred counsels Upon himself great harm entails"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புல்லறிவாண்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 847, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறிவற்றவன் அரிய புத்திமதியையும் ஏற்றுக் கொள்ளான்; அதனால் அவன் தனக்குத் தானே பெரும் துன்பத்தைச் செய்து கொள்வான். கலைஞர் உரை கூறுவது: நல்வழிக்கான அறிவுரைகளைப் போற்றி அவ்வழி நடக்காத அறிவிலிகள், தமக்குத் தாமே பெருந்துன்பத்தைத் தேடிக் கொள்வார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Ministers & Elements of State), Kural 847 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The fool who neglects precious counsel does, of his own accord, a great injury to himself. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'புல்லறிவாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'புல்லறிவாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 847 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 847 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "மேற்கொண்ட செயலைச் செய்து முடிக்க வல்லவரின் ஆற்றலை இகழாதிருத்தல், காப்பவர் செய்து கொள்ளும் காவல் எல்லாவற்றிலும் சிறந்தது.",
+          "ஒருவனுக்குத் துன்பம் பலவற்றையும் உண்டாக்கி அவனுடைய புகழைக் கெடுக்கின்ற சூதைபோல் வறுமை தருவது வேறொன்றும் இல்லை.",
+          "சிறப்பு நிலையும் தனக்கு பொருந்தாத சீரற்ற கீழ் மக்களிடம் ஏற்பட்டால், வரம்பு மீறிய செயலை உடையதாகும்.",
+          "அரிய மறைபொருளை மனத்தில் வைத்துக் காக்காமல் சேர்த்தும் வெளிபடுத்தும் அறிவில்லாதவன் தனக்குத் தானே பெருந்தீங்கு செய்து கொள்வான்."
+        ],
+        "quiz_options_en": [
+          "Not to spite the mighty ones Safest safeguard to living brings",
+          "Nothing will make you poor like game Which adds to woes and ruins fame",
+          "The base with power and opulence Wax with deeds of insolence",
+          "The fool that slights sacred counsels Upon himself great harm entails"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (புல்லறிவாண்மை) பகுதியில் குறள் 847 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அரிய மறைபொருளை மனத்தில் வைத்துக் காக்காமல் சேர்த்தும் வெளிபடுத்தும் அறிவில்லாதவன் தனக்குத் தானே பெருந்தீங்கு செய்து கொள்வான். பரிமேலழகர் உரை நுட்பம்: அருமறை சோரும் அறிவிலான் - பெறுதற்கு அரிய உபதேசப்பொருளைப் பெற்றாலும் உட்கொள்ளாது போக்கும் புல்லறிவாளன்; தானே தனக்குப் பெருமிறை செய்யும் - அவ்வுறுதி அறியாமையால் தானே தனக்கு மிக்க வருத்தத்தைச் செய்து கொள்ளும். ('சோரும'¢ என இடத்து நிகழ் பொருளின் தொழில், இடத்தின...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 85: 'Ignorance'), Kural 847 distills a foundational ethical insight: \"From out his soul who lets the mystic teachings die, Entails upon himself abiding misery\" Philosophically, The fool who neglects precious counsel does, of his own accord, a great injury to himself.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "kindness",
+        "discipline",
+        "harmony",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 848,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தனக்கு நன்மையானவற்றை பிறர் ஏவினாலும் செய்யாதவனாய், தானாகவும் உணர்ந்து தெளியாதவனாய் உள்ளவனுடைய உயிர் போகுமளவும் ஒரு நோயாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The fool will not perform (his duties) even when advised nor ascertain them himself; such a soul is a.",
+        "story_title_ta": "புல்லறிவாண்மை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Ignorance — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'புல்லறிவாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 848 பற்றிக் கதை சொன்னார். 'அறிவற்றவன் பிறர் சொன்னாலும் செய்யமாட்டான்; தானாகவும் அறியமாட்டான்; அவனது உயிர் போகும் வரைக்கும் இப்பூமிக்கு அவன் ஒரு நோயே.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 85, 'Ignorance', centered on Kural 848: The fool will not perform (his duties) even when advised nor ascertain them himself; such a soul is a. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: சொந்தப் புத்தியும் இல்லாமல் சொல் புத்தியும் கேட்காதவருக்கு அதுவே அவர் வாழ்நாள் முழுதும் அவரை விட்டு நீங்காத நோயாகும்.",
+        "moral_en": "Moral: Advised, he heeds not; of himself knows nothing wise; This man's whole life is all one plague until he dies.",
+        "game_blank_word_ta": "தான்தேறான்",
+        "game_options_ta": [
+          "தான்தேறான்",
+          "அறிவின்மை",
+          "இன்மையுள்",
+          "இன்மை"
+        ],
+        "game_options_en": [
+          "He listens not nor himself knows Plague is his life until it goes",
+          "Want of wisdom is want of wants Want of aught else the world nev'r counts",
+          "When fool bestows with glee a gift It comes but by getter's merit",
+          "The self-torments of fools exceed Ev'n tortures of their foes indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புல்லறிவாண்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 848, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறிவற்றவன் பிறர் சொன்னாலும் செய்யமாட்டான்; தானாகவும் அறியமாட்டான்; அவனது உயிர் போகும் வரைக்கும் இப்பூமிக்கு அவன் ஒரு நோயே. கலைஞர் உரை கூறுவது: சொந்தப் புத்தியும் இல்லாமல் சொல் புத்தியும் கேட்காதவருக்கு அதுவே அவர் வாழ்நாள் முழுதும் அவரை விட்டு நீங்காத நோயாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Ministers & Elements of State), Kural 848 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The fool will not perform (his duties) even when advised nor ascertain them himself; such a soul is a. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'புல்லறிவாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'புல்லறிவாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 848 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 848 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "தனக்கு நன்மையானவற்றை பிறர் ஏவினாலும் செய்யாதவனாய், தானாகவும் உணர்ந்து தெளியாதவனாய் உள்ளவனுடைய உயிர் போகுமளவும் ஒரு நோயாகும்.",
+          "ஆற்றல் மிகுந்த பெரியாரை விரும்பி மதிக்காமல் நடந்தால், அது அப் பெரியாரால் நீங்காத துன்பத்தைத் தருவதாகும்.",
+          "சூதாடு கருவியும், ஆடும் இடமும், கைத்திறமையும் மதித்துக் கைவிடாதவர், (எல்லாப் பொருள் உடையவராக இருந்தும்) இல்லாதவர் ஆகிவிடுவார்.",
+          "பெருமைப் பண்பு எக்காலத்திலும் பணிந்து நடக்கும், ஆனால் சிறுமையோ தன்னைத் தானே வியந்துப் பாராட்டிக் கொள்ளும்."
+        ],
+        "quiz_options_en": [
+          "He listens not nor himself knows Plague is his life until it goes",
+          "To walk unmindful of the great Shall great troubles ceaseless create",
+          "The game, game-hall and gambler's art Who sought with glee have come to nought",
+          "Greatness bends with modesty Meanness vaunts with vanity"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (புல்லறிவாண்மை) பகுதியில் குறள் 848 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தனக்கு நன்மையானவற்றை பிறர் ஏவினாலும் செய்யாதவனாய், தானாகவும் உணர்ந்து தெளியாதவனாய் உள்ளவனுடைய உயிர் போகுமளவும் ஒரு நோயாகும். பரிமேலழகர் உரை நுட்பம்: ஏவவும் செய்கலான் - புல்லறிவாளன் தனக்கு உறுதியாயவற்றை அறிவுடையார் சொல்லா நிற்கவும் செய்யான்; தான் தேறான் - அதுவன்றித் தானாகவும் இவை செய்வன என்று அறியான்; அவ்வுயிர் போமளவும் ஓர் நோய் - அவ்வுயிர் யாக்கையின் நீங்குமளவும் நிலத்திற்குப் பொறுத்தற்கு அரியதொரு நோயாம...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 85: 'Ignorance'), Kural 848 distills a foundational ethical insight: \"Advised, he heeds not; of himself knows nothing wise; This man's whole life is all one plague until he dies\" Philosophically, The fool will not perform (his duties) even when advised nor ascertain them himself; such a soul is a.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "speech",
+        "education",
+        "ethics",
+        "wisdom"
+      ]
+    },
+    {
+      "kural_number": 849,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அறிவு இல்லாதவனுக்கு அறிவிப்பவன் தானே அறிவில்லாதவனாய் நிற்பான், அறிவு இல்லாதவனோ தான் அறிந்த வகையால் அறிவுடையவனாகத் தோன்றுவான்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: One who would teach a fool will (simply) betray his folly; and the fool would (still) think himself \"wise in his own conceit\".",
+        "story_title_ta": "புல்லறிவாண்மை — இனியா கற்ற பாடம்",
+        "story_title_en": "Ignorance — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'புல்லறிவாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 849 பற்றிக் கதை சொன்னார். 'அறிவற்றவனுக்கு அறிவு காட்ட முயல்பவன் அறிவற்றவனால் அறிவற்றவனாய் எண்ணப்படுவான்; அறிவற்றவன் தான் அறிந்ததே அறிவாக எண்ணுவான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 85, 'Ignorance', centered on Kural 849: One who would teach a fool will (simply) betray his folly; and the fool would (still) think himself \"wise in his own conceit\". Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அறிவற்ற ஒருவன், தான் அறிந்ததை மட்டும் வைத்துக் கொண்டு, தன்னை அறிவுடையவனாகக் காட்டிக் கொள்வான் அவனை உண்மையிலேயே அறிவுடையவனாக்க முயற்சி செய்பவன் தன்னையே அறிவற்ற நிலைக்கு ஆளாக்கிக் கொள்வான்.",
+        "moral_en": "Moral: That man is blind to eyes that will not see who knowledge shows;-The blind man still in his blind fashion knows.",
+        "game_blank_word_ta": "தான்கண்ட",
+        "game_options_ta": [
+          "அறிவின்மை",
+          "தான்கண்ட",
+          "இன்மையுள்",
+          "இன்மை"
+        ],
+        "game_options_en": [
+          "Want of wisdom is want of wants Want of aught else the world nev'r counts",
+          "Sans Self-sight in vain one opens Sight To the blind who bet their sight as right",
+          "When fool bestows with glee a gift It comes but by getter's merit",
+          "The self-torments of fools exceed Ev'n tortures of their foes indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புல்லறிவாண்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 849, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அறிவற்றவனுக்கு அறிவு காட்ட முயல்பவன் அறிவற்றவனால் அறிவற்றவனாய் எண்ணப்படுவான்; அறிவற்றவன் தான் அறிந்ததே அறிவாக எண்ணுவான். கலைஞர் உரை கூறுவது: அறிவற்ற ஒருவன், தான் அறிந்ததை மட்டும் வைத்துக் கொண்டு, தன்னை அறிவுடையவனாகக் காட்டிக் கொள்வான் அவனை உண்மையிலேயே அறிவுடையவனாக்க முயற்சி செய்பவன் தன்னையே அறிவற்ற நிலைக்கு ஆளாக்கிக் கொள்வான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Ministers & Elements of State), Kural 849 speaks directly to teens navigating studies, friendships, leadership, and digital choices: One who would teach a fool will (simply) betray his folly; and the fool would (still) think himself \"wise in his own conceit\". Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'புல்லறிவாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'புல்லறிவாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 849 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 849 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "அழிக்க வேண்டுமானால் அவ்வாறே செய்து முடிக்க வல்லவரிடத்தில் தவறு செய்தலை, ஒருவன் கெட வேண்டுமானால் கேளாமலேச் செய்யலாம்.",
+          "அறிவு இல்லாதவனுக்கு அறிவிப்பவன் தானே அறிவில்லாதவனாய் நிற்பான், அறிவு இல்லாதவனோ தான் அறிந்த வகையால் அறிவுடையவனாகத் தோன்றுவான்.",
+          "சூது என்று சொல்லப்படும் மூதேவியால் விழுங்கப்பட்டவர், வயிறு நிறைய உணவும் உண்ணாதவராகிப் பல துன்பப்பட்டு வருந்துவர்.",
+          "பெருமை பண்பு செருக்கு இல்லாமல் வாழ்தல், சிறுமையோ செருக்கே மிகுந்து அதன் எல்லையில் நின்று விடுவதாகும்."
+        ],
+        "quiz_options_en": [
+          "Heed not and do, if ruin you want Offence against the mighty great",
+          "Sans Self-sight in vain one opens Sight To the blind who bet their sight as right",
+          "Men swallowed by the ogress, dice Suffer grief and want by that vice",
+          "Greatness is free from insolence Littleness swells with that offence"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (புல்லறிவாண்மை) பகுதியில் குறள் 849 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறிவு இல்லாதவனுக்கு அறிவிப்பவன் தானே அறிவில்லாதவனாய் நிற்பான், அறிவு இல்லாதவனோ தான் அறிந்த வகையால் அறிவுடையவனாகத் தோன்றுவான். பரிமேலழகர் உரை நுட்பம்: காணாதாற் காட்டுவான் தான் காணான் - தன்னை எல்லாம் அறிந்தானாக மதித்தலான் பிறரால் ஒன்றறியும் தன்மையிலாதானை அறிவிக்கப்புகுவான் அவனாற் பழிக்கப்பட்டுத்தான் அறியானாய் முடியும்: காணாதான் தான் கண்டவாறு கண்டானாம் - இனி அவ்வறியுந் தன்மையில்லாதான் கொண்டது விடாமையான் தான...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 85: 'Ignorance'), Kural 849 distills a foundational ethical insight: \"That man is blind to eyes that will not see who knowledge shows;-The blind man still in his blind fashion knows\" Philosophically, One who would teach a fool will (simply) betray his folly; and the fool would (still) think himself \"wise in his own conceit\".",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "love",
+        "wisdom",
+        "perseverance",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 850,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: உலகத்தார் உண்டு என்று சொல்வதை இல்லை என்று கூறுகின்ற ஒருவன், உலகத்தில் காணப்படும் ஒரு பேயாகக் கருதி விலக்கப்படுவான்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: He who denies the existence of what the world believes in will be regarded as a demon on earth.",
+        "story_title_ta": "புல்லறிவாண்மை — முகில் கற்ற பாடம்",
+        "story_title_en": "Ignorance — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'புல்லறிவாண்மை' என்ற அதிகாரத்திலிருந்து குறள் 850 பற்றிக் கதை சொன்னார். 'இருக்கிறது என்று உயர்ந்தோர் சொல்லும் ஒரு பொருளை இல்லை என்று மறுக்கும் அறிவற்றவன், இப்பூமியில் காணப்படும் பேயாகக் கருதப்படுவான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 85, 'Ignorance', centered on Kural 850: He who denies the existence of what the world believes in will be regarded as a demon on earth. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஆதாரங்களைக் காட்டி இதுதான் உண்மை என்று தெளிவாகக் கூறப்படுகிற ஒன்றை, வேண்டுமென்றே இல்லை என மறுத்துரைப்பவரைப் ``பேய்''களின் பட்டியலின்தான் வைக்க வேண்டும்.",
+        "moral_en": "Moral: Who what the world affirms as false proclaim, O'er all the earth receive a demon's name.",
+        "game_blank_word_ta": "வையத்து",
+        "game_options_ta": [
+          "அறிவின்மை",
+          "இன்மையுள்",
+          "வையத்து",
+          "இன்மை"
+        ],
+        "game_options_en": [
+          "Want of wisdom is want of wants Want of aught else the world nev'r counts",
+          "When fool bestows with glee a gift It comes but by getter's merit",
+          "To people's \\\"Yes\\\" who proffer \\\"No\\\" Deemed as ghouls on earth they go",
+          "The self-torments of fools exceed Ev'n tortures of their foes indeed"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "புல்லறிவாண்மை (அங்கவியல்) பிரிவில் அமைந்த குறள் 850, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இருக்கிறது என்று உயர்ந்தோர் சொல்லும் ஒரு பொருளை இல்லை என்று மறுக்கும் அறிவற்றவன், இப்பூமியில் காணப்படும் பேயாகக் கருதப்படுவான். கலைஞர் உரை கூறுவது: ஆதாரங்களைக் காட்டி இதுதான் உண்மை என்று தெளிவாகக் கூறப்படுகிற ஒன்றை, வேண்டுமென்றே இல்லை என மறுத்துரைப்பவரைப் ``பேய்''களின் பட்டியலின்தான் வைக்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Ignorance (Ministers & Elements of State), Kural 850 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He who denies the existence of what the world believes in will be regarded as a demon on earth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'புல்லறிவாண்மை' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Ignorance' thoughtfully.",
+        "quiz_question_ta": "'புல்லறிவாண்மை' அதிகாரத்தில் வரும் திருக்குறள் 850 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 850 from Chapter 'Ignorance'?",
+        "quiz_options_ta": [
+          "ஆற்றல் உடையவர்க்கு ஆற்றல் இல்லாதவர் தீமை செய்தல், தானே வந்து அழிக்க வல்ல எமனைக் கைகாட்டி அழைத்தாற் போன்றது.",
+          "சூதாடுமிடத்தில் ஒருவனுடைய காலம் கழியுமானால் அது அவனுடைய பழைமையாய் வந்த செல்வத்தையும் இயல்பான நற்பண்பையும் கெடுக்கும்.",
+          "உலகத்தார் உண்டு என்று சொல்வதை இல்லை என்று கூறுகின்ற ஒருவன், உலகத்தில் காணப்படும் ஒரு பேயாகக் கருதி விலக்கப்படுவான்.",
+          "பெருமைப் பண்பு பிறருடைய குறைப்பாட்டை மறைக்கும், சிறுமையோ பிறருடைய குற்றத்தையே எடுத்துச் சொல்லிவிடும்"
+        ],
+        "quiz_options_en": [
+          "The weak who insult men of might Death with their own hands invite",
+          "If men their time in game-den spend Ancestral wealth and virtues end",
+          "To people's \\\"Yes\\\" who proffer \\\"No\\\" Deemed as ghouls on earth they go",
+          "Weakness of others greatness screens Smallness defects alone proclaims"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அங்கவியல் (புல்லறிவாண்மை) பகுதியில் குறள் 850 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: உலகத்தார் உண்டு என்று சொல்வதை இல்லை என்று கூறுகின்ற ஒருவன், உலகத்தில் காணப்படும் ஒரு பேயாகக் கருதி விலக்கப்படுவான். பரிமேலழகர் உரை நுட்பம்: உலகத்தார் உண்டு என்பது இல் என்பான் -உயர்ந்தோர் பலரும் உண்டு என்பதோர் பொருளைத்தன் புல்லறிவால் இல்லை என்று சொல்லுவான்; வையத்துஅலகையா வைக்கப்படும் - மகன் என்று கருதப்படான்,வையத்துக் காணப்படுவதோர் பேய் என்று கருதப்படும். (கடவுளும், மறுபிறப்பும், இருவினைப் பயனும...",
+        "reflection_en": "Within Book of Wealth & Polity (Ministers & Elements of State — Chapter 85: 'Ignorance'), Kural 850 distills a foundational ethical insight: \"Who what the world affirms as false proclaim, O'er all the earth receive a demon's name\" Philosophically, He who denies the existence of what the world believes in will be regarded as a demon on earth.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "truth",
+        "speech",
+        "harmony"
+      ]
+    }
+  ]
+}

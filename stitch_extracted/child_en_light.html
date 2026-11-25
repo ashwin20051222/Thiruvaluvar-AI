@@ -1,0 +1,746 @@
+<!DOCTYPE html><html lang="en" data-theme="light"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>S2 — Child Edition 3D (Light, EN) • Thiruvalluvar AI</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700;800&amp;family=Noto+Sans+Tamil:wght@400;500;600;700;800&amp;family=Noto+Serif+Tamil:wght@500;600;700&amp;display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>/** @type {import('tailwindcss').Config} */
+globalThis.tailwind = globalThis.tailwind || {};
+globalThis.tailwind.config = {
+  darkMode: 'class',
+  theme: {
+    extend: {
+      colors: {
+        'gold-frame': '#E6C068',
+        'gradient-start': '#FFB300',
+        'gradient-mid': '#FF6A00',
+        'gradient-end': '#FF2D55',
+        'light-bg': '#FFF8EC',
+        'light-on-bg': '#2B1B0E',
+        'light-surface': '#FFFFFF',
+        'light-on-surface': '#2B1B0E',
+        'light-surface-2': '#FBEFD9',
+        'light-on-surface-2': '#2B1B0E',
+        'light-text-muted': '#6B5A48',
+        'light-outline': '#D9C7AD',
+        'light-primary': '#D84315',
+        'light-on-primary': '#080808',
+        'light-teen': '#00796B',
+        'light-on-teen': '#FFFFFF',
+        'light-adult-surface': '#FFF3DC',
+        'light-on-adult-surface': '#8E1B1B',
+        'light-child-sky': '#81D4FA',
+        'light-on-child-sky': '#0B1412',
+        'light-success': '#1B8F5A',
+        'light-on-success': '#131313',
+        'light-warning': '#B26A00',
+        'light-on-warning': '#0F0F0F',
+        'light-error': '#C62828',
+        'light-on-error': '#FFFFFF',
+        'dark-bg': '#0B1412',
+        'dark-on-bg': '#F2F5F4',
+        'dark-surface': '#101A2B',
+        'dark-on-surface': '#F2F5F4',
+        'dark-surface-2': '#16233A',
+        'dark-on-surface-2': '#F2F5F4',
+        'dark-text-muted': '#9AA9A6',
+        'dark-outline': '#25354D',
+        'dark-primary': '#FFB300',
+        'dark-on-primary': '#1A1100',
+        'dark-teen': '#19C9A0',
+        'dark-on-teen': '#06241C',
+        'dark-adult-surface': '#2A0F10',
+        'dark-on-adult-surface': '#E6C068',
+        'dark-child-sky': '#4FC3F7',
+        'dark-on-child-sky': '#0B1412',
+        'dark-success': '#2ECC8F',
+        'dark-on-success': '#06241C',
+        'dark-warning': '#FFC107',
+        'dark-on-warning': '#1A1100',
+        'dark-error': '#FF5470',
+        'dark-on-error': '#1F0409',
+      },
+      borderRadius: {
+        'sm': '8px',
+        'DEFAULT': '12px',
+        'md': '16px',
+        'lg': '20px',
+        'xl': '24px',
+        'full': '9999px',
+      },
+      spacing: {
+        'gutter-xs': '4px',
+        'gutter-sm': '8px',
+        'gutter-md': '16px',
+        'gutter-lg': '24px',
+        'gutter-xl': '32px',
+        'section': '40px',
+        'page-margin': '32px',
+      },
+      fontFamily: {
+        'display': ['"Inter"', 'sans-serif'],
+        'kural': ['"Noto Serif Tamil"', 'sans-serif'],
+        'headline': ['"Inter"', 'sans-serif'],
+        'child': ['"Baloo Thambi 2"', 'sans-serif'],
+        'body': ['"Inter"', 'sans-serif'],
+        'label': ['"Inter"', 'sans-serif'],
+      },
+      fontSize: {
+        'display-lg': ['40px', { lineHeight: '48px', letterSpacing: '-0.5px', fontWeight: '800' }],
+        'display-lg-mobile': ['28px', { lineHeight: '36px', letterSpacing: '-0.25px', fontWeight: '800' }],
+        'kural-verse': ['32px', { lineHeight: '56px', letterSpacing: '0px', fontWeight: '600' }],
+        'headline-lg': ['28px', { lineHeight: '38px', letterSpacing: '0px', fontWeight: '700' }],
+        'headline-md': ['22px', { lineHeight: '30px', letterSpacing: '0px', fontWeight: '700' }],
+        'child-heading': ['28px', { lineHeight: '38px', letterSpacing: '0px', fontWeight: '700' }],
+        'body-lg': ['20px', { lineHeight: '30px', letterSpacing: '0px', fontWeight: '400' }],
+        'body-md': ['18px', { lineHeight: '28px', letterSpacing: '0px', fontWeight: '400' }],
+        'label-lg': ['18px', { lineHeight: '24px', letterSpacing: '0px', fontWeight: '600' }],
+        'label-md': ['15px', { lineHeight: '20px', letterSpacing: '0.2px', fontWeight: '600' }],
+      },
+      transitionDuration: {
+        'state-change': '120ms',
+        'surface-enter': '240ms',
+        'mic-pulse': '1800ms',
+      },
+      transitionDelay: {
+        'state-change': '0ms',
+        'surface-enter': '0ms',
+        'mic-pulse': '0ms',
+      },
+      transitionTimingFunction: {
+        'state-change': 'ease-out',
+        'surface-enter': 'cubic-bezier(0.2, 0, 0, 1)',
+        'mic-pulse': 'ease-in-out',
+      },
+    },
+  },
+};
+if (typeof module !== 'undefined') module.exports = globalThis.tailwind.config;
+</script>
+  <style data-stitch-css-vh="0d9fe720213f69ce===
+    :root {
+      --clay-shadow-light: 0 10px 24px -6px rgba(43, 27, 14, 0.14), inset 0 2px 0 rgba(255, 255, 255, 0.65);
+      --clay-shadow-dark: 0 12px 28px -6px rgba(0, 0, 0, 0.45), inset 0 2px 0 rgba(255, 255, 255, 0.14);
+    }
+
+    html[lang=&#34;ta&#34;] body {
+      font-family: &#39;Noto Sans Tamil&#39;, &#39;Baloo Thambi 2&#39;, &#39;Inter&#39;, sans-serif;
+      line-height: 1.5;
+    }
+
+    html[lang=&#34;en&#34;] body {
+      font-family: &#39;Baloo Thambi 2&#39;, &#39;Inter&#39;, &#39;Noto Sans Tamil&#39;, sans-serif;
+      line-height: 1.45;
+    }
+
+    .clay-card {
+      box-shadow: var(--clay-shadow-light);
+      transition: transform 150ms cubic-bezier(0.2, 0, 0, 1), border-bottom-width 120ms ease-out, box-shadow 150ms ease-out;
+    }
+    html.dark .clay-card { box-shadow: var(--clay-shadow-dark); }
+    .clay-card-interactive:hover { transform: translateY(-3px); }
+    .clay-card-interactive:active { transform: translateY(3px); border-bottom-width: 2px !important; }
+
+    .toy-btn {
+      box-shadow: 0 5px 0 rgba(0, 0, 0, 0.22), inset 0 2px 0 rgba(255, 255, 255, 0.45);
+      transition: transform 120ms ease-out, box-shadow 120ms ease-out;
+    }
+    .toy-btn:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 6px 0 rgba(0, 0, 0, 0.24), inset 0 2px 0 rgba(255, 255, 255, 0.55);
+    }
+    .toy-btn:active {
+      transform: translateY(4px);
+      box-shadow: 0 1px 0 rgba(0, 0, 0, 0.22), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+    }
+
+    @keyframes float-slow { 0%, 100% { transform: translateY(0px) translateX(0px); } 50% { transform: translateY(-6px) translateX(4px); } }
+    @keyframes float-cloud { 0%, 100% { transform: translateX(0px); } 50% { transform: translateX(14px); } }
+    @keyframes spin-sun { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    @keyframes bounce-gentle { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-4px); } }
+    @keyframes twinkle { 0%, 100% { opacity: 0.35; transform: scale(0.9); } 50% { opacity: 1; transform: scale(1.15); } }
+    @keyframes firefly {
+      0%, 100% { transform: translate(0px, 0px) scale(0.9); opacity: 0.5; }
+      33% { transform: translate(8px, -10px) scale(1.2); opacity: 1; }
+      66% { transform: translate(-6px, -4px) scale(1); opacity: 0.75; }
+    }
+    @keyframes orb-pulse { 0%, 100% { transform: scale(1); opacity: 0.65; } 50% { transform: scale(1.16); opacity: 0.15; } }
+    @keyframes eq-bar { 0%, 100% { transform: scaleY(0.35); } 50% { transform: scaleY(1); } }
+
+    .anim-float-slow { animation: float-slow 5s ease-in-out infinite; }
+    .anim-float-cloud { animation: float-cloud 9s ease-in-out infinite; }
+    .anim-spin-sun { animation: spin-sun 28s linear infinite; }
+    .anim-bounce-gentle { animation: bounce-gentle 3.2s ease-in-out infinite; }
+    .anim-twinkle { animation: twinkle 3s ease-in-out infinite; }
+    .anim-firefly { animation: firefly 6s ease-in-out infinite; }
+    .anim-orb-pulse { animation: orb-pulse 1.8s ease-in-out infinite; }
+    .eq-bar { animation: eq-bar 0.7s ease-in-out infinite; transform-origin: bottom; }
+    .eq-bar:nth-child(2) { animation-delay: 0.15s; }
+    .eq-bar:nth-child(3) { animation-delay: 0.3s; }
+    .eq-bar:nth-child(4) { animation-delay: 0.1s; }
+    .eq-bar:nth-child(5) { animation-delay: 0.25s; }
+
+    @media (prefers-reduced-motion: reduce) {
+      .anim-float-slow, .anim-float-cloud, .anim-spin-sun, .anim-bounce-gentle,
+      .anim-twinkle, .anim-firefly, .anim-orb-pulse, .eq-bar { animation: none !important; }
+    }
+
+    .scene-light { display: block; }
+    .scene-dark { display: none; }
+    html.dark .scene-light { display: none; }
+    html.dark .scene-dark { display: block; }
+
+    .pi-only { display: none; }
+    .desktop-only { display: flex; }
+
+    @media (max-width: 560px) and (max-height: 380px) {
+      .desktop-only { display: none !important; }
+      .pi-only { display: flex !important; }
+      .pi-grid-only { display: grid !important; }
+
+      #app-shell { height: 100dvh; width: 100vw; overflow: hidden; display: flex; flex-direction: column; justify-content: space-between; }
+      #main-header { height: 38px !important; min-height: 38px !important; padding: 3px 8px !important; }
+      .pi-header-btn { width: 28px !important; height: 28px !important; min-width: 28px !important; min-height: 28px !important; padding: 0 !important; }
+      .pi-lang-pill { height: 28px !important; min-height: 28px !important; padding: 2px 6px !important; font-size: 10px !important; }
+      .pi-brand-title { font-size: 13px !important; line-height: 1.1 !important; }
+      .pi-star-pill { height: 24px !important; padding: 0 7px !important; font-size: 11px !important; }
+
+      #main-stage { height: 184px !important; flex: none !important; padding: 4px 8px !important; display: block !important; }
+      #left-stage { height: 100% !important; width: 100% !important; gap: 0 !important; }
+      #kural-card { height: 100% !important; padding: 8px 10px !important; border-radius: 16px !important; border-bottom-width: 4px !important; justify-content: space-between !important; }
+      #kural-card-header { height: 22px !important; margin-bottom: 2px !important; }
+      #kural-badge-text { font-size: 10px !important; padding: 1px 7px !important; }
+      .pi-arrow-btn { width: 26px !important; height: 26px !important; font-size: 11px !important; }
+      #kural-couplet { font-size: 14px !important; line-height: 1.45 !important; margin: 2px 0 !important; }
+      #kural-meaning { font-size: 11px !important; line-height: 1.35 !important; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+      #kural-actions { height: 34px !important; gap: 6px !important; margin-top: 2px !important; }
+      .pi-action-btn { height: 32px !important; padding: 0 10px !important; font-size: 11px !important; border-radius: 9999px !important; }
+
+      #pi-zone-3 {
+        height: 90px !important;
+        padding: 4px 8px 6px !important;
+        display: grid !important;
+        grid-template-columns: 1fr 78px 1fr;
+        gap: 8px;
+        align-items: end;
+      }
+      .pi-dock-tile { min-height: 54px !important; height: 60px !important; border-radius: 14px !important; border-bottom-width: 4px !important; padding: 4px 2px !important; }
+      .pi-dock-label { font-size: 10px !important; line-height: 1.15 !important; }
+      #pi-voice-orb { width: 68px !important; height: 68px !important; margin: 0 auto 4px !important; }
+    }
+  ">
+    :root {
+      --clay-shadow-light: 0 10px 24px -6px rgba(43, 27, 14, 0.14), inset 0 2px 0 rgba(255, 255, 255, 0.65);
+      --clay-shadow-dark: 0 12px 28px -6px rgba(0, 0, 0, 0.45), inset 0 2px 0 rgba(255, 255, 255, 0.14);
+    }
+
+    html[lang="ta"] body {
+      font-family: 'Noto Sans Tamil', 'Baloo Thambi 2', 'Inter', sans-serif;
+      line-height: 1.5;
+    }
+
+    html[lang="en"] body {
+      font-family: 'Baloo Thambi 2', 'Inter', 'Noto Sans Tamil', sans-serif;
+      line-height: 1.45;
+    }
+
+    .clay-card {
+      box-shadow: var(--clay-shadow-light);
+      transition: transform 150ms cubic-bezier(0.2, 0, 0, 1), border-bottom-width 120ms ease-out, box-shadow 150ms ease-out;
+    }
+    html.dark .clay-card { box-shadow: var(--clay-shadow-dark); }
+    .clay-card-interactive:hover { transform: translateY(-3px); }
+    .clay-card-interactive:active { transform: translateY(3px); border-bottom-width: 2px !important; }
+
+    .toy-btn {
+      box-shadow: 0 5px 0 rgba(0, 0, 0, 0.22), inset 0 2px 0 rgba(255, 255, 255, 0.45);
+      transition: transform 120ms ease-out, box-shadow 120ms ease-out;
+    }
+    .toy-btn:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 6px 0 rgba(0, 0, 0, 0.24), inset 0 2px 0 rgba(255, 255, 255, 0.55);
+    }
+    .toy-btn:active {
+      transform: translateY(4px);
+      box-shadow: 0 1px 0 rgba(0, 0, 0, 0.22), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+    }
+
+    @keyframes float-slow { 0%, 100% { transform: translateY(0px) translateX(0px); } 50% { transform: translateY(-6px) translateX(4px); } }
+    @keyframes float-cloud { 0%, 100% { transform: translateX(0px); } 50% { transform: translateX(14px); } }
+    @keyframes spin-sun { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    @keyframes bounce-gentle { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-4px); } }
+    @keyframes twinkle { 0%, 100% { opacity: 0.35; transform: scale(0.9); } 50% { opacity: 1; transform: scale(1.15); } }
+    @keyframes firefly {
+      0%, 100% { transform: translate(0px, 0px) scale(0.9); opacity: 0.5; }
+      33% { transform: translate(8px, -10px) scale(1.2); opacity: 1; }
+      66% { transform: translate(-6px, -4px) scale(1); opacity: 0.75; }
+    }
+    @keyframes orb-pulse { 0%, 100% { transform: scale(1); opacity: 0.65; } 50% { transform: scale(1.16); opacity: 0.15; } }
+    @keyframes eq-bar { 0%, 100% { transform: scaleY(0.35); } 50% { transform: scaleY(1); } }
+
+    .anim-float-slow { animation: float-slow 5s ease-in-out infinite; }
+    .anim-float-cloud { animation: float-cloud 9s ease-in-out infinite; }
+    .anim-spin-sun { animation: spin-sun 28s linear infinite; }
+    .anim-bounce-gentle { animation: bounce-gentle 3.2s ease-in-out infinite; }
+    .anim-twinkle { animation: twinkle 3s ease-in-out infinite; }
+    .anim-firefly { animation: firefly 6s ease-in-out infinite; }
+    .anim-orb-pulse { animation: orb-pulse 1.8s ease-in-out infinite; }
+    .eq-bar { animation: eq-bar 0.7s ease-in-out infinite; transform-origin: bottom; }
+    .eq-bar:nth-child(2) { animation-delay: 0.15s; }
+    .eq-bar:nth-child(3) { animation-delay: 0.3s; }
+    .eq-bar:nth-child(4) { animation-delay: 0.1s; }
+    .eq-bar:nth-child(5) { animation-delay: 0.25s; }
+
+    @media (prefers-reduced-motion: reduce) {
+      .anim-float-slow, .anim-float-cloud, .anim-spin-sun, .anim-bounce-gentle,
+      .anim-twinkle, .anim-firefly, .anim-orb-pulse, .eq-bar { animation: none !important; }
+    }
+
+    .scene-light { display: block; }
+    .scene-dark { display: none; }
+    html.dark .scene-light { display: none; }
+    html.dark .scene-dark { display: block; }
+
+    .pi-only { display: none; }
+    .desktop-only { display: flex; }
+
+    @media (max-width: 560px) and (max-height: 380px) {
+      .desktop-only { display: none !important; }
+      .pi-only { display: flex !important; }
+      .pi-grid-only { display: grid !important; }
+
+      #app-shell { height: 1024px; width: 100vw; overflow: hidden; display: flex; flex-direction: column; justify-content: space-between; }
+      #main-header { height: 38px !important; min-height: 38px !important; padding: 3px 8px !important; }
+      .pi-header-btn { width: 28px !important; height: 28px !important; min-width: 28px !important; min-height: 28px !important; padding: 0 !important; }
+      .pi-lang-pill { height: 28px !important; min-height: 28px !important; padding: 2px 6px !important; font-size: 10px !important; }
+      .pi-brand-title { font-size: 13px !important; line-height: 1.1 !important; }
+      .pi-star-pill { height: 24px !important; padding: 0 7px !important; font-size: 11px !important; }
+
+      #main-stage { height: 184px !important; flex: none !important; padding: 4px 8px !important; display: block !important; }
+      #left-stage { height: 100% !important; width: 100% !important; gap: 0 !important; }
+      #kural-card { height: 100% !important; padding: 8px 10px !important; border-radius: 16px !important; border-bottom-width: 4px !important; justify-content: space-between !important; }
+      #kural-card-header { height: 22px !important; margin-bottom: 2px !important; }
+      #kural-badge-text { font-size: 10px !important; padding: 1px 7px !important; }
+      .pi-arrow-btn { width: 26px !important; height: 26px !important; font-size: 11px !important; }
+      #kural-couplet { font-size: 14px !important; line-height: 1.45 !important; margin: 2px 0 !important; }
+      #kural-meaning { font-size: 11px !important; line-height: 1.35 !important; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+      #kural-actions { height: 34px !important; gap: 6px !important; margin-top: 2px !important; }
+      .pi-action-btn { height: 32px !important; padding: 0 10px !important; font-size: 11px !important; border-radius: 9999px !important; }
+
+      #pi-zone-3 {
+        height: 90px !important;
+        padding: 4px 8px 6px !important;
+        display: grid !important;
+        grid-template-columns: 1fr 78px 1fr;
+        gap: 8px;
+        align-items: end;
+      }
+      .pi-dock-tile { min-height: 54px !important; height: 60px !important; border-radius: 14px !important; border-bottom-width: 4px !important; padding: 4px 2px !important; }
+      .pi-dock-label { font-size: 10px !important; line-height: 1.15 !important; }
+      #pi-voice-orb { width: 68px !important; height: 68px !important; margin: 0 auto 4px !important; }
+    }
+  </style>
+</head>
+<body class="bg-light-bg dark:bg-dark-bg text-light-on-bg dark:text-dark-on-bg selection:bg-gradient-start/30 overflow-hidden">
+
+  <div class="fixed inset-0 pointer-events-none overflow-hidden z-0" aria-hidden="true">
+    <div class="scene-light absolute inset-0 bg-gradient-to-b from-[#D7F2FF] via-[#FFF8EC] to-[#FFEBC6]">
+      <div class="absolute -top-10 -right-10 w-44 h-44 opacity-90 anim-spin-sun">
+        <svg viewBox="0 0 160 160" class="w-full h-full">
+          <defs>
+            <radialGradient id="sunGrad" cx="40%" cy="35%" r="65%">
+              <stop offset="0%" stop-color="#FFF176"></stop>
+              <stop offset="60%" stop-color="#FFB300"></stop>
+              <stop offset="100%" stop-color="#FF6A00"></stop>
+            </radialGradient>
+          </defs>
+          <circle cx="80" cy="80" r="44" fill="url(#sunGrad)"></circle>
+          <g stroke="#FFB300" stroke-width="6" stroke-linecap="round">
+            <line x1="80" y1="10" x2="80" y2="24"></line><line x1="80" y1="136" x2="80" y2="150"></line>
+            <line x1="10" y1="80" x2="24" y2="80"></line><line x1="136" y1="80" x2="150" y2="80"></line>
+            <line x1="30" y1="30" x2="40" y2="40"></line><line x1="120" y1="120" x2="130" y2="130"></line>
+            <line x1="130" y1="30" x2="120" y2="40"></line><line x1="40" y1="120" x2="30" y2="130"></line>
+          </g>
+        </svg>
+      </div>
+      <svg viewBox="0 0 180 80" class="absolute top-12 left-[14%] w-36 opacity-85 anim-float-cloud">
+        <path d="M35 64h110a20 20 0 0 0 4-39.6A28 28 0 0 0 96 14a26 26 0 0 0-48 10A22 22 0 0 0 35 64z" fill="#FFFFFF"></path>
+        <path d="M35 64h110a20 20 0 0 0 19.6-16H15.4A20 20 0 0 0 35 64z" fill="#E3F4FD"></path>
+      </svg>
+      <svg viewBox="0 0 180 80" class="absolute top-24 right-[28%] w-28 opacity-75 anim-float-slow">
+        <path d="M35 64h110a20 20 0 0 0 4-39.6A28 28 0 0 0 96 14a26 26 0 0 0-48 10A22 22 0 0 0 35 64z" fill="#FFFFFF"></path>
+      </svg>
+    </div>
+
+    <div class="scene-dark absolute inset-0 bg-gradient-to-b from-[#081020] via-[#0B1412] to-[#111E2E]">
+      <svg viewBox="0 0 100 100" class="absolute top-8 right-12 w-24 h-24 anim-float-slow">
+        <defs>
+          <radialGradient id="moonGrad" cx="35%" cy="35%" r="65%">
+            <stop offset="0%" stop-color="#FFF8D6"></stop>
+            <stop offset="100%" stop-color="#E6C068"></stop>
+          </radialGradient>
+        </defs>
+        <path d="M62 14a36 36 0 1 0 24 62 28 28 0 0 1-24-62z" fill="url(#moonGrad)"></path>
+      </svg>
+      <span class="absolute top-14 left-[18%] w-2.5 h-2.5 rounded-full bg-gold-frame anim-twinkle"></span>
+      <span class="absolute top-28 left-[42%] w-2 h-2 rounded-full bg-dark-child-sky anim-twinkle" style="animation-delay:0.8s"></span>
+      <span class="absolute top-16 right-[30%] w-3 h-3 rounded-full bg-gold-frame anim-twinkle" style="animation-delay:1.4s"></span>
+      <span class="absolute top-1/3 left-[25%] w-3 h-3 rounded-full bg-[#FFE066] shadow-[0_0_12px_#FFE066] anim-firefly"></span>
+      <span class="absolute top-1/2 right-[22%] w-2.5 h-2.5 rounded-full bg-[#80FFDB] shadow-[0_0_10px_#80FFDB] anim-firefly" style="animation-delay:1.5s"></span>
+      <span class="absolute bottom-28 left-[48%] w-3 h-3 rounded-full bg-[#FFE066] shadow-[0_0_12px_#FFE066] anim-firefly" style="animation-delay:2.6s"></span>
+      <span class="absolute top-[22%] right-[12%] w-2 h-2 rounded-full bg-[#FFB300] shadow-[0_0_10px_#FFB300] anim-firefly" style="animation-delay:0.9s"></span>
+    </div>
+  </div>
+
+  <div id="app-shell" class="relative z-10 h-dvh w-screen overflow-hidden flex flex-col justify-between">
+    <header id="main-header" class="h-16 px-6 flex items-center justify-between shrink-0">
+      <div class="flex items-center gap-2.5 min-w-0">
+        <a href="../s1-start-unified-light-en/S1StartUnifiedLightEn.html" aria-label="Home" class="pi-header-btn toy-btn w-11 h-11 rounded-full bg-light-surface dark:bg-dark-surface-2 border-2 border-light-outline dark:border-dark-outline flex items-center justify-center text-light-on-bg dark:text-dark-on-bg font-extrabold text-lg shrink-0">
+          ←
+        </a>
+
+        <div class="flex items-center gap-2 bg-light-surface/95 dark:bg-dark-surface/95 border-2 border-light-child-sky dark:border-dark-child-sky/60 rounded-full px-3.5 py-1.5 shadow-sm">
+          <span class="w-2.5 h-2.5 rounded-full bg-light-success dark:bg-dark-success shrink-0" title="Offline Ready"></span>
+          <span class="pi-brand-title font-extrabold text-base text-light-on-bg dark:text-dark-on-bg whitespace-nowrap" data-ta="சிறுவர் திருக்குறள்" data-en="Thirukkural for Kids" data-pi-ta="சிறுவர்" data-pi-en="Kids">Thirukkural for Kids</span>
+        </div>
+
+        <div class="pi-star-pill flex items-center gap-1.5 bg-gradient-to-b from-[#FFE066] to-[#FFB300] text-[#2B1B0E] font-extrabold text-sm px-3 py-1.5 rounded-full border-b-4 border-[#CC8400] shadow-sm shrink-0">
+          <svg viewBox="0 0 24 24" class="w-4 h-4 shrink-0 drop-shadow-sm" aria-hidden="true">
+            <path d="M12 2l2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17l-5.9 3 1.2-6.5L2.5 8.9 9.1 8z" fill="#FFF8DC" stroke="#B26A00" stroke-width="1.4"></path>
+          </svg>
+          <span>12</span>
+        </div>
+      </div>
+
+      <div class="flex items-center gap-2.5 shrink-0">
+        <nav aria-label="Age Group" class="desktop-only items-center bg-light-surface dark:bg-dark-surface-2 p-1 rounded-full border-2 border-light-outline dark:border-dark-outline shadow-sm">
+          <button type="button" class="px-3 py-1.5 rounded-full text-xs font-extrabold bg-gradient-to-r from-gradient-start to-gradient-mid text-[#1A1100] shadow-sm" data-ta="சிறுவர்" data-en="Child">Child</button>
+          <button type="button" class="px-3 py-1.5 rounded-full text-xs font-bold text-light-text-muted dark:text-dark-text-muted hover:text-light-on-bg dark:hover:text-dark-on-bg" data-ta="இளைஞர்" data-en="Teen">Teen</button>
+          <button type="button" class="px-3 py-1.5 rounded-full text-xs font-bold text-light-text-muted dark:text-dark-text-muted hover:text-light-on-bg dark:hover:text-dark-on-bg" data-ta="பெரியோர்" data-en="Adult">Adult</button>
+        </nav>
+
+        <button id="theme-toggle" type="button" aria-label="Toggle Theme" class="pi-header-btn toy-btn w-11 h-11 rounded-full bg-light-surface dark:bg-dark-surface-2 border-2 border-light-outline dark:border-dark-outline flex items-center justify-center text-light-on-bg dark:text-gold-frame shrink-0">
+          <svg id="icon-sun" class="hidden dark:block w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+            <circle cx="12" cy="12" r="4"></circle><path d="M12 2v2m0 16v2M4.93 4.93l1.41 1.41m11.32 11.32l1.41 1.41M2 12h2m16 0h2M4.93 19.07l1.41-1.41m11.32-11.32l1.41-1.41"></path>
+          </svg>
+          <svg id="icon-moon" class="block dark:hidden w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+        </button>
+
+        <button id="lang-toggle" type="button" aria-label="Switch Language" class="pi-lang-pill toy-btn min-h-[44px] px-4 rounded-full bg-light-surface dark:bg-dark-surface-2 border-2 border-light-outline dark:border-dark-outline font-extrabold text-sm flex items-center gap-1.5 shrink-0">
+          <span id="lang-ta-pill" class="px-2 py-0.5 rounded-full text-light-text-muted dark:text-dark-text-muted">தமிழ்</span>
+          <span class="text-light-text-muted dark:text-dark-text-muted">|</span>
+          <span id="lang-en-pill" class="px-2 py-0.5 rounded-full bg-gradient-start text-[#1A1100]">EN</span>
+        </button>
+      </div>
+    </header>
+
+    <main id="main-stage" class="flex-1 grid grid-cols-12 gap-5 px-6 py-3 items-stretch min-h-0">
+      <section id="left-stage" class="col-span-7 flex flex-col gap-3 min-h-0">
+        <div class="desktop-only h-16 shrink-0 items-center justify-between gap-3 bg-light-surface/95 dark:bg-dark-surface/95 rounded-3xl px-4 border-2 border-light-outline dark:border-dark-outline border-b-[5px] clay-card">
+          <div class="flex items-center gap-3 min-w-0">
+            <img src="https://lh3.googleusercontent.com/aida/ALJJyrCWsiIT3dOYMPuWQ_4KdFhfcU4W7LswYx-lnZl9rCQl49gMe1-rcROA2njbtD8pZ5_HGlozGjv924S2ug7_4UhwXV7JU8qcCi8hmkZG0VWI5sDbZpdHqCIKQlReb6P_sGaOL6JiV1DIXjWW8EIssq1abhrqQGYg4m1DuoWIwH45omjju7PsKLSZS9E1vurduhVylfMPXlvlR61m1Jpvd9pEHWiQCK04O64YkBl7l-jpBGTcsDLo35XvUNcK" alt="Thiruvalluvar" class="w-11 h-11 rounded-full object-cover border-2 border-gold-frame shadow-sm anim-bounce-gentle shrink-0">
+            <div class="min-w-0">
+              <p class="font-bold text-sm text-light-on-bg dark:text-dark-on-bg truncate" data-ta="வணக்கம் குட்டி! இன்று ஒரு அழகான குறள் கற்போமா?" data-en="Hello little star! Ready for today&#39;s fun Kural?">Hello little star! Ready for today&#39;s fun Kural?</p>
+            </div>
+          </div>
+          <button type="button" onclick="triggerAction(&#39;search&#39;)" class="toy-btn shrink-0 px-4 py-2 rounded-full bg-light-child-sky dark:bg-dark-child-sky text-light-on-child-sky font-extrabold text-sm flex items-center gap-1.5">
+            <span>🔍</span>
+            <span data-ta="தேடு" data-en="Search">Search</span>
+          </button>
+        </div>
+
+        <article id="kural-card" class="flex-1 min-h-0 flex flex-col justify-between bg-light-surface dark:bg-dark-surface rounded-3xl p-6 border-2 border-gold-frame/70 border-b-[6px] border-b-[#D49B2A] dark:border-b-[#8C6214] clay-card">
+          <div id="kural-card-header" class="flex items-center justify-between gap-2 shrink-0">
+            <div class="flex items-center gap-2">
+              <img src="https://lh3.googleusercontent.com/aida/ALJJyrCWsiIT3dOYMPuWQ_4KdFhfcU4W7LswYx-lnZl9rCQl49gMe1-rcROA2njbtD8pZ5_HGlozGjv924S2ug7_4UhwXV7JU8qcCi8hmkZG0VWI5sDbZpdHqCIKQlReb6P_sGaOL6JiV1DIXjWW8EIssq1abhrqQGYg4m1DuoWIwH45omjju7PsKLSZS9E1vurduhVylfMPXlvlR61m1Jpvd9pEHWiQCK04O64YkBl7l-jpBGTcsDLo35XvUNcK" alt="Grandpa" class="pi-only w-[22px] h-[22px] rounded-full object-cover border border-gold-frame shrink-0">
+              <span id="kural-badge-text" class="px-3.5 py-1 rounded-full bg-light-surface-2 dark:bg-dark-surface-2 border border-gold-frame/60 font-extrabold text-xs text-light-primary dark:text-dark-primary" data-ta-prefix="இன்றைய குறள் • குறள் #" data-en-prefix="Kural of the Day • Kural #">Kural of the Day • Kural #1</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <button id="prev-kural" type="button" aria-label="Previous Kural" class="pi-arrow-btn toy-btn w-10 h-10 rounded-full bg-light-surface-2 dark:bg-dark-surface-2 border border-light-outline dark:border-dark-outline font-extrabold text-sm flex items-center justify-center">◀</button>
+              <button id="next-kural" type="button" aria-label="Next Kural" class="pi-arrow-btn toy-btn w-10 h-10 rounded-full bg-light-surface-2 dark:bg-dark-surface-2 border border-light-outline dark:border-dark-outline font-extrabold text-sm flex items-center justify-center">▶</button>
+            </div>
+          </div>
+
+          <div class="flex-1 flex flex-col justify-center items-center text-center px-2 min-h-0">
+            <p id="kural-couplet" class="font-child font-bold text-2xl xl:text-[28px] leading-[1.45] text-light-on-bg dark:text-dark-on-bg transition-all duration-150">
+              As &#39;A&#39; is the first of all letters,<br>so is the Eternal First of the world.
+            </p>
+            <p id="kural-meaning" class="mt-3 text-base xl:text-lg font-medium text-light-text-muted dark:text-dark-text-muted max-w-xl">
+              Just as the letter &#34;A&#34; begins all words, kindness and the Creator begin our whole world.
+            </p>
+          </div>
+
+          <div id="kural-actions" class="flex items-center justify-center gap-3 shrink-0">
+            <button id="btn-listen" type="button" onclick="triggerListen()" class="pi-action-btn toy-btn h-12 px-6 rounded-full bg-gradient-to-r from-gradient-start to-gradient-mid text-[#1A1100] font-extrabold text-base flex items-center gap-2">
+              <span>🔊</span>
+              <span data-ta="குறளைக் கேள்" data-en="Listen" data-pi-ta="கேள்" data-pi-en="Listen">Listen</span>
+            </button>
+            <button type="button" onclick="triggerListen()" class="pi-action-btn toy-btn h-12 px-5 rounded-full bg-light-surface-2 dark:bg-dark-surface-2 border-2 border-light-outline dark:border-dark-outline text-light-on-bg dark:text-dark-on-bg font-extrabold text-sm flex items-center gap-1.5">
+              <svg viewBox="0 0 24 24" class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"></path><path d="M3 3v5h5"></path></svg>
+              <span data-ta="மீண்டும்" data-en="Replay">Replay</span>
+            </button>
+            <button type="button" onclick="toggleVoiceHud()" class="pi-action-btn toy-btn h-12 px-5 rounded-full bg-[#E8F8F2] dark:bg-[#10382B] border-2 border-light-success dark:border-dark-success text-light-on-bg dark:text-dark-on-bg font-extrabold text-sm flex items-center gap-1.5">
+              <svg viewBox="0 0 24 24" class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+              <span data-ta="தாத்தாவிடம் பேசு" data-en="Talk to Grandpa" data-pi-ta="தாத்தா" data-pi-en="Ask">Talk to Grandpa</span>
+            </button>
+          </div>
+        </article>
+      </section>
+
+      <section class="desktop-only col-span-5 flex-col gap-3 min-h-0">
+        <button type="button" onclick="triggerAction(&#39;story&#39;)" class="clay-card clay-card-interactive flex-1 min-h-0 text-left rounded-3xl p-5 bg-gradient-to-br from-[#DDF9EC] to-[#B7F0D6] dark:from-[#103329] dark:to-[#0C261E] border-2 border-[#2ECC8F]/60 border-b-[6px] border-b-[#1B8F5A] flex items-center justify-between gap-4">
+          <div class="flex flex-col justify-between h-full min-w-0">
+            <div>
+              <span class="inline-block px-3 py-0.5 rounded-full bg-white/80 dark:bg-black/30 text-xs font-extrabold text-[#12663F] dark:text-[#7CF3C0] mb-1.5" data-ta="&#34;கதை&#34;" data-en="&#34;Story&#34;">&#34;Story&#34;</span>
+              <h2 class="font-extrabold text-2xl text-[#0D3B26] dark:text-white" data-ta="குறள் கதைகள்" data-en="Kural Stories">Kural Stories</h2>
+              <p class="text-sm font-medium text-[#1D573B] dark:text-[#B9F5DA] mt-1" data-ta="வண்ணமயமான ஒலி-கதைகளைக் கேட்டு மகிழுங்கள்" data-en="Listen to colorful moral stories from Grandpa">Listen to colorful moral stories from Grandpa</p>
+            </div>
+            <div class="mt-2">
+              <span class="toy-btn inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[#1B8F5A] text-white font-extrabold text-sm">
+                <span>▶</span>
+                <span data-ta="விளையாடு" data-en="Play">Play</span>
+              </span>
+            </div>
+          </div>
+          <svg viewBox="0 0 96 96" class="w-24 h-24 shrink-0 anim-float-slow" aria-hidden="true">
+            <rect x="14" y="18" width="68" height="62" rx="12" fill="#1B8F5A"></rect>
+            <rect x="14" y="14" width="68" height="60" rx="12" fill="#2ECC8F"></rect>
+            <rect x="22" y="20" width="52" height="46" rx="6" fill="#FFFDF6"></rect>
+            <line x1="48" y1="20" x2="48" y2="66" stroke="#D9C7AD" stroke-width="2.5"></line>
+            <path d="M35 34l3 6 6 .8-4.5 4.2 1 6-5.5-3-5.5 3 1-6-4.5-4.2 6-.8z" fill="#FFB300"></path>
+            <rect x="54" y="34" width="14" height="4" rx="2" fill="#1B8F5A"></rect>
+            <rect x="54" y="43" width="12" height="4" rx="2" fill="#80CFA9"></rect>
+          </svg>
+        </button>
+
+        <button type="button" onclick="triggerAction(&#39;audio&#39;)" class="clay-card clay-card-interactive flex-1 min-h-0 text-left rounded-3xl p-5 bg-gradient-to-br from-[#FFF0D6] to-[#FFDAA0] dark:from-[#38230D] dark:to-[#281808] border-2 border-[#FFB300]/70 border-b-[6px] border-b-[#D87B00] flex items-center justify-between gap-4">
+          <div class="flex flex-col justify-between h-full min-w-0">
+            <div>
+              <span class="inline-block px-3 py-0.5 rounded-full bg-white/80 dark:bg-black/30 text-xs font-extrabold text-[#9A4B00] dark:text-[#FFD166] mb-1.5" data-ta="&#34;பாடு&#34;" data-en="&#34;Audio&#34;">&#34;Audio&#34;</span>
+              <h3 class="font-extrabold text-2xl text-[#4A2500] dark:text-white" data-ta="கேட்டு மகிழ்!" data-en="Listen &amp; Learn">Listen &amp; Learn</h3>
+              <p class="text-sm font-medium text-[#753E00] dark:text-[#FFE0A3] mt-1" data-ta="இசை மற்றும் குறள் பாடல்கள்" data-en="Songs &amp; audio rhymes">Songs &amp; audio rhymes</p>
+            </div>
+            <div class="mt-2">
+              <span class="toy-btn inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[#D87B00] text-white font-extrabold text-sm">
+                <span>🔊</span>
+                <span data-ta="கேள்" data-en="Listen">Listen</span>
+              </span>
+            </div>
+          </div>
+          <svg viewBox="0 0 64 64" class="w-20 h-20 shrink-0 anim-float-slow" aria-hidden="true">
+            <path d="M16 34a16 16 0 0 1 32 0" fill="none" stroke="#FF6A00" stroke-width="6" stroke-linecap="round"></path>
+            <rect x="10" y="30" width="11" height="18" rx="5" fill="#FFB300" stroke="#B26A00" stroke-width="2"></rect>
+            <rect x="43" y="30" width="11" height="18" rx="5" fill="#FFB300" stroke="#B26A00" stroke-width="2"></rect>
+          </svg>
+        </button>
+      </section>
+    </main>
+
+    <footer class="desktop-only h-14 px-6 items-center justify-between shrink-0">
+      <div class="flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-light-surface/90 dark:bg-dark-surface/90 border border-light-outline dark:border-dark-outline text-xs font-bold text-light-text-muted dark:text-dark-text-muted">
+        <span class="w-2 h-2 rounded-full bg-light-success dark:bg-dark-success"></span>
+        <span data-ta="ஆஃப்லைன் • Raspberry Pi 4B" data-en="Offline • Raspberry Pi 4B">Offline • Raspberry Pi 4B</span>
+      </div>
+
+      <button id="desktop-voice-btn" type="button" onclick="toggleVoiceHud()" class="toy-btn relative px-6 py-2.5 rounded-full bg-gradient-to-r from-gradient-start via-gradient-mid to-gradient-end text-white font-extrabold text-sm flex items-center gap-2.5">
+        <span class="w-3 h-3 rounded-full bg-white animate-ping absolute left-4 opacity-50"></span>
+        <svg viewBox="0 0 24 24" class="w-4 h-4 relative shrink-0" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="2" width="6" height="11" rx="3"></rect><path d="M5 10v2a7 7 0 0 0 14 0v-2"></path><line x1="12" y1="19" x2="12" y2="22"></line></svg>
+        <span data-ta="&#34;தாத்தா, அடுத்த குறள்&#34; என்று சொல்லுங்கள்" data-en="Say &#34;Next Kural&#34;, &#34;Story&#34;, or &#34;Dark Mode&#34;">Say &#34;Next Kural&#34;, &#34;Story&#34;, or &#34;Dark Mode&#34;</span>
+      </button>
+
+      <button id="sound-toggle" type="button" onclick="toggleSound()" class="toy-btn px-4 py-1.5 rounded-full bg-light-surface dark:bg-dark-surface-2 border border-light-outline dark:border-dark-outline text-xs font-extrabold flex items-center gap-1.5">
+        <span id="sound-icon">🔊</span>
+        <span id="sound-label" data-ta="ஒலி: ஆன்" data-en="Sound: On">Sound: On</span>
+      </button>
+    </footer>
+
+    <footer id="pi-zone-3" class="pi-only pi-grid-only shrink-0">
+      <button type="button" onclick="triggerAction(&#39;story&#39;)" class="pi-dock-tile clay-card-interactive bg-[#C8F7E0] dark:bg-[#10382B] border-2 border-[#2ECC8F] border-b-[#1B8F5A] flex flex-col items-center justify-center">
+        <svg viewBox="0 0 24 24" class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
+        <span class="pi-dock-label font-extrabold text-[#0B3B24] dark:text-white mt-1" data-ta="கதை" data-en="Story">Story</span>
+      </button>
+
+      <div class="relative flex items-end justify-center">
+        <span class="anim-orb-pulse absolute w-[74px] h-[74px] rounded-full border-[3px] border-gold-frame pointer-events-none"></span>
+        <button id="pi-voice-orb" type="button" onclick="toggleVoiceHud()" class="toy-btn relative rounded-full bg-gradient-to-b from-gradient-start via-gradient-mid to-gradient-end border-2 border-white/70 text-white flex flex-col items-center justify-center shadow-lg">
+          <svg viewBox="0 0 24 24" class="w-6 h-6 shrink-0" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="2" width="6" height="11" rx="3"></rect><path d="M5 10v2a7 7 0 0 0 14 0v-2"></path><line x1="12" y1="19" x2="12" y2="22"></line></svg>
+          <span class="text-[10px] font-extrabold mt-0.5" data-ta="பேசு" data-en="Speak">Speak</span>
+        </button>
+      </div>
+
+      <button type="button" onclick="triggerAction(&#39;audio&#39;)" class="pi-dock-tile clay-card-interactive bg-[#FFE5BD] dark:bg-[#38230D] border-2 border-[#FFB300] border-b-[#D87B00] flex flex-col items-center justify-center">
+        <span class="text-base leading-none">🎧</span>
+        <span class="pi-dock-label font-extrabold text-[#4A2500] dark:text-white mt-1" data-ta="கேள்" data-en="Audio">Audio</span>
+      </button>
+    </footer>
+  </div>
+
+  <div id="voice-hud" class="hidden fixed bottom-20 left-1/2 -translate-x-1/2 z-50 bg-light-surface dark:bg-dark-surface border-2 border-gold-frame rounded-full px-5 py-2.5 shadow-2xl flex items-center gap-3">
+    <div class="flex items-end gap-1 h-5" aria-hidden="true">
+      <span class="eq-bar w-1.5 h-5 rounded-full bg-gradient-start"></span>
+      <span class="eq-bar w-1.5 h-5 rounded-full bg-gradient-mid"></span>
+      <span class="eq-bar w-1.5 h-5 rounded-full bg-gradient-end"></span>
+      <span class="eq-bar w-1.5 h-5 rounded-full bg-gradient-mid"></span>
+      <span class="eq-bar w-1.5 h-5 rounded-full bg-gradient-start"></span>
+    </div>
+    <span id="voice-hud-text" class="font-extrabold text-sm text-light-on-bg dark:text-dark-on-bg whitespace-nowrap" data-ta="கேட்கிறேன்... பேசுங்கள்!" data-en="Listening... Speak now!">Listening... Speak now!</span>
+    <button type="button" onclick="toggleVoiceHud(false)" class="ml-1 text-xs font-extrabold px-2 py-0.5 rounded-full bg-light-surface-2 dark:bg-dark-surface-2">✕</button>
+  </div>
+
+  <script>
+    const KURALS = [
+      {
+        num: 1,
+        coupletTa: 'அகர முதல எழுத்தெல்லாம் ஆதி<br/>பகவன் முதற்றே உலகு.',
+        coupletEn: 'As \'A\' is the first of all letters,<br/>so is the Eternal First of the world.',
+        ta: 'எழுத்துக்கள் எல்லாம் \'அ\' என்ற எழுத்தில் தொடங்குவது போல, இந்த உலகம் இறைவனை முதலாகக் கொண்டது.',
+        en: 'Just as the letter "A" begins all words, kindness and the Creator begin our whole world.'
+      },
+      {
+        num: 391,
+        coupletTa: 'கற்க கசடறக் கற்பவை கற்றபின்<br/>நிற்க அதற்குத் தக.',
+        coupletEn: 'Learn flawlessly what ought to be learned;<br/>then stand firm and live by it.',
+        ta: 'நல்ல பாடங்களைக் குற்றமின்றித் தெளிவாகக் கற்று, கற்றபடியே நல்ல ஒழுக்கத்துடன் வாழ வேண்டும்.',
+        en: 'Learn good things clearly without mistakes, and then live by what you have learned!'
+      },
+      {
+        num: 100,
+        coupletTa: 'இனிய உளவாக இன்னாத கூறல்<br/>கனியிருப்பக் காய்கவர்ந் தற்று.',
+        coupletEn: 'When sweet words are right there to say,<br/>speaking harsh ones is picking unripe fruit over ripe.',
+        ta: 'இனிமையான சொற்கள் இருக்கும்போது கடுமையான சொற்களைப் பேசுவது, பழம் இருக்கும்போது காயைத் தின்பது போன்றது.',
+        en: 'Using harsh words when sweet words exist is like eating a sour unripe fruit instead of a ripe mango!'
+      }
+    ];
+
+    let kuralIdx = 0;
+    let currentLang = document.documentElement.getAttribute('lang') || 'en';
+    let soundOn = true;
+    let listening = false;
+    let listenTimer = null;
+
+    function isPiCompact() {
+      return window.innerWidth <= 560 && window.innerHeight <= 380;
+    }
+
+    function renderKural() {
+      const k = KURALS[kuralIdx];
+      const coupletEl = document.getElementById('kural-couplet');
+      const meaningEl = document.getElementById('kural-meaning');
+      const badgeEl = document.getElementById('kural-badge-text');
+
+      coupletEl.innerHTML = currentLang === 'ta' ? k.coupletTa : k.coupletEn;
+      coupletEl.classList.toggle('font-kural', currentLang === 'ta');
+      coupletEl.classList.toggle('font-child', currentLang !== 'ta');
+      meaningEl.textContent = currentLang === 'ta' ? k.ta : k.en;
+
+      if (isPiCompact()) {
+        badgeEl.textContent = (currentLang === 'ta' ? 'குறள் #' : 'Kural #') + k.num;
+      } else {
+        const prefix = currentLang === 'ta' ? badgeEl.dataset.taPrefix : badgeEl.dataset.enPrefix;
+        badgeEl.textContent = prefix + k.num;
+      }
+    }
+
+    function applyLanguage(lang) {
+      currentLang = lang;
+      document.documentElement.setAttribute('lang', lang);
+
+      const taPill = document.getElementById('lang-ta-pill');
+      const enPill = document.getElementById('lang-en-pill');
+      if (lang === 'ta') {
+        taPill.className = 'px-2 py-0.5 rounded-full bg-gradient-start text-[#1A1100]';
+        enPill.className = 'px-2 py-0.5 rounded-full text-light-text-muted dark:text-dark-text-muted';
+      } else {
+        enPill.className = 'px-2 py-0.5 rounded-full bg-gradient-start text-[#1A1100]';
+        taPill.className = 'px-2 py-0.5 rounded-full text-light-text-muted dark:text-dark-text-muted';
+      }
+
+      document.querySelectorAll('[data-ta][data-en]').forEach((el) => {
+        if (isPiCompact() && el.dataset.piTa && el.dataset.piEn) {
+          el.textContent = lang === 'ta' ? el.dataset.piTa : el.dataset.piEn;
+        } else {
+          el.textContent = lang === 'ta' ? el.dataset.ta : el.dataset.en;
+        }
+      });
+
+      renderKural();
+    }
+
+    document.getElementById('theme-toggle').addEventListener('click', () => {
+      const html = document.documentElement;
+      const isDark = html.classList.toggle('dark');
+      html.setAttribute('data-theme', isDark ? 'dark' : 'light');
+    });
+
+    document.getElementById('lang-toggle').addEventListener('click', () => {
+      applyLanguage(currentLang === 'ta' ? 'en' : 'ta');
+    });
+
+    document.getElementById('prev-kural').addEventListener('click', () => {
+      kuralIdx = (kuralIdx - 1 + KURALS.length) % KURALS.length;
+      renderKural();
+    });
+
+    document.getElementById('next-kural').addEventListener('click', () => {
+      kuralIdx = (kuralIdx + 1) % KURALS.length;
+      renderKural();
+    });
+
+    function toggleVoiceHud(forceState) {
+      const hud = document.getElementById('voice-hud');
+      listening = typeof forceState === 'boolean' ? forceState : !listening;
+      hud.classList.toggle('hidden', !listening);
+    }
+
+    function triggerListen() {
+      const couplet = document.getElementById('kural-couplet');
+      couplet.classList.add('text-light-primary', 'dark:text-dark-primary', 'scale-[1.02]');
+      const hud = document.getElementById('voice-hud');
+      const hudText = document.getElementById('voice-hud-text');
+      hudText.textContent = currentLang === 'ta' ? '🔊 குறள் ஒலிக்கிறது...' : '🔊 Playing Kural audio...';
+      hud.classList.remove('hidden');
+      clearTimeout(listenTimer);
+      listenTimer = setTimeout(() => {
+        couplet.classList.remove('text-light-primary', 'dark:text-dark-primary', 'scale-[1.02]');
+        hud.classList.add('hidden');
+        hudText.textContent = currentLang === 'ta' ? hudText.dataset.ta : hudText.dataset.en;
+      }, 2200);
+    }
+
+    function triggerAction(kind) {
+      const labels = {
+        story: { ta: '📖 குறள் கதைகள் திறக்கிறது...', en: '📖 Opening Kural Stories...' },
+        games: { ta: '🎮 குறள் விளையாட்டு திறக்கிறது...', en: '🎮 Opening Fun Games...' },
+        audio: { ta: '🎧 குறள் பாடல்கள் திறக்கிறது...', en: '🎧 Opening Audio Rhymes...' },
+        search: { ta: '🔍 குறள் தேடல் திறக்கிறது...', en: '🔍 Opening Kural Search...' }
+      };
+      const hud = document.getElementById('voice-hud');
+      const hudText = document.getElementById('voice-hud-text');
+      hudText.textContent = labels[kind][currentLang];
+      hud.classList.remove('hidden');
+      clearTimeout(listenTimer);
+      listenTimer = setTimeout(() => {
+        hud.classList.add('hidden');
+        hudText.textContent = currentLang === 'ta' ? hudText.dataset.ta : hudText.dataset.en;
+      }, 1800);
+    }
+
+    function toggleSound() {
+      soundOn = !soundOn;
+      document.getElementById('sound-icon').textContent = soundOn ? '🔊' : '🔇';
+      const label = document.getElementById('sound-label');
+      label.dataset.ta = soundOn ? 'ஒலி: ஆன்' : 'ஒலி: ஆஃப்';
+      label.dataset.en = soundOn ? 'Sound: On' : 'Sound: Off';
+      label.textContent = currentLang === 'ta' ? label.dataset.ta : label.dataset.en;
+    }
+
+    window.addEventListener('resize', () => applyLanguage(currentLang));
+    applyLanguage(currentLang);
+  </script>
+
+
+</body></html>

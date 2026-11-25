@@ -1,0 +1,36 @@
+[Unit]
+Description=Thiruvalluvar AI Offline Bilingual Kiosk (Wayland cage + Pure-Rust Dioxus)
+Documentation=file:///opt/thiruvalluvar-ai/docs/PI_DEPLOYMENT_GUIDE.md
+After=dbus.socket systemd-logind.service getty@tty1.service plymouth-quit-wait.service sound.target local-fs.target
+Wants=sound.target
+Conflicts=getty@tty1.service
+StartLimitIntervalSec=60
+StartLimitBurst=5
+
+[Service]
+Type=simple
+User=pi
+SupplementaryGroups=video render input audio
+PAMName=login
+TTYPath=/dev/tty1
+TTYReset=yes
+TTYVHangup=yes
+TTYVTDisallocate=yes
+StandardInput=tty
+StandardOutput=journal
+StandardError=journal
+WorkingDirectory=/opt/thiruvalluvar-ai
+Environment=GST_AUDIO_SINK=fakesink
+Environment=XDG_CACHE_HOME=/tmp/kural-cache
+Environment=XDG_DATA_HOME=/tmp/kural-xdg-data
+Environment=GDK_BACKEND=wayland
+Environment=WEBKIT_DISABLE_DMABUF_RENDERER=1
+Environment=WLR_NO_HARDWARE_CURSORS=1
+ExecStart=/opt/thiruvalluvar-ai/deploy/launch_kiosk.sh
+Restart=on-failure
+RestartSec=3s
+MemoryHigh=700M
+MemoryMax=850M
+
+[Install]
+WantedBy=multi-user.target

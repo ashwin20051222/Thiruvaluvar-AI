@@ -1,0 +1,588 @@
+{
+  "adhikaram_id": 53,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.932068525+00:00",
+  "kurals": [
+    {
+      "kural_number": 521,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ஒருவன் வறியவனான காலத்திலும் அவனுக்கும் தமக்கும் இருந்த உறவைப் பாராட்டிப் பேசும் பண்புகள் சுற்றத்தாரிடம் உண்டு.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Even when (a man's) property is all gone, relatives will act towards him with their accustomed (kindness).",
+        "story_title_ta": "சுற்றந் தழால் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Cherishing Kinsmen — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சுற்றந் தழால்' என்ற அதிகாரத்திலிருந்து குறள் 521 பற்றிக் கதை சொன்னார். 'ஒருவன் பிடிமானம் ஏதும் இல்லாமல் எல்லாம் இழந்த நிலையில் இருந்தபோதும், அவனுடன் தங்களுக்கு உள்ள பழந்தொடர்பைக் கூறுவது சுற்றத்தாரிடம் மட்டுமே உண்டு.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 53, 'Cherishing Kinsmen', centered on Kural 521: Even when (a man's) property is all gone, relatives will act towards him with their accustomed (kindness). Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒருவருக்கு வறுமை வந்த நேரத்திலும் அவரிடம் பழைய உறவைப் பாராட்டும் பண்பு உடையவர்களே சுற்றத்தார் ஆவார்கள்.",
+        "moral_en": "Moral: When wealth is fled, old kindness still to show, Is kindly grace that only kinsmen know.",
+        "game_blank_word_ta": "கண்ணே",
+        "game_options_ta": [
+          "விருப்பறாச்",
+          "கண்ணே",
+          "சுற்றம்",
+          "இயையின்"
+        ],
+        "game_options_en": [
+          "The gift of loving Kins bestows Fadeless fortune's fresh flowers",
+          "Let fortunes go; yet kinsmen know The old accustomed love to show",
+          "A kinless wealth is like a tank Which overflows without a bank",
+          "The fruit of growing wealth is gained When kith and kin are happy found"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சுற்றந் தழால் (அரசியல்) பிரிவில் அமைந்த குறள் 521, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவன் பிடிமானம் ஏதும் இல்லாமல் எல்லாம் இழந்த நிலையில் இருந்தபோதும், அவனுடன் தங்களுக்கு உள்ள பழந்தொடர்பைக் கூறுவது சுற்றத்தாரிடம் மட்டுமே உண்டு. கலைஞர் உரை கூறுவது: ஒருவருக்கு வறுமை வந்த நேரத்திலும் அவரிடம் பழைய உறவைப் பாராட்டும் பண்பு உடையவர்களே சுற்றத்தார் ஆவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Cherishing Kinsmen (Royalty & Polity), Kural 521 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even when (a man's) property is all gone, relatives will act towards him with their accustomed (kindness). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சுற்றந் தழால்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Cherishing Kinsmen' thoughtfully.",
+        "quiz_question_ta": "'சுற்றந் தழால்' அதிகாரத்தில் வரும் திருக்குறள் 521 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 521 from Chapter 'Cherishing Kinsmen'?",
+        "quiz_options_ta": [
+          "எளிதில் காணமுடியாத அருமையும், இனிமையற்ற முகமும் உடையவனது பெரிய செல்வம், பேய் கண்டு காத்திருப்பதைப் போன்ற தன்மையுடையது.",
+          "ஒருவன் வறியவனான காலத்திலும் அவனுக்கும் தமக்கும் இருந்த உறவைப் பாராட்டிப் பேசும் பண்புகள் சுற்றத்தாரிடம் உண்டு.",
+          "சோம்பல் நல்ல குடியில் பிறந்தவனிடம் வந்து பொருந்தினால், அஃது அவனை அவனுடைய பகைவர்க்கு அடிமையாகுமாறு செய்துவிடும்.",
+          "ஒருவனுக்கு வாய்த்த துணையின் நன்மை ஆக்கத்தைக் கொடுக்கும், செய்யும் வினையின் நன்மை அவன் விரும்பிய எல்லாவற்றையும் கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "Whose sight is scarce, whose face is foul His wealth seems watched by a ghoul",
+          "Let fortunes go; yet kinsmen know The old accustomed love to show",
+          "If sloth invades a noble house It will become a slave of foes",
+          "Friendship brings gain; but action pure Does every good thing we desire"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சுற்றந் தழால்) பகுதியில் குறள் 521 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் வறியவனான காலத்திலும் அவனுக்கும் தமக்கும் இருந்த உறவைப் பாராட்டிப் பேசும் பண்புகள் சுற்றத்தாரிடம் உண்டு. பரிமேலழகர் உரை நுட்பம்: பற்று அற்ற கண்ணும் பழைமை பாராட்டுதல் - ஒருவன் செல்வம் தொலைந்து வறியனாய வழியும் விடாது தம்மோடு அவனிடைப் பழைமையை எடுத்துக் கொண்டாடும் இயல்புகள், சுற்றத்தார்கண்ணே உள - சுற்றத்தார்மாட்டே உள ஆவன. (சிறப்பு உம்மை வறியனாயவழிப் பாராட்டப்படாமை விளக்கி நின்றது. பழைமை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 53: 'Cherishing Kinsmen'), Kural 521 distills a foundational ethical insight: \"When wealth is fled, old kindness still to show, Is kindly grace that only kinsmen know\" Philosophically, Even when (a man's) property is all gone, relatives will act towards him with their accustomed (kindness).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "love",
+        "kindness",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 522,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அன்பு நீங்காத சுற்றம் ஒருவனுக்குக் கிடைத்தால், அது மேன்மேலும் வளர்ச்சி குறையாத ஆக்கம் பலவற்றையும் அவனுக்குக் கொடுக்கும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If (a man's) relatives remain attached to him with unchanging love, it will be a source of everincreasing wealth.",
+        "story_title_ta": "சுற்றந் தழால் — கவின் கற்ற பாடம்",
+        "story_title_en": "Cherishing Kinsmen — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சுற்றந் தழால்' என்ற அதிகாரத்திலிருந்து குறள் 522 பற்றிக் கதை சொன்னார். 'ஒருவனுக்கு அன்பு நீங்காத சுற்றம் மட்டும் அமைந்து விடுமானால், அவனுக்கு அது வளர்ச்சி குறையாத செல்வங்கள் பலவற்றையும் கொடுக்கும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 53, 'Cherishing Kinsmen', centered on Kural 522: If (a man's) relatives remain attached to him with unchanging love, it will be a source of everincreasing wealth. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எந்த நிலைமையிலும் அன்பு குறையாத சுற்றம் ஒருவருக்குக் கிடைத்தால் அது அவருக்கு ஆக்கமும், வளர்ச்சியும் அளிக்கக் கூடியதாக அமையும்.",
+        "moral_en": "Moral: The gift of kin's unfailing love bestowsMuch gain of good, like flower that fadeless blows.",
+        "game_blank_word_ta": "ஆக்கம்",
+        "game_options_ta": [
+          "பற்றற்ற",
+          "கண்ணும்",
+          "ஆக்கம்",
+          "பழைமைபா"
+        ],
+        "game_options_en": [
+          "Let fortunes go; yet kinsmen know The old accustomed love to show",
+          "A kinless wealth is like a tank Which overflows without a bank",
+          "The gift of loving Kins bestows Fadeless fortune's fresh flowers",
+          "The fruit of growing wealth is gained When kith and kin are happy found"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சுற்றந் தழால் (அரசியல்) பிரிவில் அமைந்த குறள் 522, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவனுக்கு அன்பு நீங்காத சுற்றம் மட்டும் அமைந்து விடுமானால், அவனுக்கு அது வளர்ச்சி குறையாத செல்வங்கள் பலவற்றையும் கொடுக்கும். கலைஞர் உரை கூறுவது: எந்த நிலைமையிலும் அன்பு குறையாத சுற்றம் ஒருவருக்குக் கிடைத்தால் அது அவருக்கு ஆக்கமும், வளர்ச்சியும் அளிக்கக் கூடியதாக அமையும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Cherishing Kinsmen (Royalty & Polity), Kural 522 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If (a man's) relatives remain attached to him with unchanging love, it will be a source of everincreasing wealth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சுற்றந் தழால்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Cherishing Kinsmen' thoughtfully.",
+        "quiz_question_ta": "'சுற்றந் தழால்' அதிகாரத்தில் வரும் திருக்குறள் 522 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 522 from Chapter 'Cherishing Kinsmen'?",
+        "quiz_options_ta": [
+          "கடுஞ்சொல் உடையவனாய்க் கண்ணோட்டம் இல்லாதவனாய் உள்ளவனுடைய பெரிய செல்வம் நீடித்தல் இல்லாமல் அப்பொழுதே கெடும்.",
+          "ஒருவன் சோம்பலை ஆளுந் தன்மையை மாற்றிவிட்டால் அவனுடைய குடியிலும் ஆண்மையிலும் வந்தக் குற்றம் தீர்ந்து விடும்.",
+          "அன்பு நீங்காத சுற்றம் ஒருவனுக்குக் கிடைத்தால், அது மேன்மேலும் வளர்ச்சி குறையாத ஆக்கம் பலவற்றையும் அவனுக்குக் கொடுக்கும்.",
+          "புகழையும் அறத்தையும் தாராத (தூய்மை அற்ற) செயல்களை எக்காலத்திலும் ஒருவன் செய்யாமல் விட்டொழிக்க வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "Whose word is harsh, whose sight is rude His wealth and power quickly fade",
+          "The blots on race and rule shall cease When one from sloth gets his release",
+          "The gift of loving Kins bestows Fadeless fortune's fresh flowers",
+          "Eschew always acts that do not Bring good nor glory on their part"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சுற்றந் தழால்) பகுதியில் குறள் 522 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன்பு நீங்காத சுற்றம் ஒருவனுக்குக் கிடைத்தால், அது மேன்மேலும் வளர்ச்சி குறையாத ஆக்கம் பலவற்றையும் அவனுக்குக் கொடுக்கும். பரிமேலழகர் உரை நுட்பம்: விருப்பு அறாச் சுற்றம் இயையின் - அன்பு அறாத சுற்றம் ஒருவற்கு எய்துமாயின், அருப்பு அறா ஆக்கம் பலவும் தரும் - அஃது அவற்குக் கிளைத்தல் அறாத செல்வங்கள் பலவற்றையும் கொடுக்கும். (உட்பகையின் நீக்குதற்கு 'விருப்புஅறாச் சுற்றம' என்றும், தானே வளர்க்கும் ஒரு தலையாய...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 53: 'Cherishing Kinsmen'), Kural 522 distills a foundational ethical insight: \"The gift of kin's unfailing love bestowsMuch gain of good, like flower that fadeless blows\" Philosophically, If (a man's) relatives remain attached to him with unchanging love, it will be a source of everincreasing wealth.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "love",
+        "wealth",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 523,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: சுற்றத்தாரோடு மனம் கலந்து பழகும் தன்மை இல்லாதவனுடைய வாழ்க்கை, குளப்பரப்பானது கரையில்லாமல் நீர் நிறைந்தாற் போன்றது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The wealth of one who does not mingle freely with his relatives, will be like the filling of water in a.",
+        "story_title_ta": "சுற்றந் தழால் — நிலா கற்ற பாடம்",
+        "story_title_en": "Cherishing Kinsmen — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சுற்றந் தழால்' என்ற அதிகாரத்திலிருந்து குறள் 523 பற்றிக் கதை சொன்னார். 'சுற்றத்தாரோடு மனந்திறந்து உறவாடாதவன் வாழ்க்கை, கரை இல்லாத குளப்பரப்பில் நீர் நிறைந்திருப்பது போன்றது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 53, 'Cherishing Kinsmen', centered on Kural 523: The wealth of one who does not mingle freely with his relatives, will be like the filling of water in a. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உற்றார் உறவினர் எனச் சூழ இருப்போருடன் அன்பு கலந்து மகிழ்ந்து பழகாதவனுடைய வாழ்க்கையானது; கரையில்லாத குளத்தில் நீர் நிறைந்ததைப் போலப் பயனற்றதாகி விடும்.",
+        "moral_en": "Moral: His joy of life who mingles not with kinsmen gathered round, Is lake where streams pour in, with no encircling bound.",
+        "game_blank_word_ta": "நீர்நிறைந்",
+        "game_options_ta": [
+          "பற்றற்ற",
+          "கண்ணும்",
+          "பழைமைபா",
+          "நீர்நிறைந்"
+        ],
+        "game_options_en": [
+          "Let fortunes go; yet kinsmen know The old accustomed love to show",
+          "The gift of loving Kins bestows Fadeless fortune's fresh flowers",
+          "The fruit of growing wealth is gained When kith and kin are happy found",
+          "A kinless wealth is like a tank Which overflows without a bank"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சுற்றந் தழால் (அரசியல்) பிரிவில் அமைந்த குறள் 523, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சுற்றத்தாரோடு மனந்திறந்து உறவாடாதவன் வாழ்க்கை, கரை இல்லாத குளப்பரப்பில் நீர் நிறைந்திருப்பது போன்றது. கலைஞர் உரை கூறுவது: உற்றார் உறவினர் எனச் சூழ இருப்போருடன் அன்பு கலந்து மகிழ்ந்து பழகாதவனுடைய வாழ்க்கையானது; கரையில்லாத குளத்தில் நீர் நிறைந்ததைப் போலப் பயனற்றதாகி விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Cherishing Kinsmen (Royalty & Polity), Kural 523 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The wealth of one who does not mingle freely with his relatives, will be like the filling of water in a. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சுற்றந் தழால்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Cherishing Kinsmen' thoughtfully.",
+        "quiz_question_ta": "'சுற்றந் தழால்' அதிகாரத்தில் வரும் திருக்குறள் 523 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 523 from Chapter 'Cherishing Kinsmen'?",
+        "quiz_options_ta": [
+          "கடுமையான சொல்லும் முறைகடந்த தண்டனையும் அரசனுடைய வெற்றிக்கு காரணமான வலிமையைத் தேய்க்கும் அரம் ஆகும்.",
+          "அடியால் உலகத்தை அளந்த கடவுள் தாவியப் பரப்பு எல்லாவற்றையும் சோம்பல் இல்லாத அரசன் ஒரு சேர அடைவான்.",
+          "மேன்மேலும் உயர்வோம் என்று விரும்பி முயல்கின்றவர் தம்முடைய புகழ் கெடுவதற்குக் காரணமான செயலைச் செய்யாமல் விட வேண்டும்.",
+          "சுற்றத்தாரோடு மனம் கலந்து பழகும் தன்மை இல்லாதவனுடைய வாழ்க்கை, குளப்பரப்பானது கரையில்லாமல் நீர் நிறைந்தாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Reproofs rough and punishments rude Like files conquering power corrode",
+          "The slothless king shall gain en masse *All regions trod by Lord apace * Hindu mythology holds that Lord Vishnu measured with his feet the three worlds",
+          "Those in the world desire for fame Should shun the deed that dims their name",
+          "A kinless wealth is like a tank Which overflows without a bank"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சுற்றந் தழால்) பகுதியில் குறள் 523 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: சுற்றத்தாரோடு மனம் கலந்து பழகும் தன்மை இல்லாதவனுடைய வாழ்க்கை, குளப்பரப்பானது கரையில்லாமல் நீர் நிறைந்தாற் போன்றது. பரிமேலழகர் உரை நுட்பம்: அளவளாவு இல்லாதான் வாழ்க்கை - அச்சுற்றத்தோடு நெஞ்சு கலத்தல் இல்லாதாவன் வாழ்க்கை, குளவளாக் கோடுஇன்றி நீர் நிறைந்தற்று -குளப்பரப்புக் கரையின்றி நீர் நிறைந்தாற்போலும். (சுற்றத்தோடு என்பது அதிகாரத்தான் வந்தது. நெஞ்சுக் கலப்புத் தன்னளவும் அதனளவும் உசாவுதலான் வருவது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 53: 'Cherishing Kinsmen'), Kural 523 distills a foundational ethical insight: \"His joy of life who mingles not with kinsmen gathered round, Is lake where streams pour in, with no encircling bound\" Philosophically, The wealth of one who does not mingle freely with his relatives, will be like the filling of water in a.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "wealth",
+        "self-mastery",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 524,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தக்கவழியில் செய்யப்படாத முயற்சி பலர் துணையாக நின்று(அதை முடிக்குமாறு) காத்த போதிலும் குறையாகிவிடும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: To live surrounded by relatives, is the advantage to be derived from the acquisition of wealth.",
+        "story_title_ta": "சுற்றந் தழால் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Cherishing Kinsmen — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சுற்றந் தழால்' என்ற அதிகாரத்திலிருந்து குறள் 524 பற்றிக் கதை சொன்னார். 'தன் சுற்றத்தால் தான் சூழப்படும்படி அவர்களைத் தழுவி வாழ்வதே ஒருவன் செல்வத்தைப் பெற்றதன் பயன் ஆகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 53, 'Cherishing Kinsmen', centered on Kural 524: To live surrounded by relatives, is the advantage to be derived from the acquisition of wealth. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தன் இனத்தார், அன்புடன் தன்னைச் சூழ்ந்து நிற்க வாழும் வாழ்க்கையே ஒருவன் பெற்ற செல்வத்தினால் கிடைத்திடும் பயனாகும்.",
+        "moral_en": "Moral: The profit gained by wealth's increase, Is living compassed round by relatives in peace.",
+        "game_blank_word_ta": "பயன்",
+        "game_options_ta": [
+          "பயன்",
+          "பற்றற்ற",
+          "கண்ணும்",
+          "பழைமைபா"
+        ],
+        "game_options_en": [
+          "The fruit of growing wealth is gained When kith and kin are happy found",
+          "Let fortunes go; yet kinsmen know The old accustomed love to show",
+          "The gift of loving Kins bestows Fadeless fortune's fresh flowers",
+          "A kinless wealth is like a tank Which overflows without a bank"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சுற்றந் தழால் (அரசியல்) பிரிவில் அமைந்த குறள் 524, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் சுற்றத்தால் தான் சூழப்படும்படி அவர்களைத் தழுவி வாழ்வதே ஒருவன் செல்வத்தைப் பெற்றதன் பயன் ஆகும். கலைஞர் உரை கூறுவது: தன் இனத்தார், அன்புடன் தன்னைச் சூழ்ந்து நிற்க வாழும் வாழ்க்கையே ஒருவன் பெற்ற செல்வத்தினால் கிடைத்திடும் பயனாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Cherishing Kinsmen (Royalty & Polity), Kural 524 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To live surrounded by relatives, is the advantage to be derived from the acquisition of wealth. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சுற்றந் தழால்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Cherishing Kinsmen' thoughtfully.",
+        "quiz_question_ta": "'சுற்றந் தழால்' அதிகாரத்தில் வரும் திருக்குறள் 524 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 524 from Chapter 'Cherishing Kinsmen'?",
+        "quiz_options_ta": [
+          "தக்கவழியில் செய்யப்படாத முயற்சி பலர் துணையாக நின்று(அதை முடிக்குமாறு) காத்த போதிலும் குறையாகிவிடும்.",
+          "அமைச்சர் முதலான தன் இனத்தாரிடம் கலந்து எண்ணாத அரசன், சினத்தின் வழியில் சென்று சீறி நிற்பானானால், அவனுடைய செல்வம் சுருங்கும்.",
+          "இது செய்வதற்கு அருமையாகாது என்று சோர்வுறாமல் இருக்க வேண்டும், அதைச் செய்வதற்க்குத் தக்க பெருமையை முயற்சி உண்டாக்கும்,",
+          "அசைவற்ற ‌தெளிந்த அறிவினையுடையவர், துன்பத்தில் சிக்குண்டாலும் (அத் துன்பத்தைத் தீர்ப்பதற்க்காகவும்) இழிவானச் செயல்களைச் செய்யமாட்டார்."
+        ],
+        "quiz_options_en": [
+          "The fruit of growing wealth is gained When kith and kin are happy found",
+          "The king who would not take counsels Rages with wrath-his fortune fails",
+          "Feel not frustrate saying This hard Who tries attains striving's reward",
+          "Though perils press the faultless wise Shun deeds of mean, shameful device"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சுற்றந் தழால்) பகுதியில் குறள் 524 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தக்கவழியில் செய்யப்படாத முயற்சி பலர் துணையாக நின்று(அதை முடிக்குமாறு) காத்த போதிலும் குறையாகிவிடும். பரிமேலழகர் உரை நுட்பம்: செல்வம் பெற்றத்தால் பெற்ற பயன் - செல்வம் பெற்ற அதனால் ஒருவன் பெற்ற பயனாவது, சுற்றத்தால் தான் சுற்றப்பட ஒழுகல் - தன் சுற்றத்தால் தான் சூழப்படும் வகை அதனைத் தழீஇ ஒழுகுதல். (பெற்ற என்பதனுள் அகரமும் அதனான் என்பதனுள் அன்சாரியையும்தொடைநோக்கி விகாரத்தால் தொக்கன. இவ...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 53: 'Cherishing Kinsmen'), Kural 524 distills a foundational ethical insight: \"The profit gained by wealth's increase, Is living compassed round by relatives in peace\" Philosophically, To live surrounded by relatives, is the advantage to be derived from the acquisition of wealth.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "family",
+        "gratitude",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 525,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: பொருள் கொடுத்தலும் இன்சொல் கூறுதலுமாகிய இரண்டும் செய்யவல்லவனானால் ஒருவன் தொடர்ந்த பலச் சுற்றத்தால் சூழப்படுவான்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: He will be surrounded by numerous relatives who manifests generosity and affability.",
+        "story_title_ta": "சுற்றந் தழால் — இனியா கற்ற பாடம்",
+        "story_title_en": "Cherishing Kinsmen — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சுற்றந் தழால்' என்ற அதிகாரத்திலிருந்து குறள் 525 பற்றிக் கதை சொன்னார். 'ஒருவன் தன் சுற்றத்தார்க்கு வேண்டியதைக் கொடுத்தும், அவர்களிடம் இனிய சொற்களைச் சொல்லியும் வருவான் என்றால், பல்வகைச் சுற்றத்தாராலும் அவன் சூழப்படுவான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 53, 'Cherishing Kinsmen', centered on Kural 525: He will be surrounded by numerous relatives who manifests generosity and affability. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வள்ளல் தன்மையும், வாஞ்சைமிகு சொல்லும் உடையவனை அடுத்தடுத்துச் சுற்றத்தார் சூழ்ந்து கொண்டேயிருப்பார்கள்.",
+        "moral_en": "Moral: Who knows the use of pleasant words, and liberal gifts can give, Connections, heaps of them, surrounding him shall live.",
+        "game_blank_word_ta": "கொடுத்தலும்",
+        "game_options_ta": [
+          "பற்றற்ற",
+          "கொடுத்தலும்",
+          "கண்ணும்",
+          "பழைமைபா"
+        ],
+        "game_options_en": [
+          "Let fortunes go; yet kinsmen know The old accustomed love to show",
+          "Loving words and liberal hand Encircle kith and kin around",
+          "The gift of loving Kins bestows Fadeless fortune's fresh flowers",
+          "A kinless wealth is like a tank Which overflows without a bank"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சுற்றந் தழால் (அரசியல்) பிரிவில் அமைந்த குறள் 525, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவன் தன் சுற்றத்தார்க்கு வேண்டியதைக் கொடுத்தும், அவர்களிடம் இனிய சொற்களைச் சொல்லியும் வருவான் என்றால், பல்வகைச் சுற்றத்தாராலும் அவன் சூழப்படுவான். கலைஞர் உரை கூறுவது: வள்ளல் தன்மையும், வாஞ்சைமிகு சொல்லும் உடையவனை அடுத்தடுத்துச் சுற்றத்தார் சூழ்ந்து கொண்டேயிருப்பார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Cherishing Kinsmen (Royalty & Polity), Kural 525 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He will be surrounded by numerous relatives who manifests generosity and affability. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சுற்றந் தழால்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Cherishing Kinsmen' thoughtfully.",
+        "quiz_question_ta": "'சுற்றந் தழால்' அதிகாரத்தில் வரும் திருக்குறள் 525 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 525 from Chapter 'Cherishing Kinsmen'?",
+        "quiz_options_ta": [
+          "முன்னமே தக்கவாறு அரண் செய்து கொள்ளாத அரசன் போர் வந்த காலத்தில் (தற்காப்பு இல்லாமல்) அஞ்சி விரைவில் அழிவான்.",
+          "பொருள் கொடுத்தலும் இன்சொல் கூறுதலுமாகிய இரண்டும் செய்யவல்லவனானால் ஒருவன் தொடர்ந்த பலச் சுற்றத்தால் சூழப்படுவான்.",
+          "தொழிலாகிய குறையைச் செய்யாமல் கைவிட்டவரை உலகம் கைவிடும், ஆகையால் தொழில் முயற்சி இல்லாதிருத்தலை ஒழிக்க வேண்டும்.",
+          "பிறகு நினைத்து வருந்துவதற்குக் காரணமானச் செயல்களைச் செய்யக் கூடாது, ஒரு கால் தவறிச் செய்தாலும் மீண்டும் அத் தன்மையானவற்றைச் செய்யாதிருத்தல் நல்லது."
+        ],
+        "quiz_options_en": [
+          "The king who builds not fort betimes Fears his foes in wars and dies",
+          "Loving words and liberal hand Encircle kith and kin around",
+          "In doing work don't break and shirk The world will quit who quits his work",
+          "Do not wrong act and grieve, \\\"Alas\\\" If done, do not repeat it twice"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சுற்றந் தழால்) பகுதியில் குறள் 525 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருள் கொடுத்தலும் இன்சொல் கூறுதலுமாகிய இரண்டும் செய்யவல்லவனானால் ஒருவன் தொடர்ந்த பலச் சுற்றத்தால் சூழப்படுவான். பரிமேலழகர் உரை நுட்பம்: கொடுத்தலும் இன்சொலும் ஆற்றின் - ஒருவன் சுற்றத்திற்கு வேண்டுவன கொடுத்தலையும் இன்சொல் சொல்லுதலையும் வல்லனாயின், அடுக்கிய சுற்றத்தான் சுற்றப்படும். - தம்மில் தொடர்ந்த பல வகைச் சுற்றத்தானே சூழப்படும். (இரண்டும் அளவறிந்து ஆற்றுதல் அரிது என்பது தோன்ற, 'ஆற்றின...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 53: 'Cherishing Kinsmen'), Kural 525 distills a foundational ethical insight: \"Who knows the use of pleasant words, and liberal gifts can give, Connections, heaps of them, surrounding him shall live\" Philosophically, He will be surrounded by numerous relatives who manifests generosity and affability.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "speech",
+        "kindness",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 526,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: பெரிய கொடையாளியாகவும் சினமற்றவனாகவும் ஒருவன் இருந்தால் அவனைப் போல் சுற்றத்தாரை உடையவர் உலகத்தில் யாரும் இல்லை.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: No one, in all the world, will have so many relatives (about him), as he who makes large gift, and does not give way to anger.",
+        "story_title_ta": "சுற்றந் தழால் — முகில் கற்ற பாடம்",
+        "story_title_en": "Cherishing Kinsmen — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சுற்றந் தழால்' என்ற அதிகாரத்திலிருந்து குறள் 526 பற்றிக் கதை சொன்னார். 'ஒருவன் பெருங்கொடையை உடையவனாய், சினத்தை விரும்பாதவனாய் இருப்பான் என்றால் அவனைப் போலச் சுற்றம் உடையவர் உலகில் இல்லை.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 53, 'Cherishing Kinsmen', centered on Kural 526: No one, in all the world, will have so many relatives (about him), as he who makes large gift, and does not give way to anger. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: பெரிய கொடையுள்ளம் கொண்டவனாகவும், வெகுண்டு எழும் சீற்றத்தை விலக்கியவனாகவும் ஒருவன் இருந்தால் அவனைப் போல் சுற்றம் சூழ இருப்போர் உலகில் யாரும் இல்லை எனலாம்.",
+        "moral_en": "Moral: Than one who gifts bestows and wrath restrains, Through the wide world none larger following gains.",
+        "game_blank_word_ta": "மருங்குடையார்",
+        "game_options_ta": [
+          "பற்றற்ற",
+          "கண்ணும்",
+          "மருங்குடையார்",
+          "பழைமைபா"
+        ],
+        "game_options_en": [
+          "Let fortunes go; yet kinsmen know The old accustomed love to show",
+          "The gift of loving Kins bestows Fadeless fortune's fresh flowers",
+          "Large giver and wrathless man Commands on earth countless kinsmen",
+          "A kinless wealth is like a tank Which overflows without a bank"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சுற்றந் தழால் (அரசியல்) பிரிவில் அமைந்த குறள் 526, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவன் பெருங்கொடையை உடையவனாய், சினத்தை விரும்பாதவனாய் இருப்பான் என்றால் அவனைப் போலச் சுற்றம் உடையவர் உலகில் இல்லை. கலைஞர் உரை கூறுவது: பெரிய கொடையுள்ளம் கொண்டவனாகவும், வெகுண்டு எழும் சீற்றத்தை விலக்கியவனாகவும் ஒருவன் இருந்தால் அவனைப் போல் சுற்றம் சூழ இருப்போர் உலகில் யாரும் இல்லை எனலாம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Cherishing Kinsmen (Royalty & Polity), Kural 526 speaks directly to teens navigating studies, friendships, leadership, and digital choices: No one, in all the world, will have so many relatives (about him), as he who makes large gift, and does not give way to anger. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சுற்றந் தழால்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Cherishing Kinsmen' thoughtfully.",
+        "quiz_question_ta": "'சுற்றந் தழால்' அதிகாரத்தில் வரும் திருக்குறள் 526 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 526 from Chapter 'Cherishing Kinsmen'?",
+        "quiz_options_ta": [
+          "கடுங்கோலாகிய ஆட்சிமுறை கல்லாதவரைத் தனக்கு அரணாகச் சேர்த்துக் கொள்ளும், அது தவிர நிலத்திற்கு சுமை வேறு இல்லை.",
+          "பிறர்க்கு உதவிசெய்தல் என்னும் மேம்பட்ட நிலைமை முயற்சி என்று சொல்லப்படுகின்ற உயர்ந்த பண்பில் நிலைத்திருக்கின்றது.",
+          "பெரிய கொடையாளியாகவும் சினமற்றவனாகவும் ஒருவன் இருந்தால் அவனைப் போல் சுற்றத்தாரை உடையவர் உலகத்தில் யாரும் இல்லை.",
+          "பெற்ற தாயின் பசியைக் கண்டு வருந்த நேர்ந்தாலும், சான்றோர் பழிப்பதற்குக் காரணமான இழிவுற்றச் செயல்களைச் செய்யக்கூடாது."
+        ],
+        "quiz_options_en": [
+          "The crushing burden borne by earth Is tyrants bound to fools uncouth",
+          "On excellence of industry Depends magnanimous bounty",
+          "Large giver and wrathless man Commands on earth countless kinsmen",
+          "Though she who begot thee hungers Shun acts denounced by ancient seers"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சுற்றந் தழால்) பகுதியில் குறள் 526 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பெரிய கொடையாளியாகவும் சினமற்றவனாகவும் ஒருவன் இருந்தால் அவனைப் போல் சுற்றத்தாரை உடையவர் உலகத்தில் யாரும் இல்லை. பரிமேலழகர் உரை நுட்பம்: பெருங்கொடையான் வெகுளி பேணான் - ஒருவன் மிக்க கொடையை உடையனுமாய் வெகுளியை விரும்பானுமாயின், அவனின் மருங்கு உடையார் மாநிலத்து இல் - அவன்போலக் கிளை உடையார் இவ்வுலகத்து இல்லை. (மிக்க கொடை: ஒன்றானும் வறுமை எய்தாமல் கொடுத்தல் . விரும்பாமை: 'இஃது அரசற்கு...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 53: 'Cherishing Kinsmen'), Kural 526 distills a foundational ethical insight: \"Than one who gifts bestows and wrath restrains, Through the wide world none larger following gains\" Philosophically, No one, in all the world, will have so many relatives (about him), as he who makes large gift, and does not give way to anger.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "kindness",
+        "self-mastery",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 527,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: காக்கை (தனக்கு கிடைத்ததை) மறைத்து வைக்காமல் சுற்றத்தைக் கூவி அழைத்து உண்ணும். ஆக்கமும் அத்தகைய இயல்பு உடையவர்க்கே உண்டு.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The crows do not conceal (their prey), but will call out for others (to share with them) while they eat it; wealth will be with those who show a similar disposition (towards their relatives).",
+        "story_title_ta": "சுற்றந் தழால் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Cherishing Kinsmen — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சுற்றந் தழால்' என்ற அதிகாரத்திலிருந்து குறள் 527 பற்றிக் கதை சொன்னார். 'காக்கை தன் உணவை மறைக்காமல், தன் இனத்தைச் சத்தமிட்டு அழைத்து உண்ணும்; இதுபோன்ற குணம் உடையவர்க்கே செல்வமும் உள ஆகும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 53, 'Cherishing Kinsmen', centered on Kural 527: The crows do not conceal (their prey), but will call out for others (to share with them) while they eat it; wealth will be with those who show a similar disposition (towards their relatives). Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: தனக்குக் கிடைத்ததை மறைக்காமல் தனது சுற்றத்தைக் கூவி அழைத்துக் காக்கை உண்ணும் அந்தக் குணம் உடையவர்களுக்கு மட்டுமே உலகில் உயர்வு உண்டு.",
+        "moral_en": "Moral: The crows conceal not, call their friends to come, then eat; Increase of good such worthy ones shall meet.",
+        "game_blank_word_ta": "ரார்க்கே",
+        "game_options_ta": [
+          "பற்றற்ற",
+          "கண்ணும்",
+          "பழைமைபா",
+          "ரார்க்கே"
+        ],
+        "game_options_en": [
+          "Let fortunes go; yet kinsmen know The old accustomed love to show",
+          "The gift of loving Kins bestows Fadeless fortune's fresh flowers",
+          "A kinless wealth is like a tank Which overflows without a bank",
+          "The crows hide not; thy call and eat Welfare abides a man of heart"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சுற்றந் தழால் (அரசியல்) பிரிவில் அமைந்த குறள் 527, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: காக்கை தன் உணவை மறைக்காமல், தன் இனத்தைச் சத்தமிட்டு அழைத்து உண்ணும்; இதுபோன்ற குணம் உடையவர்க்கே செல்வமும் உள ஆகும். கலைஞர் உரை கூறுவது: தனக்குக் கிடைத்ததை மறைக்காமல் தனது சுற்றத்தைக் கூவி அழைத்துக் காக்கை உண்ணும் அந்தக் குணம் உடையவர்களுக்கு மட்டுமே உலகில் உயர்வு உண்டு. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Cherishing Kinsmen (Royalty & Polity), Kural 527 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The crows do not conceal (their prey), but will call out for others (to share with them) while they eat it; wealth will be with those who show a similar disposition (towards their relatives). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சுற்றந் தழால்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Cherishing Kinsmen' thoughtfully.",
+        "quiz_question_ta": "'சுற்றந் தழால்' அதிகாரத்தில் வரும் திருக்குறள் 527 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 527 from Chapter 'Cherishing Kinsmen'?",
+        "quiz_options_ta": [
+          "கண்ணோட்டம் என்று சொல்லப்படுகின்ற மிகச் சிறந்த அழகு இருக்கும் காரணத்தால் தான், இந்த உலகம் அழியாமல் இருக்கின்றது.",
+          "முயற்சி இல்லாதவன் உதவிசெய்பவனாக இருத்தல், பேடி தன் கையில் வாளை எடுத்தும் ஆளும் தன்மைபோல் நிறைவேறாமல் போகும்.",
+          "பழியை மேற்கொண்டு இழிதொழில் செய்து பெறும் செல்வத்தை விடச் சான்றோர் வினைத்தூய்மையோடிருந்து பெறும் பொல்லாத வறுமையே சிறந்தது.",
+          "காக்கை (தனக்கு கிடைத்ததை) மறைத்து வைக்காமல் சுற்றத்தைக் கூவி அழைத்து உண்ணும். ஆக்கமும் அத்தகைய இயல்பு உடையவர்க்கே உண்டு."
+        ],
+        "quiz_options_en": [
+          "Living in the world implies The bounteous dame of benign eyes",
+          "Bounty of man who never strives Like sword in eunuch's hand it fails",
+          "Pinching poverty of the wise Is more than wealth hoarded by Vice",
+          "The crows hide not; thy call and eat Welfare abides a man of heart"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சுற்றந் தழால்) பகுதியில் குறள் 527 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காக்கை (தனக்கு கிடைத்ததை) மறைத்து வைக்காமல் சுற்றத்தைக் கூவி அழைத்து உண்ணும். ஆக்கமும் அத்தகைய இயல்பு உடையவர்க்கே உண்டு. பரிமேலழகர் உரை நுட்பம்: காக்கை கரவா கரைந்து உண்ணும் - காக்கைகள் தமக்கு இரையாயின கண்டவழி மறையாது இனத்தை அழைத்து அதனோடும் கூட உண்ணாநிற்கும், ஆக்கமும் அன்ன நீரார்க்கே உள - சுற்றத்தான் எய்தும் ஆக்கங்களும் அப்பெற்றித்தாய இயல்பினை உடையார்க்கே உளவாவன. அவ்வாக்கங்களாவன: பகையின்மையும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 53: 'Cherishing Kinsmen'), Kural 527 distills a foundational ethical insight: \"The crows conceal not, call their friends to come, then eat; Increase of good such worthy ones shall meet\" Philosophically, The crows do not conceal (their prey), but will call out for others (to share with them) while they eat it; wealth will be with those who show a similar disposition (towards their relatives).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "love",
+        "wealth",
+        "friendship"
+      ]
+    },
+    {
+      "kural_number": 528,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அரசன் எல்லாரையும் பொதுவகையாக நோக்காமல், அவரவர் சிறப்புக்கு ஏற்றவாறு நோக்கினால், அதை விரும்பி சுற்றமாக வாழ்கின்றவர் பலர் ஆவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Many relatives will live near a king, when they observe that he does not look on all alike, but that he looks on each man according to his merit.",
+        "story_title_ta": "சுற்றந் தழால் — கவின் கற்ற பாடம்",
+        "story_title_en": "Cherishing Kinsmen — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சுற்றந் தழால்' என்ற அதிகாரத்திலிருந்து குறள் 528 பற்றிக் கதை சொன்னார். 'சுற்றத்தார் எல்லாரையும் ஒன்று போலவே எண்ணாமல், அவரவர் தகுதிக்கு ஏற்ப ஆட்சியாளன் உபசரிப்பான் என்றால், அச்சிறப்பை எண்ணி அவனை விடாமல் வாழும் சுற்றத்தார் பலராவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 53, 'Cherishing Kinsmen', centered on Kural 528: Many relatives will live near a king, when they observe that he does not look on all alike, but that he looks on each man according to his merit. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அனைத்து மக்களும் சமம் எனினும், அவரவர்க்குரிய ஆற்றலுக்கேற்ப அவர்களைப் பயன்படுத்திக் கொண்டால், அந்த அரசை அனைவரும் அரணாகச் சூழ்ந்து நிற்பர்.",
+        "moral_en": "Moral: Where king regards not all alike, but each in his degree,'Neath such discerning rule many dwell happily.",
+        "game_blank_word_ta": "நோக்கின்",
+        "game_options_ta": [
+          "நோக்கின்",
+          "பற்றற்ற",
+          "கண்ணும்",
+          "பழைமைபா"
+        ],
+        "game_options_en": [
+          "From public gaze when kings perceive Each one's merits so many thrive",
+          "Let fortunes go; yet kinsmen know The old accustomed love to show",
+          "The gift of loving Kins bestows Fadeless fortune's fresh flowers",
+          "A kinless wealth is like a tank Which overflows without a bank"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சுற்றந் தழால் (அரசியல்) பிரிவில் அமைந்த குறள் 528, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சுற்றத்தார் எல்லாரையும் ஒன்று போலவே எண்ணாமல், அவரவர் தகுதிக்கு ஏற்ப ஆட்சியாளன் உபசரிப்பான் என்றால், அச்சிறப்பை எண்ணி அவனை விடாமல் வாழும் சுற்றத்தார் பலராவர். கலைஞர் உரை கூறுவது: அனைத்து மக்களும் சமம் எனினும், அவரவர்க்குரிய ஆற்றலுக்கேற்ப அவர்களைப் பயன்படுத்திக் கொண்டால், அந்த அரசை அனைவரும் அரணாகச் சூழ்ந்து நிற்பர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Cherishing Kinsmen (Royalty & Polity), Kural 528 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Many relatives will live near a king, when they observe that he does not look on all alike, but that he looks on each man according to his merit. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சுற்றந் தழால்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Cherishing Kinsmen' thoughtfully.",
+        "quiz_question_ta": "'சுற்றந் தழால்' அதிகாரத்தில் வரும் திருக்குறள் 528 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 528 from Chapter 'Cherishing Kinsmen'?",
+        "quiz_options_ta": [
+          "அரசன் எல்லாரையும் பொதுவகையாக நோக்காமல், அவரவர் சிறப்புக்கு ஏற்றவாறு நோக்கினால், அதை விரும்பி சுற்றமாக வாழ்கின்றவர் பலர் ஆவர்.",
+          "கண்ணோட்டத்தினால் உலகியல் நடைபெறுகின்றது, கண்ணோட்டம் இல்லாதவர் உயிரோடு இருத்தல் நிலத்திற்குச் சுமையே தவிர வேறு பயனில்லை.",
+          "தன் இன்பத்தை விரும்பாதவனாய் மேற்க்கொண்டச் செயலை முடிக்க விரும்புகிறவன், தன் சுற்றத்தாரின் துன்பத்தைப் போக்கித் தாங்குகின்ற தூண் ஆவான்.",
+          "ஆகாதவை என விலக்கப்பட்ட செயல்களை விலக்கிவிடாமல் மேற்கொண்டு செய்தவர்க்கும், அச் செயல் நிறைவேறினாலும் துன்பமே கொடுக்கும்."
+        ],
+        "quiz_options_en": [
+          "From public gaze when kings perceive Each one's merits so many thrive",
+          "World lives by looks of lovely worth Who lack them are burdens of earth",
+          "Work who likes and not pleasure Wipes grief of friends, pillar secure",
+          "Those who dare a forbidden deed Suffer troubles though they succeed"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சுற்றந் தழால்) பகுதியில் குறள் 528 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அரசன் எல்லாரையும் பொதுவகையாக நோக்காமல், அவரவர் சிறப்புக்கு ஏற்றவாறு நோக்கினால், அதை விரும்பி சுற்றமாக வாழ்கின்றவர் பலர் ஆவர். பரிமேலழகர் உரை நுட்பம்: பொது நோக்கான் வேந்தன் வரிசையா நோக்கின் - எல்லாரையும் ஒரு தன்மையராக நோக்காது அரசன் தத்தம் தகுதிக்கு ஏற்ப நோக்குமாயின், அது நோக்கி வாழ்வார் பலர் - அச்சிறப்பு நோக்கி அவனை விடாது வாழும் சுற்றத்தார் பலர். (உயர்ந்தார் நீங்குதல் நோக்கிப்பொது நோக்கை விலக்கி,எல்லாரும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 53: 'Cherishing Kinsmen'), Kural 528 distills a foundational ethical insight: \"Where king regards not all alike, but each in his degree,'Neath such discerning rule many dwell happily\" Philosophically, Many relatives will live near a king, when they observe that he does not look on all alike, but that he looks on each man according to his merit.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "family",
+        "wealth",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 529,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: முன் சுற்றத்தாறாக இருந்து பின் ஒருக் காரணத்தால் பிரிந்தவரின் உறவு, அவ்வாறு அவர் பொருந்தாமலிருந்த காரணம் நீங்கியபின் தானே வந்து சேரும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Those who have been friends and have afterwards forsaken him, will return and join themselves (to him), when the cause of disagreement is not to be found in him.",
+        "story_title_ta": "சுற்றந் தழால் — நிலா கற்ற பாடம்",
+        "story_title_en": "Cherishing Kinsmen — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சுற்றந் தழால்' என்ற அதிகாரத்திலிருந்து குறள் 529 பற்றிக் கதை சொன்னார். 'முன்பு தன் அரசியல் இயக்கத்தில் இருந்து, ஆட்சியாளனிடம் உள்ள ஒழுக்கமின்மை காரணமாகப் பிரிந்து போனவர்கள், ஆட்சியாளனிடம் அந்தக் குற்றம் இல்லாது போனதைக் கண்டு அவர்களாகவே திரும்ப வருவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 53, 'Cherishing Kinsmen', centered on Kural 529: Those who have been friends and have afterwards forsaken him, will return and join themselves (to him), when the cause of disagreement is not to be found in him. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உறவினராக இருந்து ஏதோ ஒரு காரணம் கூறிப் பிரிந்து சென்றவர்கள், அந்தக் காரணம் பொருந்தாது என்று உணரும்போது மீண்டும் உறவு கொள்ள வருவார்கள்.",
+        "moral_en": "Moral: Who once were his, and then forsook him, as beforeWill come around, when cause of disagreement is no more.",
+        "game_blank_word_ta": "காரணம்",
+        "game_options_ta": [
+          "பற்றற்ற",
+          "காரணம்",
+          "கண்ணும்",
+          "பழைமைபா"
+        ],
+        "game_options_en": [
+          "Let fortunes go; yet kinsmen know The old accustomed love to show",
+          "Forsaken friends will come and stay When cause for discord goes away",
+          "The gift of loving Kins bestows Fadeless fortune's fresh flowers",
+          "A kinless wealth is like a tank Which overflows without a bank"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சுற்றந் தழால் (அரசியல்) பிரிவில் அமைந்த குறள் 529, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முன்பு தன் அரசியல் இயக்கத்தில் இருந்து, ஆட்சியாளனிடம் உள்ள ஒழுக்கமின்மை காரணமாகப் பிரிந்து போனவர்கள், ஆட்சியாளனிடம் அந்தக் குற்றம் இல்லாது போனதைக் கண்டு அவர்களாகவே திரும்ப வருவர். கலைஞர் உரை கூறுவது: உறவினராக இருந்து ஏதோ ஒரு காரணம் கூறிப் பிரிந்து சென்றவர்கள், அந்தக் காரணம் பொருந்தாது என்று உணரும்போது மீண்டும் உறவு கொள்ள வருவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Cherishing Kinsmen (Royalty & Polity), Kural 529 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Those who have been friends and have afterwards forsaken him, will return and join themselves (to him), when the cause of disagreement is not to be found in him. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சுற்றந் தழால்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Cherishing Kinsmen' thoughtfully.",
+        "quiz_question_ta": "'சுற்றந் தழால்' அதிகாரத்தில் வரும் திருக்குறள் 529 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 529 from Chapter 'Cherishing Kinsmen'?",
+        "quiz_options_ta": [
+          "பாடலோடு பொருந்துதல் இல்லையானால் இசை என்ன பயனுடையதாகும், அதுபோல் கண்ணோட்டம் இல்லாவிட்டால் கண் என்ன பயனுடையதாகும்.",
+          "முன் சுற்றத்தாறாக இருந்து பின் ஒருக் காரணத்தால் பிரிந்தவரின் உறவு, அவ்வாறு அவர் பொருந்தாமலிருந்த காரணம் நீங்கியபின் தானே வந்து சேரும்.",
+          "முயற்சி ஒருவனுக்குச் செல்வத்தைப் பெருகச் செய்யும், முயற்சி இல்லாதிருத்தல் அவனுக்கு வறுமையைச் சேர்த்துவிடும்.",
+          "பிறர் வருந்துமாறு செய்து பெற்ற பொருள் எல்லாம் பெற்றவன் வருந்துமாறு செய்து போய்விடும், நல்வழியில் வந்தவை இழக்கப்பட்டாலும் பிறகு பயன் தரும்"
+        ],
+        "quiz_options_en": [
+          "Of tuneless song what is the use? Without gracious looks what are eyes?",
+          "Forsaken friends will come and stay When cause for discord goes away",
+          "Industry adds prosperity Indolence brings but poverty",
+          "Gains from weeping, weeping go Though lost, from good deeds blessings flow"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சுற்றந் தழால்) பகுதியில் குறள் 529 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: முன் சுற்றத்தாறாக இருந்து பின் ஒருக் காரணத்தால் பிரிந்தவரின் உறவு, அவ்வாறு அவர் பொருந்தாமலிருந்த காரணம் நீங்கியபின் தானே வந்து சேரும். பரிமேலழகர் உரை நுட்பம்: தமர் ஆகித் தன் துறந்தார் சுற்றம் - முன் தமராய்வைத்துத் தன்னோடு அமராது யாதானும் ஒரு காரணத்தால் தன்னைப் பிரிந்து போயவர் பின்னும் வந்து சுற்றமாதல், அமராமைக் காரணம் இன்றி வரும்-அவ்வமராமைக் காரணம் தன் மாட்டு இல்லையாகத் தானே உளதாம். ('அமராமைக் காரணம் இன்றி...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 53: 'Cherishing Kinsmen'), Kural 529 distills a foundational ethical insight: \"Who once were his, and then forsook him, as beforeWill come around, when cause of disagreement is no more\" Philosophically, Those who have been friends and have afterwards forsaken him, will return and join themselves (to him), when the cause of disagreement is not to be found in him.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "friendship",
+        "leadership",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 530,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: தன்னிடமிருந்து பிரிந்து சென்று பின் ஒருக் காரணம்பற்றித் திரும்பிவந்தவனை, அரசன் அவன் நாடிய உதவியைச் செய்து ஆராய்ந்து உறவு கொள்ள வேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: When one may have left him, and for some cause has returned to him, let the king fulfil the object (for which he has come back) and thoughtfully receive him again.",
+        "story_title_ta": "சுற்றந் தழால் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Cherishing Kinsmen — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'சுற்றந் தழால்' என்ற அதிகாரத்திலிருந்து குறள் 530 பற்றிக் கதை சொன்னார். 'ஒரு காரணமும் இல்லாமல், தானே இயக்கத்தை விட்டுப் பிரிந்து போன ஒருவன் ஏதோ ஒரு காரணத்தோடு திரும்ப வந்தாள் என்றால், ஆட்சியாளன் பொறுத்து இருந்து, ஆராய்ந்து அவனைச் சேர்த்துக் கொள்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 53, 'Cherishing Kinsmen', centered on Kural 530: When one may have left him, and for some cause has returned to him, let the king fulfil the object (for which he has come back) and thoughtfully receive him again. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஏதோ காரணம் கற்பித்துப் பிரிந்து போய், மீண்டும் தலைவனிடம் தக்க காரணத்தினால் வந்தவரை, நன்கு ஆராய்ந்து ஏற்றுக் கொள்ளல் வேண்டும்.",
+        "moral_en": "Moral: Who causeless went away, then to return, for any cause, ask leave; The king should sift their motives well, consider, and receive.",
+        "game_blank_word_ta": "வந்தானை",
+        "game_options_ta": [
+          "பற்றற்ற",
+          "கண்ணும்",
+          "வந்தானை",
+          "பழைமைபா"
+        ],
+        "game_options_en": [
+          "Let fortunes go; yet kinsmen know The old accustomed love to show",
+          "The gift of loving Kins bestows Fadeless fortune's fresh flowers",
+          "Who leaves and returns with motive The king should test him and receive",
+          "A kinless wealth is like a tank Which overflows without a bank"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "சுற்றந் தழால் (அரசியல்) பிரிவில் அமைந்த குறள் 530, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு காரணமும் இல்லாமல், தானே இயக்கத்தை விட்டுப் பிரிந்து போன ஒருவன் ஏதோ ஒரு காரணத்தோடு திரும்ப வந்தாள் என்றால், ஆட்சியாளன் பொறுத்து இருந்து, ஆராய்ந்து அவனைச் சேர்த்துக் கொள்க. கலைஞர் உரை கூறுவது: ஏதோ காரணம் கற்பித்துப் பிரிந்து போய், மீண்டும் தலைவனிடம் தக்க காரணத்தினால் வந்தவரை, நன்கு ஆராய்ந்து ஏற்றுக் கொள்ளல் வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Cherishing Kinsmen (Royalty & Polity), Kural 530 speaks directly to teens navigating studies, friendships, leadership, and digital choices: When one may have left him, and for some cause has returned to him, let the king fulfil the object (for which he has come back) and thoughtfully receive him again. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'சுற்றந் தழால்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Cherishing Kinsmen' thoughtfully.",
+        "quiz_question_ta": "'சுற்றந் தழால்' அதிகாரத்தில் வரும் திருக்குறள் 530 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 530 from Chapter 'Cherishing Kinsmen'?",
+        "quiz_options_ta": [
+          "தக்க அளவிற்குக் கண்ணோட்டம் இல்லாத கண்கள் முகத்தில் உள்ளவை போல் தோன்றுதல் அல்லாமல் வேறு என்ன பயன் செய்யும்.",
+          "ஒருவனுடைய சோம்பலில் கரிய மூதேவி வாழ்கின்றாள், சோம்பல் இல்லாதவனுடைய முயற்சியிலே திருமகள் வாழ்கின்றாள்.",
+          "தன்னிடமிருந்து பிரிந்து சென்று பின் ஒருக் காரணம்பற்றித் திரும்பிவந்தவனை, அரசன் அவன் நாடிய உதவியைச் செய்து ஆராய்ந்து உறவு கொள்ள வேண்டும்.",
+          "வஞ்சனையான வழியால் பொருளைச்சேர்த்துக் காப்பாற்றுதல், பச்சை மண்கலத்தில் நீரை விட்டு அதைக் காப்பாற்றி வைத்தாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Except that they are on the face What for are eyes sans measured grace",
+          "Illuck abides with sloth they say *Laxmi's gifts with labourers stay *Laxmi the Goddes of wealth and prosperity",
+          "Who leaves and returns with motive The king should test him and receive",
+          "The wealth gathered in guilty ways Is water poured in wet clay vase"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (சுற்றந் தழால்) பகுதியில் குறள் 530 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன்னிடமிருந்து பிரிந்து சென்று பின் ஒருக் காரணம்பற்றித் திரும்பிவந்தவனை, அரசன் அவன் நாடிய உதவியைச் செய்து ஆராய்ந்து உறவு கொள்ள வேண்டும். பரிமேலழகர் உரை நுட்பம்: உழைப் பிரிந்து காரணத்தின் வந்தானை - காரணம் இன்றித் தன்னிடத்து நின்றும் பிரிந்துபோய்ப் பின் காரணத்தான் வந்த சுற்றத்தானை, வேந்தன் இழைத்து இருந்து எண்ணிக் கொளல் - அரசன், அக்காரணத்தைச் செய்து வைத்து ஆராய்ந்து தழீஇக் கொள்க. (வாளா உழைப்பிரிந்து என்றமையின...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 53: 'Cherishing Kinsmen'), Kural 530 distills a foundational ethical insight: \"Who causeless went away, then to return, for any cause, ask leave; The king should sift their motives well, consider, and receive\" Philosophically, When one may have left him, and for some cause has returned to him, let the king fulfil the object (for which he has come back) and thoughtfully receive him again.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "family",
+        "education",
+        "speech"
+      ]
+    }
+  ]
+}

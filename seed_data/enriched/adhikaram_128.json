@@ -1,0 +1,582 @@
+{
+  "adhikaram_id": 128,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.634202858+00:00",
+  "kurals": [
+    {
+      "kural_number": 1271,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நீ சொல்லாமல் மறைத்தாலும் நிற்காமல் உன்னைக் கடந்து உன்னுடைய கண்கள் எனக்குச் சொல்லக் கூடிய செய்தி ஒன்று இருக்கிறது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Though you would conceal (your feelings), your painted eyes would not, for, transgressing (their bounds), they tell (me) something.",
+        "story_title_ta": "குறிப்பறிவுறுத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Reading of the Signs — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'குறிப்பறிவுறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1271 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1271 from 'The Reading of the Signs', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: வெளியில் சொல்லாமல் மறைக்கப் பார்த்தாலும், நிற்காமல் தடைகடந்து விழிகள் சொல்லக்கூடிய செய்தி ஒன்று உண்டு; அதுதான் பிரிவை விரும்பாத காதல்.",
+        "moral_en": "Moral: Thou hid'st it, yet thine eye, disdaining all restraint, Something, I know not, what, would utter of complaint.",
+        "game_blank_word_ta": "உரைக்கல்",
+        "game_options_ta": [
+          "கண்ணிறைந்த",
+          "காரிகைக்",
+          "காம்பேர்தோட்",
+          "உரைக்கல்"
+        ],
+        "game_options_en": [
+          "With seemly grace and stem-like arms The simple she has ample charms",
+          "Something shines through her jewelled charm Like thread shining through wreathed gem",
+          "Like scent in bud secrets conceal In the bosom of her half smile",
+          "You hide; but your painted eyes Restraint off, report your surmise"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குறிப்பறிவுறுத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1271, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நீ சொல்லாது மறைத்தாலும், மறைக்க உடன்படாமல், உன் மை தீட்டப் பெற்ற கண்களே எனக்குச் சொல்ல விரும்பும் செய்தி ஒன்று உண்டு. கலைஞர் உரை கூறுவது: வெளியில் சொல்லாமல் மறைக்கப் பார்த்தாலும், நிற்காமல் தடைகடந்து விழிகள் சொல்லக்கூடிய செய்தி ஒன்று உண்டு; அதுதான் பிரிவை விரும்பாத காதல். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Reading of the Signs (Post-marital Love), Kural 1271 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Though you would conceal (your feelings), your painted eyes would not, for, transgressing (their bounds), they tell (me) something. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'குறிப்பறிவுறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Reading of the Signs'.",
+        "quiz_question_ta": "'குறிப்பறிவுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1271 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1271 from Chapter 'The Reading of the Signs'?",
+        "quiz_options_ta": [
+          "இப்பிறப்பில் யாம் பிரிய மாட்டோம் என்று காதலியிடம் சொன்னேனாக, இனி வரும் பிறப்பில் பிரிவதாக உணர்ந்து கண் நிறையக் கண்ணீர் கொண்டாள்.",
+          "பயன் நிறைந்த மொழிகளில் வல்ல சான்றோரின் பெருமையை, உலகத்தில் அழியாமல் விளங்கும் அவர்களுடைய மறைமொழிகளே காட்டிவிடும்.",
+          "அன்புக்கும் அடைத்து வைக்கும் தாழ் உண்டோ? அன்புடையவரின் சிறு கண்ணீரே ( உள்ளே இருக்கும் அன்பைப் ) பலரும் அறிய வெளிப்படுத்திவிடும்",
+          "நீ சொல்லாமல் மறைத்தாலும் நிற்காமல் உன்னைக் கடந்து உன்னுடைய கண்கள் எனக்குச் சொல்லக் கூடிய செய்தி ஒன்று இருக்கிறது."
+        ],
+        "quiz_options_en": [
+          "\\\"In this life we won't part\\\" I told Her eyes at once with tears were filled",
+          "Full-worded men by what they say, Their greatness to the world display",
+          "What bolt can bar true love in fact The tricking tears reveal the heart",
+          "You hide; but your painted eyes Restraint off, report your surmise"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (குறிப்பறிவுறுத்தல்) பகுதியில் குறள் 1271 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நீ சொல்லாமல் மறைத்தாலும் நிற்காமல் உன்னைக் கடந்து உன்னுடைய கண்கள் எனக்குச் சொல்லக் கூடிய செய்தி ஒன்று இருக்கிறது. பரிமேலழகர் உரை நுட்பம்: [அஃதாவது , தலைமகன் , தலைமகள் , தோழி என்ற இவர் ஒருவர் குறிப்பினை ஒருவர்க்கு அறிவுறுத்தல் . இது பிரிந்து போய தலைமகன் வந்து கூடியவழி நிகழ்வதாகலின் ,அவர் வயின் விதும்பலின்பின் வைக்கப்பட்டது.] (பிரிந்து கூடிய தலைமகன் வேட்கை மிகவினாற் புதுவது பன்னாளும் பாராட்டத...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 128: 'The Reading of the Signs'), Kural 1271 distills a foundational ethical insight: \"Thou hid'st it, yet thine eye, disdaining all restraint, Something, I know not, what, would utter of complaint\" Philosophically, Though you would conceal (your feelings), your painted eyes would not, for, transgressing (their bounds), they tell (me) something.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "self-mastery",
+        "speech",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1272,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கண் நிறைந்த அழகும் மூங்கில் போன்ற தோளும் உடைய என் காதலிக்குப் பெண்மைத்தன்மை நிறைந்து விளங்கும் இயல்பு மிகுதியாக உள்ளது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Unusually great is the female simplicity of your maid whose beauty fills my eyes and whose shoulders resemble the bamboo.",
+        "story_title_ta": "குறிப்பறிவுறுத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Reading of the Signs — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'குறிப்பறிவுறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1272 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1272 from 'The Reading of the Signs', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: கண்நிறைந்த அழகும் மூங்கில் போன்ற தோளும் கொண்ட என் காதலிக்குப் பெண்மைப் பண்பு நிறைந்திருப்பதே பேரழகாகும்.",
+        "moral_en": "Moral: The simple one whose beauty fills mine eye, whose shoulders curveLike bambu stem, hath all a woman's modest sweet reserve.",
+        "game_blank_word_ta": "நீர்மை",
+        "game_options_ta": [
+          "நீர்மை",
+          "கரப்பினுங்",
+          "கையிகந்",
+          "தொல்லாநின்"
+        ],
+        "game_options_en": [
+          "With seemly grace and stem-like arms The simple she has ample charms",
+          "You hide; but your painted eyes Restraint off, report your surmise",
+          "Something shines through her jewelled charm Like thread shining through wreathed gem",
+          "Like scent in bud secrets conceal In the bosom of her half smile"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குறிப்பறிவுறுத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1272, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் கண் நிறைந்த அழகையும், மூங்கிலைப் போன்ற தோளையும் உடைய இப்பேதைக்குப் பெண்கள் எல்லாரிடமும் இருக்கும் குண மேன்மையிலும் அதிக மேன்மை இருக்கிறது. கலைஞர் உரை கூறுவது: கண்நிறைந்த அழகும் மூங்கில் போன்ற தோளும் கொண்ட என் காதலிக்குப் பெண்மைப் பண்பு நிறைந்திருப்பதே பேரழகாகும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Reading of the Signs (Post-marital Love), Kural 1272 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Unusually great is the female simplicity of your maid whose beauty fills my eyes and whose shoulders resemble the bamboo. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'குறிப்பறிவுறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Reading of the Signs'.",
+        "quiz_question_ta": "'குறிப்பறிவுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1272 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1272 from Chapter 'The Reading of the Signs'?",
+        "quiz_options_ta": [
+          "கண் நிறைந்த அழகும் மூங்கில் போன்ற தோளும் உடைய என் காதலிக்குப் பெண்மைத்தன்மை நிறைந்து விளங்கும் இயல்பு மிகுதியாக உள்ளது.",
+          "நினைத்தேன் என்று கூறி‌னேன்; நினைப்புக்கு முன் மறப்பு உண்டு அன்றோ? ஏன் மறந்தீர் என்று என்னைத் தழுவாமல் ஊடினாள்.",
+          "நல்ல பண்புகளாகிய மலையின்மேல் ஏறி நின்ற பெரியோர், ஒரு கணப்பொழுதே சினம் கொள்வார் ஆயினும் அதிலிருந்து ஒருவரைக் காத்தல் அரிதாகும்.",
+          "அன்பு இல்லாதவர் எல்லாப்பொருள்களையும் தமக்கே உரிமையாகக் கொண்டு வாழ்வார்: அன்பு உடையவர் தம் உடமையும் பிறர்க்கு உரிமையாக்கி வாழ்வர்"
+        ],
+        "quiz_options_en": [
+          "With seemly grace and stem-like arms The simple she has ample charms",
+          "I said I thought of you She left Her embrace crying \\\"Oft you forget\\\"",
+          "Their wrath, who've climb'd the mount of good, Though transient, cannot be withstood",
+          "To selves belong the loveless ones; To oth'rs the loving e'en to bones"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (குறிப்பறிவுறுத்தல்) பகுதியில் குறள் 1272 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கண் நிறைந்த அழகும் மூங்கில் போன்ற தோளும் உடைய என் காதலிக்குப் பெண்மைத்தன்மை நிறைந்து விளங்கும் இயல்பு மிகுதியாக உள்ளது. பரிமேலழகர் உரை நுட்பம்: (நாணால் அவள் அது சொல்லாளாயவழி அவன் தோழிக்குச் சொல்லியது.) கண் நிறைந்த காரிகைக் காம்பு ஏர் தோள் பேதைக்கு - என் கண்ணிறைந்த அழகினையும் வேயையொத்த தோளினையும் உடைய நின் பேதைக்கு; பெண் நிறைந்த நீர்மை பெரிது - பெண்பாலரிடத்து நிறைந்த மடமை அவ்வளவன்றி மிகுந்தது. (இலதாய...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 128: 'The Reading of the Signs'), Kural 1272 distills a foundational ethical insight: \"The simple one whose beauty fills mine eye, whose shoulders curveLike bambu stem, hath all a woman's modest sweet reserve\" Philosophically, Unusually great is the female simplicity of your maid whose beauty fills my eyes and whose shoulders resemble the bamboo.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "kindness",
+        "love",
+        "harmony",
+        "humility"
+      ]
+    },
+    {
+      "kural_number": 1273,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: ( கோத்த) மணியினுள் விளங்கும் நூலைப் போல் என் காதலியின் அழகினுள் விளங்குவதான குறிப்பு ஒன்று இருக்கின்றது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: There is something that is implied in the beauty of this woman, like the thread that is visible in a garland of gems.",
+        "story_title_ta": "குறிப்பறிவுறுத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Reading of the Signs — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'குறிப்பறிவுறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1273 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1273 from 'The Reading of the Signs', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: மணியாரத்திற்குள் மறைந்திருக்கும் நூலைப்போல இந்த மடந்தையின் அழகுக்குள்ளே என்னை மயக்கும் குறிப்பு ஒன்று உளது.",
+        "moral_en": "Moral: As through the crystal beads is seen the thread on which they 're strungSo in her beauty gleams some thought cannot find a tongue.",
+        "game_blank_word_ta": "உண்டு",
+        "game_options_ta": [
+          "கரப்பினுங்",
+          "உண்டு",
+          "கையிகந்",
+          "தொல்லாநின்"
+        ],
+        "game_options_en": [
+          "You hide; but your painted eyes Restraint off, report your surmise",
+          "Something shines through her jewelled charm Like thread shining through wreathed gem",
+          "With seemly grace and stem-like arms The simple she has ample charms",
+          "Like scent in bud secrets conceal In the bosom of her half smile"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குறிப்பறிவுறுத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1273, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: கோக்கப்பட்ட பளிங்கிற்குள் கிடந்து வெளியே தெரியும் நூலைப் போல இவளின் அழகிற்குள் கிடந்து வெளியே தெரியும் குறிப்பு ஒன்று உண்டு. கலைஞர் உரை கூறுவது: மணியாரத்திற்குள் மறைந்திருக்கும் நூலைப்போல இந்த மடந்தையின் அழகுக்குள்ளே என்னை மயக்கும் குறிப்பு ஒன்று உளது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Reading of the Signs (Post-marital Love), Kural 1273 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is something that is implied in the beauty of this woman, like the thread that is visible in a garland of gems. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'குறிப்பறிவுறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Reading of the Signs'.",
+        "quiz_question_ta": "'குறிப்பறிவுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1273 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1273 from Chapter 'The Reading of the Signs'?",
+        "quiz_options_ta": [
+          "யான் தும்மினேனாக; அவள் நூறாண்டு என வாழ்த்தினாள்; உடனே அதை விட்டு யார் நினைத்ததால் தும்மினீர்? என்று கேட்டு அழுதாள்?",
+          "( கோத்த) மணியினுள் விளங்கும் நூலைப் போல் என் காதலியின் அழகினுள் விளங்குவதான குறிப்பு ஒன்று இருக்கின்றது.",
+          "எல்லா உயிர்களிடத்திலும் செம்மையான அருளை மேற்கொண்டு ஒழுகுவதால், அறவோரே அந்தணர் எனப்படுவோர் ஆவர்.",
+          "அருமையான உயிர்க்கு உடம்போடு பொருந்தி இருக்கின்ற உறவு, அன்போடு பொருந்தி வாழும் வாழ்க்கையின் பயன்என்று கூறுவர்."
+        ],
+        "quiz_options_en": [
+          "I sneezed; she blessed; then changed and wept \\\"You sneezed now at which lady's thought?\\\"",
+          "Something shines through her jewelled charm Like thread shining through wreathed gem",
+          "With gentle mercy towards all, The sage fulfils the vitue's call",
+          "Soul is encased in frame of bone To taste the life of love alone"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (குறிப்பறிவுறுத்தல்) பகுதியில் குறள் 1273 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ( கோத்த) மணியினுள் விளங்கும் நூலைப் போல் என் காதலியின் அழகினுள் விளங்குவதான குறிப்பு ஒன்று இருக்கின்றது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) மணியில் திகழ்தரும் நூல்போல் - கோக்கப்பட்ட பளிக்கு மணியகத்துக் கிடந்து புறத்துப் புலனாம் நூல் போல; மடந்தை அணியில் திகழ்வது ஒன்று உண்டு - இம்மடந்தையது அணியகத்துக் கிடந்து புறத்துப் புலனாகின்றதொரு குறிப்பு உண்டு. (அணி - புணர்ச்சியான் ஆய அழகு...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 128: 'The Reading of the Signs'), Kural 1273 distills a foundational ethical insight: \"As through the crystal beads is seen the thread on which they 're strungSo in her beauty gleams some thought cannot find a tongue\" Philosophically, There is something that is implied in the beauty of this woman, like the thread that is visible in a garland of gems.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "education",
+        "kindness",
+        "speech",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 1274,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அரும்பு தோன்றும்போது அடங்கியிருக்கும் மணத்தைப் போல், காதலியின் புன்முறுவலின் தோற்றத்தில் அடங்கி இருக்கும் குறிப்பு ஒன்று உள்ளது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: There is something in the unmatured smile of this maid like the fragrance that is contained in an unblossomed bud.",
+        "story_title_ta": "குறிப்பறிவுறுத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Reading of the Signs — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'குறிப்பறிவுறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1274 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1274 from 'The Reading of the Signs', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: மலராத அரும்புக்குள் நறுமணம் அடங்கியிருப்பது போலத்தான் ஒரு பெண்ணின் புன்னகையென்ற அரும்புக்குள் அவளது காதலனைப்பற்றிய நினைவும் நிரம்பியிருக்கிறது.",
+        "moral_en": "Moral: As fragrance in the opening bud, some secret liesConcealed in budding smile of this dear damsel's eyes.",
+        "game_blank_word_ta": "நாற்றம்போல்",
+        "game_options_ta": [
+          "கரப்பினுங்",
+          "கையிகந்",
+          "நாற்றம்போல்",
+          "தொல்லாநின்"
+        ],
+        "game_options_en": [
+          "You hide; but your painted eyes Restraint off, report your surmise",
+          "With seemly grace and stem-like arms The simple she has ample charms",
+          "Like scent in bud secrets conceal In the bosom of her half smile",
+          "Something shines through her jewelled charm Like thread shining through wreathed gem"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குறிப்பறிவுறுத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1274, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மலராத அரும்புக்குள் நறுமணம் அடங்கியிருப்பது போலத்தான் ஒரு பெண்ணின் புன்னகையென்ற அரும்புக்குள் அவளது காதலனைப்பற்றிய நினைவும் நிரம்பியிருக்கிறது. கலைஞர் உரை கூறுவது: மலராத அரும்புக்குள் நறுமணம் அடங்கியிருப்பது போலத்தான் ஒரு பெண்ணின் புன்னகையென்ற அரும்புக்குள் அவளது காதலனைப்பற்றிய நினைவும் நிரம்பியிருக்கிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Reading of the Signs (Post-marital Love), Kural 1274 speaks directly to teens navigating studies, friendships, leadership, and digital choices: There is something in the unmatured smile of this maid like the fragrance that is contained in an unblossomed bud. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'குறிப்பறிவுறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Reading of the Signs'.",
+        "quiz_question_ta": "'குறிப்பறிவுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1274 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1274 from Chapter 'The Reading of the Signs'?",
+        "quiz_options_ta": [
+          "அவளுடைய ஊடலுக்கு அஞ்சி யான் தும்மலை அடக்கிக் கொள்ள உம்மவர் உம்மை நினைப்பதை எமக்குத் தெரியாமல் மறைக்கின்றீரோ என்று அழுதாள்.",
+          "அறம் சிறப்பையும் அளிக்கும்: செல்வத்தையும் அளிக்கும்: ஆகையால் உயிர்க்கு அத்தகைய அறத்தை விட நன்மையானது வேறு யாது?",
+          "அரும்பு தோன்றும்போது அடங்கியிருக்கும் மணத்தைப் போல், காதலியின் புன்முறுவலின் தோற்றத்தில் அடங்கி இருக்கும் குறிப்பு ஒன்று உள்ளது.",
+          "அன்பு பிறரிடம் விருப்பம் உடையவராக வாழும் தன்மையைத் தரும்: அஃது எல்லாரிடத்தும் நட்பு என்றுசொல்லப்படும் அளவற்ற சிறப்பைத் தரும்"
+        ],
+        "quiz_options_en": [
+          "I repressed sneeze; she wept crying \\\"Your thoughts from me you are hiding\\\"",
+          "From virtue weal and wealth outflow; What greater good can mankind know?",
+          "Like scent in bud secrets conceal In the bosom of her half smile",
+          "Love yields aspiration and thence Friendship springs up in excellence"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (குறிப்பறிவுறுத்தல்) பகுதியில் குறள் 1274 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அரும்பு தோன்றும்போது அடங்கியிருக்கும் மணத்தைப் போல், காதலியின் புன்முறுவலின் தோற்றத்தில் அடங்கி இருக்கும் குறிப்பு ஒன்று உள்ளது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) முகை மொக்குள் உள்ளது நாற்றம்போல் - முகையது முகிழ்ப்பினுளதாய்ப்புறத்துப் புலனாகாத நாற்றம் போல; பேதை நகை மொக்குள் உள்ளது ஒன்று உண்டு - நின் பேதை என்னோடு நகக் கருதும் நகையது முகிழ்ப்பினுளதாய்ப் புறத்துப் புலனாகாததோர் குறிப்பு உண்டு. (முகிழ்ப்பு...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 128: 'The Reading of the Signs'), Kural 1274 distills a foundational ethical insight: \"As fragrance in the opening bud, some secret liesConcealed in budding smile of this dear damsel's eyes\" Philosophically, There is something in the unmatured smile of this maid like the fragrance that is contained in an unblossomed bud.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "speech",
+        "truth"
+      ]
+    },
+    {
+      "kural_number": 1275,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: காதலி என்னை நோக்கி செய்து விட்டுச் சென்ற கள்ளமான குறிப்பு, என் மிக்க துயரத்தைத் தீர்க்கும் மருந்து ஒன்று உடையதாக இருக்கின்றது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: The well-meant departure of her whose bangles are tight-fitting contains a remedy that can cure my great sorrow.",
+        "story_title_ta": "குறிப்பறிவுறுத்தல் — இனியா கற்ற பாடம்",
+        "story_title_en": "The Reading of the Signs — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'குறிப்பறிவுறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1275 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1275 from 'The Reading of the Signs', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: வண்ணமிகு வளையல்கள் அணிந்த என் வடிவழகியின் குறும்புத்தனமான பார்வையில், என்னைத் துளைத்தெடுக்கும் துன்பத்தைத் தீர்க்கும் மருந்தும் இருக்கிறது.",
+        "moral_en": "Moral: The secret wiles of her with thronging armlets decked, Are medicines by which my raising grief is checked.",
+        "game_blank_word_ta": "செய்திறந்த",
+        "game_options_ta": [
+          "கரப்பினுங்",
+          "கையிகந்",
+          "தொல்லாநின்",
+          "செய்திறந்த"
+        ],
+        "game_options_en": [
+          "You hide; but your painted eyes Restraint off, report your surmise",
+          "With seemly grace and stem-like arms The simple she has ample charms",
+          "Something shines through her jewelled charm Like thread shining through wreathed gem",
+          "The close-bangled belle's hidden thought Has a cure for my troubled heart She to Her Maid"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குறிப்பறிவுறுத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1275, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நெருங்கி வளையல்களை அணிந்த என் மனைவி நான் மட்டுமே அறிய மறைத்துக் காட்டும் ஒரு குறிப்பில் என் பெருங்கவலையைத் தீர்க்கும் மருந்து ஒன்றும் உண்டு. கலைஞர் உரை கூறுவது: வண்ணமிகு வளையல்கள் அணிந்த என் வடிவழகியின் குறும்புத்தனமான பார்வையில், என்னைத் துளைத்தெடுக்கும் துன்பத்தைத் தீர்க்கும் மருந்தும் இருக்கிறது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Reading of the Signs (Post-marital Love), Kural 1275 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The well-meant departure of her whose bangles are tight-fitting contains a remedy that can cure my great sorrow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'குறிப்பறிவுறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Reading of the Signs'.",
+        "quiz_question_ta": "'குறிப்பறிவுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1275 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1275 from Chapter 'The Reading of the Signs'?",
+        "quiz_options_ta": [
+          "ஊடியிருந்தபோது அவளை ஊடல் உணர்த்தி மகிழ்வித்தாலும், நீர் மற்ற மகளிர்க்கும் இத்தன்மையானவராக ஆவீர் என்று ‌சொல்லிச் சினம் கொள்வாள்.",
+          "ஒரு வருடைய வாழ்கைக்கு அறத்தை விட நன்மையானதும் இல்லை: அறத்தை போற்றாமல் மறப்பதை விடக்கொடியதும் இல்லை.",
+          "உலகத்தில் இன்பம் உற்று வாழ்கின்றவர் அடையும் சிறப்பு, அன்பு உடையவராகிப் பொருந்தி வாழும் வாழ்கையின் பயன் என்று கூறுவர்",
+          "காதலி என்னை நோக்கி செய்து விட்டுச் சென்ற கள்ளமான குறிப்பு, என் மிக்க துயரத்தைத் தீர்க்கும் மருந்து ஒன்று உடையதாக இருக்கின்றது."
+        ],
+        "quiz_options_en": [
+          "I try to coax her and she remarks \\\"Your coaxing others thus this marks\\\"",
+          "Virtue enhances joy and gain; Forsaking it is fall and pain",
+          "The crowning joy of home life flows From peaceful psychic love always",
+          "The close-bangled belle's hidden thought Has a cure for my troubled heart She to Her Maid"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (குறிப்பறிவுறுத்தல்) பகுதியில் குறள் 1275 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காதலி என்னை நோக்கி செய்து விட்டுச் சென்ற கள்ளமான குறிப்பு, என் மிக்க துயரத்தைத் தீர்க்கும் மருந்து ஒன்று உடையதாக இருக்கின்றது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) செறி தொடி செய்து இறந்த கள்ளம் - நெருங்கிய வளைகளையுடையாள் என்கண் இல்லாததொன்றனை உட்கொண்டு அது காரணமாக என்னை மறைத்துப் போன குறிப்பு; உறுதுயர் தீர்க்கும் மருந்து ஒன்று உடைத்து - என் மிக்க துயரைத் தீர்க்கும் மருந்தாவதொன்றனை உடைத்து. (உட்கொண்டது...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 128: 'The Reading of the Signs'), Kural 1275 distills a foundational ethical insight: \"The secret wiles of her with thronging armlets decked, Are medicines by which my raising grief is checked\" Philosophically, The well-meant departure of her whose bangles are tight-fitting contains a remedy that can cure my great sorrow.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "ethics",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1276,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பெரிதும் அன்பு செய்து விரும்புமாறு கூடுதல், அரிதாகிய பிரிவைச் செய்து பிறகு அன்பில்லாமல்கைவிட எண்ணுகின்ற குறிப்பை உடையதாகும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: The embrace that fills me with comfort and gladness is capable of enduring (my former) sorrow and meditating on his want of love.",
+        "story_title_ta": "குறிப்பறிவுறுத்தல் — முகில் கற்ற பாடம்",
+        "story_title_en": "The Reading of the Signs — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'குறிப்பறிவுறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1276 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1276 from 'The Reading of the Signs', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ஆரத் தழுவி அளவற்ற அன்பு காட்டி அவர் என்னைக் கூடுவதானது மீண்டும் அவர் என்னைப் பிரிந்து செல்லப் போகிற குறிப்பை உணர்த்துவது போல் இருக்கிறதே.",
+        "moral_en": "Moral: While lovingly embracing me, his heart is only grieved:It makes me think that I again shall live of love bereaved.",
+        "game_blank_word_ta": "கலத்தல்",
+        "game_options_ta": [
+          "கலத்தல்",
+          "கரப்பினுங்",
+          "கையிகந்",
+          "தொல்லாநின்"
+        ],
+        "game_options_en": [
+          "His over-kind close embrace sooths; But makes me feel, loveless, he parts",
+          "You hide; but your painted eyes Restraint off, report your surmise",
+          "With seemly grace and stem-like arms The simple she has ample charms",
+          "Something shines through her jewelled charm Like thread shining through wreathed gem"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குறிப்பறிவுறுத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1276, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவரைப் பிரிந்து இருந்ததால் ஏற்பட்ட துன்பத்தினைப் பெரிதும் பொறுத்துக் கொண்டு இப்போது நான் மகிழும் வண்ணம் அவர் என்னைக் கூடுவது அவரது அன்பின்மையை எண்ணிப் பார்க்கச் செய்கிறது. கலைஞர் உரை கூறுவது: ஆரத் தழுவி அளவற்ற அன்பு காட்டி அவர் என்னைக் கூடுவதானது மீண்டும் அவர் என்னைப் பிரிந்து செல்லப் போகிற குறிப்பை உணர்த்துவது போல் இருக்கிறதே. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Reading of the Signs (Post-marital Love), Kural 1276 speaks directly to teens navigating studies, friendships, leadership, and digital choices: The embrace that fills me with comfort and gladness is capable of enduring (my former) sorrow and meditating on his want of love. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'குறிப்பறிவுறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Reading of the Signs'.",
+        "quiz_question_ta": "'குறிப்பறிவுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1276 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1276 from Chapter 'The Reading of the Signs'?",
+        "quiz_options_ta": [
+          "பெரிதும் அன்பு செய்து விரும்புமாறு கூடுதல், அரிதாகிய பிரிவைச் செய்து பிறகு அன்பில்லாமல்கைவிட எண்ணுகின்ற குறிப்பை உடையதாகும்.",
+          "அவளுடைய அழகை நி‌னைத்து அமைதியாக இருந்து நோக்கினாலும், நீர் யாரை நினைத்து ஒப்புமையாக எல்லாம் பார்க்கின்றீர்? என்று சினம் கொள்வாள்.",
+          "செய்யக்கூடிய வகையால், எக்காரணத்தாலும் விடாமல் செல்லுமிடமெல்லாம் அறச்செயலைப் போற்றிச் செய்ய வேண்டும்.",
+          "அறியாதவர், அறத்திற்கு மட்டுமே அன்பு துணையாகும் என்று கூறுவர்:ஆராய்ந்து பார்த்தால் வீரத்திற்க்கும் அதுவே துணையாக நிற்கின்றது"
+        ],
+        "quiz_options_en": [
+          "His over-kind close embrace sooths; But makes me feel, loveless, he parts",
+          "I think and gaze at her; she chides: \\\"On whom your thought just now abides?\\\"",
+          "Perform good deeds as much you can Always and everywhere, o man!",
+          "\\\"Love is virtue's friend\\\" say know-nots It helps us against evil plots"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (குறிப்பறிவுறுத்தல்) பகுதியில் குறள் 1276 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பெரிதும் அன்பு செய்து விரும்புமாறு கூடுதல், அரிதாகிய பிரிவைச் செய்து பிறகு அன்பில்லாமல்கைவிட எண்ணுகின்ற குறிப்பை உடையதாகும். பரிமேலழகர் உரை நுட்பம்: (தலைமகன் குறிப்பறிந்த தலைமகள், அதனை அது தெளிவிக்கச் சென்ற தோழிக்கு அறிவுறுத்தது.) பெரிது ஆற்றிப் பெட்பக்கலத்தல் - காதலர் வந்து தம் பிரிவினானாய துன்பத்தினை மிகவும் ஆற்றி நாம் மகிழும் வண்ணம் கலக்கின்ற கலவி; அரிது ஆற்றி அன்பின்மை சூழ்வது உடைத்து - இருந்தவாற்றான...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 128: 'The Reading of the Signs'), Kural 1276 distills a foundational ethical insight: \"While lovingly embracing me, his heart is only grieved:It makes me think that I again shall live of love bereaved\" Philosophically, The embrace that fills me with comfort and gladness is capable of enduring (my former) sorrow and meditating on his want of love.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "kindness",
+        "family",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1277,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: குளிர்ந்த துறையை உடைய காதலன் பிரிந்த பிரிவை நம்மை விட முன்னம‌ே நம்முடைய வளையல்கள் உணர்ந்து கழன்று விட்டனவே!",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: My bracelets have understood before me the (mental) separation of him who rules the cool seashore.",
+        "story_title_ta": "குறிப்பறிவுறுத்தல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "The Reading of the Signs — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'குறிப்பறிவுறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1277 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1277 from 'The Reading of the Signs', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: குளிர்ந்த நீர்த் துறைக்கு உரிய காதலன் உடலால் கூடியிருக்கும் போது, உள்ளத்தால் பிரியும் நினைவு கொண்டதை என் வளையல்கள் எனக்கு முன்னரே உணர்ந்து கழன்றன போலும்!",
+        "moral_en": "Moral: My severance from the lord of this cool shore, My very armlets told me long before.",
+        "game_blank_word_ta": "உணர்ந்த",
+        "game_options_ta": [
+          "கரப்பினுங்",
+          "உணர்ந்த",
+          "கையிகந்",
+          "தொல்லாநின்"
+        ],
+        "game_options_en": [
+          "You hide; but your painted eyes Restraint off, report your surmise",
+          "Quick, my bracelets read before The mind of my lord of cool shore",
+          "With seemly grace and stem-like arms The simple she has ample charms",
+          "Something shines through her jewelled charm Like thread shining through wreathed gem"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குறிப்பறிவுறுத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1277, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: குளிர்ந்த துறைகளுக்குச் சொந்தக்காரரான அவர் என்னை உடலால் கூடி உள்ளத்தால் பிரிந்திருப்பதை என்னைக் காட்டிலும் என் கை வளையல்கள் முன்னமே அறிந்துவிட்டன. கலைஞர் உரை கூறுவது: குளிர்ந்த நீர்த் துறைக்கு உரிய காதலன் உடலால் கூடியிருக்கும் போது, உள்ளத்தால் பிரியும் நினைவு கொண்டதை என் வளையல்கள் எனக்கு முன்னரே உணர்ந்து கழன்றன போலும்! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Reading of the Signs (Post-marital Love), Kural 1277 speaks directly to teens navigating studies, friendships, leadership, and digital choices: My bracelets have understood before me the (mental) separation of him who rules the cool seashore. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'குறிப்பறிவுறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Reading of the Signs'.",
+        "quiz_question_ta": "'குறிப்பறிவுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1277 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1277 from Chapter 'The Reading of the Signs'?",
+        "quiz_options_ta": [
+          "அவரிடம் தவறு ஒன்றும் இல்லையானலும், அவரோடு ஊடுதல், அவர் நம்மேல் மிகுதியாக அன்பு செலுத்துமாறு செய்ய வல்லது.",
+          "குளிர்ந்த துறையை உடைய காதலன் பிரிந்த பிரிவை நம்மை விட முன்னம‌ே நம்முடைய வளையல்கள் உணர்ந்து கழன்று விட்டனவே!",
+          "ஒருவன் தன்மனதில் குற்றம் இல்லாதவானாக இருக்க வேண்டும். அறம் அவ்வளவே: மனத்தூய்மை இல்லாத மற்றவை ஆரவாரத் தன்மை உடையவை.",
+          "எலும்பு இல்லாத உடம்போடு வாழும் புழுவை வெயில் காய்ந்து வருத்துவது போல் அன்பு இல்லாத உயிரை அறம் வருத்தும்."
+        ],
+        "quiz_options_en": [
+          "He is flawless; but I do pout So that his loving ways show out",
+          "Quick, my bracelets read before The mind of my lord of cool shore",
+          "In spotless mind virtue is found And not in show and swelling sound",
+          "Justice burns the loveless form Like solar blaze the boneless worm"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (குறிப்பறிவுறுத்தல்) பகுதியில் குறள் 1277 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: குளிர்ந்த துறையை உடைய காதலன் பிரிந்த பிரிவை நம்மை விட முன்னம‌ே நம்முடைய வளையல்கள் உணர்ந்து கழன்று விட்டனவே! பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) தண்ணந்துறைவன் தணந்தமை - குளிர்ந்த துறையை உடையவன் நம்மை மெய்யாற் கூடியிருந்தே மனத்தாற் பிரிந்தமையை; நம்மினும் வளை முன்னம் உணர்ந்த - அவன் குறிப்பான் அறிதற்குரிய நம்மினும் இவ்வளைகள் முன்னே அறிந்தன. (கருத்து நிகழ்ந்ததாகலின், 'தணந்தமை' என்றும...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 128: 'The Reading of the Signs'), Kural 1277 distills a foundational ethical insight: \"My severance from the lord of this cool shore, My very armlets told me long before\" Philosophically, My bracelets have understood before me the (mental) separation of him who rules the cool seashore.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "self-mastery",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 1278,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: எம்முடைய காதலர் நேற்றுதான் பிரிந்து சென்றார்; யாமும் மேனி பசலை நிறம் அடைந்து ஏழு நாட்கள் ஆய்விட்ட நிலையில் இருக்கின்றோம்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: It was but yesterday my lover departed (from me); and it is seven days since my complexion turned sallow.",
+        "story_title_ta": "குறிப்பறிவுறுத்தல் — கவின் கற்ற பாடம்",
+        "story_title_en": "The Reading of the Signs — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'குறிப்பறிவுறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1278 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1278 from 'The Reading of the Signs', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நேற்றுத்தான் எம் காதலர் பிரிந்து சென்றார்; எனினும், பல நாட்கள் கழிந்தன என்பது போல் பசலை நிறம் எம்மைப் பற்றிக் கொண்டதே.",
+        "moral_en": "Moral: My loved one left me, was it yesterday?Days seven my pallid body wastes away.",
+        "game_blank_word_ta": "நெருநற்றுச்",
+        "game_options_ta": [
+          "கரப்பினுங்",
+          "கையிகந்",
+          "நெருநற்றுச்",
+          "தொல்லாநின்"
+        ],
+        "game_options_en": [
+          "You hide; but your painted eyes Restraint off, report your surmise",
+          "With seemly grace and stem-like arms The simple she has ample charms",
+          "My lover parted but yesterday; With sallowness it is seventh day The Maid Tells Him",
+          "Something shines through her jewelled charm Like thread shining through wreathed gem"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குறிப்பறிவுறுத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1278, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் காதலர் நேற்றுத்தான் என்னைப் பிரிந்து போனார்; அப்பிரிவிற்கு வாடி என் மேனியின் நிறம் வேறுபட்டு ஏழு நாள்களாகிவிட்டன. கலைஞர் உரை கூறுவது: நேற்றுத்தான் எம் காதலர் பிரிந்து சென்றார்; எனினும், பல நாட்கள் கழிந்தன என்பது போல் பசலை நிறம் எம்மைப் பற்றிக் கொண்டதே. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Reading of the Signs (Post-marital Love), Kural 1278 speaks directly to teens navigating studies, friendships, leadership, and digital choices: It was but yesterday my lover departed (from me); and it is seven days since my complexion turned sallow. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'குறிப்பறிவுறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Reading of the Signs'.",
+        "quiz_question_ta": "'குறிப்பறிவுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1278 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1278 from Chapter 'The Reading of the Signs'?",
+        "quiz_options_ta": [
+          "ஊடுதலால் உண்டாகின்ற சிறிய துன்பம், காதலர் செய்கின்ற நல்ல அன்பு வாடிவிடக் காரணமாக இருந்தாலும் பெருமை பெறும்.",
+          "பொறாமை, ஆசை, சினம், கடுஞ்சொல் ஆகிய இந்த நான்கு குற்றங்களுக்கும் இடங்கொடுக்காமல் அவற்றைக் கடித்து ஒழுகுவதே அறமாகும்.",
+          "எம்முடைய காதலர் நேற்றுதான் பிரிந்து சென்றார்; யாமும் மேனி பசலை நிறம் அடைந்து ஏழு நாட்கள் ஆய்விட்ட நிலையில் இருக்கின்றோம்.",
+          "அகத்தில் அன்பு இல்லாமல் வாழும் உயிர் வாழக்கை வளமற்ற பாலைநிலத்தில் பட்டமரம் தளிர்த்தாற் போன்றது."
+        ],
+        "quiz_options_en": [
+          "Fading first, love blooms and outlives The petty pricks that pouting gives",
+          "Four ills eschew and virtue reach, Lust, anger, envy, evil-speech",
+          "My lover parted but yesterday; With sallowness it is seventh day The Maid Tells Him",
+          "Life bereft of love is gloom Can sapless tree in desert bloom?"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (குறிப்பறிவுறுத்தல்) பகுதியில் குறள் 1278 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எம்முடைய காதலர் நேற்றுதான் பிரிந்து சென்றார்; யாமும் மேனி பசலை நிறம் அடைந்து ஏழு நாட்கள் ஆய்விட்ட நிலையில் இருக்கின்றோம். பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) எம் காதலர் சென்றார் நெருநற்று - எம்காதலர் பிரிந்து போயினார் நெருநற்றே; யாமும் மேனி பசந்து எழுநாளேம் - அப்பிரிவிற்கு யாமும் மேனி பசந்து எழுநாள் உடையமாயினேம். ('நெருநற்றுச் செய்த தலையளியாற் பிரிவு துணியப்பட்டது' என்பாள், 'நெருநற்றுச் சென்றார...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 128: 'The Reading of the Signs'), Kural 1278 distills a foundational ethical insight: \"My loved one left me, was it yesterday?Days seven my pallid body wastes away\" Philosophically, It was but yesterday my lover departed (from me); and it is seven days since my complexion turned sallow.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "ethics"
+      ]
+    },
+    {
+      "kural_number": 1279,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: தன்னுடைய வளையல்களை நோக்கி, மெல்லிய தோள்களையும் நோக்கித் தன்னுடைய அடிகளையும் நோக்கி அவள் செய்த குறிப்பு உடன்போக்காகிய அதுவேயாகும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: She looked at her bracelets, her tender shoulders, and her feet; this was what she did there (significantly).",
+        "story_title_ta": "குறிப்பறிவுறுத்தல் — நிலா கற்ற பாடம்",
+        "story_title_en": "The Reading of the Signs — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'குறிப்பறிவுறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1279 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1279 from 'The Reading of the Signs', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பிரிவு காரணமாகக் கழலக் கூடிய வளையலையும், மெலிந்து போகக் கூடிய மென்மையான தோளையும் நோக்கியவன் காதலனைத் தொடர்ந்து செல்வதென்ற முடிவைத் தன் அடிகளை நோக்கும் குறிப்பால் உணர்த்தினான்.",
+        "moral_en": "Moral: She viewed her tender arms, she viewed the armlets from them slid; She viewed her feet: all this the lady did.",
+        "game_blank_word_ta": "மென்தோளும்",
+        "game_options_ta": [
+          "கரப்பினுங்",
+          "கையிகந்",
+          "தொல்லாநின்",
+          "மென்தோளும்"
+        ],
+        "game_options_en": [
+          "You hide; but your painted eyes Restraint off, report your surmise",
+          "With seemly grace and stem-like arms The simple she has ample charms",
+          "Something shines through her jewelled charm Like thread shining through wreathed gem",
+          "She views her armlets, her tender arms And then her feet; these are her norms"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குறிப்பறிவுறுத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1279, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நீ என்னைப் பிரிந்தால் இவை என்னுடன் இருக்கமாட்டா என்று கை வளையல்களைப் பார்த்தாள். துணையாக தன் மெல்லிய தோள்களும் மெலியும் என அவற்றைப் பார்த்தாள்; இவை இரண்டும் நடக்காதபடி நீர் நடந்து கொள்ள வேண்டும் என்று தன் பாதங்களையும் பார்த்தாள், பிரிந்தால் நானும் உடன் வருவேன் என்ற ஒரு குறிப்பும் இதனுள் இருக்கிறது. கலைஞர் உரை கூறுவது: பிரிவு காரணமாகக் கழலக் கூடிய வளையலையும், மெலிந்து போகக் கூடிய மென்மையான தோளையும் நோக்கியவன் காதலனைத் தொடர்ந்து செல்வதென்ற முடிவைத் தன் அடிகளை நோக்கும் குறிப்பால் உணர்த்தினான். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Reading of the Signs (Post-marital Love), Kural 1279 speaks directly to teens navigating studies, friendships, leadership, and digital choices: She looked at her bracelets, her tender shoulders, and her feet; this was what she did there (significantly). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'குறிப்பறிவுறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Reading of the Signs'.",
+        "quiz_question_ta": "'குறிப்பறிவுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1279 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1279 from Chapter 'The Reading of the Signs'?",
+        "quiz_options_ta": [
+          "நிலத்தோடு நீர் பொருந்தி கலந்தாற் போன்ற அன்புடைய காதலரிடத்தில் ஊடுவதை விட இன்பம் தருகின்ற தேவருலம் இருக்கின்றதோ.",
+          "இளைஞராக உள்ளவர், பிற்காலத்தில் பார்த்து கொள்ளலாம் என்று எண்ணாமல் அறம் செய்ய வேண்டும். அதுவே உடல் அழியும் காலத்தில் அழியா துணையாகும்.",
+          "உடம்பின் அகத்து உறுப்பாகிய அன்பு இல்லாதவர்க்கு உடம்பின் புறத்து உறுப்புக்கள் எல்லாம் என்ன பயன் செய்யும்.",
+          "தன்னுடைய வளையல்களை நோக்கி, மெல்லிய தோள்களையும் நோக்கித் தன்னுடைய அடிகளையும் நோக்கி அவள் செய்த குறிப்பு உடன்போக்காகிய அதுவேயாகும்."
+        ],
+        "quiz_options_en": [
+          "Is there a heaven like sulk beneath Of hearts that join like water and earth?",
+          "Do good enow; defer it not A deathless aid in death if sought",
+          "Love is the heart which limbs must move, Or vain the outer parts will prove",
+          "She views her armlets, her tender arms And then her feet; these are her norms"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (குறிப்பறிவுறுத்தல்) பகுதியில் குறள் 1279 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தன்னுடைய வளையல்களை நோக்கி, மெல்லிய தோள்களையும் நோக்கித் தன்னுடைய அடிகளையும் நோக்கி அவள் செய்த குறிப்பு உடன்போக்காகிய அதுவேயாகும். பரிமேலழகர் உரை நுட்பம்: (தலைமகள் குறிப்பறிந்த தோழி அதனைத் தலைமகற்கு அறிவித்தது.) (யான் அது தெளிவித்த வழி தெளியாது) தொடி நோக்கி - அவர் பிரிய யான் ஈண்டிருப்பின் இவை நில்லா எனத் தன் தொடியை நோக்கி; மென்தோளும் நோக்கி - அதற்கு ஏதுவாக இவை மெலியும் எனத் தன் மென்தோள்களையும் நோக்கி; அடி...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 128: 'The Reading of the Signs'), Kural 1279 distills a foundational ethical insight: \"She viewed her tender arms, she viewed the armlets from them slid; She viewed her feet: all this the lady did\" Philosophically, She looked at her bracelets, her tender shoulders, and her feet; this was what she did there (significantly).",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "education",
+        "speech",
+        "love"
+      ]
+    },
+    {
+      "kural_number": 1280,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: கண்ணினால் காமநோயைத் தெரிவித்துப் பிரியாமல் இருக்குமாறு இரத்தல், பெண் தன்மைக்கு மேலும் பெண் தன்மை உடையது என்று கூறுவர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: To express their love-sickness by their eyes and resort to begging bespeaks more than ordinary female excellence.",
+        "story_title_ta": "குறிப்பறிவுறுத்தல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "The Reading of the Signs — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'குறிப்பறிவுறுத்தல்' என்ற அதிகாரத்தில் வரும் குறள் 1280 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1280 from 'The Reading of the Signs', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதல் வேட்கையைக் கண்களால் உணர்த்திக் காதலனுடன் போவதற்கு இரந்து நிற்கும்போது பெண்மைக்குப் பெண்மை சேர்த்தாற் போன்று இருக்கின்றது.",
+        "moral_en": "Moral: To show by eye the pain of love, and for relief to pray, Is womanhood's most womanly device, men say.",
+        "game_blank_word_ta": "இரவு",
+        "game_options_ta": [
+          "இரவு",
+          "கரப்பினுங்",
+          "கையிகந்",
+          "தொல்லாநின்"
+        ],
+        "game_options_en": [
+          "To express love-pangs by eyes and pray Is womanhood's womanly way",
+          "You hide; but your painted eyes Restraint off, report your surmise",
+          "With seemly grace and stem-like arms The simple she has ample charms",
+          "Something shines through her jewelled charm Like thread shining through wreathed gem"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "குறிப்பறிவுறுத்தல் (கற்பியல்) பிரிவில் அமைந்த குறள் 1280, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பெண்கள் தம் காதல் நோயைக் கண்ணாலேயே சொல்லி அதைத் தீர்க்கும்படி வேண்டுவது பெண்மை. மேலும் ஒரு பெண்மையைக் கொண்டிருப்பதாகும் என்பர் அறிந்தோர். கலைஞர் உரை கூறுவது: காதல் வேட்கையைக் கண்களால் உணர்த்திக் காதலனுடன் போவதற்கு இரந்து நிற்கும்போது பெண்மைக்குப் பெண்மை சேர்த்தாற் போன்று இருக்கின்றது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From The Reading of the Signs (Post-marital Love), Kural 1280 speaks directly to teens navigating studies, friendships, leadership, and digital choices: To express their love-sickness by their eyes and resort to begging bespeaks more than ordinary female excellence. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'குறிப்பறிவுறுத்தல்' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'The Reading of the Signs'.",
+        "quiz_question_ta": "'குறிப்பறிவுறுத்தல்' அதிகாரத்தில் வரும் திருக்குறள் 1280 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1280 from Chapter 'The Reading of the Signs'?",
+        "quiz_options_ta": [
+          "கண்ணினால் காமநோயைத் தெரிவித்துப் பிரியாமல் இருக்குமாறு இரத்தல், பெண் தன்மைக்கு மேலும் பெண் தன்மை உடையது என்று கூறுவர்.",
+          "காதலரைத் தழுவிக்கொண்டு விடாமலிருப்பதற்கு காரணமான ஊடலுள், என்னுடைய உள்ளத்தை உடைக்க வல்ல படை தோன்றுகிறது.",
+          "பல்லக்கை சுமப்பவனும் அதன்மேலிருந்து ஊர்ந்து செல்லுவோனுமாகிய அவர்களிடையே அறத்தின் பயன் இஃது என்று கூறவேண்டா.",
+          "அன்பின் வழியில் இயங்கும் உடம்பே உயிர்நின்ற உடம்பாகும்: அன்பு இல்லாதவர்க்கு உள்ள உடம்பு எலும்பைத் தோல்போர்த்த வெற்றுடம்பே ஆகும்"
+        ],
+        "quiz_options_en": [
+          "To express love-pangs by eyes and pray Is womanhood's womanly way",
+          "In long pout after embrace sweet A weapon is up to break my heart",
+          "Litter-bearer and rider say Without a word, the fortune's way",
+          "The seat of life is love alone; Or beings are but skin and bone!"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — கற்பியல் (குறிப்பறிவுறுத்தல்) பகுதியில் குறள் 1280 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: கண்ணினால் காமநோயைத் தெரிவித்துப் பிரியாமல் இருக்குமாறு இரத்தல், பெண் தன்மைக்கு மேலும் பெண் தன்மை உடையது என்று கூறுவர். பரிமேலழகர் உரை நுட்பம்: (தலைமகன் பிரியாமைக் குறிப்பினைத் தோழிக்கு அறிவுறுத்தது.) காமநோய் கண்ணினால் சொல்லி இரவு - மகளிர் தம் காம நோயினைத் தோழியர்க்கும் வாயாற்சொல்லாது கண்ணினாற் சொல்லி அது தீர்க்கவேண்டும் என்று அவரை இரவாது உடன்போதல் குறித்துத் தம் அடியினை இரத்தல்; பெண்ணினால் பெண்மை...",
+        "reflection_en": "Within Book of Love & Affection (Post-marital Love — Chapter 128: 'The Reading of the Signs'), Kural 1280 distills a foundational ethical insight: \"To show by eye the pain of love, and for relief to pray, Is womanhood's most womanly device, men say\" Philosophically, To express their love-sickness by their eyes and resort to begging bespeaks more than ordinary female excellence.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "ethics",
+        "education"
+      ]
+    }
+  ]
+}

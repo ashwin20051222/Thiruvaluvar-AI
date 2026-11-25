@@ -1,0 +1,581 @@
+{
+  "adhikaram_id": 116,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:35.522805634+00:00",
+  "kurals": [
+    {
+      "kural_number": 1151,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: பிரிந்து செல்லாத நிலைமை இருந்தால் எனக்குச் சொல், பிரிந்து சென்று விரைந்து வருதலைப் பற்றியானால் அதுவரையில் உயிர்வாழ வல்லவர்க்குச் சொல்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: If it is not departure, tell me; but if it is your speedy return, tell it to those who would be alive then.",
+        "story_title_ta": "பிரிவு ஆற்றாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Separation unendurable — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பிரிவு ஆற்றாமை' என்ற அதிகாரத்தில் வரும் குறள் 1151 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1151 from 'Separation unendurable', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பிரிந்து செல்வதில்லையென்றால் அந்த மகிழ்ச்சியான செய்தியை என்னிடம் சொல் நீ போய்த்தான் தீர வேண்டுமென்றால் நீ திரும்பி வரும்போது யார் உயிரோடு இருப்பார்களோ அவர்களிடம் இப்போது விடைபெற்றுக் கொள்.",
+        "moral_en": "Moral: If you will say, 'I leave thee not,' then tell me so; Of quick return tell those that can survive this woe.",
+        "game_blank_word_ta": "வாழ்வார்க்",
+        "game_options_ta": [
+          "இன்கண்",
+          "உடைத்தவர்",
+          "பார்வல்",
+          "வாழ்வார்க்"
+        ],
+        "game_options_en": [
+          "His sight itself was pleasing, near Embrace pains now by partings fear",
+          "On whom shall I lay my trust hence While parting lurks in knowing ones?",
+          "He parts whose love told me -fear not Is my trust in him at default?",
+          "Tell me if you but do not leave, Your quick return to those who live"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிரிவு ஆற்றாமை (களவியல்) பிரிவில் அமைந்த குறள் 1151, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என்னைப் பிரிவதில்லை என்றால் என்னிடம் சொல். சீக்கிரம் வருவேன் என்பதை எல்லாம் நீ வரும்போது உயிரோடு இருப்பார்களே அவர்களிடம் சொல். கலைஞர் உரை கூறுவது: பிரிந்து செல்வதில்லையென்றால் அந்த மகிழ்ச்சியான செய்தியை என்னிடம் சொல் நீ போய்த்தான் தீர வேண்டுமென்றால் நீ திரும்பி வரும்போது யார் உயிரோடு இருப்பார்களோ அவர்களிடம் இப்போது விடைபெற்றுக் கொள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Separation unendurable (Pre-marital Love), Kural 1151 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If it is not departure, tell me; but if it is your speedy return, tell it to those who would be alive then. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பிரிவு ஆற்றாமை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Separation unendurable'.",
+        "quiz_question_ta": "'பிரிவு ஆற்றாமை' அதிகாரத்தில் வரும் திருக்குறள் 1151 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1151 from Chapter 'Separation unendurable'?",
+        "quiz_options_ta": [
+          "நாம் காதல் கொண்ட காதலர் தாமும் அவ்வாறே நம்மிடம் காதல் கொள்ளாதபோது, நமக்கு அவர் என்ன நன்மை செய்வார்?",
+          "தழுவிய கை‌களைத் தளர்த்தியவுடனே, பைந்தொடி அணிந்த காதலியின் நெற்றி, ( அவ்வளவு சிறியதாகிய பிரிவையும் பொறுக்காமல்) பசலை நிறம் அடைந்தது.",
+          "நினைத்த அளவிலே களிப்படைதலும் கண்ட அளவிலே மகிழ்ச்சி அடைதலும் ஆகிய இந்த இருவகை தன்மையும் கள்ளுக்கு இல்‌லை; காமத்திற்கு உண்டு",
+          "பிரிந்து செல்லாத நிலைமை இருந்தால் எனக்குச் சொல், பிரிந்து சென்று விரைந்து வருதலைப் பற்றியானால் அதுவரையில் உயிர்வாழ வல்லவர்க்குச் சொல்."
+        ],
+        "quiz_options_en": [
+          "What can our lover do us now If he does not requite our love?",
+          "The front of this fair one O paled As my clasping arms loosed their hold",
+          "Rapture at thought and joy when seen Belong to love and not to wine",
+          "Tell me if you but do not leave, Your quick return to those who live"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (பிரிவு ஆற்றாமை) பகுதியில் குறள் 1151 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிரிந்து செல்லாத நிலைமை இருந்தால் எனக்குச் சொல், பிரிந்து சென்று விரைந்து வருதலைப் பற்றியானால் அதுவரையில் உயிர்வாழ வல்லவர்க்குச் சொல். பரிமேலழகர் உரை நுட்பம்: (பிரிந்து கடிதின் வருவல் என்ற தலைமகற்குத் தோழி சொல்லியது.) செல்லாமை உண்டேல் எனக்கு உரை - நீ எம்மைப் பிரியாமை உண்டாயின் அதனை எனக்குச் சொல்; மற்று நின் வல்வரவு வாழ்வார்க்கு உரை - அஃதொழியப் பிரிந்துபோய் விரைந்து வருதல் சொல்வையாயின் அதனை அப்பொழுது...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 116: 'Separation unendurable'), Kural 1151 distills a foundational ethical insight: \"If you will say, 'I leave thee not,' then tell me so; Of quick return tell those that can survive this woe\" Philosophically, If it is not departure, tell me; but if it is your speedy return, tell it to those who would be alive then.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 1152,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: அவருடைய பார்வை முன்பு இன்பம் உடையதாக இருந்தது, இப்போது அவருடைய கூட்டம் பிரிவுக்கு அஞ்சுகின்ற துன்பம் உடையதாக இருக்கின்றது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: His very look was once pleasing; but (now) even intercourse is painful through fear of separation.",
+        "story_title_ta": "பிரிவு ஆற்றாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Separation unendurable — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பிரிவு ஆற்றாமை' என்ற அதிகாரத்தில் வரும் குறள் 1152 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1152 from 'Separation unendurable', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: முன்பெல்லாம் அவரைக் கண்களால் தழுவிக் கொண்டதே இன்பமாக இருந்தது; ஆனால், இப்போது உடல் தழுவிக் களிக்கும் போதுகூடப் பிரிவை எண்ணும் அச்சத்தால் துன்பமல்லவா வருத்துகிறது!",
+        "moral_en": "Moral: It once was perfect joy to look upon his face; But now the fear of parting saddens each embrace.",
+        "game_blank_word_ta": "புன்கண்",
+        "game_options_ta": [
+          "புன்கண்",
+          "செல்லாமை",
+          "உண்டேல்",
+          "எனக்குரை"
+        ],
+        "game_options_en": [
+          "His sight itself was pleasing, near Embrace pains now by partings fear",
+          "Tell me if you but do not leave, Your quick return to those who live",
+          "On whom shall I lay my trust hence While parting lurks in knowing ones?",
+          "He parts whose love told me -fear not Is my trust in him at default?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிரிவு ஆற்றாமை (களவியல்) பிரிவில் அமைந்த குறள் 1152, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவர் பார்வை எனக்கு மகிழ்ச்சிதான். அவர் செயலோ பிரியப் போகிறார் என்ற அச்சத்தைத் தந்து கொண்டிருக்கிறதே! கலைஞர் உரை கூறுவது: முன்பெல்லாம் அவரைக் கண்களால் தழுவிக் கொண்டதே இன்பமாக இருந்தது; ஆனால், இப்போது உடல் தழுவிக் களிக்கும் போதுகூடப் பிரிவை எண்ணும் அச்சத்தால் துன்பமல்லவா வருத்துகிறது! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Separation unendurable (Pre-marital Love), Kural 1152 speaks directly to teens navigating studies, friendships, leadership, and digital choices: His very look was once pleasing; but (now) even intercourse is painful through fear of separation. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பிரிவு ஆற்றாமை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Separation unendurable'.",
+        "quiz_question_ta": "'பிரிவு ஆற்றாமை' அதிகாரத்தில் வரும் திருக்குறள் 1152 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1152 from Chapter 'Separation unendurable'?",
+        "quiz_options_ta": [
+          "அவருடைய பார்வை முன்பு இன்பம் உடையதாக இருந்தது, இப்போது அவருடைய கூட்டம் பிரிவுக்கு அஞ்சுகின்ற துன்பம் உடையதாக இருக்கின்றது.",
+          "காதல் ஒரு பக்கமாக இருத்தல் துன்பமானது; காவடியின் பாரம் போல் இருபக்கமாகவும் ஒத்திருப்பது இன்பமானதாகும்.",
+          "தழுவுதலுக்கு இடையே குளி்ந்த காற்று நுழைய, காதலியின் பெரிய மழை போன்ற கண்கள் பசலை நிறம் அடைந்தன.",
+          "காமம் பனையளவாக நிறைய வரும்போது காதலரோடு தினையளவாகச் சிறிதேனும் ஊடல் கொள்ளாமல் இருக்க வேண்டும்."
+        ],
+        "quiz_options_en": [
+          "His sight itself was pleasing, near Embrace pains now by partings fear",
+          "One sided pains; love in both souls Poises well like shoulder poles",
+          "Cool breeze crept between our embrace Her large rain-cloud-eyes paled at once",
+          "When passion grows palmyra-tall Sulking is wrong though millet-small"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (பிரிவு ஆற்றாமை) பகுதியில் குறள் 1152 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அவருடைய பார்வை முன்பு இன்பம் உடையதாக இருந்தது, இப்போது அவருடைய கூட்டம் பிரிவுக்கு அஞ்சுகின்ற துன்பம் உடையதாக இருக்கின்றது. பரிமேலழகர் உரை நுட்பம்: (பிரிவு தலைமகன் குறிப்பான் அறிந்த தலைமகள் தோழிக்குச் சொல்லியது.) அவர் பார்வல் இன்கண் உடைத்து - தழையும் கண்ணியும் கொண்டு பின்னின்ற ஞான்று அவர் நோக்கு மாத்திரமும் புணர்ச்சி குறித்தமையான் நமக்கு இன்பமுடைத்தாயிருக்கும்; புணர்வு பிரிவஞ்சும் புன்கண் உடைத்து - இன்று...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 116: 'Separation unendurable'), Kural 1152 distills a foundational ethical insight: \"It once was perfect joy to look upon his face; But now the fear of parting saddens each embrace\" Philosophically, His very look was once pleasing; but (now) even intercourse is painful through fear of separation.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "ethics",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1153,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அறிவுடைய காதலரிடத்தும் பிரிவு ஒரு காலத்தில் உள்ள படியால் அவர் பிரியேன் என்று சொல்லும் உறுதி மொழியை நம்பித் தெளிவது அரிது.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: As even the lover who understands (everything) may at times depart, confidence is hardly possible.",
+        "story_title_ta": "பிரிவு ஆற்றாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Separation unendurable — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பிரிவு ஆற்றாமை' என்ற அதிகாரத்தில் வரும் குறள் 1153 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1153 from 'Separation unendurable', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பிரிவுத் துன்பத்தை அறிந்துள்ள காதலரும் நம்மைப் பிரிந்த செல்ல நேரிடுவதால்; ``பிரிந்திடேன்'' என அவர் கூறவதை உறுதி செய்திட இயலாது.",
+        "moral_en": "Moral: To trust henceforth is hard, if ever he depart, E'en he, who knows his promise and my breaking heart.",
+        "game_blank_word_ta": "தேற்றம்",
+        "game_options_ta": [
+          "செல்லாமை",
+          "தேற்றம்",
+          "உண்டேல்",
+          "எனக்குரை"
+        ],
+        "game_options_en": [
+          "Tell me if you but do not leave, Your quick return to those who live",
+          "On whom shall I lay my trust hence While parting lurks in knowing ones?",
+          "His sight itself was pleasing, near Embrace pains now by partings fear",
+          "He parts whose love told me -fear not Is my trust in him at default?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிரிவு ஆற்றாமை (களவியல்) பிரிவில் அமைந்த குறள் 1153, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எல்லாம் அறியும் ஆற்றல் உடைய அவரும் ஒருநேரம் பிரிவார் என்றால், என்மீது அவர் கொண்டிருக்கும் அன்பை அறிந்து கொள்ள முடியவில்லை. கலைஞர் உரை கூறுவது: பிரிவுத் துன்பத்தை அறிந்துள்ள காதலரும் நம்மைப் பிரிந்த செல்ல நேரிடுவதால்; ``பிரிந்திடேன்'' என அவர் கூறவதை உறுதி செய்திட இயலாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Separation unendurable (Pre-marital Love), Kural 1153 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As even the lover who understands (everything) may at times depart, confidence is hardly possible. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பிரிவு ஆற்றாமை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Separation unendurable'.",
+        "quiz_question_ta": "'பிரிவு ஆற்றாமை' அதிகாரத்தில் வரும் திருக்குறள் 1153 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1153 from Chapter 'Separation unendurable'?",
+        "quiz_options_ta": [
+          "( காதலர் இருவரிடத்திலும் ஒத்திருக்காமல்) ஒருவரிடத்தில் மட்டும் காமன் நின்று இயங்குவதால், என்னுடைய துன்பத்தையும் வருத்தத்தையும் அறியானோ?",
+          "அறிவுடைய காதலரிடத்தும் பிரிவு ஒரு காலத்தில் உள்ள படியால் அவர் பிரியேன் என்று சொல்லும் உறுதி மொழியை நம்பித் தெளிவது அரிது.",
+          "காதலியின் ஒளி பொருந்திய நெற்றி, பசலை நிறம் உற்றதைக் கண்டு, அவளுடைய க்ண்களில் பசலையும் துன்பம் அடைந்து விட்டது.",
+          "என்னை விரும்பாமல் புறக்கணித்துத் தனக்கு விருப்பமானவற்றையே செய்து ஒழுகினாலும், என்னுடைய கண்கள் காதலனைக் காணாமல் பொருந்தவில்லை."
+        ],
+        "quiz_options_en": [
+          "This cupid aims at me alone; Knows he not my pallor and pain?",
+          "On whom shall I lay my trust hence While parting lurks in knowing ones?",
+          "Pale eyes pained seeing the pallor Of the bright forehead of this fair",
+          "Though slighting me he acts his will My restless eyes would see him still"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (பிரிவு ஆற்றாமை) பகுதியில் குறள் 1153 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அறிவுடைய காதலரிடத்தும் பிரிவு ஒரு காலத்தில் உள்ள படியால் அவர் பிரியேன் என்று சொல்லும் உறுதி மொழியை நம்பித் தெளிவது அரிது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) அறிவு உடையார் கண்ணும் - பிரியேன் என்ற தம் சொல்லும் நம் பிரிவாற்றாமையும் அறிதலுடையராய காதலர் கண்ணும்; ஓர் இடத்துப் பிரிவு உண்மையான் - ஒரோவழிப் பிரிவு நிகழ்தலான்; தேற்றம் அரிது - அவர் சொல்லும் தலையளியும் பற்றி நம்மாட்டு அன்புடையார் எனத்தேறும...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 116: 'Separation unendurable'), Kural 1153 distills a foundational ethical insight: \"To trust henceforth is hard, if ever he depart, E'en he, who knows his promise and my breaking heart\" Philosophically, As even the lover who understands (everything) may at times depart, confidence is hardly possible.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "wisdom",
+        "time",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1154,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: அருள் மிகுந்தவராய் அஞ்ச வேண்டா என்று முன் தேற்றியவர் பிரிந்து செல்வாரானால் அவர் கூறிய உறுதிமொழியை நம்பித் தெளிந்தவர்க்கு குற்றம் உண்டோ.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: If he who bestowed his love and said \"fear not\" should depart, will it be the fault of those who believed in (his) assuring words ?",
+        "story_title_ta": "பிரிவு ஆற்றாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Separation unendurable — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பிரிவு ஆற்றாமை' என்ற அதிகாரத்தில் வரும் குறள் 1154 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1154 from 'Separation unendurable', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: பிரிந்திடேன்; அஞ்சாதே எனச் சொல்லியவர் எனைப்பிரிந்து செல்வாரானால், அவர் சொன்னதை நம்பியதில் என்ன குற்றமிருக்க முடியும்?",
+        "moral_en": "Moral: If he depart, who fondly said, 'Fear not,' what blame's incurredBy those who trusted to his reassuring word.",
+        "game_blank_word_ta": "தவறு",
+        "game_options_ta": [
+          "செல்லாமை",
+          "உண்டேல்",
+          "தவறு",
+          "எனக்குரை"
+        ],
+        "game_options_en": [
+          "Tell me if you but do not leave, Your quick return to those who live",
+          "His sight itself was pleasing, near Embrace pains now by partings fear",
+          "He parts whose love told me -fear not Is my trust in him at default?",
+          "On whom shall I lay my trust hence While parting lurks in knowing ones?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிரிவு ஆற்றாமை (களவியல்) பிரிவில் அமைந்த குறள் 1154, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என்னை மணந்தபோதே என்மீது அன்பு காட்டிப் பயப்படாதே, உன்னைப் பிரியமாட்டேன் என்று சொல்லி என்னைத் தேற்றிய அவர் சொல்லை, நான் நம்பியது தவறோ? கலைஞர் உரை கூறுவது: பிரிந்திடேன்; அஞ்சாதே எனச் சொல்லியவர் எனைப்பிரிந்து செல்வாரானால், அவர் சொன்னதை நம்பியதில் என்ன குற்றமிருக்க முடியும்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Separation unendurable (Pre-marital Love), Kural 1154 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If he who bestowed his love and said \"fear not\" should depart, will it be the fault of those who believed in (his) assuring words ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பிரிவு ஆற்றாமை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Separation unendurable'.",
+        "quiz_question_ta": "'பிரிவு ஆற்றாமை' அதிகாரத்தில் வரும் திருக்குறள் 1154 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1154 from Chapter 'Separation unendurable'?",
+        "quiz_options_ta": [
+          "தான் விரும்பும் காதலரின் இனிய சொல்லைப் பெறாமல் உலகத்தில் ( பிரிவுத் துன்பத்தைப் பொறுத்து) வாழ்கின்றவரைப் போல் வன்கண்மை உடையவர் இல்லை.",
+          "நெஞ்சே! ( காதலால் வளர்ந்த) இத் துன்ப நோயைத் தீர்க்கும் மருந்து ஏதாவது ஒன்றை நீ நினைத்துப் பார்த்து எனக்குச் சொல்ல மாட்டாயோ?",
+          "அருள் மிகுந்தவராய் அஞ்ச வேண்டா என்று முன் தேற்றியவர் பிரிந்து செல்வாரானால் அவர் கூறிய உறுதிமொழியை நம்பித் தெளிந்தவர்க்கு குற்றம் உண்டோ.",
+          "தோழி! யான் அவரோடு ஊடுவதற்காகச் சென்றேன்; ஆனால், என்னுடைய நெஞ்சம் அந்த நோக்கத்தை மறந்து அவரோடு கூடுவதற்காகச் சென்றது."
+        ],
+        "quiz_options_en": [
+          "None is so firm as she who loves Without kind words from whom she dotes",
+          "Think of, O heart, some remedy To cure this chronic malady",
+          "He parts whose love told me -fear not Is my trust in him at default?",
+          "Huff I would, maid, but I forget; And leap to embrace him direct"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (பிரிவு ஆற்றாமை) பகுதியில் குறள் 1154 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அருள் மிகுந்தவராய் அஞ்ச வேண்டா என்று முன் தேற்றியவர் பிரிந்து செல்வாரானால் அவர் கூறிய உறுதிமொழியை நம்பித் தெளிந்தவர்க்கு குற்றம் உண்டோ. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) அளித்து அஞ்சல் என்றவர் நீப்பின் - எதிர்ப்பட்ட ஞான்றே தலையளி செய்து, நின்னிற் பிரியேன் அஞ்சல் என்றவர் தாமே பின் பிரிவாராயின்; தெளிந்த சொல் தேறியார்க்குத் தவறு உண்டோ - அவர்க்கன்றி அவர் தெளிவித்த சொல்லை மெய்யெனத் தெளிந்தார்க்குக் குற்றம் உண்டோ...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 116: 'Separation unendurable'), Kural 1154 distills a foundational ethical insight: \"If he depart, who fondly said, 'Fear not,' what blame's incurredBy those who trusted to his reassuring word\" Philosophically, If he who bestowed his love and said \"fear not\" should depart, will it be the fault of those who believed in (his) assuring words ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "truth",
+        "courage"
+      ]
+    },
+    {
+      "kural_number": 1155,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: காத்துக் கொள்வதானால் காதலராக அமைந்தவரின் பிரிவு நேராமல் காக்க வேண்டும், அவர் பிரிந்து நீங்கினால் மீண்டும் கூடுதல் அரிது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: If you would save (my life), delay the departure of my destined (husband); for if he departs, intercourse will become impossible.",
+        "story_title_ta": "பிரிவு ஆற்றாமை — இனியா கற்ற பாடம்",
+        "story_title_en": "Separation unendurable — Iniya's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் இனியா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பிரிவு ஆற்றாமை' என்ற அதிகாரத்தில் வரும் குறள் 1155 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட இனியா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என இனியா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Iniya's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1155 from 'Separation unendurable', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Iniya helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதலர் பிரிந்து சென்றால் மீண்டும் கூடுதல் எளிதல்ல என்பதால், அவர் பிரிந்து செல்லாமல் முதலியேயே காத்துக் கொள்ள வேண்டும்.",
+        "moral_en": "Moral: If you would guard my life, from going him restrainWho fills my life! If he depart, hardly we meet again.",
+        "game_blank_word_ta": "ஓம்பின்",
+        "game_options_ta": [
+          "செல்லாமை",
+          "உண்டேல்",
+          "எனக்குரை",
+          "ஓம்பின்"
+        ],
+        "game_options_en": [
+          "Tell me if you but do not leave, Your quick return to those who live",
+          "His sight itself was pleasing, near Embrace pains now by partings fear",
+          "On whom shall I lay my trust hence While parting lurks in knowing ones?",
+          "Stop his parting -my life to save Meeting is rare if he would leave"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிரிவு ஆற்றாமை (களவியல்) பிரிவில் அமைந்த குறள் 1155, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: என் உயிரைக் காக்க எண்ணினால் அதைக் காப்பதற்கு உரிய அவர், என்னை விட்டுப் பிரிவதைத் தவிர்க்க வேண்டும். மீறிப் பிரிந்தால் நான் இனி அவரைச் சேர்வது அரிது. கலைஞர் உரை கூறுவது: காதலர் பிரிந்து சென்றால் மீண்டும் கூடுதல் எளிதல்ல என்பதால், அவர் பிரிந்து செல்லாமல் முதலியேயே காத்துக் கொள்ள வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Separation unendurable (Pre-marital Love), Kural 1155 speaks directly to teens navigating studies, friendships, leadership, and digital choices: If you would save (my life), delay the departure of my destined (husband); for if he departs, intercourse will become impossible. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பிரிவு ஆற்றாமை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Separation unendurable'.",
+        "quiz_question_ta": "'பிரிவு ஆற்றாமை' அதிகாரத்தில் வரும் திருக்குறள் 1155 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1155 from Chapter 'Separation unendurable'?",
+        "quiz_options_ta": [
+          "யான் விரும்பிய காதலர் மீண்டு வந்து அன்பு செய்யமாட்டார் என்றாலும், அவரைப் பற்றிய புகழைக் ‌கேட்பதும் என் செவிக்கு இன்பமாக இருக்கின்றது.",
+          "என் நெஞ்சே! வாழ்க! அவர் நம்மிடம் காதல் இல்லாதவராக இருக்க, நீ மட்டும் அவரை நினைந்து வருந்துவது உன் அறியாமையே!",
+          "மை தீட்டும் நேரத்தில் தீட்டு் கோலைக் காணாத கண்களைப் போல், காதலனைக் கண்டபோது மட்டும் அவனுடைய குற்றத்தை நினைக்காமல் மறந்து விடுகின்றேன்.",
+          "காத்துக் கொள்வதானால் காதலராக அமைந்தவரின் பிரிவு நேராமல் காக்க வேண்டும், அவர் பிரிந்து நீங்கினால் மீண்டும் கூடுதல் அரிது."
+        ],
+        "quiz_options_en": [
+          "The lover accords not my desires And yet his words sweeten my ears",
+          "Bless O mind! you pine in vain For me he has no love serene",
+          "When close I see not lord's blemish Like eyes that see not painter's brush",
+          "Stop his parting -my life to save Meeting is rare if he would leave"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (பிரிவு ஆற்றாமை) பகுதியில் குறள் 1155 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: காத்துக் கொள்வதானால் காதலராக அமைந்தவரின் பிரிவு நேராமல் காக்க வேண்டும், அவர் பிரிந்து நீங்கினால் மீண்டும் கூடுதல் அரிது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) ஓம்பின் அமைந்தார் பிரிவு ஓம்பல் - என்னுயிரைச் செல்லாமல் காத்தியாயின், அதனை ஆளுதற்கு அமைந்தாருடைய செலவினை அழுங்குவிப்பாயாக; மற்று அவர் நீங்கின் புணர்வு அரிது - அழுங்குவிப்பாரின்றி அவர் செல்வராயின், அவரால் ஆளப்பட்ட உயிரும் செல்லும்; சென்றால் பின...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 116: 'Separation unendurable'), Kural 1155 distills a foundational ethical insight: \"If you would guard my life, from going him restrainWho fills my life! If he depart, hardly we meet again\" Philosophically, If you would save (my life), delay the departure of my destined (husband); for if he departs, intercourse will become impossible.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "time",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 1156,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பிரிவைப்பற்றி தெரிவிக்கும் அளவிற்குக் கல் நெஞ்சம் உடையவரானால் , அத்தகையவர் திரும்பிவந்து அன்பு செய்வார் என்னும் ஆசை பயனற்றது.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Is hard, when he could stand, and of departure speak to me.",
+        "story_title_ta": "பிரிவு ஆற்றாமை — முகில் கற்ற பாடம்",
+        "story_title_en": "Separation unendurable — Mugil's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் முகில் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பிரிவு ஆற்றாமை' என்ற அதிகாரத்தில் வரும் குறள் 1156 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட முகில் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என முகில் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Mugil's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1156 from 'Separation unendurable', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Mugil helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: போய் வருகிறேன் என்று கூறிப் பிரிகிற அளவுக்குக் கல் மனம் கொண்டவர் திரும்பி வந்து அன்பு காட்டுவார் என ஆவல் கொள்வது வீண்.",
+        "moral_en": "Moral: To cherish longing hope that he should ever gracious be, Is hard, when he could stand, and of departure speak to me.",
+        "game_blank_word_ta": "நல்குவர்",
+        "game_options_ta": [
+          "நல்குவர்",
+          "செல்லாமை",
+          "உண்டேல்",
+          "எனக்குரை"
+        ],
+        "game_options_en": [
+          "His hardness says, \\\"I leave you now\\\" Is there hope of his renewed love?",
+          "Tell me if you but do not leave, Your quick return to those who live",
+          "His sight itself was pleasing, near Embrace pains now by partings fear",
+          "On whom shall I lay my trust hence While parting lurks in knowing ones?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிரிவு ஆற்றாமை (களவியல்) பிரிவில் அமைந்த குறள் 1156, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நான் வேலையின் பொருட்டுப் பிரியப் போகிறேன் என்று அவரே என்னிடம் சொல்லும் அளவிற்குக் கொடியவர் என்றால், அவர் பிரிவைத் தாங்க முடியாத என் மீது அன்பு காட்டுவார் என்னும் என் எதிர்பார்ப்பு பயனற்றது. கலைஞர் உரை கூறுவது: போய் வருகிறேன் என்று கூறிப் பிரிகிற அளவுக்குக் கல் மனம் கொண்டவர் திரும்பி வந்து அன்பு காட்டுவார் என ஆவல் கொள்வது வீண். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Separation unendurable (Pre-marital Love), Kural 1156 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Is hard, when he could stand, and of departure speak to me. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பிரிவு ஆற்றாமை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Separation unendurable'.",
+        "quiz_question_ta": "'பிரிவு ஆற்றாமை' அதிகாரத்தில் வரும் திருக்குறள் 1156 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1156 from Chapter 'Separation unendurable'?",
+        "quiz_options_ta": [
+          "பிரிவைப்பற்றி தெரிவிக்கும் அளவிற்குக் கல் நெஞ்சம் உடையவரானால் , அத்தகையவர் திரும்பிவந்து அன்பு செய்வார் என்னும் ஆசை பயனற்றது.",
+          "நெஞ்சமே! நீ வாழி! அன்பு இல்லாதவரிடம் உன் மிகுந்த துன்பத்தைச் சொல்கின்றாய்! அதை விட எளிதாகக் கடலைத் தூர்ப்பாயாக.",
+          "நெஞ்சே (என்னுடன்) இருந்து அவரை நினைந்து வருந்துவது ஏன்? இந்தத் துன்பநோயை உண்டாக்கியவரிடம் இவ்வாறு அன்பு கொண்டு நினைக்கும் தன்மை இல்லையே!",
+          "காதலரைக் யான் காணும்போது ( அவருடைய செயல்களில்) தவறானவற்றைக் காண்பதில்லை; அவரைக் காணாதபோது தவறு அல்லாத நன்மைகளைக் காண்பதில்லை."
+        ],
+        "quiz_options_en": [
+          "His hardness says, \\\"I leave you now\\\" Is there hope of his renewed love?",
+          "You tell your grief to listless he Bless my heart! rather fill up sea!",
+          "O mind, why pine and sit moody? Who made you so pale lacks pity",
+          "When he's with me I see not fault And nought but fault when he is not"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (பிரிவு ஆற்றாமை) பகுதியில் குறள் 1156 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிரிவைப்பற்றி தெரிவிக்கும் அளவிற்குக் கல் நெஞ்சம் உடையவரானால் , அத்தகையவர் திரும்பிவந்து அன்பு செய்வார் என்னும் ஆசை பயனற்றது. பரிமேலழகர் உரை நுட்பம்: (தலைமகன் பிரிவுணர்த்தியவாறு வந்து சொல்லிய தோழிக்குச் சொல்லியது.) அவர் பிரிவு உரைக்கும் வன்கண்ணராயின் -நம் கவவுக் கடுமையறிந்த தலைவர், தாமே நம் முன்னின்று தம்பிரிவினை உணர்த்தும் வன்கண்மை உடையராயின்; நல்குவர் என்னும் நசை அரிது - அத்தன்மையார் பின்பு நம் ஆற்றாமை...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 116: 'Separation unendurable'), Kural 1156 distills a foundational ethical insight: \"To cherish longing hope that he should ever gracious be, Is hard, when he could stand, and of departure speak to me\" Philosophically, Is hard, when he could stand, and of departure speak to me.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "speech",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 1157,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: என் மெலிவால் முன் கையில் இறை கடந்து கழலும் வளையல்கள், தலைவன் விட்டுப் பிரிந்த செய்தியைப் பலரறியத் தெரிவித்துத் தூற்றாமலிருக்குமோ.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Do not the rings that begin to slide down my fingers forebode the separation of my lord ?",
+        "story_title_ta": "பிரிவு ஆற்றாமை — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Separation unendurable — Tamizhini's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் தமிழினி வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பிரிவு ஆற்றாமை' என்ற அதிகாரத்தில் வரும் குறள் 1157 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட தமிழினி தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என தமிழினி உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Tamizhini's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1157 from 'Separation unendurable', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Tamizhini helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: என்னை விட்டுத் தலைவன் பிரிந்து சென்றுள்ள செய்தியை என் முன்கை மூட்டிலிருந்து கழன்று விழும் வளையல் ஊரறியத் தூற்றித் தெரிவித்து விடுமே!",
+        "moral_en": "Moral: The bracelet slipping from my wrist announced beforeDeparture of the Prince that rules the ocean shore.",
+        "game_blank_word_ta": "நின்ற",
+        "game_options_ta": [
+          "செல்லாமை",
+          "நின்ற",
+          "உண்டேல்",
+          "எனக்குரை"
+        ],
+        "game_options_en": [
+          "Tell me if you but do not leave, Your quick return to those who live",
+          "Will not my gliding bangles' cry The parting of my lord betray?",
+          "His sight itself was pleasing, near Embrace pains now by partings fear",
+          "On whom shall I lay my trust hence While parting lurks in knowing ones?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிரிவு ஆற்றாமை (களவியல்) பிரிவில் அமைந்த குறள் 1157, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: அவர் என்னைப் பிரிய திட்டமிடுகிறார் என்பதை என் முன் கையிலிருந்து கழலும் வளையல்கள் எனக்குத் தெரிவிக்க மாட்டாவோ? கலைஞர் உரை கூறுவது: என்னை விட்டுத் தலைவன் பிரிந்து சென்றுள்ள செய்தியை என் முன்கை மூட்டிலிருந்து கழன்று விழும் வளையல் ஊரறியத் தூற்றித் தெரிவித்து விடுமே! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Separation unendurable (Pre-marital Love), Kural 1157 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Do not the rings that begin to slide down my fingers forebode the separation of my lord ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பிரிவு ஆற்றாமை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Separation unendurable'.",
+        "quiz_question_ta": "'பிரிவு ஆற்றாமை' அதிகாரத்தில் வரும் திருக்குறள் 1157 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1157 from Chapter 'Separation unendurable'?",
+        "quiz_options_ta": [
+          "நினைத்தாலும் தீராத பெரிய மகிழ்ச்சியைச் செய்தலால் ( உண்டபோது மட்டும் மகிழ்ச்சி தரும் ) கள்ளை விட காமம் இன்பமானதாகும்.",
+          "என் மெலிவால் முன் கையில் இறை கடந்து கழலும் வளையல்கள், தலைவன் விட்டுப் பிரிந்த செய்தியைப் பலரறியத் தெரிவித்துத் தூற்றாமலிருக்குமோ.",
+          "நெஞ்சே! நீ அவரிடம் செல்லும்போது என் கண்களையும் உடன் கொண்டு செல்வாயாக; அவரைக் காணவேண்டும் என்று இவை என்னைப் பிடுங்கித் தின்கின்றன.",
+          "வெள்ளம் இழுத்துச் செல்வதை அறிந்திருந்தும் ஓட் நீரில் பாய்கின்றவரைப் போல், பயன்படாமை அறிந்திருந்திருந்தும் ஊடல் கொள்வதால் பயன் ன்னெ?"
+        ],
+        "quiz_options_en": [
+          "Love is sweeter than wine; for vast Is its delight at very thought",
+          "Will not my gliding bangles' cry The parting of my lord betray?",
+          "Take these eyes and meet him, O heart Or their hunger will eat me out",
+          "To leap in stream which carries off When lord is close to feign a huff"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (பிரிவு ஆற்றாமை) பகுதியில் குறள் 1157 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: என் மெலிவால் முன் கையில் இறை கடந்து கழலும் வளையல்கள், தலைவன் விட்டுப் பிரிந்த செய்தியைப் பலரறியத் தெரிவித்துத் தூற்றாமலிருக்குமோ. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) துறைவன் துறந்தமை - துறைவன் என்னைப் பிரியலுற்றமையை; முன் கை இறை இறவாநின்ற வளை தூற்றாகொல் - அவன் உணர்த்தாமல் தாமே உணர்ந்து என் முன் கையில் இறையினின்றும் கழலாநின்ற வளைகள் எனக்கு அறிவியாவோ? அவன் உணர்த்த உணர்ந்து வந்து நீ அறிவித்தல் வேண்டுமோ...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 116: 'Separation unendurable'), Kural 1157 distills a foundational ethical insight: \"The bracelet slipping from my wrist announced beforeDeparture of the Prince that rules the ocean shore\" Philosophically, Do not the rings that begin to slide down my fingers forebode the separation of my lord ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "harmony"
+      ]
+    },
+    {
+      "kural_number": 1158,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: இனத்தவராக நம்மேல் அன்புடையார் இல்லாத ஊரில் வாழ்தல் துன்பமானது, இனியக் காதலரின் பிரிவு அதை விடத் துன்பமானது.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Painful is it to live in a friendless town; but far more painful is it to part from one's lover.",
+        "story_title_ta": "பிரிவு ஆற்றாமை — கவின் கற்ற பாடம்",
+        "story_title_en": "Separation unendurable — Kavin's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் கவின் வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பிரிவு ஆற்றாமை' என்ற அதிகாரத்தில் வரும் குறள் 1158 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட கவின் தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என கவின் உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Kavin's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1158 from 'Separation unendurable', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Kavin helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: நம்மை உணர்ந்து அன்பு காட்டுபவர் இல்லாத ஊரில் வாழ்வது துன்பமானது; அதைக் காட்டிலும் துன்பமானது இனிய காதலரைப் பிரிந்து வாழ்வது.",
+        "moral_en": "Moral: 'Tis sad to sojourn in the town where no kind kinsmen dwell;'Tis sadder still to bid a friend beloved farewell.",
+        "game_blank_word_ta": "இன்னாது",
+        "game_options_ta": [
+          "செல்லாமை",
+          "உண்டேல்",
+          "இன்னாது",
+          "எனக்குரை"
+        ],
+        "game_options_en": [
+          "Tell me if you but do not leave, Your quick return to those who live",
+          "His sight itself was pleasing, near Embrace pains now by partings fear",
+          "Bitter is life in friendless place; Worse is parting love's embrace!",
+          "On whom shall I lay my trust hence While parting lurks in knowing ones?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிரிவு ஆற்றாமை (களவியல்) பிரிவில் அமைந்த குறள் 1158, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: உறவானவர் இல்லாத ஊரிலே வாழ்வது கொடுமை; என் உயிர்க்கு இனியவரைப் பிரிவது அதைவிடக் கொடுமை. கலைஞர் உரை கூறுவது: நம்மை உணர்ந்து அன்பு காட்டுபவர் இல்லாத ஊரில் வாழ்வது துன்பமானது; அதைக் காட்டிலும் துன்பமானது இனிய காதலரைப் பிரிந்து வாழ்வது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Separation unendurable (Pre-marital Love), Kural 1158 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Painful is it to live in a friendless town; but far more painful is it to part from one's lover. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பிரிவு ஆற்றாமை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Separation unendurable'.",
+        "quiz_question_ta": "'பிரிவு ஆற்றாமை' அதிகாரத்தில் வரும் திருக்குறள் 1158 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1158 from Chapter 'Separation unendurable'?",
+        "quiz_options_ta": [
+          "தாம் விரும்புகின்ற காதலர் தம்மை நினைத்தலும் பிரிவால் வரக்கூடிய துன்பம் இல்லாமல் போகின்றது. அதனால் காமம் எவ்வளவாயினும் இன்பம் தருவதே ஆகும்.",
+          "நெஞ்சே! யாம் விரும்பி நாடினாலும் எம்மை நாடாத அவர் நம்மை வெறுத்து விட்டார் என்று எண்ணிக் கைவிட முடியும‌ோ?",
+          "இனத்தவராக நம்மேல் அன்புடையார் இல்லாத ஊரில் வாழ்தல் துன்பமானது, இனியக் காதலரின் பிரிவு அதை விடத் துன்பமானது.",
+          "கள்வ! இழிவு வரத்தக்க துன்பங்களைச் செய்தாலும் கள்ளுண்டு களித்தவர்க்கு மேன்‌மேலும் விருப்பம் தரும் கள்ளைப் போன்றது உன் மார்பு."
+        ],
+        "quiz_options_en": [
+          "Pains are off at the lover's thought In all aspects this love is sweet",
+          "He spurns our love and yet, O mind, Can we desert him as unkind?",
+          "Bitter is life in friendless place; Worse is parting love's embrace!",
+          "Like wine to addicts that does disgrace Your breast, O thief, is for my embrace!"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (பிரிவு ஆற்றாமை) பகுதியில் குறள் 1158 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இனத்தவராக நம்மேல் அன்புடையார் இல்லாத ஊரில் வாழ்தல் துன்பமானது, இனியக் காதலரின் பிரிவு அதை விடத் துன்பமானது. பரிமேலழகர் உரை நுட்பம்: (இதுவும் அது.) இனன் இல் ஊர் வாழ்தல் இன்னாது - மகளிர்க்குத் தம் குறிப்பு அறியும் தோழியர் இல்லாத வேற்றூரின்கண் வாழ்தல் இன்னாது; இனியார்ப் பிரிவு அதனினும் இன்னாது - அதன் மேலும் தம் காதலரைப் பிரிதல் அதனினும் இன்னாது. (தலைவன் செலவினை அழுங்குவித்து வாராது உடன்பட்டு...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 116: 'Separation unendurable'), Kural 1158 distills a foundational ethical insight: \"'Tis sad to sojourn in the town where no kind kinsmen dwell;'Tis sadder still to bid a friend beloved farewell\" Philosophically, Painful is it to live in a friendless town; but far more painful is it to part from one's lover.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "friendship",
+        "kindness",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 1159,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நெருப்பு, தன்னைத் தொட்டால் சுடுமே அல்லாமல் காமநோய் போல் தன்னை விட்டு நீங்கிய பொழுது சுடவல்லதாகுமோ.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Fire burns when touched; but, like the sickness of love, can it also burn when removed ?",
+        "story_title_ta": "பிரிவு ஆற்றாமை — நிலா கற்ற பாடம்",
+        "story_title_en": "Separation unendurable — Nila's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் நிலா வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பிரிவு ஆற்றாமை' என்ற அதிகாரத்தில் வரும் குறள் 1159 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட நிலா தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என நிலா உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Nila's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1159 from 'Separation unendurable', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Nila helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: ஒருவரையொருவர் காணாமலும் தொடாமலும் பிரிந்திருக்கும் போது காதல் நோய் உடலையும் உள்ளத்தையும் சுடுவது போன்ற நிலை நெருப்புக்கு இல்லை; நெருப்பு தொட்டால் சுடும்; இது, பிரிவில் சுடுகிறதே!",
+        "moral_en": "Moral: Fire burns the hands that touch; but smart of loveWill burn in hearts that far away remove.",
+        "game_blank_word_ta": "ஆற்றுமோ",
+        "game_options_ta": [
+          "செல்லாமை",
+          "உண்டேல்",
+          "எனக்குரை",
+          "ஆற்றுமோ"
+        ],
+        "game_options_en": [
+          "Tell me if you but do not leave, Your quick return to those who live",
+          "His sight itself was pleasing, near Embrace pains now by partings fear",
+          "On whom shall I lay my trust hence While parting lurks in knowing ones?",
+          "Can fire that burns by touch burn like Parting of the hearts love-sick?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிரிவு ஆற்றாமை (களவியல்) பிரிவில் அமைந்த குறள் 1159, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தீ தன்னைத் தொட்டவரைத்தான் சுடும்; காதல் நோயைப் போல அதை விட்டு அகன்றாலும் சுடுமோ? கலைஞர் உரை கூறுவது: ஒருவரையொருவர் காணாமலும் தொடாமலும் பிரிந்திருக்கும் போது காதல் நோய் உடலையும் உள்ளத்தையும் சுடுவது போன்ற நிலை நெருப்புக்கு இல்லை; நெருப்பு தொட்டால் சுடும்; இது, பிரிவில் சுடுகிறதே! இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Separation unendurable (Pre-marital Love), Kural 1159 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Fire burns when touched; but, like the sickness of love, can it also burn when removed ? Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பிரிவு ஆற்றாமை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Separation unendurable'.",
+        "quiz_question_ta": "'பிரிவு ஆற்றாமை' அதிகாரத்தில் வரும் திருக்குறள் 1159 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1159 from Chapter 'Separation unendurable'?",
+        "quiz_options_ta": [
+          "தும்மல் வருவது போலிருந்து வாராமல் அடங்குகின்றதே! என் காதலர் என்னை நினைப்பவர் போலிருந்து நினையாமல் விடுகின்றாரோ?",
+          "என் நெஞ்சே! ஊடியபோது கூடி ஊடல் உணர்த்த வல்ல காதலரைக் கண்டபோது நீ பிணங்கி உணர மாட்டாய்; பொய்யான சினங்கொண்டு காய்கினறாய்.",
+          "காமம் மலரை விட மென்மை உடையதாகும்; அந்த உண்மை அறிந்து அதன் நல்ல பயனைப் பெறக்கூடியவர் சிலரே.",
+          "நெருப்பு, தன்னைத் தொட்டால் சுடுமே அல்லாமல் காமநோய் போல் தன்னை விட்டு நீங்கிய பொழுது சுடவல்லதாகுமோ."
+        ],
+        "quiz_options_en": [
+          "To sneeze I tried hence but could not Me he tried to think but did not",
+          "Wrath is false, O heart, face-to face Sans huff, you rush to his sweet embrace",
+          "Flower-soft is love; a few alone Know its delicacy so fine",
+          "Can fire that burns by touch burn like Parting of the hearts love-sick?"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (பிரிவு ஆற்றாமை) பகுதியில் குறள் 1159 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நெருப்பு, தன்னைத் தொட்டால் சுடுமே அல்லாமல் காமநோய் போல் தன்னை விட்டு நீங்கிய பொழுது சுடவல்லதாகுமோ. பரிமேலழகர் உரை நுட்பம்: (காமம் தீயே போன்று தான் நின்ற இடத்தைச் சுடுமாகலான் நீ ஆற்றல் வேண்டும் என்ற தோழிக்குச் சொல்லியது.) தீத்தொடின் சுடின் சுடலல்லது - தீத்தன்னைத் தொட்டாற் சுடுமாயின் சுடுதல்லது; காமநோய் போலவிடின் சுடல் ஆற்றுமோ - காமமாகிய நோய் போலத் தன்னை அகன்றால் தப்பாது சுடுதலை...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 116: 'Separation unendurable'), Kural 1159 distills a foundational ethical insight: \"Fire burns the hands that touch; but smart of loveWill burn in hearts that far away remove\" Philosophically, Fire burns when touched; but, like the sickness of love, can it also burn when removed ?",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "time"
+      ]
+    },
+    {
+      "kural_number": 1160,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பிரிய முடியாத பிரிவிற்கு உடன்பட்டு,( பிரியும் போது) துன்பத்தால் கலங்குவதையும், விட்டு பிரிந்த பின் பொருத்திருந்து பின்னும் உயிரோடிருந்து வாழ்வோர் உலகில் பலர்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: As if there were many indeed that can consent to the impossible, kill their pain, endure separation and yet continue to live afterwards.",
+        "story_title_ta": "பிரிவு ஆற்றாமை — அன்பு கற்ற பாடம்",
+        "story_title_en": "Separation unendurable — Anbu's Lesson",
+        "kutty_story_ta": "விடுமுறை நாளில் அன்பு வீட்டில் தாத்தா பாட்டியும் பெற்றோரும் அன்போடு கூடியிருந்தனர். 'பிரிவு ஆற்றாமை' என்ற அதிகாரத்தில் வரும் குறள் 1160 சொல்லும் குடும்பப் பாசத்தையும் அக்கறையையும் பாட்டி எளிய கதையாகக் கூறினார். வீட்டில் உள்ளவர்கள் ஒருவரையொருவர் புரிந்துகொண்டு அன்போடும் மரியாதையோடும் பேசும்போது வீடே மகிழ்ச்சியால் நிறையும் என்று விளக்கினார். அதைக் கேட்ட அன்பு தன் தம்பிக்கும் பெற்றோருக்கும் சிறு உதவிகளைச் செய்து அன்பைக் காட்டியது. குடும்ப அன்பும் கருணையும் நல்லிணக்கமும் தான் வாழ்வின் இனிமை என அன்பு உணர்ந்தாள்.",
+        "kutty_story_en": "On a sunny weekend, Anbu's grandparents visited home, filling the house with warmth and laughter. Grandma shared a gentle story inspired by Kural 1160 from 'Separation unendurable', highlighting how caring hearts and kind words strengthen family harmony. She explained that noticing how loved ones feel and responding with patience keeps every home cheerful and safe. Inspired by the story, Anbu helped prepare tea and shared favorite books with younger cousins. The whole family smiled, seeing how kindness, respect, and affection turn ordinary moments into lasting memories.",
+        "moral_ta": "நீதி: காதலர் பிரிந்து செல்வதற்கு ஒப்புதல் அளித்து, அதனால் ஏற்படும் துன்பத்தைப் போக்கிக் கொண்டு, பிரிந்த பின்னும் பொறுத்திருந்து உயிரோடு வாழ்பவர் பலர் இருக்கலாம்; ஆனால் நான்?",
+        "moral_en": "Moral: Sorrow's sadness meek sustaining, Driving sore distress away, Separation uncomplaining Many bear the livelong day.",
+        "game_blank_word_ta": "வாழ்வார்",
+        "game_options_ta": [
+          "வாழ்வார்",
+          "செல்லாமை",
+          "உண்டேல்",
+          "எனக்குரை"
+        ],
+        "game_options_en": [
+          "Many survive pangs of parting Not I this sore so distressing",
+          "Tell me if you but do not leave, Your quick return to those who live",
+          "His sight itself was pleasing, near Embrace pains now by partings fear",
+          "On whom shall I lay my trust hence While parting lurks in knowing ones?"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "பிரிவு ஆற்றாமை (களவியல்) பிரிவில் அமைந்த குறள் 1160, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: சம்பாதிப்பதற்குக் கணவன் பிரிந்தால் அவன் பிரிவைத் தாங்கிக் கொண்டு, பிரிவுத் துன்பத்தையும், விட்டுவிட்டு, அரிய செயலாற்றி உயிர் வாழும் பெண்கள் பலர் இருக்கின்றனர். கலைஞர் உரை கூறுவது: காதலர் பிரிந்து செல்வதற்கு ஒப்புதல் அளித்து, அதனால் ஏற்படும் துன்பத்தைப் போக்கிக் கொண்டு, பிரிந்த பின்னும் பொறுத்திருந்து உயிரோடு வாழ்பவர் பலர் இருக்கலாம்; ஆனால் நான்? இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Separation unendurable (Pre-marital Love), Kural 1160 speaks directly to teens navigating studies, friendships, leadership, and digital choices: As if there were many indeed that can consent to the impossible, kill their pain, endure separation and yet continue to live afterwards. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து 'பிரிவு ஆற்றாமை' பண்போடு நடந்துகொள்.",
+        "action_tip_en": "Listen empathetically to a family member or friend today, honoring the spirit of 'Separation unendurable'.",
+        "quiz_question_ta": "'பிரிவு ஆற்றாமை' அதிகாரத்தில் வரும் திருக்குறள் 1160 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 1160 from Chapter 'Separation unendurable'?",
+        "quiz_options_ta": [
+          "பிரிய முடியாத பிரிவிற்கு உடன்பட்டு,( பிரியும் போது) துன்பத்தால் கலங்குவதையும், விட்டு பிரிந்த பின் பொருத்திருந்து பின்னும் உயிரோடிருந்து வாழ்வோர் உலகில் பலர்.",
+          "எம்முடைய நெஞ்சில் காதலராகிய அவர் இருக்கின்றாரே! ( அது போலவே) யாமும் அவருடைய நெஞ்சத்தில் நீங்காமல் இருக்கின்றோ‌மோ?",
+          "நல்ல நெஞ்சே! ஒன்று காமத்தை விட்டு விடு; அல்லது நாணத்தை விட்டு விடு; இந்த இரண்டையும் பொறுத்துக் கொண்டிருக்க என்னால் முடியாது.",
+          "கண் பார்வையின் அளவில் பிணங்கி, என்னை விடத் தான் விரைந்து தழுவுதலை விரும்பி, ( பிணங்கிய நிலையையும் மறந்து) கலந்து விட்டாள்."
+        ],
+        "quiz_options_en": [
+          "Many survive pangs of parting Not I this sore so distressing",
+          "Have I a place within his heart? Ah from mine he will never depart",
+          "Off with love O mind, or shame I cannot endure both of them",
+          "She feigned dislike awhile but flew Faster for embrace than I do"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "இன்பத்துப்பால் — களவியல் (பிரிவு ஆற்றாமை) பகுதியில் குறள் 1160 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பிரிய முடியாத பிரிவிற்கு உடன்பட்டு,( பிரியும் போது) துன்பத்தால் கலங்குவதையும், விட்டு பிரிந்த பின் பொருத்திருந்து பின்னும் உயிரோடிருந்து வாழ்வோர் உலகில் பலர். பரிமேலழகர் உரை நுட்பம்: (தலைவியர் பலரும் பிரிவாற்றியிருப்பர், அது நீ செய்கின்றில்லை, என்ற தோழிக்குச் சொல்லியது.) (நீ சொல்லுகின்றது ஒக்கும்,) அரிது ஆற்றி அல்லல் நோய் நீக்கி - பிரிவுணர்த்திய வழி அதற்கு உடம்பட்டுப் பிரியுங்கால் நிகழும் அல்லல் நோயினையும் நீக்கி; பிரிவு ஆற்றிப் பின...",
+        "reflection_en": "Within Book of Love & Affection (Pre-marital Love — Chapter 116: 'Separation unendurable'), Kural 1160 distills a foundational ethical insight: \"Sorrow's sadness meek sustaining, Driving sore distress away, Separation uncomplaining Many bear the livelong day\" Philosophically, As if there were many indeed that can consent to the impossible, kill their pain, endure separation and yet continue to live afterwards.",
+        "research_theme": "love_ethics"
+      },
+      "tags": [
+        "love",
+        "ethics",
+        "humility",
+        "speech"
+      ]
+    }
+  ]
+}

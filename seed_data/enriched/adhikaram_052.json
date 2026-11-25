@@ -1,0 +1,588 @@
+{
+  "adhikaram_id": 52,
+  "provider": "offline-rust-synthesizer",
+  "model": "canonical-deterministic-v1",
+  "generated_at": "2026-11-25T05:26:34.922453555+00:00",
+  "kurals": [
+    {
+      "kural_number": 511,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: நன்மையும் தீமையுமாகிய இரண்டையும் ஆராய்ந்து நன்மை தருகின்றவற்றையே விரும்புகின்ற இயல்புடையவன் (செயலுக்கு உரியவனாக) ஆளப்படுவான்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: He should be employed (by a king), whose nature leads him to choose the good, after having weighed both the evil and the good in any undertaking.",
+        "story_title_ta": "தெரிந்து வினையாடல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Selection and Employment — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து வினையாடல்' என்ற அதிகாரத்திலிருந்து குறள் 511 பற்றிக் கதை சொன்னார். 'ஒரு செயலை நம்மிடம் செய்யக் கொடுத்தால் அச்செயலின் நன்மை தீமை இரண்டையும் ஆராய்ந்து எது நன்மையோ அதையே செய்ய வேண்டும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 52, 'Selection and Employment', centered on Kural 511: He should be employed (by a king), whose nature leads him to choose the good, after having weighed both the evil and the good in any undertaking. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: நன்மை எது தீமை எது என ஆராய்ந்து அறிந்த, நற்செயலில் மட்டுமே நாட்டங் கொண்டவர்கள் எப்பணியினை ஆற்றிடவும் தகுதி பெற்றவராவார்கள்.",
+        "moral_en": "Moral: Who good and evil scanning, ever makes the good his joy; Such man of virtuous mood should king employ.",
+        "game_blank_word_ta": "தீமையும்",
+        "game_options_ta": [
+          "பெருக்கி",
+          "வளம்படுத்து",
+          "உற்றவை",
+          "தீமையும்"
+        ],
+        "game_options_en": [
+          "Let him act who resource swells; Fosters wealth and prevents ills",
+          "Trust him in whom these four you see: Love, wit, non-craving, clarity",
+          "Though tried and found fit, yet we see Many differ before duty",
+          "Employ the wise who will discern The good and bad and do good turn"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து வினையாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 511, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒரு செயலை நம்மிடம் செய்யக் கொடுத்தால் அச்செயலின் நன்மை தீமை இரண்டையும் ஆராய்ந்து எது நன்மையோ அதையே செய்ய வேண்டும். கலைஞர் உரை கூறுவது: நன்மை எது தீமை எது என ஆராய்ந்து அறிந்த, நற்செயலில் மட்டுமே நாட்டங் கொண்டவர்கள் எப்பணியினை ஆற்றிடவும் தகுதி பெற்றவராவார்கள். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Selection and Employment (Royalty & Polity), Kural 511 speaks directly to teens navigating studies, friendships, leadership, and digital choices: He should be employed (by a king), whose nature leads him to choose the good, after having weighed both the evil and the good in any undertaking. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து வினையாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Selection and Employment' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து வினையாடல்' அதிகாரத்தில் வரும் திருக்குறள் 511 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 511 from Chapter 'Selection and Employment'?",
+        "quiz_options_ta": [
+          "(முறை செய்யாதவனுடைய) செல்வத்தைத் தேய்த்து அழிக்க வல்ல படை அவனால் பலர் துன்பப்பட்டுத் துன்பம் பொறுக்க முடியாமல் அழுத கண்ணீர் அன்றோ.",
+          "ஊக்கம் இல்லாதவர் இவ்வுலகில் யாம் வண்மை உடையேம் என்றுத் தம்மைத் தான் எண்ணி மகிழும் மகிழ்ச்சியை அடையமாடடார்.",
+          "நாவன்மையாகிய நலம் ஒருவகைச் செல்வம் ஆகும், அந்த நாநலம் தனிச்சிறப்புடையது, ஆகையால் மற்ற எந்த நலங்களிலும் அடங்குவது அன்று.",
+          "நன்மையும் தீமையுமாகிய இரண்டையும் ஆராய்ந்து நன்மை தருகின்றவற்றையே விரும்புகின்ற இயல்புடையவன் (செயலுக்கு உரியவனாக) ஆளப்படுவான்."
+        ],
+        "quiz_options_en": [
+          "Groaning tears caused by tyrant's sway File the royal wealth away",
+          "Heartless persons cannot boast \\\"We are liberal to our best\\\"",
+          "The goodness called goodness of speech Is goodness which nothing can reach",
+          "Employ the wise who will discern The good and bad and do good turn"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து வினையாடல்) பகுதியில் குறள் 511 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: நன்மையும் தீமையுமாகிய இரண்டையும் ஆராய்ந்து நன்மை தருகின்றவற்றையே விரும்புகின்ற இயல்புடையவன் (செயலுக்கு உரியவனாக) ஆளப்படுவான். பரிமேலழகர் உரை நுட்பம்: நன்மையும் தீமையும் நாடி - அரசன் முதற்கண் ஒருவினையைத் தன்கண் வைத்தால், அதன்கண் ஆவனவும் ஆகாதனவும் ஆய செயல்களை ஆராய்ந்து அறிந்து, நலம் புரிந்த தன்மையான் - அவற்றுள் ஆவனவற்றையே விரும்பிய இயல்பினையுடையான், ஆளப்படும் - பின் அவனால் சிறந்த வினைகளிலே ஆளப்படும். (தன்னை...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 52: 'Selection and Employment'), Kural 511 distills a foundational ethical insight: \"Who good and evil scanning, ever makes the good his joy; Such man of virtuous mood should king employ\" Philosophically, He should be employed (by a king), whose nature leads him to choose the good, after having weighed both the evil and the good in any undertaking.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "wisdom",
+        "speech",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 512,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: பொருள் வரும் வழிகளைப் பெருக்கச் செய்து, அவற்றால் வளத்தை உண்டாக்கி, வரும் இடையூறுகளைஆராய்ந்து நீக்க வல்லவனே செயல் செய்ய வேண்டும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Let him do (the king's) work who can enlarge the sources (of revenue), increase wealth and considerately prevent the accidents (which would destroy it).",
+        "story_title_ta": "தெரிந்து வினையாடல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Selection and Employment — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து வினையாடல்' என்ற அதிகாரத்திலிருந்து குறள் 512 பற்றிக் கதை சொன்னார். 'பொருள் வரும் வழியை விரிவாக்கி, வந்த பொருளால் மேலும் செல்வத்தை வளர்த்து, அப்போது அதனாலும் வரும் இடையூறுகளை ஆராய்ந்து நீக்கக் கூடியவன் பணியாற்றுக.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 52, 'Selection and Employment', centered on Kural 512: Let him do (the king's) work who can enlarge the sources (of revenue), increase wealth and considerately prevent the accidents (which would destroy it). Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: வருமானம் வரக்கூடிய வழிகளை விரிவாக்கி, வளங்களையும் பெருக்கி, இடையூறுகளையும் ஆராய்ந்து நீக்கிட வல்லவனே செயலாற்றும் திறனுடையவன்.",
+        "moral_en": "Moral: Who swells the revenues, spreads plenty o'er the land, Seeks out what hinders progress, his the workman's hand.",
+        "game_blank_word_ta": "உற்றவை",
+        "game_options_ta": [
+          "உற்றவை",
+          "நன்மையும்",
+          "தீமையும்",
+          "நலம்புரிந்த"
+        ],
+        "game_options_en": [
+          "Let him act who resource swells; Fosters wealth and prevents ills",
+          "Employ the wise who will discern The good and bad and do good turn",
+          "Trust him in whom these four you see: Love, wit, non-craving, clarity",
+          "Though tried and found fit, yet we see Many differ before duty"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து வினையாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 512, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: பொருள் வரும் வழியை விரிவாக்கி, வந்த பொருளால் மேலும் செல்வத்தை வளர்த்து, அப்போது அதனாலும் வரும் இடையூறுகளை ஆராய்ந்து நீக்கக் கூடியவன் பணியாற்றுக. கலைஞர் உரை கூறுவது: வருமானம் வரக்கூடிய வழிகளை விரிவாக்கி, வளங்களையும் பெருக்கி, இடையூறுகளையும் ஆராய்ந்து நீக்கிட வல்லவனே செயலாற்றும் திறனுடையவன். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Selection and Employment (Royalty & Polity), Kural 512 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let him do (the king's) work who can enlarge the sources (of revenue), increase wealth and considerately prevent the accidents (which would destroy it). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து வினையாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Selection and Employment' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து வினையாடல்' அதிகாரத்தில் வரும் திருக்குறள் 512 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 512 from Chapter 'Selection and Employment'?",
+        "quiz_options_ta": [
+          "பொருள் வரும் வழிகளைப் பெருக்கச் செய்து, அவற்றால் வளத்தை உண்டாக்கி, வரும் இடையூறுகளைஆராய்ந்து நீக்க வல்லவனே செயல் செய்ய வேண்டும்.",
+          "அரசர்க்கு புகழ் நிலைபெறக் காரணம் செங்கோல் முறையாகும், அஃது இல்லையானால் அரசர்க்கு புகழ் நிலைபெறாமல் போகும்.",
+          "யானை பருத்த உடம்பை உடையது, கூர்மையானக் கொம்புகளை உடையது, ஆயினும் ஊக்கமுள்ளதாகியப் புலி தாக்கினால் அதற்கு அஞ்சும்.",
+          "ஆக்கமும் கேடும் சொல்லுகின்ற சொல்லால் வருவதால் ஒருவன் தன்னுடைய சொல்லிற்க்கு தவறு நேராமல் காத்துக்கொள்ள வேண்டும்"
+        ],
+        "quiz_options_en": [
+          "Let him act who resource swells; Fosters wealth and prevents ills",
+          "Glory endures by sceptre right Without it wanes the royal light",
+          "Huge elephant sharp in tusk quails When tiger, less in form, assails",
+          "Since gain or ruin speeches bring Guard against the slips of tongue"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து வினையாடல்) பகுதியில் குறள் 512 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: பொருள் வரும் வழிகளைப் பெருக்கச் செய்து, அவற்றால் வளத்தை உண்டாக்கி, வரும் இடையூறுகளைஆராய்ந்து நீக்க வல்லவனே செயல் செய்ய வேண்டும். பரிமேலழகர் உரை நுட்பம்: வாரி பெருக்கி - பொருள்வரு வாயில்களை விரியச் செய்து, வளம் படுத்து - அப்பொருளால் செல்வங்களை வளர்த்து, உற்றவை ஆராய்வான் -அவ் வாயில்கட்கும் பொருட்கும் செல்வங்கட்கும் உற்ற இடையூறுகளை நாள்தோறும் ஆராய்ந்து நீக்கவல்லவன், வினைசெய்க - அரசனுக்கு வினை செய்க...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 52: 'Selection and Employment'), Kural 512 distills a foundational ethical insight: \"Who swells the revenues, spreads plenty o'er the land, Seeks out what hinders progress, his the workman's hand\" Philosophically, Let him do (the king's) work who can enlarge the sources (of revenue), increase wealth and considerately prevent the accidents (which would destroy it).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wealth",
+        "family",
+        "perseverance",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 513,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: அன்பு, அறிவு, ஐயமில்லாமல் தெளியும் ஆற்றல், அவா இல்லாமை ஆகிய இந் நான்கு பண்புகளையும் நிலையாக உடையவனைத் தெளியலாம்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: Let the choice (of a king) fall upon him who largely possesses these four things, love, knowledge, a clear mind and freedom from covetousness.",
+        "story_title_ta": "தெரிந்து வினையாடல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Selection and Employment — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து வினையாடல்' என்ற அதிகாரத்திலிருந்து குறள் 513 பற்றிக் கதை சொன்னார். 'நிர்வாகத்தின்மேல் அன்பு, நிர்வாகத்திற்கு நன்மை தருவதை அறியும் அறிவு, அதற்கான செயல்களைச் செய்யும்போது உறுதி, பணியில் பொருள் வந்தால் அதன்மீது ஆசை இன்மை இந்த நான்கையும் உடையவனிடத்தே பதவி தருவதுதான் தெளிவு.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 52, 'Selection and Employment', centered on Kural 513: Let the choice (of a king) fall upon him who largely possesses these four things, love, knowledge, a clear mind and freedom from covetousness. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: அன்பு, அறிவு, செயலாற்றும் திறமை, பேராசைப் படாத குணம் ஆகிய நான்கு பண்புகளையும் நிலையாகப் பெற்றிருப்பவரைத் தேர்வு செய்வதே நலம்.",
+        "moral_en": "Moral: A loyal love with wisdom, clearness, mind from avarice free; Who hath these four good gifts should ever trusted be.",
+        "game_blank_word_ta": "அவாவின்மை",
+        "game_options_ta": [
+          "நன்மையும்",
+          "அவாவின்மை",
+          "தீமையும்",
+          "நலம்புரிந்த"
+        ],
+        "game_options_en": [
+          "Employ the wise who will discern The good and bad and do good turn",
+          "Trust him in whom these four you see: Love, wit, non-craving, clarity",
+          "Let him act who resource swells; Fosters wealth and prevents ills",
+          "Though tried and found fit, yet we see Many differ before duty"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து வினையாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 513, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: நிர்வாகத்தின்மேல் அன்பு, நிர்வாகத்திற்கு நன்மை தருவதை அறியும் அறிவு, அதற்கான செயல்களைச் செய்யும்போது உறுதி, பணியில் பொருள் வந்தால் அதன்மீது ஆசை இன்மை இந்த நான்கையும் உடையவனிடத்தே பதவி தருவதுதான் தெளிவு. கலைஞர் உரை கூறுவது: அன்பு, அறிவு, செயலாற்றும் திறமை, பேராசைப் படாத குணம் ஆகிய நான்கு பண்புகளையும் நிலையாகப் பெற்றிருப்பவரைத் தேர்வு செய்வதே நலம். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Selection and Employment (Royalty & Polity), Kural 513 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let the choice (of a king) fall upon him who largely possesses these four things, love, knowledge, a clear mind and freedom from covetousness. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து வினையாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Selection and Employment' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து வினையாடல்' அதிகாரத்தில் வரும் திருக்குறள் 513 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 513 from Chapter 'Selection and Employment'?",
+        "quiz_options_ta": [
+          "மழைத்துளி இல்லாதிருத்தல் உலகத்திற்கு எத்தன்மையானதோ, அத்தன்மையானது நாட்டில் வாழும் குடிமக்களுக்கு அரசனுடைய அருள் இல்லாத ஆட்சி.",
+          "அன்பு, அறிவு, ஐயமில்லாமல் தெளியும் ஆற்றல், அவா இல்லாமை ஆகிய இந் நான்கு பண்புகளையும் நிலையாக உடையவனைத் தெளியலாம்.",
+          "ஒருவனுக்கு வலிமையானது ஊக்க மிகுதியே, அவ்வூக்கம் இல்லாதவர் மரங்களே, (வடிவால்) மக்களைப் போல் இருத்தலே வேறுபாடு.",
+          "சொல்லும் போது கேட்டவரைத் தன் வயப்படுத்தும் பண்புகளுடன், கேட்காதவரும் கேட்க விரும்புமாறு கூறப்படுவது சொல்வன்மையாகும்."
+        ],
+        "quiz_options_en": [
+          "Dry like the earth without rainfall Is graceless king to creatures all",
+          "Trust him in whom these four you see: Love, wit, non-craving, clarity",
+          "Mental courage is true manhood Lacking that man is like a wood",
+          "A speech is speech that holds ears And attracts ev'n those that are averse"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து வினையாடல்) பகுதியில் குறள் 513 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: அன்பு, அறிவு, ஐயமில்லாமல் தெளியும் ஆற்றல், அவா இல்லாமை ஆகிய இந் நான்கு பண்புகளையும் நிலையாக உடையவனைத் தெளியலாம். பரிமேலழகர் உரை நுட்பம்: அன்பு - அரசன் மாட்டு அன்பும், அறிவு - அவனுக்கு ஆவன அறியும் அறிவும், தேற்றம் - அவை செய்தற்கண் கலங்காமையும், அவா இன்மை - அவற்றால் பொருள் கையுற்ற வழி அதன்மேல் அவா இன்மையும் ஆகிய, இந்நான்கும் நன்கு உடையான்கட்டே தெளிவு - இந்நான்கு குணங்களையும் நிலைபெற உடையான...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 52: 'Selection and Employment'), Kural 513 distills a foundational ethical insight: \"A loyal love with wisdom, clearness, mind from avarice free; Who hath these four good gifts should ever trusted be\" Philosophically, Let the choice (of a king) fall upon him who largely possesses these four things, love, knowledge, a clear mind and freedom from covetousness.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "love",
+        "speech",
+        "self-mastery"
+      ]
+    },
+    {
+      "kural_number": 514,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: எவ்வகையால் ஆராய்ந்து தெளிந்த பிறகும்(செயலை மேற்க்கொண்டு செய்யும் போது) அச் செயல்வகையால் வேறுபடும் மக்கள் உலகத்தில் பலர் உண்டு.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Even when (a king) has tried them in every possible way, there are many men who change, from the nature of the works (in which they may be employed).",
+        "story_title_ta": "தெரிந்து வினையாடல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Selection and Employment — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து வினையாடல்' என்ற அதிகாரத்திலிருந்து குறள் 514 பற்றிக் கதை சொன்னார். 'எல்லா வகையிலும் ஆராய்ந்து உரிய பதவி வழங்கிய பின்னும், செயல் திறத்தால், எதிர்பார்த்த அளவு இல்லாத மாந்தர் பலராவர்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 52, 'Selection and Employment', centered on Kural 514: Even when (a king) has tried them in every possible way, there are many men who change, from the nature of the works (in which they may be employed). Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எவ்வளவுதான் வழிமுறைகளை ஆராய்ந்து தெளிந்து தேர்ந்தெடுத்தாலும் செயல்படும் பொழுது வேறுபடுகிறவர்கள் பலர் இருப்பர்.",
+        "moral_en": "Moral: Even when tests of every kind are multiplied, Full many a man proves otherwise, by action tried.",
+        "game_blank_word_ta": "வினைவகையான்",
+        "game_options_ta": [
+          "நன்மையும்",
+          "தீமையும்",
+          "வினைவகையான்",
+          "நலம்புரிந்த"
+        ],
+        "game_options_en": [
+          "Employ the wise who will discern The good and bad and do good turn",
+          "Let him act who resource swells; Fosters wealth and prevents ills",
+          "Though tried and found fit, yet we see Many differ before duty",
+          "Trust him in whom these four you see: Love, wit, non-craving, clarity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து வினையாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 514, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: எல்லா வகையிலும் ஆராய்ந்து உரிய பதவி வழங்கிய பின்னும், செயல் திறத்தால், எதிர்பார்த்த அளவு இல்லாத மாந்தர் பலராவர். கலைஞர் உரை கூறுவது: எவ்வளவுதான் வழிமுறைகளை ஆராய்ந்து தெளிந்து தேர்ந்தெடுத்தாலும் செயல்படும் பொழுது வேறுபடுகிறவர்கள் பலர் இருப்பர். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Selection and Employment (Royalty & Polity), Kural 514 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Even when (a king) has tried them in every possible way, there are many men who change, from the nature of the works (in which they may be employed). Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து வினையாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Selection and Employment' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து வினையாடல்' அதிகாரத்தில் வரும் திருக்குறள் 514 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 514 from Chapter 'Selection and Employment'?",
+        "quiz_options_ta": [
+          "முறை செய்யாத அரசனுடைய கொடுங்கோல் ஆட்சியின் கீழ் இருக்கப் பெற்றால், பொருள் இல்லாத வறுமை நிலையைவிடச் செல்வநிலை துன்பமானதாகும்.",
+          "ஒருவனுக்கு தன் குடியாகிய மங்காத விளக்கு, அவனுடைய சோம்பலாகிய மாசு படிய படிய ஒளி மங்கிக் கெட்டுவிடும்.",
+          "எவ்வகையால் ஆராய்ந்து தெளிந்த பிறகும்(செயலை மேற்க்கொண்டு செய்யும் போது) அச் செயல்வகையால் வேறுபடும் மக்கள் உலகத்தில் பலர் உண்டு.",
+          "சொல்லின் திறத்தை அறிந்து சொல்லை வழங்க வேண்டும், அத் தகைய சொல்வன்மையை விடச் சிறந்த அறமும் பொருளும் இல்லை."
+        ],
+        "quiz_options_en": [
+          "To have is worse than having not If ruler is unjust despot",
+          "Quenchless lamp of ancestry goes When foul idleness encloses",
+          "Though tried and found fit, yet we see Many differ before duty",
+          "Weigh thy words and speak; because No wealth or virtue words surpass"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து வினையாடல்) பகுதியில் குறள் 514 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: எவ்வகையால் ஆராய்ந்து தெளிந்த பிறகும்(செயலை மேற்க்கொண்டு செய்யும் போது) அச் செயல்வகையால் வேறுபடும் மக்கள் உலகத்தில் பலர் உண்டு. பரிமேலழகர் உரை நுட்பம்: எனை வகையான் தேறியக் கண்ணும் - எல்லா வகையானும் ஆராய்ந்து தெளிந்து வினைவைத்த பின்னும், வினைவகையான் வேறாகும் மாந்தர் பலர் - அவ் வினையின் இயல்பானே வேறுபடும் மாந்தர் உலகத்துப் பலர். (கட்டியங்காரன்போல அரச இன்பத்தினை வெஃகி விகாரப்படுவதல்லது, அதனைக்குற்றம் என்று...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 52: 'Selection and Employment'), Kural 514 distills a foundational ethical insight: \"Even when tests of every kind are multiplied, Full many a man proves otherwise, by action tried\" Philosophically, Even when (a king) has tried them in every possible way, there are many men who change, from the nature of the works (in which they may be employed).",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "family",
+        "love",
+        "ethics",
+        "perseverance"
+      ]
+    },
+    {
+      "kural_number": 515,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: (செய்யும் வழிகளை) அறிந்து இடையூறுகளைத்தாங்கிச் செய்து முடிக்க வல்லவனை அல்லாமல், மற்றவனைச் சிறந்தவன் என்றுக் கருதி ஒருச் செயலைச் செய்யுமாறு ஏவக்கூடாது.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: (A king's) work can only be accomplished by a man of wisdom and patient endurance; it is not of a nature to be given to one from mere personal attachment.",
+        "story_title_ta": "தெரிந்து வினையாடல் — தமிழினி கற்ற பாடம்",
+        "story_title_en": "Selection and Employment — Tamizhini's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த தமிழினி குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து வினையாடல்' என்ற அதிகாரத்திலிருந்து குறள் 515 பற்றிக் கதை சொன்னார். 'செய்யும் வழிமுறைகளை அறிந்து தடை வந்தாலும் செய்யும் திறமை உடையவனிடம் அன்றி . இவன் நம்மவன் (கட்சி இனம்) என்று எண்ணி, ஒரு செயலை ஒப்படைக்கக்கூடாது.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த தமிழினி தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Tamizhini and the team hit a tricky problem. Their teacher paused and told a story from Chapter 52, 'Selection and Employment', centered on Kural 515: (A king's) work can only be accomplished by a man of wisdom and patient endurance; it is not of a nature to be given to one from mere personal attachment. Guided by this wisdom, Tamizhini organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஆய்ந்தறிந்து செய்து முடிக்கும் ஆற்றல் உள்ளவர்களை அல்லாமல் வேறொருவரைச் சிறந்தவர் எனக் கருதி ஒரு செயலில் ஈடுபடுத்தக் கூடாது.",
+        "moral_en": "Moral: No specious fav'rite should the king's commission bear, But he that knows, and work performs with patient care.",
+        "game_blank_word_ta": "சிறந்தானென்று",
+        "game_options_ta": [
+          "நன்மையும்",
+          "தீமையும்",
+          "நலம்புரிந்த",
+          "சிறந்தானென்று"
+        ],
+        "game_options_en": [
+          "Employ the wise who will discern The good and bad and do good turn",
+          "Let him act who resource swells; Fosters wealth and prevents ills",
+          "Trust him in whom these four you see: Love, wit, non-craving, clarity",
+          "Wise able men with power invest Not by fondness but by hard test"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து வினையாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 515, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: செய்யும் வழிமுறைகளை அறிந்து தடை வந்தாலும் செய்யும் திறமை உடையவனிடம் அன்றி . இவன் நம்மவன் (கட்சி இனம்) என்று எண்ணி, ஒரு செயலை ஒப்படைக்கக்கூடாது. கலைஞர் உரை கூறுவது: ஆய்ந்தறிந்து செய்து முடிக்கும் ஆற்றல் உள்ளவர்களை அல்லாமல் வேறொருவரைச் சிறந்தவர் எனக் கருதி ஒரு செயலில் ஈடுபடுத்தக் கூடாது. இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Selection and Employment (Royalty & Polity), Kural 515 speaks directly to teens navigating studies, friendships, leadership, and digital choices: (A king's) work can only be accomplished by a man of wisdom and patient endurance; it is not of a nature to be given to one from mere personal attachment. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து வினையாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Selection and Employment' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து வினையாடல்' அதிகாரத்தில் வரும் திருக்குறள் 515 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 515 from Chapter 'Selection and Employment'?",
+        "quiz_options_ta": [
+          "அரசன் முறை தவறி நாட்டை ஆட்சி செய்வானானால், அந்த நாட்டில் பருவமழை தவறி மேகம் மழை பெய்யாமல் போகும்.",
+          "தம் குடியைச் சிறப்புடைய குடியாக விளங்குமாறு செய்ய விரும்புகின்றவர் சோம்பலைச் சோம்பலாகக் கொண்டு முயற்சியுடையவராய் நடக்க வேண்டும்.",
+          "வேறோரு சொல் அந்தச் சொல்லை வெல்லும் சொல்லாக இல்லாதிருந்தால் அறிந்த பிறகே சொல்லக்கருதியதைச் சொல்லவேண்டும்.",
+          "(செய்யும் வழிகளை) அறிந்து இடையூறுகளைத்தாங்கிச் செய்து முடிக்க வல்லவனை அல்லாமல், மற்றவனைச் சிறந்தவன் என்றுக் கருதி ஒருச் செயலைச் செய்யுமாறு ஏவக்கூடாது."
+        ],
+        "quiz_options_en": [
+          "The sky withdraws season's shower If the king misuses his power",
+          "To make your home an ideal home Loath sloth as sloth; refuse it room",
+          "Speak out thy world so that no word Can win it and say untoward",
+          "Wise able men with power invest Not by fondness but by hard test"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து வினையாடல்) பகுதியில் குறள் 515 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: (செய்யும் வழிகளை) அறிந்து இடையூறுகளைத்தாங்கிச் செய்து முடிக்க வல்லவனை அல்லாமல், மற்றவனைச் சிறந்தவன் என்றுக் கருதி ஒருச் செயலைச் செய்யுமாறு ஏவக்கூடாது. பரிமேலழகர் உரை நுட்பம்: அறிந்து ஆற்றிச் செய்கிற்பாற்கு அல்லால் - செய்யும் உபாயங்களை அறிந்து செயலானும் இடையூறுகளானும் வரும் துன்பங்களைப் பொறுத்து முடிவுசெய்ய வல்லானையல்லது, வினைதான் சிறந்தான் என்று ஏவற்பாற்றன்று - வினைதான் இவன் நம்மாட்டு அன்புடையன் என்று பிறனொருவனை ஏவும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 52: 'Selection and Employment'), Kural 515 distills a foundational ethical insight: \"No specious fav'rite should the king's commission bear, But he that knows, and work performs with patient care\" Philosophically, (A king's) work can only be accomplished by a man of wisdom and patient endurance; it is not of a nature to be given to one from mere personal attachment.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "wisdom",
+        "love",
+        "leadership",
+        "family"
+      ]
+    },
+    {
+      "kural_number": 516,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: செய்கின்றவனுடைய தன்மையை ஆராய்ந்து, செயலின் தன்மையையும் ஆராய்ந்து, தக்கக் காலத்தோடு பொறுந்துமாறு உணர்ந்து செய்விக்க வேண்டும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Let (a king) act, after having considered the agent (whom he is to employ), the deed (he desires to do), and the time which is suitable to it.",
+        "story_title_ta": "தெரிந்து வினையாடல் — கவின் கற்ற பாடம்",
+        "story_title_en": "Selection and Employment — Kavin's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த கவின் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து வினையாடல்' என்ற அதிகாரத்திலிருந்து குறள் 516 பற்றிக் கதை சொன்னார். 'முதலில் ஒரு செயலைச் செய்ய வேண்டியவனின் தகுதிகளை எண்ணி அவன் செய்ய வேண்டிய செயலின் தகுதியையும் எண்ணி பிறகு அவனையும் அச்செயலையும் செய்யப்படும் காலத்தோடு பொருத்தி எண்ணிச் செயல் செய்க.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த கவின் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Kavin and the team hit a tricky problem. Their teacher paused and told a story from Chapter 52, 'Selection and Employment', centered on Kural 516: Let (a king) act, after having considered the agent (whom he is to employ), the deed (he desires to do), and the time which is suitable to it. Guided by this wisdom, Kavin organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: செயலாற்ற வல்லவனைத் தேர்ந்து, செய்யப்பட வேண்டிய செயலையும் ஆராய்ந்த, காலமுணர்ந்து அதனைச் செயல்படுத்தவேண்டும்.",
+        "moral_en": "Moral: Let king first ask, 'Who shall the deed perform?' and 'What the deed?'Of hour befitting both assured, let every work proceed.",
+        "game_blank_word_ta": "செய்வானை",
+        "game_options_ta": [
+          "செய்வானை",
+          "நன்மையும்",
+          "தீமையும்",
+          "நலம்புரிந்த"
+        ],
+        "game_options_en": [
+          "Discern the agent and the deed And just in proper time proceed",
+          "Employ the wise who will discern The good and bad and do good turn",
+          "Let him act who resource swells; Fosters wealth and prevents ills",
+          "Trust him in whom these four you see: Love, wit, non-craving, clarity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து வினையாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 516, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: முதலில் ஒரு செயலைச் செய்ய வேண்டியவனின் தகுதிகளை எண்ணி அவன் செய்ய வேண்டிய செயலின் தகுதியையும் எண்ணி பிறகு அவனையும் அச்செயலையும் செய்யப்படும் காலத்தோடு பொருத்தி எண்ணிச் செயல் செய்க. கலைஞர் உரை கூறுவது: செயலாற்ற வல்லவனைத் தேர்ந்து, செய்யப்பட வேண்டிய செயலையும் ஆராய்ந்த, காலமுணர்ந்து அதனைச் செயல்படுத்தவேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Selection and Employment (Royalty & Polity), Kural 516 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let (a king) act, after having considered the agent (whom he is to employ), the deed (he desires to do), and the time which is suitable to it. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து வினையாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Selection and Employment' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து வினையாடல்' அதிகாரத்தில் வரும் திருக்குறள் 516 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 516 from Chapter 'Selection and Employment'?",
+        "quiz_options_ta": [
+          "செய்கின்றவனுடைய தன்மையை ஆராய்ந்து, செயலின் தன்மையையும் ஆராய்ந்து, தக்கக் காலத்தோடு பொறுந்துமாறு உணர்ந்து செய்விக்க வேண்டும்.",
+          "நாட்டைக் காக்கும் தலைவன் முறைப்படி காக்காவிட்டால், அந் நாட்டில் பசுக்கள் பால் தருதலாகிய பயன் குன்றும், அந்தணரும் அறநூல்களை மறப்பர்.",
+          "அழிக்கும் இயல்புடைய சோம்பலைத் தன்னிடம் கொண்டு நடக்கும் அறிவவில்லாதவன் பிறந்த குடி அவனுக்கு முன் அழிந்துவிடும்.",
+          "பிறர் விரும்பும் படியாகத் தாம் சொல்லின் பிறர் சொல்லும் போது அச் சொல்லின் பயனை ஆராய்ந்து கொள்ளுதல் மாசற்ற சிறப்புடையவரின் கொள்கையாகும்."
+        ],
+        "quiz_options_en": [
+          "Discern the agent and the deed And just in proper time proceed",
+          "The *six-functioned forget their lore Cows give less if kings guard no more * the six functions are: learning, teaching, giving, getting, sacrificing, kindling sacrifice These are duties of Vedic savants",
+          "The fool who fosters sluggishness Before he dies ruins his house",
+          "Spotless men speak what is sweet And grasp in others what is meet"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து வினையாடல்) பகுதியில் குறள் 516 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: செய்கின்றவனுடைய தன்மையை ஆராய்ந்து, செயலின் தன்மையையும் ஆராய்ந்து, தக்கக் காலத்தோடு பொறுந்துமாறு உணர்ந்து செய்விக்க வேண்டும். பரிமேலழகர் உரை நுட்பம்: செய்வானை நாடி - முதற் கண்ணே செய்வானது இலக்கணத்தை ஆராய்ந்து, வினை நாடி - பின் செய்யப்படும் வினையினது இயல்பை ஆராய்ந்து, காலத்தொடு எய்த உணர்ந்து செயல் - பின் அவனையும் அதனையும் காலத்தோடு படுத்துப் பொருந்த அறிந்து அவனை அதன்கண் ஆடலைச் செய்க. (செய்வானது இலக்கணமும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 52: 'Selection and Employment'), Kural 516 distills a foundational ethical insight: \"Let king first ask, 'Who shall the deed perform?' and 'What the deed?'Of hour befitting both assured, let every work proceed\" Philosophically, Let (a king) act, after having considered the agent (whom he is to employ), the deed (he desires to do), and the time which is suitable to it.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "time",
+        "wisdom",
+        "discipline",
+        "justice"
+      ]
+    },
+    {
+      "kural_number": 517,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, இக்குறளின் எளிய பொருள்: இந்தச் செயலை இக்கருவியால் இன்னவன் செய்துமுடிப்பான் என்று ஆராய்ந்த பிறகே அத் தொழிலை அவனிடம் ஒப்படைக்க வேண்டும்.",
+        "simple_meaning_en": "Little friend, here is the simple wisdom of this Kural: After having considered, \"this man can accomplish this, by these means\", let (the king) leave with him the discharge of that duty.",
+        "story_title_ta": "தெரிந்து வினையாடல் — நிலா கற்ற பாடம்",
+        "story_title_en": "Selection and Employment — Nila's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த நிலா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து வினையாடல்' என்ற அதிகாரத்திலிருந்து குறள் 517 பற்றிக் கதை சொன்னார். 'இந்தச் செயலை இன்ன ஆள் பலத்தாலும், பொருள் பலத்தாலும் இவன் செய்து முடிப்பான் என்பதை நன்கு எண்ணி அந்தச் செயலை அவனிடம் விடுக.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த நிலா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Nila and the team hit a tricky problem. Their teacher paused and told a story from Chapter 52, 'Selection and Employment', centered on Kural 517: After having considered, \"this man can accomplish this, by these means\", let (the king) leave with him the discharge of that duty. Guided by this wisdom, Nila organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒரு காரியத்தை ஒருவர் எப்படி செய்து முடிப்பார் என்பதை ஆராய்ந்து பார்த்து, அதற்குப் பிறகு அந்தக் காரியத்தை அவரிடம் ஒப்படைக்க வேண்டும்.",
+        "moral_en": "Moral: 'This man, this work shall thus work out,' let thoughtful king command; Then leave the matter wholly in his servant's hand.",
+        "game_blank_word_ta": "விடல்",
+        "game_options_ta": [
+          "நன்மையும்",
+          "விடல்",
+          "தீமையும்",
+          "நலம்புரிந்த"
+        ],
+        "game_options_en": [
+          "Employ the wise who will discern The good and bad and do good turn",
+          "This work, by this, this man can do Like this entrust the duty due",
+          "Let him act who resource swells; Fosters wealth and prevents ills",
+          "Trust him in whom these four you see: Love, wit, non-craving, clarity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து வினையாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 517, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: இந்தச் செயலை இன்ன ஆள் பலத்தாலும், பொருள் பலத்தாலும் இவன் செய்து முடிப்பான் என்பதை நன்கு எண்ணி அந்தச் செயலை அவனிடம் விடுக. கலைஞர் உரை கூறுவது: ஒரு காரியத்தை ஒருவர் எப்படி செய்து முடிப்பார் என்பதை ஆராய்ந்து பார்த்து, அதற்குப் பிறகு அந்தக் காரியத்தை அவரிடம் ஒப்படைக்க வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Selection and Employment (Royalty & Polity), Kural 517 speaks directly to teens navigating studies, friendships, leadership, and digital choices: After having considered, \"this man can accomplish this, by these means\", let (the king) leave with him the discharge of that duty. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து வினையாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Selection and Employment' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து வினையாடல்' அதிகாரத்தில் வரும் திருக்குறள் 517 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 517 from Chapter 'Selection and Employment'?",
+        "quiz_options_ta": [
+          "செய்த குற்றத்தை தக்கவாறு ஆராய்ந்து மீண்டும் அக் குற்றம் செய்யாத படி குற்றத்திற்குப் பொருந்துமாறு தண்டிப்பவனே அரசன் ஆவான்.",
+          "இந்தச் செயலை இக்கருவியால் இன்னவன் செய்துமுடிப்பான் என்று ஆராய்ந்த பிறகே அத் தொழிலை அவனிடம் ஒப்படைக்க வேண்டும்.",
+          "சோம்பலில் அகப்பட்டு சிறந்த முயற்சி இல்லாதவராய் வாழ்கின்றவர்க்கு குடியின் பெருமை அழிந்து குற்றம் பெருகும்.",
+          "தான் கருதியவற்றை நன்கு சொல்ல வல்லவனாய் சொல்லும் போது சோர்வு இல்லாதவனாய், அஞ்சாதவனாய் உள்ளவனை மாறுபாட்டால் வெல்வது யார்க்கும் முடியாது."
+        ],
+        "quiz_options_en": [
+          "A king enquires and gives sentence Just to prevent future offence",
+          "This work, by this, this man can do Like this entrust the duty due",
+          "Who strive not high, sunk deep in sloth Ruin their house by evil growth",
+          "No foe defies the speaker clear Flawless, puissant, and free from fear"
+        ],
+        "quiz_correct_idx": 1
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து வினையாடல்) பகுதியில் குறள் 517 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: இந்தச் செயலை இக்கருவியால் இன்னவன் செய்துமுடிப்பான் என்று ஆராய்ந்த பிறகே அத் தொழிலை அவனிடம் ஒப்படைக்க வேண்டும். பரிமேலழகர் உரை நுட்பம்: இதனை இதனான் இவன் முடிக்கும் என்று ஆய்ந்து - இவ்வினையை இக்கருவியால் இவன் முடிக்கவல்லவன் எனக்கூறுபடுத்து ஆராய்ந்து, அதனை அவன்கண் விடல் - மூன்றும் தம்முள் இயைந்தவழி அவ்வினையை அவன்கண்ணே விடுக. (கருவி: துணைவரும் பொருளும் முதலாயின. வினை முதலும் கருவியும் வினையும...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 52: 'Selection and Employment'), Kural 517 distills a foundational ethical insight: \"'This man, this work shall thus work out,' let thoughtful king command; Then leave the matter wholly in his servant's hand\" Philosophically, After having considered, \"this man can accomplish this, by these means\", let (the king) leave with him the discharge of that duty.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "perseverance",
+        "love",
+        "leadership"
+      ]
+    },
+    {
+      "kural_number": 518,
+      "child": {
+        "simple_meaning_ta": "அன்புக் குழந்தைகளே, நினைவில் கொள்ளுங்கள்: ஒருவன் ஒரு தொழிலைச் செய்வதற்கு உரியவனாக இருப்பதை ஆராய்ந்த பிறகு அவனைத் அத் தொழிலுக்கு உரியவனாகும்படிச் செய்ய வேண்டும்.",
+        "simple_meaning_en": "Dear child, remember this golden lesson: Having considered what work a man is fit for, let (the king) employ him in that work.",
+        "story_title_ta": "தெரிந்து வினையாடல் — அன்பு கற்ற பாடம்",
+        "story_title_en": "Selection and Employment — Anbu's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த அன்பு குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து வினையாடல்' என்ற அதிகாரத்திலிருந்து குறள் 518 பற்றிக் கதை சொன்னார். 'ஒருவனை ஒரு பதவிக்கு உரியவனாக நியமித்த பிறகு, அப்பதவிக்கு உரிய செயல்களை அவனே செய்யுமாறு விட்டுவிடுக.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த அன்பு தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Anbu and the team hit a tricky problem. Their teacher paused and told a story from Chapter 52, 'Selection and Employment', centered on Kural 518: Having considered what work a man is fit for, let (the king) employ him in that work. Guided by this wisdom, Anbu organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: ஒரு செயலில் ஈடுபடுவதற்கு ஏற்றவனா என்பதை ஆராய்ந்து அறிந்த பிறகே, அவனை அந்தச் செயலில் ஈடுபடுத்த வேண்டும்.",
+        "moral_en": "Moral: As each man's special aptitude is known, Bid each man make that special work his own.",
+        "game_blank_word_ta": "வினைக்குரிமை",
+        "game_options_ta": [
+          "நன்மையும்",
+          "தீமையும்",
+          "வினைக்குரிமை",
+          "நலம்புரிந்த"
+        ],
+        "game_options_en": [
+          "Employ the wise who will discern The good and bad and do good turn",
+          "Let him act who resource swells; Fosters wealth and prevents ills",
+          "His fitness for the duty scan Leave him to do the best he can",
+          "Trust him in whom these four you see: Love, wit, non-craving, clarity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து வினையாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 518, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: ஒருவனை ஒரு பதவிக்கு உரியவனாக நியமித்த பிறகு, அப்பதவிக்கு உரிய செயல்களை அவனே செய்யுமாறு விட்டுவிடுக. கலைஞர் உரை கூறுவது: ஒரு செயலில் ஈடுபடுவதற்கு ஏற்றவனா என்பதை ஆராய்ந்து அறிந்த பிறகே, அவனை அந்தச் செயலில் ஈடுபடுத்த வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Selection and Employment (Royalty & Polity), Kural 518 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Having considered what work a man is fit for, let (the king) employ him in that work. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து வினையாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Selection and Employment' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து வினையாடல்' அதிகாரத்தில் வரும் திருக்குறள் 518 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 518 from Chapter 'Selection and Employment'?",
+        "quiz_options_ta": [
+          "ஆக்கம் நெடுங்காலம் நீங்காமலிருக்க விரும்புகின்றவர் (தண்டிக்கத் தொடங்கும் போது) அளவு கடந்து செய்வது போல் காட்டி அளவு மீறாமல் முறை செய்ய வேண்டும்.",
+          "காலம் நீட்டித்தல், சோம்பல், மறதி, அளவு மீறியத் தூக்கம் ஆகிய இந் நான்கும் கெடுகின்ற இயல்புடையவர் விரும்பி ஏறும் மரக்கலமாம்.",
+          "ஒருவன் ஒரு தொழிலைச் செய்வதற்கு உரியவனாக இருப்பதை ஆராய்ந்த பிறகு அவனைத் அத் தொழிலுக்கு உரியவனாகும்படிச் செய்ய வேண்டும்.",
+          "கருத்துக்களை ஒழுங்காகக் கோர்த்து இனியாக சொல்ல வல்லவரைப் பெற்றால், உலகம் விரைந்து அவருடைய ஏவலைக் கேட்டு நடக்கும்."
+        ],
+        "quiz_options_en": [
+          "Wield fast the rod but gently lay This strict mildness prolongs the sway",
+          "To lag, forget, idle and doze These four are pleasure boats of loss",
+          "His fitness for the duty scan Leave him to do the best he can",
+          "The world will quickly carry out The words of counsellors astute"
+        ],
+        "quiz_correct_idx": 2
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து வினையாடல்) பகுதியில் குறள் 518 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: ஒருவன் ஒரு தொழிலைச் செய்வதற்கு உரியவனாக இருப்பதை ஆராய்ந்த பிறகு அவனைத் அத் தொழிலுக்கு உரியவனாகும்படிச் செய்ய வேண்டும். பரிமேலழகர் உரை நுட்பம்: வினைக்கு உரிமை நாடிய பின்றை - ஒருவனை அரசன் தன் வினை செய்தற்கு உரியனாக ஆராய்ந்து துணிந்தால், அவனை அதற்கு உரியனாகச் செயல் பின் அவனை அதற்குரியனாமாறு உயரச்செய்க. (உயரச்செய்தலாவது : அதனைத் தானேசெய்து முடிக்கும் ஆற்றலுடையனாக்குதல். அது செய்யாக்காலும் கெடும் என்பது...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 52: 'Selection and Employment'), Kural 518 distills a foundational ethical insight: \"As each man's special aptitude is known, Bid each man make that special work his own\" Philosophically, Having considered what work a man is fit for, let (the king) employ him in that work.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "ethics",
+        "speech",
+        "leadership",
+        "education"
+      ]
+    },
+    {
+      "kural_number": 519,
+      "child": {
+        "simple_meaning_ta": "சின்னஞ்சிறு நண்பரே, வள்ளுவர் தரும் பாடல்: மேற்க்கொண்ட தொழிலில் எப்போதும் முயற்சி உடையவனின் உறவைத் தவறாக நினைக்கும் தலைவனை விட்டுச் செல்வம் நீங்கும்.",
+        "simple_meaning_en": "Young explorer, Grandpa Valluvar teaches us: Prosperity will leave (the king) who doubts the friendship of the man who steadily labours in the discharge of his duties.",
+        "story_title_ta": "தெரிந்து வினையாடல் — இனியா கற்ற பாடம்",
+        "story_title_en": "Selection and Employment — Iniya's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த இனியா குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து வினையாடல்' என்ற அதிகாரத்திலிருந்து குறள் 519 பற்றிக் கதை சொன்னார். 'தன் பதவியில் செயல்திறம் உடையவன் நிர்வாகத்திற்கு வேண்டியவனாக இருக்க, அவனை ஒழிக்க எண்ணிக் கோள் மூட்டுவார் சொல்லை நிர்வாகம் கேட்குமானால் அந்த நிர்வாகத்தை விட்டுச் செல்வத் திருமகள் நீக்குவான்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த இனியா தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Iniya and the team hit a tricky problem. Their teacher paused and told a story from Chapter 52, 'Selection and Employment', centered on Kural 519: Prosperity will leave (the king) who doubts the friendship of the man who steadily labours in the discharge of his duties. Guided by this wisdom, Iniya organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: எடுத்த காரியத்தை முடிப்பதில் கண்ணும் கருத்துமாக இருப்பவரின் உறவைத் தவறாக எண்ணுபவரை விட்டுப் பெருமை அகன்று விடும்.",
+        "moral_en": "Moral: Fortune deserts the king who ill can bear, Informal friendly ways of men his tolls who share.",
+        "game_blank_word_ta": "நீங்கும்",
+        "game_options_ta": [
+          "நன்மையும்",
+          "தீமையும்",
+          "நலம்புரிந்த",
+          "நீங்கும்"
+        ],
+        "game_options_en": [
+          "Employ the wise who will discern The good and bad and do good turn",
+          "Let him act who resource swells; Fosters wealth and prevents ills",
+          "Trust him in whom these four you see: Love, wit, non-craving, clarity",
+          "Who do duty for duty's sake Doubt them; and fortune departs quick"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து வினையாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 519, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: தன் பதவியில் செயல்திறம் உடையவன் நிர்வாகத்திற்கு வேண்டியவனாக இருக்க, அவனை ஒழிக்க எண்ணிக் கோள் மூட்டுவார் சொல்லை நிர்வாகம் கேட்குமானால் அந்த நிர்வாகத்தை விட்டுச் செல்வத் திருமகள் நீக்குவான். கலைஞர் உரை கூறுவது: எடுத்த காரியத்தை முடிப்பதில் கண்ணும் கருத்துமாக இருப்பவரின் உறவைத் தவறாக எண்ணுபவரை விட்டுப் பெருமை அகன்று விடும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Selection and Employment (Royalty & Polity), Kural 519 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Prosperity will leave (the king) who doubts the friendship of the man who steadily labours in the discharge of his duties. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து வினையாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Selection and Employment' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து வினையாடல்' அதிகாரத்தில் வரும் திருக்குறள் 519 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 519 from Chapter 'Selection and Employment'?",
+        "quiz_options_ta": [
+          "குடிகள் அஞ்சும் படியான கொடுமைகளைச் செய்து ஆளும் கொடுங்கோல் அரசனானால், அவன் திண்ணமாக விரைவில் கெடுவான்.",
+          "நாட்டை ஆளும் தலைவருடைய உறவுத் தானே வந்து சேர்ந்தாலும், சோம்பல் உடையவர் சிறந்த பயனை அடைய முடியாது.",
+          "குற்றமற்றவையாகியச் சில சொற்களைச் சொல்லத் தெரியாதவர், உண்மையாகவே பலச் சொற்களைச் சொல்லிக்கொண்டிருக்க விரும்புவர்.",
+          "மேற்க்கொண்ட தொழிலில் எப்போதும் முயற்சி உடையவனின் உறவைத் தவறாக நினைக்கும் தலைவனை விட்டுச் செல்வம் நீங்கும்."
+        ],
+        "quiz_options_en": [
+          "His cruel rod of dreadful deed Brings king's ruin quick indeed",
+          "With all the wealth of lords of earth The slothful gain nothing of worth",
+          "They overspeak who do not seek A few and flawless words to speak",
+          "Who do duty for duty's sake Doubt them; and fortune departs quick"
+        ],
+        "quiz_correct_idx": 3
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து வினையாடல்) பகுதியில் குறள் 519 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: மேற்க்கொண்ட தொழிலில் எப்போதும் முயற்சி உடையவனின் உறவைத் தவறாக நினைக்கும் தலைவனை விட்டுச் செல்வம் நீங்கும். பரிமேலழகர் உரை நுட்பம்: வினைக்கண் வினை உடையான் கேண்மை - எப்பொழுதும் தன் வினையின்கண்ணே முயறலை உடையான் அவ்வுரிமையால் தனக்குக் கேளாய் ஒழுகுகின்ற தன்மையை, வேறாக நினைப்பானைத் திரு நீங்கும் - அது பொறாதார் சொற்கேட்டு அரசன் மாறுபடக் கருதுமாயின், திருமகள் அவனை விட்டு நீங்கும். (கேளாய...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 52: 'Selection and Employment'), Kural 519 distills a foundational ethical insight: \"Fortune deserts the king who ill can bear, Informal friendly ways of men his tolls who share\" Philosophically, Prosperity will leave (the king) who doubts the friendship of the man who steadily labours in the discharge of his duties.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "friendship",
+        "love",
+        "ethics",
+        "wealth"
+      ]
+    },
+    {
+      "kural_number": 520,
+      "child": {
+        "simple_meaning_ta": "குழந்தைகளே, தாத்தா வள்ளுவர் அன்போடு சொல்கிறார்: தொழில் செய்கின்றவன் கோணாதிருக்கும் வரையில் உலகம் கெடாது, ஆகையால் மன்னன் நாள்தோறும் அவனுடைய நிலைமையை ஆராய வேண்டும்.",
+        "simple_meaning_en": "Little friend, Grandpa Valluvar gently reminds us: Let a king daily examine the conduct of his servants; if they do not act crookedly, the world will not act crookedly.",
+        "story_title_ta": "தெரிந்து வினையாடல் — முகில் கற்ற பாடம்",
+        "story_title_en": "Selection and Employment — Mugil's Lesson",
+        "kutty_story_ta": "பள்ளி அறிவியல் கண்காட்சிக்குத் தயாராகிக் கொண்டிருந்த முகில் குழுவுக்குச் சிறு சவால் வந்தது. அப்போது ஆசிரியர் 'தெரிந்து வினையாடல்' என்ற அதிகாரத்திலிருந்து குறள் 520 பற்றிக் கதை சொன்னார். 'மேல் பதவியில் இருப்பவன் தவறு செய்யாவிட்டால் மக்களும் தவற செய்யார். அதனால் பதவியில் இருப்பவரை நாளும் கவனித்து நிர்வாகம் எச்சரிக்கையாக இருக்க வேண்டும்.' என்பதே வெற்றிக்கான ரகசியம் என்பதை உணர்ந்த முகில் தன் நண்பர்களுடன் திட்டமிட்டுச் செயல்பட்டது. சரியான நேரமும் நேர்மையும் இருந்தால் எந்தப் பணியையும் சிறப்பாக முடிக்கலாம் என்பது அவர்களுக்குத் தெளிவானது. முடிவில் குழுவின் ஒற்றுமையையும் முயற்சியையும் பள்ளி முழுவதும் பாராட்டியது.",
+        "kutty_story_en": "While preparing for the school science fair, Mugil and the team hit a tricky problem. Their teacher paused and told a story from Chapter 52, 'Selection and Employment', centered on Kural 520: Let a king daily examine the conduct of his servants; if they do not act crookedly, the world will not act crookedly. Guided by this wisdom, Mugil organized the team calmly, listened to every friend's idea, and worked step by step. By working together at the right moment with honesty and effort, the group finished their project cleanly. Everyone learned that smart planning and true friendship overcome tough challenges.",
+        "moral_ta": "நீதி: உழைப்போர் உள்ளம் வாடாமல் இருக்கும் வரையில் உலகின் செழிப்பும் வாடாமல் இருக்கும் எனவே உழைப்போர் நிலையை ஒவ்வொரு நாளும் அரசினர் ஆய்தறிந்து ஆவன செய்ய வேண்டும்.",
+        "moral_en": "Moral: Let king search out his servants' deeds each day; When these do right, the world goes rightly on its way.",
+        "game_blank_word_ta": "கோடாமை",
+        "game_options_ta": [
+          "கோடாமை",
+          "நன்மையும்",
+          "தீமையும்",
+          "நலம்புரிந்த"
+        ],
+        "game_options_en": [
+          "Worker straight the world is straight The king must look to this aright",
+          "Employ the wise who will discern The good and bad and do good turn",
+          "Let him act who resource swells; Fosters wealth and prevents ills",
+          "Trust him in whom these four you see: Love, wit, non-craving, clarity"
+        ]
+      },
+      "youth": {
+        "analysis_ta": "தெரிந்து வினையாடல் (அரசியல்) பிரிவில் அமைந்த குறள் 520, மாணவர்களுக்கும் இளையோருக்கும் முக்கியமான வாழ்வியல் சிந்தனையைத் தருகிறது. சாலமன் பாப்பையா உரைப்படி: மேல் பதவியில் இருப்பவன் தவறு செய்யாவிட்டால் மக்களும் தவற செய்யார். அதனால் பதவியில் இருப்பவரை நாளும் கவனித்து நிர்வாகம் எச்சரிக்கையாக இருக்க வேண்டும். கலைஞர் உரை கூறுவது: உழைப்போர் உள்ளம் வாடாமல் இருக்கும் வரையில் உலகின் செழிப்பும் வாடாமல் இருக்கும் எனவே உழைப்போர் நிலையை ஒவ்வொரு நாளும் அரசினர் ஆய்தறிந்து ஆவன செய்ய வேண்டும். இன்றைய படிப்பு, நட்பு, இணைய ஒழுக்கம் மற்றும் இலக்கு நோக்கிய முயற்சியில் இது ஒரு தெளிவான வழிகாட்டியாகும்.",
+        "analysis_en": "From Selection and Employment (Royalty & Polity), Kural 520 speaks directly to teens navigating studies, friendships, leadership, and digital choices: Let a king daily examine the conduct of his servants; if they do not act crookedly, the world will not act crookedly. Instead of reacting impulsively or following crowd noise, applying this principle builds quiet resilience, sharper focus, and genuine credibility among peers.",
+        "action_tip_ta": "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் 'தெரிந்து வினையாடல்' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+        "action_tip_en": "Before making a group or study decision today, pause for two minutes to apply 'Selection and Employment' thoughtfully.",
+        "quiz_question_ta": "'தெரிந்து வினையாடல்' அதிகாரத்தில் வரும் திருக்குறள் 520 உணர்த்தும் மையக் கருத்து என்ன?",
+        "quiz_question_en": "What is the core meaning of Kural 520 from Chapter 'Selection and Employment'?",
+        "quiz_options_ta": [
+          "தொழில் செய்கின்றவன் கோணாதிருக்கும் வரையில் உலகம் கெடாது, ஆகையால் மன்னன் நாள்தோறும் அவனுடைய நிலைமையை ஆராய வேண்டும்.",
+          "நம் அரசன் கடுமையானவன் என்று குடிகளால் கூறப்படும் கொடுஞ்சொல்லை உடைய அரசன், தன் ஆயுள் குறைந்து விரைவில் கெடுவான்.",
+          "சோம்பலை விரும்பி மேற்க் கொண்டு சிறந்த முயற்சி இல்லாதவராய் வாழ்கின்றவர் பிறர் இடித்துக் கூறி இகழ்கின்ற சொல்லைக் கேட்கும் நிலைமை அடைவர்.",
+          "தாம் கற்ற நூற்ப் பொருளைப் பிறர் உணருமாறு விரிந்துரைக்க முடியாதவர், கொத்தாக மலர்ந்திருந்த போதிலும் மணம் கமழாத மலரைப் போன்றவர்."
+        ],
+        "quiz_options_en": [
+          "Worker straight the world is straight The king must look to this aright",
+          "As men the king a tyrant call His days dwindled, hasten his fall",
+          "The slothful lacking noble deeds Subject themselves to scornful words",
+          "Who can't express what they have learnt Are bunch of flowers not fragrant"
+        ],
+        "quiz_correct_idx": 0
+      },
+      "adult": {
+        "reflection_ta": "பொருட்பால் — அரசியல் (தெரிந்து வினையாடல்) பகுதியில் குறள் 520 மனித வாழ்வின் ஆழமான தத்துவ ஒழுங்கை முன்வைக்கிறது. மு.வ. விளக்கத்தின்படி: தொழில் செய்கின்றவன் கோணாதிருக்கும் வரையில் உலகம் கெடாது, ஆகையால் மன்னன் நாள்தோறும் அவனுடைய நிலைமையை ஆராய வேண்டும். பரிமேலழகர் உரை நுட்பம்: வினை செய்வான் கோடாமை உலகு கோடாது - வினை செய்வான் கோடாது ஒழிய உலகம் கோடாது, மன்னன் நாள்தோறும் நாடுக - ஆதலால் அரசன் அவன் செயலை நாள்தோறும் ஆராய்க. (அஃது ஒன்றனையும் ஆராயவே அதன் வழித்தாய உலகம் எல்லாம் ஆராய்ந்தானாம், அதனால் அவன் உரிமை அழியாமல் தன்னுள்ளே ஆராய்ந்து...",
+        "reflection_en": "Within Book of Wealth & Polity (Royalty & Polity — Chapter 52: 'Selection and Employment'), Kural 520 distills a foundational ethical insight: \"Let king search out his servants' deeds each day; When these do right, the world goes rightly on its way\" Philosophically, Let a king daily examine the conduct of his servants; if they do not act crookedly, the world will not act crookedly.",
+        "research_theme": "polity"
+      },
+      "tags": [
+        "leadership",
+        "harmony",
+        "family",
+        "speech"
+      ]
+    }
+  ]
+}
