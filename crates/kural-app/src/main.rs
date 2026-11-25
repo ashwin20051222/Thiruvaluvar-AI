@@ -35,15 +35,44 @@ use std::time::Duration;
 struct CliOptions {
     config: Option<PathBuf>,
     pi_preview: bool,
+    pi7_preview: bool,
+    pi7_hd_preview: bool,
     kiosk: bool,
     verify_layout: bool,
+}
+
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+enum AuditViewport {
+    Desktop,
+    Pi35,
+    Pi7,
+    Pi7Hd,
+}
+
+impl AuditViewport {
+    fn from_mode(mode: &str) -> Self {
+        match mode {
+            "pi_preview" => Self::Pi35,
+            "pi7_preview" => Self::Pi7,
+            "pi7_hd_preview" => Self::Pi7Hd,
+            _ => Self::Desktop,
+        }
+    }
+
+    fn is_touch_pi(self) -> bool {
+        matches!(self, Self::Pi35 | Self::Pi7 | Self::Pi7Hd)
+    }
+
+    fn is_pi35(self) -> bool {
+        self == Self::Pi35
+    }
 }
 
 #[derive(Clone)]
 struct BootContext {
     backend: BackendHandle,
     toast_duration_ms: u64,
-    is_pi_preview: bool,
+    audit_viewport: AuditViewport,
     verify_layout: bool,
 }
 
@@ -58,6 +87,8 @@ where
     while let Some(raw) = it.next() {
         match raw.as_ref() {
             "--pi-preview" => opts.pi_preview = true,
+            "--pi7-preview" => opts.pi7_preview = true,
+            "--pi7-hd-preview" => opts.pi7_hd_preview = true,
             "--kiosk" => opts.kiosk = true,
             "--verify-layout" => opts.verify_layout = true,
             "--config" => {
@@ -68,7 +99,7 @@ where
             }
             "--help" | "-h" => {
                 return Err(
-                    "Usage: kural-app [--config PATH] [--pi-preview | --kiosk] [--verify-layout]"
+                    "Usage: kural-app [--config PATH] [--pi-preview | --pi7-preview | --pi7-hd-preview | --kiosk] [--verify-layout]"
                         .to_string(),
                 );
             }
@@ -83,10 +114,18 @@ fn effective_viewport_mode(config_mode: &str, cli: &CliOptions) -> &'static str 
         "kiosk"
     } else if cli.pi_preview {
         "pi_preview"
+    } else if cli.pi7_preview {
+        "pi7_preview"
+    } else if cli.pi7_hd_preview {
+        "pi7_hd_preview"
     } else if config_mode == "kiosk" {
         "kiosk"
     } else if config_mode == "pi_preview" {
         "pi_preview"
+    } else if config_mode == "pi7_preview" {
+        "pi7_preview"
+    } else if config_mode == "pi7_hd_preview" {
+        "pi7_hd_preview"
     } else {
         "desktop"
     }
@@ -100,6 +139,12 @@ fn build_desktop_config(mode: &str, backend: BackendHandle) -> Config {
             .with_fullscreen(Some(Fullscreen::Borderless(None))),
         "pi_preview" => wb
             .with_inner_size(LogicalSize::new(480.0, 320.0))
+            .with_resizable(false),
+        "pi7_preview" => wb
+            .with_inner_size(LogicalSize::new(800.0, 480.0))
+            .with_resizable(false),
+        "pi7_hd_preview" => wb
+            .with_inner_size(LogicalSize::new(1024.0, 600.0))
             .with_resizable(false),
         _ => wb
             .with_inner_size(LogicalSize::new(1280.0, 720.0))
@@ -170,7 +215,7 @@ fn main() {
     let boot = BootContext {
         backend,
         toast_duration_ms,
-        is_pi_preview: viewport_mode == "pi_preview",
+        audit_viewport: AuditViewport::from_mode(viewport_mode),
         verify_layout: cli.verify_layout,
     };
 
@@ -189,10 +234,10 @@ fn app() -> Element {
 
     if boot.verify_layout {
         let backend_exit = boot.backend.clone();
-        let is_pi = boot.is_pi_preview;
+        let viewport = boot.audit_viewport;
         use_hook(move || {
             spawn(async move {
-                let ok = run_layout_audit(&mut ctx, is_pi).await;
+                let ok = run_layout_audit(&mut ctx, viewport).await;
                 let _ = std::thread::spawn(move || backend_exit.shutdown_ref()).join();
                 std::process::exit(if ok { 0 } else { 1 });
             });
@@ -229,7 +274,9 @@ fn app() -> Element {
     }
 }
 
-async fn check_dom_state(label: &str, is_pi: bool, expect_kural: bool) -> bool {
+async fn check_dom_state(label: &str, viewport: AuditViewport, expect_kural: bool) -> bool {
+    let is_touch = viewport.is_touch_pi();
+    let is_pi35 = viewport.is_pi35();
     tokio::time::sleep(Duration::from_millis(140)).await;
     let js = format!(
         r#"return (() => {{
@@ -249,7 +296,8 @@ async fn check_dom_state(label: &str, is_pi: bool, expect_kural: bool) -> bool {
             if (modal) {{
                 const mr = modal.getBoundingClientRect();
                 if (modal.scrollHeight > modal.clientHeight + 1) errs.push(`modalScrollH(${{modal.scrollHeight}})>${{modal.clientHeight}}`);
-                if ({is_pi} && mr.height > 305) errs.push(`modalH(${{mr.height}})>305`);
+                if ({is_pi35} && mr.height > 305) errs.push(`modalH(${{mr.height}})>305`);
+                if (!{is_pi35} && {is_touch} && mr.height > ch - 34) errs.push(`modalH(${{mr.height}})>${{ch - 34}}`);
             }}
             if ({expect_kural}) {{
                 const c = document.getElementById('kural-couplet');
@@ -258,7 +306,7 @@ async fn check_dom_state(label: &str, is_pi: bool, expect_kural: bool) -> bool {
                     if (fs < 14) errs.push(`coupletFont(${{fs}})<14`);
                     if (!/[\u0B80-\u0BFF]/.test(c.textContent || '')) errs.push('coupletNotTamil');
                 }}
-                for (const el of document.querySelectorAll('#kural-meaning, .pi-prose-text')) {{
+                for (const el of document.querySelectorAll('#kural-meaning, #comm-body, .pi-prose-text')) {{
                     const r = el.getBoundingClientRect();
                     if (r.width > 0 && r.height > 0) {{
                         const fs = parseFloat(getComputedStyle(el).fontSize);
@@ -266,7 +314,7 @@ async fn check_dom_state(label: &str, is_pi: bool, expect_kural: bool) -> bool {
                     }}
                 }}
             }}
-            if ({is_pi}) {{
+            if ({is_touch}) {{
                 for (const btn of document.querySelectorAll('button, input')) {{
                     const r = btn.getBoundingClientRect();
                     if (r.width > 0 && r.height > 0 && r.height < 37.5) {{
@@ -300,7 +348,8 @@ async fn check_dom_state(label: &str, is_pi: bool, expect_kural: bool) -> bool {
     false
 }
 
-async fn run_layout_audit(ctx: &mut state::AppContext, is_pi: bool) -> bool {
+async fn run_layout_audit(ctx: &mut state::AppContext, viewport: AuditViewport) -> bool {
+    let is_touch = viewport.is_touch_pi();
     tokio::time::sleep(Duration::from_millis(450)).await;
     let mut all_ok = true;
 
@@ -325,19 +374,19 @@ async fn run_layout_audit(ctx: &mut state::AppContext, is_pi: bool) -> bool {
                 ctx.dispatch(BackendCommand::SetTheme(theme));
                 ctx.pi_compact_tab.set(CompactTabHint::Verse);
                 let label = format!("{name}/{lang_lbl}/{theme_lbl}");
-                all_ok &= check_dom_state(&label, is_pi, *expect_kural).await;
+                all_ok &= check_dom_state(&label, viewport, *expect_kural).await;
             }
         }
     }
 
-    if is_pi {
+    if is_touch {
         ctx.dispatch(BackendCommand::SetLanguage(Language::Tamil));
         ctx.dispatch(BackendCommand::SetTheme(Theme::Dark));
         ctx.dispatch(BackendCommand::SelectAge(AgeGroup::Youth));
         ctx.dispatch(BackendCommand::OpenKural(1));
         for tab in [CompactTabHint::Analysis, CompactTabHint::Quiz] {
             ctx.pi_compact_tab.set(tab);
-            all_ok &= check_dom_state(&format!("Youth/tab/{tab:?}"), is_pi, false).await;
+            all_ok &= check_dom_state(&format!("Youth/tab/{tab:?}"), viewport, false).await;
         }
 
         ctx.dispatch(BackendCommand::SelectAge(AgeGroup::Adult));
@@ -345,19 +394,19 @@ async fn run_layout_audit(ctx: &mut state::AppContext, is_pi: bool) -> bool {
         ctx.dispatch(BackendCommand::SelectCommentary(Scholar::Parimel));
         for tab in [CompactTabHint::Commentary, CompactTabHint::Study] {
             ctx.pi_compact_tab.set(tab);
-            all_ok &= check_dom_state(&format!("Adult/tab/{tab:?}"), is_pi, false).await;
+            all_ok &= check_dom_state(&format!("Adult/tab/{tab:?}"), viewport, false).await;
         }
 
         ctx.dispatch(BackendCommand::SelectAge(AgeGroup::Kids));
         ctx.dispatch(BackendCommand::OpenKural(1));
         for modal in [ModalKind::KidsStory, ModalKind::KidsWordGame] {
             ctx.dispatch(BackendCommand::OpenModal(modal));
-            all_ok &= check_dom_state(&format!("Modal/{modal:?}"), is_pi, false).await;
+            all_ok &= check_dom_state(&format!("Modal/{modal:?}"), viewport, false).await;
         }
         ctx.dispatch(BackendCommand::SelectAge(AgeGroup::Youth));
         for modal in [ModalKind::YouthQuiz, ModalKind::YouthDeepDive] {
             ctx.dispatch(BackendCommand::OpenModal(modal));
-            all_ok &= check_dom_state(&format!("Modal/{modal:?}"), is_pi, false).await;
+            all_ok &= check_dom_state(&format!("Modal/{modal:?}"), viewport, false).await;
         }
         ctx.dispatch(BackendCommand::OpenModal(ModalKind::AiChat {
             seed_kural: Some(1),
@@ -366,7 +415,7 @@ async fn run_layout_audit(ctx: &mut state::AppContext, is_pi: bool) -> bool {
             query: "What is virtue?".to_string(),
             seed_kural: Some(1),
         });
-        all_ok &= check_dom_state("Modal/AiChat", is_pi, false).await;
+        all_ok &= check_dom_state("Modal/AiChat", viewport, false).await;
 
         ctx.dispatch(BackendCommand::OpenModal(ModalKind::Search {
             initial_tab: SearchTab::Query,
@@ -375,14 +424,14 @@ async fn run_layout_audit(ctx: &mut state::AppContext, is_pi: bool) -> bool {
             query: "virtue".to_string(),
             division_id: None,
         });
-        all_ok &= check_dom_state("Modal/Search/Query", is_pi, false).await;
+        all_ok &= check_dom_state("Modal/Search/Query", viewport, false).await;
 
         ctx.dispatch(BackendCommand::CloseModal);
         tokio::time::sleep(Duration::from_millis(60)).await;
         ctx.dispatch(BackendCommand::OpenModal(ModalKind::Search {
             initial_tab: SearchTab::Divisions,
         }));
-        all_ok &= check_dom_state("Modal/Search/Divisions", is_pi, false).await;
+        all_ok &= check_dom_state("Modal/Search/Divisions", viewport, false).await;
         ctx.dispatch(BackendCommand::CloseModal);
     }
 
@@ -416,9 +465,25 @@ mod tests {
         let opts = parse_cli_args(["kural-app", "--pi-preview", "--config", "custom.toml"])
             .expect("parse flags");
         assert!(opts.pi_preview);
+        assert!(!opts.pi7_preview);
+        assert!(!opts.pi7_hd_preview);
         assert!(!opts.kiosk);
         assert_eq!(opts.config.as_deref(), Some(Path::new("custom.toml")));
         assert_eq!(effective_viewport_mode("desktop", &opts), "pi_preview");
+
+        let pi7 = parse_cli_args(["kural-app", "--pi7-preview"]).unwrap();
+        assert_eq!(effective_viewport_mode("desktop", &pi7), "pi7_preview");
+        assert_eq!(AuditViewport::from_mode("pi7_preview"), AuditViewport::Pi7);
+
+        let pi7_hd = parse_cli_args(["kural-app", "--pi7-hd-preview"]).unwrap();
+        assert_eq!(
+            effective_viewport_mode("desktop", &pi7_hd),
+            "pi7_hd_preview"
+        );
+        assert_eq!(
+            AuditViewport::from_mode("pi7_hd_preview"),
+            AuditViewport::Pi7Hd
+        );
 
         let kiosk = parse_cli_args(["kural-app", "--pi-preview", "--kiosk"]).unwrap();
         assert_eq!(effective_viewport_mode("desktop", &kiosk), "kiosk");

@@ -387,7 +387,7 @@ pub fn YouthScreen() -> Element {
                                     oninput: move |e| tag_search.set(e.value()),
                                 }
                             }
-                            div { style: "display:flex; flex-wrap:wrap; gap:6px;",
+                            div { class: "tags-chips-row",
                                 for (slug, ta, en) in displayed_tags {
                                     {
                                         let is_active = active_tag_slug.as_deref() == Some(slug);

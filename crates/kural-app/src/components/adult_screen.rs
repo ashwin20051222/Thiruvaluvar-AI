@@ -146,8 +146,8 @@ pub fn AdultScreen() -> Element {
                     }
                 }
 
-                // Left 6 cols (Desktop) / Full Card Stage (Pi)
-                section { class: "col-span-6",
+                // Left 6 cols (Desktop) / 7fr (7" Pi) / Full Card Stage (3.5" Pi)
+                section { class: "col-span-6 adult-main-col",
                     article { id: "kural-card", class: "royal-card-primary kural-card-layout",
                         div { id: "kural-card-header", class: "kural-card-header",
                             div { style: "display:flex; align-items:center; gap:6px; min-width:0;",
@@ -361,8 +361,8 @@ pub fn AdultScreen() -> Element {
                     }
                 }
 
-                // Right 6 cols (Desktop only): Reflection + 4 .royal-subcard Research Themes + Bookmarks
-                section { class: "col-span-6 desktop-only",
+                // Right 6 cols (Desktop) / 5fr (7" Pi)
+                section { class: "col-span-6 desktop-only adult-side-col",
                     // Daily Wisdom Reflection
                     div { class: "royal-card-secondary",
                         div { style: "display:flex; justify-content:space-between; align-items:center;",
@@ -441,7 +441,7 @@ pub fn AdultScreen() -> Element {
                                 "{tr(lang, \"குறள்களைச் சேமிக்க ☆ ஐ அழுத்தவும்.\", \"Tap ☆ to bookmark Kurals for study.\")}"
                             }
                         } else {
-                            div { style: "display:flex; flex-direction:column; gap:4px; overflow:hidden;",
+                            div { class: "adult-bookmarks-list",
                                 for bk in snap.bookmarks.iter().take(4) {
                                     {
                                         let bnum = bk.kural_number;

@@ -1,6 +1,6 @@
 # Thiruvalluvar AI (`thiruvalluvar-ai-rs`)
 
-**100% Pure-Rust Offline Bilingual Thirukkural Companion** built for both Linux Desktop (`1280×720`) and Raspberry Pi 4B + 3.5-inch LCD (`480×320`) in Wayland `cage` kiosk mode.
+**100% Pure-Rust Offline Bilingual Thirukkural Companion** built for Linux Desktop (`1280×720+`), 7-inch Raspberry Pi LCDs (`800×480` DSI / `1024×600` HDMI), and 3.5-inch Raspberry Pi LCDs (`480×320`) in Wayland `cage` kiosk mode.
 
 - **Zero Python**, **Zero Node.js / Chromium**, **Zero cloud API calls**, **Zero external web URLs**
 - **`#![forbid(unsafe_code)]`** enforced across all 8 workspace crates (with `tikv-jemallocator` on Linux)
@@ -55,8 +55,10 @@ cargo test --workspace
 # 3. Run in Desktop mode (1280x720)
 cargo run --release --bin kural-app -- --config config.toml
 
-# 4. Run exact 3.5" Raspberry Pi LCD preview (480x320) on your laptop
-cargo run --release --bin kural-app -- --config config.toml --pi-preview
+# 4. Run exact Raspberry Pi LCD previews on your laptop:
+cargo run --release --bin kural-app -- --config config.toml --pi7-preview     # 7" Standard (800x480)
+cargo run --release --bin kural-app -- --config config.toml --pi7-hd-preview  # 7" HD (1024x600)
+cargo run --release --bin kural-app -- --config config.toml --pi-preview      # 3.5" LCD (480x320)
 ```
 
 ---
@@ -65,7 +67,7 @@ cargo run --release --bin kural-app -- --config config.toml --pi-preview
 
 - **GUI App (`kural-app`)**:
   ```text
-  kural-app [--config PATH] [--pi-preview | --kiosk] [--verify-layout]
+  kural-app [--config PATH] [--pi-preview | --pi7-preview | --pi7-hd-preview | --kiosk] [--verify-layout]
   ```
 - **Database & Vector CLI (`kural_cli`, feature `cli` in `kural-db`)**:
   ```bash
@@ -91,5 +93,5 @@ cargo run --release --bin kural-app -- --config config.toml --pi-preview
 
 ## Raspberry Pi 4B Kiosk Deployment
 
-Full ARM64 setup, 3.5-inch `480×320` DRM/KMS + `libinput` touch calibration, ALSA mic/speaker tuning, and `systemd` + `cage` deployment instructions are documented in [`docs/PI_DEPLOYMENT_GUIDE.md`](docs/PI_DEPLOYMENT_GUIDE.md).
+Full ARM64 setup, tri-display responsiveness (`3.5"` `480×320`, `7"` `800×480` & `1024×600`), DRM/KMS + `libinput` touch calibration, ALSA mic/speaker tuning, and `systemd` + `cage` deployment instructions are documented in [`docs/PI_DEPLOYMENT_GUIDE.md`](docs/PI_DEPLOYMENT_GUIDE.md).
 

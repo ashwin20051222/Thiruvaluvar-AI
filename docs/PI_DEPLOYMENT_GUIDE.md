@@ -1,6 +1,6 @@
-# Raspberry Pi 4B (`aarch64`) + 3.5" LCD Kiosk Deployment Guide
+# Raspberry Pi 4B (`aarch64`) + Tri-Display (3.5" & 7") Kiosk Deployment Guide
 
-This guide covers end-to-end provisioning, hardware calibration, release packaging, and `systemd` kiosk deployment for **Thiruvalluvar AI** on **Raspberry Pi OS (64-bit / `aarch64`)** driving a **3.5-inch `480×320` touchscreen LCD** with USB/I2S microphone + dual amplified stereo speakers.
+This guide covers end-to-end provisioning, hardware calibration, release packaging, single/dual display selection, and `systemd` kiosk deployment for **Thiruvalluvar AI** on **Raspberry Pi OS (64-bit / `aarch64`)** driving either a **3.5-inch `480×320` touchscreen LCD**, a **7-inch `800×480` DSI / `1024×600` HDMI touchscreen**, or both attached with USB/I2S microphone + dual amplified stereo speakers.
 
 ---
 
@@ -71,7 +71,26 @@ If playback or capture fails during setup:
 
 ---
 
-## 4. 3.5-Inch `480×320` LCD, KMS & Touchscreen Calibration
+## 4. Tri-Display Support (3.5" `480×320` & 7" `800×480` / `1024×600`), KMS & Touch
+
+A single compiled `kural-app --kiosk` binary adapts automatically at runtime to the active panel resolution:
+- **3.5-inch panel (`480×320`)**: Switches automatically into the compact single-card layout + 5-slot Pi dock.
+- **7-inch panels (`800×480` DSI or `1024×600` HDMI)**: Renders the compact 2-column split + bottom voice dock automatically.
+- **Both 3.5-inch and 7-inch displays attached simultaneously**: Control output selection via environment variables in `deploy/launch_kiosk.sh` without modifying any Rust code (`./deploy/launch_kiosk.sh --help` prints all options):
+  ```bash
+  # Default (single display 3.5" OR 7" attached) — automatic native fullscreen:
+  /opt/thiruvalluvar-ai/deploy/launch_kiosk.sh
+
+  # Both attached — target 7" HDMI explicitly:
+  KURAL_DISPLAY_OUTPUT=HDMI-A-1 KURAL_DISPLAY_MODE=1024x600 /opt/thiruvalluvar-ai/deploy/launch_kiosk.sh
+
+  # Both attached — target 7" DSI explicitly:
+  KURAL_DISPLAY_OUTPUT=DSI-1 KURAL_DISPLAY_MODE=800x480 /opt/thiruvalluvar-ai/deploy/launch_kiosk.sh
+
+  # Both attached — target 3.5" SPI/DRM panel explicitly:
+  KURAL_DISPLAY_OUTPUT=SPI-1 KURAL_DISPLAY_MODE=480x320 /opt/thiruvalluvar-ai/deploy/launch_kiosk.sh
+  ```
+  For permanent `systemd` connector pinning, add `Environment=KURAL_DISPLAY_OUTPUT=HDMI-A-1` (and optional `KURAL_DISPLAY_MODE=1024x600`) under `[Service]` in `/etc/systemd/system/thiruvalluvar-ai.service` (or `sudo systemctl edit thiruvalluvar-ai.service`) and install `wlr-randr`.
 
 Wayland `cage` requires DRM/KMS (`/dev/dri/card*`, enabled by `dtoverlay=vc4-kms-v3d` in `/boot/firmware/config.txt`). Legacy `fbtft` `/dev/fb1` SPI overlays without DRM/KMS cannot start a Wayland compositor.
 
