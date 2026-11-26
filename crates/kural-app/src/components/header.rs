@@ -62,7 +62,13 @@ pub fn TopHeader() -> Element {
                         "←"
                     }
                 } else {
-                    div { class: "emblem-badge", aria_hidden: "true", "வ" }
+                    div { class: "emblem-badge", aria_hidden: "true",
+                        img {
+                            src: "/kural/app-logo.png",
+                            alt: "",
+                            class: "emblem-logo-img",
+                        }
+                    }
                 }
 
                 if screen == AppScreen::Start {
@@ -74,6 +80,11 @@ pub fn TopHeader() -> Element {
                     }
                 } else {
                     div { class: "{brand_pill_cls}",
+                        img {
+                            src: "/kural/app-logo.png",
+                            alt: "",
+                            class: "brand-logo-img",
+                        }
                         span {
                             class: "{offline_cls}",
                             role: "status",

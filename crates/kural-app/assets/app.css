@@ -275,14 +275,27 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
   width: 40px;
   height: 40px;
   border-radius: 9999px;
-  background: linear-gradient(135deg, #FFB300 0%, #FF6A00 100%);
-  color: #1A1100;
-  font-weight: 800;
-  font-size: 20px;
+  background: transparent;
+  overflow: hidden;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+}
+.emblem-logo-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 9999px;
+  display: block;
+}
+.brand-logo-img {
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
+  border-radius: 9999px;
+  flex-shrink: 0;
+  display: block;
 }
 
 .brand-pill {
@@ -1249,6 +1262,9 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
   pointer-events: none;
 }
 
+/* Force 3.5"-only panes/pagers/mode-strip hidden across Tier 1 (Desktop) & Tier 2 (7") */
+.pi-only { display: none !important; }
+
 /* ============================================================================
    Layout Mode C — 7-Inch Raspberry Pi LCD (800x480 DSI & 1024x600 HDMI)
    2-column horizontal split + bottom voice dock. Placed BEFORE Tier 3 (480x320)
@@ -1257,19 +1273,21 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
 @media (max-width: 1079px), (max-height: 639px) {
   .app-header,
   .pi-header-start {
-    height: 48px;
-    min-height: 48px;
-    padding: 4px 14px;
+    height: 46px;
+    min-height: 46px;
+    padding: 3px 14px;
     gap: 8px;
+    flex-wrap: nowrap;
   }
   .header-cluster {
     flex-wrap: nowrap;
     gap: 8px;
   }
   #main-header.pi-header-start .offline-dot.pi-only {
-    display: inline-block;
+    display: inline-block !important;
   }
   .emblem-badge { width: 34px; height: 34px; font-size: 17px; }
+  .brand-logo-img { width: 18px; height: 18px; }
   .icon-circle-btn,
   .kural-card-header .icon-circle-btn,
   .royal-card-secondary .icon-circle-btn {
@@ -1299,88 +1317,110 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
   .star-pill, .streak-pill { padding: 3px 9px; font-size: 12px; }
   .filter-banner-chip { min-height: 38px; padding: 0 10px; font-size: 11px; }
 
-  /* S1 Start Screen */
-  .pi-main-start { padding: 6px 14px; }
+  /* S1 Start Screen — strict 2-column horizontal grid + 3-col age grid */
+  .pi-main-start { padding: 4px 14px; min-height: 0; overflow: hidden; }
   .pi-zone-2 {
-    grid-template-columns: 5fr 7fr;
-    gap: 14px;
+    display: grid !important;
+    grid-template-columns: 5fr 7fr !important;
+    flex-direction: unset !important;
+    gap: 12px;
     align-items: center;
     height: 100%;
   }
   .pi-hero-col {
+    min-width: 0;
+    min-height: 0;
     align-items: center;
     text-align: center;
     justify-content: center;
-    gap: 6px;
+    gap: 5px;
   }
-  .pi-portrait-wrap { width: 124px; height: 124px; padding: 3px; }
+  .pi-portrait-wrap { width: 116px; height: 116px; padding: 3px; }
   .pi-badge-full { font-size: 12px; padding: 3px 10px; }
-  .pi-hero-title { font-size: 22px; line-height: 1.15; }
+  .pi-hero-title { font-size: 21px; line-height: 1.15; }
   .pi-tagline { font-size: 14px; line-height: 1.3; }
   .pi-hero-intro {
-    font-size: 13px;
-    line-height: 1.35;
+    font-size: 12.5px;
+    line-height: 1.32;
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
-  .pi-right-col { gap: 10px; min-height: 0; }
-  .pi-voice-card { padding: 12px 16px; gap: 6px; border-radius: 18px; }
-  .pi-mic-btn { width: 78px; height: 78px; }
+  .pi-right-col { gap: 8px; min-width: 0; min-height: 0; }
+  .pi-voice-card { padding: 10px 14px; gap: 6px; border-radius: 18px; }
+  .pi-mic-btn { width: 74px; height: 74px; }
   .pi-mic-label { font-size: 12px; }
-  .pi-hint-full { font-size: 13px; line-height: 1.35; }
+  .pi-hint-full { font-size: 13px; line-height: 1.32; }
   .detect-continue-btn { min-height: 38px; }
-  .pi-manual-wrap { gap: 6px; }
+  .pi-manual-wrap { gap: 5px; min-width: 0; }
   .pi-divider { font-size: 12px; }
-  .pi-age-grid { gap: 10px; }
-  .pi-age-card { min-height: 64px; padding: 8px 8px; gap: 4px; border-radius: 14px; }
-  .pi-age-icon { width: 30px; height: 30px; }
+  .pi-age-grid {
+    display: grid !important;
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+    gap: 8px;
+  }
+  .pi-age-card { min-height: 62px; padding: 7px 8px; gap: 3px; border-radius: 14px; }
+  .pi-age-icon { width: 28px; height: 28px; }
   .pi-age-title { font-size: 14px; }
   .pi-card-sub {
     font-size: 11px;
-    line-height: 1.25;
+    line-height: 1.22;
     display: -webkit-box;
     -webkit-line-clamp: 1;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
-  .pi-footer { height: 42px; }
+  .pi-footer { height: 40px; }
   .status-footer-pill { padding: 4px 12px; font-size: 12px; }
 
-  /* S2/S3/S4 Main Content Stage (7fr 5fr split) */
+  /* S2/S3/S4 Main Content Stage — strict 7fr/5fr horizontal split (zero stacking) */
   .main-stage {
-    grid-template-columns: repeat(12, minmax(0, 1fr));
+    display: grid !important;
+    grid-template-columns: 7fr 5fr !important;
+    flex-direction: unset !important;
+    align-items: stretch;
     gap: 12px;
     padding: 6px 14px;
+    flex: 1 1 auto;
     min-height: 0;
     overflow: hidden;
   }
-  .adult-main-col { grid-column: span 7; }
-  .adult-side-col { grid-column: span 5; }
-  .col-span-7, .col-span-5, .col-span-6 { gap: 8px; min-height: 0; }
+  .col-span-7,
+  .col-span-5,
+  .col-span-6,
+  .adult-main-col,
+  .adult-side-col {
+    grid-column: auto !important;
+    min-width: 0;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    overflow: hidden;
+  }
 
-  .clay-banner { padding: 6px 12px; border-radius: 16px; border-bottom-width: 3px; }
-  .clay-banner img { width: 32px !important; height: 32px !important; }
+  .clay-banner { padding: 5px 10px; border-radius: 16px; border-bottom-width: 3px; }
+  .clay-banner img { width: 30px !important; height: 30px !important; }
   .clay-banner p { font-size: 13px !important; }
 
   .clay-card, .royal-card-primary {
-    padding: 10px 14px;
+    padding: 8px 12px;
     border-radius: 18px;
   }
   .col-span-5 .clay-card {
-    padding: 8px 12px !important;
+    padding: 7px 12px !important;
     border-radius: 16px;
     border-bottom-width: 4px;
   }
   .col-span-5 .clay-card h2,
   .col-span-5 .clay-card h3 {
-    font-size: 16px !important;
+    font-size: 15.5px !important;
     line-height: 1.25 !important;
   }
   .col-span-5 .clay-card p {
     font-size: 12px !important;
-    line-height: 1.3 !important;
+    line-height: 1.28 !important;
     margin-top: 2px !important;
     display: -webkit-box;
     -webkit-line-clamp: 2;
@@ -1388,22 +1428,27 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
     overflow: hidden;
   }
   .royal-card-secondary {
-    padding: 10px 12px;
+    padding: 8px 12px;
     border-radius: 16px;
     border-bottom-width: 4px;
   }
-  .royal-seal { width: 42px; height: 42px; font-size: 20px; border-radius: 12px; }
-  .kural-center-verse { padding: 4px 6px; }
+  .royal-seal { width: 40px; height: 40px; font-size: 19px; border-radius: 12px; }
+  .kural-center-verse { padding: 3px 6px; }
   .adult-main-col .kural-center-verse { flex: 0 0 auto; padding: 2px 4px; }
-  #kural-couplet { font-size: 20px; line-height: 1.48; }
-  #kural-translit { font-size: 12px; margin-top: 3px; }
-  #kural-meaning { font-size: 14px; line-height: 1.45; margin-top: 6px; }
+  #kural-couplet { font-size: 19px; line-height: 1.44; }
+  #kural-translit { font-size: 11.5px; margin-top: 2px; }
+  #kural-meaning { font-size: 14px; line-height: 1.4; margin-top: 4px; }
 
+  .kural-actions-row {
+    flex-wrap: nowrap !important;
+    gap: 6px;
+  }
   .action-pill-btn {
-    min-height: 40px;
-    height: 40px;
-    padding: 0 12px;
-    font-size: 13px;
+    min-height: 38px;
+    height: 38px;
+    padding: 0 11px;
+    font-size: 12.5px;
+    white-space: nowrap;
   }
   .pager-btn {
     min-width: 38px;
@@ -1431,7 +1476,7 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
   .tags-chips-row::-webkit-scrollbar { display: none; }
 
   /* Adult commentary box & scholarly right column */
-  .comm-box { padding: 8px 10px; margin: 4px 0; }
+  .comm-box { padding: 7px 10px; margin: 3px 0; overflow: hidden; }
   .comm-tabs-row {
     flex-wrap: nowrap;
     overflow-x: auto;
@@ -1451,31 +1496,33 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
     white-space: nowrap;
     flex-shrink: 0;
   }
-  #comm-body { font-size: 14px !important; line-height: 1.45 !important; }
+  #comm-body { font-size: 14px !important; line-height: 1.42 !important; }
   .adult-bookmarks-list { overflow-y: auto; flex: 1; min-height: 0; }
   .result-row-btn { min-height: 38px !important; padding: 4px 10px; font-size: 13px; }
-  .royal-subcard { padding: 6px 10px; min-height: 40px; }
+  .royal-subcard { padding: 6px 10px; min-height: 38px; }
 
-  /* Bottom Voice & Quick-Action Dock = 58px, controls >= 40px */
+  /* Bottom Voice & Quick-Action Dock = 54px, single horizontal row */
   .desktop-footer-dock {
-    height: 58px;
-    min-height: 58px;
-    padding: 4px 14px 6px;
+    height: 54px;
+    min-height: 54px;
+    padding: 3px 14px;
     gap: 8px;
+    flex-wrap: nowrap;
   }
   .dock-pill-btn {
-    min-height: 40px;
+    min-height: 38px;
+    height: 38px;
     padding: 4px 12px;
     font-size: 12px;
   }
   .voice-bar-btn {
-    min-height: 48px;
-    height: 48px;
+    min-height: 46px;
+    height: 46px;
     padding: 0 16px;
     font-size: 13px;
     box-shadow: 0 0 0 3px rgba(230, 192, 104, 0.35), 0 6px 16px rgba(255, 106, 0, 0.38);
   }
-  .speed-pill-group { min-height: 40px; padding: 2px 4px; }
+  .speed-pill-group { min-height: 40px; padding: 1px 4px; }
   .speed-chip {
     min-height: 38px;
     padding: 0 8px;
@@ -1487,7 +1534,7 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
   /* Shared Modals for 800x480 & 1024x600 */
   .modal-card {
     width: min(740px, 94vw);
-    max-height: calc(100dvh - 36px);
+    max-height: calc(100dvh - 32px);
     padding: 10px 14px;
     gap: 8px;
   }
@@ -1502,13 +1549,13 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
     align-items: center;
   }
   .quiz-option-btn { min-height: 44px; padding: 6px 10px; font-size: 13px; }
-  #voice-hud, #toast-banner { bottom: 64px; font-size: 13px; }
+  #voice-hud, #toast-banner { bottom: 60px; font-size: 13px; }
 }
 
 /* Hide overflowing center division links at <= 960px & compact 800x480 alignment */
 @media (max-width: 960px) {
   .age-nav { display: none !important; }
-  .pi-portrait-wrap { width: 104px; height: 104px; }
+  .pi-portrait-wrap { width: 96px; height: 96px; }
   .pi-badge-full { display: none; }
   .pi-badge-short {
     display: inline-flex;
@@ -1522,9 +1569,11 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
   .pi-card-sub { display: none; }
   .pi-age-range { display: block; font-size: 11px; color: var(--text-muted); }
 
-  #kural-couplet { font-size: 18px; line-height: 1.45; }
+  .kural-div-pill { max-width: 195px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  #kural-couplet { font-size: 17px; line-height: 1.4; }
   .royal-seal { width: 38px; height: 38px; font-size: 18px; }
-  .action-pill-btn { padding: 0 10px; gap: 4px; font-size: 12px; }
+  .action-pill-btn { padding: 0 9px; gap: 4px; font-size: 12px; }
+  .replay-text { display: none !important; }
   .desktop-footer-dock .dock-pill-btn span {
     max-width: 100px;
     overflow: hidden;
@@ -1532,7 +1581,7 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
     white-space: nowrap;
   }
   .screen-kids .desktop-footer-dock #sound-toggle span:nth-child(2) { display: none; }
-  .voice-bar-btn { max-width: 220px; padding: 0 12px; }
+  .voice-bar-btn { max-width: 215px; padding: 0 12px; }
   .voice-bar-btn span {
     overflow: hidden;
     text-overflow: ellipsis;
@@ -1540,28 +1589,111 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
   }
 }
 
-@media (max-width: 1079px) and (max-height: 520px), (max-height: 520px) {
-  .clay-card, .royal-card-primary { padding: 8px 12px; }
-  .royal-card-secondary { padding: 7px 10px; }
+/* Extra-compact vertical fit for 800x480 DSI panel & 800x437 windowed preview */
+@media (max-height: 520px) {
+  .pi-mic-btn { width: 68px; height: 68px; }
+  .pi-mic-label { font-size: 11px; }
+  .pi-voice-card { padding: 8px 12px; gap: 4px; }
+  .pi-age-card { min-height: 60px; height: 74px; padding: 5px 6px; }
+  .pi-hero-title { font-size: 20px; }
+
+  .col-span-7, .col-span-5, .col-span-6, .adult-main-col, .adult-side-col { gap: 6px; }
+  .clay-card, .royal-card-primary { padding: 6px 10px; }
+  .royal-card-secondary { padding: 6px 10px; }
+  .clay-banner { padding: 4px 10px; }
+
+  /* Youth right-col cards strictly bounded for 325px stage height */
+  .youth-analysis-card { padding: 5px 10px !important; gap: 3px !important; }
+  .youth-analysis-card h2 {
+    font-size: 13px !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .youth-analysis-card > p.line-clamp-2 { -webkit-line-clamp: 1; }
+  .youth-analysis-card p { font-size: 12px !important; line-height: 1.26 !important; }
+  .youth-analysis-card .royal-subcard { padding: 4px 8px; }
+  .youth-tags-card { padding: 5px 10px !important; gap: 4px !important; }
+  .youth-tags-card .royal-subcard {
+    min-height: 40px;
+    padding: 4px 8px;
+    overflow: hidden;
+  }
+  .youth-tags-card .royal-subcard div { min-width: 0; overflow: hidden; }
+  .youth-tags-card .royal-subcard span,
+  .youth-tags-card .royal-subcard p {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 11px !important;
+    line-height: 1.25 !important;
+    margin-top: 1px !important;
+  }
+
+  /* Adult left-col verse, English translation, & commentary strictly bounded */
+  .adult-main-col #kural-couplet { font-size: 16px; line-height: 1.35; }
   .adult-main-col #kural-translit {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
     max-width: 100%;
+    font-size: 11px;
+    margin-top: 1px;
   }
-  #comm-body {
+  .adult-main-col .kural-center-verse > p.desktop-only {
+    font-size: 12px !important;
+    line-height: 1.26 !important;
+    margin-top: 2px !important;
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 1;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    max-width: 100%;
   }
-  .adult-side-col .line-clamp-3 { -webkit-line-clamp: 2; }
-  .adult-side-col .quiz-2x2-grid { gap: 5px; }
-  .adult-side-col .royal-subcard p:last-child {
+  .comm-box { padding: 5px 8px; margin: 2px 0; }
+  .comm-tabs-row { margin-bottom: 3px; }
+  .royal-fallback-banner {
+    padding: 2px 8px;
+    font-size: 11px;
+    margin-bottom: 3px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
   }
+  #comm-body {
+    font-size: 14px !important;
+    line-height: 1.35 !important;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* Adult right-col Reflection + Themes + Bookmarks strictly bounded */
+  .adult-reflection-card h2 {
+    font-size: 13px !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .adult-reflection-card p.line-clamp-3 {
+    -webkit-line-clamp: 2;
+    font-size: 12px !important;
+    line-height: 1.28 !important;
+    margin-top: 2px !important;
+  }
+  .adult-themes-card h3 { font-size: 12px !important; margin-bottom: 4px !important; }
+  .adult-themes-card .quiz-2x2-grid { gap: 4px; }
+  .adult-themes-card .royal-subcard { padding: 4px 8px; min-height: 38px; }
+  .adult-themes-card .royal-subcard p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 1px !important;
+  }
+  .adult-bookmarks-card { gap: 4px !important; }
+  .adult-bookmarks-card h3 { font-size: 12px !important; }
 }
 
 /* ============================================================================
@@ -1589,6 +1721,7 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
     padding: 1px 8px !important;
   }
   .emblem-badge { width: 28px !important; height: 28px !important; font-size: 14px !important; }
+  .brand-logo-img { width: 16px !important; height: 16px !important; }
   .icon-circle-btn,
   .kural-card-header .icon-circle-btn {
     width: 38px !important;

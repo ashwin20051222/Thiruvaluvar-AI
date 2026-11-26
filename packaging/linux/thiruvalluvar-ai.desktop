@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Thiruvalluvar AI
+Name[ta]=திருவள்ளுவர் AI
+GenericName=Offline Thirukkural Companion
+GenericName[ta]=இணையமற்ற திருக்குறள் தோழன்
+Comment=100% offline bilingual Tamil & English Thirukkural companion with voice interaction
+Comment[ta]=குரல் வழிகாட்டலுடன் இணையம் இன்றி இயங்கும் திருக்குறள் செயலி
+Exec=thiruvalluvar-ai
+TryExec=thiruvalluvar-ai
+Icon=thiruvalluvar-ai
+Terminal=false
+Categories=Education;Literature;AudioVideo;
+Keywords=Thirukkural;Tamil;Philosophy;Offline;AI;
+StartupNotify=true
+StartupWMClass=thiruvalluvar-ai
+

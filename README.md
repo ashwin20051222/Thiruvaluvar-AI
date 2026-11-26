@@ -65,9 +65,9 @@ cargo run --release --bin kural-app -- --config config.toml --pi-preview      # 
 
 ## CLI Utilities
 
-- **GUI App (`kural-app`)**:
+- **GUI App (`thiruvalluvar-ai` / `kural-app`)**:
   ```text
-  kural-app [--config PATH] [--pi-preview | --pi7-preview | --pi7-hd-preview | --kiosk] [--verify-layout]
+  thiruvalluvar-ai [--config PATH] [--pi-preview | --pi7-preview | --pi7-hd-preview | --kiosk] [--verify-layout] [--version]
   ```
 - **Database & Vector CLI (`kural_cli`, feature `cli` in `kural-db`)**:
   ```bash
@@ -88,6 +88,44 @@ cargo run --release --bin kural-app -- --config config.toml --pi-preview      # 
   ```bash
   cargo run --release -p kural-ai --features cli --bin ai_cli -- benchmark --config config.toml
   ```
+
+---
+
+## Native Linux Desktop & Raspberry Pi Packages
+
+Build native `.deb` (Ubuntu/Debian/Raspberry Pi OS) and `.pkg.tar.zst` (Arch Linux) packages into `dist/packages/` (pure Rust + standard Linux tools, zero Python):
+
+```bash
+export CARGO_TARGET_DIR=/tmp/kural-build
+export CARGO_INCREMENTAL=0
+./scripts/build_all_packages.sh
+```
+
+Each package installs:
+- Binaries: `/usr/bin/thiruvalluvar-ai` (symlinked at `/usr/bin/kural-app`), `/usr/bin/thiruvalluvar-ai-audio-test`, `/usr/bin/thiruvalluvar-ai-cli`, `/usr/bin/kural-cli`, `/usr/bin/thiruvalluvar-ai-index-embeddings`
+- Read-only data & config: `/usr/share/thiruvalluvar-ai/{data/thirukkural.db,config.toml,scripts/download_fast_models.sh}` (user state is automatically stored in `$XDG_DATA_HOME/thiruvalluvar-ai/user_state.db`)
+- Desktop launcher, hicolor medallion icons (`32×32`–`512×512`), and systemd kiosk service (`thiruvalluvar-ai-kiosk.service`)
+
+### One-Command Installation
+
+- **Ubuntu / Debian (`amd64`)**:
+  ```bash
+  sudo apt install ./dist/packages/thiruvalluvar-ai_0.1.0_amd64.deb
+  ```
+- **Raspberry Pi OS 64-bit (`arm64` / `aarch64`)**:
+  ```bash
+  ./packaging/linux/build_deb.sh --arch arm64 --build && sudo apt install ./dist/packages/thiruvalluvar-ai_0.1.0_arm64.deb
+  ```
+- **Arch Linux (`x86_64` / `aarch64`)**:
+  ```bash
+  sudo pacman -U ./dist/packages/thiruvalluvar-ai-0.1.0-1-$(uname -m).pkg.tar.zst
+  ```
+
+To fetch optional offline voice & semantic models (`< 350 MB`) system-wide after installing:
+
+```bash
+sudo MODELS_DIR=/usr/share/thiruvalluvar-ai/models /usr/share/thiruvalluvar-ai/scripts/download_fast_models.sh
+```
 
 ---
 

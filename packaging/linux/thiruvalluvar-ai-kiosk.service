@@ -1,0 +1,40 @@
+[Unit]
+Description=Thiruvalluvar AI Pure-Rust Kiosk (Raspberry Pi Wayland Cage)
+Documentation=https://github.com/ashwin20051222/Thiruvaluvar-AI
+After=systemd-user-sessions.service sound.target
+Wants=sound.target
+
+[Service]
+Type=simple
+User=pi
+Group=pi
+SupplementaryGroups=audio video input render
+PAMName=login
+TTYPath=/dev/tty1
+StandardInput=tty-force
+StandardOutput=journal
+StandardError=journal
+UtmpIdentifier=tty1
+UtmpMode=user
+
+WorkingDirectory=/usr/share/thiruvalluvar-ai
+Environment=XDG_RUNTIME_DIR=/run/user/1000
+Environment=HOME=/home/pi
+Environment=XDG_DATA_HOME=/home/pi/.local/share
+Environment=KURAL_CONFIG=/usr/share/thiruvalluvar-ai/config.toml
+Environment=GST_AUDIO_SINK=fakesink
+Environment=WLR_LIBINPUT_NO_DEVICES=1
+Environment=NO_AT_BRIDGE=1
+Environment=WEBKIT_DISABLE_DMABUF_RENDERER=1
+
+ExecStart=/usr/bin/cage -- /usr/bin/thiruvalluvar-ai --kiosk
+Restart=always
+RestartSec=2
+TimeoutStopSec=5
+
+MemoryHigh=700M
+MemoryMax=850M
+
+[Install]
+WantedBy=graphical.target
+

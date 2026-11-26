@@ -1,0 +1,105 @@
+# Maintainer: Thiruvalluvar AI Contributors <https://github.com/ashwin20051222/Thiruvaluvar-AI>
+pkgname=thiruvalluvar-ai
+pkgver=0.1.0
+pkgrel=1
+pkgdesc="100% offline bilingual Tamil & English Thirukkural companion with voice interaction"
+arch=('x86_64' 'aarch64')
+url="https://github.com/ashwin20051222/Thiruvaluvar-AI"
+license=('Apache-2.0')
+depends=('webkit2gtk-4.1' 'gtk3' 'alsa-lib' 'espeak-ng' 'noto-fonts')
+optdepends=(
+    'alsa-utils: ALSA mixer and audio card diagnostic helpers'
+    'cage: Wayland compositor for single-app kiosk mode'
+    'libinput: touchscreen device diagnostics'
+)
+makedepends=('cargo' 'cmake' 'pkgconf')
+install=thiruvalluvar-ai.install
+options=('!lto' '!debug')
+
+_kural_src_root() {
+    if [[ -n "${KURAL_SRC_ROOT:-}" ]]; then
+        printf '%s\n' "${KURAL_SRC_ROOT}"
+    else
+        cd "${startdir}/../.." && pwd
+    fi
+}
+
+build() {
+    local src_root
+    src_root="$(_kural_src_root)"
+
+    export CARGO_TARGET_DIR="${CARGO_TARGET_DIR:-/tmp/kural-build}"
+    export CARGO_INCREMENTAL=0
+    if [[ "${CARGO_TARGET_DIR}" == *" "* ]]; then
+        printf 'ERROR: CARGO_TARGET_DIR (%s) must not contain spaces.\n' "${CARGO_TARGET_DIR}" >&2
+        return 1
+    fi
+
+    if [[ -n "${KURAL_PREBUILT_BIN_DIR:-}" ]] \
+        && [[ -x "${KURAL_PREBUILT_BIN_DIR}/thiruvalluvar-ai" ]] \
+        && [[ -x "${KURAL_PREBUILT_BIN_DIR}/audio_test" ]] \
+        && [[ -x "${KURAL_PREBUILT_BIN_DIR}/ai_cli" ]]; then
+        return 0
+    fi
+
+    if [[ "$(uname -m)" == "aarch64" ]]; then
+        export RUSTFLAGS="${RUSTFLAGS:-} -C target-cpu=cortex-a72"
+    fi
+
+    cargo build \
+        --manifest-path "${src_root}/Cargo.toml" \
+        --release \
+        --bin thiruvalluvar-ai \
+        --bin audio_test \
+        --bin ai_cli \
+        --bin kural_cli \
+        --bin index_embeddings
+}
+
+package() {
+    local src_root bin_dir
+    src_root="$(_kural_src_root)"
+    bin_dir="${KURAL_PREBUILT_BIN_DIR:-${CARGO_TARGET_DIR:-/tmp/kural-build}/release}"
+
+    install -Dm755 "${bin_dir}/thiruvalluvar-ai" "${pkgdir}/usr/bin/thiruvalluvar-ai"
+    ln -s thiruvalluvar-ai "${pkgdir}/usr/bin/kural-app"
+    install -Dm755 "${bin_dir}/audio_test" "${pkgdir}/usr/bin/thiruvalluvar-ai-audio-test"
+    install -Dm755 "${bin_dir}/ai_cli" "${pkgdir}/usr/bin/thiruvalluvar-ai-cli"
+
+    if [[ -x "${bin_dir}/kural_cli" ]]; then
+        install -Dm755 "${bin_dir}/kural_cli" "${pkgdir}/usr/bin/kural-cli"
+    fi
+    if [[ -x "${bin_dir}/index_embeddings" ]]; then
+        install -Dm755 "${bin_dir}/index_embeddings" "${pkgdir}/usr/bin/thiruvalluvar-ai-index-embeddings"
+    fi
+
+    install -Dm644 "${src_root}/data/thirukkural.db" "${pkgdir}/usr/share/thiruvalluvar-ai/data/thirukkural.db"
+    install -Dm644 "${src_root}/packaging/linux/config.package.toml" "${pkgdir}/usr/share/thiruvalluvar-ai/config.toml"
+    install -Dm755 "${src_root}/scripts/download_fast_models.sh" "${pkgdir}/usr/share/thiruvalluvar-ai/scripts/download_fast_models.sh"
+    install -Dm644 "${src_root}/packaging/linux/thiruvalluvar-ai.desktop" "${pkgdir}/usr/share/applications/thiruvalluvar-ai.desktop"
+    install -Dm644 "${src_root}/packaging/linux/thiruvalluvar-ai-kiosk.service" "${pkgdir}/usr/lib/systemd/system/thiruvalluvar-ai-kiosk.service"
+
+    if [[ -f "${src_root}/README.md" ]]; then
+        install -Dm644 "${src_root}/README.md" "${pkgdir}/usr/share/doc/${pkgname}/README.md"
+    fi
+
+    local sz
+    for sz in 32 48 64 128 256 512; do
+        install -Dm644 \
+            "${src_root}/packaging/linux/icons/${sz}x${sz}.png" \
+            "${pkgdir}/usr/share/icons/hicolor/${sz}x${sz}/apps/thiruvalluvar-ai.png"
+    done
+    install -Dm644 \
+        "${src_root}/packaging/linux/icons/256x256.png" \
+        "${pkgdir}/usr/share/pixmaps/thiruvalluvar-ai.png"
+
+    if [[ "${KURAL_WITH_MODELS:-0}" == "1" ]] \
+        && [[ -d "${src_root}/models" ]] \
+        && [[ -n "$(find "${src_root}/models" -type f -print -quit 2>/dev/null)" ]]; then
+        install -dm755 "${pkgdir}/usr/share/thiruvalluvar-ai/models"
+        cp -a "${src_root}/models/." "${pkgdir}/usr/share/thiruvalluvar-ai/models/"
+        find "${pkgdir}/usr/share/thiruvalluvar-ai/models" -type d -exec chmod 0755 {} +
+        find "${pkgdir}/usr/share/thiruvalluvar-ai/models" -type f -exec chmod 0644 {} +
+    fi
+}
+

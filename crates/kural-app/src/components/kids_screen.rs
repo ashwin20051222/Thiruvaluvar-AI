@@ -208,7 +208,7 @@ pub fn KidsScreen() -> Element {
                                 disabled: !snap.has_replay_clip,
                                 onclick: move |_| ctx.dispatch(BackendCommand::ReplayAudio),
                                 ReplayIcon {}
-                                span { class: "desktop-only", "{tr(lang, \"மீண்டும்\", \"Replay\")}" }
+                                span { class: "desktop-only replay-text", "{tr(lang, \"மீண்டும்\", \"Replay\")}" }
                             }
                             button {
                                 r#type: "button",

@@ -6,6 +6,7 @@ use dioxus::desktop::{AssetRequest, RequestAsyncResponder};
 const APP_CSS: &[u8] = include_bytes!("../assets/app.css");
 const FONTS_CSS: &[u8] = include_bytes!("../assets/fonts.css");
 const PORTRAIT_PNG: &[u8] = include_bytes!("../assets/valluvar-portrait.png");
+const APP_LOGO_PNG: &[u8] = include_bytes!("../assets/app-logo.png");
 
 struct EmbeddedAsset {
     path: &'static str,
@@ -28,6 +29,11 @@ const ASSETS: &[EmbeddedAsset] = &[
         path: "valluvar-portrait.png",
         mime: "image/png",
         bytes: PORTRAIT_PNG,
+    },
+    EmbeddedAsset {
+        path: "app-logo.png",
+        mime: "image/png",
+        bytes: APP_LOGO_PNG,
     },
     EmbeddedAsset {
         path: "fonts/font_1_cY9cfjeOW0NHpmOQXranrbDyu7hADpI.woff2",
@@ -176,6 +182,8 @@ mod tests {
         assert!(resolve_asset("/kural/fonts.css").is_some());
         let (_, png) = resolve_asset("/kural/valluvar-portrait.png").expect("portrait png");
         assert!(png.starts_with(b"\x89PNG\r\n\x1a\n"));
+        let (_, logo_png) = resolve_asset("/kural/app-logo.png").expect("app logo png");
+        assert!(logo_png.starts_with(b"\x89PNG\r\n\x1a\n"));
 
         let http_scheme = ["http", "://"].concat();
         let https_scheme = ["https", "://"].concat();

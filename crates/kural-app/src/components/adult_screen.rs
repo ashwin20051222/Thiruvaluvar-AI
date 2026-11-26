@@ -325,7 +325,7 @@ pub fn AdultScreen() -> Element {
                                 disabled: !snap.has_replay_clip,
                                 onclick: move |_| ctx.dispatch(BackendCommand::ReplayAudio),
                                 ReplayIcon {}
-                                span { class: "desktop-only", "{tr(lang, \"மீண்டும்\", \"Replay\")}" }
+                                span { class: "desktop-only replay-text", "{tr(lang, \"மீண்டும்\", \"Replay\")}" }
                             }
                             if (pi_tab == CompactTabHint::Commentary || pi_tab == CompactTabHint::Study)
                                 && active_pages.len() > 1
@@ -364,7 +364,7 @@ pub fn AdultScreen() -> Element {
                 // Right 6 cols (Desktop) / 5fr (7" Pi)
                 section { class: "col-span-6 desktop-only adult-side-col",
                     // Daily Wisdom Reflection
-                    div { class: "royal-card-secondary",
+                    div { class: "royal-card-secondary adult-reflection-card",
                         div { style: "display:flex; justify-content:space-between; align-items:center;",
                             h2 { style: "font-size:15px; font-weight:800; color:var(--primary);",
                                 "{tr(lang, \"தினசரி ஞான சிந்தனை\", \"Daily Wisdom Reflection\")}"
@@ -384,7 +384,7 @@ pub fn AdultScreen() -> Element {
                     }
 
                     // 4 Research Theme Subcards (2x2)
-                    div { class: "royal-card-secondary",
+                    div { class: "royal-card-secondary adult-themes-card",
                         h3 { style: "font-size:13px; font-weight:800; margin-bottom:8px;",
                             "{tr(lang, \"ஆய்வுத் தலைப்புகள்\", \"Research Themes\")}"
                         }
@@ -420,7 +420,7 @@ pub fn AdultScreen() -> Element {
                     }
 
                     // Saved Bookmarks Card
-                    div { class: "royal-card-secondary", style: "flex:1; min-height:0; display:flex; flex-direction:column; gap:6px;",
+                    div { class: "royal-card-secondary adult-bookmarks-card", style: "flex:1; min-height:0; display:flex; flex-direction:column; gap:6px;",
                         div { style: "display:flex; justify-content:space-between; align-items:center;",
                             h3 { style: "font-size:13px; font-weight:800;",
                                 "★ {tr(lang, \"சேமித்த குறள்கள்\", \"Saved Bookmarks\")} ({snap.bookmarks.len()})"

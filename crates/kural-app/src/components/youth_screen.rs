@@ -300,7 +300,7 @@ pub fn YouthScreen() -> Element {
                                 disabled: !snap.has_replay_clip,
                                 onclick: move |_| ctx.dispatch(BackendCommand::ReplayAudio),
                                 ReplayIcon {}
-                                span { class: "desktop-only", "{tr(lang, \"மீண்டும்\", \"Replay\")}" }
+                                span { class: "desktop-only replay-text", "{tr(lang, \"மீண்டும்\", \"Replay\")}" }
                             }
                             if pi_tab == CompactTabHint::Analysis && pi_pages.len() > 1 {
                                 div { class: "pager-row pi-only",
@@ -341,9 +341,9 @@ pub fn YouthScreen() -> Element {
                     }
                 }
 
-                // Right 5 cols (Desktop only): Analytics, Takeaway, Topic Tags Search/Chips, Daily Quiz CTA
+                // Right 5 cols (Desktop & 7" Pi): Analytics, Takeaway, Topic Tags Search/Chips, Daily Quiz CTA
                 section { class: "col-span-5 desktop-only",
-                    div { class: "royal-card-secondary", style: "display:flex; flex-direction:column; gap:8px;",
+                    div { class: "royal-card-secondary youth-analysis-card", style: "display:flex; flex-direction:column; gap:8px;",
                         div { style: "display:flex; justify-content:space-between; align-items:center;",
                             h2 { style: "font-size:15px; font-weight:800; color:var(--primary);",
                                 "{tr(lang, \"இளைஞர் பகுப்பாய்வு & வழிகாட்டுதல்\", \"Youth Analysis & Action Tip\")}"
@@ -371,7 +371,7 @@ pub fn YouthScreen() -> Element {
                     }
 
                     // Topic Tags + Quick Quiz Card
-                    div { class: "royal-card-secondary", style: "flex:1; min-height:0; display:flex; flex-direction:column; justify-content:space-between; gap:8px;",
+                    div { class: "royal-card-secondary youth-tags-card", style: "flex:1; min-height:0; display:flex; flex-direction:column; justify-content:space-between; gap:8px;",
                         div { style: "display:flex; flex-direction:column; gap:6px;",
                             div { style: "display:flex; align-items:center; justify-content:space-between; gap:8px;",
                                 h3 { style: "font-size:13px; font-weight:800;",
