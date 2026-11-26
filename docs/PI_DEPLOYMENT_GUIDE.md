@@ -152,6 +152,20 @@ sudo systemctl start thiruvalluvar-ai.service
 
 `install_to_opt.sh` stops any active service before overwriting binaries, preserves an existing `/opt/thiruvalluvar-ai/config.toml` (saving the bundle template as `config.toml.default`), sets ownership, rewrites `User=` in `/etc/systemd/system/thiruvalluvar-ai.service`, reloads `systemd`, and enables the unit.
 
+### Updating a `.deb` / `.pkg.tar.zst` System Installation
+
+If you installed **Thiruvalluvar AI** via the native `.deb` (Raspberry Pi OS / Debian / Ubuntu) or `.pkg.tar.zst` (Arch Linux) package under `/usr/share/thiruvalluvar-ai`, run:
+
+```bash
+# Rebuild packages + ai_cli, upgrade system package, patch tts/ta metadata, re-index embeddings, and run --tts-check
+./scripts/update_installed_app.sh
+
+# Or install the latest package already in dist/packages/ without rebuilding:
+./scripts/update_installed_app.sh --skip-build
+```
+
+`update_installed_app.sh` automatically detects `pacman` or `dpkg`/`apt-get`, patches `/usr/share/thiruvalluvar-ai/models/tts/ta` in place with `ai_cli patch-piper-onnx`, runs `/usr/bin/thiruvalluvar-ai-index-embeddings --db /usr/share/thiruvalluvar-ai/data/thirukkural.db --models-dir /usr/share/thiruvalluvar-ai/models/embeddings`, and verifies TTS via `ai_cli --tts-check --models-dir /usr/share/thiruvalluvar-ai/models`.
+
 ---
 
 ## 6. Service Operations & Troubleshooting

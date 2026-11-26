@@ -2,6 +2,25 @@ use crate::error::AudioError;
 use crate::types::AudioDeviceInfo;
 use cpal::traits::{DeviceTrait, HostTrait};
 
+/// Default hardware output sample rate (`48 kHz`) used when no hardware sink is open.
+pub const DEFAULT_OUTPUT_SAMPLE_RATE_HZ: u32 = 48_000;
+
+/// Default hardware output channel count (`2` = stereo) used when no hardware sink is open.
+pub const DEFAULT_OUTPUT_CHANNELS: u16 = 2;
+
+/// Inspect the actual `(sample_rate_hz, channels)` of an opened [`rodio::MixerDeviceSink`],
+/// defaulting cleanly to `(48_000, 2)` when queried standalone (`None`) or via simulated output.
+#[must_use]
+pub fn query_output_device_format(sink: Option<&rodio::MixerDeviceSink>) -> (u32, u16) {
+    match sink {
+        Some(sink) => {
+            let cfg = sink.config();
+            (cfg.sample_rate().get(), cfg.channel_count().get())
+        }
+        None => (DEFAULT_OUTPUT_SAMPLE_RATE_HZ, DEFAULT_OUTPUT_CHANNELS),
+    }
+}
+
 /// Enumerate all available input and output audio devices on the default host.
 pub fn list_audio_devices() -> Result<Vec<AudioDeviceInfo>, AudioError> {
     let host = cpal::default_host();
@@ -178,5 +197,10 @@ mod tests {
         let _ = find_input_device("__nonexistent_kural_test_device__");
         let _ = find_output_device("default");
         let _ = find_output_device("__nonexistent_kural_test_device__");
+    }
+
+    #[test]
+    fn query_output_device_format_defaults_to_48k_stereo_when_standalone() {
+        assert_eq!(query_output_device_format(None), (48_000, 2));
     }
 }

@@ -124,9 +124,67 @@ fetch_file \
     "${TA_TTS_BASE}/ta_IN-ValluvarNeural-medium.onnx.json" \
     "${MODELS_DIR}/tts/ta/ta_IN-ValluvarNeural-medium.onnx.json"
 
+snapshot_ta_tts_checksums() {
+    if [[ ! -d "${MODELS_DIR}/tts/ta" ]]; then
+        return 0
+    fi
+    (
+        cd "${MODELS_DIR}/tts/ta"
+        find . -type f \( -name "*.onnx" -o -name "*.json" -o -name "tokens.txt" \) \
+            | sort | xargs -r sha256sum
+    )
+}
+
+patch_tamil_piper_onnx() {
+    local ta_dir="${MODELS_DIR}/tts/ta"
+    local ai_cli_bin=""
+    local target_dir="${CARGO_TARGET_DIR:-/tmp/kural-build}"
+
+    if [[ -x "${target_dir}/release/ai_cli" ]]; then
+        ai_cli_bin="${target_dir}/release/ai_cli"
+    elif [[ -x "/tmp/kural-build/release/ai_cli" ]]; then
+        ai_cli_bin="/tmp/kural-build/release/ai_cli"
+    elif command -v thiruvalluvar-ai-ai-cli >/dev/null 2>&1; then
+        ai_cli_bin="$(command -v thiruvalluvar-ai-ai-cli)"
+    elif command -v thiruvalluvar-ai-cli >/dev/null 2>&1; then
+        ai_cli_bin="$(command -v thiruvalluvar-ai-cli)"
+    elif command -v ai_cli >/dev/null 2>&1; then
+        ai_cli_bin="$(command -v ai_cli)"
+    fi
+
+    if [[ -n "${ai_cli_bin}" ]]; then
+        if "${ai_cli_bin}" --help 2>/dev/null | grep -q 'patch-piper-onnx'; then
+            log "patching Tamil Piper ONNX metadata via ${ai_cli_bin}..."
+            "${ai_cli_bin}" patch-piper-onnx "${ta_dir}"
+        else
+            log "WARN: ${ai_cli_bin} does not support patch-piper-onnx; skipping Piper ONNX patch."
+        fi
+        return 0
+    fi
+
+    if command -v cargo >/dev/null 2>&1 && [[ -f "${ROOT_DIR}/Cargo.toml" ]]; then
+        log "patching Tamil Piper ONNX metadata via cargo run (ai_cli patch-piper-onnx)..."
+        if ! (
+            cd "${ROOT_DIR}"
+            CARGO_TARGET_DIR="${target_dir}" CARGO_INCREMENTAL=0 \
+                cargo run --release -p kural-ai --features cli --bin ai_cli -- \
+                patch-piper-onnx "${ta_dir}"
+        ); then
+            log "WARN: cargo run ai_cli patch-piper-onnx failed (offline or missing toolchain); continuing without patching tts/ta."
+        fi
+        return 0
+    fi
+
+    log "WARN: ai_cli and Cargo toolchain unavailable; skipping patch-piper-onnx on ${ta_dir}."
+}
+
+TA_SUMS_BEFORE="$(snapshot_ta_tts_checksums)"
+patch_tamil_piper_onnx
+TA_SUMS_AFTER="$(snapshot_ta_tts_checksums)"
+
 # Verify or record SHA256 checksums for tamper/corruption detection on subsequent runs
 CHECKSUM_FILE="${MODELS_DIR}/SHA256SUMS"
-if [[ -f "${CHECKSUM_FILE}" ]]; then
+if [[ -f "${CHECKSUM_FILE}" ]] && [[ "${TA_SUMS_BEFORE}" == "${TA_SUMS_AFTER}" ]]; then
     log "verifying cached model checksums against ${CHECKSUM_FILE#"${ROOT_DIR}/"}..."
     (cd "${MODELS_DIR}" && sha256sum -c "${CHECKSUM_FILE}" >/dev/null)
 else

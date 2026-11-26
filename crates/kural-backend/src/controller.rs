@@ -1797,9 +1797,11 @@ impl BackendController {
         let nav_epoch = self.nav_epoch;
         let kural_number = self.state.current_kural.kural.number;
         let speed = effective_tts_speed(self.state.prefs.speech_speed, self.state.screen);
+        let speed_pct = (snap_speech_speed(speed) * 100.0).round() as u32;
         let content = chunks.join("\n");
+        let keyed_content = format!("s{speed_pct}:{content}");
         let u64_key = compute_tts_cache_key(
-            hash_tts_content(&content),
+            hash_tts_content(&keyed_content),
             lang_code(lang),
             persona_code,
         );

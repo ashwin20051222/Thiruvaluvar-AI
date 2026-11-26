@@ -13,13 +13,14 @@ use std::path::{Path, PathBuf};
 use std::time::Instant;
 
 use anyhow::{Context, Result};
-use clap::{Parser, Subcommand};
+use clap::{CommandFactory, Parser, Subcommand};
 use kural_ai::{
-    AgeClassifier, COUPLET_PAUSE_MS, SemanticExplainer, SpeechEngine, extract_vocal_tract_features,
-    parse_wav_pcm_mono_i16,
+    AgeClassifier, COUPLET_PAUSE_MS, SemanticExplainer, SpeechEngine, TtsEngine,
+    extract_vocal_tract_features, has_piper_vits_model, parse_wav_pcm_mono_i16,
+    patch_piper_onnx_dir,
 };
 use kural_audio::{CapturedAudio, PcmChunk};
-use kural_core::{AgeAiConfig, AgeGroup, AppConfig, Language, Scholar};
+use kural_core::{AgeAiConfig, AgeGroup, AiConfig, AppConfig, Language, Scholar};
 use kural_db::KuralDb;
 use tokio::sync::mpsc;
 use tokio_util::sync::CancellationToken;
@@ -31,8 +32,14 @@ use tokio_util::sync::CancellationToken;
     version
 )]
 struct Cli {
+    /// Verify offline Tamil + English TTS (backend, sample rate, samples, peak <= 0.90) and write `/tmp/kural_check_{ta,en}.wav`.
+    #[arg(long)]
+    tts_check: bool,
+    /// Models directory for `--tts-check` (default: from config.toml / `models`).
+    #[arg(long, alias = "model-dir")]
+    models_dir: Option<PathBuf>,
     #[command(subcommand)]
-    command: Cmd,
+    command: Option<Cmd>,
 }
 
 #[derive(Subcommand)]
@@ -73,11 +80,24 @@ enum Cmd {
         #[arg(long)]
         model_dir: Option<PathBuf>,
     },
+    /// Patch raw Piper `.onnx` files in-place with Sherpa-ONNX metadata_props and `tokens.txt`.
+    PatchPiperOnnx {
+        /// Directory containing Piper `.onnx` + `.onnx.json` model files.
+        dir: PathBuf,
+    },
 }
 
 fn main() -> Result<()> {
     let cli = Cli::parse();
-    match cli.command {
+    if cli.tts_check {
+        return cmd_tts_check(cli.models_dir);
+    }
+    let Some(command) = cli.command else {
+        Cli::command().print_help()?;
+        println!();
+        anyhow::bail!("missing subcommand or --tts-check flag");
+    };
+    match command {
         Cmd::Download => cmd_download(),
         Cmd::Benchmark { config } => cmd_benchmark(config),
         Cmd::Transcribe {
@@ -92,7 +112,90 @@ fn main() -> Result<()> {
             speed,
             model_dir,
         } => cmd_synthesize(&text, &lang, output.as_deref(), speed, model_dir),
+        Cmd::PatchPiperOnnx { dir } => cmd_patch_piper_onnx(&dir),
     }
+}
+
+fn cmd_patch_piper_onnx(dir: &Path) -> Result<()> {
+    let patched = patch_piper_onnx_dir(dir)?;
+    if patched.is_empty() {
+        println!(
+            "All Piper ONNX models under '{}' already have Sherpa-ONNX metadata and tokens.txt.",
+            dir.display()
+        );
+    } else {
+        for path in &patched {
+            println!("Patched: {}", path.display());
+        }
+    }
+    Ok(())
+}
+
+fn cmd_tts_check(models_dir_override: Option<PathBuf>) -> Result<()> {
+    let models_dir = resolve_models_dir(models_dir_override);
+    let mut engine = TtsEngine::new(&models_dir, Language::Tamil, &AiConfig::default())?;
+
+    let checks = [
+        (
+            Language::Tamil,
+            "ta",
+            "அகர முதல எழுத்தெல்லாம் ஆதி பகவன் முதற்றே உலகு",
+            Path::new("/tmp/kural_check_ta.wav"),
+        ),
+        (
+            Language::English,
+            "en",
+            "As all letters begin with A, so the world begins with God.",
+            Path::new("/tmp/kural_check_en.wav"),
+        ),
+    ];
+
+    for (lang, code, text, out_path) in checks {
+        engine.ensure_language(lang)?;
+        let backend = engine.tts_backend_name();
+        if has_piper_vits_model(&models_dir, lang) {
+            anyhow::ensure!(
+                backend == "sherpa-vits",
+                "expected 'sherpa-vits' backend for '{code}' under '{}', got '{backend}'",
+                models_dir.display()
+            );
+        }
+
+        let (tx, mut rx) = mpsc::channel::<PcmChunk>(16);
+        let cancel = CancellationToken::new();
+        let drain = std::thread::spawn(move || while rx.blocking_recv().is_some() {});
+        let collected = engine
+            .synthesize_streaming_collecting(&[text], lang, 1.0, &cancel, &tx)?
+            .with_context(|| format!("empty TTS synthesis output for '{code}'"))?;
+        drop(tx);
+        let _ = drain.join();
+
+        let (samples, sample_rate) = collected;
+        anyhow::ensure!(!samples.is_empty(), "zero audio samples for '{code}'");
+        anyhow::ensure!(sample_rate > 0, "invalid sample rate {sample_rate} for '{code}'");
+
+        let peak = samples
+            .iter()
+            .map(|&s| (f32::from(s) / 32767.0).abs())
+            .fold(0.0_f32, f32::max);
+        anyhow::ensure!(peak.is_finite(), "non-finite peak for '{code}'");
+        anyhow::ensure!(
+            peak <= 0.90,
+            "peak {peak:.4} exceeded 0.90 ceiling for '{code}'"
+        );
+
+        let wav_bytes = encode_wav_mono_i16(&samples, sample_rate);
+        std::fs::write(out_path, &wav_bytes)
+            .with_context(|| format!("writing check WAV '{}'", out_path.display()))?;
+
+        println!(
+            "[{code}] backend={backend} sample_rate={sample_rate} samples={} peak={peak:.4} -> {}",
+            samples.len(),
+            out_path.display()
+        );
+    }
+
+    Ok(())
 }
 
 fn cmd_download() -> Result<()> {

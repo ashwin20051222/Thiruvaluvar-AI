@@ -1,10 +1,11 @@
 //! Pure-Rust audio conditioning, resampling (`16 kHz` mono `f32`), and signal quality helpers.
 
+use std::collections::VecDeque;
 use std::f64::consts::PI;
 
 use audioadapter_buffers::direct::InterleavedSlice;
 use rubato::{
-    Async, FixedAsync, Resampler, SincInterpolationParameters, SincInterpolationType,
+    Async, FixedAsync, Indexing, Resampler, SincInterpolationParameters, SincInterpolationType,
     WindowFunction,
 };
 
@@ -12,6 +13,18 @@ use crate::AudioError;
 
 /// Target sample rate (`16 kHz`) used throughout the voice pipeline.
 pub const TARGET_SAMPLE_RATE_HZ: u32 = 16_000;
+
+/// Smooth soft-limiter ceiling applied to conditioned output PCM so DAC peaks never hard-clip.
+pub const OUTPUT_SOFT_LIMIT_CEILING: f32 = 0.84;
+
+/// Raised-cosine boundary fade duration (`10 ms`) for output PCM click/pop elimination.
+pub const OUTPUT_FADE_MS: u32 = 10;
+
+/// Linear threshold below which the output soft-limiter is unity gain (`<= 0.70` untouched).
+const OUTPUT_SOFT_LIMIT_KNEE: f32 = 0.70;
+
+/// Chunk size used for asynchronous output sinc resampling.
+const OUTPUT_RESAMPLER_CHUNK_FRAMES: usize = 256;
 
 /// Default peak amplitude threshold for clipping detection.
 pub const DEFAULT_CLIPPING_THRESHOLD: f32 = 0.99;
@@ -176,6 +189,35 @@ impl BiquadFilter {
     }
 }
 
+#[derive(Debug, Clone, Copy, Default)]
+struct DcBlocker {
+    x_prev: f64,
+    y_prev: f64,
+}
+
+impl DcBlocker {
+    fn process_sample(&mut self, x: f32) -> f32 {
+        if !x.is_finite() {
+            self.reset();
+            return 0.0;
+        }
+        let x_f64 = f64::from(x);
+        let y = x_f64 - self.x_prev + DC_BLOCKER_POLE * self.y_prev;
+        if !y.is_finite() {
+            self.reset();
+            return 0.0;
+        }
+        self.x_prev = x_f64;
+        self.y_prev = y;
+        y as f32
+    }
+
+    fn reset(&mut self) {
+        self.x_prev = 0.0;
+        self.y_prev = 0.0;
+    }
+}
+
 /// Continuous frame-by-frame audio conditioner for microphone capture.
 ///
 /// Applies in cascade:
@@ -184,8 +226,7 @@ impl BiquadFilter {
 /// 3. `50 Hz` (`Q = 8.0`) and `60 Hz` (`Q = 8.0`) mains hum biquad notch filters.
 #[derive(Debug, Clone)]
 pub struct AudioConditioner {
-    dc_x_prev: f64,
-    dc_y_prev: f64,
+    dc_blocker: DcBlocker,
     hpf_stage1: BiquadFilter,
     hpf_stage2: BiquadFilter,
     notch_50: BiquadFilter,
@@ -198,8 +239,7 @@ impl AudioConditioner {
     pub fn new(sample_rate_hz: u32) -> Self {
         let fs = sample_rate_hz as f32;
         Self {
-            dc_x_prev: 0.0,
-            dc_y_prev: 0.0,
+            dc_blocker: DcBlocker::default(),
             hpf_stage1: BiquadFilter::highpass_butterworth_2nd(
                 fs,
                 HPF_CUTOFF_HZ,
@@ -222,16 +262,8 @@ impl AudioConditioner {
             return 0.0;
         }
 
-        let x_f64 = f64::from(x);
-        let dc_y = x_f64 - self.dc_x_prev + DC_BLOCKER_POLE * self.dc_y_prev;
-        if !dc_y.is_finite() {
-            self.reset();
-            return 0.0;
-        }
-        self.dc_x_prev = x_f64;
-        self.dc_y_prev = dc_y;
-
-        let s1 = self.hpf_stage1.process_sample(dc_y as f32);
+        let dc_y = self.dc_blocker.process_sample(x);
+        let s1 = self.hpf_stage1.process_sample(dc_y);
         let s2 = self.hpf_stage2.process_sample(s1);
         let s3 = self.notch_50.process_sample(s2);
         self.notch_60.process_sample(s3)
@@ -246,8 +278,7 @@ impl AudioConditioner {
 
     /// Reset DC tracker and all biquad delay registers to `0.0`.
     pub fn reset(&mut self) {
-        self.dc_x_prev = 0.0;
-        self.dc_y_prev = 0.0;
+        self.dc_blocker.reset();
         self.hpf_stage1.reset();
         self.hpf_stage2.reset();
         self.notch_50.reset();
@@ -478,6 +509,415 @@ pub fn compute_snr_db(speech: &[f32], noise_floor_samples: &[f32]) -> f32 {
 #[must_use]
 pub fn pcm_i16_to_f32(samples: &[i16]) -> Vec<f32> {
     samples.iter().map(|&s| f32::from(s) / 32_768.0).collect()
+}
+
+/// Stateful pure-Rust output PCM conditioner for continuous streaming or single-utterance playback.
+///
+/// Applies in order:
+/// 1. `NaN`/`±Inf` sanitization to `0.0`,
+/// 2. 1-pole DC-blocking high-pass filter (`DC_BLOCKER_POLE = 0.995`),
+/// 3. High-quality `rubato::Async::<f32>::new_sinc` resampling from `src_rate_hz` to `dst_rate_hz`
+///    (bypassed when `src_rate_hz == dst_rate_hz`),
+/// 4. Smooth `tanh` knee soft-limiter capping output amplitude strictly at `0.84`,
+/// 5. `10 ms` raised-cosine (`0.5 * (1 - cos(pi * t))`) fade-in and fade-out at utterance boundaries,
+/// 6. Clean mono-to-interleaved channel adaptation for `dst_channels`.
+#[derive(Debug)]
+pub struct OutputPcmConditioner {
+    src_rate_hz: u32,
+    dst_rate_hz: u32,
+    dst_channels: usize,
+    dc_blocker: DcBlocker,
+    resampler: Option<Async<f32>>,
+    pending_in: Vec<f32>,
+    scratch_out: Vec<f32>,
+    trim_delay_remaining: usize,
+    total_in_frames: usize,
+    emitted_mono_frames: usize,
+    tail_buf: VecDeque<f32>,
+    fade_samples: usize,
+}
+
+impl OutputPcmConditioner {
+    /// Construct an output conditioner targeting exact hardware `(dst_rate_hz, dst_channels)`.
+    pub fn new(src_rate_hz: u32, dst_rate_hz: u32, dst_channels: u16) -> Result<Self, AudioError> {
+        if src_rate_hz == 0 || dst_rate_hz == 0 {
+            return Err(AudioError::StreamError(format!(
+                "output conditioning sample rates must be > 0 Hz (got {src_rate_hz} -> {dst_rate_hz})"
+            )));
+        }
+        if dst_channels == 0 {
+            return Err(AudioError::StreamError(
+                "output channel count must be >= 1".to_string(),
+            ));
+        }
+
+        let (resampler, trim_delay_remaining, scratch_len) = if src_rate_hz == dst_rate_hz {
+            (None, 0, 0)
+        } else {
+            let params = SincInterpolationParameters::new(32, WindowFunction::Blackman2)
+                .oversampling_factor(32)
+                .interpolation(SincInterpolationType::Linear);
+            let resampler = Async::<f32>::new_sinc(
+                f64::from(dst_rate_hz) / f64::from(src_rate_hz),
+                1.1,
+                &params,
+                OUTPUT_RESAMPLER_CHUNK_FRAMES,
+                1,
+                FixedAsync::Input,
+            )
+            .map_err(|err| {
+                AudioError::StreamError(format!("failed to create output sinc resampler: {err}"))
+            })?;
+            if resampler.output_frames_next() == 0 {
+                return Err(AudioError::StreamError(format!(
+                    "unsupported output sample rate ratio for {src_rate_hz} Hz -> {dst_rate_hz} Hz"
+                )));
+            }
+            let delay = resampler.output_delay();
+            let max_out = resampler.output_frames_max();
+            (Some(resampler), delay, max_out)
+        };
+
+        let fade_samples = ((dst_rate_hz as usize) * (OUTPUT_FADE_MS as usize)) / 1000;
+        Ok(Self {
+            src_rate_hz,
+            dst_rate_hz,
+            dst_channels: usize::from(dst_channels),
+            dc_blocker: DcBlocker::default(),
+            resampler,
+            pending_in: Vec::with_capacity(OUTPUT_RESAMPLER_CHUNK_FRAMES * 2),
+            scratch_out: vec![0.0_f32; scratch_len],
+            trim_delay_remaining,
+            total_in_frames: 0,
+            emitted_mono_frames: 0,
+            tail_buf: VecDeque::with_capacity(fade_samples * 2 + 64),
+            fade_samples,
+        })
+    }
+
+    /// Source sample rate in Hz.
+    #[must_use]
+    pub fn src_rate_hz(&self) -> u32 {
+        self.src_rate_hz
+    }
+
+    /// Push a chunk of mono `f32` samples and emit ready conditioned interleaved frames.
+    pub fn push_mono(&mut self, mono_samples: &[f32]) -> Result<Vec<f32>, AudioError> {
+        if mono_samples.is_empty() {
+            return Ok(Vec::new());
+        }
+        self.total_in_frames = self.total_in_frames.saturating_add(mono_samples.len());
+
+        if self.resampler.is_none() {
+            for &sample in mono_samples {
+                let clean = sanitize_output_sample(sample);
+                let dc_blocked = self.dc_blocker.process_sample(clean);
+                self.tail_buf.push_back(soft_limit_output(dc_blocked));
+            }
+            return Ok(self.drain_ready_interleaved());
+        }
+
+        self.pending_in.reserve(mono_samples.len());
+        for &sample in mono_samples {
+            let clean = sanitize_output_sample(sample);
+            self.pending_in.push(self.dc_blocker.process_sample(clean));
+        }
+
+        let mut consumed = 0usize;
+        if let Some(resampler) = &mut self.resampler {
+            while self.pending_in.len() - consumed >= resampler.input_frames_next() {
+                let in_frames = resampler.input_frames_next();
+                let out_frames_cap = resampler.output_frames_next();
+                if out_frames_cap == 0 {
+                    break;
+                }
+                if self.scratch_out.len() < out_frames_cap {
+                    self.scratch_out.resize(out_frames_cap, 0.0);
+                }
+
+                let in_slice = &self.pending_in[consumed..consumed + in_frames];
+                let in_adapter = InterleavedSlice::new(in_slice, 1, in_frames).map_err(|err| {
+                    AudioError::StreamError(format!("output resampler input error: {err}"))
+                })?;
+                let mut out_adapter = InterleavedSlice::new_mut(
+                    &mut self.scratch_out[..out_frames_cap],
+                    1,
+                    out_frames_cap,
+                )
+                .map_err(|err| {
+                    AudioError::StreamError(format!("output resampler output error: {err}"))
+                })?;
+
+                let (frames_in, frames_out) = resampler
+                    .process_into_buffer(&in_adapter, &mut out_adapter, None)
+                    .map_err(|err| {
+                        AudioError::StreamError(format!("output resampling error: {err}"))
+                    })?;
+
+                consumed += frames_in;
+                push_trimmed_soft_limited(
+                    &self.scratch_out[..frames_out],
+                    &mut self.trim_delay_remaining,
+                    &mut self.tail_buf,
+                );
+            }
+        }
+        if consumed > 0 {
+            self.pending_in.drain(..consumed);
+        }
+
+        Ok(self.drain_ready_interleaved())
+    }
+
+    /// Flush all buffered resampler frames, apply the `10 ms` raised-cosine fade-out, and return
+    /// the remaining conditioned interleaved frames.
+    pub fn finish(mut self) -> Result<Vec<f32>, AudioError> {
+        if self.total_in_frames == 0 {
+            return Ok(Vec::new());
+        }
+
+        let expected_total_out = if self.src_rate_hz == self.dst_rate_hz {
+            self.total_in_frames
+        } else {
+            (((self.total_in_frames as f64) * f64::from(self.dst_rate_hz)
+                / f64::from(self.src_rate_hz))
+            .round() as usize)
+                .max(1)
+        };
+
+        if let Some(resampler) = &mut self.resampler {
+            if !self.pending_in.is_empty() {
+                let rem = self.pending_in.len();
+                let out_frames_cap = resampler.output_frames_next();
+                if out_frames_cap > 0 {
+                    if self.scratch_out.len() < out_frames_cap {
+                        self.scratch_out.resize(out_frames_cap, 0.0);
+                    }
+                    let in_adapter =
+                        InterleavedSlice::new(&self.pending_in, 1, rem).map_err(|err| {
+                            AudioError::StreamError(format!(
+                                "output resampler final input error: {err}"
+                            ))
+                        })?;
+                    let mut out_adapter = InterleavedSlice::new_mut(
+                        &mut self.scratch_out[..out_frames_cap],
+                        1,
+                        out_frames_cap,
+                    )
+                    .map_err(|err| {
+                        AudioError::StreamError(format!(
+                            "output resampler final output error: {err}"
+                        ))
+                    })?;
+                    let indexing = Indexing {
+                        input_offset: 0,
+                        output_offset: 0,
+                        active_channels_mask: None,
+                        partial_len: Some(rem),
+                    };
+                    let (_frames_in, frames_out) = resampler
+                        .process_into_buffer(&in_adapter, &mut out_adapter, Some(&indexing))
+                        .map_err(|err| {
+                            AudioError::StreamError(format!("output resampling tail error: {err}"))
+                        })?;
+                    push_trimmed_soft_limited(
+                        &self.scratch_out[..frames_out],
+                        &mut self.trim_delay_remaining,
+                        &mut self.tail_buf,
+                    );
+                }
+                self.pending_in.clear();
+            }
+
+            let empty_in = InterleavedSlice::new(&[], 1, 0).map_err(|err| {
+                AudioError::StreamError(format!("output resampler flush input error: {err}"))
+            })?;
+            while self.emitted_mono_frames + self.tail_buf.len() < expected_total_out {
+                let out_frames_cap = resampler.output_frames_next();
+                if out_frames_cap == 0 {
+                    break;
+                }
+                if self.scratch_out.len() < out_frames_cap {
+                    self.scratch_out.resize(out_frames_cap, 0.0);
+                }
+                let mut out_adapter = InterleavedSlice::new_mut(
+                    &mut self.scratch_out[..out_frames_cap],
+                    1,
+                    out_frames_cap,
+                )
+                .map_err(|err| {
+                    AudioError::StreamError(format!("output resampler flush output error: {err}"))
+                })?;
+                let indexing = Indexing {
+                    input_offset: 0,
+                    output_offset: 0,
+                    active_channels_mask: None,
+                    partial_len: Some(0),
+                };
+                let (_frames_in, frames_out) = resampler
+                    .process_into_buffer(&empty_in, &mut out_adapter, Some(&indexing))
+                    .map_err(|err| {
+                        AudioError::StreamError(format!("output resampling flush error: {err}"))
+                    })?;
+                if frames_out == 0 {
+                    break;
+                }
+                push_trimmed_soft_limited(
+                    &self.scratch_out[..frames_out],
+                    &mut self.trim_delay_remaining,
+                    &mut self.tail_buf,
+                );
+            }
+        }
+
+        let total_now = self.emitted_mono_frames + self.tail_buf.len();
+        if total_now > expected_total_out {
+            let excess = total_now - expected_total_out;
+            let keep = self.tail_buf.len().saturating_sub(excess);
+            self.tail_buf.truncate(keep);
+        }
+
+        let remaining = self.tail_buf.len();
+        if remaining == 0 {
+            return Ok(Vec::new());
+        }
+
+        let mut tail: Vec<f32> = self.tail_buf.drain(..).collect();
+        if self.emitted_mono_frames == 0 {
+            if remaining == 1 {
+                if self.fade_samples > 0 {
+                    tail[0] = 0.0;
+                }
+            } else if self.fade_samples > 0 {
+                let fade = self.fade_samples.min(remaining / 2);
+                if fade > 0 {
+                    for (i, sample) in tail[..fade].iter_mut().enumerate() {
+                        *sample *= raised_cosine_fade_gain(i, fade);
+                    }
+                    let out_start = remaining - fade;
+                    for (i, sample) in tail[out_start..].iter_mut().enumerate() {
+                        let rem = fade - 1 - i;
+                        *sample *= raised_cosine_fade_gain(rem, fade);
+                    }
+                }
+            }
+        } else if self.fade_samples > 0 {
+            for (i, sample) in tail.iter_mut().enumerate() {
+                let global_idx = self.emitted_mono_frames + i;
+                if global_idx < self.fade_samples {
+                    *sample *= raised_cosine_fade_gain(global_idx, self.fade_samples);
+                }
+            }
+            let fade_out_len = self.fade_samples.min(remaining);
+            if fade_out_len > 0 {
+                let out_start = remaining - fade_out_len;
+                for (i, sample) in tail[out_start..].iter_mut().enumerate() {
+                    let rem = fade_out_len - 1 - i;
+                    *sample *= raised_cosine_fade_gain(rem, fade_out_len);
+                }
+            }
+        }
+
+        Ok(interleave_mono_to_channels(&tail, self.dst_channels))
+    }
+
+    fn drain_ready_interleaved(&mut self) -> Vec<f32> {
+        let hold = self.fade_samples.saturating_mul(2);
+        let ready_len = self.tail_buf.len().saturating_sub(hold);
+        if ready_len == 0 {
+            return Vec::new();
+        }
+        let mut mono = Vec::with_capacity(ready_len);
+        for _ in 0..ready_len {
+            if let Some(mut sample) = self.tail_buf.pop_front() {
+                let idx = self.emitted_mono_frames;
+                self.emitted_mono_frames += 1;
+                if idx < self.fade_samples {
+                    sample *= raised_cosine_fade_gain(idx, self.fade_samples);
+                }
+                mono.push(sample);
+            }
+        }
+        interleave_mono_to_channels(&mono, self.dst_channels)
+    }
+}
+
+/// Condition mono `f32` PCM for hardware speaker playback:
+/// 1. Sanitize `NaN`/`±Inf` to `0.0`,
+/// 2. Apply DC-blocking high-pass filter (`DC_BLOCKER_POLE = 0.995`),
+/// 3. Sinc-resample from `src_rate_hz` to `dst_rate_hz` via `rubato::Async::<f32>::new_sinc`,
+/// 4. Smoothly soft-limit peaks to `<= 0.84` (`OUTPUT_SOFT_LIMIT_CEILING`),
+/// 5. Apply `10 ms` raised-cosine (`0.5 * (1 - cos(pi * t))`) fade-in and fade-out,
+/// 6. Adapt mono to interleaved `dst_channels` (e.g. stereo).
+pub fn condition_output_pcm(
+    mono_samples: &[f32],
+    src_rate_hz: u32,
+    dst_rate_hz: u32,
+    dst_channels: u16,
+) -> Result<Vec<f32>, AudioError> {
+    if mono_samples.is_empty() {
+        if src_rate_hz == 0 || dst_rate_hz == 0 || dst_channels == 0 {
+            return Err(AudioError::StreamError(
+                "output sample rates and channel count must be > 0".to_string(),
+            ));
+        }
+        return Ok(Vec::new());
+    }
+    let mut conditioner = OutputPcmConditioner::new(src_rate_hz, dst_rate_hz, dst_channels)?;
+    let mut out = conditioner.push_mono(mono_samples)?;
+    out.extend(conditioner.finish()?);
+    Ok(out)
+}
+
+fn sanitize_output_sample(sample: f32) -> f32 {
+    if sample.is_finite() { sample } else { 0.0 }
+}
+
+fn soft_limit_output(sample: f32) -> f32 {
+    if !sample.is_finite() {
+        return 0.0;
+    }
+    let abs = sample.abs();
+    if abs <= OUTPUT_SOFT_LIMIT_KNEE {
+        return sample;
+    }
+    let headroom = OUTPUT_SOFT_LIMIT_CEILING - OUTPUT_SOFT_LIMIT_KNEE;
+    let excess = (abs - OUTPUT_SOFT_LIMIT_KNEE) / headroom;
+    let limited = OUTPUT_SOFT_LIMIT_KNEE + headroom * excess.tanh();
+    (sample.signum() * limited).clamp(-OUTPUT_SOFT_LIMIT_CEILING, OUTPUT_SOFT_LIMIT_CEILING)
+}
+
+fn raised_cosine_fade_gain(pos: usize, fade_len: usize) -> f32 {
+    if fade_len <= 1 {
+        return 0.0;
+    }
+    let t = (pos as f64 / (fade_len - 1) as f64).clamp(0.0, 1.0);
+    (0.5 * (1.0 - (PI * t).cos())) as f32
+}
+
+fn push_trimmed_soft_limited(
+    samples: &[f32],
+    trim_delay_remaining: &mut usize,
+    tail_buf: &mut VecDeque<f32>,
+) {
+    let skip = (*trim_delay_remaining).min(samples.len());
+    *trim_delay_remaining -= skip;
+    for &sample in &samples[skip..] {
+        tail_buf.push_back(soft_limit_output(sample));
+    }
+}
+
+fn interleave_mono_to_channels(mono: &[f32], channels: usize) -> Vec<f32> {
+    if channels == 1 {
+        return mono.to_vec();
+    }
+    let mut interleaved = Vec::with_capacity(mono.len() * channels);
+    for &sample in mono {
+        for _ in 0..channels {
+            interleaved.push(sample);
+        }
+    }
+    interleaved
 }
 
 #[cfg(test)]
@@ -787,5 +1227,102 @@ mod tests {
             (zc_freq - tone_hz).abs() <= 15.0,
             "44.1k -> 16k zero-crossing frequency {zc_freq:.2} Hz outside 1000 ± 15 Hz"
         );
+    }
+
+    #[test]
+    fn condition_output_pcm_sanitizes_blocks_dc_soft_limits_fades_resamples_and_interleaves() {
+        let src_rate = 22_050_u32;
+        let dst_rate = 48_000_u32;
+        let dst_channels = 2_u16;
+        let total_src = 11_025_usize; // 0.5 s at 22.05 kHz
+        let tone_hz = 1_000.0_f64;
+
+        // Combine DC offset (+0.45), hot transient tone (amplitude 1.5 > 0.84), and NaN/Inf spikes.
+        let mut input: Vec<f32> = (0..total_src)
+            .map(|i| {
+                let t = i as f64 / f64::from(src_rate);
+                0.45 + 1.5 * (2.0 * PI * tone_hz * t).sin() as f32
+            })
+            .collect();
+        input[120] = f32::NAN;
+        input[500] = f32::INFINITY;
+        input[900] = f32::NEG_INFINITY;
+
+        let out = condition_output_pcm(&input, src_rate, dst_rate, dst_channels)
+            .expect("condition 22.05k -> 48k stereo");
+
+        // 0.5 s at 48 kHz stereo = 24_000 frames * 2 channels = 48_000 samples.
+        assert_eq!(out.len() % 2, 0);
+        let out_frames = out.len() / 2;
+        assert!(
+            (23_990..=24_010).contains(&out_frames),
+            "expected ~24000 stereo frames at 48 kHz, got {out_frames}"
+        );
+
+        // 1. All output samples finite, strictly <= 0.84 ceiling, and stereo L == R.
+        for pair in out.chunks_exact(2) {
+            assert!(pair[0].is_finite() && pair[1].is_finite());
+            assert_eq!(pair[0], pair[1]);
+            assert!(
+                pair[0].abs() <= OUTPUT_SOFT_LIMIT_CEILING,
+                "sample {} exceeded soft-limit ceiling {}",
+                pair[0],
+                OUTPUT_SOFT_LIMIT_CEILING
+            );
+        }
+
+        // 2. 10 ms raised-cosine fade-in & fade-out edge values are 0.0 (click/pop free).
+        assert!(out[0].abs() < 1e-6 && out[1].abs() < 1e-6);
+        assert!(out[out.len() - 2].abs() < 1e-6 && out[out.len() - 1].abs() < 1e-6);
+
+        // Extract left channel to inspect DC suppression and 1 kHz tone frequency.
+        let left: Vec<f32> = out.chunks_exact(2).map(|p| p[0]).collect();
+        // After DC blocker settling (~150 ms = 7200 frames at 48 kHz), steady DC mean < 0.01.
+        let steady = &left[7_200..left.len() - 480];
+        let dc_mean = steady.iter().map(|&s| f64::from(s)).sum::<f64>() / steady.len() as f64;
+        assert!(
+            dc_mean.abs() < 0.01,
+            "expected DC mean < 0.01 after settling, got {dc_mean}"
+        );
+
+        // Sinc-resampled 1 kHz tone at 48 kHz preserves frequency cleanly.
+        let zc_freq = zero_crossing_frequency_hz(steady, f64::from(dst_rate));
+        assert!(
+            (zc_freq - tone_hz).abs() <= 15.0,
+            "22.05k -> 48k zero-crossing frequency {zc_freq:.2} Hz outside 1000 ± 15 Hz"
+        );
+    }
+
+    #[test]
+    fn condition_output_pcm_validates_params_and_streaming_matches_fade_edges() {
+        assert!(condition_output_pcm(&[0.1], 0, 48_000, 2).is_err());
+        assert!(condition_output_pcm(&[0.1], 22_050, 0, 2).is_err());
+        assert!(condition_output_pcm(&[0.1], 22_050, 48_000, 0).is_err());
+        assert!(
+            condition_output_pcm(&[], 22_050, 48_000, 2)
+                .expect("empty input")
+                .is_empty()
+        );
+
+        // Verify 10 ms raised-cosine envelope shape on a constant-amplitude 48 kHz tone
+        // and verify streaming OutputPcmConditioner matches boundary tapering.
+        let src_rate = 16_000_u32;
+        let dst_rate = 48_000_u32;
+        let samples: Vec<f32> = (0..4_800) // 300 ms at 16 kHz
+            .map(|i| (2.0 * PI * 440.0 * (i as f64) / f64::from(src_rate)).sin() as f32 * 0.5)
+            .collect();
+
+        let mut cond = OutputPcmConditioner::new(src_rate, dst_rate, 2).expect("stream cond");
+        let mut streamed = cond.push_mono(&samples[..2_400]).expect("chunk 1");
+        assert!(
+            !streamed.is_empty(),
+            "150 ms chunk should emit conditioned frames immediately"
+        );
+        streamed.extend(cond.push_mono(&samples[2_400..]).expect("chunk 2"));
+        streamed.extend(cond.finish().expect("finish"));
+
+        assert_eq!(streamed.len(), 14_400 * 2); // 300 ms at 48 kHz stereo
+        assert!(streamed[0].abs() < 1e-6);
+        assert!(streamed[streamed.len() - 1].abs() < 1e-6);
     }
 }

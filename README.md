@@ -127,6 +127,20 @@ To fetch optional offline voice & semantic models (`< 350 MB`) system-wide after
 sudo MODELS_DIR=/usr/share/thiruvalluvar-ai/models /usr/share/thiruvalluvar-ai/scripts/download_fast_models.sh
 ```
 
+### Updating an Installed Desktop / Raspberry Pi Package
+
+Rebuild packages, upgrade the installed Arch (`.pkg.tar.zst`) or Debian / Ubuntu / Raspberry Pi OS (`.deb`) package, patch `/usr/share/thiruvalluvar-ai/models/tts/ta` metadata, re-index embeddings (`--models-dir /usr/share/thiruvalluvar-ai/models/embeddings`), and verify TTS (`--tts-check --models-dir /usr/share/thiruvalluvar-ai/models`) in one command:
+
+```bash
+./scripts/update_installed_app.sh
+```
+
+To install the latest prebuilt package in `dist/packages/` without recompiling first:
+
+```bash
+./scripts/update_installed_app.sh --skip-build
+```
+
 ---
 
 ## Raspberry Pi 4B Kiosk Deployment

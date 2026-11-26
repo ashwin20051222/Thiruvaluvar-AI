@@ -17,10 +17,14 @@ pub use cache::{
     CachedClip, MAX_VOICE_TURN_BYTES, MAX_VOICE_TURNS, TtsPcmCache, VoiceTurnAudio,
     VoiceTurnAudioStore, compute_tts_cache_key, f32_pcm_to_i16_arc, hash_tts_content,
 };
-pub use devices::{find_input_device, find_output_device, list_audio_devices};
+pub use devices::{
+    DEFAULT_OUTPUT_CHANNELS, DEFAULT_OUTPUT_SAMPLE_RATE_HZ, find_input_device, find_output_device,
+    list_audio_devices, query_output_device_format,
+};
 pub use dsp::{
-    AudioConditioner, BiquadFilter, DEFAULT_CLIPPING_THRESHOLD, Resampler16k,
-    TARGET_SAMPLE_RATE_HZ, compute_clipping_ratio, compute_rms, compute_snr_db, pcm_i16_to_f32,
+    AudioConditioner, BiquadFilter, DEFAULT_CLIPPING_THRESHOLD, OUTPUT_FADE_MS,
+    OUTPUT_SOFT_LIMIT_CEILING, OutputPcmConditioner, Resampler16k, TARGET_SAMPLE_RATE_HZ,
+    compute_clipping_ratio, compute_rms, compute_snr_db, condition_output_pcm, pcm_i16_to_f32,
 };
 pub use earcon::{EARCON_SAMPLE_RATE_HZ, EarconBank};
 pub use error::AudioError;

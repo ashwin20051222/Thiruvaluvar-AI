@@ -1,6 +1,11 @@
 use crate::cache::{TtsPcmCache, VoiceTurnAudioStore};
-use crate::devices::{find_input_device, find_output_device};
-use crate::dsp::{AudioConditioner, Resampler16k, TARGET_SAMPLE_RATE_HZ, compute_rms};
+use crate::devices::{
+    find_input_device, find_output_device, is_default_pattern, query_output_device_format,
+};
+use crate::dsp::{
+    AudioConditioner, OutputPcmConditioner, Resampler16k, TARGET_SAMPLE_RATE_HZ, compute_rms,
+    condition_output_pcm,
+};
 use crate::earcon::{EARCON_SAMPLE_RATE_HZ, EarconBank};
 use crate::error::AudioError;
 use crate::types::{AudioHealthStatus, CapturedAudio, EarconKind, PcmChunk, VadBackend};
@@ -10,7 +15,6 @@ use cpal::{FromSample, SampleFormat, SizedSample, StreamConfig};
 use kural_core::{AudioConfig, AudioState, CaptureMode, VoiceReplayMode};
 use ringbuf::traits::{Consumer, Observer, Producer, Split};
 use ringbuf::{HeapCons, HeapProd, HeapRb};
-use rodio::Source;
 use std::num::NonZero;
 use std::sync::atomic::{AtomicBool, AtomicU64, Ordering};
 use std::sync::{Arc, Mutex};
@@ -25,6 +29,8 @@ const DEFAULT_TTS_CACHE_MAX_ENTRIES: usize = 16;
 const WATCHDOG_TIMEOUT_MS: u64 = 500;
 const REOPEN_BACKOFF_MS: [u64; 3] = [500, 1000, 2000];
 const MAX_TICKS_RING_DRAIN_CHUNKS: usize = 16;
+const STREAM_PREBUFFER_MS: u64 = 150;
+const MAX_STREAM_FRAMES_PER_TICK: usize = 768;
 
 /// Sub-phases of the strict half-duplex Echo Guard state machine.
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
@@ -852,6 +858,7 @@ struct SimulatedOutputState {
     cleared_count: usize,
     appended_samples: Vec<Vec<f32>>,
     appended_rates: Vec<u32>,
+    appended_channels: Vec<u16>,
     appended_speeds: Vec<f32>,
     volume: f32,
     force_empty: bool,
@@ -876,17 +883,30 @@ impl SimulatedOutputHandle {
         st.play_until.is_none_or(|until| now >= until)
     }
 
-    fn append(&self, samples: Vec<f32>, rate_hz: u32, speed: f32, now: Instant) {
+    fn append(
+        &self,
+        samples: Vec<f32>,
+        rate_hz: u32,
+        channels: u16,
+        speed: f32,
+        now: Instant,
+    ) {
         let mut st = self.state.lock().expect("sim lock");
-        let safe_spd = f64::from(sanitize_playback_speed(speed));
-        let dur =
-            Duration::from_secs_f64((samples.len() as f64 / f64::from(rate_hz.max(1))) / safe_spd);
+        let ch = usize::from(channels.max(1));
+        let frames = samples.len() / ch;
+        let safe_spd = if speed.is_finite() && speed > 0.0 {
+            f64::from(speed)
+        } else {
+            1.0
+        };
+        let dur = Duration::from_secs_f64((frames as f64 / f64::from(rate_hz.max(1))) / safe_spd);
         let base = st.play_until.filter(|&u| u > now).unwrap_or(now);
         st.play_until = Some(base + dur);
         st.paused = false;
         st.force_empty = false;
         st.appended_samples.push(samples);
         st.appended_rates.push(rate_hz);
+        st.appended_channels.push(channels);
         st.appended_speeds.push(speed);
     }
 
@@ -924,6 +944,10 @@ impl SimulatedOutputHandle {
             .map(|((s, &r), &spd)| (s.len(), r, spd))
             .collect()
     }
+
+    fn appended_channels(&self) -> Vec<u16> {
+        self.state.lock().expect("sim lock").appended_channels.clone()
+    }
 }
 
 enum OutputSink {
@@ -932,14 +956,89 @@ enum OutputSink {
         _sink: rodio::MixerDeviceSink,
         player: rodio::Player,
         errored: Arc<AtomicBool>,
+        sample_rate_hz: u32,
+        channels: u16,
     },
     #[cfg(test)]
-    Simulated(SimulatedOutputHandle),
+    Simulated {
+        handle: SimulatedOutputHandle,
+        sample_rate_hz: u32,
+        channels: u16,
+    },
 }
 
 impl OutputSink {
     fn is_available(&self) -> bool {
         !matches!(self, Self::Unavailable)
+    }
+
+    fn format(&self) -> (u32, u16) {
+        match self {
+            Self::Hardware {
+                sample_rate_hz,
+                channels,
+                ..
+            } => (*sample_rate_hz, *channels),
+            #[cfg(test)]
+            Self::Simulated {
+                sample_rate_hz,
+                channels,
+                ..
+            } => (*sample_rate_hz, *channels),
+            Self::Unavailable => query_output_device_format(None),
+        }
+    }
+
+    fn append_conditioned_f32(
+        &mut self,
+        conditioned_interleaved: Vec<f32>,
+        now: Instant,
+    ) -> Result<(), AudioError> {
+        let _ = now;
+        if conditioned_interleaved.is_empty() {
+            return Ok(());
+        }
+        match self {
+            Self::Unavailable => Err(AudioError::DeviceUnavailable(
+                "audio output device unavailable".to_string(),
+            )),
+            Self::Hardware {
+                player,
+                sample_rate_hz,
+                channels,
+                ..
+            } => {
+                let Some(sr) = NonZero::new(*sample_rate_hz) else {
+                    return Err(AudioError::StreamError(
+                        "output sample rate must be > 0 Hz".to_string(),
+                    ));
+                };
+                let Some(ch) = NonZero::new(*channels) else {
+                    return Err(AudioError::StreamError(
+                        "output channel count must be > 0".to_string(),
+                    ));
+                };
+                let buf = rodio::buffer::SamplesBuffer::new(ch, sr, conditioned_interleaved);
+                player.append(buf);
+                player.play();
+                Ok(())
+            }
+            #[cfg(test)]
+            Self::Simulated {
+                handle,
+                sample_rate_hz,
+                channels,
+            } => {
+                handle.append(
+                    conditioned_interleaved,
+                    *sample_rate_hz,
+                    *channels,
+                    1.0,
+                    now,
+                );
+                Ok(())
+            }
+        }
     }
 
     fn append_f32(
@@ -948,46 +1047,27 @@ impl OutputSink {
         sample_rate_hz: u32,
         now: Instant,
     ) -> Result<(), AudioError> {
-        self.append_f32_with_speed(samples, sample_rate_hz, 1.0, now)
+        if samples.is_empty() {
+            return Ok(());
+        }
+        if !self.is_available() {
+            return Err(AudioError::DeviceUnavailable(
+                "audio output device unavailable".to_string(),
+            ));
+        }
+        let (dst_rate, dst_channels) = self.format();
+        let conditioned = condition_output_pcm(&samples, sample_rate_hz, dst_rate, dst_channels)?;
+        self.append_conditioned_f32(conditioned, now)
     }
 
     fn append_f32_with_speed(
         &mut self,
         samples: Vec<f32>,
         sample_rate_hz: u32,
-        speed: f32,
-        _now: Instant,
+        _speed: f32,
+        now: Instant,
     ) -> Result<(), AudioError> {
-        if samples.is_empty() {
-            return Ok(());
-        }
-        let Some(sr) = NonZero::new(sample_rate_hz) else {
-            return Err(AudioError::StreamError(
-                "output sample rate must be > 0 Hz".to_string(),
-            ));
-        };
-        let safe_speed = sanitize_playback_speed(speed);
-        match self {
-            Self::Unavailable => Err(AudioError::DeviceUnavailable(
-                "audio output device unavailable".to_string(),
-            )),
-            Self::Hardware { player, .. } => {
-                let ch = NonZero::new(1).expect("1 is non-zero");
-                let buf = rodio::buffer::SamplesBuffer::new(ch, sr, samples);
-                if (safe_speed - 1.0).abs() > 0.01 {
-                    player.append(buf.speed(safe_speed));
-                } else {
-                    player.append(buf);
-                }
-                player.play();
-                Ok(())
-            }
-            #[cfg(test)]
-            Self::Simulated(sim) => {
-                sim.append(samples, sample_rate_hz, safe_speed, _now);
-                Ok(())
-            }
-        }
+        self.append_f32(samples, sample_rate_hz, now)
     }
 
     fn is_empty(&self, _now: Instant) -> bool {
@@ -997,7 +1077,7 @@ impl OutputSink {
                 player, errored, ..
             } => errored.load(Ordering::Acquire) || player.empty(),
             #[cfg(test)]
-            Self::Simulated(sim) => sim.is_empty(_now),
+            Self::Simulated { handle, .. } => handle.is_empty(_now),
         }
     }
 
@@ -1008,6 +1088,7 @@ impl OutputSink {
                 _sink,
                 player,
                 errored,
+                ..
             } => {
                 player.pause();
                 if errored.load(Ordering::Acquire) {
@@ -1020,7 +1101,7 @@ impl OutputSink {
                 }
             }
             #[cfg(test)]
-            Self::Simulated(sim) => sim.stop_and_clear(),
+            Self::Simulated { handle, .. } => handle.stop_and_clear(),
         }
     }
 
@@ -1031,7 +1112,7 @@ impl OutputSink {
                 player.set_volume(effective_volume);
             }
             #[cfg(test)]
-            Self::Simulated(sim) => sim.set_volume(effective_volume),
+            Self::Simulated { handle, .. } => handle.set_volume(effective_volume),
         }
     }
 
@@ -1040,7 +1121,7 @@ impl OutputSink {
             Self::Hardware { errored, .. } => errored.load(Ordering::Acquire),
             Self::Unavailable => false,
             #[cfg(test)]
-            Self::Simulated(_) => false,
+            Self::Simulated { .. } => false,
         }
     }
 }
@@ -1099,6 +1180,9 @@ struct ActivePlaybackJob {
     sample_rate_hz: Option<u32>,
     cache_on_complete: bool,
     played_any_audio: bool,
+    prebuffer_mono: Vec<f32>,
+    prebuffer_started: bool,
+    stream_conditioner: Option<OutputPcmConditioner>,
     reply: Option<PlaybackReply>,
 }
 
@@ -1175,10 +1259,15 @@ impl AudioActor {
                             pending_interleaved: Vec::new(),
                         })
                 });
+                let (sim_rate, sim_channels) = query_output_device_format(None);
                 let out_sink = match output {
                     Some(sim) => {
                         sim.set_volume(master_volume);
-                        OutputSink::Simulated(sim)
+                        OutputSink::Simulated {
+                            handle: sim,
+                            sample_rate_hz: sim_rate,
+                            channels: sim_channels,
+                        }
                     }
                     None => OutputSink::Unavailable,
                 };
@@ -1239,10 +1328,20 @@ impl AudioActor {
             self.publish_state();
 
             let elapsed = tick_start.elapsed();
-            if elapsed < tick_dur {
+            if elapsed < tick_dur && !self.has_pending_stream_work() {
                 thread::park_timeout(tick_dur - elapsed);
             }
         }
+    }
+
+    fn has_pending_stream_work(&self) -> bool {
+        let Some(job) = self.active_playback.as_ref() else {
+            return false;
+        };
+        if job.stream_finished {
+            return !job.prebuffer_mono.is_empty() || job.stream_conditioner.is_some();
+        }
+        job.prebuffer_started && !job.prebuffer_mono.is_empty()
     }
 
     fn drain_commands(&mut self, now: Instant) -> bool {
@@ -1488,6 +1587,7 @@ impl AudioActor {
             return;
         }
         self.prepare_for_new_playback();
+        self.publish_state();
         self.active_playback = Some(ActivePlaybackJob {
             pcm_rx: Some(pcm_rx),
             stream_finished: false,
@@ -1496,6 +1596,9 @@ impl AudioActor {
             sample_rate_hz: None,
             cache_on_complete: true,
             played_any_audio: false,
+            prebuffer_mono: Vec::new(),
+            prebuffer_started: false,
+            stream_conditioner: None,
             reply: Some(PlaybackReply::Unit(reply)),
         });
         self.drain_pcm_stream_chunks(now);
@@ -1559,6 +1662,9 @@ impl AudioActor {
             sample_rate_hz: Some(play_rate),
             cache_on_complete,
             played_any_audio: true,
+            prebuffer_mono: Vec::new(),
+            prebuffer_started: true,
+            stream_conditioner: None,
             reply: Some(PlaybackReply::Unit(reply)),
         });
         self.publish_state();
@@ -1592,6 +1698,9 @@ impl AudioActor {
             sample_rate_hz: Some(EARCON_SAMPLE_RATE_HZ),
             cache_on_complete: false,
             played_any_audio: true,
+            prebuffer_mono: Vec::new(),
+            prebuffer_started: true,
+            stream_conditioner: None,
             reply: Some(PlaybackReply::Unit(reply)),
         });
         self.publish_state();
@@ -1599,8 +1708,8 @@ impl AudioActor {
 
     fn handle_replay_last(
         &mut self,
-        requested_speed: f32,
-        native_rate: bool,
+        _requested_speed: f32,
+        _native_rate: bool,
         reply: oneshot::Sender<Result<(), AudioError>>,
         now: Instant,
     ) {
@@ -1610,7 +1719,7 @@ impl AudioActor {
             )));
             return;
         }
-        let Some((clip, synth_speed)) = self
+        let Some((clip, _synth_speed)) = self
             .cache
             .last_completed_with_speed()
             .map(|(c, s)| (c.clone(), s))
@@ -1625,18 +1734,14 @@ impl AudioActor {
             return;
         }
 
-        let play_speed = if native_rate {
-            1.0
-        } else {
-            relative_playback_speed(requested_speed, synth_speed)
-        };
-        self.start_buffer_playback(&clip.samples, clip.sample_rate_hz, play_speed, reply, now);
+        // Always play conditioned PCM at 1.0x so pitch-shifting/resampling artifacts never crackle.
+        self.start_buffer_playback(&clip.samples, clip.sample_rate_hz, 1.0, reply, now);
     }
 
     fn handle_play_cached_tts_by_key(
         &mut self,
         cache_key: u64,
-        requested_speed: f32,
+        _requested_speed: f32,
         reply: oneshot::Sender<Result<bool, AudioError>>,
         now: Instant,
     ) {
@@ -1660,12 +1765,11 @@ impl AudioActor {
         }
 
         self.cache.mark_last_completed(clip.clone(), synth_speed);
-        let play_speed = relative_playback_speed(requested_speed, synth_speed);
         self.prepare_for_new_playback();
         let f32_samples = i16_to_f32_vec(&clip.samples);
-        if let Err(err) =
-            self.output
-                .append_f32_with_speed(f32_samples, clip.sample_rate_hz, play_speed, now)
+        if let Err(err) = self
+            .output
+            .append_f32(f32_samples, clip.sample_rate_hz, now)
         {
             let _ = self.echo_guard.stop_playback(now);
             let _ = reply.send(Err(err));
@@ -1681,6 +1785,9 @@ impl AudioActor {
             sample_rate_hz: Some(clip.sample_rate_hz),
             cache_on_complete: false,
             played_any_audio: true,
+            prebuffer_mono: Vec::new(),
+            prebuffer_started: true,
+            stream_conditioner: None,
             reply: Some(PlaybackReply::Hit(reply)),
         });
         self.publish_state();
@@ -1713,6 +1820,9 @@ impl AudioActor {
             sample_rate_hz: Some(sample_rate_hz),
             cache_on_complete: false,
             played_any_audio: true,
+            prebuffer_mono: Vec::new(),
+            prebuffer_started: true,
+            stream_conditioner: None,
             reply: Some(PlaybackReply::Unit(reply)),
         });
         self.publish_state();
@@ -1722,7 +1832,7 @@ impl AudioActor {
         &mut self,
         turn_id: Option<u64>,
         mode: VoiceReplayMode,
-        requested_speed: f32,
+        _requested_speed: f32,
         reply: oneshot::Sender<Result<(), AudioError>>,
         now: Instant,
     ) {
@@ -1739,7 +1849,7 @@ impl AudioActor {
             return;
         };
 
-        let mut segments: Vec<(Vec<f32>, u32, f32)> = Vec::new();
+        let mut segments: Vec<(Vec<f32>, u32)> = Vec::new();
         match mode {
             VoiceReplayMode::UserVoiceOnly => {
                 if turn.user_pcm_16k.is_empty() {
@@ -1748,11 +1858,7 @@ impl AudioActor {
                     )));
                     return;
                 }
-                segments.push((
-                    i16_to_f32_vec(&turn.user_pcm_16k),
-                    TARGET_SAMPLE_RATE_HZ,
-                    1.0,
-                ));
+                segments.push((i16_to_f32_vec(&turn.user_pcm_16k), TARGET_SAMPLE_RATE_HZ));
             }
             VoiceReplayMode::AiReplyOnly => {
                 let Some((ai_pcm, ai_rate)) = turn.ai_pcm else {
@@ -1761,8 +1867,7 @@ impl AudioActor {
                     )));
                     return;
                 };
-                let speed = relative_playback_speed(requested_speed, turn.ai_synth_speed);
-                segments.push((i16_to_f32_vec(&ai_pcm), ai_rate, speed));
+                segments.push((i16_to_f32_vec(&ai_pcm), ai_rate));
             }
             VoiceReplayMode::FullExchange => {
                 if turn.user_pcm_16k.is_empty() {
@@ -1777,23 +1882,18 @@ impl AudioActor {
                     )));
                     return;
                 };
-                segments.push((
-                    i16_to_f32_vec(&turn.user_pcm_16k),
-                    TARGET_SAMPLE_RATE_HZ,
-                    1.0,
-                ));
+                segments.push((i16_to_f32_vec(&turn.user_pcm_16k), TARGET_SAMPLE_RATE_HZ));
                 let gap_samples = (EARCON_SAMPLE_RATE_HZ as usize * 35) / 100;
                 let mut bridge = vec![0.0_f32; gap_samples];
                 bridge.extend_from_slice(self.earcons.samples_f32(EarconKind::CmdRecognized));
-                segments.push((bridge, EARCON_SAMPLE_RATE_HZ, 1.0));
-                let speed = relative_playback_speed(requested_speed, turn.ai_synth_speed);
-                segments.push((i16_to_f32_vec(&ai_pcm), ai_rate, speed));
+                segments.push((bridge, EARCON_SAMPLE_RATE_HZ));
+                segments.push((i16_to_f32_vec(&ai_pcm), ai_rate));
             }
         }
 
         self.prepare_for_new_playback();
-        for (samples, rate, speed) in segments {
-            if let Err(err) = self.output.append_f32_with_speed(samples, rate, speed, now) {
+        for (samples, rate) in segments {
+            if let Err(err) = self.output.append_f32(samples, rate, now) {
                 self.output.stop_and_clear();
                 let _ = self.echo_guard.stop_playback(now);
                 let _ = reply.send(Err(err));
@@ -1809,6 +1909,9 @@ impl AudioActor {
             sample_rate_hz: Some(TARGET_SAMPLE_RATE_HZ),
             cache_on_complete: false,
             played_any_audio: true,
+            prebuffer_mono: Vec::new(),
+            prebuffer_started: true,
+            stream_conditioner: None,
             reply: Some(PlaybackReply::Unit(reply)),
         });
         self.publish_state();
@@ -1858,6 +1961,8 @@ impl AudioActor {
         if let Some(mut job) = self.active_playback.take() {
             job.pcm_rx = None;
             job.cache_accum.clear();
+            job.prebuffer_mono.clear();
+            job.stream_conditioner = None;
             if let Some(reply) = job.reply.take() {
                 reply.send_err(AudioError::Cancelled);
             }
@@ -2077,8 +2182,11 @@ impl AudioActor {
 
     fn drain_pcm_stream_chunks(&mut self, now: Instant) {
         let mut fatal_err: Option<(AudioError, bool)> = None;
+        let (dst_rate, dst_channels) = self.output.format();
 
         if let Some(job) = self.active_playback.as_mut() {
+            let mut rate_changed_flush: Option<(u32, Vec<f32>, Option<OutputPcmConditioner>)> = None;
+
             if let Some(rx) = job.pcm_rx.as_mut() {
                 loop {
                     match rx.try_recv() {
@@ -2093,19 +2201,21 @@ impl AudioActor {
                                     ));
                                     break;
                                 }
-                                if job.sample_rate_hz.is_none() {
+                                if let Some(prev_rate) = job.sample_rate_hz {
+                                    if prev_rate != chunk.sample_rate_hz {
+                                        let pending = std::mem::take(&mut job.prebuffer_mono);
+                                        let prev_cond = job.stream_conditioner.take();
+                                        rate_changed_flush = Some((prev_rate, pending, prev_cond));
+                                        job.sample_rate_hz = Some(chunk.sample_rate_hz);
+                                        job.prebuffer_started = false;
+                                    }
+                                } else {
                                     job.sample_rate_hz = Some(chunk.sample_rate_hz);
                                 }
-                                let f32_samples = i16_to_f32_vec(&chunk.samples);
-                                if let Err(err) =
-                                    self.output
-                                        .append_f32(f32_samples, chunk.sample_rate_hz, now)
-                                {
-                                    fatal_err = Some((err, false));
-                                    break;
-                                }
                                 job.cache_accum.extend_from_slice(&chunk.samples);
-                                job.played_any_audio = true;
+                                job.prebuffer_mono.extend(
+                                    chunk.samples.iter().map(|&s| f32::from(s) / 32_768.0),
+                                );
                             }
                             if chunk.is_final {
                                 job.stream_finished = true;
@@ -2122,6 +2232,70 @@ impl AudioActor {
                     }
                 }
             }
+
+            if fatal_err.is_none() {
+                if let Some((prev_rate, prev_mono, prev_cond)) = rate_changed_flush {
+                    match flush_stream_segment(
+                        prev_mono,
+                        prev_rate,
+                        dst_rate,
+                        dst_channels,
+                        prev_cond,
+                        true,
+                    ) {
+                        Ok((out, _)) => {
+                            if !out.is_empty() {
+                                if let Err(err) = self.output.append_conditioned_f32(out, now) {
+                                    fatal_err = Some((err, false));
+                                } else {
+                                    job.played_any_audio = true;
+                                }
+                            }
+                        }
+                        Err(err) => fatal_err = Some((err, true)),
+                    }
+                }
+            }
+
+            if fatal_err.is_none() {
+                let src_rate = job.sample_rate_hz;
+                let prebuffer_threshold = src_rate
+                    .map_or(0, |r| ((r as usize) * (STREAM_PREBUFFER_MS as usize)) / 1000);
+                let ready_to_stream = job.stream_finished
+                    || job.prebuffer_started
+                    || (src_rate.is_some() && job.prebuffer_mono.len() >= prebuffer_threshold);
+
+                if ready_to_stream
+                    && (!job.prebuffer_mono.is_empty() || job.stream_conditioner.is_some())
+                {
+                    job.prebuffer_started = true;
+                    let rate = src_rate.unwrap_or(22_050);
+                    let take_len = job.prebuffer_mono.len().min(MAX_STREAM_FRAMES_PER_TICK);
+                    let mono: Vec<f32> = job.prebuffer_mono.drain(..take_len).collect();
+                    let finish_now = job.stream_finished && job.prebuffer_mono.is_empty();
+                    let existing_cond = job.stream_conditioner.take();
+                    match flush_stream_segment(
+                        mono,
+                        rate,
+                        dst_rate,
+                        dst_channels,
+                        existing_cond,
+                        finish_now,
+                    ) {
+                        Ok((out, next_cond)) => {
+                            job.stream_conditioner = next_cond;
+                            if !out.is_empty() {
+                                if let Err(err) = self.output.append_conditioned_f32(out, now) {
+                                    fatal_err = Some((err, false));
+                                } else {
+                                    job.played_any_audio = true;
+                                }
+                            }
+                        }
+                        Err(err) => fatal_err = Some((err, true)),
+                    }
+                }
+            }
         }
 
         if let Some((err, clear_sink)) = fatal_err {
@@ -2131,6 +2305,8 @@ impl AudioActor {
             if let Some(mut job) = self.active_playback.take() {
                 job.pcm_rx = None;
                 job.cache_accum.clear();
+                job.prebuffer_mono.clear();
+                job.stream_conditioner = None;
                 if let Some(reply) = job.reply.take() {
                     reply.send_err(err);
                 }
@@ -2140,7 +2316,7 @@ impl AudioActor {
     }
 
     fn advance_echo_guard(&mut self, now: Instant) {
-        let sink_empty = self.output.is_empty(now);
+        let sink_empty = self.active_playback.is_none() && self.output.is_empty(now);
         if self.echo_guard.advance(now, sink_empty) == GuardTransition::EnteredListening {
             self.vad.reset();
             if let Some(job) = self.active_capture.as_mut() {
@@ -2218,22 +2394,33 @@ fn publish_rms_to(rms_tx: &watch::Sender<f32>, rms: f32) {
     });
 }
 
-fn i16_to_f32_vec(samples: &[i16]) -> Vec<f32> {
-    samples.iter().map(|&s| f32::from(s) / 32768.0).collect()
-}
-
-fn sanitize_playback_speed(speed: f32) -> f32 {
-    if speed.is_finite() {
-        speed.clamp(0.5, 2.0)
+fn flush_stream_segment(
+    mono: Vec<f32>,
+    src_rate: u32,
+    dst_rate: u32,
+    dst_channels: u16,
+    existing_cond: Option<OutputPcmConditioner>,
+    finish_stream: bool,
+) -> Result<(Vec<f32>, Option<OutputPcmConditioner>), AudioError> {
+    let mut cond = match existing_cond {
+        Some(c) => c,
+        None => OutputPcmConditioner::new(src_rate, dst_rate, dst_channels)?,
+    };
+    let mut out = if mono.is_empty() {
+        Vec::new()
     } else {
-        1.0
+        cond.push_mono(&mono)?
+    };
+    if finish_stream {
+        out.extend(cond.finish()?);
+        Ok((out, None))
+    } else {
+        Ok((out, Some(cond)))
     }
 }
 
-fn relative_playback_speed(requested_speed: f32, synth_speed: f32) -> f32 {
-    let req = sanitize_playback_speed(requested_speed);
-    let base = sanitize_playback_speed(synth_speed);
-    (req / base).clamp(0.5, 2.0)
+fn i16_to_f32_vec(samples: &[i16]) -> Vec<f32> {
+    samples.iter().map(|&s| f32::from(s) / 32768.0).collect()
 }
 
 fn open_hardware_input(pattern: &str, origin: Instant) -> Result<InputCaptureSlot, AudioError> {
@@ -2366,17 +2553,38 @@ fn open_hardware_output(pattern: &str, master_volume: f32) -> OutputSink {
         eprintln!("kural-audio output stream error: {err}");
     };
 
-    let selected = find_output_device(pattern);
-    let sink_res = match selected {
-        Some(dev) => open_sink_with_device(dev, err_cb),
-        None => rodio::DeviceSinkBuilder::open_default_sink(),
+    let sink_res = if is_default_pattern(pattern) {
+        rodio::DeviceSinkBuilder::from_default_device()
+            .and_then(|builder| {
+                builder
+                    .with_error_callback(err_cb.clone())
+                    .open_sink_or_fallback()
+            })
+            .or_else(|_| {
+                find_output_device(pattern)
+                    .ok_or(rodio::DeviceSinkError::NoDevice)
+                    .and_then(|dev| open_sink_with_device(dev, err_cb.clone()))
+            })
+    } else {
+        match find_output_device(pattern) {
+            Some(dev) => open_sink_with_device(dev, err_cb.clone()),
+            None => rodio::DeviceSinkBuilder::from_default_device().and_then(|builder| {
+                builder
+                    .with_error_callback(err_cb)
+                    .open_sink_or_fallback()
+            }),
+        }
     };
 
     let mut sink = match sink_res {
         Ok(s) => s,
-        Err(_) => return OutputSink::Unavailable,
+        Err(err) => {
+            eprintln!("kural-audio failed to open output sink: {err}");
+            return OutputSink::Unavailable;
+        }
     };
     sink.log_on_drop(false);
+    let (sample_rate_hz, channels) = query_output_device_format(Some(&sink));
     let player = rodio::Player::connect_new(sink.mixer());
     player.set_volume(master_volume);
 
@@ -2384,6 +2592,8 @@ fn open_hardware_output(pattern: &str, master_volume: f32) -> OutputSink {
         _sink: sink,
         player,
         errored,
+        sample_rate_hz,
+        channels,
     }
 }
 
@@ -2394,16 +2604,7 @@ fn open_sink_with_device<E>(
 where
     E: FnMut(cpal::Error) + Send + Clone + 'static,
 {
-    let first = rodio::DeviceSinkBuilder::from_device(device.clone())?
-        .with_buffer_size(cpal::BufferSize::Fixed(256))
-        .with_error_callback(err_cb.clone())
-        .open_stream();
-    if first.is_ok() {
-        return first;
-    }
-
     rodio::DeviceSinkBuilder::from_device(device)?
-        .with_buffer_size(cpal::BufferSize::Fixed(512))
         .with_error_callback(err_cb)
         .open_sink_or_fallback()
 }
@@ -2910,7 +3111,7 @@ mod tests {
         );
         let state_rx = handle.subscribe_state();
 
-        // Commit numeric cache key and verify hit + miss + speed
+        // Commit numeric cache key and verify hit + miss + 1.0x conditioned 48 kHz stereo output.
         assert!(!handle.play_cached_tts_by_key(999, 1.0).await.unwrap());
         let ai_clip: Arc<[i16]> = Arc::from(vec![2000_i16; 2205]); // 100 ms @ 22.05kHz
         handle
@@ -2920,7 +3121,9 @@ mod tests {
         assert!(handle.play_cached_tts_by_key(777, 1.25).await.unwrap());
         tokio::time::sleep(Duration::from_millis(70)).await;
         assert_eq!(*state_rx.borrow(), AudioState::Idle);
-        assert_eq!(sim_out.appended_meta()[0], (2205, 22_050, 1.25));
+        // 100 ms @ 22.05 kHz conditioned to 48 kHz stereo (4800 * 2 = 9600 samples) at 1.0x speed.
+        assert_eq!(sim_out.appended_meta()[0], (9_600, 48_000, 1.0));
+        assert_eq!(sim_out.appended_channels()[0], 2);
 
         // Record Voice-to-Voice turn -> UserVoiceOnly -> AiReplyOnly -> FullExchange -> abort
         let user_f32: Arc<[f32]> = Arc::from(vec![0.2_f32; 1600]); // 100 ms @ 16kHz
@@ -2935,16 +3138,18 @@ mod tests {
             .await
             .unwrap();
         tokio::time::sleep(Duration::from_millis(60)).await;
-        assert_eq!(sim_out.appended_meta()[1], (1600, 16_000, 1.0));
+        assert_eq!(sim_out.appended_meta()[1], (9_600, 48_000, 1.0));
+        assert_eq!(sim_out.appended_channels()[1], 2);
 
         handle
             .play_voice_turn(Some(1), VoiceReplayMode::AiReplyOnly, 0.75)
             .await
             .unwrap();
         tokio::time::sleep(Duration::from_millis(60)).await;
-        assert_eq!(sim_out.appended_meta()[2], (2205, 22_050, 0.75));
+        assert_eq!(sim_out.appended_meta()[2], (9_600, 48_000, 1.0));
+        assert_eq!(sim_out.appended_channels()[2], 2);
 
-        // FullExchange queues 3 segments (user @ 16k 1.0x, 350ms gap + earcon @ 22.05k 1.0x, AI @ 22.05k 1.25x)
+        // FullExchange queues 3 conditioned 48 kHz stereo segments at 1.0x speed.
         let full_task = tokio::spawn({
             let h = handle.clone();
             async move {
@@ -2961,16 +3166,117 @@ mod tests {
         assert_eq!(*state_rx.borrow(), AudioState::PlayingTts);
         let meta = sim_out.appended_meta();
         assert_eq!(meta.len(), 6);
-        assert_eq!(meta[3], (1600, 16_000, 1.0));
-        assert_eq!(meta[4].1, 22_050);
+        assert_eq!(meta[3], (9_600, 48_000, 1.0));
+        assert_eq!(meta[4].1, 48_000);
         assert_eq!(meta[4].2, 1.0);
-        assert_eq!(meta[5], (2205, 22_050, 1.25));
+        assert_eq!(meta[5], (9_600, 48_000, 1.0));
+        assert_eq!(sim_out.appended_channels(), vec![2, 2, 2, 2, 2, 2]);
 
         // Mid-exchange stop must cancel cleanly in < 20 ms
         let t_abort = Instant::now();
         handle.stop_playback().await.unwrap();
         assert!(t_abort.elapsed() < Duration::from_millis(20));
         assert_eq!(full_task.await.unwrap(), Err(AudioError::Cancelled));
+
+        handle.shutdown();
+    }
+
+    #[tokio::test]
+    async fn actor_stream_prebuffers_150ms_and_conditions_output_to_hardware_format() {
+        let cfg = AudioConfig {
+            echo_cooldown_ms: 40,
+            earcon_guard_ms: 20,
+            ..AudioConfig::default()
+        };
+        let sim_out = SimulatedOutputHandle::new();
+        let rb = HeapRb::<f32>::new(16_000);
+        let (_prod, cons) = rb.split();
+        let handle = AudioHandle::spawn_with_backend(
+            &cfg,
+            Some(Box::new(AlwaysSilenceVad)),
+            1024 * 1024,
+            BackendMode::Simulated {
+                input_cons: Some(cons),
+                input_rate_hz: 16_000,
+                input_channels: 1,
+                output: Some(sim_out.clone()),
+            },
+        );
+        let state_rx = handle.subscribe_state();
+
+        let (pcm_tx, pcm_rx) = mpsc::channel(4);
+        let play_handle = handle.clone();
+        let play_task = tokio::spawn(async move {
+            play_handle
+                .play_pcm_stream(pcm_rx, Some("prebuf-clip".to_string()))
+                .await
+        });
+
+        // Chunk 1: 100 ms @ 16 kHz (1600 samples < 150 ms threshold) must stay buffered.
+        pcm_tx
+            .send(PcmChunk {
+                samples: vec![2000_i16; 1_600],
+                sample_rate_hz: 16_000,
+                is_final: false,
+            })
+            .await
+            .unwrap();
+        tokio::time::sleep(Duration::from_millis(45)).await;
+        assert_eq!(
+            sim_out.appended_count(),
+            0,
+            "100 ms chunk should be held until >= 150 ms is buffered"
+        );
+        assert_eq!(
+            *state_rx.borrow(),
+            AudioState::PlayingTts,
+            "Echo Guard must stay in PlayingTts while pre-buffering"
+        );
+
+        // Chunk 2: +60 ms @ 16 kHz (total 160 ms >= 150 ms) flushes conditioned 48 kHz stereo at 1.0x.
+        pcm_tx
+            .send(PcmChunk {
+                samples: vec![2000_i16; 960],
+                sample_rate_hz: 16_000,
+                is_final: false,
+            })
+            .await
+            .unwrap();
+        for _ in 0..20 {
+            if sim_out.appended_count() >= 1 {
+                break;
+            }
+            tokio::time::sleep(Duration::from_millis(10)).await;
+        }
+        assert!(sim_out.appended_count() >= 1);
+        assert_eq!(sim_out.appended_meta()[0].1, 48_000);
+        assert_eq!(sim_out.appended_meta()[0].2, 1.0);
+        assert_eq!(sim_out.appended_channels()[0], 2);
+
+        // Final chunk: +40 ms @ 16 kHz -> flushes remaining tail cleanly and completes playback.
+        pcm_tx
+            .send(PcmChunk {
+                samples: vec![2000_i16; 640],
+                sample_rate_hz: 16_000,
+                is_final: true,
+            })
+            .await
+            .unwrap();
+        play_task.await.unwrap().unwrap();
+        assert!(sim_out.appended_count() >= 2);
+        for (len, rate, speed) in sim_out.appended_meta() {
+            assert!(len > 0);
+            assert_eq!(rate, 48_000);
+            assert_eq!(speed, 1.0);
+        }
+
+        // Wait for Echo Guard cooldown -> Idle, then verify replay uses full 200 ms clip.
+        tokio::time::sleep(Duration::from_millis(70)).await;
+        assert_eq!(*state_rx.borrow(), AudioState::Idle);
+        handle.replay_last().await.unwrap();
+        let last_meta = *sim_out.appended_meta().last().unwrap();
+        // 200 ms @ 16 kHz -> 200 ms @ 48 kHz stereo = 9600 * 2 = 19_200 samples
+        assert_eq!(last_meta, (19_200, 48_000, 1.0));
 
         handle.shutdown();
     }

@@ -12,6 +12,8 @@ use std::path::{Path, PathBuf};
 
 const STT_SAMPLE_RATE_HZ: i32 = 16_000;
 const STT_FEATURE_DIM: i32 = 80;
+/// Trailing silence appended to offline STT buffers (300 ms at 16 kHz) so final Tamil syllables are not clipped.
+pub(crate) const OFFLINE_STT_TRAILING_SILENCE_SAMPLES: usize = 4_800;
 
 /// Discovered ONNX transducer artifacts for streaming English ASR.
 #[derive(Debug, Clone, PartialEq, Eq)]
@@ -73,8 +75,9 @@ impl SttEngine {
                 rec.get_result(&stream).map(|r| r.text).unwrap_or_default()
             }
             Self::Tamil(rec) => {
+                let padded = prepare_offline_stt_samples(&clean);
                 let stream = rec.create_stream();
-                stream.accept_waveform(STT_SAMPLE_RATE_HZ, &clean);
+                stream.accept_waveform(STT_SAMPLE_RATE_HZ, &padded);
                 rec.decode(&stream);
                 stream.get_result().map(|r| r.text).unwrap_or_default()
             }
@@ -82,6 +85,18 @@ impl SttEngine {
 
         Ok(normalize_nfc_trimmed(&raw_text))
     }
+}
+
+/// Sanitize non-finite samples and append `300 ms` (`4_800` samples) of zero-padding for offline STT.
+pub(crate) fn prepare_offline_stt_samples(samples_16k: &[f32]) -> Vec<f32> {
+    let mut padded = Vec::with_capacity(samples_16k.len() + OFFLINE_STT_TRAILING_SILENCE_SAMPLES);
+    padded.extend(
+        samples_16k
+            .iter()
+            .map(|&s| if s.is_finite() { s } else { 0.0 }),
+    );
+    padded.resize(samples_16k.len() + OFFLINE_STT_TRAILING_SILENCE_SAMPLES, 0.0);
+    padded
 }
 
 /// Discover streaming English Zipformer transducer files under `models_dir/stt_en/`.
@@ -375,5 +390,17 @@ mod tests {
         let err =
             load_stt_for_language(dir.path(), Language::English, &AiConfig::default()).unwrap_err();
         assert!(matches!(err, AiError::ModelLoad(_)));
+    }
+
+    #[test]
+    fn offline_stt_appends_300ms_trailing_silence_and_sanitizes_non_finite() {
+        let input = [0.25_f32, f32::NAN, -0.5, f32::INFINITY];
+        let padded = prepare_offline_stt_samples(&input);
+        assert_eq!(padded.len(), input.len() + 4_800);
+        assert_eq!(padded[0], 0.25);
+        assert_eq!(padded[1], 0.0);
+        assert_eq!(padded[2], -0.5);
+        assert_eq!(padded[3], 0.0);
+        assert!(padded[4..].iter().all(|&s| s == 0.0));
     }
 }

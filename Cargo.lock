@@ -2952,6 +2952,7 @@ dependencies = [
  "kural-core",
  "kural-db",
  "rustfft",
+ "serde_json",
  "sherpa-onnx",
  "tempfile",
  "thiserror 2.0.21",
