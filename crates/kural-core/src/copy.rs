@@ -91,6 +91,24 @@ pub const VOICE_LOOP_SILENCE_STOP_NOTICE: BilingualCopy = BilingualCopy {
     en: "Voice-to-Voice Loop paused after silence.",
 };
 
+/// Bilingual confirmation toast when automatic or manual Start-screen voice routing opens Kids mode.
+pub const AGE_MODE_OPENED_KIDS: BilingualCopy = BilingualCopy {
+    ta: "குழந்தைகள் பகுதி திறக்கப்பட்டது",
+    en: "Kids mode opened",
+};
+
+/// Bilingual confirmation toast when automatic or manual Start-screen voice routing opens Youth mode.
+pub const AGE_MODE_OPENED_YOUTH: BilingualCopy = BilingualCopy {
+    ta: "இளைஞர் பகுதி திறக்கப்பட்டது",
+    en: "Youth mode opened",
+};
+
+/// Bilingual confirmation toast when automatic or manual Start-screen voice routing opens Adult mode.
+pub const AGE_MODE_OPENED_ADULT: BilingualCopy = BilingualCopy {
+    ta: "பெரியவர் பகுதி திறக்கப்பட்டது",
+    en: "Adult mode opened",
+};
+
 /// Return locked bilingual retry copy for Voice Age Detection quality rejections.
 pub const fn retry_copy(reason: RetryReason) -> BilingualCopy {
     match reason {
@@ -147,6 +165,9 @@ mod tests {
             VOICE_LOOP_ON_NOTICE,
             VOICE_LOOP_OFF_NOTICE,
             VOICE_LOOP_SILENCE_STOP_NOTICE,
+            AGE_MODE_OPENED_KIDS,
+            AGE_MODE_OPENED_YOUTH,
+            AGE_MODE_OPENED_ADULT,
             retry_copy(RetryReason::TooShort),
             retry_copy(RetryReason::TooQuiet),
             retry_copy(RetryReason::TooNoisy),

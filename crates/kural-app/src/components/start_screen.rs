@@ -3,11 +3,40 @@ use crate::components::icons::MicIcon;
 use crate::copy::{age_label, tr};
 use crate::state::{AppContext, is_voice_active};
 use dioxus::prelude::*;
-use kural_core::{AgeGroup, AgeOutcome, BackendCommand, retry_copy};
+use kural_core::{AgeGroup, AgeOutcome, AppScreen, BackendCommand, retry_copy};
+use std::time::Duration;
+
+fn bump_session(mut sig: Signal<u64>) -> u64 {
+    let next = sig.peek().wrapping_add(1);
+    sig.set(next);
+    next
+}
 
 #[component]
 pub fn StartScreen() -> Element {
     let ctx = use_context::<AppContext>();
+    let boot = use_context::<crate::BootContext>();
+    let auto_armed_start_session = use_signal(|| 0_u64);
+
+    use_hook(move || {
+        if !boot.verify_layout && ctx.snapshot.peek().auto_age_route_on_start {
+            let mut age_sig = ctx.age_result;
+            age_sig.set(None);
+            let token = bump_session(auto_armed_start_session);
+            spawn(async move {
+                tokio::time::sleep(Duration::from_millis(350)).await;
+                let snap_now = ctx.snapshot.peek().clone();
+                if *auto_armed_start_session.peek() == token
+                    && snap_now.screen == AppScreen::Start
+                    && !is_voice_active(snap_now.audio_state)
+                    && snap_now.modal.is_none()
+                {
+                    ctx.dispatch(BackendCommand::EnterStartAutoListen);
+                }
+            });
+        }
+    });
+
     let snap = ctx.snapshot.read().clone();
     let lang = snap.prefs.lang;
     let listening = is_voice_active(snap.audio_state);
@@ -22,6 +51,26 @@ pub fn StartScreen() -> Element {
         "pi-mic-btn is-listening"
     } else {
         "pi-mic-btn"
+    };
+
+    let hint_full = if listening {
+        tr(
+            lang,
+            "தானாகக் கேட்கிறது — பேசினால் உங்கள் வயதுப் பிரிவு திறக்கும்",
+            "Listening automatically — speak to open Child, Teen, or Adult mode",
+        )
+    } else {
+        tr(
+            lang,
+            "மைக்கை அழுத்தி பேசுங்கள் (எ.கா. \"வணக்கம், திருக்குறள் கற்க விரும்புகிறேன்\")",
+            "Tap the microphone and speak (e.g. \"Hello, I want to learn Thirukkural\")",
+        )
+    };
+
+    let hint_short = if listening {
+        tr(lang, "தானாகக் கேட்கிறது...", "Auto listening...")
+    } else {
+        tr(lang, "தட்டிப் பேசுங்கள்", "Tap & speak")
     };
 
     rsx! {
@@ -48,11 +97,12 @@ pub fn StartScreen() -> Element {
                 div { class: "pi-zone-2",
                     // Left 5 cols: Portrait & Heritage Identity
                     section { class: "pi-hero-col",
-                        div { class: "pi-portrait-wrap",
+                        div { class: "pi-portrait-wrap hero-medallion-frame",
                             img {
                                 id: "valluvar-portrait",
-                                src: "/kural/valluvar-portrait.png",
-                                alt: "Illustrated portrait of Thiruvalluvar holding a palm-leaf manuscript",
+                                class: "hero-portrait-img",
+                                src: "/kural/app-logo.png",
+                                alt: "Thiruvalluvar AI dark-emerald and gold medallion emblem",
                             }
                         }
                         span { class: "pi-badge-full",
@@ -87,6 +137,7 @@ pub fn StartScreen() -> Element {
                                     class: "{mic_class}",
                                     aria_label: tr(lang, "பேசுக", "Speak"),
                                     onclick: move |_| {
+                                        bump_session(auto_armed_start_session);
                                         if listening {
                                             ctx.dispatch(BackendCommand::CancelVoice);
                                         } else {
@@ -104,12 +155,8 @@ pub fn StartScreen() -> Element {
                                 }
                             }
 
-                            p { class: "pi-hint-full",
-                                "{tr(lang, \"மைக்கை அழுத்தி பேசுங்கள் (எ.கா. \\\"வணக்கம், திருக்குறள் கற்க விரும்புகிறேன்\\\")\", \"Tap the microphone and speak (e.g. \\\"Hello, I want to learn Thirukkural\\\")\")}"
-                            }
-                            p { class: "pi-hint-short",
-                                "{tr(lang, \"தட்டிப் பேசுங்கள்\", \"Tap & speak\")}"
-                            }
+                            p { class: "pi-hint-full", "{hint_full}" }
+                            p { class: "pi-hint-short", "{hint_short}" }
 
                             // Age AI result / Retry readout
                             if let Some(outcome) = age_outcome.clone() {
@@ -132,7 +179,10 @@ pub fn StartScreen() -> Element {
                                                 button {
                                                     r#type: "button",
                                                     class: "detect-continue-btn",
-                                                    onclick: move |_| ctx.dispatch(BackendCommand::SelectAge(det.age)),
+                                                    onclick: move |_| {
+                                                        bump_session(auto_armed_start_session);
+                                                        ctx.dispatch(BackendCommand::SelectAge(det.age));
+                                                    },
                                                     "{tr(lang, \"உள்ளே செல் →\", \"Continue →\")}"
                                                 }
                                             }
@@ -171,7 +221,10 @@ pub fn StartScreen() -> Element {
                                         button {
                                             r#type: "button",
                                             class: "{card_cls}",
-                                            onclick: move |_| ctx.dispatch(BackendCommand::SelectAge(AgeGroup::Kids)),
+                                            onclick: move |_| {
+                                                bump_session(auto_armed_start_session);
+                                                ctx.dispatch(BackendCommand::SelectAge(AgeGroup::Kids));
+                                            },
                                             span { class: "pi-age-icon age-icon-kids", aria_hidden: "true",
                                                 svg { view_box: "0 0 24 24", width: "18", height: "18", fill: "none", stroke: "currentColor", stroke_width: "2",
                                                     circle { cx: "12", cy: "12", r: "9" }
@@ -186,7 +239,10 @@ pub fn StartScreen() -> Element {
                                         button {
                                             r#type: "button",
                                             class: "{card_cls}",
-                                            onclick: move |_| ctx.dispatch(BackendCommand::SelectAge(AgeGroup::Youth)),
+                                            onclick: move |_| {
+                                                bump_session(auto_armed_start_session);
+                                                ctx.dispatch(BackendCommand::SelectAge(AgeGroup::Youth));
+                                            },
                                             span { class: "pi-age-icon age-icon-youth", aria_hidden: "true",
                                                 svg { view_box: "0 0 24 24", width: "18", height: "18", fill: "none", stroke: "currentColor", stroke_width: "2",
                                                     circle { cx: "12", cy: "12", r: "9" }
@@ -200,7 +256,10 @@ pub fn StartScreen() -> Element {
                                         button {
                                             r#type: "button",
                                             class: "{card_cls}",
-                                            onclick: move |_| ctx.dispatch(BackendCommand::SelectAge(AgeGroup::Adult)),
+                                            onclick: move |_| {
+                                                bump_session(auto_armed_start_session);
+                                                ctx.dispatch(BackendCommand::SelectAge(AgeGroup::Adult));
+                                            },
                                             span { class: "pi-age-icon age-icon-adult", aria_hidden: "true",
                                                 svg { view_box: "0 0 24 24", width: "18", height: "18", fill: "none", stroke: "currentColor", stroke_width: "2",
                                                     path { d: "M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20" }

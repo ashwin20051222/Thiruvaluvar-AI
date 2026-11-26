@@ -8,14 +8,15 @@ use kural_audio::{
     hash_tts_content,
 };
 use kural_core::{
-    AUTO_SPEAK_OFF_NOTICE, AUTO_SPEAK_ON_NOTICE, ActiveFilter, AgeGroup, AgeOutcome, AppConfig,
-    AppScreen, AudioPlaybackStatus, AudioState, BackendCommand, CaptureMode, CorpusCatalog,
-    GroundedAnswer, KuralSummary, ModalKind, NOTHING_TO_REPLAY_NOTICE, OOS_VOICE_TTS_REFUSAL,
+    AGE_MODE_OPENED_ADULT, AGE_MODE_OPENED_KIDS, AGE_MODE_OPENED_YOUTH, AUTO_SPEAK_OFF_NOTICE,
+    AUTO_SPEAK_ON_NOTICE, ActiveFilter, AgeDetection, AgeGroup, AgeOutcome, AppConfig, AppScreen,
+    AudioPlaybackStatus, AudioState, BackendCommand, CaptureMode, CorpusCatalog, GroundedAnswer,
+    KuralSummary, ModalKind, NOTHING_TO_REPLAY_NOTICE, OOS_VOICE_TTS_REFUSAL,
     PARIMEL_FALLBACK_NOTICE, REPLAY_AUDIO_NOTICE, REPLAY_FULL_EXCHANGE_NOTICE,
     REPLAY_USER_VOICE_NOTICE, RetryReason, Scholar, SystemHealth, UiSnapshot, UiTransientEvent,
     VOICE_ADHIKARAM_RANGE_ERROR, VOICE_KURAL_RANGE_ERROR, VOICE_LOOP_OFF_NOTICE,
     VOICE_LOOP_ON_NOTICE, VOICE_LOOP_SILENCE_STOP_NOTICE, VoiceReplayMode, VoiceTurnSummary,
-    effective_tts_speed, retry_copy, snap_speech_speed,
+    effective_tts_speed, normalize_nfc_trimmed, retry_copy, snap_speech_speed,
 };
 use kural_db::{KuralDb, UserStateStore};
 use kural_voice_cmd::{RouterContext, validate_voice_transcript};
@@ -45,10 +46,15 @@ enum ControllerMsg {
 
 enum InternalMsg {
     SpeechCapsUpdated(SpeechCapabilities),
-    AgeDetectDone {
+    StartVoiceAutoRouteDone {
         session_id: u64,
         nav_epoch: u64,
+        lang: kural_core::Language,
+        auto_triggered: bool,
         outcome: AgeOutcome,
+        transcript: Option<String>,
+        captured_user_16k: Option<Arc<[f32]>>,
+        caps: Option<SpeechCapabilities>,
     },
     VoiceCmdTranscribed {
         session_id: u64,
@@ -172,6 +178,7 @@ impl BackendHandle {
             can_replay_tts: false,
             can_replay_voice_turn: false,
             auto_speak_text: prefs.auto_speak_text,
+            auto_age_route_on_start: true,
             voice_to_voice_loop: false,
             active_replay_label: None,
             system_health,
@@ -592,7 +599,16 @@ impl BackendController {
                 self.publish_snapshot();
             }
             BackendCommand::CloseModal => {}
-            BackendCommand::StartVoiceAgeDetect => self.start_voice_age_detect(),
+            BackendCommand::EnterStartAutoListen => {
+                if self.state.screen != AppScreen::Start
+                    || self.active_voice_task.is_some()
+                    || !self.audio.health().input_ok
+                {
+                    return;
+                }
+                self.start_voice_age_detect(true);
+            }
+            BackendCommand::StartVoiceAgeDetect => self.start_voice_age_detect(false),
             BackendCommand::StartVoiceCommand => self.start_voice_command(),
             BackendCommand::CancelVoice => {
                 self.disarm_voice_loop();
@@ -801,24 +817,26 @@ impl BackendController {
                 self.state.system_health.active_tts_loaded = caps.active_tts_loaded;
                 self.publish_snapshot();
             }
-            InternalMsg::AgeDetectDone {
+            InternalMsg::StartVoiceAutoRouteDone {
                 session_id,
                 nav_epoch,
+                lang,
+                auto_triggered,
                 outcome,
+                transcript,
+                captured_user_16k,
+                caps,
             } => {
-                if session_id != self.voice_session_id || nav_epoch != self.nav_epoch {
-                    return;
-                }
-                self.active_voice_task = None;
-                let kind = match &outcome {
-                    AgeOutcome::Detected(_) => EarconKind::CmdRecognized,
-                    AgeOutcome::Retry(_) => EarconKind::RetryTone,
-                };
-                let audio = self.audio.clone();
-                tokio::spawn(async move {
-                    let _ = audio.play_earcon(kind).await;
+                self.handle_start_voice_auto_route_done(StartVoiceAutoRouteData {
+                    session_id,
+                    nav_epoch,
+                    lang,
+                    auto_triggered,
+                    outcome,
+                    transcript,
+                    captured_user_16k,
+                    caps,
                 });
-                self.emit_event(UiTransientEvent::AgeResult(outcome));
             }
             InternalMsg::VoiceCmdTranscribed {
                 session_id,
@@ -1232,56 +1250,244 @@ impl BackendController {
         }
     }
 
-    fn start_voice_age_detect(&mut self) {
+    fn start_voice_age_detect(&mut self, auto_triggered: bool) {
         self.cancel_active_tts();
         self.cancel_active_capture();
         self.nav_epoch = self.nav_epoch.wrapping_add(1);
         let session_id = self.voice_session_id;
         let nav_epoch = self.nav_epoch;
+        let lang = self.state.prefs.lang;
 
         let audio = self.audio.clone();
         let clf = self.age_classifier.clone();
-        let duration_ms = self.config.audio.age_sample_duration_ms;
+        let age_ai_cfg = self.config.age_ai.clone();
+        let max_duration_ms = self.config.audio.max_command_duration_ms;
+        let ai_worker = self.ai_worker.clone();
         let internal_tx = self.internal_tx.clone();
         let cancel = CancellationToken::new();
         let task_cancel = cancel.clone();
 
         let handle = tokio::spawn(async move {
-            let outcome = match audio
-                .start_capture(CaptureMode::FixedAgeSample { duration_ms })
+            let captured = match audio
+                .start_capture(CaptureMode::VadCommand { max_duration_ms })
                 .await
             {
-                Ok(captured) => {
+                Ok(c) => c,
+                Err(AudioError::Cancelled | AudioError::CaptureInProgress) => return,
+                Err(AudioError::Timeout) => {
                     if task_cancel.is_cancelled() {
                         return;
                     }
-                    tokio::task::spawn_blocking(move || clf.classify(&captured))
-                        .await
-                        .unwrap_or(AgeOutcome::Retry(RetryReason::TooShort))
+                    let _ = internal_tx
+                        .send(InternalMsg::StartVoiceAutoRouteDone {
+                            session_id,
+                            nav_epoch,
+                            lang,
+                            auto_triggered,
+                            outcome: AgeOutcome::Retry(RetryReason::TooShort),
+                            transcript: None,
+                            captured_user_16k: None,
+                            caps: None,
+                        })
+                        .await;
+                    return;
                 }
-                Err(AudioError::Cancelled | AudioError::CaptureInProgress) => return,
-                Err(AudioError::Timeout) => AgeOutcome::Retry(RetryReason::TooShort),
                 Err(AudioError::DeviceUnavailable(_)) => {
-                    AgeOutcome::Retry(RetryReason::HardwareUnavailable)
+                    if auto_triggered || task_cancel.is_cancelled() {
+                        return;
+                    }
+                    let _ = internal_tx
+                        .send(InternalMsg::StartVoiceAutoRouteDone {
+                            session_id,
+                            nav_epoch,
+                            lang,
+                            auto_triggered,
+                            outcome: AgeOutcome::Retry(RetryReason::HardwareUnavailable),
+                            transcript: None,
+                            captured_user_16k: None,
+                            caps: None,
+                        })
+                        .await;
+                    return;
                 }
                 Err(err) => {
                     eprintln!("kural-backend: voice age capture error: {err}");
-                    AgeOutcome::Retry(RetryReason::TooShort)
+                    if auto_triggered || task_cancel.is_cancelled() {
+                        return;
+                    }
+                    let _ = internal_tx
+                        .send(InternalMsg::StartVoiceAutoRouteDone {
+                            session_id,
+                            nav_epoch,
+                            lang,
+                            auto_triggered,
+                            outcome: AgeOutcome::Retry(RetryReason::TooShort),
+                            transcript: None,
+                            captured_user_16k: None,
+                            caps: None,
+                        })
+                        .await;
+                    return;
                 }
             };
+
+            if task_cancel.is_cancelled() {
+                return;
+            }
+
+            let (outcome, samples_16k) = tokio::task::spawn_blocking(move || {
+                let mut outcome = clf.classify(&captured);
+                if matches!(outcome, AgeOutcome::Retry(RetryReason::TooShort))
+                    && captured.voiced_ms >= 400
+                    && captured.snr_db.is_finite()
+                    && captured.snr_db >= age_ai_cfg.min_snr_db
+                    && captured.clipping_ratio.is_finite()
+                    && captured.clipping_ratio < age_ai_cfg.max_clipping_ratio
+                    && captured.rms_level.is_finite()
+                    && captured.rms_level >= 0.005
+                {
+                    let mut relaxed_cfg = age_ai_cfg;
+                    relaxed_cfg.min_voiced_ms = 400;
+                    outcome = AgeClassifier::new(relaxed_cfg).classify(&captured);
+                }
+                (outcome, captured.samples_16k)
+            })
+            .await
+            .unwrap_or_else(|_| (AgeOutcome::Retry(RetryReason::TooShort), Vec::new()));
+
+            if task_cancel.is_cancelled() {
+                return;
+            }
+
+            let captured_user_16k: Option<Arc<[f32]>> = if samples_16k.is_empty() {
+                None
+            } else {
+                Some(Arc::from(samples_16k.as_slice()))
+            };
+
+            let mut transcript: Option<String> = None;
+            let mut caps: Option<SpeechCapabilities> = None;
+            if !samples_16k.is_empty()
+                && !task_cancel.is_cancelled()
+                && let Ok((txt, c)) = ai_worker.transcribe(samples_16k, lang).await
+            {
+                let trimmed = txt.trim();
+                if !trimmed.is_empty() {
+                    transcript = Some(trimmed.to_string());
+                }
+                caps = Some(c);
+            }
+
             if task_cancel.is_cancelled() {
                 return;
             }
             let _ = internal_tx
-                .send(InternalMsg::AgeDetectDone {
+                .send(InternalMsg::StartVoiceAutoRouteDone {
                     session_id,
                     nav_epoch,
+                    lang,
+                    auto_triggered,
                     outcome,
+                    transcript,
+                    captured_user_16k,
+                    caps,
                 })
                 .await;
         });
 
         self.active_voice_task = Some((handle, cancel));
+    }
+
+    fn handle_start_voice_auto_route_done(&mut self, data: StartVoiceAutoRouteData) {
+        if data.session_id != self.voice_session_id
+            || data.nav_epoch != self.nav_epoch
+            || self.state.screen != AppScreen::Start
+        {
+            return;
+        }
+        if let Some(c) = data.caps {
+            self.state.system_health.active_stt_loaded = c.active_stt_loaded;
+            self.state.system_health.active_tts_loaded = c.active_tts_loaded;
+        }
+        self.active_voice_task = None;
+
+        let Some(target_age) =
+            resolve_start_voice_age_route(&data.outcome, data.transcript.as_deref())
+        else {
+            if data.caps.is_some() {
+                self.publish_snapshot();
+            }
+            if !data.auto_triggered {
+                self.audio.play_earcon_nowait(EarconKind::RetryTone);
+            }
+            self.emit_event(UiTransientEvent::AgeResult(data.outcome));
+            return;
+        };
+
+        let effective_outcome = match data.outcome {
+            AgeOutcome::Detected(mut det) => {
+                if det.age != target_age {
+                    det.age = target_age;
+                    det.confidence = det.confidence.max(0.95);
+                    det.low_confidence = false;
+                }
+                AgeOutcome::Detected(det)
+            }
+            AgeOutcome::Retry(_) => AgeOutcome::Detected(AgeDetection {
+                age: target_age,
+                confidence: 1.0,
+                low_confidence: false,
+                f0_hz: 0.0,
+                formant_dispersion_hz: 0.0,
+                vtl_cm: 0.0,
+                latency_ms: 0,
+            }),
+        };
+
+        self.audio.play_earcon_nowait(EarconKind::CmdRecognized);
+        self.emit_event(UiTransientEvent::AgeResult(effective_outcome));
+
+        let opened_copy = match target_age {
+            AgeGroup::Kids => AGE_MODE_OPENED_KIDS,
+            AgeGroup::Youth => AGE_MODE_OPENED_YOUTH,
+            AgeGroup::Adult => AGE_MODE_OPENED_ADULT,
+        };
+        self.emit_event(UiTransientEvent::InfoToast {
+            message_ta: opened_copy.ta.to_string(),
+            message_en: opened_copy.en.to_string(),
+        });
+
+        self.switch_age_screen(target_age);
+
+        let ctx = RouterContext {
+            screen: self.state.screen,
+            modal: self.state.modal,
+            active_kural: self.state.current_kural.kural.number,
+            active_scholar: self.state.effective_scholar,
+            speech_speed: self.state.prefs.speech_speed,
+            muted: self.state.prefs.muted,
+        };
+
+        if let Some(cmd) =
+            extract_opening_followup_command(data.transcript.as_deref(), data.lang, ctx)
+        {
+            match cmd {
+                BackendCommand::OpenKural(_) | BackendCommand::OpenAdhikaram(_) => {
+                    self.handle_command(cmd);
+                }
+                BackendCommand::AskAiQuestion { query, seed_kural } => {
+                    self.push_voice_turn_and_run_ai(
+                        query,
+                        seed_kural,
+                        data.lang,
+                        data.captured_user_16k,
+                        data.session_id,
+                        data.nav_epoch,
+                    );
+                }
+                _ => {}
+            }
+        }
     }
 
     fn start_voice_command(&mut self) {
@@ -1488,32 +1694,10 @@ impl BackendController {
 
                 match outcome.cmd {
                     BackendCommand::AskAiQuestion { query, seed_kural } => {
-                        let turn_id = self.next_voice_turn_id;
-                        self.next_voice_turn_id = self.next_voice_turn_id.saturating_add(1);
-                        let summary = VoiceTurnSummary {
-                            id: turn_id,
-                            user_text: query.clone(),
-                            ai_text: String::new(),
-                            lang,
-                            has_user_audio: captured_user_16k.is_some(),
-                            has_ai_audio: false,
-                            cited_kurals: seed_kural.into_iter().collect(),
-                        };
-                        self.state.recent_voice_turns.push(summary);
-                        while self.state.recent_voice_turns.len() > MAX_VOICE_TURNS {
-                            self.state.recent_voice_turns.remove(0);
-                        }
-                        self.state.can_replay_voice_turn = self
-                            .state
-                            .recent_voice_turns
-                            .iter()
-                            .any(|t| t.has_user_audio || t.has_ai_audio);
-                        self.publish_snapshot();
-                        self.run_voice_ai_question(
+                        self.push_voice_turn_and_run_ai(
                             query,
                             seed_kural,
                             lang,
-                            Some(turn_id),
                             captured_user_16k,
                             session_id,
                             nav_epoch,
@@ -1526,6 +1710,48 @@ impl BackendController {
                 }
             }
         }
+    }
+
+    fn push_voice_turn_and_run_ai(
+        &mut self,
+        query: String,
+        seed_kural: Option<u16>,
+        lang: kural_core::Language,
+        captured_user_16k: Option<Arc<[f32]>>,
+        session_id: u64,
+        nav_epoch: u64,
+    ) {
+        self.cancel_active_tts();
+        let turn_id = self.next_voice_turn_id;
+        self.next_voice_turn_id = self.next_voice_turn_id.saturating_add(1);
+        let summary = VoiceTurnSummary {
+            id: turn_id,
+            user_text: query.clone(),
+            ai_text: String::new(),
+            lang,
+            has_user_audio: captured_user_16k.is_some(),
+            has_ai_audio: false,
+            cited_kurals: seed_kural.into_iter().collect(),
+        };
+        self.state.recent_voice_turns.push(summary);
+        while self.state.recent_voice_turns.len() > MAX_VOICE_TURNS {
+            self.state.recent_voice_turns.remove(0);
+        }
+        self.state.can_replay_voice_turn = self
+            .state
+            .recent_voice_turns
+            .iter()
+            .any(|t| t.has_user_audio || t.has_ai_audio);
+        self.publish_snapshot();
+        self.run_voice_ai_question(
+            query,
+            seed_kural,
+            lang,
+            Some(turn_id),
+            captured_user_16k,
+            session_id,
+            nav_epoch,
+        );
     }
 
     #[allow(clippy::too_many_arguments)]
@@ -2220,6 +2446,194 @@ impl BackendController {
     }
 }
 
+struct StartVoiceAutoRouteData {
+    session_id: u64,
+    nav_epoch: u64,
+    lang: kural_core::Language,
+    auto_triggered: bool,
+    outcome: AgeOutcome,
+    transcript: Option<String>,
+    captured_user_16k: Option<Arc<[f32]>>,
+    caps: Option<SpeechCapabilities>,
+}
+
+#[inline]
+fn is_start_route_token_char(c: char) -> bool {
+    c.is_alphanumeric() || matches!(c, '\u{0B80}'..='\u{0BFF}')
+}
+
+fn tokenize_start_utterance(raw: &str) -> Vec<String> {
+    let nfc = normalize_nfc_trimmed(raw);
+    let mut tokens = Vec::new();
+    let mut current = String::new();
+    for ch in nfc.chars().flat_map(char::to_lowercase) {
+        if is_start_route_token_char(ch) {
+            current.push(ch);
+        } else if !current.is_empty() {
+            tokens.push(std::mem::take(&mut current));
+        }
+    }
+    if !current.is_empty() {
+        tokens.push(current);
+    }
+    tokens
+}
+
+fn match_age_keyword_token(tok: &str) -> Option<AgeGroup> {
+    if matches!(tok, "child" | "children" | "kids" | "kid")
+        || tok.starts_with("சிறுவர்")
+        || tok.starts_with("குழந்தை")
+    {
+        return Some(AgeGroup::Kids);
+    }
+    if matches!(
+        tok,
+        "teen" | "teens" | "teenager" | "teenagers" | "youth" | "student" | "students"
+    ) || tok.starts_with("இளைஞர்")
+        || tok.starts_with("மாணவர்")
+    {
+        return Some(AgeGroup::Youth);
+    }
+    if matches!(
+        tok,
+        "adult" | "adults" | "scholar" | "scholars" | "elder" | "elders"
+    ) || tok.starts_with("பெரியவர்")
+        || tok.starts_with("பெரியோர்")
+        || tok.starts_with("அறிஞர்")
+    {
+        return Some(AgeGroup::Adult);
+    }
+    None
+}
+
+/// Resolve Start-screen voice age route: explicit spoken keywords override acoustic age.
+fn resolve_start_voice_age_route(
+    outcome: &AgeOutcome,
+    transcript: Option<&str>,
+) -> Option<AgeGroup> {
+    if let Some(raw) = transcript {
+        for tok in tokenize_start_utterance(raw) {
+            if let Some(age) = match_age_keyword_token(&tok) {
+                return Some(age);
+            }
+        }
+    }
+    match outcome {
+        AgeOutcome::Detected(det) => Some(det.age),
+        AgeOutcome::Retry(_) => None,
+    }
+}
+
+fn is_opening_greeting_or_age_phrase(raw: &str) -> bool {
+    let tokens = tokenize_start_utterance(raw);
+    if tokens.is_empty() {
+        return true;
+    }
+    tokens.iter().all(|tok| {
+        match_age_keyword_token(tok).is_some()
+            || matches!(
+                tok.as_str(),
+                "hello"
+                    | "hi"
+                    | "hey"
+                    | "vanakkam"
+                    | "namaste"
+                    | "greetings"
+                    | "good"
+                    | "morning"
+                    | "afternoon"
+                    | "evening"
+                    | "there"
+                    | "thiruvalluvar"
+                    | "ai"
+                    | "please"
+                    | "ok"
+                    | "okay"
+                    | "yes"
+                    | "yeah"
+                    | "test"
+                    | "testing"
+                    | "mic"
+                    | "check"
+                    | "i"
+                    | "im"
+                    | "m"
+                    | "am"
+                    | "a"
+                    | "an"
+                    | "the"
+                    | "want"
+                    | "to"
+                    | "learn"
+                    | "study"
+                    | "read"
+                    | "explore"
+                    | "open"
+                    | "start"
+                    | "begin"
+                    | "go"
+                    | "switch"
+                    | "mode"
+                    | "section"
+                    | "screen"
+                    | "age"
+                    | "for"
+                    | "me"
+                    | "my"
+                    | "lets"
+                    | "let"
+                    | "us"
+                    | "thirukkural"
+                    | "kural"
+                    | "வணக்கம்"
+                    | "திருவள்ளுவர்"
+                    | "நன்றி"
+                    | "சரி"
+                    | "வாழ்க"
+                    | "நான்"
+                    | "திருக்குறள்"
+                    | "குறள்"
+                    | "பகுதி"
+                    | "முறை"
+                    | "வயது"
+                    | "திற"
+                    | "வேண்டும்"
+                    | "கற்க"
+                    | "படிக்க"
+            )
+    })
+}
+
+/// Extract an actionable follow-up command (`OpenKural`, `OpenAdhikaram`, or `AskAiQuestion`)
+/// from an opening Start-screen utterance while ignoring greetings and bare age-mode requests.
+fn extract_opening_followup_command(
+    transcript: Option<&str>,
+    lang: kural_core::Language,
+    ctx: RouterContext,
+) -> Option<BackendCommand> {
+    let raw = transcript.map(normalize_nfc_trimmed)?;
+    let valid_chars = raw
+        .chars()
+        .filter(|&c| is_start_route_token_char(c))
+        .count();
+    if valid_chars < 2 {
+        return None;
+    }
+
+    let outcome = validate_voice_transcript(&raw, lang, ctx).ok()?;
+    match outcome.cmd {
+        BackendCommand::OpenKural(_) | BackendCommand::OpenAdhikaram(_) => Some(outcome.cmd),
+        BackendCommand::AskAiQuestion { .. } => {
+            if is_opening_greeting_or_age_phrase(&raw) {
+                None
+            } else {
+                Some(outcome.cmd)
+            }
+        }
+        _ => None,
+    }
+}
+
 fn default_pool_or_fallback(
     corpus: &KuralDb,
     screen: AppScreen,
@@ -2618,5 +3032,358 @@ mod tests {
         assert!(!end_snap.can_replay_tts);
 
         handle.shutdown();
+    }
+
+    fn make_detected_outcome(age: AgeGroup) -> AgeOutcome {
+        AgeOutcome::Detected(AgeDetection {
+            age,
+            confidence: 0.88,
+            low_confidence: false,
+            f0_hz: match age {
+                AgeGroup::Kids => 290.0,
+                AgeGroup::Youth => 195.0,
+                AgeGroup::Adult => 130.0,
+            },
+            formant_dispersion_hz: 1050.0,
+            vtl_cm: 14.5,
+            latency_ms: 12,
+        })
+    }
+
+    fn spawn_test_controller(
+        cfg: &AppConfig,
+    ) -> (
+        BackendController,
+        watch::Receiver<Arc<UiSnapshot>>,
+        mpsc::Receiver<UiTransientEvent>,
+        AudioHandle,
+        AiWorkerHandle,
+    ) {
+        let corpus = KuralDb::open_with_models_dir(&cfg.paths.kural_db, &cfg.paths.models_dir)
+            .expect("open corpus");
+        let catalog = corpus.get_catalog().expect("catalog");
+        let user_state =
+            UserStateStore::open(&cfg.paths.user_state_db, cfg.audio.master_volume)
+                .expect("open user_state");
+        let (prefs, kids_progress, youth_progress, bookmarks) =
+            user_state.load_snapshot_state(&corpus).expect("load state");
+        let current_kural = corpus.get_kural_full(1).expect("kural 1");
+        let pool = default_pool_or_fallback(&corpus, AppScreen::Start, 1).expect("pool");
+        let (ai_worker, speech_caps) =
+            AiWorkerHandle::spawn(&cfg.paths.models_dir, prefs.lang, &cfg.ai)
+                .expect("ai worker");
+        let audio = AudioHandle::spawn(&cfg.audio, None, cfg.ai.tts_cache_max_bytes);
+        let age_classifier = Arc::new(AgeClassifier::new(cfg.age_ai.clone()));
+        let explainer = Arc::new(SemanticExplainer::new(corpus.clone(), cfg.ai.clone()));
+        let requested_scholar = Scholar::MuVa;
+        let effective_scholar = resolve_effective_scholar(&current_kural, requested_scholar);
+        let initial_snapshot = Arc::new(UiSnapshot {
+            prefs: prefs.clone(),
+            screen: AppScreen::Start,
+            modal: None,
+            current_kural,
+            requested_scholar,
+            effective_scholar,
+            active_filter: None,
+            pool_len: pool.len(),
+            pool_idx: 0,
+            kids_progress,
+            youth_progress,
+            bookmarks,
+            audio_state: AudioState::Idle,
+            playback_status: AudioPlaybackStatus::Idle,
+            has_replay_clip: false,
+            recent_voice_turns: Vec::new(),
+            can_replay_tts: false,
+            can_replay_voice_turn: false,
+            auto_speak_text: prefs.auto_speak_text,
+            auto_age_route_on_start: true,
+            voice_to_voice_loop: false,
+            active_replay_label: None,
+            system_health: SystemHealth {
+                db_ok: true,
+                user_state_ok: true,
+                audio_ok: audio.is_healthy(),
+                embeddings_loaded: corpus.embeddings_loaded(),
+                vad_loaded: false,
+                active_stt_loaded: speech_caps.active_stt_loaded,
+                active_tts_loaded: speech_caps.active_tts_loaded,
+            },
+        });
+        let (snapshot_tx, snapshot_rx) = watch::channel(initial_snapshot.clone());
+        let (event_tx, event_rx) = mpsc::channel(EVENT_QUEUE_CAP);
+        let ctrl = BackendController::new(
+            cfg.clone(),
+            corpus,
+            catalog,
+            user_state,
+            audio.clone(),
+            age_classifier,
+            explainer,
+            ai_worker.clone(),
+            snapshot_tx,
+            initial_snapshot,
+            event_tx,
+            pool,
+        );
+        (ctrl, snapshot_rx, event_rx, audio, ai_worker)
+    }
+
+    #[test]
+    fn resolve_start_voice_age_route_handles_acoustic_keywords_and_retry() {
+        assert_eq!(
+            resolve_start_voice_age_route(&make_detected_outcome(AgeGroup::Kids), None),
+            Some(AgeGroup::Kids)
+        );
+        assert_eq!(
+            resolve_start_voice_age_route(&make_detected_outcome(AgeGroup::Youth), Some("hello")),
+            Some(AgeGroup::Youth)
+        );
+        assert_eq!(
+            resolve_start_voice_age_route(&make_detected_outcome(AgeGroup::Adult), None),
+            Some(AgeGroup::Adult)
+        );
+
+        // Explicit English & Tamil keywords override acoustic detection or Retry.
+        let retry = AgeOutcome::Retry(RetryReason::TooShort);
+        assert_eq!(resolve_start_voice_age_route(&retry, None), None);
+        assert_eq!(
+            resolve_start_voice_age_route(&retry, Some("I am a kid")),
+            Some(AgeGroup::Kids)
+        );
+        assert_eq!(
+            resolve_start_voice_age_route(&make_detected_outcome(AgeGroup::Adult), Some("சிறுவர் பகுதி")),
+            Some(AgeGroup::Kids)
+        );
+        assert_eq!(
+            resolve_start_voice_age_route(&retry, Some("குழந்தை")),
+            Some(AgeGroup::Kids)
+        );
+        assert_eq!(
+            resolve_start_voice_age_route(&retry, Some("Open youth student mode")),
+            Some(AgeGroup::Youth)
+        );
+        assert_eq!(
+            resolve_start_voice_age_route(&retry, Some("இளைஞர் மாணவர்")),
+            Some(AgeGroup::Youth)
+        );
+        assert_eq!(
+            resolve_start_voice_age_route(&make_detected_outcome(AgeGroup::Kids), Some("elder scholar")),
+            Some(AgeGroup::Adult)
+        );
+        assert_eq!(
+            resolve_start_voice_age_route(&retry, Some("பெரியவர் அறிஞர்")),
+            Some(AgeGroup::Adult)
+        );
+        assert_eq!(
+            resolve_start_voice_age_route(&retry, Some("பெரியோர்")),
+            Some(AgeGroup::Adult)
+        );
+    }
+
+    #[test]
+    fn extract_opening_followup_command_ignores_greetings_and_routes_commands() {
+        let ctx = RouterContext {
+            screen: AppScreen::Youth,
+            modal: None,
+            active_kural: 481,
+            active_scholar: Scholar::MuVa,
+            speech_speed: 1.0,
+            muted: false,
+        };
+
+        for ignored in [
+            None,
+            Some(""),
+            Some("hello"),
+            Some("hi"),
+            Some("vanakkam"),
+            Some("வணக்கம்"),
+            Some("hello i want to learn thirukkural"),
+            Some("kids"),
+            Some("open youth mode"),
+            Some("i am an adult"),
+            Some("சிறுவர் பகுதி"),
+            Some("பெரியவர் பகுதி"),
+        ] {
+            assert_eq!(
+                extract_opening_followup_command(ignored, Language::English, ctx),
+                None,
+                "expected greeting/age phrase to be ignored: {ignored:?}"
+            );
+        }
+
+        assert_eq!(
+            extract_opening_followup_command(Some("Open Kural 42"), Language::English, ctx),
+            Some(BackendCommand::OpenKural(42))
+        );
+        assert_eq!(
+            extract_opening_followup_command(Some("Adhikaram 10"), Language::English, ctx),
+            Some(BackendCommand::OpenAdhikaram(10))
+        );
+        assert_eq!(
+            extract_opening_followup_command(Some("Explain Kural 1"), Language::English, ctx),
+            Some(BackendCommand::AskAiQuestion {
+                query: "Explain Kural 1".to_string(),
+                seed_kural: Some(481),
+            })
+        );
+    }
+
+    #[test]
+    fn start_voice_auto_route_navigates_with_toast_and_guards_stale_results() {
+        let tmp = TempDir::new().expect("tempdir");
+        let cfg = test_config(&tmp);
+        let rt = tokio::runtime::Runtime::new().unwrap();
+
+        rt.block_on(async {
+            for (age, expected_screen, expected_toast_en) in [
+                (AgeGroup::Kids, AppScreen::Kids, AGE_MODE_OPENED_KIDS.en),
+                (AgeGroup::Youth, AppScreen::Youth, AGE_MODE_OPENED_YOUTH.en),
+                (AgeGroup::Adult, AppScreen::Adult, AGE_MODE_OPENED_ADULT.en),
+            ] {
+                let sub_dir = tmp.path().join(format!("case_{age}"));
+                std::fs::create_dir_all(&sub_dir).unwrap();
+                let mut sub_cfg = cfg.clone();
+                sub_cfg.paths.user_state_db = sub_dir.join("user_state.db");
+
+                let (mut ctrl, snap_rx, mut evt_rx, audio, ai_worker) =
+                    spawn_test_controller(&sub_cfg);
+                assert!(snap_rx.borrow().auto_age_route_on_start);
+
+                ctrl.handle_start_voice_auto_route_done(StartVoiceAutoRouteData {
+                    session_id: ctrl.voice_session_id,
+                    nav_epoch: ctrl.nav_epoch,
+                    lang: Language::English,
+                    auto_triggered: true,
+                    outcome: make_detected_outcome(age),
+                    transcript: Some("hello i want to learn thirukkural".to_string()),
+                    captured_user_16k: None,
+                    caps: None,
+                });
+
+                assert_eq!(ctrl.state.screen, expected_screen);
+                assert_eq!(snap_rx.borrow().screen, expected_screen);
+
+                let mut saw_toast = false;
+                let mut saw_age_result = false;
+                while let Ok(evt) = evt_rx.try_recv() {
+                    match evt {
+                        UiTransientEvent::InfoToast { message_en, .. }
+                            if message_en == expected_toast_en =>
+                        {
+                            saw_toast = true;
+                        }
+                        UiTransientEvent::AgeResult(AgeOutcome::Detected(det))
+                            if det.age == age =>
+                        {
+                            saw_age_result = true;
+                        }
+                        _ => {}
+                    }
+                }
+                assert!(saw_toast, "expected bilingual opened toast for {age}");
+                assert!(saw_age_result, "expected AgeResult for {age}");
+
+                ctrl.cancel_active_tts();
+                ctrl.cancel_active_capture();
+                ai_worker.shutdown();
+                audio.shutdown();
+            }
+
+            // Race guard: manual SelectAge increments nav_epoch and leaves Start; stale result is dropped.
+            let stale_dir = tmp.path().join("case_stale");
+            std::fs::create_dir_all(&stale_dir).unwrap();
+            let mut stale_cfg = cfg.clone();
+            stale_cfg.paths.user_state_db = stale_dir.join("user_state.db");
+            let (mut ctrl, _snap_rx, mut evt_rx, audio, ai_worker) =
+                spawn_test_controller(&stale_cfg);
+
+            let stale_session = ctrl.voice_session_id;
+            let stale_epoch = ctrl.nav_epoch;
+            ctrl.handle_command(BackendCommand::SelectAge(AgeGroup::Adult));
+            assert_eq!(ctrl.state.screen, AppScreen::Adult);
+            assert_ne!(ctrl.nav_epoch, stale_epoch);
+
+            ctrl.handle_start_voice_auto_route_done(StartVoiceAutoRouteData {
+                session_id: stale_session,
+                nav_epoch: stale_epoch,
+                lang: Language::English,
+                auto_triggered: true,
+                outcome: make_detected_outcome(AgeGroup::Kids),
+                transcript: Some("Open Kural 42".to_string()),
+                captured_user_16k: None,
+                caps: None,
+            });
+            assert_eq!(ctrl.state.screen, AppScreen::Adult);
+            assert_ne!(ctrl.state.current_kural.kural.number, 42);
+            while let Ok(evt) = evt_rx.try_recv() {
+                assert!(
+                    !matches!(evt, UiTransientEvent::AgeResult(_)),
+                    "stale result must not emit AgeResult"
+                );
+            }
+
+            // Opening follow-up command & question routing.
+            let cmd_dir = tmp.path().join("case_followup_cmd");
+            std::fs::create_dir_all(&cmd_dir).unwrap();
+            let mut cmd_cfg = cfg.clone();
+            cmd_cfg.paths.user_state_db = cmd_dir.join("user_state.db");
+            let (mut ctrl_cmd, _snap_rx2, _evt_rx2, audio2, ai_worker2) =
+                spawn_test_controller(&cmd_cfg);
+            ctrl_cmd.handle_start_voice_auto_route_done(StartVoiceAutoRouteData {
+                session_id: ctrl_cmd.voice_session_id,
+                nav_epoch: ctrl_cmd.nav_epoch,
+                lang: Language::English,
+                auto_triggered: true,
+                outcome: make_detected_outcome(AgeGroup::Youth),
+                transcript: Some("Open Kural 42".to_string()),
+                captured_user_16k: None,
+                caps: None,
+            });
+            assert_eq!(ctrl_cmd.state.screen, AppScreen::Youth);
+            assert_eq!(ctrl_cmd.state.current_kural.kural.number, 42);
+
+            // Reset back to Start and test opening AskAiQuestion followup with captured user audio.
+            ctrl_cmd.handle_command(BackendCommand::Navigate(AppScreen::Start));
+            let user_pcm: Arc<[f32]> = Arc::from(vec![0.1_f32; 320].as_slice());
+            ctrl_cmd.handle_start_voice_auto_route_done(StartVoiceAutoRouteData {
+                session_id: ctrl_cmd.voice_session_id,
+                nav_epoch: ctrl_cmd.nav_epoch,
+                lang: Language::English,
+                auto_triggered: false,
+                outcome: make_detected_outcome(AgeGroup::Adult),
+                transcript: Some("Explain Kural 1".to_string()),
+                captured_user_16k: Some(user_pcm),
+                caps: None,
+            });
+            assert_eq!(ctrl_cmd.state.screen, AppScreen::Adult);
+            assert_eq!(ctrl_cmd.state.recent_voice_turns.len(), 1);
+            assert_eq!(
+                ctrl_cmd.state.recent_voice_turns[0].user_text,
+                "Explain Kural 1"
+            );
+            assert!(ctrl_cmd.state.recent_voice_turns[0].has_user_audio);
+
+            // Wait for VoiceAiDone message from run_voice_ai_question and process it.
+            let ai_msg = tokio::time::timeout(Duration::from_secs(3), ctrl_cmd.internal_rx.recv())
+                .await
+                .expect("voice ai timeout")
+                .expect("voice ai msg");
+            ctrl_cmd.handle_internal(ai_msg);
+            assert!(matches!(
+                ctrl_cmd.state.modal,
+                Some(ModalKind::AiChat { .. })
+            ));
+
+            ctrl_cmd.cancel_active_tts();
+            ctrl_cmd.cancel_active_capture();
+            ai_worker2.shutdown();
+            audio2.shutdown();
+            ctrl.cancel_active_tts();
+            ctrl.cancel_active_capture();
+            ai_worker.shutdown();
+            audio.shutdown();
+        });
     }
 }

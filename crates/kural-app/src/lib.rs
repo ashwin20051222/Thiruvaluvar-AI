@@ -91,11 +91,11 @@ enum ConnectedScreenTier {
 }
 
 #[derive(Clone)]
-struct BootContext {
+pub(crate) struct BootContext {
     backend: BackendHandle,
     toast_duration_ms: u64,
     audit_viewport: AuditViewport,
-    verify_layout: bool,
+    pub(crate) verify_layout: bool,
     auto_adapt_screen: bool,
 }
 

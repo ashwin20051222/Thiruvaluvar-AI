@@ -477,6 +477,7 @@ pub enum BackendCommand {
     OpenModal(ModalKind),
     CloseModal,
 
+    EnterStartAutoListen,
     StartVoiceAgeDetect,
     StartVoiceCommand,
     CancelVoice,
@@ -531,6 +532,10 @@ pub enum BackendCommand {
     },
 }
 
+const fn default_auto_age_route_on_start() -> bool {
+    true
+}
+
 /// Complete coherent UI state snapshot pushed via `watch::Sender<Arc<UiSnapshot>>`.
 #[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
 pub struct UiSnapshot {
@@ -554,6 +559,8 @@ pub struct UiSnapshot {
     pub can_replay_tts: bool,
     pub can_replay_voice_turn: bool,
     pub auto_speak_text: bool,
+    #[serde(default = "default_auto_age_route_on_start")]
+    pub auto_age_route_on_start: bool,
     pub voice_to_voice_loop: bool,
     pub active_replay_label: Option<String>,
     pub system_health: SystemHealth,
