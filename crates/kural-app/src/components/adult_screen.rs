@@ -5,10 +5,9 @@
 //! Daily Wisdom Reflection + 4 `.royal-subcard` Research Themes + Saved Bookmarks,
 //! standardized `[0.75×, 1.0×, 1.25×]` speed dock, and 5-slot Pi dock.
 
+use crate::components::ContentPlaybackButton;
 use crate::components::header::TopHeader;
-use crate::components::icons::{
-    ChatIcon, MicIcon, ReplayIcon, SearchIcon, SpeakerIcon, StopSquareIcon,
-};
+use crate::components::icons::{ChatIcon, MicIcon, SearchIcon};
 use crate::copy::{
     ALL_SCHOLARS, commentary_text, next_scholar, paginate_sentences, research_theme_label,
     scholar_label, tr,
@@ -16,9 +15,8 @@ use crate::copy::{
 use crate::state::{AppContext, is_voice_active};
 use dioxus::prelude::*;
 use kural_core::{
-    ActiveFilter, AudioState, BackendCommand, CompactTabHint, Language, ModalKind,
-    PARIMEL_FALLBACK_NOTICE, ResearchTheme, SPEECH_SPEED_PRESETS, Scholar, SearchTab, SpeakTarget,
-    Theme, step_speech_speed,
+    ActiveFilter, BackendCommand, CompactTabHint, Language, ModalKind, PARIMEL_FALLBACK_NOTICE,
+    ResearchTheme, SPEECH_SPEED_PRESETS, Scholar, SearchTab, SpeakTarget, Theme, step_speech_speed,
 };
 
 #[component]
@@ -31,7 +29,6 @@ pub fn AdultScreen() -> Element {
     let kural_num = full.kural.number;
     let effective_scholar = snap.effective_scholar;
     let requested_scholar = snap.requested_scholar;
-    let is_speaking = snap.audio_state == AudioState::PlayingTts;
     let voice_active = is_voice_active(snap.audio_state);
     let speed = snap.prefs.speech_speed;
 
@@ -299,33 +296,14 @@ pub fn AdultScreen() -> Element {
 
                         // Action Row (+ inline Pi sentence pager when in Commentary/Study tabs)
                         div { id: "kural-actions", class: "kural-actions-row",
-                            if is_speaking {
-                                button {
-                                    id: "btn-listen",
-                                    r#type: "button",
-                                    class: "royal-btn action-pill-btn action-pill-stop",
-                                    onclick: move |_| ctx.dispatch(BackendCommand::StopAudio),
-                                    StopSquareIcon {}
-                                    span { "{tr(lang, \"நிறுத்து\", \"Stop\")}" }
-                                }
-                            } else {
-                                button {
-                                    id: "btn-listen",
-                                    r#type: "button",
-                                    class: "royal-btn action-pill-btn action-pill-primary",
-                                    onclick: move |_| ctx.dispatch(BackendCommand::SpeakCurrent(SpeakTarget::ScholarCommentary(effective_scholar))),
-                                    SpeakerIcon {}
-                                    span { "{tr(lang, \"கேள்\", \"Listen\")}" }
-                                }
-                            }
-                            button {
-                                r#type: "button",
-                                class: "royal-btn action-pill-btn",
-                                aria_label: tr(lang, "மீண்டும் கேள்", "Replay"),
-                                disabled: !snap.can_replay_tts,
-                                onclick: move |_| ctx.dispatch(BackendCommand::ReplayLastTts),
-                                ReplayIcon {}
-                                span { class: "desktop-only replay-text", "{tr(lang, \"மீண்டும்\", \"Replay\")}" }
+                            ContentPlaybackButton {
+                                btn_base: "royal-btn",
+                                button_id: Some("btn-listen"),
+                                playback_status: snap.playback_status,
+                                audio_state: snap.audio_state,
+                                can_replay_tts: snap.can_replay_tts,
+                                lang: lang,
+                                fallback_target: SpeakTarget::ScholarCommentary(effective_scholar),
                             }
                             if (pi_tab == CompactTabHint::Commentary || pi_tab == CompactTabHint::Study)
                                 && active_pages.len() > 1

@@ -12,11 +12,12 @@ mod text;
 pub use canonical::{CanonicalDataset, load_and_audit_canonical};
 pub use config::{AgeAiConfig, AiConfig, AppConfig, AudioConfig, PathsConfig, UiConfig};
 pub use contract::{
-    ActiveFilter, AgeDetection, AgeOutcome, AppScreen, AudioState, BackendCommand, BookmarkEntry,
-    CaptureMode, CompactTabHint, CorpusCatalog, GroundedAnswer, KidsProgress, ModalKind,
-    RetryReason, SPEECH_SPEED_PRESETS, Scholar, SearchTab, SpeakTarget, SystemHealth, Theme,
-    UiSnapshot, UiTransientEvent, UserPrefs, VoiceReplayMode, VoiceTurnSummary, YouthProgress,
-    age_cadence_factor, effective_tts_speed, snap_speech_speed, step_speech_speed,
+    ActiveFilter, AgeDetection, AgeOutcome, AppScreen, AudioPlaybackStatus, AudioState,
+    BackendCommand, BookmarkEntry, CaptureMode, CompactTabHint, CorpusCatalog, GroundedAnswer,
+    KidsProgress, ModalKind, RetryReason, SPEECH_SPEED_PRESETS, Scholar, SearchTab, SpeakTarget,
+    SystemHealth, Theme, UiSnapshot, UiTransientEvent, UserPrefs, VoiceReplayMode,
+    VoiceTurnSummary, YouthProgress, age_cadence_factor, effective_tts_speed, snap_speech_speed,
+    step_speech_speed,
 };
 pub use copy::{
     AUTO_SPEAK_OFF_NOTICE, AUTO_SPEAK_ON_NOTICE, BilingualCopy, NOTHING_TO_REPLAY_NOTICE,

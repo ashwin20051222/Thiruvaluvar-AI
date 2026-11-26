@@ -1,12 +1,11 @@
+use crate::components::ContentPlaybackButton;
 use crate::components::header::TopHeader;
-use crate::components::icons::{
-    BookIcon, ChatIcon, MicIcon, ReplayIcon, SearchIcon, SpeakerIcon, StopSquareIcon,
-};
+use crate::components::icons::{BookIcon, ChatIcon, MicIcon, SearchIcon, SpeakerIcon};
 use crate::copy::{paginate_sentences, tr};
 use crate::state::{AppContext, is_voice_active};
 use dioxus::prelude::*;
 use kural_core::{
-    AudioState, BackendCommand, ModalKind, SPEECH_SPEED_PRESETS, SearchTab, SpeakTarget, Theme,
+    BackendCommand, ModalKind, SPEECH_SPEED_PRESETS, SearchTab, SpeakTarget, Theme,
 };
 
 #[component]
@@ -17,7 +16,6 @@ pub fn KidsScreen() -> Element {
     let theme = snap.prefs.theme;
     let full = &snap.current_kural;
     let kural_num = full.kural.number;
-    let is_speaking = snap.audio_state == AudioState::PlayingTts;
     let voice_active = is_voice_active(snap.audio_state);
 
     let meaning_raw = full
@@ -179,36 +177,16 @@ pub fn KidsScreen() -> Element {
                             }
                         }
 
-                        // Action Row: State-morphing Listen <-> Stop, Replay, Talk to Grandpa (+ inline Pi pager)
+                        // Action Row: Auto-playback Stop / Persistent Replay Audio / Fallback Play, Talk to Grandpa (+ inline Pi pager)
                         div { id: "kural-actions", class: "kural-actions-row",
-                            if is_speaking {
-                                button {
-                                    id: "btn-listen",
-                                    r#type: "button",
-                                    class: "toy-btn action-pill-btn action-pill-stop",
-                                    onclick: move |_| ctx.dispatch(BackendCommand::StopAudio),
-                                    StopSquareIcon {}
-                                    span { "{tr(lang, \"நிறுத்து\", \"Stop\")}" }
-                                }
-                            } else {
-                                button {
-                                    id: "btn-listen",
-                                    r#type: "button",
-                                    class: "toy-btn action-pill-btn action-pill-primary",
-                                    onclick: move |_| ctx.dispatch(BackendCommand::SpeakCurrent(SpeakTarget::KuralAndMeaning)),
-                                    SpeakerIcon {}
-                                    span { class: "desktop-only", "{tr(lang, \"குறளைக் கேள்\", \"Listen\")}" }
-                                    span { class: "pi-only", "{tr(lang, \"கேள்\", \"Listen\")}" }
-                                }
-                            }
-                            button {
-                                r#type: "button",
-                                class: "toy-btn action-pill-btn",
-                                aria_label: tr(lang, "மீண்டும் கேள்", "Replay"),
-                                disabled: !snap.can_replay_tts,
-                                onclick: move |_| ctx.dispatch(BackendCommand::ReplayLastTts),
-                                ReplayIcon {}
-                                span { class: "desktop-only replay-text", "{tr(lang, \"மீண்டும்\", \"Replay\")}" }
+                            ContentPlaybackButton {
+                                btn_base: "toy-btn",
+                                button_id: Some("btn-listen"),
+                                playback_status: snap.playback_status,
+                                audio_state: snap.audio_state,
+                                can_replay_tts: snap.can_replay_tts,
+                                lang: lang,
+                                fallback_target: SpeakTarget::KuralAndMeaning,
                             }
                             button {
                                 r#type: "button",

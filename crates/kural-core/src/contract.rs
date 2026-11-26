@@ -259,6 +259,25 @@ pub enum AudioState {
     Cooldown,
 }
 
+/// Lifecycle state for automatic initial content playback and persistent Replay Audio.
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Hash, Default, Serialize, Deserialize)]
+#[serde(rename_all = "snake_case")]
+pub enum AudioPlaybackStatus {
+    /// Start screen or no active content audio.
+    #[default]
+    Idle,
+    /// Initial automatic playback triggered and synthesizing/buffering.
+    Loading,
+    /// Initial automatic playback actively playing.
+    Playing,
+    /// Initial playback finished cleanly; persistent Replay Audio is available.
+    Completed,
+    /// Manual Replay Audio currently playing from the beginning.
+    Replaying,
+    /// Auto-playback blocked/unavailable/disabled/stopped before completion; show one-click Play Audio fallback.
+    FallbackReady,
+}
+
 /// Microphone capture mode requested from `AudioHandle`.
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Hash, Serialize, Deserialize)]
 #[serde(rename_all = "snake_case")]
@@ -528,6 +547,8 @@ pub struct UiSnapshot {
     pub youth_progress: YouthProgress,
     pub bookmarks: Vec<BookmarkEntry>,
     pub audio_state: AudioState,
+    #[serde(default)]
+    pub playback_status: AudioPlaybackStatus,
     pub has_replay_clip: bool,
     pub recent_voice_turns: Vec<VoiceTurnSummary>,
     pub can_replay_tts: bool,

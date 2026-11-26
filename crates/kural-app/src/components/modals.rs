@@ -2,12 +2,14 @@
 //! Search (Query + 3-level Divisions drill-down), AiChat, KidsStory,
 //! KidsWordGame (`2×2` grid), YouthQuiz (`2×2` grid), and YouthDeepDive.
 
+use crate::components::ContentPlaybackButton;
 use crate::components::icons::{MicIcon, ReplayIcon, SearchIcon, SpeakerIcon, StopSquareIcon};
 use crate::copy::{mask_game_blank, paginate_sentences, tr};
 use crate::state::{AppContext, is_voice_active};
 use dioxus::prelude::*;
 use kural_core::{
-    AudioState, BackendCommand, Language, ModalKind, SearchTab, SpeakTarget, VoiceReplayMode,
+    AudioPlaybackStatus, AudioState, BackendCommand, Language, ModalKind, SearchTab, SpeakTarget,
+    VoiceReplayMode,
 };
 
 #[component]
@@ -688,7 +690,12 @@ fn AiChatModal(seed_kural: Option<u16>) -> Element {
                                         }
                                     }
                                     if !ans.out_of_scope {
-                                        if is_speaking {
+                                        if is_speaking || matches!(
+                                            snap.playback_status,
+                                            AudioPlaybackStatus::Loading
+                                                | AudioPlaybackStatus::Playing
+                                                | AudioPlaybackStatus::Replaying
+                                        ) {
                                             button {
                                                 r#type: "button",
                                                 class: "tag-chip",
@@ -696,6 +703,15 @@ fn AiChatModal(seed_kural: Option<u16>) -> Element {
                                                 onclick: move |_| ctx.dispatch(BackendCommand::StopAudio),
                                                 StopSquareIcon {}
                                                 span { " {tr(lang, \"நிறுத்து\", \"Stop\")}" }
+                                            }
+                                        } else if snap.playback_status == AudioPlaybackStatus::Completed && snap.can_replay_tts {
+                                            button {
+                                                r#type: "button",
+                                                class: "tag-chip active",
+                                                style: "min-height:38px;",
+                                                onclick: move |_| ctx.dispatch(BackendCommand::ReplayLastTts),
+                                                ReplayIcon {}
+                                                span { " {tr(lang, \"மீண்டும் கேள்\", \"Replay Audio\")}" }
                                             }
                                         } else {
                                             button {
@@ -710,7 +726,7 @@ fn AiChatModal(seed_kural: Option<u16>) -> Element {
                                                     });
                                                 },
                                                 SpeakerIcon {}
-                                                span { " {tr(lang, \"கேள்\", \"Hear\")}" }
+                                                span { " {tr(lang, \"ஒலியை இயக்கு\", \"Play Audio\")}" }
                                             }
                                         }
                                     }
@@ -788,7 +804,6 @@ fn KidsStoryModal() -> Element {
     let lang = snap.prefs.lang;
     let full = &snap.current_kural;
     let kural_num = full.kural.number;
-    let is_speaking = snap.audio_state == AudioState::PlayingTts;
     let done = snap.kids_progress.completed_stories.contains(&kural_num);
 
     let (title, body, moral) = full
@@ -842,22 +857,14 @@ fn KidsStoryModal() -> Element {
             }
 
             div { class: "kural-actions-row",
-                if is_speaking {
-                    button {
-                        r#type: "button",
-                        class: "toy-btn action-pill-btn action-pill-stop",
-                        onclick: move |_| ctx.dispatch(BackendCommand::StopAudio),
-                        StopSquareIcon {}
-                        span { "{tr(lang, \"நிறுத்து\", \"Stop\")}" }
-                    }
-                } else {
-                    button {
-                        r#type: "button",
-                        class: "toy-btn action-pill-btn action-pill-primary",
-                        onclick: move |_| ctx.dispatch(BackendCommand::SpeakCurrent(SpeakTarget::KuttyStory)),
-                        SpeakerIcon {}
-                        span { "{tr(lang, \"கதையைக் கேள்\", \"Hear Story\")}" }
-                    }
+                ContentPlaybackButton {
+                    btn_base: "toy-btn",
+                    button_id: None,
+                    playback_status: snap.playback_status,
+                    audio_state: snap.audio_state,
+                    can_replay_tts: snap.can_replay_tts,
+                    lang: lang,
+                    fallback_target: SpeakTarget::KuttyStory,
                 }
                 button {
                     r#type: "button",
@@ -1046,7 +1053,6 @@ fn YouthDeepDiveModal() -> Element {
     let lang = snap.prefs.lang;
     let full = &snap.current_kural;
     let kural_num = full.kural.number;
-    let is_speaking = snap.audio_state == AudioState::PlayingTts;
 
     let body = match (&full.youth, &full.adult) {
         (Some(y), Some(a)) => format!(
@@ -1100,22 +1106,14 @@ fn YouthDeepDiveModal() -> Element {
             }
 
             div { class: "kural-actions-row",
-                if is_speaking {
-                    button {
-                        r#type: "button",
-                        class: "royal-btn action-pill-btn action-pill-stop",
-                        onclick: move |_| ctx.dispatch(BackendCommand::StopAudio),
-                        StopSquareIcon {}
-                        span { "{tr(lang, \"நிறுத்து\", \"Stop\")}" }
-                    }
-                } else {
-                    button {
-                        r#type: "button",
-                        class: "royal-btn action-pill-btn action-pill-primary",
-                        onclick: move |_| ctx.dispatch(BackendCommand::SpeakCurrent(SpeakTarget::YouthBriefing)),
-                        SpeakerIcon {}
-                        span { "{tr(lang, \"கேள்\", \"Listen\")}" }
-                    }
+                ContentPlaybackButton {
+                    btn_base: "royal-btn",
+                    button_id: None,
+                    playback_status: snap.playback_status,
+                    audio_state: snap.audio_state,
+                    can_replay_tts: snap.can_replay_tts,
+                    lang: lang,
+                    fallback_target: SpeakTarget::YouthBriefing,
                 }
                 button {
                     r#type: "button",

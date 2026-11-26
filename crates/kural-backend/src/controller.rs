@@ -9,8 +9,8 @@ use kural_audio::{
 };
 use kural_core::{
     AUTO_SPEAK_OFF_NOTICE, AUTO_SPEAK_ON_NOTICE, ActiveFilter, AgeGroup, AgeOutcome, AppConfig,
-    AppScreen, AudioState, BackendCommand, CaptureMode, CorpusCatalog, GroundedAnswer,
-    KuralSummary, ModalKind, NOTHING_TO_REPLAY_NOTICE, OOS_VOICE_TTS_REFUSAL,
+    AppScreen, AudioPlaybackStatus, AudioState, BackendCommand, CaptureMode, CorpusCatalog,
+    GroundedAnswer, KuralSummary, ModalKind, NOTHING_TO_REPLAY_NOTICE, OOS_VOICE_TTS_REFUSAL,
     PARIMEL_FALLBACK_NOTICE, REPLAY_AUDIO_NOTICE, REPLAY_FULL_EXCHANGE_NOTICE,
     REPLAY_USER_VOICE_NOTICE, RetryReason, Scholar, SystemHealth, UiSnapshot, UiTransientEvent,
     VOICE_ADHIKARAM_RANGE_ERROR, VOICE_KURAL_RANGE_ERROR, VOICE_LOOP_OFF_NOTICE,
@@ -166,6 +166,7 @@ impl BackendHandle {
             youth_progress,
             bookmarks,
             audio_state: AudioState::Idle,
+            playback_status: AudioPlaybackStatus::Idle,
             has_replay_clip: false,
             recent_voice_turns: Vec::new(),
             can_replay_tts: false,
@@ -321,18 +322,18 @@ impl BackendHandle {
     fn shutdown_inner(inner: &BackendHandleInner) {
         let (tx, rx) = std::sync::mpsc::sync_channel(1);
         if inner.cmd_tx.try_send(ControllerMsg::Shutdown(tx)).is_ok() {
-            let _ = rx.recv_timeout(Duration::from_secs(2));
+            let _ = rx.recv_timeout(Duration::from_secs(10));
         }
         if let Ok(mut done_guard) = inner.loop_done_rx.lock()
             && let Some(done_rx) = done_guard.take()
         {
-            let _ = done_rx.recv_timeout(Duration::from_secs(2));
+            let _ = done_rx.recv_timeout(Duration::from_secs(10));
         }
         inner.audio.shutdown();
         if let Ok(mut rt_guard) = inner.runtime.lock()
             && let Some(rt) = rt_guard.take()
         {
-            rt.shutdown_timeout(Duration::from_secs(2));
+            rt.shutdown_timeout(Duration::from_secs(5));
         }
     }
 }
@@ -366,6 +367,16 @@ struct BackendController {
     active_tts_task: Option<(JoinHandle<()>, CancellationToken)>,
     listening_entered_at: Option<Instant>,
     prefs_dirty_deadline: Option<tokio::time::Instant>,
+    active_content_key: Option<ContentAudioKey>,
+}
+
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+struct ContentAudioKey {
+    screen: AppScreen,
+    kural_number: u16,
+    lang: kural_core::Language,
+    effective_scholar: Scholar,
+    target: kural_core::SpeakTarget,
 }
 
 impl BackendController {
@@ -413,6 +424,7 @@ impl BackendController {
             active_tts_task: None,
             listening_entered_at: None,
             prefs_dirty_deadline: None,
+            active_content_key: None,
         }
     }
 
@@ -475,6 +487,11 @@ impl BackendController {
                                 self.listening_entered_at = None;
                             }
                             self.state.audio_state = new_state;
+                            if new_state == AudioState::PlayingTts
+                                && self.state.playback_status == AudioPlaybackStatus::Loading
+                            {
+                                self.state.playback_status = AudioPlaybackStatus::Playing;
+                            }
                             self.state.system_health.audio_ok = self.audio.is_healthy();
                             self.publish_snapshot();
                             if new_state == AudioState::Idle
@@ -512,6 +529,9 @@ impl BackendController {
                             let _ = internal_tx.send(InternalMsg::SpeechCapsUpdated(caps)).await;
                         }
                     });
+                    if self.state.screen != AppScreen::Start {
+                        self.trigger_auto_playback_for_current_content(false);
+                    }
                 }
             }
             BackendCommand::SetTheme(theme) if self.state.prefs.theme != theme => {
@@ -527,6 +547,9 @@ impl BackendController {
                 match screen {
                     AppScreen::Start => {
                         self.state.screen = AppScreen::Start;
+                        self.active_content_key = None;
+                        self.state.can_replay_tts = false;
+                        self.state.playback_status = AudioPlaybackStatus::Idle;
                         self.flush_prefs_async();
                         self.publish_snapshot();
                     }
@@ -547,12 +570,25 @@ impl BackendController {
                 }
                 self.state.modal = Some(kind);
                 self.publish_snapshot();
+                if matches!(kind, ModalKind::KidsStory | ModalKind::YouthDeepDive) {
+                    self.trigger_auto_playback_for_current_content(false);
+                }
             }
             BackendCommand::CloseModal if self.state.modal.is_some() => {
-                if matches!(self.state.modal, Some(ModalKind::AiChat { .. })) {
+                let prev = self.state.modal.take();
+                if matches!(prev, Some(ModalKind::AiChat { .. })) {
                     self.disarm_voice_loop();
                 }
-                self.state.modal = None;
+                if matches!(prev, Some(ModalKind::KidsStory | ModalKind::AiChat { .. })) {
+                    self.cancel_active_tts();
+                    self.active_content_key = None;
+                    self.state.can_replay_tts = false;
+                    self.state.playback_status = if self.state.screen == AppScreen::Start {
+                        AudioPlaybackStatus::Idle
+                    } else {
+                        AudioPlaybackStatus::FallbackReady
+                    };
+                }
                 self.publish_snapshot();
             }
             BackendCommand::CloseModal => {}
@@ -627,6 +663,9 @@ impl BackendController {
                 self.state.requested_scholar = scholar;
                 self.update_effective_scholar_and_notify(true);
                 self.publish_snapshot();
+                if self.state.screen == AppScreen::Adult {
+                    self.trigger_auto_playback_for_current_content(false);
+                }
             }
             BackendCommand::SpeakCurrent(target) => {
                 // Child Mic -> Listen accidental collision guard (400 ms).
@@ -637,9 +676,23 @@ impl BackendController {
                 {
                     return;
                 }
+                if matches!(
+                    self.state.playback_status,
+                    AudioPlaybackStatus::Loading
+                        | AudioPlaybackStatus::Playing
+                        | AudioPlaybackStatus::Replaying
+                ) {
+                    return;
+                }
                 self.cancel_active_capture();
                 self.cancel_active_tts();
                 self.nav_epoch = self.nav_epoch.wrapping_add(1);
+                let resolved_target = if matches!(target, kural_core::SpeakTarget::ScholarCommentary(_)) {
+                    kural_core::SpeakTarget::ScholarCommentary(self.state.effective_scholar)
+                } else {
+                    target
+                };
+                self.active_content_key = Some(self.content_audio_key(resolved_target));
                 self.start_speak_target(target);
             }
             BackendCommand::SpeakCustomText { text, lang, label } => {
@@ -677,6 +730,13 @@ impl BackendController {
                 let was_loop = self.state.voice_to_voice_loop;
                 self.disarm_voice_loop();
                 self.bump_nav_interrupt();
+                self.state.playback_status = if self.state.can_replay_tts {
+                    AudioPlaybackStatus::Completed
+                } else if self.state.screen != AppScreen::Start {
+                    AudioPlaybackStatus::FallbackReady
+                } else {
+                    AudioPlaybackStatus::Idle
+                };
                 self.publish_snapshot();
                 if was_loop {
                     self.emit_event(UiTransientEvent::InfoToast {
@@ -908,7 +968,15 @@ impl BackendController {
                             if !text.is_empty() {
                                 let spoken_lang = detect_text_language(&text, lang);
                                 self.speak_custom_text(text, spoken_lang, None);
+                            } else {
+                                self.state.can_replay_tts = false;
+                                self.state.playback_status = AudioPlaybackStatus::FallbackReady;
+                                self.publish_snapshot();
                             }
+                        } else if !ans.out_of_scope {
+                            self.state.can_replay_tts = false;
+                            self.state.playback_status = AudioPlaybackStatus::FallbackReady;
+                            self.publish_snapshot();
                         }
                         self.emit_event(UiTransientEvent::AiAnswerReady(ans));
                     }
@@ -950,12 +1018,11 @@ impl BackendController {
                     return;
                 }
                 self.active_tts_task = None;
-                let mut dirty_snapshot = self.state.active_replay_label.take().is_some();
+                self.state.active_replay_label = None;
                 if ok {
                     if has_saved_audio {
                         self.state.has_replay_clip = true;
                         self.state.can_replay_tts = true;
-                        dirty_snapshot = true;
                     }
                     if let Some(tid) = voice_turn_id
                         && has_saved_audio
@@ -964,11 +1031,15 @@ impl BackendController {
                     {
                         turn.has_ai_audio = true;
                         self.state.can_replay_voice_turn = true;
-                        dirty_snapshot = true;
                     }
-                    if dirty_snapshot {
-                        self.publish_snapshot();
-                    }
+                    self.state.playback_status = if self.state.can_replay_tts {
+                        AudioPlaybackStatus::Completed
+                    } else if self.state.screen != AppScreen::Start {
+                        AudioPlaybackStatus::FallbackReady
+                    } else {
+                        AudioPlaybackStatus::Idle
+                    };
+                    self.publish_snapshot();
                     if matches!(target, kural_core::SpeakTarget::KuttyStory) {
                         self.handle_complete_kids_story(kural_number);
                     }
@@ -976,9 +1047,14 @@ impl BackendController {
                         self.rearm_voice_loop_when_ready(tts_epoch);
                     }
                 } else {
-                    if dirty_snapshot {
-                        self.publish_snapshot();
-                    }
+                    self.state.playback_status = if self.state.can_replay_tts {
+                        AudioPlaybackStatus::Completed
+                    } else if self.state.screen != AppScreen::Start {
+                        AudioPlaybackStatus::FallbackReady
+                    } else {
+                        AudioPlaybackStatus::Idle
+                    };
+                    self.publish_snapshot();
                     if let Some(msg) = error_msg {
                         self.emit_event(UiTransientEvent::ErrorToast {
                             message_ta: format!("ஒலி இயக்கப் பிழை: {msg}"),
@@ -1042,6 +1118,7 @@ impl BackendController {
         }
         self.flush_prefs_async();
         self.publish_snapshot();
+        self.trigger_auto_playback_for_current_content(false);
     }
 
     fn open_kural_with_pool_fixup(&mut self, num: u16) {
@@ -1076,6 +1153,7 @@ impl BackendController {
                 self.schedule_prefs_debounce();
                 self.update_effective_scholar_and_notify(self.state.screen == AppScreen::Adult);
                 self.publish_snapshot();
+                self.trigger_auto_playback_for_current_content(false);
             }
             Err(err) => {
                 self.emit_event(UiTransientEvent::ErrorToast {
@@ -1537,6 +1615,70 @@ impl BackendController {
         });
     }
 
+    fn default_content_target(&self) -> Option<kural_core::SpeakTarget> {
+        if matches!(self.state.modal, Some(ModalKind::KidsStory)) {
+            return Some(kural_core::SpeakTarget::KuttyStory);
+        }
+        if matches!(self.state.modal, Some(ModalKind::YouthDeepDive)) {
+            return Some(kural_core::SpeakTarget::YouthBriefing);
+        }
+        match self.state.screen {
+            AppScreen::Start => None,
+            AppScreen::Kids => Some(kural_core::SpeakTarget::KuralAndMeaning),
+            AppScreen::Youth => Some(kural_core::SpeakTarget::YouthBriefing),
+            AppScreen::Adult => Some(kural_core::SpeakTarget::ScholarCommentary(
+                self.state.effective_scholar,
+            )),
+        }
+    }
+
+    fn content_audio_key(&self, target: kural_core::SpeakTarget) -> ContentAudioKey {
+        ContentAudioKey {
+            screen: self.state.screen,
+            kural_number: self.state.current_kural.kural.number,
+            lang: self.state.prefs.lang,
+            effective_scholar: self.state.effective_scholar,
+            target,
+        }
+    }
+
+    fn trigger_auto_playback_for_current_content(&mut self, force: bool) {
+        let Some(target) = self.default_content_target() else {
+            self.active_content_key = None;
+            self.state.can_replay_tts = false;
+            self.state.playback_status = AudioPlaybackStatus::Idle;
+            self.publish_snapshot();
+            return;
+        };
+
+        let key = self.content_audio_key(target);
+        if !force
+            && self.active_content_key == Some(key)
+            && matches!(
+                self.state.playback_status,
+                AudioPlaybackStatus::Loading
+                    | AudioPlaybackStatus::Playing
+                    | AudioPlaybackStatus::Completed
+                    | AudioPlaybackStatus::Replaying
+            )
+        {
+            return;
+        }
+
+        self.active_content_key = Some(key);
+        self.state.can_replay_tts = false;
+
+        if !self.state.prefs.auto_speak_text || !self.audio.health().output_ok {
+            self.state.playback_status = AudioPlaybackStatus::FallbackReady;
+            self.publish_snapshot();
+            return;
+        }
+
+        self.state.playback_status = AudioPlaybackStatus::Loading;
+        self.publish_snapshot();
+        self.start_speak_target(target);
+    }
+
     fn start_speak_target(&mut self, target: kural_core::SpeakTarget) {
         let lang = self.state.prefs.lang;
         let Some(payload) = build_speech_payload(
@@ -1592,6 +1734,14 @@ impl BackendController {
     }
 
     fn start_replay_last_tts(&mut self) {
+        if matches!(
+            self.state.playback_status,
+            AudioPlaybackStatus::Loading
+                | AudioPlaybackStatus::Playing
+                | AudioPlaybackStatus::Replaying
+        ) {
+            return;
+        }
         if !self.state.can_replay_tts {
             self.emit_event(UiTransientEvent::InfoToast {
                 message_ta: NOTHING_TO_REPLAY_NOTICE.ta.to_string(),
@@ -1611,6 +1761,7 @@ impl BackendController {
             kural_core::Language::Tamil => notice.ta,
             kural_core::Language::English => notice.en,
         };
+        self.state.playback_status = AudioPlaybackStatus::Replaying;
         self.state.active_replay_label = Some(label.to_string());
         self.publish_snapshot();
         self.emit_event(UiTransientEvent::InfoToast {
@@ -1801,6 +1952,9 @@ impl BackendController {
         voice_loop_rearm: bool,
     ) {
         self.cancel_active_tts();
+        self.state.can_replay_tts = false;
+        self.state.playback_status = AudioPlaybackStatus::Loading;
+        self.publish_snapshot();
         let tts_epoch = self.tts_epoch;
         let nav_epoch = self.nav_epoch;
         let kural_number = self.state.current_kural.kural.number;
@@ -2407,5 +2561,62 @@ mod tests {
             assert!(!kurals.is_empty());
             handle2.shutdown_ref();
         });
+    }
+
+    #[test]
+    fn backend_automatic_initial_playback_and_persistent_replay_lifecycle() {
+        let tmp = TempDir::new().expect("tempdir");
+        let cfg = test_config(&tmp);
+        let handle = BackendHandle::start(cfg).expect("BackendHandle::start");
+        let mut events = handle.subscribe_events();
+        let rt = tokio::runtime::Runtime::new().unwrap();
+
+        // Start screen begins Idle without active content playback or Replay Audio.
+        let snap0 = handle.current_snapshot();
+        assert_eq!(snap0.screen, AppScreen::Start);
+        assert_eq!(snap0.playback_status, AudioPlaybackStatus::Idle);
+        assert!(!snap0.can_replay_tts);
+
+        // When auto_speak_text is disabled (or autoplay blocked), entering content moves cleanly to FallbackReady.
+        handle.dispatch(BackendCommand::SetAutoSpeakText(false));
+        let off_evt = rt.block_on(recv_until(&mut events, |e| {
+            matches!(
+                e,
+                UiTransientEvent::InfoToast { message_en, .. }
+                if message_en == AUTO_SPEAK_OFF_NOTICE.en
+            )
+        }));
+        assert!(off_evt.is_some());
+
+        handle.dispatch(BackendCommand::SelectAge(AgeGroup::Kids));
+        std::thread::sleep(Duration::from_millis(80));
+        let fallback_snap = handle.current_snapshot();
+        assert_eq!(fallback_snap.screen, AppScreen::Kids);
+        assert_eq!(fallback_snap.playback_status, AudioPlaybackStatus::FallbackReady);
+        assert!(!fallback_snap.can_replay_tts);
+
+        // With auto_speak_text enabled, navigating to new content triggers Loading/Playing or clean FallbackReady.
+        handle.dispatch(BackendCommand::SetAutoSpeakText(true));
+        handle.dispatch(BackendCommand::OpenKural(2));
+        std::thread::sleep(Duration::from_millis(80));
+        let nav_snap = handle.current_snapshot();
+        assert_eq!(nav_snap.current_kural.kural.number, 2);
+        assert!(matches!(
+            nav_snap.playback_status,
+            AudioPlaybackStatus::Loading
+                | AudioPlaybackStatus::Playing
+                | AudioPlaybackStatus::Completed
+                | AudioPlaybackStatus::FallbackReady
+        ));
+
+        // Returning to Start resets content playback state cleanly back to Idle.
+        handle.dispatch(BackendCommand::Navigate(AppScreen::Start));
+        std::thread::sleep(Duration::from_millis(80));
+        let end_snap = handle.current_snapshot();
+        assert_eq!(end_snap.screen, AppScreen::Start);
+        assert_eq!(end_snap.playback_status, AudioPlaybackStatus::Idle);
+        assert!(!end_snap.can_replay_tts);
+
+        handle.shutdown();
     }
 }

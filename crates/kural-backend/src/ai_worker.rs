@@ -2,6 +2,7 @@ use kural_ai::{AiError, SpeechEngine};
 use kural_audio::PcmChunk;
 use kural_core::{AiConfig, Language};
 use std::path::Path;
+use std::sync::atomic::{AtomicBool, Ordering};
 use std::sync::mpsc as std_mpsc;
 use std::sync::{Arc, Mutex};
 use std::thread::{self, JoinHandle};
@@ -42,6 +43,7 @@ enum WorkerCmd {
 #[derive(Clone)]
 pub struct AiWorkerHandle {
     tx: std_mpsc::SyncSender<WorkerCmd>,
+    shutting_down: Arc<AtomicBool>,
     thread: Arc<Mutex<Option<JoinHandle<()>>>>,
 }
 
@@ -54,6 +56,8 @@ impl AiWorkerHandle {
     ) -> Result<(Self, SpeechCapabilities), AiError> {
         let (tx, rx) = std_mpsc::sync_channel::<WorkerCmd>(16);
         let (ready_tx, ready_rx) = std_mpsc::sync_channel::<Result<SpeechCapabilities, AiError>>(1);
+        let shutting_down = Arc::new(AtomicBool::new(false));
+        let worker_shutting_down = Arc::clone(&shutting_down);
         let dir = models_dir.to_path_buf();
         let cfg = ai_cfg.clone();
 
@@ -76,6 +80,9 @@ impl AiWorkerHandle {
                 }
 
                 while let Ok(cmd) = rx.recv() {
+                    if worker_shutting_down.load(Ordering::Acquire) {
+                        break;
+                    }
                     match cmd {
                         WorkerCmd::EnsureLanguage { lang, reply } => {
                             let res = engine.ensure_language(lang).map(|()| SpeechCapabilities {
@@ -131,6 +138,7 @@ impl AiWorkerHandle {
         Ok((
             Self {
                 tx,
+                shutting_down,
                 thread: Arc::new(Mutex::new(Some(join))),
             },
             caps,
@@ -207,6 +215,7 @@ impl AiWorkerHandle {
     }
 
     pub fn shutdown(&self) {
+        self.shutting_down.store(true, Ordering::Release);
         let _ = self.tx.try_send(WorkerCmd::Shutdown);
         if let Ok(mut guard) = self.thread.lock()
             && let Some(join) = guard.take()

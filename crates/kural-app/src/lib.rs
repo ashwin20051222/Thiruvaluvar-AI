@@ -593,6 +593,8 @@ async fn check_dom_state(label: &str, viewport: AuditViewport, expect_kural: boo
 async fn run_layout_audit(ctx: &mut state::AppContext, viewport: AuditViewport) -> bool {
     let is_touch = viewport.is_touch_pi();
     tokio::time::sleep(Duration::from_millis(450)).await;
+    ctx.dispatch(BackendCommand::SetAutoSpeakText(false));
+    tokio::time::sleep(Duration::from_millis(80)).await;
     let mut all_ok = true;
 
     let combos: &[(&str, BackendCommand, bool)] = &[
@@ -672,6 +674,7 @@ async fn run_layout_audit(ctx: &mut state::AppContext, viewport: AuditViewport) 
     });
     tokio::time::sleep(Duration::from_millis(120)).await;
     let mut audited = ctx.snapshot.peek().as_ref().clone();
+    audited.playback_status = kural_core::AudioPlaybackStatus::Completed;
     audited.can_replay_tts = true;
     audited.can_replay_voice_turn = true;
     audited.recent_voice_turns = vec![VoiceTurnSummary {

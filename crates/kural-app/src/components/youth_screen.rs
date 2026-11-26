@@ -3,15 +3,14 @@
 //! interactive topic tag search + Daily Quiz CTA, standardized `[0.75×, 1.0×, 1.25×]` speed dock,
 //! and 5-slot Pi dock.
 
+use crate::components::ContentPlaybackButton;
 use crate::components::header::TopHeader;
-use crate::components::icons::{
-    BookIcon, ChatIcon, MicIcon, ReplayIcon, SearchIcon, SpeakerIcon, StopSquareIcon,
-};
+use crate::components::icons::{BookIcon, ChatIcon, MicIcon, SearchIcon};
 use crate::copy::{paginate_sentences, research_theme_label, tr};
 use crate::state::{AppContext, is_voice_active};
 use dioxus::prelude::*;
 use kural_core::{
-    ActiveFilter, AudioState, BackendCommand, CANONICAL_TAGS, CompactTabHint, ModalKind,
+    ActiveFilter, BackendCommand, CANONICAL_TAGS, CompactTabHint, ModalKind,
     SPEECH_SPEED_PRESETS, SearchTab, SpeakTarget, Theme, step_speech_speed,
 };
 
@@ -23,7 +22,6 @@ pub fn YouthScreen() -> Element {
     let theme = snap.prefs.theme;
     let full = &snap.current_kural;
     let kural_num = full.kural.number;
-    let is_speaking = snap.audio_state == AudioState::PlayingTts;
     let voice_active = is_voice_active(snap.audio_state);
     let speed = snap.prefs.speech_speed;
 
@@ -274,33 +272,14 @@ pub fn YouthScreen() -> Element {
 
                         // Card Audio & Action Row (+ inline Pi sentence pager for Analysis tab)
                         div { id: "kural-actions", class: "kural-actions-row",
-                            if is_speaking {
-                                button {
-                                    id: "btn-listen",
-                                    r#type: "button",
-                                    class: "royal-btn action-pill-btn action-pill-stop",
-                                    onclick: move |_| ctx.dispatch(BackendCommand::StopAudio),
-                                    StopSquareIcon {}
-                                    span { "{tr(lang, \"நிறுத்து\", \"Stop\")}" }
-                                }
-                            } else {
-                                button {
-                                    id: "btn-listen",
-                                    r#type: "button",
-                                    class: "royal-btn action-pill-btn action-pill-primary",
-                                    onclick: move |_| ctx.dispatch(BackendCommand::SpeakCurrent(SpeakTarget::YouthBriefing)),
-                                    SpeakerIcon {}
-                                    span { "{tr(lang, \"கேள்\", \"Listen\")}" }
-                                }
-                            }
-                            button {
-                                r#type: "button",
-                                class: "royal-btn action-pill-btn",
-                                aria_label: tr(lang, "மீண்டும் கேள்", "Replay"),
-                                disabled: !snap.can_replay_tts,
-                                onclick: move |_| ctx.dispatch(BackendCommand::ReplayLastTts),
-                                ReplayIcon {}
-                                span { class: "desktop-only replay-text", "{tr(lang, \"மீண்டும்\", \"Replay\")}" }
+                            ContentPlaybackButton {
+                                btn_base: "royal-btn",
+                                button_id: Some("btn-listen"),
+                                playback_status: snap.playback_status,
+                                audio_state: snap.audio_state,
+                                can_replay_tts: snap.can_replay_tts,
+                                lang: lang,
+                                fallback_target: SpeakTarget::YouthBriefing,
                             }
                             if pi_tab == CompactTabHint::Analysis && pi_pages.len() > 1 {
                                 div { class: "pager-row pi-only",
