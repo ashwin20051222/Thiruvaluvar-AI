@@ -906,6 +906,10 @@ impl SpeechEngine {
     }
 
     /// Transcribe `16 kHz` mono PCM speech in `lang`, returning normalized text and measured latency.
+    ///
+    /// If the primary recognizer returns an empty transcript for non-empty audio, falls back once to
+    /// the alternate language recognizer via [`Self::transcribe_secondary_stt`] without evicting
+    /// resident `self.stt` or `self.tts` models.
     pub fn transcribe_timed(
         &mut self,
         samples_16k: &[f32],
@@ -918,7 +922,13 @@ impl SpeechEngine {
                 "STT model is not available for language '{lang}'"
             )));
         };
-        let text = stt.transcribe(samples_16k)?;
+        let primary_text = stt.transcribe(samples_16k)?;
+        let text = resolve_empty_transcript_fallback(
+            primary_text,
+            samples_16k.is_empty(),
+            lang,
+            |alt_lang| self.transcribe_secondary_stt(samples_16k, alt_lang),
+        );
         let latency_ms = t0.elapsed().as_millis() as u64;
         tracing::debug!(
             %lang,
@@ -1182,6 +1192,66 @@ impl SpeechEngine {
         Err(AiError::FallbackTtsUnavailable(
             "espeak-ng binary not found on system".to_string(),
         ))
+    }
+}
+
+const fn alternate_language(lang: Language) -> Language {
+    match lang {
+        Language::Tamil => Language::English,
+        Language::English => Language::Tamil,
+    }
+}
+
+fn resolve_empty_transcript_fallback<F>(
+    primary_text: String,
+    samples_empty: bool,
+    primary_lang: Language,
+    run_secondary: F,
+) -> String
+where
+    F: FnOnce(Language) -> Result<Option<SttTranscription>, AiError>,
+{
+    if !primary_text.trim().is_empty() || samples_empty {
+        return primary_text;
+    }
+
+    let alt_lang = alternate_language(primary_lang);
+    match run_secondary(alt_lang) {
+        Ok(Some(alt)) if !alt.text.trim().is_empty() => {
+            tracing::debug!(
+                %primary_lang,
+                fallback_lang = %alt_lang,
+                fallback_latency_ms = alt.latency_ms,
+                chars = alt.text.len(),
+                "primary STT returned empty transcript; using cross-language fallback"
+            );
+            alt.text
+        }
+        Ok(Some(_)) => {
+            tracing::debug!(
+                %primary_lang,
+                fallback_lang = %alt_lang,
+                "secondary STT fallback also returned empty transcript"
+            );
+            primary_text
+        }
+        Ok(None) => {
+            tracing::debug!(
+                %primary_lang,
+                fallback_lang = %alt_lang,
+                "secondary STT model absent; skipping cross-language fallback"
+            );
+            primary_text
+        }
+        Err(err) => {
+            tracing::debug!(
+                %primary_lang,
+                fallback_lang = %alt_lang,
+                error = %err,
+                "secondary STT fallback failed; keeping empty primary transcript"
+            );
+            primary_text
+        }
     }
 }
 
@@ -3371,5 +3441,94 @@ mod tests {
         assert_eq!(plan.len(), 5);
         assert_eq!(plan[1], SynthStep::PauseMs(LINE_PAUSE_MS));
         assert_eq!(plan[3], SynthStep::PauseMs(COUPLET_PAUSE_MS));
+    }
+
+    #[test]
+    fn cross_language_empty_transcript_fallback_handles_all_outcomes() {
+        assert_eq!(alternate_language(Language::Tamil), Language::English);
+        assert_eq!(alternate_language(Language::English), Language::Tamil);
+
+        // Non-empty primary transcript skips secondary STT completely.
+        let mut called = false;
+        let out = resolve_empty_transcript_fallback(
+            "குறள் 128".to_string(),
+            false,
+            Language::Tamil,
+            |_| {
+                called = true;
+                Ok(None)
+            },
+        );
+        assert_eq!(out, "குறள் 128");
+        assert!(!called);
+
+        // Empty audio buffer skips secondary STT completely.
+        let out = resolve_empty_transcript_fallback(String::new(), true, Language::Tamil, |_| {
+            called = true;
+            Ok(None)
+        });
+        assert!(out.is_empty());
+        assert!(!called);
+
+        // Empty Tamil primary falls back to English secondary transcript.
+        let mut seen_alt = None;
+        let out =
+            resolve_empty_transcript_fallback(String::new(), false, Language::Tamil, |alt_lang| {
+                seen_alt = Some(alt_lang);
+                Ok(Some(SttTranscription {
+                    text: "one twenty eight".to_string(),
+                    latency_ms: 42,
+                }))
+            });
+        assert_eq!(seen_alt, Some(Language::English));
+        assert_eq!(out, "one twenty eight");
+
+        // Empty English primary falls back to Tamil secondary transcript.
+        let mut seen_alt = None;
+        let out = resolve_empty_transcript_fallback(
+            "   ".to_string(),
+            false,
+            Language::English,
+            |alt_lang| {
+                seen_alt = Some(alt_lang);
+                Ok(Some(SttTranscription {
+                    text: "நூற்று இருபத்தெட்டு".to_string(),
+                    latency_ms: 55,
+                }))
+            },
+        );
+        assert_eq!(seen_alt, Some(Language::Tamil));
+        assert_eq!(out, "நூற்று இருபத்தெட்டு");
+
+        // Missing secondary model (Ok(None)) or secondary error returns primary empty cleanly.
+        let out =
+            resolve_empty_transcript_fallback(String::new(), false, Language::Tamil, |_| Ok(None));
+        assert!(out.is_empty());
+
+        let out = resolve_empty_transcript_fallback(String::new(), false, Language::Tamil, |_| {
+            Err(AiError::ModelLoad("corrupt secondary".to_string()))
+        });
+        assert!(out.is_empty());
+
+        let out = resolve_empty_transcript_fallback(String::new(), false, Language::Tamil, |_| {
+            Ok(Some(SttTranscription {
+                text: "   ".to_string(),
+                latency_ms: 10,
+            }))
+        });
+        assert!(out.is_empty());
+
+        // Missing secondary model on disk returns Ok(None) without evicting active language state.
+        let dir = TempDir::new().expect("tempdir");
+        let engine = SpeechEngine::new(dir.path(), Language::Tamil, &AiConfig::default())
+            .expect("init engine");
+        assert_eq!(engine.active_language(), Language::Tamil);
+        assert!(
+            engine
+                .transcribe_secondary_stt(&[0.0_f32; 1600], Language::English)
+                .expect("missing secondary should be Ok(None)")
+                .is_none()
+        );
+        assert_eq!(engine.active_language(), Language::Tamil);
     }
 }

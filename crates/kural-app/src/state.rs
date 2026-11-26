@@ -3,9 +3,11 @@
 use dioxus::prelude::*;
 use kural_backend::BackendHandle;
 use kural_core::{
-    AgeOutcome, AudioState, BackendCommand, CompactTabHint, GroundedAnswer, Language,
-    SearchOutcome, UiSnapshot, UiTransientEvent,
+    AgeOutcome, AppScreen, AudioState, BackendCommand, CompactTabHint, GroundedAnswer, Language,
+    ModalKind, SearchOutcome, UiSnapshot, UiTransientEvent,
 };
+use std::cell::Cell;
+use std::rc::Rc;
 use std::sync::Arc;
 use std::time::Duration;
 
@@ -74,17 +76,32 @@ pub fn provide_app_context(backend: BackendHandle, toast_duration_ms: u64) -> Ap
     let mut pi_compact_tab_sig = use_signal(|| CompactTabHint::Verse);
     let backend_sig = use_signal(|| backend.clone());
 
+    // Track previous modal across snapshot & event hooks so AiChat open/close always clears stale
+    // answers while a VoiceAiDone snapshot+AiAnswerReady pair never races to clear the fresh answer.
+    let prev_modal_cell = Rc::new(Cell::new(snap_sig.peek().modal));
+
     // Subscribe to watch<Arc<UiSnapshot>>
     let snap_rx = backend.subscribe_snapshot();
+    let snap_modal_cell = Rc::clone(&prev_modal_cell);
     use_hook(move || {
         spawn(async move {
             let mut rx = snap_rx;
             let mut prev_screen = snap_sig.peek().screen;
             while rx.changed().await.is_ok() {
                 let latest = rx.borrow_and_update().clone();
-                if latest.screen != prev_screen {
-                    prev_screen = latest.screen;
+                let prev_modal = snap_modal_cell.get();
+                let effects = evaluate_snapshot_transition(
+                    prev_screen,
+                    latest.screen,
+                    prev_modal,
+                    latest.modal,
+                );
+                prev_screen = latest.screen;
+                snap_modal_cell.set(latest.modal);
+                if effects.clear_ai_answer {
                     ai_answer_sig.set(None);
+                }
+                if effects.clear_search_outcome {
                     search_outcome_sig.set(None);
                 }
                 snap_sig.set(latest);
@@ -111,6 +128,8 @@ pub fn provide_app_context(backend: BackendHandle, toast_duration_ms: u64) -> Ap
 
     // Subscribe to transient UI events
     let events_rx = backend.subscribe_events();
+    let events_backend = backend.clone();
+    let events_modal_cell = Rc::clone(&prev_modal_cell);
     let toast_ms = toast_duration_ms.max(800);
     use_hook(move || {
         spawn(async move {
@@ -145,7 +164,11 @@ pub fn provide_app_context(backend: BackendHandle, toast_duration_ms: u64) -> Ap
                         );
                     }
                     UiTransientEvent::AiAnswerReady(ans) => {
-                        ai_answer_sig.set(Some(ans));
+                        let current_modal = events_backend.current_snapshot().modal;
+                        if matches!(current_modal, Some(ModalKind::AiChat { .. })) {
+                            events_modal_cell.set(current_modal);
+                            ai_answer_sig.set(Some(ans));
+                        }
                     }
                     UiTransientEvent::KidsGameEvaluated {
                         kural_number,
@@ -268,4 +291,142 @@ pub fn is_voice_cancellable(audio_state: AudioState) -> bool {
         audio_state,
         AudioState::Listening | AudioState::CapturingSpeech
     )
+}
+
+#[derive(Clone, Copy, Debug, PartialEq, Eq)]
+struct SnapshotTransitionEffects {
+    clear_ai_answer: bool,
+    clear_search_outcome: bool,
+}
+
+fn evaluate_snapshot_transition(
+    prev_screen: AppScreen,
+    next_screen: AppScreen,
+    prev_modal: Option<ModalKind>,
+    next_modal: Option<ModalKind>,
+) -> SnapshotTransitionEffects {
+    let screen_changed = next_screen != prev_screen;
+    let was_ai_chat = matches!(prev_modal, Some(ModalKind::AiChat { .. }));
+    let is_ai_chat = matches!(next_modal, Some(ModalKind::AiChat { .. }));
+    let ai_chat_closed = was_ai_chat && !is_ai_chat;
+    let ai_chat_fresh_open = !was_ai_chat && is_ai_chat;
+
+    SnapshotTransitionEffects {
+        clear_ai_answer: screen_changed || ai_chat_closed || ai_chat_fresh_open,
+        clear_search_outcome: screen_changed,
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use kural_core::SearchTab;
+
+    #[test]
+    fn snapshot_transition_clears_ai_answer_on_screen_change_and_aichat_lifecycle() {
+        // Screen change clears both AI answer and search outcome.
+        assert_eq!(
+            evaluate_snapshot_transition(AppScreen::Youth, AppScreen::Adult, None, None),
+            SnapshotTransitionEffects {
+                clear_ai_answer: true,
+                clear_search_outcome: true,
+            }
+        );
+
+        // Fresh open of AiChat clears any stale AI answer without clearing search outcome.
+        assert_eq!(
+            evaluate_snapshot_transition(
+                AppScreen::Youth,
+                AppScreen::Youth,
+                None,
+                Some(ModalKind::AiChat {
+                    seed_kural: Some(1)
+                }),
+            ),
+            SnapshotTransitionEffects {
+                clear_ai_answer: true,
+                clear_search_outcome: false,
+            }
+        );
+        assert_eq!(
+            evaluate_snapshot_transition(
+                AppScreen::Youth,
+                AppScreen::Youth,
+                Some(ModalKind::YouthDeepDive),
+                Some(ModalKind::AiChat {
+                    seed_kural: Some(1)
+                }),
+            ),
+            SnapshotTransitionEffects {
+                clear_ai_answer: true,
+                clear_search_outcome: false,
+            }
+        );
+
+        // Closing AiChat (to None or another modal) clears AI answer.
+        assert_eq!(
+            evaluate_snapshot_transition(
+                AppScreen::Youth,
+                AppScreen::Youth,
+                Some(ModalKind::AiChat {
+                    seed_kural: Some(1)
+                }),
+                None,
+            ),
+            SnapshotTransitionEffects {
+                clear_ai_answer: true,
+                clear_search_outcome: false,
+            }
+        );
+        assert_eq!(
+            evaluate_snapshot_transition(
+                AppScreen::Youth,
+                AppScreen::Youth,
+                Some(ModalKind::AiChat {
+                    seed_kural: Some(1)
+                }),
+                Some(ModalKind::Search {
+                    initial_tab: SearchTab::Query
+                }),
+            ),
+            SnapshotTransitionEffects {
+                clear_ai_answer: true,
+                clear_search_outcome: false,
+            }
+        );
+
+        // Staying inside AiChat (including seed_kural updates) preserves the active AI answer.
+        assert_eq!(
+            evaluate_snapshot_transition(
+                AppScreen::Youth,
+                AppScreen::Youth,
+                Some(ModalKind::AiChat {
+                    seed_kural: Some(1)
+                }),
+                Some(ModalKind::AiChat {
+                    seed_kural: Some(2)
+                }),
+            ),
+            SnapshotTransitionEffects {
+                clear_ai_answer: false,
+                clear_search_outcome: false,
+            }
+        );
+
+        // Non-AiChat modal close / same-screen updates do not clear anything.
+        assert_eq!(
+            evaluate_snapshot_transition(
+                AppScreen::Adult,
+                AppScreen::Adult,
+                Some(ModalKind::Search {
+                    initial_tab: SearchTab::Query
+                }),
+                None,
+            ),
+            SnapshotTransitionEffects {
+                clear_ai_answer: false,
+                clear_search_outcome: false,
+            }
+        );
+    }
 }

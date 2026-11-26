@@ -751,6 +751,13 @@ fn AiChatModal(seed_kural: Option<u16>) -> Element {
                         }
                     }
                 }
+            } else {
+                div {
+                    id: "ai-empty-prompt",
+                    class: "royal-subcard",
+                    style: "padding:5px 10px; font-size:13px; line-height:1.32; opacity:0.82;",
+                    "{tr(lang, \"குறள் எண், பொருள் அல்லது திருவள்ளுவர் குறித்து கேளுங்கள் — அல்லது மேலுள்ள கேள்விகளில் ஒன்றைத் தேர்வு செய்யுங்கள்.\", \"Ask by voice or text about any Kural, meaning, or tap a starter question above.\")}"
+                }
             }
 
             if show_replay_strip {

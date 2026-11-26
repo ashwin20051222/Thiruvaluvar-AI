@@ -30,19 +30,32 @@ fn is_token_char(c: char) -> bool {
     c.is_alphanumeric() || is_tamil_char(c)
 }
 
+/// Check whether `c` is a Tamil combining vowel sign or pulli/virama (`U+0BBE..=U+0BCD`).
+#[inline]
+const fn is_tamil_combining_sign(c: char) -> bool {
+    matches!(c, '\u{0BBE}'..='\u{0BCD}')
+}
+
 /// Normalize an arbitrary utterance into NFC lowercase, replacing `-` and `.` separators cleanly
-/// while preserving Tamil script and Unicode combining marks.
+/// while preserving Tamil script and collapsing consecutive duplicate Tamil combining vowel signs
+/// (CTC repeated-matra artifacts such as `"டவென்டிி"` -> `"டவென்டி"`).
 pub(crate) fn normalize_for_matching(raw: &str) -> String {
     let nfc = normalize_nfc_trimmed(raw);
     let mut out = String::with_capacity(nfc.len());
     let mut prev_space = true;
+    let mut prev_ch: Option<char> = None;
 
     for ch in nfc.chars().flat_map(char::to_lowercase) {
         if is_token_char(ch) {
+            if is_tamil_combining_sign(ch) && prev_ch == Some(ch) {
+                continue;
+            }
             out.push(ch);
+            prev_ch = Some(ch);
             prev_space = false;
         } else if (ch.is_whitespace() || ch == '-' || ch == '.' || ch == '_') && !prev_space {
             out.push(' ');
+            prev_ch = Some(' ');
             prev_space = true;
         }
     }
@@ -314,7 +327,8 @@ fn exact_tamil_leaf(tok: &str) -> Option<NumPart> {
         | "முதலாம்"
         | "ஒன்றாம்"
         | "ஒன்"
-        | "வன்" => Some(NumPart::Unit(1)),
+        | "வன்"
+        | "வண்" => Some(NumPart::Unit(1)),
         "இரண்டு"
         | "ரெண்டு"
         | "ரண்டு"
@@ -325,7 +339,7 @@ fn exact_tamil_leaf(tok: &str) -> Option<NumPart> {
         | "டூ"
         | "டுூ"
         | "தூ" => Some(NumPart::Unit(2)),
-        "மூன்று" | "மூணு" | "மூன்றாவது" | "மூணாவது" | "மூன்றாம்" | "மூணாம்" | "த்ரீ" | "திரீ" => {
+        "மூன்று" | "மூணு" | "மூன்றாவது" | "மூணாவது" | "மூன்றாம்" | "மூணாம்" | "த்ரீ" | "திரீ" | "திரி" => {
             Some(NumPart::Unit(3))
         }
         "நான்கு" | "நாலு" | "நான்காவது" | "நாலாவது" | "நான்காம்" | "நாலாம்" | "ஃபோர்" | "ஃபார்" => {
@@ -343,7 +357,7 @@ fn exact_tamil_leaf(tok: &str) -> Option<NumPart> {
         "எட்டு" | "எட்டாவது" | "எட்டாம்" | "எயிட்" | "எய்ட்" | "ஏட்" | "எய்டு" => {
             Some(NumPart::Unit(8))
         }
-        "ஒன்பது" | "ஒன்பதாவது" | "ஒன்பதாம்" | "நைன்" | "நயன்" => {
+        "ஒன்பது" | "ஒம்பது" | "ஒன்பதாவது" | "ஒன்பதாம்" | "நைன்" | "நயன்" => {
             Some(NumPart::Unit(9))
         }
         "பத்து" | "பத்தாவது" | "பத்தாம்" | "டென்" => {
@@ -359,6 +373,7 @@ fn exact_tamil_leaf(tok: &str) -> Option<NumPart> {
         | "பன்னிரெண்டு"
         | "பன்னிரு"
         | "ட்வெல்வ்"
+        | "டுவெல்வ்"
         | "ட்வெல்"
         | "டுவெல்" => Some(NumPart::Teen(12)),
         "பதிமூன்று" | "பதிமூணு" | "பதின்மூன்று" | "தேர்டீன்" | "தர்டீன்" => {
@@ -382,13 +397,20 @@ fn exact_tamil_leaf(tok: &str) -> Option<NumPart> {
         "பத்தொன்பது" | "பத்தொம்பது" | "நைன்டீன்" => {
             Some(NumPart::Teen(19))
         }
-        "இருபது" | "இருவது" | "ட்வென்டி" | "ட்வெண்டி" | "டவெண்டி" | "டவென்டி" | "டுவென்டி" | "டுவெண்டி" => {
-            Some(NumPart::Ten(20))
-        }
-        "முப்பது" | "தேர்டி" | "தர்டி" | "தேர்ட்டி" => {
+        "இருபது"
+        | "இருவது"
+        | "ட்வென்டி"
+        | "ட்வெண்டி"
+        | "டவெண்டி"
+        | "டவென்டி"
+        | "டுவென்டி"
+        | "டுவெண்டி"
+        | "டுவண்டி"
+        | "டுவன்டி" => Some(NumPart::Ten(20)),
+        "முப்பது" | "தேர்டி" | "தர்டி" | "தேர்ட்டி" | "தர்ட்டி" => {
             Some(NumPart::Ten(30))
         }
-        "நாற்பது" | "நாப்பது" | "ஃபோர்டி" | "ஃபோர்ட்டி" | "போர்டி" | "போர்ட்டி" | "ஃபார்டி" => {
+        "நாற்பது" | "நாப்பது" | "ஃபோர்டி" | "ஃபோர்ட்டி" | "போர்டி" | "போர்ட்டி" | "ஃபார்டி" | "ஃபார்ட்டி" => {
             Some(NumPart::Ten(40))
         }
         "ஐம்பது" | "அம்பது" | "ஃபிஃப்டி" | "ஃபிப்டி" | "பிப்டி" => {
@@ -400,26 +422,28 @@ fn exact_tamil_leaf(tok: &str) -> Option<NumPart> {
         "எழுபது" | "எழுவது" | "செவன்டி" | "ஸெவன்டி" => {
             Some(NumPart::Ten(70))
         }
-        "எண்பது" | "எம்பது" | "எய்டி" | "எய்ட்டி" | "எயிடி" => {
+        "எண்பது" | "எம்பது" | "எய்டி" | "எய்ட்டி" | "எயிடி" | "எயிட்டி" => {
             Some(NumPart::Ten(80))
         }
         "தொண்ணூறு" | "தொண்ணூரு" | "நைன்டி" | "நைன்ட்டி" => {
             Some(NumPart::Ten(90))
         }
-        "நூறு" | "நூரு" | "நூறாவது" | "நூறாம்" | "ஹண்ட்ரட்" | "ஹன்ட்ரட்" | "அண்ட்ரட்" | "ஹண்ட்ரெட்" => {
+        "நூறு" | "நூரு" | "நூறாவது" | "நூறாம்" | "ஹண்ட்ரட்" | "ஹன்ட்ரட்" | "அண்ட்ரட்" | "ஹண்ட்ரெட்" | "ஹன்ட்ரெட்" => {
             Some(NumPart::Hundred)
         }
         "இருநூறு" | "இருநூரு" => Some(NumPart::HundredUnit(200)),
-        "முந்நூறு" | "மூந்நூறு" | "முன்னூறு" => {
+        "முந்நூறு" | "மூந்நூறு" | "முன்னூறு" | "முன்னூரு" | "முந்நூரு" => {
             Some(NumPart::HundredUnit(300))
         }
         "நானூறு" | "நானூரு" => Some(NumPart::HundredUnit(400)),
-        "ஐந்நூறு" | "ஐநூறு" => Some(NumPart::HundredUnit(500)),
-        "அறுநூறு" => Some(NumPart::HundredUnit(600)),
-        "எழுநூறு" => Some(NumPart::HundredUnit(700)),
-        "எண்ணூறு" => Some(NumPart::HundredUnit(800)),
+        "ஐந்நூறு" | "ஐநூறு" | "ஐந்நூரு" | "ஐநூரு" => {
+            Some(NumPart::HundredUnit(500))
+        }
+        "அறுநூறு" | "அறுநூரு" => Some(NumPart::HundredUnit(600)),
+        "எழுநூறு" | "எழுநூரு" => Some(NumPart::HundredUnit(700)),
+        "எண்ணூறு" | "எண்ணூரு" => Some(NumPart::HundredUnit(800)),
         "தொள்ளாயிரம்" => Some(NumPart::HundredUnit(900)),
-        "ஆயிரம்" | "ஓராயிரம்" | "ஆயிரமாவது" | "தவுசண்ட்" | "தௌசண்ட்" | "தௌசன்ட்" => {
+        "ஆயிரம்" | "ஓராயிரம்" | "ஆயிரமாவது" | "தவுசண்ட்" | "தவுசன்ட்" | "தௌசண்ட்" | "தௌசன்ட்" => {
             Some(NumPart::Thousand)
         }
         "இரண்டாயிரம்" | "ரெண்டாயிரம்" | "ஈராயிரம்" => {
@@ -506,13 +530,27 @@ fn reconstruct_tamil_sandhi_candidates(rest: &str) -> Vec<String> {
     };
     let tail = chars.as_str();
     match first {
-        // '-த்து' / '-ற்று' + consonant -> '-த்து'
-        '\u{0BC1}' => vec![tail.to_string()],
+        // '-த்து' / '-ற்று' + consonant -> '-த்து' (also strip doubled vallinam e.g. நூற்றுப்பத்து -> பத்து)
+        '\u{0BC1}' => {
+            let mut cands = vec![tail.to_string()];
+            for prefix in ["ப்", "த்", "க்", "ச்"] {
+                if let Some(stripped) = tail.strip_prefix(prefix) {
+                    cands.push(stripped.to_string());
+                }
+            }
+            cands
+        }
         // '-த்தி' / '-ற்றி' can elide either nothing (e.g. நாற்பத்திமூன்று -> மூன்று),
         // initial 'இ' (e.g. நாற்பத்திரண்டு -> இரண்டு, நூற்றிருபது -> இருபது),
+        // doubled vallinam (e.g. நூத்திப்பத்து -> பத்து),
         // or carry a 'ய' glide before a vowel (e.g. நூற்றியிருபத்தெட்டு -> இருபத்தெட்டு).
         '\u{0BBF}' => {
             let mut cands = vec![tail.to_string(), format!("இ{tail}")];
+            for prefix in ["ப்", "த்", "க்", "ச்"] {
+                if let Some(stripped) = tail.strip_prefix(prefix) {
+                    cands.push(stripped.to_string());
+                }
+            }
             if let Some(after_ya) = tail.strip_prefix('ய') {
                 cands.extend(reconstruct_tamil_sandhi_candidates(after_ya));
             }
@@ -556,7 +594,21 @@ fn parse_tamil_token_rec(tok: &str, depth: u8) -> Option<NumPart> {
 
     for &(stem, stem_val) in TAMIL_COMBINING_STEMS {
         if let Some(rest) = tok.strip_prefix(stem) {
-            if rest.is_empty() || rest == "\u{0BC1}" || rest == "\u{0BBF}" {
+            if rest.is_empty()
+                || matches!(
+                    rest,
+                    "\u{0BC1}"
+                        | "\u{0BBF}"
+                        | "\u{0BC1}ப்"
+                        | "\u{0BC1}த்"
+                        | "\u{0BC1}க்"
+                        | "\u{0BC1}ச்"
+                        | "\u{0BBF}ப்"
+                        | "\u{0BBF}த்"
+                        | "\u{0BBF}க்"
+                        | "\u{0BBF}ச்"
+                )
+            {
                 return Some(match stem_val {
                     100 => NumPart::Hundred,
                     1000 => NumPart::Thousand,
@@ -699,6 +751,7 @@ fn parse_number_span_with_opts(tokens: &[&str], allow_two_digit_seq: bool) -> Op
     let mut total: u64 = 0;
     let mut current: u64 = 0;
     let mut saw_value = false;
+    let mut saw_non_contextual = false;
     let mut saw_zero = false;
     let mut last_non_connector_consumed = 0usize;
     let mut idx = 0usize;
@@ -708,8 +761,9 @@ fn parse_number_span_with_opts(tokens: &[&str], allow_two_digit_seq: bool) -> Op
         if tok.is_empty() {
             break;
         }
-        if tok == "and" || ((tok == "a" || tok == "ஒரு") && !saw_value) {
-            // Only treat "and" / "a" / "ஒரு" as part of the number if followed by a number token.
+        if matches!(tok, "and" | "அண்ட்") || ((tok == "a" || tok == "ஒரு") && !saw_value)
+        {
+            // Only treat "and" / "அண்ட்" / "a" / "ஒரு" as part of the number if followed by a number token.
             if idx + 1 < tokens.len()
                 && let Some(next_part) = classify_number_token(trim_token_edges(tokens[idx + 1]))
             {
@@ -747,22 +801,39 @@ fn parse_number_span_with_opts(tokens: &[&str], allow_two_digit_seq: bool) -> Op
                 Some(NumPart::Zero)
             )
             && idx + 1 < tokens.len()
-            && let Some(NumPart::Unit(u)) = classify_number_token(trim_token_edges(tokens[idx + 1]))
-                .or_else(|| classify_contextual_number_token(trim_token_edges(tokens[idx + 1])))
         {
-            current = current * 100 + u64::from(u);
-            idx += 2;
-            last_non_connector_consumed = idx;
-            continue;
+            let next_tok = trim_token_edges(tokens[idx + 1]);
+            let next_unit = match classify_number_token(next_tok) {
+                Some(NumPart::Unit(u)) => Some((u, false)),
+                None => match classify_contextual_number_token(next_tok) {
+                    Some(NumPart::Unit(u)) => Some((u, true)),
+                    _ => None,
+                },
+                _ => None,
+            };
+            if let Some((u, next_is_contextual)) = next_unit {
+                current = current * 100 + u64::from(u);
+                if !next_is_contextual {
+                    saw_non_contextual = true;
+                }
+                idx += 2;
+                last_non_connector_consumed = idx;
+                continue;
+            }
         }
 
-        let part = match classify_number_token(tok) {
-            Some(p) => p,
-            None if saw_value => match classify_contextual_number_token(tok) {
-                Some(p) => p,
-                None => break,
-            },
-            None => break,
+        let (part, is_contextual) = match classify_number_token(tok) {
+            Some(p) => (p, false),
+            None => {
+                let allow_contextual = saw_value
+                    || (idx + 1 < tokens.len()
+                        && classify_number_token(trim_token_edges(tokens[idx + 1])).is_some());
+                if allow_contextual && let Some(p) = classify_contextual_number_token(tok) {
+                    (p, true)
+                } else {
+                    break;
+                }
+            }
         };
 
         match part {
@@ -866,11 +937,14 @@ fn parse_number_span_with_opts(tokens: &[&str], allow_two_digit_seq: bool) -> Op
             }
         }
 
+        if !is_contextual {
+            saw_non_contextual = true;
+        }
         idx += 1;
         last_non_connector_consumed = idx;
     }
 
-    if !saw_value || last_non_connector_consumed == 0 {
+    if !saw_value || !saw_non_contextual || last_non_connector_consumed == 0 {
         return None;
     }
 
@@ -1223,6 +1297,21 @@ pub fn extract_anchored_number(raw: &str) -> Option<AnchoredNumber> {
     None
 }
 
+/// Extract a spoken Kural number from a Tamil or English utterance (digits, words, compounds,
+/// phonetic transliterations, or anchored forms).
+///
+/// Returns `Some(n)` for [`AnchoredNumber::Kural`] or [`AnchoredNumber::Bare`], and `None` for
+/// [`AnchoredNumber::Adhikaram`], general questions, or non-Kural sentences.
+pub fn parse_spoken_kural_number(raw: &str) -> Option<u32> {
+    if is_likely_question(raw) {
+        return None;
+    }
+    match extract_anchored_number(raw) {
+        Some(AnchoredNumber::Kural(n) | AnchoredNumber::Bare(n)) => Some(n),
+        Some(AnchoredNumber::Adhikaram(_)) | None => None,
+    }
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -1446,5 +1535,153 @@ mod tests {
         assert_eq!(parse_number("வெயிட்"), None);
         assert_eq!(parse_number("oh"), None);
         assert_eq!(extract_anchored_number("போர் பற்றி கூறு"), None);
+    }
+
+    #[test]
+    fn parses_spoken_kural_numbers_across_digits_compounds_sequences_and_phonetics() {
+        for (utterance, expected) in [
+            // ASCII digits & anchored phrasings
+            ("128", 128),
+            ("குறள் 128", 128),
+            ("குறள் எண் 128", 128),
+            ("128 வது குறள்", 128),
+            ("kural 128", 128),
+            ("open kural 128", 128),
+            ("read 128", 128),
+            ("number 128", 128),
+            // Literary & colloquial Tamil compounds
+            ("நூற்று இருபத்தெட்டு", 128),
+            ("நூத்தி இருபத்தெட்டு", 128),
+            ("நூத்தி இருவத்தி எட்டு", 128),
+            ("ஆயிரத்து முன்னூற்று முப்பது", 1330),
+            ("தொள்ளாயிரத்தி தொண்ணூத்தி ஒன்பது", 999),
+            ("நூற்றுப்பத்து", 110),
+            ("நூற்றுப் பத்து", 110),
+            // Digit-by-digit Tamil & English sequences
+            ("ஒன்று இரண்டு எட்டு", 128),
+            ("ஒண்ணு ரெண்டு எட்டு", 128),
+            ("one two eight", 128),
+            ("one twenty eight", 128),
+            ("one hundred twenty eight", 128),
+            // Tamil-script phonetic transliterations of English numbers
+            ("ஒன் டூ எய்ட்", 128),
+            ("ஒன் டுவென்டி எய்ட்", 128),
+            ("ஒன் டுவண்டி எய்ட்", 128),
+            ("வண் டூ எய்ட்", 128),
+            ("ஒன் டு எய்ட்", 128),
+            ("ஒன் டுூ வெயிட்", 128),
+            ("ஒன் ஹண்ட்ரட் அண்ட் ட்வென்டி எய்ட்", 128),
+            ("போர் ட்வென்டி த்ரீ", 423),
+            ("போர் ஹண்ட்ரட் எய்ட்டி ஒன்", 481),
+            ("டு ஹண்ட்ரட்", 200),
+            ("டுவென்டி போர்", 24),
+            ("1330", 1330),
+            ("0", 0),
+            ("1331", 1331),
+        ] {
+            assert_eq!(
+                parse_spoken_kural_number(utterance),
+                Some(expected),
+                "parse_spoken_kural_number failed on '{utterance}'"
+            );
+        }
+
+        // Verify all required phonetic Tamil leaf tokens parse to their exact numeric value.
+        for (token, expected) in [
+            ("ஒன்", 1),
+            ("வன்", 1),
+            ("வண்", 1),
+            ("டூ", 2),
+            ("டுூ", 2),
+            ("த்ரீ", 3),
+            ("திரீ", 3),
+            ("திரி", 3),
+            ("ஃபோர்", 4),
+            ("ஃபார்", 4),
+            ("ஃபைவ்", 5),
+            ("பைவ்", 5),
+            ("சிக்ஸ்", 6),
+            ("ஸிக்ஸ்", 6),
+            ("செவன்", 7),
+            ("ஸெவன்", 7),
+            ("எய்ட்", 8),
+            ("எயிட்", 8),
+            ("நைன்", 9),
+            ("டென்", 10),
+            ("லெவன்", 11),
+            ("ட்வெல்வ்", 12),
+            ("டுவெல்வ்", 12),
+            ("ட்வென்டி", 20),
+            ("ட்வெண்டி", 20),
+            ("டவெண்டி", 20),
+            ("டுவென்டி", 20),
+            ("டுவண்டி", 20),
+            ("தேர்ட்டி", 30),
+            ("தேர்டி", 30),
+            ("ஃபார்ட்டி", 40),
+            ("ஃபார்டி", 40),
+            ("ஃபோர்ட்டி", 40),
+            ("ஃபோர்டி", 40),
+            ("ஃபிஃப்டி", 50),
+            ("ஃபிப்டி", 50),
+            ("பிப்டி", 50),
+            ("சிக்ஸ்டி", 60),
+            ("செவன்டி", 70),
+            ("எய்ட்டி", 80),
+            ("எய்டி", 80),
+            ("நைன்டி", 90),
+            ("நைன்ட்டி", 90),
+            ("ஹண்ட்ரட்", 100),
+            ("தௌசண்ட்", 1000),
+            ("தவுசண்ட்", 1000),
+        ] {
+            assert_eq!(
+                parse_spoken_kural_number(token),
+                Some(expected),
+                "phonetic token failed: '{token}'"
+            );
+        }
+
+        // Non-Kural utterances: Adhikaram, questions, math, contextual homophones alone, prose.
+        for non_kural in [
+            "adhikaram 10",
+            "அதிகாரம் 10",
+            "chapter 128",
+            "what is kural 128?",
+            "explain kural 128",
+            "குறள் 128 விளக்கம்",
+            "why are there 1330 kurals",
+            "42 * 10",
+            "Tell me about Thiruvalluvar",
+            "போர்",
+            "டு",
+            "போர் 128",
+            "போர் பற்றி கூறு",
+            "hello world",
+            "",
+        ] {
+            assert_eq!(
+                parse_spoken_kural_number(non_kural),
+                None,
+                "expected None for non-Kural input '{non_kural}'"
+            );
+        }
+    }
+
+    #[test]
+    fn normalizer_collapses_duplicate_tamil_combining_vowel_signs() {
+        assert_eq!(normalize_for_matching("டவென்டிி"), "டவென்டி");
+        assert_eq!(normalize_for_matching("டவென்டிிி"), "டவென்டி");
+        assert_eq!(normalize_for_matching("குறள்் 128"), "குறள் 128");
+        assert_eq!(
+            normalize_for_matching("நூூற்று இருபத்தெட்டு"),
+            "நூற்று இருபத்தெட்டு"
+        );
+        // Distinct combining signs (ு + ூ in "டுூ") must remain intact.
+        assert_eq!(normalize_for_matching("ஒன் டுூ வெயிட்"), "ஒன் டுூ வெயிட்");
+
+        assert_eq!(parse_spoken_kural_number("ஒன் டவென்டிி எயிட்"), Some(128));
+        assert_eq!(parse_spoken_kural_number("குறள்் 128"), Some(128));
+        assert_eq!(parse_spoken_kural_number("நூூற்று இருபத்தெட்டு"), Some(128));
     }
 }

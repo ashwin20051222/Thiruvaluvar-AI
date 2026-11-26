@@ -387,6 +387,8 @@ async fn check_dom_state(label: &str, viewport: AuditViewport, expect_kural: boo
     let is_touch = viewport.is_touch_pi();
     let is_pi35 = viewport.is_pi35();
     let is_pi7 = matches!(viewport, AuditViewport::Pi7 | AuditViewport::Pi7Hd);
+    let expect_ai_empty = label == "Modal/AiChat/Empty";
+    let expect_ai_populated = label == "Modal/AiChat/VoiceTurn";
     tokio::time::sleep(Duration::from_millis(140)).await;
     let js = format!(
         r#"return (() => {{
@@ -577,6 +579,22 @@ async fn check_dom_state(label: &str, viewport: AuditViewport, expect_kural: boo
                     }}
                 }}
             }}
+            if ({expect_ai_empty}) {{
+                if (document.querySelector('.ai-answer-card')) {{
+                    errs.push('aiAnswerCardPresentInEmpty');
+                }}
+                if (!document.getElementById('ai-empty-prompt')) {{
+                    errs.push('aiEmptyPromptMissing');
+                }}
+            }}
+            if ({expect_ai_populated}) {{
+                if (!document.querySelector('.ai-answer-card')) {{
+                    errs.push('aiAnswerCardMissingInPopulated');
+                }}
+                if (document.getElementById('ai-empty-prompt')) {{
+                    errs.push('aiEmptyPromptPresentInPopulated');
+                }}
+            }}
             return errs.length === 0 ? `OK|${{ch}}x${{cw}}|scroll=${{sh}}x${{sw}}` : `FAIL|${{ch}}x${{cw}}|${{errs.join(',')}}`;
         }})();"#
     );
@@ -700,10 +718,25 @@ async fn run_layout_audit(ctx: &mut state::AppContext, viewport: AuditViewport) 
     ctx.dispatch(BackendCommand::OpenModal(ModalKind::AiChat {
         seed_kural: Some(1),
     }));
+    for _ in 0..20 {
+        if matches!(ctx.snapshot.peek().modal, Some(ModalKind::AiChat { .. })) {
+            break;
+        }
+        tokio::time::sleep(Duration::from_millis(10)).await;
+    }
+    tokio::time::sleep(Duration::from_millis(80)).await;
+    all_ok &= check_dom_state("Modal/AiChat/Empty", viewport, false).await;
+
     ctx.dispatch(BackendCommand::AskAiQuestion {
         query: "What is virtue?".to_string(),
         seed_kural: Some(1),
     });
+    for _ in 0..40 {
+        if ctx.ai_answer.peek().is_some() {
+            break;
+        }
+        tokio::time::sleep(Duration::from_millis(40)).await;
+    }
     tokio::time::sleep(Duration::from_millis(120)).await;
     let mut audited = ctx.snapshot.peek().as_ref().clone();
     audited.playback_status = kural_core::AudioPlaybackStatus::Completed;

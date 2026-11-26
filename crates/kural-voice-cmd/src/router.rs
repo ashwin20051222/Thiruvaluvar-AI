@@ -1606,4 +1606,57 @@ mod tests {
             BackendCommand::AskAiQuestion { .. }
         ));
     }
+
+    #[test]
+    fn validates_spoken_kural_numbers_and_range_errors_across_all_age_screens() {
+        let valid_cases = [
+            ("128", 128_u16),
+            ("குறள் 128", 128),
+            ("நூற்று இருபத்தெட்டு", 128),
+            ("நூத்தி இருபத்தெட்டு", 128),
+            ("நூத்தி இருவத்தி எட்டு", 128),
+            ("ஒன்று இரண்டு எட்டு", 128),
+            ("ஒண்ணு ரெண்டு எட்டு", 128),
+            ("ஒன் டூ எய்ட்", 128),
+            ("ஒன் டுவென்டி எய்ட்", 128),
+            ("ஒன் டுவண்டி எய்ட்", 128),
+            ("வண் டூ எய்ட்", 128),
+            ("one twenty eight", 128),
+            ("1330", 1330),
+            ("ஆயிரத்து முன்னூற்று முப்பது", 1330),
+            ("தொள்ளாயிரத்தி தொண்ணூத்தி ஒன்பது", 999),
+        ];
+
+        for screen in [AppScreen::Kids, AppScreen::Youth, AppScreen::Adult] {
+            let ctx = RouterContext {
+                screen,
+                ..default_ctx()
+            };
+
+            for (utterance, expected) in valid_cases {
+                assert_eq!(
+                    crate::parse_spoken_kural_number(utterance),
+                    Some(u32::from(expected)),
+                    "parse_spoken_kural_number failed on '{utterance}'"
+                );
+                let out = validate_voice_transcript(utterance, Language::Tamil, ctx)
+                    .unwrap_or_else(|err| {
+                        panic!("expected Ok for '{utterance}' on {screen:?}, got {err:?}")
+                    });
+                assert_eq!(
+                    out.cmd,
+                    BackendCommand::OpenKural(expected),
+                    "screen={screen:?}, utterance='{utterance}'"
+                );
+            }
+
+            for out_of_range in ["0", "1331", "குறள் 0", "குறள் 1331"] {
+                assert_eq!(
+                    validate_voice_transcript(out_of_range, Language::Tamil, ctx),
+                    Err(VOICE_KURAL_RANGE_ERROR),
+                    "expected range error for '{out_of_range}' on {screen:?}"
+                );
+            }
+        }
+    }
 }
