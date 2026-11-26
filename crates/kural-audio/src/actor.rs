@@ -1282,9 +1282,16 @@ impl AudioActor {
         };
         let _ = health_tx.send(health);
 
+        let effective_earcon_guard_ms = match &output {
+            OutputSink::Hardware { .. } => config.earcon_guard_ms.max(350),
+            #[cfg(test)]
+            OutputSink::Simulated { .. } => config.earcon_guard_ms,
+            OutputSink::Unavailable => config.earcon_guard_ms,
+        };
+
         Self {
             echo_guard: EchoGuardState::new(
-                config.earcon_guard_ms,
+                effective_earcon_guard_ms,
                 config.echo_cooldown_ms,
                 config.aec_enabled,
             ),

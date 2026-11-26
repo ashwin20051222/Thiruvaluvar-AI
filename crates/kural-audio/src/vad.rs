@@ -333,13 +333,14 @@ impl UtteranceFramer {
         let speech_only_16k = std::mem::take(&mut self.speech_only_16k);
         let pre_roll_noise_16k = std::mem::take(&mut self.pre_roll_noise_16k);
 
-        let rms_level = if !speech_only_16k.is_empty() {
-            compute_rms(&speech_only_16k)
+        let active_speech = if !speech_only_16k.is_empty() {
+            speech_only_16k.as_slice()
         } else {
-            compute_rms(&samples_16k)
+            samples_16k.as_slice()
         };
+        let rms_level = compute_rms(active_speech);
         let clipping_ratio = compute_clipping_ratio(&samples_16k);
-        let snr_db = compute_snr_db(rms_level, &pre_roll_noise_16k);
+        let snr_db = compute_snr_db(rms_level, active_speech, &pre_roll_noise_16k);
 
         CapturedAudio {
             samples_16k,
@@ -399,16 +400,36 @@ fn compute_clipping_ratio(samples: &[f32]) -> f32 {
     clipped as f32 / samples.len() as f32
 }
 
-fn compute_snr_db(signal_rms: f32, pre_roll_noise: &[f32]) -> f32 {
-    if !signal_rms.is_finite() || signal_rms <= 1e-6 {
+fn frame_rms_quantile(samples: &[f32], numerator: usize, denominator: usize) -> Option<f32> {
+    if samples.len() < FRAME_SAMPLES_16K || denominator == 0 {
+        return None;
+    }
+    let mut frame_rms: Vec<f32> = samples
+        .chunks_exact(FRAME_SAMPLES_16K)
+        .map(compute_rms)
+        .filter(|r| r.is_finite())
+        .collect();
+    if frame_rms.is_empty() {
+        return None;
+    }
+    frame_rms.sort_by(f32::total_cmp);
+    let idx = ((frame_rms.len() - 1) * numerator) / denominator;
+    Some(frame_rms[idx])
+}
+
+fn compute_snr_db(signal_rms: f32, active_speech: &[f32], pre_roll_noise: &[f32]) -> f32 {
+    let speech_rms = signal_rms.max(frame_rms_quantile(active_speech, 3, 4).unwrap_or(0.0));
+    if !speech_rms.is_finite() || speech_rms <= 1e-6 {
         return 0.0;
     }
     let noise_rms = if pre_roll_noise.is_empty() {
         1e-3_f32
     } else {
-        compute_rms(pre_roll_noise).max(1e-5)
+        frame_rms_quantile(pre_roll_noise, 1, 4)
+            .unwrap_or_else(|| compute_rms(pre_roll_noise))
+            .max(1e-5)
     };
-    let snr = 20.0 * (signal_rms / noise_rms).log10();
+    let snr = 20.0 * (speech_rms / noise_rms).log10();
     if snr.is_finite() {
         snr.clamp(-60.0, 80.0)
     } else {
@@ -728,5 +749,113 @@ mod tests {
             framer.feed_512_frame(&short, &mut vad),
             Err(AudioError::StreamError(_))
         ));
+    }
+
+    #[test]
+    fn fixed_age_sample_snr_resists_vad_onset_lag_and_transient_spikes() {
+        struct LaggyVad {
+            lag_frames: usize,
+        }
+        impl VadBackend for LaggyVad {
+            fn reset(&mut self) {}
+            fn speech_probability(&mut self, frame_512_16k: &[f32]) -> Result<f32, AudioError> {
+                if compute_rms(frame_512_16k) < 0.05 {
+                    return Ok(0.0);
+                }
+                if self.lag_frames > 0 {
+                    self.lag_frames -= 1;
+                    return Ok(0.0);
+                }
+                Ok(0.95)
+            }
+        }
+
+        let mut vad = LaggyVad { lag_frames: 4 };
+        let mut framer = UtteranceFramer::new(
+            CaptureMode::FixedAgeSample {
+                duration_ms: 56 * FRAME_DURATION_MS,
+            },
+            0.5,
+            500,
+            850,
+        );
+
+        // 12 quiet ambient frames + 4 loud speech-onset frames missed due to VAD lag + 40 speech frames.
+        for idx in 0..12 {
+            let ambient = sine_frame(120.0, 0.005, idx);
+            assert_eq!(
+                framer.feed_512_frame(&ambient, &mut vad).unwrap(),
+                FrameAction::KeepWaiting
+            );
+        }
+        let mut completed = None;
+        for idx in 0..44 {
+            let speech = sine_frame(240.0, 0.15, idx);
+            match framer.feed_512_frame(&speech, &mut vad).unwrap() {
+                FrameAction::KeepWaiting => {}
+                FrameAction::CaptureComplete(c) => {
+                    completed = Some(c);
+                }
+                FrameAction::TimedOut => panic!("FixedAgeSample must never time out"),
+            }
+        }
+
+        let captured = completed.expect("FixedAgeSample should complete");
+        assert!(
+            captured.snr_db > 18.0,
+            "expected quantile SNR > 18 dB despite 4 onset lag frames, got {:.2} dB",
+            captured.snr_db
+        );
+    }
+
+    #[test]
+    fn fixed_age_sample_snr_still_rejects_steady_loud_background_noise() {
+        struct ThresholdVad;
+        impl VadBackend for ThresholdVad {
+            fn reset(&mut self) {}
+            fn speech_probability(&mut self, frame_512_16k: &[f32]) -> Result<f32, AudioError> {
+                Ok(if compute_rms(frame_512_16k) >= 0.10 {
+                    0.95
+                } else {
+                    0.0
+                })
+            }
+        }
+
+        let mut vad = ThresholdVad;
+        let mut framer = UtteranceFramer::new(
+            CaptureMode::FixedAgeSample {
+                duration_ms: 40 * FRAME_DURATION_MS,
+            },
+            0.5,
+            500,
+            850,
+        );
+
+        for idx in 0..15 {
+            let loud_noise = sine_frame(300.0, 0.09, idx);
+            assert_eq!(
+                framer.feed_512_frame(&loud_noise, &mut vad).unwrap(),
+                FrameAction::KeepWaiting
+            );
+        }
+        let mut completed = None;
+        for idx in 0..25 {
+            let speech_over_noise = sine_frame(300.0, 0.15, idx);
+            match framer.feed_512_frame(&speech_over_noise, &mut vad).unwrap() {
+                FrameAction::KeepWaiting => {}
+                FrameAction::CaptureComplete(c) => {
+                    completed = Some(c);
+                }
+                FrameAction::TimedOut => panic!("FixedAgeSample must never time out"),
+            }
+        }
+
+        let captured = completed.expect("FixedAgeSample should complete");
+        assert!(
+            captured.snr_db < 8.0,
+            "expected steady loud background noise to stay below 8 dB, got {:.2} dB",
+            captured.snr_db
+        );
     }
 }

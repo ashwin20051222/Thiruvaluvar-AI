@@ -1181,12 +1181,15 @@ impl BackendController {
                         .await
                         .unwrap_or(AgeOutcome::Retry(RetryReason::TooShort))
                 }
-                Err(AudioError::Cancelled) => return,
+                Err(AudioError::Cancelled | AudioError::CaptureInProgress) => return,
                 Err(AudioError::Timeout) => AgeOutcome::Retry(RetryReason::TooShort),
                 Err(AudioError::DeviceUnavailable(_)) => {
                     AgeOutcome::Retry(RetryReason::HardwareUnavailable)
                 }
-                Err(_) => AgeOutcome::Retry(RetryReason::TooNoisy),
+                Err(err) => {
+                    eprintln!("kural-backend: voice age capture error: {err}");
+                    AgeOutcome::Retry(RetryReason::TooShort)
+                }
             };
             if task_cancel.is_cancelled() {
                 return;

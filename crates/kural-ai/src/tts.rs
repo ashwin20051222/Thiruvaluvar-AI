@@ -2973,9 +2973,11 @@ mod tests {
     fn build_synthetic_model_proto() -> Vec<u8> {
         let mut out = vec![
             // field 1: ir_version = 8 (varint)
-            0x08, 0x08,
+            0x08,
+            0x08,
             // field 2: producer_name = "pytorch" (length-delimited)
-            0x12, 7,
+            0x12,
+            7,
         ];
         out.extend_from_slice(b"pytorch");
         // field 7: graph = empty GraphProto (length-delimited)

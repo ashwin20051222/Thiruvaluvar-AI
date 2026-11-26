@@ -50,7 +50,7 @@ impl SherpaSileroVad {
                 model: Some(model_str),
                 threshold,
                 min_silence_duration: 0.25,
-                min_speech_duration: 0.12,
+                min_speech_duration: 0.032,
                 window_size: FRAME_SAMPLES_16K as i32,
                 max_speech_duration: 15.0,
             },

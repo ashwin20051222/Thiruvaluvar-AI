@@ -730,25 +730,57 @@ fn subtract_noise_stft(
         noise_frames = 1;
     } else {
         let mut offset = 0;
+        let mut candidate_frames: Vec<(usize, f32)> = Vec::new();
         while offset + STFT_FFT_LEN <= pre_roll_noise_16k.len() {
-            for (i, (&s, &w)) in pre_roll_noise_16k[offset..offset + STFT_FFT_LEN]
+            let slice = &pre_roll_noise_16k[offset..offset + STFT_FFT_LEN];
+            let sum_sq: f32 = slice
                 .iter()
-                .zip(sqrt_hann.iter())
-                .enumerate()
-            {
-                let v = if s.is_finite() {
-                    s.clamp(-4.0, 4.0)
-                } else {
-                    0.0
-                };
-                buf[i] = Complex::new(v * w, 0.0);
+                .map(|&s| {
+                    if s.is_finite() {
+                        let c = s.clamp(-4.0, 4.0);
+                        c * c
+                    } else {
+                        0.0
+                    }
+                })
+                .sum();
+            let frame_rms = (sum_sq / STFT_FFT_LEN as f32).sqrt();
+            if frame_rms.is_finite() {
+                candidate_frames.push((offset, frame_rms));
             }
-            fft_fwd.process_with_scratch(&mut buf, &mut fwd_scratch);
-            for (k, c) in buf.iter().take(STFT_FFT_LEN / 2 + 1).enumerate() {
-                noise_pow[k] += c.norm_sqr();
-            }
-            noise_frames += 1;
             offset += STFT_HOP_LEN;
+        }
+        if !candidate_frames.is_empty() {
+            let mut sorted_rms: Vec<f32> = candidate_frames.iter().map(|&(_, r)| r).collect();
+            sorted_rms.sort_by(f32::total_cmp);
+            let median_rms = sorted_rms[sorted_rms.len() / 2];
+            let max_allowed_rms = if speech_rms > 0.0 {
+                median_rms.min(0.65 * speech_rms)
+            } else {
+                median_rms
+            };
+            for (frame_offset, frame_rms) in candidate_frames {
+                if frame_rms > max_allowed_rms {
+                    continue;
+                }
+                for (i, (&s, &w)) in pre_roll_noise_16k[frame_offset..frame_offset + STFT_FFT_LEN]
+                    .iter()
+                    .zip(sqrt_hann.iter())
+                    .enumerate()
+                {
+                    let v = if s.is_finite() {
+                        s.clamp(-4.0, 4.0)
+                    } else {
+                        0.0
+                    };
+                    buf[i] = Complex::new(v * w, 0.0);
+                }
+                fft_fwd.process_with_scratch(&mut buf, &mut fwd_scratch);
+                for (k, c) in buf.iter().take(STFT_FFT_LEN / 2 + 1).enumerate() {
+                    noise_pow[k] += c.norm_sqr();
+                }
+                noise_frames += 1;
+            }
         }
     }
 
