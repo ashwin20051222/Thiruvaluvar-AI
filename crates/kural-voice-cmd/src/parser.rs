@@ -403,6 +403,7 @@ fn exact_tamil_leaf(tok: &str) -> Option<NumPart> {
         | "ட்வெண்டி"
         | "டவெண்டி"
         | "டவென்டி"
+        | "டவென்ண்டி"
         | "டுவென்டி"
         | "டுவெண்டி"
         | "டுவண்டி"
@@ -1079,6 +1080,7 @@ fn is_kural_anchor(tok: &str) -> bool {
         "thirukural",
         "ural",
         "ura",
+        "ure",
         "curl",
         "curial",
         "coral",
@@ -1487,6 +1489,7 @@ mod tests {
             ("kural four hundred twenty three", 423),
             ("kural one twenty eight", 128),
             ("URAL ONE HUNDRED TWENTY EIGHT", 128),
+            ("URE ONE HUNDRED TWENTY EIGHT", 128),
             ("D CURL FORTY TWO", 42),
             ("குரல் 128", 128),
             ("குரல் நூற்று இருபத்தெட்டு", 128),
@@ -1512,6 +1515,7 @@ mod tests {
             ("நூற்றியெட்டு", 108),
             ("நூற்றியொன்று", 101),
             ("ஒன் ஹண்ட்ரட் டவெண்டி எயிட்", 128),
+            ("ஒன் ஹண்ட்ரட் டவென்ண்டி எயிட்", 128),
             ("ஒன் டுூ வெயிட்", 128),
             ("ஒன்று இரண்டு எட்டு", 128),
             ("one twenty eight", 128),
