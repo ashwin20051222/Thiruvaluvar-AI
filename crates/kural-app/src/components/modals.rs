@@ -646,10 +646,21 @@ fn AiChatModal(seed_kural: Option<u16>) -> Element {
                     let safe = (*ans_page.read()).min(pages.len().saturating_sub(1));
                     let speak_body = body.trim().to_string();
                     let speak_label = seed_kural.map(|n| format!("#{n}"));
+                    let heard_text = latest_turn
+                        .as_ref()
+                        .map(|t| t.user_text.trim().to_string())
+                        .filter(|t| !t.is_empty());
                     rsx! {
                         div {
                             class: if ans.out_of_scope { "royal-fallback-banner ai-answer-card" } else { "royal-subcard ai-answer-card" },
                             style: "flex:1; min-height:0; display:flex; flex-direction:column; justify-content:space-between; gap:6px;",
+                            if let Some(heard) = heard_text {
+                                p {
+                                    class: "desktop-only truncate",
+                                    style: "font-size:12px; opacity:0.72; margin:0;",
+                                    "🎤 {heard}"
+                                }
+                            }
                             p { style: "font-size:14px; line-height:1.45;", "{pages[safe]}" }
                             div { style: "display:flex; align-items:center; justify-content:space-between; gap:6px; flex-wrap:wrap;",
                                 div { style: "display:flex; gap:4px; flex-wrap:wrap;",

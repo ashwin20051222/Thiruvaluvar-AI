@@ -301,72 +301,125 @@ fn classify_english_word(word: &str) -> Option<NumPart> {
 
 fn exact_tamil_leaf(tok: &str) -> Option<NumPart> {
     match tok {
-        "பூஜ்யம்" | "பூஜ்ஜியம்" | "சுழி" | "சுழியம்" | "சைபர்" => {
+        "பூஜ்யம்" | "பூஜ்ஜியம்" | "சுழி" | "சுழியம்" | "சைபர்" | "ஜீரோ" | "ஸீரோ" => {
             Some(NumPart::Zero)
         }
-        "ஒன்று" | "ஒண்ணு" | "ஒன்னு" | "ஒன்றாவது" | "ஒண்ணாவது" | "முதல்" | "முதலாவது" | "முதலாம்" | "ஒன்றாம்" => {
-            Some(NumPart::Unit(1))
-        }
-        "இரண்டு" | "ரெண்டு" | "ரண்டு" | "இரண்டாவது" | "ரெண்டாவது" | "இரண்டாம்" | "ரெண்டாம்" => {
-            Some(NumPart::Unit(2))
-        }
-        "மூன்று" | "மூணு" | "மூன்றாவது" | "மூணாவது" | "மூன்றாம்" | "மூணாம்" => {
+        "ஒன்று"
+        | "ஒண்ணு"
+        | "ஒன்னு"
+        | "ஒன்றாவது"
+        | "ஒண்ணாவது"
+        | "முதல்"
+        | "முதலாவது"
+        | "முதலாம்"
+        | "ஒன்றாம்"
+        | "ஒன்"
+        | "வன்" => Some(NumPart::Unit(1)),
+        "இரண்டு"
+        | "ரெண்டு"
+        | "ரண்டு"
+        | "இரண்டாவது"
+        | "ரெண்டாவது"
+        | "இரண்டாம்"
+        | "ரெண்டாம்"
+        | "டூ"
+        | "டுூ"
+        | "தூ" => Some(NumPart::Unit(2)),
+        "மூன்று" | "மூணு" | "மூன்றாவது" | "மூணாவது" | "மூன்றாம்" | "மூணாம்" | "த்ரீ" | "திரீ" => {
             Some(NumPart::Unit(3))
         }
-        "நான்கு" | "நாலு" | "நான்காவது" | "நாலாவது" | "நான்காம்" | "நாலாம்" => {
+        "நான்கு" | "நாலு" | "நான்காவது" | "நாலாவது" | "நான்காம்" | "நாலாம்" | "ஃபோர்" | "ஃபார்" => {
             Some(NumPart::Unit(4))
         }
-        "ஐந்து" | "அஞ்சு" | "ஐந்தாவது" | "அஞ்சாவது" | "ஐந்தாம்" | "அஞ்சாம்" => {
+        "ஐந்து" | "அஞ்சு" | "ஐந்தாவது" | "அஞ்சாவது" | "ஐந்தாம்" | "அஞ்சாம்" | "ஃபைவ்" | "பைவ்" | "ஃபை" => {
             Some(NumPart::Unit(5))
         }
-        "ஆறு" | "ஆறாவது" | "ஆறாம்" => Some(NumPart::Unit(6)),
-        "ஏழு" | "ஏழாவது" | "ஏழாம்" => Some(NumPart::Unit(7)),
-        "எட்டு" | "எட்டாவது" | "எட்டாம்" => {
+        "ஆறு" | "ஆறாவது" | "ஆறாம்" | "சிக்ஸ்" | "ஸிக்ஸ்" => {
+            Some(NumPart::Unit(6))
+        }
+        "ஏழு" | "ஏழாவது" | "ஏழாம்" | "செவன்" | "ஸெவன்" => {
+            Some(NumPart::Unit(7))
+        }
+        "எட்டு" | "எட்டாவது" | "எட்டாம்" | "எயிட்" | "எய்ட்" | "ஏட்" | "எய்டு" => {
             Some(NumPart::Unit(8))
         }
-        "ஒன்பது" | "ஒன்பதாவது" | "ஒன்பதாம்" => {
+        "ஒன்பது" | "ஒன்பதாவது" | "ஒன்பதாம்" | "நைன்" | "நயன்" => {
             Some(NumPart::Unit(9))
         }
-        "பத்து" | "பத்தாவது" | "பத்தாம்" => {
+        "பத்து" | "பத்தாவது" | "பத்தாம்" | "டென்" => {
             Some(NumPart::Teen(10))
         }
-        "பதினொன்று" | "பதினொண்ணு" | "பதினொன்னு" | "பதினொரு" => {
+        "பதினொன்று" | "பதினொண்ணு" | "பதினொன்னு" | "பதினொரு" | "லெவன்" | "இலெவன்" | "எலெவன்" => {
             Some(NumPart::Teen(11))
         }
-        "பன்னிரண்டு" | "பன்னெண்டு" | "பனிரண்டு" | "பன்னிரு" => {
-            Some(NumPart::Teen(12))
-        }
-        "பதிமூன்று" | "பதிமூணு" | "பதின்மூன்று" => {
+        "பன்னிரண்டு"
+        | "பன்னெண்டு"
+        | "பனிரண்டு"
+        | "பனிரெண்டு"
+        | "பன்னிரெண்டு"
+        | "பன்னிரு"
+        | "ட்வெல்வ்"
+        | "ட்வெல்"
+        | "டுவெல்" => Some(NumPart::Teen(12)),
+        "பதிமூன்று" | "பதிமூணு" | "பதின்மூன்று" | "தேர்டீன்" | "தர்டீன்" => {
             Some(NumPart::Teen(13))
         }
-        "பதினான்கு" | "பதிநான்கு" | "பதினாலு" => {
+        "பதினான்கு" | "பதிநான்கு" | "பதினாலு" | "ஃபோர்டீன்" | "போர்டீன்" => {
             Some(NumPart::Teen(14))
         }
-        "பதினைந்து" | "பதினஞ்சு" => Some(NumPart::Teen(15)),
-        "பதினாறு" => Some(NumPart::Teen(16)),
-        "பதினேழு" => Some(NumPart::Teen(17)),
-        "பதினெட்டு" => Some(NumPart::Teen(18)),
-        "பத்தொன்பது" => Some(NumPart::Teen(19)),
-        "இருபது" => Some(NumPart::Ten(20)),
-        "முப்பது" => Some(NumPart::Ten(30)),
-        "நாற்பது" => Some(NumPart::Ten(40)),
-        "ஐம்பது" => Some(NumPart::Ten(50)),
-        "அறுபது" => Some(NumPart::Ten(60)),
-        "எழுபது" => Some(NumPart::Ten(70)),
-        "எண்பது" => Some(NumPart::Ten(80)),
-        "தொண்ணூறு" => Some(NumPart::Ten(90)),
-        "நூறு" | "நூறாவது" | "நூறாம்" => Some(NumPart::Hundred),
-        "இருநூறு" => Some(NumPart::HundredUnit(200)),
+        "பதினைந்து" | "பதினஞ்சு" | "ஃபிஃப்டீன்" | "ஃபிப்டீன்" | "பிப்டீன்" => {
+            Some(NumPart::Teen(15))
+        }
+        "பதினாறு" | "பதினாரு" | "சிக்ஸ்டீன்" | "ஸிக்ஸ்டீன்" => {
+            Some(NumPart::Teen(16))
+        }
+        "பதினேழு" | "செவன்டீன்" | "ஸெவன்டீன்" => {
+            Some(NumPart::Teen(17))
+        }
+        "பதினெட்டு" | "எய்டீன்" | "எயிடீன்" => {
+            Some(NumPart::Teen(18))
+        }
+        "பத்தொன்பது" | "பத்தொம்பது" | "நைன்டீன்" => {
+            Some(NumPart::Teen(19))
+        }
+        "இருபது" | "இருவது" | "ட்வென்டி" | "ட்வெண்டி" | "டவெண்டி" | "டவென்டி" | "டுவென்டி" | "டுவெண்டி" => {
+            Some(NumPart::Ten(20))
+        }
+        "முப்பது" | "தேர்டி" | "தர்டி" | "தேர்ட்டி" => {
+            Some(NumPart::Ten(30))
+        }
+        "நாற்பது" | "நாப்பது" | "ஃபோர்டி" | "ஃபோர்ட்டி" | "போர்டி" | "போர்ட்டி" | "ஃபார்டி" => {
+            Some(NumPart::Ten(40))
+        }
+        "ஐம்பது" | "அம்பது" | "ஃபிஃப்டி" | "ஃபிப்டி" | "பிப்டி" => {
+            Some(NumPart::Ten(50))
+        }
+        "அறுபது" | "அறுவது" | "சிக்ஸ்டி" | "ஸிக்ஸ்டி" => {
+            Some(NumPart::Ten(60))
+        }
+        "எழுபது" | "எழுவது" | "செவன்டி" | "ஸெவன்டி" => {
+            Some(NumPart::Ten(70))
+        }
+        "எண்பது" | "எம்பது" | "எய்டி" | "எய்ட்டி" | "எயிடி" => {
+            Some(NumPart::Ten(80))
+        }
+        "தொண்ணூறு" | "தொண்ணூரு" | "நைன்டி" | "நைன்ட்டி" => {
+            Some(NumPart::Ten(90))
+        }
+        "நூறு" | "நூரு" | "நூறாவது" | "நூறாம்" | "ஹண்ட்ரட்" | "ஹன்ட்ரட்" | "அண்ட்ரட்" | "ஹண்ட்ரெட்" => {
+            Some(NumPart::Hundred)
+        }
+        "இருநூறு" | "இருநூரு" => Some(NumPart::HundredUnit(200)),
         "முந்நூறு" | "மூந்நூறு" | "முன்னூறு" => {
             Some(NumPart::HundredUnit(300))
         }
-        "நானூறு" => Some(NumPart::HundredUnit(400)),
+        "நானூறு" | "நானூரு" => Some(NumPart::HundredUnit(400)),
         "ஐந்நூறு" | "ஐநூறு" => Some(NumPart::HundredUnit(500)),
         "அறுநூறு" => Some(NumPart::HundredUnit(600)),
         "எழுநூறு" => Some(NumPart::HundredUnit(700)),
         "எண்ணூறு" => Some(NumPart::HundredUnit(800)),
         "தொள்ளாயிரம்" => Some(NumPart::HundredUnit(900)),
-        "ஆயிரம்" | "ஓராயிரம்" | "ஆயிரமாவது" => {
+        "ஆயிரம்" | "ஓராயிரம்" | "ஆயிரமாவது" | "தவுசண்ட்" | "தௌசண்ட்" | "தௌசன்ட்" => {
             Some(NumPart::Thousand)
         }
         "இரண்டாயிரம்" | "ரெண்டாயிரம்" | "ஈராயிரம்" => {
@@ -404,28 +457,45 @@ const TAMIL_COMBINING_STEMS: &[(&str, u32)] = &[
     ("ஐயாயிரத்த", 5000),
     ("ஓராயிரத்த", 1000),
     ("ஆயிரத்த", 1000),
-    // Hundreds
+    // Hundreds (literary + colloquial `-த்த` forms)
     ("தொள்ளாயிரத்த", 900),
     ("எண்ணூற்ற", 800),
+    ("எண்ணூத்த", 800),
     ("எழுநூற்ற", 700),
+    ("எழுநூத்த", 700),
     ("அறுநூற்ற", 600),
+    ("அறுநூத்த", 600),
     ("ஐந்நூற்ற", 500),
+    ("ஐந்நூத்த", 500),
     ("ஐநூற்ற", 500),
+    ("ஐநூத்த", 500),
     ("நானூற்ற", 400),
+    ("நானூத்த", 400),
     ("முந்நூற்ற", 300),
+    ("முந்நூத்த", 300),
     ("மூந்நூற்ற", 300),
     ("முன்னூற்ற", 300),
+    ("முன்னூத்த", 300),
     ("இருநூற்ற", 200),
+    ("இருநூத்த", 200),
     ("நூற்ற", 100),
-    // Tens
+    ("நூத்த", 100),
+    // Tens (literary + colloquial)
     ("தொண்ணூற்ற", 90),
+    ("தொண்ணூத்த", 90),
     ("எண்பத்த", 80),
+    ("எம்பத்த", 80),
     ("எழுபத்த", 70),
+    ("எழுவத்த", 70),
     ("அறுபத்த", 60),
+    ("அறுவத்த", 60),
     ("ஐம்பத்த", 50),
+    ("அம்பத்த", 50),
     ("நாற்பத்த", 40),
+    ("நாப்பத்த", 40),
     ("முப்பத்த", 30),
     ("இருபத்த", 20),
+    ("இருவத்த", 20),
 ];
 
 /// Reconstruct candidate Tamil words following a combining stem using Tamil vowel sandhi rules.
@@ -438,9 +508,16 @@ fn reconstruct_tamil_sandhi_candidates(rest: &str) -> Vec<String> {
     match first {
         // '-த்து' / '-ற்று' + consonant -> '-த்து'
         '\u{0BC1}' => vec![tail.to_string()],
-        // '-த்தி' / '-ற்றி' can elide either nothing (e.g. நாற்பத்திமூன்று -> மூன்று)
-        // or initial 'இ' (e.g. நாற்பத்திரண்டு -> இரண்டு, நூற்றிருபது -> இருபது).
-        '\u{0BBF}' => vec![tail.to_string(), format!("இ{tail}")],
+        // '-த்தி' / '-ற்றி' can elide either nothing (e.g. நாற்பத்திமூன்று -> மூன்று),
+        // initial 'இ' (e.g. நாற்பத்திரண்டு -> இரண்டு, நூற்றிருபது -> இருபது),
+        // or carry a 'ய' glide before a vowel (e.g. நூற்றியிருபத்தெட்டு -> இருபத்தெட்டு).
+        '\u{0BBF}' => {
+            let mut cands = vec![tail.to_string(), format!("இ{tail}")];
+            if let Some(after_ya) = tail.strip_prefix('ய') {
+                cands.extend(reconstruct_tamil_sandhi_candidates(after_ya));
+            }
+            cands
+        }
         '\u{0BBE}' => vec![format!("ஆ{tail}")],
         '\u{0BC0}' => vec![format!("ஈ{tail}")],
         '\u{0BC2}' => vec![format!("ஊ{tail}")],
@@ -479,7 +556,7 @@ fn parse_tamil_token_rec(tok: &str, depth: u8) -> Option<NumPart> {
 
     for &(stem, stem_val) in TAMIL_COMBINING_STEMS {
         if let Some(rest) = tok.strip_prefix(stem) {
-            if rest == "\u{0BC1}" || rest == "\u{0BBF}" {
+            if rest.is_empty() || rest == "\u{0BC1}" || rest == "\u{0BBF}" {
                 return Some(match stem_val {
                     100 => NumPart::Hundred,
                     1000 => NumPart::Thousand,
@@ -526,17 +603,108 @@ fn classify_number_token(tok: &str) -> Option<NumPart> {
     parse_tamil_token_rec(tok, 0)
 }
 
+/// Contextual ASR homophone number tokens that are ONLY accepted when adjacent to another
+/// unambiguous number token (prevents Tamil words like "போர்" / English "oh" firing alone).
+fn classify_contextual_number_token(tok: &str) -> Option<NumPart> {
+    match tok {
+        "oh" | "o" | "ஓ" => Some(NumPart::Zero),
+        "டு" => Some(NumPart::Unit(2)),
+        "போர்" => Some(NumPart::Unit(4)),
+        "வெயிட்" => Some(NumPart::Unit(8)),
+        _ => None,
+    }
+}
+
+fn single_digit_part(tok: &str) -> Option<(u32, bool)> {
+    if let Some(part) = classify_number_token(tok) {
+        return match part {
+            NumPart::Zero => Some((0, false)),
+            NumPart::Unit(d) if d <= 9 => Some((d, false)),
+            NumPart::Digit(d) if d <= 9 => Some((d, false)),
+            _ => None,
+        };
+    }
+    classify_contextual_number_token(tok).and_then(|part| match part {
+        NumPart::Zero => Some((0, true)),
+        NumPart::Unit(d) if d <= 9 => Some((d, true)),
+        _ => None,
+    })
+}
+
+/// Parse a digit-by-digit spoken sequence such as `"one two eight"` -> `128`,
+/// `"ஒன்று இரண்டு எட்டு"` -> `128`, `"ஒன் டுூ வெயிட்"` -> `128`,
+/// or anchored 2-digit `"kural four two"` -> `42`.
+fn try_parse_digit_sequence(tokens: &[&str], allow_two_digits: bool) -> Option<(u32, usize)> {
+    let min_len = if allow_two_digits { 2 } else { 3 };
+    if tokens.len() < min_len {
+        return None;
+    }
+
+    let mut digits = Vec::with_capacity(4);
+    let mut saw_non_contextual = false;
+
+    for &raw_tok in tokens.iter().take(4) {
+        let tok = trim_token_edges(raw_tok);
+        if tok.is_empty() {
+            break;
+        }
+        let Some((d, is_contextual)) = single_digit_part(tok) else {
+            break;
+        };
+        if digits.is_empty() && d == 0 {
+            return None;
+        }
+        if !is_contextual {
+            saw_non_contextual = true;
+        }
+        digits.push(d);
+    }
+
+    if digits.len() < min_len || !saw_non_contextual {
+        return None;
+    }
+
+    // Do not steal digits from a larger multiplicative expression like "one two hundred".
+    if let Some(&next_raw) = tokens.get(digits.len()) {
+        let next_tok = trim_token_edges(next_raw);
+        if let Some(next_part) = classify_number_token(next_tok)
+            && matches!(
+                next_part,
+                NumPart::Hundred
+                    | NumPart::Thousand
+                    | NumPart::Million
+                    | NumPart::Ten(_)
+                    | NumPart::Teen(_)
+                    | NumPart::HundredUnit(_)
+            )
+        {
+            return None;
+        }
+    }
+
+    let mut value: u32 = 0;
+    for d in &digits {
+        value = value.checked_mul(10)?.checked_add(*d)?;
+    }
+    Some((value, digits.len()))
+}
+
 /// Accumulate a contiguous slice of tokens into a single `u32` number, returning the number
 /// and how many tokens were consumed (stopping before non-number tokens).
-fn parse_number_span(tokens: &[&str]) -> Option<(u32, usize)> {
+fn parse_number_span_with_opts(tokens: &[&str], allow_two_digit_seq: bool) -> Option<(u32, usize)> {
+    if let Some(seq) = try_parse_digit_sequence(tokens, allow_two_digit_seq) {
+        return Some(seq);
+    }
+
     let mut total: u64 = 0;
     let mut current: u64 = 0;
     let mut saw_value = false;
     let mut saw_zero = false;
     let mut last_non_connector_consumed = 0usize;
+    let mut idx = 0usize;
 
-    for (idx, &raw_tok) in tokens.iter().enumerate() {
-        let tok = trim_token_edges(raw_tok);
+    while idx < tokens.len() {
+        let tok = trim_token_edges(tokens[idx]);
         if tok.is_empty() {
             break;
         }
@@ -551,11 +719,13 @@ fn parse_number_span(tokens: &[&str]) -> Option<(u32, usize)> {
                         next_part,
                         NumPart::Hundred | NumPart::Thousand | NumPart::Million
                     ) {
+                        idx += 1;
                         continue;
                     }
                     break;
                 }
                 if saw_value {
+                    idx += 1;
                     continue;
                 }
             }
@@ -568,8 +738,31 @@ fn parse_number_span(tokens: &[&str]) -> Option<(u32, usize)> {
             break;
         }
 
-        let Some(part) = classify_number_token(tok) else {
-            break;
+        // Spoken hundreds shorthand with zero/oh: e.g. "one oh five" -> 105, "ten oh one" -> 1001.
+        if saw_value
+            && total == 0
+            && (1..=13).contains(&current)
+            && matches!(
+                classify_number_token(tok).or_else(|| classify_contextual_number_token(tok)),
+                Some(NumPart::Zero)
+            )
+            && idx + 1 < tokens.len()
+            && let Some(NumPart::Unit(u)) = classify_number_token(trim_token_edges(tokens[idx + 1]))
+                .or_else(|| classify_contextual_number_token(trim_token_edges(tokens[idx + 1])))
+        {
+            current = current * 100 + u64::from(u);
+            idx += 2;
+            last_non_connector_consumed = idx;
+            continue;
+        }
+
+        let part = match classify_number_token(tok) {
+            Some(p) => p,
+            None if saw_value => match classify_contextual_number_token(tok) {
+                Some(p) => p,
+                None => break,
+            },
+            None => break,
         };
 
         match part {
@@ -588,17 +781,31 @@ fn parse_number_span(tokens: &[&str]) -> Option<(u32, usize)> {
                 saw_value = true;
             }
             NumPart::Teen(v) => {
-                if saw_zero || !current.is_multiple_of(100) {
+                if saw_zero {
                     break;
                 }
-                current += u64::from(v);
+                if current.is_multiple_of(100) {
+                    current += u64::from(v);
+                } else if total == 0 && (1..=13).contains(&current) {
+                    // Spoken hundreds shorthand: "one nineteen" -> 119, "twelve fourteen" -> 1214.
+                    current = current * 100 + u64::from(v);
+                } else {
+                    break;
+                }
                 saw_value = true;
             }
             NumPart::Ten(v) => {
-                if saw_zero || !current.is_multiple_of(100) {
+                if saw_zero {
                     break;
                 }
-                current += u64::from(v);
+                if current.is_multiple_of(100) {
+                    current += u64::from(v);
+                } else if total == 0 && (1..=13).contains(&current) {
+                    // Spoken hundreds shorthand: "one twenty eight" -> 128, "thirteen thirty" -> 1330.
+                    current = current * 100 + u64::from(v);
+                } else {
+                    break;
+                }
                 saw_value = true;
             }
             NumPart::HundredUnit(v) => {
@@ -643,6 +850,8 @@ fn parse_number_span(tokens: &[&str]) -> Option<(u32, usize)> {
                     || (current == 0 && total == 0)
                 {
                     current += v64;
+                } else if v < 100 && total == 0 && (1..=13).contains(&current) {
+                    current = current * 100 + v64;
                 } else {
                     break;
                 }
@@ -657,7 +866,8 @@ fn parse_number_span(tokens: &[&str]) -> Option<(u32, usize)> {
             }
         }
 
-        last_non_connector_consumed = idx + 1;
+        idx += 1;
+        last_non_connector_consumed = idx;
     }
 
     if !saw_value || last_non_connector_consumed == 0 {
@@ -666,6 +876,10 @@ fn parse_number_span(tokens: &[&str]) -> Option<(u32, usize)> {
 
     let val = u32::try_from(total + current).ok()?;
     Some((val, last_non_connector_consumed))
+}
+
+fn parse_number_span(tokens: &[&str]) -> Option<(u32, usize)> {
+    parse_number_span_with_opts(tokens, false)
 }
 
 /// Parse an entire string as a single Tamil or English cardinal/ordinal number or digits.
@@ -788,8 +1002,29 @@ fn is_kural_anchor(tok: &str) -> bool {
         "couplet",
         "verse",
         "thirukkural",
+        "thirukural",
+        "ural",
+        "ura",
+        "curl",
+        "curial",
+        "coral",
+        "koral",
+        "kooral",
+        "choral",
+        "cural",
+        "kuril",
+        "gural",
+        "quarrel",
         "குறள்",
         "திருக்குறள்",
+        "குரல்",
+        "குறல்",
+        "குறால்",
+        "கூரல்",
+        "குறல",
+        "குழல்",
+        "திருக்குரல்",
+        "திருக்குறல்",
     ];
     KURAL_ANCHORS
         .iter()
@@ -811,11 +1046,25 @@ fn is_nav_number_anchor(tok: &str) -> bool {
             | "goto"
             | "number"
             | "read"
+            | "tell"
+            | "give"
+            | "play"
+            | "speak"
             | "எண்"
+            | "நம்பர்"
             | "திற"
+            | "திறக்கவும்"
             | "காட்டு"
+            | "காட்டுங்கள்"
             | "படி"
             | "படியுங்கள்"
+            | "வாசி"
+            | "வாசியுங்கள்"
+            | "போடு"
+            | "போடுங்கள்"
+            | "கூறு"
+            | "கூறுங்கள்"
+            | "கேள்"
             | "சொல்"
             | "சொல்லு"
             | "சொல்லுங்கள்"
@@ -833,12 +1082,25 @@ fn is_polite_or_connector(tok: &str) -> bool {
             | "the"
             | "to"
             | "go"
+            | "me"
             | "no"
             | "number"
             | "read"
+            | "tell"
+            | "give"
+            | "play"
+            | "speak"
             | "எண்"
+            | "நம்பர்"
             | "படி"
             | "படியுங்கள்"
+            | "வாசி"
+            | "வாசியுங்கள்"
+            | "போடு"
+            | "போடுங்கள்"
+            | "கூறு"
+            | "கூறுங்கள்"
+            | "கேள்"
             | "சொல்"
             | "சொல்லு"
             | "சொல்லுங்கள்"
@@ -871,17 +1133,18 @@ pub fn extract_anchored_number(raw: &str) -> Option<AnchoredNumber> {
     for i in 0..tokens.len() {
         if is_adhikaram_anchor(tokens[i]) {
             let mut j = i + 1;
-            while j < tokens.len() && matches!(tokens[j], "number" | "no" | "எண்") {
+            while j < tokens.len() && matches!(tokens[j], "number" | "no" | "எண்" | "நம்பர்")
+            {
                 j += 1;
             }
             if j < tokens.len()
-                && let Some((n, _)) = parse_number_span(&tokens[j..])
+                && let Some((n, _)) = parse_number_span_with_opts(&tokens[j..], true)
             {
                 return Some(AnchoredNumber::Adhikaram(n));
             }
             // Also support pre-nominal ordinal: "10th chapter", "பத்தாவது அதிகாரம்"
             if i > 0
-                && let Some((n, consumed)) = parse_number_span(&tokens[..i])
+                && let Some((n, consumed)) = parse_number_span_with_opts(&tokens[..i], true)
                 && consumed == i
             {
                 return Some(AnchoredNumber::Adhikaram(n));
@@ -893,24 +1156,31 @@ pub fn extract_anchored_number(raw: &str) -> Option<AnchoredNumber> {
     for i in 0..tokens.len() {
         if is_kural_anchor(tokens[i]) {
             let mut j = i + 1;
-            while j < tokens.len() && matches!(tokens[j], "number" | "no" | "எண்") {
+            while j < tokens.len() && matches!(tokens[j], "number" | "no" | "எண்" | "நம்பர்")
+            {
                 j += 1;
             }
             if j < tokens.len()
-                && let Some((n, _)) = parse_number_span(&tokens[j..])
+                && let Some((n, _)) = parse_number_span_with_opts(&tokens[j..], true)
             {
                 return Some(AnchoredNumber::Kural(n));
             }
-            // Pre-nominal ordinal/number: "481st kural", "முதல் குறள்"
-            for start in 0..i {
-                if let Some((n, consumed)) = parse_number_span(&tokens[start..i])
-                    && start + consumed == i
-                {
-                    let prefix_ok = tokens[..start]
-                        .iter()
-                        .all(|t| is_polite_or_connector(t) || is_nav_number_anchor(t));
-                    if prefix_ok {
-                        return Some(AnchoredNumber::Kural(n));
+            // Pre-nominal ordinal/number: "481st kural", "முதல் குறள்", "42 வது குறள் படி"
+            let tail_ok = tokens[i + 1..]
+                .iter()
+                .all(|t| is_polite_or_connector(t) || is_nav_number_anchor(t));
+            if tail_ok {
+                for start in 0..i {
+                    if let Some((n, consumed)) =
+                        parse_number_span_with_opts(&tokens[start..i], true)
+                        && start + consumed == i
+                    {
+                        let prefix_ok = tokens[..start]
+                            .iter()
+                            .all(|t| is_polite_or_connector(t) || is_nav_number_anchor(t));
+                        if prefix_ok {
+                            return Some(AnchoredNumber::Kural(n));
+                        }
                     }
                 }
             }
@@ -933,7 +1203,7 @@ pub fn extract_anchored_number(raw: &str) -> Option<AnchoredNumber> {
     }
 
     if idx < tokens.len()
-        && let Some((n, consumed)) = parse_number_span(&tokens[idx..])
+        && let Some((n, consumed)) = parse_number_span_with_opts(&tokens[idx..], saw_anchor)
     {
         let tail = &tokens[idx + consumed..];
         let tail_ok = tail
@@ -1123,8 +1393,17 @@ mod tests {
             ("open kural 42", 42),
             ("kural one", 1),
             ("kural forty two", 42),
+            ("kural four two", 42),
             ("kural one hundred and five", 105),
             ("kural four hundred twenty three", 423),
+            ("kural one twenty eight", 128),
+            ("URAL ONE HUNDRED TWENTY EIGHT", 128),
+            ("D CURL FORTY TWO", 42),
+            ("குரல் 128", 128),
+            ("குரல் நூற்று இருபத்தெட்டு", 128),
+            ("குறள் நம்பர் 128", 128),
+            ("play kural 128", 128),
+            ("128 வாசி", 128),
         ] {
             assert_eq!(
                 extract_anchored_number(utterance),
@@ -1132,5 +1411,40 @@ mod tests {
                 "failed on {utterance}"
             );
         }
+    }
+
+    #[test]
+    fn parses_live_asr_tamil_colloquial_transliterated_and_shorthand_numbers() {
+        for (input, expected) in [
+            ("நூற்ற இருபத்தெட்டு", 128),
+            ("நூற்று இருபத்தி எட்டு", 128),
+            ("நூத்தி இருபத்தெட்டு", 128),
+            ("நூற்றியிருபத்தெட்டு", 128),
+            ("நூற்றியெட்டு", 108),
+            ("நூற்றியொன்று", 101),
+            ("ஒன் ஹண்ட்ரட் டவெண்டி எயிட்", 128),
+            ("ஒன் டுூ வெயிட்", 128),
+            ("ஒன்று இரண்டு எட்டு", 128),
+            ("one twenty eight", 128),
+            ("one two eight", 128),
+            ("one oh five", 105),
+            ("one zero eight", 108),
+            ("four twenty three", 423),
+            ("thirteen thirty", 1330),
+            ("one three three zero", 1330),
+        ] {
+            assert_eq!(parse_number(input), Some(expected), "failed on '{input}'");
+            assert_eq!(
+                extract_anchored_number(input),
+                Some(AnchoredNumber::Bare(expected)),
+                "bare extract failed on '{input}'"
+            );
+        }
+
+        // Contextual ASR homophones must NOT hijack ordinary Tamil/English words alone.
+        assert_eq!(parse_number("போர்"), None);
+        assert_eq!(parse_number("வெயிட்"), None);
+        assert_eq!(parse_number("oh"), None);
+        assert_eq!(extract_anchored_number("போர் பற்றி கூறு"), None);
     }
 }

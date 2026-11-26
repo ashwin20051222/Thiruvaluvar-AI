@@ -569,8 +569,20 @@ impl SemanticExplainer {
         }
 
         if embeddings_loaded {
-            let confident = kural_hits.max_vec_cosine >= self.ai.oos_min_vector_cosine
-                || kural_hits.max_rrf_score >= self.ai.oos_min_rrf_score;
+            let has_tamil = prepared
+                .kural_q
+                .chars()
+                .any(|c| ('\u{0B80}'..='\u{0BFF}').contains(&c));
+            // Multilingual static subword embeddings (model2vec) cluster arbitrary Tamil strings
+            // into a 0.40-0.60 cosine cone; require higher cosine when zero lexical/FTS overlap exists.
+            let min_vec_cos = if !kural_hits.has_exact_or_fts_match && has_tamil {
+                self.ai.oos_min_vector_cosine.max(0.68)
+            } else {
+                self.ai.oos_min_vector_cosine
+            };
+            let confident = kural_hits.max_vec_cosine >= min_vec_cos
+                || (kural_hits.has_exact_or_fts_match
+                    && kural_hits.max_rrf_score >= self.ai.oos_min_rrf_score);
             return Ok((confident, None));
         }
 
@@ -721,7 +733,7 @@ fn prepare_search_query(norm_query: &str) -> Option<PreparedQuery> {
         .any(|t| t.chars().all(|c| c.is_ascii_digit()));
     let non_numeric: Vec<String> = non_stop
         .into_iter()
-        .filter(|t| !t.chars().all(|c| c.is_ascii_digit()))
+        .filter(|t| !t.chars().all(|c| c.is_ascii_digit()) && t.chars().count() >= 2)
         .collect();
 
     if non_numeric.is_empty() {
@@ -844,7 +856,29 @@ fn detect_anchored_target(norm_query: &str) -> Option<AnchoredTarget> {
         }
     }
 
-    best.map(|(_, t)| t)
+    if let Some((_, target)) = best {
+        return Some(target);
+    }
+
+    // Case 3: Spoken Tamil or English Kural / Adhikaram numbers (e.g. "குறள் நூற்று இருபத்தெட்டு",
+    // "kural one twenty eight", "நூற்று இருபத்தெட்டு").
+    match kural_voice_cmd::extract_anchored_number(norm_query)? {
+        kural_voice_cmd::AnchoredNumber::Kural(val)
+        | kural_voice_cmd::AnchoredNumber::Bare(val) => {
+            Some(if (KURAL_MIN..=KURAL_MAX).contains(&val) {
+                AnchoredTarget::Kural(val as u16)
+            } else {
+                AnchoredTarget::KuralOutOfRange
+            })
+        }
+        kural_voice_cmd::AnchoredNumber::Adhikaram(val) => {
+            Some(if (ADHIKARAM_MIN..=ADHIKARAM_MAX).contains(&val) {
+                AnchoredTarget::Adhikaram(val as u8)
+            } else {
+                AnchoredTarget::AdhikaramOutOfRange
+            })
+        }
+    }
 }
 
 fn parse_digits_after_anchor(rest: &str, hash_only: bool) -> Option<u32> {
@@ -1341,6 +1375,10 @@ mod tests {
                 // Rank-1 vector-only RRF = 1/61 ≈ 0.01639 (< 0.022) -> must still be refused!
                 return Ok(vec![0.30, 0.953_939_2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]);
             }
+            if text.contains("அஆஇஈ") {
+                // Simulates model2vec multilingual Tamil subword cone (~0.55 cosine with 0 FTS hits).
+                return Ok(vec![0.55, 0.835_164_7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]);
+            }
             if lower.contains("semanticprobestrong") {
                 // Cosine with [1, 0, ...] is 0.95 (>= 0.36) -> accepted even with 0 FTS hits!
                 return Ok(vec![0.95, 0.312_249_9, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]);
@@ -1512,6 +1550,10 @@ mod tests {
             ("adhikaram 10", 91u16),
             ("chapter 49", 481u16),
             ("அதிகாரம் 10", 91u16),
+            ("குறள் நூற்று இருபத்தெட்டு", 128u16),
+            ("நூற்று இருபத்தெட்டு", 128u16),
+            ("kural one twenty eight", 128u16),
+            ("one hundred twenty eight", 128u16),
         ];
 
         for (query, expected_kural) in cases {
@@ -1647,6 +1689,7 @@ mod tests {
         let early_oos_queries = [
             "",
             "   ",
+            "வ எ",
             "What is 42 * 10?",
             "Article 370",
             "year 2026",
@@ -1790,6 +1833,15 @@ mod tests {
         assert!(borderline.out_of_scope);
         assert!(borderline.cited_kurals.is_empty());
         assert!(borderline.kb_hits.is_empty());
+
+        // Tamil gibberish with model2vec-like 0.55 cosine and 0 FTS hits -> refused as OOS!
+        let tamil_noise = explainer
+            .ask_question("அஆஇஈ", AgeGroup::Youth, Language::Tamil, None)
+            .expect("tamil_noise");
+        assert!(tamil_noise.out_of_scope);
+        assert!(tamil_noise.cited_kurals.is_empty());
+        assert!(tamil_noise.kb_hits.is_empty());
+        assert_eq!(tamil_noise.answer_ta, OOS_CHAT_REFUSAL.ta);
 
         // vec_cosine = 0.95 (>= 0.36) -> passes cleanly
         let strong = explainer

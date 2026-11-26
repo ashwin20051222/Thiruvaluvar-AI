@@ -11,8 +11,18 @@ use std::path::{Path, PathBuf};
 
 const STT_SAMPLE_RATE_HZ: i32 = 16_000;
 const STT_FEATURE_DIM: i32 = 80;
-/// Trailing silence appended to STT buffers (350 ms at 16 kHz) so final syllables are not clipped.
-pub(crate) const OFFLINE_STT_TRAILING_SILENCE_SAMPLES: usize = 5_600;
+/// Leading silence prepended to offline Tamil STT buffers (250 ms at 16 kHz) so initial syllables
+/// are never clipped on abrupt speech onset.
+pub(crate) const OFFLINE_STT_LEADING_SILENCE_SAMPLES: usize = 4_000;
+/// Trailing silence appended to offline Tamil STT buffers (500 ms at 16 kHz) so final syllables
+/// flush cleanly.
+pub(crate) const OFFLINE_STT_TRAILING_SILENCE_SAMPLES: usize = 8_000;
+/// Leading silence prepended to streaming English Zipformer buffers (900 ms at 16 kHz) so the
+/// encoder's initial left-context warmup never swallows short commands (e.g. `"one twenty eight"`).
+pub(crate) const ONLINE_EN_STT_LEADING_SILENCE_SAMPLES: usize = 14_400;
+/// Trailing silence appended to streaming English Zipformer buffers (800 ms at 16 kHz) so the
+/// transducer's lookahead chunk flushes the final word completely.
+pub(crate) const ONLINE_EN_STT_TRAILING_SILENCE_SAMPLES: usize = 12_800;
 
 /// Discovered ONNX transducer artifacts for streaming English ASR.
 #[derive(Debug, Clone, PartialEq, Eq)]
@@ -52,10 +62,9 @@ impl SttEngine {
             return Ok(String::new());
         }
 
-        let padded = prepare_offline_stt_samples(samples_16k);
-
         let raw_text = match self {
             Self::English(rec) => {
+                let padded = prepare_online_en_stt_samples(samples_16k);
                 let stream = rec.create_stream();
                 stream.accept_waveform(STT_SAMPLE_RATE_HZ, &padded);
                 stream.input_finished();
@@ -65,6 +74,7 @@ impl SttEngine {
                 rec.get_result(&stream).map(|r| r.text).unwrap_or_default()
             }
             Self::Tamil(rec) => {
+                let padded = prepare_offline_stt_samples(samples_16k);
                 let stream = rec.create_stream();
                 stream.accept_waveform(STT_SAMPLE_RATE_HZ, &padded);
                 rec.decode(&stream);
@@ -76,19 +86,41 @@ impl SttEngine {
     }
 }
 
-/// Sanitize non-finite samples and append `350 ms` (`5_600` samples) of zero-padding for STT decoding.
-pub(crate) fn prepare_offline_stt_samples(samples_16k: &[f32]) -> Vec<f32> {
-    let mut padded = Vec::with_capacity(samples_16k.len() + OFFLINE_STT_TRAILING_SILENCE_SAMPLES);
+fn pad_and_sanitize_stt_samples(
+    samples_16k: &[f32],
+    leading_silence: usize,
+    trailing_silence: usize,
+) -> Vec<f32> {
+    let total_len = leading_silence + samples_16k.len() + trailing_silence;
+    let mut padded = Vec::with_capacity(total_len);
+    padded.resize(leading_silence, 0.0);
     padded.extend(
         samples_16k
             .iter()
             .map(|&s| if s.is_finite() { s } else { 0.0 }),
     );
-    padded.resize(
-        samples_16k.len() + OFFLINE_STT_TRAILING_SILENCE_SAMPLES,
-        0.0,
-    );
+    padded.resize(total_len, 0.0);
     padded
+}
+
+/// Sanitize non-finite samples and pad with `250 ms` leading (`4_000` samples) and `500 ms`
+/// trailing (`8_000` samples) zero-silence for offline Tamil STT decoding.
+pub(crate) fn prepare_offline_stt_samples(samples_16k: &[f32]) -> Vec<f32> {
+    pad_and_sanitize_stt_samples(
+        samples_16k,
+        OFFLINE_STT_LEADING_SILENCE_SAMPLES,
+        OFFLINE_STT_TRAILING_SILENCE_SAMPLES,
+    )
+}
+
+/// Sanitize non-finite samples and pad with `900 ms` leading (`14_400` samples) and `800 ms`
+/// trailing (`12_800` samples) zero-silence for streaming English Zipformer decoding.
+pub(crate) fn prepare_online_en_stt_samples(samples_16k: &[f32]) -> Vec<f32> {
+    pad_and_sanitize_stt_samples(
+        samples_16k,
+        ONLINE_EN_STT_LEADING_SILENCE_SAMPLES,
+        ONLINE_EN_STT_TRAILING_SILENCE_SAMPLES,
+    )
 }
 
 /// Discover streaming English Zipformer transducer files under `models_dir/stt_en/` or `models_dir/stt/en/`.
@@ -140,7 +172,8 @@ pub(crate) fn load_stt_for_language(
             cfg.model_config.num_threads = num_threads;
             cfg.model_config.provider = Some("cpu".into());
             cfg.model_config.debug = false;
-            cfg.decoding_method = Some("greedy_search".into());
+            cfg.decoding_method = Some("modified_beam_search".into());
+            cfg.max_active_paths = 4;
             cfg.enable_endpoint = false;
 
             let rec = OnlineRecognizer::create(&cfg).ok_or_else(|| {
@@ -409,16 +442,27 @@ mod tests {
     }
 
     #[test]
-    fn offline_stt_appends_350ms_trailing_silence_and_sanitizes_non_finite() {
+    fn offline_stt_pads_leading_and_trailing_silence_and_sanitizes_non_finite() {
         let input = [0.25_f32, f32::NAN, -0.5, f32::INFINITY];
         let padded = prepare_offline_stt_samples(&input);
-        assert_eq!(OFFLINE_STT_TRAILING_SILENCE_SAMPLES, 5_600);
-        assert_eq!(padded.len(), input.len() + 5_600);
-        assert_eq!(padded[0], 0.25);
-        assert_eq!(padded[1], 0.0);
-        assert_eq!(padded[2], -0.5);
-        assert_eq!(padded[3], 0.0);
-        assert!(padded[4..].iter().all(|&s| s == 0.0));
+        assert_eq!(OFFLINE_STT_LEADING_SILENCE_SAMPLES, 4_000);
+        assert_eq!(OFFLINE_STT_TRAILING_SILENCE_SAMPLES, 8_000);
+        assert_eq!(padded.len(), 4_000 + input.len() + 8_000);
+        assert!(padded[..4_000].iter().all(|&s| s == 0.0));
+        assert_eq!(padded[4_000], 0.25);
+        assert_eq!(padded[4_001], 0.0);
+        assert_eq!(padded[4_002], -0.5);
+        assert_eq!(padded[4_003], 0.0);
+        assert!(padded[4_004..].iter().all(|&s| s == 0.0));
+
+        let en_padded = prepare_online_en_stt_samples(&input);
+        assert_eq!(ONLINE_EN_STT_LEADING_SILENCE_SAMPLES, 14_400);
+        assert_eq!(ONLINE_EN_STT_TRAILING_SILENCE_SAMPLES, 12_800);
+        assert_eq!(en_padded.len(), 14_400 + input.len() + 12_800);
+        assert!(en_padded[..14_400].iter().all(|&s| s == 0.0));
+        assert_eq!(en_padded[14_400], 0.25);
+        assert_eq!(en_padded[14_402], -0.5);
+        assert!(en_padded[14_404..].iter().all(|&s| s == 0.0));
     }
 
     #[test]

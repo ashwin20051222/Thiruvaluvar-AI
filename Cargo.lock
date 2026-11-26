@@ -2951,6 +2951,7 @@ dependencies = [
  "kural-audio",
  "kural-core",
  "kural-db",
+ "kural-voice-cmd",
  "rustfft",
  "serde_json",
  "sherpa-onnx",

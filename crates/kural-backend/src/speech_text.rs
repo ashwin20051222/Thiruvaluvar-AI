@@ -19,7 +19,7 @@ pub struct SpeechPayload {
 }
 
 fn normalize_english_tts_text(text: &str) -> String {
-    text.trim().replace("'''", "'")
+    text.trim().replace("'''", "'").replace("''", "'")
 }
 
 fn non_empty_english_couplet(full: &FullKural) -> String {
@@ -100,14 +100,10 @@ fn push_kural_and_meaning(
                     .map(|c| c.simple_meaning_ta.as_str())
                     .filter(|s| !s.trim().is_empty())
                     .unwrap_or_else(|| tamil_scholar_meaning(full, effective_scholar)),
-                AppScreen::Youth => full
-                    .youth
-                    .as_ref()
-                    .map(|y| y.analysis_ta.as_str())
-                    .filter(|s| !s.trim().is_empty())
-                    .unwrap_or_else(|| {
-                        non_empty_or(&full.kural.meaning_solomon, &full.kural.meaning_mu_va)
-                    }),
+                AppScreen::Youth => non_empty_or(
+                    &full.kural.meaning_mu_va,
+                    non_empty_or(&full.kural.meaning_solomon, ""),
+                ),
                 AppScreen::Adult | AppScreen::Start => {
                     tamil_scholar_meaning(full, effective_scholar)
                 }
@@ -123,13 +119,9 @@ fn push_kural_and_meaning(
                     .map(|c| normalize_english_tts_text(&c.simple_meaning_en))
                     .filter(|s| !s.is_empty())
                     .unwrap_or_else(|| non_empty_english_meaning(full)),
-                AppScreen::Youth => full
-                    .youth
-                    .as_ref()
-                    .map(|y| normalize_english_tts_text(&y.analysis_en))
-                    .filter(|s| !s.is_empty())
-                    .unwrap_or_else(|| non_empty_english_meaning(full)),
-                AppScreen::Adult | AppScreen::Start => non_empty_english_meaning(full),
+                AppScreen::Youth | AppScreen::Adult | AppScreen::Start => {
+                    non_empty_english_meaning(full)
+                }
             };
             push_non_empty(chunks, &meaning);
         }
@@ -566,7 +558,7 @@ mod tests {
             ]
         );
 
-        // Youth Tamil -> line1, line2, analysis_ta
+        // Youth Tamil -> line1, line2, meaning_mu_va
         let youth_ta = build_speech_payload(
             &full,
             AppScreen::Youth,
@@ -582,11 +574,11 @@ mod tests {
             vec![
                 full.kural.line1_ta.clone(),
                 full.kural.line2_ta.clone(),
-                "இளைஞர் பகுப்பாய்வு".to_string(),
+                "மு.வ. உரை மாதிரி".to_string(),
             ]
         );
 
-        // Youth English -> english couplet, analysis_en
+        // Youth English -> english couplet, explanation_en (zero Tamil script)
         let youth_en = build_speech_payload(
             &full,
             AppScreen::Youth,
@@ -601,11 +593,17 @@ mod tests {
             youth_en.chunks,
             vec![
                 "Stand eager to learn.".to_string(),
-                "Youth analysis.".to_string(),
+                "Sample English explanation.".to_string(),
             ]
         );
+        assert!(
+            youth_en
+                .chunks
+                .iter()
+                .all(|c| !c.chars().any(|ch| ('\u{0B80}'..='\u{0BFF}').contains(&ch)))
+        );
 
-        // Fallbacks when child/youth metadata are absent.
+        // Fallbacks when child/youth metadata or mu_va are absent.
         let mut bare = sample_full_kural(None);
         bare.child = None;
         bare.youth = None;
@@ -621,6 +619,7 @@ mod tests {
         .unwrap();
         assert_eq!(kids_fb.chunks[2], "மு.வ. உரை மாதிரி");
 
+        bare.kural.meaning_mu_va.clear();
         let youth_fb = build_speech_payload(
             &bare,
             AppScreen::Youth,

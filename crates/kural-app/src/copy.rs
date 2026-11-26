@@ -73,7 +73,7 @@ pub fn commentary_text(full: &FullKural, effective: Scholar, lang: Language) -> 
 }
 
 /// Return English couplet display text (`translation_en` if non-empty, else `couplet_en`),
-/// normalizing redundant triple-quotes (`'''` -> `'`) without mutating DB data.
+/// normalizing redundant quotes (`'''` / `''` -> `'`) without mutating DB data.
 #[must_use]
 pub fn english_couplet_display(full: &FullKural) -> String {
     let raw = if full.kural.translation_en.trim().is_empty() {
@@ -81,7 +81,19 @@ pub fn english_couplet_display(full: &FullKural) -> String {
     } else {
         full.kural.translation_en.trim()
     };
-    raw.replace("'''", "'")
+    raw.replace("'''", "'").replace("''", "'")
+}
+
+/// Return English poetic Kural couplet (`couplet_en` if non-empty, else `translation_en`),
+/// normalizing redundant quotes (`'''` / `''` -> `'`) without mutating DB data.
+#[must_use]
+pub fn english_verse_couplet(full: &FullKural) -> String {
+    let raw = if full.kural.couplet_en.trim().is_empty() {
+        full.kural.translation_en.trim()
+    } else {
+        full.kural.couplet_en.trim()
+    };
+    raw.replace("'''", "'").replace("''", "'")
 }
 
 /// Return age badge title.
@@ -289,7 +301,14 @@ mod tests {
             "As letters all begin with '''A''', the world begins with God."
         );
         full.kural.translation_en.clear();
-        full.kural.couplet_en = "'''A''' leads all letters.".to_string();
+        full.kural.couplet_en = "'''A'' leads all letters.".to_string();
         assert_eq!(english_couplet_display(&full), "'A' leads all letters.");
+        assert_eq!(english_verse_couplet(&full), "'A' leads all letters.");
+
+        // english_verse_couplet prefers couplet_en and falls back to translation_en when blank.
+        full.kural.translation_en = "Fallback translation.".to_string();
+        assert_eq!(english_verse_couplet(&full), "'A' leads all letters.");
+        full.kural.couplet_en = "   ".to_string();
+        assert_eq!(english_verse_couplet(&full), "Fallback translation.");
     }
 }

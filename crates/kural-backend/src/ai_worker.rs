@@ -41,6 +41,11 @@ enum WorkerCmd {
         lang: Language,
         reply: oneshot::Sender<Result<(String, SpeechCapabilities), AiError>>,
     },
+    TranscribeSecondary {
+        samples_16k: Vec<f32>,
+        alt_lang: Language,
+        reply: oneshot::Sender<Result<Option<String>, AiError>>,
+    },
     Speak {
         chunks: Vec<String>,
         lang: Language,
@@ -127,6 +132,26 @@ impl AiWorkerHandle {
                                 );
                                 (stt.text, snapshot_caps(&engine))
                             });
+                            let _ = reply.send(res);
+                        }
+                        WorkerCmd::TranscribeSecondary {
+                            samples_16k,
+                            alt_lang,
+                            reply,
+                        } => {
+                            let res = engine.transcribe_secondary_stt(&samples_16k, alt_lang).map(
+                                |opt| {
+                                    opt.map(|stt| {
+                                        tracing::debug!(
+                                            %alt_lang,
+                                            stt_latency_ms = stt.latency_ms,
+                                            chars = stt.text.len(),
+                                            "ai_worker secondary STT transcription finished"
+                                        );
+                                        stt.text
+                                    })
+                                },
+                            );
                             let _ = reply.send(res);
                         }
                         WorkerCmd::Speak {
@@ -236,6 +261,39 @@ impl AiWorkerHandle {
             .await
             .map_err(|_| AiError::Timeout {
                 operation: "stt_transcribe",
+                timeout_ms,
+            })?
+    }
+
+    pub async fn transcribe_secondary(
+        &self,
+        samples_16k: Vec<f32>,
+        alt_lang: Language,
+    ) -> Result<Option<String>, AiError> {
+        let timeout_ms = self.stt_timeout.as_millis() as u64;
+        let (reply, rx) = oneshot::channel();
+        let tx = self.tx.clone();
+        let fut = async move {
+            let sent = tokio::task::spawn_blocking(move || {
+                tx.send(WorkerCmd::TranscribeSecondary {
+                    samples_16k,
+                    alt_lang,
+                    reply,
+                })
+            })
+            .await;
+            if !matches!(sent, Ok(Ok(()))) {
+                return Err(AiError::Inference(
+                    "kural-ai-worker unavailable".to_string(),
+                ));
+            }
+            rx.await
+                .map_err(|_| AiError::Inference("kural-ai-worker dropped reply".to_string()))?
+        };
+        tokio::time::timeout(self.stt_timeout, fut)
+            .await
+            .map_err(|_| AiError::Timeout {
+                operation: "stt_transcribe_secondary",
                 timeout_ms,
             })?
     }

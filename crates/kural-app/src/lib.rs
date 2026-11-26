@@ -550,10 +550,14 @@ async fn check_dom_state(label: &str, viewport: AuditViewport, expect_kural: boo
                 const c = document.getElementById('kural-couplet');
                 if (c) {{
                     const fs = parseFloat(getComputedStyle(c).fontSize);
-                    if (fs < 14) errs.push(`coupletFont(${{fs}})<14`);
-                    if (document.documentElement.lang === 'en' && document.querySelector('.adult-main-col')) {{
-                        if (!/[A-Za-z]/.test(c.textContent || '')) errs.push('coupletNotEnglish');
-                    }} else if (!/[\u0B80-\u0BFF]/.test(c.textContent || '')) {{
+                    const minFs = (!{is_touch} && document.documentElement.lang === 'en') ? 16 : 14;
+                    if (fs < minFs) errs.push(`coupletFont(${{fs}})<${{minFs}}`);
+                    const txt = (c.textContent || '').trim();
+                    if (!txt) errs.push('coupletEmpty');
+                    if (document.documentElement.lang === 'en') {{
+                        if (!/[A-Za-z]/.test(txt)) errs.push('coupletNotEnglish');
+                        if (/[\u0B80-\u0BFF]/.test(txt)) errs.push('coupletHasTamilInEn');
+                    }} else if (!/[\u0B80-\u0BFF]/.test(txt)) {{
                         errs.push('coupletNotTamil');
                     }}
                 }}

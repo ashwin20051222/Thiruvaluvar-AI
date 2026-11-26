@@ -6,12 +6,12 @@
 use crate::components::ContentPlaybackButton;
 use crate::components::header::TopHeader;
 use crate::components::icons::{BookIcon, ChatIcon, MicIcon, SearchIcon};
-use crate::copy::{paginate_sentences, research_theme_label, tr};
+use crate::copy::{english_verse_couplet, paginate_sentences, research_theme_label, tr};
 use crate::state::{AppContext, is_voice_active, is_voice_cancellable};
 use dioxus::prelude::*;
 use kural_core::{
-    ActiveFilter, BackendCommand, CANONICAL_TAGS, CompactTabHint, ModalKind, SPEECH_SPEED_PRESETS,
-    SearchTab, SpeakTarget, Theme, step_speech_speed,
+    ActiveFilter, BackendCommand, CANONICAL_TAGS, CompactTabHint, Language, ModalKind,
+    SPEECH_SPEED_PRESETS, SearchTab, SpeakTarget, Theme, step_speech_speed,
 };
 
 #[component]
@@ -44,11 +44,22 @@ pub fn YouthScreen() -> Element {
 
     let mut tag_search = use_signal(String::new);
 
-    let core_meaning = tr(
-        lang,
-        &full.kural.meaning_solomon,
-        &full.kural.translation_en,
-    );
+    let core_meaning = match lang {
+        Language::Tamil => {
+            if full.kural.meaning_mu_va.trim().is_empty() {
+                full.kural.meaning_solomon.as_str()
+            } else {
+                full.kural.meaning_mu_va.as_str()
+            }
+        }
+        Language::English => {
+            if full.kural.explanation_en.trim().is_empty() {
+                full.kural.translation_en.as_str()
+            } else {
+                full.kural.explanation_en.as_str()
+            }
+        }
+    };
     let pi_analysis_raw = full
         .youth
         .as_ref()
@@ -210,23 +221,34 @@ pub fn YouthScreen() -> Element {
                             }
                         }
 
-                        // Pane 1: Verse + Transliteration (+ Desktop Meaning)
+                        // Pane 1: Language-Matched Kural Couplet + Subtitle (+ Desktop Meaning)
                         div {
                             class: if pi_tab == CompactTabHint::Verse {
                                 "kural-center-verse"
                             } else {
                                 "kural-center-verse pi-pane-hidden"
                             },
-                            // Verbatim Tamil couplet ALWAYS shown even in EN mode
-                            p { id: "kural-couplet", class: "font-kural", lang: "ta",
-                                "{full.kural.line1_ta}"
-                                br {}
-                                "{full.kural.line2_ta}"
+                            if lang == Language::English {
+                                p { id: "kural-couplet", class: "kural-couplet-en", lang: "en",
+                                    "{english_verse_couplet(full)}"
+                                }
+                                p { id: "kural-translit", class: "desktop-hd-only", lang: "ta",
+                                    "{full.kural.line1_ta} / {full.kural.line2_ta}"
+                                }
+                            } else {
+                                p { id: "kural-couplet", class: "font-kural", lang: "ta",
+                                    "{full.kural.line1_ta}"
+                                    br {}
+                                    "{full.kural.line2_ta}"
+                                }
+                                p { id: "kural-translit",
+                                    "{full.kural.transliteration1} · {full.kural.transliteration2}"
+                                }
                             }
-                            p { id: "kural-translit",
-                                "{full.kural.transliteration1} · {full.kural.transliteration2}"
-                            }
-                            p { id: "kural-meaning", class: "desktop-only",
+                            p {
+                                id: "kural-meaning",
+                                class: "desktop-only",
+                                lang: if lang == Language::English { "en" } else { "ta" },
                                 "{core_meaning}"
                             }
                         }
@@ -280,7 +302,7 @@ pub fn YouthScreen() -> Element {
                                 audio_state: snap.audio_state,
                                 can_replay_tts: snap.can_replay_tts,
                                 lang: lang,
-                                fallback_target: SpeakTarget::YouthBriefing,
+                                fallback_target: SpeakTarget::KuralAndMeaning,
                             }
                             if pi_tab == CompactTabHint::Analysis && pi_pages.len() > 1 {
                                 div { class: "pager-row pi-only",

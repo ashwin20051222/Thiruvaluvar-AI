@@ -844,6 +844,13 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
   font-weight: 700;
   color: var(--on-bg);
 }
+#kural-couplet.kural-couplet-en {
+  font-family: var(--font-sans);
+  font-size: 20px;
+  line-height: 1.44;
+  font-weight: 700;
+  max-width: 620px;
+}
 .royal-shell #kural-couplet { color: #7A181E; }
 :root[data-theme="dark"] .royal-shell #kural-couplet { color: #F6F1E7; }
 #kural-translit {
@@ -852,6 +859,7 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
   font-weight: 600;
   color: var(--text-muted);
 }
+.desktop-hd-only { display: block; }
 :root[data-theme="dark"] .royal-shell #kural-translit { color: #E6C068; }
 #kural-meaning {
   margin-top: 10px;
@@ -1568,6 +1576,8 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
   .kural-center-verse { padding: 3px 6px; }
   .adult-main-col .kural-center-verse { flex: 0 0 auto; padding: 2px 4px; }
   #kural-couplet { font-size: 19px; line-height: 1.44; }
+  #kural-couplet.kural-couplet-en { font-size: 16.5px; line-height: 1.36; }
+  .desktop-hd-only { display: none !important; }
   #kural-translit { font-size: 11.5px; margin-top: 2px; }
   #kural-meaning { font-size: 14px; line-height: 1.4; margin-top: 4px; }
 
@@ -1703,6 +1713,7 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
 
   .kural-div-pill { max-width: 195px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   #kural-couplet { font-size: 17px; line-height: 1.4; }
+  #kural-couplet.kural-couplet-en { font-size: 15px; line-height: 1.32; }
   .royal-seal { width: 38px; height: 38px; font-size: 18px; }
   .action-pill-btn { padding: 0 9px; gap: 4px; font-size: 12px; }
   .replay-text { display: none !important; }
@@ -1954,6 +1965,7 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
 
   .kural-center-verse { padding: 2px 4px !important; }
   #kural-couplet { font-size: 14px !important; line-height: 1.38 !important; }
+  #kural-couplet.kural-couplet-en { font-size: 14px !important; line-height: 1.28 !important; }
   #kural-translit { font-size: 11px !important; line-height: 1.25 !important; margin-top: 2px !important; }
   #kural-meaning, .pi-prose-text { font-size: 14px !important; line-height: 1.32 !important; margin-top: 2px !important; }
   .kural-actions-row { gap: 5px !important; flex-wrap: nowrap !important; }

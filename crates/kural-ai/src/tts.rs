@@ -934,6 +934,37 @@ impl SpeechEngine {
         self.transcribe_timed(samples_16k, lang).map(|r| r.text)
     }
 
+    /// Run a one-shot secondary STT pass for `alt_lang` without evicting the resident active
+    /// language STT/TTS models, immediately dropping the temporary recognizer afterward.
+    ///
+    /// Returns `Ok(None)` when `alt_lang`'s STT model files are absent on disk.
+    pub fn transcribe_secondary_stt(
+        &self,
+        samples_16k: &[f32],
+        alt_lang: Language,
+    ) -> Result<Option<SttTranscription>, AiError> {
+        if samples_16k.is_empty() {
+            return Ok(Some(SttTranscription {
+                text: String::new(),
+                latency_ms: 0,
+            }));
+        }
+        let t0 = Instant::now();
+        let Some(mut alt_stt) = load_stt_for_language(&self.models_dir, alt_lang, &self.ai_cfg)?
+        else {
+            return Ok(None);
+        };
+        let text = alt_stt.transcribe(samples_16k)?;
+        let latency_ms = t0.elapsed().as_millis() as u64;
+        tracing::debug!(
+            %alt_lang,
+            stt_latency_ms = latency_ms,
+            chars = text.len(),
+            "secondary STT transcription completed"
+        );
+        Ok(Some(SttTranscription { text, latency_ms }))
+    }
+
     /// Stream sentence-chunked `i16` mono PCM audio over `pcm_tx` with mid-stream cancellation.
     ///
     /// Inserts a `350 ms` ([`COUPLET_PAUSE_MS`]) zero-PCM silent [`PcmChunk`] between consecutive

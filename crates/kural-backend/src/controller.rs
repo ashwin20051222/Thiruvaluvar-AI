@@ -20,7 +20,9 @@ use kural_core::{
     snap_speech_speed,
 };
 use kural_db::{KuralDb, UserStateStore};
-use kural_voice_cmd::{RouterContext, parse_quiz_choice, validate_voice_transcript};
+use kural_voice_cmd::{
+    RouterContext, is_likely_question, parse_quiz_choice, validate_voice_transcript,
+};
 use std::sync::{Arc, Mutex};
 use std::time::{Duration, Instant};
 use tokio::runtime::{Builder as RuntimeBuilder, Runtime};
@@ -48,6 +50,69 @@ enum ControllerMsg {
 struct BilingualMsg {
     ta: String,
     en: String,
+}
+
+fn is_concrete_voice_route(raw: &str, lang: kural_core::Language, ctx: RouterContext) -> bool {
+    let trimmed = raw.trim();
+    if trimmed.is_empty() {
+        return false;
+    }
+    match validate_voice_transcript(trimmed, lang, ctx) {
+        Err(_) => true,
+        Ok(outcome) => !matches!(outcome.cmd, BackendCommand::AskAiQuestion { .. }),
+    }
+}
+
+fn should_try_secondary_stt(
+    primary_raw: &str,
+    lang: kural_core::Language,
+    ctx: RouterContext,
+) -> bool {
+    let trimmed = primary_raw.trim();
+    if trimmed.is_empty() {
+        return true;
+    }
+    if is_concrete_voice_route(trimmed, lang, ctx) {
+        return false;
+    }
+    let valid_chars = trimmed.chars().filter(|c| c.is_alphanumeric()).count();
+    if valid_chars < 4 {
+        return true;
+    }
+    !is_likely_question(trimmed) && trimmed.split_whitespace().count() <= 8
+}
+
+fn choose_bilingual_transcript(
+    primary_raw: String,
+    secondary_raw: Option<String>,
+    primary_lang: kural_core::Language,
+    ctx: RouterContext,
+) -> String {
+    let Some(alt) = secondary_raw else {
+        return primary_raw;
+    };
+    let alt_trimmed = alt.trim();
+    if alt_trimmed.is_empty() {
+        return primary_raw;
+    }
+    let alt_lang = match primary_lang {
+        kural_core::Language::Tamil => kural_core::Language::English,
+        kural_core::Language::English => kural_core::Language::Tamil,
+    };
+    if is_concrete_voice_route(alt_trimmed, alt_lang, ctx) {
+        tracing::info!(
+            %primary_lang,
+            %alt_lang,
+            primary = %primary_raw.trim(),
+            secondary = %alt_trimmed,
+            "bilingual STT fallback matched concrete voice command"
+        );
+        return alt;
+    }
+    if primary_raw.trim().is_empty() {
+        return alt;
+    }
+    primary_raw
 }
 
 fn ai_inference_timeout_msg(timeout_ms: u64) -> BilingualMsg {
@@ -1622,6 +1687,14 @@ impl BackendController {
         let session_id = self.voice_session_id;
         let nav_epoch = self.nav_epoch;
         let lang = self.state.prefs.lang;
+        let router_ctx = RouterContext {
+            screen: self.state.screen,
+            modal: self.state.modal,
+            active_kural: self.state.current_kural.kural.number,
+            active_scholar: self.state.effective_scholar,
+            speech_speed: self.state.prefs.speech_speed,
+            muted: self.state.prefs.muted,
+        };
 
         let audio = self.audio.clone();
         let max_duration_ms = self.config.audio.max_command_duration_ms;
@@ -1712,6 +1785,23 @@ impl BackendController {
 
             match ai_worker.transcribe(samples_for_stt, lang).await {
                 Ok((txt, caps)) => {
+                    let final_txt = if !task_cancel.is_cancelled()
+                        && should_try_secondary_stt(&txt, lang, router_ctx)
+                        && let Some(ref pcm_arc) = captured_user_16k
+                    {
+                        let alt_lang = match lang {
+                            kural_core::Language::Tamil => kural_core::Language::English,
+                            kural_core::Language::English => kural_core::Language::Tamil,
+                        };
+                        let alt_opt = ai_worker
+                            .transcribe_secondary(pcm_arc.to_vec(), alt_lang)
+                            .await
+                            .ok()
+                            .flatten();
+                        choose_bilingual_transcript(txt, alt_opt, lang, router_ctx)
+                    } else {
+                        txt
+                    };
                     let _ = internal_tx
                         .send(InternalMsg::VoiceCmdTranscribed {
                             session_id,
@@ -1719,7 +1809,7 @@ impl BackendController {
                             lang,
                             is_timeout: false,
                             captured_user_16k,
-                            transcript: Ok(txt),
+                            transcript: Ok(final_txt),
                             caps: Some(caps),
                         })
                         .await;
@@ -1768,6 +1858,7 @@ impl BackendController {
         nav_epoch: u64,
     ) {
         let trimmed = raw.trim();
+        tracing::info!(%lang, screen = ?self.state.screen, transcript = %trimmed, "routing recognized voice transcript");
         let valid_chars = trimmed.chars().filter(|c| c.is_alphanumeric()).count();
         let is_single_digit_kural = valid_chars == 1
             && trimmed
@@ -2067,7 +2158,7 @@ impl BackendController {
         match self.state.screen {
             AppScreen::Start => None,
             AppScreen::Kids => Some(kural_core::SpeakTarget::KuralAndMeaning),
-            AppScreen::Youth => Some(kural_core::SpeakTarget::YouthBriefing),
+            AppScreen::Youth => Some(kural_core::SpeakTarget::KuralAndMeaning),
             AppScreen::Adult => Some(kural_core::SpeakTarget::KuralAndMeaning),
         }
     }
@@ -3980,6 +4071,108 @@ mod tests {
                 }
                 other => panic!("expected ErrorToast for TtsFinished, got {other:?}"),
             }
+
+            ctrl.cancel_active_tts();
+            ctrl.cancel_active_capture();
+            ai_worker.shutdown();
+            audio.shutdown();
+        });
+    }
+
+    #[test]
+    fn voice_open_kural_128_from_tamil_english_and_live_asr_transcripts_across_all_screens() {
+        let tmp = TempDir::new().expect("tempdir");
+        let cfg = test_config(&tmp);
+        let rt = tokio::runtime::Runtime::new().unwrap();
+
+        rt.block_on(async {
+            let (mut ctrl, snap_rx, _evt_rx, audio, ai_worker) = spawn_test_controller(&cfg);
+            let transcripts = [
+                "128",
+                "குறள் 128",
+                "குரல் 128",
+                "நூற்ற இருபத்தெட்டு",
+                "நூற்று இருபத்தி எட்டு",
+                "ஒன் ஹண்ட்ரட் டவெண்டி எயிட்",
+                "ஒன் டுூ வெயிட்",
+                "URAL ONE HUNDRED TWENTY EIGHT",
+                "one twenty eight",
+            ];
+
+            for age in [AgeGroup::Kids, AgeGroup::Youth, AgeGroup::Adult] {
+                ctrl.handle_command(BackendCommand::SelectAge(age));
+                for lang in [Language::Tamil, Language::English] {
+                    ctrl.state.prefs.lang = lang;
+                    for utterance in transcripts {
+                        ctrl.handle_command(BackendCommand::OpenKural(1));
+                        ctrl.state.modal = Some(ModalKind::AiChat {
+                            seed_kural: Some(1),
+                        });
+                        ctrl.route_recognized_voice(
+                            utterance.to_string(),
+                            lang,
+                            None,
+                            ctrl.voice_session_id,
+                            ctrl.nav_epoch,
+                        );
+                        let snap = snap_rx.borrow().clone();
+                        assert_eq!(
+                            snap.current_kural.kural.number, 128,
+                            "age={age:?} lang={lang:?} utterance='{utterance}'"
+                        );
+                        assert!(
+                            snap.modal.is_none(),
+                            "must close modal instead of opening AI chat for '{utterance}'"
+                        );
+                        assert_eq!(
+                            ctrl.active_content_key
+                                .map(|k| (k.kural_number, k.lang, k.target)),
+                            Some((128, lang, kural_core::SpeakTarget::KuralAndMeaning)),
+                            "must speak Kural+Meaning #128 in {lang:?} for '{utterance}'"
+                        );
+                    }
+                }
+            }
+
+            // Bilingual secondary-STT decision logic:
+            let ctx = RouterContext {
+                screen: AppScreen::Kids,
+                modal: None,
+                active_kural: 1,
+                active_scholar: Scholar::MuVa,
+                speech_speed: 1.0,
+                muted: false,
+            };
+            assert!(!should_try_secondary_stt(
+                "நூற்ற இருபத்தெட்டு",
+                Language::Tamil,
+                ctx
+            ));
+            assert!(!should_try_secondary_stt(
+                "திருவள்ளுவர் யார்?",
+                Language::Tamil,
+                ctx
+            ));
+            assert!(should_try_secondary_stt("", Language::Tamil, ctx));
+            assert!(should_try_secondary_stt("வ எ", Language::Tamil, ctx));
+            assert_eq!(
+                choose_bilingual_transcript(
+                    "வ எ".to_string(),
+                    Some("URAL ONE HUNDRED TWENTY EIGHT".to_string()),
+                    Language::Tamil,
+                    ctx,
+                ),
+                "URAL ONE HUNDRED TWENTY EIGHT"
+            );
+            assert_eq!(
+                choose_bilingual_transcript(
+                    "நட்பு".to_string(),
+                    Some("random noise".to_string()),
+                    Language::Tamil,
+                    ctx,
+                ),
+                "நட்பு"
+            );
 
             ctrl.cancel_active_tts();
             ctrl.cancel_active_capture();

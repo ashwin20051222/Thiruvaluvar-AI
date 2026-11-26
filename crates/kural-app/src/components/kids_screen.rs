@@ -1,10 +1,12 @@
 use crate::components::ContentPlaybackButton;
 use crate::components::header::TopHeader;
 use crate::components::icons::{BookIcon, ChatIcon, MicIcon, SearchIcon, SpeakerIcon};
-use crate::copy::{paginate_sentences, tr};
+use crate::copy::{english_verse_couplet, paginate_sentences, tr};
 use crate::state::{AppContext, is_voice_active, is_voice_cancellable};
 use dioxus::prelude::*;
-use kural_core::{BackendCommand, ModalKind, SPEECH_SPEED_PRESETS, SearchTab, SpeakTarget, Theme};
+use kural_core::{
+    BackendCommand, Language, ModalKind, SPEECH_SPEED_PRESETS, SearchTab, SpeakTarget, Theme,
+};
 
 #[component]
 pub fn KidsScreen() -> Element {
@@ -147,14 +149,25 @@ pub fn KidsScreen() -> Element {
                             }
                         }
 
-                        // Strictly Verbatim Tamil Couplet + Sentence-Paginated Simple Meaning
+                        // Tamil or English Kural Couplet + Sentence-Paginated Simple Meaning
                         div { class: "kural-center-verse",
-                            p { id: "kural-couplet", class: "font-kural",
-                                "{full.kural.line1_ta}"
-                                br {}
-                                "{full.kural.line2_ta}"
+                            if lang == Language::English {
+                                p { id: "kural-couplet", class: "kural-couplet-en", lang: "en",
+                                    "{english_verse_couplet(full)}"
+                                }
+                                p { id: "kural-translit", class: "desktop-hd-only", lang: "ta",
+                                    "{full.kural.line1_ta} / {full.kural.line2_ta}"
+                                }
+                            } else {
+                                p { id: "kural-couplet", class: "font-kural", lang: "ta",
+                                    "{full.kural.line1_ta}"
+                                    br {}
+                                    "{full.kural.line2_ta}"
+                                }
                             }
-                            p { id: "kural-meaning",
+                            p {
+                                id: "kural-meaning",
+                                lang: if lang == Language::English { "en" } else { "ta" },
                                 "{meaning_display}"
                             }
                             if pages.len() > 1 {

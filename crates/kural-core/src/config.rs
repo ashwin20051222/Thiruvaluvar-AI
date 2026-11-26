@@ -502,7 +502,7 @@ impl Default for AiConfig {
             tts_cache_max_entries: 16,
             tts_cache_max_bytes: 16_777_216,
             stt_timeout_ms: 8_000,
-            tts_timeout_ms: 15_000,
+            tts_timeout_ms: 45_000,
             inference_timeout_ms: 5_000,
         }
     }

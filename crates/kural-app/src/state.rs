@@ -79,8 +79,14 @@ pub fn provide_app_context(backend: BackendHandle, toast_duration_ms: u64) -> Ap
     use_hook(move || {
         spawn(async move {
             let mut rx = snap_rx;
+            let mut prev_screen = snap_sig.peek().screen;
             while rx.changed().await.is_ok() {
                 let latest = rx.borrow_and_update().clone();
+                if latest.screen != prev_screen {
+                    prev_screen = latest.screen;
+                    ai_answer_sig.set(None);
+                    search_outcome_sig.set(None);
+                }
                 snap_sig.set(latest);
             }
         });
