@@ -21,6 +21,12 @@ pub enum AiError {
     #[error("offline fallback TTS unavailable: {0}")]
     FallbackTtsUnavailable(String),
 
+    #[error("AI operation '{operation}' timed out after {timeout_ms} ms")]
+    Timeout {
+        operation: &'static str,
+        timeout_ms: u64,
+    },
+
     #[error("operation cancelled")]
     Cancelled,
 }

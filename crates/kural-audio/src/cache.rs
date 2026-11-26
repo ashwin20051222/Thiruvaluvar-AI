@@ -18,14 +18,20 @@ pub fn hash_tts_content(content: &str) -> u64 {
     hash
 }
 
-/// Deterministic `u64` lookup key combining `(content_hash, lang_code, persona_code)`.
+/// Deterministic `u64` lookup key combining `(content_hash, lang_code, persona_code, model_fingerprint)`.
 #[must_use]
-pub fn compute_tts_cache_key(content_hash: u64, lang_code: u8, persona_code: u8) -> u64 {
+pub fn compute_tts_cache_key(
+    content_hash: u64,
+    lang_code: u8,
+    persona_code: u8,
+    model_fingerprint: u64,
+) -> u64 {
     let mut h: u64 = 0xcbf2_9ce4_8422_2325;
     for b in content_hash
         .to_le_bytes()
         .into_iter()
         .chain([lang_code, persona_code])
+        .chain(model_fingerprint.to_le_bytes())
     {
         h ^= u64::from(b);
         h = h.wrapping_mul(0x0100_0000_01b3);
@@ -276,10 +282,9 @@ impl VoiceTurnAudio {
             .user_pcm_16k
             .len()
             .saturating_mul(std::mem::size_of::<i16>());
-        let ai_bytes = self
-            .ai_pcm
-            .as_ref()
-            .map_or(0, |(pcm, _)| pcm.len().saturating_mul(std::mem::size_of::<i16>()));
+        let ai_bytes = self.ai_pcm.as_ref().map_or(0, |(pcm, _)| {
+            pcm.len().saturating_mul(std::mem::size_of::<i16>())
+        });
         user_bytes.saturating_add(ai_bytes)
     }
 }
@@ -324,10 +329,10 @@ impl VoiceTurnAudioStore {
             return false;
         }
 
-        if let Some(pos) = self.turns.iter().position(|t| t.turn_id == turn_id) {
-            if let Some(removed) = self.turns.remove(pos) {
-                self.total_bytes = self.total_bytes.saturating_sub(removed.byte_len());
-            }
+        if let Some(pos) = self.turns.iter().position(|t| t.turn_id == turn_id)
+            && let Some(removed) = self.turns.remove(pos)
+        {
+            self.total_bytes = self.total_bytes.saturating_sub(removed.byte_len());
         }
 
         while self.total_bytes.saturating_add(bytes) > self.max_bytes
@@ -345,7 +350,12 @@ impl VoiceTurnAudioStore {
     }
 
     /// Attach synthesized AI PCM audio to an already-recorded `turn_id` (`synth_speed = 1.0`).
-    pub fn attach_ai_audio(&mut self, turn_id: u64, ai_pcm: Arc<[i16]>, sample_rate_hz: u32) -> bool {
+    pub fn attach_ai_audio(
+        &mut self,
+        turn_id: u64,
+        ai_pcm: Arc<[i16]>,
+        sample_rate_hz: u32,
+    ) -> bool {
         self.attach_ai_audio_with_speed(turn_id, ai_pcm, sample_rate_hz, 1.0)
     }
 
@@ -370,10 +380,9 @@ impl VoiceTurnAudioStore {
             .user_pcm_16k
             .len()
             .saturating_mul(std::mem::size_of::<i16>());
-        let old_ai_bytes = self.turns[pos]
-            .ai_pcm
-            .as_ref()
-            .map_or(0, |(pcm, _)| pcm.len().saturating_mul(std::mem::size_of::<i16>()));
+        let old_ai_bytes = self.turns[pos].ai_pcm.as_ref().map_or(0, |(pcm, _)| {
+            pcm.len().saturating_mul(std::mem::size_of::<i16>())
+        });
         if user_bytes.saturating_add(ai_bytes) > self.max_bytes {
             return false;
         }
@@ -562,9 +571,11 @@ mod tests {
     fn numeric_cache_keys_hit_zero_ms_and_preserve_synth_speed() {
         let mut cache = TtsPcmCache::default();
         let h1 = hash_tts_content("Virtue is spotless mind");
-        let k1 = compute_tts_cache_key(h1, 1, 2);
-        let k2 = compute_tts_cache_key(h1, 0, 2);
+        let k1 = compute_tts_cache_key(h1, 1, 2, 0xABCD_1234);
+        let k2 = compute_tts_cache_key(h1, 0, 2, 0xABCD_1234);
+        let k3 = compute_tts_cache_key(h1, 1, 2, 0xDEAD_BEEF);
         assert_ne!(k1, k2);
+        assert_ne!(k1, k3);
 
         cache.insert_completed_u64(k1, clip_of_bytes(40, 11), 22_050, 1.25);
         assert!(cache.get_cached_u64(k2).is_none());

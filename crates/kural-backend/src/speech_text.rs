@@ -93,27 +93,43 @@ fn push_kural_and_meaning(
         Language::Tamil => {
             push_non_empty(chunks, &full.kural.line1_ta);
             push_non_empty(chunks, &full.kural.line2_ta);
-            let meaning = if screen == AppScreen::Kids {
-                full.child
+            let meaning = match screen {
+                AppScreen::Kids => full
+                    .child
                     .as_ref()
                     .map(|c| c.simple_meaning_ta.as_str())
                     .filter(|s| !s.trim().is_empty())
-                    .unwrap_or_else(|| tamil_scholar_meaning(full, effective_scholar))
-            } else {
-                tamil_scholar_meaning(full, effective_scholar)
+                    .unwrap_or_else(|| tamil_scholar_meaning(full, effective_scholar)),
+                AppScreen::Youth => full
+                    .youth
+                    .as_ref()
+                    .map(|y| y.analysis_ta.as_str())
+                    .filter(|s| !s.trim().is_empty())
+                    .unwrap_or_else(|| {
+                        non_empty_or(&full.kural.meaning_solomon, &full.kural.meaning_mu_va)
+                    }),
+                AppScreen::Adult | AppScreen::Start => {
+                    tamil_scholar_meaning(full, effective_scholar)
+                }
             };
             push_non_empty(chunks, meaning);
         }
         Language::English => {
             push_non_empty(chunks, &non_empty_english_couplet(full));
-            let meaning = if screen == AppScreen::Kids {
-                full.child
+            let meaning = match screen {
+                AppScreen::Kids => full
+                    .child
                     .as_ref()
                     .map(|c| normalize_english_tts_text(&c.simple_meaning_en))
                     .filter(|s| !s.is_empty())
-                    .unwrap_or_else(|| non_empty_english_meaning(full))
-            } else {
-                non_empty_english_meaning(full)
+                    .unwrap_or_else(|| non_empty_english_meaning(full)),
+                AppScreen::Youth => full
+                    .youth
+                    .as_ref()
+                    .map(|y| normalize_english_tts_text(&y.analysis_en))
+                    .filter(|s| !s.is_empty())
+                    .unwrap_or_else(|| non_empty_english_meaning(full)),
+                AppScreen::Adult | AppScreen::Start => non_empty_english_meaning(full),
             };
             push_non_empty(chunks, &meaning);
         }
@@ -204,7 +220,10 @@ pub fn build_speech_payload(
                 push_non_empty(&mut chunks, &non_empty_english_couplet(full));
                 if let Some(youth) = &full.youth {
                     push_non_empty(&mut chunks, &normalize_english_tts_text(&youth.analysis_en));
-                    push_non_empty(&mut chunks, &normalize_english_tts_text(&youth.action_tip_en));
+                    push_non_empty(
+                        &mut chunks,
+                        &normalize_english_tts_text(&youth.action_tip_en),
+                    );
                 } else {
                     push_non_empty(&mut chunks, &non_empty_english_meaning(full));
                 }
@@ -502,5 +521,116 @@ mod tests {
                 "Sample English translation.".to_string(),
             ]
         );
+    }
+
+    #[test]
+    fn kids_and_youth_kural_and_meaning_produce_age_appropriate_bilingual_chunks() {
+        let full = sample_full_kural(Some("பரிமேல் உரை மாதிரி"));
+
+        // Kids Tamil -> line1, line2, simple_meaning_ta
+        let kids_ta = build_speech_payload(
+            &full,
+            AppScreen::Kids,
+            SpeakTarget::KuralAndMeaning,
+            Language::Tamil,
+            Scholar::MuVa,
+            1.0,
+            None,
+        )
+        .expect("kids tamil");
+        assert_eq!(
+            kids_ta.chunks,
+            vec![
+                full.kural.line1_ta.clone(),
+                full.kural.line2_ta.clone(),
+                "எளிய தமிழ் பொருள்".to_string(),
+            ]
+        );
+
+        // Kids English -> english couplet, simple_meaning_en
+        let kids_en = build_speech_payload(
+            &full,
+            AppScreen::Kids,
+            SpeakTarget::KuralAndMeaning,
+            Language::English,
+            Scholar::MuVa,
+            1.0,
+            None,
+        )
+        .expect("kids english");
+        assert_eq!(
+            kids_en.chunks,
+            vec![
+                "Stand eager to learn.".to_string(),
+                "Simple kids meaning.".to_string(),
+            ]
+        );
+
+        // Youth Tamil -> line1, line2, analysis_ta
+        let youth_ta = build_speech_payload(
+            &full,
+            AppScreen::Youth,
+            SpeakTarget::KuralAndMeaning,
+            Language::Tamil,
+            Scholar::MuVa,
+            1.0,
+            None,
+        )
+        .expect("youth tamil");
+        assert_eq!(
+            youth_ta.chunks,
+            vec![
+                full.kural.line1_ta.clone(),
+                full.kural.line2_ta.clone(),
+                "இளைஞர் பகுப்பாய்வு".to_string(),
+            ]
+        );
+
+        // Youth English -> english couplet, analysis_en
+        let youth_en = build_speech_payload(
+            &full,
+            AppScreen::Youth,
+            SpeakTarget::KuralAndMeaning,
+            Language::English,
+            Scholar::MuVa,
+            1.0,
+            None,
+        )
+        .expect("youth english");
+        assert_eq!(
+            youth_en.chunks,
+            vec![
+                "Stand eager to learn.".to_string(),
+                "Youth analysis.".to_string(),
+            ]
+        );
+
+        // Fallbacks when child/youth metadata are absent.
+        let mut bare = sample_full_kural(None);
+        bare.child = None;
+        bare.youth = None;
+        let kids_fb = build_speech_payload(
+            &bare,
+            AppScreen::Kids,
+            SpeakTarget::KuralAndMeaning,
+            Language::Tamil,
+            Scholar::MuVa,
+            1.0,
+            None,
+        )
+        .unwrap();
+        assert_eq!(kids_fb.chunks[2], "மு.வ. உரை மாதிரி");
+
+        let youth_fb = build_speech_payload(
+            &bare,
+            AppScreen::Youth,
+            SpeakTarget::KuralAndMeaning,
+            Language::Tamil,
+            Scholar::MuVa,
+            1.0,
+            None,
+        )
+        .unwrap();
+        assert_eq!(youth_fb.chunks[2], "சாலமன் உரை மாதிரி");
     }
 }

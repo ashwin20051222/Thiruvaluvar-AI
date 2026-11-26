@@ -375,7 +375,7 @@ impl Resampler16k {
     /// Downmix interleaved input samples to mono, buffer until full chunks are ready, and return
     /// accumulated `16 kHz` mono `f32` samples.
     pub fn push_interleaved(&mut self, interleaved: &[f32]) -> Result<Vec<f32>, AudioError> {
-        if interleaved.len() % self.channels != 0 {
+        if !interleaved.len().is_multiple_of(self.channels) {
             return Err(AudioError::StreamError(format!(
                 "interleaved sample count ({}) is not divisible by channel count ({})",
                 interleaved.len(),

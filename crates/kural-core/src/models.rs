@@ -34,10 +34,7 @@ pub fn is_canonical_tag_slug(slug: &str) -> bool {
 
 /// Look up `(slug, name_ta, name_en)` for a canonical tag slug.
 pub fn canonical_tag_by_slug(slug: &str) -> Option<(&'static str, &'static str, &'static str)> {
-    CANONICAL_TAGS
-        .iter()
-        .copied()
-        .find(|(s, _, _)| *s == slug)
+    CANONICAL_TAGS.iter().copied().find(|(s, _, _)| *s == slug)
 }
 
 /// Target age mode for pedagogical delivery.
@@ -334,4 +331,3 @@ pub struct DbStats {
     pub integrity_check: String,
     pub file_size_bytes: u64,
 }
-

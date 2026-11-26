@@ -341,9 +341,9 @@ pub fn load_and_audit_canonical(canonical_dir: &Path) -> Result<CanonicalDataset
 
     let mut adhikarams = Vec::with_capacity(133);
     for ch_id in 1u8..=133u8 {
-        let (div_id, ch) = raw_chapters_by_id.remove(&ch_id).ok_or_else(|| {
-            CoreError::CanonicalAudit(format!("missing adhikaram #{ch_id}"))
-        })?;
+        let (div_id, ch) = raw_chapters_by_id
+            .remove(&ch_id)
+            .ok_or_else(|| CoreError::CanonicalAudit(format!("missing adhikaram #{ch_id}")))?;
         let expected_start = u16::from(ch_id - 1) * 10 + 1;
         let expected_end = u16::from(ch_id) * 10;
         if ch.start != expected_start || ch.end != expected_end {
@@ -404,9 +404,9 @@ pub fn load_and_audit_canonical(canonical_dir: &Path) -> Result<CanonicalDataset
 
     let mut kurals = Vec::with_capacity(1330);
     for number in 1u16..=1330u16 {
-        let raw = by_number.remove(&number).ok_or_else(|| {
-            CoreError::CanonicalAudit(format!("missing kural #{number}"))
-        })?;
+        let raw = by_number
+            .remove(&number)
+            .ok_or_else(|| CoreError::CanonicalAudit(format!("missing kural #{number}")))?;
 
         let line1_ta = require_non_empty(number, "line1_ta", &raw.line1)?;
         let line2_ta = require_non_empty(number, "line2_ta", &raw.line2)?;
@@ -420,8 +420,10 @@ pub fn load_and_audit_canonical(canonical_dir: &Path) -> Result<CanonicalDataset
             CoreError::CanonicalAudit(format!("failed to extract opening grapheme for #{number}"))
         })?;
 
-        let transliteration1 = require_non_empty(number, "transliteration1", &raw.transliteration1)?;
-        let transliteration2 = require_non_empty(number, "transliteration2", &raw.transliteration2)?;
+        let transliteration1 =
+            require_non_empty(number, "transliteration1", &raw.transliteration1)?;
+        let transliteration2 =
+            require_non_empty(number, "transliteration2", &raw.transliteration2)?;
 
         check_transliteration_phonetic_sanity(number, &line1_ta, &transliteration1)
             .map_err(CoreError::CanonicalAudit)?;
@@ -485,4 +487,3 @@ pub fn load_and_audit_canonical(canonical_dir: &Path) -> Result<CanonicalDataset
         kurals,
     })
 }
-

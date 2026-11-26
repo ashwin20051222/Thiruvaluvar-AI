@@ -21,6 +21,7 @@ sherpa-onnx.workspace = true
 thiserror.workspace = true
 tokio = { workspace = true, features = ["sync"] }
 tokio-util.workspace = true
+tracing.workspace = true
 
 [dev-dependencies]
 kural-db = { path = "../kural-db", default-features = false, features = ["test-fallback"] }

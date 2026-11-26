@@ -6,8 +6,8 @@ use std::collections::VecDeque;
 /// Number of `16 kHz` mono samples per VAD analysis frame (`32 ms`).
 pub const FRAME_SAMPLES_16K: usize = 512;
 
-/// Number of `16 kHz` mono samples retained in the pre-roll circular buffer (`200 ms`).
-pub const PRE_ROLL_SAMPLES_16K: usize = 3200;
+/// Number of `16 kHz` mono samples retained in the pre-roll circular buffer (`250 ms`).
+pub const PRE_ROLL_SAMPLES_16K: usize = 4000;
 
 const FRAME_DURATION_MS: u32 = 32;
 const DEFAULT_THRESHOLD_RATIO: f32 = 2.5;
@@ -479,7 +479,7 @@ mod tests {
     }
 
     #[test]
-    fn pre_roll_200ms_is_preserved_ahead_of_speech_onset() {
+    fn pre_roll_250ms_is_preserved_ahead_of_speech_onset() {
         let mut vad = EnergyZcrVad::default();
         let mut framer = UtteranceFramer::new(
             CaptureMode::VadCommand {
@@ -490,7 +490,7 @@ mod tests {
             850,
         );
 
-        // Feed 10 distinct silent/quiet frames (> 3200 samples total) so circular buffer wraps.
+        // Feed 10 distinct silent/quiet frames (> 4000 samples total) so circular buffer wraps.
         // Tag each waiting frame with tiny distinguishable DC-free micro-marker well below VAD floor.
         for frame_idx in 0..10 {
             let marker = (frame_idx as f32 + 1.0) * 1e-5;
@@ -526,17 +526,88 @@ mod tests {
         }
 
         let captured = final_capture.expect("capture should complete");
-        // Expected samples: 3200 pre-roll + (3 speech + 27 trailing) * 512 = 18560 samples.
+        // Expected samples: 4000 pre-roll + (3 speech + 27 trailing) * 512 = 19360 samples.
+        assert_eq!(PRE_ROLL_SAMPLES_16K, 4000);
         assert_eq!(
             captured.samples_16k.len(),
             PRE_ROLL_SAMPLES_16K + 30 * FRAME_SAMPLES_16K
         );
-        // The first sample of pre-roll comes from frame_idx 3 (last 3200 of 5120 = offset 1920 -> frame 3).
-        assert!((captured.samples_16k[0] - 4.0e-5).abs() < 1e-7);
+        // The first sample of pre-roll comes from frame_idx 2 (last 4000 of 5120 = offset 1120 -> frame 2).
+        assert!((captured.samples_16k[0] - 3.0e-5).abs() < 1e-7);
         assert_eq!(captured.pre_roll_noise_16k.len(), 10 * FRAME_SAMPLES_16K);
         assert_eq!(captured.speech_only_16k.len(), 3 * FRAME_SAMPLES_16K);
         assert_eq!(captured.voiced_ms, 96);
         assert!(captured.snr_db > 20.0);
+    }
+
+    #[test]
+    fn slow_speech_with_1_2s_inter_word_pause_is_not_cut_off() {
+        let mut vad = EnergyZcrVad::default();
+        let mut framer = UtteranceFramer::new(
+            CaptureMode::VadCommand {
+                max_duration_ms: 9000,
+            },
+            0.42,
+            7000,
+            1450,
+        );
+
+        // 10 quiet frames (5120 samples > 4000 pre-roll) fill the 250 ms circular buffer.
+        let silence = vec![0.0_f32; FRAME_SAMPLES_16K];
+        for _ in 0..10 {
+            assert_eq!(
+                framer.feed_512_frame(&silence, &mut vad).unwrap(),
+                FrameAction::KeepWaiting
+            );
+            assert!(!framer.is_capturing_speech());
+        }
+
+        // Word 1: 4 voiced frames (128 ms).
+        for idx in 0..4 {
+            let speech = sine_frame(350.0, 0.15, idx);
+            assert_eq!(
+                framer.feed_512_frame(&speech, &mut vad).unwrap(),
+                FrameAction::KeepWaiting
+            );
+            assert!(framer.is_capturing_speech());
+        }
+
+        // 1.2s inter-word pause: 38 * 32 ms = 1216 ms (well below 1450 ms trailing silence).
+        for _ in 0..38 {
+            assert_eq!(
+                framer.feed_512_frame(&silence, &mut vad).unwrap(),
+                FrameAction::KeepWaiting
+            );
+        }
+
+        // Word 2: 4 voiced frames (128 ms).
+        for idx in 0..4 {
+            let speech = sine_frame(440.0, 0.15, idx);
+            assert_eq!(
+                framer.feed_512_frame(&speech, &mut vad).unwrap(),
+                FrameAction::KeepWaiting
+            );
+        }
+
+        // Trailing silence: 45 frames = 1440 ms (< 1450 ms) keeps waiting; 46th = 1472 ms completes.
+        for _ in 0..45 {
+            assert_eq!(
+                framer.feed_512_frame(&silence, &mut vad).unwrap(),
+                FrameAction::KeepWaiting
+            );
+        }
+        match framer.feed_512_frame(&silence, &mut vad).unwrap() {
+            FrameAction::CaptureComplete(captured) => {
+                assert_eq!(PRE_ROLL_SAMPLES_16K, 4000);
+                assert_eq!(captured.voiced_ms, 8 * 32);
+                assert_eq!(captured.speech_only_16k.len(), 8 * FRAME_SAMPLES_16K);
+                assert_eq!(
+                    captured.samples_16k.len(),
+                    PRE_ROLL_SAMPLES_16K + (4 + 38 + 4 + 46) * FRAME_SAMPLES_16K
+                );
+            }
+            other => panic!("expected CaptureComplete after trailing silence, got {other:?}"),
+        }
     }
 
     #[test]

@@ -136,7 +136,10 @@ fn print_sample_preview(chapter: &EnrichedChapterFile, canonical: &CanonicalData
         "SAMPLE PREVIEW — Adhikaram #{:03} | Kural #{}",
         chapter.adhikaram_id, first_canon.number
     );
-    println!("  Tamil:   {} / {}", first_canon.line1_ta, first_canon.line2_ta);
+    println!(
+        "  Tamil:   {} / {}",
+        first_canon.line1_ta, first_canon.line2_ta
+    );
     println!("  English: {}", first_canon.translation_en);
     println!("  Tags:    {:?}", first_rec.tags);
     println!("  [Child] {}", first_rec.child.simple_meaning_ta);

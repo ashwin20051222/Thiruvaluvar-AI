@@ -2,7 +2,7 @@ use crate::BackendError;
 use crate::ai_worker::{AiWorkerHandle, SpeechCapabilities};
 use crate::speech_text::{build_speech_payload, resolve_effective_scholar};
 use chrono::{Days, Local};
-use kural_ai::{AgeClassifier, SemanticExplainer, SherpaSileroVad, detect_text_language};
+use kural_ai::{AgeClassifier, AiError, SemanticExplainer, SherpaSileroVad, detect_text_language};
 use kural_audio::{
     AudioError, AudioHandle, EarconKind, MAX_VOICE_TURNS, VadBackend, compute_tts_cache_key,
     hash_tts_content,
@@ -15,11 +15,12 @@ use kural_core::{
     PARIMEL_FALLBACK_NOTICE, REPLAY_AUDIO_NOTICE, REPLAY_FULL_EXCHANGE_NOTICE,
     REPLAY_USER_VOICE_NOTICE, RetryReason, Scholar, SystemHealth, UiSnapshot, UiTransientEvent,
     VOICE_ADHIKARAM_RANGE_ERROR, VOICE_KURAL_RANGE_ERROR, VOICE_LOOP_OFF_NOTICE,
-    VOICE_LOOP_ON_NOTICE, VOICE_LOOP_SILENCE_STOP_NOTICE, VoiceReplayMode, VoiceTurnSummary,
-    effective_tts_speed, normalize_nfc_trimmed, retry_copy, snap_speech_speed,
+    VOICE_LOOP_ON_NOTICE, VOICE_LOOP_SILENCE_STOP_NOTICE, VOICE_UNCLEAR_RETRY_NOTICE,
+    VoiceReplayMode, VoiceTurnSummary, effective_tts_speed, normalize_nfc_trimmed, retry_copy,
+    snap_speech_speed,
 };
 use kural_db::{KuralDb, UserStateStore};
-use kural_voice_cmd::{RouterContext, validate_voice_transcript};
+use kural_voice_cmd::{RouterContext, parse_quiz_choice, validate_voice_transcript};
 use std::sync::{Arc, Mutex};
 use std::time::{Duration, Instant};
 use tokio::runtime::{Builder as RuntimeBuilder, Runtime};
@@ -44,6 +45,32 @@ enum ControllerMsg {
     Shutdown(std::sync::mpsc::SyncSender<()>),
 }
 
+struct BilingualMsg {
+    ta: String,
+    en: String,
+}
+
+fn ai_inference_timeout_msg(timeout_ms: u64) -> BilingualMsg {
+    BilingualMsg {
+        ta: format!("AI நேர வரம்பு முடிந்தது ({timeout_ms} ms) — மீண்டும் முயற்சிக்கவும்."),
+        en: format!("AI inference timed out after {timeout_ms} ms — please try again."),
+    }
+}
+
+fn stt_timeout_msg(timeout_ms: u64) -> BilingualMsg {
+    BilingualMsg {
+        ta: format!("குரல் உணர்வு நேர வரம்பு முடிந்தது ({timeout_ms} ms) — மீண்டும் பேசவும்."),
+        en: format!("Voice recognition timed out after {timeout_ms} ms — please speak again."),
+    }
+}
+
+fn tts_timeout_msg(timeout_ms: u64) -> BilingualMsg {
+    BilingualMsg {
+        ta: format!("குரல் ஒலி உருவாக்க நேர வரம்பு முடிந்தது ({timeout_ms} ms)."),
+        en: format!("Speech synthesis timed out after {timeout_ms} ms."),
+    }
+}
+
 enum InternalMsg {
     SpeechCapsUpdated(SpeechCapabilities),
     StartVoiceAutoRouteDone {
@@ -51,6 +78,7 @@ enum InternalMsg {
         nav_epoch: u64,
         lang: kural_core::Language,
         auto_triggered: bool,
+        age_timed_out: bool,
         outcome: AgeOutcome,
         transcript: Option<String>,
         caps: Option<SpeechCapabilities>,
@@ -61,7 +89,7 @@ enum InternalMsg {
         lang: kural_core::Language,
         is_timeout: bool,
         captured_user_16k: Option<Arc<[f32]>>,
-        transcript: Result<String, String>,
+        transcript: Result<String, BilingualMsg>,
         caps: Option<SpeechCapabilities>,
     },
     VoiceAiDone {
@@ -70,11 +98,11 @@ enum InternalMsg {
         turn_id: Option<u64>,
         seed_kural: Option<u16>,
         lang: kural_core::Language,
-        result: Result<GroundedAnswer, String>,
+        result: Result<GroundedAnswer, BilingualMsg>,
     },
     TextAiDone {
         ai_epoch: u64,
-        result: Result<GroundedAnswer, String>,
+        result: Result<GroundedAnswer, BilingualMsg>,
     },
     SearchDone {
         search_epoch: u64,
@@ -89,7 +117,7 @@ enum InternalMsg {
         has_saved_audio: bool,
         voice_loop_rearm: bool,
         ok: bool,
-        error_msg: Option<String>,
+        error_msg: Option<BilingualMsg>,
     },
 }
 
@@ -114,6 +142,7 @@ impl BackendHandle {
     /// Synchronously boot DBs, `AudioHandle`, `AgeClassifier`, `SemanticExplainer`, `AiWorker`,
     /// Tokio runtime, and initial [`UiSnapshot`].
     pub fn start(config: AppConfig) -> Result<Self, BackendError> {
+        crate::init_tracing();
         config.validate()?;
 
         let corpus =
@@ -147,14 +176,44 @@ impl BackendHandle {
 
         let requested_scholar = Scholar::MuVa;
         let effective_scholar = resolve_effective_scholar(&current_kural, requested_scholar);
+        let embeddings_loaded = corpus.embeddings_loaded();
+        let mut degraded_parts: Vec<&'static str> = Vec::new();
+        if !embeddings_loaded {
+            degraded_parts.push("semantic embeddings (lexical FTS5 fallback)");
+        }
+        if !vad_loaded {
+            degraded_parts.push("Silero VAD (RMS energy fallback)");
+        }
+        if !speech_caps.active_stt_loaded {
+            degraded_parts.push("offline STT model");
+        }
+        if !speech_caps.tts_neural_loaded {
+            if speech_caps.active_tts_loaded {
+                degraded_parts.push("neural Piper TTS (espeak-ng fallback)");
+            } else {
+                degraded_parts.push("TTS voice synthesis");
+            }
+        }
+        let degraded_reason = if degraded_parts.is_empty() {
+            None
+        } else {
+            let reason = degraded_parts.join(", ");
+            tracing::warn!(
+                degraded_reason = %reason,
+                "Starting with optional AI/audio models in fallback/absent mode"
+            );
+            Some(reason)
+        };
+
         let system_health = SystemHealth {
             db_ok: true,
             user_state_ok: true,
             audio_ok: audio.is_healthy(),
-            embeddings_loaded: corpus.embeddings_loaded(),
+            embeddings_loaded,
             vad_loaded,
             active_stt_loaded: speech_caps.active_stt_loaded,
             active_tts_loaded: speech_caps.active_tts_loaded,
+            degraded_reason: degraded_reason.clone(),
         };
 
         let initial_snapshot = Arc::new(UiSnapshot {
@@ -185,6 +244,12 @@ impl BackendHandle {
 
         let (snapshot_tx, snapshot_rx) = watch::channel(initial_snapshot.clone());
         let (event_tx, event_rx) = mpsc::channel(EVENT_QUEUE_CAP);
+        if let Some(reason) = degraded_reason.as_ref() {
+            let _ = event_tx.try_send(UiTransientEvent::InfoToast {
+                message_ta: format!("மாற்று முறையில் இயங்குகிறது ({reason})."),
+                message_en: format!("Running in fallback mode ({reason})."),
+            });
+        }
         let (cmd_tx, cmd_rx) = mpsc::channel(CMD_QUEUE_CAP);
         let rms_rx = audio.subscribe_rms();
 
@@ -218,6 +283,7 @@ impl BackendHandle {
             initial_snapshot,
             event_tx,
             pool,
+            speech_caps.tts_model_fingerprint,
         );
 
         rt.spawn(async move {
@@ -374,6 +440,7 @@ struct BackendController {
     listening_entered_at: Option<Instant>,
     prefs_dirty_deadline: Option<tokio::time::Instant>,
     active_content_key: Option<ContentAudioKey>,
+    active_tts_model_fingerprint: u64,
 }
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
@@ -400,6 +467,7 @@ impl BackendController {
         initial_snapshot: Arc<UiSnapshot>,
         initial_event_tx: mpsc::Sender<UiTransientEvent>,
         pool: Vec<u16>,
+        active_tts_model_fingerprint: u64,
     ) -> Self {
         let (internal_tx, internal_rx) = mpsc::channel(INTERNAL_QUEUE_CAP);
         Self {
@@ -431,7 +499,14 @@ impl BackendController {
             listening_entered_at: None,
             prefs_dirty_deadline: None,
             active_content_key: None,
+            active_tts_model_fingerprint,
         }
+    }
+
+    fn apply_speech_caps(&mut self, caps: SpeechCapabilities) {
+        self.state.system_health.active_stt_loaded = caps.active_stt_loaded;
+        self.state.system_health.active_tts_loaded = caps.active_tts_loaded;
+        self.active_tts_model_fingerprint = caps.tts_model_fingerprint;
     }
 
     async fn run(mut self, mut cmd_rx: mpsc::Receiver<ControllerMsg>) {
@@ -531,8 +606,14 @@ impl BackendController {
                     let worker = self.ai_worker.clone();
                     let internal_tx = self.internal_tx.clone();
                     tokio::spawn(async move {
-                        if let Ok(caps) = worker.ensure_language(lang).await {
-                            let _ = internal_tx.send(InternalMsg::SpeechCapsUpdated(caps)).await;
+                        match worker.ensure_language(lang).await {
+                            Ok(caps) => {
+                                let _ =
+                                    internal_tx.send(InternalMsg::SpeechCapsUpdated(caps)).await;
+                            }
+                            Err(err) => {
+                                tracing::warn!(%err, %lang, "Failed to switch STT/TTS language");
+                            }
                         }
                     });
                     if self.state.screen != AppScreen::Start {
@@ -626,14 +707,14 @@ impl BackendController {
                     return;
                 }
                 self.bump_nav_interrupt();
-                self.open_kural_with_pool_fixup(num);
+                self.open_kural_with_pool_fixup(num, true);
             }
             BackendCommand::NextKural => {
                 self.bump_nav_interrupt();
                 if !self.pool.is_empty() {
                     let next_idx = (self.state.pool_idx + 1) % self.pool.len();
                     let num = self.pool[next_idx];
-                    self.open_kural_in_current_pool(num, next_idx);
+                    self.open_kural_in_current_pool(num, next_idx, true);
                 }
             }
             BackendCommand::PrevKural => {
@@ -641,7 +722,7 @@ impl BackendController {
                 if !self.pool.is_empty() {
                     let prev_idx = (self.state.pool_idx + self.pool.len() - 1) % self.pool.len();
                     let num = self.pool[prev_idx];
-                    self.open_kural_in_current_pool(num, prev_idx);
+                    self.open_kural_in_current_pool(num, prev_idx, true);
                 }
             }
             BackendCommand::OpenAdhikaram(ad_id) => {
@@ -658,7 +739,7 @@ impl BackendController {
                 if matches!(self.state.modal, Some(ModalKind::Search { .. })) {
                     self.state.modal = None;
                 }
-                self.restore_default_pool_and_open(start_num);
+                self.restore_default_pool_and_open(start_num, true);
             }
             BackendCommand::FilterByDivision(div_opt) => match div_opt {
                 Some(d) => self.apply_filter(ActiveFilter::Division(d)),
@@ -828,8 +909,7 @@ impl BackendController {
     fn handle_internal(&mut self, msg: InternalMsg) {
         match msg {
             InternalMsg::SpeechCapsUpdated(caps) => {
-                self.state.system_health.active_stt_loaded = caps.active_stt_loaded;
-                self.state.system_health.active_tts_loaded = caps.active_tts_loaded;
+                self.apply_speech_caps(caps);
                 self.publish_snapshot();
             }
             InternalMsg::StartVoiceAutoRouteDone {
@@ -837,6 +917,7 @@ impl BackendController {
                 nav_epoch,
                 lang,
                 auto_triggered,
+                age_timed_out,
                 outcome,
                 transcript,
                 caps,
@@ -846,6 +927,7 @@ impl BackendController {
                     nav_epoch,
                     lang,
                     auto_triggered,
+                    age_timed_out,
                     outcome,
                     transcript,
                     caps,
@@ -861,8 +943,7 @@ impl BackendController {
                 caps,
             } => {
                 if let Some(c) = caps {
-                    self.state.system_health.active_stt_loaded = c.active_stt_loaded;
-                    self.state.system_health.active_tts_loaded = c.active_tts_loaded;
+                    self.apply_speech_caps(c);
                 }
                 if session_id != self.voice_session_id || nav_epoch != self.nav_epoch {
                     return;
@@ -880,7 +961,9 @@ impl BackendController {
                         if is_timeout && self.state.voice_to_voice_loop {
                             self.consecutive_silence_timeouts =
                                 self.consecutive_silence_timeouts.saturating_add(1);
-                            if self.consecutive_silence_timeouts >= 2 {
+                            if self.consecutive_silence_timeouts
+                                >= self.config.audio.voice_loop_max_silence_timeouts
+                            {
                                 self.disarm_voice_loop();
                                 self.publish_snapshot();
                                 self.emit_event(UiTransientEvent::InfoToast {
@@ -901,8 +984,8 @@ impl BackendController {
                             let _ = audio.play_earcon(EarconKind::RetryTone).await;
                         });
                         self.emit_event(UiTransientEvent::ErrorToast {
-                            message_ta: format!("குரல் உணர்வில் பிழை: {err_msg}"),
-                            message_en: format!("Voice recognition error: {err_msg}"),
+                            message_ta: err_msg.ta,
+                            message_en: err_msg.en,
                         });
                     }
                 }
@@ -944,8 +1027,11 @@ impl BackendController {
                         let cited_nums: Vec<u16> =
                             ans.cited_kurals.iter().map(|k| k.kural.number).collect();
                         if let Some(tid) = turn_id
-                            && let Some(turn) =
-                                self.state.recent_voice_turns.iter_mut().find(|t| t.id == tid)
+                            && let Some(turn) = self
+                                .state
+                                .recent_voice_turns
+                                .iter_mut()
+                                .find(|t| t.id == tid)
                         {
                             turn.ai_text = spoken_text.clone();
                             turn.cited_kurals = cited_nums;
@@ -970,8 +1056,8 @@ impl BackendController {
                             self.publish_snapshot();
                         }
                         self.emit_event(UiTransientEvent::ErrorToast {
-                            message_ta: format!("AI பதில் பிழை: {err}"),
-                            message_en: format!("AI answer error: {err}"),
+                            message_ta: err.ta,
+                            message_en: err.en,
                         });
                     }
                 }
@@ -1013,8 +1099,8 @@ impl BackendController {
                     }
                     Err(err) => {
                         self.emit_event(UiTransientEvent::ErrorToast {
-                            message_ta: format!("AI தேடல் பிழை: {err}"),
-                            message_en: format!("AI query failed: {err}"),
+                            message_ta: err.ta,
+                            message_en: err.en,
                         });
                     }
                 }
@@ -1057,8 +1143,11 @@ impl BackendController {
                     }
                     if let Some(tid) = voice_turn_id
                         && has_saved_audio
-                        && let Some(turn) =
-                            self.state.recent_voice_turns.iter_mut().find(|t| t.id == tid)
+                        && let Some(turn) = self
+                            .state
+                            .recent_voice_turns
+                            .iter_mut()
+                            .find(|t| t.id == tid)
                     {
                         turn.has_ai_audio = true;
                         self.state.can_replay_voice_turn = true;
@@ -1088,8 +1177,8 @@ impl BackendController {
                     self.publish_snapshot();
                     if let Some(msg) = error_msg {
                         self.emit_event(UiTransientEvent::ErrorToast {
-                            message_ta: format!("ஒலி இயக்கப் பிழை: {msg}"),
-                            message_en: format!("Audio playback error: {msg}"),
+                            message_ta: msg.ta,
+                            message_en: msg.en,
                         });
                     }
                 }
@@ -1153,16 +1242,16 @@ impl BackendController {
         self.trigger_auto_playback_for_current_content(false);
     }
 
-    fn open_kural_with_pool_fixup(&mut self, num: u16) {
+    fn open_kural_with_pool_fixup(&mut self, num: u16, speak_after: bool) {
         if let Some(pos) = self.pool.iter().position(|&n| n == num) {
-            self.open_kural_in_current_pool(num, pos);
+            self.open_kural_in_current_pool(num, pos, speak_after);
             return;
         }
         self.state.active_filter = None;
-        self.restore_default_pool_and_open(num);
+        self.restore_default_pool_and_open(num, speak_after);
     }
 
-    fn restore_default_pool_and_open(&mut self, num: u16) {
+    fn restore_default_pool_and_open(&mut self, num: u16, speak_after: bool) {
         let mut pool = default_pool_or_fallback(&self.corpus, self.state.screen, num)
             .unwrap_or_else(|_| (1..=1330).collect());
         if !pool.contains(&num) {
@@ -1170,10 +1259,10 @@ impl BackendController {
         }
         self.pool = pool;
         let idx = find_kural_idx(&self.pool, num);
-        self.open_kural_in_current_pool(num, idx);
+        self.open_kural_in_current_pool(num, idx, speak_after);
     }
 
-    fn open_kural_in_current_pool(&mut self, num: u16, idx: usize) {
+    fn open_kural_in_current_pool(&mut self, num: u16, idx: usize, speak_after: bool) {
         match self.corpus.get_kural_full(num) {
             Ok(full) => {
                 self.state.current_kural = full;
@@ -1185,7 +1274,9 @@ impl BackendController {
                 self.schedule_prefs_debounce();
                 self.update_effective_scholar_and_notify(self.state.screen == AppScreen::Adult);
                 self.publish_snapshot();
-                self.trigger_auto_playback_for_current_content(false);
+                if speak_after {
+                    self.trigger_auto_playback_for_current_content(false);
+                }
             }
             Err(err) => {
                 self.emit_event(UiTransientEvent::ErrorToast {
@@ -1194,6 +1285,15 @@ impl BackendController {
                 });
             }
         }
+    }
+
+    fn force_speak_kural_and_meaning(&mut self) {
+        let target = kural_core::SpeakTarget::KuralAndMeaning;
+        self.active_content_key = Some(self.content_audio_key(target));
+        self.state.can_replay_tts = false;
+        self.state.playback_status = AudioPlaybackStatus::Loading;
+        self.publish_snapshot();
+        self.start_speak_target(target);
     }
 
     fn apply_filter(&mut self, filter: ActiveFilter) {
@@ -1219,7 +1319,7 @@ impl BackendController {
         self.pool = pool;
         self.state.active_filter = Some(filter);
         let first = self.pool[0];
-        self.open_kural_in_current_pool(first, 0);
+        self.open_kural_in_current_pool(first, 0, true);
     }
 
     fn clear_filter(&mut self) {
@@ -1246,7 +1346,7 @@ impl BackendController {
             self.state.pool_idx = idx;
             self.publish_snapshot();
         } else {
-            self.open_kural_in_current_pool(open_num, idx);
+            self.open_kural_in_current_pool(open_num, idx, true);
         }
     }
 
@@ -1276,6 +1376,7 @@ impl BackendController {
         let clf = self.age_classifier.clone();
         let age_ai_cfg = self.config.age_ai.clone();
         let max_duration_ms = self.config.audio.max_command_duration_ms;
+        let inference_timeout = Duration::from_millis(self.config.ai.inference_timeout_ms);
         let ai_worker = self.ai_worker.clone();
         let internal_tx = self.internal_tx.clone();
         let cancel = CancellationToken::new();
@@ -1298,6 +1399,7 @@ impl BackendController {
                             nav_epoch,
                             lang,
                             auto_triggered,
+                            age_timed_out: false,
                             outcome: AgeOutcome::Retry(RetryReason::TooShort),
                             transcript: None,
                             caps: None,
@@ -1315,6 +1417,7 @@ impl BackendController {
                             nav_epoch,
                             lang,
                             auto_triggered,
+                            age_timed_out: false,
                             outcome: AgeOutcome::Retry(RetryReason::HardwareUnavailable),
                             transcript: None,
                             caps: None,
@@ -1323,7 +1426,7 @@ impl BackendController {
                     return;
                 }
                 Err(err) => {
-                    eprintln!("kural-backend: voice age capture error: {err}");
+                    tracing::warn!(%err, "Voice age capture error");
                     if auto_triggered || task_cancel.is_cancelled() {
                         return;
                     }
@@ -1333,6 +1436,7 @@ impl BackendController {
                             nav_epoch,
                             lang,
                             auto_triggered,
+                            age_timed_out: false,
                             outcome: AgeOutcome::Retry(RetryReason::TooShort),
                             transcript: None,
                             caps: None,
@@ -1346,25 +1450,43 @@ impl BackendController {
                 return;
             }
 
-            let (outcome, samples_16k) = tokio::task::spawn_blocking(move || {
-                let mut outcome = clf.classify(&captured);
-                if matches!(outcome, AgeOutcome::Retry(RetryReason::TooShort))
-                    && captured.voiced_ms >= 400
-                    && captured.snr_db.is_finite()
-                    && captured.snr_db >= age_ai_cfg.min_snr_db
-                    && captured.clipping_ratio.is_finite()
-                    && captured.clipping_ratio < age_ai_cfg.max_clipping_ratio
-                    && captured.rms_level.is_finite()
-                    && captured.rms_level >= 0.005
-                {
-                    let mut relaxed_cfg = age_ai_cfg;
-                    relaxed_cfg.min_voiced_ms = 400;
-                    outcome = AgeClassifier::new(relaxed_cfg).classify(&captured);
-                }
-                (outcome, captured.samples_16k)
-            })
+            let mut age_timed_out = false;
+            let (outcome, samples_16k) = match tokio::time::timeout(
+                inference_timeout,
+                tokio::task::spawn_blocking(move || {
+                    let mut outcome = clf.classify(&captured);
+                    if matches!(outcome, AgeOutcome::Retry(RetryReason::TooShort))
+                        && captured.voiced_ms >= 400
+                        && captured.snr_db.is_finite()
+                        && captured.snr_db >= age_ai_cfg.min_snr_db
+                        && captured.clipping_ratio.is_finite()
+                        && captured.clipping_ratio < age_ai_cfg.max_clipping_ratio
+                        && captured.rms_level.is_finite()
+                        && captured.rms_level >= 0.005
+                    {
+                        let mut relaxed_cfg = age_ai_cfg;
+                        relaxed_cfg.min_voiced_ms = 400;
+                        outcome = AgeClassifier::new(relaxed_cfg).classify(&captured);
+                    }
+                    (outcome, captured.samples_16k)
+                }),
+            )
             .await
-            .unwrap_or_else(|_| (AgeOutcome::Retry(RetryReason::TooShort), Vec::new()));
+            {
+                Ok(Ok(pair)) => pair,
+                Ok(Err(join_err)) => {
+                    tracing::warn!(%join_err, "Voice age classifier task failed");
+                    (AgeOutcome::Retry(RetryReason::TooShort), Vec::new())
+                }
+                Err(_) => {
+                    age_timed_out = true;
+                    tracing::warn!(
+                        timeout_ms = inference_timeout.as_millis() as u64,
+                        "Voice age classifier timed out"
+                    );
+                    (AgeOutcome::Retry(RetryReason::TooShort), Vec::new())
+                }
+            };
 
             if task_cancel.is_cancelled() {
                 return;
@@ -1392,6 +1514,7 @@ impl BackendController {
                     nav_epoch,
                     lang,
                     auto_triggered,
+                    age_timed_out,
                     outcome,
                     transcript,
                     caps,
@@ -1410,8 +1533,7 @@ impl BackendController {
             return;
         }
         if let Some(c) = data.caps {
-            self.state.system_health.active_stt_loaded = c.active_stt_loaded;
-            self.state.system_health.active_tts_loaded = c.active_tts_loaded;
+            self.apply_speech_caps(c);
         }
         self.active_voice_task = None;
 
@@ -1423,6 +1545,13 @@ impl BackendController {
             }
             if !data.auto_triggered {
                 self.audio.play_earcon_nowait(EarconKind::RetryTone);
+                if data.age_timed_out {
+                    let msg = ai_inference_timeout_msg(self.config.ai.inference_timeout_ms);
+                    self.emit_event(UiTransientEvent::ErrorToast {
+                        message_ta: msg.ta,
+                        message_en: msg.en,
+                    });
+                }
             }
             self.emit_event(UiTransientEvent::AgeResult(data.outcome));
             return;
@@ -1518,7 +1647,10 @@ impl BackendController {
                             lang,
                             is_timeout: true,
                             captured_user_16k: None,
-                            transcript: Err(retry.en.to_string()),
+                            transcript: Err(BilingualMsg {
+                                ta: retry.ta.to_string(),
+                                en: retry.en.to_string(),
+                            }),
                             caps: None,
                         })
                         .await;
@@ -1533,7 +1665,10 @@ impl BackendController {
                             lang,
                             is_timeout: false,
                             captured_user_16k: None,
-                            transcript: Err(retry.en.to_string()),
+                            transcript: Err(BilingualMsg {
+                                ta: retry.ta.to_string(),
+                                en: retry.en.to_string(),
+                            }),
                             caps: None,
                         })
                         .await;
@@ -1547,7 +1682,10 @@ impl BackendController {
                             lang,
                             is_timeout: false,
                             captured_user_16k: None,
-                            transcript: Err(e.to_string()),
+                            transcript: Err(BilingualMsg {
+                                ta: format!("குரல் உணர்வில் பிழை: {e}"),
+                                en: format!("Voice recognition error: {e}"),
+                            }),
                             caps: None,
                         })
                         .await;
@@ -1559,17 +1697,17 @@ impl BackendController {
                 return;
             }
 
-            let samples_for_stt = if captured.speech_only_16k.is_empty() {
-                captured.samples_16k.clone()
-            } else {
+            // Pass continuous 16 kHz audio (including pre-roll, unvoiced consonants, and natural
+            // inter-word pauses) to STT; only fall back to speech_only_16k if samples_16k is empty.
+            let samples_for_stt = if captured.samples_16k.is_empty() {
                 captured.speech_only_16k
-            };
-            let captured_user_16k: Option<Arc<[f32]>> = if !captured.samples_16k.is_empty() {
-                Some(Arc::from(captured.samples_16k))
-            } else if !samples_for_stt.is_empty() {
-                Some(Arc::from(samples_for_stt.clone()))
             } else {
+                captured.samples_16k
+            };
+            let captured_user_16k: Option<Arc<[f32]>> = if samples_for_stt.is_empty() {
                 None
+            } else {
+                Some(Arc::from(samples_for_stt.as_slice()))
             };
 
             match ai_worker.transcribe(samples_for_stt, lang).await {
@@ -1586,6 +1724,19 @@ impl BackendController {
                         })
                         .await;
                 }
+                Err(AiError::Timeout { timeout_ms, .. }) => {
+                    let _ = internal_tx
+                        .send(InternalMsg::VoiceCmdTranscribed {
+                            session_id,
+                            nav_epoch,
+                            lang,
+                            is_timeout: false,
+                            captured_user_16k: None,
+                            transcript: Err(stt_timeout_msg(timeout_ms)),
+                            caps: None,
+                        })
+                        .await;
+                }
                 Err(err) => {
                     let _ = internal_tx
                         .send(InternalMsg::VoiceCmdTranscribed {
@@ -1594,7 +1745,10 @@ impl BackendController {
                             lang,
                             is_timeout: false,
                             captured_user_16k: None,
-                            transcript: Err(err.to_string()),
+                            transcript: Err(BilingualMsg {
+                                ta: format!("குரல் உணர்வில் பிழை: {err}"),
+                                en: format!("Voice recognition error: {err}"),
+                            }),
                             caps: None,
                         })
                         .await;
@@ -1613,8 +1767,22 @@ impl BackendController {
         session_id: u64,
         nav_epoch: u64,
     ) {
-        let valid_chars = raw.chars().filter(|c| c.is_alphanumeric()).count();
-        if valid_chars < 2 {
+        let trimmed = raw.trim();
+        let valid_chars = trimmed.chars().filter(|c| c.is_alphanumeric()).count();
+        let is_single_digit_kural = valid_chars == 1
+            && trimmed
+                .chars()
+                .filter(|c| c.is_alphanumeric())
+                .all(|c| matches!(c, '1'..='9' | '\u{0BE7}'..='\u{0BEF}'));
+        let is_modal_quiz_choice = matches!(
+            self.state.modal,
+            Some(ModalKind::KidsWordGame | ModalKind::YouthQuiz)
+        ) && parse_quiz_choice(trimmed).is_some();
+
+        if trimmed.is_empty()
+            || valid_chars == 0
+            || (valid_chars < 2 && !is_single_digit_kural && !is_modal_quiz_choice)
+        {
             let audio = self.audio.clone();
             tokio::spawn(async move {
                 let _ = audio.play_earcon(EarconKind::RetryTone).await;
@@ -1622,7 +1790,9 @@ impl BackendController {
             if self.state.voice_to_voice_loop {
                 self.consecutive_silence_timeouts =
                     self.consecutive_silence_timeouts.saturating_add(1);
-                if self.consecutive_silence_timeouts >= 2 {
+                if self.consecutive_silence_timeouts
+                    >= self.config.audio.voice_loop_max_silence_timeouts
+                {
                     self.disarm_voice_loop();
                     self.publish_snapshot();
                     self.emit_event(UiTransientEvent::InfoToast {
@@ -1634,10 +1804,9 @@ impl BackendController {
                 }
                 return;
             }
-            let copy = retry_copy(RetryReason::TooShort);
             self.emit_event(UiTransientEvent::InfoToast {
-                message_ta: copy.ta.to_string(),
-                message_en: copy.en.to_string(),
+                message_ta: VOICE_UNCLEAR_RETRY_NOTICE.ta.to_string(),
+                message_en: VOICE_UNCLEAR_RETRY_NOTICE.en.to_string(),
             });
             return;
         }
@@ -1653,7 +1822,7 @@ impl BackendController {
             muted: self.state.prefs.muted,
         };
 
-        match validate_voice_transcript(&raw, lang, ctx) {
+        match validate_voice_transcript(trimmed, lang, ctx) {
             Err(range_err) => {
                 let audio = self.audio.clone();
                 tokio::spawn(async move {
@@ -1668,6 +1837,7 @@ impl BackendController {
                 let starts_audio_or_silence = matches!(
                     outcome.cmd,
                     BackendCommand::StopAudio
+                        | BackendCommand::OpenKural(_)
                         | BackendCommand::SpeakCurrent(_)
                         | BackendCommand::SpeakCustomText { .. }
                         | BackendCommand::ReplayAudio
@@ -1698,6 +1868,22 @@ impl BackendController {
                             session_id,
                             nav_epoch,
                         );
+                    }
+                    BackendCommand::OpenKural(num) => {
+                        drop(captured_user_16k);
+                        if !(1..=1330).contains(&num) {
+                            self.emit_event(UiTransientEvent::ErrorToast {
+                                message_ta: VOICE_KURAL_RANGE_ERROR.ta.to_string(),
+                                message_en: VOICE_KURAL_RANGE_ERROR.en.to_string(),
+                            });
+                            return;
+                        }
+                        self.state.modal = None;
+                        self.bump_nav_interrupt();
+                        self.open_kural_with_pool_fixup(num, false);
+                        if self.state.current_kural.kural.number == num {
+                            self.force_speak_kural_and_meaning();
+                        }
                     }
                     other => {
                         drop(captured_user_16k);
@@ -1765,17 +1951,34 @@ impl BackendController {
         let age = active_age_for_screen(self.state.screen, self.state.prefs.default_age);
         let audio = self.audio.clone();
         let internal_tx = self.internal_tx.clone();
+        let inference_timeout = Duration::from_millis(self.config.ai.inference_timeout_ms);
         tokio::spawn(async move {
             if let (Some(tid), Some(pcm)) = (turn_id, captured_user_16k) {
                 let _ = audio.record_voice_turn_user(tid, pcm).await;
             }
-            let res = tokio::task::spawn_blocking(move || {
-                explainer
-                    .ask_question(&query, age, lang, seed_kural)
-                    .map_err(|e| e.to_string())
-            })
+            let res = match tokio::time::timeout(
+                inference_timeout,
+                tokio::task::spawn_blocking(move || {
+                    explainer.ask_question(&query, age, lang, seed_kural)
+                }),
+            )
             .await
-            .unwrap_or_else(|e| Err(e.to_string()));
+            {
+                Ok(Ok(Ok(ans))) => Ok(ans),
+                Ok(Ok(Err(e))) => Err(BilingualMsg {
+                    ta: format!("AI பதில் பிழை: {e}"),
+                    en: format!("AI answer error: {e}"),
+                }),
+                Ok(Err(join_err)) => Err(BilingualMsg {
+                    ta: format!("AI பதில் பிழை: {join_err}"),
+                    en: format!("AI answer error: {join_err}"),
+                }),
+                Err(_) => {
+                    let timeout_ms = inference_timeout.as_millis() as u64;
+                    tracing::warn!(timeout_ms, "Voice AI question inference timed out");
+                    Err(ai_inference_timeout_msg(timeout_ms))
+                }
+            };
             let _ = internal_tx
                 .send(InternalMsg::VoiceAiDone {
                     session_id,
@@ -1796,14 +1999,31 @@ impl BackendController {
         let age = active_age_for_screen(self.state.screen, self.state.prefs.default_age);
         let lang = self.state.prefs.lang;
         let internal_tx = self.internal_tx.clone();
+        let inference_timeout = Duration::from_millis(self.config.ai.inference_timeout_ms);
         tokio::spawn(async move {
-            let res = tokio::task::spawn_blocking(move || {
-                explainer
-                    .ask_question(&query, age, lang, seed_kural)
-                    .map_err(|e| e.to_string())
-            })
+            let res = match tokio::time::timeout(
+                inference_timeout,
+                tokio::task::spawn_blocking(move || {
+                    explainer.ask_question(&query, age, lang, seed_kural)
+                }),
+            )
             .await
-            .unwrap_or_else(|e| Err(e.to_string()));
+            {
+                Ok(Ok(Ok(ans))) => Ok(ans),
+                Ok(Ok(Err(e))) => Err(BilingualMsg {
+                    ta: format!("AI தேடல் பிழை: {e}"),
+                    en: format!("AI query failed: {e}"),
+                }),
+                Ok(Err(join_err)) => Err(BilingualMsg {
+                    ta: format!("AI தேடல் பிழை: {join_err}"),
+                    en: format!("AI query failed: {join_err}"),
+                }),
+                Err(_) => {
+                    let timeout_ms = inference_timeout.as_millis() as u64;
+                    tracing::warn!(timeout_ms, "Text AI question inference timed out");
+                    Err(ai_inference_timeout_msg(timeout_ms))
+                }
+            };
             let _ = internal_tx
                 .send(InternalMsg::TextAiDone {
                     ai_epoch,
@@ -2009,7 +2229,13 @@ impl BackendController {
             let (ok, error_msg) = match res {
                 Ok(()) => (true, None),
                 Err(AudioError::Cancelled) => (false, None),
-                Err(e) => (false, Some(e.to_string())),
+                Err(e) => (
+                    false,
+                    Some(BilingualMsg {
+                        ta: format!("ஒலி இயக்கப் பிழை: {e}"),
+                        en: format!("Audio playback error: {e}"),
+                    }),
+                ),
             };
             let _ = internal_tx
                 .send(InternalMsg::TtsFinished {
@@ -2100,7 +2326,13 @@ impl BackendController {
             let (ok, error_msg) = match res {
                 Ok(()) => (true, None),
                 Err(AudioError::Cancelled) => (false, None),
-                Err(e) => (false, Some(e.to_string())),
+                Err(e) => (
+                    false,
+                    Some(BilingualMsg {
+                        ta: format!("ஒலி இயக்கப் பிழை: {e}"),
+                        en: format!("Audio playback error: {e}"),
+                    }),
+                ),
             };
             let _ = internal_tx
                 .send(InternalMsg::TtsFinished {
@@ -2188,6 +2420,7 @@ impl BackendController {
             hash_tts_content(&keyed_content),
             lang_code(lang),
             persona_code,
+            self.active_tts_model_fingerprint,
         );
 
         let cancel = CancellationToken::new();
@@ -2247,8 +2480,25 @@ impl BackendController {
                     (Err(AudioError::Cancelled), _) | (_, Err(kural_ai::AiError::Cancelled)) => {
                         (false, false, None)
                     }
-                    (Err(e), _) => (false, false, Some(e.to_string())),
-                    (Ok(()), Err(e)) => (false, false, Some(e.to_string())),
+                    (Err(e), _) => (
+                        false,
+                        false,
+                        Some(BilingualMsg {
+                            ta: format!("ஒலி இயக்கப் பிழை: {e}"),
+                            en: format!("Audio playback error: {e}"),
+                        }),
+                    ),
+                    (Ok(()), Err(AiError::Timeout { timeout_ms, .. })) => {
+                        (false, false, Some(tts_timeout_msg(timeout_ms)))
+                    }
+                    (Ok(()), Err(e)) => (
+                        false,
+                        false,
+                        Some(BilingualMsg {
+                            ta: format!("ஒலி இயக்கப் பிழை: {e}"),
+                            en: format!("Audio playback error: {e}"),
+                        }),
+                    ),
                 }
             };
 
@@ -2447,6 +2697,7 @@ struct StartVoiceAutoRouteData {
     nav_epoch: u64,
     lang: kural_core::Language,
     auto_triggered: bool,
+    age_timed_out: bool,
     outcome: AgeOutcome,
     transcript: Option<String>,
     caps: Option<SpeechCapabilities>,
@@ -2926,7 +3177,10 @@ mod tests {
         std::thread::sleep(Duration::from_millis(80));
         let fallback_snap = handle.current_snapshot();
         assert_eq!(fallback_snap.screen, AppScreen::Kids);
-        assert_eq!(fallback_snap.playback_status, AudioPlaybackStatus::FallbackReady);
+        assert_eq!(
+            fallback_snap.playback_status,
+            AudioPlaybackStatus::FallbackReady
+        );
         assert!(!fallback_snap.can_replay_tts);
 
         // With auto_speak_text enabled, navigating to new content triggers Loading/Playing or clean FallbackReady.
@@ -2982,16 +3236,14 @@ mod tests {
         let corpus = KuralDb::open_with_models_dir(&cfg.paths.kural_db, &cfg.paths.models_dir)
             .expect("open corpus");
         let catalog = corpus.get_catalog().expect("catalog");
-        let user_state =
-            UserStateStore::open(&cfg.paths.user_state_db, cfg.audio.master_volume)
-                .expect("open user_state");
+        let user_state = UserStateStore::open(&cfg.paths.user_state_db, cfg.audio.master_volume)
+            .expect("open user_state");
         let (prefs, kids_progress, youth_progress, bookmarks) =
             user_state.load_snapshot_state(&corpus).expect("load state");
         let current_kural = corpus.get_kural_full(1).expect("kural 1");
         let pool = default_pool_or_fallback(&corpus, AppScreen::Start, 1).expect("pool");
         let (ai_worker, speech_caps) =
-            AiWorkerHandle::spawn(&cfg.paths.models_dir, prefs.lang, &cfg.ai)
-                .expect("ai worker");
+            AiWorkerHandle::spawn(&cfg.paths.models_dir, prefs.lang, &cfg.ai).expect("ai worker");
         let audio = AudioHandle::spawn(&cfg.audio, None, cfg.ai.tts_cache_max_bytes);
         let age_classifier = Arc::new(AgeClassifier::new(cfg.age_ai.clone()));
         let explainer = Arc::new(SemanticExplainer::new(corpus.clone(), cfg.ai.clone()));
@@ -3028,6 +3280,7 @@ mod tests {
                 vad_loaded: false,
                 active_stt_loaded: speech_caps.active_stt_loaded,
                 active_tts_loaded: speech_caps.active_tts_loaded,
+                degraded_reason: None,
             },
         });
         let (snapshot_tx, snapshot_rx) = watch::channel(initial_snapshot.clone());
@@ -3045,6 +3298,7 @@ mod tests {
             initial_snapshot,
             event_tx,
             pool,
+            speech_caps.tts_model_fingerprint,
         );
         (ctrl, snapshot_rx, event_rx, audio, ai_worker)
     }
@@ -3072,7 +3326,10 @@ mod tests {
             Some(AgeGroup::Kids)
         );
         assert_eq!(
-            resolve_start_voice_age_route(&make_detected_outcome(AgeGroup::Adult), Some("சிறுவர் பகுதி")),
+            resolve_start_voice_age_route(
+                &make_detected_outcome(AgeGroup::Adult),
+                Some("சிறுவர் பகுதி")
+            ),
             Some(AgeGroup::Kids)
         );
         assert_eq!(
@@ -3088,7 +3345,10 @@ mod tests {
             Some(AgeGroup::Youth)
         );
         assert_eq!(
-            resolve_start_voice_age_route(&make_detected_outcome(AgeGroup::Kids), Some("elder scholar")),
+            resolve_start_voice_age_route(
+                &make_detected_outcome(AgeGroup::Kids),
+                Some("elder scholar")
+            ),
             Some(AgeGroup::Adult)
         );
         assert_eq!(
@@ -3183,6 +3443,7 @@ mod tests {
                     nav_epoch: ctrl.nav_epoch,
                     lang: Language::English,
                     auto_triggered: true,
+                    age_timed_out: false,
                     outcome: make_detected_outcome(age),
                     transcript: Some("hello i want to learn thirukkural".to_string()),
                     caps: None,
@@ -3236,6 +3497,7 @@ mod tests {
                 nav_epoch: stale_epoch,
                 lang: Language::English,
                 auto_triggered: true,
+                age_timed_out: false,
                 outcome: make_detected_outcome(AgeGroup::Kids),
                 transcript: Some("Open Kural 42".to_string()),
                 caps: None,
@@ -3261,6 +3523,7 @@ mod tests {
                 nav_epoch: ctrl_cmd.nav_epoch,
                 lang: Language::English,
                 auto_triggered: true,
+                age_timed_out: false,
                 outcome: make_detected_outcome(AgeGroup::Youth),
                 transcript: Some("Open Kural 42".to_string()),
                 caps: None,
@@ -3275,6 +3538,7 @@ mod tests {
                 nav_epoch: ctrl_cmd.nav_epoch,
                 lang: Language::English,
                 auto_triggered: false,
+                age_timed_out: false,
                 outcome: make_detected_outcome(AgeGroup::Adult),
                 transcript: Some("Explain Kural 1".to_string()),
                 caps: None,
@@ -3294,6 +3558,7 @@ mod tests {
                 nav_epoch: ctrl_cmd.nav_epoch,
                 lang: Language::English,
                 auto_triggered: false,
+                age_timed_out: false,
                 outcome: make_detected_outcome(AgeGroup::Adult),
                 transcript: Some("Discuss".to_string()),
                 caps: None,
@@ -3385,5 +3650,341 @@ mod tests {
         assert!(!ta_ans.answer_ta.trim().is_empty());
 
         handle.shutdown();
+    }
+
+    #[test]
+    fn voice_garbage_guard_single_digit_kural_and_range_errors() {
+        let tmp = TempDir::new().expect("tempdir");
+        let cfg = test_config(&tmp);
+        let rt = tokio::runtime::Runtime::new().unwrap();
+
+        rt.block_on(async {
+            let (mut ctrl, _snap_rx, mut evt_rx, audio, ai_worker) = spawn_test_controller(&cfg);
+            ctrl.handle_command(BackendCommand::SelectAge(AgeGroup::Youth));
+            while evt_rx.try_recv().is_ok() {}
+
+            // Empty, punctuation-only, and 1-char noise must emit VOICE_UNCLEAR_RETRY_NOTICE
+            // and NEVER route into SemanticExplainer / AiChat.
+            for noise in ["", "   ", "...", "?!", "a", "அ", "0"] {
+                ctrl.route_recognized_voice(
+                    noise.to_string(),
+                    Language::Tamil,
+                    None,
+                    ctrl.voice_session_id,
+                    ctrl.nav_epoch,
+                );
+                let mut saw_unclear = false;
+                while let Ok(evt) = evt_rx.try_recv() {
+                    if let UiTransientEvent::InfoToast { message_en, .. } = &evt
+                        && message_en == VOICE_UNCLEAR_RETRY_NOTICE.en
+                    {
+                        saw_unclear = true;
+                    }
+                    assert!(
+                        !matches!(evt, UiTransientEvent::AiAnswerReady(_)),
+                        "noise {noise:?} must never reach AI Q&A"
+                    );
+                }
+                assert!(
+                    saw_unclear,
+                    "expected VOICE_UNCLEAR_RETRY_NOTICE for {noise:?}"
+                );
+                assert!(ctrl.state.modal.is_none());
+                assert!(ctrl.state.recent_voice_turns.is_empty());
+            }
+
+            // Out-of-range numbers emit VOICE_KURAL_RANGE_ERROR ErrorToast.
+            for oor in ["1500", "kural 0", "குறள் 2000"] {
+                ctrl.route_recognized_voice(
+                    oor.to_string(),
+                    Language::English,
+                    None,
+                    ctrl.voice_session_id,
+                    ctrl.nav_epoch,
+                );
+                let mut saw_range_err = false;
+                while let Ok(evt) = evt_rx.try_recv() {
+                    if let UiTransientEvent::ErrorToast { message_en, .. } = &evt
+                        && message_en == VOICE_KURAL_RANGE_ERROR.en
+                    {
+                        saw_range_err = true;
+                    }
+                }
+                assert!(
+                    saw_range_err,
+                    "expected VOICE_KURAL_RANGE_ERROR for {oor:?}"
+                );
+            }
+
+            // Single-digit Kural ("1" and Tamil "௪" = 4) opens Kural & forces KuralAndMeaning.
+            ctrl.route_recognized_voice(
+                "1".to_string(),
+                Language::English,
+                None,
+                ctrl.voice_session_id,
+                ctrl.nav_epoch,
+            );
+            assert_eq!(ctrl.state.current_kural.kural.number, 1);
+            assert_eq!(
+                ctrl.active_content_key.map(|k| k.target),
+                Some(kural_core::SpeakTarget::KuralAndMeaning)
+            );
+
+            ctrl.route_recognized_voice(
+                "௪".to_string(),
+                Language::Tamil,
+                None,
+                ctrl.voice_session_id,
+                ctrl.nav_epoch,
+            );
+            assert_eq!(ctrl.state.current_kural.kural.number, 4);
+            assert_eq!(
+                ctrl.active_content_key.map(|k| k.target),
+                Some(kural_core::SpeakTarget::KuralAndMeaning)
+            );
+
+            // Configured voice_loop_max_silence_timeouts disarms loop cleanly.
+            ctrl.config.audio.voice_loop_max_silence_timeouts = 3;
+            ctrl.state.voice_to_voice_loop = true;
+            for step in 1..=3 {
+                ctrl.route_recognized_voice(
+                    "...".to_string(),
+                    Language::English,
+                    None,
+                    ctrl.voice_session_id,
+                    ctrl.nav_epoch,
+                );
+                if step < 3 {
+                    assert!(ctrl.state.voice_to_voice_loop);
+                } else {
+                    assert!(!ctrl.state.voice_to_voice_loop);
+                }
+            }
+
+            ctrl.cancel_active_tts();
+            ctrl.cancel_active_capture();
+            ai_worker.shutdown();
+            audio.shutdown();
+        });
+    }
+
+    #[test]
+    fn voice_open_kural_forces_kural_and_meaning_across_screens_even_with_auto_speak_off() {
+        let tmp = TempDir::new().expect("tempdir");
+        let cfg = test_config(&tmp);
+        let rt = tokio::runtime::Runtime::new().unwrap();
+
+        rt.block_on(async {
+            let (mut ctrl, snap_rx, _evt_rx, audio, ai_worker) = spawn_test_controller(&cfg);
+            ctrl.handle_command(BackendCommand::SetAutoSpeakText(false));
+
+            for age in [AgeGroup::Kids, AgeGroup::Youth, AgeGroup::Adult] {
+                ctrl.handle_command(BackendCommand::SelectAge(age));
+                for lang in [Language::Tamil, Language::English] {
+                    ctrl.state.prefs.lang = lang;
+                    ctrl.state.modal = Some(ModalKind::Search {
+                        initial_tab: SearchTab::Query,
+                    });
+                    ctrl.route_recognized_voice(
+                        "read kural 42".to_string(),
+                        lang,
+                        None,
+                        ctrl.voice_session_id,
+                        ctrl.nav_epoch,
+                    );
+                    let snap = snap_rx.borrow().clone();
+                    assert_eq!(snap.current_kural.kural.number, 42);
+                    assert!(snap.modal.is_none());
+                    assert_eq!(
+                        ctrl.active_content_key,
+                        Some(ContentAudioKey {
+                            screen: AppScreen::from(age),
+                            kural_number: 42,
+                            lang,
+                            effective_scholar: snap.effective_scholar,
+                            target: kural_core::SpeakTarget::KuralAndMeaning,
+                        })
+                    );
+                    assert_eq!(snap.playback_status, AudioPlaybackStatus::Loading);
+                }
+            }
+
+            ctrl.cancel_active_tts();
+            ctrl.cancel_active_capture();
+            ai_worker.shutdown();
+            audio.shutdown();
+        });
+    }
+
+    #[test]
+    fn degraded_reason_and_startup_info_toast_emit_once_when_models_missing() {
+        let tmp = TempDir::new().expect("tempdir");
+        let cfg = test_config(&tmp);
+        let handle = BackendHandle::start(cfg).expect("BackendHandle::start");
+        let mut events = handle.subscribe_events();
+        let snap = handle.current_snapshot();
+        assert!(snap.system_health.degraded_reason.is_some());
+
+        let mut startup_toasts = 0usize;
+        while let Ok(evt) = events.try_recv() {
+            if let UiTransientEvent::InfoToast { message_en, .. } = evt
+                && message_en.starts_with("Running in fallback mode")
+            {
+                startup_toasts += 1;
+            }
+        }
+        assert_eq!(startup_toasts, 1);
+        handle.shutdown();
+    }
+
+    #[test]
+    fn ai_timeouts_emit_bilingual_error_toast_deterministically() {
+        let tmp = TempDir::new().expect("tempdir");
+        let cfg = test_config(&tmp);
+        let rt = tokio::runtime::Runtime::new().unwrap();
+
+        rt.block_on(async {
+            let (mut ctrl, snap_rx, mut evt_rx, audio, ai_worker) = spawn_test_controller(&cfg);
+            while evt_rx.try_recv().is_ok() {}
+
+            // 1. Elapsed tokio::time::timeout -> TextAiDone -> ErrorToast (bilingual)
+            let timed_out_text: Result<GroundedAnswer, BilingualMsg> =
+                match tokio::time::timeout(Duration::from_millis(1), std::future::pending::<()>())
+                    .await
+                {
+                    Ok(()) => unreachable!("pending future cannot complete"),
+                    Err(_) => Err(ai_inference_timeout_msg(5000)),
+                };
+            ctrl.ai_epoch = ctrl.ai_epoch.wrapping_add(1);
+            let cur_ai_epoch = ctrl.ai_epoch;
+            ctrl.handle_internal(InternalMsg::TextAiDone {
+                ai_epoch: cur_ai_epoch,
+                result: timed_out_text,
+            });
+            let text_toast = evt_rx.try_recv().expect("TextAiDone ErrorToast");
+            match text_toast {
+                UiTransientEvent::ErrorToast {
+                    message_ta,
+                    message_en,
+                } => {
+                    assert!(!message_ta.trim().is_empty());
+                    assert!(!message_en.trim().is_empty());
+                    assert!(message_ta.contains("5000 ms"));
+                    assert!(message_en.contains("5000 ms"));
+                }
+                other => panic!("expected ErrorToast for TextAiDone, got {other:?}"),
+            }
+
+            // 2. Elapsed tokio::time::timeout -> VoiceAiDone -> disarms voice loop + ErrorToast
+            ctrl.state.voice_to_voice_loop = true;
+            let timed_out_voice_ai: Result<GroundedAnswer, BilingualMsg> =
+                match tokio::time::timeout(Duration::from_millis(1), std::future::pending::<()>())
+                    .await
+                {
+                    Ok(()) => unreachable!("pending future cannot complete"),
+                    Err(_) => Err(ai_inference_timeout_msg(4321)),
+                };
+            ctrl.handle_internal(InternalMsg::VoiceAiDone {
+                session_id: ctrl.voice_session_id,
+                nav_epoch: ctrl.nav_epoch,
+                turn_id: None,
+                seed_kural: Some(1),
+                lang: Language::Tamil,
+                result: timed_out_voice_ai,
+            });
+            assert!(!snap_rx.borrow().voice_to_voice_loop);
+            let voice_ai_toast = evt_rx.try_recv().expect("VoiceAiDone ErrorToast");
+            match voice_ai_toast {
+                UiTransientEvent::ErrorToast {
+                    message_ta,
+                    message_en,
+                } => {
+                    assert!(!message_ta.trim().is_empty());
+                    assert!(!message_en.trim().is_empty());
+                    assert!(message_ta.contains("4321 ms"));
+                    assert!(message_en.contains("4321 ms"));
+                }
+                other => panic!("expected ErrorToast for VoiceAiDone, got {other:?}"),
+            }
+
+            // 3. AiError::Timeout (STT) -> VoiceCmdTranscribed -> disarms loop + ErrorToast
+            ctrl.state.voice_to_voice_loop = true;
+            let stt_err = AiError::Timeout {
+                operation: "stt_transcribe",
+                timeout_ms: 8000,
+            };
+            let stt_msg = match stt_err {
+                AiError::Timeout { timeout_ms, .. } => stt_timeout_msg(timeout_ms),
+                other => unreachable!("unexpected error: {other}"),
+            };
+            ctrl.handle_internal(InternalMsg::VoiceCmdTranscribed {
+                session_id: ctrl.voice_session_id,
+                nav_epoch: ctrl.nav_epoch,
+                lang: Language::English,
+                is_timeout: false,
+                captured_user_16k: None,
+                transcript: Err(stt_msg),
+                caps: None,
+            });
+            assert!(!snap_rx.borrow().voice_to_voice_loop);
+            let stt_toast = evt_rx.try_recv().expect("VoiceCmdTranscribed ErrorToast");
+            match stt_toast {
+                UiTransientEvent::ErrorToast {
+                    message_ta,
+                    message_en,
+                } => {
+                    assert!(!message_ta.trim().is_empty());
+                    assert!(!message_en.trim().is_empty());
+                    assert!(message_ta.contains("8000 ms"));
+                    assert!(message_en.contains("8000 ms"));
+                }
+                other => panic!("expected ErrorToast for VoiceCmdTranscribed, got {other:?}"),
+            }
+
+            // 4. AiError::Timeout (TTS) -> TtsFinished -> resets playback + ErrorToast
+            ctrl.handle_command(BackendCommand::SelectAge(AgeGroup::Youth));
+            ctrl.state.playback_status = AudioPlaybackStatus::Loading;
+            let tts_err = AiError::Timeout {
+                operation: "tts_synthesize",
+                timeout_ms: 15000,
+            };
+            let tts_msg = match tts_err {
+                AiError::Timeout { timeout_ms, .. } => tts_timeout_msg(timeout_ms),
+                other => unreachable!("unexpected error: {other}"),
+            };
+            ctrl.handle_internal(InternalMsg::TtsFinished {
+                tts_epoch: ctrl.tts_epoch,
+                nav_epoch: ctrl.nav_epoch,
+                target: kural_core::SpeakTarget::KuralAndMeaning,
+                kural_number: ctrl.state.current_kural.kural.number,
+                voice_turn_id: None,
+                has_saved_audio: false,
+                voice_loop_rearm: false,
+                ok: false,
+                error_msg: Some(tts_msg),
+            });
+            assert_eq!(
+                snap_rx.borrow().playback_status,
+                AudioPlaybackStatus::FallbackReady
+            );
+            let tts_toast = evt_rx.try_recv().expect("TtsFinished ErrorToast");
+            match tts_toast {
+                UiTransientEvent::ErrorToast {
+                    message_ta,
+                    message_en,
+                } => {
+                    assert!(!message_ta.trim().is_empty());
+                    assert!(!message_en.trim().is_empty());
+                    assert!(message_ta.contains("15000 ms"));
+                    assert!(message_en.contains("15000 ms"));
+                }
+                other => panic!("expected ErrorToast for TtsFinished, got {other:?}"),
+            }
+
+            ctrl.cancel_active_tts();
+            ctrl.cancel_active_capture();
+            ai_worker.shutdown();
+            audio.shutdown();
+        });
     }
 }

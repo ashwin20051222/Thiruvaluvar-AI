@@ -24,7 +24,7 @@ use tokio::sync::{mpsc, oneshot, watch};
 
 const ACTOR_TICK_MS: u64 = 16;
 const COMMAND_QUEUE_CAP: usize = 64;
-const TRAILING_SILENCE_MS: u32 = 850;
+const TRAILING_SILENCE_MS: u32 = 1450;
 const DEFAULT_TTS_CACHE_MAX_ENTRIES: usize = 16;
 const WATCHDOG_TIMEOUT_MS: u64 = 500;
 const REOPEN_BACKOFF_MS: [u64; 3] = [500, 1000, 2000];
@@ -466,10 +466,10 @@ impl Drop for AudioHandleInner {
     fn drop(&mut self) {
         let _ = self.cmd_tx.try_send(ActorCommand::Shutdown);
         self.actor_thread.unpark();
-        if let Ok(mut guard) = self.thread.lock() {
-            if let Some(handle) = guard.take() {
-                let _ = handle.join();
-            }
+        if let Ok(mut guard) = self.thread.lock()
+            && let Some(handle) = guard.take()
+        {
+            let _ = handle.join();
         }
     }
 }
@@ -788,10 +788,10 @@ impl AudioHandle {
     pub fn shutdown(&self) {
         let _ = self.inner.cmd_tx.try_send(ActorCommand::Shutdown);
         self.inner.actor_thread.unpark();
-        if let Ok(mut guard) = self.inner.thread.lock() {
-            if let Some(handle) = guard.take() {
-                let _ = handle.join();
-            }
+        if let Ok(mut guard) = self.inner.thread.lock()
+            && let Some(handle) = guard.take()
+        {
+            let _ = handle.join();
         }
     }
 
@@ -883,14 +883,7 @@ impl SimulatedOutputHandle {
         st.play_until.is_none_or(|until| now >= until)
     }
 
-    fn append(
-        &self,
-        samples: Vec<f32>,
-        rate_hz: u32,
-        channels: u16,
-        speed: f32,
-        now: Instant,
-    ) {
+    fn append(&self, samples: Vec<f32>, rate_hz: u32, channels: u16, speed: f32, now: Instant) {
         let mut st = self.state.lock().expect("sim lock");
         let ch = usize::from(channels.max(1));
         let frames = samples.len() / ch;
@@ -946,7 +939,11 @@ impl SimulatedOutputHandle {
     }
 
     fn appended_channels(&self) -> Vec<u16> {
-        self.state.lock().expect("sim lock").appended_channels.clone()
+        self.state
+            .lock()
+            .expect("sim lock")
+            .appended_channels
+            .clone()
     }
 }
 
@@ -1956,10 +1953,10 @@ impl AudioActor {
         } else if matches!(self.echo_guard.phase(), EchoGuardPhase::ListenEarconPlaying) {
             self.output.stop_and_clear();
         }
-        if self.echo_guard.begin_playback() {
-            if let Some(job) = self.active_capture.take() {
-                let _ = job.reply.send(Err(AudioError::Cancelled));
-            }
+        if self.echo_guard.begin_playback()
+            && let Some(job) = self.active_capture.take()
+        {
+            let _ = job.reply.send(Err(AudioError::Cancelled));
         }
         self.publish_rms(0.0);
     }
@@ -2025,10 +2022,10 @@ impl AudioActor {
     }
 
     fn process_capture_stream(&mut self) {
-        if let Some(job) = self.active_capture.as_ref() {
-            if job.reply.is_closed() {
-                self.handle_cancel_capture();
-            }
+        if let Some(job) = self.active_capture.as_ref()
+            && job.reply.is_closed()
+        {
+            self.handle_cancel_capture();
         }
 
         let Some(input) = self.input.as_mut() else {
@@ -2192,7 +2189,8 @@ impl AudioActor {
         let (dst_rate, dst_channels) = self.output.format();
 
         if let Some(job) = self.active_playback.as_mut() {
-            let mut rate_changed_flush: Option<(u32, Vec<f32>, Option<OutputPcmConditioner>)> = None;
+            let mut rate_changed_flush: Option<(u32, Vec<f32>, Option<OutputPcmConditioner>)> =
+                None;
 
             if let Some(rx) = job.pcm_rx.as_mut() {
                 loop {
@@ -2220,9 +2218,8 @@ impl AudioActor {
                                     job.sample_rate_hz = Some(chunk.sample_rate_hz);
                                 }
                                 job.cache_accum.extend_from_slice(&chunk.samples);
-                                job.prebuffer_mono.extend(
-                                    chunk.samples.iter().map(|&s| f32::from(s) / 32_768.0),
-                                );
+                                job.prebuffer_mono
+                                    .extend(chunk.samples.iter().map(|&s| f32::from(s) / 32_768.0));
                             }
                             if chunk.is_final {
                                 job.stream_finished = true;
@@ -2240,34 +2237,35 @@ impl AudioActor {
                 }
             }
 
-            if fatal_err.is_none() {
-                if let Some((prev_rate, prev_mono, prev_cond)) = rate_changed_flush {
-                    match flush_stream_segment(
-                        prev_mono,
-                        prev_rate,
-                        dst_rate,
-                        dst_channels,
-                        prev_cond,
-                        true,
-                    ) {
-                        Ok((out, _)) => {
-                            if !out.is_empty() {
-                                if let Err(err) = self.output.append_conditioned_f32(out, now) {
-                                    fatal_err = Some((err, false));
-                                } else {
-                                    job.played_any_audio = true;
-                                }
+            if fatal_err.is_none()
+                && let Some((prev_rate, prev_mono, prev_cond)) = rate_changed_flush
+            {
+                match flush_stream_segment(
+                    prev_mono,
+                    prev_rate,
+                    dst_rate,
+                    dst_channels,
+                    prev_cond,
+                    true,
+                ) {
+                    Ok((out, _)) => {
+                        if !out.is_empty() {
+                            if let Err(err) = self.output.append_conditioned_f32(out, now) {
+                                fatal_err = Some((err, false));
+                            } else {
+                                job.played_any_audio = true;
                             }
                         }
-                        Err(err) => fatal_err = Some((err, true)),
                     }
+                    Err(err) => fatal_err = Some((err, true)),
                 }
             }
 
             if fatal_err.is_none() {
                 let src_rate = job.sample_rate_hz;
-                let prebuffer_threshold = src_rate
-                    .map_or(0, |r| ((r as usize) * (STREAM_PREBUFFER_MS as usize)) / 1000);
+                let prebuffer_threshold = src_rate.map_or(0, |r| {
+                    ((r as usize) * (STREAM_PREBUFFER_MS as usize)) / 1000
+                });
                 let ready_to_stream = job.stream_finished
                     || job.prebuffer_started
                     || (src_rate.is_some() && job.prebuffer_mono.len() >= prebuffer_threshold);
@@ -2575,11 +2573,8 @@ fn open_hardware_output(pattern: &str, master_volume: f32) -> OutputSink {
     } else {
         match find_output_device(pattern) {
             Some(dev) => open_sink_with_device(dev, err_cb.clone()),
-            None => rodio::DeviceSinkBuilder::from_default_device().and_then(|builder| {
-                builder
-                    .with_error_callback(err_cb)
-                    .open_sink_or_fallback()
-            }),
+            None => rodio::DeviceSinkBuilder::from_default_device()
+                .and_then(|builder| builder.with_error_callback(err_cb).open_sink_or_fallback()),
         }
     };
 
@@ -3284,6 +3279,201 @@ mod tests {
         let last_meta = *sim_out.appended_meta().last().unwrap();
         // 200 ms @ 16 kHz -> 200 ms @ 48 kHz stereo = 9600 * 2 = 19_200 samples
         assert_eq!(last_meta, (19_200, 48_000, 1.0));
+
+        handle.shutdown();
+    }
+
+    #[test]
+    fn echo_guard_begin_capture_interrupts_playing_tts_and_allows_cooldown() {
+        let mut guard = EchoGuardState::new(220, 250, false);
+        let t0 = Instant::now();
+
+        // PlayingTts -> begin_capture aborts playback and plays ListenStart
+        guard.begin_playback();
+        assert_eq!(guard.phase(), EchoGuardPhase::PlayingTts);
+        let action = guard
+            .begin_capture(t0, true)
+            .expect("begin_capture during PlayingTts must succeed");
+        assert_eq!(
+            action,
+            CaptureStartAction::PlayListenStart {
+                abort_existing_playback: true
+            }
+        );
+        assert_eq!(guard.phase(), EchoGuardPhase::ListenEarconPlaying);
+        assert_eq!(
+            guard.advance(t0 + Duration::from_millis(50), true),
+            GuardTransition::None
+        );
+        assert_eq!(
+            guard.advance(t0 + Duration::from_millis(270), true),
+            GuardTransition::EnteredListening
+        );
+        assert_eq!(guard.audio_state(), AudioState::Listening);
+
+        // Cooldown -> begin_capture succeeds without dropping or stalling
+        guard.begin_playback();
+        assert_eq!(
+            guard.stop_playback(t0 + Duration::from_millis(300)),
+            StopPlaybackAction::AbortPlayback
+        );
+        assert!(matches!(guard.phase(), EchoGuardPhase::Cooldown { .. }));
+
+        let cooldown_action = guard
+            .begin_capture(t0 + Duration::from_millis(310), true)
+            .expect("begin_capture during Cooldown must succeed");
+        assert_eq!(
+            cooldown_action,
+            CaptureStartAction::PlayListenStart {
+                abort_existing_playback: false
+            }
+        );
+        // Earcon finishes at +350 ms; guard floor is max(350 + 220, 300 + 250) = 570 ms.
+        assert_eq!(
+            guard.advance(t0 + Duration::from_millis(350), true),
+            GuardTransition::None
+        );
+        assert_eq!(
+            guard.advance(t0 + Duration::from_millis(570), true),
+            GuardTransition::EnteredListening
+        );
+        assert_eq!(guard.audio_state(), AudioState::Listening);
+
+        // Cooldown without output device also reaches Listening once floor elapses
+        guard.begin_playback();
+        guard.stop_playback(t0 + Duration::from_millis(600));
+        let no_out_action = guard
+            .begin_capture(t0 + Duration::from_millis(610), false)
+            .expect("begin_capture during Cooldown without output must succeed");
+        assert_eq!(
+            no_out_action,
+            CaptureStartAction::EnterListeningImmediately {
+                abort_existing_playback: false
+            }
+        );
+        assert_eq!(
+            guard.advance(t0 + Duration::from_millis(849), true),
+            GuardTransition::None
+        );
+        assert_eq!(
+            guard.advance(t0 + Duration::from_millis(850), true),
+            GuardTransition::EnteredListening
+        );
+        assert_eq!(guard.audio_state(), AudioState::Listening);
+    }
+
+    #[tokio::test]
+    async fn actor_start_capture_interrupts_playing_tts_and_succeeds_during_cooldown() {
+        let cfg = AudioConfig {
+            echo_cooldown_ms: 80,
+            earcon_guard_ms: 20,
+            listening_timeout_ms: 200,
+            ..AudioConfig::default()
+        };
+
+        let sim_out = SimulatedOutputHandle::new();
+        let rb = HeapRb::<f32>::new(32_000);
+        let (_prod, cons) = rb.split();
+        let handle = AudioHandle::spawn_with_backend(
+            &cfg,
+            Some(Box::new(AlwaysSilenceVad)),
+            1024 * 1024,
+            BackendMode::Simulated {
+                input_cons: Some(cons),
+                input_rate_hz: 16_000,
+                input_channels: 1,
+                output: Some(sim_out.clone()),
+            },
+        );
+        let state_rx = handle.subscribe_state();
+
+        // Start long TTS stream
+        let (pcm_tx, pcm_rx) = mpsc::channel(4);
+        let play_handle = handle.clone();
+        let play_task = tokio::spawn(async move {
+            play_handle
+                .play_pcm_stream(pcm_rx, Some("interrupt-tts".to_string()))
+                .await
+        });
+        pcm_tx
+            .send(PcmChunk {
+                samples: vec![4000_i16; 32_000],
+                sample_rate_hz: 16_000,
+                is_final: false,
+            })
+            .await
+            .unwrap();
+        for _ in 0..20 {
+            if *state_rx.borrow() == AudioState::PlayingTts {
+                break;
+            }
+            tokio::time::sleep(Duration::from_millis(5)).await;
+        }
+        assert_eq!(*state_rx.borrow(), AudioState::PlayingTts);
+
+        // Tapping mic during PlayingTts must abort TTS playback immediately and enter Listening.
+        let cap_handle = handle.clone();
+        let cap_task = tokio::spawn(async move {
+            cap_handle
+                .start_capture(CaptureMode::VadCommand {
+                    max_duration_ms: 2000,
+                })
+                .await
+        });
+
+        assert_eq!(play_task.await.unwrap(), Err(AudioError::Cancelled));
+        assert!(sim_out.cleared_count() >= 1);
+
+        for _ in 0..40 {
+            if *state_rx.borrow() == AudioState::Listening {
+                break;
+            }
+            tokio::time::sleep(Duration::from_millis(10)).await;
+        }
+        assert_eq!(*state_rx.borrow(), AudioState::Listening);
+        handle.cancel_capture().await.unwrap();
+        assert_eq!(cap_task.await.unwrap(), Err(AudioError::Cancelled));
+
+        // Now start playback, stop into Cooldown, and immediately start_capture during Cooldown.
+        let (pcm_tx2, pcm_rx2) = mpsc::channel(4);
+        let play_handle2 = handle.clone();
+        let play_task2 =
+            tokio::spawn(async move { play_handle2.play_pcm_stream(pcm_rx2, None).await });
+        pcm_tx2
+            .send(PcmChunk {
+                samples: vec![4000_i16; 32_000],
+                sample_rate_hz: 16_000,
+                is_final: false,
+            })
+            .await
+            .unwrap();
+        for _ in 0..20 {
+            if *state_rx.borrow() == AudioState::PlayingTts {
+                break;
+            }
+            tokio::time::sleep(Duration::from_millis(5)).await;
+        }
+        handle.stop_playback().await.unwrap();
+        assert_eq!(play_task2.await.unwrap(), Err(AudioError::Cancelled));
+        assert_eq!(*state_rx.borrow(), AudioState::Cooldown);
+
+        let cap2_handle = handle.clone();
+        let cap2_task = tokio::spawn(async move {
+            cap2_handle
+                .start_capture(CaptureMode::VadCommand {
+                    max_duration_ms: 2000,
+                })
+                .await
+        });
+        for _ in 0..40 {
+            if *state_rx.borrow() == AudioState::Listening {
+                break;
+            }
+            tokio::time::sleep(Duration::from_millis(10)).await;
+        }
+        assert_eq!(*state_rx.borrow(), AudioState::Listening);
+        handle.cancel_capture().await.unwrap();
+        assert_eq!(cap2_task.await.unwrap(), Err(AudioError::Cancelled));
 
         handle.shutdown();
     }

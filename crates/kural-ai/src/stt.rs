@@ -4,7 +4,6 @@ use sherpa_onnx::{
     OfflineNemoEncDecCtcModelConfig, OfflineRecognizer, OfflineRecognizerConfig, OnlineRecognizer,
     OnlineRecognizerConfig, OnlineTransducerModelConfig,
 };
-use std::borrow::Cow;
 use std::ffi::CString;
 use std::fmt;
 use std::fs;
@@ -12,8 +11,8 @@ use std::path::{Path, PathBuf};
 
 const STT_SAMPLE_RATE_HZ: i32 = 16_000;
 const STT_FEATURE_DIM: i32 = 80;
-/// Trailing silence appended to offline STT buffers (300 ms at 16 kHz) so final Tamil syllables are not clipped.
-pub(crate) const OFFLINE_STT_TRAILING_SILENCE_SAMPLES: usize = 4_800;
+/// Trailing silence appended to STT buffers (350 ms at 16 kHz) so final syllables are not clipped.
+pub(crate) const OFFLINE_STT_TRAILING_SILENCE_SAMPLES: usize = 5_600;
 
 /// Discovered ONNX transducer artifacts for streaming English ASR.
 #[derive(Debug, Clone, PartialEq, Eq)]
@@ -53,21 +52,12 @@ impl SttEngine {
             return Ok(String::new());
         }
 
-        let clean: Cow<'_, [f32]> = if samples_16k.iter().all(|s| s.is_finite()) {
-            Cow::Borrowed(samples_16k)
-        } else {
-            Cow::Owned(
-                samples_16k
-                    .iter()
-                    .map(|&s| if s.is_finite() { s } else { 0.0 })
-                    .collect(),
-            )
-        };
+        let padded = prepare_offline_stt_samples(samples_16k);
 
         let raw_text = match self {
             Self::English(rec) => {
                 let stream = rec.create_stream();
-                stream.accept_waveform(STT_SAMPLE_RATE_HZ, &clean);
+                stream.accept_waveform(STT_SAMPLE_RATE_HZ, &padded);
                 stream.input_finished();
                 while rec.is_ready(&stream) {
                     rec.decode(&stream);
@@ -75,7 +65,6 @@ impl SttEngine {
                 rec.get_result(&stream).map(|r| r.text).unwrap_or_default()
             }
             Self::Tamil(rec) => {
-                let padded = prepare_offline_stt_samples(&clean);
                 let stream = rec.create_stream();
                 stream.accept_waveform(STT_SAMPLE_RATE_HZ, &padded);
                 rec.decode(&stream);
@@ -87,7 +76,7 @@ impl SttEngine {
     }
 }
 
-/// Sanitize non-finite samples and append `300 ms` (`4_800` samples) of zero-padding for offline STT.
+/// Sanitize non-finite samples and append `350 ms` (`5_600` samples) of zero-padding for STT decoding.
 pub(crate) fn prepare_offline_stt_samples(samples_16k: &[f32]) -> Vec<f32> {
     let mut padded = Vec::with_capacity(samples_16k.len() + OFFLINE_STT_TRAILING_SILENCE_SAMPLES);
     padded.extend(
@@ -95,25 +84,28 @@ pub(crate) fn prepare_offline_stt_samples(samples_16k: &[f32]) -> Vec<f32> {
             .iter()
             .map(|&s| if s.is_finite() { s } else { 0.0 }),
     );
-    padded.resize(samples_16k.len() + OFFLINE_STT_TRAILING_SILENCE_SAMPLES, 0.0);
+    padded.resize(
+        samples_16k.len() + OFFLINE_STT_TRAILING_SILENCE_SAMPLES,
+        0.0,
+    );
     padded
 }
 
-/// Discover streaming English Zipformer transducer files under `models_dir/stt_en/`.
+/// Discover streaming English Zipformer transducer files under `models_dir/stt_en/` or `models_dir/stt/en/`.
 #[must_use]
 pub fn discover_en_stt_files(models_dir: &Path) -> Option<EnSttFiles> {
-    let base = models_dir.join("stt_en");
-    candidate_dirs(&base)
+    [models_dir.join("stt_en"), models_dir.join("stt").join("en")]
         .into_iter()
+        .flat_map(|base| candidate_dirs(&base))
         .find_map(|dir| find_en_stt_in_dir(&dir))
 }
 
-/// Discover offline Tamil NeMo CTC files under `models_dir/stt_ta/`.
+/// Discover offline Tamil NeMo CTC files under `models_dir/stt_ta/` or `models_dir/stt/ta/`.
 #[must_use]
 pub fn discover_ta_stt_files(models_dir: &Path) -> Option<TaSttFiles> {
-    let base = models_dir.join("stt_ta");
-    candidate_dirs(&base)
+    [models_dir.join("stt_ta"), models_dir.join("stt").join("ta")]
         .into_iter()
+        .flat_map(|base| candidate_dirs(&base))
         .find_map(|dir| find_ta_stt_in_dir(&dir))
 }
 
@@ -128,6 +120,11 @@ pub(crate) fn load_stt_for_language(
     match lang {
         Language::English => {
             let Some(files) = discover_en_stt_files(models_dir) else {
+                tracing::warn!(
+                    %lang,
+                    models_dir = %models_dir.display(),
+                    "English STT model absent; offline voice transcription unavailable for language"
+                );
                 return Ok(None);
             };
 
@@ -144,9 +141,17 @@ pub(crate) fn load_stt_for_language(
             cfg.model_config.provider = Some("cpu".into());
             cfg.model_config.debug = false;
             cfg.decoding_method = Some("greedy_search".into());
-            cfg.enable_endpoint = true;
+            cfg.enable_endpoint = false;
 
             let rec = OnlineRecognizer::create(&cfg).ok_or_else(|| {
+                tracing::error!(
+                    %lang,
+                    encoder = %files.encoder.display(),
+                    decoder = %files.decoder.display(),
+                    joiner = %files.joiner.display(),
+                    tokens = %files.tokens.display(),
+                    "English Zipformer STT model failed to initialize"
+                );
                 AiError::ModelLoad(format!(
                     "failed to load English Zipformer STT from '{}'",
                     files.encoder.display()
@@ -156,6 +161,11 @@ pub(crate) fn load_stt_for_language(
         }
         Language::Tamil => {
             let Some(files) = discover_ta_stt_files(models_dir) else {
+                tracing::warn!(
+                    %lang,
+                    models_dir = %models_dir.display(),
+                    "Tamil STT model absent; offline voice transcription unavailable for language"
+                );
                 return Ok(None);
             };
 
@@ -172,6 +182,12 @@ pub(crate) fn load_stt_for_language(
             cfg.decoding_method = Some("greedy_search".into());
 
             let rec = OfflineRecognizer::create(&cfg).ok_or_else(|| {
+                tracing::error!(
+                    %lang,
+                    model = %files.model.display(),
+                    tokens = %files.tokens.display(),
+                    "Tamil NeMo CTC STT model failed to initialize"
+                );
                 AiError::ModelLoad(format!(
                     "failed to load Tamil NeMo CTC STT from '{}'",
                     files.model.display()
@@ -393,14 +409,42 @@ mod tests {
     }
 
     #[test]
-    fn offline_stt_appends_300ms_trailing_silence_and_sanitizes_non_finite() {
+    fn offline_stt_appends_350ms_trailing_silence_and_sanitizes_non_finite() {
         let input = [0.25_f32, f32::NAN, -0.5, f32::INFINITY];
         let padded = prepare_offline_stt_samples(&input);
-        assert_eq!(padded.len(), input.len() + 4_800);
+        assert_eq!(OFFLINE_STT_TRAILING_SILENCE_SAMPLES, 5_600);
+        assert_eq!(padded.len(), input.len() + 5_600);
         assert_eq!(padded[0], 0.25);
         assert_eq!(padded[1], 0.0);
         assert_eq!(padded[2], -0.5);
         assert_eq!(padded[3], 0.0);
         assert!(padded[4..].iter().all(|&s| s == 0.0));
+    }
+
+    #[test]
+    fn discovers_en_and_ta_stt_files_under_nested_stt_lang_layout() {
+        let dir = TempDir::new().expect("tempdir");
+
+        let en_nested = dir.path().join("stt/en/zipformer");
+        fs::create_dir_all(&en_nested).expect("mkdir en");
+        fs::write(en_nested.join("tokens.txt"), b"<blk> 0\n").expect("en tokens");
+        fs::write(en_nested.join("encoder.int8.onnx"), b"enc").expect("en enc");
+        fs::write(en_nested.join("decoder.int8.onnx"), b"dec").expect("en dec");
+        fs::write(en_nested.join("joiner.int8.onnx"), b"join").expect("en join");
+
+        let en_found = discover_en_stt_files(dir.path()).expect("en under stt/en");
+        assert_eq!(en_found.encoder, en_nested.join("encoder.int8.onnx"));
+        assert_eq!(en_found.decoder, en_nested.join("decoder.int8.onnx"));
+        assert_eq!(en_found.joiner, en_nested.join("joiner.int8.onnx"));
+        assert_eq!(en_found.tokens, en_nested.join("tokens.txt"));
+
+        let ta_nested = dir.path().join("stt/ta/indicconformer");
+        fs::create_dir_all(&ta_nested).expect("mkdir ta");
+        fs::write(ta_nested.join("tokens.txt"), b"<blk> 0\n").expect("ta tokens");
+        fs::write(ta_nested.join("model.int8.onnx"), b"ta").expect("ta model");
+
+        let ta_found = discover_ta_stt_files(dir.path()).expect("ta under stt/ta");
+        assert_eq!(ta_found.model, ta_nested.join("model.int8.onnx"));
+        assert_eq!(ta_found.tokens, ta_nested.join("tokens.txt"));
     }
 }

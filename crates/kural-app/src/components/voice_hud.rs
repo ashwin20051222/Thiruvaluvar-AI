@@ -15,14 +15,29 @@ pub fn VoiceHud() -> Element {
     let toast = ctx.toast.read().clone();
 
     rsx! {
-        if !voice_active {
-            if let Some(banner) = toast {
-                div {
-                    id: "toast-banner",
-                    class: if banner.is_error { "toast-error" } else { "" },
-                    role: "status",
-                    aria_live: "polite",
-                    "{tr(lang, &banner.text_ta, &banner.text_en)}"
+        if let Some(banner) = toast {
+            {
+                let localized = tr(lang, &banner.text_ta, &banner.text_en);
+                let display_text = if localized.trim().is_empty() {
+                    if banner.text_ta.trim().is_empty() {
+                        banner.text_en.as_str()
+                    } else {
+                        banner.text_ta.as_str()
+                    }
+                } else {
+                    localized
+                };
+                rsx! {
+                    if !display_text.trim().is_empty() {
+                        div {
+                            id: "toast-banner",
+                            class: if banner.is_error { "toast-error" } else { "" },
+                            style: if voice_active { "transform: translate(-50%, -44px);" } else { "" },
+                            role: "status",
+                            aria_live: "polite",
+                            "{display_text}"
+                        }
+                    }
                 }
             }
         }

@@ -72,8 +72,8 @@ CREATE TABLE kural_child (
     moral_ta            TEXT NOT NULL,
     moral_en            TEXT NOT NULL,
     game_blank_word_ta  TEXT NOT NULL,
-    game_options_ta     TEXT NOT NULL,
-    game_options_en     TEXT NOT NULL
+    game_options_ta     TEXT NOT NULL CHECK (json_valid(game_options_ta)),
+    game_options_en     TEXT NOT NULL CHECK (json_valid(game_options_en))
 );
 
 CREATE TABLE kural_youth (
@@ -84,8 +84,8 @@ CREATE TABLE kural_youth (
     action_tip_en     TEXT NOT NULL,
     quiz_question_ta  TEXT NOT NULL,
     quiz_question_en  TEXT NOT NULL,
-    quiz_options_ta   TEXT NOT NULL,
-    quiz_options_en   TEXT NOT NULL,
+    quiz_options_ta   TEXT NOT NULL CHECK (json_valid(quiz_options_ta)),
+    quiz_options_en   TEXT NOT NULL CHECK (json_valid(quiz_options_en)),
     quiz_correct_idx  INTEGER NOT NULL CHECK (quiz_correct_idx BETWEEN 0 AND 3)
 );
 
@@ -144,6 +144,10 @@ CREATE VIRTUAL TABLE kurals_fts USING fts5(
     youth_analysis_ta,
     youth_analysis_en,
     tags_text,
+    -- CRITICAL INVARIANT: Keep `remove_diacritics 0`!
+    -- Changing this to `remove_diacritics 1` strips Tamil vowel signs
+    -- (uyirmei markers like ா, ி, ு, ெ) and pulli/virama (்),
+    -- which corrupts Tamil word boundaries and lexical search.
     tokenize = 'unicode61 remove_diacritics 0'
 );
 
@@ -154,6 +158,10 @@ CREATE VIRTUAL TABLE knowledge_fts USING fts5(
     answer_ta,
     answer_en,
     keywords,
+    -- CRITICAL INVARIANT: Keep `remove_diacritics 0`!
+    -- Changing this to `remove_diacritics 1` strips Tamil vowel signs
+    -- (uyirmei markers like ா, ி, ு, ெ) and pulli/virama (்),
+    -- which corrupts Tamil word boundaries and lexical search.
     tokenize = 'unicode61 remove_diacritics 0'
 );
 
@@ -173,4 +181,60 @@ CREATE TABLE IF NOT EXISTS knowledge_embeddings (
 /// Initialize schema tables and FTS5 virtual tables on a freshly created SQLite connection.
 pub fn init_schema(conn: &Connection) -> Result<(), rusqlite::Error> {
     conn.execute_batch(SCHEMA_SQL)
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn schema_enforces_json_valid_on_child_and_youth_options() {
+        let conn = Connection::open_in_memory().expect("in-memory sqlite");
+        init_schema(&conn).expect("init_schema with diacritic comments");
+
+        conn.execute_batch(
+            "INSERT INTO divisions (id, name_ta, name_en, transliteration, kural_start, kural_end)
+             VALUES (1, 'அறம்', 'Virtue', 'Aram', 1, 380);
+             INSERT INTO iyals (id, division_id, name_ta, name_en, transliteration, chapter_start, chapter_end)
+             VALUES (1, 1, 'பாயிரம்', 'Prologue', 'Payiram', 1, 4);
+             INSERT INTO adhikarams (id, division_id, iyal_id, name_ta, name_en, transliteration, kural_start, kural_end)
+             VALUES (1, 1, 1, 'கடவுள் வாழ்த்து', 'Praise of God', 'Kadavul Vaazhthu', 1, 10);
+             INSERT INTO kurals (
+                 number, division_id, iyal_id, adhikaram_id,
+                 line1_ta, line2_ta, opening_letter_ta,
+                 transliteration1, transliteration2,
+                 meaning_mu_va, meaning_solomon, meaning_kalaignar, meaning_parimel,
+                 translation_en, explanation_en, couplet_en, tts_kural_ta, tts_kural_en
+             ) VALUES (
+                 1, 1, 1, 1, 'அகர', 'பகவன்', 'அ', 'Akara', 'Bhagavan',
+                 'm1', 'm2', 'm3', NULL, 't', 'e', 'c', 'tts_ta', 'tts_en'
+             );",
+        )
+        .expect("seed base rows");
+
+        let bad_child = conn.execute(
+            "INSERT INTO kural_child (
+                kural_number, kids_featured, simple_meaning_ta, simple_meaning_en,
+                story_title_ta, story_title_en, kutty_story_ta, kutty_story_en,
+                moral_ta, moral_en, game_blank_word_ta, game_options_ta, game_options_en
+            ) VALUES (1, 1, 's', 's', 't', 't', 'k', 'k', 'm', 'm', 'அகர', 'not-json', '[\"a\",\"b\",\"c\",\"d\"]')",
+            [],
+        );
+        assert!(
+            bad_child.is_err(),
+            "invalid JSON in game_options_ta must fail CHECK"
+        );
+
+        let bad_youth = conn.execute(
+            "INSERT INTO kural_youth (
+                kural_number, analysis_ta, analysis_en, action_tip_ta, action_tip_en,
+                quiz_question_ta, quiz_question_en, quiz_options_ta, quiz_options_en, quiz_correct_idx
+            ) VALUES (1, 'a', 'a', 't', 't', 'q', 'q', '[\"a\",\"b\",\"c\",\"d\"]', '{bad', 0)",
+            [],
+        );
+        assert!(
+            bad_youth.is_err(),
+            "invalid JSON in quiz_options_en must fail CHECK"
+        );
+    }
 }

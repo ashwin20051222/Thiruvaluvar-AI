@@ -83,7 +83,20 @@ impl SherpaSileroVad {
     ) -> Box<dyn VadBackend> {
         match Self::try_load(models_dir, audio_cfg, ai_cfg) {
             Ok(Some(vad)) => Box::new(vad),
-            Ok(None) | Err(_) => Box::new(EnergyZcrVad::default()),
+            Ok(None) => {
+                tracing::warn!(
+                    models_dir = %models_dir.display(),
+                    "Silero VAD model absent; falling back to EnergyZcrVad"
+                );
+                Box::new(EnergyZcrVad::default())
+            }
+            Err(err) => {
+                tracing::warn!(
+                    error = %err,
+                    "Silero VAD initialization failed; falling back to EnergyZcrVad"
+                );
+                Box::new(EnergyZcrVad::default())
+            }
         }
     }
 }

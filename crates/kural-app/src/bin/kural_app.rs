@@ -8,4 +8,3 @@ static GLOBAL: tikv_jemallocator::Jemalloc = tikv_jemallocator::Jemalloc;
 fn main() {
     kural_app::run_app();
 }
-

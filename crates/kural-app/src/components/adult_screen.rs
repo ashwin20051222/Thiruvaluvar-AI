@@ -12,7 +12,7 @@ use crate::copy::{
     ALL_SCHOLARS, commentary_text, english_couplet_display, next_scholar, paginate_sentences,
     scholar_label, tr,
 };
-use crate::state::{AppContext, is_voice_active};
+use crate::state::{AppContext, is_voice_active, is_voice_cancellable};
 use dioxus::prelude::*;
 use kural_core::{
     AppScreen, AudioPlaybackStatus, BackendCommand, CompactTabHint, Language, ModalKind,
@@ -59,6 +59,7 @@ pub fn AdultScreen() -> Element {
     let effective_scholar = snap.effective_scholar;
     let requested_scholar = snap.requested_scholar;
     let voice_active = is_voice_active(snap.audio_state);
+    let voice_cancellable = is_voice_cancellable(snap.audio_state);
     let speed = snap.prefs.speech_speed;
 
     let raw_tab = *ctx.pi_compact_tab.read();
@@ -486,9 +487,9 @@ pub fn AdultScreen() -> Element {
                 button {
                     id: "desktop-voice-btn",
                     r#type: "button",
-                    class: "royal-btn voice-bar-btn",
+                    class: if voice_active { "royal-btn voice-bar-btn is-listening" } else { "royal-btn voice-bar-btn" },
                     onclick: move |_| {
-                        if voice_active {
+                        if voice_cancellable {
                             ctx.dispatch(BackendCommand::CancelVoice);
                         } else {
                             ctx.dispatch(BackendCommand::StartVoiceCommand);
@@ -546,8 +547,9 @@ pub fn AdultScreen() -> Element {
                 button {
                     id: "pi-voice-orb",
                     r#type: "button",
+                    class: if voice_active { "is-listening" } else { "" },
                     onclick: move |_| {
-                        if voice_active {
+                        if voice_cancellable {
                             ctx.dispatch(BackendCommand::CancelVoice);
                         } else {
                             ctx.dispatch(BackendCommand::StartVoiceCommand);

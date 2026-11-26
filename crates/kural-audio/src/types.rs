@@ -56,4 +56,3 @@ pub struct AudioHealthStatus {
     pub output_ok: bool,
     pub sample_rate_hz: u32,
 }
-

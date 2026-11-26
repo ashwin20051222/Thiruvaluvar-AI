@@ -1,6 +1,9 @@
 use anyhow::{Context, Result, bail};
 use clap::Parser;
-use kural_db::{Model2VecEmbedder, index_database_embeddings, resolve_db_path};
+use kural_db::{
+    Model2VecEmbedder, compute_embeddings_model_hash, index_database_embeddings_with_hash,
+    resolve_db_path,
+};
 use std::path::PathBuf;
 use std::time::Instant;
 
@@ -38,17 +41,25 @@ fn main() -> Result<()> {
     if let Some(mib) = rss_delta_mib {
         println!("Loaded Model2VecEmbedder in {load_ms:.1} ms (RSS delta: {mib} MiB)");
         if mib > 96 {
-            eprintln!(
-                "WARNING: model2vec-rs RSS delta ({mib} MiB) exceeded 96 MiB Pi compact threshold."
+            tracing::warn!(
+                rss_delta_mib = mib,
+                threshold_mib = 96,
+                "model2vec-rs RSS delta exceeded Pi compact threshold"
             );
         }
     } else {
         println!("Loaded Model2VecEmbedder in {load_ms:.1} ms");
     }
 
+    let model_hash = compute_embeddings_model_hash(&cli.models_dir)?;
     let idx_start = Instant::now();
-    let (k_count, kb_count) = index_database_embeddings(&db_path, &embedder, "model2vec")
-        .with_context(|| format!("failed indexing embeddings into {}", db_path.display()))?;
+    let (k_count, kb_count) = index_database_embeddings_with_hash(
+        &db_path,
+        &embedder,
+        "model2vec",
+        Some(model_hash.as_str()),
+    )
+    .with_context(|| format!("failed indexing embeddings into {}", db_path.display()))?;
     let idx_ms = idx_start.elapsed().as_secs_f64() * 1000.0;
 
     println!(

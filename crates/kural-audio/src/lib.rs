@@ -31,5 +31,6 @@ pub use error::AudioError;
 pub use types::{
     AudioDeviceInfo, AudioHealthStatus, CapturedAudio, EarconKind, PcmChunk, VadBackend,
 };
-pub use vad::{EnergyZcrVad, FRAME_SAMPLES_16K, FrameAction, PRE_ROLL_SAMPLES_16K, UtteranceFramer};
-
+pub use vad::{
+    EnergyZcrVad, FRAME_SAMPLES_16K, FrameAction, PRE_ROLL_SAMPLES_16K, UtteranceFramer,
+};

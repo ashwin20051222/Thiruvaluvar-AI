@@ -163,10 +163,11 @@ impl AppConfig {
         let sys_share_dir = env.system_share_config.parent();
         let opt_dir = env.opt_config.parent();
 
-        let points_to_system_share = is_system_share_path(loaded_config_path, sys_share_dir, opt_dir)
-            || is_system_share_path(Some(&self.paths.kural_db), sys_share_dir, opt_dir)
-            || is_system_share_path(Some(&self.paths.models_dir), sys_share_dir, opt_dir)
-            || is_system_share_path(Some(&self.paths.user_state_db), sys_share_dir, opt_dir);
+        let points_to_system_share =
+            is_system_share_path(loaded_config_path, sys_share_dir, opt_dir)
+                || is_system_share_path(Some(&self.paths.kural_db), sys_share_dir, opt_dir)
+                || is_system_share_path(Some(&self.paths.models_dir), sys_share_dir, opt_dir)
+                || is_system_share_path(Some(&self.paths.user_state_db), sys_share_dir, opt_dir);
 
         let needs_redirect =
             points_to_system_share || !user_state_dir_is_writable(&self.paths.user_state_db);
@@ -208,16 +209,14 @@ impl AppConfig {
 
     /// Validate numerical ranges and enum string invariants.
     pub fn validate(&self) -> Result<(), CoreError> {
-        if !self.audio.master_volume.is_finite()
-            || !(0.0..=1.0).contains(&self.audio.master_volume)
+        if !self.audio.master_volume.is_finite() || !(0.0..=1.0).contains(&self.audio.master_volume)
         {
             return Err(CoreError::ConfigValidation(format!(
                 "audio.master_volume ({}) must be finite and in [0.0, 1.0]",
                 self.audio.master_volume
             )));
         }
-        if !self.audio.vad_threshold.is_finite()
-            || !(0.0..=1.0).contains(&self.audio.vad_threshold)
+        if !self.audio.vad_threshold.is_finite() || !(0.0..=1.0).contains(&self.audio.vad_threshold)
         {
             return Err(CoreError::ConfigValidation(format!(
                 "audio.vad_threshold ({}) must be finite and in [0.0, 1.0]",
@@ -236,6 +235,11 @@ impl AppConfig {
         if self.audio.listening_timeout_ms == 0 || self.audio.max_command_duration_ms == 0 {
             return Err(CoreError::ConfigValidation(
                 "audio.listening_timeout_ms and audio.max_command_duration_ms must be > 0".into(),
+            ));
+        }
+        if self.audio.voice_loop_max_silence_timeouts < 1 {
+            return Err(CoreError::ConfigValidation(
+                "audio.voice_loop_max_silence_timeouts must be >= 1".into(),
             ));
         }
         if !self.age_ai.max_clipping_ratio.is_finite()
@@ -270,8 +274,20 @@ impl AppConfig {
                 self.ai.onnx_intra_threads
             )));
         }
+        if self.ai.stt_timeout_ms == 0
+            || self.ai.tts_timeout_ms == 0
+            || self.ai.inference_timeout_ms == 0
+        {
+            return Err(CoreError::ConfigValidation(
+                "ai.stt_timeout_ms, ai.tts_timeout_ms, and ai.inference_timeout_ms must be > 0"
+                    .into(),
+            ));
+        }
         for (name, v) in [
-            ("ai.min_vec_candidate_cosine", self.ai.min_vec_candidate_cosine),
+            (
+                "ai.min_vec_candidate_cosine",
+                self.ai.min_vec_candidate_cosine,
+            ),
             ("ai.oos_min_vector_cosine", self.ai.oos_min_vector_cosine),
             ("ai.kb_min_vector_cosine", self.ai.kb_min_vector_cosine),
         ] {
@@ -352,10 +368,7 @@ fn user_state_dir_is_writable(db_path: &Path) -> bool {
         .duration_since(UNIX_EPOCH)
         .map(|d| d.as_nanos())
         .unwrap_or(0);
-    let probe = probe_dir.join(format!(
-        ".kural_write_probe_{}_{nanos}",
-        std::process::id()
-    ));
+    let probe = probe_dir.join(format!(".kural_write_probe_{}_{nanos}", std::process::id()));
     match OpenOptions::new().write(true).create_new(true).open(&probe) {
         Ok(_) => {
             let _ = fs::remove_file(&probe);
@@ -411,6 +424,7 @@ pub struct AudioConfig {
     pub vad_threshold: f32,
     pub aec_enabled: bool,
     pub mic_to_listen_guard_ms: u64,
+    pub voice_loop_max_silence_timeouts: u8,
 }
 
 impl Default for AudioConfig {
@@ -421,12 +435,13 @@ impl Default for AudioConfig {
             master_volume: 0.85,
             earcon_guard_ms: 220,
             echo_cooldown_ms: 250,
-            listening_timeout_ms: 5000,
-            max_command_duration_ms: 7000,
+            listening_timeout_ms: 7000,
+            max_command_duration_ms: 9000,
             age_sample_duration_ms: 3200,
-            vad_threshold: 0.50,
+            vad_threshold: 0.42,
             aec_enabled: false,
             mic_to_listen_guard_ms: 400,
+            voice_loop_max_silence_timeouts: 2,
         }
     }
 }
@@ -449,7 +464,7 @@ impl Default for AgeAiConfig {
             min_voiced_ms: 1200,
             min_snr_db: 8.0,
             max_clipping_ratio: 0.02,
-            min_rms_level: 0.015,
+            min_rms_level: 0.010,
             low_confidence_threshold: 0.70,
             f0_offset_hz: 0.0,
             vtl_offset_cm: 0.0,
@@ -469,6 +484,9 @@ pub struct AiConfig {
     pub kb_min_rrf_score: f32,
     pub tts_cache_max_entries: usize,
     pub tts_cache_max_bytes: usize,
+    pub stt_timeout_ms: u64,
+    pub tts_timeout_ms: u64,
+    pub inference_timeout_ms: u64,
 }
 
 impl Default for AiConfig {
@@ -483,6 +501,9 @@ impl Default for AiConfig {
             kb_min_rrf_score: 0.025,
             tts_cache_max_entries: 16,
             tts_cache_max_bytes: 16_777_216,
+            stt_timeout_ms: 8_000,
+            tts_timeout_ms: 15_000,
+            inference_timeout_ms: 5_000,
         }
     }
 }
@@ -683,4 +704,3 @@ mod tests {
         }
     }
 }
-

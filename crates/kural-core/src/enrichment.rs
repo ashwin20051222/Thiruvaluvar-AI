@@ -101,7 +101,12 @@ pub fn normalize_enriched_chapter(chapter: &mut EnrichedChapterFile) {
     }
 }
 
-fn validate_four_options(label: &str, kural_number: u16, opts: &[String; 4], errors: &mut Vec<String>) {
+fn validate_four_options(
+    label: &str,
+    kural_number: u16,
+    opts: &[String; 4],
+    errors: &mut Vec<String>,
+) {
     let mut seen = HashSet::new();
     for (idx, opt) in opts.iter().enumerate() {
         let norm = normalize_nfc_trimmed(opt);
@@ -116,26 +121,18 @@ fn validate_four_options(label: &str, kural_number: u16, opts: &[String; 4], err
 }
 
 fn has_tamil_script(value: &str) -> bool {
-    value.chars().any(|c| ('\u{0B80}'..='\u{0BFF}').contains(&c))
+    value
+        .chars()
+        .any(|c| ('\u{0B80}'..='\u{0BFF}').contains(&c))
 }
 
-fn check_non_empty(
-    kural_number: u16,
-    field: &str,
-    value: &str,
-    errors: &mut Vec<String>,
-) {
+fn check_non_empty(kural_number: u16, field: &str, value: &str, errors: &mut Vec<String>) {
     if normalize_nfc_trimmed(value).is_empty() {
         errors.push(format!("kural #{kural_number}: {field} is empty"));
     }
 }
 
-fn check_tamil_non_empty(
-    kural_number: u16,
-    field: &str,
-    value: &str,
-    errors: &mut Vec<String>,
-) {
+fn check_tamil_non_empty(kural_number: u16, field: &str, value: &str, errors: &mut Vec<String>) {
     let norm = normalize_nfc_trimmed(value);
     if norm.is_empty() {
         errors.push(format!("kural #{kural_number}: {field} is empty"));
@@ -216,18 +213,63 @@ pub fn validate_enriched_chapter(
         };
 
         // Child fields
-        check_tamil_non_empty(num, "child.simple_meaning_ta", &rec.child.simple_meaning_ta, &mut errors);
-        check_non_empty(num, "child.simple_meaning_en", &rec.child.simple_meaning_en, &mut errors);
-        check_tamil_non_empty(num, "child.story_title_ta", &rec.child.story_title_ta, &mut errors);
-        check_non_empty(num, "child.story_title_en", &rec.child.story_title_en, &mut errors);
-        check_tamil_non_empty(num, "child.kutty_story_ta", &rec.child.kutty_story_ta, &mut errors);
-        check_non_empty(num, "child.kutty_story_en", &rec.child.kutty_story_en, &mut errors);
+        check_tamil_non_empty(
+            num,
+            "child.simple_meaning_ta",
+            &rec.child.simple_meaning_ta,
+            &mut errors,
+        );
+        check_non_empty(
+            num,
+            "child.simple_meaning_en",
+            &rec.child.simple_meaning_en,
+            &mut errors,
+        );
+        check_tamil_non_empty(
+            num,
+            "child.story_title_ta",
+            &rec.child.story_title_ta,
+            &mut errors,
+        );
+        check_non_empty(
+            num,
+            "child.story_title_en",
+            &rec.child.story_title_en,
+            &mut errors,
+        );
+        check_tamil_non_empty(
+            num,
+            "child.kutty_story_ta",
+            &rec.child.kutty_story_ta,
+            &mut errors,
+        );
+        check_non_empty(
+            num,
+            "child.kutty_story_en",
+            &rec.child.kutty_story_en,
+            &mut errors,
+        );
         check_tamil_non_empty(num, "child.moral_ta", &rec.child.moral_ta, &mut errors);
         check_non_empty(num, "child.moral_en", &rec.child.moral_en, &mut errors);
-        check_tamil_non_empty(num, "child.game_blank_word_ta", &rec.child.game_blank_word_ta, &mut errors);
+        check_tamil_non_empty(
+            num,
+            "child.game_blank_word_ta",
+            &rec.child.game_blank_word_ta,
+            &mut errors,
+        );
 
-        validate_four_tamil_options("child.game_options_ta", num, &rec.child.game_options_ta, &mut errors);
-        validate_four_options("child.game_options_en", num, &rec.child.game_options_en, &mut errors);
+        validate_four_tamil_options(
+            "child.game_options_ta",
+            num,
+            &rec.child.game_options_ta,
+            &mut errors,
+        );
+        validate_four_options(
+            "child.game_options_en",
+            num,
+            &rec.child.game_options_en,
+            &mut errors,
+        );
 
         let blank_norm = normalize_nfc_trimmed(&rec.child.game_blank_word_ta);
         if !contains_exact_kural_word(&canon.line1_ta, &canon.line2_ta, &blank_norm) {
@@ -248,14 +290,54 @@ pub fn validate_enriched_chapter(
         }
 
         // Youth fields
-        check_tamil_non_empty(num, "youth.analysis_ta", &rec.youth.analysis_ta, &mut errors);
-        check_non_empty(num, "youth.analysis_en", &rec.youth.analysis_en, &mut errors);
-        check_tamil_non_empty(num, "youth.action_tip_ta", &rec.youth.action_tip_ta, &mut errors);
-        check_non_empty(num, "youth.action_tip_en", &rec.youth.action_tip_en, &mut errors);
-        check_tamil_non_empty(num, "youth.quiz_question_ta", &rec.youth.quiz_question_ta, &mut errors);
-        check_non_empty(num, "youth.quiz_question_en", &rec.youth.quiz_question_en, &mut errors);
-        validate_four_tamil_options("youth.quiz_options_ta", num, &rec.youth.quiz_options_ta, &mut errors);
-        validate_four_options("youth.quiz_options_en", num, &rec.youth.quiz_options_en, &mut errors);
+        check_tamil_non_empty(
+            num,
+            "youth.analysis_ta",
+            &rec.youth.analysis_ta,
+            &mut errors,
+        );
+        check_non_empty(
+            num,
+            "youth.analysis_en",
+            &rec.youth.analysis_en,
+            &mut errors,
+        );
+        check_tamil_non_empty(
+            num,
+            "youth.action_tip_ta",
+            &rec.youth.action_tip_ta,
+            &mut errors,
+        );
+        check_non_empty(
+            num,
+            "youth.action_tip_en",
+            &rec.youth.action_tip_en,
+            &mut errors,
+        );
+        check_tamil_non_empty(
+            num,
+            "youth.quiz_question_ta",
+            &rec.youth.quiz_question_ta,
+            &mut errors,
+        );
+        check_non_empty(
+            num,
+            "youth.quiz_question_en",
+            &rec.youth.quiz_question_en,
+            &mut errors,
+        );
+        validate_four_tamil_options(
+            "youth.quiz_options_ta",
+            num,
+            &rec.youth.quiz_options_ta,
+            &mut errors,
+        );
+        validate_four_options(
+            "youth.quiz_options_en",
+            num,
+            &rec.youth.quiz_options_en,
+            &mut errors,
+        );
         if rec.youth.quiz_correct_idx > 3 {
             errors.push(format!(
                 "kural #{num}: quiz_correct_idx {} is outside 0..=3",
@@ -264,8 +346,18 @@ pub fn validate_enriched_chapter(
         }
 
         // Adult fields
-        check_tamil_non_empty(num, "adult.reflection_ta", &rec.adult.reflection_ta, &mut errors);
-        check_non_empty(num, "adult.reflection_en", &rec.adult.reflection_en, &mut errors);
+        check_tamil_non_empty(
+            num,
+            "adult.reflection_ta",
+            &rec.adult.reflection_ta,
+            &mut errors,
+        );
+        check_non_empty(
+            num,
+            "adult.reflection_en",
+            &rec.adult.reflection_en,
+            &mut errors,
+        );
 
         // Tags (2..=4 canonical unique slugs)
         if !(2..=4).contains(&rec.tags.len()) {
@@ -401,4 +493,3 @@ mod tests {
         );
     }
 }
-

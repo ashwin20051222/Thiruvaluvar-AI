@@ -91,6 +91,12 @@ pub const VOICE_LOOP_SILENCE_STOP_NOTICE: BilingualCopy = BilingualCopy {
     en: "Voice-to-Voice Loop paused after silence.",
 };
 
+/// Status toast shown when a captured voice utterance is empty, punctuation-only, or too noisy.
+pub const VOICE_UNCLEAR_RETRY_NOTICE: BilingualCopy = BilingualCopy {
+    ta: "தெளிவாகக் கேட்கவில்லை — மீண்டும் பேசவும்.",
+    en: "Didn't catch that clearly — please speak again.",
+};
+
 /// Bilingual confirmation toast when automatic or manual Start-screen voice routing opens Kids mode.
 pub const AGE_MODE_OPENED_KIDS: BilingualCopy = BilingualCopy {
     ta: "குழந்தைகள் பகுதி திறக்கப்பட்டது",
@@ -165,6 +171,7 @@ mod tests {
             VOICE_LOOP_ON_NOTICE,
             VOICE_LOOP_OFF_NOTICE,
             VOICE_LOOP_SILENCE_STOP_NOTICE,
+            VOICE_UNCLEAR_RETRY_NOTICE,
             AGE_MODE_OPENED_KIDS,
             AGE_MODE_OPENED_YOUTH,
             AGE_MODE_OPENED_ADULT,
@@ -181,4 +188,3 @@ mod tests {
         }
     }
 }
-

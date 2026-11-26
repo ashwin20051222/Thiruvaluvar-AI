@@ -9,7 +9,15 @@ use std::fs;
 use std::path::Path;
 use std::sync::{Arc, Mutex};
 
+/// Current persisted schema version for `data/user_state.db`.
+pub const USER_STATE_SCHEMA_VERSION: &str = "1";
+
 const USER_STATE_SCHEMA_SQL: &str = r#"
+CREATE TABLE IF NOT EXISTS user_state_meta (
+    key   TEXT PRIMARY KEY,
+    value TEXT NOT NULL
+);
+
 CREATE TABLE IF NOT EXISTS preferences (
     id                 INTEGER PRIMARY KEY CHECK (id = 1),
     lang               TEXT NOT NULL CHECK (lang IN ('tamil', 'english')) DEFAULT 'tamil',
@@ -86,6 +94,36 @@ fn ensure_preferences_auto_speak_column(conn: &Connection) -> Result<(), DbError
     Ok(())
 }
 
+fn migrate_if_needed(conn: &Connection) -> Result<(), DbError> {
+    conn.execute_batch(
+        "CREATE TABLE IF NOT EXISTS user_state_meta (
+             key   TEXT PRIMARY KEY,
+             value TEXT NOT NULL
+         );",
+    )?;
+
+    let current_version: Option<String> = conn
+        .query_row(
+            "SELECT value FROM user_state_meta WHERE key = 'user_state_schema_version'",
+            [],
+            |r| r.get(0),
+        )
+        .optional()?;
+
+    if matches!(current_version.as_deref(), None | Some("0")) {
+        ensure_preferences_auto_speak_column(conn)?;
+    }
+
+    conn.execute(
+        "INSERT INTO user_state_meta (key, value)
+         VALUES ('user_state_schema_version', ?1)
+         ON CONFLICT(key) DO UPDATE SET value = excluded.value",
+        params![USER_STATE_SCHEMA_VERSION],
+    )?;
+
+    Ok(())
+}
+
 /// Persistent mutable SQLite store (`data/user_state.db`), isolated from read-only `thirukkural.db`.
 #[derive(Clone, Debug)]
 pub struct UserStateStore {
@@ -114,7 +152,7 @@ impl UserStateStore {
              PRAGMA foreign_keys = ON;",
         )?;
         conn.execute_batch(USER_STATE_SCHEMA_SQL)?;
-        ensure_preferences_auto_speak_column(&conn)?;
+        migrate_if_needed(&conn)?;
 
         let safe_vol = if seed_volume.is_finite() {
             seed_volume.clamp(0.0, 1.0)
@@ -140,6 +178,20 @@ impl UserStateStore {
     {
         let mut guard = self.conn.lock().map_err(|_| DbError::LockPoisoned)?;
         f(&mut guard)
+    }
+
+    /// Return the persisted `user_state_schema_version` from `user_state_meta`.
+    pub fn schema_version(&self) -> Result<String, DbError> {
+        self.with_conn(|conn| {
+            let version: Option<String> = conn
+                .query_row(
+                    "SELECT value FROM user_state_meta WHERE key = 'user_state_schema_version'",
+                    [],
+                    |r| r.get(0),
+                )
+                .optional()?;
+            Ok(version.unwrap_or_else(|| "0".to_string()))
+        })
     }
 
     /// Read current persisted `UserPrefs`.
@@ -594,9 +646,25 @@ mod tests {
         }
 
         let store = UserStateStore::open(&db_path, 0.85).expect("migrate legacy db");
+        assert_eq!(
+            store.schema_version().expect("schema_version"),
+            USER_STATE_SCHEMA_VERSION
+        );
         let prefs = store.get_prefs().expect("read migrated prefs");
         assert_eq!(prefs.lang, Language::English);
         assert_eq!(prefs.last_kural_kids, 77);
         assert!(prefs.auto_speak_text);
+
+        // Re-opening is idempotent and preserves schema_version and prefs.
+        drop(store);
+        let reopened = UserStateStore::open(&db_path, 0.85).expect("reopen migrated db");
+        assert_eq!(
+            reopened.schema_version().expect("schema_version on reopen"),
+            USER_STATE_SCHEMA_VERSION
+        );
+        assert_eq!(
+            reopened.get_prefs().expect("reopen prefs").last_kural_kids,
+            77
+        );
     }
 }

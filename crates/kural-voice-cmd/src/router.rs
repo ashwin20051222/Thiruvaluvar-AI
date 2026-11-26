@@ -104,7 +104,10 @@ impl StaticAction {
             Self::StopAudio => (BackendCommand::StopAudio, None),
             Self::ReplayLastTts => (BackendCommand::ReplayLastTts, None),
             Self::ReplayVoiceTurn(mode) => (
-                BackendCommand::ReplayVoiceTurn { turn_id: None, mode },
+                BackendCommand::ReplayVoiceTurn {
+                    turn_id: None,
+                    mode,
+                },
                 None,
             ),
             Self::SetVoiceToVoiceLoop(enabled) => {
@@ -308,7 +311,10 @@ const COMMAND_TABLE: &[(&str, StaticAction)] = &[
     // Audio Playback & Speed & Volume
     ("stop voice chat", StaticAction::SetVoiceToVoiceLoop(false)),
     ("exit voice chat", StaticAction::SetVoiceToVoiceLoop(false)),
-    ("தொடர் குரல் நிறுத்து", StaticAction::SetVoiceToVoiceLoop(false)),
+    (
+        "தொடர் குரல் நிறுத்து",
+        StaticAction::SetVoiceToVoiceLoop(false),
+    ),
     ("start voice chat", StaticAction::SetVoiceToVoiceLoop(true)),
     ("voice to voice", StaticAction::SetVoiceToVoiceLoop(true)),
     ("hands free mode", StaticAction::SetVoiceToVoiceLoop(true)),
@@ -727,7 +733,9 @@ pub const fn screen_default_target(screen: AppScreen, active_scholar: Scholar) -
 /// or `Some(VOICE_ADHIKARAM_RANGE_ERROR)` when an anchored Adhikaram number is `0` or `> 133`.
 pub fn check_voice_number_range_error(raw: &str) -> Option<BilingualCopy> {
     match extract_anchored_number(raw) {
-        Some(AnchoredNumber::Kural(n)) if n == 0 || n > 1330 => Some(VOICE_KURAL_RANGE_ERROR),
+        Some(AnchoredNumber::Kural(n) | AnchoredNumber::Bare(n)) if n == 0 || n > 1330 => {
+            Some(VOICE_KURAL_RANGE_ERROR)
+        }
         Some(AnchoredNumber::Adhikaram(n)) if n == 0 || n > 133 => {
             Some(VOICE_ADHIKARAM_RANGE_ERROR)
         }
@@ -1332,6 +1340,26 @@ mod tests {
             Some(VOICE_KURAL_RANGE_ERROR)
         );
         assert_eq!(
+            check_voice_number_range_error("0"),
+            Some(VOICE_KURAL_RANGE_ERROR)
+        );
+        assert_eq!(
+            check_voice_number_range_error("1500"),
+            Some(VOICE_KURAL_RANGE_ERROR)
+        );
+        assert_eq!(
+            validate_voice_transcript("0", Language::English, ctx),
+            Err(VOICE_KURAL_RANGE_ERROR)
+        );
+        assert_eq!(
+            validate_voice_transcript("1500", Language::English, ctx),
+            Err(VOICE_KURAL_RANGE_ERROR)
+        );
+        assert_eq!(
+            validate_voice_transcript("குறள் 2000", Language::Tamil, ctx),
+            Err(VOICE_KURAL_RANGE_ERROR)
+        );
+        assert_eq!(
             check_voice_number_range_error("குறள் 1331"),
             Some(VOICE_KURAL_RANGE_ERROR)
         );
@@ -1352,6 +1380,33 @@ mod tests {
             Err(VOICE_ADHIKARAM_RANGE_ERROR)
         );
         assert_eq!(check_voice_number_range_error("42 * 10"), None);
+
+        for (utterance, expected) in [
+            ("read kural 42", 42),
+            ("read 42", 42),
+            ("குறள் 42 படி", 42),
+            ("42 வது குறள்", 42),
+            ("குறள் எண் 42", 42),
+            ("number 42", 42),
+            ("open kural 42", 42),
+            ("kural one", 1),
+            ("kural forty two", 42),
+            ("kural one hundred and five", 105),
+            ("kural four hundred twenty three", 423),
+            ("குறள் நாற்பத்திரண்டு", 42),
+            ("குறள் ஒன்று", 1),
+            ("குறள் இரண்டு", 2),
+            ("குறள் பத்து", 10),
+            ("குறள் நூறு", 100),
+        ] {
+            assert_eq!(
+                validate_voice_transcript(utterance, Language::Tamil, ctx)
+                    .unwrap()
+                    .cmd,
+                BackendCommand::OpenKural(expected),
+                "failed routing {utterance}"
+            );
+        }
     }
 
     #[test]
@@ -1536,7 +1591,8 @@ mod tests {
             );
         }
 
-        for phrase in ["stop voice chat", "exit voice chat", "தொடர் குரல் நிறுத்து"] {
+        for phrase in ["stop voice chat", "exit voice chat", "தொடர் குரல் நிறுத்து"]
+        {
             assert_eq!(
                 route_transcript(phrase, Language::English, ctx).cmd,
                 BackendCommand::SetVoiceToVoiceLoop(false),

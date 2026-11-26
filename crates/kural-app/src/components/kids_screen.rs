@@ -2,21 +2,22 @@ use crate::components::ContentPlaybackButton;
 use crate::components::header::TopHeader;
 use crate::components::icons::{BookIcon, ChatIcon, MicIcon, SearchIcon, SpeakerIcon};
 use crate::copy::{paginate_sentences, tr};
-use crate::state::{AppContext, is_voice_active};
+use crate::state::{AppContext, is_voice_active, is_voice_cancellable};
 use dioxus::prelude::*;
-use kural_core::{
-    BackendCommand, ModalKind, SPEECH_SPEED_PRESETS, SearchTab, SpeakTarget, Theme,
-};
+use kural_core::{BackendCommand, ModalKind, SPEECH_SPEED_PRESETS, SearchTab, SpeakTarget, Theme};
 
 #[component]
 pub fn KidsScreen() -> Element {
     let ctx = use_context::<AppContext>();
+    let boot = use_context::<crate::BootContext>();
+    let verify_layout = boot.verify_layout;
     let snap = ctx.snapshot.read().clone();
     let lang = snap.prefs.lang;
     let theme = snap.prefs.theme;
     let full = &snap.current_kural;
     let kural_num = full.kural.number;
     let voice_active = is_voice_active(snap.audio_state);
+    let voice_cancellable = is_voice_cancellable(snap.audio_state);
 
     let meaning_raw = full
         .child
@@ -191,9 +192,18 @@ pub fn KidsScreen() -> Element {
                             button {
                                 r#type: "button",
                                 class: "toy-btn action-pill-btn action-pill-chat",
-                                onclick: move |_| ctx.dispatch(BackendCommand::OpenModal(ModalKind::AiChat {
-                                    seed_kural: Some(kural_num),
-                                })),
+                                onclick: move |_| {
+                                    ctx.dispatch(BackendCommand::OpenModal(ModalKind::AiChat {
+                                        seed_kural: Some(kural_num),
+                                    }));
+                                    if !verify_layout {
+                                        if voice_cancellable {
+                                            ctx.dispatch(BackendCommand::CancelVoice);
+                                        } else {
+                                            ctx.dispatch(BackendCommand::StartVoiceCommand);
+                                        }
+                                    }
+                                },
                                 ChatIcon {}
                                 span { class: "desktop-only", "{tr(lang, \"தாத்தாவிடம் பேசு\", \"Talk to Grandpa\")}" }
                                 span { class: "pi-only", "{tr(lang, \"தாத்தா\", \"Grandpa\")}" }
@@ -280,9 +290,9 @@ pub fn KidsScreen() -> Element {
                 button {
                     id: "desktop-voice-btn",
                     r#type: "button",
-                    class: "toy-btn voice-bar-btn",
+                    class: if voice_active { "toy-btn voice-bar-btn is-listening" } else { "toy-btn voice-bar-btn" },
                     onclick: move |_| {
-                        if voice_active {
+                        if voice_cancellable {
                             ctx.dispatch(BackendCommand::CancelVoice);
                         } else {
                             ctx.dispatch(BackendCommand::StartVoiceCommand);
@@ -349,8 +359,9 @@ pub fn KidsScreen() -> Element {
                 button {
                     id: "pi-voice-orb",
                     r#type: "button",
+                    class: if voice_active { "is-listening" } else { "" },
                     onclick: move |_| {
-                        if voice_active {
+                        if voice_cancellable {
                             ctx.dispatch(BackendCommand::CancelVoice);
                         } else {
                             ctx.dispatch(BackendCommand::StartVoiceCommand);

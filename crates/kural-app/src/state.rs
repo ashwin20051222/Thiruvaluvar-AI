@@ -135,7 +135,7 @@ pub fn provide_app_context(backend: BackendHandle, toast_duration_ms: u64) -> Ap
                                 text_en: toast_en,
                                 is_error: false,
                             },
-                            toast_ms,
+                            toast_ms.max(2600),
                         );
                     }
                     UiTransientEvent::AiAnswerReady(ans) => {
@@ -253,5 +253,13 @@ pub fn is_voice_active(audio_state: AudioState) -> bool {
     matches!(
         audio_state,
         AudioState::Listening | AudioState::CapturingSpeech | AudioState::Processing
+    )
+}
+
+#[must_use]
+pub fn is_voice_cancellable(audio_state: AudioState) -> bool {
+    matches!(
+        audio_state,
+        AudioState::Listening | AudioState::CapturingSpeech
     )
 }

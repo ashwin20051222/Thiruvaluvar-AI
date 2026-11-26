@@ -1,0 +1,3 @@
+[build]
+# Space-free target-dir permanently fixes tikv-jemalloc-sys ./configure on paths with spaces.
+target-dir = "/tmp/kural-build"

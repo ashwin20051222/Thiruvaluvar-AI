@@ -346,7 +346,7 @@ pub struct GroundedAnswer {
 }
 
 /// Offline subsystem health flags shown in UI status indicators.
-#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
 pub struct SystemHealth {
     pub db_ok: bool,
     pub user_state_ok: bool,
@@ -355,6 +355,8 @@ pub struct SystemHealth {
     pub vad_loaded: bool,
     pub active_stt_loaded: bool,
     pub active_tts_loaded: bool,
+    #[serde(default)]
+    pub degraded_reason: Option<String>,
 }
 
 /// Replay target mode for a captured voice-to-voice turn.
@@ -700,4 +702,3 @@ mod tests {
         assert_eq!(dec, summary);
     }
 }
-

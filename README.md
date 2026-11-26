@@ -25,16 +25,17 @@
 
 ## Requirements
 
-- **Rust**: `rustc >= 1.85.0` (Edition `2024`)
+- **Rust**: `rustc >= 1.89.0` (Edition `2024`, configured via `rust-toolchain.toml`)
 - **Linux system libraries**:
   - `build-essential`, `cmake`, `pkg-config`
   - `libasound2-dev` (ALSA)
-  - `libwebkit2gtk-4.1-dev`, `libgtk-3-dev` (Dioxus WebKitGTK desktop shell)
-  - `espeak-ng` (Piper TTS phonemization), `fonts-noto-core`
+  - `libwebkit2gtk-4.1-dev` (minimum **WebKitGTK 4.1**), `libgtk-3-dev` (Dioxus WebKitGTK desktop shell)
+  - `libonig-dev` (required for `model2vec-rs` `onig` regex support)
+  - `espeak-ng` (Piper TTS phonemization & offline TTS fallback), `fonts-noto-core`
   - Raspberry Pi kiosk only: `cage`, `alsa-utils`, `libinput-tools`
 
 > **Important Build Path Note (`tikv-jemalloc-sys`)**  
-> If your workspace directory path contains spaces (such as `.../Fun Project/Thiruvalluvar Ai/...`), always set a space-free `CARGO_TARGET_DIR` (for example `CARGO_TARGET_DIR=/tmp/kural-build`) so `tikv-jemalloc-sys` `./configure` succeeds cleanly.
+> If your workspace directory path contains spaces (such as `.../Fun Project/Thiruvalluvar Ai/...`), always use a space-free `CARGO_TARGET_DIR` (configured automatically via `.cargo/config.toml` to `/tmp/kural-build`) so `tikv-jemalloc-sys` `./configure` succeeds cleanly.
 
 ---
 
@@ -63,11 +64,29 @@ cargo run --release --bin kural-app -- --config config.toml --pi-preview      # 
 
 ---
 
+### Graceful Offline Degradation
+
+Optional model assets under `models/` are not required to launch or browse the 1,330 Kurals, commentaries, quizzes, and stories. When optional models are absent on disk, the backend automatically degrades to deterministic local fallbacks, emits a startup `InfoToast` notification, and records the active state in `SystemHealth.degraded_reason`:
+
+| Missing Asset | Fallback Behavior |
+| :--- | :--- |
+| `models/embeddings` | Falls back to SQLite **FTS5-only** full-text search (disables INT8 semantic vector ranking) |
+| `models/vad/silero_vad.onnx` | Falls back to pure-Rust **`EnergyZcrVad`** energy/zero-crossing-rate voice activity detection |
+| Piper VITS ONNX TTS models (`models/tts/...`) | Falls back to **`espeak-ng`** offline speech synthesis |
+| STT models (`models/stt/...`) | App continues in **touch/text-only** operation without speech recognition |
+
+---
+
 ## CLI Utilities
 
 - **GUI App (`thiruvalluvar-ai` / `kural-app`)**:
   ```text
   thiruvalluvar-ai [--config PATH] [--pi-preview | --pi7-preview | --pi7-hd-preview | --kiosk] [--verify-layout] [--version]
+  ```
+- **Seed Database Builder (`seed_db`, feature `cli` in `kural-db`)**:
+  Build `data/thirukkural.db` from canonical/enriched sources:
+  ```bash
+  cargo run --release -p kural-db --features cli --bin seed_db -- --strict
   ```
 - **Database & Vector CLI (`kural_cli`, feature `cli` in `kural-db`)**:
   ```bash

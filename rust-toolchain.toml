@@ -1,0 +1,4 @@
+[toolchain]
+# Workspace uses Edition 2024 let-chains and crates with MSRV 1.89 (zip 9.8.2, model2vec-rs 0.5.1).
+channel = "stable"
+components = ["rustfmt", "clippy"]

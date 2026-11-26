@@ -14,7 +14,7 @@ use std::fs;
 use std::io::ErrorKind;
 use std::path::{Path, PathBuf};
 use std::process::Command;
-use std::time::Duration;
+use std::time::{Duration, Instant, UNIX_EPOCH};
 use tokio::sync::mpsc;
 use tokio_util::sync::CancellationToken;
 
@@ -248,7 +248,16 @@ fn u64_to_tamil_words(n: u64) -> String {
         "பத்தொன்பது",
     ];
     const TENS_EXACT: [&str; 10] = [
-        "", "", "இருபது", "முப்பது", "நாற்பது", "ஐம்பது", "அறுபது", "எழுபது", "எண்பது", "தொண்ணூறு",
+        "",
+        "",
+        "இருபது",
+        "முப்பது",
+        "நாற்பது",
+        "ஐம்பது",
+        "அறுபது",
+        "எழுபது",
+        "எண்பது",
+        "தொண்ணூறு",
     ];
     const TENS_JOIN: [&str; 10] = [
         "",
@@ -667,6 +676,71 @@ impl fmt::Debug for PiperTts {
 /// Alias for [`SpeechEngine`] when referenced as the TTS engine.
 pub type TtsEngine = SpeechEngine;
 
+/// Timed speech-to-text transcription output.
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct SttTranscription {
+    pub text: String,
+    pub latency_ms: u64,
+}
+
+/// Latency telemetry collected during streaming TTS synthesis.
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub struct TtsSynthMetrics {
+    pub first_chunk_ms: u64,
+    pub total_ms: u64,
+}
+
+/// Stitched mono `i16` PCM samples alongside playback sample rate in Hz.
+pub type CollectedTtsAudio = (Vec<i16>, u32);
+
+/// Stitched optional TTS PCM output paired with streaming latency metrics.
+pub type TimedTtsCollection = (Option<CollectedTtsAudio>, TtsSynthMetrics);
+
+fn fnv1a_update(mut hash: u64, bytes: &[u8]) -> u64 {
+    for &b in bytes {
+        hash ^= u64::from(b);
+        hash = hash.wrapping_mul(0x0100_0000_01b3);
+    }
+    hash
+}
+
+fn lang_fingerprint_code(lang: Language) -> u8 {
+    match lang {
+        Language::Tamil => 1,
+        Language::English => 2,
+    }
+}
+
+/// Compute an FNV-1a fingerprint identifying the active TTS model asset for `lang`.
+#[must_use]
+pub fn compute_tts_model_fingerprint(models_dir: &Path, lang: Language) -> u64 {
+    let mut hash: u64 = 0xcbf2_9ce4_8422_2325;
+    let code = [lang_fingerprint_code(lang)];
+    if let Some(discovery) = discover_piper_files(models_dir, lang) {
+        let name = discovery
+            .onnx_path
+            .file_name()
+            .and_then(|n| n.to_str())
+            .unwrap_or_default();
+        hash = fnv1a_update(hash, name.as_bytes());
+        if let Ok(meta) = fs::metadata(&discovery.onnx_path) {
+            hash = fnv1a_update(hash, &meta.len().to_le_bytes());
+            let (secs, nanos) = meta
+                .modified()
+                .ok()
+                .and_then(|t| t.duration_since(UNIX_EPOCH).ok())
+                .map_or((0_u64, 0_u32), |d| (d.as_secs(), d.subsec_nanos()));
+            hash = fnv1a_update(hash, &secs.to_le_bytes());
+            hash = fnv1a_update(hash, &nanos.to_le_bytes());
+        }
+        hash = fnv1a_update(hash, &code);
+    } else {
+        hash = fnv1a_update(hash, b"espeak-ng-or-none");
+        hash = fnv1a_update(hash, &code);
+    }
+    hash
+}
+
 /// Single-active-language bilingual STT + streaming TTS orchestrator.
 ///
 /// Enforces **drop-before-load** when switching between Tamil and English so only one heavy
@@ -680,6 +754,7 @@ pub struct SpeechEngine {
     stt: Option<SttEngine>,
     tts: Option<PiperTts>,
     espeak_bin: Option<PathBuf>,
+    active_tts_model_fingerprint: u64,
 }
 
 impl fmt::Debug for SpeechEngine {
@@ -722,9 +797,23 @@ impl SpeechEngine {
             stt: None,
             tts: None,
             espeak_bin,
+            active_tts_model_fingerprint: 0,
         };
         engine.ensure_language(initial_lang)?;
         Ok(engine)
+    }
+
+    fn compute_active_tts_fingerprint(&self, lang: Language) -> u64 {
+        let model_fp = compute_tts_model_fingerprint(&self.models_dir, lang);
+        let mut hash: u64 = 0xcbf2_9ce4_8422_2325;
+        hash = fnv1a_update(hash, self.tts_backend_name().as_bytes());
+        fnv1a_update(hash, &model_fp.to_le_bytes())
+    }
+
+    /// Return the fingerprint identifying the currently loaded TTS backend + model for the active language.
+    #[must_use]
+    pub fn active_tts_model_fingerprint(&self) -> u64 {
+        self.active_tts_model_fingerprint
     }
 
     /// Ensure `lang` is the sole resident language pair, dropping the previous language first.
@@ -754,6 +843,10 @@ impl SpeechEngine {
         if !tts_ok {
             self.tts = load_tts_for_language(&self.models_dir, lang, &self.ai_cfg, 1.0)?;
             self.loaded_tts_lang = Some(lang);
+            if !self.tts_loaded() {
+                tracing::warn!(%lang, "Neither Piper VITS nor espeak-ng TTS is available");
+            }
+            self.active_tts_model_fingerprint = self.compute_active_tts_fingerprint(lang);
         }
         Ok(())
     }
@@ -778,6 +871,7 @@ impl SpeechEngine {
         self.loaded_tts_lang = None;
         self.tts = load_tts_for_language(&self.models_dir, lang, &self.ai_cfg, speed)?;
         self.loaded_tts_lang = Some(lang);
+        self.active_tts_model_fingerprint = self.compute_active_tts_fingerprint(lang);
         Ok(())
     }
 
@@ -811,15 +905,33 @@ impl SpeechEngine {
         }
     }
 
-    /// Transcribe `16 kHz` mono PCM speech in `lang`.
-    pub fn transcribe(&mut self, samples_16k: &[f32], lang: Language) -> Result<String, AiError> {
+    /// Transcribe `16 kHz` mono PCM speech in `lang`, returning normalized text and measured latency.
+    pub fn transcribe_timed(
+        &mut self,
+        samples_16k: &[f32],
+        lang: Language,
+    ) -> Result<SttTranscription, AiError> {
+        let t0 = Instant::now();
         self.ensure_language(lang)?;
         let Some(stt) = self.stt.as_mut() else {
             return Err(AiError::ModelLoad(format!(
                 "STT model is not available for language '{lang}'"
             )));
         };
-        stt.transcribe(samples_16k)
+        let text = stt.transcribe(samples_16k)?;
+        let latency_ms = t0.elapsed().as_millis() as u64;
+        tracing::debug!(
+            %lang,
+            stt_latency_ms = latency_ms,
+            chars = text.len(),
+            "STT transcription completed"
+        );
+        Ok(SttTranscription { text, latency_ms })
+    }
+
+    /// Transcribe `16 kHz` mono PCM speech in `lang`.
+    pub fn transcribe(&mut self, samples_16k: &[f32], lang: Language) -> Result<String, AiError> {
+        self.transcribe_timed(samples_16k, lang).map(|r| r.text)
     }
 
     /// Stream sentence-chunked `i16` mono PCM audio over `pcm_tx` with mid-stream cancellation.
@@ -851,6 +963,20 @@ impl SpeechEngine {
         cancel: &CancellationToken,
         pcm_tx: &mpsc::Sender<PcmChunk>,
     ) -> Result<Option<(Vec<i16>, u32)>, AiError> {
+        self.synthesize_streaming_collecting_timed(text_chunks, lang, speed, cancel, pcm_tx)
+            .map(|(pcm, _metrics)| pcm)
+    }
+
+    /// Stream sentence-chunked `i16` mono PCM audio over `pcm_tx`, returning both the stitched
+    /// mono buffer (on clean completion) and synthesis latency metrics.
+    pub fn synthesize_streaming_collecting_timed(
+        &mut self,
+        text_chunks: &[&str],
+        lang: Language,
+        speed: f32,
+        cancel: &CancellationToken,
+        pcm_tx: &mpsc::Sender<PcmChunk>,
+    ) -> Result<TimedTtsCollection, AiError> {
         self.synthesize_streaming_inner(text_chunks, lang, speed, cancel, pcm_tx, true)
     }
 
@@ -862,7 +988,8 @@ impl SpeechEngine {
         cancel: &CancellationToken,
         pcm_tx: &mpsc::Sender<PcmChunk>,
         collect: bool,
-    ) -> Result<Option<(Vec<i16>, u32)>, AiError> {
+    ) -> Result<TimedTtsCollection, AiError> {
+        let t0 = Instant::now();
         if cancel.is_cancelled() || pcm_tx.is_closed() {
             return Err(AiError::Cancelled);
         }
@@ -883,12 +1010,20 @@ impl SpeechEngine {
 
         let plan = build_synthesis_plan(text_chunks, lang);
         if plan.is_empty() {
-            return Ok(None);
+            let elapsed = t0.elapsed().as_millis() as u64;
+            return Ok((
+                None,
+                TtsSynthMetrics {
+                    first_chunk_ms: elapsed,
+                    total_ms: elapsed,
+                },
+            ));
         }
 
         let mut last_sample_rate_hz: Option<u32> = None;
         let mut collected_sample_rate_hz: Option<u32> = None;
         let mut collected = Vec::<i16>::new();
+        let mut first_chunk_ms: Option<u64> = None;
         let total_steps = plan.len();
 
         for (idx, step) in plan.into_iter().enumerate() {
@@ -929,6 +1064,9 @@ impl SpeechEngine {
             };
 
             send_chunk_cancellable(pcm_tx, chunk, cancel)?;
+            if first_chunk_ms.is_none() {
+                first_chunk_ms = Some(t0.elapsed().as_millis() as u64);
+            }
 
             if let Some((samples, chunk_sr)) = copy_for_cache {
                 let dst_sr = *collected_sample_rate_hz.get_or_insert(chunk_sr);
@@ -936,11 +1074,24 @@ impl SpeechEngine {
             }
         }
 
+        let total_ms = t0.elapsed().as_millis() as u64;
+        let metrics = TtsSynthMetrics {
+            first_chunk_ms: first_chunk_ms.unwrap_or(total_ms),
+            total_ms,
+        };
+        tracing::debug!(
+            %lang,
+            tts_first_chunk_ms = metrics.first_chunk_ms,
+            tts_total_ms = metrics.total_ms,
+            backend = self.tts_backend_name(),
+            "TTS synthesis completed"
+        );
+
         if !collect || collected.is_empty() || cancel.is_cancelled() {
-            return Ok(None);
+            return Ok((None, metrics));
         }
 
-        Ok(collected_sample_rate_hz.map(|sr| (collected, sr)))
+        Ok((collected_sample_rate_hz.map(|sr| (collected, sr)), metrics))
     }
 
     fn active_sample_rate_hz(&self) -> u32 {
@@ -1476,7 +1627,8 @@ pub fn patch_piper_onnx_dir(dir: &Path) -> Result<Vec<PathBuf>, AiError> {
             AiError::ModelLoad(format!("reading ONNX '{}': {err}", onnx_path.display()))
         })?;
         let existing_keys = scan_onnx_metadata_keys(&onnx_bytes)?;
-        let missing_props = build_missing_piper_metadata(&existing_keys, Some(&meta), inferred_lang);
+        let missing_props =
+            build_missing_piper_metadata(&existing_keys, Some(&meta), inferred_lang);
         if !missing_props.is_empty() {
             let patched_bytes = append_onnx_metadata_props(&onnx_bytes, &missing_props);
             write_file_atomic(&onnx_path, &patched_bytes).map_err(|err| {
@@ -1577,6 +1729,11 @@ fn load_tts_for_language(
     speed: f32,
 ) -> Result<Option<PiperTts>, AiError> {
     let Some(discovery) = discover_piper_files(models_dir, lang) else {
+        tracing::warn!(
+            %lang,
+            models_dir = %models_dir.display(),
+            "Piper VITS TTS model absent; falling back to espeak-ng"
+        );
         return Ok(None);
     };
 
@@ -1586,11 +1743,19 @@ fn load_tts_for_language(
         .and_then(|p| fs::read_to_string(p).ok())
         .and_then(|raw| parse_piper_onnx_json(&raw));
 
-    let Ok((compatible_onnx, tokens_path)) =
-        ensure_piper_sherpa_compatible(&discovery, parsed_meta.as_ref(), lang)
-    else {
-        return Ok(None);
-    };
+    let (compatible_onnx, tokens_path) =
+        match ensure_piper_sherpa_compatible(&discovery, parsed_meta.as_ref(), lang) {
+            Ok(pair) => pair,
+            Err(err) => {
+                tracing::warn!(
+                    %lang,
+                    onnx_path = %discovery.onnx_path.display(),
+                    error = %err,
+                    "Piper VITS compatibility setup failed; falling back to espeak-ng"
+                );
+                return Ok(None);
+            }
+        };
 
     let valid_phoneme_chars = read_tokens_char_set(&tokens_path);
     let espeak_voice = parsed_meta
@@ -1624,8 +1789,8 @@ fn load_tts_for_language(
         .onnx_path
         .parent()
         .unwrap_or_else(|| Path::new("."));
-    let data_dir = discover_espeak_data_dir(onnx_dir, models_dir)
-        .and_then(|p| path_to_c_safe_string(&p).ok());
+    let data_dir =
+        discover_espeak_data_dir(onnx_dir, models_dir).and_then(|p| path_to_c_safe_string(&p).ok());
 
     let Ok(model_str) = path_to_c_safe_string(&compatible_onnx) else {
         return Ok(None);
@@ -1662,6 +1827,11 @@ fn load_tts_for_language(
 
     // If `OfflineTts::create` returns `None`, seamlessly fall back to `espeak-ng`.
     let Some(engine) = OfflineTts::create(&cfg) else {
+        tracing::warn!(
+            %lang,
+            onnx_path = %discovery.onnx_path.display(),
+            "OfflineTts::create returned None for Piper VITS; falling back to espeak-ng"
+        );
         return Ok(None);
     };
     let sr = engine.sample_rate();
@@ -1786,9 +1956,7 @@ fn ensure_piper_sherpa_compatible_in(
                 }
                 scan_onnx_metadata_keys(&bytes).ok()
             })
-            .is_none_or(|keys| {
-                !keys.contains("sample_rate") || !keys.contains("model_type")
-            })
+            .is_none_or(|keys| !keys.contains("sample_rate") || !keys.contains("model_type"))
     } else {
         true
     };
@@ -1900,9 +2068,9 @@ fn discover_espeak_data_dir(onnx_dir: &Path, models_dir: &Path) -> Option<PathBu
         .map(PathBuf::from),
     );
 
-    candidates
-        .into_iter()
-        .find(|dir| dir.is_dir() && (dir.join("phontab").is_file() || dir.join("phonindex").is_file()))
+    candidates.into_iter().find(|dir| {
+        dir.is_dir() && (dir.join("phontab").is_file() || dir.join("phonindex").is_file())
+    })
 }
 
 // --- Pure-Rust ONNX ModelProto.metadata_props (field 14) scanner & patcher ---
@@ -1959,9 +2127,9 @@ fn skip_proto_field(buf: &[u8], pos: &mut usize, wire_type: u64) -> Result<(), A
             let len_u64 = read_proto_varint(buf, pos)?;
             let len = usize::try_from(len_u64)
                 .map_err(|_| AiError::ModelLoad("protobuf length overflow in ONNX".to_string()))?;
-            let end = pos
-                .checked_add(len)
-                .ok_or_else(|| AiError::ModelLoad("protobuf length overflow in ONNX".to_string()))?;
+            let end = pos.checked_add(len).ok_or_else(|| {
+                AiError::ModelLoad("protobuf length overflow in ONNX".to_string())
+            })?;
             if end > buf.len() {
                 return Err(AiError::ModelLoad(
                     "truncated length-delimited protobuf field in ONNX".to_string(),
@@ -2005,9 +2173,9 @@ fn parse_string_string_entry_key(entry: &[u8]) -> Result<Option<String>, AiError
             let end = pos.checked_add(len).ok_or_else(|| {
                 AiError::ModelLoad("protobuf string length overflow in ONNX".to_string())
             })?;
-            let raw = entry.get(pos..end).ok_or_else(|| {
-                AiError::ModelLoad("truncated metadata key in ONNX".to_string())
-            })?;
+            let raw = entry
+                .get(pos..end)
+                .ok_or_else(|| AiError::ModelLoad("truncated metadata key in ONNX".to_string()))?;
             key = Some(String::from_utf8_lossy(raw).into_owned());
             pos = end;
         } else {
@@ -2912,7 +3080,10 @@ mod tests {
             detect_text_language("Virtue brings honour and wisdom.", Language::Tamil),
             Language::English
         );
-        assert_eq!(detect_text_language("1330", Language::Tamil), Language::Tamil);
+        assert_eq!(
+            detect_text_language("1330", Language::Tamil),
+            Language::Tamil
+        );
     }
 
     #[test]
@@ -2973,11 +3144,8 @@ mod tests {
     fn build_synthetic_model_proto() -> Vec<u8> {
         let mut out = vec![
             // field 1: ir_version = 8 (varint)
-            0x08,
-            0x08,
-            // field 2: producer_name = "pytorch" (length-delimited)
-            0x12,
-            7,
+            0x08, 0x08, // field 2: producer_name = "pytorch" (length-delimited)
+            0x12, 7,
         ];
         out.extend_from_slice(b"pytorch");
         // field 7: graph = empty GraphProto (length-delimited)
@@ -3138,7 +3306,15 @@ mod tests {
 
     #[test]
     fn vits_peak_ceiling_clamps_hot_samples_and_guards_non_finite() {
-        let raw = [0.0_f32, 1.5, -1.2, f32::NAN, f32::INFINITY, f32::NEG_INFINITY, 0.3];
+        let raw = [
+            0.0_f32,
+            1.5,
+            -1.2,
+            f32::NAN,
+            f32::INFINITY,
+            f32::NEG_INFINITY,
+            0.3,
+        ];
         let pcm = scale_vits_samples_to_i16(&raw);
         assert_eq!(pcm.len(), raw.len());
         assert_eq!(pcm[3], 0);
@@ -3149,17 +3325,18 @@ mod tests {
             .map(|&s| (f32::from(s) / 32767.0).abs())
             .fold(0.0_f32, f32::max);
         assert!(peak <= 0.86, "expected peak <= 0.86, got {peak}");
-        assert!(peak > 0.84, "expected normalized peak near ceiling, got {peak}");
+        assert!(
+            peak > 0.84,
+            "expected normalized peak near ceiling, got {peak}"
+        );
     }
 
     #[test]
     fn couplet_and_line_pauses_use_expected_durations() {
         assert_eq!(COUPLET_PAUSE_MS, 350);
         assert_eq!(LINE_PAUSE_MS, 150);
-        let plan = build_synthesis_plan(
-            &["அகர முதல\nபகவன் முதற்றே", "பொருள் விளக்கம்"],
-            Language::Tamil,
-        );
+        let plan =
+            build_synthesis_plan(&["அகர முதல\nபகவன் முதற்றே", "பொருள் விளக்கம்"], Language::Tamil);
         assert_eq!(plan.len(), 5);
         assert_eq!(plan[1], SynthStep::PauseMs(LINE_PAUSE_MS));
         assert_eq!(plan[3], SynthStep::PauseMs(COUPLET_PAUSE_MS));

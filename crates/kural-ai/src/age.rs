@@ -390,7 +390,7 @@ pub fn extract_vocal_tract_features(
             prev_norm_mag.copy_from_slice(&cur_norm_mag);
 
             // Compute YIN on every even frame (20 ms grid) for ranking; odd selected frames are evaluated below.
-            let yin_res = if cur_idx % 2 == 0 {
+            let yin_res = if cur_idx.is_multiple_of(2) {
                 let mut yin_buffers = YinBuffers {
                     fft_fwd: yin_fwd,
                     fft_inv: yin_inv,

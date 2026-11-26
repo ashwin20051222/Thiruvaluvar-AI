@@ -5,7 +5,7 @@
 use crate::components::ContentPlaybackButton;
 use crate::components::icons::{MicIcon, ReplayIcon, SearchIcon, SpeakerIcon, StopSquareIcon};
 use crate::copy::{mask_game_blank, paginate_sentences, tr};
-use crate::state::{AppContext, is_voice_active};
+use crate::state::{AppContext, is_voice_active, is_voice_cancellable};
 use dioxus::prelude::*;
 use kural_core::{
     AudioPlaybackStatus, AudioState, BackendCommand, Language, ModalKind, SearchTab, SpeakTarget,
@@ -499,6 +499,7 @@ fn AiChatModal(seed_kural: Option<u16>) -> Element {
     let snap = ctx.snapshot.read().clone();
     let lang = snap.prefs.lang;
     let voice_active = is_voice_active(snap.audio_state);
+    let voice_cancellable = is_voice_cancellable(snap.audio_state);
     let is_speaking = snap.audio_state == AudioState::PlayingTts;
     let answer = ctx.ai_answer.read().clone();
 
@@ -561,10 +562,14 @@ fn AiChatModal(seed_kural: Option<u16>) -> Element {
             div { class: "ai-input-bar",
                 button {
                     r#type: "button",
-                    class: if voice_active { "icon-circle-btn action-pill-stop ai-mic-btn" } else { "icon-circle-btn action-pill-primary ai-mic-btn" },
+                    class: if voice_active {
+                        "icon-circle-btn action-pill-stop ai-mic-btn is-listening"
+                    } else {
+                        "icon-circle-btn action-pill-primary ai-mic-btn"
+                    },
                     aria_label: tr(lang, "பேசி கேள்", "Ask by voice"),
                     onclick: move |_| {
-                        if voice_active {
+                        if voice_cancellable {
                             ctx.dispatch(BackendCommand::CancelVoice);
                         } else {
                             ctx.dispatch(BackendCommand::StartVoiceCommand);

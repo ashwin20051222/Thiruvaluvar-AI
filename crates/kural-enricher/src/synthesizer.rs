@@ -18,14 +18,7 @@ const PROTAGONISTS: [(&str, &str); 6] = [
     ("தமிழினி", "Tamizhini"),
 ];
 
-const FALLBACK_TAMIL_WORDS: [&str; 6] = [
-    "அறிவு",
-    "பண்பு",
-    "உண்மை",
-    "முயற்சி",
-    "கருணை",
-    "நட்பு",
-];
+const FALLBACK_TAMIL_WORDS: [&str; 6] = ["அறிவு", "பண்பு", "உண்மை", "முயற்சி", "கருணை", "நட்பு"];
 
 /// Truncate `text` cleanly on a whitespace boundary to at most `max_chars` scalar values.
 fn excerpt_clean(text: &str, max_chars: usize) -> String {
@@ -115,12 +108,7 @@ fn build_game_options(
     }
 
     let slot = usize::from(kural.number) % 4;
-    let mut ta_arr = [
-        String::new(),
-        String::new(),
-        String::new(),
-        String::new(),
-    ];
+    let mut ta_arr = [String::new(), String::new(), String::new(), String::new()];
     let mut d_idx = 0usize;
     for (i, out) in ta_arr.iter_mut().enumerate() {
         if i == slot {
@@ -159,12 +147,7 @@ fn build_game_options(
         }
     }
 
-    let mut en_arr = [
-        String::new(),
-        String::new(),
-        String::new(),
-        String::new(),
-    ];
+    let mut en_arr = [String::new(), String::new(), String::new(), String::new()];
     let mut e_idx = 0usize;
     for (i, out) in en_arr.iter_mut().enumerate() {
         if i == slot {
@@ -310,20 +293,44 @@ fn build_youth_payload(
 
     let (action_tip_ta, action_tip_en) = match iyal.id {
         1 | 4 => (
-            format!("இன்று '{}' குறள் {} நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.", adhikaram.name_ta, kural.number),
-            format!("Spend 15 distraction-free minutes today reflecting on Kural {} ({}) and writing one clear priority.", kural.number, adhikaram.name_en),
+            format!(
+                "இன்று '{}' குறள் {} நெறியை நினைவில் கொண்டு 15 நிமிடம் கவனச் சிதறலின்றிப் படி அல்லது சிந்தி.",
+                adhikaram.name_ta, kural.number
+            ),
+            format!(
+                "Spend 15 distraction-free minutes today reflecting on Kural {} ({}) and writing one clear priority.",
+                kural.number, adhikaram.name_en
+            ),
         ),
         2 | 3 => (
-            format!("இன்று ஒருவரிடம் கனிவாகப் பேசி '{}' பண்பைச் செயலில் காட்டு.", adhikaram.name_ta),
-            format!("Practice '{}' today by speaking kindly and doing one unprompted helpful act at home or school.", adhikaram.name_en),
+            format!(
+                "இன்று ஒருவரிடம் கனிவாகப் பேசி '{}' பண்பைச் செயலில் காட்டு.",
+                adhikaram.name_ta
+            ),
+            format!(
+                "Practice '{}' today by speaking kindly and doing one unprompted helpful act at home or school.",
+                adhikaram.name_en
+            ),
         ),
         5..=7 => (
-            format!("இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் '{}' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.", adhikaram.name_ta),
-            format!("Before making a group or study decision today, pause for two minutes to apply '{}' thoughtfully.", adhikaram.name_en),
+            format!(
+                "இன்று ஒரு முடிவெடுக்கும் முன் அவசரப்படாமல் '{}' கூறும் கோணத்தில் 2 நிமிடம் ஆராய்ந்து செயல்படு.",
+                adhikaram.name_ta
+            ),
+            format!(
+                "Before making a group or study decision today, pause for two minutes to apply '{}' thoughtfully.",
+                adhikaram.name_en
+            ),
         ),
         _ => (
-            format!("இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து '{}' பண்போடு நடந்துகொள்.", adhikaram.name_ta),
-            format!("Listen empathetically to a family member or friend today, honoring the spirit of '{}'.", adhikaram.name_en),
+            format!(
+                "இன்று குடும்பத்தினர் அல்லது நண்பர்களின் உணர்வுகளை மதித்து '{}' பண்போடு நடந்துகொள்.",
+                adhikaram.name_ta
+            ),
+            format!(
+                "Listen empathetically to a family member or friend today, honoring the spirit of '{}'.",
+                adhikaram.name_en
+            ),
         ),
     };
 
@@ -498,8 +505,7 @@ pub fn synthesize_all_chapters(
     canonical: &CanonicalDataset,
 ) -> Result<BTreeMap<u8, EnrichedChapterFile>> {
     let mut map = BTreeMap::new();
-    let div_map: HashMap<u8, &Division> =
-        canonical.divisions.iter().map(|d| (d.id, d)).collect();
+    let div_map: HashMap<u8, &Division> = canonical.divisions.iter().map(|d| (d.id, d)).collect();
     let iyal_map: HashMap<u8, &Iyal> = canonical.iyals.iter().map(|i| (i.id, i)).collect();
     let _ = (div_map, iyal_map);
 
@@ -538,5 +544,119 @@ mod tests {
         assert_eq!(total_kurals, 1330);
         assert!(total_tags >= 2660);
     }
-}
 
+    #[test]
+    fn synthesize_chapter_is_deterministic_across_divisions() {
+        let root = PathBuf::from(env!("CARGO_MANIFEST_DIR"))
+            .parent()
+            .and_then(|p| p.parent())
+            .expect("workspace root")
+            .to_path_buf();
+        let canonical =
+            load_and_audit_canonical(&root.join("seed_data/canonical")).expect("canonical audit");
+
+        for ad_id in [1u8, 4, 39, 43, 109, 133] {
+            let mut first = synthesize_chapter(&canonical, ad_id).expect("first synthesis");
+            let mut second = synthesize_chapter(&canonical, ad_id).expect("second synthesis");
+            assert!(!first.generated_at.is_empty());
+            assert!(!second.generated_at.is_empty());
+            first.generated_at.clear();
+            second.generated_at.clear();
+            assert_eq!(
+                first, second,
+                "synthesize_chapter must be deterministic for adhikaram #{ad_id}"
+            );
+        }
+    }
+
+    #[test]
+    fn synthesized_records_preserve_nfc_blank_words_and_quiz_bounds() {
+        let root = PathBuf::from(env!("CARGO_MANIFEST_DIR"))
+            .parent()
+            .and_then(|p| p.parent())
+            .expect("workspace root")
+            .to_path_buf();
+        let canonical =
+            load_and_audit_canonical(&root.join("seed_data/canonical")).expect("canonical audit");
+        let kural_by_num: HashMap<u16, &KuralCore> =
+            canonical.kurals.iter().map(|k| (k.number, k)).collect();
+
+        let chapters = synthesize_all_chapters(&canonical).expect("synthesize all 133");
+        for chapter in chapters.values() {
+            for rec in &chapter.kurals {
+                let kural = kural_by_num
+                    .get(&rec.kural_number)
+                    .expect("canonical kural present");
+
+                for (label, text) in [
+                    (
+                        "child.simple_meaning_ta",
+                        rec.child.simple_meaning_ta.as_str(),
+                    ),
+                    ("child.story_title_ta", rec.child.story_title_ta.as_str()),
+                    ("child.kutty_story_ta", rec.child.kutty_story_ta.as_str()),
+                    ("child.moral_ta", rec.child.moral_ta.as_str()),
+                    (
+                        "child.game_blank_word_ta",
+                        rec.child.game_blank_word_ta.as_str(),
+                    ),
+                    ("youth.analysis_ta", rec.youth.analysis_ta.as_str()),
+                    ("youth.action_tip_ta", rec.youth.action_tip_ta.as_str()),
+                    (
+                        "youth.quiz_question_ta",
+                        rec.youth.quiz_question_ta.as_str(),
+                    ),
+                    ("adult.reflection_ta", rec.adult.reflection_ta.as_str()),
+                ] {
+                    assert!(
+                        kural_core::is_nfc(text),
+                        "kural #{}: {label} is not Unicode NFC",
+                        rec.kural_number
+                    );
+                }
+
+                for opt in &rec.child.game_options_ta {
+                    assert!(
+                        kural_core::is_nfc(opt),
+                        "kural #{}: child.game_options_ta entry is not NFC",
+                        rec.kural_number
+                    );
+                }
+                for opt in &rec.youth.quiz_options_ta {
+                    assert!(
+                        kural_core::is_nfc(opt),
+                        "kural #{}: youth.quiz_options_ta entry is not NFC",
+                        rec.kural_number
+                    );
+                }
+
+                let combined_ta = format!("{} {}", kural.line1_ta, kural.line2_ta);
+                assert!(
+                    combined_ta.contains(&rec.child.game_blank_word_ta)
+                        && kural_core::contains_exact_kural_word(
+                            &kural.line1_ta,
+                            &kural.line2_ta,
+                            &rec.child.game_blank_word_ta,
+                        ),
+                    "kural #{}: game_blank_word_ta '{}' not verbatim in Kural text",
+                    rec.kural_number,
+                    rec.child.game_blank_word_ta
+                );
+                assert!(
+                    rec.child
+                        .game_options_ta
+                        .iter()
+                        .any(|opt| opt == &rec.child.game_blank_word_ta),
+                    "kural #{}: game_options_ta missing game_blank_word_ta",
+                    rec.kural_number
+                );
+                assert!(
+                    rec.youth.quiz_correct_idx < 4,
+                    "kural #{}: quiz_correct_idx {} out of bounds",
+                    rec.kural_number,
+                    rec.youth.quiz_correct_idx
+                );
+            }
+        }
+    }
+}

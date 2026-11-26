@@ -14,18 +14,14 @@ pub fn normalize_nfc_trimmed(input: &str) -> String {
 
 /// Return true if `input` is already in Unicode NFC normalized form.
 pub fn is_nfc(input: &str) -> bool {
-    matches!(is_nfc_quick(input.chars()), IsNormalized::Yes)
-        || input.nfc().eq(input.chars())
+    matches!(is_nfc_quick(input.chars()), IsNormalized::Yes) || input.nfc().eq(input.chars())
 }
 
 /// Return the first extended Unicode grapheme cluster of `text` (trimmed),
 /// preserving compound Tamil letters like `கெ`, `கு`, `எ`, `கொ`, or `க்ஷ`.
 pub fn opening_grapheme_ta(text: &str) -> Option<String> {
     let normalized = normalize_nfc_trimmed(text);
-    normalized
-        .graphemes(true)
-        .next()
-        .map(ToString::to_string)
+    normalized.graphemes(true).next().map(ToString::to_string)
 }
 
 fn trim_edge_punctuation(token: &str) -> &str {
@@ -225,4 +221,3 @@ mod tests {
         );
     }
 }
-

@@ -114,10 +114,10 @@ where
 
     if let Ok(devices) = enumerate() {
         for device in devices {
-            if let Ok(desc) = device.description() {
-                if matches_device_name(desc.name(), pattern) {
-                    return Some(device);
-                }
+            if let Ok(desc) = device.description()
+                && matches_device_name(desc.name(), pattern)
+            {
+                return Some(device);
             }
         }
     }

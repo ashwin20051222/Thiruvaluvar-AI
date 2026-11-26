@@ -12,6 +12,7 @@ use kural_core::{
     SearchOutcome, Tag,
 };
 use rusqlite::{Connection, OpenFlags, OptionalExtension, params};
+use std::collections::HashSet;
 use std::fs;
 use std::path::{Path, PathBuf};
 use std::sync::{Arc, Mutex};
@@ -131,7 +132,8 @@ impl KuralDb {
         };
 
         conn.execute_batch(
-            "PRAGMA query_only = ON;
+            "PRAGMA busy_timeout = 3000;
+             PRAGMA query_only = ON;
              PRAGMA foreign_keys = ON;
              PRAGMA cache_size = -16000;
              PRAGMA temp_store = MEMORY;
@@ -160,9 +162,10 @@ impl KuralDb {
             match Model2VecEmbedder::load(&emb_dir) {
                 Ok(emb) => db.embedder = Some(Arc::new(emb)),
                 Err(err) => {
-                    eprintln!(
-                        "WARNING: could not load embeddings model at {}: {err}; continuing with FTS5 only",
-                        emb_dir.display()
+                    tracing::warn!(
+                        path = %emb_dir.display(),
+                        error = %err,
+                        "could not load embeddings model; continuing with FTS5 only"
                     );
                 }
             }
@@ -803,7 +806,7 @@ impl KuralDb {
         })
     }
 
-    /// Inspect table counts, build mode, file size, and SQLite integrity check.
+    /// Inspect table counts, build mode, file size, and SQLite quick integrity check.
     pub fn stats(&self) -> Result<DbStats, DbError> {
         let file_size_bytes = fs::metadata(&self.path)
             .map_err(|source| DbError::Io {
@@ -813,15 +816,14 @@ impl KuralDb {
             .len();
 
         self.with_conn(|conn| {
-            let count = |table: &str| -> Result<usize, DbError> {
-                let exists: Option<i64> = conn
-                    .query_row(
-                        "SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = ?1",
-                        params![table],
-                        |r| r.get(0),
-                    )
-                    .optional()?;
-                if exists.is_none() {
+            let mut table_stmt =
+                conn.prepare("SELECT name FROM sqlite_master WHERE type = 'table'")?;
+            let table_set: HashSet<String> = table_stmt
+                .query_map([], |r| r.get::<_, String>(0))?
+                .collect::<Result<HashSet<_>, _>>()?;
+
+            let count_if_present = |table: &str| -> Result<usize, DbError> {
+                if !table_set.contains(table) {
                     return Ok(0);
                 }
                 let sql = format!("SELECT COUNT(*) FROM {table}");
@@ -829,31 +831,110 @@ impl KuralDb {
                 Ok(usize::try_from(n).unwrap_or(0))
             };
 
-            let build_mode: String = conn
-                .query_row(
+            const CORE_TABLES: [&str; 10] = [
+                "divisions",
+                "iyals",
+                "adhikarams",
+                "kurals",
+                "kural_child",
+                "kural_youth",
+                "kural_adult",
+                "tags",
+                "kural_tags",
+                "knowledge_base",
+            ];
+            let all_core_present = CORE_TABLES.iter().all(|t| table_set.contains(*t));
+
+            let (
+                divisions,
+                iyals,
+                adhikarams,
+                kurals,
+                kural_child,
+                kural_youth,
+                kural_adult,
+                tags,
+                kural_tags,
+                knowledge_base,
+            ) = if all_core_present {
+                conn.query_row(
+                    "SELECT
+                        (SELECT COUNT(*) FROM divisions),
+                        (SELECT COUNT(*) FROM iyals),
+                        (SELECT COUNT(*) FROM adhikarams),
+                        (SELECT COUNT(*) FROM kurals),
+                        (SELECT COUNT(*) FROM kural_child),
+                        (SELECT COUNT(*) FROM kural_youth),
+                        (SELECT COUNT(*) FROM kural_adult),
+                        (SELECT COUNT(*) FROM tags),
+                        (SELECT COUNT(*) FROM kural_tags),
+                        (SELECT COUNT(*) FROM knowledge_base)",
+                    [],
+                    |r| {
+                        let to_usize = |col: usize| -> rusqlite::Result<usize> {
+                            let n: i64 = r.get(col)?;
+                            Ok(usize::try_from(n).unwrap_or(0))
+                        };
+                        Ok((
+                            to_usize(0)?,
+                            to_usize(1)?,
+                            to_usize(2)?,
+                            to_usize(3)?,
+                            to_usize(4)?,
+                            to_usize(5)?,
+                            to_usize(6)?,
+                            to_usize(7)?,
+                            to_usize(8)?,
+                            to_usize(9)?,
+                        ))
+                    },
+                )?
+            } else {
+                (
+                    count_if_present("divisions")?,
+                    count_if_present("iyals")?,
+                    count_if_present("adhikarams")?,
+                    count_if_present("kurals")?,
+                    count_if_present("kural_child")?,
+                    count_if_present("kural_youth")?,
+                    count_if_present("kural_adult")?,
+                    count_if_present("tags")?,
+                    count_if_present("kural_tags")?,
+                    count_if_present("knowledge_base")?,
+                )
+            };
+
+            let kural_embeddings = count_if_present("kural_embeddings")?;
+            let knowledge_embeddings = count_if_present("knowledge_embeddings")?;
+
+            let build_mode: String = if table_set.contains("db_meta") {
+                conn.query_row(
                     "SELECT value FROM db_meta WHERE key = 'build_mode'",
                     [],
                     |r| r.get(0),
                 )
                 .optional()?
-                .unwrap_or_else(|| "unknown".to_string());
+                .unwrap_or_else(|| "unknown".to_string())
+            } else {
+                "unknown".to_string()
+            };
 
             let integrity_check: String =
-                conn.query_row("PRAGMA integrity_check;", [], |r| r.get(0))?;
+                conn.query_row("PRAGMA quick_check;", [], |r| r.get(0))?;
 
             Ok(DbStats {
-                divisions: count("divisions")?,
-                iyals: count("iyals")?,
-                adhikarams: count("adhikarams")?,
-                kurals: count("kurals")?,
-                kural_child: count("kural_child")?,
-                kural_youth: count("kural_youth")?,
-                kural_adult: count("kural_adult")?,
-                tags: count("tags")?,
-                kural_tags: count("kural_tags")?,
-                knowledge_base: count("knowledge_base")?,
-                kural_embeddings: count("kural_embeddings")?,
-                knowledge_embeddings: count("knowledge_embeddings")?,
+                divisions,
+                iyals,
+                adhikarams,
+                kurals,
+                kural_child,
+                kural_youth,
+                kural_adult,
+                tags,
+                kural_tags,
+                knowledge_base,
+                kural_embeddings,
+                knowledge_embeddings,
                 build_mode,
                 integrity_check,
                 file_size_bytes,

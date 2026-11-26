@@ -2,7 +2,97 @@ use crate::DbError;
 use kural_core::{FullKural, KnowledgeEntry};
 use model2vec_rs::model::StaticModel;
 use rusqlite::{Connection, params};
+use std::fs::File;
+use std::io::{Read, Seek, SeekFrom};
 use std::path::Path;
+
+const FNV_OFFSET_BASIS: u64 = 0xcbf2_9ce4_8422_2325;
+const FNV_PRIME: u64 = 0x0100_0000_01b3;
+const MODEL_HASH_CHUNK_BYTES: u64 = 64 * 1024;
+
+fn fnv1a_update(hash: &mut u64, bytes: &[u8]) {
+    for &b in bytes {
+        *hash ^= u64::from(b);
+        *hash = hash.wrapping_mul(FNV_PRIME);
+    }
+}
+
+fn hash_file_into_fnv1a(hash: &mut u64, label: &str, path: &Path) -> Result<(), DbError> {
+    fnv1a_update(hash, label.as_bytes());
+    fnv1a_update(hash, &[0u8]);
+
+    let mut file = File::open(path).map_err(|source| DbError::Io {
+        path: path.to_path_buf(),
+        source,
+    })?;
+    let file_len = file
+        .metadata()
+        .map_err(|source| DbError::Io {
+            path: path.to_path_buf(),
+            source,
+        })?
+        .len();
+    fnv1a_update(hash, &file_len.to_le_bytes());
+
+    if file_len <= MODEL_HASH_CHUNK_BYTES * 2 {
+        let mut buf = Vec::with_capacity(usize::try_from(file_len).unwrap_or(0));
+        file.read_to_end(&mut buf).map_err(|source| DbError::Io {
+            path: path.to_path_buf(),
+            source,
+        })?;
+        fnv1a_update(hash, &buf);
+    } else {
+        let chunk_len = usize::try_from(MODEL_HASH_CHUNK_BYTES).unwrap_or(65_536);
+        let mut head = vec![0u8; chunk_len];
+        file.read_exact(&mut head).map_err(|source| DbError::Io {
+            path: path.to_path_buf(),
+            source,
+        })?;
+        fnv1a_update(hash, &head);
+
+        let tail_offset = i64::try_from(MODEL_HASH_CHUNK_BYTES).unwrap_or(65_536);
+        file.seek(SeekFrom::End(-tail_offset))
+            .map_err(|source| DbError::Io {
+                path: path.to_path_buf(),
+                source,
+            })?;
+        let mut tail = vec![0u8; chunk_len];
+        file.read_exact(&mut tail).map_err(|source| DbError::Io {
+            path: path.to_path_buf(),
+            source,
+        })?;
+        fnv1a_update(hash, &tail);
+    }
+    Ok(())
+}
+
+/// Compute a deterministic 64-bit FNV-1a hex hash string incorporating file lengths and contents
+/// (or head+tail 64 KiB for large `model.safetensors`, plus `tokenizer.json` and `config.json` if
+/// present) under `models_dir`.
+pub fn compute_embeddings_model_hash(models_dir: &Path) -> Result<String, DbError> {
+    if !models_dir.is_dir() {
+        return Err(DbError::Io {
+            path: models_dir.to_path_buf(),
+            source: std::io::Error::new(
+                std::io::ErrorKind::NotFound,
+                "embeddings model directory not found",
+            ),
+        });
+    }
+
+    let mut hash = FNV_OFFSET_BASIS;
+    let weights_path = models_dir.join("model.safetensors");
+    hash_file_into_fnv1a(&mut hash, "model.safetensors", &weights_path)?;
+
+    for optional_name in ["tokenizer.json", "config.json"] {
+        let p = models_dir.join(optional_name);
+        if p.is_file() {
+            hash_file_into_fnv1a(&mut hash, optional_name, &p)?;
+        }
+    }
+
+    Ok(format!("{hash:016x}"))
+}
 
 /// Quantize a float embedding vector into signed `i8` plus precomputed Euclidean L2 norm.
 pub fn quantize_l2_i8(vec: &[f32]) -> (Vec<i8>, f32) {
@@ -217,6 +307,18 @@ pub fn index_database_embeddings(
     embedder: &dyn TextEmbedder,
     mode_label: &str,
 ) -> Result<(usize, usize), DbError> {
+    index_database_embeddings_with_hash(db_path, embedder, mode_label, None)
+}
+
+/// Populate `kural_embeddings` (`1,330` rows) and `knowledge_embeddings` (`>= 40` rows) in a single
+/// atomic transaction inside an existing `thirukkural.db`, recording `embeddings_model_hash` in
+/// `db_meta` and leaving the database compacted in `DELETE` journal mode.
+pub fn index_database_embeddings_with_hash(
+    db_path: &Path,
+    embedder: &dyn TextEmbedder,
+    mode_label: &str,
+    model_hash: Option<&str>,
+) -> Result<(usize, usize), DbError> {
     if !db_path.is_file() {
         return Err(DbError::DatabaseNotFound {
             primary: db_path.to_path_buf(),
@@ -242,9 +344,20 @@ pub fn index_database_embeddings(
     }
     drop(kural_db);
 
+    let resolved_hash = match model_hash {
+        Some(h) => h.to_string(),
+        None => {
+            let input = format!("{mode_label}:{}", embedder.dim());
+            let mut h = FNV_OFFSET_BASIS;
+            fnv1a_update(&mut h, input.as_bytes());
+            format!("{h:016x}")
+        }
+    };
+
     let mut conn = Connection::open(db_path)?;
     conn.execute_batch(
-        "PRAGMA journal_mode = WAL;
+        "PRAGMA busy_timeout = 3000;
+         PRAGMA journal_mode = WAL;
          PRAGMA synchronous = NORMAL;
          PRAGMA foreign_keys = ON;",
     )?;
@@ -288,6 +401,10 @@ pub fn index_database_embeddings(
         "INSERT OR REPLACE INTO db_meta (key, value) VALUES ('embeddings_dim', ?1)",
         params![embedder.dim().to_string()],
     )?;
+    tx.execute(
+        "INSERT OR REPLACE INTO db_meta (key, value) VALUES ('embeddings_model_hash', ?1)",
+        params![resolved_hash],
+    )?;
     tx.commit()?;
 
     conn.execute_batch(
@@ -309,6 +426,8 @@ pub fn index_database_embeddings(
 #[cfg(test)]
 mod tests {
     use super::*;
+    use std::io::Write;
+    use tempfile::TempDir;
 
     #[test]
     fn quantize_and_cosine_handle_zero_and_matching_vectors() {
@@ -326,5 +445,97 @@ mod tests {
         let (qc, nc) = quantize_l2_i8(&[-1.0_f32, -0.5, 0.25, -0.75]);
         let neg_sim = cosine_i8(&qa, na, &qc, nc);
         assert!(neg_sim < -0.999, "expected ~-1.0, got {neg_sim}");
+    }
+
+    #[test]
+    fn compute_embeddings_model_hash_is_deterministic_and_tracks_head_tail_and_configs() {
+        let dir = TempDir::new().expect("tempdir");
+        let weights = dir.path().join("model.safetensors");
+        {
+            let mut f = File::create(&weights).expect("create weights");
+            let buf = vec![0xABu8; 200 * 1024];
+            f.write_all(&buf).expect("write weights");
+        }
+        std::fs::write(dir.path().join("tokenizer.json"), b"{\"tok\":1}").expect("tokenizer");
+        std::fs::write(dir.path().join("config.json"), b"{\"dim\":256}").expect("config");
+
+        let h1 = compute_embeddings_model_hash(dir.path()).expect("hash 1");
+        let h2 = compute_embeddings_model_hash(dir.path()).expect("hash 2");
+        assert_eq!(h1.len(), 16);
+        assert_eq!(h1, h2);
+
+        // Mutating tail byte of large file changes the hash.
+        {
+            let mut f = std::fs::OpenOptions::new()
+                .write(true)
+                .open(&weights)
+                .expect("open weights");
+            f.seek(SeekFrom::End(-1)).expect("seek end");
+            f.write_all(&[0xCD]).expect("overwrite tail");
+        }
+        let h3 = compute_embeddings_model_hash(dir.path()).expect("hash 3");
+        assert_ne!(h1, h3);
+
+        // Mutating config.json also changes the hash.
+        std::fs::write(dir.path().join("config.json"), b"{\"dim\":512}").expect("config 2");
+        let h4 = compute_embeddings_model_hash(dir.path()).expect("hash 4");
+        assert_ne!(h3, h4);
+    }
+
+    #[test]
+    fn index_database_embeddings_with_hash_persists_meta() {
+        let root = Path::new(env!("CARGO_MANIFEST_DIR"))
+            .parent()
+            .and_then(|p| p.parent())
+            .expect("workspace root");
+        let canonical = kural_core::load_and_audit_canonical(&root.join("seed_data/canonical"))
+            .expect("canonical audit");
+        let knowledge = crate::load_knowledge_base(&root.join("seed_data/knowledge_base.json"))
+            .expect("knowledge base");
+
+        let dir = TempDir::new().expect("tempdir");
+        let db_path = dir.path().join("thirukkural_hash_meta.db");
+        crate::compile_database(
+            &canonical,
+            &std::collections::BTreeMap::new(),
+            &knowledge,
+            &db_path,
+            false,
+        )
+        .expect("compile partial db");
+
+        let (k_cnt, kb_cnt) = index_database_embeddings_with_hash(
+            &db_path,
+            &TestHashEmbedder,
+            "test-hash",
+            Some("deadbeefcafebabe"),
+        )
+        .expect("index embeddings with hash");
+        assert_eq!(k_cnt, 1330);
+        assert!(kb_cnt >= 40);
+
+        let conn = Connection::open(&db_path).expect("reopen sqlite");
+        let read_meta = |key: &str| -> String {
+            conn.query_row(
+                "SELECT value FROM db_meta WHERE key = ?1",
+                params![key],
+                |r| r.get(0),
+            )
+            .expect("db_meta key present")
+        };
+        assert_eq!(read_meta("embeddings_model_hash"), "deadbeefcafebabe");
+        assert_eq!(read_meta("embeddings_mode"), "test-hash");
+        assert_eq!(read_meta("embeddings_dim"), "256");
+
+        let db = crate::KuralDb::open(&db_path).expect("open KuralDb");
+        let stats = db.stats().expect("stats");
+        assert_eq!(stats.divisions, 3);
+        assert_eq!(stats.iyals, 9);
+        assert_eq!(stats.adhikarams, 133);
+        assert_eq!(stats.kurals, 1330);
+        assert_eq!(stats.kural_embeddings, 1330);
+        assert_eq!(stats.knowledge_base, kb_cnt);
+        assert_eq!(stats.knowledge_embeddings, kb_cnt);
+        assert_eq!(stats.integrity_check, "ok");
     }
 }

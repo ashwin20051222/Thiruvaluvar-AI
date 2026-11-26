@@ -11,7 +11,7 @@ pub fn TopHeader() -> Element {
     let lang = snap.prefs.lang;
     let theme = snap.prefs.theme;
     let screen = snap.screen;
-    let health = snap.system_health;
+    let health = &snap.system_health;
     let healthy = health.db_ok && health.user_state_ok;
 
     let toggle_theme = move |_| {

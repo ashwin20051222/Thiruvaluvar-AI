@@ -172,7 +172,10 @@ fn cmd_tts_check(models_dir_override: Option<PathBuf>) -> Result<()> {
 
         let (samples, sample_rate) = collected;
         anyhow::ensure!(!samples.is_empty(), "zero audio samples for '{code}'");
-        anyhow::ensure!(sample_rate > 0, "invalid sample rate {sample_rate} for '{code}'");
+        anyhow::ensure!(
+            sample_rate > 0,
+            "invalid sample rate {sample_rate} for '{code}'"
+        );
 
         let peak = samples
             .iter()
@@ -222,6 +225,7 @@ fn cmd_benchmark(config_path: Option<PathBuf>) -> Result<()> {
     benchmark_age_classifier(&cfg.age_ai);
     benchmark_semantic_explainer(&cfg, &workspace_root)?;
     benchmark_stt_if_present(&cfg, &workspace_root);
+    benchmark_tts_if_present(&cfg, &workspace_root);
 
     Ok(())
 }
@@ -338,12 +342,61 @@ fn benchmark_stt_if_present(cfg: &AppConfig, workspace_root: &Path) {
             );
             continue;
         }
-        let t0 = Instant::now();
-        let _ = engine.transcribe(&sample, lang);
-        println!(
-            "STT benchmark ({lang}) 1 s frame : {:.1} ms (target <= 300 ms)",
-            t0.elapsed().as_secs_f64() * 1000.0
-        );
+        match engine.transcribe_timed(&sample, lang) {
+            Ok(out) => {
+                println!(
+                    "STT benchmark ({lang}) 1 s frame : stt_latency_ms={} (target <= 300 ms)",
+                    out.latency_ms
+                );
+            }
+            Err(err) => {
+                println!("STT benchmark ({lang}) failed: {err}");
+            }
+        }
+    }
+}
+
+fn benchmark_tts_if_present(cfg: &AppConfig, workspace_root: &Path) {
+    let models_dir = resolve_from_root(workspace_root, &cfg.paths.models_dir);
+    let Ok(mut engine) = SpeechEngine::new(&models_dir, Language::English, &cfg.ai) else {
+        println!("TTS benchmark skipped: SpeechEngine failed to initialize\n");
+        return;
+    };
+
+    let samples = [
+        (
+            Language::English,
+            "As all letters begin with A, so the world begins with God.",
+        ),
+        (Language::Tamil, "அகர முதல எழுத்தெல்லாம் ஆதி பகவன் முதற்றே உலகு"),
+    ];
+    for (lang, text) in samples {
+        if engine.ensure_language(lang).is_err() || !engine.tts_loaded() {
+            println!(
+                "TTS benchmark ({lang}): backend unavailable under {}/tts",
+                models_dir.display()
+            );
+            continue;
+        }
+        let (tx, mut rx) = mpsc::channel::<PcmChunk>(16);
+        let cancel = CancellationToken::new();
+        let drain = std::thread::spawn(move || while rx.blocking_recv().is_some() {});
+        let res = engine.synthesize_streaming_collecting_timed(&[text], lang, 1.0, &cancel, &tx);
+        drop(tx);
+        let _ = drain.join();
+        match res {
+            Ok((_pcm, metrics)) => {
+                println!(
+                    "TTS benchmark ({lang}) [{}]: tts_first_chunk_ms={}, tts_total_ms={}",
+                    engine.tts_backend_name(),
+                    metrics.first_chunk_ms,
+                    metrics.total_ms
+                );
+            }
+            Err(err) => {
+                println!("TTS benchmark ({lang}) failed: {err}");
+            }
+        }
     }
 }
 

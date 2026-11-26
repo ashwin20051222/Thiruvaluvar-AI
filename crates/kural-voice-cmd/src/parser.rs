@@ -307,7 +307,7 @@ fn exact_tamil_leaf(tok: &str) -> Option<NumPart> {
         "ஒன்று" | "ஒண்ணு" | "ஒன்னு" | "ஒன்றாவது" | "ஒண்ணாவது" | "முதல்" | "முதலாவது" | "முதலாம்" | "ஒன்றாம்" => {
             Some(NumPart::Unit(1))
         }
-        "இரண்டு" | "ரெண்டு" | "இரண்டாவது" | "ரெண்டாவது" | "இரண்டாம்" | "ரெண்டாம்" => {
+        "இரண்டு" | "ரெண்டு" | "ரண்டு" | "இரண்டாவது" | "ரெண்டாவது" | "இரண்டாம்" | "ரெண்டாம்" => {
             Some(NumPart::Unit(2))
         }
         "மூன்று" | "மூணு" | "மூன்றாவது" | "மூணாவது" | "மூன்றாம்" | "மூணாம்" => {
@@ -428,25 +428,30 @@ const TAMIL_COMBINING_STEMS: &[(&str, u32)] = &[
     ("இருபத்த", 20),
 ];
 
-/// Reconstruct the Tamil word following a combining stem using Tamil vowel sandhi rules.
-fn reconstruct_tamil_sandhi(rest: &str) -> Option<String> {
+/// Reconstruct candidate Tamil words following a combining stem using Tamil vowel sandhi rules.
+fn reconstruct_tamil_sandhi_candidates(rest: &str) -> Vec<String> {
     let mut chars = rest.chars();
-    let first = chars.next()?;
+    let Some(first) = chars.next() else {
+        return Vec::new();
+    };
     let tail = chars.as_str();
     match first {
-        // '-த்து' / '-ற்று' + consonant -> '-த்து' or '-த்தி'
-        '\u{0BC1}' | '\u{0BBF}' => Some(tail.to_string()),
-        '\u{0BBE}' => Some(format!("ஆ{tail}")),
-        '\u{0BC0}' => Some(format!("ஈ{tail}")),
-        '\u{0BC2}' => Some(format!("ஊ{tail}")),
-        '\u{0BC6}' => Some(format!("எ{tail}")),
-        '\u{0BC7}' => Some(format!("ஏ{tail}")),
-        '\u{0BC8}' => Some(format!("ஐ{tail}")),
-        '\u{0BCA}' => Some(format!("ஒ{tail}")),
-        '\u{0BCB}' => Some(format!("ஓ{tail}")),
-        '\u{0BCD}' => None,
+        // '-த்து' / '-ற்று' + consonant -> '-த்து'
+        '\u{0BC1}' => vec![tail.to_string()],
+        // '-த்தி' / '-ற்றி' can elide either nothing (e.g. நாற்பத்திமூன்று -> மூன்று)
+        // or initial 'இ' (e.g. நாற்பத்திரண்டு -> இரண்டு, நூற்றிருபது -> இருபது).
+        '\u{0BBF}' => vec![tail.to_string(), format!("இ{tail}")],
+        '\u{0BBE}' => vec![format!("ஆ{tail}")],
+        '\u{0BC0}' => vec![format!("ஈ{tail}")],
+        '\u{0BC2}' => vec![format!("ஊ{tail}")],
+        '\u{0BC6}' => vec![format!("எ{tail}")],
+        '\u{0BC7}' => vec![format!("ஏ{tail}")],
+        '\u{0BC8}' => vec![format!("ஐ{tail}")],
+        '\u{0BCA}' => vec![format!("ஒ{tail}")],
+        '\u{0BCB}' => vec![format!("ஓ{tail}")],
+        '\u{0BCD}' => Vec::new(),
         // Inherent 'அ' merged onto the stem's final consonant (e.g. இருபத்தஞ்சு -> அஞ்சு)
-        _ => Some(format!("அ{rest}")),
+        _ => vec![format!("அ{rest}")],
     }
 }
 
@@ -483,22 +488,22 @@ fn parse_tamil_token_rec(tok: &str, depth: u8) -> Option<NumPart> {
                     _ => NumPart::Compound(stem_val),
                 });
             }
-            if let Some(sub_tok) = reconstruct_tamil_sandhi(rest)
-                && let Some(sub_part) = parse_tamil_token_rec(&sub_tok, depth + 1)
-            {
-                let sub_val = match sub_part {
-                    NumPart::Unit(v)
-                    | NumPart::Teen(v)
-                    | NumPart::Ten(v)
-                    | NumPart::HundredUnit(v)
-                    | NumPart::Compound(v)
-                    | NumPart::Digit(v) => v,
-                    NumPart::Hundred => 100,
-                    NumPart::Thousand => 1000,
-                    NumPart::Zero | NumPart::Million => continue,
-                };
-                if sub_val > 0 && sub_val < stem_val {
-                    return Some(NumPart::Compound(stem_val + sub_val));
+            for sub_tok in reconstruct_tamil_sandhi_candidates(rest) {
+                if let Some(sub_part) = parse_tamil_token_rec(&sub_tok, depth + 1) {
+                    let sub_val = match sub_part {
+                        NumPart::Unit(v)
+                        | NumPart::Teen(v)
+                        | NumPart::Ten(v)
+                        | NumPart::HundredUnit(v)
+                        | NumPart::Compound(v)
+                        | NumPart::Digit(v) => v,
+                        NumPart::Hundred => 100,
+                        NumPart::Thousand => 1000,
+                        NumPart::Zero | NumPart::Million => continue,
+                    };
+                    if sub_val > 0 && sub_val < stem_val {
+                        return Some(NumPart::Compound(stem_val + sub_val));
+                    }
                 }
             }
         }
@@ -576,28 +581,28 @@ fn parse_number_span(tokens: &[&str]) -> Option<(u32, usize)> {
                 saw_value = true;
             }
             NumPart::Unit(v) => {
-                if saw_zero || current % 10 != 0 {
+                if saw_zero || !current.is_multiple_of(10) {
                     break;
                 }
                 current += u64::from(v);
                 saw_value = true;
             }
             NumPart::Teen(v) => {
-                if saw_zero || current % 100 != 0 {
+                if saw_zero || !current.is_multiple_of(100) {
                     break;
                 }
                 current += u64::from(v);
                 saw_value = true;
             }
             NumPart::Ten(v) => {
-                if saw_zero || current % 100 != 0 {
+                if saw_zero || !current.is_multiple_of(100) {
                     break;
                 }
                 current += u64::from(v);
                 saw_value = true;
             }
             NumPart::HundredUnit(v) => {
-                if saw_zero || current % 1000 != 0 {
+                if saw_zero || !current.is_multiple_of(1000) {
                     break;
                 }
                 current += u64::from(v);
@@ -633,8 +638,8 @@ fn parse_number_span(tokens: &[&str]) -> Option<(u32, usize)> {
                     break;
                 }
                 let v64 = u64::from(v);
-                if (v < 100 && current % 100 == 0)
-                    || ((100..1000).contains(&v) && current % 1000 == 0)
+                if (v < 100 && current.is_multiple_of(100))
+                    || ((100..1000).contains(&v) && current.is_multiple_of(1000))
                     || (current == 0 && total == 0)
                 {
                     current += v64;
@@ -801,7 +806,19 @@ fn is_adhikaram_anchor(tok: &str) -> bool {
 fn is_nav_number_anchor(tok: &str) -> bool {
     matches!(
         tok,
-        "open" | "show" | "goto" | "number" | "எண்" | "திற" | "காட்டு"
+        "open"
+            | "show"
+            | "goto"
+            | "number"
+            | "read"
+            | "எண்"
+            | "திற"
+            | "காட்டு"
+            | "படி"
+            | "படியுங்கள்"
+            | "சொல்"
+            | "சொல்லு"
+            | "சொல்லுங்கள்"
     )
 }
 
@@ -818,7 +835,13 @@ fn is_polite_or_connector(tok: &str) -> bool {
             | "go"
             | "no"
             | "number"
+            | "read"
             | "எண்"
+            | "படி"
+            | "படியுங்கள்"
+            | "சொல்"
+            | "சொல்லு"
+            | "சொல்லுங்கள்"
             | "தயவுசெய்து"
     )
 }
@@ -912,11 +935,13 @@ pub fn extract_anchored_number(raw: &str) -> Option<AnchoredNumber> {
     if idx < tokens.len()
         && let Some((n, consumed)) = parse_number_span(&tokens[idx..])
     {
-        let tail_ok = tokens[idx + consumed..]
+        let tail = &tokens[idx + consumed..];
+        let tail_ok = tail
             .iter()
-            .all(|t| is_polite_or_connector(t));
+            .all(|t| is_polite_or_connector(t) || is_nav_number_anchor(t));
         if tail_ok {
-            if saw_anchor {
+            let tail_has_anchor = tail.iter().any(|t| is_nav_number_anchor(t));
+            if saw_anchor || tail_has_anchor {
                 return Some(AnchoredNumber::Kural(n));
             }
             if idx == 0 && consumed == tokens.len() {
@@ -1069,5 +1094,43 @@ mod tests {
         );
         assert_eq!(extract_anchored_number("42 * 10"), None);
         assert_eq!(extract_anchored_number("what happened in 2025"), None);
+    }
+
+    #[test]
+    fn parses_tamil_sandhi_compounds_and_all_kural_number_forms() {
+        assert_eq!(parse_number("நாற்பத்திரண்டு"), Some(42));
+        assert_eq!(parse_number("இருபத்திரண்டு"), Some(22));
+        assert_eq!(parse_number("நூற்றிரண்டு"), Some(102));
+        assert_eq!(parse_number("நூற்றிருபது"), Some(120));
+
+        for (utterance, expected) in [
+            ("குறள் நாற்பத்திரண்டு", 42),
+            ("குறள் ஒன்று", 1),
+            ("குறள் இரண்டு", 2),
+            ("குறள் பத்து", 10),
+            ("குறள் நூறு", 100),
+            ("read kural 42", 42),
+            ("read 42", 42),
+            ("குறள் 42 படி", 42),
+            ("42 படி", 42),
+            ("42 படியுங்கள்", 42),
+            ("42 சொல்", 42),
+            ("42 சொல்லு", 42),
+            ("42 சொல்லுங்கள்", 42),
+            ("42 வது குறள்", 42),
+            ("குறள் எண் 42", 42),
+            ("number 42", 42),
+            ("open kural 42", 42),
+            ("kural one", 1),
+            ("kural forty two", 42),
+            ("kural one hundred and five", 105),
+            ("kural four hundred twenty three", 423),
+        ] {
+            assert_eq!(
+                extract_anchored_number(utterance),
+                Some(AnchoredNumber::Kural(expected)),
+                "failed on {utterance}"
+            );
+        }
     }
 }

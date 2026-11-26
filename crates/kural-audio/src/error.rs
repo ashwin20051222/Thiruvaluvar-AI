@@ -18,4 +18,3 @@ pub enum AudioError {
     #[error("audio stream error: {0}")]
     StreamError(String),
 }
-

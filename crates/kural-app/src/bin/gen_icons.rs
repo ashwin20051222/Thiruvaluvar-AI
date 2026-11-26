@@ -224,26 +224,23 @@ fn build_medallion_from_portrait(portrait_path: &Path) -> Result<RgbaImage, Stri
                 ]);
                 let px = (dx + half_inner).round() as i32;
                 let py = (dy + half_inner).round() as i32;
-                let pixel = if px >= 0
-                    && py >= 0
-                    && (px as u32) < inner_diam
-                    && (py as u32) < inner_diam
-                {
-                    let src = *scaled_portrait.get_pixel(px as u32, py as u32);
-                    let edge_fade = ((r_inner - dist) / 14.0).clamp(0.0, 1.0);
-                    if src[3] == 255 {
-                        Rgba([
-                            lerp_u8(bg[0], src[0], edge_fade),
-                            lerp_u8(bg[1], src[1], edge_fade),
-                            lerp_u8(bg[2], src[2], edge_fade),
-                            255,
-                        ])
+                let pixel =
+                    if px >= 0 && py >= 0 && (px as u32) < inner_diam && (py as u32) < inner_diam {
+                        let src = *scaled_portrait.get_pixel(px as u32, py as u32);
+                        let edge_fade = ((r_inner - dist) / 14.0).clamp(0.0, 1.0);
+                        if src[3] == 255 {
+                            Rgba([
+                                lerp_u8(bg[0], src[0], edge_fade),
+                                lerp_u8(bg[1], src[1], edge_fade),
+                                lerp_u8(bg[2], src[2], edge_fade),
+                                255,
+                            ])
+                        } else {
+                            blend_rgba(bg, src)
+                        }
                     } else {
-                        blend_rgba(bg, src)
-                    }
-                } else {
-                    bg
-                };
+                        bg
+                    };
                 out.put_pixel(x, y, pixel);
             }
         }

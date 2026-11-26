@@ -268,6 +268,7 @@ fn build_desktop_config(mode: &str, backend: BackendHandle) -> Config {
 
 /// Launch the desktop GUI application (shared by `thiruvalluvar-ai` and `kural-app`).
 pub fn run_app() {
+    kural_backend::init_tracing();
     let cli = match parse_cli_args(std::env::args()) {
         Ok(opts) => opts,
         Err(msg) => {
@@ -625,6 +626,25 @@ async fn run_layout_audit(ctx: &mut state::AppContext, viewport: AuditViewport) 
             for (theme_lbl, theme) in [("dark", Theme::Dark), ("light", Theme::Light)] {
                 ctx.dispatch(BackendCommand::SetTheme(theme));
                 ctx.pi_compact_tab.set(CompactTabHint::Verse);
+                for _ in 0..40 {
+                    let ready = {
+                        let s = ctx.snapshot.peek();
+                        s.prefs.lang == lang && s.prefs.theme == theme
+                    };
+                    if ready {
+                        break;
+                    }
+                    tokio::time::sleep(Duration::from_millis(20)).await;
+                }
+                let expected_html_lang = match lang {
+                    Language::Tamil => "ta",
+                    Language::English => "en",
+                };
+                let _ = dioxus::document::eval(&format!(
+                    "document.documentElement.lang = '{expected_html_lang}';"
+                ))
+                .join::<()>()
+                .await;
                 let label = format!("{name}/{lang_lbl}/{theme_lbl}");
                 all_ok &= check_dom_state(&label, viewport, *expect_kural).await;
             }

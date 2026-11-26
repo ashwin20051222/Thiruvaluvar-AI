@@ -13,7 +13,7 @@ members = [
 
 [workspace.package]
 edition = "2024"
-rust-version = "1.85"
+rust-version = "1.89"
 version = "0.1.0"
 license = "Apache-2.0"
 
@@ -29,7 +29,7 @@ audioadapter-buffers = "4"
 chrono = { version = "0.4", features = ["serde"] }
 clap = { version = "4", features = ["derive"] }
 cpal = "0.18"
-dioxus = { version = "0.7", features = ["desktop"] }
+dioxus = { version = "=0.7.10", features = ["desktop"] }
 image = { version = "0.25", default-features = false, features = ["png", "jpeg"] }
 model2vec-rs = { version = "0.5", default-features = false, features = ["onig", "local-only"] }
 reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls"] }
@@ -40,7 +40,7 @@ rusqlite = { version = "0.32", features = ["bundled", "modern_sqlite"] }
 rustfft = "6.4"
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
-sherpa-onnx = "2.0"
+sherpa-onnx = "=2.0.3"
 strsim = "0.11"
 tempfile = "3"
 thiserror = "2"
@@ -48,5 +48,11 @@ tikv-jemallocator = "0.6"
 tokio = { version = "1", features = ["sync"] }
 tokio-util = "0.7"
 toml = "1"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter", "fmt"] }
 unicode-normalization = "0.1"
 unicode-segmentation = "1"
+
+[profile.release]
+lto = "thin"
+strip = "symbols"
