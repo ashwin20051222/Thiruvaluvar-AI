@@ -16,7 +16,9 @@ use components::voice_hud::VoiceHud;
 use components::youth_screen::YouthScreen;
 use dioxus::desktop::tao::event::{Event, WindowEvent};
 use dioxus::desktop::tao::window::{Fullscreen, Icon};
-use dioxus::desktop::{Config, LogicalSize, WindowBuilder, use_asset_handler};
+use dioxus::desktop::{
+    Config, DesktopContext, LogicalSize, WindowBuilder, use_asset_handler, use_window,
+};
 use dioxus::prelude::*;
 use kural_backend::BackendHandle;
 use kural_core::{
@@ -81,12 +83,20 @@ impl AuditViewport {
     }
 }
 
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+enum ConnectedScreenTier {
+    Pi35Lcd,
+    Pi7Lcd,
+    Desktop,
+}
+
 #[derive(Clone)]
 struct BootContext {
     backend: BackendHandle,
     toast_duration_ms: u64,
     audit_viewport: AuditViewport,
     verify_layout: bool,
+    auto_adapt_screen: bool,
 }
 
 fn parse_cli_args<I, S>(args: I) -> Result<CliOptions, String>
@@ -128,6 +138,55 @@ fn load_window_icon() -> Option<Icon> {
     let img = image::load_from_memory(WINDOW_ICON_PNG).ok()?.into_rgba8();
     let (w, h) = img.dimensions();
     Icon::from_rgba(img.into_raw(), w, h).ok()
+}
+
+fn logical_monitor_size(phys_w: u32, phys_h: u32, scale_factor: f64) -> (f64, f64) {
+    let scale = if scale_factor.is_finite() && scale_factor > 0.0 {
+        scale_factor
+    } else {
+        1.0
+    };
+    (f64::from(phys_w) / scale, f64::from(phys_h) / scale)
+}
+
+fn classify_connected_screen(logical_w: f64, logical_h: f64) -> ConnectedScreenTier {
+    if logical_w <= 560.0 && logical_h <= 380.0 {
+        ConnectedScreenTier::Pi35Lcd
+    } else if logical_w <= 1060.0 && logical_h <= 640.0 {
+        ConnectedScreenTier::Pi7Lcd
+    } else {
+        ConnectedScreenTier::Desktop
+    }
+}
+
+fn should_auto_adapt_screen(viewport_mode: &str, cli: &CliOptions) -> bool {
+    let has_cli_override = cli.kiosk || cli.pi_preview || cli.pi7_preview || cli.pi7_hd_preview;
+    !has_cli_override && !cli.verify_layout && viewport_mode == "desktop"
+}
+
+fn apply_connected_screen_adaptation(window: &DesktopContext) -> bool {
+    let Some(monitor) = window
+        .current_monitor()
+        .or_else(|| window.primary_monitor())
+    else {
+        return false;
+    };
+    let phys = monitor.size();
+    let (logical_w, logical_h) =
+        logical_monitor_size(phys.width, phys.height, monitor.scale_factor());
+    match classify_connected_screen(logical_w, logical_h) {
+        ConnectedScreenTier::Pi35Lcd => {
+            window.set_decorations(false);
+            window.set_inner_size(LogicalSize::new(logical_w, logical_h));
+            window.set_maximized(true);
+        }
+        ConnectedScreenTier::Pi7Lcd => {
+            window.set_inner_size(LogicalSize::new(logical_w, logical_h));
+            window.set_maximized(true);
+        }
+        ConnectedScreenTier::Desktop => {}
+    }
+    true
 }
 
 fn effective_viewport_mode(config_mode: &str, cli: &CliOptions) -> &'static str {
@@ -235,6 +294,7 @@ pub fn run_app() {
     };
 
     let viewport_mode = effective_viewport_mode(&config.ui.viewport_mode, &cli);
+    let auto_adapt_screen = should_auto_adapt_screen(viewport_mode, &cli);
     let toast_duration_ms = config.ui.toast_duration_ms;
 
     let backend = match BackendHandle::start(config) {
@@ -251,6 +311,7 @@ pub fn run_app() {
         toast_duration_ms,
         audit_viewport: AuditViewport::from_mode(viewport_mode),
         verify_layout: cli.verify_layout,
+        auto_adapt_screen,
     };
 
     dioxus::LaunchBuilder::desktop()
@@ -262,9 +323,22 @@ pub fn run_app() {
 fn app() -> Element {
     use_asset_handler("kural", assets::serve_kural_asset);
 
+    let desktop_window = use_window();
     let boot = use_context::<BootContext>();
     let mut ctx = state::provide_app_context(boot.backend.clone(), boot.toast_duration_ms);
     let snap = ctx.snapshot.read().clone();
+
+    if boot.auto_adapt_screen {
+        use_hook(move || {
+            let window = desktop_window.clone();
+            if !apply_connected_screen_adaptation(&window) {
+                spawn(async move {
+                    tokio::time::sleep(Duration::from_millis(120)).await;
+                    let _ = apply_connected_screen_adaptation(&window);
+                });
+            }
+        });
+    }
 
     if boot.verify_layout {
         let backend_exit = boot.backend.clone();
@@ -653,6 +727,48 @@ mod tests {
         let ver = parse_cli_args(["thiruvalluvar-ai", "--version"]).unwrap();
         assert!(ver.show_version);
         assert!(load_window_icon().is_some());
+    }
+
+    #[test]
+    fn connected_screen_classification_matches_tri_display_tiers() {
+        assert_eq!(logical_monitor_size(480, 320, 1.0), (480.0, 320.0));
+        assert_eq!(logical_monitor_size(2560, 1440, 2.0), (1280.0, 720.0));
+        assert_eq!(logical_monitor_size(800, 480, 0.0), (800.0, 480.0));
+
+        assert_eq!(
+            classify_connected_screen(480.0, 320.0),
+            ConnectedScreenTier::Pi35Lcd
+        );
+        assert_eq!(
+            classify_connected_screen(560.0, 380.0),
+            ConnectedScreenTier::Pi35Lcd
+        );
+        assert_eq!(
+            classify_connected_screen(800.0, 480.0),
+            ConnectedScreenTier::Pi7Lcd
+        );
+        assert_eq!(
+            classify_connected_screen(1024.0, 600.0),
+            ConnectedScreenTier::Pi7Lcd
+        );
+        assert_eq!(
+            classify_connected_screen(1280.0, 720.0),
+            ConnectedScreenTier::Desktop
+        );
+        assert_eq!(
+            classify_connected_screen(1920.0, 1080.0),
+            ConnectedScreenTier::Desktop
+        );
+
+        let default_cli = parse_cli_args(["thiruvalluvar-ai"]).unwrap();
+        assert!(should_auto_adapt_screen("desktop", &default_cli));
+        assert!(!should_auto_adapt_screen("kiosk", &default_cli));
+
+        let pi_flag = parse_cli_args(["thiruvalluvar-ai", "--pi7-preview"]).unwrap();
+        assert!(!should_auto_adapt_screen("desktop", &pi_flag));
+
+        let verify_flag = parse_cli_args(["thiruvalluvar-ai", "--verify-layout"]).unwrap();
+        assert!(!should_auto_adapt_screen("desktop", &verify_flag));
     }
 
     #[test]

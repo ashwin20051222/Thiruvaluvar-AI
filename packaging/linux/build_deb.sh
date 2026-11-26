@@ -294,16 +294,79 @@ cat > "${STAGE_DIR}/DEBIAN/postinst" <<'EOF'
 set -e
 
 if command -v gtk-update-icon-cache >/dev/null 2>&1; then
-    gtk-update-icon-cache -q -t -f /usr/share/icons/hicolor || true
+    gtk-update-icon-cache -f -t /usr/share/icons/hicolor >/dev/null 2>&1 || true
 fi
 if command -v update-desktop-database >/dev/null 2>&1; then
-    update-desktop-database -q /usr/share/applications || true
+    update-desktop-database /usr/share/applications >/dev/null 2>&1 || true
 fi
 
-if [ "$1" = "configure" ] && [ ! -d /usr/share/thiruvalluvar-ai/models/embeddings ]; then
-    echo "Thiruvalluvar AI installed."
-    echo "To download optional offline voice & semantic models (<350 MB), run:"
-    echo "  sudo MODELS_DIR=/usr/share/thiruvalluvar-ai/models /usr/share/thiruvalluvar-ai/scripts/download_fast_models.sh"
+install_desktop_shortcut() {
+    desktop_dir="$1"
+    [ -d "$desktop_dir" ] || return 0
+    [ -f /usr/share/applications/thiruvalluvar-ai.desktop ] || return 0
+
+    desktop_file="${desktop_dir}/thiruvalluvar-ai.desktop"
+    cp -f /usr/share/applications/thiruvalluvar-ai.desktop "$desktop_file"
+    chmod +x "$desktop_file"
+
+    target_uid="$(stat -c '%u' "$desktop_dir" 2>/dev/null || true)"
+    target_gid="$(stat -c '%g' "$desktop_dir" 2>/dev/null || true)"
+    if [ -n "$target_uid" ] && [ -n "$target_gid" ]; then
+        chown "${target_uid}:${target_gid}" "$desktop_file" 2>/dev/null || true
+    fi
+
+    target_user=""
+    if [ -n "$target_uid" ]; then
+        target_user="$(id -nu "$target_uid" 2>/dev/null || true)"
+    fi
+
+    if command -v gio >/dev/null 2>&1; then
+        if [ -n "$target_user" ] && [ "$target_user" != "root" ] && [ -n "$target_uid" ]; then
+            bus_sock="/run/user/${target_uid}/bus"
+            if [ -S "$bus_sock" ] && command -v runuser >/dev/null 2>&1; then
+                runuser -u "$target_user" -- env \
+                    DBUS_SESSION_BUS_ADDRESS="unix:path=${bus_sock}" \
+                    XDG_RUNTIME_DIR="/run/user/${target_uid}" \
+                    gio set "$desktop_file" metadata::trusted true >/dev/null 2>&1 || true
+            elif [ -S "$bus_sock" ]; then
+                KURAL_DESKTOP_FILE="$desktop_file" KURAL_BUS_SOCK="$bus_sock" KURAL_UID="$target_uid" \
+                    su -s /bin/sh "$target_user" -c \
+                    'DBUS_SESSION_BUS_ADDRESS="unix:path=${KURAL_BUS_SOCK}" XDG_RUNTIME_DIR="/run/user/${KURAL_UID}" gio set "$KURAL_DESKTOP_FILE" metadata::trusted true' >/dev/null 2>&1 || true
+            elif command -v runuser >/dev/null 2>&1 && command -v dbus-run-session >/dev/null 2>&1; then
+                runuser -u "$target_user" -- dbus-run-session -- \
+                    gio set "$desktop_file" metadata::trusted true >/dev/null 2>&1 || true
+            else
+                gio set "$desktop_file" metadata::trusted true >/dev/null 2>&1 || true
+            fi
+        else
+            gio set "$desktop_file" metadata::trusted true >/dev/null 2>&1 || true
+        fi
+    fi
+}
+
+if [ "$1" = "configure" ]; then
+    handled_desktop=""
+    if [ -n "${SUDO_USER:-}" ] && [ "$SUDO_USER" != "root" ]; then
+        sudo_home="$(getent passwd "$SUDO_USER" 2>/dev/null | cut -d: -f6 || true)"
+        [ -n "$sudo_home" ] || sudo_home="/home/${SUDO_USER}"
+        if [ -d "${sudo_home}/Desktop" ]; then
+            install_desktop_shortcut "${sudo_home}/Desktop"
+            handled_desktop="${sudo_home}/Desktop"
+        fi
+    fi
+
+    for user_home in /home/*; do
+        [ -d "${user_home}/Desktop" ] || continue
+        if [ "${user_home}/Desktop" != "$handled_desktop" ]; then
+            install_desktop_shortcut "${user_home}/Desktop"
+        fi
+    done
+
+    if [ ! -d /usr/share/thiruvalluvar-ai/models/embeddings ]; then
+        echo "Thiruvalluvar AI installed."
+        echo "To download optional offline voice & semantic models (<350 MB), run:"
+        echo "  sudo MODELS_DIR=/usr/share/thiruvalluvar-ai/models /usr/share/thiruvalluvar-ai/scripts/download_fast_models.sh"
+    fi
 fi
 EOF
 
@@ -322,11 +385,24 @@ cat > "${STAGE_DIR}/DEBIAN/postrm" <<'EOF'
 #!/bin/sh
 set -e
 
+case "${1:-}" in
+    remove|purge)
+        if [ -n "${SUDO_USER:-}" ] && [ "$SUDO_USER" != "root" ]; then
+            sudo_home="$(getent passwd "$SUDO_USER" 2>/dev/null | cut -d: -f6 || true)"
+            [ -n "$sudo_home" ] || sudo_home="/home/${SUDO_USER}"
+            rm -f "${sudo_home}/Desktop/thiruvalluvar-ai.desktop"
+        fi
+        for user_home in /home/*; do
+            rm -f "${user_home}/Desktop/thiruvalluvar-ai.desktop"
+        done
+        ;;
+esac
+
 if command -v gtk-update-icon-cache >/dev/null 2>&1; then
-    gtk-update-icon-cache -q -t -f /usr/share/icons/hicolor || true
+    gtk-update-icon-cache -f -t /usr/share/icons/hicolor >/dev/null 2>&1 || true
 fi
 if command -v update-desktop-database >/dev/null 2>&1; then
-    update-desktop-database -q /usr/share/applications || true
+    update-desktop-database /usr/share/applications >/dev/null 2>&1 || true
 fi
 EOF
 
