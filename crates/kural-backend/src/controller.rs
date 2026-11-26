@@ -53,7 +53,6 @@ enum InternalMsg {
         auto_triggered: bool,
         outcome: AgeOutcome,
         transcript: Option<String>,
-        captured_user_16k: Option<Arc<[f32]>>,
         caps: Option<SpeechCapabilities>,
     },
     VoiceCmdTranscribed {
@@ -675,9 +674,13 @@ impl BackendController {
             },
             BackendCommand::ClearFilter => self.clear_filter(),
             BackendCommand::SelectCommentary(scholar) => {
-                self.cancel_active_tts();
+                let prev_effective = self.state.effective_scholar;
                 self.state.requested_scholar = scholar;
                 self.update_effective_scholar_and_notify(true);
+                if self.state.effective_scholar != prev_effective {
+                    self.cancel_active_tts();
+                    self.active_content_key = None;
+                }
                 self.publish_snapshot();
                 if self.state.screen == AppScreen::Adult {
                     self.trigger_auto_playback_for_current_content(false);
@@ -703,13 +706,25 @@ impl BackendController {
                 self.cancel_active_capture();
                 self.cancel_active_tts();
                 self.nav_epoch = self.nav_epoch.wrapping_add(1);
-                let resolved_target = if matches!(target, kural_core::SpeakTarget::ScholarCommentary(_)) {
-                    kural_core::SpeakTarget::ScholarCommentary(self.state.effective_scholar)
+                let normalized_target = if self.state.screen == AppScreen::Adult
+                    && let kural_core::SpeakTarget::ScholarCommentary(s) = target
+                    && (s == self.state.effective_scholar || s == self.state.requested_scholar)
+                {
+                    kural_core::SpeakTarget::KuralAndMeaning
                 } else {
                     target
                 };
-                self.active_content_key = Some(self.content_audio_key(resolved_target));
-                self.start_speak_target(target);
+                let key_target =
+                    if let kural_core::SpeakTarget::ScholarCommentary(s) = normalized_target {
+                        kural_core::SpeakTarget::ScholarCommentary(resolve_effective_scholar(
+                            &self.state.current_kural,
+                            s,
+                        ))
+                    } else {
+                        normalized_target
+                    };
+                self.active_content_key = Some(self.content_audio_key(key_target));
+                self.start_speak_target(normalized_target);
             }
             BackendCommand::SpeakCustomText { text, lang, label } => {
                 self.speak_custom_text(text, lang, label);
@@ -824,7 +839,6 @@ impl BackendController {
                 auto_triggered,
                 outcome,
                 transcript,
-                captured_user_16k,
                 caps,
             } => {
                 self.handle_start_voice_auto_route_done(StartVoiceAutoRouteData {
@@ -834,7 +848,6 @@ impl BackendController {
                     auto_triggered,
                     outcome,
                     transcript,
-                    captured_user_16k,
                     caps,
                 });
             }
@@ -1112,6 +1125,7 @@ impl BackendController {
 
     fn switch_age_screen(&mut self, age: AgeGroup) {
         self.state.screen = AppScreen::from(age);
+        self.state.modal = None;
         self.state.prefs.default_age = age;
         self.state.active_filter = None;
 
@@ -1286,7 +1300,6 @@ impl BackendController {
                             auto_triggered,
                             outcome: AgeOutcome::Retry(RetryReason::TooShort),
                             transcript: None,
-                            captured_user_16k: None,
                             caps: None,
                         })
                         .await;
@@ -1304,7 +1317,6 @@ impl BackendController {
                             auto_triggered,
                             outcome: AgeOutcome::Retry(RetryReason::HardwareUnavailable),
                             transcript: None,
-                            captured_user_16k: None,
                             caps: None,
                         })
                         .await;
@@ -1323,7 +1335,6 @@ impl BackendController {
                             auto_triggered,
                             outcome: AgeOutcome::Retry(RetryReason::TooShort),
                             transcript: None,
-                            captured_user_16k: None,
                             caps: None,
                         })
                         .await;
@@ -1359,12 +1370,6 @@ impl BackendController {
                 return;
             }
 
-            let captured_user_16k: Option<Arc<[f32]>> = if samples_16k.is_empty() {
-                None
-            } else {
-                Some(Arc::from(samples_16k.as_slice()))
-            };
-
             let mut transcript: Option<String> = None;
             let mut caps: Option<SpeechCapabilities> = None;
             if !samples_16k.is_empty()
@@ -1389,7 +1394,6 @@ impl BackendController {
                     auto_triggered,
                     outcome,
                     transcript,
-                    captured_user_16k,
                     caps,
                 })
                 .await;
@@ -1472,18 +1476,10 @@ impl BackendController {
             extract_opening_followup_command(data.transcript.as_deref(), data.lang, ctx)
         {
             match cmd {
-                BackendCommand::OpenKural(_) | BackendCommand::OpenAdhikaram(_) => {
+                BackendCommand::OpenKural(_)
+                | BackendCommand::OpenAdhikaram(_)
+                | BackendCommand::OpenModal(ModalKind::AiChat { .. }) => {
                     self.handle_command(cmd);
-                }
-                BackendCommand::AskAiQuestion { query, seed_kural } => {
-                    self.push_voice_turn_and_run_ai(
-                        query,
-                        seed_kural,
-                        data.lang,
-                        data.captured_user_16k,
-                        data.session_id,
-                        data.nav_epoch,
-                    );
                 }
                 _ => {}
             }
@@ -1852,9 +1848,7 @@ impl BackendController {
             AppScreen::Start => None,
             AppScreen::Kids => Some(kural_core::SpeakTarget::KuralAndMeaning),
             AppScreen::Youth => Some(kural_core::SpeakTarget::YouthBriefing),
-            AppScreen::Adult => Some(kural_core::SpeakTarget::ScholarCommentary(
-                self.state.effective_scholar,
-            )),
+            AppScreen::Adult => Some(kural_core::SpeakTarget::KuralAndMeaning),
         }
     }
 
@@ -1912,6 +1906,7 @@ impl BackendController {
             self.state.screen,
             target,
             lang,
+            self.state.effective_scholar,
             self.state.prefs.speech_speed,
             self.last_ai_answer.as_ref(),
         ) else {
@@ -1920,6 +1915,7 @@ impl BackendController {
         if let kural_core::SpeakTarget::ScholarCommentary(req) = target
             && req == Scholar::Parimel
             && self.state.current_kural.kural.meaning_parimel.is_none()
+            && self.state.requested_scholar != Scholar::Parimel
         {
             self.emit_event(UiTransientEvent::CommentaryFallbackNotice {
                 requested: Scholar::Parimel,
@@ -2453,7 +2449,6 @@ struct StartVoiceAutoRouteData {
     auto_triggered: bool,
     outcome: AgeOutcome,
     transcript: Option<String>,
-    captured_user_16k: Option<Arc<[f32]>>,
     caps: Option<SpeechCapabilities>,
 }
 
@@ -2524,88 +2519,9 @@ fn resolve_start_voice_age_route(
     }
 }
 
-fn is_opening_greeting_or_age_phrase(raw: &str) -> bool {
-    let tokens = tokenize_start_utterance(raw);
-    if tokens.is_empty() {
-        return true;
-    }
-    tokens.iter().all(|tok| {
-        match_age_keyword_token(tok).is_some()
-            || matches!(
-                tok.as_str(),
-                "hello"
-                    | "hi"
-                    | "hey"
-                    | "vanakkam"
-                    | "namaste"
-                    | "greetings"
-                    | "good"
-                    | "morning"
-                    | "afternoon"
-                    | "evening"
-                    | "there"
-                    | "thiruvalluvar"
-                    | "ai"
-                    | "please"
-                    | "ok"
-                    | "okay"
-                    | "yes"
-                    | "yeah"
-                    | "test"
-                    | "testing"
-                    | "mic"
-                    | "check"
-                    | "i"
-                    | "im"
-                    | "m"
-                    | "am"
-                    | "a"
-                    | "an"
-                    | "the"
-                    | "want"
-                    | "to"
-                    | "learn"
-                    | "study"
-                    | "read"
-                    | "explore"
-                    | "open"
-                    | "start"
-                    | "begin"
-                    | "go"
-                    | "switch"
-                    | "mode"
-                    | "section"
-                    | "screen"
-                    | "age"
-                    | "for"
-                    | "me"
-                    | "my"
-                    | "lets"
-                    | "let"
-                    | "us"
-                    | "thirukkural"
-                    | "kural"
-                    | "வணக்கம்"
-                    | "திருவள்ளுவர்"
-                    | "நன்றி"
-                    | "சரி"
-                    | "வாழ்க"
-                    | "நான்"
-                    | "திருக்குறள்"
-                    | "குறள்"
-                    | "பகுதி"
-                    | "முறை"
-                    | "வயது"
-                    | "திற"
-                    | "வேண்டும்"
-                    | "கற்க"
-                    | "படிக்க"
-            )
-    })
-}
-
-/// Extract an actionable follow-up command (`OpenKural`, `OpenAdhikaram`, or `AskAiQuestion`)
-/// from an opening Start-screen utterance while ignoring greetings and bare age-mode requests.
+/// Extract an explicit navigation or Discuss follow-up command (`OpenKural`, `OpenAdhikaram`, or
+/// explicit `OpenModal(ModalKind::AiChat { .. })` when `"discuss"` / `"விவாதி"` is spoken) from
+/// an opening Start-screen utterance. Never auto-triggers `AskAiQuestion` on landing.
 fn extract_opening_followup_command(
     transcript: Option<&str>,
     lang: kural_core::Language,
@@ -2623,11 +2539,15 @@ fn extract_opening_followup_command(
     let outcome = validate_voice_transcript(&raw, lang, ctx).ok()?;
     match outcome.cmd {
         BackendCommand::OpenKural(_) | BackendCommand::OpenAdhikaram(_) => Some(outcome.cmd),
-        BackendCommand::AskAiQuestion { .. } => {
-            if is_opening_greeting_or_age_phrase(&raw) {
-                None
-            } else {
+        BackendCommand::OpenModal(ModalKind::AiChat { .. }) => {
+            let tokens = tokenize_start_utterance(&raw);
+            if tokens
+                .iter()
+                .any(|t| matches!(t.as_str(), "discuss" | "விவாதி"))
+            {
                 Some(outcome.cmd)
+            } else {
+                None
             }
         }
         _ => None,
@@ -3200,6 +3120,8 @@ mod tests {
             Some("vanakkam"),
             Some("வணக்கம்"),
             Some("hello i want to learn thirukkural"),
+            Some("tell me"),
+            Some("Explain Kural 1"),
             Some("kids"),
             Some("open youth mode"),
             Some("i am an adult"),
@@ -3209,7 +3131,7 @@ mod tests {
             assert_eq!(
                 extract_opening_followup_command(ignored, Language::English, ctx),
                 None,
-                "expected greeting/age phrase to be ignored: {ignored:?}"
+                "expected greeting/age/non-nav utterance to be ignored: {ignored:?}"
             );
         }
 
@@ -3222,11 +3144,16 @@ mod tests {
             Some(BackendCommand::OpenAdhikaram(10))
         );
         assert_eq!(
-            extract_opening_followup_command(Some("Explain Kural 1"), Language::English, ctx),
-            Some(BackendCommand::AskAiQuestion {
-                query: "Explain Kural 1".to_string(),
+            extract_opening_followup_command(Some("Discuss"), Language::English, ctx),
+            Some(BackendCommand::OpenModal(ModalKind::AiChat {
                 seed_kural: Some(481),
-            })
+            }))
+        );
+        assert_eq!(
+            extract_opening_followup_command(Some("விவாதி"), Language::Tamil, ctx),
+            Some(BackendCommand::OpenModal(ModalKind::AiChat {
+                seed_kural: Some(481),
+            }))
         );
     }
 
@@ -3258,7 +3185,6 @@ mod tests {
                     auto_triggered: true,
                     outcome: make_detected_outcome(age),
                     transcript: Some("hello i want to learn thirukkural".to_string()),
-                    captured_user_16k: None,
                     caps: None,
                 });
 
@@ -3312,7 +3238,6 @@ mod tests {
                 auto_triggered: true,
                 outcome: make_detected_outcome(AgeGroup::Kids),
                 transcript: Some("Open Kural 42".to_string()),
-                captured_user_16k: None,
                 caps: None,
             });
             assert_eq!(ctrl.state.screen, AppScreen::Adult);
@@ -3338,15 +3263,13 @@ mod tests {
                 auto_triggered: true,
                 outcome: make_detected_outcome(AgeGroup::Youth),
                 transcript: Some("Open Kural 42".to_string()),
-                captured_user_16k: None,
                 caps: None,
             });
             assert_eq!(ctrl_cmd.state.screen, AppScreen::Youth);
             assert_eq!(ctrl_cmd.state.current_kural.kural.number, 42);
 
-            // Reset back to Start and test opening AskAiQuestion followup with captured user audio.
+            // Reset back to Start and verify multi-word Start speech NEVER auto-opens Discuss.
             ctrl_cmd.handle_command(BackendCommand::Navigate(AppScreen::Start));
-            let user_pcm: Arc<[f32]> = Arc::from(vec![0.1_f32; 320].as_slice());
             ctrl_cmd.handle_start_voice_auto_route_done(StartVoiceAutoRouteData {
                 session_id: ctrl_cmd.voice_session_id,
                 nav_epoch: ctrl_cmd.nav_epoch,
@@ -3354,23 +3277,28 @@ mod tests {
                 auto_triggered: false,
                 outcome: make_detected_outcome(AgeGroup::Adult),
                 transcript: Some("Explain Kural 1".to_string()),
-                captured_user_16k: Some(user_pcm),
                 caps: None,
             });
             assert_eq!(ctrl_cmd.state.screen, AppScreen::Adult);
-            assert_eq!(ctrl_cmd.state.recent_voice_turns.len(), 1);
+            assert!(ctrl_cmd.state.modal.is_none());
+            assert!(ctrl_cmd.state.recent_voice_turns.is_empty());
             assert_eq!(
-                ctrl_cmd.state.recent_voice_turns[0].user_text,
-                "Explain Kural 1"
+                ctrl_cmd.default_content_target(),
+                Some(kural_core::SpeakTarget::KuralAndMeaning)
             );
-            assert!(ctrl_cmd.state.recent_voice_turns[0].has_user_audio);
 
-            // Wait for VoiceAiDone message from run_voice_ai_question and process it.
-            let ai_msg = tokio::time::timeout(Duration::from_secs(3), ctrl_cmd.internal_rx.recv())
-                .await
-                .expect("voice ai timeout")
-                .expect("voice ai msg");
-            ctrl_cmd.handle_internal(ai_msg);
+            // Explicit "Discuss" on Start-screen voice detection opens ModalKind::AiChat.
+            ctrl_cmd.handle_command(BackendCommand::Navigate(AppScreen::Start));
+            ctrl_cmd.handle_start_voice_auto_route_done(StartVoiceAutoRouteData {
+                session_id: ctrl_cmd.voice_session_id,
+                nav_epoch: ctrl_cmd.nav_epoch,
+                lang: Language::English,
+                auto_triggered: false,
+                outcome: make_detected_outcome(AgeGroup::Adult),
+                transcript: Some("Discuss".to_string()),
+                caps: None,
+            });
+            assert_eq!(ctrl_cmd.state.screen, AppScreen::Adult);
             assert!(matches!(
                 ctrl_cmd.state.modal,
                 Some(ModalKind::AiChat { .. })
@@ -3385,5 +3313,77 @@ mod tests {
             ai_worker.shutdown();
             audio.shutdown();
         });
+    }
+
+    #[test]
+    fn adult_entry_default_target_and_manual_ai_chat_bilingual() {
+        let tmp = TempDir::new().expect("tempdir");
+        let cfg = test_config(&tmp);
+        let handle = BackendHandle::start(cfg).expect("BackendHandle::start");
+        let mut events = handle.subscribe_events();
+        let rt = tokio::runtime::Runtime::new().unwrap();
+
+        // Manual entry to Adult keeps Discuss closed and defaults to KuralAndMeaning.
+        handle.dispatch(BackendCommand::SelectAge(AgeGroup::Adult));
+        handle.dispatch(BackendCommand::OpenKural(395));
+        handle.dispatch(BackendCommand::SelectCommentary(Scholar::Parimel));
+        std::thread::sleep(Duration::from_millis(80));
+        let adult_snap = handle.current_snapshot();
+        assert_eq!(adult_snap.screen, AppScreen::Adult);
+        assert!(adult_snap.modal.is_none());
+
+        // Speaking current ScholarCommentary(Parimel) while requested_scholar is already Parimel
+        // must not emit a duplicate CommentaryFallbackNotice.
+        handle.dispatch(BackendCommand::SpeakCurrent(
+            kural_core::SpeakTarget::ScholarCommentary(Scholar::Parimel),
+        ));
+        std::thread::sleep(Duration::from_millis(80));
+        let mut fallback_notices = 0usize;
+        while let Ok(evt) = events.try_recv() {
+            if matches!(evt, UiTransientEvent::CommentaryFallbackNotice { .. }) {
+                fallback_notices += 1;
+            }
+        }
+        assert_eq!(fallback_notices, 1);
+
+        // Explicitly opening Discuss (ModalKind::AiChat) and asking questions works in English & Tamil.
+        handle.dispatch(BackendCommand::OpenModal(ModalKind::AiChat {
+            seed_kural: Some(1),
+        }));
+        std::thread::sleep(Duration::from_millis(50));
+        assert!(matches!(
+            handle.current_snapshot().modal,
+            Some(ModalKind::AiChat {
+                seed_kural: Some(1)
+            })
+        ));
+
+        handle.dispatch(BackendCommand::SetLanguage(Language::English));
+        handle.dispatch(BackendCommand::AskAiQuestion {
+            query: "What does Kural 1 teach?".to_string(),
+            seed_kural: Some(1),
+        });
+        let en_evt = rt.block_on(recv_until(&mut events, |e| {
+            matches!(e, UiTransientEvent::AiAnswerReady(_))
+        }));
+        let Some(UiTransientEvent::AiAnswerReady(en_ans)) = en_evt else {
+            panic!("expected English AiAnswerReady");
+        };
+        assert!(!en_ans.answer_en.trim().is_empty());
+
+        handle.dispatch(BackendCommand::SetLanguage(Language::Tamil));
+        handle.dispatch(BackendCommand::AskAiQuestion {
+            query: "குறள் 1 பொருள் என்ன?".to_string(),
+            seed_kural: Some(1),
+        });
+        let ta_evt = rt.block_on(recv_until(&mut events, |e| {
+            matches!(e, UiTransientEvent::AiAnswerReady(_))
+        }));
+        let Some(UiTransientEvent::AiAnswerReady(ta_ans)) = ta_evt else {
+            panic!("expected Tamil AiAnswerReady");
+        };
+        assert!(!ta_ans.answer_ta.trim().is_empty());
+
+        handle.shutdown();
     }
 }

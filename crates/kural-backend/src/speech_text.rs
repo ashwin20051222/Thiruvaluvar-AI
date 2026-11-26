@@ -18,16 +18,61 @@ pub struct SpeechPayload {
     pub chunks: Vec<String>,
 }
 
+fn normalize_english_tts_text(text: &str) -> String {
+    text.trim().replace("'''", "'")
+}
+
 fn non_empty_english_couplet(full: &FullKural) -> String {
-    let tts = full.kural.tts_kural_en.trim();
-    if !tts.is_empty() {
-        return tts.to_string();
+    for candidate in [
+        full.kural.tts_kural_en.as_str(),
+        full.kural.translation_en.as_str(),
+        full.kural.couplet_en.as_str(),
+    ] {
+        let norm = normalize_english_tts_text(candidate);
+        if !norm.is_empty() {
+            return norm;
+        }
     }
-    let tr = full.kural.translation_en.trim();
-    if !tr.is_empty() {
-        return tr.to_string();
+    String::new()
+}
+
+fn non_empty_english_meaning(full: &FullKural) -> String {
+    for candidate in [
+        full.kural.explanation_en.as_str(),
+        full.kural.translation_en.as_str(),
+    ] {
+        let norm = normalize_english_tts_text(candidate);
+        if !norm.is_empty() {
+            return norm;
+        }
     }
-    full.kural.couplet_en.trim().to_string()
+    String::new()
+}
+
+fn non_empty_or<'a>(primary: &'a str, fallback: &'a str) -> &'a str {
+    let trimmed = primary.trim();
+    if trimmed.is_empty() {
+        fallback
+    } else {
+        trimmed
+    }
+}
+
+fn tamil_scholar_meaning(full: &FullKural, scholar: Scholar) -> &str {
+    match resolve_effective_scholar(full, scholar) {
+        Scholar::MuVa | Scholar::English => full.kural.meaning_mu_va.as_str(),
+        Scholar::Solomon => non_empty_or(&full.kural.meaning_solomon, &full.kural.meaning_mu_va),
+        Scholar::Kalaignar => {
+            non_empty_or(&full.kural.meaning_kalaignar, &full.kural.meaning_mu_va)
+        }
+        Scholar::Parimel => full
+            .kural
+            .meaning_parimel
+            .as_deref()
+            .map(str::trim)
+            .filter(|s| !s.is_empty())
+            .unwrap_or(&full.kural.meaning_mu_va),
+    }
 }
 
 fn push_non_empty(dst: &mut Vec<String>, text: &str) {
@@ -37,8 +82,46 @@ fn push_non_empty(dst: &mut Vec<String>, text: &str) {
     }
 }
 
-/// Map `(full, screen, target, lang, user_speed, last_ai_answer)` into TTS chunks and cache key
-/// following Section 4.5 of `backend_master_approved.md`.
+fn push_kural_and_meaning(
+    chunks: &mut Vec<String>,
+    full: &FullKural,
+    screen: AppScreen,
+    lang: Language,
+    effective_scholar: Scholar,
+) {
+    match lang {
+        Language::Tamil => {
+            push_non_empty(chunks, &full.kural.line1_ta);
+            push_non_empty(chunks, &full.kural.line2_ta);
+            let meaning = if screen == AppScreen::Kids {
+                full.child
+                    .as_ref()
+                    .map(|c| c.simple_meaning_ta.as_str())
+                    .filter(|s| !s.trim().is_empty())
+                    .unwrap_or_else(|| tamil_scholar_meaning(full, effective_scholar))
+            } else {
+                tamil_scholar_meaning(full, effective_scholar)
+            };
+            push_non_empty(chunks, meaning);
+        }
+        Language::English => {
+            push_non_empty(chunks, &non_empty_english_couplet(full));
+            let meaning = if screen == AppScreen::Kids {
+                full.child
+                    .as_ref()
+                    .map(|c| normalize_english_tts_text(&c.simple_meaning_en))
+                    .filter(|s| !s.is_empty())
+                    .unwrap_or_else(|| non_empty_english_meaning(full))
+            } else {
+                non_empty_english_meaning(full)
+            };
+            push_non_empty(chunks, &meaning);
+        }
+    }
+}
+
+/// Map `(full, screen, target, lang, effective_scholar, user_speed, last_ai_answer)` into TTS
+/// chunks following Section 4.5 of `backend_master_approved.md`.
 ///
 /// Crucially, when `Language::English` is active, only English text is emitted so `en_US-lessac`
 /// never attempts to speak raw Tamil script.
@@ -48,6 +131,7 @@ pub fn build_speech_payload(
     screen: AppScreen,
     target: SpeakTarget,
     lang: Language,
+    effective_scholar: Scholar,
     user_speed: f32,
     last_ai_answer: Option<&GroundedAnswer>,
 ) -> Option<SpeechPayload> {
@@ -70,33 +154,9 @@ pub fn build_speech_payload(
                 push_non_empty(&mut chunks, &non_empty_english_couplet(full));
             }
         },
-        SpeakTarget::KuralAndMeaning => match lang {
-            Language::Tamil => {
-                push_non_empty(&mut chunks, &full.kural.line1_ta);
-                push_non_empty(&mut chunks, &full.kural.line2_ta);
-                let meaning = if screen == AppScreen::Kids {
-                    full.child
-                        .as_ref()
-                        .map(|c| c.simple_meaning_ta.as_str())
-                        .unwrap_or(&full.kural.meaning_mu_va)
-                } else {
-                    full.kural.meaning_mu_va.as_str()
-                };
-                push_non_empty(&mut chunks, meaning);
-            }
-            Language::English => {
-                push_non_empty(&mut chunks, &non_empty_english_couplet(full));
-                let meaning = if screen == AppScreen::Kids {
-                    full.child
-                        .as_ref()
-                        .map(|c| c.simple_meaning_en.as_str())
-                        .unwrap_or(&full.kural.explanation_en)
-                } else {
-                    full.kural.explanation_en.as_str()
-                };
-                push_non_empty(&mut chunks, meaning);
-            }
-        },
+        SpeakTarget::KuralAndMeaning => {
+            push_kural_and_meaning(&mut chunks, full, screen, lang, effective_scholar);
+        }
         SpeakTarget::KuttyStory => {
             if let Some(child) = &full.child {
                 match lang {
@@ -106,9 +166,15 @@ pub fn build_speech_payload(
                         push_non_empty(&mut chunks, &child.moral_ta);
                     }
                     Language::English => {
-                        push_non_empty(&mut chunks, &child.story_title_en);
-                        push_non_empty(&mut chunks, &child.kutty_story_en);
-                        push_non_empty(&mut chunks, &child.moral_en);
+                        push_non_empty(
+                            &mut chunks,
+                            &normalize_english_tts_text(&child.story_title_en),
+                        );
+                        push_non_empty(
+                            &mut chunks,
+                            &normalize_english_tts_text(&child.kutty_story_en),
+                        );
+                        push_non_empty(&mut chunks, &normalize_english_tts_text(&child.moral_en));
                     }
                 }
             } else {
@@ -117,6 +183,7 @@ pub fn build_speech_payload(
                     screen,
                     SpeakTarget::KuralAndMeaning,
                     lang,
+                    effective_scholar,
                     user_speed,
                     None,
                 );
@@ -136,39 +203,35 @@ pub fn build_speech_payload(
             Language::English => {
                 push_non_empty(&mut chunks, &non_empty_english_couplet(full));
                 if let Some(youth) = &full.youth {
-                    push_non_empty(&mut chunks, &youth.analysis_en);
-                    push_non_empty(&mut chunks, &youth.action_tip_en);
+                    push_non_empty(&mut chunks, &normalize_english_tts_text(&youth.analysis_en));
+                    push_non_empty(&mut chunks, &normalize_english_tts_text(&youth.action_tip_en));
                 } else {
-                    push_non_empty(&mut chunks, &full.kural.explanation_en);
+                    push_non_empty(&mut chunks, &non_empty_english_meaning(full));
                 }
             }
         },
-        SpeakTarget::ScholarCommentary(eff) => match lang {
-            Language::Tamil => {
-                let text = match eff {
-                    Scholar::MuVa | Scholar::English => full.kural.meaning_mu_va.as_str(),
-                    Scholar::Solomon => full.kural.meaning_solomon.as_str(),
-                    Scholar::Kalaignar => full.kural.meaning_kalaignar.as_str(),
-                    Scholar::Parimel => full
-                        .kural
-                        .meaning_parimel
-                        .as_deref()
-                        .unwrap_or(&full.kural.meaning_mu_va),
-                };
-                push_non_empty(&mut chunks, text);
+        SpeakTarget::ScholarCommentary(eff) => {
+            if screen == AppScreen::Adult {
+                push_kural_and_meaning(&mut chunks, full, screen, lang, eff);
+            } else {
+                match lang {
+                    Language::Tamil => {
+                        push_non_empty(&mut chunks, tamil_scholar_meaning(full, eff));
+                    }
+                    Language::English => {
+                        push_non_empty(&mut chunks, &non_empty_english_couplet(full));
+                        push_non_empty(&mut chunks, &non_empty_english_meaning(full));
+                    }
+                }
             }
-            Language::English => {
-                push_non_empty(&mut chunks, &full.kural.translation_en);
-                push_non_empty(&mut chunks, &full.kural.explanation_en);
-            }
-        },
+        }
         SpeakTarget::AiAnswer => {
             if let Some(ans) = last_ai_answer {
                 let text = match lang {
-                    Language::Tamil => &ans.answer_ta,
-                    Language::English => &ans.answer_en,
+                    Language::Tamil => ans.answer_ta.trim().to_string(),
+                    Language::English => normalize_english_tts_text(&ans.answer_en),
                 };
-                push_non_empty(&mut chunks, text);
+                push_non_empty(&mut chunks, &text);
             }
         }
     }
@@ -289,6 +352,7 @@ mod tests {
                 AppScreen::Adult,
                 target,
                 Language::English,
+                Scholar::MuVa,
                 1.0,
                 None,
             )
@@ -308,10 +372,135 @@ mod tests {
             AppScreen::Adult,
             SpeakTarget::ScholarCommentary(Scholar::Parimel),
             Language::Tamil,
+            Scholar::MuVa,
             1.0,
             None,
         )
         .expect("tamil fallback payload");
-        assert_eq!(ta_parimel.chunks, vec!["மு.வ. உரை மாதிரி".to_string()]);
+        assert_eq!(
+            ta_parimel.chunks,
+            vec![
+                full.kural.line1_ta.clone(),
+                full.kural.line2_ta.clone(),
+                "மு.வ. உரை மாதிரி".to_string(),
+            ]
+        );
+    }
+
+    #[test]
+    fn adult_kural_and_meaning_and_scholar_commentary_speak_kural_then_meaning() {
+        let mut full = sample_full_kural(Some("பரிமேல் உரை மாதிரி"));
+        full.kural.tts_kural_en = "'''Stand''' eager to learn.".to_string();
+
+        // Tamil Adult: KuralAndMeaning respects effective_scholar (line1, line2, scholar meaning).
+        for (scholar, expected_meaning) in [
+            (Scholar::MuVa, "மு.வ. உரை மாதிரி"),
+            (Scholar::Solomon, "சாலமன் உரை மாதிரி"),
+            (Scholar::Kalaignar, "கலைஞர் உரை மாதிரி"),
+            (Scholar::Parimel, "பரிமேல் உரை மாதிரி"),
+        ] {
+            let p_km = build_speech_payload(
+                &full,
+                AppScreen::Adult,
+                SpeakTarget::KuralAndMeaning,
+                Language::Tamil,
+                scholar,
+                1.0,
+                None,
+            )
+            .expect("tamil kural and meaning");
+            assert_eq!(
+                p_km.chunks,
+                vec![
+                    full.kural.line1_ta.clone(),
+                    full.kural.line2_ta.clone(),
+                    expected_meaning.to_string(),
+                ]
+            );
+
+            let p_sc = build_speech_payload(
+                &full,
+                AppScreen::Adult,
+                SpeakTarget::ScholarCommentary(scholar),
+                Language::Tamil,
+                Scholar::MuVa,
+                1.0,
+                None,
+            )
+            .expect("tamil scholar commentary");
+            assert_eq!(p_sc.chunks, p_km.chunks);
+        }
+
+        // Parimel == None falls back to MuVa for both KuralAndMeaning and ScholarCommentary.
+        let full_no_parimel = sample_full_kural(None);
+        let p_km_fb = build_speech_payload(
+            &full_no_parimel,
+            AppScreen::Adult,
+            SpeakTarget::KuralAndMeaning,
+            Language::Tamil,
+            Scholar::Parimel,
+            1.0,
+            None,
+        )
+        .expect("tamil kural and meaning parimel fallback");
+        assert_eq!(
+            p_km_fb.chunks,
+            vec![
+                full_no_parimel.kural.line1_ta.clone(),
+                full_no_parimel.kural.line2_ta.clone(),
+                "மு.வ. உரை மாதிரி".to_string(),
+            ]
+        );
+
+        // English Adult: Kural first (with ''' normalized to '), Meaning second, zero Tamil chars.
+        for target in [
+            SpeakTarget::KuralAndMeaning,
+            SpeakTarget::ScholarCommentary(Scholar::Solomon),
+        ] {
+            let en_payload = build_speech_payload(
+                &full,
+                AppScreen::Adult,
+                target,
+                Language::English,
+                Scholar::Solomon,
+                1.0,
+                None,
+            )
+            .expect("english adult payload");
+            assert_eq!(
+                en_payload.chunks,
+                vec![
+                    "'Stand' eager to learn.".to_string(),
+                    "Sample English explanation.".to_string(),
+                ]
+            );
+            assert!(
+                en_payload
+                    .chunks
+                    .iter()
+                    .all(|c| !c.chars().any(|ch| ('\u{0B80}'..='\u{0BFF}').contains(&ch)))
+            );
+        }
+
+        // English fallback to translation_en when explanation_en is empty.
+        let mut full_no_exp = sample_full_kural(None);
+        full_no_exp.kural.explanation_en.clear();
+        let en_fb = build_speech_payload(
+            &full_no_exp,
+            AppScreen::Adult,
+            SpeakTarget::KuralAndMeaning,
+            Language::English,
+            Scholar::MuVa,
+            1.0,
+            None,
+        )
+        .expect("english fallback to translation_en");
+        assert_eq!(
+            en_fb.chunks,
+            vec![
+                "Stand eager to learn.".to_string(),
+                "Sample English translation.".to_string(),
+            ]
+        );
     }
 }

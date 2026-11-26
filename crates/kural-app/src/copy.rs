@@ -44,9 +44,21 @@ pub fn next_scholar(cur: Scholar) -> Scholar {
     ALL_SCHOLARS[(idx + 1) % ALL_SCHOLARS.len()]
 }
 
+/// Return English meaning (`explanation_en` if non-empty, else `translation_en`).
+fn english_meaning(full: &FullKural) -> &str {
+    if full.kural.explanation_en.trim().is_empty() {
+        &full.kural.translation_en
+    } else {
+        &full.kural.explanation_en
+    }
+}
+
 /// Return active commentary body text for `full` respecting `effective_scholar` + `lang`.
 #[must_use]
-pub fn commentary_text(full: &FullKural, effective: Scholar, _lang: Language) -> &str {
+pub fn commentary_text(full: &FullKural, effective: Scholar, lang: Language) -> &str {
+    if lang == Language::English {
+        return english_meaning(full);
+    }
     match effective {
         Scholar::MuVa => &full.kural.meaning_mu_va,
         Scholar::Solomon => &full.kural.meaning_solomon,
@@ -56,14 +68,20 @@ pub fn commentary_text(full: &FullKural, effective: Scholar, _lang: Language) ->
             .meaning_parimel
             .as_deref()
             .unwrap_or(&full.kural.meaning_mu_va),
-        Scholar::English => {
-            if full.kural.explanation_en.trim().is_empty() {
-                &full.kural.translation_en
-            } else {
-                &full.kural.explanation_en
-            }
-        }
+        Scholar::English => english_meaning(full),
     }
+}
+
+/// Return English couplet display text (`translation_en` if non-empty, else `couplet_en`),
+/// normalizing redundant triple-quotes (`'''` -> `'`) without mutating DB data.
+#[must_use]
+pub fn english_couplet_display(full: &FullKural) -> String {
+    let raw = if full.kural.translation_en.trim().is_empty() {
+        full.kural.couplet_en.trim()
+    } else {
+        full.kural.translation_en.trim()
+    };
+    raw.replace("'''", "'")
 }
 
 /// Return age badge title.
@@ -166,6 +184,66 @@ pub fn paginate_sentences(text: &str, max_chars: usize) -> Vec<String> {
 #[cfg(test)]
 mod tests {
     use super::*;
+    use kural_core::{Adhikaram, Division, Iyal, KuralCore};
+
+    fn sample_full_kural() -> FullKural {
+        FullKural {
+            kural: KuralCore {
+                number: 1,
+                division_id: 1,
+                iyal_id: 1,
+                adhikaram_id: 1,
+                line1_ta: "அகர முதல எழுத்தெல்லாம் ஆதி".to_string(),
+                line2_ta: "பகவன் முதற்றே உலகு.".to_string(),
+                opening_letter_ta: "அ".to_string(),
+                transliteration1: "Agara mudhala ezhuthellaam aadhi".to_string(),
+                transliteration2: "Bhagavan mudhatre ulagu".to_string(),
+                meaning_mu_va: "மு.வ. தமிழ் உரை".to_string(),
+                meaning_solomon: "சாலமன் தமிழ் உரை".to_string(),
+                meaning_kalaignar: "கலைஞர் தமிழ் உரை".to_string(),
+                meaning_parimel: None,
+                translation_en: "As letters all begin with '''A''', the world begins with God."
+                    .to_string(),
+                explanation_en: "God is the primal source of the universe.".to_string(),
+                couplet_en: "A is the first of letters.".to_string(),
+                tts_kural_ta: String::new(),
+                tts_kural_en: String::new(),
+            },
+            division: Division {
+                id: 1,
+                name_ta: "அறத்துப்பால்".to_string(),
+                alt_name_ta: None,
+                name_en: "Virtue".to_string(),
+                transliteration: "Arathuppal".to_string(),
+                kural_start: 1,
+                kural_end: 380,
+            },
+            iyal: Iyal {
+                id: 1,
+                division_id: 1,
+                name_ta: "பாயிரவியல்".to_string(),
+                alt_name_ta: None,
+                name_en: "Prologue".to_string(),
+                transliteration: "Payiraviyal".to_string(),
+                chapter_start: 1,
+                chapter_end: 4,
+            },
+            adhikaram: Adhikaram {
+                id: 1,
+                division_id: 1,
+                iyal_id: 1,
+                name_ta: "கடவுள் வாழ்த்து".to_string(),
+                name_en: "Praise of God".to_string(),
+                transliteration: "Kadavul Vaazhthu".to_string(),
+                kural_start: 1,
+                kural_end: 10,
+            },
+            child: None,
+            youth: None,
+            adult: None,
+            tags: Vec::new(),
+        }
+    }
 
     #[test]
     fn sentence_paginator_and_word_game_mask_preserve_integrity() {
@@ -180,5 +258,38 @@ mod tests {
         assert!(l1.contains("அகர"));
         assert!(l2.contains("_____."));
         assert!(!l2.contains("உலகு"));
+    }
+
+    #[test]
+    fn english_mode_returns_english_commentary_and_clean_couplet() {
+        let mut full = sample_full_kural();
+
+        // Even when effective scholar is MuVa, English mode returns English explanation.
+        assert_eq!(
+            commentary_text(&full, Scholar::MuVa, Language::English),
+            "God is the primal source of the universe."
+        );
+        // Tamil mode preserves MuVa commentary.
+        assert_eq!(
+            commentary_text(&full, Scholar::MuVa, Language::Tamil),
+            "மு.வ. தமிழ் உரை"
+        );
+
+        // Cleans ''' -> ' without mutating DB data.
+        assert_eq!(
+            english_couplet_display(&full),
+            "As letters all begin with 'A', the world begins with God."
+        );
+
+        // Fallback to translation_en in commentary_text when explanation_en is blank,
+        // and fallback to couplet_en in english_couplet_display when translation_en is blank.
+        full.kural.explanation_en = "   ".to_string();
+        assert_eq!(
+            commentary_text(&full, Scholar::MuVa, Language::English),
+            "As letters all begin with '''A''', the world begins with God."
+        );
+        full.kural.translation_en.clear();
+        full.kural.couplet_en = "'''A''' leads all letters.".to_string();
+        assert_eq!(english_couplet_display(&full), "'A' leads all letters.");
     }
 }

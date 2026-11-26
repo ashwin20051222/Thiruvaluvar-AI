@@ -1,27 +1,56 @@
 //! Adult / Scholars Mode Screen (`S4`, ages 18+) — Chola filigree watermark (no motes),
 //! 38 px 3-tab Pi strip (`Kural | Commentary | Study`) + `<button id="pi-speed-chip">` +
 //! Scholar Cycle Pill, 3D `#kural-initial-seal` strictly bound to Tamil `opening_letter_ta`,
-//! verbatim Tamil couplet, 5-scholar commentary tabs with `#395`/`#648` Parimel guard,
-//! Daily Wisdom Reflection + 4 `.royal-subcard` Research Themes + Saved Bookmarks,
+//! Tamil or English couplet by active language, 5-scholar commentary tabs with `#395`/`#648` Parimel guard,
+//! Daily Wisdom Reflection + Saved Bookmarks,
 //! standardized `[0.75×, 1.0×, 1.25×]` speed dock, and 5-slot Pi dock.
 
 use crate::components::ContentPlaybackButton;
 use crate::components::header::TopHeader;
 use crate::components::icons::{ChatIcon, MicIcon, SearchIcon};
 use crate::copy::{
-    ALL_SCHOLARS, commentary_text, next_scholar, paginate_sentences, research_theme_label,
+    ALL_SCHOLARS, commentary_text, english_couplet_display, next_scholar, paginate_sentences,
     scholar_label, tr,
 };
 use crate::state::{AppContext, is_voice_active};
 use dioxus::prelude::*;
 use kural_core::{
-    ActiveFilter, BackendCommand, CompactTabHint, Language, ModalKind, PARIMEL_FALLBACK_NOTICE,
-    ResearchTheme, SPEECH_SPEED_PRESETS, Scholar, SearchTab, SpeakTarget, Theme, step_speech_speed,
+    AppScreen, AudioPlaybackStatus, BackendCommand, CompactTabHint, Language, ModalKind,
+    PARIMEL_FALLBACK_NOTICE, SPEECH_SPEED_PRESETS, Scholar, SearchTab, SpeakTarget, Theme,
+    step_speech_speed,
 };
+use std::time::Duration;
 
 #[component]
 pub fn AdultScreen() -> Element {
     let mut ctx = use_context::<AppContext>();
+    let boot = use_context::<crate::BootContext>();
+    let mut first_adult_autoplay_done = use_signal(|| false);
+
+    use_hook(move || {
+        if !boot.verify_layout {
+            spawn(async move {
+                tokio::time::sleep(Duration::from_millis(250)).await;
+                if !*first_adult_autoplay_done.peek() {
+                    let should_speak = {
+                        let snap_now = ctx.snapshot.peek();
+                        snap_now.screen == AppScreen::Adult
+                            && snap_now.modal.is_none()
+                            && snap_now.auto_speak_text
+                            && matches!(
+                                snap_now.playback_status,
+                                AudioPlaybackStatus::Idle | AudioPlaybackStatus::FallbackReady
+                            )
+                    };
+                    first_adult_autoplay_done.set(true);
+                    if should_speak {
+                        ctx.dispatch(BackendCommand::SpeakCurrent(SpeakTarget::KuralAndMeaning));
+                    }
+                }
+            });
+        }
+    });
+
     let snap = ctx.snapshot.read().clone();
     let lang = snap.prefs.lang;
     let theme = snap.prefs.theme;
@@ -210,19 +239,32 @@ pub fn AdultScreen() -> Element {
                                     aria_label: tr(lang, "முதல் எழுத்து", "Opening Tamil letter"),
                                     "{full.kural.opening_letter_ta}"
                                 }
-                                // Verbatim Tamil couplet ALWAYS preserved
-                                p { id: "kural-couplet", class: "font-kural", style: "text-align:left;", lang: "ta",
-                                    "{full.kural.line1_ta}"
-                                    br {}
-                                    "{full.kural.line2_ta}"
+                                if lang == Language::English {
+                                    p {
+                                        id: "kural-couplet",
+                                        style: "text-align: left; font-size: 16px; line-height: 1.35;",
+                                        lang: "en",
+                                        "{english_couplet_display(full)}"
+                                    }
+                                } else {
+                                    p {
+                                        id: "kural-couplet",
+                                        class: "font-kural",
+                                        style: "text-align:left;",
+                                        lang: "ta",
+                                        "{full.kural.line1_ta}"
+                                        br {}
+                                        "{full.kural.line2_ta}"
+                                    }
                                 }
                             }
-                            p { id: "kural-translit",
-                                "{full.kural.transliteration1} · {full.kural.transliteration2}"
-                            }
                             if lang == Language::English {
-                                p { class: "desktop-only", style: "margin-top:4px; font-size:13px; font-style:italic; opacity:0.88;",
-                                    "{full.kural.translation_en}"
+                                p { id: "kural-translit", lang: "ta",
+                                    "{full.kural.line1_ta} / {full.kural.line2_ta}"
+                                }
+                            } else {
+                                p { id: "kural-translit",
+                                    "{full.kural.transliteration1} · {full.kural.transliteration2}"
                                 }
                             }
                         }
@@ -303,7 +345,7 @@ pub fn AdultScreen() -> Element {
                                 audio_state: snap.audio_state,
                                 can_replay_tts: snap.can_replay_tts,
                                 lang: lang,
-                                fallback_target: SpeakTarget::ScholarCommentary(effective_scholar),
+                                fallback_target: SpeakTarget::KuralAndMeaning,
                             }
                             if (pi_tab == CompactTabHint::Commentary || pi_tab == CompactTabHint::Study)
                                 && active_pages.len() > 1
@@ -358,42 +400,6 @@ pub fn AdultScreen() -> Element {
                         }
                         p { class: "line-clamp-3", style: "font-size:13.5px; line-height:1.45; margin-top:6px;",
                             "{reflection_text}"
-                        }
-                    }
-
-                    // 4 Research Theme Subcards (2x2)
-                    div { class: "royal-card-secondary adult-themes-card",
-                        h3 { style: "font-size:13px; font-weight:800; margin-bottom:8px;",
-                            "{tr(lang, \"ஆய்வுத் தலைப்புகள்\", \"Research Themes\")}"
-                        }
-                        div { class: "quiz-2x2-grid",
-                            for theme_val in [
-                                ResearchTheme::Virtue,
-                                ResearchTheme::Philosophy,
-                                ResearchTheme::Polity,
-                                ResearchTheme::LoveEthics,
-                            ] {
-                                {
-                                    let (title, desc) = research_theme_label(theme_val, lang);
-                                    let is_active = snap.active_filter == Some(ActiveFilter::ResearchTheme(theme_val));
-                                    rsx! {
-                                        button {
-                                            key: "{theme_val}",
-                                            r#type: "button",
-                                            class: if is_active { "royal-subcard active" } else { "royal-subcard" },
-                                            onclick: move |_| {
-                                                if is_active {
-                                                    ctx.dispatch(BackendCommand::FilterByResearchTheme(None));
-                                                } else {
-                                                    ctx.dispatch(BackendCommand::FilterByResearchTheme(Some(theme_val)));
-                                                }
-                                            },
-                                            p { style: "font-size:13px; font-weight:800;", "{title}" }
-                                            p { style: "font-size:11px; opacity:0.78; margin-top:2px;", "{desc}" }
-                                        }
-                                    }
-                                }
-                            }
                         }
                     }
 

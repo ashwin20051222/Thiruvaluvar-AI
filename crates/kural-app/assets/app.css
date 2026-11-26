@@ -948,6 +948,9 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
   flex-wrap: wrap;
   gap: 6px;
 }
+.adult-reflection-card {
+  flex-shrink: 0;
+}
 .adult-bookmarks-list {
   display: flex;
   flex-direction: column;
@@ -1760,7 +1763,7 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
     margin-top: 1px !important;
   }
 
-  /* Adult left-col verse, English translation, & commentary strictly bounded */
+  /* Adult left-col verse & commentary strictly bounded */
   .adult-main-col #kural-couplet { font-size: 16px; line-height: 1.35; }
   .adult-main-col #kural-translit {
     white-space: nowrap;
@@ -1769,16 +1772,6 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
     max-width: 100%;
     font-size: 11px;
     margin-top: 1px;
-  }
-  .adult-main-col .kural-center-verse > p.desktop-only {
-    font-size: 12px !important;
-    line-height: 1.26 !important;
-    margin-top: 2px !important;
-    display: -webkit-box;
-    -webkit-line-clamp: 1;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    max-width: 100%;
   }
   .comm-box { padding: 5px 8px; margin: 2px 0; }
   .comm-tabs-row { margin-bottom: 3px; }
@@ -1799,7 +1792,7 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
     overflow: hidden;
   }
 
-  /* Adult right-col Reflection + Themes + Bookmarks strictly bounded */
+  /* Adult right-col Reflection + Bookmarks strictly bounded */
   .adult-reflection-card h2 {
     font-size: 13px !important;
     white-space: nowrap;
@@ -1811,15 +1804,6 @@ button:focus-visible, [role="button"]:focus-visible, input:focus-visible {
     font-size: 12px !important;
     line-height: 1.28 !important;
     margin-top: 2px !important;
-  }
-  .adult-themes-card h3 { font-size: 12px !important; margin-bottom: 4px !important; }
-  .adult-themes-card .quiz-2x2-grid { gap: 4px; }
-  .adult-themes-card .royal-subcard { padding: 4px 8px; min-height: 38px; }
-  .adult-themes-card .royal-subcard p {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    margin-top: 1px !important;
   }
   .adult-bookmarks-card { gap: 4px !important; }
   .adult-bookmarks-card h3 { font-size: 12px !important; }

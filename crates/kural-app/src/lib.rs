@@ -541,12 +541,20 @@ async fn check_dom_state(label: &str, viewport: AuditViewport, expect_kural: boo
                 }}
             }}
 
+            if (document.querySelector('.adult-main-col, .adult-side-col') && document.querySelector('.adult-themes-card')) {{
+                errs.push('themesCardPresent');
+            }}
+
             if ({expect_kural}) {{
                 const c = document.getElementById('kural-couplet');
                 if (c) {{
                     const fs = parseFloat(getComputedStyle(c).fontSize);
                     if (fs < 14) errs.push(`coupletFont(${{fs}})<14`);
-                    if (!/[\u0B80-\u0BFF]/.test(c.textContent || '')) errs.push('coupletNotTamil');
+                    if (document.documentElement.lang === 'en' && document.querySelector('.adult-main-col')) {{
+                        if (!/[A-Za-z]/.test(c.textContent || '')) errs.push('coupletNotEnglish');
+                    }} else if (!/[\u0B80-\u0BFF]/.test(c.textContent || '')) {{
+                        errs.push('coupletNotTamil');
+                    }}
                 }}
                 for (const el of document.querySelectorAll('#kural-meaning, #comm-body, .pi-prose-text')) {{
                     const r = el.getBoundingClientRect();
