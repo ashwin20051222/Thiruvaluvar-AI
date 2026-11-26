@@ -22,7 +22,7 @@ use kural_voice_cmd::{RouterContext, validate_voice_transcript};
 use std::sync::{Arc, Mutex};
 use std::time::{Duration, Instant};
 use tokio::runtime::{Builder as RuntimeBuilder, Runtime};
-use tokio::sync::{mpsc, oneshot, watch};
+use tokio::sync::{mpsc, watch};
 use tokio::task::JoinHandle;
 use tokio_util::sync::CancellationToken;
 
@@ -38,9 +38,9 @@ enum ControllerMsg {
     AddEventSubscriber(mpsc::Sender<UiTransientEvent>),
     QueryAdhikaramKurals {
         adhikaram_id: u8,
-        reply: oneshot::Sender<Result<Vec<KuralSummary>, BackendError>>,
+        reply: std::sync::mpsc::SyncSender<Result<Vec<KuralSummary>, BackendError>>,
     },
-    Shutdown(oneshot::Sender<()>),
+    Shutdown(std::sync::mpsc::SyncSender<()>),
 }
 
 enum InternalMsg {
@@ -291,7 +291,7 @@ impl BackendHandle {
     /// Fetch ordered Kural summaries inside an Adhikaram for Search modal drill-down without
     /// exposing `kural-db` to `kural-app`.
     pub fn kurals_in_adhikaram(&self, adhikaram_id: u8) -> Result<Vec<KuralSummary>, BackendError> {
-        let (reply_tx, reply_rx) = oneshot::channel();
+        let (reply_tx, reply_rx) = std::sync::mpsc::sync_channel(1);
         self.inner
             .cmd_tx
             .try_send(ControllerMsg::QueryAdhikaramKurals {
@@ -299,7 +299,7 @@ impl BackendHandle {
                 reply: reply_tx,
             })
             .map_err(|_| BackendError::Closed)?;
-        reply_rx.blocking_recv().map_err(|_| BackendError::Closed)?
+        reply_rx.recv().map_err(|_| BackendError::Closed)?
     }
 
     /// Gracefully flush pending state, shut down workers, audio actor, and Tokio runtime.
@@ -308,23 +308,28 @@ impl BackendHandle {
     }
 
     /// Idempotently shut down backend workers and flush pending state via shared handle reference.
+    /// Safe to invoke from inside an active Tokio runtime (e.g., Dioxus cleanup callbacks).
     pub fn shutdown_ref(&self) {
-        let (tx, rx) = oneshot::channel();
-        if self
-            .inner
-            .cmd_tx
-            .try_send(ControllerMsg::Shutdown(tx))
-            .is_ok()
-        {
-            let _ = rx.blocking_recv();
+        if tokio::runtime::Handle::try_current().is_ok() {
+            let inner = Arc::clone(&self.inner);
+            let _ = std::thread::spawn(move || Self::shutdown_inner(&inner)).join();
+        } else {
+            Self::shutdown_inner(&self.inner);
         }
-        if let Ok(mut done_guard) = self.inner.loop_done_rx.lock()
+    }
+
+    fn shutdown_inner(inner: &BackendHandleInner) {
+        let (tx, rx) = std::sync::mpsc::sync_channel(1);
+        if inner.cmd_tx.try_send(ControllerMsg::Shutdown(tx)).is_ok() {
+            let _ = rx.recv_timeout(Duration::from_secs(2));
+        }
+        if let Ok(mut done_guard) = inner.loop_done_rx.lock()
             && let Some(done_rx) = done_guard.take()
         {
             let _ = done_rx.recv_timeout(Duration::from_secs(2));
         }
-        self.inner.audio.shutdown();
-        if let Ok(mut rt_guard) = self.inner.runtime.lock()
+        inner.audio.shutdown();
+        if let Ok(mut rt_guard) = inner.runtime.lock()
             && let Some(rt) = rt_guard.take()
         {
             rt.shutdown_timeout(Duration::from_secs(2));
@@ -2391,6 +2396,13 @@ mod tests {
         let reloaded = handle2.current_snapshot();
         assert!(!reloaded.prefs.auto_speak_text);
         assert!(!reloaded.auto_speak_text);
-        handle2.shutdown();
+        // Verify UI-thread calls inside an active Tokio runtime do not panic.
+        rt.block_on(async {
+            let kurals = handle2
+                .kurals_in_adhikaram(1)
+                .expect("query kurals inside runtime");
+            assert!(!kurals.is_empty());
+            handle2.shutdown_ref();
+        });
     }
 }
