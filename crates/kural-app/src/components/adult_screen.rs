@@ -322,8 +322,8 @@ pub fn AdultScreen() -> Element {
                                 r#type: "button",
                                 class: "royal-btn action-pill-btn",
                                 aria_label: tr(lang, "மீண்டும் கேள்", "Replay"),
-                                disabled: !snap.has_replay_clip,
-                                onclick: move |_| ctx.dispatch(BackendCommand::ReplayAudio),
+                                disabled: !snap.can_replay_tts,
+                                onclick: move |_| ctx.dispatch(BackendCommand::ReplayLastTts),
                                 ReplayIcon {}
                                 span { class: "desktop-only replay-text", "{tr(lang, \"மீண்டும்\", \"Replay\")}" }
                             }

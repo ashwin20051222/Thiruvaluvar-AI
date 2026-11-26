@@ -13,10 +13,9 @@ pub fn resolve_effective_scholar(full: &FullKural, requested: Scholar) -> Schola
     }
 }
 
-/// Spoken payload and deterministic PCM LRU cache key for a [`SpeakTarget`].
+/// Spoken payload chunks for a [`SpeakTarget`].
 pub struct SpeechPayload {
     pub chunks: Vec<String>,
-    pub cache_key: Option<String>,
 }
 
 fn non_empty_english_couplet(full: &FullKural) -> String {
@@ -53,7 +52,6 @@ pub fn build_speech_payload(
     last_ai_answer: Option<&GroundedAnswer>,
 ) -> Option<SpeechPayload> {
     let mut chunks = Vec::new();
-    let speed_pct = (snap_speech_speed(user_speed) * 100.0).round() as u32;
 
     let resolved_target = match target {
         SpeakTarget::ScholarCommentary(s) => {
@@ -179,31 +177,8 @@ pub fn build_speech_payload(
         return None;
     }
 
-    let cache_key = if matches!(resolved_target, SpeakTarget::AiAnswer) {
-        None
-    } else {
-        Some(format!(
-            "k{}:{}:{}:s{}:{}",
-            full.kural.number,
-            lang.as_str(),
-            screen.as_str(),
-            speed_pct,
-            target_cache_slug(resolved_target),
-        ))
-    };
-
-    Some(SpeechPayload { chunks, cache_key })
-}
-
-fn target_cache_slug(target: SpeakTarget) -> String {
-    match target {
-        SpeakTarget::KuralOnly => "kural".to_string(),
-        SpeakTarget::KuralAndMeaning => "kural_meaning".to_string(),
-        SpeakTarget::KuttyStory => "story".to_string(),
-        SpeakTarget::YouthBriefing => "youth".to_string(),
-        SpeakTarget::ScholarCommentary(s) => format!("scholar_{}", s.as_str()),
-        SpeakTarget::AiAnswer => "ai".to_string(),
-    }
+    let _ = snap_speech_speed(user_speed);
+    Some(SpeechPayload { chunks })
 }
 
 #[cfg(test)]

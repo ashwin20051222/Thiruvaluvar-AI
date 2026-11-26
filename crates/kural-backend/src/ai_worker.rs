@@ -14,6 +14,9 @@ pub struct SpeechCapabilities {
     pub active_tts_loaded: bool,
 }
 
+pub type CollectedPcm = (Vec<i16>, u32);
+pub type SpeakOutput = (SpeechCapabilities, Option<CollectedPcm>);
+
 enum WorkerCmd {
     EnsureLanguage {
         lang: Language,
@@ -30,7 +33,7 @@ enum WorkerCmd {
         speed: f32,
         cancel: CancellationToken,
         pcm_tx: mpsc::Sender<PcmChunk>,
-        reply: oneshot::Sender<Result<SpeechCapabilities, AiError>>,
+        reply: oneshot::Sender<Result<SpeakOutput, AiError>>,
     },
     Shutdown,
 }
@@ -106,13 +109,14 @@ impl AiWorkerHandle {
                             reply,
                         } => {
                             let refs: Vec<&str> = chunks.iter().map(String::as_str).collect();
-                            let res = engine
-                                .synthesize_streaming(&refs, lang, speed, &cancel, &pcm_tx)
-                                .map(|()| SpeechCapabilities {
-                                    active_stt_loaded: engine.stt_loaded(),
-                                    active_tts_loaded: engine.tts_loaded(),
-                                });
-                            let _ = reply.send(res);
+                            let synth_res = engine.synthesize_streaming_collecting(
+                                &refs, lang, speed, &cancel, &pcm_tx,
+                            );
+                            let caps = SpeechCapabilities {
+                                active_stt_loaded: engine.stt_loaded(),
+                                active_tts_loaded: engine.tts_loaded(),
+                            };
+                            let _ = reply.send(synth_res.map(|collected| (caps, collected)));
                         }
                         WorkerCmd::Shutdown => break,
                     }
@@ -172,14 +176,14 @@ impl AiWorkerHandle {
             .map_err(|_| AiError::Inference("kural-ai-worker dropped reply".to_string()))?
     }
 
-    pub async fn speak(
+    pub async fn speak_collecting(
         &self,
         chunks: Vec<String>,
         lang: Language,
         speed: f32,
         cancel: CancellationToken,
         pcm_tx: mpsc::Sender<PcmChunk>,
-    ) -> Result<SpeechCapabilities, AiError> {
+    ) -> Result<SpeakOutput, AiError> {
         let (reply, rx) = oneshot::channel();
         let tx = self.tx.clone();
         let sent = tokio::task::spawn_blocking(move || {

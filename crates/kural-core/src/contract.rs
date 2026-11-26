@@ -1,5 +1,5 @@
 use crate::{
-    Adhikaram, AgeGroup, CoreError, Division, FullKural, Iyal, KnowledgeEntry, KuralSummary,
+    Adhikaram, AgeGroup, CoreError, Division, FullKural, Iyal, KnowledgeEntry, KuralSummary, Lang,
     Language, ResearchTheme, SearchOutcome,
 };
 use serde::{Deserialize, Serialize};
@@ -338,6 +338,31 @@ pub struct SystemHealth {
     pub active_tts_loaded: bool,
 }
 
+/// Replay target mode for a captured voice-to-voice turn.
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Hash, Serialize, Deserialize)]
+#[serde(rename_all = "snake_case")]
+pub enum VoiceReplayMode {
+    AiReplyOnly,
+    UserVoiceOnly,
+    FullExchange,
+}
+
+/// UI metadata summary of a recent voice-to-voice turn (RAM-bounded, last 5 turns).
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+pub struct VoiceTurnSummary {
+    pub id: u64,
+    pub user_text: String,
+    pub ai_text: String,
+    pub lang: Lang,
+    pub has_user_audio: bool,
+    pub has_ai_audio: bool,
+    pub cited_kurals: Vec<u16>,
+}
+
+const fn default_auto_speak_text() -> bool {
+    true
+}
+
 /// Persisted user preferences stored in `data/user_state.db`.
 #[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
 pub struct UserPrefs {
@@ -350,6 +375,8 @@ pub struct UserPrefs {
     pub last_kural_kids: u16,
     pub last_kural_youth: u16,
     pub last_kural_adult: u16,
+    #[serde(default = "default_auto_speak_text")]
+    pub auto_speak_text: bool,
 }
 
 impl Default for UserPrefs {
@@ -364,6 +391,7 @@ impl Default for UserPrefs {
             last_kural_kids: 1,
             last_kural_youth: 481,
             last_kural_adult: 423,
+            auto_speak_text: true,
         }
     }
 }
@@ -449,7 +477,19 @@ pub enum BackendCommand {
 
     SelectCommentary(Scholar),
     SpeakCurrent(SpeakTarget),
+    SpeakCustomText {
+        text: String,
+        lang: Lang,
+        label: Option<String>,
+    },
     ReplayAudio,
+    ReplayLastTts,
+    ReplayVoiceTurn {
+        turn_id: Option<u64>,
+        mode: VoiceReplayMode,
+    },
+    SetAutoSpeakText(bool),
+    SetVoiceToVoiceLoop(bool),
     StopAudio,
     SetSpeechSpeed(f32),
     SetMuted(bool),
@@ -489,6 +529,12 @@ pub struct UiSnapshot {
     pub bookmarks: Vec<BookmarkEntry>,
     pub audio_state: AudioState,
     pub has_replay_clip: bool,
+    pub recent_voice_turns: Vec<VoiceTurnSummary>,
+    pub can_replay_tts: bool,
+    pub can_replay_voice_turn: bool,
+    pub auto_speak_text: bool,
+    pub voice_to_voice_loop: bool,
+    pub active_replay_label: Option<String>,
     pub system_health: SystemHealth,
 }
 
@@ -584,6 +630,46 @@ mod tests {
         ] {
             assert_eq!(screen.to_string().parse::<AppScreen>().unwrap(), screen);
         }
+    }
+
+    #[test]
+    fn user_prefs_backward_compat_and_replay_contracts_round_trip() {
+        let legacy_json = r#"{
+            "lang": "tamil",
+            "theme": "dark",
+            "speech_speed": 1.0,
+            "volume": 0.85,
+            "muted": false,
+            "default_age": "youth",
+            "last_kural_kids": 1,
+            "last_kural_youth": 481,
+            "last_kural_adult": 423
+        }"#;
+        let prefs: UserPrefs = serde_json::from_str(legacy_json).expect("legacy prefs");
+        assert!(prefs.auto_speak_text);
+
+        for mode in [
+            VoiceReplayMode::AiReplyOnly,
+            VoiceReplayMode::UserVoiceOnly,
+            VoiceReplayMode::FullExchange,
+        ] {
+            let enc = serde_json::to_string(&mode).unwrap();
+            let dec: VoiceReplayMode = serde_json::from_str(&enc).unwrap();
+            assert_eq!(dec, mode);
+        }
+
+        let summary = VoiceTurnSummary {
+            id: 7,
+            user_text: "What is virtue?".into(),
+            ai_text: "Virtue is spotless mind.".into(),
+            lang: Lang::English,
+            has_user_audio: true,
+            has_ai_audio: true,
+            cited_kurals: vec![34],
+        };
+        let enc = serde_json::to_string(&summary).unwrap();
+        let dec: VoiceTurnSummary = serde_json::from_str(&enc).unwrap();
+        assert_eq!(dec, summary);
     }
 }
 

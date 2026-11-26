@@ -475,6 +475,33 @@ impl SpeechEngine {
         cancel: &CancellationToken,
         pcm_tx: &mpsc::Sender<PcmChunk>,
     ) -> Result<(), AiError> {
+        self.synthesize_streaming_inner(text_chunks, lang, speed, cancel, pcm_tx, false)
+            .map(|_| ())
+    }
+
+    /// Stream sentence-chunked `i16` mono PCM audio over `pcm_tx` while also returning the full
+    /// stitched mono buffer `(samples, sample_rate_hz)` **only** if synthesis completes without
+    /// cancellation or error (so interrupted playback is never committed into the RAM replay cache).
+    pub fn synthesize_streaming_collecting(
+        &mut self,
+        text_chunks: &[&str],
+        lang: Language,
+        speed: f32,
+        cancel: &CancellationToken,
+        pcm_tx: &mpsc::Sender<PcmChunk>,
+    ) -> Result<Option<(Vec<i16>, u32)>, AiError> {
+        self.synthesize_streaming_inner(text_chunks, lang, speed, cancel, pcm_tx, true)
+    }
+
+    fn synthesize_streaming_inner(
+        &mut self,
+        text_chunks: &[&str],
+        lang: Language,
+        speed: f32,
+        cancel: &CancellationToken,
+        pcm_tx: &mpsc::Sender<PcmChunk>,
+        collect: bool,
+    ) -> Result<Option<(Vec<i16>, u32)>, AiError> {
         if cancel.is_cancelled() || pcm_tx.is_closed() {
             return Err(AiError::Cancelled);
         }
@@ -489,7 +516,7 @@ impl SpeechEngine {
 
         let plan = build_synthesis_plan(text_chunks, lang);
         if plan.is_empty() {
-            return Ok(());
+            return Ok(None);
         }
 
         let clamped_speed = if speed.is_finite() {
@@ -499,6 +526,8 @@ impl SpeechEngine {
         };
 
         let mut last_sample_rate_hz: Option<u32> = None;
+        let mut collected_sample_rate_hz: Option<u32> = None;
+        let mut collected = Vec::<i16>::new();
         let total_steps = plan.len();
 
         for (idx, step) in plan.into_iter().enumerate() {
@@ -533,10 +562,25 @@ impl SpeechEngine {
                 return Err(AiError::Cancelled);
             }
 
+            let copy_for_cache = if collect {
+                Some((chunk.samples.clone(), chunk.sample_rate_hz))
+            } else {
+                None
+            };
+
             send_chunk_cancellable(pcm_tx, chunk, cancel)?;
+
+            if let Some((samples, chunk_sr)) = copy_for_cache {
+                let dst_sr = *collected_sample_rate_hz.get_or_insert(chunk_sr);
+                append_resampled_i16(&mut collected, &samples, chunk_sr, dst_sr);
+            }
         }
 
-        Ok(())
+        if !collect || collected.is_empty() || cancel.is_cancelled() {
+            return Ok(None);
+        }
+
+        Ok(collected_sample_rate_hz.map(|sr| (collected, sr)))
     }
 
     fn active_sample_rate_hz(&self) -> u32 {
@@ -1323,6 +1367,59 @@ impl<'a> JsonParser<'a> {
     }
 }
 
+/// Detect whether arbitrary user-facing text should be spoken in Tamil or English.
+///
+/// Counts Tamil Unicode block letters (`U+0B80..=U+0BFF`) against ASCII letters so short
+/// bilingual strings such as `"திருக்குறள் AI பற்றி"` stay on Tamil TTS instead of flipping to
+/// English on a single acronym.
+pub fn detect_text_language(text: &str, fallback: Language) -> Language {
+    let mut tamil_chars = 0_usize;
+    let mut ascii_alpha = 0_usize;
+    for ch in text.chars() {
+        if ('\u{0B80}'..='\u{0BFF}').contains(&ch) {
+            tamil_chars += 1;
+        } else if ch.is_ascii_alphabetic() {
+            ascii_alpha += 1;
+        }
+    }
+    if tamil_chars == 0 && ascii_alpha == 0 {
+        fallback
+    } else if tamil_chars > 0 && (ascii_alpha == 0 || tamil_chars * 2 >= ascii_alpha) {
+        Language::Tamil
+    } else {
+        Language::English
+    }
+}
+
+fn append_resampled_i16(out: &mut Vec<i16>, samples: &[i16], src_sr: u32, dst_sr: u32) {
+    if samples.is_empty() || src_sr == 0 || dst_sr == 0 {
+        return;
+    }
+    if src_sr == dst_sr {
+        out.extend_from_slice(samples);
+        return;
+    }
+    let out_len = (((samples.len() as u64) * u64::from(dst_sr)) / u64::from(src_sr)) as usize;
+    if out_len == 0 {
+        return;
+    }
+    let last_src = samples.len() - 1;
+    for i in 0..out_len {
+        let src_pos = (i as f64) * f64::from(src_sr) / f64::from(dst_sr);
+        let idx0 = (src_pos.floor() as usize).min(last_src);
+        let idx1 = (idx0 + 1).min(last_src);
+        let frac = src_pos - (idx0 as f64);
+        let s0 = f64::from(samples[idx0]);
+        let s1 = f64::from(samples[idx1]);
+        let interp = s0 + (s1 - s0) * frac;
+        out.push(
+            interp
+                .round()
+                .clamp(f64::from(i16::MIN), f64::from(i16::MAX)) as i16,
+        );
+    }
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -1677,5 +1774,81 @@ mod tests {
             .expect("empty chunks");
         drop(tx3);
         assert!(rx3.blocking_recv().is_none());
+    }
+
+    #[test]
+    fn detect_text_language_handles_tamil_acronyms_and_english() {
+        assert_eq!(
+            detect_text_language("திருக்குறள் AI பற்றி", Language::English),
+            Language::Tamil
+        );
+        assert_eq!(
+            detect_text_language("AI தமிழ் விளக்கம்", Language::English),
+            Language::Tamil
+        );
+        assert_eq!(
+            detect_text_language("What does அறம் mean in Kural?", Language::Tamil),
+            Language::English
+        );
+        assert_eq!(
+            detect_text_language("Virtue brings honour and wisdom.", Language::Tamil),
+            Language::English
+        );
+        assert_eq!(detect_text_language("1330", Language::Tamil), Language::Tamil);
+    }
+
+    #[test]
+    fn synthesize_streaming_collecting_caches_only_uninterrupted_audio() {
+        let Some(espeak) = find_espeak_ng_binary() else {
+            return;
+        };
+        let dir = TempDir::new().expect("tempdir");
+        let mut engine = SpeechEngine::with_espeak_bin(
+            dir.path(),
+            Language::English,
+            &AiConfig::default(),
+            Some(espeak),
+        )
+        .expect("init");
+
+        let (tx, mut rx) = mpsc::channel::<PcmChunk>(8);
+        let cancel = CancellationToken::new();
+        let drain_task = std::thread::spawn(move || {
+            let mut count = 0usize;
+            while let Some(chunk) = rx.blocking_recv() {
+                count += chunk.samples.len();
+            }
+            count
+        });
+        let collected = engine
+            .synthesize_streaming_collecting(
+                &["Virtue.", "Wisdom."],
+                Language::English,
+                1.0,
+                &cancel,
+                &tx,
+            )
+            .expect("collect")
+            .expect("some collected pcm");
+        drop(tx);
+        let streamed_len = drain_task.join().expect("join drain");
+        assert!(!collected.0.is_empty());
+        assert_eq!(collected.0.len(), streamed_len);
+        assert!(collected.1 >= 16_000);
+
+        let (tx2, rx2) = mpsc::channel(1);
+        let cancel2 = CancellationToken::new();
+        cancel2.cancel();
+        drop(rx2);
+        let err = engine
+            .synthesize_streaming_collecting(
+                &["Aborted text."],
+                Language::English,
+                1.0,
+                &cancel2,
+                &tx2,
+            )
+            .unwrap_err();
+        assert!(matches!(err, AiError::Cancelled));
     }
 }

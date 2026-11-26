@@ -37,6 +37,60 @@ pub const VOICE_ADHIKARAM_RANGE_ERROR: BilingualCopy = BilingualCopy {
     en: "Adhikaram number must be between 1 and 133.",
 };
 
+/// Status toast shown when replaying the last cached TTS clip.
+pub const REPLAY_AUDIO_NOTICE: BilingualCopy = BilingualCopy {
+    ta: "மீண்டும் ஒலிக்கிறது...",
+    en: "Replaying audio...",
+};
+
+/// Status toast shown when replaying the user's captured voice turn.
+pub const REPLAY_USER_VOICE_NOTICE: BilingualCopy = BilingualCopy {
+    ta: "உங்கள் குரல் மீண்டும் ஒலிக்கிறது...",
+    en: "Replaying your voice...",
+};
+
+/// Status toast shown when replaying a full Voice-to-Voice exchange.
+pub const REPLAY_FULL_EXCHANGE_NOTICE: BilingualCopy = BilingualCopy {
+    ta: "முழு உரையாடலும் ஒலிக்கிறது...",
+    en: "Replaying conversation...",
+};
+
+/// Friendly info notice when no TTS/voice audio has been cached yet.
+pub const NOTHING_TO_REPLAY_NOTICE: BilingualCopy = BilingualCopy {
+    ta: "மீண்டும் ஒலிக்க எதுவும் இல்லை.",
+    en: "Nothing to replay yet.",
+};
+
+/// Notice when Auto-Speak Text is turned on.
+pub const AUTO_SPEAK_ON_NOTICE: BilingualCopy = BilingualCopy {
+    ta: "தானியங்கி பதில் குரல்: இயக்கப்பட்டது.",
+    en: "Auto-Speak Text: ON.",
+};
+
+/// Notice when Auto-Speak Text is turned off.
+pub const AUTO_SPEAK_OFF_NOTICE: BilingualCopy = BilingualCopy {
+    ta: "தானியங்கி பதில் குரல்: நிறுத்தப்பட்டது.",
+    en: "Auto-Speak Text: OFF.",
+};
+
+/// Notice when Voice-to-Voice hands-free loop is enabled.
+pub const VOICE_LOOP_ON_NOTICE: BilingualCopy = BilingualCopy {
+    ta: "தொடர் குரல் உரையாடல்: இயக்கப்பட்டது.",
+    en: "Voice-to-Voice Loop: ON.",
+};
+
+/// Notice when Voice-to-Voice hands-free loop is turned off.
+pub const VOICE_LOOP_OFF_NOTICE: BilingualCopy = BilingualCopy {
+    ta: "தொடர் குரல் உரையாடல்: நிறுத்தப்பட்டது.",
+    en: "Voice-to-Voice Loop: OFF.",
+};
+
+/// Notice when Voice-to-Voice loop automatically disarms after consecutive silence timeouts.
+pub const VOICE_LOOP_SILENCE_STOP_NOTICE: BilingualCopy = BilingualCopy {
+    ta: "அமைதி காரணமாக தொடர் குரல் நிறுத்தப்பட்டது.",
+    en: "Voice-to-Voice Loop paused after silence.",
+};
+
 /// Return locked bilingual retry copy for Voice Age Detection quality rejections.
 pub const fn retry_copy(reason: RetryReason) -> BilingualCopy {
     match reason {
@@ -84,6 +138,15 @@ mod tests {
             PARIMEL_FALLBACK_NOTICE,
             VOICE_KURAL_RANGE_ERROR,
             VOICE_ADHIKARAM_RANGE_ERROR,
+            REPLAY_AUDIO_NOTICE,
+            REPLAY_USER_VOICE_NOTICE,
+            REPLAY_FULL_EXCHANGE_NOTICE,
+            NOTHING_TO_REPLAY_NOTICE,
+            AUTO_SPEAK_ON_NOTICE,
+            AUTO_SPEAK_OFF_NOTICE,
+            VOICE_LOOP_ON_NOTICE,
+            VOICE_LOOP_OFF_NOTICE,
+            VOICE_LOOP_SILENCE_STOP_NOTICE,
             retry_copy(RetryReason::TooShort),
             retry_copy(RetryReason::TooQuiet),
             retry_copy(RetryReason::TooNoisy),

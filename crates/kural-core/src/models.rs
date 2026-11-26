@@ -80,6 +80,9 @@ pub enum Language {
     English,
 }
 
+/// Short alias for [`Language`] used across speech and replay contracts.
+pub type Lang = Language;
+
 impl Language {
     /// Canonical lowercase identifier stored in SQLite and config files.
     pub const fn as_str(self) -> &'static str {

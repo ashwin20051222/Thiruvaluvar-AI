@@ -26,7 +26,7 @@ pub use error::AiError;
 pub use explainer::SemanticExplainer;
 pub use stt::{EnSttFiles, TaSttFiles, discover_en_stt_files, discover_ta_stt_files};
 pub use tts::{
-    COUPLET_PAUSE_MS, SpeechEngine, normalize_spoken_text, parse_wav_pcm_mono_i16,
-    split_tts_sentences,
+    COUPLET_PAUSE_MS, SpeechEngine, detect_text_language, normalize_spoken_text,
+    parse_wav_pcm_mono_i16, split_tts_sentences,
 };
 pub use vad::SherpaSileroVad;

@@ -2,14 +2,20 @@ use crate::BackendError;
 use crate::ai_worker::{AiWorkerHandle, SpeechCapabilities};
 use crate::speech_text::{build_speech_payload, resolve_effective_scholar};
 use chrono::{Days, Local};
-use kural_ai::{AgeClassifier, SemanticExplainer, SherpaSileroVad};
-use kural_audio::{AudioError, AudioHandle, EarconKind, VadBackend};
+use kural_ai::{AgeClassifier, SemanticExplainer, SherpaSileroVad, detect_text_language};
+use kural_audio::{
+    AudioError, AudioHandle, EarconKind, MAX_VOICE_TURNS, VadBackend, compute_tts_cache_key,
+    hash_tts_content,
+};
 use kural_core::{
-    ActiveFilter, AgeGroup, AgeOutcome, AppConfig, AppScreen, AudioState, BackendCommand,
-    CaptureMode, CorpusCatalog, GroundedAnswer, KuralSummary, ModalKind, OOS_VOICE_TTS_REFUSAL,
-    PARIMEL_FALLBACK_NOTICE, RetryReason, Scholar, SystemHealth, UiSnapshot, UiTransientEvent,
-    VOICE_ADHIKARAM_RANGE_ERROR, VOICE_KURAL_RANGE_ERROR, effective_tts_speed, retry_copy,
-    snap_speech_speed,
+    AUTO_SPEAK_OFF_NOTICE, AUTO_SPEAK_ON_NOTICE, ActiveFilter, AgeGroup, AgeOutcome, AppConfig,
+    AppScreen, AudioState, BackendCommand, CaptureMode, CorpusCatalog, GroundedAnswer,
+    KuralSummary, ModalKind, NOTHING_TO_REPLAY_NOTICE, OOS_VOICE_TTS_REFUSAL,
+    PARIMEL_FALLBACK_NOTICE, REPLAY_AUDIO_NOTICE, REPLAY_FULL_EXCHANGE_NOTICE,
+    REPLAY_USER_VOICE_NOTICE, RetryReason, Scholar, SystemHealth, UiSnapshot, UiTransientEvent,
+    VOICE_ADHIKARAM_RANGE_ERROR, VOICE_KURAL_RANGE_ERROR, VOICE_LOOP_OFF_NOTICE,
+    VOICE_LOOP_ON_NOTICE, VOICE_LOOP_SILENCE_STOP_NOTICE, VoiceReplayMode, VoiceTurnSummary,
+    effective_tts_speed, retry_copy, snap_speech_speed,
 };
 use kural_db::{KuralDb, UserStateStore};
 use kural_voice_cmd::{RouterContext, validate_voice_transcript};
@@ -48,12 +54,15 @@ enum InternalMsg {
         session_id: u64,
         nav_epoch: u64,
         lang: kural_core::Language,
+        is_timeout: bool,
+        captured_user_16k: Option<Arc<[f32]>>,
         transcript: Result<String, String>,
         caps: Option<SpeechCapabilities>,
     },
     VoiceAiDone {
         session_id: u64,
         nav_epoch: u64,
+        turn_id: Option<u64>,
         seed_kural: Option<u16>,
         lang: kural_core::Language,
         result: Result<GroundedAnswer, String>,
@@ -71,7 +80,9 @@ enum InternalMsg {
         nav_epoch: u64,
         target: kural_core::SpeakTarget,
         kural_number: u16,
-        cache_key: Option<String>,
+        voice_turn_id: Option<u64>,
+        has_saved_audio: bool,
+        voice_loop_rearm: bool,
         ok: bool,
         error_msg: Option<String>,
     },
@@ -156,6 +167,12 @@ impl BackendHandle {
             bookmarks,
             audio_state: AudioState::Idle,
             has_replay_clip: false,
+            recent_voice_turns: Vec::new(),
+            can_replay_tts: false,
+            can_replay_voice_turn: false,
+            auto_speak_text: prefs.auto_speak_text,
+            voice_to_voice_loop: false,
+            active_replay_label: None,
             system_health,
         });
 
@@ -337,6 +354,9 @@ struct BackendController {
     tts_epoch: u64,
     ai_epoch: u64,
     search_epoch: u64,
+    next_voice_turn_id: u64,
+    pending_loop_rearm: Option<u64>,
+    consecutive_silence_timeouts: u8,
     active_voice_task: Option<(JoinHandle<()>, CancellationToken)>,
     active_tts_task: Option<(JoinHandle<()>, CancellationToken)>,
     listening_entered_at: Option<Instant>,
@@ -381,6 +401,9 @@ impl BackendController {
             tts_epoch: 0,
             ai_epoch: 0,
             search_epoch: 0,
+            next_voice_turn_id: 1,
+            pending_loop_rearm: None,
+            consecutive_silence_timeouts: 0,
             active_voice_task: None,
             active_tts_task: None,
             listening_entered_at: None,
@@ -449,6 +472,15 @@ impl BackendController {
                             self.state.audio_state = new_state;
                             self.state.system_health.audio_ok = self.audio.is_healthy();
                             self.publish_snapshot();
+                            if new_state == AudioState::Idle
+                                && let Some(expected_tts_epoch) = self.pending_loop_rearm.take()
+                                && expected_tts_epoch == self.tts_epoch
+                                && self.state.voice_to_voice_loop
+                                && self.active_tts_task.is_none()
+                                && self.active_voice_task.is_none()
+                            {
+                                self.start_voice_command();
+                            }
                         }
                     }
                 }
@@ -484,6 +516,7 @@ impl BackendController {
             }
             BackendCommand::SetTheme(_) => {}
             BackendCommand::Navigate(screen) => {
+                self.disarm_voice_loop();
                 self.bump_nav_interrupt();
                 self.state.modal = None;
                 match screen {
@@ -498,15 +531,22 @@ impl BackendController {
                 }
             }
             BackendCommand::SelectAge(age) => {
+                self.disarm_voice_loop();
                 self.bump_nav_interrupt();
                 self.state.modal = None;
                 self.switch_age_screen(age);
             }
             BackendCommand::OpenModal(kind) => {
+                if !matches!(kind, ModalKind::AiChat { .. }) {
+                    self.disarm_voice_loop();
+                }
                 self.state.modal = Some(kind);
                 self.publish_snapshot();
             }
             BackendCommand::CloseModal if self.state.modal.is_some() => {
+                if matches!(self.state.modal, Some(ModalKind::AiChat { .. })) {
+                    self.disarm_voice_loop();
+                }
                 self.state.modal = None;
                 self.publish_snapshot();
             }
@@ -514,6 +554,7 @@ impl BackendController {
             BackendCommand::StartVoiceAgeDetect => self.start_voice_age_detect(),
             BackendCommand::StartVoiceCommand => self.start_voice_command(),
             BackendCommand::CancelVoice => {
+                self.disarm_voice_loop();
                 self.bump_nav_interrupt();
                 self.publish_snapshot();
             }
@@ -596,47 +637,48 @@ impl BackendController {
                 self.nav_epoch = self.nav_epoch.wrapping_add(1);
                 self.start_speak_target(target);
             }
-            BackendCommand::ReplayAudio => {
-                self.cancel_active_capture();
-                self.cancel_active_tts();
-                self.nav_epoch = self.nav_epoch.wrapping_add(1);
-                let audio = self.audio.clone();
-                let internal_tx = self.internal_tx.clone();
-                let tts_epoch = self.tts_epoch;
-                let nav_epoch = self.nav_epoch;
-                let kural_num = self.state.current_kural.kural.number;
-                let cancel = CancellationToken::new();
-                let task_cancel = cancel.clone();
-                let handle = tokio::spawn(async move {
-                    if task_cancel.is_cancelled() {
-                        return;
-                    }
-                    let res = audio.replay_last().await;
-                    if task_cancel.is_cancelled() {
-                        return;
-                    }
-                    let (ok, error_msg) = match res {
-                        Ok(()) => (true, None),
-                        Err(AudioError::Cancelled) => (false, None),
-                        Err(e) => (false, Some(e.to_string())),
-                    };
-                    let _ = internal_tx
-                        .send(InternalMsg::TtsFinished {
-                            tts_epoch,
-                            nav_epoch,
-                            target: kural_core::SpeakTarget::KuralOnly,
-                            kural_number: kural_num,
-                            cache_key: None,
-                            ok,
-                            error_msg,
-                        })
-                        .await;
+            BackendCommand::SpeakCustomText { text, lang, label } => {
+                self.speak_custom_text(text, lang, label);
+            }
+            BackendCommand::ReplayAudio | BackendCommand::ReplayLastTts => {
+                self.start_replay_last_tts();
+            }
+            BackendCommand::ReplayVoiceTurn { turn_id, mode } => {
+                self.start_replay_voice_turn(turn_id, mode);
+            }
+            BackendCommand::SetAutoSpeakText(enabled) => {
+                if self.state.prefs.auto_speak_text != enabled
+                    || self.state.auto_speak_text != enabled
+                {
+                    self.state.prefs.auto_speak_text = enabled;
+                    self.state.auto_speak_text = enabled;
+                    self.flush_prefs_async();
+                    self.publish_snapshot();
+                }
+                let notice = if enabled {
+                    AUTO_SPEAK_ON_NOTICE
+                } else {
+                    AUTO_SPEAK_OFF_NOTICE
+                };
+                self.emit_event(UiTransientEvent::InfoToast {
+                    message_ta: notice.ta.to_string(),
+                    message_en: notice.en.to_string(),
                 });
-                self.active_tts_task = Some((handle, cancel));
+            }
+            BackendCommand::SetVoiceToVoiceLoop(enabled) => {
+                self.set_voice_to_voice_loop(enabled);
             }
             BackendCommand::StopAudio => {
+                let was_loop = self.state.voice_to_voice_loop;
+                self.disarm_voice_loop();
                 self.bump_nav_interrupt();
                 self.publish_snapshot();
+                if was_loop {
+                    self.emit_event(UiTransientEvent::InfoToast {
+                        message_ta: VOICE_LOOP_OFF_NOTICE.ta.to_string(),
+                        message_en: VOICE_LOOP_OFF_NOTICE.en.to_string(),
+                    });
+                }
             }
             BackendCommand::SetSpeechSpeed(speed) => {
                 let snapped = snap_speech_speed(speed);
@@ -717,6 +759,8 @@ impl BackendController {
                 session_id,
                 nav_epoch,
                 lang,
+                is_timeout,
+                captured_user_16k,
                 transcript,
                 caps,
             } => {
@@ -729,8 +773,33 @@ impl BackendController {
                 }
                 self.active_voice_task = None;
                 match transcript {
-                    Ok(raw) => self.route_recognized_voice(raw, lang, session_id, nav_epoch),
+                    Ok(raw) => self.route_recognized_voice(
+                        raw,
+                        lang,
+                        captured_user_16k,
+                        session_id,
+                        nav_epoch,
+                    ),
                     Err(err_msg) => {
+                        if is_timeout && self.state.voice_to_voice_loop {
+                            self.consecutive_silence_timeouts =
+                                self.consecutive_silence_timeouts.saturating_add(1);
+                            if self.consecutive_silence_timeouts >= 2 {
+                                self.disarm_voice_loop();
+                                self.publish_snapshot();
+                                self.emit_event(UiTransientEvent::InfoToast {
+                                    message_ta: VOICE_LOOP_SILENCE_STOP_NOTICE.ta.to_string(),
+                                    message_en: VOICE_LOOP_SILENCE_STOP_NOTICE.en.to_string(),
+                                });
+                            } else {
+                                self.rearm_voice_loop_when_ready(self.tts_epoch);
+                            }
+                            return;
+                        }
+                        if self.state.voice_to_voice_loop {
+                            self.disarm_voice_loop();
+                            self.publish_snapshot();
+                        }
                         let audio = self.audio.clone();
                         tokio::spawn(async move {
                             let _ = audio.play_earcon(EarconKind::RetryTone).await;
@@ -745,6 +814,7 @@ impl BackendController {
             InternalMsg::VoiceAiDone {
                 session_id,
                 nav_epoch,
+                turn_id,
                 seed_kural,
                 lang,
                 result,
@@ -755,26 +825,54 @@ impl BackendController {
                 match result {
                     Ok(ans) => {
                         let oos = ans.out_of_scope;
+                        let spoken_text = if oos {
+                            match lang {
+                                kural_core::Language::Tamil => OOS_VOICE_TTS_REFUSAL.ta.to_string(),
+                                kural_core::Language::English => {
+                                    OOS_VOICE_TTS_REFUSAL.en.to_string()
+                                }
+                            }
+                        } else {
+                            let primary = match lang {
+                                kural_core::Language::Tamil => ans.answer_ta.trim(),
+                                kural_core::Language::English => ans.answer_en.trim(),
+                            };
+                            if !primary.is_empty() {
+                                primary.to_string()
+                            } else if !ans.answer_en.trim().is_empty() {
+                                ans.answer_en.trim().to_string()
+                            } else {
+                                ans.answer_ta.trim().to_string()
+                            }
+                        };
+                        let cited_nums: Vec<u16> =
+                            ans.cited_kurals.iter().map(|k| k.kural.number).collect();
+                        if let Some(tid) = turn_id
+                            && let Some(turn) =
+                                self.state.recent_voice_turns.iter_mut().find(|t| t.id == tid)
+                        {
+                            turn.ai_text = spoken_text.clone();
+                            turn.cited_kurals = cited_nums;
+                        }
                         self.last_ai_answer = Some(ans.clone());
                         self.state.modal = Some(ModalKind::AiChat { seed_kural });
                         self.publish_snapshot();
                         self.emit_event(UiTransientEvent::AiAnswerReady(ans));
-                        if oos {
-                            let brief = match lang {
-                                kural_core::Language::Tamil => OOS_VOICE_TTS_REFUSAL.ta,
-                                kural_core::Language::English => OOS_VOICE_TTS_REFUSAL.en,
-                            };
-                            self.speak_raw_chunks(
-                                vec![brief.to_string()],
-                                lang,
-                                None,
-                                kural_core::SpeakTarget::AiAnswer,
-                            );
-                        } else {
-                            self.start_speak_target(kural_core::SpeakTarget::AiAnswer);
-                        }
+                        let spoken_lang = detect_text_language(&spoken_text, lang);
+                        self.speak_raw_chunks(
+                            vec![spoken_text],
+                            spoken_lang,
+                            kural_core::SpeakTarget::AiAnswer,
+                            4,
+                            turn_id,
+                            self.state.voice_to_voice_loop,
+                        );
                     }
                     Err(err) => {
+                        if self.state.voice_to_voice_loop {
+                            self.disarm_voice_loop();
+                            self.publish_snapshot();
+                        }
                         self.emit_event(UiTransientEvent::ErrorToast {
                             message_ta: format!("AI பதில் பிழை: {err}"),
                             message_en: format!("AI answer error: {err}"),
@@ -789,6 +887,24 @@ impl BackendController {
                 match result {
                     Ok(ans) => {
                         self.last_ai_answer = Some(ans.clone());
+                        if self.state.prefs.auto_speak_text && !ans.out_of_scope {
+                            let lang = self.state.prefs.lang;
+                            let primary = match lang {
+                                kural_core::Language::Tamil => ans.answer_ta.trim(),
+                                kural_core::Language::English => ans.answer_en.trim(),
+                            };
+                            let text = if !primary.is_empty() {
+                                primary.to_string()
+                            } else if !ans.answer_en.trim().is_empty() {
+                                ans.answer_en.trim().to_string()
+                            } else {
+                                ans.answer_ta.trim().to_string()
+                            };
+                            if !text.is_empty() {
+                                let spoken_lang = detect_text_language(&text, lang);
+                                self.speak_custom_text(text, spoken_lang, None);
+                            }
+                        }
                         self.emit_event(UiTransientEvent::AiAnswerReady(ans));
                     }
                     Err(err) => {
@@ -819,7 +935,9 @@ impl BackendController {
                 nav_epoch,
                 target,
                 kural_number,
-                cache_key,
+                voice_turn_id,
+                has_saved_audio,
+                voice_loop_rearm,
                 ok,
                 error_msg,
             } => {
@@ -827,19 +945,41 @@ impl BackendController {
                     return;
                 }
                 self.active_tts_task = None;
+                let mut dirty_snapshot = self.state.active_replay_label.take().is_some();
                 if ok {
-                    if cache_key.is_some() {
+                    if has_saved_audio {
                         self.state.has_replay_clip = true;
+                        self.state.can_replay_tts = true;
+                        dirty_snapshot = true;
+                    }
+                    if let Some(tid) = voice_turn_id
+                        && has_saved_audio
+                        && let Some(turn) =
+                            self.state.recent_voice_turns.iter_mut().find(|t| t.id == tid)
+                    {
+                        turn.has_ai_audio = true;
+                        self.state.can_replay_voice_turn = true;
+                        dirty_snapshot = true;
+                    }
+                    if dirty_snapshot {
                         self.publish_snapshot();
                     }
                     if matches!(target, kural_core::SpeakTarget::KuttyStory) {
                         self.handle_complete_kids_story(kural_number);
                     }
-                } else if let Some(msg) = error_msg {
-                    self.emit_event(UiTransientEvent::ErrorToast {
-                        message_ta: format!("ஒலி இயக்கப் பிழை: {msg}"),
-                        message_en: format!("Audio playback error: {msg}"),
-                    });
+                    if voice_loop_rearm && self.state.voice_to_voice_loop {
+                        self.rearm_voice_loop_when_ready(tts_epoch);
+                    }
+                } else {
+                    if dirty_snapshot {
+                        self.publish_snapshot();
+                    }
+                    if let Some(msg) = error_msg {
+                        self.emit_event(UiTransientEvent::ErrorToast {
+                            message_ta: format!("ஒலி இயக்கப் பிழை: {msg}"),
+                            message_en: format!("Audio playback error: {msg}"),
+                        });
+                    }
                 }
             }
         }
@@ -847,6 +987,8 @@ impl BackendController {
 
     fn bump_nav_interrupt(&mut self) {
         self.nav_epoch = self.nav_epoch.wrapping_add(1);
+        self.pending_loop_rearm = None;
+        self.state.active_replay_label = None;
         self.cancel_active_capture();
         self.cancel_active_tts();
     }
@@ -1086,6 +1228,8 @@ impl BackendController {
                             session_id,
                             nav_epoch,
                             lang,
+                            is_timeout: true,
+                            captured_user_16k: None,
                             transcript: Err(retry.en.to_string()),
                             caps: None,
                         })
@@ -1099,6 +1243,8 @@ impl BackendController {
                             session_id,
                             nav_epoch,
                             lang,
+                            is_timeout: false,
+                            captured_user_16k: None,
                             transcript: Err(retry.en.to_string()),
                             caps: None,
                         })
@@ -1111,6 +1257,8 @@ impl BackendController {
                             session_id,
                             nav_epoch,
                             lang,
+                            is_timeout: false,
+                            captured_user_16k: None,
                             transcript: Err(e.to_string()),
                             caps: None,
                         })
@@ -1123,19 +1271,28 @@ impl BackendController {
                 return;
             }
 
-            let samples = if captured.speech_only_16k.is_empty() {
-                captured.samples_16k
+            let samples_for_stt = if captured.speech_only_16k.is_empty() {
+                captured.samples_16k.clone()
             } else {
                 captured.speech_only_16k
             };
+            let captured_user_16k: Option<Arc<[f32]>> = if !captured.samples_16k.is_empty() {
+                Some(Arc::from(captured.samples_16k))
+            } else if !samples_for_stt.is_empty() {
+                Some(Arc::from(samples_for_stt.clone()))
+            } else {
+                None
+            };
 
-            match ai_worker.transcribe(samples, lang).await {
+            match ai_worker.transcribe(samples_for_stt, lang).await {
                 Ok((txt, caps)) => {
                     let _ = internal_tx
                         .send(InternalMsg::VoiceCmdTranscribed {
                             session_id,
                             nav_epoch,
                             lang,
+                            is_timeout: false,
+                            captured_user_16k,
                             transcript: Ok(txt),
                             caps: Some(caps),
                         })
@@ -1147,6 +1304,8 @@ impl BackendController {
                             session_id,
                             nav_epoch,
                             lang,
+                            is_timeout: false,
+                            captured_user_16k: None,
                             transcript: Err(err.to_string()),
                             caps: None,
                         })
@@ -1162,6 +1321,7 @@ impl BackendController {
         &mut self,
         raw: String,
         lang: kural_core::Language,
+        captured_user_16k: Option<Arc<[f32]>>,
         session_id: u64,
         nav_epoch: u64,
     ) {
@@ -1171,6 +1331,21 @@ impl BackendController {
             tokio::spawn(async move {
                 let _ = audio.play_earcon(EarconKind::RetryTone).await;
             });
+            if self.state.voice_to_voice_loop {
+                self.consecutive_silence_timeouts =
+                    self.consecutive_silence_timeouts.saturating_add(1);
+                if self.consecutive_silence_timeouts >= 2 {
+                    self.disarm_voice_loop();
+                    self.publish_snapshot();
+                    self.emit_event(UiTransientEvent::InfoToast {
+                        message_ta: VOICE_LOOP_SILENCE_STOP_NOTICE.ta.to_string(),
+                        message_en: VOICE_LOOP_SILENCE_STOP_NOTICE.en.to_string(),
+                    });
+                } else {
+                    self.rearm_voice_loop_when_ready(self.tts_epoch);
+                }
+                return;
+            }
             let copy = retry_copy(RetryReason::TooShort);
             self.emit_event(UiTransientEvent::InfoToast {
                 message_ta: copy.ta.to_string(),
@@ -1178,6 +1353,8 @@ impl BackendController {
             });
             return;
         }
+
+        self.consecutive_silence_timeouts = 0;
 
         let ctx = RouterContext {
             screen: self.state.screen,
@@ -1204,7 +1381,11 @@ impl BackendController {
                     outcome.cmd,
                     BackendCommand::StopAudio
                         | BackendCommand::SpeakCurrent(_)
+                        | BackendCommand::SpeakCustomText { .. }
                         | BackendCommand::ReplayAudio
+                        | BackendCommand::ReplayLastTts
+                        | BackendCommand::ReplayVoiceTurn { .. }
+                        | BackendCommand::SetVoiceToVoiceLoop(_)
                         | BackendCommand::StartVoiceCommand
                         | BackendCommand::StartVoiceAgeDetect
                         | BackendCommand::AskAiQuestion { .. }
@@ -1221,26 +1402,65 @@ impl BackendController {
 
                 match outcome.cmd {
                     BackendCommand::AskAiQuestion { query, seed_kural } => {
-                        self.run_voice_ai_question(query, seed_kural, lang, session_id, nav_epoch);
+                        let turn_id = self.next_voice_turn_id;
+                        self.next_voice_turn_id = self.next_voice_turn_id.saturating_add(1);
+                        let summary = VoiceTurnSummary {
+                            id: turn_id,
+                            user_text: query.clone(),
+                            ai_text: String::new(),
+                            lang,
+                            has_user_audio: captured_user_16k.is_some(),
+                            has_ai_audio: false,
+                            cited_kurals: seed_kural.into_iter().collect(),
+                        };
+                        self.state.recent_voice_turns.push(summary);
+                        while self.state.recent_voice_turns.len() > MAX_VOICE_TURNS {
+                            self.state.recent_voice_turns.remove(0);
+                        }
+                        self.state.can_replay_voice_turn = self
+                            .state
+                            .recent_voice_turns
+                            .iter()
+                            .any(|t| t.has_user_audio || t.has_ai_audio);
+                        self.publish_snapshot();
+                        self.run_voice_ai_question(
+                            query,
+                            seed_kural,
+                            lang,
+                            Some(turn_id),
+                            captured_user_16k,
+                            session_id,
+                            nav_epoch,
+                        );
                     }
-                    other => self.handle_command(other),
+                    other => {
+                        drop(captured_user_16k);
+                        self.handle_command(other);
+                    }
                 }
             }
         }
     }
 
+    #[allow(clippy::too_many_arguments)]
     fn run_voice_ai_question(
         &mut self,
         query: String,
         seed_kural: Option<u16>,
         lang: kural_core::Language,
+        turn_id: Option<u64>,
+        captured_user_16k: Option<Arc<[f32]>>,
         session_id: u64,
         nav_epoch: u64,
     ) {
         let explainer = self.explainer.clone();
         let age = active_age_for_screen(self.state.screen, self.state.prefs.default_age);
+        let audio = self.audio.clone();
         let internal_tx = self.internal_tx.clone();
         tokio::spawn(async move {
+            if let (Some(tid), Some(pcm)) = (turn_id, captured_user_16k) {
+                let _ = audio.record_voice_turn_user(tid, pcm).await;
+            }
             let res = tokio::task::spawn_blocking(move || {
                 explainer
                     .ask_question(&query, age, lang, seed_kural)
@@ -1252,6 +1472,7 @@ impl BackendController {
                 .send(InternalMsg::VoiceAiDone {
                     session_id,
                     nav_epoch,
+                    turn_id,
                     seed_kural,
                     lang,
                     result: res,
@@ -1331,45 +1552,318 @@ impl BackendController {
                 notice_en: PARIMEL_FALLBACK_NOTICE.en.to_string(),
             });
         }
-        self.speak_raw_chunks(payload.chunks, lang, payload.cache_key, target);
+        let persona = target_persona_code(self.state.screen, target);
+        self.speak_raw_chunks(payload.chunks, lang, target, persona, None, false);
+    }
+
+    fn speak_custom_text(
+        &mut self,
+        text: String,
+        lang: kural_core::Language,
+        label: Option<String>,
+    ) {
+        let trimmed = text.trim();
+        if trimmed.is_empty() {
+            return;
+        }
+        self.pending_loop_rearm = None;
+        self.cancel_active_capture();
+        self.cancel_active_tts();
+        self.nav_epoch = self.nav_epoch.wrapping_add(1);
+        let spoken_lang = detect_text_language(trimmed, lang);
+        self.state.active_replay_label = label;
+        self.publish_snapshot();
+        self.speak_raw_chunks(
+            vec![trimmed.to_string()],
+            spoken_lang,
+            kural_core::SpeakTarget::AiAnswer,
+            4,
+            None,
+            false,
+        );
+    }
+
+    fn start_replay_last_tts(&mut self) {
+        if !self.state.can_replay_tts {
+            self.emit_event(UiTransientEvent::InfoToast {
+                message_ta: NOTHING_TO_REPLAY_NOTICE.ta.to_string(),
+                message_en: NOTHING_TO_REPLAY_NOTICE.en.to_string(),
+            });
+            return;
+        }
+        self.pending_loop_rearm = None;
+        self.cancel_active_capture();
+        self.cancel_active_tts();
+        self.nav_epoch = self.nav_epoch.wrapping_add(1);
+
+        let lang = self.state.prefs.lang;
+        let speed = effective_tts_speed(self.state.prefs.speech_speed, self.state.screen);
+        let notice = REPLAY_AUDIO_NOTICE;
+        let label = match lang {
+            kural_core::Language::Tamil => notice.ta,
+            kural_core::Language::English => notice.en,
+        };
+        self.state.active_replay_label = Some(label.to_string());
+        self.publish_snapshot();
+        self.emit_event(UiTransientEvent::InfoToast {
+            message_ta: notice.ta.to_string(),
+            message_en: notice.en.to_string(),
+        });
+
+        let audio = self.audio.clone();
+        let internal_tx = self.internal_tx.clone();
+        let tts_epoch = self.tts_epoch;
+        let nav_epoch = self.nav_epoch;
+        let kural_num = self.state.current_kural.kural.number;
+        let cancel = CancellationToken::new();
+        let task_cancel = cancel.clone();
+        let handle = tokio::spawn(async move {
+            if task_cancel.is_cancelled() {
+                return;
+            }
+            let res = audio.play_last_completed_tts(speed).await;
+            if task_cancel.is_cancelled() {
+                return;
+            }
+            let (ok, error_msg) = match res {
+                Ok(()) => (true, None),
+                Err(AudioError::Cancelled) => (false, None),
+                Err(e) => (false, Some(e.to_string())),
+            };
+            let _ = internal_tx
+                .send(InternalMsg::TtsFinished {
+                    tts_epoch,
+                    nav_epoch,
+                    target: kural_core::SpeakTarget::KuralOnly,
+                    kural_number: kural_num,
+                    voice_turn_id: None,
+                    has_saved_audio: ok,
+                    voice_loop_rearm: false,
+                    ok,
+                    error_msg,
+                })
+                .await;
+        });
+        self.active_tts_task = Some((handle, cancel));
+    }
+
+    fn start_replay_voice_turn(&mut self, turn_id: Option<u64>, mode: VoiceReplayMode) {
+        let resolved = match turn_id {
+            Some(id) => self
+                .state
+                .recent_voice_turns
+                .iter()
+                .find(|t| t.id == id)
+                .cloned(),
+            None => self.state.recent_voice_turns.last().cloned(),
+        };
+        let Some(turn) = resolved else {
+            self.emit_event(UiTransientEvent::InfoToast {
+                message_ta: NOTHING_TO_REPLAY_NOTICE.ta.to_string(),
+                message_en: NOTHING_TO_REPLAY_NOTICE.en.to_string(),
+            });
+            return;
+        };
+        let available = match mode {
+            VoiceReplayMode::UserVoiceOnly => turn.has_user_audio,
+            VoiceReplayMode::AiReplyOnly => turn.has_ai_audio,
+            VoiceReplayMode::FullExchange => turn.has_user_audio && turn.has_ai_audio,
+        };
+        if !available {
+            self.emit_event(UiTransientEvent::InfoToast {
+                message_ta: NOTHING_TO_REPLAY_NOTICE.ta.to_string(),
+                message_en: NOTHING_TO_REPLAY_NOTICE.en.to_string(),
+            });
+            return;
+        }
+
+        self.pending_loop_rearm = None;
+        self.cancel_active_capture();
+        self.cancel_active_tts();
+        self.nav_epoch = self.nav_epoch.wrapping_add(1);
+
+        let lang = self.state.prefs.lang;
+        let speed = effective_tts_speed(self.state.prefs.speech_speed, self.state.screen);
+        let notice = match mode {
+            VoiceReplayMode::UserVoiceOnly => REPLAY_USER_VOICE_NOTICE,
+            VoiceReplayMode::AiReplyOnly => REPLAY_AUDIO_NOTICE,
+            VoiceReplayMode::FullExchange => REPLAY_FULL_EXCHANGE_NOTICE,
+        };
+        let label = match lang {
+            kural_core::Language::Tamil => notice.ta,
+            kural_core::Language::English => notice.en,
+        };
+        self.state.active_replay_label = Some(label.to_string());
+        self.publish_snapshot();
+        self.emit_event(UiTransientEvent::InfoToast {
+            message_ta: notice.ta.to_string(),
+            message_en: notice.en.to_string(),
+        });
+
+        let audio = self.audio.clone();
+        let internal_tx = self.internal_tx.clone();
+        let tts_epoch = self.tts_epoch;
+        let nav_epoch = self.nav_epoch;
+        let kural_num = self.state.current_kural.kural.number;
+        let resolved_id = turn.id;
+        let cancel = CancellationToken::new();
+        let task_cancel = cancel.clone();
+        let handle = tokio::spawn(async move {
+            if task_cancel.is_cancelled() {
+                return;
+            }
+            let res = audio.play_voice_turn(Some(resolved_id), mode, speed).await;
+            if task_cancel.is_cancelled() {
+                return;
+            }
+            let (ok, error_msg) = match res {
+                Ok(()) => (true, None),
+                Err(AudioError::Cancelled) => (false, None),
+                Err(e) => (false, Some(e.to_string())),
+            };
+            let _ = internal_tx
+                .send(InternalMsg::TtsFinished {
+                    tts_epoch,
+                    nav_epoch,
+                    target: kural_core::SpeakTarget::AiAnswer,
+                    kural_number: kural_num,
+                    voice_turn_id: None,
+                    has_saved_audio: false,
+                    voice_loop_rearm: false,
+                    ok,
+                    error_msg,
+                })
+                .await;
+        });
+        self.active_tts_task = Some((handle, cancel));
+    }
+
+    fn set_voice_to_voice_loop(&mut self, enabled: bool) {
+        self.pending_loop_rearm = None;
+        self.consecutive_silence_timeouts = 0;
+        self.state.voice_to_voice_loop = enabled;
+        self.publish_snapshot();
+        let notice = if enabled {
+            VOICE_LOOP_ON_NOTICE
+        } else {
+            VOICE_LOOP_OFF_NOTICE
+        };
+        self.emit_event(UiTransientEvent::InfoToast {
+            message_ta: notice.ta.to_string(),
+            message_en: notice.en.to_string(),
+        });
+        if enabled {
+            self.rearm_voice_loop_when_ready(self.tts_epoch);
+        } else {
+            self.cancel_active_capture();
+        }
+    }
+
+    fn disarm_voice_loop(&mut self) {
+        self.pending_loop_rearm = None;
+        self.consecutive_silence_timeouts = 0;
+        self.state.voice_to_voice_loop = false;
+        self.state.active_replay_label = None;
+    }
+
+    fn rearm_voice_loop_when_ready(&mut self, expected_tts_epoch: u64) {
+        if !self.state.voice_to_voice_loop {
+            self.pending_loop_rearm = None;
+            return;
+        }
+        let live_state = *self.audio.subscribe_state().borrow();
+        if live_state == AudioState::Idle
+            && self.active_tts_task.is_none()
+            && self.active_voice_task.is_none()
+        {
+            self.pending_loop_rearm = None;
+            self.start_voice_command();
+        } else {
+            self.pending_loop_rearm = Some(expected_tts_epoch);
+        }
     }
 
     fn speak_raw_chunks(
         &mut self,
         chunks: Vec<String>,
         lang: kural_core::Language,
-        cache_key: Option<String>,
         target: kural_core::SpeakTarget,
+        persona_code: u8,
+        voice_turn_id: Option<u64>,
+        voice_loop_rearm: bool,
     ) {
         self.cancel_active_tts();
         let tts_epoch = self.tts_epoch;
         let nav_epoch = self.nav_epoch;
         let kural_number = self.state.current_kural.kural.number;
         let speed = effective_tts_speed(self.state.prefs.speech_speed, self.state.screen);
+        let content = chunks.join("\n");
+        let u64_key = compute_tts_cache_key(
+            hash_tts_content(&content),
+            lang_code(lang),
+            persona_code,
+        );
 
         let cancel = CancellationToken::new();
         let worker_cancel = cancel.clone();
+        let task_cancel = cancel.clone();
         let (pcm_tx, pcm_rx) = mpsc::channel(8);
         let audio = self.audio.clone();
         let ai_worker = self.ai_worker.clone();
         let internal_tx = self.internal_tx.clone();
-        let key_for_msg = cache_key.clone();
 
         let handle = tokio::spawn(async move {
-            let synth_fut = ai_worker.speak(chunks, lang, speed, worker_cancel, pcm_tx);
-            let play_fut = audio.play_pcm_stream(pcm_rx, cache_key);
-            let (synth_res, play_res) = tokio::join!(synth_fut, play_fut);
+            let hit = audio.play_cached_tts_by_key(u64_key, speed).await;
+            let (ok, has_saved_audio, error_msg) = if task_cancel.is_cancelled() {
+                (false, false, None)
+            } else if let Ok(true) = hit {
+                if let Some(tid) = voice_turn_id {
+                    let _ = audio.attach_cached_tts_to_voice_turn(tid, u64_key).await;
+                }
+                (true, true, None)
+            } else if matches!(hit, Err(AudioError::Cancelled)) {
+                (false, false, None)
+            } else {
+                let synth_fut =
+                    ai_worker.speak_collecting(chunks, lang, speed, worker_cancel, pcm_tx);
+                let play_fut = audio.play_pcm_stream(pcm_rx, None);
+                let (synth_res, play_res) = tokio::join!(synth_fut, play_fut);
 
-            let (ok, error_msg) = match (play_res, synth_res) {
-                (Ok(()), Ok(caps)) => {
-                    let _ = internal_tx.send(InternalMsg::SpeechCapsUpdated(caps)).await;
-                    (true, None)
+                match (play_res, synth_res) {
+                    (Ok(()), Ok((caps, maybe_pcm))) => {
+                        let _ = internal_tx.send(InternalMsg::SpeechCapsUpdated(caps)).await;
+                        let mut saved_audio = false;
+                        if !task_cancel.is_cancelled()
+                            && let Some((pcm, sr)) = maybe_pcm
+                            && !pcm.is_empty()
+                        {
+                            let arc_pcm: Arc<[i16]> = Arc::from(pcm);
+                            if audio
+                                .commit_completed_tts_with_speed(
+                                    u64_key,
+                                    arc_pcm.clone(),
+                                    sr,
+                                    speed,
+                                )
+                                .await
+                                .is_ok()
+                            {
+                                saved_audio = true;
+                            }
+                            if let Some(tid) = voice_turn_id {
+                                let _ = audio
+                                    .attach_voice_turn_ai_with_speed(tid, arc_pcm, sr, speed)
+                                    .await;
+                            }
+                        }
+                        (true, saved_audio, None)
+                    }
+                    (Err(AudioError::Cancelled), _) | (_, Err(kural_ai::AiError::Cancelled)) => {
+                        (false, false, None)
+                    }
+                    (Err(e), _) => (false, false, Some(e.to_string())),
+                    (Ok(()), Err(e)) => (false, false, Some(e.to_string())),
                 }
-                (Err(AudioError::Cancelled), _) | (_, Err(kural_ai::AiError::Cancelled)) => {
-                    (false, None)
-                }
-                (Err(e), _) => (false, Some(e.to_string())),
-                (Ok(()), Err(e)) => (false, Some(e.to_string())),
             };
 
             let _ = internal_tx
@@ -1378,7 +1872,9 @@ impl BackendController {
                     nav_epoch,
                     target,
                     kural_number,
-                    cache_key: key_for_msg,
+                    voice_turn_id,
+                    has_saved_audio,
+                    voice_loop_rearm,
                     ok,
                     error_msg,
                 })
@@ -1586,6 +2082,37 @@ fn active_age_for_screen(screen: AppScreen, default_age: AgeGroup) -> AgeGroup {
     }
 }
 
+const fn lang_code(lang: kural_core::Language) -> u8 {
+    match lang {
+        kural_core::Language::Tamil => 1,
+        kural_core::Language::English => 2,
+    }
+}
+
+const fn target_persona_code(screen: AppScreen, target: kural_core::SpeakTarget) -> u8 {
+    let base = match screen {
+        AppScreen::Start => 0,
+        AppScreen::Kids => 10,
+        AppScreen::Youth => 20,
+        AppScreen::Adult => 30,
+    };
+    let sub = match target {
+        kural_core::SpeakTarget::KuralOnly => 1,
+        kural_core::SpeakTarget::KuralAndMeaning => 2,
+        kural_core::SpeakTarget::KuttyStory => 3,
+        kural_core::SpeakTarget::YouthBriefing => 4,
+        kural_core::SpeakTarget::ScholarCommentary(s) => match s {
+            Scholar::MuVa => 5,
+            Scholar::Solomon => 6,
+            Scholar::Kalaignar => 7,
+            Scholar::Parimel => 8,
+            Scholar::English => 9,
+        },
+        kural_core::SpeakTarget::AiAnswer => 0,
+    };
+    base + sub
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -1764,6 +2291,104 @@ mod tests {
         assert_eq!(reloaded.kids_progress.stars_earned, 1);
         assert_eq!(reloaded.youth_progress.quiz_xp, 20);
         assert!(reloaded.bookmarks.iter().any(|b| b.kural_number == 395));
+        assert!(reloaded.auto_speak_text);
+        handle2.shutdown();
+    }
+
+    #[test]
+    fn backend_auto_speak_replay_and_voice_loop_behave_cleanly() {
+        let tmp = TempDir::new().expect("tempdir");
+        let cfg = test_config(&tmp);
+        let handle = BackendHandle::start(cfg.clone()).expect("BackendHandle::start");
+        let mut events = handle.subscribe_events();
+        let rt = tokio::runtime::Runtime::new().unwrap();
+
+        let snap0 = handle.current_snapshot();
+        assert!(snap0.auto_speak_text);
+        assert!(!snap0.can_replay_tts);
+        assert!(!snap0.can_replay_voice_turn);
+        assert!(!snap0.voice_to_voice_loop);
+        assert!(snap0.recent_voice_turns.is_empty());
+
+        // Empty replay requests emit friendly notice without crashing.
+        handle.dispatch(BackendCommand::ReplayLastTts);
+        let empty_evt = rt.block_on(recv_until(&mut events, |e| {
+            matches!(
+                e,
+                UiTransientEvent::InfoToast { message_en, .. }
+                if message_en == NOTHING_TO_REPLAY_NOTICE.en
+            )
+        }));
+        assert!(empty_evt.is_some());
+
+        handle.dispatch(BackendCommand::ReplayVoiceTurn {
+            turn_id: None,
+            mode: VoiceReplayMode::UserVoiceOnly,
+        });
+        let empty_voice_evt = rt.block_on(recv_until(&mut events, |e| {
+            matches!(
+                e,
+                UiTransientEvent::InfoToast { message_en, .. }
+                if message_en == NOTHING_TO_REPLAY_NOTICE.en
+            )
+        }));
+        assert!(empty_voice_evt.is_some());
+
+        // Auto-Speak Text toggles, emits toast, and persists across restart.
+        handle.dispatch(BackendCommand::SetAutoSpeakText(false));
+        let off_evt = rt.block_on(recv_until(&mut events, |e| {
+            matches!(
+                e,
+                UiTransientEvent::InfoToast { message_en, .. }
+                if message_en == AUTO_SPEAK_OFF_NOTICE.en
+            )
+        }));
+        assert!(off_evt.is_some());
+        assert!(!handle.current_snapshot().auto_speak_text);
+
+        // Voice-to-Voice Loop arms cleanly and disarms on StopAudio & navigation.
+        handle.dispatch(BackendCommand::SetVoiceToVoiceLoop(true));
+        let loop_on_evt = rt.block_on(recv_until(&mut events, |e| {
+            matches!(
+                e,
+                UiTransientEvent::InfoToast { message_en, .. }
+                if message_en == VOICE_LOOP_ON_NOTICE.en
+            )
+        }));
+        assert!(loop_on_evt.is_some());
+
+        handle.dispatch(BackendCommand::StopAudio);
+        let loop_off_evt = rt.block_on(recv_until(&mut events, |e| {
+            matches!(
+                e,
+                UiTransientEvent::InfoToast { message_en, .. }
+                if message_en == VOICE_LOOP_OFF_NOTICE.en
+            )
+        }));
+        assert!(loop_off_evt.is_some());
+        assert!(!handle.current_snapshot().voice_to_voice_loop);
+
+        // SpeakCustomText with empty whitespace is a clean no-op; AskAiQuestion works with auto_speak off.
+        handle.dispatch(BackendCommand::SpeakCustomText {
+            text: "   ".to_string(),
+            lang: Language::Tamil,
+            label: None,
+        });
+        handle.dispatch(BackendCommand::AskAiQuestion {
+            query: "Explain Kural 1".to_string(),
+            seed_kural: Some(1),
+        });
+        let ai_evt = rt.block_on(recv_until(&mut events, |e| {
+            matches!(e, UiTransientEvent::AiAnswerReady(_))
+        }));
+        assert!(ai_evt.is_some());
+
+        handle.shutdown();
+
+        let handle2 = BackendHandle::start(cfg).expect("restart BackendHandle");
+        let reloaded = handle2.current_snapshot();
+        assert!(!reloaded.prefs.auto_speak_text);
+        assert!(!reloaded.auto_speak_text);
         handle2.shutdown();
     }
 }

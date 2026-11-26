@@ -23,7 +23,7 @@ use dioxus::prelude::*;
 use kural_backend::BackendHandle;
 use kural_core::{
     AgeGroup, AppConfig, AppScreen, BackendCommand, CompactTabHint, Language, ModalKind, Scholar,
-    SearchTab, Theme,
+    SearchTab, Theme, VoiceTurnSummary,
 };
 use std::path::PathBuf;
 use std::sync::{Arc, Once};
@@ -435,6 +435,15 @@ async fn check_dom_state(label: &str, viewport: AuditViewport, expect_kural: boo
             if (modal) {{
                 const mr = modal.getBoundingClientRect();
                 if (modal.scrollHeight > modal.clientHeight + 1) errs.push(`modalScrollH(${{modal.scrollHeight}})>${{modal.clientHeight}}`);
+                const mBody = modal.querySelector('.modal-body');
+                if (mBody) {{
+                    if (mBody.scrollWidth > mBody.clientWidth + 1) {{
+                        errs.push(`modalBodyScrollW(${{mBody.scrollWidth}})>${{mBody.clientWidth}}`);
+                    }}
+                    if ({is_pi35} && mBody.scrollHeight > mBody.clientHeight + 1) {{
+                        errs.push(`modalBodyScrollH(${{mBody.scrollHeight}})>${{mBody.clientHeight}}`);
+                    }}
+                }}
                 if ({is_pi35} && mr.height > 305) errs.push(`modalH(${{mr.height}})>305`);
                 if ({is_pi7} && mr.height > ch - 30) errs.push(`modalH(${{mr.height}})>${{ch - 30}}`);
                 if ({is_pi7} && mr.right > cw + 1) errs.push(`modalRight(${{mr.right}})>${{cw}}`);
@@ -641,32 +650,52 @@ async fn run_layout_audit(ctx: &mut state::AppContext, viewport: AuditViewport) 
             ctx.dispatch(BackendCommand::OpenModal(modal));
             all_ok &= check_dom_state(&format!("Modal/{modal:?}"), viewport, false).await;
         }
-        ctx.dispatch(BackendCommand::OpenModal(ModalKind::AiChat {
-            seed_kural: Some(1),
-        }));
-        ctx.dispatch(BackendCommand::AskAiQuestion {
-            query: "What is virtue?".to_string(),
-            seed_kural: Some(1),
-        });
-        all_ok &= check_dom_state("Modal/AiChat", viewport, false).await;
-
-        ctx.dispatch(BackendCommand::OpenModal(ModalKind::Search {
-            initial_tab: SearchTab::Query,
-        }));
-        ctx.dispatch(BackendCommand::SubmitTextSearch {
-            query: "virtue".to_string(),
-            division_id: None,
-        });
-        all_ok &= check_dom_state("Modal/Search/Query", viewport, false).await;
-
-        ctx.dispatch(BackendCommand::CloseModal);
-        tokio::time::sleep(Duration::from_millis(60)).await;
         ctx.dispatch(BackendCommand::OpenModal(ModalKind::Search {
             initial_tab: SearchTab::Divisions,
         }));
         all_ok &= check_dom_state("Modal/Search/Divisions", viewport, false).await;
         ctx.dispatch(BackendCommand::CloseModal);
     }
+
+    // Verify Text-to-Voice + Voice Replay modals on EVERY viewport tier (Desktop, 7", 7" HD, 3.5").
+    ctx.dispatch(BackendCommand::SetLanguage(Language::Tamil));
+    ctx.dispatch(BackendCommand::SetTheme(Theme::Dark));
+    ctx.dispatch(BackendCommand::SelectAge(AgeGroup::Youth));
+    ctx.dispatch(BackendCommand::OpenKural(1));
+    ctx.dispatch(BackendCommand::SetAutoSpeakText(false));
+    ctx.dispatch(BackendCommand::OpenModal(ModalKind::AiChat {
+        seed_kural: Some(1),
+    }));
+    ctx.dispatch(BackendCommand::AskAiQuestion {
+        query: "What is virtue?".to_string(),
+        seed_kural: Some(1),
+    });
+    tokio::time::sleep(Duration::from_millis(120)).await;
+    let mut audited = ctx.snapshot.peek().as_ref().clone();
+    audited.can_replay_tts = true;
+    audited.can_replay_voice_turn = true;
+    audited.recent_voice_turns = vec![VoiceTurnSummary {
+        id: 1,
+        user_text: "What is virtue?".to_string(),
+        ai_text: "Virtue keeps thought pure.".to_string(),
+        lang: Language::Tamil,
+        has_user_audio: true,
+        has_ai_audio: true,
+        cited_kurals: vec![1],
+    }];
+    ctx.snapshot.set(Arc::new(audited));
+    all_ok &= check_dom_state("Modal/AiChat/VoiceTurn", viewport, false).await;
+
+    ctx.dispatch(BackendCommand::OpenModal(ModalKind::Search {
+        initial_tab: SearchTab::Query,
+    }));
+    ctx.dispatch(BackendCommand::SubmitTextSearch {
+        query: "virtue".to_string(),
+        division_id: None,
+    });
+    all_ok &= check_dom_state("Modal/Search/Query", viewport, false).await;
+    ctx.dispatch(BackendCommand::CloseModal);
+    ctx.dispatch(BackendCommand::SetAutoSpeakText(true));
 
     all_ok
 }

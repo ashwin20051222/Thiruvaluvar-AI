@@ -20,7 +20,8 @@ CREATE TABLE IF NOT EXISTS preferences (
     default_age        TEXT NOT NULL CHECK (default_age IN ('kids', 'youth', 'adult')) DEFAULT 'youth',
     last_kural_kids    INTEGER NOT NULL CHECK (last_kural_kids BETWEEN 1 AND 1330) DEFAULT 1,
     last_kural_youth   INTEGER NOT NULL CHECK (last_kural_youth BETWEEN 1 AND 1330) DEFAULT 481,
-    last_kural_adult   INTEGER NOT NULL CHECK (last_kural_adult BETWEEN 1 AND 1330) DEFAULT 423
+    last_kural_adult   INTEGER NOT NULL CHECK (last_kural_adult BETWEEN 1 AND 1330) DEFAULT 423,
+    auto_speak_text    INTEGER NOT NULL CHECK (auto_speak_text IN (0, 1)) DEFAULT 1
 );
 
 CREATE TABLE IF NOT EXISTS kids_progress (
@@ -71,6 +72,20 @@ fn pct_to_speed(pct: i64) -> f32 {
     }
 }
 
+fn ensure_preferences_auto_speak_column(conn: &Connection) -> Result<(), DbError> {
+    let mut stmt = conn.prepare("PRAGMA table_info(preferences)")?;
+    let cols: Vec<String> = stmt
+        .query_map([], |row| row.get::<_, String>(1))?
+        .collect::<Result<Vec<_>, _>>()?;
+    if !cols.iter().any(|c| c == "auto_speak_text") {
+        conn.execute(
+            "ALTER TABLE preferences ADD COLUMN auto_speak_text INTEGER NOT NULL CHECK (auto_speak_text IN (0, 1)) DEFAULT 1",
+            [],
+        )?;
+    }
+    Ok(())
+}
+
 /// Persistent mutable SQLite store (`data/user_state.db`), isolated from read-only `thirukkural.db`.
 #[derive(Clone, Debug)]
 pub struct UserStateStore {
@@ -99,6 +114,7 @@ impl UserStateStore {
              PRAGMA foreign_keys = ON;",
         )?;
         conn.execute_batch(USER_STATE_SCHEMA_SQL)?;
+        ensure_preferences_auto_speak_column(&conn)?;
 
         let safe_vol = if seed_volume.is_finite() {
             seed_volume.clamp(0.0, 1.0)
@@ -131,7 +147,7 @@ impl UserStateStore {
         self.with_conn(|conn| {
             conn.query_row(
                 "SELECT lang, theme, speech_speed_pct, volume, muted, default_age,
-                        last_kural_kids, last_kural_youth, last_kural_adult
+                        last_kural_kids, last_kural_youth, last_kural_adult, auto_speak_text
                  FROM preferences WHERE id = 1",
                 [],
                 |r| {
@@ -141,6 +157,7 @@ impl UserStateStore {
                     let vol: f64 = r.get(3)?;
                     let muted_i: i64 = r.get(4)?;
                     let age_s: String = r.get(5)?;
+                    let auto_speak_i: i64 = r.get(9)?;
                     Ok(UserPrefs {
                         lang: lang_s.parse().unwrap_or(Language::Tamil),
                         theme: theme_s.parse().unwrap_or(Theme::Dark),
@@ -151,6 +168,7 @@ impl UserStateStore {
                         last_kural_kids: r.get(6)?,
                         last_kural_youth: r.get(7)?,
                         last_kural_adult: r.get(8)?,
+                        auto_speak_text: auto_speak_i != 0,
                     })
                 },
             )
@@ -179,6 +197,7 @@ impl UserStateStore {
         };
         let vol = f64::from(safe_vol);
         let muted_i: i64 = i64::from(prefs.muted);
+        let auto_speak_i: i64 = i64::from(prefs.auto_speak_text);
 
         self.with_conn(|conn| {
             conn.execute(
@@ -191,7 +210,8 @@ impl UserStateStore {
                     default_age = ?6,
                     last_kural_kids = ?7,
                     last_kural_youth = ?8,
-                    last_kural_adult = ?9
+                    last_kural_adult = ?9,
+                    auto_speak_text = ?10
                  WHERE id = 1",
                 params![
                     prefs.lang.as_str(),
@@ -203,6 +223,7 @@ impl UserStateStore {
                     prefs.last_kural_kids,
                     prefs.last_kural_youth,
                     prefs.last_kural_adult,
+                    auto_speak_i,
                 ],
             )?;
             Ok(())
@@ -488,11 +509,13 @@ mod tests {
         assert!((prefs.volume - 0.90).abs() < 1e-5);
         assert_eq!(prefs.lang, Language::Tamil);
         assert_eq!(prefs.speech_speed, 1.0);
+        assert!(prefs.auto_speak_text);
 
         prefs.lang = Language::English;
         prefs.theme = Theme::Light;
         prefs.speech_speed = 1.24; // snaps to 1.25
         prefs.last_kural_kids = 100;
+        prefs.auto_speak_text = false;
         store.save_prefs(&prefs).expect("save prefs");
 
         let reloaded = store.get_prefs().expect("reload prefs");
@@ -500,6 +523,7 @@ mod tests {
         assert_eq!(reloaded.theme, Theme::Light);
         assert_eq!(reloaded.speech_speed, 1.25);
         assert_eq!(reloaded.last_kural_kids, 100);
+        assert!(!reloaded.auto_speak_text);
 
         // Invalid range rejected cleanly
         let mut bad = reloaded.clone();
@@ -543,5 +567,36 @@ mod tests {
             .expect("clock skew safe");
         assert_eq!(y3.daily_streak, 2);
         assert_eq!(y3.quiz_xp, 40);
+    }
+
+    #[test]
+    fn legacy_user_state_db_migrates_auto_speak_text_without_data_loss() {
+        let dir = TempDir::new().expect("tempdir");
+        let db_path = dir.path().join("legacy.db");
+        {
+            let conn = Connection::open(&db_path).expect("open legacy");
+            conn.execute_batch(
+                "CREATE TABLE preferences (
+                    id INTEGER PRIMARY KEY CHECK (id = 1),
+                    lang TEXT NOT NULL DEFAULT 'tamil',
+                    theme TEXT NOT NULL DEFAULT 'dark',
+                    speech_speed_pct INTEGER NOT NULL DEFAULT 100,
+                    volume REAL NOT NULL DEFAULT 0.85,
+                    muted INTEGER NOT NULL DEFAULT 0,
+                    default_age TEXT NOT NULL DEFAULT 'youth',
+                    last_kural_kids INTEGER NOT NULL DEFAULT 1,
+                    last_kural_youth INTEGER NOT NULL DEFAULT 481,
+                    last_kural_adult INTEGER NOT NULL DEFAULT 423
+                );
+                INSERT INTO preferences (id, lang, last_kural_kids) VALUES (1, 'english', 77);",
+            )
+            .expect("seed legacy row");
+        }
+
+        let store = UserStateStore::open(&db_path, 0.85).expect("migrate legacy db");
+        let prefs = store.get_prefs().expect("read migrated prefs");
+        assert_eq!(prefs.lang, Language::English);
+        assert_eq!(prefs.last_kural_kids, 77);
+        assert!(prefs.auto_speak_text);
     }
 }

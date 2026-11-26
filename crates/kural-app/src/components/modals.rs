@@ -2,11 +2,13 @@
 //! Search (Query + 3-level Divisions drill-down), AiChat, KidsStory,
 //! KidsWordGame (`2×2` grid), YouthQuiz (`2×2` grid), and YouthDeepDive.
 
-use crate::components::icons::{MicIcon, SearchIcon, SpeakerIcon, StopSquareIcon};
+use crate::components::icons::{MicIcon, ReplayIcon, SearchIcon, SpeakerIcon, StopSquareIcon};
 use crate::copy::{mask_game_blank, paginate_sentences, tr};
 use crate::state::{AppContext, is_voice_active};
 use dioxus::prelude::*;
-use kural_core::{AudioState, BackendCommand, ModalKind, SearchTab, SpeakTarget};
+use kural_core::{
+    AudioState, BackendCommand, Language, ModalKind, SearchTab, SpeakTarget, VoiceReplayMode,
+};
 
 #[component]
 pub fn ModalHost() -> Element {
@@ -57,12 +59,15 @@ pub fn ModalHost() -> Element {
 }
 
 #[component]
-fn ModalHeader(title: String) -> Element {
+fn ModalHeader(title: String, #[props(default)] badge: Option<String>) -> Element {
     let ctx = use_context::<AppContext>();
     let lang = ctx.lang();
     rsx! {
         div { class: "modal-header",
             h2 { class: "truncate", style: "font-size:16px; font-weight:800;", "{title}" }
+            if let Some(b) = badge {
+                span { class: "active-replay-badge", "{b}" }
+            }
             button {
                 r#type: "button",
                 class: "modal-close-btn",
@@ -176,20 +181,47 @@ fn SearchModal(initial_tab: SearchTab) -> Element {
                                         {
                                             let num = hit.kural.number;
                                             let adh = tr(lang, &hit.kural.adhikaram_ta, &hit.kural.adhikaram_en);
-                                            rsx! {
-                                                button {
-                                                    key: "{num}",
-                                                    r#type: "button",
-                                                    class: "result-row-btn",
-                                                    onclick: move |_| {
-                                                        ctx.dispatch(BackendCommand::OpenKural(num));
-                                                        ctx.dispatch(BackendCommand::CloseModal);
-                                                    },
-                                                    span { class: "truncate",
-                                                        strong { "#{num} " }
-                                                        span { class: "font-kural", lang: "ta", "{hit.kural.line1_ta}" }
+                                            let speak_text = match lang {
+                                                Language::Tamil => format!("{} {}", hit.kural.line1_ta, hit.kural.line2_ta),
+                                                Language::English => {
+                                                    if hit.kural.translation_en.trim().is_empty() {
+                                                        format!("{} {}", hit.kural.line1_ta, hit.kural.line2_ta)
+                                                    } else {
+                                                        hit.kural.translation_en.clone()
                                                     }
-                                                    span { class: "tag-chip", style: "flex-shrink:0;", "{adh}" }
+                                                }
+                                            };
+                                            rsx! {
+                                                div {
+                                                    key: "{num}",
+                                                    class: "search-hit-row",
+                                                    button {
+                                                        r#type: "button",
+                                                        class: "result-row-btn",
+                                                        onclick: move |_| {
+                                                            ctx.dispatch(BackendCommand::OpenKural(num));
+                                                            ctx.dispatch(BackendCommand::CloseModal);
+                                                        },
+                                                        span { class: "truncate",
+                                                            strong { "#{num} " }
+                                                            span { class: "font-kural", lang: "ta", "{hit.kural.line1_ta}" }
+                                                        }
+                                                        span { class: "tag-chip", style: "flex-shrink:0;", "{adh}" }
+                                                    }
+                                                    button {
+                                                        r#type: "button",
+                                                        class: "search-listen-btn",
+                                                        title: tr(lang, "கேள்", "Listen"),
+                                                        aria_label: tr(lang, "குறளைக் கேள்", "Listen to Kural"),
+                                                        onclick: move |_| {
+                                                            ctx.dispatch(BackendCommand::SpeakCustomText {
+                                                                text: speak_text.clone(),
+                                                                lang,
+                                                                label: Some(format!("#{num}")),
+                                                            });
+                                                        },
+                                                        SpeakerIcon {}
+                                                    }
                                                 }
                                             }
                                         }
@@ -262,18 +294,45 @@ fn SearchModal(initial_tab: SearchTab) -> Element {
                                 for k in slice {
                                     {
                                         let num = k.number;
+                                        let speak_text = match lang {
+                                            Language::Tamil => format!("{} {}", k.line1_ta, k.line2_ta),
+                                            Language::English => {
+                                                if k.translation_en.trim().is_empty() {
+                                                    format!("{} {}", k.line1_ta, k.line2_ta)
+                                                } else {
+                                                    k.translation_en.clone()
+                                                }
+                                            }
+                                        };
                                         rsx! {
-                                            button {
+                                            div {
                                                 key: "{num}",
-                                                r#type: "button",
-                                                class: "result-row-btn",
-                                                onclick: move |_| {
-                                                    ctx.dispatch(BackendCommand::OpenKural(num));
-                                                    ctx.dispatch(BackendCommand::CloseModal);
-                                                },
-                                                span { class: "truncate",
-                                                    strong { "#{num} " }
-                                                    span { class: "font-kural", lang: "ta", "{k.line1_ta}" }
+                                                class: "search-hit-row",
+                                                button {
+                                                    r#type: "button",
+                                                    class: "result-row-btn",
+                                                    onclick: move |_| {
+                                                        ctx.dispatch(BackendCommand::OpenKural(num));
+                                                        ctx.dispatch(BackendCommand::CloseModal);
+                                                    },
+                                                    span { class: "truncate",
+                                                        strong { "#{num} " }
+                                                        span { class: "font-kural", lang: "ta", "{k.line1_ta}" }
+                                                    }
+                                                }
+                                                button {
+                                                    r#type: "button",
+                                                    class: "search-listen-btn",
+                                                    title: tr(lang, "கேள்", "Listen"),
+                                                    aria_label: tr(lang, "குறளைக் கேள்", "Listen to Kural"),
+                                                    onclick: move |_| {
+                                                        ctx.dispatch(BackendCommand::SpeakCustomText {
+                                                            text: speak_text.clone(),
+                                                            lang,
+                                                            label: Some(format!("#{num}")),
+                                                        });
+                                                    },
+                                                    SpeakerIcon {}
                                                 }
                                             }
                                         }
@@ -462,20 +521,45 @@ fn AiChatModal(seed_kural: Option<u16>) -> Element {
         ("வாழ்க்கை உதாரணம்", "Give a life example"),
         ("திருவள்ளுவர் யார்?", "Who is Thiruvalluvar?"),
     ];
+    let has_answer = answer.is_some();
+    let auto_speak_on = snap.auto_speak_text;
+    let voice_loop_on = snap.voice_to_voice_loop;
+    let latest_turn = snap.recent_voice_turns.last().cloned();
+    let show_replay_strip = snap.can_replay_voice_turn && latest_turn.is_some();
+    let auto_speak_full = if snap.auto_speak_text {
+        tr(lang, "🔊 தானியங்கி பதில்: ஆம்", "🔊 Auto-Speak: ON")
+    } else {
+        tr(lang, "🔇 தானியங்கி பதில்: இல்லை", "🔇 Auto-Speak: OFF")
+    };
+    let auto_speak_short = if snap.auto_speak_text {
+        tr(lang, "🔊 பதில் ஒலி: ஆம்", "🔊 Auto-TTS: ON")
+    } else {
+        tr(lang, "🔇 பதில் ஒலி: இல்", "🔇 Auto-TTS: OFF")
+    };
+    let loop_full = if snap.voice_to_voice_loop {
+        tr(lang, "🎙️ தொடர் குரல்: ஆம்", "🎙️ Auto-Voice: ON")
+    } else {
+        tr(lang, "🎙️ தொடர் குரல்: இல்", "🎙️ Auto-Voice: OFF")
+    };
+    let loop_short = if snap.voice_to_voice_loop {
+        tr(lang, "🎙️ தொடர்: ஆம்", "🎙️ Loop: ON")
+    } else {
+        tr(lang, "🎙️ தொடர்: இல்", "🎙️ Loop: OFF")
+    };
 
     rsx! {
         ModalHeader {
             title: match seed_kural {
                 Some(n) => format!("{} (#{n})", tr(lang, "வள்ளுவர் AI உரையாடல்", "Ask Valluvar AI")),
                 None => tr(lang, "வள்ளுவர் AI உரையாடல்", "Ask Valluvar AI").to_string(),
-            }
+            },
+            badge: snap.active_replay_label.clone(),
         }
-        div { class: "modal-body",
-            div { style: "display:flex; align-items:center; gap:8px; flex-shrink:0;",
+        div { class: if has_answer { "modal-body ai-modal-has-answer" } else { "modal-body" },
+            div { class: "ai-input-bar",
                 button {
                     r#type: "button",
-                    class: if voice_active { "icon-circle-btn action-pill-stop" } else { "icon-circle-btn action-pill-primary" },
-                    style: "width:48px; height:48px; flex-shrink:0;",
+                    class: if voice_active { "icon-circle-btn action-pill-stop ai-mic-btn" } else { "icon-circle-btn action-pill-primary ai-mic-btn" },
                     aria_label: tr(lang, "பேசி கேள்", "Ask by voice"),
                     onclick: move |_| {
                         if voice_active {
@@ -486,7 +570,7 @@ fn AiChatModal(seed_kural: Option<u16>) -> Element {
                     },
                     MicIcon { size: 22 }
                 }
-                div { class: "search-input-row", style: "flex:1;",
+                div { class: "search-input-row", style: "flex:1; min-width:0;",
                     input {
                         r#type: "text",
                         class: "text-input",
@@ -514,17 +598,37 @@ fn AiChatModal(seed_kural: Option<u16>) -> Element {
                 }
             }
 
-            // 3 quick prompt chips (>= 36px touch friendly)
-            div { style: "display:flex; gap:6px; flex-wrap:wrap; flex-shrink:0;",
+            // 3 quick prompt chips (>= 38px touch friendly; hidden on 480x320 once answered)
+            div { class: "ai-quick-chips",
                 for (ta, en) in chips {
                     button {
                         key: "{en}",
                         r#type: "button",
                         class: "tag-chip",
-                        style: "min-height:34px;",
+                        style: "min-height:38px;",
                         onclick: move |_| run_ai_question(ctx, ans_page, seed_kural, tr(lang, ta, en).to_string()),
                         "{tr(lang, ta, en)}"
                     }
+                }
+            }
+
+            // Auto-Speak Text & Hands-Free Voice-to-Voice Loop toggles
+            div { class: "voice-toggles-row",
+                button {
+                    r#type: "button",
+                    class: if auto_speak_on { "voice-toggle-btn active" } else { "voice-toggle-btn" },
+                    aria_pressed: auto_speak_on,
+                    onclick: move |_| ctx.dispatch(BackendCommand::SetAutoSpeakText(!auto_speak_on)),
+                    span { class: "desktop-only", "{auto_speak_full}" }
+                    span { class: "pi-only", "{auto_speak_short}" }
+                }
+                button {
+                    r#type: "button",
+                    class: if voice_loop_on { "voice-toggle-btn active" } else { "voice-toggle-btn" },
+                    aria_pressed: voice_loop_on,
+                    onclick: move |_| ctx.dispatch(BackendCommand::SetVoiceToVoiceLoop(!voice_loop_on)),
+                    span { class: "desktop-only", "{loop_full}" }
+                    span { class: "pi-only", "{loop_short}" }
                 }
             }
 
@@ -533,9 +637,11 @@ fn AiChatModal(seed_kural: Option<u16>) -> Element {
                     let body = tr(lang, &ans.answer_ta, &ans.answer_en);
                     let pages = paginate_sentences(body, 90);
                     let safe = (*ans_page.read()).min(pages.len().saturating_sub(1));
+                    let speak_body = body.trim().to_string();
+                    let speak_label = seed_kural.map(|n| format!("#{n}"));
                     rsx! {
                         div {
-                            class: if ans.out_of_scope { "royal-fallback-banner" } else { "royal-subcard" },
+                            class: if ans.out_of_scope { "royal-fallback-banner ai-answer-card" } else { "royal-subcard ai-answer-card" },
                             style: "flex:1; min-height:0; display:flex; flex-direction:column; justify-content:space-between; gap:6px;",
                             p { style: "font-size:14px; line-height:1.45;", "{pages[safe]}" }
                             div { style: "display:flex; align-items:center; justify-content:space-between; gap:6px; flex-wrap:wrap;",
@@ -586,6 +692,7 @@ fn AiChatModal(seed_kural: Option<u16>) -> Element {
                                             button {
                                                 r#type: "button",
                                                 class: "tag-chip",
+                                                style: "min-height:38px;",
                                                 onclick: move |_| ctx.dispatch(BackendCommand::StopAudio),
                                                 StopSquareIcon {}
                                                 span { " {tr(lang, \"நிறுத்து\", \"Stop\")}" }
@@ -594,12 +701,72 @@ fn AiChatModal(seed_kural: Option<u16>) -> Element {
                                             button {
                                                 r#type: "button",
                                                 class: "tag-chip active",
-                                                onclick: move |_| ctx.dispatch(BackendCommand::SpeakCurrent(SpeakTarget::AiAnswer)),
+                                                style: "min-height:38px;",
+                                                onclick: move |_| {
+                                                    ctx.dispatch(BackendCommand::SpeakCustomText {
+                                                        text: speak_body.clone(),
+                                                        lang,
+                                                        label: speak_label.clone(),
+                                                    });
+                                                },
                                                 SpeakerIcon {}
                                                 span { " {tr(lang, \"கேள்\", \"Hear\")}" }
                                             }
                                         }
                                     }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            if show_replay_strip {
+                if let Some(turn) = latest_turn {
+                    {
+                        let turn_id = turn.id;
+                        let has_user = turn.has_user_audio;
+                        let has_ai = turn.has_ai_audio;
+                        rsx! {
+                            div { class: "voice-replay-strip",
+                                button {
+                                    r#type: "button",
+                                    class: "voice-replay-btn",
+                                    disabled: !has_user,
+                                    aria_label: tr(lang, "என் குரலை மீண்டும் போடு", "Replay My Voice"),
+                                    onclick: move |_| ctx.dispatch(BackendCommand::ReplayVoiceTurn {
+                                        turn_id: Some(turn_id),
+                                        mode: VoiceReplayMode::UserVoiceOnly,
+                                    }),
+                                    ReplayIcon {}
+                                    span { class: "desktop-only", "{tr(lang, \"என் குரல்\", \"My Voice\")}" }
+                                    span { class: "pi-only", "{tr(lang, \"குரல்\", \"Mine\")}" }
+                                }
+                                button {
+                                    r#type: "button",
+                                    class: "voice-replay-btn",
+                                    disabled: !has_ai,
+                                    aria_label: tr(lang, "AI பதிலை மீண்டும் போடு", "Replay AI Reply"),
+                                    onclick: move |_| ctx.dispatch(BackendCommand::ReplayVoiceTurn {
+                                        turn_id: Some(turn_id),
+                                        mode: VoiceReplayMode::AiReplyOnly,
+                                    }),
+                                    SpeakerIcon {}
+                                    span { class: "desktop-only", "{tr(lang, \"AI பதில்\", \"AI Reply\")}" }
+                                    span { class: "pi-only", "{tr(lang, \"பதில்\", \"AI\")}" }
+                                }
+                                button {
+                                    r#type: "button",
+                                    class: "voice-replay-btn",
+                                    disabled: !(has_user && has_ai),
+                                    aria_label: tr(lang, "முழு உரையாடலை மீண்டும் போடு", "Replay Full Exchange"),
+                                    onclick: move |_| ctx.dispatch(BackendCommand::ReplayVoiceTurn {
+                                        turn_id: Some(turn_id),
+                                        mode: VoiceReplayMode::FullExchange,
+                                    }),
+                                    ReplayIcon {}
+                                    span { class: "desktop-only", "{tr(lang, \"முழு உரையாடல்\", \"Full Exchange\")}" }
+                                    span { class: "pi-only", "{tr(lang, \"முழுதும்\", \"Both\")}" }
                                 }
                             }
                         }

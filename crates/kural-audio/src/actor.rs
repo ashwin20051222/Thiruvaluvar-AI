@@ -1,4 +1,4 @@
-use crate::cache::TtsPcmCache;
+use crate::cache::{TtsPcmCache, VoiceTurnAudioStore};
 use crate::devices::{find_input_device, find_output_device};
 use crate::dsp::{AudioConditioner, Resampler16k, TARGET_SAMPLE_RATE_HZ, compute_rms};
 use crate::earcon::{EARCON_SAMPLE_RATE_HZ, EarconBank};
@@ -7,9 +7,10 @@ use crate::types::{AudioHealthStatus, CapturedAudio, EarconKind, PcmChunk, VadBa
 use crate::vad::{EnergyZcrVad, FRAME_SAMPLES_16K, FrameAction, UtteranceFramer};
 use cpal::traits::{DeviceTrait, StreamTrait};
 use cpal::{FromSample, SampleFormat, SizedSample, StreamConfig};
-use kural_core::{AudioConfig, AudioState, CaptureMode};
+use kural_core::{AudioConfig, AudioState, CaptureMode, VoiceReplayMode};
 use ringbuf::traits::{Consumer, Observer, Producer, Split};
 use ringbuf::{HeapCons, HeapProd, HeapRb};
+use rodio::Source;
 use std::num::NonZero;
 use std::sync::atomic::{AtomicBool, AtomicU64, Ordering};
 use std::sync::{Arc, Mutex};
@@ -393,6 +394,45 @@ enum ActorCommand {
     ReplayLast {
         reply: oneshot::Sender<Result<(), AudioError>>,
     },
+    RecordVoiceTurnUser {
+        turn_id: u64,
+        pcm_16k: Arc<[f32]>,
+        reply: oneshot::Sender<Result<(), AudioError>>,
+    },
+    AttachVoiceTurnAi {
+        turn_id: u64,
+        pcm_i16: Arc<[i16]>,
+        sample_rate: u32,
+        synth_speed: f32,
+        reply: oneshot::Sender<Result<(), AudioError>>,
+    },
+    CommitCompletedTts {
+        cache_key: u64,
+        pcm_i16: Arc<[i16]>,
+        sample_rate: u32,
+        synth_speed: f32,
+        reply: oneshot::Sender<Result<(), AudioError>>,
+    },
+    PlayCachedTtsByKey {
+        cache_key: u64,
+        speed: f32,
+        reply: oneshot::Sender<Result<bool, AudioError>>,
+    },
+    AttachCachedTtsToVoiceTurn {
+        turn_id: u64,
+        cache_key: u64,
+        reply: oneshot::Sender<Result<bool, AudioError>>,
+    },
+    PlayLastCompletedTts {
+        speed: f32,
+        reply: oneshot::Sender<Result<(), AudioError>>,
+    },
+    PlayVoiceTurn {
+        turn_id: Option<u64>,
+        mode: VoiceReplayMode,
+        speed: f32,
+        reply: oneshot::Sender<Result<(), AudioError>>,
+    },
     StopPlayback {
         reply: oneshot::Sender<Result<(), AudioError>>,
     },
@@ -555,6 +595,129 @@ impl AudioHandle {
         self.call(|reply| ActorCommand::ReplayLast { reply }).await
     }
 
+    /// Record a captured `16 kHz` user utterance into the RAM-bounded `VoiceTurnAudioStore`.
+    pub async fn record_voice_turn_user(
+        &self,
+        turn_id: u64,
+        pcm_16k: Arc<[f32]>,
+    ) -> Result<(), AudioError> {
+        self.call(|reply| ActorCommand::RecordVoiceTurnUser {
+            turn_id,
+            pcm_16k,
+            reply,
+        })
+        .await
+    }
+
+    /// Attach synthesized AI PCM to an already-recorded `turn_id` (`synth_speed = 1.0`).
+    pub async fn attach_voice_turn_ai(
+        &self,
+        turn_id: u64,
+        pcm_i16: Arc<[i16]>,
+        sample_rate: u32,
+    ) -> Result<(), AudioError> {
+        self.attach_voice_turn_ai_with_speed(turn_id, pcm_i16, sample_rate, 1.0)
+            .await
+    }
+
+    /// Attach synthesized AI PCM alongside its synthesis speed for natural pitch-accurate replay.
+    pub async fn attach_voice_turn_ai_with_speed(
+        &self,
+        turn_id: u64,
+        pcm_i16: Arc<[i16]>,
+        sample_rate: u32,
+        synth_speed: f32,
+    ) -> Result<(), AudioError> {
+        self.call(|reply| ActorCommand::AttachVoiceTurnAi {
+            turn_id,
+            pcm_i16,
+            sample_rate,
+            synth_speed,
+            reply,
+        })
+        .await
+    }
+
+    /// Commit completed TTS audio to `TtsPcmCache` under a deterministic numeric key.
+    pub async fn commit_completed_tts(
+        &self,
+        cache_key: u64,
+        pcm_i16: Arc<[i16]>,
+        sample_rate: u32,
+    ) -> Result<(), AudioError> {
+        self.commit_completed_tts_with_speed(cache_key, pcm_i16, sample_rate, 1.0)
+            .await
+    }
+
+    /// Commit completed TTS audio under a numeric key with its exact synthesis speed.
+    pub async fn commit_completed_tts_with_speed(
+        &self,
+        cache_key: u64,
+        pcm_i16: Arc<[i16]>,
+        sample_rate: u32,
+        synth_speed: f32,
+    ) -> Result<(), AudioError> {
+        self.call(|reply| ActorCommand::CommitCompletedTts {
+            cache_key,
+            pcm_i16,
+            sample_rate,
+            synth_speed,
+            reply,
+        })
+        .await
+    }
+
+    /// Play cached TTS audio by deterministic numeric key if present in RAM (`Ok(true)` hit, `Ok(false)` miss).
+    pub async fn play_cached_tts_by_key(
+        &self,
+        cache_key: u64,
+        speed: f32,
+    ) -> Result<bool, AudioError> {
+        self.call(|reply| ActorCommand::PlayCachedTtsByKey {
+            cache_key,
+            speed,
+            reply,
+        })
+        .await
+    }
+
+    /// Link a cached numeric `cache_key` TTS clip to `turn_id` in `VoiceTurnAudioStore` (`0 ms`).
+    pub async fn attach_cached_tts_to_voice_turn(
+        &self,
+        turn_id: u64,
+        cache_key: u64,
+    ) -> Result<bool, AudioError> {
+        self.call(|reply| ActorCommand::AttachCachedTtsToVoiceTurn {
+            turn_id,
+            cache_key,
+            reply,
+        })
+        .await
+    }
+
+    /// Replay the last completed TTS clip adjusted cleanly to `speed`.
+    pub async fn play_last_completed_tts(&self, speed: f32) -> Result<(), AudioError> {
+        self.call(|reply| ActorCommand::PlayLastCompletedTts { speed, reply })
+            .await
+    }
+
+    /// Replay a stored Voice-to-Voice turn (`UserVoiceOnly`, `AiReplyOnly`, or `FullExchange`) inside
+    /// a single uninterrupted Echo-Guard cycle.
+    pub async fn play_voice_turn(
+        &self,
+        turn_id: Option<u64>,
+        mode: VoiceReplayMode,
+        speed: f32,
+    ) -> Result<(), AudioError> {
+        self.call(|reply| ActorCommand::PlayVoiceTurn {
+            turn_id,
+            mode,
+            speed,
+            reply,
+        })
+        .await
+    }
+
     /// Immediately pause and clear playback (`< 20 ms`), aborting in-flight TTS without caching.
     ///
     /// No-op when `Idle`; cancels capture if `Listening` or `CapturingSpeech`.
@@ -688,6 +851,8 @@ struct SimulatedOutputState {
     paused: bool,
     cleared_count: usize,
     appended_samples: Vec<Vec<f32>>,
+    appended_rates: Vec<u32>,
+    appended_speeds: Vec<f32>,
     volume: f32,
     force_empty: bool,
 }
@@ -711,14 +876,18 @@ impl SimulatedOutputHandle {
         st.play_until.is_none_or(|until| now >= until)
     }
 
-    fn append(&self, samples: Vec<f32>, rate_hz: u32, now: Instant) {
+    fn append(&self, samples: Vec<f32>, rate_hz: u32, speed: f32, now: Instant) {
         let mut st = self.state.lock().expect("sim lock");
-        let dur = Duration::from_secs_f64(samples.len() as f64 / f64::from(rate_hz.max(1)));
+        let safe_spd = f64::from(sanitize_playback_speed(speed));
+        let dur =
+            Duration::from_secs_f64((samples.len() as f64 / f64::from(rate_hz.max(1))) / safe_spd);
         let base = st.play_until.filter(|&u| u > now).unwrap_or(now);
         st.play_until = Some(base + dur);
         st.paused = false;
         st.force_empty = false;
         st.appended_samples.push(samples);
+        st.appended_rates.push(rate_hz);
+        st.appended_speeds.push(speed);
     }
 
     fn stop_and_clear(&self) {
@@ -745,6 +914,16 @@ impl SimulatedOutputHandle {
     fn appended_count(&self) -> usize {
         self.state.lock().expect("sim lock").appended_samples.len()
     }
+
+    fn appended_meta(&self) -> Vec<(usize, u32, f32)> {
+        let st = self.state.lock().expect("sim lock");
+        st.appended_samples
+            .iter()
+            .zip(st.appended_rates.iter())
+            .zip(st.appended_speeds.iter())
+            .map(|((s, &r), &spd)| (s.len(), r, spd))
+            .collect()
+    }
 }
 
 enum OutputSink {
@@ -767,6 +946,16 @@ impl OutputSink {
         &mut self,
         samples: Vec<f32>,
         sample_rate_hz: u32,
+        now: Instant,
+    ) -> Result<(), AudioError> {
+        self.append_f32_with_speed(samples, sample_rate_hz, 1.0, now)
+    }
+
+    fn append_f32_with_speed(
+        &mut self,
+        samples: Vec<f32>,
+        sample_rate_hz: u32,
+        speed: f32,
         _now: Instant,
     ) -> Result<(), AudioError> {
         if samples.is_empty() {
@@ -777,19 +966,25 @@ impl OutputSink {
                 "output sample rate must be > 0 Hz".to_string(),
             ));
         };
+        let safe_speed = sanitize_playback_speed(speed);
         match self {
             Self::Unavailable => Err(AudioError::DeviceUnavailable(
                 "audio output device unavailable".to_string(),
             )),
             Self::Hardware { player, .. } => {
                 let ch = NonZero::new(1).expect("1 is non-zero");
-                player.append(rodio::buffer::SamplesBuffer::new(ch, sr, samples));
+                let buf = rodio::buffer::SamplesBuffer::new(ch, sr, samples);
+                if (safe_speed - 1.0).abs() > 0.01 {
+                    player.append(buf.speed(safe_speed));
+                } else {
+                    player.append(buf);
+                }
                 player.play();
                 Ok(())
             }
             #[cfg(test)]
             Self::Simulated(sim) => {
-                sim.append(samples, sample_rate_hz, _now);
+                sim.append(samples, sample_rate_hz, safe_speed, _now);
                 Ok(())
             }
         }
@@ -839,6 +1034,44 @@ impl OutputSink {
             Self::Simulated(sim) => sim.set_volume(effective_volume),
         }
     }
+
+    fn has_errored(&self) -> bool {
+        match self {
+            Self::Hardware { errored, .. } => errored.load(Ordering::Acquire),
+            Self::Unavailable => false,
+            #[cfg(test)]
+            Self::Simulated(_) => false,
+        }
+    }
+}
+
+enum PlaybackReply {
+    Unit(oneshot::Sender<Result<(), AudioError>>),
+    Hit(oneshot::Sender<Result<bool, AudioError>>),
+}
+
+impl PlaybackReply {
+    fn send_ok(self) {
+        match self {
+            Self::Unit(tx) => {
+                let _ = tx.send(Ok(()));
+            }
+            Self::Hit(tx) => {
+                let _ = tx.send(Ok(true));
+            }
+        }
+    }
+
+    fn send_err(self, err: AudioError) {
+        match self {
+            Self::Unit(tx) => {
+                let _ = tx.send(Err(err));
+            }
+            Self::Hit(tx) => {
+                let _ = tx.send(Err(err));
+            }
+        }
+    }
 }
 
 struct InputCaptureSlot {
@@ -866,7 +1099,7 @@ struct ActivePlaybackJob {
     sample_rate_hz: Option<u32>,
     cache_on_complete: bool,
     played_any_audio: bool,
-    reply: Option<oneshot::Sender<Result<(), AudioError>>>,
+    reply: Option<PlaybackReply>,
 }
 
 struct AudioActor {
@@ -878,6 +1111,7 @@ struct AudioActor {
     vad: Box<dyn VadBackend>,
     earcons: EarconBank,
     cache: TtsPcmCache,
+    voice_turns: VoiceTurnAudioStore,
     echo_guard: EchoGuardState,
     watchdog: WatchdogState,
     health: AudioHealthStatus,
@@ -973,6 +1207,7 @@ impl AudioActor {
             vad,
             earcons: EarconBank::new(),
             cache: TtsPcmCache::new(DEFAULT_TTS_CACHE_MAX_ENTRIES, max_cache_bytes),
+            voice_turns: VoiceTurnAudioStore::default(),
             watchdog: WatchdogState::new(watchdog_enabled),
             health,
             master_volume,
@@ -1040,7 +1275,84 @@ impl AudioActor {
                     self.handle_play_earcon(kind, reply, now);
                 }
                 ActorCommand::ReplayLast { reply } => {
-                    self.handle_replay_last(reply, now);
+                    self.handle_replay_last(1.0, true, reply, now);
+                }
+                ActorCommand::RecordVoiceTurnUser {
+                    turn_id,
+                    pcm_16k,
+                    reply,
+                } => {
+                    self.voice_turns.push_user_turn(turn_id, &pcm_16k);
+                    let _ = reply.send(Ok(()));
+                }
+                ActorCommand::AttachVoiceTurnAi {
+                    turn_id,
+                    pcm_i16,
+                    sample_rate,
+                    synth_speed,
+                    reply,
+                } => {
+                    self.voice_turns.attach_ai_audio_with_speed(
+                        turn_id,
+                        pcm_i16,
+                        sample_rate,
+                        synth_speed,
+                    );
+                    let _ = reply.send(Ok(()));
+                }
+                ActorCommand::CommitCompletedTts {
+                    cache_key,
+                    pcm_i16,
+                    sample_rate,
+                    synth_speed,
+                    reply,
+                } => {
+                    self.cache.insert_completed_u64(
+                        cache_key,
+                        pcm_i16.to_vec(),
+                        sample_rate,
+                        synth_speed,
+                    );
+                    let _ = reply.send(Ok(()));
+                }
+                ActorCommand::PlayCachedTtsByKey {
+                    cache_key,
+                    speed,
+                    reply,
+                } => {
+                    self.handle_play_cached_tts_by_key(cache_key, speed, reply, now);
+                }
+                ActorCommand::AttachCachedTtsToVoiceTurn {
+                    turn_id,
+                    cache_key,
+                    reply,
+                } => {
+                    let attached = if let Some((clip, synth_speed)) = self
+                        .cache
+                        .get_cached_u64(cache_key)
+                        .map(|(c, s)| (c.clone(), s))
+                    {
+                        self.voice_turns.attach_ai_audio_with_speed(
+                            turn_id,
+                            Arc::from(clip.samples),
+                            clip.sample_rate_hz,
+                            synth_speed,
+                        )
+                    } else {
+                        false
+                    };
+                    let _ = reply.send(Ok(attached));
+                }
+                ActorCommand::PlayLastCompletedTts { speed, reply } => {
+                    self.handle_replay_last(speed, false, reply, now);
+                }
+                ActorCommand::PlayVoiceTurn {
+                    turn_id,
+                    mode,
+                    speed,
+                    reply,
+                } => {
+                    self.handle_play_voice_turn(turn_id, mode, speed, reply, now);
                 }
                 ActorCommand::StopPlayback { reply } => {
                     self.handle_stop_playback(now);
@@ -1184,7 +1496,7 @@ impl AudioActor {
             sample_rate_hz: None,
             cache_on_complete: true,
             played_any_audio: false,
-            reply: Some(reply),
+            reply: Some(PlaybackReply::Unit(reply)),
         });
         self.drain_pcm_stream_chunks(now);
         self.publish_state();
@@ -1247,7 +1559,7 @@ impl AudioActor {
             sample_rate_hz: Some(play_rate),
             cache_on_complete,
             played_any_audio: true,
-            reply: Some(reply),
+            reply: Some(PlaybackReply::Unit(reply)),
         });
         self.publish_state();
     }
@@ -1280,19 +1592,29 @@ impl AudioActor {
             sample_rate_hz: Some(EARCON_SAMPLE_RATE_HZ),
             cache_on_complete: false,
             played_any_audio: true,
-            reply: Some(reply),
+            reply: Some(PlaybackReply::Unit(reply)),
         });
         self.publish_state();
     }
 
-    fn handle_replay_last(&mut self, reply: oneshot::Sender<Result<(), AudioError>>, now: Instant) {
+    fn handle_replay_last(
+        &mut self,
+        requested_speed: f32,
+        native_rate: bool,
+        reply: oneshot::Sender<Result<(), AudioError>>,
+        now: Instant,
+    ) {
         if !self.output.is_available() {
             let _ = reply.send(Err(AudioError::DeviceUnavailable(
                 "audio output device unavailable".to_string(),
             )));
             return;
         }
-        let Some(clip) = self.cache.last_completed().cloned() else {
+        let Some((clip, synth_speed)) = self
+            .cache
+            .last_completed_with_speed()
+            .map(|(c, s)| (c.clone(), s))
+        else {
             let _ = reply.send(Err(AudioError::StreamError(
                 "no completed audio clip available to replay".to_string(),
             )));
@@ -1303,11 +1625,80 @@ impl AudioActor {
             return;
         }
 
+        let play_speed = if native_rate {
+            1.0
+        } else {
+            relative_playback_speed(requested_speed, synth_speed)
+        };
+        self.start_buffer_playback(&clip.samples, clip.sample_rate_hz, play_speed, reply, now);
+    }
+
+    fn handle_play_cached_tts_by_key(
+        &mut self,
+        cache_key: u64,
+        requested_speed: f32,
+        reply: oneshot::Sender<Result<bool, AudioError>>,
+        now: Instant,
+    ) {
+        let Some((clip, synth_speed)) = self
+            .cache
+            .get_cached_u64(cache_key)
+            .map(|(c, s)| (c.clone(), s))
+        else {
+            let _ = reply.send(Ok(false));
+            return;
+        };
+        if !self.output.is_available() {
+            let _ = reply.send(Err(AudioError::DeviceUnavailable(
+                "audio output device unavailable".to_string(),
+            )));
+            return;
+        }
+        if clip.samples.is_empty() || clip.sample_rate_hz == 0 {
+            let _ = reply.send(Ok(false));
+            return;
+        }
+
+        self.cache.mark_last_completed(clip.clone(), synth_speed);
+        let play_speed = relative_playback_speed(requested_speed, synth_speed);
         self.prepare_for_new_playback();
         let f32_samples = i16_to_f32_vec(&clip.samples);
-        if let Err(err) = self
-            .output
-            .append_f32(f32_samples, clip.sample_rate_hz, now)
+        if let Err(err) =
+            self.output
+                .append_f32_with_speed(f32_samples, clip.sample_rate_hz, play_speed, now)
+        {
+            let _ = self.echo_guard.stop_playback(now);
+            let _ = reply.send(Err(err));
+            self.publish_state();
+            return;
+        }
+
+        self.active_playback = Some(ActivePlaybackJob {
+            pcm_rx: None,
+            stream_finished: true,
+            cache_key: None,
+            cache_accum: Vec::new(),
+            sample_rate_hz: Some(clip.sample_rate_hz),
+            cache_on_complete: false,
+            played_any_audio: true,
+            reply: Some(PlaybackReply::Hit(reply)),
+        });
+        self.publish_state();
+    }
+
+    fn start_buffer_playback(
+        &mut self,
+        samples: &[i16],
+        sample_rate_hz: u32,
+        playback_speed: f32,
+        reply: oneshot::Sender<Result<(), AudioError>>,
+        now: Instant,
+    ) {
+        self.prepare_for_new_playback();
+        let f32_samples = i16_to_f32_vec(samples);
+        if let Err(err) =
+            self.output
+                .append_f32_with_speed(f32_samples, sample_rate_hz, playback_speed, now)
         {
             let _ = self.echo_guard.stop_playback(now);
             let _ = reply.send(Err(err));
@@ -1319,10 +1710,106 @@ impl AudioActor {
             stream_finished: true,
             cache_key: None,
             cache_accum: Vec::new(),
-            sample_rate_hz: Some(clip.sample_rate_hz),
+            sample_rate_hz: Some(sample_rate_hz),
             cache_on_complete: false,
             played_any_audio: true,
-            reply: Some(reply),
+            reply: Some(PlaybackReply::Unit(reply)),
+        });
+        self.publish_state();
+    }
+
+    fn handle_play_voice_turn(
+        &mut self,
+        turn_id: Option<u64>,
+        mode: VoiceReplayMode,
+        requested_speed: f32,
+        reply: oneshot::Sender<Result<(), AudioError>>,
+        now: Instant,
+    ) {
+        if !self.output.is_available() {
+            let _ = reply.send(Err(AudioError::DeviceUnavailable(
+                "audio output device unavailable".to_string(),
+            )));
+            return;
+        }
+        let Some(turn) = self.voice_turns.get(turn_id).cloned() else {
+            let _ = reply.send(Err(AudioError::StreamError(
+                "no voice conversation turn available to replay".to_string(),
+            )));
+            return;
+        };
+
+        let mut segments: Vec<(Vec<f32>, u32, f32)> = Vec::new();
+        match mode {
+            VoiceReplayMode::UserVoiceOnly => {
+                if turn.user_pcm_16k.is_empty() {
+                    let _ = reply.send(Err(AudioError::StreamError(
+                        "user voice audio unavailable".to_string(),
+                    )));
+                    return;
+                }
+                segments.push((
+                    i16_to_f32_vec(&turn.user_pcm_16k),
+                    TARGET_SAMPLE_RATE_HZ,
+                    1.0,
+                ));
+            }
+            VoiceReplayMode::AiReplyOnly => {
+                let Some((ai_pcm, ai_rate)) = turn.ai_pcm else {
+                    let _ = reply.send(Err(AudioError::StreamError(
+                        "AI voice reply unavailable".to_string(),
+                    )));
+                    return;
+                };
+                let speed = relative_playback_speed(requested_speed, turn.ai_synth_speed);
+                segments.push((i16_to_f32_vec(&ai_pcm), ai_rate, speed));
+            }
+            VoiceReplayMode::FullExchange => {
+                if turn.user_pcm_16k.is_empty() {
+                    let _ = reply.send(Err(AudioError::StreamError(
+                        "user voice audio unavailable for exchange replay".to_string(),
+                    )));
+                    return;
+                }
+                let Some((ai_pcm, ai_rate)) = turn.ai_pcm else {
+                    let _ = reply.send(Err(AudioError::StreamError(
+                        "AI voice reply unavailable for exchange replay".to_string(),
+                    )));
+                    return;
+                };
+                segments.push((
+                    i16_to_f32_vec(&turn.user_pcm_16k),
+                    TARGET_SAMPLE_RATE_HZ,
+                    1.0,
+                ));
+                let gap_samples = (EARCON_SAMPLE_RATE_HZ as usize * 35) / 100;
+                let mut bridge = vec![0.0_f32; gap_samples];
+                bridge.extend_from_slice(self.earcons.samples_f32(EarconKind::CmdRecognized));
+                segments.push((bridge, EARCON_SAMPLE_RATE_HZ, 1.0));
+                let speed = relative_playback_speed(requested_speed, turn.ai_synth_speed);
+                segments.push((i16_to_f32_vec(&ai_pcm), ai_rate, speed));
+            }
+        }
+
+        self.prepare_for_new_playback();
+        for (samples, rate, speed) in segments {
+            if let Err(err) = self.output.append_f32_with_speed(samples, rate, speed, now) {
+                self.output.stop_and_clear();
+                let _ = self.echo_guard.stop_playback(now);
+                let _ = reply.send(Err(err));
+                self.publish_state();
+                return;
+            }
+        }
+        self.active_playback = Some(ActivePlaybackJob {
+            pcm_rx: None,
+            stream_finished: true,
+            cache_key: None,
+            cache_accum: Vec::new(),
+            sample_rate_hz: Some(TARGET_SAMPLE_RATE_HZ),
+            cache_on_complete: false,
+            played_any_audio: true,
+            reply: Some(PlaybackReply::Unit(reply)),
         });
         self.publish_state();
     }
@@ -1372,7 +1859,7 @@ impl AudioActor {
             job.pcm_rx = None;
             job.cache_accum.clear();
             if let Some(reply) = job.reply.take() {
-                let _ = reply.send(Err(AudioError::Cancelled));
+                reply.send_err(AudioError::Cancelled);
             }
         }
     }
@@ -1541,8 +2028,9 @@ impl AudioActor {
     fn poll_active_playback(&mut self, now: Instant) {
         self.drain_pcm_stream_chunks(now);
 
+        let sink_errored = self.output.has_errored();
         let done = match self.active_playback.as_ref() {
-            Some(job) => job.stream_finished && self.output.is_empty(now),
+            Some(job) => (job.stream_finished && self.output.is_empty(now)) || sink_errored,
             None => false,
         };
         if !done {
@@ -1552,6 +2040,18 @@ impl AudioActor {
         let Some(mut job) = self.active_playback.take() else {
             return;
         };
+        if sink_errored {
+            job.cache_accum.clear();
+            self.output.stop_and_clear();
+            let _ = self.echo_guard.stop_playback(now);
+            self.publish_state();
+            if let Some(reply) = job.reply.take() {
+                reply.send_err(AudioError::StreamError(
+                    "audio output stream errored during playback".to_string(),
+                ));
+            }
+            return;
+        }
         if job.cache_on_complete && !job.cache_accum.is_empty() {
             let rate = job.sample_rate_hz.unwrap_or(22_050);
             self.cache
@@ -1571,7 +2071,7 @@ impl AudioActor {
         self.publish_state();
 
         if let Some(reply) = job.reply.take() {
-            let _ = reply.send(Ok(()));
+            reply.send_ok();
         }
     }
 
@@ -1632,7 +2132,7 @@ impl AudioActor {
                 job.pcm_rx = None;
                 job.cache_accum.clear();
                 if let Some(reply) = job.reply.take() {
-                    let _ = reply.send(Err(err));
+                    reply.send_err(err);
                 }
             }
             let _ = self.echo_guard.stop_playback(now);
@@ -1720,6 +2220,20 @@ fn publish_rms_to(rms_tx: &watch::Sender<f32>, rms: f32) {
 
 fn i16_to_f32_vec(samples: &[i16]) -> Vec<f32> {
     samples.iter().map(|&s| f32::from(s) / 32768.0).collect()
+}
+
+fn sanitize_playback_speed(speed: f32) -> f32 {
+    if speed.is_finite() {
+        speed.clamp(0.5, 2.0)
+    } else {
+        1.0
+    }
+}
+
+fn relative_playback_speed(requested_speed: f32, synth_speed: f32) -> f32 {
+    let req = sanitize_playback_speed(requested_speed);
+    let base = sanitize_playback_speed(synth_speed);
+    (req / base).clamp(0.5, 2.0)
 }
 
 fn open_hardware_input(pattern: &str, origin: Instant) -> Result<InputCaptureSlot, AudioError> {
@@ -2370,6 +2884,94 @@ mod tests {
         };
         let handle = AudioHandle::spawn(&cfg, None, 1024 * 1024);
         let _ = handle.health();
+        handle.shutdown();
+    }
+
+    #[tokio::test]
+    async fn actor_voice_turn_replay_and_cached_key_preserve_echo_guard_and_speed() {
+        let cfg = AudioConfig {
+            echo_cooldown_ms: 40,
+            earcon_guard_ms: 20,
+            ..AudioConfig::default()
+        };
+        let sim_out = SimulatedOutputHandle::new();
+        let rb = HeapRb::<f32>::new(16_000);
+        let (_prod, cons) = rb.split();
+        let handle = AudioHandle::spawn_with_backend(
+            &cfg,
+            Some(Box::new(AlwaysSilenceVad)),
+            2 * 1024 * 1024,
+            BackendMode::Simulated {
+                input_cons: Some(cons),
+                input_rate_hz: 16_000,
+                input_channels: 1,
+                output: Some(sim_out.clone()),
+            },
+        );
+        let state_rx = handle.subscribe_state();
+
+        // Commit numeric cache key and verify hit + miss + speed
+        assert!(!handle.play_cached_tts_by_key(999, 1.0).await.unwrap());
+        let ai_clip: Arc<[i16]> = Arc::from(vec![2000_i16; 2205]); // 100 ms @ 22.05kHz
+        handle
+            .commit_completed_tts_with_speed(777, ai_clip.clone(), 22_050, 1.0)
+            .await
+            .unwrap();
+        assert!(handle.play_cached_tts_by_key(777, 1.25).await.unwrap());
+        tokio::time::sleep(Duration::from_millis(70)).await;
+        assert_eq!(*state_rx.borrow(), AudioState::Idle);
+        assert_eq!(sim_out.appended_meta()[0], (2205, 22_050, 1.25));
+
+        // Record Voice-to-Voice turn -> UserVoiceOnly -> AiReplyOnly -> FullExchange -> abort
+        let user_f32: Arc<[f32]> = Arc::from(vec![0.2_f32; 1600]); // 100 ms @ 16kHz
+        handle.record_voice_turn_user(1, user_f32).await.unwrap();
+        handle
+            .attach_voice_turn_ai_with_speed(1, ai_clip, 22_050, 1.0)
+            .await
+            .unwrap();
+
+        handle
+            .play_voice_turn(Some(1), VoiceReplayMode::UserVoiceOnly, 1.25)
+            .await
+            .unwrap();
+        tokio::time::sleep(Duration::from_millis(60)).await;
+        assert_eq!(sim_out.appended_meta()[1], (1600, 16_000, 1.0));
+
+        handle
+            .play_voice_turn(Some(1), VoiceReplayMode::AiReplyOnly, 0.75)
+            .await
+            .unwrap();
+        tokio::time::sleep(Duration::from_millis(60)).await;
+        assert_eq!(sim_out.appended_meta()[2], (2205, 22_050, 0.75));
+
+        // FullExchange queues 3 segments (user @ 16k 1.0x, 350ms gap + earcon @ 22.05k 1.0x, AI @ 22.05k 1.25x)
+        let full_task = tokio::spawn({
+            let h = handle.clone();
+            async move {
+                h.play_voice_turn(None, VoiceReplayMode::FullExchange, 1.25)
+                    .await
+            }
+        });
+        for _ in 0..20 {
+            if *state_rx.borrow() == AudioState::PlayingTts {
+                break;
+            }
+            tokio::time::sleep(Duration::from_millis(5)).await;
+        }
+        assert_eq!(*state_rx.borrow(), AudioState::PlayingTts);
+        let meta = sim_out.appended_meta();
+        assert_eq!(meta.len(), 6);
+        assert_eq!(meta[3], (1600, 16_000, 1.0));
+        assert_eq!(meta[4].1, 22_050);
+        assert_eq!(meta[4].2, 1.0);
+        assert_eq!(meta[5], (2205, 22_050, 1.25));
+
+        // Mid-exchange stop must cancel cleanly in < 20 ms
+        let t_abort = Instant::now();
+        handle.stop_playback().await.unwrap();
+        assert!(t_abort.elapsed() < Duration::from_millis(20));
+        assert_eq!(full_task.await.unwrap(), Err(AudioError::Cancelled));
+
         handle.shutdown();
     }
 }

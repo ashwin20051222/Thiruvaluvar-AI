@@ -5,7 +5,7 @@ use crate::parser::{
 use kural_core::{
     AgeGroup, AppScreen, BackendCommand, BilingualCopy, CompactTabHint, Language, ModalKind,
     Scholar, SearchTab, SpeakTarget, Theme, VOICE_ADHIKARAM_RANGE_ERROR, VOICE_KURAL_RANGE_ERROR,
-    format_voice_toast, normalize_nfc_trimmed, step_speech_speed,
+    VoiceReplayMode, format_voice_toast, normalize_nfc_trimmed, step_speech_speed,
 };
 
 /// Active UI and audio state passed into [`route_transcript`] for context-aware routing.
@@ -56,7 +56,9 @@ enum StaticAction {
     FilterDivision(u8),
     ClearFilter,
     StopAudio,
-    ReplayAudio,
+    ReplayLastTts,
+    ReplayVoiceTurn(VoiceReplayMode),
+    SetVoiceToVoiceLoop(bool),
     SpeakDefault,
     SpeakTarget {
         target: SpeakTarget,
@@ -100,7 +102,14 @@ impl StaticAction {
             Self::FilterDivision(div) => (BackendCommand::FilterByDivision(Some(div)), None),
             Self::ClearFilter => (BackendCommand::ClearFilter, None),
             Self::StopAudio => (BackendCommand::StopAudio, None),
-            Self::ReplayAudio => (BackendCommand::ReplayAudio, None),
+            Self::ReplayLastTts => (BackendCommand::ReplayLastTts, None),
+            Self::ReplayVoiceTurn(mode) => (
+                BackendCommand::ReplayVoiceTurn { turn_id: None, mode },
+                None,
+            ),
+            Self::SetVoiceToVoiceLoop(enabled) => {
+                (BackendCommand::SetVoiceToVoiceLoop(enabled), None)
+            }
             Self::SpeakDefault => (
                 BackendCommand::SpeakCurrent(screen_default_target(ctx.screen, ctx.active_scholar)),
                 None,
@@ -297,6 +306,14 @@ const COMMAND_TABLE: &[(&str, StaticAction)] = &[
     ("வடிகட்டி நீக்கு", StaticAction::ClearFilter),
     ("அனைத்து குறள்கள்", StaticAction::ClearFilter),
     // Audio Playback & Speed & Volume
+    ("stop voice chat", StaticAction::SetVoiceToVoiceLoop(false)),
+    ("exit voice chat", StaticAction::SetVoiceToVoiceLoop(false)),
+    ("தொடர் குரல் நிறுத்து", StaticAction::SetVoiceToVoiceLoop(false)),
+    ("start voice chat", StaticAction::SetVoiceToVoiceLoop(true)),
+    ("voice to voice", StaticAction::SetVoiceToVoiceLoop(true)),
+    ("hands free mode", StaticAction::SetVoiceToVoiceLoop(true)),
+    ("auto listen", StaticAction::SetVoiceToVoiceLoop(true)),
+    ("தொடர் குரல் உரையாடல்", StaticAction::SetVoiceToVoiceLoop(true)),
     ("stop", StaticAction::StopAudio),
     ("quiet", StaticAction::StopAudio),
     ("silence", StaticAction::StopAudio),
@@ -305,13 +322,67 @@ const COMMAND_TABLE: &[(&str, StaticAction)] = &[
     ("நிறுத்து", StaticAction::StopAudio),
     ("போதும்", StaticAction::StopAudio),
     ("அமைதி", StaticAction::StopAudio),
-    ("replay", StaticAction::ReplayAudio),
-    ("repeat", StaticAction::ReplayAudio),
-    ("say again", StaticAction::ReplayAudio),
-    ("play again", StaticAction::ReplayAudio),
-    ("மீண்டும் வாசி", StaticAction::ReplayAudio),
-    ("மீண்டும் படி", StaticAction::ReplayAudio),
-    ("மீண்டும்", StaticAction::ReplayAudio),
+    (
+        "replay conversation",
+        StaticAction::ReplayVoiceTurn(VoiceReplayMode::FullExchange),
+    ),
+    (
+        "replay both",
+        StaticAction::ReplayVoiceTurn(VoiceReplayMode::FullExchange),
+    ),
+    (
+        "voice to voice replay",
+        StaticAction::ReplayVoiceTurn(VoiceReplayMode::FullExchange),
+    ),
+    (
+        "replay exchange",
+        StaticAction::ReplayVoiceTurn(VoiceReplayMode::FullExchange),
+    ),
+    (
+        "முழு உரையாடலையும் போடு",
+        StaticAction::ReplayVoiceTurn(VoiceReplayMode::FullExchange),
+    ),
+    (
+        "கேள்வி பதில் மீண்டும் போடு",
+        StaticAction::ReplayVoiceTurn(VoiceReplayMode::FullExchange),
+    ),
+    (
+        "replay my voice",
+        StaticAction::ReplayVoiceTurn(VoiceReplayMode::UserVoiceOnly),
+    ),
+    (
+        "play my voice",
+        StaticAction::ReplayVoiceTurn(VoiceReplayMode::UserVoiceOnly),
+    ),
+    (
+        "play my question",
+        StaticAction::ReplayVoiceTurn(VoiceReplayMode::UserVoiceOnly),
+    ),
+    (
+        "what did i say",
+        StaticAction::ReplayVoiceTurn(VoiceReplayMode::UserVoiceOnly),
+    ),
+    (
+        "என் குரலைப் போடு",
+        StaticAction::ReplayVoiceTurn(VoiceReplayMode::UserVoiceOnly),
+    ),
+    (
+        "நான் கேட்டதைப் போடு",
+        StaticAction::ReplayVoiceTurn(VoiceReplayMode::UserVoiceOnly),
+    ),
+    ("replay", StaticAction::ReplayLastTts),
+    ("repeat", StaticAction::ReplayLastTts),
+    ("say again", StaticAction::ReplayLastTts),
+    ("say that again", StaticAction::ReplayLastTts),
+    ("play again", StaticAction::ReplayLastTts),
+    ("read again", StaticAction::ReplayLastTts),
+    ("speak again", StaticAction::ReplayLastTts),
+    ("மீண்டும் வாசி", StaticAction::ReplayLastTts),
+    ("மீண்டும் படி", StaticAction::ReplayLastTts),
+    ("மீண்டும் சொல்", StaticAction::ReplayLastTts),
+    ("திரும்பப் படி", StaticAction::ReplayLastTts),
+    ("இன்னொரு முறை சொல்", StaticAction::ReplayLastTts),
+    ("மீண்டும்", StaticAction::ReplayLastTts),
     ("read", StaticAction::SpeakDefault),
     ("speak", StaticAction::SpeakDefault),
     ("listen", StaticAction::SpeakDefault),
@@ -708,15 +779,11 @@ pub fn route_transcript(raw: &str, _lang: Language, ctx: RouterContext) -> Voice
         };
     }
 
-    // 2. Guard against hijacking multi-word questions or math expressions into commands.
-    if is_likely_question(&nfc_trimmed) {
-        return fallback(nfc_trimmed);
-    }
-
     let norm = normalize_for_matching(&nfc_trimmed);
     let stripped = strip_polite_wrappers(&norm);
 
-    // 3. Exact command match (prioritizes phrases like "division 1", "read kural", "english commentary").
+    // 2. Exact command match first so conversational voice phrases like "what did i say"
+    // resolve deterministically instead of being swallowed by question heuristics.
     if let Some(action) = find_exact_command(&norm).or_else(|| find_exact_command(stripped)) {
         let (cmd, compact_tab) = action.resolve(ctx);
         return VoiceRouteOutcome {
@@ -725,6 +792,11 @@ pub fn route_transcript(raw: &str, _lang: Language, ctx: RouterContext) -> Voice
             toast_ta,
             toast_en,
         };
+    }
+
+    // 3. Guard against hijacking multi-word questions or math expressions into fuzzy/number commands.
+    if is_likely_question(&nfc_trimmed) {
+        return fallback(nfc_trimmed);
     }
 
     // 4. Deterministic Kural (1..=1330) and Adhikaram (1..=133) number navigation.
@@ -949,11 +1021,11 @@ mod tests {
         );
         assert_eq!(
             route_transcript("replay", Language::English, ctx).cmd,
-            BackendCommand::ReplayAudio
+            BackendCommand::ReplayLastTts
         );
         assert_eq!(
             route_transcript("மீண்டும் வாசி", Language::Tamil, ctx).cmd,
-            BackendCommand::ReplayAudio
+            BackendCommand::ReplayLastTts
         );
         assert_eq!(
             route_transcript("read", Language::English, ctx).cmd,
@@ -1386,5 +1458,96 @@ mod tests {
             per_call.as_micros() < 1000,
             "voice routing exceeded 1 ms budget: {per_call:?}"
         );
+    }
+
+    #[test]
+    fn voice_replay_and_loop_intents_route_cleanly_bilingual() {
+        let ctx = default_ctx();
+
+        for phrase in [
+            "replay",
+            "repeat",
+            "say again",
+            "say that again",
+            "play again",
+            "read again",
+            "speak again",
+            "மீண்டும் வாசி",
+            "மீண்டும் படி",
+            "மீண்டும் சொல்",
+            "திரும்பப் படி",
+            "இன்னொரு முறை சொல்",
+        ] {
+            assert_eq!(
+                route_transcript(phrase, Language::Tamil, ctx).cmd,
+                BackendCommand::ReplayLastTts,
+                "phrase={phrase}"
+            );
+        }
+
+        for phrase in [
+            "replay my voice",
+            "please replay my voice",
+            "play my voice",
+            "play my question",
+            "what did i say",
+            "என் குரலைப் போடு",
+            "நான் கேட்டதைப் போடு",
+        ] {
+            assert_eq!(
+                route_transcript(phrase, Language::English, ctx).cmd,
+                BackendCommand::ReplayVoiceTurn {
+                    turn_id: None,
+                    mode: VoiceReplayMode::UserVoiceOnly,
+                },
+                "phrase={phrase}"
+            );
+        }
+
+        for phrase in [
+            "replay conversation",
+            "replay both",
+            "voice to voice replay",
+            "replay exchange",
+            "முழு உரையாடலையும் போடு",
+            "கேள்வி பதில் மீண்டும் போடு",
+        ] {
+            assert_eq!(
+                route_transcript(phrase, Language::Tamil, ctx).cmd,
+                BackendCommand::ReplayVoiceTurn {
+                    turn_id: None,
+                    mode: VoiceReplayMode::FullExchange,
+                },
+                "phrase={phrase}"
+            );
+        }
+
+        for phrase in [
+            "start voice chat",
+            "voice to voice",
+            "hands free mode",
+            "auto listen",
+            "தொடர் குரல் உரையாடல்",
+        ] {
+            assert_eq!(
+                route_transcript(phrase, Language::English, ctx).cmd,
+                BackendCommand::SetVoiceToVoiceLoop(true),
+                "phrase={phrase}"
+            );
+        }
+
+        for phrase in ["stop voice chat", "exit voice chat", "தொடர் குரல் நிறுத்து"] {
+            assert_eq!(
+                route_transcript(phrase, Language::English, ctx).cmd,
+                BackendCommand::SetVoiceToVoiceLoop(false),
+                "phrase={phrase}"
+            );
+        }
+
+        // Question fallback remains intact for actual AI queries.
+        assert!(matches!(
+            route_transcript("What is wealth in Kural?", Language::English, ctx).cmd,
+            BackendCommand::AskAiQuestion { .. }
+        ));
     }
 }
