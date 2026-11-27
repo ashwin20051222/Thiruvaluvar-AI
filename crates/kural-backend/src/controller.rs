@@ -194,6 +194,7 @@ struct BackendHandleInner {
     initial_events_rx: Mutex<Option<mpsc::Receiver<UiTransientEvent>>>,
     catalog: CorpusCatalog,
     audio: AudioHandle,
+    gpio_button: Mutex<Option<crate::gpio_button::GpioButtonListener>>,
     runtime: Mutex<Option<Runtime>>,
     loop_done_rx: Mutex<Option<std::sync::mpsc::Receiver<()>>>,
 }
@@ -335,6 +336,8 @@ impl BackendHandle {
             let _ = boot_audio.set_muted(boot_muted).await;
         });
 
+        let gpio_enabled = config.audio.gpio_button_enabled;
+        let gpio_pin = config.audio.gpio_button_pin;
         let (loop_done_tx, loop_done_rx) = std::sync::mpsc::sync_channel::<()>(1);
         let controller = BackendController::new(
             config,
@@ -357,6 +360,21 @@ impl BackendHandle {
             let _ = loop_done_tx.send(());
         });
 
+        let btn_cmd_tx = cmd_tx.clone();
+        let btn_state_rx = audio.subscribe_state();
+        let gpio_button = crate::gpio_button::spawn_listener(
+            gpio_enabled,
+            gpio_pin,
+            move |cmd| {
+                if let Err(mpsc::error::TrySendError::Full(msg)) =
+                    btn_cmd_tx.try_send(ControllerMsg::Command(cmd))
+                {
+                    let _ = btn_cmd_tx.blocking_send(msg);
+                }
+            },
+            move || *btn_state_rx.borrow(),
+        );
+
         Ok(Self {
             inner: Arc::new(BackendHandleInner {
                 cmd_tx,
@@ -365,6 +383,7 @@ impl BackendHandle {
                 initial_events_rx: Mutex::new(Some(event_rx)),
                 catalog,
                 audio,
+                gpio_button: Mutex::new(gpio_button),
                 runtime: Mutex::new(Some(rt)),
                 loop_done_rx: Mutex::new(Some(loop_done_rx)),
             }),
@@ -458,6 +477,11 @@ impl BackendHandle {
     }
 
     fn shutdown_inner(inner: &BackendHandleInner) {
+        if let Ok(mut btn_guard) = inner.gpio_button.lock()
+            && let Some(mut listener) = btn_guard.take()
+        {
+            listener.stop();
+        }
         let (tx, rx) = std::sync::mpsc::sync_channel(1);
         if inner.cmd_tx.try_send(ControllerMsg::Shutdown(tx)).is_ok() {
             let _ = rx.recv_timeout(Duration::from_secs(10));

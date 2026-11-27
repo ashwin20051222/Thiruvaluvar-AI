@@ -5,6 +5,7 @@
 mod ai_worker;
 mod controller;
 mod error;
+mod gpio_button;
 mod speech_text;
 
 pub use controller::BackendHandle;

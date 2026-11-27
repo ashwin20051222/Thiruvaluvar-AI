@@ -15,6 +15,8 @@ age_sample_duration_ms = 3200
 vad_threshold = 0.42
 aec_enabled = false
 mic_to_listen_guard_ms = 400
+gpio_button_enabled = true
+gpio_button_pin = 17
 
 [age_ai]
 min_voiced_ms = 1200

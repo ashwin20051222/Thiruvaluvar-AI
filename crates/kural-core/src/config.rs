@@ -425,6 +425,14 @@ pub struct AudioConfig {
     pub aec_enabled: bool,
     pub mic_to_listen_guard_ms: u64,
     pub voice_loop_max_silence_timeouts: u8,
+    /// Enable the optional Raspberry Pi hardware push button that starts microphone capture.
+    ///
+    /// Safe to leave `true` everywhere: it silently no-ops on machines without a Raspberry Pi
+    /// GPIO header chip, or when `/dev/gpiochip*` is not accessible.
+    pub gpio_button_enabled: bool,
+    /// BCM GPIO number of the push button (default `17` = physical Pin 11), wired active-low
+    /// between this GPIO and GND (Pin 6) with the Pi's internal pull-up enabled.
+    pub gpio_button_pin: u16,
 }
 
 impl Default for AudioConfig {
@@ -442,6 +450,8 @@ impl Default for AudioConfig {
             aec_enabled: false,
             mic_to_listen_guard_ms: 400,
             voice_loop_max_silence_timeouts: 2,
+            gpio_button_enabled: true,
+            gpio_button_pin: 17,
         }
     }
 }
@@ -535,6 +545,26 @@ mod tests {
         assert!(cfg.validate().is_ok());
         assert_eq!(cfg.ai.tts_cache_max_bytes, 16_777_216);
         assert_eq!(cfg.audio.earcon_guard_ms, 220);
+    }
+
+    #[test]
+    fn gpio_button_defaults_and_overrides_keep_existing_configs_working() {
+        let defaults = AudioConfig::default();
+        assert!(defaults.gpio_button_enabled);
+        assert_eq!(defaults.gpio_button_pin, 17);
+
+        // A pre-existing `[audio]` section without any gpio keys still parses with defaults.
+        let legacy: AppConfig = toml::from_str("[audio]\nmaster_volume = 0.5\n").expect("legacy");
+        assert!(legacy.audio.gpio_button_enabled);
+        assert_eq!(legacy.audio.gpio_button_pin, 17);
+        assert!(legacy.validate().is_ok());
+
+        let custom: AppConfig =
+            toml::from_str("[audio]\ngpio_button_enabled = false\ngpio_button_pin = 27\n")
+                .expect("custom");
+        assert!(!custom.audio.gpio_button_enabled);
+        assert_eq!(custom.audio.gpio_button_pin, 27);
+        assert!(custom.validate().is_ok());
     }
 
     #[test]

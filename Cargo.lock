@@ -2307,6 +2307,28 @@ dependencies = [
 ]
 
 [[package]]
+name = "gpiocdev"
+version = "0.8.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "4a6009ef6766dd62a7f5933d379d357ae89eaee4e9c2455b6596f359627660a1"
+dependencies = [
+ "gpiocdev-uapi",
+ "thiserror 2.0.21",
+]
+
+[[package]]
+name = "gpiocdev-uapi"
+version = "0.7.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "cb1a3ace06ef708255a33e738ec7a5e7718fe8e53bd9a39299b4f1cd4b13e9a3"
+dependencies = [
+ "bitflags 2.13.2",
+ "ioctl-sys",
+ "libc",
+ "thiserror 2.0.21",
+]
+
+[[package]]
 name = "gtk"
 version = "0.18.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -2760,6 +2782,12 @@ dependencies = [
 ]
 
 [[package]]
+name = "ioctl-sys"
+version = "0.8.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "8bd11f3a29434026f5ff98c730b668ba74b1033637b8817940b54d040696133c"
+
+[[package]]
 name = "ipnet"
 version = "2.12.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -2996,6 +3024,7 @@ name = "kural-backend"
 version = "0.1.0"
 dependencies = [
  "chrono",
+ "gpiocdev",
  "kural-ai",
  "kural-audio",
  "kural-core",
@@ -3657,7 +3686,7 @@ version = "0.50.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "7957b9740744892f114936ab4a57b3f487491bbeafaf8083688b16841a4240e5"
 dependencies = [
- "windows-sys 0.59.0",
+ "windows-sys 0.61.2",
 ]
 
 [[package]]

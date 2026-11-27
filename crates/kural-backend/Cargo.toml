@@ -18,6 +18,10 @@ tokio-util.workspace = true
 tracing.workspace = true
 tracing-subscriber.workspace = true
 
+
+[target.'cfg(target_os = "linux")'.dependencies]
+gpiocdev.workspace = true
+
 [dev-dependencies]
 kural-db = { path = "../kural-db", default-features = false, features = ["test-fallback"] }
 tempfile.workspace = true
